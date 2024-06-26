@@ -1,6 +1,6 @@
-# TechiDaily
+# Windows11 Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://windows11.techidaily.com](https://windows11.techidaily.com)
 
 ## Publish
 
