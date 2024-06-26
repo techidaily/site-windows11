@@ -1,7 +1,7 @@
 ---
 title: "Strategies: Making Excel Viewable in Notepad"
-date: 2024-06-24 23:24:36
-updated: 2024-06-25 10:33:49
+date: 2024-06-25T12:14:15.007Z
+updated: 2024-06-26T12:14:15.007Z
 tags:
   - windows10
   - windows11
@@ -95,3 +95,30 @@ thumbnail: https://thmb.techidaily.com/672b93a029ff6e4433ec19a377fab4ffa2a67286a
  To avoid such issues in the future, make sure to always save your files with the correct file extension and keep your Microsoft Office suite updated.
 
  One such problem that Windows users have been reporting is related to Excel files opening in the Notepad utility. This happens when Windows associates the .xlsx or .xls file extension with Notepad instead of Excel. Below, we have listed the different fixes you can try to fix this problem for good.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/redoing-power-schemes-with-lost-settings-win-11/"><u>Redoing Power Schemes with Lost Settings (Win 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-windows-security-incorporating-firewalls-into-context-menu/"><u>Enhance Your Windows Security: Incorporating Firewalls Into Context Menu</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-offline-setting-up-on-disconnected-pcs/"><u>Win11 Offline: Setting Up on Disconnected PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaim-your-desktop-win-11-icon-recovery-tips/"><u>Reclaim Your Desktop: Win 11 Icon Recovery Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-visual-comfort-notebook-themes-and-fonts-in-windows-11/"><u>Tailoring Visual Comfort: Notebook Themes and Fonts in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-new-horizinas-with-ease-top-8-windows-11-avoidances/"><u>Navigating New Horizinas with Ease: Top 8 Windows 11 Avoidances</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-your-desktop-space-win-os-snap-configurations/"><u>Personalize Your Desktop Space: Win OS Snap Configurations</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/in-2024-mpeg-video-splitter-reviews-5-best-free-tools/"><u>In 2024, MPEG Video Splitter Reviews 5 Best Free Tools</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-behind-the-scenes-mastering-4-techniques-of-xbox-capture/"><u>[Updated] Behind the Scenes  Mastering 4 Techniques of Xbox Capture</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-oneplus-nord-n30-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide OnePlus Nord N30 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-bitevideo-innovator/"><u>[New] 2024 Approved  BiteVideo Innovator</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gamers-guide-to-video-recording-for-2024/"><u>[Updated] Gamer's Guide to Video Recording for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-compreenasian-guide-to-beautiful-collage-making/"><u>In 2024, Compreenasian Guide to Beautiful Collage Making</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/fundamentals-setting-up-messenger-rooms-for-2024/"><u>Fundamentals  Setting Up Messenger Rooms for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

@@ -1,7 +1,7 @@
 ---
 title: Navigate to User Management Settings in Windows 11 & 10
-date: 2024-06-24 18:12:45
-updated: 2024-06-25 10:13:15
+date: 2024-06-25T11:59:31.978Z
+updated: 2024-06-26T11:59:31.978Z
 tags:
   - windows10
   - windows11
@@ -107,3 +107,33 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 ![Command Prompt screen with the net localgroup command displayed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/command-prompt-screen-with-the-net-localgroup-command-displayed.jpg)
 
  The Local Users and Groups Management console is a handy utility for system administrators to manage local computers and connect remotely to compatible systems. However, if you are running Windows 11 Home and need to use the lusrmgr.msc tool, your only option is to use the third-party application from GitHub.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/solutions-to-revive-slow-running-asana-on-windows/"><u>Solutions to Revive Slow-Running Asana on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-reclaiming-standard-windows-11-search-preferences/"><u>Step-by-Step: Reclaiming Standard Windows 11 Search Preferences</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-code-0x0001-failures-for-nvidia-ge-in-w10w11/"><u>Rectifying Code 0X0001 Failures for Nvidia GE in W10/W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-steps-for-online-printer-on-windows/"><u>Quick Steps for Online Printer on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-the-barrier-of-windows-11-updates/"><u>Breaking Down the Barrier of Windows 11 Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/decreasing-non-essential-tasks-windows-108/"><u>Decreasing Non-Essential Tasks Windows 10/8</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-secure-logins-with-5-tips-against-key-conflicts-in-win11/"><u>Streamlining Secure Logins with 5 Tips Against Key Conflicts in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/systematic-approach-to-eliminate-flashing-on-windows/"><u>Systematic Approach to Eliminate Flashing on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-screen-settings-with-these-10-win-11-tricks/"><u>Streamline Your Screen Settings with These 10 Win 11 Tricks</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-gamegazers-graphic-guide-for-2024/"><u>[New] GameGazer's Graphic Guide for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-carving-out-the-ultimate-tiktok-final-act/"><u>[New] 2024 Approved  Carving Out the Ultimate TikTok Final Act</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-initiate-flip-reverse-video-display-on-vlc-software/"><u>In 2024, Initiate Flip  Reverse Video Display on VLC Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-nubia-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Nubia Device</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-y55s-5g-2023-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo Y55s 5G (2023) PC | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/introducing-top-tier-facebook-update-insights/"><u>Introducing Top-Tier Facebook Update Insights</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-harnessing-audacity-for-zero-cost-audio-capture-from-pc-speakers/"><u>Updated 2024 Approved Harnessing Audacity for Zero-Cost Audio Capture From PC Speakers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/clarity-cutting-edge-expert-recommendations-for-8k-for-2024/"><u>Clarity Cutting-Edge  Expert Recommendations for 8K for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-samsung-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Samsung Phone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exquisite-solution-for-vr-adventures/"><u>[Updated] Exquisite Solution for VR Adventures</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

@@ -1,7 +1,7 @@
 ---
 title: "Concealed Item Choices: Win 10+ Menu Tactics"
-date: 2024-06-21 10:30:45
-updated: 2024-06-24 10:13:20
+date: 2024-06-25T12:15:35.157Z
+updated: 2024-06-26T12:15:35.157Z
 tags:
   - windows10
   - windows11
@@ -70,3 +70,31 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
  So, now you can select to show or hide files and folders from your context menu. If you select to show hidden items, you can see and access more folders and files in Windows. A context menu option for enabling/disabling hidden items can be especially useful for users who select to hide things with the attribute settings for files and folders.
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/addressing-windows-11-unable-to-load-driver-errors/"><u>Addressing Windows 11: Unable to Load Driver Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-your-potential-7-proven-techniques-to-master-windows-based-studying/"><u>Unlock Your Potential: 7 Proven Techniques to Master Windows-Based Studying</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-bypass-enforced-driver-signatures-loading-unverified-drivers/"><u>Methods to Bypass Enforced Driver Signatures, Loading Unverified Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/curate-your-own-win11-screen-saver/"><u>Curate Your Own Win11 Screen Saver</u></a></li>
+<li><a href="https://windows11.techidaily.com/purging-protection-logs-on-windows-1011-with-ease/"><u>Purging Protection Logs on Windows 10/11 with Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-security-change-account-password-for-win-11/"><u>Transforming Security: Change Account Password for Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/snipemaster-offline-solutions-for-reconnecting-it/"><u>SnipeMaster Offline? Solutions for Reconnecting It</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-memory-write-error-windows-fixes/"><u>Disabling 'Memory Write' Error: Windows Fixes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-crafting-a-winning-windowsmac-skype-chat-circle-for-2024/"><u>[Updated] Crafting a Winning Windows/Mac Skype Chat Circle for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-a-detailed-walkthrough-to-preserve-your-iphones-audio-recordings/"><u>New In 2024, A Detailed Walkthrough to Preserve Your iPhones Audio Recordings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-macbook-webcam-recording-guide/"><u>[New] In 2024, MacBook Webcam Recording Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-6-ways-to-record-mov-files-on-windows-11/"><u>[Updated] In 2024, 6 Ways to Record .mov Files on Windows 11</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-watch-share-repeat-the-best-movie-trailer-apps-for-iphone-and-ipad/"><u>New Watch, Share, Repeat The Best Movie Trailer Apps for iPhone and iPad</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-perfect-your-instagram-game-with-smart-video-posting-techniques/"><u>In 2024, Perfect Your Instagram Game with Smart Video Posting Techniques</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-nokia-c12-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-quickly-create-a-screen-print-effect-in-photoshop-detailed-guide/"><u>How To Quickly Create A Screen Print Effect In Photoshop Detailed Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-obs-strategy-for-high-quality-skype-screens-for-2024/"><u>The OBS Strategy for High-Quality Skype Screens for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

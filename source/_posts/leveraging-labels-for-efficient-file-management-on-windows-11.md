@@ -1,7 +1,7 @@
 ---
 title: Leveraging Labels for Efficient File Management on Windows 11
-date: 2024-06-23 11:23:21
-updated: 2024-06-24 10:21:31
+date: 2024-06-25T12:35:56.671Z
+updated: 2024-06-26T12:35:56.671Z
 tags:
   - windows10
   - windows11
@@ -82,3 +82,29 @@ thumbnail: https://thmb.techidaily.com/6d87b1c3f35bd086cb57f3daa2bccf1c889bbcea5
  You can now add extra information about your folders within File Explorer with comment notes. Such comments can be useful for making it clearer what directories include. For example, you can add comments that provide more specific details about what kinds of files folders include. Or add comments about what specific files you can find in them.
 
  File Explorer has a **Comments** column in which users can add comments to files within Explorer by modifying tags for them on the Details tab. However, folders don’t have editable tags like files do. Nevertheless, you can still add comments to folders even though File Explorer doesn’t have a built-in option for doing so.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/fixing-monochrome-errors-with-marketplace/"><u>Fixing Monochrome Errors with Marketplace</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-morning-routine-launching-windows-and-sticky-notes/"><u>Mastering Morning Routine: Launching Windows & Sticky Notes</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-reliability-of-your-windows-interface/"><u>Enhancing Reliability of Your Windows Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-malfunctioning-windows-easy-fixes-at-hand/"><u>Mastery Over Malfunctioning Windows: Easy Fixes at Hand!</u></a></li>
+<li><a href="https://windows11.techidaily.com/timeless-upgrades-essential-time-saver-tools-for-pcs/"><u>Timeless Upgrades: Essential Time Saver Tools for PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-your-digital-notepad-a-guide-to-windows-11-customization/"><u>Personalize Your Digital Notepad: A Guide to Windows 11 Customization</u></a></li>
+<li><a href="https://windows11.techidaily.com/rejuvenate-your-locked-shift-key-in-windows/"><u>Rejuvenate Your Locked Shift Key in Windows.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-xiaomi-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Xiaomi </u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-smartphone-tools-for-crafting-your-ideal-vocal-sound-for-2024/"><u>[Updated] Smartphone Tools for Crafting Your Ideal Vocal Sound for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-5-foolproof-amazing-anime-text-to-speech-tips-for-makers-for-2024/"><u>New 5 Foolproof Amazing Anime Text to Speech Tips for Makers for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-examining-the-income-stream-for-t-series-youtube-channel/"><u>In 2024, Examining the Income Stream for T-Series YouTube Channel</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a38-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A38 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-actors-insight-crafting-engaging-online-reactions-on-youtube-3-pro-tips/"><u>[New] In 2024, Actor's Insight  Crafting Engaging Online Reactions on YouTube (3 Pro Tips)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-galaxy-f34-5g-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Galaxy F34 5G has been deleted.</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

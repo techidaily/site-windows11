@@ -1,7 +1,7 @@
 ---
 title: How to Fix the “The Application Encountered an Unrecoverable Error in Roblox on Windows
-date: 2024-06-22 23:55:45
-updated: 2024-06-25 12:17:35
+date: 2024-06-25T12:44:04.339Z
+updated: 2024-06-26T12:44:04.339Z
 tags:
   - windows10
   - windows11
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
 
  Roblox doesn't permit playing Roblox experiences on a virtual machine, as a Roblox staff member reported on [Roblox's developer forum](https://devforum.roblox.com/t/the-application-encountered-an-unrecoverable-error/2419033/2). When someone attempts to access Roblox experiences this way, Hyperion abruptly crashes the process.
 
-![An open laptop sitting on a windowsill with a residential view in the background.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/could-not-create-java-virtual-machine.jpg)
+![An open laptop sitting on a windowsill with a residential view in the background.](https://thmb.techidaily.com/4a4364521475bc98d43a49b1c82e26ef445f3c795924721c63fb3c06810bfd5f.jpg)
 
  Do you also want to run Roblox Player on a virtual machine, but the client crashes? If so, that could be the cause of the error. Close the virtual machine and run Roblox by installing the client on your OS; hopefully, nothing will go wrong this way.
 
@@ -115,3 +115,31 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
  Like the abovementioned error, Roblox can also crash with many other errors. There is no need to worry if you encounter them, as all of them are easy to fix.
 
  Among the leading causes of this error can be interference from the browser, running Roblox in a virtual machine, or misconfigured BIOS settings. The error message suggests users share a crash dump with Roblox support to diagnose the issue. Before you do that, perform the below-mentioned checks and fixes first.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/revitalizing-vintage-directx-apps-using-modernized-dxvk-features/"><u>Revitalizing Vintage DirectX Apps Using Modernized DXVK Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-to-address-missing-windows-1011-search-data/"><u>Guidelines to Address Missing Windows 10/11 Search Data</u></a></li>
+<li><a href="https://windows11.techidaily.com/free-windows-11-slideshows-the-seventh-way-unveiled/"><u>Free Windows 11 Slideshows - The Seventh Way Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-iphoneipad-photo-upload-error-on-windows-os-w11-edition/"><u>Troubleshooting iPhone/iPad Photo Upload Error on Windows OS, W11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-overcome-onedrive-authentication-xyz-error-on-windows-11/"><u>Steps to Overcome ONEDRIVE Authentication XYZ Error on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/augmented-folder-actions-power-up-your-file-management/"><u>Augmented Folder Actions: Power Up Your File Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieving-optimal-security-in-win-11-with-ms-defender-application-guard-for-edge/"><u>Achieving Optimal Security in Win 11 with MS Defender Application Guard for Edge</u></a></li>
+<li><a href="https://windows11.techidaily.com/tcpip-port-safety-a-windows-perspective/"><u>TCP/IP Port Safety: A Windows Perspective</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/crimson-classic-codec/"><u>Crimson Classic Codec</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-s23-fe-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Samsung Galaxy S23 FE to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-android-and-lightroom-review-a-full-examination/"><u>2024 Approved  Android & Lightroom Review  A Full Examination</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-lava-yuva-3-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Lava Yuva 3 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revamp-photos-iphoneandroids-top-sticker-adorning-software/"><u>[Updated] Revamp Photos  IPhone/Android’s Top Sticker Adorning Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-unbeatable-screen-grabbers-for-modern-windows-pcs-for-2024/"><u>[New] Unbeatable Screen Grabbers for Modern Windows PCs for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-beginners-guide-to-sony-vegas-and-youtube-cutting-for-2024/"><u>[Updated] A Beginner's Guide to Sony Vegas and YouTube Cutting for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/effective-strategies-for-announcing-your-first-phenomenal-giveaway/"><u>Effective Strategies for Announcing Your First Phenomenal Giveaway</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/a-20-second-symphony-understanding-musics-compact-formats-for-2024/"><u>A 20-Second Symphony  Understanding Music's Compact Formats for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

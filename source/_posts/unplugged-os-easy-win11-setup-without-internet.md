@@ -1,7 +1,7 @@
 ---
 title: "Unplugged OS: Easy Win11 Setup without Internet"
-date: 2024-06-22 10:40:38
-updated: 2024-06-24 11:43:38
+date: 2024-06-25T11:56:17.087Z
+updated: 2024-06-26T11:56:17.087Z
 tags:
   - windows10
   - windows11
@@ -116,3 +116,34 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
  That said, once you finish the setup and create a local user account, connect to the Internet to download critical security updates and features. You may also notice a few missing icons after the initial setup. Windows will download these icons when you connect to the Internet next time.
 
  This becomes an issue if you want to use a local user account or don’t have an active internet connection during setup. Luckily, there are a few workarounds to skip the Windows 11 network setup. Here we show you how to bypass this restriction and complete the Windows 11 setup without an internet connection.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/battle-of-the-packagers-chocolatey-or-wm-on-windows-pcs/"><u>Battle of the Packagers: Chocolatey or WM on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-10-uses-for-windows-powertoys-tools/"><u>Top 10 Uses for Windows PowerToys Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/vanishing-acts-concealing-keys-without-notice/"><u>Vanishing Acts: Concealing Keys Without Notice</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-how-to-deactivate-amdnvidia-vr-boosting/"><u>Guide: How to Deactivate AMD/Nvidia VR Boosting</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-productivity-masterful-windows-shortcuts-guide/"><u>Boosting Productivity: Masterful Windows Shortcuts Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/smoothing-out-chrome-profile-hitches-on-windows-systems/"><u>Smoothing Out Chrome Profile Hitches on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-xp709-system-failure/"><u>Strategies for XP709 System Failure</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-deleting-account-info-from-windows-logon/"><u>Steps for Deleting Account Info From Windows Logon</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-rectify-win-1011-onedrive-issues/"><u>Steps to Rectify Win 10/11 OneDrive Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-reference-guide-to-overcoming-winscombvc-issues/"><u>Quick Reference Guide to Overcoming WinScombVc Issues</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-pioneering-the-pathway-personal-youtube-videos-in-google-accounts/"><u>2024 Approved  Pioneering the Pathway  Personal YouTube Videos in Google Accounts</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-detailed-steps-to-cut-a-video-in-quicktime/"><u>New In 2024, Detailed Steps to Cut a Video in QuickTime</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-how-to-craft-a-unique-identifier-for-your-tiktok-stream/"><u>[New] In 2024, How to Craft a Unique Identifier for Your TikTok Stream</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/exploring-the-expanded-toolset-of-nero-waveedit/"><u>Exploring the Expanded Toolset of Nero WaveEdit</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-time-lapse-a-video-on-imovie/"><u>How to Time-Lapse a Video on iMovie</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/smart-strategies-for-securely-saving-movie-moments-across-gadgets/"><u>Smart Strategies for Securely Saving Movie Moments Across Gadgets</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/thorough-investigation-dji-inspire-1-reviewed/"><u>Thorough Investigation  DJI Inspire 1 Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-journey-to-high-definition-mastering-sdr-to-hdr-conversion/"><u>[New] Journey to High Definition  Mastering SDR to HDR Conversion</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-perfect-your-visuals-on-insta-with-these-borders-for-2024/"><u>[Updated] Perfect Your Visuals on Insta with These Borders for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-audio-annihilation-101-instructions-to-remove-unwanted-sounds-from-video-clips-on-windows-and-mac/"><u>Updated Audio Annihilation 101 Instructions to Remove Unwanted Sounds From Video Clips on Windows & Mac</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

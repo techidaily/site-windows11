@@ -1,7 +1,7 @@
 ---
 title: How to Add New Submenus to Windows 11’S Desktop Context Menu
-date: 2024-06-22 15:15:11
-updated: 2024-06-25 12:28:18
+date: 2024-06-25T12:06:34.790Z
+updated: 2024-06-26T12:06:34.790Z
 tags:
   - windows10
   - windows11
@@ -120,3 +120,31 @@ thumbnail: https://thmb.techidaily.com/faf305db1bff9ec7cfb8fafeb68d0a5e6478101d4
  You could create multiple submenus on the context menu that include shortcuts for opening different software categories, such as web browsers, media players, productivity apps, etc. Or you can add a new desktop context menu submenu for accessing Windows tools and turn off options with Easy Context Menu.
 
  If you add many shortcuts to that menu, organizing them into submenus is a good idea. Doing so will enable you to add more shortcuts without greatly extending the length of the classic context menu. This is how you can add new submenus to the Windows 11’s desktop context menu.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/elevate-your-system-performance-essential-tips-for-installing-optional-windows-components/"><u>Elevate Your System Performance: Essential Tips for Installing Optional Windows Components</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-data-consumption-by-windows-programs/"><u>Decoding Data Consumption by Windows Programs</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-pc-safety-introducing-your-unique-window-pin-design/"><u>Elevate PC Safety: Introducing Your Unique Window Pin Design</u></a></li>
+<li><a href="https://windows11.techidaily.com/securely-store-and-view-onedrive-data-locally/"><u>Securely Store and View OneDrive Data Locally</u></a></li>
+<li><a href="https://windows11.techidaily.com/success-reinstalling-microsofts-pc-manager-in-win8/"><u>Success! Reinstalling Microsoft's PC Manager in Win8</u></a></li>
+<li><a href="https://windows11.techidaily.com/harnessing-the-power-of-microsofts-ai-code-helper/"><u>Harnessing the Power of Microsoft's AI Code Helper</u></a></li>
+<li><a href="https://windows11.techidaily.com/configure-ideal-window-space-for-your-apps-in-win11/"><u>Configure Ideal Window Space for Your Apps in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfect-pixels-for-every-window-11-display/"><u>Perfect Pixels for Every Window 11 Display</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-top-android-video-editing-apps-for-free-and-paid-users/"><u>2024 Approved Best Top Android Video Editing Apps for Free and Paid Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-recordwin11-no-fuss-easy-screen-recorder-for-pcs/"><u>[Updated] 2024 Approved  RecordWin11  No-Fuss, Easy Screen Recorder for PCs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-detailed-walkthrough-to-flawless-youtube-videos-using-imovie-software-for-2024/"><u>[New] Detailed Walkthrough to Flawless YouTube Videos Using iMovie Software for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-best-8-value-video-communication-programs-for-pc-and-mac/"><u>[Updated] The Best 8 Value Video Communication Programs for PC and MAC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-playback-apply-filters-to-video-content/"><u>2024 Approved  Perfecting Playback  Apply Filters to Video Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-pcs-premiere-selection-of-ps3-game-simulations/"><u>2024 Approved  PC's Premiere Selection of PS3 Game Simulations</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-narzo-n55-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme Narzo N55 Lock Screen Password</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-unveiling-the-latest-in-non-fbx-gameplay-tracking/"><u>[New] Unveiling the Latest in Non-FBX Gameplay Tracking</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

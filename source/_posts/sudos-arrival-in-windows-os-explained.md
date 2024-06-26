@@ -1,7 +1,7 @@
 ---
 title: Sudo's Arrival in Windows OS Explained
-date: 2024-06-21 22:44:43
-updated: 2024-06-24 12:27:29
+date: 2024-06-25T12:22:34.139Z
+updated: 2024-06-26T12:22:34.139Z
 tags:
   - windows10
   - windows11
@@ -76,3 +76,34 @@ thumbnail: https://thmb.techidaily.com/c80fad792e3cb229a3e653969139437b39335328a
  Microsoft seems committed to its implementation of sudo, even going so far as to release [sudo on GitHub](http://github.com/microsoft/sudo) as open source. If reading this entices you to learn more about what goes on under the hood in Windows, make sure to take a look at our list of [commands every Windows user should know](https://www.makeuseof.com/tag/15-cmd-commands-every-windows-user-know/).
 
  If you're a fan of tweaking your Windows setup, you often need to run "elevated" or Administrator-level commands. You're probably used to doing this by running a Command Prompt as administrator, but it's about to get a lot easier with sudo on Windows.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/hidden-panels-revealed-recovering-offscreen-windows-in-edges-os/"><u>Hidden Panels Revealed: Recovering Offscreen Windows in Edges OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/configuring-alternate-pdf-reader-on-windows/"><u>Configuring Alternate PDF Reader on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-your-windows-onedrive-hurdles-now/"><u>Fix Your Windows OneDrive Hurdles Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-graphics-glitch-d3d11-error-fixes-for-win11win10/"><u>Conquering Graphics Glitch: D3D11 Error Fixes for Win11/Win10</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypass-windows-11-lock-screen-swiftly/"><u>Bypass Windows 11 Lock Screen Swiftly</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinitializing-your-steam-gaming-milestones/"><u>Reinitializing Your Steam Gaming Milestones</u></a></li>
+<li><a href="https://windows11.techidaily.com/8-ways-to-fix-the-windows-pin-not-working-in-windows-10-and-11/"><u>8 Ways to Fix the Windows PIN Not Working in Windows 10 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-completely-removing-wsl-in-win-11/"><u>Step-by-Step: Completely Removing WSL in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-wisdom-efficiently-eliminate-partitioned-areas-on-your-pc/"><u>Windows Wisdom: Efficiently Eliminate Partitioned Areas on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/dealing-with-nvidias-geforce-x0001-error-on-w10w11/"><u>Dealing with Nvidia's GeForce X0001 Error on W10/W11</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-12-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and Apple iPhone 12 without Apple Account</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-screenplay-sensation-roundup/"><u>[Updated] Screenplay Sensation Roundup</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-15-pro-max-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 15 Pro Max to PC | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-realme-gt-5-device-sim-by-drfone-android/"><u>Easily Unlock Your Realme GT 5 Device SIM</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-harmonious-sound-editing-guide-advantages-disadvantages-and-substitutes/"><u>Updated 2024 Approved Harmonious Sound Editing Guide Advantages, Disadvantages, and Substitutes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-nokia-g310-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-motorola-moto-g14-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Motorola Moto G14</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-slow-motion-and-fast-motion-effects-in-camtasia/"><u>Updated In 2024, Slow Motion and Fast Motion Effects in Camtasia</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-styling-your-content-a-compreran-guide-to-insta-photo-watermarks/"><u>[Updated] 2024 Approved  Styling Your Content  A Compreran Guide to Insta Photo Watermarks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-educators-resourceful-recorder-companion/"><u>[New] The Educator's Resourceful Recorder Companion</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

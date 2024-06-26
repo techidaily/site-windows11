@@ -1,7 +1,7 @@
 ---
 title: Configuring ChatGPT on Your Windows PC
-date: 2024-06-22 17:18:48
-updated: 2024-06-24 12:59:13
+date: 2024-06-25T12:14:37.702Z
+updated: 2024-06-26T12:14:37.702Z
 tags:
   - windows10
   - windows11
@@ -120,3 +120,31 @@ thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f
  But what if you want to run ChatGPT as a Windows app? While no official Windows version is available yet, Microsoft Edge and Chrome let you use ChatGPT as a native Windows app. Here’s how you can run ChatGPT as a Windows app using Microsoft Edge, create a Chrome shortcut for the AI bot, and pin the ChatGPT app to the taskbar.
 
  At the time of writing, OpenAI hasn't released an official app for ChatGPT on the Chrome Web Store or the Microsoft Store. Please be cautious while searching for any purported ChatGPT app on these and other app marketplaces.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/decreasing-the-impact-of-high-cpu-tiworkerexe-applications/"><u>Decreasing the Impact of High-CPU TiWorker.exe Applications</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboard-and-mouse-failure-windows-11-sleep-troubleshoot/"><u>Keyboard & Mouse Failure: Windows 11 Sleep Troubleshoot</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-prevent-unsolicited-openings-of-search-bar-win11/"><u>How to Prevent Unsolicited Openings of Search Bar, Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-overlapping-security-measures-stick-to-one-windows-antivirus/"><u>Avoid Overlapping Security Measures: Stick to One Windows Antivirus</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-more-frustration-quick-fixes-for-windows-11-woes/"><u>No More Frustration! Quick Fixes for Windows 11 Woes</u></a></li>
+<li><a href="https://windows11.techidaily.com/visual-notetaking-revolution-unlocking-with-obsidian-canvas/"><u>Visual Notetaking Revolution: Unlocking with Obsidian Canvas</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-windows-pre-format-drive-errors/"><u>Solving Windows' Pre-Format Drive Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/nine-pathways-out-of-the-window-11s-0x8004def5-puzzle/"><u>Nine Pathways Out of the Window 11'S 0X8004DEF5 Puzzle</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-5-amazing-free-youtube-intro-makers-ranked-for-2024/"><u>[Updated] 5 Amazing Free YouTube Intro Makers Ranked for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-6-plus-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 6 Plus Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-overcoming-common-windows-10-photos-display-problems/"><u>2024 Approved  Overcoming Common Windows 10 Photos Display Problems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-realme-gt-neo-5-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Realme GT Neo 5 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-quick-and-simple-facial-masking-in-photos/"><u>2024 Approved  Quick & Simple Facial Masking in Photos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tiktok-to-twitter-sharing-videos/"><u>[Updated] TikTok to Twitter  Sharing Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-text-superimposition-windows-and-mac-edition/"><u>In 2024, Mastering Text Superimposition  Windows & Mac Edition</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-s-best-free-mp4-video-editing-apps-ranked-and-reviewed/"><u>2024 Approved S Best Free MP4 Video Editing Apps Ranked and Reviewed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-guide-to-blending-multiple-exposures-into-a-single-hdr-in-lightroom/"><u>[New] The Ultimate Guide to Blending Multiple Exposures Into a Single HDR in Lightroom</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

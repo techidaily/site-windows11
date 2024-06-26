@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 User Mastery: Group & Admin Essentials Guide"
-date: 2024-06-23 12:11:17
-updated: 2024-06-24 12:20:40
+date: 2024-06-25T12:31:54.829Z
+updated: 2024-06-26T12:31:54.829Z
 tags:
   - windows10
   - windows11
@@ -107,3 +107,31 @@ thumbnail: https://thmb.techidaily.com/37c258031093435d71dd94d515145542657904928
 ![Command Prompt screen with the net localgroup command displayed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/command-prompt-screen-with-the-net-localgroup-command-displayed.jpg)
 
  The Local Users and Groups Management console is a handy utility for system administrators to manage local computers and connect remotely to compatible systems. However, if you are running Windows 11 Home and need to use the lusrmgr.msc tool, your only option is to use the third-party application from GitHub.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/how-to-master-the-use-of-winservicesexe-on-windows/"><u>How to Master the Use of Winservices.exe on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagining-taskbar-functionality-essential-upgrades-to-improve-microsofts-user-interface/"><u>Reimagining Taskbar Functionality: Essential Upgrades to Improve Microsoft's User Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-saving-your-personalized-powertoys-profile/"><u>Steps for Saving Your Personalized PowerToys Profile</u></a></li>
+<li><a href="https://windows11.techidaily.com/biometric-betrayal-how-secure-is-your-windows-hello-lock/"><u>Biometric Betrayal: How Secure Is Your Windows Hello Lock?</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-pc-issues-amidst-minimum-specifications-and-intel-graphic-errors/"><u>Rectifying PC Issues Amidst Minimum Specifications and Intel Graphic Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-solutions-to-the-display-startup-failure-issue/"><u>Effective Solutions to the “Display Startup Failure” Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-the-windows-lsa-disablement-warning/"><u>Bypassing the Windows LSA Disablement Warning</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-list-of-windows-11s-narrator-keyboard-shortcuts/"><u>The Complete List of Windows 11'S Narrator Keyboard Shortcuts</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-cutting-edge-tiktok-live-broadcast-techniques-on-computer/"><u>[New] In 2024, Cutting-Edge TikTok Live Broadcast Techniques on Computer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-nokia-130-music-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Nokia 130 Music.</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-essential-methods-for-device-capturing-applications-for-2024/"><u>[New] Essential Methods for Device Capturing Applications for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-the-ultimate-manual-for-extracting-hd-from-facebook/"><u>In 2024, The Ultimate Manual for Extracting HD From Facebook</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/apple-iphone-x-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone X Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-captions-adding-words-to-images-in-oses/"><u>In 2024, Perfecting Captions  Adding Words to Images in OSes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/basic-equipment-for-travel-video-creators-for-2024/"><u>Basic Equipment for Travel Video Creators for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-streamlining-your-path-to-personal-youtube-soundscape/"><u>[Updated] In 2024, Streamlining Your Path to Personal Youtube Soundscape</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

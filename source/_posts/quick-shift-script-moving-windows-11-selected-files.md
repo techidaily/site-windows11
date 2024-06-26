@@ -1,7 +1,7 @@
 ---
 title: "Quick Shift Script: Moving Windows 11 Selected Files"
-date: 2024-06-22 12:32:38
-updated: 2024-06-25 12:53:12
+date: 2024-06-25T12:12:17.035Z
+updated: 2024-06-26T12:12:17.035Z
 tags:
   - windows10
   - windows11
@@ -72,3 +72,29 @@ thumbnail: https://thmb.techidaily.com/359889cca1fac1d0cab50a3e170aa122469e4b901
  macOS' folder creation option is a lifesaver, and it's a shame Windows doesn't have it by default. We can only be grateful for TeraCopy and Files 2 Folders enabling us to utilize the same feature on Windows 11, and we can only hope Windows 12 adds it by default.
 
  However, you can add this feature to Windows 11’s context menu with Files 2 Folder and TeraCopy. Both software packages add context menu options for putting selected files into new folders. This is how you can put selected files into new folders in Windows 11\.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/three-easy-steps-to-unlock-your-network-with-telnet-on-wins/"><u>Three Easy Steps to Unlock Your Network with Telnet on Wins</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-dismantle-spotlight-icons-in-win11/"><u>Guide to Dismantle Spotlight Icons in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-gamers-manual-to-winning-with-windows/"><u>The Complete Gamers' Manual to Winning With Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-original-settings-post-deletion-win-11/"><u>Restoring Original Settings Post Deletion (Win 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-list-of-windows-11-navshortcuts/"><u>The Ultimate List of Windows 11 NavShortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-your-windows-11-journey-top-6-multitasking-android-apps/"><u>Enhancing Your Windows 11 Journey: Top 6 Multitasking Android Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-productivity-best-apps-to-turn-your-pcs-clock-into-an-animated-screensaver/"><u>Streamline Productivity: Best Apps to Turn Your PC’s Clock Into an Animated Screensaver</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/undead-uprising-your-essential-compilation-of-zombie-gaming/"><u>Undead Uprising  Your Essential Compilation of Zombie Gaming</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-your-key-to-creative-advertising-access-all-50-free-youtube-banner-designs/"><u>[Updated] Your Key to Creative Advertising  Access All 50 FREE YouTube Banner Designs</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-enhance-your-videos-a-step-by-step-guide-to-adding-3d-effects-on-windows/"><u>New Enhance Your Videos A Step-by-Step Guide to Adding 3D Effects on Windows</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tep-by-step-applying-color-grading-and-keying/"><u>[New] Step-by-Step  Applying Color Grading and Keying</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/revolutionize-your-followers-list-with-top-twitter-cleanup-tools/"><u>Revolutionize Your Followers List with Top Twitter Cleanup Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-xiaomi-redmi-12-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Xiaomi Redmi 12?</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

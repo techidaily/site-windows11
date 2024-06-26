@@ -1,7 +1,7 @@
 ---
 title: Fine-Tuning Windows Filename Metadata
-date: 2024-06-24 18:17:23
-updated: 2024-06-26 10:36:34
+date: 2024-06-25T12:03:49.490Z
+updated: 2024-06-26T12:03:49.490Z
 tags:
   - windows10
   - windows11
@@ -113,3 +113,33 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
  The problem is that sharing a file with your teacher or supervisor at work entails sharing all of this information, putting your job or grades at risk. To prevent this, you can modify these attributes.
 
  If you don't want the receiver to know the actual file attributes, here's how to remove or modify them.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/essential-guide-to-selecting-a-best-fit-video-codec-in-windows/"><u>Essential Guide to Selecting a Best Fit Video Codec in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamlessly-access-lately-used-documents-in-windows/"><u>Seamlessly Access Lately Used Documents in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/empowering-windows-users-introducing-a-customized-run-helper-app/"><u>Empowering Windows Users: Introducing a Customized Run Helper App</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-user-accounts-to-local-groups-policy-in-windows-11-and-11/"><u>Tailoring User Accounts to Local Groups Policy in Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-windows-no-audio-output-issue/"><u>Solving Windows: 'No Audio Output' Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-potential-of-windows-11s-configurable-fn-keys/"><u>Mastering the Potential of Windows 11'S Configurable FN Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/nullify-specification-shortfalls-alerts-in-win11/"><u>Nullify Specification Shortfalls Alerts in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-solve-no-device-camera-error-in-win11/"><u>Steps to Solve No Device: Camera Error in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-reasons-to-steer-clear-from-inexpensive-windows-keys/"><u>5 Reasons to Steer Clear From Inexpensive Windows Keys</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-quest-for-the-ultimate-cinematography-experts/"><u>[New] The Quest for the Ultimate Cinematography Experts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-a2-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi A2 Phone without PIN</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-ae-text-styles-for-impact/"><u>2024 Approved  Innovative AE Text Styles for Impact</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-expert-guide-to-the-10-greatest-pc-cameras/"><u>2024 Approved  Expert Guide to the 10 Greatest PC Cameras</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unleash-your-creativity-seamless-video-scaling-techniques-on-a-mac/"><u>In 2024, Unleash Your Creativity  Seamless Video Scaling Techniques on a Mac</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-increase-fb-engagement-and-sales-the-15-most-effective-analyzers/"><u>[New] Increase FB Engagement & Sales  The 15 Most Effective Analyzers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-the-art-of-instagram-metrics-analysis-your-ultimate-ig-guide/"><u>In 2024, Mastering the Art of Instagram Metrics Analysis – Your Ultimate IG Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-beginner-to-pro-6-adobe-premiere-tips-to-transform-your-video-editing/"><u>In 2024, From Beginner to Pro 6 Adobe Premiere Tips to Transform Your Video Editing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1716068768836-updated-2024-approved-recording-rivals-meet/"><u>[Updated] 2024 Approved  Recording Rivals, Meet!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-poco-x6-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Poco X6 | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

@@ -1,7 +1,7 @@
 ---
 title: Essential Guide to Office Works Setup on Win 11
-date: 2024-06-22 18:40:45
-updated: 2024-06-25 12:41:58
+date: 2024-06-25T12:44:51.891Z
+updated: 2024-06-26T12:44:51.891Z
 tags:
   - windows10
   - windows11
@@ -72,3 +72,29 @@ thumbnail: https://thmb.techidaily.com/a516821dc0dcd8fb768903303922c214d1ad710be
  Even though MS Works is considered obsolete, it’s still a useful productivity suite. Installing that software will enable you to open old Works WPS, XLR, and WDP files many users still have saved on PCs. Works’ calendar feature is handy for noting down reminders for appointments and other important event details. Plus, you can set up documents quickly and easily with Works’ templates.
 
  You can still utilize Microsoft Works 9 on a Windows 10 or 11 PC today. Although that suite might be a little dated, it’s freely available and comes with a good range of templates for document creation. This is how you can install and try out Microsoft Works on a Windows 11/10 PC.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/windows-11s-dynamic-ui-embracing-the-new-widget-era/"><u>Windows 11'S Dynamic UI: Embracing the New Widget Era</u></a></li>
+<li><a href="https://windows11.techidaily.com/ultimate-7-list-cost-free-windows-media-centers/"><u>Ultimate 7 List: Cost-Free Windows Media Centers</u></a></li>
+<li><a href="https://windows11.techidaily.com/adapting-the-oculus-quest-2-for-windows-os-virtual-reality/"><u>Adapting the Oculus Quest 2 for Windows OS Virtual Reality</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-overcome-windows-memory-errors/"><u>Steps to Overcome Windows Memory Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-forth-the-lost-frames-off-screen-recovery-in-edge-os/"><u>Bring Forth the Lost Frames: Off-Screen Recovery in Edge OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensuring-stable-windows-printer-connections/"><u>Ensuring Stable Windows-Printer Connections</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-establish-steam-offline-status-via-win-tricks/"><u>Re-Establish Steam Offline Status via Win Tricks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-getting-the-most-out-of-pc-hdr-videos/"><u>[Updated] Getting the Most Out of PC HDR Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-digital-influencers-riches-exceed-ages-kaji-ryan-story/"><u>[New] 2024 Approved  Digital Influencer's Riches Exceed Ages  Kaji Ryan Story</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-from-followers-to-earnings-instagrams-complete-guide/"><u>[New] In 2024, From Followers to Earnings  Instagram's Complete Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-aperture-aces-top-picks-the-most-impressive-6-4k-dslrs/"><u>In 2024, Aperture Aces' Top Picks  The Most Impressive 6 4K DSLRs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-driving-engagement-and-returns-animated-advertising-on-facebook/"><u>[New] In 2024, Driving Engagement and Returns  Animated Advertising on Facebook</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mastering-fb-live-4-key-recording-techniques/"><u>Mastering FB Live  4 Key Recording Techniques</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-a1-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo A1 5G FRP Bypass</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

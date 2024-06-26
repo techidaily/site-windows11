@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Surface Laptop Go 3 Review: New Processor, Same Old Drawbacks"
-date: 2024-06-23 19:18:23
-updated: 2024-06-24 10:50:37
+date: 2024-06-25T12:05:48.305Z
+updated: 2024-06-26T12:05:48.305Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 
  Three years ago, Microsoft unveiled their cheapest laptop yet: the Surface Laptop Go. This compact 12-inch device offered the company's signature industrial design at a price point that directly competed with premium Chromebooks, making them ideal for students. This year, Microsoft revamps the lineup with the Surface Laptop Go 3, which gets a spec bump and price increase, but is it still a great option for students?
 
-![surface-laptop-go-3-display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-display.jpg)
+![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
 
 ##### Surface Laptop Go 3
 
@@ -166,7 +166,7 @@ Zarif Ali / MakeUseOf
 
  Now, don't expect this tiny laptop to export 4K timelines or render 3D objects, but for its size, everyday tasks like word processing, web browsing, and video streaming are perfectly doable. That said, keep in mind that there are certain limitations to having this compact device, mainly its frequent fan usage. In my experience, the fans turned on much more often compared to the larger laptops within Microsoft's lineup doing similar tasks.
 
-![surface-laptop-go-3-display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-display.jpg)
+![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
 
 Zarif Ali / MakeUseOf
 
@@ -208,7 +208,7 @@ Zarif Ali / MakeUseOf
 
  Overall, this year’s Surface Laptop Go 3 is difficult to recommend to most people unless what you’re looking for is specifically a cheaper Microsoft-designed Surface or a compact 12-inch laptop that doesn’t compromise performance. Otherwise, we think most people would be better off getting the base Surface Laptop 5\.
 
-![surface-laptop-go-3-display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-display.jpg)
+![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
 
 ##### Surface Laptop Go 3
 
@@ -222,7 +222,7 @@ Microsoft has released the Surface Laptop Go 3, an updated version of its compac
 
  Three years ago, Microsoft unveiled their cheapest laptop yet: the Surface Laptop Go. This compact 12-inch device offered the company's signature industrial design at a price point that directly competed with premium Chromebooks, making them ideal for students. This year, Microsoft revamps the lineup with the Surface Laptop Go 3, which gets a spec bump and price increase, but is it still a great option for students?
 
-![surface-laptop-go-3-display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-display.jpg)
+![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
 
 ##### Surface Laptop Go 3
 
@@ -364,7 +364,7 @@ Zarif Ali / MakeUseOf
 
  Now, don't expect this tiny laptop to export 4K timelines or render 3D objects, but for its size, everyday tasks like word processing, web browsing, and video streaming are perfectly doable. That said, keep in mind that there are certain limitations to having this compact device, mainly its frequent fan usage. In my experience, the fans turned on much more often compared to the larger laptops within Microsoft's lineup doing similar tasks.
 
-![surface-laptop-go-3-display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-display.jpg)
+![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
 
 Zarif Ali / MakeUseOf
 
@@ -406,7 +406,7 @@ Zarif Ali / MakeUseOf
 
  Overall, this year’s Surface Laptop Go 3 is difficult to recommend to most people unless what you’re looking for is specifically a cheaper Microsoft-designed Surface or a compact 12-inch laptop that doesn’t compromise performance. Otherwise, we think most people would be better off getting the base Surface Laptop 5\.
 
-![surface-laptop-go-3-display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-display.jpg)
+![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
 
 ##### Surface Laptop Go 3
 
@@ -420,7 +420,7 @@ Microsoft has released the Surface Laptop Go 3, an updated version of its compac
 
  Three years ago, Microsoft unveiled their cheapest laptop yet: the Surface Laptop Go. This compact 12-inch device offered the company's signature industrial design at a price point that directly competed with premium Chromebooks, making them ideal for students. This year, Microsoft revamps the lineup with the Surface Laptop Go 3, which gets a spec bump and price increase, but is it still a great option for students?
 
-![surface-laptop-go-3-display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-display.jpg)
+![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
 
 ##### Surface Laptop Go 3
 
@@ -562,7 +562,7 @@ Zarif Ali / MakeUseOf
 
  Now, don't expect this tiny laptop to export 4K timelines or render 3D objects, but for its size, everyday tasks like word processing, web browsing, and video streaming are perfectly doable. That said, keep in mind that there are certain limitations to having this compact device, mainly its frequent fan usage. In my experience, the fans turned on much more often compared to the larger laptops within Microsoft's lineup doing similar tasks.
 
-![surface-laptop-go-3-display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-display.jpg)
+![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
 
 Zarif Ali / MakeUseOf
 
@@ -604,7 +604,7 @@ Zarif Ali / MakeUseOf
 
  Overall, this year’s Surface Laptop Go 3 is difficult to recommend to most people unless what you’re looking for is specifically a cheaper Microsoft-designed Surface or a compact 12-inch laptop that doesn’t compromise performance. Otherwise, we think most people would be better off getting the base Surface Laptop 5\.
 
-![surface-laptop-go-3-display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-display.jpg)
+![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
 
 ##### Surface Laptop Go 3
 
@@ -618,7 +618,7 @@ Microsoft has released the Surface Laptop Go 3, an updated version of its compac
 
  Three years ago, Microsoft unveiled their cheapest laptop yet: the Surface Laptop Go. This compact 12-inch device offered the company's signature industrial design at a price point that directly competed with premium Chromebooks, making them ideal for students. This year, Microsoft revamps the lineup with the Surface Laptop Go 3, which gets a spec bump and price increase, but is it still a great option for students?
 
-![surface-laptop-go-3-display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-display.jpg)
+![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
 
 ##### Surface Laptop Go 3
 
@@ -760,7 +760,7 @@ Zarif Ali / MakeUseOf
 
  Now, don't expect this tiny laptop to export 4K timelines or render 3D objects, but for its size, everyday tasks like word processing, web browsing, and video streaming are perfectly doable. That said, keep in mind that there are certain limitations to having this compact device, mainly its frequent fan usage. In my experience, the fans turned on much more often compared to the larger laptops within Microsoft's lineup doing similar tasks.
 
-![surface-laptop-go-3-display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-display.jpg)
+![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
 
 Zarif Ali / MakeUseOf
 
@@ -802,7 +802,7 @@ Zarif Ali / MakeUseOf
 
  Overall, this year’s Surface Laptop Go 3 is difficult to recommend to most people unless what you’re looking for is specifically a cheaper Microsoft-designed Surface or a compact 12-inch laptop that doesn’t compromise performance. Otherwise, we think most people would be better off getting the base Surface Laptop 5\.
 
-![surface-laptop-go-3-display](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/surface-laptop-go-3-display.jpg)
+![surface-laptop-go-3-display](https://thmb.techidaily.com/d2b04d63fd86cc82b6222341c74adf6327b494c09e7a92e5a7589ca57209ebbc.jpg)
 
 ##### Surface Laptop Go 3
 
@@ -829,3 +829,23 @@ Microsoft has released the Surface Laptop Go 3, an updated version of its compac
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/crafting-capabilities-directories-with-a-click-in-win11/"><u>Crafting Capabilities: Directories with a Click in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-the-best-encoding-methods-on-pc/"><u>Understanding the Best Encoding Methods on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/winerror-correction-bypassing-the-perplexing-0x80072746-mail-issue/"><u>WinError Correction: Bypassing the Perplexing 0X80072746 Mail Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-of-registry-edits-in-cmd/"><u>Unveiling the Secrets of Registry Edits in CMD</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-error-0x80070570-a-guide-for-fixed-damaged-files/"><u>Bypassing Error 0X80070570: A Guide for Fixed Damaged Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/nexus-controller-detection-woes-heres-how-to-win-them-back/"><u>Nexus Controller Detection Woes? Here's How to Win Them Back</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-break-the-bond-onedrive-from-ms-account-on-windows/"><u>Techniques to Break the Bond: OneDrive From MS Account on Windows</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-getting-started-with-pro-level-youtube-tech/"><u>2024 Approved  Getting Started with Pro-Level YouTube Tech</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-precision-zooms-for-peak-snapchat-performance/"><u>[New] Precision Zooms for Peak Snapchat Performance</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-zte-axon-40-lite-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends ZTE Axon 40 Lite without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-craft-your-study-of-the-past-with-these-top-10-channels/"><u>[New] Craft Your Study of the Past with These Top 10 Channels</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-tecno-pova-5-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Tecno Pova 5 FRP Bypass</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-poco-c50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-looking-beyond-vegas-pro-explore-these-10-exceptional-mac-video-editors-in-20/"><u>Updated In 2024, Looking Beyond Vegas Pro? Explore These 10 Exceptional Mac Video Editors in 20</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-blueprint-for-stellar-tiktok-campaigns-and-social-media-conquests/"><u>2024 Approved  Blueprint for Stellar TikTok Campaigns and Social Media Conquests</u></a></li>
+</ul></div>

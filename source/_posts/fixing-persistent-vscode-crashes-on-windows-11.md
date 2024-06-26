@@ -1,7 +1,7 @@
 ---
 title: Fixing Persistent VSCode Crashes on Windows 11
-date: 2024-06-23 17:17:24
-updated: 2024-06-25 11:47:55
+date: 2024-06-25T12:08:19.330Z
+updated: 2024-06-26T12:08:19.330Z
 tags:
   - windows10
   - windows11
@@ -128,3 +128,27 @@ winget uninstall Microsoft.VisualStudioCode
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/resolving-ea-server-connection-failure-in-windows/"><u>Resolving EA Server Connection Failure in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-dismantle-spotlight-icons-in-win11/"><u>Guide to Dismantle Spotlight Icons in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-techniques-to-quell-input-delay-on-windows-11/"><u>Top Techniques to Quell Input Delay on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/secretive-startup-strategies-conceal-the-shutdown-command/"><u>Secretive Startup Strategies: Conceal the Shutdown Command</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-smooth-operation-fix-frozen-epic-games-launcher/"><u>Securing Smooth Operation: Fix Frozen Epic Games Launcher</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-fixes-for-windows-hellos-recognition-failures/"><u>Essential Fixes for Windows Hello's Recognition Failures</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-blocked-windows-guard-functions/"><u>Bypassing Blocked Windows Guard Functions</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-workspace-potential-discover-the-best-window-folder-methods/"><u>Unlock Workspace Potential: Discover the Best Window Folder Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-steps-restoring-light-from-dark-mode/"><u>Troubleshooting Steps: Restoring Light From Dark Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-typhoon-of-erratic-windows-mouse-wheel/"><u>Taming the Typhoon of Erratic Windows Mouse Wheel</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-compress-mpeg2-videos-with-free-virtualdub-software/"><u>Updated In 2024, Compress MPEG2 Videos with Free VirtualDub Software</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-mac-obs-guide-installation-and-operational-knowledge-for-2024/"><u>[Updated] The Ultimate Mac OBS Guide  Installation & Operational Knowledge for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-tecno-camon-20-pro-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Tecno Camon 20 Pro 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-mp3-masterclass-easy-audio-to-video-for-youtube-enthusiasts/"><u>[Updated] MP3 Masterclass  Easy Audio to Video for YouTube Enthusiasts</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/2024-approved-video-editing-made-easy-a-windows-movie-maker-tutorial-for-all/"><u>2024 Approved Video Editing Made Easy A Windows Movie Maker Tutorial for All</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-easyvidwin11-the-simplest-way-to-record-your-pc-screen/"><u>[Updated] In 2024, EasyVidWin11  The Simplest Way to Record Your PC Screen</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-essential-knowledge-for-creating-thoughtful-twitreact-videos/"><u>[New] 2024 Approved  Essential Knowledge for Creating Thoughtful TwitReact Videos</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/top-12-video-to-gif-converters-high-quality-to-check-out/"><u>Top 12 Video to GIF Converters High Quality to Check Out</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enhancing-youtube-beauty-mastering-video-color-dynamics/"><u>[New] 2024 Approved  Enhancing YouTube Beauty  Mastering Video Color Dynamics</u></a></li>
+</ul></div>

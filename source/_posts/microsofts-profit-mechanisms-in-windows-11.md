@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Profit Mechanisms in Windows 11
-date: 2024-06-22 23:28:12
-updated: 2024-06-24 10:10:49
+date: 2024-06-25T12:01:09.269Z
+updated: 2024-06-26T12:01:09.269Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 
 ## 1\. Microsoft Earns Money by Selling Windows 11 Licenses
 
-![A Windows 11 device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-device.jpg)
+![A Windows 11 device](https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53a757d0b8f7bbc674ee0d976.jpg)
 
  You can install Windows 11 on any computer that meets the minimum requirement to run the OS. Unlike Apple, Microsoft sells Windows 11 licenses so that you can make your PC using all the best components available.
 
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
 
 ## 3\. Bloatware Apps in Windows 11 Help Microsoft Make a Profit
 
-![A Windows 11 device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-11-start-menu.jpg)
+![A Windows 11 device](https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d018a43c3249d3a4866964b88.jpg)
 
  Potentially Unwanted Programs (PUP)—popularly known as bloatware apps—are the ones that device makers pre-install in return for money from the app developers. In Windows 11, if you see any apps pre-installed with the OS but aren't from Microsoft, you can be sure that third-party app developers paid the company in anticipation of getting more visibility and installations.
 
@@ -91,3 +91,31 @@ thumbnail: https://thmb.techidaily.com/7e6ef4621c16da1cc3052591a34945a12afa2e9a0
  For a company as big as Microsoft, having a diverse revenue stream is imperative. Besides personal computing space, productivity and business processes, and intelligent cloud, Microsoft invests in other companies to earn profit. It also invests in research and development to innovate new products to reach new customers.
 
  Even if you're using Windows 11 for free, you're directly or indirectly helping Microsoft to make money. But how exactly did that happen? Let's enlighten you with the multiple ways the company earns money.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/the-top-9-truths-about-why-pc-computers-win-over-macos-9/"><u>The Top 9 Truths About Why PC Computers Win over MacOS (#9)</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-telnet-enablement-steps-explained/"><u>Windows 11 Telnet Enablement Steps Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-and-overcoming-unidentified-obs-recording-issue-on-win-11/"><u>Decoding and Overcoming Unidentified OBS Recording Issue on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-camera-app-when-it-cant-save-photos-or-videos-in-windows/"><u>How to Fix the Camera App When It Can't Save Photos or Videos in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-the-cause-of-display-driver-non-startups/"><u>Deciphering the Cause of Display Driver Non-Startups</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharge-performance-conquering-windows-lag-issues/"><u>Supercharge Performance: Conquering Windows Lag Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-10-uses-for-windows-powertoys-tools/"><u>Top 10 Uses for Windows PowerToys Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-problem-of-unrecognized-drivers-during-windows-startup/"><u>Fixing the Problem of Unrecognized Drivers During Windows Startup</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-linux-screenshot-the-most-acclaimed-applications/"><u>[Updated] In 2024, Linux Screenshot  The Most Acclaimed Applications</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-itel-s23plus-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Itel S23+ to Roku | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-expertly-crafted-recording-kit/"><u>[Updated] Expertly Crafted Recording Kit</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-apple-iphone-15-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On Apple iPhone 15 Pro Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y100tfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y100tFRP Lock</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-oppo-k11-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Oppo K11 5G Phone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamlining-your-show-formatting-podcast-xml-successfully/"><u>In 2024, Streamlining Your Show  Formatting Podcast XML Successfully</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-conversion-companion-best-youtubes-to-avis-for-2024/"><u>The Ultimate Conversion Companion  Best YouTubes to AVIs for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-unveil-full-length-videos-in-yt/"><u>2024 Approved  How to Unveil Full-Length Videos in YT</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

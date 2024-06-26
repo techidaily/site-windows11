@@ -1,7 +1,7 @@
 ---
 title: The Elusive Guide to Unseen Menu Adjustments, Windows Style
-date: 2024-06-23 12:33:34
-updated: 2024-06-26 11:34:31
+date: 2024-06-25T12:05:19.076Z
+updated: 2024-06-26T12:05:19.076Z
 tags:
   - windows10
   - windows11
@@ -70,3 +70,33 @@ thumbnail: https://thmb.techidaily.com/521ad24db07aed403ac9c63a8882a3a87b12e15e0
  So, now you can select to show or hide files and folders from your context menu. If you select to show hidden items, you can see and access more folders and files in Windows. A context menu option for enabling/disabling hidden items can be especially useful for users who select to hide things with the attribute settings for files and folders.
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/remedying-pc-performance-hurdles-with-intel-graphics-updates/"><u>Remedying PC Performance Hurdles with Intel Graphics Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixes-for-stumbling-windows-discord-search-bar/"><u>Fixes for Stumbling Windows Discord Search Bar</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-potential-the-top-7-ways-to-optimize-windows-11-use-42/"><u>Unlocking Potential: The Top 7 Ways to Optimize Windows 11 Use (42)</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-8-common-slip-ups-for-first-time-windows-11-enthusiasts/"><u>Top 8 Common Slip-Ups for First-Time Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-and-reviving-winget-a-guide-for-windows-11-users/"><u>Navigating and Reviving Winget: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-a-stuck-discord-interface-element-on-your-system/"><u>Mending a Stuck Discord Interface Element on Your System</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-system-integration-enable-windows-subsystem-for-linux/"><u>Seamless System Integration: Enable Windows Subsystem for Linux</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-permission-restrictions-on-windows/"><u>Deciphering Permission Restrictions on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-door-with-elongated-pin-strategies-for-windows-1011/"><u>Unlock the Door with Elongated Pin Strategies for Windows 10/11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-comprehensive-guide-to-sierras-cloud-storage-navigation/"><u>[New] Comprehensive Guide to Sierra’s Cloud Storage Navigation</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-2024-approved-15-forgotten-cartoon-characters-of-all-time-you-used-to-love/"><u>Updated 2024 Approved 15 Forgotten Cartoon Characters of All Time You Used to Love</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/vivo-x90s-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo X90S ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-boost-views-via-strategic-tagging-tactics/"><u>In 2024, Boost Views via Strategic Tagging Tactics</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-capturing-faces-to-face-on-fb-top-4-tips/"><u>2024 Approved  Capturing Faces-to-Face on FB  Top 4 Tips</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/addressing-issue-non-appearing-facebook-video-previews-for-2024/"><u>Addressing Issue  Non-Appearing Facebook Video Previews for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-vivo-y78plus-t1-edition-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Vivo Y78+ (T1) Edition Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-simplifying-video-production-with-captivate/"><u>2024 Approved  Simplifying Video Production with Captivate</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-mastering-clean-audio-tactics-to-eradicate-background-noise/"><u>New Mastering Clean Audio Tactics to Eradicate Background Noise</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unlocking-the-secrets-of-effective-job-interview-techniques/"><u>Unlocking the Secrets of Effective Job Interview Techniques</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

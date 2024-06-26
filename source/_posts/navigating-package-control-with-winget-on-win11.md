@@ -1,7 +1,7 @@
 ---
 title: Navigating Package Control with Winget on Win11
-date: 2024-06-24 20:39:48
-updated: 2024-06-25 12:54:21
+date: 2024-06-25T12:32:22.997Z
+updated: 2024-06-26T12:32:22.997Z
 tags:
   - windows10
   - windows11
@@ -134,3 +134,33 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
  WingetUi makes it easy for the average Joe to manage app packages on a Windows PC. There is a similar web-based GUI package manager called Winstall for batch-installing apps, but it only generates codes for it. You will have to manually run the commands in the Terminal. So, you can use WingetUI instead if you want zero interaction with Windows Terminal.
 
  If you have used Winget even once, you know that knowing the correct commands is of absolute importance if you want to avoid errors. But what if you had a GUI version of Winget? WingetUI is one such app that slaps a coat of UI on Winget. Curious? Let’s begin.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/ai-driven-evolution-in-windows-software-design/"><u>AI-Driven Evolution in Windows Software Design</u></a></li>
+<li><a href="https://windows11.techidaily.com/howtomakenotepadwindowssmoothatnight/"><u>HowToMakeNotepadWIndowsSmoothAtNight</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-the-full-capabilities-of-docker-in-wsl-2-windows/"><u>Unleashing the Full Capabilities of Docker in WSL 2 Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-windows-11-performance-run-command-upgrade-guide/"><u>Boosting Windows 11 Performance: Run Command Upgrade Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-pointer-design-in-microsoft-systems/"><u>Customize Pointer Design in Microsoft Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-lost-functionality-to-windows-netflix/"><u>Restoring Lost Functionality to Windows Netflix</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-handheneld-to-hardware-android-titles-on-windows-via-google-service/"><u>From Handheneld to Hardware: Android Titles on Windows via Google Service</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-windows-accessibility-hub-in-5-simple-steps/"><u>Master the Windows Accessibility Hub - In 5 Simple Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-superior-video-encoders-for-windows-computing/"><u>Identifying Superior Video Encoders for Windows Computing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cut-edit-repeat-top-10-free-webm-video-editing-software-for-2024/"><u>Cut, Edit, Repeat Top 10 Free WebM Video Editing Software for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-visualize-your-music-top-free-applications-to-watch-out-for-on-iphones-and-android-devices/"><u>New In 2024, Visualize Your Music Top Free Applications to Watch Out For on iPhones and Android Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/adobes-power-for-creating-lifelike-3d-text-in-photos-for-2024/"><u>Adobe's Power for Creating Lifelike 3D Text in PHOTOS for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-no-distractions-just-high-quality-webcam-recording/"><u>[New] 2024 Approved  No Distractions, Just High-Quality Webcam Recording</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-ultimate-guide-to-peak-post-times-on-instagram/"><u>[New] 2024 Approved  The Ultimate Guide to Peak Post Times on Instagram</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-overcome-sound-absence-on-tweeted-film-rolls/"><u>[Updated] Overcome Sound Absence on Tweeted Film Rolls</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-8-collaborative-video-collage-apps-for-android-users-freepaid/"><u>2024 Approved  Top 8 Collaborative Video Collage Apps for Android Users (Free/Paid)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-cost-effective-video-capture-for-less-expensive-systems/"><u>[Updated] Cost-Effective Video Capture for Less Expensive Systems</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/"><u>[New] In 2024, Swiftly Move Data  Fast and Reliable Methods to Direct Files Onto Your Computer</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

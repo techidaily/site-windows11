@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Create a Personalized Windows Text Recognition Program
-date: 2024-06-24 13:13:14
-updated: 2024-06-25 12:45:25
+date: 2024-06-25T11:54:55.492Z
+updated: 2024-06-26T11:54:55.492Z
 tags:
   - windows10
   - windows11
@@ -251,3 +251,34 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
  By correctly setting the default values of your GUI and maybe adding a generic prompt, you can turn Whisper into a three-clicks-to-transcribe solution: No paying for commercial solutions, third-party services, fiddling with complicated interfaces, or typing in a terminal.
 
  With AutoHotkey, we can effortlessly create a basic GUI for command-line apps like Whisper. So, let's do that and see how you can create your own transcription app by combining AutoHotkey's GUI-making superpowers with OpenAI's Whisper as the "brain" behind the buttons.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/easily-identify-last-opened-files-in-windows-explorer/"><u>Easily Identify Last Opened Files in Windows Explorer</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correct-hardware-detection-errors-in-win/"><u>How To Correct Hardware Detection Errors in Win</u></a></li>
+<li><a href="https://windows11.techidaily.com/redirecting-to-file-explorer-from-onedrive-menu/"><u>Redirecting to File Explorer From OneDrive Menu</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-printer-sharing-challenges-in-windows/"><u>Navigating Printer Sharing Challenges in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/easing-through-policy-restrictions-in-admin-blocked-installations/"><u>Easing Through Policy Restrictions in Admin-Blocked Installations</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-error-0x80d03801-on-microsoft-store-pcs/"><u>Resolving Error 0X80D03801 on Microsoft Store PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-blueprint-for-a-more-effective-and-reliable-windows-11/"><u>The Blueprint for a More Effective and Reliable Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-camera-app-crash-microsofts-windows-error-0xa00f425d/"><u>Eliminating Camera App Crash: Microsoft's Windows Error 0xA00F425D</u></a></li>
+<li><a href="https://windows11.techidaily.com/pro-tips-for-mastering-local-user-groups-on-win1110/"><u>Pro Tips for Mastering Local User Groups on Win11/10</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-5-writing-enhancers-for-your-windows-desktop/"><u>Top 5 Writing Enhancers for Your Windows Desktop</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-hot-and-heated-tweets-the-fresh-face-of-media/"><u>[New] 2024 Approved  Hot and Heated Tweets  The Fresh Face of Media</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sculpt-satirical-gifs-via-giphy/"><u>2024 Approved  Sculpt Satirical Gifs via Giphy</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/expert-strategies-for-choosing-valheim-crops/"><u>Expert Strategies for Choosing Valheim Crops</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fine-tuning-the-art-of-recording-in-audacity/"><u>[Updated] Fine-Tuning the Art of Recording in Audacity</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-inshot-audio-techniques-for-professional-editors/"><u>[Updated] InShot Audio Techniques for Professional Editors</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-xiaomi-redmi-13c-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Xiaomi Redmi 13C 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-guide-to-video-editing-on-your-smartphone/"><u>New The Ultimate Guide to Video Editing on Your Smartphone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-5-best-chrome-extensions-for-vimeo-video-downloader/"><u>[New] 2024 Approved  5 Best Chrome Extensions for Vimeo Video Downloader</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-do-you-want-to-rotate-your-tiktok-video-to-stylize-it-more-this-article-will-provide-simple-methods-of-rotating-tiktok-videos-to-improve-the-audienc/"><u>In 2024, Do You Want to Rotate Your TikTok Video to Stylize It More? This Article Will Provide Simple Methods of Rotating TikTok Videos to Improve the Audience Viewing Experience</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/professional-strategies-for-embedding-timestamps-on-your-channel/"><u>Professional Strategies for Embedding Timestamps on Your Channel</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

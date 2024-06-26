@@ -1,7 +1,7 @@
 ---
 title: How to Develop Window's Custom Text-To-Voice Software Using Whisper & AHK
-date: 2024-06-23 14:37:10
-updated: 2024-06-26 12:59:53
+date: 2024-06-25T12:18:32.608Z
+updated: 2024-06-26T12:18:32.608Z
 tags:
   - windows10
   - windows11
@@ -251,3 +251,31 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
  By correctly setting the default values of your GUI and maybe adding a generic prompt, you can turn Whisper into a three-clicks-to-transcribe solution: No paying for commercial solutions, third-party services, fiddling with complicated interfaces, or typing in a terminal.
 
  With AutoHotkey, we can effortlessly create a basic GUI for command-line apps like Whisper. So, let's do that and see how you can create your own transcription app by combining AutoHotkey's GUI-making superpowers with OpenAI's Whisper as the "brain" behind the buttons.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/the-essence-of-personalization-through-ai-at-ms-store/"><u>The Essence of Personalization Through AI at MS Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/reactivating-inputs-post-sleep-on-latest-windows/"><u>Reactivating Inputs Post-Sleep on Latest Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-evolution-unveiling-the-latest-system-updates/"><u>Windows 11'S Evolution: Unveiling the Latest System Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfect-your-pc-settings-unlock-potential-using-alomware-suite/"><u>Perfect Your PC Settings: Unlock Potential Using AlomWare Suite</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-of-internet-options-tweaks-for-windows-11/"><u>Mastery of Internet Options Tweaks for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-video-quality-using-madvr-on-windows/"><u>Boosting Video Quality: Using MadVR on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/choosing-wisely-windows-terminal-as-your-primary-cli/"><u>Choosing Wisely: Windows Terminal as Your Primary CLI</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveil-productivity-customize-taskbar-and-tiles-in-win-11/"><u>Unveil Productivity: Customize Taskbar & Tiles in Win 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cutting-edge-chapter-tactics-to-complement-your-youtube-presentations-for-2024/"><u>[New] Cutting-Edge Chapter Tactics to Complement Your YouTube Presentations for 2024</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-how-to-use-imovie-text-effects/"><u>Updated How to Use iMovie Text Effects</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-11-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 11 to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-top-free-video-editing-software-for-newbies-desktoponlinemobile/"><u>Updated 2024 Approved Top Free Video Editing Software for Newbies Desktop/Online/Mobile</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-taking-comedy-to-the-digital-frontier-your-gif-creation-roadmap/"><u>[New] Taking Comedy to the Digital Frontier  Your GIF Creation Roadmap</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-photo-perfection-can-picku-be-top-for-android-users/"><u>[Updated] Exploring Photo Perfection  Can PickU Be Top for Android Users?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/toolwiz-demystified-detailed-app-evaluation-for-photo-experts-for-2024/"><u>Toolwiz Demystified  Detailed App Evaluation for Photo Experts for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-how-to-create-snapchat-lenses-easily-2-methods/"><u>In 2024, How to Create Snapchat Lenses Easily  2 Methods</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-fast-and-efficient-image-captures-pcs-top-snipping-software-ranked/"><u>[New] 2024 Approved  Fast & Efficient Image Captures  PC's Top Snipping Software Ranked</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

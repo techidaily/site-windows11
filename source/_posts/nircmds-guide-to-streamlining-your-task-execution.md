@@ -1,7 +1,7 @@
 ---
 title: NirCmd's Guide to Streamlining Your Task Execution
-date: 2024-06-21 14:43:49
-updated: 2024-06-24 10:22:59
+date: 2024-06-25T12:31:26.673Z
+updated: 2024-06-26T12:31:26.673Z
 tags:
   - windows10
   - windows11
@@ -138,3 +138,31 @@ thumbnail: https://thmb.techidaily.com/693eb80266e384166dbf5061df1490b93fef1d741
  Those are just a few handy Windows tasks for which you can create desktop and keyboard shortcuts with NirCmd commands. This [NirCmd command reference page](https://nircmd.nirsoft.net/) shows there are 105 NirCmd commands available for creating Windows task shortcuts. So, you can also create Windows task shortcuts for adjusting the volume, setting display resolution, restarting File Explorer, saving screenshots, converting images, and much more!
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/choosing-wisely-windows-terminal-as-your-primary-cli/"><u>Choosing Wisely: Windows Terminal as Your Primary CLI</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-11-and-galaxy-ties-with-samsung-dex/"><u>Unveiling Windows 11 & Galaxy Ties with Samsung DeX</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-pcs-duration-before-lockdown/"><u>Adjusting PC's Duration Before Lockdown</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-view-simple-fixes-for-windows-11-screen-haze/"><u>Transform Your View: Simple Fixes for Windows 11 Screen Haze</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-bypass-ms-defenders-blockage-on-third-party-av/"><u>How to Bypass MS Defender's Blockage on Third-Party AV</u></a></li>
+<li><a href="https://windows11.techidaily.com/embracing-ai-with-microsoft-copilot-writes-and-debugging/"><u>Embracing AI with Microsoft Copilot' Writes and Debugging</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-the-gap-enabling-smooth-steam-connection/"><u>Mending the Gap: Enabling Smooth Steam Connection</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-shift-script-moving-windows-11-selected-files/"><u>Quick Shift Script: Moving Windows 11 Selected Files</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-efficient-transfer-of-movie-maker-videos-to-vimeo/"><u>[Updated] Efficient Transfer of Movie Maker Videos to Vimeo</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vegas-pros-21-landmark-release-a-complete-analysis/"><u>Vegas Pro's '21 Landmark Release - A Complete Analysis</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-key-points-to-consider-when-navigating-tiktok-web-on-macos/"><u>2024 Approved  Key Points to Consider When Navigating TikTok Web on macOS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/smart-selections-essential-mac-programs-for-videograbbing-for-2024/"><u>Smart Selections  Essential Mac Programs for Videograbbing for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-3-sites-to-find-free-gionee-unlock-codes-to-unlock-your-gionee-phone-by-drfone-android/"><u>Top 3 Sites to Find Free Gionee Unlock Codes to Unlock Your Gionee Phone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-4k-revolution-takes-flight-q500-review/"><u>[New] The 4K Revolution Takes Flight - Q500 Review</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/creating-synchronized-media-incorporating-video-into-audio-streams-for-2024/"><u>Creating Synchronized Media Incorporating Video Into Audio Streams for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-asus-rog-phone-7-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Asus ROG Phone 7 to Laptop Without USB | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

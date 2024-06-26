@@ -1,7 +1,7 @@
 ---
 title: "Top 8 Windows 11 No-Nos: Common Pitfalls to Skip"
-date: 2024-06-24 15:57:25
-updated: 2024-06-25 10:31:14
+date: 2024-06-25T12:19:50.341Z
+updated: 2024-06-26T12:19:50.341Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/1fe266fd758c5a75e45b03c65cf75f79c47b7be92
 
 ## 1\. Microsoft Defender Protects Your PC From Threats, Never Disable It
 
-![Microsoft Defender Logo on Laptop Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-defender-protection-history.jpg)
+![Microsoft Defender Logo on Laptop Screen](https://thmb.techidaily.com/5b41f1296863a8cc22d3a2c3dbb979d19c4362b2b1c96fbfb8d71b7193c17bd8.jpg)
 
  Microsoft Defender, formerly known as Windows Defender, is your default antivirus app that protects your PCs from various threats, including viruses, malware, spyware, and phishing. It protects you from falling prey to threats emanating from both online and offline.
 
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/1fe266fd758c5a75e45b03c65cf75f79c47b7be92
 
 ## 2\. You Should Not Download Software From Untrusted Sources
 
-![The Microsoft Store app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/microsoft-store-app.jpg)
+![The Microsoft Store app](https://thmb.techidaily.com/2ce1793b7eb9df5d73bd2287ee2fb75c54bfd7ec38a9d51d9c25c70c5f788347.jpg)
 
  No matter how advanced antivirus software you use on your PC, never download software from untrusted sources. And if you're not much of an internet person, it can be tricky to identify trustworthy sources.
 
@@ -107,3 +107,31 @@ thumbnail: https://thmb.techidaily.com/1fe266fd758c5a75e45b03c65cf75f79c47b7be92
  On the flip side, Windows 11's default setup doesn't always work in your best interest. This is why it's important to know what you should change and what you should not.
 
  We've put together a list of things you should never do in Windows 11\. Not only that, but we're also giving reasons why you should not change them on your PC.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/a-practical-guide-to-running-ping-efficiently-on-pcs/"><u>A Practical Guide to Running Ping Efficiently on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-yuzu-emulation-speed-in-windows/"><u>Elevating Yuzu Emulation Speed in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolve-null-audio-output-on-windows-pcs/"><u>Resolve Null Audio Output on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-unblocked-access-for-microsoft-store-app-in-win11/"><u>Reinstating Unblocked Access for Microsoft Store App in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-policy-settings-with-proven-gpo-update-methods/"><u>Streamlining Policy Settings with Proven GPO Update Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncomplicated-superiority-persistent-high-privilege-terminal/"><u>Uncomplicated Superiority: Persistent High-Privilege Terminal</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhanced-windows-file-navigation-a-guide-excluding-ls/"><u>Enhanced Windows File Navigation: A Guide Excluding LS</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-11-for-optimal-clipchamp-functionality/"><u>Unlocking Windows 11 for Optimal ClipChamp Functionality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-toolwiz-evaluation-the-top-choice-in-mobile-editing/"><u>[New] Toolwiz Evaluation  The Top Choice in Mobile Editing?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-graphicgrind-studio/"><u>[New] In 2024, GraphicGrind Studio</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-earning-cash-online-with-no-skills-needed-for-2024/"><u>The Ultimate Guide to Earning Cash Online with No Skills Needed for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-storyboard-designers-den-for-2024/"><u>Ultimate Storyboard Designer's Den for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-free-online-platform-convert-any-fb-video-into-a-song/"><u>In 2024, Free Online Platform  Convert Any FB Video Into a Song</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/digital-dominance-top-youtube-watch-count-chronicles-for-2024/"><u>Digital Dominance  Top YouTube Watch Count Chronicles for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-4k-perfection-selecting-youtubes-best-video-tools/"><u>In 2024, 4K Perfection  Selecting YouTube's Best Video Tools</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-the-path-to-connected-playlists-and-channels/"><u>[Updated] The Path to Connected Playlists & Channels</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cut-costs-on-downloads-with-this-list-of-20-free-youtube-sound-rippers/"><u>[Updated] 2024 Approved  Cut Costs on Downloads with This List of 20 Free YouTube Sound Rippers</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

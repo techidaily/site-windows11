@@ -1,7 +1,7 @@
 ---
 title: Stop Frozen Pages and Scrolling Issues in Excel
-date: 2024-06-24 13:40:10
-updated: 2024-06-25 12:18:39
+date: 2024-06-25T12:13:13.382Z
+updated: 2024-06-26T12:13:13.382Z
 tags:
   - windows10
   - windows11
@@ -121,3 +121,34 @@ thumbnail: https://thmb.techidaily.com/80d3fa767f44fdaa6b3c03730260a31e590107858
  When you work on large Excel spreadsheets, it is often necessary to scroll both horizontally and vertically in order to access and modify data. But what if you can’t scroll in Microsoft Excel with your mouse or keyboard on Windows?
 
  Scrolling issues in Microsoft Excel can not only disrupt your workflow but also leave you feeling annoyed. Here, we share some quick and easy tips that will help you get back to scrolling spreadsheets in Excel once again.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/how-to-turn-off-or-disable-the-microsoft-defender-firewall-in-windows-11/"><u>How to Turn Off or Disable the Microsoft Defender Firewall in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-rearranged-characters-in-windows-os/"><u>Solutions for Rearranged Characters in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-point-guide-to-achievement-enhancement-in-vintage-titles-via-retroarch/"><u>Step-By Point Guide to Achievement Enhancement in Vintage Titles via Retroarch</u></a></li>
+<li><a href="https://windows11.techidaily.com/procedures-to-disregard-the-your-license-will-end-alert/"><u>Procedures to Disregard the Your License Will End Alert</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensuring-continuous-play-fixing-fall-guys-errors-in-windows-os/"><u>Ensuring Continuous Play: Fixing Fall Guys Errors in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/tweak-your-pc-reduce-memorycpu-waste-from-apps/"><u>Tweak Your PC: Reduce Memory/CPU Waste From Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfecting-user-interaction-essential-modifications-for-windows-11s-taskbar/"><u>Perfecting User Interaction: Essential Modifications for Windows 11'S Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-alleviate-windows-1011s-devastating-discord-js-failure/"><u>How to Alleviate Windows 10/11'S Devastating Discord JS Failure</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-high-cpu-in-your-host-system/"><u>Taming High CPU in Your Host System</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboard-knots-unraveling-win10-functional-issues/"><u>Keyboard Knots: Unraveling WIN10 Functional Issues</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-6s-plus-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 6s Plus Without a Passcode</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-30-metaverse-memes-crafting-hilarious-digital-delights/"><u>In 2024, Top 30 Metaverse Memes  Crafting Hilarious Digital Delights</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-fb-forum-film-replayer/"><u>[New] In 2024, Fb Forum Film Replayer</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-windows-11-video-editing-the-best-tools-for-the-job/"><u>New Windows 11 Video Editing The Best Tools for the Job</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-vivo-t2x-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Vivo T2x 5G</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-15-plus-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 15 Plus to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-seamless-sync-tweets-as-videos-on-whatsapp/"><u>In 2024, Seamless Sync  Tweets as Videos on WhatsApp</u></a></li>
+<li><a href="https://android-frp.techidaily.com/samsung-galaxy-m14-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Samsung Galaxy M14 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-blueprint-creating-exceptional-podcast-content-on-idevices/"><u>2024 Approved  The Ultimate Blueprint  Creating Exceptional Podcast Content on iDevices</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

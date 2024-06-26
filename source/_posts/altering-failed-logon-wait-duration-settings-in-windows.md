@@ -1,7 +1,7 @@
 ---
 title: Altering Failed Logon Wait Duration Settings in Windows
-date: 2024-06-24 20:17:58
-updated: 2024-06-25 10:54:13
+date: 2024-06-25T12:44:42.643Z
+updated: 2024-06-26T12:44:42.643Z
 tags:
   - windows10
   - windows11
@@ -56,3 +56,33 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
  Setting account lockout duration too high will cause inconvenience, but if you set it to zero, an administrator will have to be contacted each time a user locks themselves out. Find a balance between security and convenience when it comes to changing how long a user is locked out after a set number of failed login attempts.
 
  Here’s how to change how long someone using a specific Windows machine is locked out if they enter the wrong login credentials a certain number of times. You must be signed in as an administrator to change this policy.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/streamline-your-win11-upgrades-eradicate-error-0xc1900101/"><u>Streamline Your Win11 Upgrades, Eradicate Error 0xC1900101</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-fatal-error-code-0x800f0831/"><u>Resolving Windows' Fatal Error: Code 0X800F0831</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-recovering-battlenet-login-on-pcs/"><u>Mastering the Art of Recovering Battle.net Login on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-back-chrome-color-loss/"><u>Winning Back Chrome Color Loss</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-and-simplify-game-setup-in-xbox-app/"><u>Streamline and Simplify Game Setup in Xbox App</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-network-path-with-fixed-ea-server-error-in-os/"><u>Restoring Network Path with Fixed EA Server Error in OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unlock-and-reset-restricted-program-status/"><u>How to Unlock and Reset Restricted Program Status</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-printer-busy-errors-on-pcs/"><u>Troubleshooting Printer Busy Errors on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-record-audio-on-windows-11/"><u>How to Record Audio on Windows 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-nokia-g42-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/77-hilarious-tiktok-quiz-time/"><u>77 Hilarious TikTok Quiz Time</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-maximizing-video-impact-on-tiktok-using-computertablet/"><u>[Updated] 2024 Approved  Maximizing Video Impact on TikTok Using Computer/Tablet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-into-expertise-modifying-numbers-on-tiktok-profiles/"><u>Step Into Expertise  Modifying Numbers on TikTok Profiles</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-streamlining-devices-how-to-delete-downloaded-videos/"><u>In 2024, Streamlining Devices  How to Delete Downloaded Videos</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-blade-a73-5g-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Blade A73 5G has been deleted</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-unlocking-asmr-potential-professional-filming-practices-revealed/"><u>[Updated] Unlocking ASMR Potential  Professional Filming Practices Revealed</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-mindful-browsing-a-compendium-of-online-destinations-to-find-tranquility-and-relaxation-this-year/"><u>In 2024, Mindful Browsing A Compendium of Online Destinations to Find Tranquility and Relaxation This Year</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-21-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from 21.</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

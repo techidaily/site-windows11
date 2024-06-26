@@ -1,7 +1,7 @@
 ---
 title: Disentangling Compact Icons on Desktop Shelf
-date: 2024-06-22 12:51:29
-updated: 2024-06-25 11:16:30
+date: 2024-06-25T12:30:16.035Z
+updated: 2024-06-26T12:30:16.035Z
 tags:
   - windows10
   - windows11
@@ -55,3 +55,33 @@ thumbnail: https://thmb.techidaily.com/2527931ff4c659441e41ccebfbfcddf054977d94a
  Hopefully, a graphics driver update has fixed this issue for you in the long term. If not, it's up to Microsoft to roll out a patch for this.
 
  Icons bunching up on the taskbar fit in the latter but are something that needs to be fixed all the same. Here's how to space your icons out again on Windows.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/addressing-xp709-crash-in-windows/"><u>Addressing XP709 Crash in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/alleviating-overuse-of-wmi-in-windows-installer/"><u>Alleviating Overuse of WMI in Windows Installer</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-system-stability-automatic-windows-and-amd-driver-shift/"><u>Elevate System Stability: Automatic Windows & AMD Driver Shift</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-win11-uis-image-summaries/"><u>Customize Win11 UI's Image Summaries</u></a></li>
+<li><a href="https://windows11.techidaily.com/curing-grayed-screen-savers-quick-fixes-for-windows-users/"><u>Curing Grayed Screen Savers: Quick Fixes for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/revive-the-disappearing-link-top-9-methods-for-win-11s-bluetooth-woes/"><u>Revive the Disappearing Link: Top 9 Methods for Win 11'S Bluetooth Woes</u></a></li>
+<li><a href="https://windows11.techidaily.com/building-a-personalized-voice-transcription-tool-on-windows-using-ahk/"><u>Building a Personalized Voice Transcription Tool on Windows Using AHK</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-handle-exception-breaking-point-issues-on-pc/"><u>How to Handle Exception Breaking Point Issues on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-windows-0xfffffff-confusion-quick-fixes/"><u>Clearing Windows' 0XFFFFFFF Confusion: Quick Fixes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-xiaomi-redmi-note-13-pro-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Xiaomi Redmi Note 13 Pro 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-11-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 11 with a Broken Screen?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-top-twitter-video-hits-the-10-most-popular-tweets-watched-today/"><u>2024 Approved  Top Twitter Video Hits  The 10 Most Popular Tweets Watched Today</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Max, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-clean-slate-creations-guide-to-the-psx-eraser-tool/"><u>In 2024, Clean Slate Creations  Guide to the PSX Eraser Tool</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-nightmares-unleashed-8-must-play-zombie-games-explored/"><u>In 2024, Nightmares Unleashed  8 Must-Play Zombie Games Explored</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-a-complete-guide-to-the-best-brand-story-videos-2023/"><u>Updated In 2024, A Complete Guide to the Best Brand Story Videos |2023|</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-how-to-use-voicemod-on-discord-for-2024/"><u>[New] How To Use Voicemod On Discord for 2024</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
