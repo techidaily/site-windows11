@@ -32,8 +32,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-or-Disable-Delete-Confirmation-Dialog-via-Recycle-Bin-Properties.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-or-Disable-Delete-Confirmation-Dialog-via-Group-Policy-Editor.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-or-Disable-Delete-Confirmation-Dialog-via-Registry-Editor.jpg">
-<meta property="article:published_time" content="2024-06-25T03:56:33.948Z">
-<meta property="article:modified_time" content="2024-06-26T03:56:33.948Z">
+<meta property="article:published_time" content="2024-07-03T03:10:02.431Z">
+<meta property="article:modified_time" content="2024-07-04T03:10:02.431Z">
 <meta property="article:author" content="Joseph">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -601,7 +601,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">3251</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">3858</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -654,15 +654,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-06-25 11:56:33</span>
-        <span class="mobile">2024-06-25 11:56:33</span>
+        <span class="desktop">2024-07-03 11:10:02</span>
+        <span class="mobile">2024-07-03 11:10:02</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-06-26 11:56:33</span>
-            <span class="mobile">2024-06-26 11:56:33</span>
+            <span class="desktop">2024-07-04 11:10:02</span>
+            <span class="mobile">2024-07-04 11:10:02</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -742,10 +742,10 @@
 <p> Once you complete the above steps, Windows should display the delete confirmation dialog every time you move something to the Recycle Bin.</p>
 <p> If you want to disable the delete confirmation dialog in the future, repeat the above steps and uncheck the<strong>Display delete confirmation dialog</strong> checkbox.</p>
 <h2 id="2-Enable-or-Disable-Delete-Confirmation-Dialog-Using-Group-Policy-Editor"><a href="#2-Enable-or-Disable-Delete-Confirmation-Dialog-Using-Group-Policy-Editor" class="headerlink" title="2. Enable or Disable Delete Confirmation Dialog Using Group Policy Editor"></a>2. Enable or Disable Delete Confirmation Dialog Using Group Policy Editor</h2><p> If you’re a system administrator, you might prefer using the Group Policy Editor to make system-level changes. In that case, you can use the following steps to enable or disable the delete confirmation dialog on Windows.</p>
-<p> Note that Group Policy Editor is a feature reserved for the Professional, Enterprise, and Education editions of Windows. If you’re using Windows Home, you’ll need to enable the Group Policy Editor first. Check out<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/" >how to access the group policy editor on Windows Home <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and follow the steps outlined there.</p>
+<p> Note that Group Policy Editor is a feature reserved for the Professional, Enterprise, and Education editions of Windows. If you’re using Windows Home, you’ll need to enable the Group Policy Editor first. Check out <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/" >how to access the group policy editor on Windows Home <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and follow the steps outlined there.</p>
 <ol>
 <li>Press<strong>Win + R</strong> to open the Run dialog.</li>
-<li>Type<strong>gpedit.msc</strong> in the box and press<strong>Enter</strong> . This will<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/open-local-group-policy-editor-windows/" >open the Local Group Policy Editor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> .</li>
+<li>Type<strong>gpedit.msc</strong> in the box and press<strong>Enter</strong> . This will <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/open-local-group-policy-editor-windows/" >open the Local Group Policy Editor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> .</li>
 <li>Use the left pane to navigate to <strong>User Configuration &gt; Administrative Templates &gt; Windows Components &gt; File Explorer</strong> .</li>
 <li>Double-click the<strong>Display confirmation dialog when deleting files</strong> policy.</li>
 <li>Select the<strong>Enabled</strong> radio button.</li>
@@ -756,7 +756,7 @@
                       alt="Enable or Disable Delete Confirmation Dialog via Group Policy Editor"
                 ></li>
 </ol>
-<h2 id="3-Enable-or-Disable-Delete-Confirmation-Dialog-With-Registry-Editor"><a href="#3-Enable-or-Disable-Delete-Confirmation-Dialog-With-Registry-Editor" class="headerlink" title="3. Enable or Disable Delete Confirmation Dialog With Registry Editor"></a>3. Enable or Disable Delete Confirmation Dialog With Registry Editor</h2><p> If the above methods do not work for some reason, you can make a few changes in the Registry Editor to enable or disable the delete confirmation prompt on Windows. Since Windows Registry holds critical settings for Windows operating system, make sure you<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/backup-restore-windows-registry/" >back up all the registry files <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-11-create-restore-point/" >create a restore point <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> before proceeding.</p>
+<h2 id="3-Enable-or-Disable-Delete-Confirmation-Dialog-With-Registry-Editor"><a href="#3-Enable-or-Disable-Delete-Confirmation-Dialog-With-Registry-Editor" class="headerlink" title="3. Enable or Disable Delete Confirmation Dialog With Registry Editor"></a>3. Enable or Disable Delete Confirmation Dialog With Registry Editor</h2><p> If the above methods do not work for some reason, you can make a few changes in the Registry Editor to enable or disable the delete confirmation prompt on Windows. Since Windows Registry holds critical settings for Windows operating system, make sure you <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/backup-restore-windows-registry/" >back up all the registry files <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-11-create-restore-point/" >create a restore point <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> before proceeding.</p>
 <p> To enable or disable the delete confirmation dialog using Registry Editor:</p>
 <ol>
 <li>Press<strong>Win + S</strong> to open the search menu.</li>
@@ -817,11 +817,11 @@
         <li><strong>Title:</strong> Efficiently Manage Windows&#39; Deletion Prompt Actions</li>
         <li><strong>Author:</strong> Joseph</li>
         <li><strong>Created at
-                :</strong> 2024-06-25 11:56:33</li>
+                :</strong> 2024-07-03 11:10:02</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-06-26 11:56:33
+                    :</strong> 2024-07-04 11:10:02
             </li>
         
         <li>
@@ -865,13 +865,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/elevate-system-stability-automatic-windows-and-amd-driver-shift/"
+                        href="/navigating-windows-11-for-sticky-note-usage/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Elevate System Stability: Automatic Windows &amp; AMD Driver Shift</span>
+                                <span class="post-nav-title-item">Navigating Windows 11 for Sticky Note Usage</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -881,10 +881,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/disregard-met-not-fulfilled-emblem-on-win11/"
+                        href="/elevating-visuals-perfect-windows-desktop-backdrops/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Disregard Met Not Fulfilled Emblem on Win11</span>
+                                <span class="post-nav-title-item">Elevating Visuals: Perfect Windows Desktop Backdrops</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">

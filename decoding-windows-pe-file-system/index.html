@@ -31,8 +31,8 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/laptop-with-code-on-screen.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-portable-executable-structure-diagram.jpg">
-<meta property="article:published_time" content="2024-06-25T04:05:34.855Z">
-<meta property="article:modified_time" content="2024-06-26T04:05:34.855Z">
+<meta property="article:published_time" content="2024-07-03T03:10:03.537Z">
+<meta property="article:modified_time" content="2024-07-04T03:10:03.537Z">
 <meta property="article:author" content="Joseph">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -600,7 +600,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">3251</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">3858</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -653,15 +653,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-06-25 12:05:34</span>
-        <span class="mobile">2024-06-25 12:05:34</span>
+        <span class="desktop">2024-07-03 11:10:03</span>
+        <span class="mobile">2024-07-03 11:10:03</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-06-26 12:05:34</span>
-            <span class="mobile">2024-06-26 12:05:34</span>
+            <span class="desktop">2024-07-04 11:10:03</span>
+            <span class="mobile">2024-07-04 11:10:03</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -736,7 +736,7 @@
 <p> Before exploring the Windows Portable Executable format, it’s important to clear up the basics. Let’s take a step back and learn about the underlying concept of Windows PE—COFF.</p>
 <p> When you compile the source code to a program, the compiler generates an object file (.obj). This object file contains instructions for the computer in binary format.</p>
 <p> COFF or Common Object File Format is a standardized set of conventions for representing binary instructions. COFF helps in maintaining cross-platform compatibility as all COFF file formats follow the same set of rules and conventions for organizing code and data. Although COFF was originally developed for use on *NIX systems, it is now ubiquitous across all platforms.</p>
-<p> The Windows Portable Executable (PE) file format is a modification of COFF and has been developed to be exclusively used on<a class="link"   target="_blank" rel="noopener" href="http://www.makeuseof.com/tag/difference-32-bit-64-bit-windows/" >32-bit and 64-bit Windows systems <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> . Unlike COFF, which provides a standardized format for object files, Windows PE provides a standardized format for executables and library files.</p>
+<p> The Windows Portable Executable (PE) file format is a modification of COFF and has been developed to be exclusively used on <a class="link"   target="_blank" rel="noopener" href="http://www.makeuseof.com/tag/difference-32-bit-64-bit-windows/" >32-bit and 64-bit Windows systems <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> . Unlike COFF, which provides a standardized format for object files, Windows PE provides a standardized format for executables and library files.</p>
 <p> It contains sections and headers which provide information about the executable in question and helps the system loader manage data related to the executable. The headers in a PE file help the system loader map the file onto the memory, resolve dependencies such as API exports&#x2F;imports, manage resources and prepare the file for execution.</p>
 <p> Linux also has its own iteration of the COFF; it’s called Executable Link File or in short, ELF binary. You can check if a file is ELF or not by running the<strong>file command</strong> on Linux with the filename as the first argument.</p>
 <h2 id="The-Structure-of-a-Windows-Portable-Executable"><a href="#The-Structure-of-a-Windows-Portable-Executable" class="headerlink" title="The Structure of a Windows Portable Executable"></a>The Structure of a Windows Portable Executable</h2><p><img  
@@ -755,7 +755,7 @@
 <p> Overall, these components work together to create a structured format that allows the operating system to properly load, execute, and manage the executable code contained in the file. Let’s learn exactly what each component does.</p>
 <h3 id="DOS-Header"><a href="#DOS-Header" class="headerlink" title="DOS Header"></a>DOS Header</h3><p> The first part of a PE file is called the DOS Header. A small amount of executable code is stored in the DOS header which can also be run on a DOS machine.</p>
 <p> This code is also called the MS-DOS stub and is used to throw an error message on systems that don’t support the PE file.</p>
-<h3 id="PE-Header"><a href="#PE-Header" class="headerlink" title="PE Header"></a>PE Header</h3><p> The Portable Executable header gives information about the executable, like how big the file is, where the different parts are located, and what resources the executable needs. The PE header also has information about the type of executable, whether it’s a<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/what-are-dll-files-on-windows/" >Windows .DLL file <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or an .EXE.</p>
+<h3 id="PE-Header"><a href="#PE-Header" class="headerlink" title="PE Header"></a>PE Header</h3><p> The Portable Executable header gives information about the executable, like how big the file is, where the different parts are located, and what resources the executable needs. The PE header also has information about the type of executable, whether it’s a <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/what-are-dll-files-on-windows/" >Windows .DLL file <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or an .EXE.</p>
 <h3 id="Section-Headers"><a href="#Section-Headers" class="headerlink" title="Section Headers"></a>Section Headers</h3><p> Sections are implemented to organize the many components of an executable such as code, data, and resources like text strings, images, etc. The section headers include information regarding the size and location of each section, as well as any associated flags.</p>
 <p> The flags associated with each section header can indicate various attributes of the section, such as whether it is executable, writable, or readable. These flags help the operating system to properly load and manage the contents of each section during program execution.</p>
 <h3 id="Sections"><a href="#Sections" class="headerlink" title="Sections"></a>Sections</h3><p> The sections themselves comprise the executable’s real code, data, and resources. Each segment is aligned to a certain memory boundary and has its own set of attributes that affect how the operating system handles it.</p>
@@ -804,11 +804,11 @@
         <li><strong>Title:</strong> Decoding Windows&#39; PE File System</li>
         <li><strong>Author:</strong> Joseph</li>
         <li><strong>Created at
-                :</strong> 2024-06-25 12:05:34</li>
+                :</strong> 2024-07-03 11:10:03</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-06-26 12:05:34
+                    :</strong> 2024-07-04 11:10:03
             </li>
         
         <li>
@@ -852,13 +852,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/ease-into-accessibility-windows-fundamentals-for-novices/"
+                        href="/mastering-manual-methods-for-malware-detection-on-desktops/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Ease Into Accessibility: Windows Fundamentals for Novices</span>
+                                <span class="post-nav-title-item">Mastering Manual Methods for Malware Detection on Desktops</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -868,10 +868,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/curtailing-spontaneous-console-appearance-triggers/"
+                        href="/guide-for-fixing-nvidia-gui-sharing-glitches/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Curtailing Spontaneous Console Appearance Triggers</span>
+                                <span class="post-nav-title-item">Guide for Fixing NVIDIA GUI Sharing Glitches</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
