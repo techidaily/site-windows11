@@ -1,0 +1,92 @@
+---
+title: Instructional Guide for End Task Enabling on Windows 11
+date: 2024-06-25T12:25:50.734Z
+updated: 2024-06-26T12:25:50.734Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Instructional Guide for End Task Enabling on Windows 11
+excerpt: This Article Describes Instructional Guide for End Task Enabling on Windows 11
+keywords: Windows 11 End Task,Enable Tasks in Win11,Guide to Task Control W11,Mastering EndTask Windows,Optimizing Windows EndTask,Execute Task Management Win11,Task Control on Windows 11
+thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2bf8e16eab36445ca53259ede.jpg
+---
+
+## Instructional Guide for End Task Enabling on Windows 11
+
+ The "end task" option in Windows 11 is your best friend when a program has stopped responding or has frozen. It allows you to close those unresponsive applications without restarting your PC. However, the "end task" may not be easy to find on Windows 11, especially if you are new to the operating system.
+
+ In this article, we are sharing tricks to bring the End task option to the Windows 11 taskbar by using ViveTool. After enabling it, you will be only a click away from closing all the unresponsive applications.
+
+## What Is ViveTool, And Why Do You Need It to Enable End Task in Taskbar?
+
+ ViveTool is a third-party program designed to enable Windows 11 features that Microsoft is testing internally and are not available for Insiders or general users. Using this app, ViveTool can give you an idea about what the software company plans to introduce to the next Windows 11 updates.
+
+ At the time of writing, the "end task" option on Windows 11 taskbar is currently hidden in Windows 11 Dev Insider build 25300, meaning that even Insiders can't get it just yet. And this is where the ViveTool comes in.
+
+ You can enable feature ID 42592269 to make the end task option appear on the taskbar jump list. However, before we hop into ViveTool and enable this handy feature, you should keep your expectations low regarding the functionality and reliability of the features you're about to enable.
+
+## How to Enable End Task Option in Windows 11 Taskbar
+
+![End task option in Windows 11 Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/end-task-option-in-taskbar.jpg)
+
+ Besides ViveTool, you also need to ensure that your PC is running Windows 11 Dev Channel build 25300 or later. You should see the build number in the bottom right corner of the desktop. Alternatively, you can navigate to**Settings** \>**System** \>**About** to check the OS build number.
+
+ After ensuring your PC is running build 25300 or newer,[download the ViveTool zip file from the GitHub page](https://github.com/thebookisclosed/ViVe/releases) . Now, open File Explorer and find the zipped file. To unzip it, right-click on the file and select**Extract All** . You can also[unzip the file by using Command Prompt and PowerShell](https://www.makeuseof.com/zip-unzip-files-command-prompt-powershell/) . For the sake of simplicity, the extracted content should be in the folder**C:/ViVeTool** .
+
+![Enable End Task option in Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/feature-id-in-command-prompt-edit.jpg)
+
+ Now that you are done with setting up ViveTool on Windows 11, follow the below steps to enable the feature ID responsible for adding the "end task" option on the Windows 11 taskbar:
+
+1. Open Command Prompt as an Administrator (see[how to open Command Prompt as Administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for steps).
+2. Type the following command and hit**Enter** :  
+cd C:\ViVeTool
+3. Copy and paste the following command and press**Enter:**  
+vivetool /enable /id:42592269
+
+ Command Prompt will display a message that says "Successfully set feature configuration (s)" after successfully running the command. To make the changes take effect, restart your computer. After the restart, open a program and right-click its icon on the taskbar to display the jump list containing the**End task** option.
+
+## An End Task Button on the Windows 11 Taskbar Is Now at Your Fingertips
+
+ Adding the "end task" option onto the Windows 11 taskbar is currently available only via ViveTool. However, in the coming days, Microsoft will likely introduce it to every Windows 11 Insider, then eventually to the public either via a Moment update or through the Windows Web Experience pack. But before that happens, you are now familiar with the trick to terminate any task or process right from the Windows 11 taskbar.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/top-5-tips-for-optimizing-wsl-2-on-modern-windows/"><u>Top 5 Tips for Optimizing WSL 2 on Modern Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/clandestine-control-center-hidepower-command-of-windows-11/"><u>Clandestine Control Center: Hidepower Command of Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-user-interface-learn-window-tweaks-via-alomware/"><u>Enhance User Interface: Learn Window Tweaks via AlomWare</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfecting-taskbar-setup-in-windows-11/"><u>Perfecting Taskbar Setup in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-package-unopenable-woes/"><u>Navigating Through Windows Package Unopenable Woes</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-future-of-personal-computing-transforming-window-11-widgets/"><u>The Future of Personal Computing: Transforming Window 11 Widgets</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-change-your-cursor-on-windows/"><u>How to Change Your Cursor on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/harness-the-power-of-windows-11-a-guide-to-7-effective-techniques-36/"><u>Harness the Power of Windows 11: A Guide to 7 Effective Techniques (36)</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-windows-11-when-it-cant-connect-to-5ghz-wi-fi/"><u>How to Fix Windows 11 When It Can’t Connect to 5GHz Wi-Fi</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-comprehensive-look-at-razer-kiyo-webcam/"><u>[Updated] Comprehensive Look at Razer Kiyo Webcam</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-creative-ways-to-add-green-screen-effects-in-photoshop/"><u>Updated Creative Ways to Add Green Screen Effects In Photoshop</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-pixel-realms-unique-alarm-rhythms/"><u>[New] Ultimate Pixel Realms  Unique Alarm Rhythms</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-customizing-your-discord-avatar/"><u>[New] In 2024, The Ultimate Guide to Customizing Your Discord Avatar</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-how-to-voice-your-imagery-a-tiktok-breakdown/"><u>[New] 2024 Approved  How to Voice Your Imagery  A TikTok Breakdown</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-y200-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo Y200 Phone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/uniting-networks-sharing-fb-vids-on-whatsapp-chat-for-2024/"><u>Uniting Networks  Sharing FB Vids on WhatsApp Chat for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagrams-mirage-identifying-false-friends-at-no-price/"><u>[New] In 2024, Instagram's Mirage  Identifying False Friends at No Price</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-android-and-ios-leading-titles-mimicking-playstation-games/"><u>2024 Approved  Android & iOS  Leading Titles Mimicking PlayStation Games</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-vivo-x-flip-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo X Flip Phone Password Using Emergency Call</u></a></li>
+</ul></div>

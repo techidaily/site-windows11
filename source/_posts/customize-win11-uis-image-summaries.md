@@ -1,0 +1,82 @@
+---
+title: Customize Win11 UI's Image Summaries
+date: 2024-06-25T11:58:15.318Z
+updated: 2024-06-26T11:58:15.318Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Customize Win11 UI's Image Summaries
+excerpt: This Article Describes Customize Win11 UI's Image Summaries
+keywords: Win11 UI Customization,WinUI Images,Win11 Themes,Summary Icons in Win11,UI Personalization Win11,Win11 Image Layouts,Win11 Interface Design
+thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41c01b4f05dc48044320b63e0.jpg
+---
+
+## Customize Win11 UI's Image Summaries
+
+ Have you ever had trouble identifying your images in Windows because their thumbnail size was too small? If so, you've come to the right place. In this article, we'll share two efficient ways to change the image thumbnail size, allowing you to easily organize and locate your files.
+
+## 1\. Change Image Thumbnail Size Using the File Explorer
+
+ Whether you need to perform simple tasks like viewing images or more complex operations like managing [Folder options](https://www.makeuseof.com/windows-folder-options-guide/), the Windows File Explorer has you covered. And if you want to adjust image thumbnail sizes to your liking, you can do that too using File Explorer.
+
+ Here's a step-by-step instruction on how to use File Explorer to change image thumbnail size:
+
+1. Press the **Win** key to open the **Start Menu**.
+2. In the search bar, type **File Explorer** and press Enter. Alternatively, you can press the **Win + E** hotkey to launch the File Explorer.
+3. Head towards the target image folder.
+4. Click the **View** option at the top and choose the image thumbnail size from the context menu. Windows offers four thumbnail sizes – extra large, large, medium, and small. You can choose either of the thumbnail sizes as per your preference.  
+![View option in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-option.jpg)
+
+## 2\. Change the Image Thumbnail Size Using the Registry Editor
+
+ The Registry Editor is a crucial Windows utility that allows you to configure various system settings. However, it's important to note that editing the registry can be risky, as one mistake could cause your system to become unstable. Therefore, it's essential to [back up the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) and [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before proceeding with any changes.
+
+ Once you've completed these prerequisites, follow the steps below to use the Registry Editor to change the image thumbnail size:
+
+1. Open the Start Menu, type **Registry Editor**, and press Enter. If this method doesn't work, check out other [ways to launch the Registry Editor](https://www.makeuseof.com/windows-11-open-registry-editor/).
+2. In the Registry Editor, head toward the following location:  
+`Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer`
+3. Right-click the blank space in the right pane, hover the cursor to **New**, and select **DWORD (32-bit) Value**.  
+![DWORD (32-bit) Value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/dword-32-bit-value-2.jpg)
+4. Name the value **ThumbnailSize**.
+5. Double-click on ThumbnailSize, and enter the value between **32** and **256**. The higher the number, the larger the image thumbnail.  
+![Value data in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/value-data-1.jpg)
+6. Click **OK** to save the changes.
+
+## Everything Is Large and Clear on Windows
+
+ Thumbnails are small representations of the original image, allowing you to identify and organize your images easily. However, if the image thumbnail size is too small, identifying and organizing your images can be challenging. Fortunately, the above methods can help you change the image thumbnail size according to your preference, making it easier to manage your files.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/the-anticipation-surrounding-windows-11s-moment-22h2/"><u>The Anticipation Surrounding Windows 11’S Moment #22H2</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-soft-dependency-management-in-win-environments/"><u>Exploring Soft Dependency Management in Win Environments</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-correcting-malwarebytes-call-failure-in-win11win10/"><u>Steps for Correcting Malwarebytes Call Failure in Win11/Win10</u></a></li>
+<li><a href="https://windows11.techidaily.com/future-proof-computing-with-top-windows-laptop-choices/"><u>Future-Proof Computing with Top Windows Laptop Choices</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-removing-windows-11s-taskbar-chatter-affects-you-the-user/"><u>How Removing Windows 11'S Taskbar Chatter Affects You, The User?</u></a></li>
+<li><a href="https://windows11.techidaily.com/discreetly-putting-an-end-to-invisible-window-tasks/"><u>Discreetly Putting an End to Invisible Window Tasks</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-network-overview-understanding-arp-caches/"><u>Windows Network Overview: Understanding ARP Caches</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-wows-abrupt-server-quit-error-132-in-win11/"><u>Solutions for WoW's Abrupt Server Quit (Error 132) in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/baffling-backup-concealed-control-center-settings/"><u>Baffling Backup: Concealed Control Center Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-performance-and-productivity-in-windows-1011/"><u>Boosting Performance & Productivity in Windows 10/11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-top-8-techniques-for-capturing-pc-audio-and-mic-sounds/"><u>In 2024, Top 8 Techniques for Capturing PC Audio & Mic Sounds</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-oneplus-12-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked OnePlus 12 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-streamlining-meetings-integrate-slack-and-filmora-effortlessly/"><u>[Updated] In 2024, Streamlining Meetings  Integrate Slack & Filmora Effortlessly</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-master-mac-audio-an-in-depth-look-at-using-audacity-for-recordings-for-2024/"><u>[Updated] Master Mac Audio  An In-Depth Look at Using Audacity for Recordings for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-motorola-razr-40-ultra-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Motorola Razr 40 Ultra Phones with/without a PC</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-a24-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy A24 Phone Hassle-Free</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-split-screen-video-editor-online-and-offline/"><u>2024 Approved Best Split Screen Video Editor Online & Offline</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/investigative-image-searching-reverse-techniques-on-instagram-photos-for-2024/"><u>Investigative Image Searching  Reverse Techniques on Instagram Photos for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-huawei-p60-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Huawei P60 Phones</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

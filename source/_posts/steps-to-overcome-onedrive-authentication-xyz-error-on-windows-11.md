@@ -1,0 +1,165 @@
+---
+title: Steps to Overcome ONEDRIVE Authentication XYZ Error on Windows 11
+date: 2024-06-25T12:01:26.714Z
+updated: 2024-06-26T12:01:26.714Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Steps to Overcome ONEDRIVE Authentication XYZ Error on Windows 11
+excerpt: This Article Describes Steps to Overcome ONEDRIVE Authentication XYZ Error on Windows 11
+keywords: Fix OneDrive Login Error,Resolve XYZ OneDrive Issue,Overcome OneDrive Auth Error,Windows 11 OneDrive Troubleshoot,Fix OneDrive on PC Login Error,Resolve Authentication XYZ in OneDrive,Unlock OneDrive Access on Win11
+thumbnail: https://thmb.techidaily.com/4f0baa4676690f713a7c64c49fa175c4aff67762b3efda1ae17d3bfe6d387995.jpg
+---
+
+## Steps to Overcome ONEDRIVE Authentication XYZ Error on Windows 11
+
+ Microsoft's cloud storage service OneDrive simplifies file management on Windows. However, you might experience issues when signing in to OneDrive, like the 0x8004dec5 error. This article will guide you on how to resolve OneDrive sign-in error 0x8004dec5 specifically on Windows 11\.
+
+## 1\. Check Your Internet Connection
+
+ If you’re having trouble signing in to OneDrive, first [check your internet connection](http://www.makeuseof.com/windows-check-wifi-network-strength/). Slow or spotty internet causes sign-in problems. So, check your connection speed and make sure it’s strong enough for OneDrive. If necessary, reset your router or modem to restore the connection.
+
+ If your internet connection is working, restart your computer and sign in to OneDrive again. This simple step fixes minor errors in the operating system that may cause the sign-in issue.
+
+## 2\. Run the Network Troubleshooter
+
+ If your internet connection is stable, but you’re still having OneDrive sign-in problems, you can run the Internet Connections Troubleshooter. This diagnosis tool scans for network problems and repairs any issues it finds.
+
+ To run the Internet Connection Troubleshooter, follow these steps:
+
+1. Right-click on Start and select **Run** from the menu list.  
+![Open Internet Connections](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-internet-connections.jpg)
+2. In the dialog box, type the following command and click **OK**.  
+`msdt.exe -id NetworkDiagnosticsWeb`
+3. Click **Advanced** and check **Apply repairs automatically**.  
+![Run the Internet Connections troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-the-internet-connections-troubleshooter.jpg)
+4. Now click **Next** and follow the on-screen instructions to finish the troubleshooting process.
+
+ Once it’s done, sign into OneDrive and see if the error is fixed. If not, try the next solution.
+
+## 3\. Tweak the Registry Editor
+
+ If the problem persists, remove cached Office account identities from the registry. This requires changing a few settings in the Windows registry which is a database of your operating system, so proceed with caution.
+
+ If you’re not sure what you’re doing, have an experienced technician make the changes for you. To avoid damaging your system, [create a registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before making these changes.
+
+1. Press **Win + R** on your keyboard to open the Run dialog.
+2. Type **regedit** in the search box and click **OK**.
+3. If the UAC window pops up on the screen, click **Yes** to proceed.
+4. In the Registry Editor window, navigate to the path as follows:  
+`HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\Identity`
+5. Right-click on the **Identity** folder and select **Delete** from the menu.  
+![Delete Identity Folder From Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/delete-identity-folder-from-registry.jpg)
+6. Click **Yes** when asked to confirm your action.
+7. Close Registry Editor and restart your computer.
+
+ Now try signing in to OneDrive again. The sign-in error should now be resolved.
+
+## 4\. Remove Cached Credentials Folders
+
+ If you're not comfortable tweaking the registry editor, remove cached Office account identities using Windows Explorer. Here's how to do it.
+
+1. Press **Win + E** to open File Explorer.
+2. In the File Explorer window, navigate to the following location:  
+`C:\Users\Username\AppData\Local\Microsoft\IdentityCache`
+3. Press **Ctrl + A** to select all files and delete them.  
+![Clear Identity Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/clear-identity-folder.jpg)
+4. Now navigate to this location, and replace **Username** with your own Windows username.:  
+`C:\Users\Username\AppData\Local\Microsoft\OneAuth  
+`
+5. Select all the files here and hit the **Delete** button.
+
+ Once you've removed all cached Office account identities, restart your computer and try signing in to OneDrive again.
+
+## 5\. Unlink and Re-Link Your OneDrive Account
+
+ If you have a valid OneDrive account, but still can’t sign in due to the 0x8004dec5 error code, unlink and relink your account. This will reset the connection and fix the problem.
+
+ To unlink OneDrive, follow these steps.
+
+1. Go to the right side of the taskbar and click on the **OneDrive** icon.
+2. Click **Help & Settings** (the gear icon) and select **Settings** from the menu list.
+3. In the Settings window, go to the **Account** tab.
+4. Under your OneDrive account, click **Unlink this PC**.  
+![Unlink OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/unlink-onedrive.jpg)
+5. Click **Unlink account** to confirm your action.  
+![Unlink OneDrive Account on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/unlink-onedrive-account-on-windows.jpg)
+
+ After unlinking the account, you now need to relink it. To do that, open the OneDrive Settings window again and click **Add an Account**. Enter your OneDrive credentials and sign in to the account.
+
+ When it’s done, close the Settings window. Now open OneDrive and sign in with your new account credentials. The sign-in error should now be resolved.
+
+## 6\. Reset the OneDrive App
+
+ In some cases, resetting the OneDrive application solves the sign-in errors. This restores the app to its default settings and removes any corrupted system files.
+
+ To reset the OneDrive app, follow these steps.
+
+1. Press **Win + X** on your keyboard and select **Installed apps** from the list.
+2. In the list of installed apps, scroll down to **OneDrive**.
+3. Click the three dots and select the **Advanced options**.
+4. Scroll down to the **Reset** section and click on the **Reset** button.  
+![Reset OneDrive app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-onedrive-app.jpg)
+5. Click **Reset** again to confirm your action.
+
+ After the reset, try signing in to OneDrive and seeing if error 0x8004dec5 is fixed.
+
+## 7\. Get the Latest Windows Updates
+
+ Microsoft releases new patches that improve Windows performance. If your computer didn't receive the latest updates, it may cause OneDrive sign-in errors. To fix this problem, install the pending Windows updates and try signing in to OneDrive again.
+
+ To download and install the latest Windows updates, use these steps.
+
+1. Press **Win + I** on your keyboard to open the Settings window (see our guide on [how to open the Windows system settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/)).
+2. From the left sidebar, click on the **Windows Update** tab.
+3. Now click **Check for updates** and wait while Windows checks for available updates.  
+![Check for updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/check-for-updates.jpg)
+4. If you find new updates, download and install them.
+
+ After performing the above action, restart your computer. Now try signing in to OneDrive and seeing if the error is fixed.
+
+## 8\. Uninstall and Reinstall OneDrive
+
+ If the error persists even after trying the above solutions, it's likely that the OneDrive app is malfunctioning. In that case, reinstall the application. It fixes corrupted files and solves sign-in issues. Here's how to do it.
+
+1. [Open Control Panel](https://www.makeuseof.com/windows-11-open-control-panel/).
+2. Set the View by option to **Category**, then click **Programs** \> **Uninstall a program**.
+3. Find **OneDrive** in the list of installed programs and click **Uninstall**.  
+![Uninstall OneDrive-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/uninstall-onedrive-2.jpg)
+4. If you get a confirmation prompt, click **Yes**.
+
+ Now follow the instructions to complete the process. After that, [visit Microsoft's official website](https://www.microsoft.com/en-us/microsoft-365/onedrive/download?) to download and install OneDrive.
+
+## Fixing OneDrive's 0x8004dec5 Sign In Error
+
+ Following the steps mentioned above should resolve the 0x8004dec5 OneDrive sign-in error. Corrupt files, outdated Windows versions, or compatibility issues usually cause it. A basic troubleshooting step would be to restart your computer and reset the OneDrive app. If that doesn't fix it, unlink and relink your account, or reinstall OneDrive.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/nexus-controller-detection-woes-heres-how-to-win-them-back/"><u>Nexus Controller Detection Woes? Here's How to Win Them Back</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-for-curtailing-windows-eyes-on-you/"><u>Tactics for Curtailing Windows' Eyes on You</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-package-control-with-winget-on-win11/"><u>Navigating Package Control with Winget on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-guide-to-rectify-windows-security-faults/"><u>Comprehensive Guide to Rectify Windows Security Faults</u></a></li>
+<li><a href="https://windows11.techidaily.com/brushstrokes-begin-accessing-microsoft-paint-in-windows-11/"><u>Brushstrokes Begin: Accessing Microsoft Paint in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-resolving-zero-x-error-in-windows-email-app/"><u>Steps for Resolving Zero X Error in Windows Email App</u></a></li>
+<li><a href="https://windows11.techidaily.com/learn-to-break-the-synergy-onedrive-and-microsoft-profile-split/"><u>Learn to Break the Synergy: OneDrive and Microsoft Profile Split</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-leading-virtual-reality-titles-for-your-smartphone/"><u>[New] The Leading Virtual Reality Titles for Your Smartphone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-studio-tracker-xvideoexploration-for-2024/"><u>Ultimate Studio Tracker  XVideoExploration for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-step-by-step-strategies-for-discord-video-streamers-for-2024/"><u>[New] Step-By-Step Strategies for Discord Video Streamers for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastering-snap-camera-in-ms-teams/"><u>[New] In 2024, Mastering Snap Camera in MS Teams</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-infinix-hot-30-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Infinix Hot 30 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/uncovered-the-hidden-youtube-shorts-fix-for-2024/"><u>Uncovered  The Hidden YouTube Shorts Fix for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-dynamic-musical-journeys-with-crossfading/"><u>Crafting Dynamic Musical Journeys with Crossfading</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-step-into-anti-time-original-techniques-to-rewind-yt-videos/"><u>2024 Approved  A Step Into Anti-Time  Original Techniques to Rewind YT Videos</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-tecno-pova-6-pro-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Tecno Pova 6 Pro 5G FRP Android 10/11/12/13</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

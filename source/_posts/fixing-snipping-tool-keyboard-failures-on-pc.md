@@ -1,0 +1,150 @@
+---
+title: Fixing Snipping Tool Keyboard Failures on PC
+date: 2024-06-25T12:30:19.757Z
+updated: 2024-06-26T12:30:19.757Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Fixing Snipping Tool Keyboard Failures on PC
+excerpt: This Article Describes Fixing Snipping Tool Keyboard Failures on PC
+keywords: SnipTool Keyboard Fix PC,Solve PC Keyboard Snipper,Snipping Tool Input Error,Troubleshoot Snip & Paste,Fix Snipping Bug PC,Correct PC Snippet Issue,Rectify Keyboard Snipper Fail
+thumbnail: https://thmb.techidaily.com/a3ff3acad952490c637c7b896fc0975ebe957935337cd7ad7a4e6125800ac957.jpg
+---
+
+## Fixing Snipping Tool Keyboard Failures on PC
+
+ Whether you need to capture an error message or share something specific with someone, screenshots can be a lifesaver. The Win + Shift + S shortcut makes it easy to take screenshots with the Snipping Tool, but what if that shortcut stops responding?
+
+ Is your screenshot-taking career over? Definitely not. There are still some fixes you can try to solve this issue. Read on to learn what to do when your Win + Shift + S shortcut isn't working.
+
+## 1\. Restart the Computer
+
+ It might sound simple, but restarting your computer often solves minor problems. This can help clear out any glitches that may prevent the shortcut from working correctly.
+
+ To restart your computer, close any running programs. Now, open the Start menu and choose **Restart** in the list of options.
+
+## 2\. Check Your Keyboard
+
+ Check the keyboard for any dirt or debris that may obstruct the keys. Clean off dust, crumbs, and other particles with compressed air. Ensure that all the keys are working correctly and that none are stuck or pressed down. If the keys have been damaged or worn down, consider replacing your keyboard.
+
+## 3\. Enable the Clipboard History
+
+ If keyboard dirt and debris are not the issues, you may need to enable the clipboard history feature. This will help you restore any screenshots taken with Win + Shift + S that have been lost.
+
+![Enable the Clipboard History](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-the-clipboard-history.jpg)
+
+ To enable it, open Settings and navigate to **System** \> **Clipboard**. There, you'll find the toggle for **Clipboard history** – turn it on.
+
+ You can also use the Windows search bar to type in **Clipboard settings** and open it directly. If you prefer shortcuts, hit **Win + R** or type **ms-settings:clipboard** into Run.
+
+## 4\. Turn on Snipping Tool Notification Toggle
+
+ When you press Win + Shift + S on your keyboard, a notification should appear in the bottom-right corner of the screen. This notification toggle helps you quickly access screenshots taken with the shortcut.
+
+ If you don't see a notification, that means the toggle is off, and you may need to enable it manually. Here's how to do it:
+
+1. Right-click on Start and select **Settings**.
+2. In the Settings window, navigate to **System** \> **Notifications**.
+3. Under **Notifications from apps and other senders**, scroll down to the bottom and turn on the Snipping Tool notification toggle.  
+![Turn on Snipping Tool Notification Toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-on-snipping-tool-notification-toggle.jpg)
+
+ Once you have enabled this option, press **Win + Shift + S** to take a screenshot. If the shortcut works, you will see a notification that the screenshot is saved to the clipboard.
+
+## 5\. Reset the Snipping Tool
+
+ Another solution is to reset the Snipping Tool. It restores the default settings and can help if something goes wrong.
+
+ To reset it, right-click on the **Start** menu and select **Installed apps**. Find **Snipping Tool** in the list, click three dots, and select **Advanced options**.
+
+ You can also use **Win + R** or type **ms-settings:appsfeatures** in the Run dialog box to open Installed apps. From there, you can find the Advanced options for the Snipping Tool.
+
+![Reset Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-snipping-tool.jpg)
+
+ On the next page, scroll down to the **Reset** section. Select **Reset** and then click on **Reset** again in the confirmation popup. After resetting the Snipping Tool, check if the Win + Shift + S shortcut works.
+
+## 6\. Reinstall the Snipping Tool
+
+ If resetting doesn't solve the problem, try reinstalling the Snipping Tool. It will resolve any issues you may have with your current installation.
+
+ To reinstall the Snipping Tool, open the System Settings. Select **Apps** \> **Installed apps**, then find and select **Snipping Tool** from the list of installed programs.
+
+![Reset the Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-the-snipping-tool.jpg)
+
+ Click the three dots and select **Uninstall**. Now follow the on-screen instructions to complete the process. Once done, download and install a new version of the Snipping Tool from the Microsoft Store app.
+
+## 7\. Turn on Windows Hotkeys
+
+ If your Windows hotkeys are disabled for some reason, the shortcut keys will not work. In such cases, you will need to enable the Windows hotkeys through the group policy editor. Here's how to do it:
+
+1. Press **Win + R** on your keyboard to open the Run command.
+2. Type **gpedit.msc** in the dialog box and hit Enter. This will open the Group Policy Editor window.  
+![Turn on Windows Hotkeys Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-on-windows-hotkeys-using-group-policy.jpg)
+3. Navigate to the path:  
+`User Configuration > Administrative Templates > Windows Components > File Explorer`
+4. In the right pane, double-click on the **Turn off Windows Key hotkeys** option.
+5. Select Enabled in the settings window and click **Apply** \> **OK**.
+
+ After making these changes, try taking a screenshot with Win + Shift + S shortcut. It should work now.
+
+ One thing to remember is that this method will only work with Windows Pro and Enterprise editions. If you have the Home edition, you can't access the Group Policy Editor. In such a case, you'll need to [enable the Local Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/). But if that sounds complicated, skip this method and use the Registry Editor instead.
+
+ To enable Windows Hotkeys through the Registry Editor, follow these steps:
+
+* Click on Start, type **regedit**, and hit **Enter**.
+* If the UAC window pops up, click Yes to open the registry editor.  
+`Navigate to HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer`
+* If you don't see the Explorer folder, right-click on **Policies** and select **New > Key**. Name the newly created key **Explorer**.
+* Now right-click on **Explorer** and select **New** \> **DWORD 32-bit**.
+* Name the DWORD **NoWinKeys**.
+* Double-click on **NoWinKeys** and set the value data to **0**.  
+![Turn on Windows Hotkeys Using Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-on-windows-hotkeys-using-registry.jpg)
+* Select Base as **Hexadecimal** and click **OK** to save the changes.
+
+ After that, exit the registry editor and restart your computer. Once the system reboots, check if the issue has been resolved.
+
+## 8\. Perform Some Generic Fixes
+
+ There are a few general fixes that might help you get the Win + Shift + S keyboard shortcut working. Here's what you need to do:
+
+1. Check the keyboard driver status and update it if needed.
+2. Try [running the SFC utility](https://www.makeuseof.com/windows-built-in-repair-tools/) to fix corrupted system files.
+3. Make sure you are [running the latest version of Windows](https://www.makeuseof.com/update-windows-manually/).
+4. [Run a full scan with your antivirus program](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/) and see if it solves the issue.
+5. If the issue still persists, there's a chance that third-party applications are interfering with the Snipping Tool shortcut. In such a case, [try performing a clean boot](https://www.makeuseof.com/clean-boot-windows-11/). This will temporarily disable all the third-party applications and allow you to check if they were causing the issue.
+
+## Taking Screenshots Is Easy With Shortcut Keys
+
+ Keyboard shortcuts provide quick and easy access to different functions on your PC. It allows you to easily switch between applications and perform tasks. There are times, though, when the Win + Shift + S hotkey does not work properly. Hopefully, one of the above methods fixed this issue for you.
+
+ Is your screenshot-taking career over? Definitely not. There are still some fixes you can try to solve this issue. Read on to learn what to do when your Win + Shift + S shortcut isn't working.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/strategies-for-xp709-system-failure/"><u>Strategies for XP709 System Failure</u></a></li>
+<li><a href="https://windows11.techidaily.com/circumventing-driver-checks-in-windows-no-signatures-any-installation/"><u>Circumventing Driver Checks in Windows: No Signatures, Any Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-workflow-multitask-with-windows-11-expertise/"><u>Optimizing Workflow: Multitask with Windows 11 Expertise</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-the-windows-application-net-demand-error/"><u>Resolving the Windows Application .NET Demand Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalizing-windows-space-adding-this-pc-iconography/"><u>Personalizing Windows Space: Adding 'This PC' Iconography</u></a></li>
+<li><a href="https://windows11.techidaily.com/executing-policies-for-a-single-user-target-in-modern-windows-systems/"><u>Executing Policies for a Single-User Target in Modern Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/creating-personalized-themes-in-wt-terminal/"><u>Creating Personalized Themes in WT Terminal</u></a></li>
+<li><a href="https://windows11.techidaily.com/sound-revolution-for-your-pc-the-essential-guide-to-audio-drivers-updates/"><u>Sound Revolution for Your PC: The Essential Guide to Audio Drivers Updates</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-strategies-for-perfecting-igtv-video-titles-for-2024/"><u>[New] Strategies for Perfecting IGTV Video Titles for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/how-to-make-a-video-call-in-whatsapp-web-in-laptop-for-2024/"><u>How to Make a Video Call in WhatsApp Web in Laptop for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-tier-mobile-and-desktop-player-for-avis/"><u>In 2024, Top-Tier Mobile and Desktop Player for AVIs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-cropping-skills-for-image-clarity/"><u>Advanced Cropping Skills for Image Clarity</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-subtlety-in-volume-reduction-for-audacity-projects/"><u>[New] Subtlety in Volume Reduction for Audacity Projects</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/playback-operation-for-srt-across-operating-systems/"><u>Playback Operation for SRT Across Operating Systems</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nsider-guide-to-gaming-channel-header-templates/"><u>The Insider Guide to Gaming Channel Header Templates</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-transformative-strategies-in-creating-engaging-fb-content-for-2024/"><u>[Updated] Transformative Strategies in Creating Engaging FB Content for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Tecno Spark 10C | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

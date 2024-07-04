@@ -1,0 +1,146 @@
+---
+title: How to Reinvigorate the Essential WSReset Process
+date: 2024-06-25T12:43:10.104Z
+updated: 2024-06-26T12:43:10.104Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes How to Reinvigorate the Essential WSReset Process
+excerpt: This Article Describes How to Reinvigorate the Essential WSReset Process
+keywords: WSReset Revitalization,Reset Procedure Refresh,Enhance WSReset Methods,Optimize Reset Strategies,Improve WSReset Process,Update WSReset Techniques,Boost Essential Resets
+thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd7e790e17b0ae9950f12b328.jpg
+---
+
+## How to Reinvigorate the Essential WSReset Process
+
+ WSReset.exe is an essential command line tool delivered with Windows to perform various tasks and troubleshoot issues. It resets the Windows application store and clears cache issues that may result in slow performance or errors.
+
+ However, if you encounter problems with WSReset.exe or receive frequent errors, your computer may have an underlying issue that needs to be addressed. This article offers guidance on troubleshooting and fixing WSReset.
+
+## How to Fix WSReset.exe Not Working on Windows
+
+ Before you troubleshoot, let's see what WSReset.exe is used for. The WSReset.exe program resets Windows Store and clears any cache issues that might cause errors. It troubleshoots problems with the Windows Store and applications, including those that are not downloading or launching properly.
+
+ Now let's move on to troubleshooting.
+
+## 1\. Run WSReset.exe as an Administrator
+
+ WSReset.exe requires administrative privileges to run properly. If you're not running it as an administrator, it may fail to reset the Windows Store cache.
+
+ To resolve this issue, [ensure you're using a Windows admin account](https://www.makeuseof.com/check-windows-account-admin-rights/), then try running WSReset.exe again.
+
+## 2\. Run the Windows Store App Troubleshooter
+
+ This problem also appears due to corrupt system files or Windows Store application issues. To fix these issues, Windows offers an embedded troubleshooter that identifies and resolves problems with the Store app.
+
+ To run the troubleshooter, use the steps below.
+
+1. Press **Win + I** on your keyboard to open the Settings menu.
+2. Select **System** from the left sidebar.
+3. In the right pane, click **Troubleshoot > Other troubleshooters**.  
+![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
+4. On the troubleshooter page, scroll down to **Windows Store Apps** and click **Run**.  
+![Run Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-windows-store-apps-troubleshooter.jpg)
+
+ As the troubleshooter scans, it detects and fixes any existing issues. Once that's done, restart your computer again and try running WSReset.exe again.
+
+ If you use Windows 10 version, the process will be slightly different. Press **Win + R**, type **ms-settings:troubleshoot**, and hit Enter. In the Settings menu, click **Update & Security** \> **Troubleshoot** \> **Additional troubleshooters**.
+
+![Windows Additional Troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Windows-Additional-Troubleshooters.jpg)
+
+ Select **Windows Store Apps** from the list and click **Run the troubleshooter**.
+
+## 3\. Repair and Reset Windows Store
+
+ If WSReset.exe is still not working, chances are the Windows Store app might be corrupted or not functioning correctly. In that case, try [repairing and resetting the Windows Store](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/). This will restore the application to its default settings and often solves errors
+
+## 4\. Remove the Latest Windows Updates
+
+ Although Microsoft releases regular Windows updates to improve overall system performance, sometimes these updates cause problems instead. WSReset.exe not working is one such issue related to a recent Windows update.
+
+ Therefore, if you’ve recently applied any updates and are now facing issues with WSReset.exe, remove the update and see if this resolves the issue.
+
+1. Press **Win + S** on your keyboard to open the search box.
+2. Type **Control Panel** in the search box and select it from the results list.
+3. Then navigate to **Programs** \> **Programs and Features** \> **Uninstall a program**.
+4. From the left sidebar, select **View installed updates**. This will open the Settings window with the list of applied Windows updates.
+5. Now look for the recent update and click **Uninstall** next to it.  
+![Uninstall Windows Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-windows-updates.jpg)
+6. Click **Uninstall** again when prompted.
+
+ Follow the onscreen instructions and restart your computer when it's done.
+
+## 5\. Clear the Microsoft Store Cache via the Registry
+
+ If you're still having issues with WSReset.exe, clear the Microsoft Store cache via the registry. This wipes out temporary files, settings, or preferences that may cause this issue.
+
+ It is a complex process for those unfamiliar with registry changes, as incorrect settings could cause major problems. However, if done correctly, this flushes the cache and solves WSReset.exe errors. To avoid data loss, back up your registry and be cautious when modifying it.
+
+1. Press **Win + R** on your keyboard to open the Run dialog box.
+2. Type **cmd** in the text field and press **Ctrl + Shift + Enter**. This will open the Command Prompt window with administrative privileges.
+3. If the UAC prompt appears, select **Yes** to continue.
+4. In the Command Prompt window, type the following command and press Enter:  
+`wmic useraccount get name,sid`
+5. Running this command will list all user accounts on your computer. Find the SID of your user account and copy it.  
+![List all user account via command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/list-all-user-account-via-command-prompt.jpg)
+6. Next, open the Registry Editor. For this, click on **Start** \> type **regedit** in the search box, then select it from the results list.
+7. If the UAC pop-up appears, click **Yes** to continue.
+8. When the Registry Editor opens, navigate to the following registry key:  
+`HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Appx\AppxAllUserStore`  
+ You can also paste this path into the Registry Editor's address bar and press Enter. This will direct you to the AppxAllUserStore registry key.
+9. In the **AppxAllUserStore** key, find the **SID** you copied earlier.  
+![Clear the Microsoft Store Cache via the Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clear-the-microsoft-store-cache-via-the-registry.jpg)
+10. Right-click on it and select **Delete**.
+11. If a confirmation pop-up appears, click **Yes**. This will clear the Microsoft Store cache.
+12. Close the Registry Editor and restart your PC.
+
+ Now, open the Command Prompt window with administrative privileges again and run WSReset.exe to see if it works properly. If so, you have successfully cleared the Microsoft Store cache via the registry.
+
+## 6\. Reinstall the Microsoft Store
+
+ Sometimes Windows Store files are corrupted or damaged. This may require you to [reinstall the Microsoft Store app](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/). The process replaces corrupted or missing files and prevents WSReset.exe from malfunctioning.
+
+## 7\. Try Some Generic Fixes
+
+ There are also some general solutions that work in various scenarios. These include [running a malware scan on your system](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/) or [creating a new user account](https://www.makeuseof.com/windows-11-create-local-user-account/) and switching to it.
+
+ If you're still encountering WSReset.exe errors, [restart your Windows computer](https://www.makeuseof.com/windows-restart-methods/). It refreshes your computer's memory and cleans out temporary files or settings.
+
+ You could also [run System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) to fix errors and replace corrupt files. If none of the above-mentioned steps work, [perform a system restore](https://www.makeuseof.com/use-system-restore-windows/) and restore your computer to an earlier point when it was working fine.
+
+## Resolving the WSReset.exe Issue on Windows
+
+ Today WSReset.exe is a well-known tool among Windows users. Despite being simple, this can be tricky to troubleshoot if it fails to reset or clear the Windows Store. Hopefully, it's just a system glitch, and you can fix the problem using the suggestions provided in this article.
+
+ However, if you encounter problems with WSReset.exe or receive frequent errors, your computer may have an underlying issue that needs to be addressed. This article offers guidance on troubleshooting and fixing WSReset.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/windows-11s-search-tweaks-enhancing-your-experience/"><u>Windows 11'S Search Tweaks: Enhancing Your Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-image-browsing-into-file-explorer/"><u>Integrating Image Browsing Into File Explorer</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-triumph-expert-tips-for-reinitializing-windows-11-apps/"><u>Tech Triumph: Expert Tips for Reinitializing Windows 11 Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-through-fingertip-writing-options-in-windows-system/"><u>Navigate Through Fingertip Writing Options in Windows System</u></a></li>
+<li><a href="https://windows11.techidaily.com/trailblazing-through-windows-11-the-mac-hunt-guide/"><u>Trailblazing Through Windows 11: The MAC Hunt Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-windows-modern-standbys-drawbacks/"><u>Decoding Windows Modern Standby's Drawbacks</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-battlenet-speed-a-win-pc-strategy-guide/"><u>Boosting Battle.net Speed: A Win-PC Strategy Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/detailed-guide-turning-secure-boot-and-tpm-onoff-in-vbox/"><u>Detailed Guide: Turning Secure Boot and TPM On/Off in VBox</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/2024-approved-the-best-free-mpeg-video-merging-solutions/"><u>2024 Approved The Best Free MPEG Video Merging Solutions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-essential-tweets-de-following-aids-the-ultimate-list/"><u>[New] 2024 Approved  Essential Tweets De-Following Aids  The Ultimate List</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-free-tips-embedding-moving-images-in-written-content/"><u>In 2024, Free Tips  Embedding Moving Images in Written Content</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-easy-avi-editing-on-windows-8-top-rated-video-editor-for-pc-2023/"><u>2024 Approved Easy AVI Editing on Windows 8 Top-Rated Video Editor for PC - 2023</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/free-home-security-camera-software-the-top-10-options-reviewed/"><u>Free Home Security Camera Software The Top 10 Options Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-8-online-photo-montage-maker/"><u>In 2024, Top 8 Online Photo Montage Maker</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-honor-90-lite-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Honor 90 Lite Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-8-best-mirrorless-cameras-for-vlogging/"><u>2024 Approved  8 Best Mirrorless Cameras for Vlogging</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/legal-landscapes-understanding-youtube-and-cc-divergences/"><u>Legal Landscapes  Understanding YouTube & CC Divergences</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

@@ -1,0 +1,147 @@
+---
+title: "Winning Strategies: How To Resolve Unison Issues on Win11"
+date: 2024-06-25T12:19:59.107Z
+updated: 2024-06-26T12:19:59.107Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: "This Article Describes Winning Strategies: How To Resolve Unison Issues on Win11"
+excerpt: "This Article Describes Winning Strategies: How To Resolve Unison Issues on Win11"
+keywords: Win11 Issue Fixing,Win11 Unification Solutions,Win11 System Sync Tips,Win11 Error Resolution,Windows 11 Integration Tricks,PCs Winning Strategy Guide,Win11 Software Compatibility
+thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4f39254b71c759c472e8e33a.jpg
+---
+
+## Winning Strategies: How To Resolve Unison Issues on Win11
+
+ Intel Unison is an excellent app for connecting your Android or iPhone to your Windows 11 computer. However, like any other app, Intel Unison isn't devoid of issues. If you rely on Intel Unison to read text messages and answer phone calls from your computer, it can be inconvenient when the app stops working properly.
+
+ If you, too, are having trouble using the Intel Unison app on Windows, here are some troubleshooting tips that’ll help.
+
+## 1\. Run the Windows Store Apps and Bluetooth Troubleshooters
+
+ The Windows Store Apps and Bluetooth troubleshooters can automatically detect and fix issues with Universal Windows Platform (UWP) apps and your Bluetooth devices on your PC. You can try running these tools and see if that gets the Intel Unison app working again.
+
+To run the Windows Store Apps troubleshooter:
+
+1. Open the**Start menu** and click the**gear-shaped icon** to[launch the Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
+2. In the**System** tab, click on**Troubleshoot** .
+3. Select**Other troubleshooters** .
+4. Click the**Run** button next to**Windows Store Apps** .  
+![Run Windows Store Apps Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-windows-store-apps-troubleshooter.jpg)
+5. Next, click the**Run** button next to**Bluetooth** .
+
+ Follow the on-screen prompts to run the troubleshooters and then try using the Intel Unison app.
+
+ Still experiencing Bluetooth issues? Check our guide on[fixing Bluetooth pairing issues on Windows](https://www.makeuseof.com/tag/bluetooth-not-working-windows-10/) and follow the steps outlined there.
+
+## 2\. Allow the Intel Unison App to Run in the Background
+
+ If you’ve disabled background app permission for Intel Unison, it may fail to sync your data when you are not using it. To avoid this, you must enable background app permission for the Intel Unison app. Here's how to do it.
+
+1. Right-click on the Start icon or press**Win + X** to open the Power User menu.
+2. Select**Installed apps** from the list.
+3. Scroll through the list or use the search tool to locate the**Intel Unison** app. Then, click the**three-dot menu icon** next to it and select**Advanced options** .
+4. Click the drop-down menu under**Background apps permissions** and select**Always** .  
+![Allow Intel Unison to Run in the Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allow-intel-unison-to-run-in-the-background.jpg)
+
+## 3\. Allow Intel Unison App Access to Your Phone Calls and Notifications
+
+ The Intel Unison app on Windows requires permission to access phone calls and notifications. You need to ensure that these permissions are enabled. Here’s how to check.
+
+1. Open the Intel Unison app using the search menu.
+2. Click the**Settings** tab in the bottom left corner.
+3. Select**Notifications** from the left sidebar.
+4. Enable the toggle next to**Notifications** .
+5. Further, scroll down to**App notifications** , and use the toggles to enable notification permission for individual apps.
+6. Next, switch to the**Calls** tab and enable the toggle for**Allow phone calls** .  
+![Intel Unison App Notification Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/intel-unison-app-notification-settings.jpg)
+
+## 4\. Turn Off Battery Saver Mode
+
+ When you enable battery saver mode, Windows pauses background app activities on your computer. While this is a great way to[improve battery life on Windows](https://www.makeuseof.com/windows-11-improve-battery-life/) , it may prevent apps like Intel Unison from working efficiently.
+
+ To avoid any performance issues, it's best to turn off battery saver mode on Windows. Here’s how you can go about it:
+
+1. Press**Win + I** to open the Settings app.
+2. In the**System** tab, click on**Power & battery** .
+3. Under Battery, click on**Battery saver** and click the**Turn off now** button.  
+![Turn Off Battery Saver on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/turn-off-battery-saver-on-windows-11.jpg)
+
+## 5\. Disable Any Active Third-Party Antivirus Programs
+
+ At times, third-party antivirus programs on your PC can get too cautious and prevent apps from exchanging files and syncing data. To check for this possibility, you need to temporarily disable your antivirus program.
+
+ You can typically do this by right-clicking the antivirus program’s icon in the system tray and selecting**Disable until next restart** . However, the instructions will differ between antivirus programs, so if you're stuck, check your antivirus' official help documentation for instructions.
+
+ Once disabled, try using the Intel Unison app again. If this solves your problem, you can go through your antivirus program’s settings and whitelist the Intel Unison app.
+
+## 6\. Disconnect and Reconnect Your Phone
+
+ Connection issues between the Intel Unison app and your phone can also cause the app to stop working on Windows. In most cases, you should be able to resolve such issues by disconnecting and reconnecting your phone.
+
+ This should re-establish the connection between Windows and your phone, resolving any issues caused by misconfigured settings.
+
+ To disconnect your phone from the Intel Unison app, follow these steps:
+
+1. Open the Intel Unison app on your PC.
+2. Click the**computer icon** in the top left corner and select**Manage my devices** .
+3. Click the**Forget this device** option.
+4. Next, open the Intel Unison app on your Android or iPhone and scan the QR code on your PC.
+5. Follow the on-screen instructions to pair your phone.  
+![Disconnect Phone From Intel Unison App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disconnect-phone-from-intel-unison-app.jpg)
+
+## 7\. Repair or Reset the Intel Unison App
+
+ Both Windows 10 and 11 include a useful repair tool for fixing app-related issues. Check out our guide on[how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) to fix the Intel Unison app without affecting your data.
+
+ Wait for the repair process to complete and then try using the app again. If the problem persists, try resetting the app from the same menu. Doing so should delete all the app data and reset the app to its default state.
+
+## 8\. Reinstall the Intel Unison App
+
+ Finally, if none of the above solutions work, you can try uninstalling and reinstalling the app. If you need help with that, check our guide on[how to uninstall apps on Windows](https://www.makeuseof.com/tag/how-to-uninstall-apps-on-windows/) and follow the instructions outlined there.
+
+ Once removed, head over to the[Intel Unison page on the Microsoft Store](https://apps.microsoft.com/store/detail/intel%C2%AE-unison%E2%84%A2/9PP9GZM2GN26) to download the Intel Unison app. Hopefully, this should help resolve the issue.
+
+## Fixing Intel Unison App on Windows 11
+
+ Issues with the Intel Unison app should not force you to look for alternatives. One of the above-mentioned fixes should get the app back up and running on your Windows PC.
+
+ If you have an Android phone, you can also use Microsoft's Phone Link app to sync it with a Windows computer.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/mitigating-code-xc0000142-on-windows-xp-10/"><u>Mitigating Code XC0000142 on Windows XP, 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-in-use-device-naming-5-fixes-for-windows-errors/"><u>Avoiding In-Use Device Naming: 5 Fixes for Windows Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-something-went-wrong-office-error-on-windows/"><u>How to Fix the “Something Went Wrong” Office Error on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-android-usage-a-windows-11-webcam-setup/"><u>Optimizing Android Usage: A Windows 11 Webcam Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-and-resolving-your-sound-cards-irq-mess/"><u>Decoding and Resolving Your Sound Card's IRQ Mess</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-enhancing-pen-device-performance-on-windows/"><u>Troubleshooting: Enhancing Pen Device Performance on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/fast-track-eliminate-extra-software-in-windows-11/"><u>Fast Track: Eliminate Extra Software in Windows 11</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-mastering-sound-clarity-top-strategies-for-cutting-down-ambient-loudness-both-on-and-offline/"><u>2024 Approved Mastering Sound Clarity Top Strategies for Cutting Down Ambient Loudness Both On and Offline</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-transform-your-discord-experience-learn-message-pinning/"><u>[Updated] Transform Your Discord Experience  Learn Message Pinning</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-honor-play-40c-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Honor Play 40C Screen | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-non-gta-narratives-exploring-alternative-stories/"><u>[Updated] In 2024, Non-GTA Narratives  Exploring Alternative Stories</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-online-image-cropper-and-resizer-one-stop-shop/"><u>In 2024, Online Image Cropper and Resizer One-Stop Shop</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-leading-linux-auditory-tools-a-guide-to-the-most-trending-recorders-with-best-practices/"><u>New In 2024, Leading Linux Auditory Tools A Guide to the Most Trending Recorders with Best Practices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Does Life360 Notify When You Log Out On Apple iPhone 6s? | Dr.fone</u></a></li>
+</ul></div>

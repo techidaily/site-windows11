@@ -1,0 +1,131 @@
+---
+title: Reviving Disabled 'Remove' Option for PIN Access Control
+date: 2024-06-25T12:09:36.862Z
+updated: 2024-06-26T12:09:36.862Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Reviving Disabled 'Remove' Option for PIN Access Control
+excerpt: This Article Describes Reviving Disabled 'Remove' Option for PIN Access Control
+keywords: Disabled Remove Pin Access,Restore Lockout Functionality,Reintroduce Bypass Feature,Enable Inactive Unlock,Reactivate Pin Security,PIN Access Removal Revival,Reset Disabled Lock Option
+thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e3ca1f0dfa365e65b92b5c5b.PNG
+---
+
+## Reviving Disabled 'Remove' Option for PIN Access Control
+
+ Windows 11 requires you to set up a PIN irrespective of whether you want to use a Microsoft account, fingerprint, or facial recognition feature to sign in to your computer. PIN sign-in in Windows 11 is part of Windows Hello, which makes it safer than password sign and easier to remember as well.
+
+ However, when you try to remove your PIN, you may find the option grayed out in the Settings app. Fortunately, fixing this problem is easy enough. Here's how you can disable the feature and fix the Remove PIN option grayed-out issue on Windows 11.
+
+## 1\. Disable the Windows Hello Sign-in Requirement to Restore the Remove PIN Option
+
+![Fingerprint key on a laptop keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Ways-to-Fix-Windows-Hello-Fingerprint-Not-Working-In-Windows.jpg)
+
+ In Windows 11, you can enable Windows Hello sign-in for Microsoft account to force users to use their PIN to log in. While a handy feature, for security reasons, it also disables the Remove PIN option for the device. To restore the Remove PIN option, you must disable the Windows Hello sign-in requirement. Here's how to do it.
+
+1. Press**Win + I** to open**Settings** .
+2. In the left pane, open the**Accounts** tab.
+3. Next, click on the**Sign-in options.**
+4. Here, scroll down to the**Related settings** section.
+5. Next, toggle the switch for the option **For improved security, only allow Windows Hello sign-in for Microsoft account on this device (Recommended)** and set it to**Off** .
+6. With the option disabled, you can now remove PIN for Windows 11.
+
+## 2\. Remove the PIN Using the I Forgot My PIN Window
+
+ Windows 11 lets you change your PIN using the**I forgot my PIN** option. However, you can use the feature to remove your PIN as well. To do this, you need to use your Microsoft account details to verify the user.
+
+To remove PIN using forgot my PIN:
+
+1. Press**Win + I** to open**Settings** .
+2. Next, open the**Accounts** tab and then click on**Sign-in options.**
+3. Expand the**PIN (Windows Hello)** section.  
+![windows 11 i forgot my pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-i-forgot-my-pin.jpg)
+4. Click on**I forgot my PIN** next **to Related links.**
+5. Click**Continue** when the confirmation dialog appears.  
+![confirmation dialog windows hello PIN remove](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/confirmation-dialog-windows-hellow-pin-remove.jpg)
+6. Next, enter your Microsoft account details to sign in.  
+![set up a pin cancel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/set-up-a-pin-cancel.jpg)
+7. When the**Set up a PIN** dialog appears, click on**Cancel** .  
+![close your account requires windows hello pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/close-your-account-requires-windows-hello-pin.jpg)
+8. Next, click the**Close** button to exit the**Your account requires a Windows Hello PIN** dialog.
+
+That's it! You have successfully removed the Windows Hello PIN.
+
+## 3\. Turn Off the Passwordless Login Feature for Your Microsoft Account
+
+ The Passwordless account feature lets you sign in without a password using a PIN, SMS Code, or the authenticator app. You can turn off the Passwordless account feature to fix the greyed-out Remove PIN option.
+
+1. Click on**Start** and then select**Settings** .
+2. Open the**Accounts** tab and click on**Your Info.**  
+![windows 11 account manage my accounts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-account-manage-my-accounts.jpg)
+3. Scroll down to the**Related setting** s section and click on**Accounts** (Manage my account). This will open the Microsoft account security page online.
+4. Sign in to your Microsoft account.
+5. Next, open the**Security** tab.
+
+1. Click on**Advanced security options** .  
+![microsoft account advanced security options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/microsoft-account-advanced-security-options.jpg)
+2. Now scroll down to the**Additional security** section.  
+![additional security turn off passwordless account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/additional-security-turn-off-passwordless-account.jpg)
+3. Click on**Turn Off** for**Passwordless account.**
+4. Next, follow the on-screen instruction to disable the features.
+5. Once done, you should be able to use the Remove PIN option in Settings.
+
+## How to Remove the PIN on Your Windows 11 PC
+
+![windows 11 remove pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-remove-pin.jpg)
+
+ Once the option is restored, follow these steps to remove Windows Hello PIN from the Settings app:
+
+1. Press**Win + I** to open**Settings** .
+2. Next, open the**Accounts** tab.
+3. In the right pane, click on**Sign-in options.**
+4. Scroll down and click on**PIN (Windows Hello).**
+5. Click on**Remove** and then on**Remove** again to confirm the action.
+6. Enter your account password and click OK to remove the PIN.
+
+## Fix the Grayed-Out Remove PIN Option
+
+ Windows deliberately disables the Remove PIN option as an additional security measure. While we don't recommend disabling it, you can freely do so using the steps above, especially if you prefer to protect your Windows PC solely using alphanumeric passwords.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/boosting-productivity-crafting-shortcuts-to-store-uwp-apps-on-windows/"><u>Boosting Productivity: Crafting Shortcuts to Store UWP Apps on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-windows-11s-functionality-top-strategies-for-widget-upgrades/"><u>Enhancing Windows 11'S Functionality: Top Strategies for Widget Upgrades</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-practical-guide-to-running-ping-efficiently-on-pcs/"><u>A Practical Guide to Running Ping Efficiently on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-your-pcs-potential-with-a-windows-11-in-place-step-by-step-guide/"><u>Elevating Your PC's Potential with a Windows 11, In-Place Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-full-potential-adding-portable-apps-to-w11/"><u>Unlock Full Potential: Adding Portable Apps to W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-elevate-with-25-customization-tips/"><u>Windows 11: Elevate with 25 Customization Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-ultimate-free-toolset-for-win11-pcs/"><u>Unveiling the Ultimate Free Toolset for Win11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/stealth-mode-disabling-windows-wi-fi-broadcast/"><u>Stealth Mode: Disabling Windows Wi-Fi Broadcast</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-biometric-control-in-w11-for-domain-users/"><u>Secure Biometric Control in W11 for Domain Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-glances-to-your-favorites-windows-shortcuts-uwp-apps/"><u>Quick Glances to Your Favorites: Windows Shortcuts (UWP Apps)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-screen-saver-saviors-how-to-download-and-save-your-favorite-tweets-for-2024/"><u>[New] Screen Saver Saviors  How to Download and Save Your Favorite Tweets for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/effortless-audio-integration-for-inshot-devices/"><u>Effortless Audio Integration for InShot Devices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-final-cut-pro-file-management-best-practices-for-saving-and-organizing-for-2024/"><u>Updated Final Cut Pro File Management Best Practices for Saving and Organizing for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-vivo-y200e-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Vivo Y200e 5G Devices</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-mastering-tiktoks-visuals-a-comprehensive-aspect-ratio-guide/"><u>In 2024, Mastering TikToks Visuals A Comprehensive Aspect Ratio Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-poco-x6-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Poco X6 Phone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-x-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone X Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-simplify-your-creative-process-with-these-9-user-friendly-editors/"><u>In 2024, Simplify Your Creative Process with These 9 User-Friendly Editors</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-fbx-for-the-aspiring-gamer-filmmaker/"><u>[Updated] In 2024, FBX for the Aspiring Gamer Filmmaker</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/home-cinematic-wonders-fastest-tips-and-tricks-for-2024/"><u>Home Cinematic Wonders  Fastest Tips & Tricks for 2024</u></a></li>
+</ul></div>

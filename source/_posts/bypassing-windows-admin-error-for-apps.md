@@ -1,0 +1,175 @@
+---
+title: Bypassing Windows Admin Error for Apps
+date: 2024-06-25T11:59:09.429Z
+updated: 2024-06-26T11:59:09.429Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Bypassing Windows Admin Error for Apps
+excerpt: This Article Describes Bypassing Windows Admin Error for Apps
+keywords: Bypass Error Windows,Win Error Handling,Admin Access Bypass,Applications Override,Error Bypass Techniques,Windows App Override,Avoiding Admin Errors
+thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7fce0bd5f581a2c33f337372.jpg
+---
+
+## Bypassing Windows Admin Error for Apps
+
+ User Account Control on Windows prevents unauthorized changes to your computer. This, however, can cause issues with genuine apps and block them from running.
+
+ This app has been blocked by your system administrator error is triggered if your account doesn't have admin rights. Other reasons include issues with User Account Control and Microsoft Defender SmartScreen blocking the app.
+
+ To fix the problem, perform a quick restart of your computer. If the issue persists after the restart, follow these steps to fix the This app has been blocked by your system administrator error on Windows.
+
+## 1\. Unblock the App Executable
+
+![unblocking a file in Properties on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/unblock-file-properties-windows.jpg)
+
+ Windows can automatically block apps downloaded from the internet from running your computer. This is a safety measure intended to protect your system against apps from unknown publishers.
+
+ If you trust the publisher, you can manually unblock the file and run it without the error.
+
+To unblock an app on Windows:
+
+1. Locate and right-click on the app's executable and select**Properties** .
+2. In the**Properties** dialog, open the**General** tab.
+3. In the**Secure** section, check the**Unblock** option.
+4. Click**Apply** and**OK** to save the changes.
+5. Launch the app again to see if the error is resolved.
+
+## 2\. Run the App Using the Command Prompt
+
+ You can run and launch apps using Command Prompt on Windows. All you need is a file path followed by the file name. Command Prompt offers a faster way to open apps on Windows; however, you can also use it if you can't open an app from File Explorer.
+
+To open Windows apps using Command Prompt:
+
+1. Right-click on the app shortcut and select**Open File Location** .
+2. Next, right-click on the**app.exe** file and select**Properties** .  
+![Windows file properties file path location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-file-properties-file-path-location.jpg)
+3. In the Properties dialog, open the**Genera** l tab.
+4. Copy the file path shown as**Location** .
+5. On Windows 11, right-click on the .exe file and select**Copy as File Path** .  
+![run program using command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-program-using-command-prompt.jpg)
+6. Next, press the**Win** key and type**cmd** .
+7. Right-click on**Command Prompt** , and select**Run as administrator.**
+8. Next, press**Ctrl + V** to paste the copied file path in Command Prompt. Make sure to add the .exe file name at the end of the file path.
+9. Press**Enter** to launch the app.
+
+## 3\. Run the Apps as an Administrator
+
+![run minecraft as administrator windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-minecraft-as-administrator-windows-11.jpg)
+
+ Some Windows apps may need administrator privileges to work correctly. To fix the error, run the app as an administrator. If it works, you can configure the app properties to always run as administrator.
+
+To run an app as an administrator:
+
+1. Right-click on the app icon and select**Run as administrator** .
+2. Click**Yes** if prompted by User Account Control.
+
+ Check if the app launches ad administrator without the error. If yes, you can[set the app to always run as administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) to fix the issue. That said, do this only if you trust the publisher for security reasons.
+
+## 4\. Repair or Reset the Microsoft Store Apps
+
+ If the error is triggered when opening a Microsoft Store app, try to perform a repair. You can repair Microsoft Store apps from the Settings panel. This should fix temporary glitches with the app and resolve the error.
+
+To repair a Microsoft Store app:
+
+![repair photos app windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/repair-photos-app-windows-11.png)
+
+1. Press**Win + I** to open**Settings** .
+2. Open the**Apps** tab and click on**Installed Apps** .
+3. Search and locate the app you want to repair.
+4. Click the**three-dots menu** next to the app name and select**Advanced Options** .
+5. Scroll down and click on the**Repair** button. Wait as Windows repairs the app; you will see a green check mark indicating the repair is complete.
+
+ Once done, launch the app and check if the error is resolved. If you see the error again, try to reset the app.
+
+Reset the Microsoft Store app:
+
+![reset-microsoft-teams-windows-11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-microsoft-teams-windows-11.jpg)
+
+ Resetting an app will delete its data, including sign-in details and preferences.
+
+1. Press**Win + I** to open**Settings** .
+2. Open the**Apps** tab and click on**Installed Apps** .
+3. Click the**three-dots menu** near the app name and select**Advanced options** .
+4. Scroll down and click the**Reset** button. Click**Reset** again to confirm the action. Similar to Repair, you'll see a checkmark when the reset process is complete.
+
+## 5\. Disable Microsoft Defender SmartScreen
+
+ Microsoft Defender's SmartScreen scans programs and files during the launch for potential threats and can block them from running. You can disable the SmartScreen feature temporarily to determine if your app is blocked by it.
+
+ You can[disable Microsoft SmartScreen Filter on Windows](https://www.makeuseof.com/windows-smartscreen-filter-enable-disable/) using the Windows Security app. Once disabled, relaunch the app and check if the error is resolved.
+
+## 6\. Turn Off Your Antivirus Program
+
+ False positives from Antivirus programs are not uncommon. Whether you are using Microsoft Windows Defender or another antivirus program, turn off the security program temporarily to determine if your antivirus blocking the app.
+
+ You can[temporarily disable Microsoft Defender](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) using the Windows Security app. To turn off third-party antivirus, right-click the app icon in the system tray and select the appropriate options.
+
+ If the error is resolved, add the app to your security program's allowed list. You can also[allowlist files and apps on Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) if you use it as the primary security application.
+
+## 7\. Modify the Windows Registry to Remove Admin Block
+
+ User Account Control settings are another common trigger for the This app has been blocked by your system administrator error. You can modify the User Account Control settings in Registry Editor to remove the admin block and resolve the error.
+
+ Making incorrect modifications to the Windows Registry can cause your system to malfunction. Make sure to[create a Windows registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) , and a[system restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before you proceed with the steps below.
+
+To remove the admin block using Registry Editor:
+
+1. Press**Win + R** to open**Run** .
+2. Type**regedit** and click**OK** to open Registry Editor. Click**Yes** , if prompted by User Account Control.
+3. In Registry Editor, navigate to the following location:  
+`HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies`
+4. Select the**System** subkey under**Policies** .
+5. In the right pane, locate**EnableLUA** .  
+![enable lua modify registry editor windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-lua-modify-registry-editor-windows.jpg)
+6. Right-click on the**EnableLUA** value and select**Modify** .
+7. Type**0** in the**Value data** field and click**OK** to save the changes.  
+![enable lua modify registry editor value 0 windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-lua-modify-registry-editor-value-0-windows.jpg)
+8. Close Registry Editor and restart your computer to apply the changes. After the restart, launch the app to see if the error is resolved.
+9. If you are using a school or work computer, your organization may put some restrictions on its use. If you can't find the UAC settings, contact your IT administrator to resolve the issue.
+
+## Unblock the Apps Blocked by Your System Administrator
+
+ Security settings on your Windows computer can often block suspicious apps and trigger the This app has been blocked by your system administrator message. To resolve the issue, check and unblock the app in file properties. Also, turn off the SmartScreen filter and your antivirus solution.
+
+ Reconfiguring your UAC settings in Registry Editor is another way to resolve the problem. If all else fails, the restrictions may have been put in place by guardians or the school or work administration.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/preventing-automatic-screenshore-changes-in-win11/"><u>Preventing Automatic Screenshore Changes in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-yuzu-emulation-speed-in-windows/"><u>Elevating Yuzu Emulation Speed in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-to-revive-your-black-screen-windows-11/"><u>Easy Steps to Revive Your Black Screen Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-guide-to-securing-edge-ms-defender-application-guard-on-windows-11/"><u>Easy Guide to Securing Edge: MS Defender Application Guard on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/curtailing-spontaneous-console-appearance-triggers/"><u>Curtailing Spontaneous Console Appearance Triggers</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-pc-hardware-requirement-errors/"><u>Fixing Windows PC Hardware Requirement Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/slowing-down-windows-10-shutdown-keep-programs-open/"><u>Slowing Down Windows 10 Shutdown: Keep Programs Open</u></a></li>
+<li><a href="https://windows11.techidaily.com/turbocharging-windows-solid-state-drives-utilizing-fresh-tools/"><u>Turbocharging Windows' Solid State Drives - Utilizing Fresh Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/dividing-drama-a-step-by-step-chapters-integration-on-vimeo/"><u>Dividing Drama  A Step-by-Step Chapters Integration on Vimeo</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/deconstructing-the-limits-to-longer-instagram-videos/"><u>Deconstructing the Limits to Longer Instagram Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-a-list-of-trustworthy-websites-for-procuring-creative-outro-harmonies-without-copyright-issues/"><u>In 2024, A List of Trustworthy Websites for Procuring Creative Outro Harmonies Without Copyright Issues</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-nubia-z50s-pro-phone-by-drfone-android/"><u>How to Reset a Locked Nubia Z50S Pro Phone</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-honor-80-pro-straight-screen-edition-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Honor 80 Pro Straight Screen Edition in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-samsung-galaxy-a05-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Samsung Galaxy A05 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-much-can-you-earn-on-youtube-via-ad-revenue/"><u>How Much Can You Earn on YouTube via Ad Revenue?</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-video-to-picture-the-ultimate-list-of-10-conversion-tools-for-2024/"><u>Updated Video to Picture The Ultimate List of 10 Conversion Tools for 2024</u></a></li>
+</ul></div>
