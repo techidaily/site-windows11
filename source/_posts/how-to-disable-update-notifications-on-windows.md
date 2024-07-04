@@ -1,7 +1,7 @@
 ---
 title: How to Disable Update Notifications on Windows
-date: 2024-06-25T12:10:17.825Z
-updated: 2024-06-26T12:10:17.825Z
+date: 2024-07-03T11:10:03.908Z
+updated: 2024-07-04T11:10:03.908Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
 
  The quickest way to disable update notifications on Windows is through the Settings app. Here are the steps for the same.
 
-1. Press**Win + I** to open Windows Settings. You can also use any method we cover in[how to launch the Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
+1. Press**Win + I** to open Windows Settings. You can also use any method we cover in [how to launch the Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
 2. Navigate to**Update & Security > Windows Update** .
 3. Select**Advanced options** .
 4. Disable the toggle for**Notify me when a restart is required to finish updating** .
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/9333e7c75e292a0b83b1e16b6df5d6742dede6cee
 
 ## 2\. Disable Windows Update Notifications Using Group Policy Editor
 
- Group Policy Editor is a powerful tool for configuring various settings on your Windows computer. If you have the Enterprise or Professional edition of Windows, you can disable update notifications using the Group Policy Editor. If you don't have either of those versions, read our guide on[how to access Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) before proceeding.
+ Group Policy Editor is a powerful tool for configuring various settings on your Windows computer. If you have the Enterprise or Professional edition of Windows, you can disable update notifications using the Group Policy Editor. If you don't have either of those versions, read our guide on [how to access Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) before proceeding.
 
 To disable Windows update notifications using Group Policy Editor:
 
@@ -53,7 +53,7 @@ To disable Windows update notifications using Group Policy Editor:
 
  If you can’t seem to access the Group Policy Editor for some reason, you can use the Registry Editor to disable update notifications.
 
- Since Registry Editor is a powerful tool that needs to be handled with care, we recommend that you back up all the registry files or create a restore point before proceeding with the changes below. If you need help, check our guides on[how to back up and restore the Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) and[how to create a restore point on Windows](https://www.makeuseof.com/windows-11-create-restore-point/) .
+ Since Registry Editor is a powerful tool that needs to be handled with care, we recommend that you back up all the registry files or create a restore point before proceeding with the changes below. If you need help, check our guides on [how to back up and restore the Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) and [how to create a restore point on Windows](https://www.makeuseof.com/windows-11-create-restore-point/) .
 
 To disable Windows update notifications using Registry Editor:
 

@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Gameplay: Low Lag, High FPS on Roblox PCs"
-date: 2024-06-25T12:17:46.240Z
-updated: 2024-06-26T12:17:46.240Z
+date: 2024-07-03T11:10:01.843Z
+updated: 2024-07-04T11:10:01.843Z
 tags:
   - windows10
   - windows11
@@ -70,7 +70,7 @@ To remove this unnecessary burden from your GPU, follow these steps:
 
  Windows lets users change graphical power preferences for their apps and games. They can choose between three performance settings:**Power Saving** ,**High Performance** , and**Let Windows Decide** . Putting Roblox on high performance will increase power consumption and may strain your GPU more, but it will boost the game's FPS and reduce lag.
 
- To change your graphics preference, open the**Settings** app (see[different ways to open the Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ), select the**System** tab, and navigate to**Display > Graphics** .
+ To change your graphics preference, open the**Settings** app (see [different ways to open the Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ), select the**System** tab, and navigate to**Display > Graphics** .
 
 ![Go to Graphics Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/6-go-to-graphics-settings-in-windows-settings-app.jpg)
 

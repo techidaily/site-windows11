@@ -1,7 +1,7 @@
 ---
 title: Stepwise Guide for Crafting Personalized Audio CDs From Your MP3 Collection (Windows)
-date: 2024-06-25T11:59:42.719Z
-updated: 2024-06-26T11:59:42.719Z
+date: 2024-07-03T11:10:02.826Z
+updated: 2024-07-04T11:10:02.826Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/ece2bc720a8bffcaadf07cecfb821d8b916ae290e
 
  Writable discs had a thermo-sensitive chemical structure. Writing on them was achieved thanks to a powerful laser in CD writing devices, which heated their surface to create those pits. That's why such devices were also called "CD burners".
 
- What all optical discs had in common was how sensitive they were to damage, which is why we suggest you also bookmark our guide on[how to repair damaged CDs or DVDs and recover data](https://www.makeuseof.com/tag/how-to-repair-and-recover-data-from-damaged-cds-or-dvds/) .
+ What all optical discs had in common was how sensitive they were to damage, which is why we suggest you also bookmark our guide on [how to repair damaged CDs or DVDs and recover data](https://www.makeuseof.com/tag/how-to-repair-and-recover-data-from-damaged-cds-or-dvds/) .
 
  We're explaining all this because you'll have to keep in mind some limitations inherent to audio CDs' very nature that we'll see next.
 
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/ece2bc720a8bffcaadf07cecfb821d8b916ae290e
 
  Of course, you will also need a CD writing device. All devices that work with similar optical discs are compatible with CDs. Thanks to this, you can also use a DVD or Blu-Ray writer. Emphasis on the "writer" bit, for you might have a device that can only read optical discs.
 
- Note that if you want to perform the opposite, to bring your CDs into the modern age by converting them to MP3s, we've got you covered, too. Check our article on[how to rip a CD to MP3 (and auto-name the files correctly)](https://www.makeuseof.com/tag/how-to-rip-a-cd-automatically-correctly-name-the-files-windows/) .
+ Note that if you want to perform the opposite, to bring your CDs into the modern age by converting them to MP3s, we've got you covered, too. Check our article on [how to rip a CD to MP3 (and auto-name the files correctly)](https://www.makeuseof.com/tag/how-to-rip-a-cd-automatically-correctly-name-the-files-windows/) .
 
 ## Download and Install ImgBurn
 
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/ece2bc720a8bffcaadf07cecfb821d8b916ae290e
 
  For the software side of things, we'll be using ImgBurn. ImgBurn is compatible with most popular audio file formats, like AAC, FLAC, WAV, PCM, WMA, OGG, APE, and of course, MP3\. More importantly, it's free.
 
- So, visit[ImgBurn's official site](https://www.imgburn.com/) . Download the application and install it on your PC, then run it.
+ So, visit [ImgBurn's official site](https://www.imgburn.com/) . Download the application and install it on your PC, then run it.
 
 ![ImgBurn Main Interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-main-interface.jpg)
 

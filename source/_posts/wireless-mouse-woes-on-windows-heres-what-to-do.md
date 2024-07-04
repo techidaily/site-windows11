@@ -1,7 +1,7 @@
 ---
 title: Wireless Mouse Woes on Windows? Here's What to Do
-date: 2024-06-25T12:19:05.461Z
-updated: 2024-06-26T12:19:05.461Z
+date: 2024-07-03T11:10:03.222Z
+updated: 2024-07-04T11:10:03.222Z
 tags:
   - windows10
   - windows11
@@ -56,13 +56,13 @@ thumbnail: https://thmb.techidaily.com/410b1a4d385c6e4b30f8c2bafd9b2a73f332bf695
 
  Microsoft releases new Windows updates regularly. Even though these updates aim to improve your device's security and add new features, they can contain bugs, causing numerous problems for Windows users. If you have updated Windows recently and suspect that your mouse has stopped working since then, you need to uninstall this latest update.
 
- If you've never uninstalled updates before, read our guide on[manually uninstalling Windows 10 and 11 updates](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) .
+ If you've never uninstalled updates before, read our guide on [manually uninstalling Windows 10 and 11 updates](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) .
 
 ## 6\. Disable Fast Startup
 
  The Fast Startup feature on Windows lets users turn on their devices faster. It does have its downsides, however, and peripheral-related problems could be one of them. Therefore, if none of the above fixes have worked, you should disable this feature.
 
- You can disable Fast Startup in several ways, and we have covered most of them in our[guide on turning Fast Startup on and off in Windows](https://www.makeuseof.com/windows-11-turn-on-or-off-fast-startup/) . So, disable this feature, shut down your device, disconnect and reconnect the mouse receiver, and turn on your computer.
+ You can disable Fast Startup in several ways, and we have covered most of them in our [guide on turning Fast Startup on and off in Windows](https://www.makeuseof.com/windows-11-turn-on-or-off-fast-startup/) . So, disable this feature, shut down your device, disconnect and reconnect the mouse receiver, and turn on your computer.
 
 ![Disable fast startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disable-fast-startup.jpg)
 
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/410b1a4d385c6e4b30f8c2bafd9b2a73f332bf695
 
 ## 7\. Uninstall the Mouse Drivers and Reinstall Them
 
- Outdated or corrupt drivers can also lead to miscommunication between your mouse and the receiver. To ensure that's not the case, uninstall and reinstall the mouse drivers. Our guide on[uninstalling drivers on Windows](https://www.makeuseof.com/windows-11-uninstall-drivers/) will show you how to uninstall mouse drivers.
+ Outdated or corrupt drivers can also lead to miscommunication between your mouse and the receiver. To ensure that's not the case, uninstall and reinstall the mouse drivers. Our guide on [uninstalling drivers on Windows](https://www.makeuseof.com/windows-11-uninstall-drivers/) will show you how to uninstall mouse drivers.
 
  After uninstalling the drivers, restart Windows, and the drivers will be automatically installed the next time your device boots. But if you prefer, you can download the drivers from the mouse manufacturer's website and install them manually.
 
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/410b1a4d385c6e4b30f8c2bafd9b2a73f332bf695
 
  If you suspect you have messed up some system settings recently, or if you fail to figure out why your wireless mouse isn't working, you should perform a system restore. A system restore reverts any changes made to your system and uninstalls problematic drivers and system updates installed since the last restore point, which fixes most issues.
 
- Our guide on[creating a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) explains how to restore your system using system restore. If you are unfamiliar with the process, follow the instructions mentioned in this guide. However, you can only restore your system if you've previously created a restore point. If not, you can skip this fix.
+ Our guide on [creating a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) explains how to restore your system using system restore. If you are unfamiliar with the process, follow the instructions mentioned in this guide. However, you can only restore your system if you've previously created a restore point. If not, you can skip this fix.
 
 ![system restore select restore point](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-restore-select-restore-point.jpg)
 

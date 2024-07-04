@@ -1,7 +1,7 @@
 ---
 title: Swift Solutions for DotNet Health in PCs (Max 156)
-date: 2024-06-25T12:27:11.582Z
-updated: 2024-06-26T12:27:11.582Z
+date: 2024-07-03T11:10:01.504Z
+updated: 2024-07-04T11:10:01.504Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/e773ad143d0e6a181e98946175694e64ba11aabb2
 
 To run the .NET Framework Repair Tool
 
-1. Go to the[Microsoft .NET Framework Repair Tool page](https://support.microsoft.com/en-us/topic/microsoft-net-framework-repair-tool-is-available-942a01e3-5b8b-7abb-c166-c34a2f4b612a) .
+1. Go to the [Microsoft .NET Framework Repair Tool page](https://support.microsoft.com/en-us/topic/microsoft-net-framework-repair-tool-is-available-942a01e3-5b8b-7abb-c166-c34a2f4b612a) .
 2. Scroll down to the**Download information** section.
 3. Next, click on the**Microsoft .NET Framework Repair Tool** link to download the executable file.
 4. Once downloaded, double-click on the Netfxrepairtool.exe to run the repair tool. Click**Yes** if prompted by**User Account Control.**
@@ -40,7 +40,7 @@ To run the .NET Framework Repair Tool
 
  If the .NET Framework Repair Tool doesn’t work, you can disable and re-enable the feature from Optional Features to repair the framework. This process will disable and re-enable the feature fixing any issue due to temporary glitches and file corruption.
 
- Follow these steps to[add and remove optional features in Windows](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) :
+ Follow these steps to [add and remove optional features in Windows](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) :
 
 1. Press**Win + R** to open**Run** .
 2. Type**control** and click**OK** to open Control Panel.
@@ -65,7 +65,7 @@ After the restart:
 
 ## 3\. How to Repair .NET Framework Using PowerShell
 
- If the issue persists, try reinstalling .NET Framework on your Windows PC using[PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . You can use the shell application to perform a clean install of the .NET Framework and other associated tools. Here’s how to do it.
+ If the issue persists, try reinstalling .NET Framework on your Windows PC using [PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . You can use the shell application to perform a clean install of the .NET Framework and other associated tools. Here’s how to do it.
 
 1. Press the**Win** key and type**PowerShell** .
 2. Right-click on**PowerShell** and select**Run as administrator.**
@@ -86,7 +86,7 @@ After the restart:
 
 To manually install older versions of the .NET Framework:
 
-1. Go to the[.NET Framework download page](https://dotnet.microsoft.com/en-us/download/dotnet-framework) .
+1. Go to the [.NET Framework download page](https://dotnet.microsoft.com/en-us/download/dotnet-framework) .
 2. Under the**Supported versions** section, click on the**.NET Framework** version you want to download.
 3. On the next page, click on**Download .NET Framework XX Runtime.**
 4. Once the download is complete, open the download location and run the**dotnetfx.exe** file to launch the setup. Click**Yes** , if prompted by UAC.

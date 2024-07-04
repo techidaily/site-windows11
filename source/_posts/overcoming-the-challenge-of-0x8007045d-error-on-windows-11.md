@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Challenge of 0X8007045d Error on Windows 11
-date: 2024-06-25T12:22:23.935Z
-updated: 2024-06-26T12:22:23.935Z
+date: 2024-07-03T11:10:02.093Z
+updated: 2024-07-04T11:10:02.093Z
 tags:
   - windows10
   - windows11
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/4b1d432d185a9307d4c64d844f91526f6a3048c24
 
 ## 2\. Restart Your PC
 
- Using one of the many[ways to restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) is often recommended for troubleshooting. It's one of the easiest ways to rid of strange Windows glitches, and for good reason. Put briefly, a simple restart flushes your RAM, clearing away all the programs that might be eating your memory. So make sure you restart your PC before moving to complex solutions.
+ Using one of the many [ways to restart your Windows PC](https://www.makeuseof.com/windows-restart-methods/) is often recommended for troubleshooting. It's one of the easiest ways to rid of strange Windows glitches, and for good reason. Put briefly, a simple restart flushes your RAM, clearing away all the programs that might be eating your memory. So make sure you restart your PC before moving to complex solutions.
 
  In this case, too, you can try a restart and see if it fixes the 0x8007045d error.
 
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/4b1d432d185a9307d4c64d844f91526f6a3048c24
 
 ## 7\. Check for Driver Errors
 
- Driver errors aren't unheard of in Windows computers—we have a whole guide that addresses[ways to fix your corrupt drivers on Windows](https://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/) . So if there's a problem with your CD/DVD or USB driver, then the 0x8007045d error is likely to happen. Thankfully, you can address the issue with a built-in tool, though. Here's how:
+ Driver errors aren't unheard of in Windows computers—we have a whole guide that addresses [ways to fix your corrupt drivers on Windows](https://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/) . So if there's a problem with your CD/DVD or USB driver, then the 0x8007045d error is likely to happen. Thankfully, you can address the issue with a built-in tool, though. Here's how:
 
 1. Head to the**Start menu** search bar, type in 'device manager,' and select the best match.
 2. In the Device manager, head to the**DVD/USB driver** from there, and right-click on it.

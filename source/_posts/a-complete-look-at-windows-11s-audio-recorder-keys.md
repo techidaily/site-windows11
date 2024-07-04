@@ -1,7 +1,7 @@
 ---
 title: A Complete Look at Windows 11'S Audio Recorder Keys
-date: 2024-06-25T12:18:14.535Z
-updated: 2024-06-26T12:18:14.535Z
+date: 2024-07-03T11:10:01.873Z
+updated: 2024-07-04T11:10:01.873Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/67bd9eb22eb0b577554d0f90d5db30aca97e4f163
 
  The**Ctrl + R** keyboard shortcut is especially useful for voice recorders. It starts a new recording without having to open the application and hit record manually. It's great for speeding up workflows, as it can save significant time when compared to manually starting a recording each time.
 
- If your recording sounds a little low-quality, it may be time to upgrade your microphone. Fortunately, we have a guide on[what to look for when buying a studio microphone](https://www.makeuseof.com/buying-studio-microphone-what-to-look-for/) to help you pick the right one.
+ If your recording sounds a little low-quality, it may be time to upgrade your microphone. Fortunately, we have a guide on [what to look for when buying a studio microphone](https://www.makeuseof.com/buying-studio-microphone-what-to-look-for/) to help you pick the right one.
 
 ## 2\. Add a New Marker to the Recording
 
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/67bd9eb22eb0b577554d0f90d5db30aca97e4f163
 
 ## 7\. Show in Folder
 
- Although the voice recorder is one of the most convenient tools available, navigating your recordings can be difficult if you don't know the[Windows keyboard shortcuts](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/) .
+ Although the voice recorder is one of the most convenient tools available, navigating your recordings can be difficult if you don't know the [Windows keyboard shortcuts](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/) .
 
  The**O** shortcut lets you locate a recording file on the computer's hard drive and display the folder containing the file quickly and easily.
 

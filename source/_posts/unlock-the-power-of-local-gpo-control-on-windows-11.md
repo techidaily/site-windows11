@@ -1,7 +1,7 @@
 ---
 title: Unlock the Power of Local GPO Control on Windows 11
-date: 2024-06-25T12:19:01.752Z
-updated: 2024-06-26T12:19:01.752Z
+date: 2024-07-03T11:10:01.366Z
+updated: 2024-07-04T11:10:01.366Z
 tags:
   - windows10
   - windows11
@@ -122,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/41ecffa399c4641eb478bbc9a56d686246cf56f42
 
  If you want to open the Local Group Policy Editor even faster, why not [assign a keyboard shortcut to this important Windows program](https://www.makeuseof.com/windows-keyboard-shortcuts-programs/)?
 
- Alternatively, pin the newly created Local Group Policy Editor shortcut to the taskbar. You can[pin almost anything to the Windows 11 taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/) for speedy access.
+ Alternatively, pin the newly created Local Group Policy Editor shortcut to the taskbar. You can [pin almost anything to the Windows 11 taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/) for speedy access.
 
 ## Access the Local Group Policy Editor With Ease
 

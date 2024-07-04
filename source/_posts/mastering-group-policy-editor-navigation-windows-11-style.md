@@ -1,7 +1,7 @@
 ---
 title: Mastering Group Policy Editor Navigation, Windows 11 Style
-date: 2024-06-25T12:22:16.510Z
-updated: 2024-06-26T12:22:16.510Z
+date: 2024-07-03T11:10:02.715Z
+updated: 2024-07-04T11:10:02.715Z
 tags:
   - windows10
   - windows11
@@ -122,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/c80fad792e3cb229a3e653969139437b39335328a
 
  If you want to open the Local Group Policy Editor even faster, why not [assign a keyboard shortcut to this important Windows program](https://www.makeuseof.com/windows-keyboard-shortcuts-programs/)?
 
- Alternatively, pin the newly created Local Group Policy Editor shortcut to the taskbar. You can[pin almost anything to the Windows 11 taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/) for speedy access.
+ Alternatively, pin the newly created Local Group Policy Editor shortcut to the taskbar. You can [pin almost anything to the Windows 11 taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/) for speedy access.
 
 ## Access the Local Group Policy Editor With Ease
 

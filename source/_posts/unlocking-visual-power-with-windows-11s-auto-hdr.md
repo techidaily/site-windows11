@@ -1,7 +1,7 @@
 ---
 title: Unlocking Visual Power with Windows 11'S Auto HDR
-date: 2024-06-25T12:16:17.745Z
-updated: 2024-06-26T12:16:17.745Z
+date: 2024-07-03T11:10:01.620Z
+updated: 2024-07-04T11:10:01.620Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 
  Windows' HDR feature enhances HDR-compatible videos and games when you play them. Windows 11 makes this process even easier with the inclusion of Auto HDR.
 
- However, having Windows 11 does not automatically mean that you have access to Auto HDR. In fact, there are a lot of[reasons you're not enjoying true HDR, even with an HDR-compliant monitor](https://www.makeuseof.com/reasons-not-enjoying-true-hdr/) . Fortunately, you can check whether your display is HDR-compatible or not through the device settings.
+ However, having Windows 11 does not automatically mean that you have access to Auto HDR. In fact, there are a lot of [reasons you're not enjoying true HDR, even with an HDR-compliant monitor](https://www.makeuseof.com/reasons-not-enjoying-true-hdr/) . Fortunately, you can check whether your display is HDR-compatible or not through the device settings.
 
 ![Advanced display in the Windows 11 Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Advanced-display.jpg)
 
@@ -61,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 
 ![Navigating to Video Playback through Windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Apps-video-playback.jpg)
 
- There’s a special video platform built into Windows 11, as covered on[Microsoft Support](https://support.microsoft.com/en-us/windows/video-playback-settings-in-windows-39ad5cbf-b2d1-2664-bd55-65028db05579#WindowsVersion=Windows%5F11) . When other apps use it, this setting helps you get the most out of the display. For example, Netflix, Hulu, and other video streaming sites use it, so you can get better video quality on your Windows 11 device this way. Unfortunately, it doesn’t do anything for games.
+ There’s a special video platform built into Windows 11, as covered on [Microsoft Support](https://support.microsoft.com/en-us/windows/video-playback-settings-in-windows-39ad5cbf-b2d1-2664-bd55-65028db05579#WindowsVersion=Windows%5F11) . When other apps use it, this setting helps you get the most out of the display. For example, Netflix, Hulu, and other video streaming sites use it, so you can get better video quality on your Windows 11 device this way. Unfortunately, it doesn’t do anything for games.
 
 ## HDR Is Still Relatively New on Windows
 

@@ -1,7 +1,7 @@
 ---
 title: Activating Windows Media Player in a Swift Manner
-date: 2024-06-25T12:16:24.233Z
-updated: 2024-06-26T12:16:24.233Z
+date: 2024-07-03T11:10:03.606Z
+updated: 2024-07-04T11:10:03.606Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551
 
 To open Windows Media Player using the Run command, do the following:
 
-1. Press**Win + R** on your keyboard to[open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . For more information, check out our[complete guide to Windows Keyboard Shortcuts](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/) .
+1. Press**Win + R** on your keyboard to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . For more information, check out our [complete guide to Windows Keyboard Shortcuts](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/) .
 2. In the Run dialog box, type**wmplayer.exe** and click**OK** .
 
  That's it. This is how you can open Windows Media Player on your PC.

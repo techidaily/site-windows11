@@ -1,7 +1,7 @@
 ---
 title: Eliminating Windows Errors During AMD 195 Installation
-date: 2024-06-25T11:57:25.450Z
-updated: 2024-06-26T11:57:25.450Z
+date: 2024-07-03T11:10:03.300Z
+updated: 2024-07-04T11:10:03.300Z
 tags:
   - windows10
   - windows11
@@ -38,9 +38,9 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 
  Similar to your antivirus, a firewall can also block inbound and outbound connections and prevent the installer from downloading necessary files. You can disable your firewall temporarily to determine if your firewall setting is triggering the error.
 
- You can[turn off Windows Defender Firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) from the Settings app. Third-party antivirus programs may have their own firewall programs built-in to the application. Sweep your antivirus settings to find and disable the firewall protection.
+ You can [turn off Windows Defender Firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) from the Settings app. Third-party antivirus programs may have their own firewall programs built-in to the application. Sweep your antivirus settings to find and disable the firewall protection.
 
- If the error is resolved with the firewall disabled, you’ll need to add the AMD installer to allow the list to allow traffic from the AMD server. You can add[the AMD servers to the allow list on Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) to run the installer without conflict.
+ If the error is resolved with the firewall disabled, you’ll need to add the AMD installer to allow the list to allow traffic from the AMD server. You can add [the AMD servers to the allow list on Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) to run the installer without conflict.
 
  Third-party antivirus programs use their own allow list. If you use Malwarebytes, go to**Settings** and open the**Allow List** tab. Click**Add** and select**Allow a file or folder** . Select the AMD software installer to add it to the allowed list. Now run the installer to see if the error is resolved. You can remove the allowed list entry after the program is installed.
 
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 
  If the auto detector tool is not working, you can manually install AMD Radeon Adrenalin Edition drivers from the website. Follow these steps to download AMD drivers manually:
 
-1. Go to the[AMD Drivers and Support page](https://www.amd.com/en/support) .
+1. Go to the [AMD Drivers and Support page](https://www.amd.com/en/support) .
 2. Click the**Search all products** drop-down, select your graphics driver from the list, and click**Submit** .
 3. Select your Windows edition.
 4. Under the**AMD Software Adrenalin Edition** section, verify the version and the file size. The offline installer is often between 500 MB-600 MB in size.
@@ -79,7 +79,7 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 
 * Use an Ethernet connection to download the installer and other files. Issues with your wireless connection may cause the installer to fail and show an error. Plugin an Ethernet cable into your laptop and run the installer to download the necessary files from the ADM server.
 * [Run the installer in the clean boot state](https://www.makeuseof.com/clean-boot-windows-11/) . You can run the AMD software in a clean boot state to check for third-party program and startup app conflicts. In a clean boot state, Windows starts with only Microsoft services and startup apps disabled. If the installation goes through, you can safely assume a third-party app conflict triggering the error.
-* Perform a clean install – If the error occurs when performing an update, try to[clean install your GPU drivers](https://www.makeuseof.com/how-to-cleanly-install-and-reinstall-gpu-drivers-on-windows/) . You can uninstall the AMD graphics driver using Device Manager, the AMD Radeon Software, and Display Driver Uninstaller (DDU).
+* Perform a clean install – If the error occurs when performing an update, try to [clean install your GPU drivers](https://www.makeuseof.com/how-to-cleanly-install-and-reinstall-gpu-drivers-on-windows/) . You can uninstall the AMD graphics driver using Device Manager, the AMD Radeon Software, and Display Driver Uninstaller (DDU).
 
 ## Fixing the ADM Error 195 on Windows
 

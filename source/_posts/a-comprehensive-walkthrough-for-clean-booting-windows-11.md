@@ -1,0 +1,105 @@
+---
+title: A Comprehensive Walkthrough for Clean Booting Windows 11
+date: 2024-07-03T11:12:16.640Z
+updated: 2024-07-04T11:12:16.640Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes A Comprehensive Walkthrough for Clean Booting Windows 11
+excerpt: This Article Describes A Comprehensive Walkthrough for Clean Booting Windows 11
+keywords: Boot Windows 11 Guide,Clean OS Startup,XPEasy Windows Reboot,Win11 Quick Reset,Safe Mode Booting,Fresh Windows Launch,Zero-Config Windows Boot
+thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e3882be4cc44ae2eb5b5e3f9c4a.jpg
+---
+
+## A Comprehensive Walkthrough for Clean Booting Windows 11
+
+ A clean boot on Windows 11 can help you fix anything from a slow computer to any specific program that's suddenly gone haywire. It works by starting your PC with a minimal set of drivers and apps, which lets you figure out the cause of the error.
+
+ The good news is that it's an easy process to boot your Windows 11 into a clean boot environment.
+
+## How to Clean Boot Windows 11
+
+ A [clean boot](https://support.microsoft.com/en-us/topic/how-to-perform-a-clean-boot-in-windows-da2f9573-6eec-00ad-2f8a-a97a1807f3dd) in Windows is a troubleshooting technique that starts the system with a minimal set of startup programs and drivers. It helps you figure out whether an additional program is the cause of this problem, or if it’s due to issues within the system files.
+
+ The primary rationale behind a clean boot is simple: if the problem persists even after you've booted your Windows 11 into a clean boot environment, then the problem lies somewhere else on your PC. However, if you face no trouble during a clean boot run, then an app is most likely causing the bug. In this way, after you've pinpointed the cause of trouble with a clean boot, you can take steps to fix it.
+
+ To perform a clean boot on Windows 11, follow the steps below:
+
+1. Go to the **Start menu** search bar, type in “msconfig” and select **System Configuration** from the results.
+2. Switch to the **Services** tab, select **Hide all Microsoft Services**, and click on **Disable All**.
+
+![disabling all services from the system configuration tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/disabling-the-system-configuration.png)
+
+ Now you have to launch the Task Manager. Here's how you can do that:
+
+1. In **System Configuration**, go to the **Start tab** and select **Open Task Manager.**
+2. Now, one by one, disable each app under the **Startup** tab.
+3. Go back to **Startup** tab in **System Configuration** and select **OK**.
+
+![disabling startup apps from task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/11/disabling-startup-apps.png)
+
+ On your next restart, Windows will be launched in a clean boot environment.
+
+ If the problem persists, then the issue is something else. As such, you might have to try out different methods to fix it. If that's the case for you, then jump to the next section to get back to a normal boot-up.
+
+ However, if your computer is working fine after the clean boot, then we’re on to something. From here, you’ll enable all the apps one by one, which will help you find the app that’s the culprit behind your Windows bug. Here’s how:
+
+1. Open the **System Configuration.**
+2. Go to the **Services** tab, select the apps in the top half of the list, and click **Enable.** (If the problem reappears, this will eliminate the bottom half of the apps.)
+3. Then, click on **Task Manager** and head to the **Startup** tab.
+4. Select the top half of the services and **Enable** them.
+5. Finally, click on **OK** and select **Restart**.
+
+ Repeat the procedure until you are left with the app that's causing trouble on your PC.
+
+## How to Stop Clean Boot on Your Windows 11
+
+ Whether the clean boot fixed your Windows 11 bugs or not, you have to get out of it eventually. To do that, follow the steps below:
+
+1. Head to the **Start menu** search bar, type in 'msconfig', and select **System Configuration**.
+2. Click on the **Services** tab, select the **Hide all Microsoft services** check box, and click the **Enable all** button.
+
+![system configuration dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/system-configuration-dialog-box.jpg)
+
+ Now, follow the steps below:
+
+1. Now click on **Startup > Open Task Manager**.
+2. Select every disabled application one by one and click on **Enable**.
+
+![enabling apps from task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/task-manager.jpg)
+
+ That's it. Now, do a quick reboot, and your Windows 11 will boot normally from here on.
+
+ Clean boot is a handy method to keep in mind for figuring out the problems on your Windows 11\. Although people sometimes don't quite know the [difference between Clean boot and Safe mode](https://www.makeuseof.com/clean-boot-vs-safe-mode-whats-the-difference/), clean boot is different in that it gives you more control over which apps and services can run during startup.
+
+ The good news is that it's an easy process to boot your Windows 11 into a clean boot environment.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/brightening-up-dull-desktop-windows-appearance/"><u>Brightening Up Dull Desktop Windows Appearance</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-yuzu-emulation-speed-in-windows/"><u>Elevating Yuzu Emulation Speed in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/liberating-windows-past-a-set-of-three-tactics/"><u>Liberating Windows Past - A Set of Three Tactics</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-past-the-activation-hurdle-in-microsoft-office/"><u>Navigating Past the Activation Hurdle in Microsoft Office</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-manual-methods-for-malware-detection-on-desktops/"><u>Mastering Manual Methods for Malware Detection on Desktops</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-running-handbrake-on-widows/"><u>Mastering the Art of Running HandBrake on Widows</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-stability-issues-with-vscode-on-w11/"><u>Preventing Stability Issues with VSCode on W11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/fficient-audio-extraction-from-youtube-top-picks-for-your-favorite-free-crackers/"><u>[New] Efficient Audio Extraction From YouTube  Top Picks for Your Favorite Free Crackers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tips-for-enjoying-virtual-realms-on-your-ipad-pro/"><u>[New] Tips for Enjoying Virtual Realms on Your iPad Pro</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-free-video-smoothing-tools-for-pc-and-mac-for-2024/"><u>Updated Top Free Video Smoothing Tools for PC and Mac for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-mobile-cinema-app-assessment-review/"><u>[Updated] In 2024, Mobile Cinema App Assessment Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-beginners-blueprint-for-winning-animation-in-windows/"><u>[New] The Beginner’s Blueprint for Winning Animation in Windows</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-proven-remedies-to-enhance-your-instagram-videography/"><u>In 2024, Proven Remedies to Enhance Your Instagram Videography</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-ultimate-screencast-blueprint-tools-and-techniques-mastery/"><u>[New] 2024 Approved  The Ultimate Screencast Blueprint  Tools & Techniques Mastery</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Lava Yuva 3 Pro | Dr.fone</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

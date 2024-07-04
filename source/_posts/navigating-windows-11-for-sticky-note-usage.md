@@ -1,7 +1,7 @@
 ---
 title: Navigating Windows 11 for Sticky Note Usage
-date: 2024-06-25T12:15:57.825Z
-updated: 2024-06-26T12:15:57.825Z
+date: 2024-07-03T11:10:02.468Z
+updated: 2024-07-04T11:10:02.468Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51
 
 To open Sticky Notes using the Windows Search tool, do the following:
 
-1. Press**Win + Q** on your keyboard to open the search tool. See[how to open Windows Search](https://www.makeuseof.com/windows-search-use-guide/) for more methods.  
+1. Press**Win + Q** on your keyboard to open the search tool. See [how to open Windows Search](https://www.makeuseof.com/windows-search-use-guide/) for more methods.  
 ![Open Sticky Notes Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Sticky-Notes-Using-Windows-Search.jpg)
 2. Then type "Sticky Notes" into the search bar.
 3. The Sticky Notes app should appear as a search result. Click on it to open the app.
@@ -55,7 +55,7 @@ To open Sticky Notes from the Start Menu, follow these steps:
 
 ## 3\. How to Open the Sticky Notes With a Desktop Shortcut
 
- If you're a frequent user of the Sticky Notes application, you'll be glad to know that there's an even easier way to access it in Windows 11\. All you need to do is create a[desktop shortcut](https://www.makeuseof.com/what-is-desktop-shortcut-how-work/) . Here's how:
+ If you're a frequent user of the Sticky Notes application, you'll be glad to know that there's an even easier way to access it in Windows 11\. All you need to do is create a [desktop shortcut](https://www.makeuseof.com/what-is-desktop-shortcut-how-work/) . Here's how:
 
 1. Open the Start menu by pressing the**Win** key.
 2. Click**All apps** in the upper right corner of the screen.

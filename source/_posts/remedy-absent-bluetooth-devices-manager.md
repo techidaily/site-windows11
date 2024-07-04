@@ -1,7 +1,7 @@
 ---
 title: Remedy Absent Bluetooth Devices Manager
-date: 2024-06-25T11:59:35.729Z
-updated: 2024-06-26T11:59:35.729Z
+date: 2024-07-03T11:10:02.537Z
+updated: 2024-07-04T11:10:02.537Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
 ## 2\. Reconnect the Bluetooth Adapter
 
- If you’ve connected a Bluetooth dongle as a[way to add Bluetooth to your computer](https://www.makeuseof.com/tag/bluetooth-adapter-for-pc/) , the driver might be missing because of faulty hardware. Reconnect the adapter or try another USB port and check if it’s now showing in Device Manager.
+ If you’ve connected a Bluetooth dongle as a [way to add Bluetooth to your computer](https://www.makeuseof.com/tag/bluetooth-adapter-for-pc/) , the driver might be missing because of faulty hardware. Reconnect the adapter or try another USB port and check if it’s now showing in Device Manager.
 
  Additionally, try to connect it to another computer to determine if the adapter is still working or if you should buy a new one.
 
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
  On a Windows computer, enabling Flight Mode is a quick way to disable wireless communications such as Wi-Fi, Bluetooth, or NFC. So if there’s something wrong with Flight Mode on your computer, it could cause Bluetooth drivers to miss from Device Manager.
 
- Launch Action Center and check if Flight Mode is turned off. If it’s already turned off, enable it for a couple of minutes and turn it off again. If you can’t turn it on and off from Action center, there are more[ways to control Flight Mode on a Windows computer](https://www.makeuseof.com/how-to-turn-airplane-mode-on-or-off-windows-11/) .
+ Launch Action Center and check if Flight Mode is turned off. If it’s already turned off, enable it for a couple of minutes and turn it off again. If you can’t turn it on and off from Action center, there are more [ways to control Flight Mode on a Windows computer](https://www.makeuseof.com/how-to-turn-airplane-mode-on-or-off-windows-11/) .
 
 ## 5\. Run the Bluetooth Troubleshooter
 
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
  Bluetooth could be missing from Device Manager because a system file associated with its functionality got corrupted or damaged. Running the System File Checker should fix these files.
 
- To do this, use one of the[ways to open Windows Search](https://www.makeuseof.com/windows-search-use-guide/) to bring it up. Search for**command prompt** and select**Run as administrator** . Then, type the**sfc /scannow** command line and press**Enter** . Make sure you don’t close Command Prompt until the scan is not complete, so Windows can detect and replace any corrupt or damaged files.
+ To do this, use one of the [ways to open Windows Search](https://www.makeuseof.com/windows-search-use-guide/) to bring it up. Search for**command prompt** and select**Run as administrator** . Then, type the**sfc /scannow** command line and press**Enter** . Make sure you don’t close Command Prompt until the scan is not complete, so Windows can detect and replace any corrupt or damaged files.
 
 ## 7\. Check Bluetooth Service
 

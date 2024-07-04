@@ -1,7 +1,7 @@
 ---
 title: "The Clarity Connoisseur's Guide: Top Tips for Perfecting PC Displays"
-date: 2024-06-25T12:22:38.226Z
-updated: 2024-06-26T12:22:38.226Z
+date: 2024-07-03T11:10:04.639Z
+updated: 2024-07-04T11:10:04.639Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
  To adjust the display resolution and scaling on Windows 11, do as follows:
 
-1. Press**Win + R** to[open the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**ms-settings:display** and press the**Enter** key.
+1. Press**Win + R** to [open the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**ms-settings:display** and press the**Enter** key.
 2. Click on the**Display Resolution** option and set it to the resolution Windows recommends for your display.
 3. **Apply** the resolution and if the blur is still noticeable, click on the**Scale** option.  
 ![Tweak Display Resolution and Scaling in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/tweak-display-resolution-and-scaling-in-windows-11.jpg)
@@ -85,7 +85,7 @@ To enable ClearType Text on Windows 11, repeat the following steps:
 
 Retrace the following steps to adjust the app DPI settings:
 
-1. Press**Win + E** to[launch the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and navigate to the program executable file location.
+1. Press**Win + E** to [launch the File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) and navigate to the program executable file location.
 2. Click on the program icon and then press**Alt + Enter** to open the Properties window.
 3. Switch to the**Compatibility** tab and click on the**Change high DPI settings** button.
 4. Now, click on the **Use this setting to fix scaling problems for this program instead of the one in Settings** checkbox.
@@ -104,7 +104,7 @@ Retrace the following steps to adjust the app DPI settings:
 4. Click on the**Search automatically for drivers** option and wait for the utility to download and install the latest GPU drivers.
 5. **Restart** your system and run an app to check if the screen elements appear sharp or not.
 
- Device Manager isn't the best for finding new drivers, so if the above trick doesn't work out, check out[how to update AMD graphics cards](https://www.makeuseof.com/how-to-update-amd-graphics-card-drivers-windows/) or[how to update Nvidia graphics cards](https://www.makeuseof.com/how-update-nvidia-graphics-card-drivers-windows/) , depending on your GPU's model.
+ Device Manager isn't the best for finding new drivers, so if the above trick doesn't work out, check out [how to update AMD graphics cards](https://www.makeuseof.com/how-to-update-amd-graphics-card-drivers-windows/) or [how to update Nvidia graphics cards](https://www.makeuseof.com/how-update-nvidia-graphics-card-drivers-windows/) , depending on your GPU's model.
 
 ### 8\. Roll Back the Latest Windows Update
 
@@ -124,7 +124,7 @@ Here’s how to roll back a recent Windows update:
 
  If you don’t see any restore points available in the System Restore utility, then resetting Windows 11 is your last resort. Ensure that you back up all your data or use the in-place upgrade to keep all your files intact.
 
- You can check out how to do both of these in our guide on[how to factory reset Windows or use System Restore](https://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) .
+ You can check out how to do both of these in our guide on [how to factory reset Windows or use System Restore](https://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) .
 
 ## A Blurry Windows 11 Blur Issue, Fixed
 

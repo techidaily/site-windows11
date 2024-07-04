@@ -1,7 +1,7 @@
 ---
 title: Combatting Common Windows 11 Mail Errors - Get Your Email Back Now
-date: 2024-06-25T12:45:44.057Z
-updated: 2024-06-26T12:45:44.057Z
+date: 2024-07-03T11:10:04.098Z
+updated: 2024-07-04T11:10:04.098Z
 tags:
   - windows10
   - windows11
@@ -36,21 +36,21 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 
 ### Check the Date and Time on Windows
 
- As mentioned earlier, incorrect date and time settings can also be a prime reason behind the Mail error. If it's wrong, check out[how to change the date and time on Windows](https://www.makeuseof.com/windows-11-change-date-time/) .
+ As mentioned earlier, incorrect date and time settings can also be a prime reason behind the Mail error. If it's wrong, check out [how to change the date and time on Windows](https://www.makeuseof.com/windows-11-change-date-time/) .
 
 ### Allow Mail Through the Windows Firewall
 
- If the Mail app is blocked under the Windows Firewall settings, it will fail to fetch emails and show the "System error can't get mail" error. To fix this, you'll have to[allow the Mail app to run through the Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
+ If the Mail app is blocked under the Windows Firewall settings, it will fail to fetch emails and show the "System error can't get mail" error. To fix this, you'll have to [allow the Mail app to run through the Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
 
 ### Update Windows
 
- The error can also appear due to an outdated Windows version. So, download any available Windows update to eliminate the problem at hand. To do that, open the**Settings app** (see how to[access Settings in Windows 11](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ), choose**Windows Update** from the left sidebar, and then click on the**Check for updates** option in the right pane.
+ The error can also appear due to an outdated Windows version. So, download any available Windows update to eliminate the problem at hand. To do that, open the**Settings app** (see how to [access Settings in Windows 11](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ), choose**Windows Update** from the left sidebar, and then click on the**Check for updates** option in the right pane.
 
 ![Check for Updates option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-updates-option.jpg)
 
 ## 2\. Use the Windows Update Troubleshooter
 
- It's common for UWP apps to run into issues. Fortunately, you can quickly get rid of all such issues using the[built-in troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/) . To eliminate the Mail app issue, you'll have to use the Windows Store Apps troubleshooter. Here's how to use it:
+ It's common for UWP apps to run into issues. Fortunately, you can quickly get rid of all such issues using the [built-in troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/) . To eliminate the Mail app issue, you'll have to use the Windows Store Apps troubleshooter. Here's how to use it:
 
 1. Open the Settings app and go to**System** \>**Troubleshoot** \>**Other troubleshooters** .
 2. Click the**Run** button next to**Windows** **Store Apps** .  

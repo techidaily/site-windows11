@@ -1,7 +1,7 @@
 ---
 title: Optimizing Program Use in Windows via Right-Click Options
-date: 2024-06-25T12:35:59.424Z
-updated: 2024-06-26T12:35:59.424Z
+date: 2024-07-03T11:10:04.330Z
+updated: 2024-07-04T11:10:04.330Z
 tags:
   - windows10
   - windows11
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 ## What to Do Before Tweaking the Registry Editor
 
- Before you go about making big changes to your Windows PC, it’s always a good idea to have some sort of backup in case things go wrong. To do that, we highly recommend reading our guide on[creating a system restore with Command Prompt](https://www.makeuseof.com/windows-create-restore-point-command-prompt-powershell/) . If you want, you can also read our other guide on[how to back up and restore the Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) if you want to have a copy of it somewhere.
+ Before you go about making big changes to your Windows PC, it’s always a good idea to have some sort of backup in case things go wrong. To do that, we highly recommend reading our guide on [creating a system restore with Command Prompt](https://www.makeuseof.com/windows-create-restore-point-command-prompt-powershell/) . If you want, you can also read our other guide on [how to back up and restore the Windows registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) if you want to have a copy of it somewhere.
 
 ## How to Add a "Troubleshoot Compatibility" Option to the Context Menu With the Registry Editor
 
@@ -40,7 +40,7 @@ HKEY_CLASSES_ROOT\cmdfile\shellEx\ContextMenuHandlers
 
 ![The Troubleshoot compatibility option in the context menu on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/troubleshoot-compatibility-context-menu.jpg)
 
- Now you have one more way to[run the Program Compatibility Troubleshooter](https://www.makeuseof.com/run-program-compatibility-troubleshooter-windows/) .
+ Now you have one more way to [run the Program Compatibility Troubleshooter](https://www.makeuseof.com/run-program-compatibility-troubleshooter-windows/) .
 
 ## Run the Program Compatibility Troubleshooter Easily
 

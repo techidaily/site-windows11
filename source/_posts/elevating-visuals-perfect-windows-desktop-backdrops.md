@@ -1,7 +1,7 @@
 ---
 title: "Elevating Visuals: Perfect Windows Desktop Backdrops"
-date: 2024-06-25T12:24:51.677Z
-updated: 2024-06-26T12:24:51.677Z
+date: 2024-07-03T11:10:02.424Z
+updated: 2024-07-04T11:10:02.424Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/1c0c9da7d1a6e96b7776310e8c7452d6bdf395800
 
 ## How to Set the Highest Wallpaper Quality via the Registry Editor
 
- Windows 11 compresses your JPEG wallpaper images to 85% before setting them as your desktop background. There's no setting you can apply to prevent Windows from doing this. However, you can stop this quality reduction by editing the Windows registry. We recommend [creating a system restore point](https://www.makeuseof.com/windows-11-create-restore-point/)before tweaking the registry to restore Windows to its previous good state if things go wrong.
+ Windows 11 compresses your JPEG wallpaper images to 85% before setting them as your desktop background. There's no setting you can apply to prevent Windows from doing this. However, you can stop this quality reduction by editing the Windows registry. We recommend [creating a system restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before tweaking the registry to restore Windows to its previous good state if things go wrong.
 
  Now let's see how you can edit the registry to set the highest wallpaper quality.
 

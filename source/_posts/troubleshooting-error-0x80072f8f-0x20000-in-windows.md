@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Error 0X80072f8f - 0X20000 in Windows
-date: 2024-06-25T12:11:37.290Z
-updated: 2024-06-26T12:11:37.290Z
+date: 2024-07-03T11:10:02.762Z
+updated: 2024-07-04T11:10:02.762Z
 tags:
   - windows10
   - windows11
@@ -39,7 +39,7 @@ Follow these steps to run the file as administrator:
 
 ## 2\. Use a Different USB Port
 
- Often, faulty ports cause issues during the creation of the installation media. There are[several ways to test if the USB port is faulty](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) . You can begin by switching to another port and checking if the USB works fine there.
+ Often, faulty ports cause issues during the creation of the installation media. There are [several ways to test if the USB port is faulty](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/) . You can begin by switching to another port and checking if the USB works fine there.
 
  You can also try using the same USB on another device and see if it works fine there.
 
@@ -49,7 +49,7 @@ Follow these steps to run the file as administrator:
 
  Windows Registry is an administrative-level, powerful utility that stores information about the programs and processes of your operating system. The information here is stored as keys and values. You can modify the relevant keys/values to customize the processes of your system, which is exactly what we are going to do in this method.
 
- However, before you proceed with this method, we highly recommend[creating a Registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) . This will help you restore the current state of your system in case anything goes wrong during the process.
+ However, before you proceed with this method, we highly recommend [creating a Registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) . This will help you restore the current state of your system in case anything goes wrong during the process.
 
 When you have created a backup, follow these steps.
 
@@ -134,7 +134,7 @@ Here is how you can perform a clean boot in Windows:
 8. Click**Apply** \>**OK** to save the changes.
 9. Finally, restart your computer.
 
- If the error code 0x80072f8f - 0x20000 is not present after a clean boot, it suggests that the issue was caused by a software or driver conflict. If this situation is applicable, you can either manually remove the recently installed software that you think might be leading to the issue, or[perform a system restore](https://www.makeuseof.com/tag/windows-system-restore-works/) to return to an older functioning state of the system.
+ If the error code 0x80072f8f - 0x20000 is not present after a clean boot, it suggests that the issue was caused by a software or driver conflict. If this situation is applicable, you can either manually remove the recently installed software that you think might be leading to the issue, or [perform a system restore](https://www.makeuseof.com/tag/windows-system-restore-works/) to return to an older functioning state of the system.
 
 ## 7\. Disable Your Antivirus
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing a Faulty Windows 11 Temporary Storage
-date: 2024-06-25T12:33:01.002Z
-updated: 2024-06-26T12:33:01.002Z
+date: 2024-07-03T11:10:00.990Z
+updated: 2024-07-04T11:10:00.990Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
 
  There’s a chance you might’ve forgotten about your system's temporary files, as Windows does a pretty good job at managing them. But if your computer’s temporary files are taking too much space, or they somehow got corrupted, you’ll experience several issues, including the “make sure your temp folder is valid” error.
 
- To fix it, check out[how to delete Windows' temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
+ To fix it, check out [how to delete Windows' temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
 
 ## 2\. Disable Read-Only Access
 
@@ -50,11 +50,11 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
 
 ## 4\. Run the Windows Memory Diagnostic Tool
 
- The inability to install new software on your Windows 11 computer, might be caused by memory-related issues. If you try to install an app and Windows keeps freezing, you should[run the Windows Memory Diagnostic tool](https://www.makeuseof.com/windows-memory-diagnostic-tool-guide/) to fix the issue.
+ The inability to install new software on your Windows 11 computer, might be caused by memory-related issues. If you try to install an app and Windows keeps freezing, you should [run the Windows Memory Diagnostic tool](https://www.makeuseof.com/windows-memory-diagnostic-tool-guide/) to fix the issue.
 
 ## 5\. Clean Boot Your System
 
- Sometimes, third-party apps can hinder Windows functionality and affect its ability to install new software. Now, if there are too many apps for you to remember which one is allowed to change your system settings, you should[perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) .
+ Sometimes, third-party apps can hinder Windows functionality and affect its ability to install new software. Now, if there are too many apps for you to remember which one is allowed to change your system settings, you should [perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) .
 
  This way, your system boots up with a minimal number of drivers and startup apps, so you can figure out if a background app is causing you issues. If everything works as usual, check the list of installed apps and remove the ones that may be causing conflict.
 
@@ -62,11 +62,11 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
 
  Windows might display the "make sure your temp folder is valid" error if the installer contains malware. In this case, re-download the app from the developer's official website and stay away from pirated software, as it may contain hidden malware.
 
- If you think your PC is infected, be sure to[perform an offline scan with Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) to ensure nothing is lurking in your PC.
+ If you think your PC is infected, be sure to [perform an offline scan with Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) to ensure nothing is lurking in your PC.
 
 ## 7\. Reset Your Computer
 
- If nothing worked until now, and you can’t install anything on your computer, you should[reset your computer](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) . Fortunately, Windows allows you to use the**Cloud download** option, so you can keep your files while it removes all third-party apps on your computer.
+ If nothing worked until now, and you can’t install anything on your computer, you should [reset your computer](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) . Fortunately, Windows allows you to use the**Cloud download** option, so you can keep your files while it removes all third-party apps on your computer.
 
 ![Reset Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-windows-1.jpg)
 

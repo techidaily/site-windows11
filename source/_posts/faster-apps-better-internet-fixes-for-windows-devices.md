@@ -1,7 +1,7 @@
 ---
 title: "Faster Apps, Better Internet: Fixes for Windows Devices"
-date: 2024-06-25T12:17:28.183Z
-updated: 2024-06-26T12:17:28.183Z
+date: 2024-07-03T11:10:03.247Z
+updated: 2024-07-04T11:10:03.247Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/104a8ce1329a7cadce28c36353075eec197003929
 7. Click**OK** to save the changes.  
 ![Turn Off Windows Defender Firewall on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Turn-Off-Windows-Defender-Firewall-on-Windows.jpg)
 
- Check to see if your apps can connect to the internet now. If this solves your problem, you may have to allow your apps through Windows Firewall. If you need help, check our guide on[how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) and follow the steps outlined there.
+ Check to see if your apps can connect to the internet now. If this solves your problem, you may have to allow your apps through Windows Firewall. If you need help, check our guide on [how to allow apps through Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) and follow the steps outlined there.
 
 ## 2\. Disable Your Antivirus Program
 
@@ -59,7 +59,7 @@ To run Windows Store Apps troubleshooter:
 
  A damaged Microsoft Store cache could affect Windows apps and prevent them from functioning properly. When this happens, you’ll face all kinds of issues with your apps, including the one discussed here.
 
- Thankfully, it's quite easy to[reset the Microsoft Store cache on Windows](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/) . Here's how to do it.
+ Thankfully, it's quite easy to [reset the Microsoft Store cache on Windows](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/) . Here's how to do it.
 
 1. Press**Win + R** to open the Run dialog.
 2. Type**wsreset.exe** in the Open field.
@@ -71,7 +71,7 @@ To run Windows Store Apps troubleshooter:
 
  When you use a proxy server to connect to the internet, the traffic goes through the proxy server rather than directly from your PC. It's possible that your apps are using a proxy server that no longer works. You can try disabling the proxy server to see if that resolves the problem.
 
-1. Right-click on the Start icon or press**Win + X** to open the[Power User menu](https://www.makeuseof.com/windows-power-menu-guide/) .
+1. Right-click on the Start icon or press**Win + X** to open the [Power User menu](https://www.makeuseof.com/windows-power-menu-guide/) .
 2. Select**Settings** from the list.
 3. Select the**Network & internet** tab from the left pane.
 4. Click on**Proxy** .
@@ -88,7 +88,7 @@ To run Windows Store Apps troubleshooter:
 4. Type the following command in the console and press**Enter** .  
 `netsh winsock reset`
 
- Restart your PC (using one of the many[methods to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) and see if the issue is resolved.
+ Restart your PC (using one of the many [methods to restart a Windows PC](https://www.makeuseof.com/windows-restart-methods/) ) and see if the issue is resolved.
 
 ## 7\. Reset Network Settings
 
@@ -112,7 +112,7 @@ To reset network settings on Windows:
 
  In a clean boot state, Windows only runs with essential drivers and programs. This can help you determine if a third-party app or service is causing trouble.
 
- If you'd like to learn more about the topic, check out our guide on[how to perform a clean boot on Windows](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) and follow the steps listed there. If you perform a clean boot and the issue goes away, it means that one of the disabled services is the culprit. Now you can slowly re-activate the services until the problem reappears, and voila: you know what's causing the issue.
+ If you'd like to learn more about the topic, check out our guide on [how to perform a clean boot on Windows](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) and follow the steps listed there. If you perform a clean boot and the issue goes away, it means that one of the disabled services is the culprit. Now you can slowly re-activate the services until the problem reappears, and voila: you know what's causing the issue.
 
 ## Get Your Window Apps Back Online
 

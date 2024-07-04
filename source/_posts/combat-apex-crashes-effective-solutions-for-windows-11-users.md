@@ -1,7 +1,7 @@
 ---
 title: "Combat Apex Crashes: Effective Solutions for Windows 11 Users"
-date: 2024-06-25T12:01:52.780Z
-updated: 2024-06-26T12:01:52.780Z
+date: 2024-07-03T11:10:01.046Z
+updated: 2024-07-04T11:10:01.046Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 * NVIDIA GeForce GT 640 or Radeon HD 7730 GPU
 * At least 22GB of available space.
 
- If your computer doesn't fulfill either of the above requirements, then the only thing you can do is upgrade your computer to fix the crashing issue. Check out our guide on[which upgrades will improve your computer's performance the most](https://www.makeuseof.com/tag/upgrades-will-improve-pc-performance/) for some ideas.
+ If your computer doesn't fulfill either of the above requirements, then the only thing you can do is upgrade your computer to fix the crashing issue. Check out our guide on [which upgrades will improve your computer's performance the most](https://www.makeuseof.com/tag/upgrades-will-improve-pc-performance/) for some ideas.
 
  However, if Apex Legends is crashing on a compatible computer, then here are the fixes that might help you.
 
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 
  If there are plenty of such applications running in the background, then your system becomes prone to connectivity and crashing issues. The solution here is simple -- close as many background apps as possible before launching Apex Legends.
 
- To do this, open the Task Manager, right-click on all unnecessary background applications and choose**End Task** . You can also[stop these programs from launching on boot in Windows 11](https://www.makeuseof.com/windows-11-disable-startup-programs/) .
+ To do this, open the Task Manager, right-click on all unnecessary background applications and choose**End Task** . You can also [stop these programs from launching on boot in Windows 11](https://www.makeuseof.com/windows-11-disable-startup-programs/) .
 
 ## 2\. Is Your CPU Overclocked?
 
@@ -100,7 +100,7 @@ Here's how to do it in the EA app:
 
  The EA app will now look for and remove any corruption in the Apex Legends files.
 
- If you're using Steam or Origin, then check out our guide on how to[verify a game's file integrity on Steam and Origin](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
+ If you're using Steam or Origin, then check out our guide on how to [verify a game's file integrity on Steam and Origin](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
 
 ## 6\. Update Your Graphics Driver
 
@@ -115,7 +115,7 @@ Here's how to do it in the EA app:
 
  The Device Manager will search for and download any available graphics driver update on your computer.
 
- Unfortunately, Windows will sometimes have issues finding the newest drivers for your system. If Windows fails to find anything, follow our guide on[how to update your graphics driver on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) for advice on Nvidia and AMD graphics cards.
+ Unfortunately, Windows will sometimes have issues finding the newest drivers for your system. If Windows fails to find anything, follow our guide on [how to update your graphics driver on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) for advice on Nvidia and AMD graphics cards.
 
 ## 7\. Allow the Apex Legends Launcher Through the Windows Firewall
 

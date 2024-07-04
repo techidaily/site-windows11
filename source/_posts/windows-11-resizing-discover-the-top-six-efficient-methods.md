@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Resizing: Discover the Top Six Efficient Methods"
-date: 2024-06-25T11:55:28.596Z
-updated: 2024-06-26T11:55:28.596Z
+date: 2024-07-03T11:10:02.256Z
+updated: 2024-07-04T11:10:02.256Z
 tags:
   - windows10
   - windows11
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
 
 ## 2\. How to Resize Images With Paint
 
- Microsoft Paint is the raster graphics app bundled with Windows 11\. It’s a relatively basic drawing and image-editing software compared with the likes of PhotoShop. However, utilizing Paint is fine for basic stuff like resizing and cropping images. Our[Paint guide to resizing and cropping images](https://www.makeuseof.com/how-to-resize-crop-image-microsoft-paint/) includes full instructions for how you can change your images’ dimensions with that app.
+ Microsoft Paint is the raster graphics app bundled with Windows 11\. It’s a relatively basic drawing and image-editing software compared with the likes of PhotoShop. However, utilizing Paint is fine for basic stuff like resizing and cropping images. Our [Paint guide to resizing and cropping images](https://www.makeuseof.com/how-to-resize-crop-image-microsoft-paint/) includes full instructions for how you can change your images’ dimensions with that app.
 
 ![paint's-resize-image-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/paint-s-resize-image-options.jpg)
 
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
 
  Paint 3D is an advanced version of the aforementioned Paint with options for adding and modifying three-dimensional objects. That Microsoft app also incorporates a tool for resizing images with your mouse and inputting values. This is how you can resize your images within Paint 3D in Windows 11:
 
-1. Paint 3D isn’t a pre-installed Windows 11 app. If you don’t have that app, open the[Paint 3D](https://apps.microsoft.com/store/detail/paint-3d/9NBLGGH5FV99) page on the Microsoft Store website.
+1. Paint 3D isn’t a pre-installed Windows 11 app. If you don’t have that app, open the [Paint 3D](https://apps.microsoft.com/store/detail/paint-3d/9NBLGGH5FV99) page on the Microsoft Store website.
 2. Click**Get** **in Store** app on the Paint 3D app page.
 3. Select the**Open Microsoft Store** option to bring up Paint 3D in the app.  
 ![Paint 3D in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/paint-3d-in-ms-store.jpg)
@@ -75,9 +75,9 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
 
 ## 4\. How to Resize Images With Edge
 
- Canary and beta versions of the Edge web browser include a built-in image editor feature with which you can resize images. You can try out that feature as covered in our article about[editing images in Edge](https://www.makeuseof.com/edit-images-edge-before-download/#:~:text=Right%2Dclick%20on%20an%20image,you%20can%20adjust%20the%20image.) . However, you’ll have to make do with extensions (or web apps) for resizing images in Edge stable for now. This is how you can resize your pictures in Edge with the Image Magic Extension:
+ Canary and beta versions of the Edge web browser include a built-in image editor feature with which you can resize images. You can try out that feature as covered in our article about [editing images in Edge](https://www.makeuseof.com/edit-images-edge-before-download/#:~:text=Right%2Dclick%20on%20an%20image,you%20can%20adjust%20the%20image.) . However, you’ll have to make do with extensions (or web apps) for resizing images in Edge stable for now. This is how you can resize your pictures in Edge with the Image Magic Extension:
 
-1. Open the[Image Magic](https://microsoftedge.microsoft.com/addons/detail/image-magic/cdfgcnhbkmkkdoigocijijlkclbadmhg) page in Microsoft Edge.
+1. Open the [Image Magic](https://microsoftedge.microsoft.com/addons/detail/image-magic/cdfgcnhbkmkkdoigocijijlkclbadmhg) page in Microsoft Edge.
 2. Click**Get** to add Image Magic to Edge.
 3. Then press the**Extensions** (jigsaw piece) button in Edge.  
 ![The Extensions menu in Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-image-magic-option.jpg)
@@ -91,13 +91,13 @@ thumbnail: https://thmb.techidaily.com/0d94a1daa7c27cd73a9d8298e21e0d777d1adaffd
 
 ## 5\. How to Resize Images via Windows 11’s Context Menu
 
- Some third-party editing apps for images integrate with File Explorer’s context menu. CoolTweak and Image Resizer are two such apps that add options for resizing images to the context menu. Those options enable you to resize images by right-clicking their files in Explorer. Check out our guide about[adding resize image options to the context menu](https://www.makeuseof.com/windows-11-resize-image-context-menu/) for further details about CoolTweak and Image Resizer.
+ Some third-party editing apps for images integrate with File Explorer’s context menu. CoolTweak and Image Resizer are two such apps that add options for resizing images to the context menu. Those options enable you to resize images by right-clicking their files in Explorer. Check out our guide about [adding resize image options to the context menu](https://www.makeuseof.com/windows-11-resize-image-context-menu/) for further details about CoolTweak and Image Resizer.
 
 ## 6\. How to Batch Resize Images With FastStone Photo Resizer
 
  FastStone Photo Resizer is a freeware app designed for applying basic image editing to multiple files. You can utilize that software to batch resize, crop, rename, and convert image files. It also includes options for adding watermarks and text to pictures. You can batch-resize images with FastStone Photo Resizer as follows:
 
-1. Open the[FastStone Photo Resizer](https://www.faststone.org/FSResizerDownload.htm) download page.
+1. Open the [FastStone Photo Resizer](https://www.faststone.org/FSResizerDownload.htm) download page.
 2. Click the green**download** option for the EXE file.
 3. Double-click**FSResizerSetup44.exe** in whatever folder includes the downloaded FastStone Photo Resizer setup file.
 4. Select**Next** \>**I Agree** \>**Install** within the software’s setup wizard.

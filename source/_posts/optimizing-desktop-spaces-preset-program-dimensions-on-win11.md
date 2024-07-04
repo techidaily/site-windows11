@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Desktop Spaces: Preset Program Dimensions on Win11"
-date: 2024-06-25T11:58:34.092Z
-updated: 2024-06-26T11:58:34.092Z
+date: 2024-07-03T11:10:04.226Z
+updated: 2024-07-04T11:10:04.226Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/f6689b1ce3b098830c1181e612252ff5b928460b4
 
  AutoSizer is a lightweight freeware app you can utilize on most Windows platforms. That software enables you to set program windows to open at specified width and height values with its**Resize** action option. Or you can select alternative**Maximize** ,**Minimize** , or**Restore** action options in that app. This is how you can set preset sizes for software windows with AutoSizer:
 
-1. Open the[AutoSizer](http://www.southbaypc.com/AutoSizer/) webpage.
+1. Open the [AutoSizer](http://www.southbaypc.com/AutoSizer/) webpage.
 2. Click the**Download AutoSizer** link on that page and download the file.
 3. Double-click**assetup.exe** to open it.
 4. Go through the AutoSizer setup wizard to install the software.
@@ -49,17 +49,17 @@ thumbnail: https://thmb.techidaily.com/f6689b1ce3b098830c1181e612252ff5b928460b4
 
  To set a hotkey to restore windows to their preset sizes, click inside the**AutoSize Now! Shortcut key** box. Press a keyboard hotkey to set it. Then you’ll be able to restore windows to their preset dimensions after resizing them by pressing that hotkey.
 
- And if you're a big fan of hotkeys, be sure to check out[how to set up your own keyboard shortcuts on Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
+ And if you're a big fan of hotkeys, be sure to check out [how to set up your own keyboard shortcuts on Windows 11](https://www.makeuseof.com/windows-11-set-up-new-hotkeys/) .
 
 ## How to Set Custom Sizes for Software With WinSize2
 
  WinSize2 is another free tool for setting preset window sizes. This one is a portable app, which means it can run with no installation needed.
 
- Portable apps are fantastic because you can put them on a USB drive and use them on any PC you like without installing anything. In fact, you can check out[the best portable apps that require no installation](https://www.makeuseof.com/tag/best-portable-apps/) and quickly set up a USB drive that acts as a digital Swiss army knife for every tool you need.
+ Portable apps are fantastic because you can put them on a USB drive and use them on any PC you like without installing anything. In fact, you can check out [the best portable apps that require no installation](https://www.makeuseof.com/tag/best-portable-apps/) and quickly set up a USB drive that acts as a digital Swiss army knife for every tool you need.
 
  WinSize2 enables you to save preset window sizes and positions by pressing a hotkey. Admittedly, WinSize2 isn’t especially user-friendly, but it’s a handy app when you get to grips with it. You can set preset sizes for windows with WinSize2 like this:
 
-1. Bring up the[WinSize2](https://winsize2.sourceforge.net/en/) website.
+1. Bring up the [WinSize2](https://winsize2.sourceforge.net/en/) website.
 2. Click the**Download WinSize 2** link.
 3. Then select**Download** on the Sourceforge page that opens.
 4. Double-click the**WinSize2\_2.38.04.zip** archive, then select the**Extract all** option on Explorer’s command bar.

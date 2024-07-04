@@ -1,7 +1,7 @@
 ---
 title: "Redefining Virtual Meetings: A Lightweight Approach"
-date: 2024-06-25T12:29:47.954Z
-updated: 2024-06-26T12:29:47.954Z
+date: 2024-07-03T11:10:02.406Z
+updated: 2024-07-04T11:10:02.406Z
 tags:
   - windows10
   - windows11
@@ -32,11 +32,11 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
 ## Other Features That Boost Collaboration and Productivity in Teams
 
- Apart from the core changes, Teams now comes with a host of new features to boost collaboration and productivity. You can personalize each account and organization with different color themes to quickly recognize your current workspace. And these go hand-in-hand with some of the[best productivity apps for Teams](https://www.makeuseof.com/best-productivity-apps-microsoft-teams/) .
+ Apart from the core changes, Teams now comes with a host of new features to boost collaboration and productivity. You can personalize each account and organization with different color themes to quickly recognize your current workspace. And these go hand-in-hand with some of the [best productivity apps for Teams](https://www.makeuseof.com/best-productivity-apps-microsoft-teams/) .
 
  Multi-Tenant Multi-Account (MTMA) allows you to use multiple work and school accounts simultaneously. You can see activities and real-time notifications for all your account in one place and respond to them. This makes it possible to switch between multiple accounts without quitting a meeting or dropping a call.
 
- Teams now also feature AI-power video filters that you can apply while in a meeting. In addition, it’ll also support other AI features like recap and Copilot. With these, you can call the AI into group chats to perform specific tasks, like[scheduling a meeting in Teams](https://www.makeuseof.com/schedule-meeting-microsoft-teams/) or helping with general questions.
+ Teams now also feature AI-power video filters that you can apply while in a meeting. In addition, it’ll also support other AI features like recap and Copilot. With these, you can call the AI into group chats to perform specific tasks, like [scheduling a meeting in Teams](https://www.makeuseof.com/schedule-meeting-microsoft-teams/) or helping with general questions.
 
  Apart from these, Microsoft also plans to bring some new features later this year, including third-party and Line-of-Business(LOB) apps support and advanced calling and meeting feature.
 
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 
 To set the Update policy and enable public preview:
 
-1. Go to[Microsoft Teams admin center](https://admin.teams.microsoft.com/) and sign in with your Microsoft 365 credentials.
+1. Go to [Microsoft Teams admin center](https://admin.teams.microsoft.com/) and sign in with your Microsoft 365 credentials.
 2. Next, select**Teams** and click on**Teams Update policies** .
 3. Click**Add** to create a new policy and type a name.
 4. Next, toggle the switch for**Show preview features** and click**Apply** .

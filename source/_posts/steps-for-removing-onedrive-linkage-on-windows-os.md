@@ -1,7 +1,7 @@
 ---
 title: Steps for Removing OneDrive Linkage on Windows OS
-date: 2024-06-25T11:58:45.998Z
-updated: 2024-06-26T11:58:45.998Z
+date: 2024-07-03T11:10:01.036Z
+updated: 2024-07-04T11:10:01.036Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
 
 ## How to Unlink OneDrive From Your Windows PC
 
- Start by looking in the taskbar notification area—by default, the bottom right of your taskbar. You can[customize the Windows 10 taskbar](https://www.makeuseof.com/tag/7-tips-customizing-windows-10-taskbar/) by pinning items and making it colorful.
+ Start by looking in the taskbar notification area—by default, the bottom right of your taskbar. You can [customize the Windows 10 taskbar](https://www.makeuseof.com/tag/7-tips-customizing-windows-10-taskbar/) by pinning items and making it colorful.
 
 1. If OneDrive is running, you’ll see its icon in the notification area of the taskbar. If it isn’t running, launch the application, which you can do via the Start menu.
 2. Right-click on the**OneDrive** icon in the taskbar notification area.
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
 
  This will disable OneDrive on your PC. If you want to permanently delete the application and stop syncing between your PC and the cloud, it’s best to unlink your OneDrive first.
 
- If you change your mind and want to[re-link your OneDrive to your Microsoft account](https://www.makeuseof.com/link-onedrive-microsoft-account-windows-10/) , that can just as easily be achieved.
+ If you change your mind and want to [re-link your OneDrive to your Microsoft account](https://www.makeuseof.com/link-onedrive-microsoft-account-windows-10/) , that can just as easily be achieved.
 
 ## Switching Off Microsoft’s OneDrive Syncing Made Simple
 

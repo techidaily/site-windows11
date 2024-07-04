@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix Guide: Resurrect Your Chrome Browser in W11."
-date: 2024-06-25T11:59:03.926Z
-updated: 2024-06-26T11:59:03.926Z
+date: 2024-07-03T11:10:03.635Z
+updated: 2024-07-04T11:10:03.635Z
 tags:
   - windows10
   - windows11
@@ -67,7 +67,7 @@ To run the compatibility troubleshooter, use these steps:
 
  Usually, you delete Chrome user profiles through the browser itself. But given that you can't open it, here's an alternate way:
 
-1. Open Windows File Explorer and go to the following location. Alternatively, launch the Run dialog (see[how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ), enter the path below, and click**OK** :  
+1. Open Windows File Explorer and go to the following location. Alternatively, launch the Run dialog (see [how to open Run on Windows](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ), enter the path below, and click**OK** :  
 C:\Users\%username%\AppData\Local\Google
 2. Right-click the**Chrome** folder and select**Delete** from the context menu.
 
@@ -87,7 +87,7 @@ To reinstall Google Chrome, follow these steps:
 5. To confirm, click**Uninstall** again.
 6. Follow the prompts to complete the uninstallation process.
 
- After you follow the above steps, restart your computer. Once that is done, visit the[Google Chrome download page](https://www.google.com/chrome/) , then download and install the application.
+ After you follow the above steps, restart your computer. Once that is done, visit the [Google Chrome download page](https://www.google.com/chrome/) , then download and install the application.
 
 ## Fixing Google Chrome Not Opening on Windows
 

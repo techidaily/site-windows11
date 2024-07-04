@@ -1,7 +1,7 @@
 ---
 title: Get Immediate Access to Assistive Features in Windows
-date: 2024-06-25T12:30:23.915Z
-updated: 2024-06-26T12:30:23.915Z
+date: 2024-07-03T11:10:01.431Z
+updated: 2024-07-04T11:10:01.431Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ But how do you open the Ease of Access Center? Let’s find out.
 
 ## 1\. Use a Keyboard Shortcut
 
- You can easily access most of your apps by using the[Windows keyboard shortcuts](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/) . If you want to open the Ease of Access Center quickly, press**Win + U** .
+ You can easily access most of your apps by using the [Windows keyboard shortcuts](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/) . If you want to open the Ease of Access Center quickly, press**Win + U** .
 
 Alternatively, use the on-screen keyboard by following these steps:
 
@@ -33,7 +33,7 @@ Alternatively, use the on-screen keyboard by following these steps:
 
 ## 2\. Use the Start Menu Search Bar
 
- The start menu search bar allows you to open almost any tool on your device. Now, let’s check out how you can[use the Windows search bar](https://www.makeuseof.com/windows-search-use-guide/) to open the Ease of Access Center:
+ The start menu search bar allows you to open almost any tool on your device. Now, let’s check out how you can [use the Windows search bar](https://www.makeuseof.com/windows-search-use-guide/) to open the Ease of Access Center:
 
 1. Type**Ease of Access Settings** in the Start menu search bar.
 2. Select the**Best match** result.

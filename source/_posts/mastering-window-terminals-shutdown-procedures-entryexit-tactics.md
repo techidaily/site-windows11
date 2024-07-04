@@ -1,7 +1,7 @@
 ---
 title: "Mastering Window Terminal's Shutdown Procedures: Entry/Exit Tactics"
-date: 2024-06-25T12:41:28.126Z
-updated: 2024-06-26T12:41:28.126Z
+date: 2024-07-03T11:10:04.214Z
+updated: 2024-07-04T11:10:04.214Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 
  Entering Focus Mode in Windows Terminal is easy. all you need to do is make a few adjustments to the settings. Here's how:
 
-1. Open the Windows Terminal (see our guide on[how to open the Windows Terminal in Windows 11](https://www.makeuseof.com/windows-11-open-windows-terminal/) ).
+1. Open the Windows Terminal (see our guide on [how to open the Windows Terminal in Windows 11](https://www.makeuseof.com/windows-11-open-windows-terminal/) ).
 2. Once you're in the Terminal window, click the drop-down menu next to the new tab.
 3. Select**Settings** from the menu, and you will be taken to the**Startup** tab.  
 ![Use Windows Terminal Settings to enable Focus Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/use-windows-terminal-settings-to-enable-focus-mode.jpg)
@@ -71,7 +71,7 @@ thumbnail: https://thmb.techidaily.com/77d2b3ef679b5fcf16ae0f3446de13ba438b3d48f
 
  If you're using File Explorer to manage files, you can also enter Focus Mode in Windows Terminal from there. Here's how:
 
-1. Press**Win + E** on your keyboard to[open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
+1. Press**Win + E** on your keyboard to [open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
 2. In the address bar, type in the following command and press**Enter** .  
 wt.exe /focus
 

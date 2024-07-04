@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Tracking Down Your Software' Install Pathways in Windows"
-date: 2024-06-25T12:19:34.560Z
-updated: 2024-06-26T12:19:34.560Z
+date: 2024-07-03T11:10:02.283Z
+updated: 2024-07-04T11:10:02.283Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 
 ## 2\. Find the Installation Folder of a Program Using Its Desktop Shortcuts
 
- Another quick way to find the installation directory of a program or application is to utilize the program’s[desktop shortcut](https://www.makeuseof.com/what-is-desktop-shortcut-how-work/) . This method will only work if you have an existing shortcut to the program on your desktop.
+ Another quick way to find the installation directory of a program or application is to utilize the program’s [desktop shortcut](https://www.makeuseof.com/what-is-desktop-shortcut-how-work/) . This method will only work if you have an existing shortcut to the program on your desktop.
 
  To find the installation folder of a program using a desktop shortcut:
 
@@ -43,13 +43,13 @@ thumbnail: https://thmb.techidaily.com/31e3ae8455d50c80842cdc2a354e8096f8d646d3d
 
 ## 3\. Locate the Folder Where a Program Is Installed Using Task Manager
 
- The Windows Task Manager is a powerful system monitor utility tool that allows you to manage running processes on your system. Apart from other[conventional uses of the Task Manager](https://www.makeuseof.com/how-to-use-windows-task-manager/) , you can also use it to find the installation folder of a program (you might need to launch the program beforehand).
+ The Windows Task Manager is a powerful system monitor utility tool that allows you to manage running processes on your system. Apart from other [conventional uses of the Task Manager](https://www.makeuseof.com/how-to-use-windows-task-manager/) , you can also use it to find the installation folder of a program (you might need to launch the program beforehand).
 
  Here’s how you can find the installation folder of a program using the Task Manager:
 
 1. Launch the**Task Manager** by right-clicking the**Start** menu and selecting**Task Manager** from the context menu.  
 ![task manager details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/task-manager-details.jpg)
-2. Once the Task Manager is up and running, click on the**Details** tab to get a list of all[currently running background processes](https://www.makeuseof.com/windows-pc-too-many-background-processes/) and applications.
+2. Once the Task Manager is up and running, click on the**Details** tab to get a list of all [currently running background processes](https://www.makeuseof.com/windows-pc-too-many-background-processes/) and applications.
 3. After locating the program you need, right-click and then click on**Open file location** .
 4. A new File Explorer window will open up, and you will have found the program's installation directory.
 

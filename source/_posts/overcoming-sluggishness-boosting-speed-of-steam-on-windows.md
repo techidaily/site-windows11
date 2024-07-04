@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Sluggishness: Boosting Speed of Steam on Windows"
-date: 2024-06-25T11:56:51.275Z
-updated: 2024-06-26T11:56:51.275Z
+date: 2024-07-03T11:10:04.432Z
+updated: 2024-07-04T11:10:04.432Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,9 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 
 ## 1\. Check for Internet Issues
 
- Before blaming the Steam client, ensure your internet connection isn't slow and causing Steam to take longer than usual to download your games. Testing your connection speed is the best way to confirm that. You can test your connection on any[speed test website](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
+ Before blaming the Steam client, ensure your internet connection isn't slow and causing Steam to take longer than usual to download your games. Testing your connection speed is the best way to confirm that. You can test your connection on any [speed test website](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
 
- If your download speed is slower than usual, check out our article explaining[how to boost your internet speed](https://www.makeuseof.com/windows-11-increase-internet-speed/#:~:text=Disable%20the%20Metered%20Connection&text=It%20helps%20to%20save%20the,11%20to%20increase%20the%20speed.) . If this helps get your internet speed back to normal, try downloading games on Steam again. If nothing seems to work, contact your internet service provider (ISP).
+ If your download speed is slower than usual, check out our article explaining [how to boost your internet speed](https://www.makeuseof.com/windows-11-increase-internet-speed/#:~:text=Disable%20the%20Metered%20Connection&text=It%20helps%20to%20save%20the,11%20to%20increase%20the%20speed.) . If this helps get your internet speed back to normal, try downloading games on Steam again. If nothing seems to work, contact your internet service provider (ISP).
 
  If your internet works fine, and everything downloads at a good speed apart from Steam games, it's time to dive deeper into your system.
 
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461
 
  You can use the Task Manager (**CTRL + Shift + Esc**) to identify which processes are taking up the most network resources. Look in the**Network** column and close any non-essential apps that are taking up a lot of data.
 
- Furthermore, ensure that Efficiency mode isn't enabled for Steam, which makes it a less-priority process. For more information on how to confirm that and disable efficiency mode, check out our[article on efficiency mode](https://www.makeuseof.com/windows-11-task-manager-efficiency-mode/#how-to-enable-or-disable-efficiency-mode) .
+ Furthermore, ensure that Efficiency mode isn't enabled for Steam, which makes it a less-priority process. For more information on how to confirm that and disable efficiency mode, check out our [article on efficiency mode](https://www.makeuseof.com/windows-11-task-manager-efficiency-mode/#how-to-enable-or-disable-efficiency-mode) .
 
 ## 3\. Disable Windows' Metered Connection
 
@@ -84,7 +84,7 @@ To clear Steam's download cache, follow the steps below:
 
  The speed of Steam's downloads is greatly affected by the location of the server that you get them from. By default, Steam connects you to the nearest server to provide you with a better connection, but if it's cluttered with traffic, it may not offer the best speed rate.
 
- With the help of a global traffic map on the[Steam download stats website](https://store.steampowered.com/stats/content/) , you can see which servers are closest, have less traffic, and offer good download speeds. Once you've decided on a server, follow the below steps to switch the region in Steam:
+ With the help of a global traffic map on the [Steam download stats website](https://store.steampowered.com/stats/content/) , you can see which servers are closest, have less traffic, and offer good download speeds. Once you've decided on a server, follow the below steps to switch the region in Steam:
 
 1. Launch Steam.
 2. In the top-left corner, click on the**Steam** tab and select**Settings** .
@@ -110,7 +110,7 @@ To disable download throttling, follow the below steps:
 
 ## 9\. Disable Your Antivirus and Windows Defender
 
- Disabling your antivirus and Windows Defender may also help improve your internet speed. Our article explaining[how to optimize Steam's download speed on Windows](https://www.makeuseof.com/tag/steam-download-speeds/#disable-your-antivirus-software-and-firewall) can help guide you on how to do this.
+ Disabling your antivirus and Windows Defender may also help improve your internet speed. Our article explaining [how to optimize Steam's download speed on Windows](https://www.makeuseof.com/tag/steam-download-speeds/#disable-your-antivirus-software-and-firewall) can help guide you on how to do this.
 
 ## Download Games Faster on Steam
 

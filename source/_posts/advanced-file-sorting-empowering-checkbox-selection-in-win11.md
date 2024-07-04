@@ -1,7 +1,7 @@
 ---
 title: "Advanced File Sorting: Empowering Checkbox Selection in Win11"
-date: 2024-06-25T12:36:31.205Z
-updated: 2024-06-26T12:36:31.205Z
+date: 2024-07-03T11:10:03.070Z
+updated: 2024-07-04T11:10:03.070Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/f6048b78b677a0065b7683b7780e2c91c1ef9e11d
 
 ## 2\. Enable Checkboxes Using the Folder Option
 
- The[Folder Option](https://www.makeuseof.com/windows-folder-options-guide/) is an incredible Windows feature using which you can configure important File Explorer settings. You can use it to[clear File Explorer history](https://www.makeuseof.com/windows-10-clear-file-explorer-search-address-bar-history/) , change privacy settings, and even enable checkboxes in File Explorer.
+ The [Folder Option](https://www.makeuseof.com/windows-folder-options-guide/) is an incredible Windows feature using which you can configure important File Explorer settings. You can use it to [clear File Explorer history](https://www.makeuseof.com/windows-10-clear-file-explorer-search-address-bar-history/) , change privacy settings, and even enable checkboxes in File Explorer.
 
 Here's how to use the Folder Option to enable the checkboxes:
 

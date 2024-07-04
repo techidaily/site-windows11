@@ -1,7 +1,7 @@
 ---
 title: Efficient Routes to Printer Control in Windows 11 (Max 50 Chars)
-date: 2024-06-25T12:02:54.788Z
-updated: 2024-06-26T12:02:54.788Z
+date: 2024-07-03T11:10:02.930Z
+updated: 2024-07-04T11:10:02.930Z
 tags:
   - windows10
   - windows11
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36fe
  In File Explorer, there is an address bar that you can use to launch Windows tools. Follow these steps to open Print Management:
 
 1. Press the**Win + Q** shortcut on your keyboard.
-2. Type**“File Explorer”** in the search bar, and press the**Enter** key. You can see our guide to[open Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) for other methods.
+2. Type**“File Explorer”** in the search bar, and press the**Enter** key. You can see our guide to [open Windows File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) for other methods.
 3. In File Explorer, browse to the following location:**C:\\Windows\\System32** .
 4. On the following page, use the search bar next to the address bar to find "printmanagement.msc".  
 ![Open Print Management Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Print-Management-Using-File-Explorer.jpg)
@@ -72,7 +72,7 @@ This will now open Print Management on your computer.
 
  You can also open Print Management using the Command Prompt. To do this, follow the below steps:
 
-1. Run Command Prompt as an administrator. This takes a little bit of extra effort, so check out[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) if you're unsure of how to do this.  
+1. Run Command Prompt as an administrator. This takes a little bit of extra effort, so check out [how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) if you're unsure of how to do this.  
 ![Open Print Management Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Print-Management-Using-Command-Prompt.jpg)
 2. In the Command Prompt window, type the following command and press Enter:  
 `printmanagement.msc`

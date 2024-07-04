@@ -1,7 +1,7 @@
 ---
 title: "Navigating a Non-Responsive Resource Monitor: Steps for Windows 11 Users"
-date: 2024-06-25T12:34:14.370Z
-updated: 2024-06-26T12:34:14.370Z
+date: 2024-07-03T11:10:01.741Z
+updated: 2024-07-04T11:10:01.741Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ So, let's move on to the solution and fix this problem.
 
  When troubleshooting software-related issues, a computer restart can often resolve them without resorting to complex solutions. Doing so refreshes all running programs and services while also clearing out any temporary files that might be causing problems.
 
- In most cases, this can get things back up and running without requiring extra effort. Plus, this solution is usually quick and easy since you only need to shut down your PC and wait for it to boot back up again. If you're having trouble restarting your PC, you can check out our guide on the[different ways you can restart Windows](https://www.makeuseof.com/windows-restart-methods/) .
+ In most cases, this can get things back up and running without requiring extra effort. Plus, this solution is usually quick and easy since you only need to shut down your PC and wait for it to boot back up again. If you're having trouble restarting your PC, you can check out our guide on the [different ways you can restart Windows](https://www.makeuseof.com/windows-restart-methods/) .
 
 ## 2\. Change the DPI Settings
 
@@ -44,7 +44,7 @@ So, let's move on to the solution and fix this problem.
 
 To change the DPI scale to its default settings, follow these steps:
 
-1. Press**Win + I** on your keyboard to[open the Settings menu](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
+1. Press**Win + I** on your keyboard to [open the Settings menu](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
 2. From the left pane, select**System** .
 3. Then click**Display** on the right.
 4. Under the**Scale & layout** section, click the drop-down menu next to the**Scale** option.  
@@ -61,7 +61,7 @@ To do this, follow these steps:
 
 1. Right-click on Start and select**Run** from the menu list.
 2. Type**cmd** in the text box and press**Ctrl + Shift + Enter** on your keyboard.
-3. When the UAC popup appears on the screen, click**Yes** to open Command Prompt with admin access. If you want in-depth information, read our guide on[running the command prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
+3. When the UAC popup appears on the screen, click**Yes** to open Command Prompt with admin access. If you want in-depth information, read our guide on [running the command prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
 ![Run SFC Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-sfc-command.jpg)
 4. Now in the elevated Command Prompt window, type in the command below and press Enter:  
 sfc /scannow
@@ -69,7 +69,7 @@ sfc /scannow
 
 ## 4\. Check for Windows Updates
 
- It is also possible for an outdated version of Windows to cause this issue, so[manually check for any pending Windows updates](https://www.makeuseof.com/update-windows-manually/) and install them.
+ It is also possible for an outdated version of Windows to cause this issue, so [manually check for any pending Windows updates](https://www.makeuseof.com/update-windows-manually/) and install them.
 
  Microsoft regularly releases new versions of Windows that fix bugs and improve performance, which makes updating worthwhile. Here's how to do it:
 
@@ -95,7 +95,7 @@ sfc /scannow
 
 ## 6\. Create a New User Account
 
- If you're still having issues, try[creating a new local user account](https://www.makeuseof.com/windows-11-create-local-user-account/) and see if that fixes the issue. This can be helpful if corrupted user profile data or settings cause the problem. To do so, follow the steps below:
+ If you're still having issues, try [creating a new local user account](https://www.makeuseof.com/windows-11-create-local-user-account/) and see if that fixes the issue. This can be helpful if corrupted user profile data or settings cause the problem. To do so, follow the steps below:
 
 1. Open the Settings app on your computer.
 2. From the left, select**Accounts** .

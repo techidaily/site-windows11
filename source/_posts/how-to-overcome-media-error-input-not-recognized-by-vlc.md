@@ -1,7 +1,7 @@
 ---
 title: "How to Overcome Media Error: Input Not Recognized by VLC"
-date: 2024-06-25T12:29:31.389Z
-updated: 2024-06-26T12:29:31.389Z
+date: 2024-07-03T11:10:04.414Z
+updated: 2024-07-04T11:10:04.414Z
 tags:
   - windows10
   - windows11
@@ -70,7 +70,7 @@ To rename the folder:
 
  When trying to stream a YouTube video, you may encounter the VLC is unable to open the MRL error. To fix the YouTube streaming error on VLC, you’ll need to modify an associated YouTube.luac file and replace it with a new script available on GitHub. Here’s how to do it.
 
-1. Open the[GitHub page for the YouTube.luac file](http://github.com/videolan/vlc/blob/master/share/lua/playlist/youtube.lua) .
+1. Open the [GitHub page for the YouTube.luac file](http://github.com/videolan/vlc/blob/master/share/lua/playlist/youtube.lua) .
 2. Next, select all the content of the script on the YouTube.luac page. Alternatively, click the**Copy raw content** button in the top right corner to copy the code to your clipboard.  
 ![youtube luac code script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/youtube-luac-code-script.jpg)
 3. Next, press the**Win key** and type**VLC** .
@@ -91,7 +91,7 @@ To rename the folder:
 
 ## 5\. Take Ownership of the Media File
 
- You can[take ownership of a file in Windows](https://www.makeuseof.com/take-ownership-of-windows-files-and-folders-with-these-tools/) to fix the "your input can’t be opened" error in VLC. Taking ownership should work if the error is triggered due to insufficient permission to access the file.
+ You can [take ownership of a file in Windows](https://www.makeuseof.com/take-ownership-of-windows-files-and-folders-with-these-tools/) to fix the "your input can’t be opened" error in VLC. Taking ownership should work if the error is triggered due to insufficient permission to access the file.
 
 To take ownership of a media file:
 
@@ -120,7 +120,7 @@ To uninstall the VLC media player:
 3. Click on**Installed apps** and then search for VLC.  
 ![uninstall vlc media player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-vlc-media-player.jpg)
 4. Click the**three-dots menu** for the VLC media player and select**Uninstall** . Click**Uninstall** once again to confirm the action.
-5. Once uninstalled, open the[VLC media player page](https://www.videolan.org/vlc/) and download the installer. Install the app and check for any improvements.
+5. Once uninstalled, open the [VLC media player page](https://www.videolan.org/vlc/) and download the installer. Install the app and check for any improvements.
 
 ## Invalid File Name and Long File Path Triggers This Error
 

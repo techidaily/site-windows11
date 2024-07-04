@@ -1,7 +1,7 @@
 ---
 title: "Browser Bugs & Breakages: Fixing Website Issues on Your Window's PC"
-date: 2024-06-25T12:30:10.500Z
-updated: 2024-06-26T12:30:10.500Z
+date: 2024-07-03T11:10:00.981Z
+updated: 2024-07-04T11:10:00.981Z
 tags:
   - windows10
   - windows11
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 
  If you use a VPN or proxy server to conceal your online activity, they can also contribute to this problem. The benefit of proxy servers is that they allow you to access websites blocked in your region by skirting around regional blocks.
 
- However, if some websites are blocked in a particular region, and you use a proxy server of that region, the websites won't open on your computer. Therefore, you should[disable the proxy server on Windows](https://www.makeuseof.com/windows-11-disable-proxy/) and/or turn off your VPN to ensure the problem doesn't come from them.
+ However, if some websites are blocked in a particular region, and you use a proxy server of that region, the websites won't open on your computer. Therefore, you should [disable the proxy server on Windows](https://www.makeuseof.com/windows-11-disable-proxy/) and/or turn off your VPN to ensure the problem doesn't come from them.
 
 ## 5\. Run a Netsh Command in the Windows Command Prompt
 
@@ -83,11 +83,11 @@ ipconfig /flushdns`
 
  The Domain Name System (DNS) translates human-readable domain names into IP addresses. That's how your browser loads web pages. If some domains are blocked by your ISP, your browser won't be able to translate them into the required IP address. Consequently, they won't load.
 
- The best way to exclude this possibility is to[change your DNS server on Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) , especially if you haven't changed it since you got your current device. Changing the DNS bypasses the restrictions imposed by your ISP, so you'll be able to access the blocked websites.
+ The best way to exclude this possibility is to [change your DNS server on Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) , especially if you haven't changed it since you got your current device. Changing the DNS bypasses the restrictions imposed by your ISP, so you'll be able to access the blocked websites.
 
 ## 7\. Ensure The Website Isn't Blocked in the Windows Hosts File
 
- Windows users can block access to certain websites by editing the[Windows Hosts file](https://www.makeuseof.com/windows-hosts-file-guide/) . Blocking a URL prevents users from accessing it from any browser on the same device. If you share your computer with someone else, that person might have blocked some websites in the Hosts file. Follow these steps to ensure that's not the case:
+ Windows users can block access to certain websites by editing the [Windows Hosts file](https://www.makeuseof.com/windows-hosts-file-guide/) . Blocking a URL prevents users from accessing it from any browser on the same device. If you share your computer with someone else, that person might have blocked some websites in the Hosts file. Follow these steps to ensure that's not the case:
 
 1. Navigate to the following path:  
 `C:\Windows\system32\drivers\etc`

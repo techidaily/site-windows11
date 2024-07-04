@@ -1,7 +1,7 @@
 ---
 title: Turn Your Windows 11 PC Into a Self-Contained Internet Station
-date: 2024-06-25T12:33:37.092Z
-updated: 2024-06-26T12:33:37.092Z
+date: 2024-07-03T11:10:01.584Z
+updated: 2024-07-04T11:10:01.584Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 
 ## How to Enable the Mobile Hotspot on Windows 11
 
- Windows 11 makes it very easy to configure a[mobile hotspot](https://www.makeuseof.com/what-is-a-hotspot-and-how-does-it-work/) and share your internet with other devices. To enable mobile hotspot on your Windows 11 device:
+ Windows 11 makes it very easy to configure a [mobile hotspot](https://www.makeuseof.com/what-is-a-hotspot-and-how-does-it-work/) and share your internet with other devices. To enable mobile hotspot on your Windows 11 device:
 
 1. Launch the**Settings** app from the**Start** menu.
 2. From the sidebar, select**Network & internet** and then select the**Mobile hotspot** tab.  

@@ -1,7 +1,7 @@
 ---
 title: Unsticking WoW's Initialization on PCs
-date: 2024-06-25T12:11:40.160Z
-updated: 2024-06-26T12:11:40.160Z
+date: 2024-07-03T11:10:04.403Z
+updated: 2024-07-04T11:10:04.403Z
 tags:
   - windows10
   - windows11
@@ -33,9 +33,9 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 * Pause and resume the stuck update.
 * Restart the stuck update after canceling it.
 * Restart the Battle.net desktop client.
-* Look at the[World of Warcraft forum](https://us.forums.blizzard.com/en/wow/) to see if other users are experiencing the same issue. If so, it's a backend issue, which will be resolved by Blizzard itself.
-* Set up the Battle.net desktop client to run as an administrator. As a result, the client will gain elevated system rights, allowing it to access even restricted system files. If you aren't familiar with the process, check out our guide on[how to always run an app as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
-* Ensure that your device meets the minimum gaming requirements. Also, check if your video card is on[Blizzard's list of supported video cards](https://eu.battle.net/support/en/article/31372) .
+* Look at the [World of Warcraft forum](https://us.forums.blizzard.com/en/wow/) to see if other users are experiencing the same issue. If so, it's a backend issue, which will be resolved by Blizzard itself.
+* Set up the Battle.net desktop client to run as an administrator. As a result, the client will gain elevated system rights, allowing it to access even restricted system files. If you aren't familiar with the process, check out our guide on [how to always run an app as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
+* Ensure that your device meets the minimum gaming requirements. Also, check if your video card is on [Blizzard's list of supported video cards](https://eu.battle.net/support/en/article/31372) .
 
 ## 1\. Ensure It's Not a Visual Glitch
 
@@ -74,8 +74,8 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
  If you are confident that your internet connection is working, take the following steps:
 
 1. Restart your router to clear its cache.
-2. Test your internet speed using any[free internet speed test website](https://www.makeuseof.com/best-free-websites-test-internet-speed/) . If it isn't fast enough, connect to a different connection.
-3. Your ISP can also block blizzard servers. You can rule out this possibility by[changing your DNS](https://www.makeuseof.com/tag/change-dns-increase-internet-speed/) and running the update again.
+2. Test your internet speed using any [free internet speed test website](https://www.makeuseof.com/best-free-websites-test-internet-speed/) . If it isn't fast enough, connect to a different connection.
+3. Your ISP can also block blizzard servers. You can rule out this possibility by [changing your DNS](https://www.makeuseof.com/tag/change-dns-increase-internet-speed/) and running the update again.
 
  If the internet is not the cause of the problem, move on to the next step.
 
@@ -93,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 
  Microsoft Defender and third-party antivirus programs are great at catching and removing threats. Sometimes, however, they deem even safe-to-execute processes as threats and block them. It's at that point when things start to get frustrating.
 
- To ensure the Battle.net connection isn't halted for the same reason, you should whitelist the client in Microsoft Defender. Have you never done that before? We have a guide on[how to whitelist apps in Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Additionally, if you're running an antivirus program, turn it off.
+ To ensure the Battle.net connection isn't halted for the same reason, you should whitelist the client in Microsoft Defender. Have you never done that before? We have a guide on [how to whitelist apps in Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Additionally, if you're running an antivirus program, turn it off.
 
 ## Enjoy Playing World of Warcraft Again
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Start Guide to Windows 11 Apps
-date: 2024-06-25T12:41:33.628Z
-updated: 2024-06-26T12:41:33.628Z
+date: 2024-07-03T11:10:01.900Z
+updated: 2024-07-04T11:10:01.900Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/3119c4d644ca38982b7a0f68d251b6e048a299751
 
  Aside from letting you open your pinned taskbar apps with a click, you can also use keyboard shortcuts to launch them. You can do so by pressing the**Windows Key + \[App Placement Number \]** . So, if you want to open the first pinned app, press**Windows Key + 1** . To open the second pinned app, press**Windows Key + 2** , and so on.
 
- But if your Windows 11 Taskbar has outright stopped working, this shortcut might not work. So, you should know how to[fix the Windows 11 Taskbar when it's not working](https://www.makeuseof.com/windows-11-taskbar-not-working-loading/) .
+ But if your Windows 11 Taskbar has outright stopped working, this shortcut might not work. So, you should know how to [fix the Windows 11 Taskbar when it's not working](https://www.makeuseof.com/windows-11-taskbar-not-working-loading/) .
 
 ## 2\. Create an App Shortcut And Pin It to the Desktop
 
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/3119c4d644ca38982b7a0f68d251b6e048a299751
 
  One way you can do so is by going to**Start Menu > All apps** and looking for the app you want to pin in your start menu. You can then right-click on the app and choose**Pin to Start** . Alternatively, you can click the**Search bar** at the top of the Start Menu to help you find the app you need.
 
- But if it isn't working, you should[check out how to fix the Start Menu](https://www.makeuseof.com/windows-start-button-not-working/) to get it working again.
+ But if it isn't working, you should [check out how to fix the Start Menu](https://www.makeuseof.com/windows-start-button-not-working/) to get it working again.
 
 ## 5\. Launch Apps Quickly Using Windows 11 Taskbar Search
 

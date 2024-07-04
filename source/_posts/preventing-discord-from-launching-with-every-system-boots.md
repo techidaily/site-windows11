@@ -1,7 +1,7 @@
 ---
 title: Preventing Discord From Launching with Every System Boots
-date: 2024-06-25T12:17:48.092Z
-updated: 2024-06-26T12:17:48.092Z
+date: 2024-07-03T11:10:03.787Z
+updated: 2024-07-04T11:10:03.787Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ Follow the below steps to prevent Discord from launching at startup:
 4. Turn the toggle next to**Open Discord** to the left to turn it off.  
 ![Disbaling Open Discord at Startup Option in Discord Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Disbaling-Open-Discord-at-Startup-Option-in-Discord-Settings.jpg)
 
- The above steps will prevent Discord from launching at startup. Just like Discord, you can also[add or remove other startup programs](https://www.makeuseof.com/how-to-add-remove-startup-programs-windows-11/) at any time.
+ The above steps will prevent Discord from launching at startup. Just like Discord, you can also [add or remove other startup programs](https://www.makeuseof.com/how-to-add-remove-startup-programs-windows-11/) at any time.
 
  Sadly, the quest to prevent Discord from launching at startup doesn't end here. If Discord's Update process is allowed to run at startup in Task Manager, it may still look for updates and launch. It is, therefore, imperative to disable that as well.
 

@@ -1,7 +1,7 @@
 ---
 title: Ace Windows with Key-Based Configuration Tweaks
-date: 2024-06-25T12:43:48.297Z
-updated: 2024-06-26T12:43:48.297Z
+date: 2024-07-03T11:10:00.960Z
+updated: 2024-07-04T11:10:00.960Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/beb79c97cd88302125e646092101e6316bc065b6e
 
  Redo is to do an action that you have undone on your PC; it's the opposite of undo. For example, if you decide that you really don't need the image file you had first deleted and then brought back using undo, you can redo the action and delete the image file again.
 
- If you're using Microsoft Office apps like Word, Excel, and PowerPoint, you'll find the**Undo** and**Redo** commands with curved arrow-like icons next to each other on the Quick Access toolbar. This toolbar is your handy companion when using Office, and you can even learn[how to customize the Quick Access toolbar in Excel](https://www.makeuseof.com/customize-quick-access-toolbar-excel/) .
+ If you're using Microsoft Office apps like Word, Excel, and PowerPoint, you'll find the**Undo** and**Redo** commands with curved arrow-like icons next to each other on the Quick Access toolbar. This toolbar is your handy companion when using Office, and you can even learn [how to customize the Quick Access toolbar in Excel](https://www.makeuseof.com/customize-quick-access-toolbar-excel/) .
 
 ![Undo and Redo Commands on a Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-and-redo.jpg)
 
@@ -60,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/beb79c97cd88302125e646092101e6316bc065b6e
 
 ![Color of Text Changed Using Repeat Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repeat-on-windows-using-hotkey-1.jpg)
 
- If you like using your keyboard to perform actions, be sure to check out[how to use KeyTips in Microsoft Office](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
+ If you like using your keyboard to perform actions, be sure to check out [how to use KeyTips in Microsoft Office](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
 
 ## Use Undo and Redo Hotkeys for a Speedier Windows Experience
 

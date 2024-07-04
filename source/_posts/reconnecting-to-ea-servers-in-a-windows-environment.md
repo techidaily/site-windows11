@@ -1,7 +1,7 @@
 ---
 title: Reconnecting to EA Servers in a Windows Environment
-date: 2024-06-25T12:28:50.089Z
-updated: 2024-06-26T12:28:50.089Z
+date: 2024-07-03T11:10:01.314Z
+updated: 2024-07-04T11:10:01.314Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 
  Occasionally, EA servers go down during maintenance or when facing technical problems. As such, before you do any troubleshooting, first ensure that the EA servers are actually up and running. Follow these steps to check that:
 
-1. Go to the[official EA Help website](https://help.ea.com/en/?r=1) .
+1. Go to the [official EA Help website](https://help.ea.com/en/?r=1) .
 2. Navigate to the**Games** menu in the top-left corner of the screen, find the game giving you the error, and click on it.  
 ![Select a Game From Games Menu to Check Its Status on EA Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/select-a-game-from-games-menu-to-check-its-status-on-ea-website.jpg)
 3. Wait a few seconds and click on the**Server Status** link on the right side of the screen.  
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 
  Your device needs to be connected to a reliable internet connection to connect to EA servers successfully. Before investigating the issue further, check whether the internet is even connected.
 
- If it is, check the stability of your internet connection. Try any of the[best websites to test your internet speed for free](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and compare it to what you should be getting with your broadband plan.
+ If it is, check the stability of your internet connection. Try any of the [best websites to test your internet speed for free](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and compare it to what you should be getting with your broadband plan.
 
 ![internet speed test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/internet-speed-test.jpg)
 
@@ -58,11 +58,11 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 
  EA can temporarily suspend or permanently ban your account if you violate the terms of the User Agreement you signed when you created it. Once the ban has been imposed, you can't use many game features, which include online gaming.
 
- To check if you have been banned, visit the[EA website](https://help.ea.com/en/) , log into your account, and select**My Ban History** from the**Accounts** menu.
+ To check if you have been banned, visit the [EA website](https://help.ea.com/en/) , log into your account, and select**My Ban History** from the**Accounts** menu.
 
 ![Click on My Ban History From Accounts Menu on EA Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/click-on-my-ban-history-from-accounts-menu-on-ea-website.jpg)
 
- If a ban is in place, it's likely contributing to the connectivity problem. If you believe that EA made a mistake, contact their customer support to resolve the issue (read more about contacting support on the[EA website](https://help.ea.com/en/help/account/information-about-locked-or-banned-or-suspended-accounts/) ). However, if there is no ban in place, go to the next step.
+ If a ban is in place, it's likely contributing to the connectivity problem. If you believe that EA made a mistake, contact their customer support to resolve the issue (read more about contacting support on the [EA website](https://help.ea.com/en/help/account/information-about-locked-or-banned-or-suspended-accounts/) ). However, if there is no ban in place, go to the next step.
 
 ![EA Website Showing No Ban History of an Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/ea-website-showing-no-ban-history-on-a-account.jpg)
 
@@ -91,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 
  A bad DNS server can cause internet connectivity issues. If you've never changed the DNS on your device, you're probably using the one assigned by your ISP. So, try changing it to see if it fixes the problem.
 
- Check out[how to change the DNS server on a Windows PC](https://www.makeuseof.com/change-dns-settings-windows-11/) for more information on how to do this.
+ Check out [how to change the DNS server on a Windows PC](https://www.makeuseof.com/change-dns-settings-windows-11/) for more information on how to do this.
 
  We recommend switching to Google DNS (8.8.8.8, 8.8.4.4) because it's more stable and offers faster response times. However, you can choose any DNS server that you prefer.
 
@@ -99,7 +99,7 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 
  For your device to communicate successfully with EA servers, the time and date must be configured correctly. Although it seems pretty basic, gamers often miss this and struggle with connectivity problems when playing online games. To ensure that an incorrect date or time setting is not causing the error under discussion, ensure they are both correctly set.
 
- If things don't look right, check out[how to set the date and time on Windows](https://www.makeuseof.com/windows-change-date-time-format/) to get things back to normal.
+ If things don't look right, check out [how to set the date and time on Windows](https://www.makeuseof.com/windows-change-date-time-format/) to get things back to normal.
 
 ## Get Connected to EA's Servers Again
 

@@ -1,7 +1,7 @@
 ---
 title: "Freeze Yourself No More: 9 Techniques for Easing Windows Install Locks"
-date: 2024-06-25T11:57:29.609Z
-updated: 2024-06-26T11:57:29.609Z
+date: 2024-07-03T11:10:03.733Z
+updated: 2024-07-04T11:10:03.733Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/ff0e2bc796f68a77c989442115175dff38598efbd
 
  Steam requires a strong internet connection to verify the game files. However, if your connection is weak or unstable, Steam might get stuck in the verification process.
 
- You can use an[internet-speed testing website](https://www.makeuseof.com/best-free-websites-test-internet-speed/) to check your internet speed and stability. If the result shows your connection is slow and unstable, try the following solutions:
+ You can use an [internet-speed testing website](https://www.makeuseof.com/best-free-websites-test-internet-speed/) to check your internet speed and stability. If the result shows your connection is slow and unstable, try the following solutions:
 
 * Restart the router.
 * [Update your network driver](https://www.makeuseof.com/tag/update-windows-software-guide/) .
@@ -52,7 +52,7 @@ To launch Steam as an administrator, follow the below instructions:
 ![Run this program as an administrator option for Steam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-this-program-as-an-administrator.jpg)
 4. Click**Apply** \>**OK** to save the settings.
 
- Now, open the Steam client and check if the problem is fixed. If this does the trick, you can configure it to[always launch as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
+ Now, open the Steam client and check if the problem is fixed. If this does the trick, you can configure it to [always launch as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 
 ## 4\. Temporarily Disable the Security Application
 
@@ -60,7 +60,7 @@ To launch Steam as an administrator, follow the below instructions:
 
  To fix this, disable the security application of your computer. If you're using a third-party security app, right-click on its icon in the system tray area and choose Disable from the context menu. You can also check your security app user manual to know more about the disabling process.
 
- If you're using Windows Security as the default security app, check our guide on[disabling Windows Security on Windows 11](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) .
+ If you're using Windows Security as the default security app, check our guide on [disabling Windows Security on Windows 11](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) .
 
 ![Disabling Real time protection in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disabling-real-time-protection.jpg)
 
@@ -126,7 +126,7 @@ To launch Steam as an administrator, follow the below instructions:
 
  Are you still struggling with the verifying installation prompt? If yes, then you're left with no option other than to reinstall the Steam client.
 
- First, uninstall the app from your computer. Then, head to the[Steam official website](https://store.steampowered.com/) and download the latest version.
+ First, uninstall the app from your computer. Then, head to the [Steam official website](https://store.steampowered.com/) and download the latest version.
 
 ## Get Back to Verifying Your Steam Games Again
 

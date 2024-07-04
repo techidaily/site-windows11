@@ -1,7 +1,7 @@
 ---
 title: Top 7 Fixes for Rename Restrictions on Files and Directories of Windows 11
-date: 2024-06-25T12:44:32.467Z
-updated: 2024-06-26T12:44:32.467Z
+date: 2024-07-03T11:10:04.565Z
+updated: 2024-07-04T11:10:04.565Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/fb4a67269b09db2a7f2f5849b8bae34d180258d63
 
  Windows might now allow you to rename a folder because that folder is already in use. Close any image or video editor, or any other app that may access the files within the folder.
 
- Also, take a look at your tabs in File Explorer and close the folder that you want to rename. If you're still getting to grips with them, check out[everything you need to know about File Explorer tabs on Windows 11](https://www.makeuseof.com/windows-11-file-explorer-tab-guide/) .
+ Also, take a look at your tabs in File Explorer and close the folder that you want to rename. If you're still getting to grips with them, check out [everything you need to know about File Explorer tabs on Windows 11](https://www.makeuseof.com/windows-11-file-explorer-tab-guide/) .
 
 ## 2\. Restart Windows Explorer
 
@@ -55,11 +55,11 @@ Re-launch Windows Explorer and try to rename the folder.
 
 ![Check folder permissions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/folder-permissions-1.jpg)
 
- If your account is blocked from renaming the folder, you should switch to an administrator account or[take ownership of the folder on Windows](https://www.makeuseof.com/windows-10-11-own-folder/) .
+ If your account is blocked from renaming the folder, you should switch to an administrator account or [take ownership of the folder on Windows](https://www.makeuseof.com/windows-10-11-own-folder/) .
 
 ## 5\. Scan for Malware
 
- If there are more Windows features that you can no longer use, you might be dealing with a malware infection. To make Windows work properly again and protect your files and folder, you should use one of the[best malware removal tools on Windows](https://www.makeuseof.com/best-malware-removal-tools-pc/) to find any lurking threats.
+ If there are more Windows features that you can no longer use, you might be dealing with a malware infection. To make Windows work properly again and protect your files and folder, you should use one of the [best malware removal tools on Windows](https://www.makeuseof.com/best-malware-removal-tools-pc/) to find any lurking threats.
 
 ## 6\. Turn Off the Controlled Folder Access Feature
 
@@ -79,7 +79,7 @@ In this case, you should turn it off.
 
 ## 7\. Perform a Clean Boot
 
- A malfunctioning or conflicting third-party app might keep you from renaming folders. To test it, perform a clean boot. This way, your computer runs without supplementary services and apps. If you don't know how to do that, be sure to learn[how to perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) .
+ A malfunctioning or conflicting third-party app might keep you from renaming folders. To test it, perform a clean boot. This way, your computer runs without supplementary services and apps. If you don't know how to do that, be sure to learn [how to perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) .
 
  If the problem is fixed after a clean boot, look at the list of installed apps and uninstall the ones that may be causing the issue. If there are too many to go through, you can re-activate only a handful of apps and services between each clean boot. Once the problem re-appears, one of the apps you just re-activated is the culprit.
 

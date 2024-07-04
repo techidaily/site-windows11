@@ -1,7 +1,7 @@
 ---
 title: Navigating the Landscape of Android & Windows File Sharing
-date: 2024-06-25T12:23:13.782Z
-updated: 2024-06-26T12:23:13.782Z
+date: 2024-07-03T11:10:02.112Z
+updated: 2024-07-04T11:10:02.112Z
 tags:
   - windows10
   - windows11
@@ -28,17 +28,17 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 
  Before we get started, let’s go over some prerequisites for exchanging files via Google’s Nearby Share app for Windows.
 
-* Your computer must have a**64-bit version of Windows 10 or up** . ARM-powered Windows devices are not supported at the moment. If you're unsure which version your PC is using, be sure to read[how to tell if your Windows is 32 or 64-bit](https://www.makeuseof.com/tag/4-easy-ways-to-know-if-youre-on-a-64-bit-version-of-windows/) .
-* Your Android phone must be running**Android 6.0 or higher** . Not sure which version your phone is on? Check out[how to tell which version of Android you have](https://www.makeuseof.com/what-version-of-android/) and find out.
+* Your computer must have a**64-bit version of Windows 10 or up** . ARM-powered Windows devices are not supported at the moment. If you're unsure which version your PC is using, be sure to read [how to tell if your Windows is 32 or 64-bit](https://www.makeuseof.com/tag/4-easy-ways-to-know-if-youre-on-a-64-bit-version-of-windows/) .
+* Your Android phone must be running**Android 6.0 or higher** . Not sure which version your phone is on? Check out [how to tell which version of Android you have](https://www.makeuseof.com/what-version-of-android/) and find out.
 * Both devices should have**Bluetooth** and**Wi-Fi** turned on.
 * Both devices should be connected to the same Wi-Fi network and within**16 feet (5 meters)** of each other.
-* Google’s Nearby Share app for Windows is available in most parts of the world except for a few European countries. You can check if your country is supported via[Google Support](https://support.google.com/product-documentation/answer/13470053) , under "availability."
+* Google’s Nearby Share app for Windows is available in most parts of the world except for a few European countries. You can check if your country is supported via [Google Support](https://support.google.com/product-documentation/answer/13470053) , under "availability."
 
 ## How to Download and Set Up Google’s Nearby Share App on Windows
 
  To exchange files between your Android phone and Windows PC, you’ll first need to install and set up Google’s Nearby Share app on your computer. Here’s how you can go about it.
 
-1. Download[Google’s Nearby Share Beta for Windows](https://android.com/better-together/nearby-share-app/) .
+1. Download [Google’s Nearby Share Beta for Windows](https://android.com/better-together/nearby-share-app/) .
 2. Double-click the**BetterTogetherSetup.exe** file to begin the installation.
 3. Once the Nearby Share app is installed, click the**Sign in** button to link your Google account. If you don't want to do that, click**Use without an account** instead.
 4. Under**Visible to others as** , enter a name for your device.

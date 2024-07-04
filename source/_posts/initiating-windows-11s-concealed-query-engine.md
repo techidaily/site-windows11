@@ -1,7 +1,7 @@
 ---
 title: Initiating Windows 11'S Concealed Query Engine
-date: 2024-06-25T12:03:05.943Z
-updated: 2024-06-26T12:03:05.943Z
+date: 2024-07-03T11:10:00.907Z
+updated: 2024-07-04T11:10:00.907Z
 tags:
   - windows10
   - windows11
@@ -22,11 +22,11 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
 ## How to Add the Hidden Taskbar Search on Windows 11
 
- To enable the new search box on your system's taskbar, make sure you're on the Windows latest version. For this, open Settings (see[how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for steps) and then select**Windows Update > Check for updates** . If you find any pending updates here, download and install them.
+ To enable the new search box on your system's taskbar, make sure you're on the Windows latest version. For this, open Settings (see [how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for steps) and then select**Windows Update > Check for updates** . If you find any pending updates here, download and install them.
 
  Once you're done,[download ViveTool from the GitHub page](https://github.com/thebookisclosed/ViVe/releases) . After downloading the zip file, extract the contents into the folder**C:/ViVeTool** .
 
- Now follow our guide on[how to open the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) to get the tool open. In the Command Prompt window, type the following command and hit**Enter** :
+ Now follow our guide on [how to open the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) to get the tool open. In the Command Prompt window, type the following command and hit**Enter** :
 
 `cd C:\ViVeTool`
 

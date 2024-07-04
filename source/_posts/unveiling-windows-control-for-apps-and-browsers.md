@@ -1,7 +1,7 @@
 ---
 title: Unveiling Windows Control for Apps & Browsers
-date: 2024-06-25T12:29:07.959Z
-updated: 2024-06-26T12:29:07.959Z
+date: 2024-07-03T11:10:04.247Z
+updated: 2024-07-04T11:10:04.247Z
 tags:
   - windows10
   - windows11
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 
  It uses what Microsoft knows about the various websites and apps it learns based on the internet information and then decides whether it would be safe to access that service.
 
- We have covered a variety of[ways you can enable or disable Windows SmartScreen](https://www.makeuseof.com/windows-smartscreen-filter-enable-disable/) before, which includes reputation-based protection. As we're focusing on just one area, we will stick with the most straightforward method here.
+ We have covered a variety of [ways you can enable or disable Windows SmartScreen](https://www.makeuseof.com/windows-smartscreen-filter-enable-disable/) before, which includes reputation-based protection. As we're focusing on just one area, we will stick with the most straightforward method here.
 
  On**Windows Security** , head to**App & browser control** and select**Reputation-based protection** settings. Now, toggle on the**Check apps and files** button, and your settings will be turned on. Finally, click on**Yes** to confirm your settings.
 
@@ -90,11 +90,11 @@ thumbnail: https://thmb.techidaily.com/8761d7ab814205b2f88e7841689a57f834d49b25e
 
 ## 3\. Exploit Protection
 
- Exploit Protection protects your PC against malware that infects your PC by spreading far out wide. As[Microsoft puts it](https://support.microsoft.com/en-us/windows/app-browser-control-in-windows-security-8f68fb65-ebb4-3cfb-4bd7-ef0f376f3dc3) , some sort of exploit protection or the other is always running behind the screen; from here you can manage the exploit protection settings by clicking on the**Exploit protection settings** link.
+ Exploit Protection protects your PC against malware that infects your PC by spreading far out wide. As [Microsoft puts it](https://support.microsoft.com/en-us/windows/app-browser-control-in-windows-security-8f68fb65-ebb4-3cfb-4bd7-ef0f376f3dc3) , some sort of exploit protection or the other is always running behind the screen; from here you can manage the exploit protection settings by clicking on the**Exploit protection settings** link.
 
 ![exploit protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/exploit-protection.jpg)
 
- Microsoft has covered the exploit protection feature in much more granular detail on[Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/customize-exploit-protection?view=o365-worldwide) , so feel free to check out its guide for a more technical rundown of the whole function and working.
+ Microsoft has covered the exploit protection feature in much more granular detail on [Microsoft Learn](https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/customize-exploit-protection?view=o365-worldwide) , so feel free to check out its guide for a more technical rundown of the whole function and working.
 
 ## Get App and Browser Control on a Windows PC
 

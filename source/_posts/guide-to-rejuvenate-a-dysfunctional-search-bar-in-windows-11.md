@@ -1,7 +1,7 @@
 ---
 title: Guide to Rejuvenate a Dysfunctional Search Bar in Windows 11
-date: 2024-06-25T12:29:26.292Z
-updated: 2024-06-26T12:29:26.292Z
+date: 2024-07-03T11:10:02.519Z
+updated: 2024-07-04T11:10:02.519Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/dc4cacbc8b493fc632f86712912ebd59bbc9ecbef
 
  Besides new features, software updates are meant to improve performance by fixing issues impacting your PC. While it can happen to anyone, a dysfunctional Search can be pretty common if you are running a Windows 11 Insider build. Either way, if you are seeing a software update on the**Windows Update** page in the Settings app, you should install it to see if it fixes the issue.
 
- If you're not sure how to do this, check out[how to install Windows 11 updates](https://www.makeuseof.com/windows-11-install-updates/) for more info.
+ If you're not sure how to do this, check out [how to install Windows 11 updates](https://www.makeuseof.com/windows-11-install-updates/) for more info.
 
 ## 3\. Run the Search and Indexing Troubleshooter
 

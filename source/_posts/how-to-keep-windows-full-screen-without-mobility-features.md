@@ -1,7 +1,7 @@
 ---
 title: How To Keep Windows Full Screen without Mobility Features
-date: 2024-06-25T12:23:06.359Z
-updated: 2024-06-26T12:23:06.359Z
+date: 2024-07-03T11:10:01.880Z
+updated: 2024-07-04T11:10:01.880Z
 tags:
   - windows10
   - windows11
@@ -32,11 +32,11 @@ thumbnail: https://thmb.techidaily.com/6c0361031673718dd65b08f3b6f24eb590de40f0c
 
  If you're looking to disable Windows Mobility Centre, you can do so by using the local editor group policy. However, it is important to note that the tool only works with Windows 11 Professional and Enterprise editions.
 
- In other words, if you use Windows Home edition, you won't have access to Local Group Policy. For this to work, you must first[activate the Group Policy Editor in Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) .
+ In other words, if you use Windows Home edition, you won't have access to Local Group Policy. For this to work, you must first [activate the Group Policy Editor in Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) .
 
  To disable Windows Mobility Center using the Local Group Policy Editor, follow these steps:
 
-1. Open the Local Group Policy Editor (see[how to open the Local Group Policy Editor](https://www.makeuseof.com/tag/open-local-group-policy-editor-windows/) for more information).
+1. Open the Local Group Policy Editor (see [how to open the Local Group Policy Editor](https://www.makeuseof.com/tag/open-local-group-policy-editor-windows/) for more information).
 2. Then navigate to the following path:  
 Computer Configuration > Administrative Templates > Windows Components > Windows Mobility Center
 3. Select the**Windows Mobility Center** folder from the left pane, then double-click**Turn off Windows Mobility Center** .  
@@ -50,9 +50,9 @@ Computer Configuration > Administrative Templates > Windows Components > Windows
 
  Additionally, you can disable Windows Mobility Center through the Windows Registry. The process is fairly simple, but make sure you follow the instructions carefully. It's because even one mistake in the registry can lead to serious damage.
 
- If you decide to go this route, be sure to[back up your registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) . Here are the steps you need to follow in order to disable Windows Mobility Center:
+ If you decide to go this route, be sure to [back up your registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) . Here are the steps you need to follow in order to disable Windows Mobility Center:
 
-1. Open the Registry Editor (see[how to open the Registry Editor](https://www.makeuseof.com/windows-11-open-registry-editor/) to learn how).
+1. Open the Registry Editor (see [how to open the Registry Editor](https://www.makeuseof.com/windows-11-open-registry-editor/) to learn how).
 2. Next, go to the following path:  
 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies
 3. On the right side of the window, right-click on the blank area.

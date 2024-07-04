@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Workflow in Windows 11: Run Command Innovation Guide"
-date: 2024-06-25T12:06:28.728Z
-updated: 2024-06-26T12:06:28.728Z
+date: 2024-07-03T11:10:01.185Z
+updated: 2024-07-04T11:10:01.185Z
 tags:
   - windows10
   - windows11
@@ -24,11 +24,11 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 
  Run-Command is a portable alternative to Run that improves upon the functionality of that accessory in many ways. As it is portable software, you can utilize it in many Windows platforms without installation. All you need to do to add Run-Command to Windows 11/10 is download and extract that software as follows:
 
-1. Open the[Run-Command](https://www.softwareok.com/?Download=Run-Command) download page.
+1. Open the [Run-Command](https://www.softwareok.com/?Download=Run-Command) download page.
 2. Click**Run-Command \_x64.zip** to download the ZIP archive for 64-bit Windows platforms.
-3. Next, press the**Windows** logo and**E** keyboard buttons to[access File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
+3. Next, press the**Windows** logo and**E** keyboard buttons to [access File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
 4. Open the folder containing the**Run-Command \_x64.zip** archive.
-5. Go through the instructions in our[how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) guide to extract the**Run-Command \_x64.zip** archive.  
+5. Go through the instructions in our [how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) guide to extract the**Run-Command \_x64.zip** archive.  
 ![The Extract Compressed (Zipped) folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-window2.jpg)
 6. Then double-click the**Run-Command\_x64.exe** in that software’s unzipped folder.
 
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 
  So, what we have here is an alternative Run app in which you can add shortcuts for opening all your favorite software packages. How utterly brilliant; but why hasn’t Microsoft added such a feature to Windows’ native Run app? The Redmond developers should have added a shortcut menu to Run long ago.
 
- When Run-Command is running, you can access it with the**Windows** key +**R** keyboard shortcut that usually[opens the native Run accessory](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Run-Command remains running with its window closed. So, you can press the**Windows** +**R** hotkey to re-open Run-Command whenever you need it.
+ When Run-Command is running, you can access it with the**Windows** key +**R** keyboard shortcut that usually [opens the native Run accessory](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Run-Command remains running with its window closed. So, you can press the**Windows** +**R** hotkey to re-open Run-Command whenever you need it.
 
  However, you can change that keyboard shortcut to something else if preferred. To do so, click the**Options** menu; select**Hot-Key** on that menu to bring up a small window. Then select a key combination in the drop-down menus and click**OK** .
 
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 
  PowerToys is a great piece of kit for adding new features to Windows 11/10\. That software has a PowerToys Run utility you can enable, which looks somewhat different from the native Run accessory. That utility is more like a 2-in-1 quick app launcher and search tool for Windows 11/10\. This is how you can add that Run replacement to Windows 11/10:
 
-1. Open this[Microsoft PowerToys](https://github.com/microsoft/PowerToys/releases/tag/v0.66.0) page.
+1. Open this [Microsoft PowerToys](https://github.com/microsoft/PowerToys/releases/tag/v0.66.0) page.
 2. Click the**PowerToysSetup-0.66.0-x64.exe** download link.
 3. Next, right-click**Start** to access a Power User menu and select**File Explorer** on it.
 4. Navigate to the folder containing the downloaded PowerToys setup file.

@@ -1,0 +1,111 @@
+---
+title: Activating Clipboard Operations in Application Guard (Edge) - Win11 Guide
+date: 2024-07-03T11:20:06.662Z
+updated: 2024-07-04T11:20:06.663Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Activating Clipboard Operations in Application Guard (Edge) - Win11 Guide
+excerpt: This Article Describes Activating Clipboard Operations in Application Guard (Edge) - Win11 Guide
+keywords: Edge AppGuard Clipboard Activation,Win11 Clipboard Enable,Application Guard Keyboard Use,Windows 11 Security Feature,Edge Operations Guide,Clipboard Management in Edge,Enabling AppGuard Functions
+thumbnail: https://thmb.techidaily.com/c2342fb5e25c5a967555cf815791bd2b9698b049e69b2eb389ba72dc308a7ad2.jpeg
+---
+
+## Activating Clipboard Operations in Application Guard (Edge) - Win11 Guide
+
+ Looking to improve the security of your device? Microsoft Edge's Application Guard feature is an ideal solution, as it creates a virtualized atmosphere and blocks malicious websites. However, copy and paste functionality is disabled by default in this setting for extra precautionary measures.
+
+ If you would like to switch on copy and paste within Application Guard for Edge on Windows 11, then this guide will assist you in doing so.
+
+## 1\. How to Enable Copy and Paste via Windows Settings
+
+ To enable copy and paste in Application Guard for Edge, follow the steps below:
+
+1. Right-click on Start and select**Settings** from the menu list. For more information, check out our guide on [how to open the Settings window](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
+2. Select**Privacy & security** from the left pane.
+3. Then click the**Windows Security** option on the right-hand side.
+4. On the following screen, select**App & browser control** .
+5. Go to the Isolated browsing section and click the link "Change Applications Guard settings."  
+![Change Application Guard Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/change-application-guard-settings.jpg)
+6. Search for the**Copy and paste** option, then click the toggle to enable it.  
+![Enable Copy and Paste via Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-copy-and-paste-via-windows-settings.jpg)
+7. The UAC prompt will appear on the screen. Click**Yes** to continue.
+
+ Once you’ve completed the steps, restart your computer for the changes to work. Now, you can securely transfer data between a virtualized environment and your device without any worries about security risks - malicious websites and applications will be blocked even with this setting enabled.
+
+ If you ever need to disable copy and paste in Application Guard for Edge, you can follow the same steps mentioned above. Just be sure to toggle off the Copy and Paste setting from the Isolated browsing menu instead.
+
+## 2\. How to Enable Copy and Paste Using Registry Editor
+
+ The Windows Registry is another method you can use to copy and paste within Application Guard for Edge on your Windows 11 PC. But, please be aware that editing the registry can have severe consequences if done incorrectly. To be safe,[back up the registry data](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before you begin making any changes.
+
+ Follow these steps to enable copy and paste using the Windows Registry Editor:
+
+1. Press**Win + R** on your keyboard to open the Run dialog box.
+2. Type "regedit" in the text box and press the Enter key.
+3. If UAC prompts appear on the screen, click**Yes** to confirm your action.
+4. In the Registry Editor window, navigate to the following location:  
+`Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi`
+5. If you don't find the Hvsi key there, you will need to create it. To do this, right-click on Microsoft and select**New > Key** .
+
+1. In the box that appears, give it the name**Hvsi** , and then hit Enter to save the file.
+2. Now right-click on**Hvsi** and select**New > DWORD (32-bit) Value** .  
+![Creating a new DWORD (32-bit) Value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creating-dword-enableclipboard-key.jpg)
+3. Put**EnableClipboard** as the name for the new DWORD key, then press Enter.
+4. Click twice on the newly created DWORD key to open a pop-up window.
+5. Be sure the**Hexadecimal** base is selected, and set the Value data to**1** .  
+![Enable Copy and Paste with Application Guard for Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-copy-and-paste-with-application-guard-for-edge.jpg)
+6. Finally, click**OK** to save your changes.
+
+ Once you’ve completed the steps, close any running applications and restart your computer
+
+ If you'd like to turn off this feature, just repeat the aforementioned steps, but set the Value data to**0** and click**OK** . That's all it takes for your changes to be put into effect!
+
+ Now that you've read the above steps, you should have a clear understanding of how to enable and disable copy and paste within Application Guard for Edge on Windows 11.
+
+## Copy and Paste Now Works With Edge Application Guard
+
+ With Application Guard for Edge, your device can remain secure while browsing the web. Unfortunately, certain functionalities such as copy and paste are disabled by default - but don't worry! This guide will explain two methods to activate them quickly and easily.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/advanced-resource-utilization-monitors/"><u>Advanced Resource Utilization Monitors</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagining-taskbar-functionality-essential-upgrades-to-improve-microsofts-user-interface/"><u>Reimagining Taskbar Functionality: Essential Upgrades to Improve Microsoft's User Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-windows-11s-compatibility-diagnostic-tool/"><u>Decoding Windows 11'S Compatibility Diagnostic Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-call-issue-fixed-runtime-errors-in-malwarebytes-for-win10win11/"><u>Overcoming the Call Issue: Fixed Runtime Errors in Malwarebytes for Win10/Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-game-drives-in-xbox-app/"><u>The Ultimate Guide to Game Drives in Xbox App</u></a></li>
+<li><a href="https://windows11.techidaily.com/combatting-dxgierrordeviceremoved-in-modern-win-oses/"><u>Combatting DXGI_ERROR_DEVICE_REMOVED in Modern Win OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-start-guide-to-windows-11-apps/"><u>Quick Start Guide to Windows 11 Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/ace-windows-with-key-based-configuration-tweaks/"><u>Ace Windows with Key-Based Configuration Tweaks</u></a></li>
+<li><a href="https://windows11.techidaily.com/gpresult-command-guide-for-policy-reporting/"><u>GPResult Command Guide for Policy Reporting</u></a></li>
+<li><a href="https://windows11.techidaily.com/dodging-unsupported-issue-in-windows-5-fixes/"><u>Dodging 'Unsupported' Issue in Windows: 5 Fixes</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/androidios-tiktok-crash-solutions-to-keep-app-running/"><u>Android/iOS TikTok Crash  Solutions to Keep App Running</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-cutting-edge-music-editing-software-roundup-the-top-10-compatible-apps-for-windows-and-mac/"><u>New Cutting-Edge Music Editing Software Roundup The Top 10 Compatible Apps for Windows and Mac</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gaming-frontier-exploration-premium-oculus-players-guide/"><u>2024 Approved  Gaming Frontier Exploration  Premium Oculus Players Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-free-video-editing-apps-for-chromebook-top-picks/"><u>Updated 2024 Approved Free Video Editing Apps for Chromebook Top Picks</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/arcade-avenue-a-million-paths-in-play-for-2024/"><u>Arcade Avenue  A Million Paths in Play for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-decoding-effective-tiktok-advertising-methods/"><u>[Updated] 2024 Approved  Decoding Effective TikTok Advertising Methods</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-motorola-g24-power-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola G24 Power Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/learn-basic-video-editing-on-vimeo-at-no-cost/"><u>Learn Basic Video Editing on Vimeo at No Cost</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-glacial-gala-winter-olympics-excellence/"><u>[New] Glacial Gala  Winter Olympics Excellence</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-turn-on-av1-settings-on-youtube-and-why-you-should-do-it-for-2024/"><u>[Updated] How to Turn on AV1 Settings on YouTube and Why You Should Do It for 2024</u></a></li>
+</ul></div>

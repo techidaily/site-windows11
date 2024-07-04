@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Non-Existent 'PrintManagement' In Settings
-date: 2024-06-25T12:37:48.761Z
-updated: 2024-06-26T12:37:48.761Z
+date: 2024-07-03T11:10:02.600Z
+updated: 2024-07-04T11:10:02.600Z
 tags:
   - windows10
   - windows11
@@ -55,7 +55,7 @@ Here are some potential solutions to help you resolve the issue.
 ![Stop Print Spooler application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Stop-Print-Spooler-application.jpg)
 
 1. When you are done making changes, click**OK** to save them.
-2. Now press**Win + I** on your keyboard to[open the Run Command dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
+2. Now press**Win + I** on your keyboard to [open the Run Command dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) .
 3. Type**%WINDIR%\\system32\\spool\\printers** in the dialog box and press Enter.  
 ![Open Print Spooler files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Print-Spooler-files.jpg)
 4. If this is your first time opening this folder, you may be prompted that you don't have permission to access it. Click**Continue** to grant permanent access to this folder.
@@ -84,7 +84,7 @@ It may take some time for the scan to complete, so please be patient.
 
  After the SFC scan is complete, run Deployment Image Servicing and Management to repair corrupted system images and restore system files. The steps are as follows:
 
-* Run Command Prompt as an administrator. If you need help with this, see[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
+* Run Command Prompt as an administrator. If you need help with this, see [how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
 * Type the following command into the command prompt and press Enter:  
 `DISM /Online /Cleanup-Image /ScanHealth  
 Dism.exe /online /cleanup-image /restorehealth`

@@ -1,7 +1,7 @@
 ---
 title: Initiating Printer Commands via Edge Defender SmartScreen
-date: 2024-06-25T12:28:38.212Z
-updated: 2024-06-26T12:28:38.212Z
+date: 2024-07-03T11:10:03.227Z
+updated: 2024-07-04T11:10:03.227Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
 
  To enable printing in Application Guard for Edge, follow the steps below:
 
-1. Press**Win + I** on your keyboard to open the Settings menu. For more information, see[how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
+1. Press**Win + I** on your keyboard to open the Settings menu. For more information, see [how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
 2. From the left pane, click**Privacy & security** .
 3. Then select**Windows Security** on the right.
 4. On the next page, select**App & browser control** .  
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
 
  If you prefer using the Registry Editor to enable printing in Application Guard for Edge, follow the steps below:
 
-1. Open the Registry Editor (see[how to open the Registry Editor](https://www.makeuseof.com/windows-11-open-registry-editor/) for more instructions).
+1. Open the Registry Editor (see [how to open the Registry Editor](https://www.makeuseof.com/windows-11-open-registry-editor/) for more instructions).
 2. When UAC appears on the screen, click**Yes** to continue.
 3. In the Registry Editor window, go to the following path:  
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Hvsi`

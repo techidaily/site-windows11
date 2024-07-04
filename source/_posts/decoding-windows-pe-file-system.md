@@ -1,7 +1,7 @@
 ---
 title: Decoding Windows' PE File System
-date: 2024-06-25T12:05:34.855Z
-updated: 2024-06-26T12:05:34.855Z
+date: 2024-07-03T11:10:03.537Z
+updated: 2024-07-04T11:10:03.537Z
 tags:
   - windows10
   - windows11
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/b2c741db963ad00df201883adf5f82b0b65621c38
 
  COFF or Common Object File Format is a standardized set of conventions for representing binary instructions. COFF helps in maintaining cross-platform compatibility as all COFF file formats follow the same set of rules and conventions for organizing code and data. Although COFF was originally developed for use on \*NIX systems, it is now ubiquitous across all platforms.
 
- The Windows Portable Executable (PE) file format is a modification of COFF and has been developed to be exclusively used on[32-bit and 64-bit Windows systems](http://www.makeuseof.com/tag/difference-32-bit-64-bit-windows/) . Unlike COFF, which provides a standardized format for object files, Windows PE provides a standardized format for executables and library files.
+ The Windows Portable Executable (PE) file format is a modification of COFF and has been developed to be exclusively used on [32-bit and 64-bit Windows systems](http://www.makeuseof.com/tag/difference-32-bit-64-bit-windows/) . Unlike COFF, which provides a standardized format for object files, Windows PE provides a standardized format for executables and library files.
 
  It contains sections and headers which provide information about the executable in question and helps the system loader manage data related to the executable. The headers in a PE file help the system loader map the file onto the memory, resolve dependencies such as API exports/imports, manage resources and prepare the file for execution.
 
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/b2c741db963ad00df201883adf5f82b0b65621c38
 
 ### PE Header
 
- The Portable Executable header gives information about the executable, like how big the file is, where the different parts are located, and what resources the executable needs. The PE header also has information about the type of executable, whether it’s a[Windows .DLL file](https://www.makeuseof.com/what-are-dll-files-on-windows/) or an .EXE.
+ The Portable Executable header gives information about the executable, like how big the file is, where the different parts are located, and what resources the executable needs. The PE header also has information about the type of executable, whether it’s a [Windows .DLL file](https://www.makeuseof.com/what-are-dll-files-on-windows/) or an .EXE.
 
 ### Section Headers
 

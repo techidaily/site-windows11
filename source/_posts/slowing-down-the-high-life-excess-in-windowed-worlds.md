@@ -1,7 +1,7 @@
 ---
 title: Slowing Down the High Life Excess in Windowed Worlds
-date: 2024-06-25T12:38:01.548Z
-updated: 2024-06-26T12:38:01.548Z
+date: 2024-07-03T11:10:01.023Z
+updated: 2024-07-04T11:10:01.023Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
 
 ![screenshot of high on life files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_high_on_life_files.jpg)
 
- High on Life runs on Unreal Engine 5\. While[Unreal Engine 5 will change the future of gaming](https://www.makeuseof.com/unreal-engine-5-change-gaming-reasons-why/) , it's also being prone to crashing on certain hardware or software configurations.
+ High on Life runs on Unreal Engine 5\. While [Unreal Engine 5 will change the future of gaming](https://www.makeuseof.com/unreal-engine-5-change-gaming-reasons-why/) , it's also being prone to crashing on certain hardware or software configurations.
 
  Thankfully, it's mostly understood why these crashes are occurring and how we can possibly fix them.
 
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
 
  It doesn't matter if it's a large or small amount on that single stick, it seems High on Life is a little more prone to crashing on one stick rather than multiple.
 
- It's unknown what causes this error, or if it will be patched. Check our guide on[how to check your installed RAM](https://www.makeuseof.com/windows-check-installed-ram-available-ram-slots/) if you're unsure.
+ It's unknown what causes this error, or if it will be patched. Check our guide on [how to check your installed RAM](https://www.makeuseof.com/windows-check-installed-ram-available-ram-slots/) if you're unsure.
 
 ## 2\. Verify High on Life's Local Game Files
 
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9b
 
  High on Life received a day-one patch on consoles, though that same patch was delayed on PC. This means some users played the game without the day one patch, and only started to crash after it was applied.
 
- While there is a chance of additional patches further fixing crashing issues, you could downgrade the game to the original release version and see if playing without the patch helps. To do that, you'll need to[learn how to downgrade a Steam game](https://www.makeuseof.com/how-to-downgrade-steam-games/) .
+ While there is a chance of additional patches further fixing crashing issues, you could downgrade the game to the original release version and see if playing without the patch helps. To do that, you'll need to [learn how to downgrade a Steam game](https://www.makeuseof.com/how-to-downgrade-steam-games/) .
 
 ## Getting High on Life Running Again
 

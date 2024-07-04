@@ -1,7 +1,7 @@
 ---
 title: "Hidden Panels Revealed: Recovering Offscreen Windows in Edges OS"
-date: 2024-06-25T12:03:00.366Z
-updated: 2024-06-26T12:03:00.366Z
+date: 2024-07-03T11:10:01.490Z
+updated: 2024-07-04T11:10:01.490Z
 tags:
   - windows10
   - windows11
@@ -81,11 +81,11 @@ Follow these steps to proceed:
 
  This is not one of the most common reasons behind the problem but in some cases, you might face the issue because of outdated graphics drivers in the system.
 
- If you haven't done a graphics driver update in a while, now would be a great time to perform one. If you're not sure how to do that, check out[how to update your graphics card drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) .
+ If you haven't done a graphics driver update in a while, now would be a great time to perform one. If you're not sure how to do that, check out [how to update your graphics card drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) .
 
 ## 6\. Check Your Multiple Monitors Setting
 
- There is a[right way to set multiple monitors](https://www.makeuseof.com/tag/multiple-displays-windows-10-guide/) . You must ensure that the display settings are properly configured in the Settings app and that the window isn't mistakenly being dragged to the secondary monitor.
+ There is a [right way to set multiple monitors](https://www.makeuseof.com/tag/multiple-displays-windows-10-guide/) . You must ensure that the display settings are properly configured in the Settings app and that the window isn't mistakenly being dragged to the secondary monitor.
 
  If you want to disconnect the second monitor, do so by first disabling the**Extend these displays** feature to prevent the issue at hand from occurring.
 

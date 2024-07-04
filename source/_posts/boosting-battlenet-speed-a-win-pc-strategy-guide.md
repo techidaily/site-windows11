@@ -1,7 +1,7 @@
 ---
 title: "Boosting Battle.net Speed: A Win-PC Strategy Guide"
-date: 2024-06-25T12:12:42.302Z
-updated: 2024-06-26T12:12:42.302Z
+date: 2024-07-03T11:10:03.212Z
+updated: 2024-07-04T11:10:03.212Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 
  You can identify and manage network-consuming applications with the help of the Task Manager. Here's what you need to do:
 
-1. Open the Task Manager (see[how to open the Task Manager in Windows](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) ) and select the**Processes** tab in the left panel.
+1. Open the Task Manager (see [how to open the Task Manager in Windows](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) ) and select the**Processes** tab in the left panel.
 2. Look in the**Network** column, right-click on all the non-essential applications and choose**End task.**
 
- Furthermore, make sure that the Efficiency mode isn't configured for Battle.net. The efficiency mode decreases the priority of an application. To get more information about efficiency mode and the steps to disable it, check out our[guide on efficiency mode](https://www.makeuseof.com/windows-11-task-manager-efficiency-mode/#how-to-enable-or-disable-efficiency-mode) .
+ Furthermore, make sure that the Efficiency mode isn't configured for Battle.net. The efficiency mode decreases the priority of an application. To get more information about efficiency mode and the steps to disable it, check out our [guide on efficiency mode](https://www.makeuseof.com/windows-11-task-manager-efficiency-mode/#how-to-enable-or-disable-efficiency-mode) .
 
 ## 2\. Turn Off Windows' Metered Connection
 
@@ -60,13 +60,13 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 
 ## 3\. Troubleshoot Your Connection
 
- A weak internet connection might be affecting Battle.net's download speed. You can confirm this by testing your connection speed by visiting any of the[best speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
+ A weak internet connection might be affecting Battle.net's download speed. You can confirm this by testing your connection speed by visiting any of the [best speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) .
 
- If you're getting a comparatively lower download speed, check out our guide on[how to improve your internet connection](https://www.makeuseof.com/how-to-improve-internet-speed/) . If this helps improve your internet connection, try downloading games on Battle.net. But if there's no improvement in your connection, contact your internet service provider (ISP).
+ If you're getting a comparatively lower download speed, check out our guide on [how to improve your internet connection](https://www.makeuseof.com/how-to-improve-internet-speed/) . If this helps improve your internet connection, try downloading games on Battle.net. But if there's no improvement in your connection, contact your internet service provider (ISP).
 
 ## 4\. Disable Any Proxy Server Connection
 
- A[proxy server](https://www.makeuseof.com/tag/what-is-a-proxy-server/) ensures that you're safe and protected online. But on the negative side, it can make the connection unstable and slow down the download speed.
+ A [proxy server](https://www.makeuseof.com/tag/what-is-a-proxy-server/) ensures that you're safe and protected online. But on the negative side, it can make the connection unstable and slow down the download speed.
 
  You can try disabling any active proxy and check if it improves the download speed. Here's how:
 

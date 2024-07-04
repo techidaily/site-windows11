@@ -1,7 +1,7 @@
 ---
 title: "Effortless Email Management: Gmail in Outlook, Windows Edition"
-date: 2024-06-25T12:32:08.668Z
-updated: 2024-06-26T12:32:08.668Z
+date: 2024-07-03T11:10:01.994Z
+updated: 2024-07-04T11:10:01.994Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/abdb55c9eafa10fcd1e5b6b8bcacd5ae781a152c8
 
  If you have a valid personal or family Microsoft 365 subscription, you can register for the Insider program for no additional cost. Once you’ve signed up, choose between the**Beta Channel** or**Current Channel (Preview)** .
 
- The Outlook for Windows Preview app gives you access to the modern Outlook email client with newer features and a fresh user interface. To start with the Outlook for Windows Preview app, check out the[official Microsoft 365 Insider site](https://insider.microsoft365.com/en-us/join/windows) .
+ The Outlook for Windows Preview app gives you access to the modern Outlook email client with newer features and a fresh user interface. To start with the Outlook for Windows Preview app, check out the [official Microsoft 365 Insider site](https://insider.microsoft365.com/en-us/join/windows) .
 
  Once you’ve set up Microsoft 365 on your Windows PC, you can enable Outlook for Windows preview by sliding the**Try the new Outlook** toggle button in the top-right corner of your Microsoft Outlook client.
 

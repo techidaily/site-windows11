@@ -1,7 +1,7 @@
 ---
 title: Adjusting OneDrive's Abode in the Windows 11 Ecosystem
-date: 2024-06-25T12:37:27.115Z
-updated: 2024-06-26T12:37:27.115Z
+date: 2024-07-03T11:10:02.155Z
+updated: 2024-07-04T11:10:02.155Z
 tags:
   - windows10
   - windows11
@@ -22,11 +22,11 @@ thumbnail: https://thmb.techidaily.com/7bdbd3764d17d309bfae3520695cdadc9f0f0ab5e
 
  When you change where your OneDrive folder is located, you’ll also have to set it to sync with your files on the cloud. You’ll have to unlink your OneDrive folder on your PC first, then move the folder to a new location, and finally re-link your PC to your Microsoft account. These steps will help you set that up.
 
- If you’re new to the concept, check out our articles on[what OneDrive is](https://www.makeuseof.com/what-is-onedrive/) and[why you should use it](https://www.makeuseof.com/microsoft-onedrive-personal-benefits/) .
+ If you’re new to the concept, check out our articles on [what OneDrive is](https://www.makeuseof.com/what-is-onedrive/) and [why you should use it](https://www.makeuseof.com/microsoft-onedrive-personal-benefits/) .
 
 ### 1\. Unlinking OneDrive
 
- The first thing to do is to[unlink your OneDrive folder from your Microsoft account](https://www.makeuseof.com/unlink-onedrive-microsoft-account-windows/) so that files on the cloud no longer sync to their current location.
+ The first thing to do is to [unlink your OneDrive folder from your Microsoft account](https://www.makeuseof.com/unlink-onedrive-microsoft-account-windows/) so that files on the cloud no longer sync to their current location.
 
  Your OneDrive files on your PC will no longer synchronize to the cloud. Don’t worry; a little later you’ll be re-linking your OneDrive folder to your Microsoft account.
 
@@ -52,7 +52,7 @@ With that done, you can now relocate your OneDrive folder.
 
  Now all that’s left is to re-link your Microsoft account with OneDrive on your PC, this time pointing to the new location. Follow the steps below to do that.
 
-1. Return to the**Set up OneDrive** window you left open earlier. (If you didn’t leave it open, or it got shut, you can pull it up again by opening the OneDrive application.) This is how you’ll[re-link your OneDrive account to your PC](https://www.makeuseof.com/link-onedrive-microsoft-account-windows-10/) .
+1. Return to the**Set up OneDrive** window you left open earlier. (If you didn’t leave it open, or it got shut, you can pull it up again by opening the OneDrive application.) This is how you’ll [re-link your OneDrive account to your PC](https://www.makeuseof.com/link-onedrive-microsoft-account-windows-10/) .
 2. Once you’re signed in, you are presented with a screen that shows where Windows will set up your OneDrive folder. (By default, the system selects your user folder.)
 3. Click on the**Change location** link.  
 ![Change where OneDrive syncs your files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/04-change-onedrive-location.jpg)
@@ -64,7 +64,7 @@ With that done, you can now relocate your OneDrive folder.
 
  Your OneDrive folder has been moved, and any files you add, or existing ones you modify, will be synced to the cloud from this new OneDrive location on your PC.
 
- Additionally, there are many[ways to control how OneDrive syncs files on your PC](https://www.makeuseof.com/ways-to-control-onedrive-sync-pc/) , from pausing automatic sync on metered networks to stopping specific folders from syncing.
+ Additionally, there are many [ways to control how OneDrive syncs files on your PC](https://www.makeuseof.com/ways-to-control-onedrive-sync-pc/) , from pausing automatic sync on metered networks to stopping specific folders from syncing.
 
 ## Free Up PC Storage by Moving Your OneDrive Folder
 

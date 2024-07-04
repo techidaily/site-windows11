@@ -1,7 +1,7 @@
 ---
 title: "Boosting Download Velocity in Steam: Fending Off Drops"
-date: 2024-06-25T12:27:23.660Z
-updated: 2024-06-26T12:27:23.660Z
+date: 2024-07-03T11:10:02.417Z
+updated: 2024-07-04T11:10:02.417Z
 tags:
   - windows10
   - windows11
@@ -30,15 +30,15 @@ thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281
 
 ![internet speed test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/internet-speed-test.jpg)
 
- If the internet connection speed remains somewhat similar during all tests, the connection is stable. In contrast, if you get a high rate in some tests but super slow in others, your connection isn't stable. So, either[fix your internet stability issues](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/) or switch to a wired LAN connection to restore Steam's download speed.
+ If the internet connection speed remains somewhat similar during all tests, the connection is stable. In contrast, if you get a high rate in some tests but super slow in others, your connection isn't stable. So, either [fix your internet stability issues](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/) or switch to a wired LAN connection to restore Steam's download speed.
 
 ## 2\. Perform a Few Preliminary Checks
 
  After you have verified that your internet is connected and stable, run the following preliminary checks:
 
 * If you just started the downloading process and it has stalled at 0 KB/s, terminate it and restart it again.
-* Flush the DNS cache. (See[how to flush the DNS cache on Windows](https://www.makeuseof.com/flush-dns-cache-windows/) ).
-* Change the DNS server. (See how to[change the DNS server on Windows](https://www.makeuseof.com/tag/change-dns-increase-internet-speed/) ).
+* Flush the DNS cache. (See [how to flush the DNS cache on Windows](https://www.makeuseof.com/flush-dns-cache-windows/) ).
+* Change the DNS server. (See how to [change the DNS server on Windows](https://www.makeuseof.com/tag/change-dns-increase-internet-speed/) ).
 * Ensure the drive you're downloading the game has enough storage space.
 
  If none of the above checks work and the issue persists, go to the next step.
@@ -96,7 +96,7 @@ If neither of these tweaks works, move on to the next step.
 
  While it may sound strange, some users who successfully resolved the issue under discussion did so by disabling DiagTrack, a diagnostics tracking service. This service is called Connected User Experiences and Telemetry Service and collects and shares diagnostics data with Microsoft. To turn it off, follow these steps:
 
-1. Open Task Manager. (See the[different ways to open Task Manager in Windows 10](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) and[11](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) )
+1. Open Task Manager. (See the [different ways to open Task Manager in Windows 10](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) and [11](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) )
 2. Go to the**Services** tab.
 3. Locate the**DiagTrack** service.
 4. Right-click on the service and select**Stop** .  
@@ -108,7 +108,7 @@ If neither of these tweaks works, move on to the next step.
 
  Hopefully, one of the above fixes will resolve the issue and allow you to download the games without any problem. If none of these steps work, change the Steam Download Region, repair Steam Library Folders, whitelist Steam through the firewall, and ensure the Steam servers are up and running.
 
- To see how to perform these tweaks, refer to our guide on[how to fix Steam if it stops downloading](https://www.makeuseof.com/how-to-fix-steam-games-not-downloading/) , which explains all the steps in detail.
+ To see how to perform these tweaks, refer to our guide on [how to fix Steam if it stops downloading](https://www.makeuseof.com/how-to-fix-steam-games-not-downloading/) , which explains all the steps in detail.
 
 ## Seamlessly Download Steam Games
 

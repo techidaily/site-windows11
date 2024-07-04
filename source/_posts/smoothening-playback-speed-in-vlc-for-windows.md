@@ -1,7 +1,7 @@
 ---
 title: Smoothening Playback Speed in VLC for Windows
-date: 2024-06-25T12:29:51.627Z
-updated: 2024-06-26T12:29:51.627Z
+date: 2024-07-03T11:10:04.056Z
+updated: 2024-07-04T11:10:04.056Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/3d0b2d16ee1d6e6a1474c3b5739a00253bf279f42
 
  Although VLC media player supports nearly every popular video format available, it does not support them all. If the video you're attempting to play is in an unsupported format, you may experience lag.
 
- You can[visit VLC's official webpage](https://www.videolan.org/vlc/features.html) to check all the file formats it supports. If your video is in an unsupported format, you’ll have to convert it first. If you need help with that, check our guide on[how to convert videos for free](https://www.makeuseof.com/how-to-convert-video-files-free-winx-video-converter/) .
+ You can [visit VLC's official webpage](https://www.videolan.org/vlc/features.html) to check all the file formats it supports. If your video is in an unsupported format, you’ll have to convert it first. If you need help with that, check our guide on [how to convert videos for free](https://www.makeuseof.com/how-to-convert-video-files-free-winx-video-converter/) .
 
 ## 2\. Disable Hardware Acceleration
 
@@ -46,13 +46,13 @@ Restart the VLC app after this and see if the video plays smoothly.
  Enabling a strict power profile on your Windows computer can cause apps to run slowly. As a result, videos in the VLC media player may lag or stutter. To avoid such performance issues, you can change your computer’s power plan to High Performance mode and see if that helps. Here are the steps for the same.
 
 1. Press**Win + R** to open the Run dialog box.
-2. Type**control** in the Open field and press**Enter** . This will[open the Control Panel window](https://www.makeuseof.com/windows-open-control-panel/) .
+2. Type**control** in the Open field and press**Enter** . This will [open the Control Panel window](https://www.makeuseof.com/windows-open-control-panel/) .
 3. Click the drop-down menu in the top right corner to change the view type to**Small icons** or**Large icons** .
 4. Click on**Power Options** to open that applet.
 5. Select**High performance** .  
 ![High Performance Power Plan in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/high-performance-power-plan-in-windows.jpg)
 
- Can’t find the High Performance power plan in Power Options? Check our guide on[how to restore a missing High Performance power plan in Windows](https://www.makeuseof.com/tag/missing-high-performance-power-plan/) and follow the steps outlined there.
+ Can’t find the High Performance power plan in Power Options? Check our guide on [how to restore a missing High Performance power plan in Windows](https://www.makeuseof.com/tag/missing-high-performance-power-plan/) and follow the steps outlined there.
 
 ## 4\. Disable In-Loop Deblocking Filter
 
@@ -106,7 +106,7 @@ To check for pending updates in the VLC media player:
 
  If updating the VLC media player doesn't help, it's possible that some of its core app files are corrupt. In that case, you can consider uninstalling and reinstalling the VLC media player as a last resort. For that, use the following steps:
 
-1. Open the**Start menu** and click the**gear-shaped icon** to[launch the Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
+1. Open the**Start menu** and click the**gear-shaped icon** to [launch the Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
 2. Navigate to the**Apps** tab using the left sidebar.
 3. Click on**Installed apps** .
 4. Scroll through the list or use the search bar at the top to quickly locate**VLC media player** on the list. Click the**three-dot menu icon** next to it and select**Uninstall** .

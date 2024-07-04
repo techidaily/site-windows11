@@ -1,7 +1,7 @@
 ---
 title: Upgrade Your Win11's Connectivity with These High-Priority Solutions
-date: 2024-06-25T12:36:26.616Z
-updated: 2024-06-26T12:36:26.616Z
+date: 2024-07-03T11:10:04.304Z
+updated: 2024-07-04T11:10:04.304Z
 tags:
   - windows10
   - windows11
@@ -41,17 +41,17 @@ thumbnail: https://thmb.techidaily.com/8774783d28d2d78a2030ac7e0dc1d6230634beecd
 
 ![Turn off metered connection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/metered-connection-1.jpg)
 
- If you’ve gone over the limit, you might have to upgrade to a better ISP plan or[control how much data you use in Windows](https://www.makeuseof.com/how-to-control-how-much-data-you-are-using-in-windows-10/) . But if you’re nowhere near close to the cap, it means the problem is limited to your computer.
+ If you’ve gone over the limit, you might have to upgrade to a better ISP plan or [control how much data you use in Windows](https://www.makeuseof.com/how-to-control-how-much-data-you-are-using-in-windows-10/) . But if you’re nowhere near close to the cap, it means the problem is limited to your computer.
 
 ## 3\. Reconnect to the Network
 
  Sometimes, reconnecting your computer is enough to fix the limited access issue. Open the Action Center and disconnect from the Wi-Fi network. Wait a few moments and reconnect to the network.
 
- Similarly, you could[enable and disable Airplane mode on Windows 11](https://www.makeuseof.com/how-to-turn-airplane-mode-on-or-off-windows-11/) as it disables all wireless functions on your computer.
+ Similarly, you could [enable and disable Airplane mode on Windows 11](https://www.makeuseof.com/how-to-turn-airplane-mode-on-or-off-windows-11/) as it disables all wireless functions on your computer.
 
 ## 4\. Restart Your Router
 
- If every device connected to the same network has limited access, you should restart the router. However, simply turning it off and on might not be enough. To get the best results you should[use the correct way to restart a router](https://www.makeuseof.com/reboot-router-correct-way/) .
+ If every device connected to the same network has limited access, you should restart the router. However, simply turning it off and on might not be enough. To get the best results you should [use the correct way to restart a router](https://www.makeuseof.com/reboot-router-correct-way/) .
 
 ## 5\. Run the Network Troubleshooter
 
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/8774783d28d2d78a2030ac7e0dc1d6230634beecd
 
  Additionally, you should update the wireless driver, in case you’re running an outdated or corrupted version. Go through the above steps again, right-click the adapter, and select**Update driver** . In the next window, select**Install drivers automatically** , so Windows will search for and install the latest version available.
 
- If you can’t find your network adapter driver, open the**View** menu and click**Show hidden devices** . If the adapter doesn’t show up, you might be[dealing with a missing network adapter in Windows](https://www.makeuseof.com/windows-10-network-adapter-missing/) .
+ If you can’t find your network adapter driver, open the**View** menu and click**Show hidden devices** . If the adapter doesn’t show up, you might be [dealing with a missing network adapter in Windows](https://www.makeuseof.com/windows-10-network-adapter-missing/) .
 
 ## 7\. Check the Adapter Properties
 

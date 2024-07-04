@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Personalize with Direct Drawing"
-date: 2024-06-25T12:07:12.405Z
-updated: 2024-06-26T12:07:12.405Z
+date: 2024-07-03T11:10:03.819Z
+updated: 2024-07-04T11:10:03.819Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/e8d9fb9f5398f4a792320d2b13c1a57276ee28fb8
 
  Epic Pen is freemium software with limited functionality. The free version enables you to scribble on the screen in Windows 11/10, 8, and 7 with its pen and highlighter. However, tools for adding shapes, straight lines, and text are only available in Epic Pen Pro. You can download and install the basic Epic Pen software like this:
 
-1. Open the[Epic Pen](https://epicpen.com/) website.
+1. Open the [Epic Pen](https://epicpen.com/) website.
 2. Click the**Download For Free** button to scroll down the homepage.
 3. Select the**Download Epic Pen** option for the free version.
 4. Find and double-click the**Epic Pen Setup v3.11.44.exe** file in whatever folder your browser usually downloads to.
@@ -51,7 +51,7 @@ Now you can get scribbling on the Windows desktop.
 
  To eradicate pen strokes and highlights, click the**eraser** button. Then you can click on pen strokes and highlights to erase them. You can also clear all drawings from the screen by selecting the**clear screen** option.
 
- Epic Pen’s camera option enables you to save your drawings and annotations by[taking screenshots within Windows](https://www.makeuseof.com/take-screenshot-windows-11/) . Click the**take screenshot** button to activate the screen-capture utility. Then drag the rectangle over the area of the desktop to capture, and click either the**save** or**copy to clipboard** option.
+ Epic Pen’s camera option enables you to save your drawings and annotations by [taking screenshots within Windows](https://www.makeuseof.com/take-screenshot-windows-11/) . Click the**take screenshot** button to activate the screen-capture utility. Then drag the rectangle over the area of the desktop to capture, and click either the**save** or**copy to clipboard** option.
 
  Epic Pen has an arrow and shapes you can activate on a limited-time trial basis. Click the**line** option to select arrow, rectangle, or ellipse. Then select the**Start free trial** button.
 
@@ -65,9 +65,9 @@ Now you can get scribbling on the Windows desktop.
 
  The gInk app is an open-source alternative to Epic Pen you can utilize for on-screen annotations in Windows 11/10 much the same. This is also a portable app for which no installation is needed. However, you’ll still need to download and extract the gInk archive like this:
 
-1. Open the[gInk page](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Others/gInk.shtml) on Softpedia.
+1. Open the [gInk page](https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Others/gInk.shtml) on Softpedia.
 2. Press the**Download** button to bring up a couple of location options. Pick the one closest to your location and download the file.
-3. Next, you’ll need to extract gInk’s ZIP file. Follow the guidelines in our article about[how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the ZIP archive.  
+3. Next, you’ll need to extract gInk’s ZIP file. Follow the guidelines in our article about [how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) to extract the ZIP archive.  
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-window3.jpg)
 4. Double-click**gInk.exe** inside the extracted gInk folder to launch the desktop drawing tool.
 

@@ -1,7 +1,7 @@
 ---
 title: Change to Dark Theme in the Windows Calculator
-date: 2024-06-25T11:55:35.845Z
-updated: 2024-06-26T11:55:35.845Z
+date: 2024-07-03T11:10:00.942Z
+updated: 2024-07-04T11:10:00.942Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 
  The Calculator App Settings provide an easy way to enable Dark Mode in the Windows Calculator App. This method is suitable for those who enjoy switching between light and dark modes without having to modify the Personalization Settings. To do it, follow these instructions.
 
- Open the Calculator app and click on the Navigation icon located in the top-left corner of the application. If you need help, see our guide on[how to open the built-in Calculator app on Windows 11](https://www.makeuseof.com/windows-11-open-calculator/) .
+ Open the Calculator app and click on the Navigation icon located in the top-left corner of the application. If you need help, see our guide on [how to open the built-in Calculator app on Windows 11](https://www.makeuseof.com/windows-11-open-calculator/) .
 
  On the bottom of the navigation panel, select the**Settings** option.
 

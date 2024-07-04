@@ -1,7 +1,7 @@
 ---
 title: An Intuitive Guide to Performing a Windows Rollback via System Restore
-date: 2024-06-25T12:30:07.759Z
-updated: 2024-06-26T12:30:07.759Z
+date: 2024-07-03T11:10:01.913Z
+updated: 2024-07-04T11:10:01.913Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 
  System restore is disabled by default on newer Windows computers. So, you'll need to configure and enable system restore before you can use restore points.
 
- You can[configure and create restore points on Windows](https://www.makeuseof.com/windows-11-create-restore-point/) from system protection. If you have multiple storage drives and want to create restore points for them, you'll need to enable system protection for the storage drives separately.
+ You can [configure and create restore points on Windows](https://www.makeuseof.com/windows-11-create-restore-point/) from system protection. If you have multiple storage drives and want to create restore points for them, you'll need to enable system protection for the storage drives separately.
 
  Another important aspect of restore points is storage space allocation. Windows, by default, allocates 20% of storage drive space to save restore points. However, you can increase or decrease the space allocation depending on how many restore points you want to save at a time.
 
@@ -53,11 +53,11 @@ To perform a system restore on Windows:
 
 ## Some Handy Tips for System Restore
 
- If System Restore fails, you can retry with the same or a different restore point. If the issue persists, run it from safe mode and check for[other issues preventing system restore from working on Windows](https://www.makeuseof.com/tag/3-check-system-restore-working/) .
+ If System Restore fails, you can retry with the same or a different restore point. If the issue persists, run it from safe mode and check for [other issues preventing system restore from working on Windows](https://www.makeuseof.com/tag/3-check-system-restore-working/) .
 
  Note that Windows automatically deletes older restore points to make space for new restore points. So, the number of restore points depends on the maximum space allocated for system protection.
 
- Alternatively, you can also manually[delete restore points on Windows](https://www.makeuseof.com/ways-delete-system-restore-points-in-windows/) to recover some storage space on your computer. If you don't want to create restore points anymore, you can disable system restore in system protection settings. However, doing so will also wipe out all of your existing restore points.
+ Alternatively, you can also manually [delete restore points on Windows](https://www.makeuseof.com/ways-delete-system-restore-points-in-windows/) to recover some storage space on your computer. If you don't want to create restore points anymore, you can disable system restore in system protection settings. However, doing so will also wipe out all of your existing restore points.
 
 ## Use Restore Points to Undo Critical System Changes on Windows
 

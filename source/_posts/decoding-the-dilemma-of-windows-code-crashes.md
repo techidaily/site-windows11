@@ -1,7 +1,7 @@
 ---
 title: Decoding the Dilemma of Windows Code Crashes
-date: 2024-06-25T12:27:31.118Z
-updated: 2024-06-26T12:27:31.118Z
+date: 2024-07-03T11:10:01.284Z
+updated: 2024-07-04T11:10:01.284Z
 tags:
   - windows10
   - windows11
@@ -44,9 +44,9 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 
 ## 2\. Delete Browser Cache
 
- You can delete your browser cache to fix the script error. Useful if the error continues to occur after disabling script debugging. You can[clear browser cache and temporary files on Windows](https://www.makeuseof.com/windows-11-clear-caches/) using the built-in disk cleanup and storage sense feature.
+ You can delete your browser cache to fix the script error. Useful if the error continues to occur after disabling script debugging. You can [clear browser cache and temporary files on Windows](https://www.makeuseof.com/windows-11-clear-caches/) using the built-in disk cleanup and storage sense feature.
 
- In case the error occurs when using an app, try to[perform an app reset on Windows.](https://www.makeuseof.com/windows-reset-app/) This is a last-ditch effort before you can think of removing and reinstalling the app.
+ In case the error occurs when using an app, try to [perform an app reset on Windows.](https://www.makeuseof.com/windows-reset-app/) This is a last-ditch effort before you can think of removing and reinstalling the app.
 
 ## 3\. Update the Problematic App
 
@@ -86,7 +86,7 @@ To remove the Chrome extension:
 
  Close McAfee and relaunch the browser. Try to browse the web app or page and check if the error is resolved. The antivirus should resume real-time scanning once the time lapses.
 
- Note that, in some instances, you may need to uninstall the third-party antivirus program to resolve the error. If the error returns after McAfee real-time scanning resumes, consider switching to an alternative[antivirus app on Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) .
+ Note that, in some instances, you may need to uninstall the third-party antivirus program to resolve the error. If the error returns after McAfee real-time scanning resumes, consider switching to an alternative [antivirus app on Windows](https://www.makeuseof.com/windows-11-antivirus-apps/) .
 
 ## Fixing the Script Error on Windows
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming No Audio Capture in OBS on Windows 11 PCs
-date: 2024-06-25T12:31:28.510Z
-updated: 2024-06-26T12:31:28.510Z
+date: 2024-07-03T11:10:03.278Z
+updated: 2024-07-04T11:10:03.278Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
 
 ## 1\. Restart OBS Studio
 
- Before getting into advanced troubleshooting, consider restarting OBS Studio. The best way is to[launch the Task Manager](https://www.makeuseof.com/windows-open-device-manager/) and close all the OBS Studio-related processes.
+ Before getting into advanced troubleshooting, consider restarting OBS Studio. The best way is to [launch the Task Manager](https://www.makeuseof.com/windows-open-device-manager/) and close all the OBS Studio-related processes.
 
  Next, relaunch the OBS Studio and check if it is able to record audio. If not, it's time for some more complicated fixes.
 
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
 
  OBS Studio will fail to record audio if it is muted in the Settings app. Here's how to check and change OBS Studio sound settings in the Settings app.
 
-1. Open the**Settings** app (see how to[launch the Settings app on Windows](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ) and choose**System** from the left sidebar.
+1. Open the**Settings** app (see how to [launch the Settings app on Windows](https://www.makeuseof.com/windows-ways-to-open-system-settings/) ) and choose**System** from the left sidebar.
 2. Select**Sound** from the right pane.
 3. Under the**Advanced section,** choose the**Volume Mixer** option.
 4. Under the**Apps section,** unmute OBS Studio if muted and adjust the slider accordingly.  
@@ -107,7 +107,7 @@ Restart OBS Studio and check if the problem persists.
 
 ## 8\. Download the Latest Audio Driver Updates
 
- A corrupt or outdated audio driver can also be a prime reason why OBS Studio is unable to record audio. To fix this, you will have to[update the audio driver on Windows](https://www.makeuseof.com/how-to-update-audio-drivers-windows-11/) .
+ A corrupt or outdated audio driver can also be a prime reason why OBS Studio is unable to record audio. To fix this, you will have to [update the audio driver on Windows](https://www.makeuseof.com/how-to-update-audio-drivers-windows-11/) .
 
 You can do that by following the below steps:
 

@@ -1,7 +1,7 @@
 ---
 title: Efficiently Manage Windows' Deletion Prompt Actions
-date: 2024-06-25T11:56:33.948Z
-updated: 2024-06-26T11:56:33.948Z
+date: 2024-07-03T11:10:02.431Z
+updated: 2024-07-04T11:10:02.431Z
 tags:
   - windows10
   - windows11
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/e61ec8b8b6fcdc5ae49f80ff7f35fd26c15f5f9f2
 
  If you’re a system administrator, you might prefer using the Group Policy Editor to make system-level changes. In that case, you can use the following steps to enable or disable the delete confirmation dialog on Windows.
 
- Note that Group Policy Editor is a feature reserved for the Professional, Enterprise, and Education editions of Windows. If you're using Windows Home, you'll need to enable the Group Policy Editor first. Check out[how to access the group policy editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) and follow the steps outlined there.
+ Note that Group Policy Editor is a feature reserved for the Professional, Enterprise, and Education editions of Windows. If you're using Windows Home, you'll need to enable the Group Policy Editor first. Check out [how to access the group policy editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) and follow the steps outlined there.
 
 1. Press**Win + R** to open the Run dialog.
-2. Type**gpedit.msc** in the box and press**Enter** . This will[open the Local Group Policy Editor](https://www.makeuseof.com/tag/open-local-group-policy-editor-windows/) .
+2. Type**gpedit.msc** in the box and press**Enter** . This will [open the Local Group Policy Editor](https://www.makeuseof.com/tag/open-local-group-policy-editor-windows/) .
 3. Use the left pane to navigate to **User Configuration > Administrative Templates > Windows Components > File Explorer** .
 4. Double-click the**Display confirmation dialog when deleting files** policy.
 5. Select the**Enabled** radio button.
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/e61ec8b8b6fcdc5ae49f80ff7f35fd26c15f5f9f2
 
 ## 3\. Enable or Disable Delete Confirmation Dialog With Registry Editor
 
- If the above methods do not work for some reason, you can make a few changes in the Registry Editor to enable or disable the delete confirmation prompt on Windows. Since Windows Registry holds critical settings for Windows operating system, make sure you[back up all the registry files](https://www.makeuseof.com/tag/backup-restore-windows-registry/) or[create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before proceeding.
+ If the above methods do not work for some reason, you can make a few changes in the Registry Editor to enable or disable the delete confirmation prompt on Windows. Since Windows Registry holds critical settings for Windows operating system, make sure you [back up all the registry files](https://www.makeuseof.com/tag/backup-restore-windows-registry/) or [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before proceeding.
 
  To enable or disable the delete confirmation dialog using Registry Editor:
 
