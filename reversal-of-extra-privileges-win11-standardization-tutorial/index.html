@@ -33,8 +33,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-the-installation-wizard.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-the-subinacl-tool.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-windows-update-permissions.jpg">
-<meta property="article:published_time" content="2024-06-25T04:15:10.615Z">
-<meta property="article:modified_time" content="2024-06-26T04:15:10.615Z">
+<meta property="article:published_time" content="2024-07-11T13:34:20.897Z">
+<meta property="article:modified_time" content="2024-07-12T13:34:20.897Z">
 <meta property="article:author" content="Joseph">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -598,11 +598,11 @@
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">2</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">3</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">3858</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4376</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -648,22 +648,22 @@
                     <div class="author flex items-center">
                         <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
                         
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv10</span>
+                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv11</span>
                         
                     </div>
                     <div class="meta-info">
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-06-25 12:15:10</span>
-        <span class="mobile">2024-06-25 12:15:10</span>
+        <span class="desktop">2024-07-11 21:34:20</span>
+        <span class="mobile">2024-07-11 21:34:20</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-06-26 12:15:10</span>
-            <span class="mobile">2024-06-26 12:15:10</span>
+            <span class="desktop">2024-07-12 21:34:20</span>
+            <span class="mobile">2024-07-12 21:34:20</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -730,7 +730,7 @@
             <h2 id="Reversal-of-Extra-Privileges-Win11-Standardization-Tutorial"><a href="#Reversal-of-Extra-Privileges-Win11-Standardization-Tutorial" class="headerlink" title="Reversal of Extra Privileges: Win11 Standardization Tutorial"></a>Reversal of Extra Privileges: Win11 Standardization Tutorial</h2><p> Having issues with apps or programs not running properly on your Windows computer? Resetting Windows Update permissions could be the solution you need. Similarly, if you’re troubleshooting user profile problems, you can restore user permissions.</p>
 <p> This article covers three different methods to reset all user permissions – using the Icacls command, the Secedit command, and the Subinacl tool.</p>
 <p>Let’s now explore them in detail.</p>
-<h2 id="1-Run-the-Icacls-Command"><a href="#1-Run-the-Icacls-Command" class="headerlink" title="1. Run the Icacls Command"></a>1. Run the Icacls Command</h2><p> The Icacls command allows you to view, modify, and reset file system permissions on files and folders. To reset Windows Update permissions using this command, you will first have to<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-10-11-own-folder/" >take ownership of the folders on Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> . Then<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-run-command-prompt-admin/" >open an elevated Command Prompt on Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and type in the following command:</p>
+<h2 id="1-Run-the-Icacls-Command"><a href="#1-Run-the-Icacls-Command" class="headerlink" title="1. Run the Icacls Command"></a>1. Run the Icacls Command</h2><p> The Icacls command allows you to view, modify, and reset file system permissions on files and folders. To reset Windows Update permissions using this command, you will first have to <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-10-11-own-folder/" >take ownership of the folders on Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> . Then <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-run-command-prompt-admin/" >open an elevated Command Prompt on Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and type in the following command:</p>
 <p><code>icacls * /t /q /c /reset</code></p>
 <p> Now press Enter on your keyboard to execute the command. This will reset all user permissions to default for every folder, subfolder, and file within the current working directory.</p>
 <p>In the above command, here are the parameters explained:</p>
@@ -803,25 +803,39 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a href="https://windows11.techidaily.com/utilizing-portable-gpus-no-internal-graphic-needed/"><u>Utilizing Portable GPUs: No Internal Graphic Needed</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-overcoming-printer-not-connected-problems/"><u>Win11: Overcoming Printer Not Connected Problems</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-troubleshooting-guide-no-audio-output-error/"><u>Quick Troubleshooting Guide: No Audio Output Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/diagnosing-and-repairing-win-lsa-errors/"><u>Diagnosing and Repairing Win LSA Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-add-an-uninstall-shortcut-to-the-context-menu-in-windows-1110/"><u>How to Add an Uninstall Shortcut to the Context Menu in Windows 11/10</u></a></li>
-<li><a href="https://windows11.techidaily.com/end-of-year-sale-windows-10-starting-at-an-insanely-low-612/"><u>End of Year Sale: Windows 10, Starting at an Insanely Low $6.12</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-icon-organization-made-simple/"><u>Windows Icon Organization Made Simple</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-caption-troubleshooting-made-simple/"><u>Win11 Caption Troubleshooting Made Simple</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedy-the-already-in-use-local-device-name-mistake-on-pcs/"><u>Remedy the 'Already in Use' Local Device Name Mistake on PCs</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-tips.techidaily.com/behind-the-scenes-mastering-cinematic-techniques-in-24-for-2024/"><u>Behind the Scenes  Mastering Cinematic Techniques in '24 for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-web.techidaily.com/24-melodic-minutes-streamlined-strategies-for-viral-music-on-youtub/"><u>In 2024, Melodic Minutes  Streamlined Strategies for Viral Music on YouTub</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Poco M6 5G? | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ai-driven-video-production.techidaily.com/2024-approved-get-your-fcpx-flow-back-a-comprehensive-reset-and-troubleshooting-guide/"><u>2024 Approved Get Your FCPX Flow Back A Comprehensive Reset and Troubleshooting Guide</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-stream.techidaily.com/2024-approved-master-the-map-locating-youtube-studio-content-architects-toolbox/"><u>2024 Approved  Master the Map  Locating YouTube Studio, Content Architect’s Toolbox</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://sound-tweaking.techidaily.com/updated-in-2024-quietude-in-quarter-notes-advanced-methods-for-drum-ditching-in-digital-music/"><u>Updated In 2024, Quietude in Quarter Notes Advanced Methods for Drum Ditching in Digital Music</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://vp-tips.techidaily.com/new-the-top-10-wave-capturing-cams-for-2024/"><u>[New] The Top 10 Wave-Capturing Cams for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://digital-screen-recording.techidaily.com/updated-getting-started-in-google-meet-on-computersphone/"><u>[Updated] Getting Started in Google Meet on Computers/Phone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Vivo Y78t | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tiktok-video-recordings.techidaily.com/in-2024-erase-background-noises-with-ease-using-audacity-tools/"><u>In 2024, Erase Background Noises with Ease Using Audacity Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-resolving-zero-x-error-in-windows-email-app/"><u>Steps for Resolving Zero X Error in Windows Email App</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-ms-sql-disconnects-malwarebytes-errors-in-1011-windows/"><u>Overcoming MS SQL Disconnects: Malwarebytes Errors in 10/11 Windows</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://facebook-video-recording.techidaily.com/new-cutting-edge-tactics-for-grabbing-your-favorite-fb-vids/"><u>[New] Cutting Edge Tactics for Grabbing Your Favorite FB Vids</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-issues-with-windows-underperforming-monitor-app/"><u>Solving Issues with Windows' Underperforming Monitor App</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-power-indicators-set-up-full-charge-notification-in-win11/"><u>Streamlining Power Indicators: Set Up Full Charge Notification in Win11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://ai-driven-video-production.techidaily.com/2024-approved-watermark-videos-without-breaking-the-bank-top-5-free-tools/"><u>2024 Approved Watermark Videos without Breaking the Bank Top 5 Free Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-internal-errors-during-remote-connections-in-windows-11/"><u>Solving Internal Errors During Remote Connections in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-commands-for-keyboard-in-winos/"><u>Tailored Commands for Keyboard in WinOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-activate-and-deactivate-window-icons-successfully/"><u>Steps to Activate and Deactivate Window Icons Successfully</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://audio-shaping.techidaily.com/2024-approved-from-a-chorus-of-chaos-to-calm-clarity-a-guided-pathway-to-muting-unseen-melodies/"><u>2024 Approved From a Chorus of Chaos to Calm Clarity A Guided Pathway to Muting Unseen Melodies</u></a></li>
+<li><a href="https://windows11.techidaily.com/neutralize-required-condition-red-flags-in-win11/"><u>Neutralize Required Condition Red Flags in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-the-sleepy-slumber-of-hibernation-woes/"><u>Stop the Sleepy Slumber of Hibernation Woes</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-non-signed-file-blockade-on-w10w11/"><u>Overcoming Non-Signed File Blockade on W10/W11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-guidance.techidaily.com/updated-mastering-screen-sharing-on-windows-11-via-zoom/"><u>[Updated] Mastering Screen Sharing on Windows 11 via Zoom</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-5-command-prompt-gambits-for-a-laugh/"><u>Top 5 Command Prompt Gambits for a Laugh</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-tips.techidaily.com/pushing-boundaries-nikons-d500-in-4k-landscape/"><u>Pushing Boundaries  Nikon's D500 in 4K Landscape</u></a></li>
+<li><a href="https://windows11.techidaily.com/shine-the-light-how-to-make-your-cursor-more-noticeable-on-win1011/"><u>Shine the Light: How to Make Your Cursor More Noticeable on Win10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-interruptexception-on-windows-11/"><u>Tackling the INTERRUPT_EXCEPTION on Windows 11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-stream.techidaily.com/new-maximize-your-video-sound-best-free-wav-extractors-from-youtube/"><u>[New] Maximize Your Video Sound  Best Free WAV Extractors From YouTube</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-lab.techidaily.com/n-2024-explore-the-top-15-scientific-channels-to-grow-wisdom/"><u>[New] In 2024, Explore the Top 15 Scientific Channels to Grow Wisdom</u></a></li>
+<li><a href="https://windows11.techidaily.com/polishing-old-videos-windows-madvr-techniques-unveiled/"><u>Polishing Old Videos: Windows MadVR Techniques Unveiled</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://visual-screen-recording.techidaily.com/updated-in-2024-unveiling-methods-to-record-and-preserve-internet-broadcasts/"><u>[Updated] In 2024, Unveiling Methods to Record and Preserve Internet Broadcasts</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://remote-screen-capture.techidaily.com/new-advanced-hd-screenshot-and-recording-programs-guide-for-2024/"><u>[New] Advanced HD Screenshot and Recording Programs Guide for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-to-update-windows-spotlight-imagery/"><u>Step-by-Step to Update Windows Spotlight Imagery</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://instagram-video-recordings.techidaily.com/new-2024-approved-from-content-creator-to-brand-ambassador-unlocking-instagram-sponsorship/"><u>[New] 2024 Approved  From Content Creator to Brand Ambassador  Unlocking Instagram Sponsorship</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-standard-account-access-a-windows-guide/"><u>Securing Standard Account Access: A Windows Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfecting-user-interaction-essential-modifications-for-windows-11s-taskbar/"><u>Perfecting User Interaction: Essential Modifications for Windows 11'S Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-unseen-messages-in-windows-discord-software/"><u>Solving Unseen Messages in Windows Discord Software</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-tips.techidaily.com/top-10-critical-cuts-a-guide-for-filmmakers/"><u>Top 10 Critical Cuts  A Guide for Filmmakers</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-hovers.techidaily.com/2024-approved-advanced-psd-color-grading/"><u>2024 Approved  Advanced PSD Color Grading</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Honor X50i+ | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-skills.techidaily.com/progressive-visual-reveal-for-2024/"><u>Progressive Visual Reveal for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-nvidia-driver-recommendations-entertainment-sector/"><u>Tailored Nvidia Driver Recommendations: Entertainment Sector</u></a></li>
 </ul></div>
 
         </div>
@@ -833,11 +847,11 @@
         <li><strong>Title:</strong> Reversal of Extra Privileges: Win11 Standardization Tutorial</li>
         <li><strong>Author:</strong> Joseph</li>
         <li><strong>Created at
-                :</strong> 2024-06-25 12:15:10</li>
+                :</strong> 2024-07-11 21:34:20</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-06-26 12:15:10
+                    :</strong> 2024-07-12 21:34:20
             </li>
         
         <li>

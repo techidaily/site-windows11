@@ -36,8 +36,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/event-viewer-security-logon-event-properties-details-1.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/event-viewer-security-logon-event-failed-attemptjpg.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/view-specific-user-last-login-attempt-command-prompt.jpg">
-<meta property="article:published_time" content="2024-06-25T04:15:40.695Z">
-<meta property="article:modified_time" content="2024-06-26T04:15:40.695Z">
+<meta property="article:published_time" content="2024-07-11T13:34:55.751Z">
+<meta property="article:modified_time" content="2024-07-12T13:34:55.751Z">
 <meta property="article:author" content="Joseph">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -601,11 +601,11 @@
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">2</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">3</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">3858</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4376</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -651,22 +651,22 @@
                     <div class="author flex items-center">
                         <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
                         
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv10</span>
+                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv11</span>
                         
                     </div>
                     <div class="meta-info">
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-06-25 12:15:40</span>
-        <span class="mobile">2024-06-25 12:15:40</span>
+        <span class="desktop">2024-07-11 21:34:55</span>
+        <span class="mobile">2024-07-11 21:34:55</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-06-26 12:15:40</span>
-            <span class="mobile">2024-06-26 12:15:40</span>
+            <span class="desktop">2024-07-12 21:34:55</span>
+            <span class="mobile">2024-07-12 21:34:55</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -733,7 +733,7 @@
             <h2 id="Discerning-Win-Credentials-Success-From-Failure-Scenarios"><a href="#Discerning-Win-Credentials-Success-From-Failure-Scenarios" class="headerlink" title="Discerning Win Credentials Success From Failure Scenarios"></a>Discerning Win Credentials Success From Failure Scenarios</h2><p> Windows lets you create multiple user accounts to let multiple users use a single computer. But what if you suspect someone to have accessed your PC or user account without your knowledge?</p>
 <p> While physically monitoring your computer all the time is not feasible for most people, the built-in Windows log utility, Event Viewer, can reveal the recent activities on your computer, including login attempts. Here we show you how to audit failed and successful login attempts in Windows using Event Viewer and other methods.</p>
 <h2 id="How-to-Enable-Logon-Auditing-via-Group-Policy-Editor"><a href="#How-to-Enable-Logon-Auditing-via-Group-Policy-Editor" class="headerlink" title="How to Enable Logon Auditing via Group Policy Editor"></a>How to Enable Logon Auditing via Group Policy Editor</h2><p> You need to enable logon auditing in Group Policy Editor to be able to view login audit in Event Viewer. While this feature may be enabled by default on some computers, you can also enable logon auditing manually by following these steps.</p>
-<p> Note that Group Policy Editor is only available on the Pro, Edu, and Enterprise edition of the Windows OS. If you are on the Home edition, follow our guide to<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/" >enable gpedit in the Windows home edition <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> .</p>
+<p> Note that Group Policy Editor is only available on the Pro, Edu, and Enterprise edition of the Windows OS. If you are on the Home edition, follow our guide to <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/" >enable gpedit in the Windows home edition <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> .</p>
 <p> Note that if you don’t configure your Group Policy for Logon Auditing, you can only view the successful login attempts in Event Viewer.</p>
 <p> Once you have the Group Policy Editor enabled, follow these steps to enable logon auditing:</p>
 <ol>
@@ -755,7 +755,7 @@
 <li>Click<strong>Apply</strong> and<strong>OK</strong> to save the changes.</li>
 </ol>
 <p> Close Group Policy Editor and move to the next set of steps to view login attempts in Event Viewer.</p>
-<h2 id="How-to-View-Failed-and-Successful-Login-Attempts-in-Event-Viewer"><a href="#How-to-View-Failed-and-Successful-Login-Attempts-in-Event-Viewer" class="headerlink" title="How to View Failed and Successful Login Attempts in Event Viewer"></a>How to View Failed and Successful Login Attempts in Event Viewer</h2><p> The<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-event-viewer-guide/" >Event Viewer <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> lets you view Windows logs for the application, security, system, and other events. While a useful application to troubleshoot system issues, you can use it to audit login events on your Windows PC.</p>
+<h2 id="How-to-View-Failed-and-Successful-Login-Attempts-in-Event-Viewer"><a href="#How-to-View-Failed-and-Successful-Login-Attempts-in-Event-Viewer" class="headerlink" title="How to View Failed and Successful Login Attempts in Event Viewer"></a>How to View Failed and Successful Login Attempts in Event Viewer</h2><p> The <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-event-viewer-guide/" >Event Viewer <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> lets you view Windows logs for the application, security, system, and other events. While a useful application to troubleshoot system issues, you can use it to audit login events on your Windows PC.</p>
 <p> Follow these steps to view failed and successful login attempts in Windows:</p>
 <ol>
 <li>Press the<strong>Win key</strong> and type<strong>event viewer.</strong> Alternatively, click on<strong>Search</strong> in the taskbar and type<strong>event viewer.</strong></li>
@@ -793,7 +793,7 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/event-viewer-security-logon-event-failed-attemptjpg.jpg"
                       alt="event viewer security logon event failed attemptjpg"
                 ></p>
-<p> Similarly, for failed login attempts, review<strong>Event ID 4625</strong> . In the<strong>Properties</strong> dialog, you can find reasons for the failed login attempt and the affected user account. If you find multiple instances of unsuccessful attempts, consider learning<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/how-limit-number-failed-login-attempts-windows-10/" >how to limit the number of failed login attempts to protect your Windows PC <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> .</p>
+<p> Similarly, for failed login attempts, review<strong>Event ID 4625</strong> . In the<strong>Properties</strong> dialog, you can find reasons for the failed login attempt and the affected user account. If you find multiple instances of unsuccessful attempts, consider learning <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/how-limit-number-failed-login-attempts-windows-10/" >how to limit the number of failed login attempts to protect your Windows PC <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> .</p>
 <p> Below is the list of all nine<strong>Logon Types</strong> for logon events that you may encounter reviewing login events in Event Viewer:</p>
 <table>
 <thead>
@@ -869,26 +869,48 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a href="https://windows11.techidaily.com/smart-scheduling-for-improved-resource-allocation-on-android-wsl/"><u>Smart Scheduling for Improved Resource Allocation on Android WSL</u></a></li>
-<li><a href="https://windows11.techidaily.com/redefining-user-experience-the-changing-landsinas-of-w10-and-w11/"><u>Redefining User Experience: The Changing Landsinas of W10 & W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/cease-windows-system-notification-for-upgrades/"><u>Cease Windows System Notification for Upgrades</u></a></li>
-<li><a href="https://windows11.techidaily.com/disabling-windows-watcher-functionality/"><u>Disabling Windows Watcher Functionality</u></a></li>
-<li><a href="https://windows11.techidaily.com/effortless-email-management-gmail-in-outlook-windows-edition/"><u>Effortless Email Management: Gmail in Outlook, Windows Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/slashing-gpu-energy-on-desktop-window-manager/"><u>Slashing GPU Energy on Desktop Window Manager</u></a></li>
-<li><a href="https://windows11.techidaily.com/new-horizons-in-customizing-win11-ui/"><u>New Horizons in Customizing Win11 UI</u></a></li>
-<li><a href="https://windows11.techidaily.com/4-ways-to-find-a-programs-install-location-on-windows/"><u>4 Ways to Find a Program's Install Location on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-failed-jvm-launch-windows-guide/"><u>Remedying Failed JVM Launch: Windows Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-program-use-in-windows-via-right-click-options/"><u>Optimizing Program Use in Windows via Right-Click Options</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://voice-adjusting.techidaily.com/in-2024-beyond-audacity-a-comprehensive-list-of-cross-platform-audio-editors-excelling-in-performance-and-features/"><u>In 2024, Beyond Audacity A Comprehensive List of Cross-Platform Audio Editors Excelling in Performance and Features</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-video-capture.techidaily.com/updated-spotifys-1-artists-of-the-month-for-2024/"><u>[Updated] Spotify’s #1 Artists of the Month for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://video-screen-grab.techidaily.com/2024-approved-ideal-approaches-to-mobile-content-preservation/"><u>2024 Approved  Ideal Approaches to Mobile Content Preservation</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tiktok-videos.techidaily.com/new-hot-beats-exploring-viral-tiktok-rap-hits-today-for-2024/"><u>[New] Hot Beats  Exploring Viral TikTok Rap Hits Today for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://screen-mirroring-recording.techidaily.com/updated-get-it-right-a-beginners-guide-to-iphone-screen-shots/"><u>[Updated] Get It Right  A Beginner's Guide to iPhone Screen Shots</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://snapchat-videos.techidaily.com/updated-snapchat-tricks-crafting-flawless-boomers/"><u>[Updated] Snapchat Tricks  Crafting Flawless Boomers</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-motorola-moto-g24-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Motorola Moto G24 Phone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ai-driven-video-production.techidaily.com/the-best-free-video-trimmers-with-no-watermark-output/"><u>The Best Free Video Trimmers with No Watermark Output</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-help.techidaily.com/new-from-zero-to-hero-in-youtube-traffic/"><u>[New] From Zero to Hero in YouTube Traffic</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-skills.techidaily.com/2024-approved-reviewing-ingenuity-moto-z2s-intelligent-evolution/"><u>2024 Approved  Reviewing Ingenuity  Moto Z2's Intelligent Evolution</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-system-resource-usage-details-to-the-windows-system-tray/"><u>How to Add System Resource Usage Details to the Windows System Tray</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-sony-xperia-10-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-skills.techidaily.com/new-tactics-for-triumphing-in-virtual-marketplaces/"><u>[New] Tactics for Triumphing in Virtual Marketplaces</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://ai-video-editing.techidaily.com/having-difficulty-in-choosing-the-most-affordable-3d-slideshow-software-stay-here-for-the-best-application-choices-of-all-times-to-create-the-most-stunning-/"><u>Having Difficulty in Choosing the Most Affordable 3D Slideshow Software? Stay Here for the Best Application Choices of All Times to Create the Most Stunning Slideshows Ever</u></a></li>
+<li><a href="https://windows11.techidaily.com/revising-account-lockout-count-after-multiple-login-failures-in-windows-11/"><u>Revising Account Lockout Count After Multiple Login Failures in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-iphone-photographic-file-import-failures-on-windows-pcs/"><u>Handling iPhone Photographic File Import Failures on Windows PCs</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://video-capture.techidaily.com/updated-the-essential-guide-for-swift-ipad-screen-captures-for-2024/"><u>[Updated] The Essential Guide for Swift iPad Screen Captures for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/launching-windows-file-explorer-directly-via-onedrive/"><u>Launching Windows File Explorer Directly via OneDrive</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-11-pro-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From iPhone 11 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-lost-thermal-management-directive-for-pcs/"><u>Restoring Lost Thermal Management Directive for PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/pro-tip-unearthing-windows-apps-installed-locations-quickly/"><u>Pro Tip: Unearthing Windows Apps' Installed Locations Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-start-the-narrator-in-windows-11/"><u>How to Start the Narrator in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-standard-to-stylish-personalize-each-window-11-screen/"><u>From Standard to Stylish: Personalize Each Window 11 Screen</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-from-apple-iphone-15-plus-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock from Apple iPhone 15 Plus or iPad?</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-video-recordings.techidaily.com/the-monetization-contest-dailymovement-vs-youtubes-earnings-battleground/"><u>The Monetization Contest  DailyMovement vs Youtube's Earnings Battleground</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://instagram-clips.techidaily.com/innovating-content-the-marketers-choice-of-top-10-ig-editing-tools/"><u>Innovating Content  The Marketer's Choice of Top 10 IG Editing Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-looks-like-youre-stranded-xbox-app-error-in-windows-11-and-11/"><u>How to Fix the “Looks Like You’re Stranded” Xbox App Error in Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/purify-your-setup-tiny11s-no-fuss-features/"><u>Purify Your Setup: Tiny11's No-Fuss Features</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://sim-unlock.techidaily.com/sim-unlock-samsung-galaxy-f54-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Samsung Galaxy F54 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-sluggishness-boosting-speed-of-steam-on-windows/"><u>Overcoming Sluggishness: Boosting Speed of Steam on Windows</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-information.techidaily.com/enhancing-your-roblox-experience-close-up-techniques/"><u>Enhancing Your Roblox Experience  Close-Up Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/guiding-users-through-fixing-nvidias-unreachable-error/"><u>Guiding Users Through Fixing NVIDIA's 'Unreachable' Error</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://twitter-clips.techidaily.com/new-2024-approved-update-twitter-video-box-picture/"><u>[New] 2024 Approved  Update Twitter Video Box Picture</u></a></li>
+<li><a href="https://windows11.techidaily.com/flushing-dns-on-windows-best-practices/"><u>Flushing DNS on Windows: Best Practices</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-recording.techidaily.com/new-2024-approved-apeak-recording-examined-quality-and-features-decoded/"><u>[New] 2024 Approved  Apeak Recording Examined  Quality and Features Decoded</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-tips.techidaily.com/2024-approved-boosting-productivity-utilizing-zoom-on-win11-devices/"><u>2024 Approved  Boosting Productivity  Utilizing Zoom on Win11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-notepad-abrupt-closures/"><u>Overcoming Windows Notepad Abrupt Closures</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-batch-installs-windows-11-with-winstall/"><u>Mastering Batch Installs: Windows 11 with Winstall</u></a></li>
+<li><a href="https://windows11.techidaily.com/method-to-correct-windows-installation-glitch-xc004f050/"><u>Method to Correct Windows Installation Glitch Xc004f050</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-windows-performance-with-extended-display-setup/"><u>Master Window's Performance With Extended Display Setup</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://discord-videos.techidaily.com/2024-approved-expert-guide-to-upgrading-your-discord-picture-palette/"><u>2024 Approved  Expert Guide to Upgrading Your Discord Picture Palette</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://digital-screen-recording.techidaily.com/excellence-in-screensnapting-fast-reliable-recorder/"><u>Excellence in Screensnapting  Fast, Reliable Recorder</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oppo-a1x-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Oppo A1x 5G Phone When You Forget the Password</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-xiaomi-13t-by-fonelab-android-recover-data/"><u>How to recover lost data from Xiaomi 13T?</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-actions-for-windows-interface-crashing/"><u>Immediate Actions for Windows Interface Crashing</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveraging-windows-innovations-to-enrich-macos/"><u>Leveraging Windows Innovations to Enrich macOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-uninstall-oneself-avoiding-admin-restrictions-in-windows/"><u>How To Uninstall Oneself: Avoiding Admin Restrictions in WINDOWS</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reactivate-muted-system-sound-output-quickly/"><u>How to Reactivate Muted System Sound Output Quickly</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 15 Plus | Dr.fone</u></a></li>
 </ul></div>
 
         </div>
@@ -900,11 +922,11 @@
         <li><strong>Title:</strong> Discerning Win Credentials Success From Failure Scenarios</li>
         <li><strong>Author:</strong> Joseph</li>
         <li><strong>Created at
-                :</strong> 2024-06-25 12:15:40</li>
+                :</strong> 2024-07-11 21:34:55</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-06-26 12:15:40
+                    :</strong> 2024-07-12 21:34:55
             </li>
         
         <li>

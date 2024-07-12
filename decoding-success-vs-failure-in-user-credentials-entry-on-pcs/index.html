@@ -36,8 +36,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/event-viewer-security-logon-event-properties-details-1.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/event-viewer-security-logon-event-failed-attemptjpg.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/view-specific-user-last-login-attempt-command-prompt.jpg">
-<meta property="article:published_time" content="2024-06-25T04:15:37.919Z">
-<meta property="article:modified_time" content="2024-06-26T04:15:37.919Z">
+<meta property="article:published_time" content="2024-07-11T13:34:52.606Z">
+<meta property="article:modified_time" content="2024-07-12T13:34:52.606Z">
 <meta property="article:author" content="Joseph">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -601,11 +601,11 @@
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">2</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">3</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">3858</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4376</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -651,22 +651,22 @@
                     <div class="author flex items-center">
                         <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
                         
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv10</span>
+                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv11</span>
                         
                     </div>
                     <div class="meta-info">
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-06-25 12:15:37</span>
-        <span class="mobile">2024-06-25 12:15:37</span>
+        <span class="desktop">2024-07-11 21:34:52</span>
+        <span class="mobile">2024-07-11 21:34:52</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-06-26 12:15:37</span>
-            <span class="mobile">2024-06-26 12:15:37</span>
+            <span class="desktop">2024-07-12 21:34:52</span>
+            <span class="mobile">2024-07-12 21:34:52</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -733,7 +733,7 @@
             <h2 id="Decoding-Success-vs-Failure-in-User-Credentials-Entry-on-PCs"><a href="#Decoding-Success-vs-Failure-in-User-Credentials-Entry-on-PCs" class="headerlink" title="Decoding Success vs Failure in User Credentials Entry on PCs"></a>Decoding Success vs Failure in User Credentials Entry on PCs</h2><p> Windows lets you create multiple user accounts to let multiple users use a single computer. But what if you suspect someone to have accessed your PC or user account without your knowledge?</p>
 <p> While physically monitoring your computer all the time is not feasible for most people, the built-in Windows log utility, Event Viewer, can reveal the recent activities on your computer, including login attempts. Here we show you how to audit failed and successful login attempts in Windows using Event Viewer and other methods.</p>
 <h2 id="How-to-Enable-Logon-Auditing-via-Group-Policy-Editor"><a href="#How-to-Enable-Logon-Auditing-via-Group-Policy-Editor" class="headerlink" title="How to Enable Logon Auditing via Group Policy Editor"></a>How to Enable Logon Auditing via Group Policy Editor</h2><p> You need to enable logon auditing in Group Policy Editor to be able to view login audit in Event Viewer. While this feature may be enabled by default on some computers, you can also enable logon auditing manually by following these steps.</p>
-<p> Note that Group Policy Editor is only available on the Pro, Edu, and Enterprise edition of the Windows OS. If you are on the Home edition, follow our guide to<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/" >enable gpedit in the Windows home edition <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> .</p>
+<p> Note that Group Policy Editor is only available on the Pro, Edu, and Enterprise edition of the Windows OS. If you are on the Home edition, follow our guide to <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/" >enable gpedit in the Windows home edition <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> .</p>
 <p> Note that if you don’t configure your Group Policy for Logon Auditing, you can only view the successful login attempts in Event Viewer.</p>
 <p> Once you have the Group Policy Editor enabled, follow these steps to enable logon auditing:</p>
 <ol>
@@ -755,7 +755,7 @@
 <li>Click<strong>Apply</strong> and<strong>OK</strong> to save the changes.</li>
 </ol>
 <p> Close Group Policy Editor and move to the next set of steps to view login attempts in Event Viewer.</p>
-<h2 id="How-to-View-Failed-and-Successful-Login-Attempts-in-Event-Viewer"><a href="#How-to-View-Failed-and-Successful-Login-Attempts-in-Event-Viewer" class="headerlink" title="How to View Failed and Successful Login Attempts in Event Viewer"></a>How to View Failed and Successful Login Attempts in Event Viewer</h2><p> The<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-event-viewer-guide/" >Event Viewer <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> lets you view Windows logs for the application, security, system, and other events. While a useful application to troubleshoot system issues, you can use it to audit login events on your Windows PC.</p>
+<h2 id="How-to-View-Failed-and-Successful-Login-Attempts-in-Event-Viewer"><a href="#How-to-View-Failed-and-Successful-Login-Attempts-in-Event-Viewer" class="headerlink" title="How to View Failed and Successful Login Attempts in Event Viewer"></a>How to View Failed and Successful Login Attempts in Event Viewer</h2><p> The <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-event-viewer-guide/" >Event Viewer <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> lets you view Windows logs for the application, security, system, and other events. While a useful application to troubleshoot system issues, you can use it to audit login events on your Windows PC.</p>
 <p> Follow these steps to view failed and successful login attempts in Windows:</p>
 <ol>
 <li>Press the<strong>Win key</strong> and type<strong>event viewer.</strong> Alternatively, click on<strong>Search</strong> in the taskbar and type<strong>event viewer.</strong></li>
@@ -793,7 +793,7 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/event-viewer-security-logon-event-failed-attemptjpg.jpg"
                       alt="event viewer security logon event failed attemptjpg"
                 ></p>
-<p> Similarly, for failed login attempts, review<strong>Event ID 4625</strong> . In the<strong>Properties</strong> dialog, you can find reasons for the failed login attempt and the affected user account. If you find multiple instances of unsuccessful attempts, consider learning<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/how-limit-number-failed-login-attempts-windows-10/" >how to limit the number of failed login attempts to protect your Windows PC <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> .</p>
+<p> Similarly, for failed login attempts, review<strong>Event ID 4625</strong> . In the<strong>Properties</strong> dialog, you can find reasons for the failed login attempt and the affected user account. If you find multiple instances of unsuccessful attempts, consider learning <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/how-limit-number-failed-login-attempts-windows-10/" >how to limit the number of failed login attempts to protect your Windows PC <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> .</p>
 <p> Below is the list of all nine<strong>Logon Types</strong> for logon events that you may encounter reviewing login events in Event Viewer:</p>
 <table>
 <thead>
@@ -869,21 +869,40 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a href="https://windows11.techidaily.com/highest-rated-windows-encryption-software-guide-150-chars/"><u>Highest Rated Window's Encryption Software Guide (150 Chars)</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-tab-issue-solutions-for-non-responsive-keys/"><u>Windows Tab Issue: Solutions for Non-Responsive Keys</u></a></li>
-<li><a href="https://windows11.techidaily.com/missing-dxgidll-in-win11-heres-what-to-do-now/"><u>Missing Dxgi.dll in Win11? Here's What to Do Now</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-windows-11-performance-run-command-upgrade-guide/"><u>Boosting Windows 11 Performance: Run Command Upgrade Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/unfreezing-windows-updates-top-6-strategies-to-resolve-sticking-issues/"><u>Unfreezing Windows Updates: Top 6 Strategies to Resolve Sticking Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/unauthorized-ai-assistance-in-generating-win-11-keys/"><u>Unauthorized AI Assistance in Generating Win 11 Keys</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-regain-control-over-non-responsive-overlays/"><u>Strategies to Regain Control over Non-Responsive Overlays</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-video-recordings.techidaily.com/sync-your-device-pace-youtube-audio-control-guide/"><u>Sync Your Device Pace  YouTube Audio Control Guide</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://techidaily.com/best-fixes-for-honor-100-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor 100 Hard Reset | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-motorola-moto-g-5g-2023-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Motorola Moto G 5G (2023)?</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://twitter-videos.techidaily.com/mastering-media-your-step-by-step-video-tweet/"><u>Mastering Media  Your Step-by-Step Video Tweet</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-clips.techidaily.com/new-2024-approved-pc-and-mac-techniques-utilizing-dslr-for-facebook-live/"><u>[New] 2024 Approved  PC & Mac Techniques  Utilizing DSLR for Facebook LIVE</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tiktok-clips.techidaily.com/new-in-2024-5-creative-tiktok-caption-ideas-for-maximum-impact/"><u>[New] In 2024, 5 Creative TikTok Caption Ideas for Maximum Impact</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-skills.techidaily.com/in-2024-macpc-vmix-bridge-software/"><u>In 2024, MacPC VMix Bridge Software</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://sound-optimizing.techidaily.com/new-in-2024-harmonizing-your-listening-experience-levels-of-loudness-control-in-vlc-player/"><u>New In 2024, Harmonizing Your Listening Experience Levels of Loudness Control in VLC Player</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-frp.techidaily.com/in-2024-the-updated-method-to-bypass-motorola-edge-2023-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Motorola Edge 2023 FRP</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tiktok-video-files.techidaily.com/new-in-2024-quick-tips-for-unlocking-creativity-with-stable-tiktok-usage/"><u>[New] In 2024, Quick Tips for Unlocking Creativity with Stable TikTok Usage</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-resizing-discover-the-top-six-efficient-methods/"><u>Windows 11 Resizing: Discover the Top Six Efficient Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-windows-update-failure-error-0x8024800c/"><u>Correcting Windows Update Failure (Error 0X8024800C)</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-forth-the-lost-frames-off-screen-recovery-in-edge-os/"><u>Bring Forth the Lost Frames: Off-Screen Recovery in Edge OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-win1011-system-breakdown-code-0xc0000001/"><u>Addressing Win10/11 System Breakdown: Code 0xC0000001</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-windows-11-weather-software-compared/"><u>Best Windows 11 Weather Software Compared</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-data.techidaily.com/-your-vlogging-game-top-tier-mac-mp4-editors-reviewed-for-2024/"><u>Prime Your Vlogging Game  Top-Tier Mac MP4 Editors Reviewed for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-techniques.techidaily.com/new-how-to-maximize-focus-with-enhanced-zoom-on-google-meet/"><u>[New] How to Maximize Focus with Enhanced Zoom on Google Meet</u></a></li>
+<li><a href="https://windows11.techidaily.com/caution-not-to-use-chatbots-for-windows-key-formation/"><u>Caution: Not to Use Chatbots For Windows Key Formation</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/dispatch-dull-drums-resetting-spacebar-audio-feature/"><u>Dispatch Dull Drums: Resetting Spacebar Audio Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-elevate-with-25-customization-tips/"><u>Windows 11: Elevate with 25 Customization Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/dism-mastery-in-windows-11-system-image-repair/"><u>Dism Mastery in Windows 11 System Image Repair</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-access.techidaily.com/in-2024-explore-and-choose-from-these-top-10-vector-stockplaces/"><u>In 2024, Explore and Choose From These Top 10 Vector Stockplaces</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-14-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone 14 Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-11-eliminating-invisible-logins/"><u>Troubleshooting Windows 11: Eliminating Invisible Logins</u></a></li>
+<li><a href="https://windows11.techidaily.com/access-control-microphone-and-camera-via-edge-protection/"><u>Access Control: Microphone and Camera via Edge Protection</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-ways-to-revert-personalized-settings-on-windows-11s-search/"><u>Easy Ways to Revert Personalized Settings on Windows 11'S Search</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://facebook-video-footage.techidaily.com/new-2024-approved-10-superior-youtube-mp3-extractors/"><u>[New] 2024 Approved  10 Superior YouTube Mp3 Extractors</u></a></li>
+<li><a href="https://windows11.techidaily.com/change-to-dark-theme-in-the-windows-calculator/"><u>Change to Dark Theme in the Windows Calculator</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://digital-screen-recording.techidaily.com/new-in-2024-optimizing-your-youtube-video-preservation/"><u>[New] In 2024, Optimizing Your YouTube Video Preservation</u></a></li>
+<li><a href="https://windows11.techidaily.com/altering-winterrals-visual-theme/"><u>Altering WinTerral's Visual Theme</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-approaches.techidaily.com/2024-approved-transform-your-mac-interface-with-speech-recognition-software-review/"><u>2024 Approved  Transform Your Mac Interface with Speech Recognition Software Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-code-0x0001-complication-in-windows-11/"><u>Unraveling Code 0X0001 Complication in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-advice-how-to-disable-win-11s-elevation-error-740/"><u>Expert Advice: How to Disable Win 11'S Elevation Error #740</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://snapchat-videos.techidaily.com/2024-approved-elevate-your-snaps-with-these-top-20-filters/"><u>2024 Approved  Elevate Your Snaps with These Top 20 Filters</u></a></li>
+<li><a href="https://windows11.techidaily.com/break-the-silence-of-a-disconnected-usb-wi-fi-adapter-on-pcs/"><u>Break the Silence of a Disconnected USB Wi-Fi Adapter on PCs</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-itel-a60-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Itel A60 | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-video-capture.techidaily.com/2024-approved-expert-advice-securely-saving-movies-on-windows-11/"><u>2024 Approved  Expert Advice  Securely Saving Movies on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-pathway-to-activating-windows-media-player/"><u>Easy Pathway to Activating Windows Media Player</u></a></li>
+<li><a href="https://windows11.techidaily.com/tricks-save-and-access-onedrive-around-clients/"><u>Tricks: Save & Access OneDrive Around Clients</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-the-meaning-of-0xc000003e-hexadecimal-errors/"><u>Decoding the Meaning of 0xC000003E Hexadecimal Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-5-tips-for-optimizing-wsl-2-on-modern-windows/"><u>Top 5 Tips for Optimizing WSL 2 on Modern Windows</u></a></li>
 </ul></div>
 
         </div>
@@ -895,11 +914,11 @@
         <li><strong>Title:</strong> Decoding Success vs Failure in User Credentials Entry on PCs</li>
         <li><strong>Author:</strong> Joseph</li>
         <li><strong>Created at
-                :</strong> 2024-06-25 12:15:37</li>
+                :</strong> 2024-07-11 21:34:52</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-06-26 12:15:37
+                    :</strong> 2024-07-12 21:34:52
             </li>
         
         <li>
@@ -959,10 +978,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/conquering-outlooks-glitch-the-path-to-fixed-error-0x80072746/"
+                        href="/dealing-with-nvidias-geforce-x0001-error-on-w10w11/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Conquering Outlook&#39;s Glitch: The Path to Fixed Error 0X80072746</span>
+                                <span class="post-nav-title-item">Dealing with Nvidia&#39;s GeForce X0001 Error on W10/W11</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">

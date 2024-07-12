@@ -31,8 +31,8 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/laptop-with-code-on-screen.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-portable-executable-structure-diagram.jpg">
-<meta property="article:published_time" content="2024-06-25T04:15:28.676Z">
-<meta property="article:modified_time" content="2024-06-26T04:15:28.676Z">
+<meta property="article:published_time" content="2024-07-11T13:34:41.380Z">
+<meta property="article:modified_time" content="2024-07-12T13:34:41.380Z">
 <meta property="article:author" content="Joseph">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -596,11 +596,11 @@
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">2</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">3</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">3858</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4376</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -646,22 +646,22 @@
                     <div class="author flex items-center">
                         <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
                         
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv10</span>
+                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv11</span>
                         
                     </div>
                     <div class="meta-info">
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-06-25 12:15:28</span>
-        <span class="mobile">2024-06-25 12:15:28</span>
+        <span class="desktop">2024-07-11 21:34:41</span>
+        <span class="mobile">2024-07-11 21:34:41</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-06-26 12:15:28</span>
-            <span class="mobile">2024-06-26 12:15:28</span>
+            <span class="desktop">2024-07-12 21:34:41</span>
+            <span class="mobile">2024-07-12 21:34:41</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -736,7 +736,7 @@
 <p> Before exploring the Windows Portable Executable format, it’s important to clear up the basics. Let’s take a step back and learn about the underlying concept of Windows PE—COFF.</p>
 <p> When you compile the source code to a program, the compiler generates an object file (.obj). This object file contains instructions for the computer in binary format.</p>
 <p> COFF or Common Object File Format is a standardized set of conventions for representing binary instructions. COFF helps in maintaining cross-platform compatibility as all COFF file formats follow the same set of rules and conventions for organizing code and data. Although COFF was originally developed for use on *NIX systems, it is now ubiquitous across all platforms.</p>
-<p> The Windows Portable Executable (PE) file format is a modification of COFF and has been developed to be exclusively used on<a class="link"   target="_blank" rel="noopener" href="http://www.makeuseof.com/tag/difference-32-bit-64-bit-windows/" >32-bit and 64-bit Windows systems <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> . Unlike COFF, which provides a standardized format for object files, Windows PE provides a standardized format for executables and library files.</p>
+<p> The Windows Portable Executable (PE) file format is a modification of COFF and has been developed to be exclusively used on <a class="link"   target="_blank" rel="noopener" href="http://www.makeuseof.com/tag/difference-32-bit-64-bit-windows/" >32-bit and 64-bit Windows systems <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> . Unlike COFF, which provides a standardized format for object files, Windows PE provides a standardized format for executables and library files.</p>
 <p> It contains sections and headers which provide information about the executable in question and helps the system loader manage data related to the executable. The headers in a PE file help the system loader map the file onto the memory, resolve dependencies such as API exports&#x2F;imports, manage resources and prepare the file for execution.</p>
 <p> Linux also has its own iteration of the COFF; it’s called Executable Link File or in short, ELF binary. You can check if a file is ELF or not by running the<strong>file command</strong> on Linux with the filename as the first argument.</p>
 <h2 id="The-Structure-of-a-Windows-Portable-Executable"><a href="#The-Structure-of-a-Windows-Portable-Executable" class="headerlink" title="The Structure of a Windows Portable Executable"></a>The Structure of a Windows Portable Executable</h2><p><img  
@@ -755,7 +755,7 @@
 <p> Overall, these components work together to create a structured format that allows the operating system to properly load, execute, and manage the executable code contained in the file. Let’s learn exactly what each component does.</p>
 <h3 id="DOS-Header"><a href="#DOS-Header" class="headerlink" title="DOS Header"></a>DOS Header</h3><p> The first part of a PE file is called the DOS Header. A small amount of executable code is stored in the DOS header which can also be run on a DOS machine.</p>
 <p> This code is also called the MS-DOS stub and is used to throw an error message on systems that don’t support the PE file.</p>
-<h3 id="PE-Header"><a href="#PE-Header" class="headerlink" title="PE Header"></a>PE Header</h3><p> The Portable Executable header gives information about the executable, like how big the file is, where the different parts are located, and what resources the executable needs. The PE header also has information about the type of executable, whether it’s a<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/what-are-dll-files-on-windows/" >Windows .DLL file <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or an .EXE.</p>
+<h3 id="PE-Header"><a href="#PE-Header" class="headerlink" title="PE Header"></a>PE Header</h3><p> The Portable Executable header gives information about the executable, like how big the file is, where the different parts are located, and what resources the executable needs. The PE header also has information about the type of executable, whether it’s a <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/what-are-dll-files-on-windows/" >Windows .DLL file <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or an .EXE.</p>
 <h3 id="Section-Headers"><a href="#Section-Headers" class="headerlink" title="Section Headers"></a>Section Headers</h3><p> Sections are implemented to organize the many components of an executable such as code, data, and resources like text strings, images, etc. The section headers include information regarding the size and location of each section, as well as any associated flags.</p>
 <p> The flags associated with each section header can indicate various attributes of the section, such as whether it is executable, writable, or readable. These flags help the operating system to properly load and manage the contents of each section during program execution.</p>
 <h3 id="Sections"><a href="#Sections" class="headerlink" title="Sections"></a>Sections</h3><p> The sections themselves comprise the executable’s real code, data, and resources. Each segment is aligned to a certain memory boundary and has its own set of attributes that affect how the operating system handles it.</p>
@@ -774,23 +774,56 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a href="https://windows11.techidaily.com/tackling-error-windows-welcome-cant-read-fingers/"><u>Tackling Error: Windows Welcome Can't Read Fingers</u></a></li>
-<li><a href="https://windows11.techidaily.com/9-ways-to-fix-windows-hello-fingerprint-recognition-not-working/"><u>9 Ways to Fix Windows Hello Fingerprint Recognition Not Working</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-mouse-click-agility-nine-strategies-to-tweak-speeds/"><u>Boost Mouse Click Agility: Nine Strategies to Tweak Speeds</u></a></li>
-<li><a href="https://windows11.techidaily.com/cut-the-clutter-quickly-reduce-programs-with-system-tray-keys/"><u>Cut the Clutter: Quickly Reduce Programs with System Tray Keys</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-unlock-windows-credentials-management/"><u>Steps to Unlock Windows Credentials Management</u></a></li>
-<li><a href="https://windows11.techidaily.com/configuring-terminal-for-quake-in-windows/"><u>Configuring Terminal for Quake in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-network-path-with-fixed-ea-server-error-in-os/"><u>Restoring Network Path with Fixed EA Server Error in OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/outdated-pcs-upgraded-to-modern-windows-11-standards/"><u>Outdated PCs Upgraded to Modern Windows 11 Standards</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-render-and-upload-your-youtube-video-faster/"><u>[Updated] 2024 Approved  How to Render and Upload Your YouTube Video Faster?</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-clips.techidaily.com/boost-your-channels-subscribers-on-a-shoestring-budget-for-2024/"><u>Boost Your Channel's Subscribers on a Shoestring Budget for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-help.techidaily.com/in-2024-the-insiders-guide-to-youtube-money-minimum-video-views-needed/"><u>In 2024, The Insider's Guide to YouTube Money  Minimum Video Views Needed</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://discord-videos.techidaily.com/new-2024-approved-top-tier-designers-making-magic-in-discord-emojis/"><u>[New] 2024 Approved  Top-Tier Designers  Making Magic in Discord Emojis</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ai-video-tools.techidaily.com/updated-free-filmora-download-without-viruses-or-malware-expert-advice-for-2024/"><u>Updated Free Filmora Download without Viruses or Malware Expert Advice for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-xiaomi-redmi-12-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Xiaomi Redmi 12 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-web.techidaily.com/innacle-of-amusement-select-15-laughing-out-loud-channels-for-2024/"><u>The Pinnacle of Amusement  Select 15 Laughing-Out-Loud Channels for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-docs.techidaily.com/armonize-your-favorites-creating-custom-youtube-playlists/"><u>[New] Harmonize Your Favorites  Creating Custom YouTube Playlists</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-infinix-smart-8-pro-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Infinix Smart 8 Pro FRP Without Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/beat-nvidias-windows-scanner-errors-today/"><u>Beat Nvidia's Windows Scanner Errors Today</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-wwinplusprint-error-on-your-computer-successfully/"><u>Addressing WWin+Print Error on Your Computer Successfully.</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://sound-tweaking.techidaily.com/updated-guiding-steps-for-harmonizing-sound-amplitude-in-vlc-playback-for-2024/"><u>Updated Guiding Steps for Harmonizing Sound Amplitude in VLC Playback for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-back-your-teams-screens/"><u>Bring Back Your Teams Screens</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://visual-screen-recording.techidaily.com/updated-speedy-solutions-snapshots-of-slideshows/"><u>[Updated] Speedy Solutions  Snapshots of Slideshows</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-essential-tweaks-for-your-windows-11-search-settings/"><u>5 Essential Tweaks for Your Windows 11 Search Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/circumventing-firewall-restriction-chrome-connectivity-solution/"><u>Circumventing Firewall Restriction: Chrome Connectivity Solution</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-vivo-v30-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Vivo V30 Phone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-guidance.techidaily.com/new-the-illustrator-wizards-guide-to-3d-text/"><u>[New] The Illustrator Wizard's Guide to 3D Text</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tiktok-clips.techidaily.com/new-in-2024-elevate-engagement-the-most-effective-tiktok-handle-ideas/"><u>[New] In 2024, Elevate Engagement  The Most Effective TikTok Handle Ideas</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://digital-screen-recording.techidaily.com/in-2024-effortless-screen-saving-on-android-devices/"><u>In 2024, Effortless Screen Saving on Android Devices</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-techniques.techidaily.com/in-2024-illuminating-iphones-nighttime-photo-secrets-revealed/"><u>In 2024, Illuminating iPhones  Nighttime Photo Secrets Revealed</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-access.techidaily.com/ace-editing-essential-10-final-cut-pro-extensions/"><u>Ace Editing  Essential 10 Final Cut Pro Extensions</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-through-disabled-script-barrier-4-key-techniques-to-load-ps-successfully/"><u>Breaking Through Disabled Script Barrier: 4 Key Techniques to Load PS Successfully</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://sound-tweaking.techidaily.com/new-in-2024-cutting-edge-audio-editing-on-the-go-top-10-mobile-apps-iphoneandroid/"><u>New In 2024, Cutting-Edge Audio Editing on the Go Top 10 Mobile Apps (iPhone/Android)</u></a></li>
+<li><a href="https://windows11.techidaily.com/balancing-system-resources-with-microsoft-edge/"><u>Balancing System Resources with Microsoft Edge</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://video-ai-editor.techidaily.com/new-discover-the-best-top-10-free-mp4-video-editing-tools-for-2024/"><u>New Discover the Best Top 10 Free MP4 Video Editing Tools for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/augmenting-windows-functionality-with-these-top-6-android-apps/"><u>Augmenting Windows Functionality with These Top 6 Android Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/9-insights-on-how-pc-outperforms-a-mac-in-essential-areas/"><u>9 Insights on How PC Outperforms a Mac in Essential Areas</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://video-capture.techidaily.com/new-2024-approved-androidios-techniques-screening-google-meets/"><u>[New] 2024 Approved  Android/iOS Techniques  Screening Google Meets</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-need-old-password-error-in-microsoft-windows/"><u>Bypassing 'Need Old Password' Error in Microsoft Windows</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://discord-videos.techidaily.com/updated-perfecting-your-digital-image-a-discord-profile-step-by-step/"><u>[Updated] Perfecting Your Digital Image  A Discord Profile Step-by-Step</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-windows-11-mode-switch-failures/"><u>Bypassing Windows 11 Mode Switch Failures</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://instagram-video-recordings.techidaily.com/updated-professional-insights-concealed-strategies-for-instagram-success-for-2024/"><u>[Updated] Professional Insights  Concealed Strategies for Instagram Success for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://remote-screen-capture.techidaily.com/updated-in-2024-integrating-clips-flawlessly-using-blend-modes/"><u>[Updated] In 2024, Integrating Clips Flawlessly Using Blend Modes</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-power-hungry-unrealcefsubprocess-a-windows-guide/"><u>Addressing Power-Hungry UnrealCEFSubprocess: A Windows Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerating-file-download-rates-in-utorrent-win-os-style/"><u>Accelerating File Download Rates in uTorrent, WIN OS Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/androidios-to-windows-pc-microphone-conversion-guide/"><u>Android/iOS to Windows PC Microphone Conversion Guide</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://vimeo-videos.techidaily.com/updated-flash-moment-of-fame-analysis-for-2024/"><u>[Updated] Flash Moment of Fame Analysis for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-solutions-when-apps-arent-working-properly-on-windows/"><u>7 Solutions When Apps Aren't Working Properly on Windows</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://eaxpv-info.techidaily.com/new-how-to-get-free-views-on-youtube-2-easy-ways-for-2024/"><u>[New] How to Get Free Views on YouTube [2 Easy Ways] for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-videos.techidaily.com/new-deciphering-youtube-conversations/"><u>[New] Deciphering YouTube Conversations</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://techidaily.com/how-to-easily-hard-reset-my-nokia-c12-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/academic-excellence-with-these-top-8-study-tips-for-windows-users/"><u>Academic Excellence with These Top 8 Study Tips for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypass-black-screen-in-win11-fast-and-straightforward/"><u>Bypass Black Screen in Win11, Fast & Straightforward</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-honor-70-lite-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Honor 70 Lite 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerating-problem-solving-in-windows-10-and-11-via-shortcuts/"><u>Accelerating Problem-Solving in Windows 10 & 11 via Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-users-guide-to-navigating-file-explorer-tabs-windows-11-style/"><u>A User's Guide to Navigating File Explorer Tabs, Windows 11 Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-techniques-for-reviving-a-stuck-dark-screen-mode/"><u>7 Techniques for Reviving a Stuck Dark Screen Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-asking-too-many-hands-at-once-error/"><u>Bypassing Asking Too Many Hands at Once Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/bridging-the-gap-reconnecting-legrl-after-drops/"><u>Bridging the Gap: Reconnecting LeGRL After Drops</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-performance-with-windows-11-power-options/"><u>Boost Performance with Windows 11 Power Options</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://article-tips.techidaily.com/expedite-your-experience-quick-iphone-time-lapse/"><u>Expedite Your Experience  Quick iPhone Time-Lapse</u></a></li>
+<li><a href="https://windows11.techidaily.com/banish-file-explorer-errors-essential-fixes-for-win11-users/"><u>Banish File Explorer Errors: Essential Fixes for Win11 Users</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-guidance.techidaily.com/2024-approved-substitutes-for-winmovie-new-windows-editors/"><u>2024 Approved  Substitutes for WinMovie  New Windows Editors</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieve-peak-performance-with-multi-task-proficiency-on-windows-11-pcs/"><u>Achieve Peak Performance with Multi-Task Proficiency on Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/automating-windows-auditory-restart-post-boot-issue/"><u>Automating Windows Auditory Restart Post-Boot Issue</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-guidance.techidaily.com/in-2024-intergalactic-visions-the-best-sci-fi-movies-in-virtual-universes/"><u>In 2024, Intergalactic Visions  The Best Sci-Fi Movies in Virtual Universes</u></a></li>
 </ul></div>
 
         </div>
@@ -802,11 +835,11 @@
         <li><strong>Title:</strong> A Guide to Understanding Windows&#39; Program Files Format</li>
         <li><strong>Author:</strong> Joseph</li>
         <li><strong>Created at
-                :</strong> 2024-06-25 12:15:28</li>
+                :</strong> 2024-07-11 21:34:41</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-06-26 12:15:28
+                    :</strong> 2024-07-12 21:34:41
             </li>
         
         <li>

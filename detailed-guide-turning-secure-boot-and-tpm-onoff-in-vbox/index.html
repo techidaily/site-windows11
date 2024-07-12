@@ -32,8 +32,8 @@
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enable-secure-boot-and-tpm-support-in-virtualbox-7-0.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-tpm-on-windows-11-virtual-machine-1.jpg">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-tpm-on-windows-11-virtual-machine-2.jpg">
-<meta property="article:published_time" content="2024-06-25T04:34:47.331Z">
-<meta property="article:modified_time" content="2024-06-26T04:34:47.331Z">
+<meta property="article:published_time" content="2024-07-11T13:57:01.467Z">
+<meta property="article:modified_time" content="2024-07-12T13:57:01.467Z">
 <meta property="article:author" content="Joseph">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
@@ -597,11 +597,11 @@
         <div class="label text-third-text-color text-sm">Tags</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">2</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">3</div>
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">3858</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">4376</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -647,22 +647,22 @@
                     <div class="author flex items-center">
                         <span class="name text-default-text-color text-lg font-semibold">Joseph</span>
                         
-                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv10</span>
+                            <span class="author-label ml-1.5 text-xs px-2 py-0.5 rounded-small text-third-text-color border border-shadow-color-1">Lv11</span>
                         
                     </div>
                     <div class="meta-info">
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-06-25 12:34:47</span>
-        <span class="mobile">2024-06-25 12:34:47</span>
+        <span class="desktop">2024-07-11 21:57:01</span>
+        <span class="mobile">2024-07-11 21:57:01</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-06-26 12:34:47</span>
-            <span class="mobile">2024-06-26 12:34:47</span>
+            <span class="desktop">2024-07-12 21:57:01</span>
+            <span class="mobile">2024-07-12 21:57:01</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -728,7 +728,7 @@
         <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
             <h2 id="Detailed-Guide-Turning-Secure-Boot-and-TPM-On-Off-in-VBox"><a href="#Detailed-Guide-Turning-Secure-Boot-and-TPM-On-Off-in-VBox" class="headerlink" title="Detailed Guide: Turning Secure Boot and TPM On&#x2F;Off in VBox"></a>Detailed Guide: Turning Secure Boot and TPM On&#x2F;Off in VBox</h2><p> VirtualBox released version 7.0 in October 2022. It is the first hypervisor to support the emulation of TPM chips along with all the other system components. VirtualBox also offers a Secure Boot feature in EFI mode for virtual machines. The main reason behind these two features was Microsoft’s list of elaborate system requirements for Windows 11.</p>
 <p> Without emulation of the TPM 2.0 chip, users couldn’t install Windows 11 on a virtual machine. But with VirtualBox 7.0 it is possible to enable Secure Boot and TPM for any Windows virtual machine. This post will elaborate on the methods to enable or disable TPM and Secure Boot for any VirtualBox virtual machine.</p>
-<h2 id="Why-Does-Windows-11-Need-TPM-and-Secure-Boot"><a href="#Why-Does-Windows-11-Need-TPM-and-Secure-Boot" class="headerlink" title="Why Does Windows 11 Need TPM and Secure Boot?"></a>Why Does Windows 11 Need TPM and Secure Boot?</h2><p> Windows 11 needs both a TPM chip and Secure Boot to offer robust protection against threats and not allow any malware to run when the system boots up. Secure Boot only allows signed drivers to load and the TPM chip helps in BitLocker drive data protection. So, both these features are pretty important from a security standpoint. Check out our guide on<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/what-is-secure-boot-how-does-it-work/" >what Secure Boot is and how it works <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more information.</p>
+<h2 id="Why-Does-Windows-11-Need-TPM-and-Secure-Boot"><a href="#Why-Does-Windows-11-Need-TPM-and-Secure-Boot" class="headerlink" title="Why Does Windows 11 Need TPM and Secure Boot?"></a>Why Does Windows 11 Need TPM and Secure Boot?</h2><p> Windows 11 needs both a TPM chip and Secure Boot to offer robust protection against threats and not allow any malware to run when the system boots up. Secure Boot only allows signed drivers to load and the TPM chip helps in BitLocker drive data protection. So, both these features are pretty important from a security standpoint. Check out our guide on <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/what-is-secure-boot-how-does-it-work/" >what Secure Boot is and how it works <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more information.</p>
 <p> While Windows 11 can work without Secure Boot and a TPM 2.0 chip, it won’t be able to offer that extra layer of system protection it would do otherwise. Many features like Core-isolation, Data Encryption won’t work. If you want to enable or disable these features for Windows 10 or 11 virtual machines, you can do so in VirtualBox 7.0.</p>
 <h2 id="How-to-Enable-or-Disable-Secure-Boot-and-TPM-Support-in-VirtualBox-7-0"><a href="#How-to-Enable-or-Disable-Secure-Boot-and-TPM-Support-in-VirtualBox-7-0" class="headerlink" title="How to Enable or Disable Secure Boot and TPM Support in VirtualBox 7.0"></a>How to Enable or Disable Secure Boot and TPM Support in VirtualBox 7.0</h2><p> Repeat the following steps to enable TPM 2.0 and Secure Boot in VirtualBox.</p>
 <ol>
@@ -752,7 +752,7 @@
 </ol>
 <h3 id="An-Alternative-Method-to-Check-if-TPM-Is-Active-in-the-Windows-Virtual-Machine"><a href="#An-Alternative-Method-to-Check-if-TPM-Is-Active-in-the-Windows-Virtual-Machine" class="headerlink" title="An Alternative Method to Check if TPM Is Active in the Windows Virtual Machine"></a>An Alternative Method to Check if TPM Is Active in the Windows Virtual Machine</h3><p>Here’s how to check TPM on Windows 11 virtual machine:</p>
 <ol>
-<li>Press the<strong>Win + R</strong> key to launch the Run command box (see<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-open-run-command-dialog-box/" >how to open Windows Run <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more ways). Type<strong>TPM.msc</strong> and press the<strong>Enter</strong> key.<br><img  
+<li>Press the<strong>Win + R</strong> key to launch the Run command box (see <a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-open-run-command-dialog-box/" >how to open Windows Run <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more ways). Type<strong>TPM.msc</strong> and press the<strong>Enter</strong> key.<br><img  
                      lazyload
                      src="/images/loading.svg"
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-tpm-on-windows-11-virtual-machine-1.jpg"
@@ -780,23 +780,59 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a href="https://windows11.techidaily.com/how-to-ditch-intels-onboard-graphics-in-windows/"><u>How to Ditch Intel's Onboard Graphics in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-windows-extract-error-1152-quickly/"><u>Eliminating Windows Extract Error 1152 Quickly</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-windows-control-for-apps-and-browsers/"><u>Unveiling Windows Control for Apps & Browsers</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-frozen-overlays-restoring-function-to-discord-ui/"><u>Addressing Frozen Overlays: Restoring Function to Discord UI</u></a></li>
-<li><a href="https://windows11.techidaily.com/safeguard-files-with-windows-controlled-access-feature/"><u>Safeguard Files with Window's Controlled Access Feature</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-for-no-sound-when-screencasting-with-powerpoint/"><u>Troubleshooting for No Sound when Screencasting with PowerPoint</u></a></li>
-<li><a href="https://windows11.techidaily.com/what-to-do-when-the-audio-services-are-not-responding-on-windows/"><u>What to Do When the Audio Services Are Not Responding on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/leap-into-connectivity-unlocking-windows-remote-desktop/"><u>Leap Into Connectivity: Unlocking Windows Remote Desktop</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://smart-video-editing.techidaily.com/updated-gopro-video-editing-software-for-pc-quik-and-its-competitors-for-2024/"><u>Updated GoPro Video Editing Software for PC Quik and Its Competitors for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tiktok-video-files.techidaily.com/updated-the-ultimate-path-to-tiktok-fun-for-macbook-owners/"><u>[Updated] The Ultimate Path to TikTok Fun for MacBook Owners</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-guidance.techidaily.com/the-ultimate-guide-to-selecting-and-utilizing-top-6-gopro-attachments-for-2024/"><u>The Ultimate Guide to Selecting & Utilizing Top 6 GOPRO Attachments for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-clips.techidaily.com/simplified-strategies-for-engaging-with-facebook-insights-for-2024/"><u>Simplified Strategies for Engaging with Facebook Insights for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://ai-video-editing.techidaily.com/1713963020773-updated-follow-the-trend-of-making-slow-motion-videos-with-a-camera-lenta-capcut-template-learn-everything-about-capcut-and-find-its-alternatives-in-this-ar/"><u>Updated Follow the Trend of Making Slow-Motion Videos with a Camera Lenta CapCut Template. Learn Everything About CapCut and Find Its Alternatives in This Article for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://audio-editing.techidaily.com/updated-popular-sites-to-free-download-guitar-background-photos-and-music-for-2024/"><u>Updated Popular Sites to Free Download Guitar Background Photos and Music for 2024</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://youtube-lab.techidaily.com/n-2024-a-beginners-guide-to-elevating-auditory-experiences-on-youtube/"><u>[New] In 2024, A Beginner's Guide to Elevating Auditory Experiences on YouTube</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://facebook-video-recording.techidaily.com/in-2024-ignite-conversations-tactics-for-facebook-impact/"><u>In 2024, Ignite Conversations  Tactics for Facebook Impact</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-your-android-into-windows-11-webstreaming/"><u>Integrating Your Android Into Windows 11 Webstreaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-keep-windows-notepad-running-without-interruptions/"><u>Strategies to Keep Windows Notepad Running without Interruptions</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-transition-from-ical-to-windows-calendar/"><u>Navigating the Transition: From iCal to Windows Calendar</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-sharing-recording.techidaily.com/updated-in-2024-elevate-your-meetings-best-tools-to-record-zoom/"><u>[Updated] In 2024, Elevate Your Meetings  Best Tools to Record Zoom</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-samsung-galaxy-a14-4g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Samsung Galaxy A14 4G?</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-apex-servers-on-pc-7-ways-to-fix-no-server-errors-(156-chars/"><u>Mastering Apex Servers on PC: 7 Ways to Fix 'No Server' Errors (<156 Chars)</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-x9b-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stop-windows-from-always-entering-cmos-mode-at-start-up/"><u>How to Stop Windows From Always Entering CMOS Mode at Start-Up</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-inaccessible-files-on-windows-platform/"><u>Fixing Inaccessible Files on Windows Platform</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-system-integration-enable-windows-subsystem-for-linux/"><u>Seamless System Integration: Enable Windows Subsystem for Linux</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-stability-issues-with-vscode-on-w11/"><u>Preventing Stability Issues with VSCode on W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windowsapps-access-a-step-by-step-guide/"><u>Mastering WindowsApps Access: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-the-nuances-of-windows-maintenance-and-update-scheduling/"><u>Navigate the Nuances of Windows Maintenance & Update Scheduling</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-your-notes-pop-in-win-1011-os/"><u>Making Your Notes Pop in Win 10/11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-hurdle-of-non-responding-email-alerts-on-pcs/"><u>Overcoming the Hurdle of Non-Responding Email Alerts on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-disable-update-notifications-on-windows/"><u>How to Disable Update Notifications on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-rpc-failure-essential-steps-for-win-users/"><u>Overcoming RPC Failure: Essential Steps for Win Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/revealing-windows-11s-disguised-taskbar-investigation-tool/"><u>Revealing Windows 11'S Disguised Taskbar Investigation Tool</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://screen-video-capture.techidaily.com/capture-kings-top-15-windows-tools-for-2024/"><u>Capture Kings  Top 15 Windows Tools for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://twitter-clips.techidaily.com/in-2024-demystifying-twitter-archives-for-users-and-analysts/"><u>In 2024, Demystifying Twitter Archives for Users & Analysts</u></a></li>
+<li><a href="https://windows11.techidaily.com/inspect-font-characters-windows-11-route/"><u>Inspect Font Characters: Windows 11 Route</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://change-location.techidaily.com/home-button-not-working-on-xiaomi-13-ultra-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Xiaomi 13 Ultra? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/new-dawn-for-old-gameshells-atlasos/"><u>New Dawn For Old Gameshells - AtlasOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-reinstating-original-size-for-win-11-icons/"><u>Guide to Reinstating Original Size for Win 11 Icons</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-disabled-windows-shadow-copies/"><u>Resolving Disabled Windows Shadow Copies</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-cloud.techidaily.com/new-2024-approved-reason-behind-photo-booth-video-stalls/"><u>[New] 2024 Approved  Reason Behind Photo Booth Video Stalls</u></a></li>
+<li><a href="https://windows11.techidaily.com/reduce-keyboard-latency-in-win-os-with-top-7-hacks/"><u>Reduce Keyboard Latency in Win OS with Top 7 Hacks</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-troubleshooters-not-working-in-windows-10-and-11/"><u>How to Fix the Troubleshooters Not Working in Windows 10 & 11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://twitter-videos.techidaily.com/the-ultimate-watch-list-top-tweets-of-2023-for-2024/"><u>The Ultimate Watch List  Top Tweets of 2023 for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-a-muted-windows-taskbar/"><u>Remedying a Muted Windows Taskbar</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://instagram-clips.techidaily.com/new-in-2024-engaging-audiences-perfecting-the-art-of-igtv-titles-and-summaries/"><u>[New] In 2024, Engaging Audiences  Perfecting the Art of IGTV Titles & Summaries</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-reinstalling-favorite-apps-on-new-windows-11-devices/"><u>Guide to Reinstalling Favorite Apps on New Windows 11 Devices</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://on-screen-recording.techidaily.com/updated-2024-approved-effortless-method-to-record-your-skype-sessions-on-pcmac/"><u>[Updated] 2024 Approved  Effortless Method to Record Your Skype Sessions on PC/Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/revitalizing-vintage-directx-apps-using-modernized-dxvk-features/"><u>Revitalizing Vintage DirectX Apps Using Modernized DXVK Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplify-workflows-automate-using-to-dot-plus-ifttt/"><u>Simplify Workflows: Automate Using To-Dot + IFTTT</u></a></li>
+<li><a href="https://windows11.techidaily.com/must-use-3d-paint-shortcuts-compiled/"><u>Must-Use 3D Paint Shortcuts Compiled</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-realme-c33-2023-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Realme C33 2023 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-perfecting-images-slideshow-and-fix-in-windows-11-photos-app/"><u>Guide to Perfecting Images: Slideshow & Fix in Windows 11 Photos App</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://eaxpv-info.techidaily.com/updated-in-2024-getting-started-with-your-youtube-channel-essentials/"><u>[Updated] In 2024, Getting Started with Your YouTube Channel – Essentials</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tiktok-videos.techidaily.com/new-2024-approved-unleash-fast-the-ultimate-tiktok-download-playbook/"><u>[New] 2024 Approved  Unleash Fast  The Ultimate TikTok Download Playbook</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-error-code-0x80040610-in-depth-outlook-troubleshooting-guide/"><u>Resolving Windows Error Code 0X80040610: In-Depth Outlook Troubleshooting Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-edge-to-frontline-quick-fixes-for-lost-off-screen-windows/"><u>From Edge to Frontline: Quick Fixes for Lost Off-Screen Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaim-your-slack-notifications-fixes-for-windows-11/"><u>Reclaim Your Slack Notifications: Fixes for Windows 11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-pro-max-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 13 Pro Max Without a Passcode</u></a></li>
+<li><a href="https://windows11.techidaily.com/explore-the-best-techniques-to-streamline-your-windows-folder-system/"><u>Explore the Best Techniques to Streamline Your Windows Folder System</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-rectify-steams-server-disconnection-on-windows-machines/"><u>How to Rectify Steam's Server Disconnection on Windows Machines</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://audio-editing.techidaily.com/updated-cutting-edge-music-editing-software-roundup-the-top-10-compatible-apps-for-windows-and-mac-for-2024/"><u>Updated Cutting-Edge Music Editing Software Roundup The Top 10 Compatible Apps for Windows and Mac for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/new-horizons-in-customizing-win11-ui/"><u>New Horizons in Customizing Win11 UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correct-non-empty-directory-error-code-0x80070091-in-win11/"><u>How to Correct Non-Empty Directory Error (Code: 0X80070091) in Win11</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://facebook-record-videos.techidaily.com/updated-in-2024-aspect-ratios-unveiled-a-complete-youtube-manual/"><u>[Updated] In 2024, Aspect Ratios Unveiled  A Complete YOUTUBE Manual</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-past-share-permission-hurdles-in-win-os/"><u>Navigate Past Share Permission Hurdles in Win OS</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://instagram-videos.techidaily.com/updated-in-2024-proven-techniques-to-swell-your-social-media-following/"><u>[Updated] In 2024, Proven Techniques to Swell Your Social Media Following</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-help.techidaily.com/in-2024-step-1-to-50-building-a-foundation-for-mukbang-creation/"><u>In 2024, Step 1 to 50  Building a Foundation for Mukbang Creation</u></a></li>
 </ul></div>
 
         </div>
@@ -808,11 +844,11 @@
         <li><strong>Title:</strong> Detailed Guide: Turning Secure Boot and TPM On/Off in VBox</li>
         <li><strong>Author:</strong> Joseph</li>
         <li><strong>Created at
-                :</strong> 2024-06-25 12:34:47</li>
+                :</strong> 2024-07-11 21:57:01</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-06-26 12:34:47
+                    :</strong> 2024-07-12 21:57:01
             </li>
         
         <li>
