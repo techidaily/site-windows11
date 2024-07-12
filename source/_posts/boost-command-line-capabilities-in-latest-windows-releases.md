@@ -1,7 +1,7 @@
 ---
 title: Boost Command-Line Capabilities in Latest Windows Releases
-date: 2024-06-25T12:15:33.314Z
-updated: 2024-06-26T12:15:33.314Z
+date: 2024-07-11T21:34:47.268Z
+updated: 2024-07-12T21:34:47.268Z
 tags:
   - windows10
   - windows11
@@ -24,11 +24,11 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 
  Run-Command is a portable alternative to Run that improves upon the functionality of that accessory in many ways. As it is portable software, you can utilize it in many Windows platforms without installation. All you need to do to add Run-Command to Windows 11/10 is download and extract that software as follows:
 
-1. Open the[Run-Command](https://www.softwareok.com/?Download=Run-Command) download page.
+1. Open the [Run-Command](https://www.softwareok.com/?Download=Run-Command) download page.
 2. Click**Run-Command \_x64.zip** to download the ZIP archive for 64-bit Windows platforms.
-3. Next, press the**Windows** logo and**E** keyboard buttons to[access File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
+3. Next, press the**Windows** logo and**E** keyboard buttons to [access File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) .
 4. Open the folder containing the**Run-Command \_x64.zip** archive.
-5. Go through the instructions in our[how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) guide to extract the**Run-Command \_x64.zip** archive.  
+5. Go through the instructions in our [how to unzip files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) guide to extract the**Run-Command \_x64.zip** archive.  
 ![The Extract Compressed (Zipped) folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-window2.jpg)
 6. Then double-click the**Run-Command\_x64.exe** in that software’s unzipped folder.
 
@@ -63,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 
  So, what we have here is an alternative Run app in which you can add shortcuts for opening all your favorite software packages. How utterly brilliant; but why hasn’t Microsoft added such a feature to Windows’ native Run app? The Redmond developers should have added a shortcut menu to Run long ago.
 
- When Run-Command is running, you can access it with the**Windows** key +**R** keyboard shortcut that usually[opens the native Run accessory](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Run-Command remains running with its window closed. So, you can press the**Windows** +**R** hotkey to re-open Run-Command whenever you need it.
+ When Run-Command is running, you can access it with the**Windows** key +**R** keyboard shortcut that usually [opens the native Run accessory](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Run-Command remains running with its window closed. So, you can press the**Windows** +**R** hotkey to re-open Run-Command whenever you need it.
 
  However, you can change that keyboard shortcut to something else if preferred. To do so, click the**Options** menu; select**Hot-Key** on that menu to bring up a small window. Then select a key combination in the drop-down menus and click**OK** .
 
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 
  PowerToys is a great piece of kit for adding new features to Windows 11/10\. That software has a PowerToys Run utility you can enable, which looks somewhat different from the native Run accessory. That utility is more like a 2-in-1 quick app launcher and search tool for Windows 11/10\. This is how you can add that Run replacement to Windows 11/10:
 
-1. Open this[Microsoft PowerToys](https://github.com/microsoft/PowerToys/releases/tag/v0.66.0) page.
+1. Open this [Microsoft PowerToys](https://github.com/microsoft/PowerToys/releases/tag/v0.66.0) page.
 2. Click the**PowerToysSetup-0.66.0-x64.exe** download link.
 3. Next, right-click**Start** to access a Power User menu and select**File Explorer** on it.
 4. Navigate to the folder containing the downloaded PowerToys setup file.
@@ -139,3 +139,53 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-twit-trends-unveiled-10-heatwave-videos-that-are-viral/"><u>In 2024, Twit-Trends Unveiled  10 Heatwave Videos That Are Viral</u></a></li>
+<li><a href="https://windows11.techidaily.com/cep-library-integration/"><u>CEP Library Integration</u></a></li>
+<li><a href="https://windows11.techidaily.com/breathe-life-into-dead-wi-fi-connections-on-windows-10-with-this-list/"><u>Breathe Life Into Dead Wi-Fi Connections on Windows 10 with This List</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719306890834-key-collectors-rejoice-get-the-perfect-pair-of-keys-and-essential-windows-11-612lifetime/"><u>Key Collectors Rejoice – Get the Perfect Pair of Keys & Essential Windows 11, $6.12/Lifetime</u></a></li>
+<li><a href="https://windows11.techidaily.com/adapting-windows-11-multifaceted-monitor-wallpaper-strategy/"><u>Adapting Windows 11: Multifaceted Monitor Wallpaper Strategy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-timing-duration-for-a-20mb-high-definition-video/"><u>[Updated] Timing Duration for a 20Mb High-Definition Video</u></a></li>
+<li><a href="https://windows11.techidaily.com/chrome-files-upload-hurdle-heres-how-to-clear-it-on-windows/"><u>Chrome Files Upload Hurdle? Here's How to Clear It on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-sync-launch-sticky-notes-with-windows-start-up/"><u>Boosting Sync: Launch Sticky Notes with Windows Start-Up</u></a></li>
+<li><a href="https://windows11.techidaily.com/blackview-minipc-expansive-but-sluggish-storage/"><u>Blackview MiniPC: Expansive but Sluggish Storage</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-streamline-your-content-google-podcast-upload/"><u>[New] Streamline Your Content  Google Podcast Upload</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-photo-and-video-display-apps-from-xi-to-x-for-2024/"><u>Best Photo & Video Display Apps  From XI to X for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/arrows-at-a-standstill-try-these-remedies/"><u>Arrows at a Standstill? Try These Remedies</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/balance-usage-and-energy-efficiency-with-automatic-rest-mode/"><u>Balance Usage & Energy Efficiency with Automatic Rest Mode</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-utilizing-jump-cuts-to-amplify-your-vlog-impact/"><u>[Updated] 2024 Approved  Utilizing Jump Cuts to Amplify Your Vlog Impact</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-the-essence-of-facebooks-structure/"><u>Decoding The Essence of Facebook's Structure</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-seamless-blending-of-audio-with-visuals-using-quicktime-tools-and-techniques/"><u>Updated Seamless Blending of Audio with Visuals Using QuickTime Tools and Techniques</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-step-by-step-guide-to-analyzing-youtube-engagement/"><u>[New] In 2024, Step-by-Step Guide to Analyzing YouTube Engagement</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/logo-design-101-tips-to-make-your-podcast-stand-out-for-2024/"><u>Logo Design 101  Tips to Make Your Podcast Stand Out for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-profit-potential-per-viewer-youtubes-financial-dynamics/"><u>[New] Profit Potential Per Viewer  YouTube's Financial Dynamics</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-x-ology-vintage-iphone-xx-photography-for-2024/"><u>[New] X-Ology  Vintage iPhone Xx Photography for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/accessing-windows-11s-screen-capture-shortcut/"><u>Accessing Windows 11'S Screen Capture Shortcut</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-application-support-limitations-on-windows-7/"><u>Addressing Application Support Limitations on Windows 7</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-overload-on-windows-applications-0x80860010/"><u>Bypassing Overload on Windows Applications (0X80860010)</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-faulty-alerts-from-windows-10s-shield/"><u>Addressing Faulty Alerts From Windows 10'S Shield</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-windows-printer-issues-a-guide-for-unresponsive-print-commands/"><u>Addressing Windows Printer Issues: A Guide for Unresponsive Print Commands.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-xiaomi-redmi-a2-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Xiaomi Redmi A2 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/audio-capture-while-screen-recording-with-snipping-tool-max-156/"><u>Audio Capture While Screen Recording with Snipping Tool (Max 156)</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-failed-rpc-calls-top-tips-for-windows-users/"><u>Addressing Failed RPC Calls: Top Tips for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-creative-routes-to-activate-windows-utilities/"><u>5 Creative Routes to Activate Windows Utilities</u></a></li>
+<li><a href="https://windows11.techidaily.com/building-a-linux-ecosystem-within-hyper-v-windows-environment/"><u>Building a Linux Ecosystem Within Hyper-V Windows Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719311224382-tackle-snip-and-sketch-obstacles-to-perfectly-capture-entire-screen/"><u>Tackle Snip & Sketch Obstacles to Perfectly Capture Entire Screen.</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-essential-fixes-to-tackle-the-http-too-many-requests-issue-in-windows/"><u>7 Essential Fixes to Tackle the HTTP Too Many Requests Issue in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-harmonious-symphony-taming-your-computers-audio-irqs/"><u>A Harmonious Symphony: Taming Your Computer’s Audio IRQs</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-captioning-faults-in-win-10-systems/"><u>Addressing Captioning Faults in Win 10 Systems</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-motorola-g54-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola G54 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-guide-to-overhauling-the-settings-app-in-win11/"><u>A Guide to Overhauling the Settings App in Win11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-audibly-enhance-videos-shared-as-tweets-for-2024/"><u>[New] Audibly Enhance Videos Shared as Tweets for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-cutting-edge-practices-video-acceleration-techniques/"><u>In 2024, Cutting-Edge Practices  Video Acceleration Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-key-steps-to-overcome-google-chrome-profile-faults/"><u>7 Key Steps to Overcome Google Chrome Profile Faults</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/become-an-instant-contributor-at-a-tiktok-gathering-for-2024/"><u>Become an Instant Contributor at a TikTok Gathering for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/picart-tips-for-perfect-background-removal/"><u>PicArt Tips for Perfect Background Removal</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-master-your-broadcast-top-obs-screencast-tools-explored/"><u>[Updated] In 2024, Master Your Broadcast  Top OBS Screencast Tools Explored</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-discover-the-power-of-5-editors-beyond-youtubes-boundaries/"><u>[Updated] 2024 Approved  Discover the Power of 5 Editors Beyond Youtube's Boundaries</u></a></li>
+</ul></div>

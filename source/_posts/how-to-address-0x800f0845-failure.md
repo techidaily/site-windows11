@@ -1,7 +1,7 @@
 ---
 title: How to Address 0X800f0845 Failure
-date: 2024-06-25T12:23:56.022Z
-updated: 2024-06-26T12:23:56.022Z
+date: 2024-07-11T21:44:29.697Z
+updated: 2024-07-12T21:44:29.697Z
 tags:
   - windows10
   - windows11
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
 
  It's always better to try fixing Windows update errors first by using the Windows Update Troubleshooter. It scans your PC for problems, attempts to resolve them, and then applies the fixes.
 
-1. Right-click the**Windows icon** on the taskbar and select**Settings** . Or use the[many ways to open Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
+1. Right-click the**Windows icon** on the taskbar and select**Settings** . Or use the [many ways to open Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
 2. On the left pane in**Settings** , click**System** . On the**System** page, click**Troubleshoot** on the right pane.
 3. In the**Troubleshoot** page, select**Other troubleshooters** .  
 ![Select Other Trouble-shooters in Troubleshoot Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/troubleshoot-other-trouble-shooters.jpg)
@@ -69,7 +69,7 @@ Try updating Windows now and see if the update gets installed.
 
  And if the SFC doesn't work properly, and can’t repair your system files, you should run the DISM or Deployment Image Servicing and Management tool. DISM is a command-line tool that can be used to service and repair Windows images, including those used for Windows Recovery and Windows Setup.
 
- To know how to run the SFC and DSIM, you can explore our guide on[CHKSDK, SFC, and DISM, and how they work](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) .
+ To know how to run the SFC and DSIM, you can explore our guide on [CHKSDK, SFC, and DISM, and how they work](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) .
 
  These scans will take a few minutes to run. If the 0x800f0845 error was caused by corrupted files, it should have been fixed. So try updating Windows again.
 
@@ -107,7 +107,7 @@ net start cryptsvc`
 
  What if none of the above solutions works for you? No worries, just install the update manually from the Microsoft Update Catalog.
 
-1. Open your browser to search for and visit the[Microsoft Update Catalog website](https://www.catalog.update.microsoft.com/Home.aspx) .
+1. Open your browser to search for and visit the [Microsoft Update Catalog website](https://www.catalog.update.microsoft.com/Home.aspx) .
 2. Copy the number of the cumulative update or any other update that failed to install from the**Windows Update history** page. Type the update number in the**Search bar** on the**Microsoft Update Catalog** page and hit the**Search** button.  
 ![Search For Update On Microsoft Update Catalog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/search-on-microsoft-update-catalog.jpg)
 3. The matching updates will show up on the results page. Check the update that applies to your Windows PC—whether it is for Windows 10 or 11, and whether it is for an ARM64-based system or an x64-based system.  
@@ -149,3 +149,43 @@ net start cryptsvc`
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/the-complete-gamers-manual-to-winning-with-windows/"><u>The Complete Gamers' Manual to Winning With Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-digital-artisans-guide-mastering-screen-recordings-in-macos-for-2024/"><u>[Updated] The Digital Artisan's Guide  Mastering Screen Recordings in macOS for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-igtv-sharing-via-insta-stories/"><u>[New] Mastering IGTV Sharing via Insta Stories</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-win1011-system-breakdown-code-0xc0000001/"><u>Addressing Win10/11 System Breakdown: Code 0xC0000001</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-free-harmonies-for-deep-calm-meditation-sessions/"><u>[New] Top 10 Free Harmonies for Deep, Calm Meditation Sessions</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-code-0x0001-complication-in-windows-11/"><u>Unraveling Code 0X0001 Complication in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-11-eliminating-invisible-logins/"><u>Troubleshooting Windows 11: Eliminating Invisible Logins</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/sudden-shadow-immediate-copyright-issue/"><u>Sudden Shadow  Immediate Copyright Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-list-of-6-performance-monitor-apps-for-pcs/"><u>The Ultimate List of 6 Performance Monitor Apps For PCs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-sweets-and-snacks-tiktoks-top-food-trends/"><u>[New] 2024 Approved  Sweets & Snacks  TikTok's Top Food Trends</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-resizing-discover-the-top-six-efficient-methods/"><u>Windows 11 Resizing: Discover the Top Six Efficient Methods</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-correct-aspect-ratio-use-in-micro-video-tweets/"><u>2024 Approved  Correct Aspect Ratio Use in Micro-Video Tweets</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-adjusting-touchpad-sensitivity-in-windows/"><u>The Ultimate Guide to Adjusting Touchpad Sensitivity in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/split-screen-style-selecting-separate-themes-for-each-windows-display/"><u>Split Screen Style: Selecting Separate Themes for Each Windows Display</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-apowersofts-latest-capture-tech-for-efficient-pc-recording/"><u>[Updated] 2024 Approved  Apowersoft's Latest Capture Tech for Efficient PC Recording</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-5-tips-for-optimizing-wsl-2-on-modern-windows/"><u>Top 5 Tips for Optimizing WSL 2 on Modern Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/silencing-the-cacophony-soundcard-irq-fixes/"><u>Silencing the Cacophony: Soundcard IRQ Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/access-control-microphone-and-camera-via-edge-protection/"><u>Access Control: Microphone and Camera via Edge Protection</u></a></li>
+<li><a href="https://windows11.techidaily.com/tricks-save-and-access-onedrive-around-clients/"><u>Tricks: Save & Access OneDrive Around Clients</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-beef-to-brilliance-jake-pauls-youtube-transformation/"><u>[Updated] 2024 Approved  From Beef to Brilliance  Jake Paul’s Youtube Transformation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-enchanting-viewers-the-art-of-crafting-engaging-youtube-description-templates/"><u>[New] In 2024, Enchanting Viewers  The Art of Crafting Engaging YouTube Description Templates</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-disabling-onedrive-icon-on-windows-11-explore/"><u>Strategies for Disabling OneDrive Icon on Windows 11 Explore</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/unbiased-reviews-finding-the-perfect-youtube-to-mp3-converter/"><u>Unbiased Reviews Finding the Perfect YouTube to MP3 Converter</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-elevate-with-25-customization-tips/"><u>Windows 11: Elevate with 25 Customization Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/revitalizing-fall-guys-gaming-experience-after-disconnections-on-windows/"><u>Revitalizing Fall Guys Gaming Experience After Disconnections on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/reveal-hidden-5ghz-networks-on-windows-11-quick-remedies/"><u>Reveal Hidden 5GHz Networks on Windows 11: Quick Remedies</u></a></li>
+<li><a href="https://windows11.techidaily.com/altering-winterrals-visual-theme/"><u>Altering WinTerral's Visual Theme</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-up-a-permanent-delete-toolbar-in-windows-1011s-trash/"><u>Setting Up a Permanent Delete Toolbar in Windows 10/11'S Trash</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-unlock-stunning-bokeh-top-mobile-apps-for-ios-and-android-users-for-2024/"><u>Updated Unlock Stunning Bokeh Top Mobile Apps for iOS and Android Users for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-your-security-crafting-unique-lock-patterns-for-windows-11/"><u>Revolutionize Your Security: Crafting Unique Lock Patterns for Windows 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-ballot-battlegrounds-prime-election-strategy-games/"><u>In 2024, Ballot Battlegrounds  Prime Election Strategy Games</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-all-about-lightroom-a-comprehensive-android-study/"><u>[Updated] In 2024, All About Lightroom  A Comprehensive Android Study</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-windows-no-audio-output-issue/"><u>Solving Windows: 'No Audio Output' Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-image-enhancement-building-engaging-slideshows-and-fixing-windows-11-photo-flaws/"><u>The Art of Image Enhancement: Building Engaging Slideshows & Fixing Windows 11 Photo Flaws</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-rapidly-rendering-fortnite-cover-images/"><u>In 2024, Rapidly Rendering Fortnite Cover Images</u></a></li>
+</ul></div>

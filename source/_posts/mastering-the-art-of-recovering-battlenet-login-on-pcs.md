@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Recovering Battle.net Login on PCs
-date: 2024-06-25T12:44:14.482Z
-updated: 2024-06-26T12:44:14.482Z
+date: 2024-07-11T22:08:00.221Z
+updated: 2024-07-12T22:08:00.221Z
 tags:
   - windows10
   - windows11
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/c8c0a761aab973c79a26bc00df92df723a573173c
 
 This is how you can erase those folders in Windows 11/10:
 
-1. First, make sure there aren’t any Battle.net background processes running by[opening Task Manager’s Process tab](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) . Disable any Battle.net processes you see there by selecting them and clicking**End task** .
+1. First, make sure there aren’t any Battle.net background processes running by [opening Task Manager’s Process tab](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) . Disable any Battle.net processes you see there by selecting them and clicking**End task** .
 2. Hold the**Windows** keyboard key and press**E** to view the Explorer file and folder manager.
 3. Clear Explorer’s folder path bar, and input this directory location there: C:\\ProgramData  
 ![The Blizzard Entertainment folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/blizzard-entertainment-folder.jpg)
@@ -78,7 +78,7 @@ This is how you can erase those folders in Windows 11/10:
 4. Select**OK** to save the new WDF options.
 5. Try opening Battle.net again with the firewall disabled.
 
- If Battle.net now starts, check Windows Defender Firewall’s app permission settings. Make sure the Battle.net software is allowed through that firewall. Check out our article about[allowing apps through the Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) for full instructions. Then you can turn WDF back on.
+ If Battle.net now starts, check Windows Defender Firewall’s app permission settings. Make sure the Battle.net software is allowed through that firewall. Check out our article about [allowing apps through the Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) for full instructions. Then you can turn WDF back on.
 
 ## 5\. Disable Third-Party Antivirus and Firewall Software
 
@@ -100,11 +100,11 @@ This is how you can erase those folders in Windows 11/10:
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-use-a-proxy-server-checkbox.jpg)
 7. Press the**OK > Apply** buttons.
 
- Malware can activate a proxy server setting on Windows. If you discover a proxy server enabled, but didn’t select it yourself, consider manually running an antivirus scan. Our[Windows Security (Defender) guide](https://www.makeuseof.com/windows-11-quick-security-guide/) tells you how to run a scan with the built-in antivirus utility on Windows.
+ Malware can activate a proxy server setting on Windows. If you discover a proxy server enabled, but didn’t select it yourself, consider manually running an antivirus scan. Our [Windows Security (Defender) guide](https://www.makeuseof.com/windows-11-quick-security-guide/) tells you how to run a scan with the built-in antivirus utility on Windows.
 
 ## 7\. Set Windows 11/10 to Clean Boot
 
- Clean-booting Windows is when you boot a PC without any third-party startup programs or services automatically starting. Configuring a clean boot disables all such startup apps and services. Our[guide for performing a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) provides details about how to remove all third-party software and services from the startup.
+ Clean-booting Windows is when you boot a PC without any third-party startup programs or services automatically starting. Configuring a clean boot disables all such startup apps and services. Our [guide for performing a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) provides details about how to remove all third-party software and services from the startup.
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-services-tab.jpg)
 
@@ -116,7 +116,7 @@ This is how you can erase those folders in Windows 11/10:
 
 ![The Programs and Features Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-programs-and-features-applet.jpg)
 
- You can remove Battle.net in Control Panel’s Programs and Features applet, as outlined in our[guide for uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . After uninstalling the game launcher, open the[Battle.net desktop app](https://www.blizzard.com/en-us/apps/battle.net/desktop) download page; click**Download for Windows** on that page. Then double-click the**Battle.net-Setup.exe** file in whatever folder it downloaded to, and go through the setup wizard to install.
+ You can remove Battle.net in Control Panel’s Programs and Features applet, as outlined in our [guide for uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . After uninstalling the game launcher, open the [Battle.net desktop app](https://www.blizzard.com/en-us/apps/battle.net/desktop) download page; click**Download for Windows** on that page. Then double-click the**Battle.net-Setup.exe** file in whatever folder it downloaded to, and go through the setup wizard to install.
 
 ## Enjoy Blizzard Battle.net Games Again
 
@@ -140,3 +140,42 @@ This is how you can erase those folders in Windows 11/10:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-mac-compatible-green-screen-software-top-picks-and-features/"><u>In 2024, Mac Compatible Green Screen Software Top Picks and Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-comprehensive-guide-to-wipeout-ms-audit-reports-on-your-pc/"><u>A Comprehensive Guide to Wipeout MS Audit Reports on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-linux-with-windows-technologies-and-features/"><u>Boosting Linux With Windows Technologies and Features</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-smart-8-plus-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Smart 8 Plus to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-cinematic-capture-top-picks-from-video-experts/"><u>In 2024, Cinematic Capture  Top Picks From Video Experts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-essential-knowledge-what-to-understand-before-using-an-m4r-converter/"><u>Updated 2024 Approved Essential Knowledge What to Understand Before Using an M4R Converter</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-how-you-handle-deleted-items-on-pc/"><u>Adjusting How You Handle Deleted Items on PC</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-real-world-application-perfecting-your-instagram-livestream-with-obs/"><u>In 2024, Real-World Application  Perfecting Your Instagram Livestream with OBS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-dynamic-duels-in-digital-realms-the-ultimate-top-10-list/"><u>[Updated] Dynamic Duels in Digital Realms  The Ultimate Top-10 List</u></a></li>
+<li><a href="https://windows11.techidaily.com/building-your-signature-input-scheme-on-win11/"><u>Building Your Signature Input Scheme on Win11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-flawlessrecorder-suite-w10-edition/"><u>[New] In 2024, FlawlessRecorder Suite W10 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/augmenting-macos-capabilities-via-windows-applications/"><u>Augmenting macOS Capabilities via Windows Applications</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-quit-notifications-from-roblox-on-your-computer/"><u>Avoiding Quit Notifications From Roblox on Your Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/adapting-to-new-gear-your-powertoys-configuration-guide/"><u>Adapting To New Gear: Your PowerToys Configuration Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-best-alternatives-for-windows-snipping-efficient-screen-grab-techniques/"><u>5 Best Alternatives for Windows Snipping: Efficient Screen Grab Techniques</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-nokia-130-music-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Nokia 130 Music Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-culinary-mastery-the-top-7-tips-to-elevate-your-kitchen-filmography-for-2024/"><u>[New] Culinary Mastery  The Top 7 Tips to Elevate Your Kitchen Filmography for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-gaps-in-time-remaining-estimates-of-windows-11-laptops/"><u>Addressing Gaps in Time Remaining Estimates of Windows 11 Laptops</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-expert-advice-for-achieving-larger-head-effects-in-tiktok-vfx/"><u>[Updated] 2024 Approved  Expert Advice for Achieving Larger Head Effects in TikTok VFX</u></a></li>
+<li><a href="https://windows11.techidaily.com/asus-zenbook-14-the-windows-mac-battle-continues/"><u>ASUS Zenbook 14: The Windows-Mac Battle Continues</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-reversing-live-action-on-twitch-a-comprehensive-guide/"><u>[New] Reversing Live Action on Twitch  A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-resetting-video-issue-for-smooth-windows-use/"><u>Addressing Resetting Video Issue for Smooth Windows Use</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-p55plus-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P55+ Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/cease-windows-logging-for-app-execution-dates/"><u>Cease Windows' Logging for App Execution Dates</u></a></li>
+<li><a href="https://windows11.techidaily.com/changing-onedrive-storage-address-in-windows-10/"><u>Changing OneDrive Storage Address in Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-ways-to-fix-the-application-made-too-many-requests-error-0x80860010-on-windows/"><u>7 Ways to Fix the Application Made Too Many Requests Error (0X80860010) on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719329062784-overcoming-full-screen-capture-annoyances-with-these-4-strategies/"><u>Overcoming Full-Screen Capture Annoyances with These 4 Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/advance-work-efficiency-with-windows-smart-launcher-tool/"><u>Advance Work Efficiency with Windows' Smart Launcher Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-windows-troublesome-dism-error-0x800f082f/"><u>Bypassing Windows' Troublesome DISM: Error 0X800F082F</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-vagrant-boot-failures-on-win11plusvmware/"><u>Addressing Vagrant Boot Failures on Win11+VMware</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-practical-manual-for-windowss-pink-flash-dilemnas/"><u>A Practical Manual for Windows's Pink Flash Dilemnas</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719373142604-sidestep-common-snip-and-sketch-screenshot-hurdles-4-fixes/"><u>Sidestep Common Snip & Sketch Screenshot Hurdles: 4 Fixes.</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-your-windows-11-search-with-these-five-essentials/"><u>Boost Your Windows 11 Search with These Five Essentials</u></a></li>
+</ul></div>

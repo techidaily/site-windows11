@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Tasks: Initiating Administrative PowerShell on Win11"
-date: 2024-06-25T12:31:10.344Z
-updated: 2024-06-26T12:31:10.344Z
+date: 2024-07-11T21:52:50.652Z
+updated: 2024-07-12T21:52:50.652Z
 tags:
   - windows10
   - windows11
@@ -66,7 +66,7 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 
  A command prompt lets you run almost any program or application on your Windows device. To run Windows PowerShell using this tool, follow these steps:
 
-1. Run Command Prompt as an Administrator (see[how to open the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).  
+1. Run Command Prompt as an Administrator (see [how to open the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).  
 ![Open Windows PowerShell Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-command-prompt.jpg)
 2. In the elevated command prompt, copy and paste the given command line:  
 `powershell Start-Process powershell -Verb runAs`
@@ -90,7 +90,7 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 
  Here's how to start Windows PowerShell as an administrator with this tool.
 
-1. Press**Ctrl + Shift + Esc** on your keyboard to open Task Manager (see[how to open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) for more tips).
+1. Press**Ctrl + Shift + Esc** on your keyboard to open Task Manager (see [how to open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) for more tips).
 2. Select**Run new task** from the top of the page.
 3. In the pop-up menu, type "PowerShell" and check the "Create this task with administrative privileges" box.  
 ![Open Windows PowerShell Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-task-manager.jpg)
@@ -100,7 +100,7 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 
  Windows Control Panel is a software program that contains many tools for managing settings on Windows. With this tool, you can launch almost any application installed on your computer. Follow these steps to open Windows PowerShell as an administrator:
 
-1. Use one of the many[ways to open the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) .
+1. Use one of the many [ways to open the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) .
 2. Click on**System and Security** .
 3. Scroll down to the bottom and select**Windows Tools** .
 4. Right-click on**Windows PowerShell** and select**Run as administrator** .  
@@ -126,7 +126,7 @@ C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
 
  This method involves creating a batch file to open Windows PowerShell as an administrator. Here's how to do it:
 
-1. Press**Win + R** , type "Notepad", and hit**Enter** to open it (see[how to open Notepad](https://www.makeuseof.com/windows-11-open-notepad/) for more ways).
+1. Press**Win + R** , type "Notepad", and hit**Enter** to open it (see [how to open Notepad](https://www.makeuseof.com/windows-11-open-notepad/) for more ways).
 2. In Notepad, copy and paste the following command line:  
 Powershell.exe -Command "& {Start-Process Powershell.exe -Verb RunAs}"
 3. Now click on**File** and select**Save as** from the menu list.
@@ -157,3 +157,51 @@ Powershell.exe -Command "& {Start-Process Powershell.exe -Verb RunAs}"
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/dive-into-group-chats-joining-zoom-meetings-on-phone-for-2024/"><u>Dive Into Group Chats  Joining Zoom Meetings on Phone for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-your-smartphone-writescreen-functionality-for-windows-11/"><u>Unlocking Your Smartphone' Writescreen Functionality for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-the-endless-void-fixing-xbox-app-errors-in-win11/"><u>Avoiding the Endless Void: Fixing Xbox App Errors in Win11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/strategies-to-solve-obs-fullscreen-breakdowns/"><u>Strategies to Solve OBS Fullscreen Breakdowns</u></a></li>
+<li><a href="https://windows11.techidaily.com/curing-stale-boot-option-imagery/"><u>Curing Stale BOOT Option Imagery</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-break-off-from-discord-integration-pcmobile/"><u>[New] In 2024, Break Off From Discord Integration (PC/Mobile)</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-windows-11-screens-with-custom-wallpaper-panes/"><u>Transform Windows 11 Screens with Custom Wallpaper Panes</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-fixing-steam-file-connections-issue/"><u>Strategies for Fixing Steam File Connections Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/curing-grayed-screen-savers-quick-fixes-for-windows-users/"><u>Curing Grayed Screen Savers: Quick Fixes for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-counteract-d3d11-hardware-failures-in-w11w10/"><u>Strategies to Counteract D3D11 Hardware Failures in W11/W10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-make-a-video-from-photo-with-music/"><u>[New] How to Make a Video From Photo with Music</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-win11-taskbar-icon-dimensions/"><u>Adjusting Win11 Taskbar Icon Dimensions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-secure-quick-and-free-screen-captures-on-windows-8/"><u>2024 Approved  Secure, Quick, & Free Screen Captures on Windows 8</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-error-windows-welcome-cant-read-fingers/"><u>Tackling Error: Windows Welcome Can't Read Fingers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-the-ultimate-list-12-best-audio-converters-for-seamless-conversion/"><u>New The Ultimate List 12 Best Audio Converters for Seamless Conversion</u></a></li>
+<li><a href="https://windows11.techidaily.com/curb-intrusive-windows-scrolling-for-smooth-screens/"><u>Curb Intrusive Windows Scrolling for Smooth Screens</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-enthusiasts-rejoice-black-friday-offer-for-lifetime-612-windows-11-savings/"><u>Tech Enthusiasts Rejoice - Black Friday Offer for Lifetime $6.12 Windows 11 Savings</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-network-path-with-fixed-ea-server-error-in-os/"><u>Restoring Network Path with Fixed EA Server Error in OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-top-9-truths-about-why-pc-computers-win-over-macos-9/"><u>The Top 9 Truths About Why PC Computers Win over MacOS (#9)</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-11-internet-options/"><u>Unlocking Windows 11 Internet Options</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-essential-guide-to-creating-stellar-films-with-win11s-movie-maker/"><u>[Updated] In 2024, Essential Guide to Creating Stellar Films with Win11's Movie Maker</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-making-marks-trendsetting-on-social-media-platforms/"><u>[New] 2024 Approved  Making Marks  Trendsetting on Social Media Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-best-way-to-setup-games-on-the-windows-xbox-app/"><u>The Best Way to Setup Games on the Windows Xbox App</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/the-auto-transcription-experts-choice-top-6-software-picks/"><u>The Auto-Transcription Experts Choice – Top 6 Software Picks</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-reclaiming-standard-windows-11-search-preferences/"><u>Step-by-Step: Reclaiming Standard Windows 11 Search Preferences</u></a></li>
+<li><a href="https://windows11.techidaily.com/voice-your-ideas-type-them-out-with-openais-whisper/"><u>Voice Your Ideas, Type Them Out With OpenAI’s Whisper</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-github-desktop-with-windows-11-os/"><u>Step-by-Step Guide to GitHub Desktop with Windows 11 OS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/global-iptv-connectivity-solutions/"><u>Global IPTV Connectivity Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/battle-of-the-packagers-chocolatey-or-wm-on-windows-pcs/"><u>Battle of the Packagers: Chocolatey or WM on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-walls-of-windows-icons/"><u>Taming the Walls of Windows Icons</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-application-startup-hexadecimal-issue-error/"><u>Unraveling The Application Startup Hexadecimal Issue (Error)</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-restore-fn-key-brighness-in-windows-11/"><u>Steps to Restore Fn Key Brighness in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/correction-of-microsoft-store-error-0x80073cf3-on-windows-11/"><u>Correction of Microsoft Store Error 0X80073cf3 on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-optimal-sleep-cycles-for-windows-devices/"><u>Unlocking Optimal Sleep Cycles for Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-solution-for-inaccessible-administrative-mode/"><u>Comprehensive Solution for Inaccessible Administrative Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/taking-flight-with-windows-accessibility-novice-style/"><u>Taking Flight with Windows Accessibility, Novice Style</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-time-tracking-for-youtube-videos/"><u>In 2024, Streamlining Time Tracking for YouTube Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-smart-pick-android-apps-for-large-video-meetings/"><u>2024 Approved  Smart Pick  Android Apps for Large Video Meetings</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-audacity-to-mp3-conversion-a-comprehensive-tutorial/"><u>New Audacity to MP3 Conversion A Comprehensive Tutorial</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exclusive-dive-into-sj7s-high-res-star-cam-technology/"><u>[New] Exclusive Dive Into SJ7’s High-Res Star Cam Technology</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-techniques-finding-out-charge-status-win-1011/"><u>Advanced Techniques: Finding Out Charge Status (Win 10/11)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/crafting-masterpieces-top-meme-templates/"><u>Crafting Masterpieces  Top Meme Templates</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-steps-delete-email-after-signing-in/"><u>Troubleshooting Steps: Delete Email After Signing In</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-the-impact-of-ntfs-compression-on-data-saving/"><u>Understanding the Impact of NTFS Compression on Data Saving</u></a></li>
+</ul></div>

@@ -1,0 +1,318 @@
+---
+title: Crafting Your Own Windows Voice Transcription Software Using AHK and Whisper
+date: 2024-07-11T22:30:12.848Z
+updated: 2024-07-12T22:30:12.848Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Crafting Your Own Windows Voice Transcription Software Using AHK and Whisper
+excerpt: This Article Describes Crafting Your Own Windows Voice Transcription Software Using AHK and Whisper
+keywords: Voice Transcribing AI,AHK for Windows Speech,Whisper in AHK,DIY Voice Transcription,Windows Speech Software,AHK-Powered Transcription,Coding Voice Recognition
+thumbnail: https://thmb.techidaily.com/f8ecdc6c33144a8756139b14ccc37972ba5fac5122e75e4781350dfcc5ba234f.jpg
+---
+
+## Crafting Your Own Windows Voice Transcription Software Using AHK and Whisper
+
+ OpenAI's Whisper is one of the most powerful solutions for turning your voice into text. However, Whisper can also be annoying to use, since you have to type commands to transcribe an audio file into text. But why do that when we've got AutoHotkey?
+
+ With AutoHotkey, we can effortlessly create a basic GUI for command-line apps like Whisper. So, let's do that and see how you can create your own transcription app by combining AutoHotkey's GUI-making superpowers with OpenAI's Whisper as the "brain" behind the buttons.
+
+## Laying the Foundations for Whisper and AutoHotkey
+
+[You can make cool scripts with AutoHotkey](https://www.makeuseof.com/tag/10-cool-autohotkey-scripts-make/), but that's not all it can do. For this project, we'll use AutoHotkey to create a GUI for Whisper. This will allow us to use OpenAI's voice recognition AI tool by clicking buttons and customizing its functionality using menus instead of typing commands.
+
+ However, this means that you'll need to have both AutoHotkey and Whisper installed to follow along.
+
+ For the first part of the equation, you can [download AutoHotkey from its official site](https://www.AutoHotkey.com/), then run its installer and follow the presented steps.
+
+ Note that we'll use the older "v1" version of the scripting language, not the new v2\. That's important because the two versions use a somewhat different syntax. What we'll see here might not work if using the new v2\.
+
+ The second part is more complicated, but you can learn how to do it by checking our article on [how to turn your voice into text with OpenAI's Whisper for Windows](https://www.makeuseof.com/dictate-documents-openai-whisper/).
+
+ With both installed, our plan of action is as follows:
+
+1. Create a GUI with elements for Whisper's variables and values.
+2. Create functions to grab values from the interface, select files and folders, and assemble everything into a usable Whisper command.
+3. Run the Whisper command to produce results.
+
+ Of course, you could always use Windows built-in support for Voice Typing, as we saw in our article on [how to start Voice Typing on Windows 11](https://www.makeuseof.com/how-to-start-voice-typing-on-windows-11/). Still, as you'll see while using it, Whisper is much more accurate (but also slower).
+
+ On a more personal note, I should explain that I am not a programmer, and this project is a "remix" of a solution made for personal use.
+
+## How to Make a New AutoHotkey Script
+
+ The first step is to create a new blank script file. Keep it in its own folder, just in case you decide to tweak or build on it, creating more files.
+
+1. Run your favorite file manager (or press **Windows Key** \+ **E** to launch Windows Explorer) and create a folder for your transcription app anywhere you like.  
+![Creating Project Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/creating-project-folder-1.jpg)
+2. Right-click on a blank spot of the window and select **New** \> **AutoHotkey Script** to create an empty script file.  
+![Right Click New Autohotkey Script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/right-click-new-autohotkey-script-1.jpg)
+3. Shift + Right Click on the file to access the full context menu and select to open it with your favorite code or text editor. Windows' own **Notepad** will do.  
+![Shift Right Click Open With Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/shift-right-click-open-with-editor-1.jpg)
+4. Despite being "an empty script", your AHK file will already be pre-populated with some "stuff". Those are useful AutoHotkey variables and flags that define how it should work on your desktop. Ignore them, leave them as they are, and do all your future typing underneath them.  
+![Blank Autohotkey Script In Vs Code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/blank-autohotkey-script-in-vs-code-1.jpg)
+
+## Getting to Know Whisper's Flags
+
+ Since we're making a GUI for a command line app, it's handy to have a reference to its major variables and flags that we'll be using in our project. You can check them out by reading Whisper's documentation, visiting [its official Github page](https://github.com/openai/whisper), and running it in your terminal.
+
+![Whisper Flags Note In Script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/whisper-flags-note-in-script-1.jpg)
+
+ We'll list the ones we'll use in this project for convenience. We suggest you add them to your script as comments (in separate lines, each beginning with a ";" character followed by a space).
+
+`; Whisper Flags:; --initial_prompt PROMPT_TEXT; --output_format txt; -o OUTPUT_FOLDER; --model MODEL_TO_USE; --task TRANSCRIBE/TRANSLATE; --language EN/EL`
+
+## Creating the GUI With AutoHotkey
+
+ We suggest you split your script into sections using comments like we did to keep it organized. We'll start by defining some variables, continue to the actual GUI, and end by defining its functions.
+
+### Establishing the Hidden Variables
+
+ We begin with a section where we'll define variables we may want to change in the future, but not so often that we'd like to expose them through the GUI, over-complicating it. You can type "Variable\_Name = Content or value of the variable" with one variable and value pair per line.
+
+ For this project, we've defined a **OutputFormat** variable that we set to the "**txt**" value and a **WhisperExecutable** variable stating **Whisper's executable file name**. This way, if we want to use the same solution in the future to create SRT subtitle files instead of TXT documents or upgrade Whisper/switch to an alternative app, we can adjust the values of those variables on that single spot instead of throughout the script.
+
+`OutputFormat = txtWhisperExecutable = whisper`
+
+![Defining Script Variables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/defining-script-variables-1.jpg)
+
+### Setting Up the User Options
+
+ When using Whisper on the command line, three of its flags allow you to define:
+
+* If you're doing **translation** or **transcription**
+* The audio file's **language**
+* The language **model** you want to use (various sizes are available, each affecting performance VS quality of results).
+
+ The easiest way to offer the same functionality through a GUI is through tried and tested drop-down lists. The syntax for adding a drop-down list to an AutoHotkey GUI is as follows:
+
+`Gui, Add, DropDownList, xPosition yPosition wWidth hHeight vVariable_that_will_hold_selected_value, optionA|optionB|default_optionC||optionD|`
+
+ Based on that, let's add three drop-down lists to our script for selecting Whisper's language (between English/en and Greek/el), model (tiny, base, small, medium, large), and task type (transcribe or translate).
+
+`Gui, Add, DropDownList, x5 y5 w165 h50 vSelectedLanguage, en||el  
+Gui, Add, DropDownList, x175 y5 w165 h100 vSelectedModel, tiny|base|small||medium|large|  
+Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
+
+ To set an option as the default selection, use a double pipe symbol ("|") after it. You can see that, in our example, we've set our language to **en**, SelectedModel to **small**, and TaskType to **transcribe**.
+
+![Defining Gui Drop Down Lists](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/defining-gui-drop-down-lists-1.jpg)
+
+### How to Guide Whisper
+
+ Since Whisper is AI-based, there's no way to have absolute control over how Whisper transcribes audio. It's free to choose what it considers optimal.
+
+ However, like other AI solutions, Whisper can accept user prompts. By crafting a prompt, you can "guide" how it transcribes your audio.
+
+ Did the solution we're making fail to Transcribe something correctly? You can try "explaining" to Whisper "what the voice file is about", including the syntax of words, acronyms, and phrases in your prompt as you want them to appear in the transcription. For that, we'll add an AutoHotkey Text Edit field.
+
+ The syntax is not too different than what we used for adding drop-down lists above:
+
+`Gui, Add, Edit, x5 w505 h400 vPromptText, %PromptText%`
+
+ The "%PromptText%" at the end "tells" AHK to show the PromptText variable's content (if it's already assigned a value) within the text field. It won't show anything in the script we're making, but consider it a placeholder for when you eventually tweak the script in the future also to save and load prompts!
+
+ Would you prefer to assign a predefined value to the **PromptText** variable? Add something like the following to the **Variables** section of the script. Remember to replace "Your Name's" with your actual name.
+
+`PromptText = Transcription of Your Name's notes`
+
+![Defining Prompt Text Edit Field](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/defining-prompt-text-edit-field-1.jpg)
+
+### Setting Up the Action Buttons
+
+ For choosing files, folders, and running Whisper after we've set everything up, it's better to use buttons. You can add buttons to an AHK-made interface using the following:
+
+`Gui, Add, Button, xPosition yPosition wWidth hHeight gFunction_To_Perform, Button Text`
+
+![Adding Action Buttons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-action-buttons-1.jpg)
+
+ Notice that unlike variables in GUI elements, which begin with the letter "v", function names start with "g", for "Go (to this spot of the script)".
+
+ A single button of an AHK interface can also be deemed "the default one", which will be activated if you don't click anywhere on the GUI and press **Enter**. This is defined by adding "**default**" in the coordinates-and-function section, as you'll notice in our "OK" button:
+
+`Gui, Add, Button, x5 w505 h50 gSelectFile, Load FileGui, Add, Button, x5 w505 h50 gSelectFolder, Choose Output Folder  
+​​​​​​​Gui, Add, Button, Default x5 w505 h50 gButtonSubmit, OK`
+
+ With the above, we're defining three buttons:
+
+* One labeled "**Load File**" that, when clicked, will run the **SelectFile** function.
+* One labeled "**Choose Output Folder**", which will run the **SelectFolder** function.
+* One labeled "**OK**", selected by default, "calling" the **ButtonSubmit** function.
+
+### How to Show Your GUI
+
+ Our GUI is ready but won't appear on our screen because we haven't "told" AutoHotkey to show it or what each button should do.
+
+![Autohotkey Gui Show And Return](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/autohotkey-gui-show-and-return-1.jpg)
+
+ For that, add the following two lines below those that define your GUI:
+
+`Gui, ShowReturn`
+
+ The first line "tells" AHK to show the GUI's window, while the second marks the section's end.
+
+## The Functions and Functionality of Our App
+
+ Although we've completed the GUI section, if you try to run the script, it will crash. That's because we're referencing non-existing functions in it. So, our next move is to create those functions.
+
+![Button Functions Highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/button-functions-highlighted-1.jpg)
+
+ The three functions we want are:
+
+* Select an input file.
+* Select the output folder where the transcribed file will be stored.
+* Craft a command that will "assemble" all variables into a usable Whisper command, akin to what we'd type ourselves in a terminal, and then run it.
+
+### Input File Selection
+
+ The first function, which we've already named "**SelectFile**" when we added its button to the GUI, is:
+
+`SelectFile:FileSelectFile, SelectedFileReturn`
+
+![Adding Troubleshooting Message Box To Select File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-troubleshooting-message-box-to-select-file-1.jpg)
+
+**FileSelectFile** is an AutoHotkey function that displays a typical file requester, allowing the user to select a file. **SelectedFile** is the variable in our script that will "hold" the path to the file the user selected.
+
+ However, as you'll see in our screenshots, we've also added the following line right above the function-ending "return":
+
+`MsgBox, %SelectedFile%`
+
+ This will have AHK show a **Message Box** with the selected file after we choose it, which is useful when troubleshooting your script. If this message box shows your selected file's path and name, it's not your file-selecting button or function that requires fixing.
+
+### Output Folder Selection
+
+ The function for selecting a folder is almost identical, with only the command's name and variable changing, to show we're dealing with folders instead of files:
+
+`SelectFolder:FileSelectFolder, SelectedFolderMsgBox, %SelectedFolder%Return`
+
+![Select Folder Function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/select-folder-function-1.jpg)
+
+### The Final Function
+
+ The final function will be the most complicated. Mapped to the OK button, this will "gather" all variable values from the GUI, morph them into a usable command, and then run it.
+
+ We begin by stating the function's beginning and end:
+
+`ButtonSubmit:Return`
+
+![Button Submit Empty Function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/button-submit-empty-function-1.jpg)
+
+ To "grab" all of the GUI's values, add the following under the **ButtonSubmit** line:
+
+`Gui Submit, nohide`
+
+![Button Submit Gui Submit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/button-submit-gui-submit-1.jpg)
+
+ The following line creates a new variable called "**WhisperFlags**". It then adds to it all of the GUI's variables as flags for the Whisper command.
+
+`WhisperFlags = --initial_prompt "%PromptText%" --task %TaskType% --model %SelectedModel% --language %SelectedLanguage% --output_format %OutputFormat% -o "%SelectedFolder%" "%SelectedFile%"`
+
+![Button Submit Collecting Whisper Flags](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/button-submit-collecting-whisper-flag-1.jpg)
+
+ Next, we'll "tell" AHK to use the default terminal (CMD.exe) to run Whisper's executable (that we defined with the **WhisperExecutable** variable) with the GUI's variables (that are now "assembled" in the single **WhisperFlags** variable).
+
+`RunWait, cmd.exe /c %WhisperExecutable% %WhisperFlags%`
+
+![Button Submit Runwait Whisperexecutable And Flag](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/button-submit-runwait-whisperexecutable-and-flag-1.jpg)
+
+ For even easier troubleshooting we've also added a msgbox, as before, but also added the following line:
+
+`Clipboard = %WhisperExecutable% %WhisperFlags%`
+
+ This will copy to the **Clipboard** the complete command issued to CMD. So, if something fails, instead of only seeing the command in one of AHK's message boxes, you'll also have it available in your Clipboard.
+
+![Button Submit Troubleshooting Copy Command To Clipboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/button-submit-troubleshooting-copy-command-to-clipboard-1.jpg)
+
+ Open a terminal, paste the command from the Clipboard, and check the errors that pop up to locate potential problems.
+
+![Checking Out The Command In Cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/checking-out-the-command-in-cmd-1.jpg)
+
+ For example, while working on the script, I initially forgot to have the prompt enclosed within quotation marks. Thus, the command failed, since Whisper tried to parse the prompt as flags.
+
+## Testing and Final Tweaks
+
+ That was it—we've just created a transcription app using AutoHotkey's GUI-making capabilities and a ready-to-use AI transcription solution.
+
+ Try running your script (double-click its file), and you should see your GUI on your screen.
+
+* Change Whisper's settings using the drop-down lists at the top.
+* Type a short description of your transcription (and some terms) in the **Prompt** field.
+* Click the **Load File** button and choose the audio file you want to transcribe.
+* Click the **Choose Output Folder** button and select where the produced text file should be stored.
+* Click on **OK** to unleash Whisper, as configured by your GUI, on your selected audio file, and save its transcription as a text file in the folder you selected.
+
+ If everything worked, go back to your script and either delete or Comment out (by adding a ";" at their beginning) all the troubleshooting functionality (message boxes and copy-to-Clipboard lines).
+
+## Taking Whisper Further With AutoHotkey
+
+ By correctly setting the default values of your GUI and maybe adding a generic prompt, you can turn Whisper into a three-clicks-to-transcribe solution: No paying for commercial solutions, third-party services, fiddling with complicated interfaces, or typing in a terminal.
+
+ With AutoHotkey, we can effortlessly create a basic GUI for command-line apps like Whisper. So, let's do that and see how you can create your own transcription app by combining AutoHotkey's GUI-making superpowers with OpenAI's Whisper as the "brain" behind the buttons.
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/2024-approved-lens-legends-battle-sj6-versus-xiaomis-yi-4k-visionary/"><u>2024 Approved  Lens Legends Battle  SJ6 Versus Xiaomi's Yi 4K Visionary</u></a></li>
+<li><a href="https://windows11.techidaily.com/determining-public-ip-with-system-commands-windows/"><u>Determining Public IP with System Commands, Windows</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/soundtrack-your-youtube-videos-7-free-audio-selections/"><u>Soundtrack Your YouTube Videos  7 Free Audio Selections</u></a></li>
+<li><a href="https://windows11.techidaily.com/combatting-sound-malfunction-fixing-error-code-xc00d36b4/"><u>Combatting Sound Malfunction: Fixing Error Code Xc00d36b4</u></a></li>
+<li><a href="https://windows11.techidaily.com/delving-into-windows-tools-chkdsk-sfc-and-disms-functions/"><u>Delving Into Windows Tools: CHKDSK, SFC & DISM's Functions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-iphone-11-pro-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile iPhone 11 Pro online without SIM Card?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-your-journey-through-the-maze-of-uploading-videos-on-youtube/"><u>In 2024, Your Journey Through the Maze of Uploading Videos on YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/counteracting-dxgierrordeviceremoved-in-win-1011/"><u>Counteracting DXGI_ERROR_DEVICE_REMOVED in Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-x80070091-error-in-windows-steps-for-empty-directory-problem-solving/"><u>Deciphering X80070091 Error in Windows - Steps for 'Empty Directory' Problem Solving</u></a></li>
+<li><a href="https://windows11.techidaily.com/combatting-windows-11s-application-could-not-be-started-error-xc000003e/"><u>Combatting Windows 11'S Application Could Not Be Started Error Xc000003e</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-bsod-0x0000003b-and-resolution-steps-in-windows-os/"><u>Decoding BSOD -0X0000003B & Resolution Steps in Windows OS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-gopro-helmet-mounts-and-how-to-use-them/"><u>[New] Best GoPro Helmet Mounts and How to Use Them</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-here-is-my-choice-of-top-10-adobe-premiere-plugins-tools-that-i-find-the-most-useful-premiere-pro-plugins-fit-quite-well-with-your-video-check-this-arti/"><u>New Here Is My Choice of Top 10 Adobe Premiere Plugins Tools that I Find the Most Useful. Premiere Pro Plugins Fit Quite Well with Your Video. Check This Article to Know More</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-the-divine-interface-of-windows-11-os/"><u>Discover the Divine Interface of Windows 11 OS</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-discover-vitas-full-fledged-video-editor-a-detailed-guide-2024/"><u>[Updated] Discover Vita's Full-Fledged Video Editor  A Detailed Guide, 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-elite-10-audio-alteration-solutions-for-males-seeking-gender-specific-soundscapes/"><u>New Elite 10 Audio Alteration Solutions for Males Seeking Gender-Specific Soundscapes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2023s-ultimate-selection-of-ios-devices-for-classic-psp-games-for-2024/"><u>[Updated] 2023'S Ultimate Selection of iOS Devices for Classic PSP Games for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-get-crystal-clear-iphone-photos-with-our-free-red-eye-toolkit/"><u>[Updated] 2024 Approved  Get Crystal Clear iPhone Photos with Our Free Red-Eye Toolkit</u></a></li>
+<li><a href="https://windows11.techidaily.com/counteracting-the-impact-of-vac-denial-in-steam-gaming/"><u>Counteracting the Impact of VAC Denial in Steam Gaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/curtailing-windows-updates-and-restarts/"><u>Curtailing Windows Updates and Restarts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-budget-channels-to-big-brands-youtube-sponsorships-demystified/"><u>In 2024, From Budget Channels to Big Brands  YouTube Sponsorships Demystified</u></a></li>
+<li><a href="https://windows11.techidaily.com/combatting-filesystem-crashes-in-win11/"><u>Combatting FileSystem Crashes in Win11</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oppo-find-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-home-screen-preferences-on-w11-os/"><u>Customizing Home Screen Preferences on W11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/clear-the-way-to-privacy-with-simple-steps-for-ms-defender/"><u>Clear the Way to Privacy with Simple Steps for MS Defender</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-non-deletable-keys-a-windows-guide/"><u>Correcting Non-Deletable Keys: A Windows Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/delving-into-the-spiritual-command-center-of-windows-11/"><u>Delving Into the Spiritual Command Center of Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/combating-computer-chaos-fixing-windows-non-responsive-keys/"><u>Combating Computer Chaos: Fixing Windows' Non-Responsive Keys</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-adobe-photostability-effective-or-fanciful/"><u>2024 Approved  Adobe PhotoStability  Effective or Fanciful?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo Y36? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-resource-unavailable-situations-on-windows-149-chars/"><u>Correcting 'Resource Unavailable' Situations on Windows (149 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-access-issues-enabling-windows-logins-post-fail/"><u>Clearing Access Issues: Enabling Windows Logins Post-Fail</u></a></li>
+<li><a href="https://windows11.techidaily.com/compilation-of-best-windows-11-art-software/"><u>Compilation of Best Windows 11 Art Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/display-windows-notes-prominently-and-consistently/"><u>Display Windows Notes Prominently and Consistently</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-guide-to-adding-dynamic-captions-to-instagram-media/"><u>2024 Approved  Guide to Adding Dynamic Captions to Instagram Media</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-the-absence-of-drive-letters-problems-and-cures-for-win-users/"><u>Decoding the Absence of Drive Letters: Problems & Cures for Win Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/countering-compromised-windows-defender-on-win-11/"><u>Countering Compromised Windows Defender on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/combatting-procedure-call-failures-in-malwarebytes-for-windows-os/"><u>Combatting Procedure Call Failures in Malwarebytes for Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/dive-into-deeper-game-experience-incorporating-achievements-in-vintage-titles-through-retroarch/"><u>Dive Into Deeper Game Experience: Incorporating Achievements in Vintage Titles Through Retroarch</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-guide-to-fixing-device-path-errors/"><u>Comprehensive Guide to Fixing Device Path Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/controlling-elements-post-sleep-for-optimal-use/"><u>Controlling Elements Post-Sleep for Optimal Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-quick-access-to-start-from-onedrive/"><u>Customizing Quick Access to Start From OneDrive</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-discovering-the-best-youtube-mp3-transformers/"><u>2024 Approved  Discovering the Best YouTube MP3 Transformers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-ultimate-gopro-feature-list-matchup/"><u>[Updated] In 2024, The Ultimate Gopro Feature List Matchup</u></a></li>
+<li><a href="https://extra-information.techidaily.com/analyzing-major-editions-and-phases-of-windows-movie-maker-for-2024/"><u>Analyzing Major Editions and Phases of Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-journey-through-your-watch-history-find-latest-views-on-fb/"><u>2024 Approved  Journey Through Your Watch History  Find Latest Views on FB</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-windows-layout-fancywm-power-up/"><u>Customize Windows Layout: FancyWM Power Up</u></a></li>
+<li><a href="https://windows11.techidaily.com/cut-down-complications-opt-for-simplicity-in-win11/"><u>Cut Down Complications: Opt for Simplicity in Win11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-iphone-11-pro-max-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your iPhone 11 Pro Max From Your Apple ID</u></a></li>
+<li><a href="https://windows11.techidaily.com/configuring-account-lockout-reset-in-successive-login-attempts-windows-1011/"><u>Configuring Account Lockout Reset in Successive Login Attempts Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-ftdibussys-a-windows-memory-security-paradox/"><u>Decoding ftdibus.sys: A Windows Memory Security Paradox</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/astering-the-art-of-locating-concealed-youtube-media-for-2024/"><u>[New] Mastering the Art of Locating Concealed YouTube Media for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-rapid-reference-green-screen-basics/"><u>2024 Approved  Rapid Reference  Green Screen Basics</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-tailoring-your-content-to-perfection-youtube-edits-in-sony-vegas-style/"><u>2024 Approved  Tailoring Your Content to Perfection  YouTube Edits in Sony Vegas Style</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>

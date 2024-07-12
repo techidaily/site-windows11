@@ -1,7 +1,7 @@
 ---
 title: Combatting C0000005 Crashes on Windows Systems
-date: 2024-06-25T12:40:13.554Z
-updated: 2024-06-26T12:40:13.554Z
+date: 2024-07-11T22:03:20.477Z
+updated: 2024-07-12T22:03:20.477Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ bcdedit.exe /set {current} nx AlwaysOff
 
 ![cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cmd.jpg)
 
- In this case, you will first have to[disable the Windows secure boot](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/) , and then repeat the above steps again.
+ In this case, you will first have to [disable the Windows secure boot](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/) , and then repeat the above steps again.
 
  That's it—the DEP will be disabled from here on. Now, give your PC a quick reboot and see if the error 0xc0000005 persists.
 
@@ -99,3 +99,56 @@ Let's go over all of them one by one.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-durecorder-complete-breakdown/"><u>[Updated] Mastering DuRecorder  Complete Breakdown</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From iPhone 11 Pro Max</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-power-hungry-unrealcefsubprocess-a-windows-guide/"><u>Addressing Power-Hungry UnrealCEFSubprocess: A Windows Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-security-sync-windows-11-remotely-easily/"><u>Bypassing Security, Sync Windows 11 Remotely Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-solutions-when-apps-arent-working-properly-on-windows/"><u>7 Solutions When Apps Aren't Working Properly on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-compreenasian-approach-to-fixing-winget-on-windows-11/"><u>A Compreenasian Approach to Fixing Winget on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/academic-excellence-with-these-top-8-study-tips-for-windows-users/"><u>Academic Excellence with These Top 8 Study Tips for Windows Users</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-from-hobbyist-to-pro-the-best-free-and-paid-3d-animation-tools/"><u>Updated 2024 Approved From Hobbyist to Pro The Best Free and Paid 3D Animation Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-youtubes-digital-canvas-studio-essentials/"><u>2024 Approved  Navigating YouTube's Digital Canvas  Studio Essentials</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-funniest-meme-maker-apps-for-android-and-ios-users/"><u>The Funniest Meme Maker Apps for Android and iOS Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/beat-nvidias-windows-scanner-errors-today/"><u>Beat Nvidia's Windows Scanner Errors Today</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieve-peak-performance-with-multi-task-proficiency-on-windows-11-pcs/"><u>Achieve Peak Performance with Multi-Task Proficiency on Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/automating-windows-auditory-restart-post-boot-issue/"><u>Automating Windows Auditory Restart Post-Boot Issue</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterclass-building-hype-with-solo-podcasts/"><u>[Updated] Masterclass  Building Hype with Solo Podcasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/androidios-to-windows-pc-microphone-conversion-guide/"><u>Android/iOS to Windows PC Microphone Conversion Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ace-bgm-selection-perfect-backdrops-for-video-calling-for-2024/"><u>[Updated] Ace BGM Selection  Perfect Backdrops for Video Calling for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-tecno-lock-screen-password-by-drfone-android/"><u>How To Change Tecno Lock Screen Password?</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-windows-11-mode-switch-failures/"><u>Bypassing Windows 11 Mode Switch Failures</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-itel-p40plus-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Itel P40+</u></a></li>
+<li><a href="https://windows11.techidaily.com/balancing-system-resources-with-microsoft-edge/"><u>Balancing System Resources with Microsoft Edge</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boosting-streams-switching-to-av1-in-youtubes-settings/"><u>[New] 2024 Approved  Boosting Streams  Switching to AV1 in YouTube's Settings</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-zte-blade-a73-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on ZTE Blade A73 5G FRP Bypass</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypass-black-screen-in-win11-fast-and-straightforward/"><u>Bypass Black Screen in Win11, Fast & Straightforward</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-wwinplusprint-error-on-your-computer-successfully/"><u>Addressing WWin+Print Error on Your Computer Successfully.</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/sweet-seductive-scripts-italian-love-language/"><u>Sweet Seductive Scripts: Italian Love Language</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/10-top-rated-image-to-video-creation-platforms/"><u>10 Top-Rated Image to Video Creation Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/9-insights-on-how-pc-outperforms-a-mac-in-essential-areas/"><u>9 Insights on How PC Outperforms a Mac in Essential Areas</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerating-problem-solving-in-windows-10-and-11-via-shortcuts/"><u>Accelerating Problem-Solving in Windows 10 & 11 via Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-essential-tweaks-for-your-windows-11-search-settings/"><u>5 Essential Tweaks for Your Windows 11 Search Settings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-hidden-potential-top-10-enhancing-plug-ins/"><u>[Updated] Unlock Hidden Potential  Top 10 Enhancing Plug-Ins</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/ultimate-guide-to-effective-video-marketing-tools-8-for-2024/"><u>Ultimate Guide to Effective Video Marketing Tools (8) for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-windows-11-system-call-failures-quickly/"><u>Addressing Windows 11 System Call Failures Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-techniques-for-reviving-a-stuck-dark-screen-mode/"><u>7 Techniques for Reviving a Stuck Dark Screen Mode</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/child-stars-staggering-fortune-from-youtube-success-for-2024/"><u>Child Star's Staggering Fortune From YouTube Success for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-nokia-c300-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Nokia C300 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/banish-file-explorer-errors-essential-fixes-for-win11-users/"><u>Banish File Explorer Errors: Essential Fixes for Win11 Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/recording-live-videos-on-periscope-with-maximum-quality-for-2024/"><u>Recording Live Videos on Periscope with Maximum Quality for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/augmenting-windows-functionality-with-these-top-6-android-apps/"><u>Augmenting Windows Functionality with These Top 6 Android Apps</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/earning-hacks-for-youtube-short-creators/"><u>Earning Hacks for YouTube Short Creators</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-asking-too-many-hands-at-once-error/"><u>Bypassing Asking Too Many Hands at Once Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-performance-with-windows-11-power-options/"><u>Boost Performance with Windows 11 Power Options</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-oneplus-ace-2-pro-by-fonelab-android-recover-video/"><u>The way to get back lost videos from OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/in-2024-vanguard-platforms-transforming-audiovisual-industry-with-next-gen-voice-over-technology/"><u>In 2024, Vanguard Platforms Transforming Audiovisual Industry with Next-Gen Voice Over Technology</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerating-file-download-rates-in-utorrent-win-os-style/"><u>Accelerating File Download Rates in uTorrent, WIN OS Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-through-disabled-script-barrier-4-key-techniques-to-load-ps-successfully/"><u>Breaking Through Disabled Script Barrier: 4 Key Techniques to Load PS Successfully</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-back-your-teams-screens/"><u>Bring Back Your Teams Screens</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-perfecting-the-symphony-techniques-for-seamless-blending-of-auditory-elements-and-visuals-in-mp4/"><u>New Perfecting the Symphony Techniques for Seamless Blending of Auditory Elements and Visuals in MP4</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-professionals-choice-top-10-ig-video-editing-platforms/"><u>[Updated] 2024 Approved  Professionals' Choice  Top 10 IG Video Editing Platforms</u></a></li>
+</ul></div>

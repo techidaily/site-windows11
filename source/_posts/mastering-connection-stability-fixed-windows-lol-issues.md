@@ -1,7 +1,7 @@
 ---
 title: "Mastering Connection Stability: Fixed Windows LoL Issues"
-date: 2024-06-25T11:58:28.592Z
-updated: 2024-06-26T11:58:28.592Z
+date: 2024-07-11T21:15:04.281Z
+updated: 2024-07-12T21:15:04.281Z
 tags:
   - windows10
   - windows11
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
  Because League of Legends is always online, everything is dependent on Riot's servers to run properly. Therefore, you should ensure the problem isn't originating from the backend. Follow these steps to confirm that:
 
-1. Go to the[Riot Games Server Status website](https://status.riotgames.com/) .
+1. Go to the [Riot Games Server Status website](https://status.riotgames.com/) .
 2. Choose the language (in which you usually play the game)
 3. Check the**Recently Closed** and**Current Messages** sections for any issues reported.  
 ![Checking Riot Games Server Status on Official Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/checking-riot-games-server-status-on-official-website.jpg)
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f
 
 ## 2\. Rule Out Internet Issues
 
- If Riot servers are fully active, your internet might be the problem. Test your internet speed using[free internet speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and ensure it's properly connected.
+ If Riot servers are fully active, your internet might be the problem. Test your internet speed using [free internet speed test websites](https://www.makeuseof.com/best-free-websites-test-internet-speed/) and ensure it's properly connected.
 
  If the internet is connected and the connection is stable, clear the DNS cache. To do that, type**"Command Prompt"** in Windows Search and open the**Command Prompt** app**.** Enter**"ipconfig /flushdns"** and press**Enter** .
 
@@ -83,7 +83,7 @@ Proceed to the next step if the above checks and fixes do not help.
 
  Due to League of Legends' online nature, tens of requests are communicated between your device and Riot servers every second. Wide-scale communications can cause Windows Defender's firewall or your antivirus to consider this activity harmful and block the connection after a certain number of requests.
 
- To rule out this possibility, you should whitelist League of Legends from Windows Defender. Our guide on[whitelisting apps in Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) can help you do that. If you are using third-party antivirus software, consult its documentation to work out how to whitelist League of Legends.
+ To rule out this possibility, you should whitelist League of Legends from Windows Defender. Our guide on [whitelisting apps in Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) can help you do that. If you are using third-party antivirus software, consult its documentation to work out how to whitelist League of Legends.
 
  You will need to whitelist the EXE file, so here is the path to the executable:
 
@@ -104,9 +104,9 @@ Proceed to the next step if the above checks and fixes do not help.
 
 ## 6\. Report the Problem to Riot Games
 
- Have none of the above fixes worked, and your game still disconnects randomly? Report the problem to Riot support. The support team will help you identify and resolve the root cause. All you need to do is to submit a ticket on the[League of Legends support website](https://support-leagueoflegends.riotgames.com/hc/en-us/requests/new) .
+ Have none of the above fixes worked, and your game still disconnects randomly? Report the problem to Riot support. The support team will help you identify and resolve the root cause. All you need to do is to submit a ticket on the [League of Legends support website](https://support-leagueoflegends.riotgames.com/hc/en-us/requests/new) .
 
- If the support team asks about logs, run the[Hextech Repair tool](https://support-leagueoflegends.riotgames.com/hc/en-us/articles/224826367-Automated-Troubleshooting-Hextech-Repair-Tool) and send the data over.
+ If the support team asks about logs, run the [Hextech Repair tool](https://support-leagueoflegends.riotgames.com/hc/en-us/articles/224826367-Automated-Troubleshooting-Hextech-Repair-Tool) and send the data over.
 
 ## Fix the League of Legends Disconnecting Issue
 
@@ -129,3 +129,51 @@ Proceed to the next step if the above checks and fixes do not help.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-xiaomi-redmi-k70e-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Xiaomi Redmi K70E?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-unintended-tiktok-reset-regain-lost-posts-for-2024/"><u>[Updated] Unintended TikTok Reset – Regain Lost Posts for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/drop-old-drivers-windows-techniques-to-uninstall/"><u>Drop Old Drivers: Windows Techniques to Uninstall</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-faulty-display-settings-via-nonfunctional-fn-button-in-windows-11/"><u>Addressing Faulty Display Settings via Nonfunctional Fn Button in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719356403176-cross-language-build-system-setup/"><u>Cross-Language Build System Setup:</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-video-splitters-and-editors-on-windows-systems/"><u>Best Video Splitters & Editors on Windows Systems</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/revolutionize-your-workflow-free-mac-speech-to-text-apps-you-cant-afford-to-miss/"><u>Revolutionize Your Workflow Free Mac Speech-to-Text Apps You Cant Afford to Miss</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-windows-store-failure-code-0x800704cf/"><u>Addressing Windows Store Failure Code 0X800704CF</u></a></li>
+<li><a href="https://windows11.techidaily.com/bringing-silent-screens-to-life-tricks-for-win1011-users/"><u>Bringing Silent Screens to Life: Tricks for Win10/11 Users</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-samsung-galaxy-s23plus-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Samsung Galaxy S23+ Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/linux-screenshot-solutions-the-ultimate-guide/"><u>Linux Screenshot Solutions  The Ultimate Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/arcade-mode-for-window-users-key-fixes-ahead/"><u>Arcade Mode for Window Users: Key Fixes Ahead!</u></a></li>
+<li><a href="https://windows11.techidaily.com/add-emulators-to-playnite-a-windows-guide/"><u>Add Emulators to Playnite: A Windows Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/optimal-visual-branding-best-practices-for-youtube-channel-size-for-2024/"><u>Optimal Visual Branding  Best Practices for YouTube Channel Size for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/12-top-changes-to-expect-with-windows-11s-latest-release/"><u>12 Top Changes to Expect with Windows 11'S Latest Release</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-discovering-the-ultimate-10-vr-video-experience-on-youtube/"><u>2024 Approved  Discovering the Ultimate 10-VR Video Experience on YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-grayed-out-delete-feature-for-windows-11-pins/"><u>Breaking Grayed-Out Delete Feature for Windows 11 PINs</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719256266387-repairing-email-notification-shortcom-written-exercise/"><u>Repairing Email Notification Shortcom Written Exercise</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-fit-the-ideal-vms-that-complement-your-windows-11-pc/"><u>Best Fit: The Ideal VMs That Complement Your Windows 11 PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-iphone-se-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your iPhone SE</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-windows-1110-malwarebytes-functional-flaws/"><u>Addressing Windows 11/10 Malwarebytes Functional Flaws</u></a></li>
+<li><a href="https://windows11.techidaily.com/big-byte-in-mini-pcs-but-barely-booming/"><u>Big Byte in Mini PCs, But Barely Booming</u></a></li>
+<li><a href="https://windows11.techidaily.com/10-overlooked-windows-11-aesthetic-themes/"><u>10 Overlooked Windows 11 Aesthetic Themes</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-sony-xperia-5-v-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Sony Xperia 5 V Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-developing-a-streamlined-youtube-subscribe-link/"><u>[Updated] Developing A Streamlined YouTube Subscribe Link</u></a></li>
+<li><a href="https://windows11.techidaily.com/bridging-software-generations-windows-7-key-for-11-boot/"><u>Bridging Software Generations: Windows 7 Key for 11 Boot</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-through-file-download-blockades-on-windows-11/"><u>Breaking Through File Download Blockades on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-the-workflow-of-windows-11s-recovery-features/"><u>Breaking Down the Workflow of Windows 11'S Recovery Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/11-fixes-if-windows-11-cant-detect-a-wi-fi-network/"><u>11 Fixes if Windows 11 Can’t Detect a Wi-Fi Network</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-crafting-visual-wonders-an-insiders-guide-to-editing-on-snapchat/"><u>[Updated] Crafting Visual Wonders  An Insider’s Guide to Editing on Snapchat</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oneplus-ace-2-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For OnePlus Ace 2 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-expiring-software-license-caution-in-windows-1011/"><u>Avoiding Expiring Software License Caution in Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719266225421-eradicate-black-screen-on-win11-top-easy-fixes/"><u>Eradicate Black Screen on Win11: Top Easy Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-clarity-with-these-budget-friendly-tools/"><u>Boost Clarity with These Budget-Friendly Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/15-paths-to-recover-missing-windows-system-time-functionality/"><u>15 Paths to Recover Missing Windows System Time Functionality</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/elevate-your-game-saves-with-advanced-overwatch-recording-for-2024/"><u>Elevate Your Game Saves with Advanced Overwatch Recording for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719266282483-combatting-common-windows-11-mail-errors-get-your-email-back-now/"><u>Combatting Common Windows 11 Mail Errors - Get Your Email Back Now</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-step-by-step-guide-incorporating-tunes-into-instagram-reels-for-2024/"><u>[New] Step-by-Step Guide  Incorporating Tunes Into Instagram Reels for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-critical-review-of-best-screen-capture-tools-in-linux/"><u>[New] 2024 Approved  Critical Review of Best Screen Capture Tools in Linux</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-f14-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Samsung Galaxy F14 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719293537225-resurrect-your-chrome-on-win11-with-ease/"><u>Resurrect Your Chrome on Win11 with Ease</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/the-definite-guide-to-craig-bot-discord-for-2024/"><u>The Definite Guide to Craig Bot Discord for 2024</u></a></li>
+</ul></div>

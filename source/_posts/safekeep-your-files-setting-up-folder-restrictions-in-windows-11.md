@@ -1,7 +1,7 @@
 ---
 title: "Safekeep Your Files: Setting Up Folder Restrictions in Windows 11"
-date: 2024-06-25T12:08:43.919Z
-updated: 2024-06-26T12:08:43.919Z
+date: 2024-07-11T21:26:58.972Z
+updated: 2024-07-12T21:26:58.972Z
 tags:
   - windows10
   - windows11
@@ -52,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
  If you have Windows 11 Pro or Enterprise edition, you can enable controlled folder access with Group Policy Editor. Group Policy Editor also includes some extra configuration settings for controlled folder access, which is a bonus. This is how to turn on controlled folder access via GPE.
 
- If you're on Windows Home, the Group Policy Editor won't appear by default. Check out[how to access the Group Policy Editor in Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) to get around this.
+ If you're on Windows Home, the Group Policy Editor won't appear by default. Check out [how to access the Group Policy Editor in Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) to get around this.
 
 1. Bring up the search tool in Windows and enter**gpedit.msc** there.
-2. Select**gpedit.msc** to[bring up the Group Policy Editor](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) .
+2. Select**gpedit.msc** to [bring up the Group Policy Editor](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) .
 3. Click**Computer Configuration** \>**Administrative Templates** inside Group Policy Editor’s left pane.  
 ![Administrative Templates in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/computer-configuration-in-group-policy-editor.jpg)
 4. Double-click**Windows Components** to expand it.
@@ -138,7 +138,7 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
  If you ever want to remove the controlled folder access context menu option, you can do so by deleting the registry key for it. This is how to delete the key for the**Turn On or Off Control folder access** submenu:
 
-1. Launch the Registry Editor (our guide for[opening the Regedit registry app](https://www.makeuseof.com/windows-11-open-registry-editor/) includes various methods).
+1. Launch the Registry Editor (our guide for [opening the Regedit registry app](https://www.makeuseof.com/windows-11-open-registry-editor/) includes various methods).
 2. Go to this registry key location:  
 `HKEY_CLASSES_ROOT\DesktopBackground\Shell\ControlledFolderAccess`
 3. Right-click the Controlled Folder Access key to select**Delete** .  
@@ -180,3 +180,41 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-the-comprehensive-analysis-of-the-cambridge-auditory-experience-cxu-device/"><u>2024 Approved The Comprehensive Analysis of the Cambridge Auditory Experience CXU Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-your-touch-to-the-world-of-win11-keybindings/"><u>Tailoring Your Touch to the World of Win11 Keybindings</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-platform-picker-optimal-content-on-youtube-or-tiktok/"><u>2024 Approved  Platform Picker  Optimal Content on Youtube or TikTok?</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-clashes-in-windows-desktop-ordering/"><u>Avoid Clashes in Windows Desktop Ordering</u></a></li>
+<li><a href="https://windows11.techidaily.com/activation-indicators-for-windows-11-systems/"><u>Activation Indicators for Windows 11 Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-spectrum-analysis-unpacking-xstudio-video-workshop-essentials-for-2024/"><u>Full Spectrum Analysis  Unpacking XStudio Video Workshop Essentials for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-constructing-attention-grabbing-trailers-for-youtube-for-2024/"><u>[New] Constructing Attention-Grabbing Trailers for YouTube for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-methods-to-enhance-utorrent-download-speed-win-edition/"><u>Top Methods to Enhance uTorrent Download Speed, WIN Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-importance-of-proper-youtube-thumbnail-size-for-successful-engagement-for-2024/"><u>The Importance of Proper YouTube Thumbnail Size for Successful Engagement for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-11s-hidden-calendar-and-email-fixes/"><u>Unveiling Windows 11'S Hidden Calendar & Email Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-classics-seamless-integration-of-achievements-using-retroarch-software/"><u>Boosting Classics: Seamless Integration of Achievements Using Retroarch Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/visualize-drone-flights-complimentary-dji-miniair-luts-trial-for-2024/"><u>Visualize Drone Flights – Complimentary DJI Mini/Air LUTS Trial for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-a-complete-handbook-to-producing-high-quality-tutorial-videos/"><u>[New] 2024 Approved  A Complete Handbook to Producing High-Quality Tutorial Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/three-strategies-to-redo-windows-11-user-preferences/"><u>Three Strategies to Redo Windows 11 User Preferences</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/navigating-the-launch-of-tiktok-videos-from-pc/"><u>Navigating the Launch of TikTok Videos From PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719291887266-eliminating-obstacles-in-capturing-whole-screen-with-windows-snipping-tool/"><u>Eliminating Obstacles in Capturing Whole-Screen with Windows Snipping Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/assessment-of-differences-onsite-vs-cloud-based-windows-downloads/"><u>Assessment of Differences: Onsite vs Cloud-Based Windows Downloads</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-storage-type-ssd-vs-hdd/"><u>Unveiling Storage Type: SSD vs HDD</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-high-cpu-in-your-host-system/"><u>Taming High CPU in Your Host System</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-firewall-settings-integration-into-windows-11s-ui/"><u>Advanced Firewall Settings Integration Into Windows 11'S UI</u></a></li>
+<li><a href="https://network-issues.techidaily.com/graphics-device-driver-error-code-43-solved/"><u>Graphics Device Driver Error Code 43 [SOLVED]</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-tips-avoiding-discords-auto-start-and-update-checks/"><u>Windows Tips: Avoiding Discord's Auto-Start & Update Checks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-breakdown-of-youtubes-money-making-mechanisms-cpm/"><u>[Updated] 2024 Approved  Breakdown of YouTube’s Money-Making Mechanisms (CPM)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-viral-video-explosion-twitters-hot-tiktoks-listed/"><u>[New] 2024 Approved  Viral Video Explosion  Twitter’s Hot TikToks Listed</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-complex-windows-partition-unification/"><u>The Ultimate Guide to Complex Windows Partition Unification</u></a></li>
+<li><a href="https://windows11.techidaily.com/which-browser-takes-up-less-memory-and-cpu-on-windows-macos/"><u>Which Browser Takes Up Less Memory and CPU On Windows, macOS?</u></a></li>
+<li><a href="https://windows11.techidaily.com/advancing-mouse-functionality-through-clicklock-mechanism/"><u>Advancing Mouse Functionality Through ClickLock Mechanism</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-and-edge-background-runs-how-to-control/"><u>Win11 and Edge Background Runs - How to Control</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-step-by-step-guide-to-fix-windows-non-functional-start/"><u>A Step-by-Step Guide to Fix Window's Non-Functional Start</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-videos-how-long-can-they-be/"><u>[Updated] In 2024, Instagram Videos - How Long Can They Be?</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-speed-and-ban-lags-in-windows-11-installation/"><u>Boost Speed & Ban Lags in Windows 11 Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-package-not-registered-image-glitches-in-win11/"><u>Unraveling 'Package Not Registered' Image Glitches in Win11</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-achieving-precise-youtube-content-extraction/"><u>[Updated] Achieving Precise YouTube Content Extraction</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-mastering-ai-powered-vocal-replication-two-techniques-for-authenticity/"><u>In 2024, Mastering AI-Powered Vocal Replication Two Techniques for Authenticity</u></a></li>
+</ul></div>

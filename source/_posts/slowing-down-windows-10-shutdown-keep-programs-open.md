@@ -1,7 +1,7 @@
 ---
 title: "Slowing Down Windows 10 Shutdown: Keep Programs Open"
-date: 2024-06-25T11:58:43.255Z
-updated: 2024-06-26T11:58:43.255Z
+date: 2024-07-11T21:15:21.159Z
+updated: 2024-07-12T21:15:21.159Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
 ## What Should You Try First?
 
- The method described here basically forces Windows to wait longer while shutting down or logging off. However, if you have a misbehaving program interfering with Windows log-off, it could be something to look into. There are fixes you should try first if there is an[app preventing Windows from shutting down or logging off](https://www.makeuseof.com/this-app-preventing-windows-shutting-down-restarting-signing-out-error/) .
+ The method described here basically forces Windows to wait longer while shutting down or logging off. However, if you have a misbehaving program interfering with Windows log-off, it could be something to look into. There are fixes you should try first if there is an [app preventing Windows from shutting down or logging off](https://www.makeuseof.com/this-app-preventing-windows-shutting-down-restarting-signing-out-error/) .
 
  If none of those options works, you can adjust how long Windows waits before logging off, which gives any running or buggy apps more time to sort themselves out.
 
@@ -36,13 +36,13 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
  There are two processes that you can turn to. With the first, WaitToKillAppTimeout, Windows grants apps 20 seconds to save data and close. If apps don’t respond, Windows considers them “hung.” HungAppTimeout, the second, tells Windows how many seconds to wait before considering apps to be hung and offering a force-close solution.
 
- Changing both these values involves[editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) , so be wary, and[make a backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) copy before you tinker with it.
+ Changing both these values involves [editing the registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) , so be wary, and [make a backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) copy before you tinker with it.
 
 ### 1A. How to Set WaitToKillAppTimeout for Just Your User Account
 
  Do this to change how long Windows waits for apps when logging off just from your user account.
 
-1. Open the Registry editor. See[how to open the Registry Editor on Windows](https://www.makeuseof.com/windows-11-open-registry-editor/) for more information.
+1. Open the Registry editor. See [how to open the Registry Editor on Windows](https://www.makeuseof.com/windows-11-open-registry-editor/) for more information.
 2. Navigate to the following folder in the registry:  
 `HKEY_CURRENT_USER\Control Panel\Desktop`
 3. In the pane on the right, look for the string named**WaitToKillAppTimeout** .
@@ -101,3 +101,63 @@ This will allow you to change the default value for all users.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/making-a-bold-statement-adding-neon-borders-to-youtubes/"><u>Making a Bold Statement  Adding Neon Borders to YouTubes</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-disruption-fix-windows-gaming-woe-errors/"><u>Avoid Disruption, Fix Windows' Gaming WoE Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/add-command-to-windows-11-context-menu-for-file-moves-and-copies/"><u>Add Command to Windows 11 Context Menu for File Moves & Copies</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-ultimate-high-performance-desktop-pcs/"><u>2024 Approved  Ultimate High-Performance Desktop PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-detailed-approach-to-fixing-windows-error-code-30005/"><u>A Detailed Approach to Fixing Windows Error Code: 30005</u></a></li>
+<li><a href="https://windows11.techidaily.com/awakening-hidden-pane-windows-effective-steps-for-win11/"><u>Awakening Hidden Pane Windows: Effective Steps for Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/boot-old-gear-into-latest-windows-11-22h2/"><u>Boot Old Gear Into Latest Windows 11 22H2</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-low-power-options-for-better-battery-life/"><u>Adjusting Low-Power Options for Better Battery Life</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-separating-audio-and-video-a-comprehensive-approach-for-premiere-pro-editors/"><u>Updated Separating Audio and Video A Comprehensive Approach for Premiere Pro Editors</u></a></li>
+<li><a href="https://windows11.techidaily.com/adding-windows-update-alerts-tooltip-menu-entry/"><u>Adding Windows Update Alerts Tooltip Menu Entry</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-absence-of-ubisoft-launcher-in-windows/"><u>Addressing Absence of Ubisoft Launcher in Windows</u></a></li>
+<li><a href="https://facebook.techidaily.com/adapting-with-ease-the-persistent-benefits-of-facebooks-innovations/"><u>Adapting with Ease: The Persistent Benefits of Facebook's Innovations</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-burnout-keeping-your-game-windows-laptop-cool/"><u>Avoiding Burnout: Keeping Your Game Windows Laptop Cool</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/eering-echoing-edits-for-2024/"><u>Engineering Echoing Edits for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-browsing-security-enhanced-graphics-on-edge/"><u>Boosting Browsing Security: Enhanced Graphics on Edge</u></a></li>
+<li><a href="https://windows11.techidaily.com/beat-the-burn-how-to-cool-down-your-gamers-windows-laptop/"><u>Beat The Burn: How to Cool Down Your Gamers’ Windows Laptop</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unwinding-upside-down-asmr-to-support-zzzs/"><u>In 2024, Unwinding Upside-Down  ASMR to Support Zzz's</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerate-filenames-processing-with-powertoys/"><u>Accelerate Filenames Processing with PowerToys</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-keeping-the-laughs-iosandroid-methods-for-tweets-as-gifs/"><u>[Updated] In 2024, Keeping the Laughs  IOS/Android Methods for Tweets as GIFs</u></a></li>
+<li><a href="https://windows11.techidaily.com/broken-binkey-bastion-proceed-prudently-not-promptly/"><u>Broken Binkey Bastion: Proceed Prudently, Not Promptly</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-visual-journey-to-custom-window-design-with-winbubbles-insights/"><u>A Visual Journey to Custom Window Design with WinBubble's Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-complications-resetting-terminal-on-win11/"><u>Avoid Complications: Resetting Terminal on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-windows-photos-problem-package-not-registered/"><u>Addressing Windows Photos Problem - Package Not Registered</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1715701248237-essential-mac-screen-recorders-top-10-free-list/"><u>Essential Mac Screen Recorders – Top 10 FREE List!</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-practical-approach-to-windows-network-file-transfer-via-python/"><u>A Practical Approach to Windows Network File Transfer via Python</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-mastering-vita-video-edit-a-detailed-2024-guide-and-review/"><u>[Updated] Mastering Vita Video Edit  A Detailed 2024 Guide & Review</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/windows-movie-maker-on-mac-discover-the-best-equivalent-software/"><u>Windows Movie Maker on Mac Discover the Best Equivalent Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-techniques-locating-ip-and-mac-in-windows-ps/"><u>Advanced Techniques: Locating IP & MAC in Windows PS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-snapshot-to-sequence-live-photo-to-video-journey/"><u>In 2024, Snapshot to Sequence  Live Photo to Video Journey</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-step-by-step-for-placing-antique-games-into-photos-folder/"><u>A Step-by-Step for Placing Antique Games Into Photos Folder</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-guide-to-uncovering-your-systems-identity-quickly/"><u>A Guide to Uncovering Your System's Identity Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-key-steps-to-resolve-hypervisor-error-bsod-in-winos/"><u>5 Key Steps to Resolve Hypervisor Error BSOD in WINOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-proxy-in-windows-11-for-enhanced-privacy/"><u>Adjusting Proxy in Windows 11 for Enhanced Privacy</u></a></li>
+<li><a href="https://windows11.techidaily.com/batch-heic-to-jpeg-images-in-windows-environment/"><u>Batch Heic to Jpeg Images in Windows Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/breathing-life-into-your-dormant-windows-mouse/"><u>Breathing Life Into Your Dormant Windows Mouse</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-expertise-in-format-switching-srt-to-advanced-standards/"><u>[New] Expertise in Format Switching  SRT to Advanced Standards</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-4-fastest-lenovo-record-methods/"><u>[Updated] The 4 Fastest Lenovo Record Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-elderly-friendly-window-pc-usability/"><u>Boosting Elderly-Friendly Window PC Usability</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/filmora-13-free-download-the-ultimate-video-editing-software-for-2024/"><u>Filmora 13 Free Download The Ultimate Video Editing Software for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-windows-vram-a-step-by-step-guide/"><u>Boosting Windows VRAM: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-the-no-connection-error-with-malwarebytes-in-win-1011/"><u>Addressing the “No Connection” Error with Malwarebytes in Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-ways-to-close-multiple-apps-simultaneously-on-windows/"><u>5 Ways to Close Multiple Apps Simultaneously on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-leap-forward-for-windows-11-innovative-widget-features-proposal/"><u>A Leap Forward for Windows 11: Innovative Widget Features Proposal</u></a></li>
+<li><a href="https://windows11.techidaily.com/arp-cache-in-windows-what-and-how-to-purge/"><u>ARP Cache in Windows: What and How to Purge?</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-proven-methods-to-enhance-your-windows-11-experience-35/"><u>7 Proven Methods to Enhance Your Windows 11 Experience (35)</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieve-crisp-visuals-leveraging-background-blur-in-w11s-photos-app/"><u>Achieve Crisp Visuals: Leveraging Background Blur in W11's Photos App</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-essentials-of-film-color-enhancement-for-2024/"><u>[Updated] Essentials of Film Color Enhancement for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-windows-settings-for-visible-sticky-notes/"><u>Adjusting Windows Settings for Visible Sticky Notes</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-insufficient-access-errors-during-software-removal/"><u>Avoiding Insufficient Access Errors During Software Removal</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-low-vram-issues-for-hogwarts-educational-virtual-adventure/"><u>Addressing Low VRAM Issues for Hogwarts Educational Virtual Adventure</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-thriving-in-the-youtube-landscape-with-data-driven-approach/"><u>[Updated] 2024 Approved  Thriving in the YouTube Landscape with Data-Driven Approach</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-f5-pro-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco F5 Pro 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-gratis-vector-design-and-illustration-sites-online/"><u>Top Gratis Vector Design & Illustration Sites Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-shortcut-to-starting-wordpad-on-your-pc/"><u>A Shortcut to Starting WordPad on Your PC</u></a></li>
+</ul></div>

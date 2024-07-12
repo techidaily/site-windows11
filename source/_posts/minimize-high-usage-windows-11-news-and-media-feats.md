@@ -1,7 +1,7 @@
 ---
 title: Minimize High Usage Windows 11 News & Media Feats
-date: 2024-06-25T12:37:46.013Z
-updated: 2024-06-26T12:37:46.013Z
+date: 2024-07-11T22:00:29.065Z
+updated: 2024-07-12T22:00:29.065Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ To install a Windows 11 update:
 2. Open the**Windows Update** tab in the left pane. Check if a new update is available. If not, click on**Check for updates** .
 3. Windows will scan the Microsoft servers for newer updates. If available, click on**Download & install** . Once installed, restart your computer and check for any improvements.
 
- You can also learn how to[manage Windows 10 updates](https://www.makeuseof.com/tag/manage-windows-update-windows-10/) to ensure your computer is constantly updated. However, if you can find this specific update on your computer, go to[Microsoft Update Catalog](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) and search for the update. If available, download the update and run the installer to install it manually.
+ You can also learn how to [manage Windows 10 updates](https://www.makeuseof.com/tag/manage-windows-update-windows-10/) to ensure your computer is constantly updated. However, if you can find this specific update on your computer, go to [Microsoft Update Catalog](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) and search for the update. If available, download the update and run the installer to install it manually.
 
 ## 2\. Turn Off News and Interests
 
@@ -52,17 +52,17 @@ To install a Windows 11 update:
 
 ![disable widgets Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-widgets-windows-11.jpg)
 
- Unfortunately, News and Interests is a core feature of Windows 11 widgets. If the lack of Widgets isn't a concern, you can[disable the Windows 11 Widget app](https://www.makeuseof.com/windows-11-disable-widgets/) to get rid of the resource-hog news feed on your computer. However, if you find the widgets useful, you must endure the News and Interests feature.
+ Unfortunately, News and Interests is a core feature of Windows 11 widgets. If the lack of Widgets isn't a concern, you can [disable the Windows 11 Widget app](https://www.makeuseof.com/windows-11-disable-widgets/) to get rid of the resource-hog news feed on your computer. However, if you find the widgets useful, you must endure the News and Interests feature.
 
  The easiest way to disable Widgets is from the Taskbar settings. If that does not work or if your Windows 11 isn't activated, you can use Registry Editor to disable the Widgets icon from the taskbar.
 
- If the issue persists even after disabling News and Interest, try to[perform a Windows 11 repair reinstall](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/) . During a repair reinstall, Windows will reinstall the operating system without removing your personal files and apps.
+ If the issue persists even after disabling News and Interest, try to [perform a Windows 11 repair reinstall](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/) . During a repair reinstall, Windows will reinstall the operating system without removing your personal files and apps.
 
 ## 3\. Disable News and Interests Using the Group Policy Editor
 
  On Windows 11, you can configure News and Interests on the taskbar policy to disable the feature and prevent high memory usage. Group Policy Editor (GPEdit) is a Windows component and is not only available on the OS's Pro, Enterprise, and Education editions.
 
- If you are on Windows 11 Home, follow these steps to[enable gpedit on Windows Home](https://www.catalog.update.microsoft.com/) and then proceed with the steps below:
+ If you are on Windows 11 Home, follow these steps to [enable gpedit on Windows Home](https://www.catalog.update.microsoft.com/) and then proceed with the steps below:
 
 1. Press**Win + R** to open**Run** .
 2. Type**gpedit.msc** and click**OK** to open**Group Policy Editor** .
@@ -80,7 +80,7 @@ To install a Windows 11 update:
 
  You can disable the feed feature using the Windows Registry if you don't have Group Policy Editor. For this, you'll need to create an EnableFeeds value and set it to 0 to disable it.
 
- Incorrect modifications to the Windows Registry can cause your system to malfunction. We recommend[creating a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before making any changes to the registry entries.
+ Incorrect modifications to the Windows Registry can cause your system to malfunction. We recommend [creating a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) before making any changes to the registry entries.
 
 To disable the news feed feature using Windows Registry:
 
@@ -134,3 +134,61 @@ To disable the news feed feature using Windows Registry:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/windows-users-beware-is-yourphoneexe-safe-to-use/"><u>Windows Users Beware: Is YourPhone.exe Safe to Use?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nubia-red-magic-8s-pro-phone-without-password-by-drfone-android/"><u>How To Unlock Nubia Red Magic 8S Pro Phone Without Password?</u></a></li>
+<li><a href="https://windows11.techidaily.com/software-selection-showdown-on-windows-choc-vs-wm/"><u>Software Selection Showdown on Windows: Choc vs WM</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-login-audit-success-or-no-go-indicators/"><u>Windows Login Audit: Success or No-Go Indicators</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-support-functionality-in-windows-11-help/"><u>Restoring Support Functionality in Windows 11 Help</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleashing-potential-gopro-karmas-journey/"><u>[New] Unleashing Potential  GoPro Karma's Journey</u></a></li>
+<li><a href="https://windows11.techidaily.com/address-common-printer-glitches-in-windows-11/"><u>Address Common Printer Glitches in Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-from-beginner-to-pro-final-cut-pro-tutorials-for-2024/"><u>New From Beginner to Pro Final Cut Pro Tutorials for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-unleash-your-creativity-gopro-video-editing-on-mac-made-easy/"><u>New Unleash Your Creativity GoPro Video Editing on Mac Made Easy</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/night-photography-perfection-with-iphones/"><u>Night Photography Perfection with iPhones</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-key-fixes-to-stop-rpc-failures-in-windows/"><u>5 Key Fixes to Stop RPC Failures in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-windows-11-program-choices/"><u>Streamlining Your Windows 11 Program Choices</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-8-different-ways-to-restart-your-windows-computer/"><u>The 8 Different Ways to Restart Your Windows Computer</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y100t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/slowing-down-the-high-life-excess-in-windowed-worlds/"><u>Slowing Down the High Life Excess in Windowed Worlds</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-endless-entertainment-escapade-top-tier-free-films-on-youtube/"><u>[Updated] Endless Entertainment Escapade  Top-Tier Free Films on YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-sleep-mode-anomalies-why-it-frustrates-users/"><u>Windows' Sleep Mode Anomalies: Why It Frustrates Users</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-spinning-stories-rotate-videos-to-captivate-your-instagram-community/"><u>In 2024, Spinning Stories  Rotate Videos to Captivate Your Instagram Community</u></a></li>
+<li><a href="https://windows11.techidaily.com/6-methods-for-reviving-windows-command-line-interface/"><u>6 Methods for Reviving Windows' Command Line Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/speed-up-taskbar-interaction-enabledisable-ai-on-win-11/"><u>Speed Up Taskbar Interaction: Enable/Disable AI on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-secrets-to-stable-apex-play-on-windows-11/"><u>Unlocking the Secrets to Stable Apex Play on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-tasks-in-windows-11-with-a-customized-run-command-setup/"><u>Streamline Tasks in Windows 11 with a Customized Run Command Setup</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-memory-allocation-elevating-minecraft-experience/"><u>Mastering Memory Allocation  Elevating Minecraft Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-dual-defense-opt-for-single-antivirus-in-windows-systems/"><u>Avoid Dual Defense: Opt for Single Antivirus in Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-unlock-your-computers-windows-license/"><u>Techniques to Unlock Your Computer's Windows License</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-power-of-hashtags-in-growing-your-instagram-reel-presence/"><u>The Power of Hashtags in Growing Your Instagram Reel Presence</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-response-etiquette-discord-messaging-guide-for-2024/"><u>[New] Mastering Response Etiquette  Discord Messaging Guide for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/present-day-drones-paving-way-for-futuristic-advancements-for-2024/"><u>Present-Day Drones Paving Way for Futuristic Advancements for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/secrecy-in-posts-how-to-oc-for-2024/"><u>Secrecy in Posts  How to Oc for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-crafting-your-signature-tone-a-comprehensive-zoom-recording-workshop/"><u>[Updated] Crafting Your Signature Tone  A Comprehensive ZOOM Recording Workshop</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-windows-sluggish-discord-overlay-performance/"><u>Reviving Windows' Sluggish Discord Overlay Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-fixing-0x8009030e-on-virt-environments/"><u>Step-by-Step Guide: Fixing 0X8009030E on Virt Environments</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-blank-display-in-windows-remoting-services/"><u>Addressing Blank Display in Windows Remoting Services</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/best-10-web-based-hd-screen-capture-tools/"><u>Best 10 Web-Based HD Screen Capture Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-silent-sounds-on-windows-devices/"><u>Troubleshooting Silent Sounds on Windows Devices</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-v30-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-lav-filters-a-comprehensive-guide-to-effective-use-in-windows/"><u>Mastery Over LAV Filters: A Comprehensive Guide to Effective Use in Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-recording-lenovo-fast-and-fuss-free-tips/"><u>[New] 2024 Approved  Recording Lenovo  Fast and Fuss-Free Tips</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-concatenate-videos-using-ffmpeg-for-2024/"><u>How to Concatenate Videos Using FFmpeg for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharge-performance-conquering-windows-lag-issues/"><u>Supercharge Performance: Conquering Windows Lag Issues</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-cyber-profile-pixelation-crafting-a-playful-look/"><u>[Updated] In 2024, Cyber-Profile Pixelation  Crafting a Playful Look</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-mastering-tiktok-aspect-ratios-a-step-by-step-guide/"><u>Updated In 2024, Mastering TikTok Aspect Ratios A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-drivers-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your drivers on Windows 11/10/7</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-right-click-customization-compatibility-tool-inclusion/"><u>Windows Right-Click Customization: Compatibility Tool Inclusion</u></a></li>
+<li><a href="https://windows11.techidaily.com/revive-slow-windows-apps-ensure-robust-web-linkage/"><u>Revive Slow Windows Apps: Ensure Robust Web Linkage</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-integration-how-to-get-and-run-msibundle-and-appxappxbundles/"><u>Seamless Integration: How to Get & Run MsiBundle & Appx/Appxbundles</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-tips-for-a-seamless-phone-screen-record/"><u>[Updated] In 2024, Tips for a Seamless Phone Screen Record</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-in-depth-look-at-12-techniques-for-storing-web-based-songs/"><u>[New] In-Depth Look at 12 Techniques for Storing Web-Based Songs</u></a></li>
+<li><a href="https://windows11.techidaily.com/additional-updates-available-in-windows-11s-latest-release/"><u>Additional Updates Available in Windows 11'S Latest Release</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-the-windows-11-taskbar/"><u>Unlock the Full Potential of the Windows 11 Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/reset-windows-strategies-8-techniques-unveiled/"><u>Reset Windows Strategies: 8 Techniques Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-offline-status-of-valve-games-via-steam-desktop-client/"><u>Addressing Offline Status of Valve Games via Steam Desktop Client</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-6-clearcut-android-recorder-options-no-ads-for-2024/"><u>[Updated] Top 6 Clearcut Android Recorder Options (No Ads) for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-to-troubleshoot-loaded-lol-screens/"><u>Tactics to Troubleshoot Loaded LOL Screens</u></a></li>
+</ul></div>

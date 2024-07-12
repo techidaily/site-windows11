@@ -1,7 +1,7 @@
 ---
 title: Triumph over Microsoft Teams' Stumbling Block #80080300 on W11
-date: 2024-06-25T12:42:44.786Z
-updated: 2024-06-26T12:42:44.786Z
+date: 2024-07-11T22:06:16.089Z
+updated: 2024-07-12T22:06:16.089Z
 tags:
   - windows10
   - windows11
@@ -49,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/5d3200ea7acc8a267e33f7e3f6be29344352dcba6
 6. Select the**Windows 8** option on the drop-down menu.
 7. Click**Apply** to save the new compatibility setting.
 
- Note that the WindowsApps folder that includes the pre-installed MS Teams app in Windows 11 is protected. So, you’ll need to unlock the WindowsApps folder to access msteams.exe as instructed above. Our[guide to taking ownership of folders in Windows 10 & 11](https://www.makeuseof.com/windows-10-11-own-folder/) tells you how users can unlock that directory in Windows 11.
+ Note that the WindowsApps folder that includes the pre-installed MS Teams app in Windows 11 is protected. So, you’ll need to unlock the WindowsApps folder to access msteams.exe as instructed above. Our [guide to taking ownership of folders in Windows 10 & 11](https://www.makeuseof.com/windows-10-11-own-folder/) tells you how users can unlock that directory in Windows 11.
 
 ## 3\. Run the Compatibility Troubleshooter for Microsoft Teams
 
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/5d3200ea7acc8a267e33f7e3f6be29344352dcba6
 
 `%appdata%\Microsoft\Teams`
 
- Press the**Windows** +**R** key combination, enter the above path into the Run dialogue, and click**OK** to bring up the Teams folder. Pressing**Ctrl** +**A** will[select all files](https://www.makeuseof.com/windows-11-file-explorer-select-all-files/) within the Teams folder. Then click the**Delete** (trash can) button on the command bar.
+ Press the**Windows** +**R** key combination, enter the above path into the Run dialogue, and click**OK** to bring up the Teams folder. Pressing**Ctrl** +**A** will [select all files](https://www.makeuseof.com/windows-11-file-explorer-select-all-files/) within the Teams folder. Then click the**Delete** (trash can) button on the command bar.
 
 ## 5\. Erase Generic Credentials for Teams
 
@@ -132,3 +132,55 @@ thumbnail: https://thmb.techidaily.com/5d3200ea7acc8a267e33f7e3f6be29344352dcba6
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/unveiling-the-process-windows-11-ms-work-installation/"><u>Unveiling the Process: Windows 11 MS Work Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-missing-msvcr110dll-in-windows-environment/"><u>Overcoming Missing msvcr110.dll in Windows Environment</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-roadmap-to-crafting-popular-vlogging-narratives/"><u>2024 Approved  A Roadmap to Crafting Popular Vlogging Narratives</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-error-x0001-in-nvidias-windows-11-app/"><u>Troubleshooting Error X0001 in Nvidia's Windows 11 App</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-your-drive-enable-file-cleanup-in-win11-operating-system/"><u>Optimize Your Drive: Enable File Cleanup in Win11 Operating System</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-wsl-2-for-efficient-docker-workflows/"><u>Optimizing WSL 2 for Efficient Docker Workflows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-speed-and-efficiency-windows-shortcuts-for-uwp/"><u>Unleash Speed and Efficiency: Windows Shortcuts for UWP</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1716069114604-updated-2024-approved-top-ios-psp-games-and-emulators-revealed/"><u>[Updated] 2024 Approved  Top iOS PSP Games & Emulators Revealed!</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-frozen-netflix-on-windows/"><u>Troubleshooting Frozen Netflix on Windows</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/detecting-silent-communication-on-snapstreak/"><u>Detecting Silent Communication on Snapstreak</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How Do I Stop Someone From Tracking My Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/turbocharge-android-studio-for-peak-performance-in-windows/"><u>Turbocharge Android Studio for Peak Performance in Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-vivo-t2-pro-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-text-to-art-obsidian-canvas-techniques/"><u>Transforming Text to Art: Obsidian Canvas Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/rejuvenating-your-apathetic-windows-start-button-click/"><u>Rejuvenating Your Apathetic Windows Start Button Click</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pajama-plots-and-prose-critical-review-of-childrens-videos/"><u>2024 Approved  Pajama Plots and Prose  Critical Review of Children's Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-in-depth-look-at-the-gecata-game-capture-tool/"><u>[New] In 2024, In-Depth Look at the Gecata Game Capture Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolve-compromised-windows-defender-in-windows-11/"><u>Resolve Compromised Windows Defender in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlined-graphics-the-key-to-optimal-radeon-performance-in-windows-11/"><u>Streamlined Graphics: The Key to Optimal Radeon Performance in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-error-0x8024a205-in-winupdate/"><u>Troubleshooting Error 0X8024a205 in WinUpdate</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-and-protect-enabling-powershell-script-policy/"><u>Optimize & Protect: Enabling PowerShell Script Policy</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-undetectable-file-hiding-technique-on-windows-systems/"><u>The Undetectable File Hiding Technique on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-printer-in-use-issue-on-windows-11/"><u>Overcoming Printer In Use Issue on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-workflow-key-windows-programs-for-taskmasters/"><u>Optimizing Workflow: Key Windows Programs for Taskmasters</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-capture-the-big-picture-the-best-11-bridge-cameras-guide/"><u>2024 Approved  Capture the Big Picture  The Best 11 Bridge Cameras Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-correct-wsl-error-code-4294967295-in-windows/"><u>Steps to Correct WSL Error Code 4294967295 in Windows</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-mov-video-rotator-top-5-free-downloads/"><u>New MOV Video Rotator Top 5 Free Downloads</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-chkdsk-vs-scan-disk-dissecting-windows-tools/"><u>Understanding Chkdsk Vs. Scan Disk: Dissecting Windows Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-methods-for-verifying-windows-11-installation/"><u>The Essential Methods for Verifying Windows 11 Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-non-active-thermal-management-on-pcs/"><u>Reviving Non-Active Thermal Management on PCs</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-top-5-free-video-rotator-apps-for-iphone-users-2023-edition/"><u>New In 2024, Top 5 Free Video Rotator Apps for iPhone Users 2023 Edition</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-from-widescreen-to-vertical-the-easy-way-to-repurpose-your-videos/"><u>New 2024 Approved From Widescreen to Vertical The Easy Way to Repurpose Your Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-microsoft-store-hiccup-0x80131500/"><u>Remedying Microsoft Store Hiccup 0X80131500</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-integrating-twitter-videos-into-facebook-social-graph-for-2024/"><u>[New] Integrating Twitter Videos Into Facebook Social Graph for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-microsoft-store-programs-on-windows-1011-systems/"><u>Restoring Microsoft Store Programs on Windows 10/11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/tapping-into-your-true-essence-guide-for-accessing-windows-silent-personal-analyzer/"><u>Tapping Into Your True Essence: Guide for Accessing Windows' Silent Personal Analyzer</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-capturing-your-iphoneipad-display-now/"><u>2024 Approved  Capturing Your iPhone/iPad Display Now</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-professional-video-techniques-top-10-edits/"><u>In 2024, Professional Video Techniques  Top 10 Edits</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-advanced-file-navigation-skills-steering-clear-of-ls/"><u>Unraveling Advanced File Navigation Skills: Steering Clear of LS</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-ultimate-video-lighting-effects-editors/"><u>New 2024 Approved Ultimate Video Lighting Effects Editors</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-using-wireless-and-cable-in-harmony-on-windows/"><u>The Ultimate Guide: Using Wireless and Cable in Harmony on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/protect-your-passwords-in-windows-files-easily/"><u>Protect Your Passwords in Windows Files Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-10-windows-diagnostics-powerhouses/"><u>Top 10 Windows Diagnostics Powerhouses</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-reset-of-windows-icon-positions/"><u>Swift Reset of Windows Icon Positions</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-11-and-galaxy-ties-with-samsung-dex/"><u>Unveiling Windows 11 & Galaxy Ties with Samsung DeX</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-the-potential-of-task-scheduler-in-windows/"><u>Unleash the Potential of Task Scheduler in Windows</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-tecno-pova-5-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Tecno Pova 5 Pro</u></a></li>
+</ul></div>

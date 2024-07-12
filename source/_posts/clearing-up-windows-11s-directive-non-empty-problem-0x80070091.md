@@ -1,0 +1,170 @@
+---
+title: Clearing Up Windows 11'S Directive Non-Empty Problem #0X80070091
+date: 2024-07-11T22:26:45.543Z
+updated: 2024-07-12T22:26:45.543Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Clearing Up Windows 11'S Directive Non-Empty Problem #0X80070091
+excerpt: This Article Describes Clearing Up Windows 11'S Directive Non-Empty Problem #0X80070091
+keywords: Win11 Empty Error X070091,Fix X070091 Windows Issue,Resolve Directive No-Empty Error,Clear X070091 Problem W11,Correcting 0X80070091 in Win11,Win11 Directive Empty Fix,Remedying Windows 11 Nonempty Error
+thumbnail: https://thmb.techidaily.com/503d593f9428317b9217e37989fa613e5c3305adb6e8017e4b8755b0efa649e5.png
+---
+
+## Clearing Up Windows 11'S Directive Non-Empty Problem #0X80070091
+
+ Error 0x80070091 is a File Explorer issue that occurs for some users when they try to delete folders in Windows 11/10\. The error message says, “The directory is not empty," and you can't delete the folder that throws the error.
+
+ The 0x80070091 message suggests that the error occurs because a folder isn’t empty. Yet, you should be able to erase directories that contain files without any issues. Furthermore, that error can also arise for empty folders. If you’re seeing the same folder error 0x80070091 in Windows, try applying these potential fixes.
+
+## 1\. Try Erasing the Folder With the Command Prompt
+
+ The Command Prompt gives users another way to delete folders in Windows 11/10\. So, you might be able to erase an affected folder without issues by using the Command Prompt. Using the Command Prompt might be more of a workaround, but at least you’ll get the folder deleted if works.
+
+ Run Command Prompt with elevated (administrative) rights. Our guide about [running Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) includes numerous methods for launching that app. Then input this command and press**Enter** to delete an affected folder:
+
+`rmdir /s "folder path"`
+
+ You’ll need to replace**folder path** in that command with the location of whatever directory you need to delete. The location should include a drive letter and a full path for the directory like in this example:
+
+`rmdir /s "C:\Users\New folder"`
+
+![The delete folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-folder-command.jpg)
+
+## 2\. Restart Windows File Explorer
+
+ Restarting File Explorer can resolve issues that occur with that file manager. However, closing and reopening the Explorer window doesn’t restart the file manager. You’ll need to restart the Explorer process via Task Manager like this:
+
+1. To view Task Manager, press**Ctrl** +**Shift** +**Esc** simultaneously.
+2. Select File Explorer on the**Processes** tab.  
+![The Restart option for File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/restart-options-for-file-explorer.jpg)
+3. Press the**Restart** button for the selected Explorer process.
+
+## 3\. Scan System Files With an SFC Scan
+
+ Error 0x80070091 can be caused by some corrupted system files that need repairing. Running an SFC scan might both detect and repair corrupted system files and fix error 0x80070091 in the process. You can scan with SFC as instructed in our post for [running the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) .
+
+![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/sfc-scannow-command.jpg)
+
+## 4\. Check for Errors With a Disk Scan
+
+ The 0x80070091 error is often due to corrupted or bad hard drive sectors. A lot of users have said they’ve resolved that issue by using the Check Disk (CHKDSK) utility for repairing bad drive sectors. This is how you can check for and repair bad sectors with Check Disk:
+
+1. Open up the Command Prompt window with administrative rights.
+2. Type in this Check Disk command and press**Enter:**  
+`chkdsk /f /r C:`
+3. Press**Y** to schedule the scan for a restart.  
+![The chkdsk scan command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chkdsk-scan-command.jpg)
+4. Click**Start** and select**Power** \>**Restart** to reboot.
+
+ If the folder the 0x80070091 error occurs for isn’t on the C: drive, you’ll need to modify the above command. Replace**C:** with the letter of the storage drive that includes the affected folder.
+
+## 5\. Modify the Affected Folder’s Permissions
+
+ Error 0x80070091 can arise because of insufficient folder permission. You might need to set an affected folder to full permission to resolve error 0x80070091\. To do that, change the folder’s permission settings as follows:
+
+1. Open Explorer and right-click the affected folder to select**Properties** .  
+![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/properties-option.jpg)
+2. Click the window’s**Security** tab.
+3. Next, press the**Advanced** button.  
+![The Security tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/security-tab.jpg)
+4. Click**Change** beside the owner’s name.  
+![The Advanced Security Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/advanced-security-settings-window.jpg)
+5. Enter your Windows user account name inside the object name text box.  
+![The Select a User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/select-a-user-or-group.jpg)
+6. Then select the**Check Names** option and**OK** .
+7. Click**Replace owner on subcontainers and objects** to select that setting.
+8. Press the Advanced Security Settings window’s**Apply** and**OK** buttons.
+
+## 6\. Run an Antivirus Scan
+
+ Malware could also feasibly be causing error 0x80070091 on your PC. If you’re still trying to fix that issue after going through all the potential fixes above, run an antivirus scan with Windows Security or alternative third-party software. This is how to run a scan with the Windows Security app.
+
+1. Double-click a**Windows Security** (shield) icon in the system tray part of the taskbar.
+2. Click**Virus & threat protection** \>**Scan options** to view all options for scanning.  
+![The Scan options navigation link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-scan-options-link.jpg)
+3. Select the most thorough**Full Scan** option, which could take more than an hour to finish.  
+![The Full scan option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-scan-option.jpg)
+4. Press**Scan now** to start the antivirus scanning.
+5. Then wait to see if the scan detects anything, and select**Remove** if it does.
+6. Click**Start actions** to apply.
+
+## Delete Your Folders in File Explorer Again With These Fixes
+
+ You’ll probably be able to delete the folders for which error 0x80070091 occurred after applying those potential solutions. If that error persists, the Windows registry on your PC could be corrupted. To resolve such registry issues, you might need to perform a system restore or even reset Windows 11/10.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-disable-non-specific-youtube-video-alerts-for-2024/"><u>[Updated] Disable Non-Specific YouTube Video Alerts for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/crucial-factors-to-evaluate-before-buying-a-windows-laptop/"><u>Crucial Factors to Evaluate Before Buying a WIndows Laptop</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-permissions-shortfall-on-windows-1011-during-setup/"><u>Correcting Permissions Shortfall on Windows 10/11 During Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-tweaks-for-your-pc-explore-alomwares-capabilities/"><u>Cutting-Edge Tweaks for Your PC: Explore AlomWare's Capabilities</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-loss-of-hard-drive-visibility/"><u>Correcting Loss of Hard Drive Visibility</u></a></li>
+<li><a href="https://windows11.techidaily.com/decode-the-code-of-win11-blue-screen-with-essential-fixes/"><u>Decode the Code of Win11 Blue Screen with Essential Fixes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-the-ultimate-list-of-cost-free-game-capture-tools/"><u>[Updated] In 2024, The Ultimate List of Cost-Free Game Capture Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-windows-11s-backup-and-sync-an-overview-of-its-functionality/"><u>Deciphering Windows 11’S Backup & Sync: An Overview of Its Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-cannot-calculate-issues-on-windows-platform/"><u>Correcting 'Cannot Calculate' Issues on Windows Platform</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-ways-to-free-disk-space-without-deleting-windows-11-files-max-156-chars/"><u>Discover Ways to Free Disk Space Without Deleting Windows 11 Files (Max 156 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphring-and-diagnosing-predominant-windows-anydesk-problems/"><u>Deciphring and Diagnosing Predominant Windows AnyDesk Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-display-discrepancies-winning-windows-with-wisdom/"><u>Decoding Display Discrepancies: Winning Windows with Wisdom</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-digital-game-highlights-6-pc-snapshot-strategies/"><u>In 2024, Digital Game Highlights  6 PC Snapshot Strategies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-refine-your-images-quickly-freepaid-lut-options-for-canon/"><u>2024 Approved  Refine Your Images Quickly - Free/Paid LUT Options for Canon</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-up-the-confusion-of-microsoft-store-error-0x80072efd/"><u>Clearing Up the Confusion of Microsoft Store Error 0X80072EFD</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-pc-audio-with-windows-11s-volume-mixer-tutorial/"><u>Customize PC Audio with Windows 11'S Volume Mixer Tutorial</u></a></li>
+<li><a href="https://windows11.techidaily.com/desktop-dynamics-shift-unveiling-the-latest-os-features/"><u>Desktop Dynamics Shift: Unveiling the Latest OS Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-and-rectifying-non-functional-batches-in-windows/"><u>Deciphering and Rectifying Non-Functional Batches in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/configuring-dolby-atmos-in-windows-1111-systems/"><u>Configuring Dolby Atmos in Windows 11/11 Systems</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-essential-audio-techniques-capturing-clear-sound/"><u>[New] 2024 Approved  Essential Audio Techniques  Capturing Clear Sound</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-computing-10-non-windows-app-favorites/"><u>Cutting-Edge Computing: 10 Non-Windows App Favorites</u></a></li>
+<li><a href="https://windows11.techidaily.com/disentangling-common-errors-in-windows-11-zoom-app/"><u>Disentangling Common Errors in Windows 11 Zoom App</u></a></li>
+<li><a href="https://windows11.techidaily.com/cracking-the-code-fixing-windows-pin-failures/"><u>Cracking the Code: Fixing Windows PIN Failures</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-intensify-visual-soundscapes-for-optimal-engagement-for-2024/"><u>Updated Intensify Visual Soundscapes for Optimal Engagement for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/laugh-loops-crafting-comical-content-for-brevity-based-videos-for-2024/"><u>Laugh Loops  Crafting Comical Content for Brevity-Based Videos for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-harmonizing-vision-and-sound-discover-the-most-trusted-applications-for-adding-music-to-visual-narratives-for-2024/"><u>New Harmonizing Vision & Sound Discover the Most Trusted Applications for Adding Music to Visual Narratives for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-best-10-mac-tech-for-screen-sharing/"><u>[Updated] Best 10 Mac Tech for Screen Sharing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-leveraging-descriptive-power-for-3-engaging-instagram-video-stories/"><u>[Updated] Leveraging Descriptive Power for 3 Engaging Instagram Video Stories</u></a></li>
+<li><a href="https://windows11.techidaily.com/context-menu-augmentation-with-disk-space-visualization-tools/"><u>Context Menu Augmentation with Disk Space Visualization Tools</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-custom-youtube-video-speed-control-desktopmobile/"><u>2024 Approved  Custom YouTube Video Speed Control (Desktop/Mobile)</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-the-runtimeexception-a-users-guide-for-windows/"><u>Conquering the 'RuntimeException': A User's Guide for Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-shorts-revenue-sharing-how-much-do-creators-get-paid-in-2024/"><u>YouTube Shorts Revenue Sharing  How Much Do Creators Get Paid, In 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/create-efficiency-in-windows-unique-snapping-layouts-with-powertoys/"><u>Create Efficiency in Windows: Unique Snapping Layouts with PowerToys</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-line-enhancement-for-taskmanager-windows-11/"><u>Command Line Enhancement for TaskManager (Windows 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/converting-oculus-quest-to-function-in-windows-pc-virtual-reality/"><u>Converting Oculus Quest to Function in Windows PC Virtual Reality</u></a></li>
+<li><a href="https://windows11.techidaily.com/crossing-the-troubled-seas-of-windows-11-with-xbox-errors/"><u>Crossing the Troubled Seas of Windows 11 with Xbox Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/converting-the-modern-windows-11-search-to-an-icon-style/"><u>Converting the Modern Windows 11 Search to an Icon Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/comparing-windows-terminal-with-powershells-different-utilities/"><u>Comparing Windows Terminal with PowerShell's Different Utilities</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-guide-to-using-bluescreenview-tools/"><u>Comprehensive Guide to Using BlueScreenView Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/contrasting-windows-download-options-cloud-vs-physical-media/"><u>Contrasting Windows Download Options: Cloud Vs. Physical Media</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-convert-facebook-videos-to-mp3-top-8-online-solutions-for-2024/"><u>New Convert Facebook Videos to MP3 Top 8 Online Solutions for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-obstructions-uninstalling-programs-on-win-11/"><u>Clearing Obstructions: Uninstalling Programs on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/deterring-windows-auto-update-alerts/"><u>Deterring Windows Auto-Update Alerts</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-make-ninja-jump-effect-with-filmora/"><u>2024 Approved How To Make Ninja Jump Effect with Filmora</u></a></li>
+<li><a href="https://windows11.techidaily.com/dissecting-and-resolving-0x80072af9-hitches/"><u>Dissecting and Resolving 0X80072AF9 Hitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/direct-console-connection-joining-win-to-ps3-controller/"><u>Direct Console Connection: Joining Win to PS3 Controller</u></a></li>
+<li><a href="https://windows11.techidaily.com/deletion-redefined-windows-photo-apps-new-edge/"><u>Deletion Redefined: Windows Photo App's New Edge</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-and-fixing-windows-error-0x800704b3-on-pcslaptops/"><u>Decoding & Fixing Windows Error 0X800704B3 on PCs/Laptops</u></a></li>
+<li><a href="https://windows11.techidaily.com/compreranble-windows-11-sticky-features-across-devices/"><u>Compreranble Windows 11 Sticky Features Across Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-quick-ways-to-adjust-your-computers-sound-output-in-windows-11/"><u>Discover Quick Ways to Adjust Your Computer's Sound Output in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/diagnosing-and-repairing-dormant-window-control/"><u>Diagnosing and Repairing Dormant Window Control</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-runtime-broker-its-essential-role-in-operating-systems/"><u>Decoding Runtime Broker: Its Essential Role in Operating Systems</u></a></li>
+</ul></div>

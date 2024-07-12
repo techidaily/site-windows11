@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes: 4 Ways to Stop PC Update Notifications"
-date: 2024-06-25T11:58:38.673Z
-updated: 2024-06-26T11:58:38.673Z
+date: 2024-07-11T21:15:15.833Z
+updated: 2024-07-12T21:15:15.833Z
 tags:
   - windows10
   - windows11
@@ -47,11 +47,11 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 
 ## 3\. How to Stop Automatic Office Updates Using the Group Policy Editor
 
- Another way to disable automatic Office updates is via the Group Policy Editor. It’s worth noting that you can only access the Group Policy Editor on Professional, Education, or Enterprise editions of Windows. If you're on Windows Home, be sure to check out[how to access the Local Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) before continuing.
+ Another way to disable automatic Office updates is via the Group Policy Editor. It’s worth noting that you can only access the Group Policy Editor on Professional, Education, or Enterprise editions of Windows. If you're on Windows Home, be sure to check out [how to access the Local Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) before continuing.
 
  By default, the Group Policy Editor does not include any modules for managing Microsoft Office settings. So, in order to stop automatic Office updates via the Group Policy Editor, first, you’ll have to download and install Administrative Templates for Microsoft Office products. Here are the steps for the same.
 
-1. Open up your web browser and head over to Microsoft Download Center to[download the Administrative Template files (ADMX/ADML) for Office apps](https://www.microsoft.com/en-us/download/details.aspx?id=49030) .  
+1. Open up your web browser and head over to Microsoft Download Center to [download the Administrative Template files (ADMX/ADML) for Office apps](https://www.microsoft.com/en-us/download/details.aspx?id=49030) .  
 ![Download Office Administrative Templates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/download-office-administrative-templates.jpg)
 2. Double-click the downloaded**EXE file** to run it.
 3. Accept the license terms and click the**Continue** button.
@@ -76,16 +76,16 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
 5. Select the**Disabled** option.
 6. Hit**Apply** followed by**OK** .
 7. Next, press**Win + R** to open the Run dialog.
-8. Type**cmd** in the text box and press**Ctrl + Shift + Enter** to[open Command Prompt with administrative privileges](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
+8. Type**cmd** in the text box and press**Ctrl + Shift + Enter** to [open Command Prompt with administrative privileges](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
 9. Type**gpupdate /force** in the console and hit**Enter** to apply the Group Policy changes.
 
  If you want to re-enable automatic updates for Office apps later, simply set the**Enable Automatic Updates** policy to**Enabled** .
 
 ## 4\. How to Stop Automatic Office Updates With the Registry Editor
 
- You can also use the Registry Editor to make the above policy change and disable automatic Office updates on your computer. Since Registry Editor holds important settings for Windows and its apps, you should only use this method if you’re comfortable editing the[Windows Registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) .
+ You can also use the Registry Editor to make the above policy change and disable automatic Office updates on your computer. Since Registry Editor holds important settings for Windows and its apps, you should only use this method if you’re comfortable editing the [Windows Registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) .
 
- If you decide to use this method, make sure you back up all the registry files or create a restore point beforehand. If you need help, refer to our guide on[how to create a restore point on Windows](https://www.makeuseof.com/windows-11-create-restore-point/) and follow the steps outlined there.
+ If you decide to use this method, make sure you back up all the registry files or create a restore point beforehand. If you need help, refer to our guide on [how to create a restore point on Windows](https://www.makeuseof.com/windows-11-create-restore-point/) and follow the steps outlined there.
 
  Once you've done that, use the following steps to disable automatic Office updates via the Registry Editor.
 
@@ -130,3 +130,48 @@ thumbnail: https://thmb.techidaily.com/a3a9fc7f1967fe6814b7bcf229ad0c8c09fecb880
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-essential-guide-to-starting-your-first-successful-youtubes-for-business/"><u>2024 Approved  The Essential Guide to Starting Your First Successful YouTubes for Business</u></a></li>
+<li><a href="https://windows11.techidaily.com/backup-your-cortana-data-for-future-reference-windows/"><u>Backup Your Cortana Data for Future Reference (Windows)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-increase-length-of-your-youtube-production/"><u>[Updated] Increase Length of Your YouTube Production</u></a></li>
+<li><a href="https://windows11.techidaily.com/bootable-windows-11-flashdrive-top-3-efficient-techniques/"><u>Bootable Windows 11 Flashdrive: Top 3 Efficient Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/accessing-control-panel-with-ease-on-pcs/"><u>Accessing Control Panel with Ease on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/8-essential-fixes-for-resistant-windows-pin-locks/"><u>8 Essential Fixes for Resistant Windows PIN Locks</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-why-obs-wont-start-on-your-pc/"><u>Breaking Down Why OBS Won't Start on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypass-windows-11-pc-life-hacks-for-older-systems/"><u>Bypass Windows 11: PC Life Hacks for Older Systems</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-samsung-galaxy-f04-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Samsung Galaxy F04 FRP Bypass Instantly</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-efficiency-best-keys-for-auto-clicking/"><u>Boost Efficiency: Best Keys for Auto Clicking</u></a></li>
+<li><a href="https://windows11.techidaily.com/bigger-is-not-better-limited-minipc-zest/"><u>Bigger Is Not Better - Limited MiniPC Zest</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-how-to-use-suspense-music-to-master-film-score/"><u>2024 Approved How to Use Suspense Music to Master Film Score</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-silencing-windows-11-alerts-benefits-unveiled/"><u>Avoid Silencing Windows 11 Alerts: Benefits Unveiled</u></a></li>
+<li><a href="https://facebook.techidaily.com/revise-your-facebook-age-and-birthday-today/"><u>Revise Your Facebook Age and Birthday Today</u></a></li>
+<li><a href="https://windows11.techidaily.com/8-ways-to-fix-the-windows-pin-not-working-in-windows-11-and-11/"><u>8 Ways to Fix the Windows PIN Not Working in Windows 11 & 11</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/how-to-add-audio-to-quicktime-video-files-for-2024/"><u>How to Add Audio to QuickTime Video Files for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/groundbreaking-feedback-vllo-review/"><u>Groundbreaking Feedback  VLLO Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/camouflage-linguistic-separator-on-win11-status-bar/"><u>Camouflage Linguistic Separator on Win11 Status Bar</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/in-2024-5-recommended-websites-for-text-gif-maker/"><u>In 2024, 5 Recommended Websites for Text GIF Maker</u></a></li>
+<li><a href="https://windows11.techidaily.com/activating-prints-with-microsofts-edge-shield-windows-11/"><u>Activating Prints with Microsoft's Edge Shield (Windows 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-metric-monitoring-of-wifi-networks-via-win11-settings/"><u>Adjusting Metric Monitoring of Wifi Networks via Win11 Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-tips-for-adding-sound-in-snipping-tool-recordings-max-156/"><u>Advanced Tips for Adding Sound in Snipping Tool Recordings (Max 156)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-a-complete-guide-to-downloading-and-backup-of-instagram-vids-on-pcmacos/"><u>[Updated] In 2024, A Complete Guide to Downloading & Backup of Instagram Vids on PC/macOS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-ideal-choices-the-very-best-6-video-grabber-tools/"><u>[Updated] In 2024, Ideal Choices  The Very Best 6 Video Grabber Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/8-essential-steps-to-bring-back-lost-windows-files/"><u>8 Essential Steps to Bring Back Lost Windows Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/beneath-the-surface-innocent-looking-apps-steal-speed-from-pcs/"><u>Beneath the Surface, Innocent-Looking Apps Steal Speed From PCs</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-mac-video-editing-made-easy-the-best-software-of-for-2024/"><u>Updated Mac Video Editing Made Easy The Best Software Of for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/understanding-the-underrated-downsides-of-vr/"><u>Understanding the Underrated Downsides of VR</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-y56-5g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Y56 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-life-to-windows-11-desktops-with-interactive-wallpapers/"><u>Bring Life to Windows 11 Desktops with Interactive Wallpapers</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-is-augmented-reality-conferencing-the-future-of-workplace-collaboratio/"><u>New Is Augmented Reality Conferencing the Future of Workplace Collaboratio</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-screencast-pro-efficient-recording-macpc-upload-to-youtube/"><u>In 2024, ScreenCast Pro  Efficient Recording, Mac/PC Upload to YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/altering-windows-service-for-installation-controls/"><u>Altering Windows Service for Installation Controls</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/15-free-video-editing-tools-for-starters-no-experience-needed/"><u>15 Free Video Editing Tools for Starters No Experience Needed</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-guide-to-overcoming-windows-resolution-riddles/"><u>A Guide to Overcoming Windows Resolution Riddles</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-curious-design-choices-that-differ-from-w10/"><u>7 Curious Design Choices That Differ From W10</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-realme-v30t-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Realme V30T in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-failures-fixing-vagrant-boot-problems-win11/"><u>Bypassing Failures: Fixing Vagrant Boot Problems Win11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/smooth-transition-tips-for-inshot-editors/"><u>Smooth Transition Tips for Inshot Editors</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-win-1011s-xc0f1103f-with-geforce-error/"><u>Addressing Win 10/11'S XC0F1103F with GeForce Error</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-facebooks-most-impressive-new-additions-decoded/"><u>[Updated] Facebook's Most Impressive New Additions Decoded</u></a></li>
+</ul></div>

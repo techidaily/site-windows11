@@ -1,7 +1,7 @@
 ---
 title: Win11's File Explorer Glitches? Learn How To Stop Them
-date: 2024-06-25T12:20:55.053Z
-updated: 2024-06-26T12:20:55.053Z
+date: 2024-07-11T21:40:59.304Z
+updated: 2024-07-12T21:40:59.304Z
 tags:
   - windows10
   - windows11
@@ -77,16 +77,16 @@ thumbnail: https://thmb.techidaily.com/d1a4704b31151e9550e9b3ab1b575cfa25b0e8f64
 
  When you boot Windows in a clean boot state, it only runs essential programs and processes. This can help you determine if the File Explorer crashes are caused by a faulty third-party app or program.
 
- We have a detailed guide on[how to perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) . Follow the steps outlined there to enter clean boot mode. If File Explorer functions correctly while in this state, it means the background app or program causing the issue got disabled. You can consider removing any recently installed apps or programs to resolve the issue for good.
+ We have a detailed guide on [how to perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) . Follow the steps outlined there to enter clean boot mode. If File Explorer functions correctly while in this state, it means the background app or program causing the issue got disabled. You can consider removing any recently installed apps or programs to resolve the issue for good.
 
 ## 8\. Apply Some Generic Fixes to Fix File Explorer Crashes
 
  If the above fixes don’t work or if you experience similar issues with other programs, you can try out some of the generic solutions to fix issues with Windows. Let's go over all of them one by one.
 
 * **Run an SFC Scan:** [Performing an SFC (or System File Checker) scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) will allow Windows to examine your PC for corrupt or damaged system files and repair them.
-* **Scan for Malware:** The presence of malware or viruses can cause File Explorer to misbehave on Windows. You can[use Microsoft Defender’s offline scan to detect and remove malware](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) from your PC.
-* **Clear Temporary Files:** Having an excessive number of temporary files on your PC can have a negative impact on your system's performance. Hence, it’s a good idea to[delete temporary files in Windows 11](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
-* **Install Windows Updates:** Such issues can also occur due to a buggy or outdated Windows build. You can try[installing all the pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) and see if that solves your problem.
+* **Scan for Malware:** The presence of malware or viruses can cause File Explorer to misbehave on Windows. You can [use Microsoft Defender’s offline scan to detect and remove malware](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) from your PC.
+* **Clear Temporary Files:** Having an excessive number of temporary files on your PC can have a negative impact on your system's performance. Hence, it’s a good idea to [delete temporary files in Windows 11](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
+* **Install Windows Updates:** Such issues can also occur due to a buggy or outdated Windows build. You can try [installing all the pending Windows updates](https://www.makeuseof.com/windows-11-install-updates/) and see if that solves your problem.
 
 ## Use File Explorer Again Without Any Interruptions
 
@@ -111,3 +111,52 @@ thumbnail: https://thmb.techidaily.com/d1a4704b31151e9550e9b3ab1b575cfa25b0e8f64
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://audio-editing.techidaily.com/the-role-of-ai-in-achieving-silent-soundscape-denoising-techniques-unveiled/"><u>The Role of AI in Achieving Silent Soundscape Denoising Techniques Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-interruptions-in-geforce-links-with-os-1011/"><u>Fixing Interruptions in GeForce Links with OS 10/11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/fast-track-installation-of-ms-office-works-on-w11/"><u>Fast-Track Installation of MS Office Works on W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-technique-for-silencing-firewall-in-win11/"><u>Master Technique for Silencing Firewall in Win11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-unleash-the-power-of-digital-advertising-with-our-comprehensive-set-of-50-free-youtube-banners/"><u>2024 Approved  Unleash the Power of Digital Advertising with Our Comprehensive Set of 50 FREE YouTube Banners</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-directx-12-without-onboard-graphics/"><u>Navigating Through DirectX 12 Without Onboard Graphics</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-enrollment-in-windows-11s-beta-testers-club/"><u>Mastering Enrollment in Windows 11'S Beta Testers Club</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tales-that-echo-through-time-top-8-halls-for-storytellers/"><u>2024 Approved  Tales That Echo Through Time  Top 8 Halls for Storytellers</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/unlock-the-power-of-polyphonic-automation-in-audacity-with-free-plugins/"><u>Unlock the Power of Polyphonic Automation in Audacity with Free Plugins</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-uncovering-true-reflection-in-distorted-facebook-video/"><u>[New] Uncovering True Reflection in Distorted Facebook Video</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-preparations-for-revitalizing-your-pc-with-windows/"><u>Essential Preparations for Revitalizing Your PC with Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/decreasing-non-essential-tasks-windows-108/"><u>Decreasing Non-Essential Tasks Windows 10/8</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-guidance-manual-time-zone-setup-for-windows-users/"><u>Expert Guidance: Manual Time Zone Setup for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensuring-privacy-with-best-windows-crypto-apps-152-chars/"><u>Ensuring Privacy with Best Windows Crypto Apps (152 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-rectify-and-resolve-onedrive-errors-in-os/"><u>How to Rectify and Resolve OneDrive Errors in OS</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-meizu-21-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Meizu 21 FRP Without Computer</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-step-into-the-full-screen-era-for-fb-video-viewing/"><u>[New] 2024 Approved  Step Into the Full-Screen Era for FB Video Viewing</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-external-monitors-without-graphics-card/"><u>Enabling External Monitors without Graphics Card</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-itel-s23-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel S23 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/innovate-w11-notebook-using-ai-guru/"><u>Innovate W11 Notebook Using AI Guru</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-windows-extract-error-1152-quickly/"><u>Eliminating Windows Extract Error 1152 Quickly</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-motorola-edge-40-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Motorola Edge 40 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-play-for-free-top-10-bes/"><u>In 2024, Play for Free Top 10 Bes</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correct-ipadiphone-images-not-displaying-in-windows-11-environment/"><u>How to Correct iPad/iPhone Images Not Displaying in Windows 11 Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/initiating-printer-commands-via-edge-defender-smartscreen/"><u>Initiating Printer Commands via Edge Defender SmartScreen</u></a></li>
+<li><a href="https://windows11.techidaily.com/ending-dual-access-to-your-camera-error-0xa00f4243/"><u>Ending Dual Access to Your Camera (Error 0xA00F4243)</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-autonomous-scrolling-on-os-windows/"><u>Preventing Autonomous Scrolling on OS Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/evaluating-your-systems-electrical-utilization-on-windows-os/"><u>Evaluating Your System’s Electrical Utilization on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-invalid-verification-error-by-steams-vac/"><u>Overcoming Invalid Verification Error by Steam's VAC</u></a></li>
+<li><a href="https://windows11.techidaily.com/missing-dxgidll-in-win11-heres-what-to-do-now/"><u>Missing Dxgi.dll in Win11? Here's What to Do Now</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-your-pcs-potential-with-a-windows-11-in-place-step-by-step-guide/"><u>Elevating Your PC's Potential with a Windows 11, In-Place Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-your-digital-notepad-a-guide-to-windows-11-customization/"><u>Personalize Your Digital Notepad: A Guide to Windows 11 Customization</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-xp-error-code-0x80300024/"><u>Navigating Windows XP Error Code: 0X80300024</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-desktop-visibility-placing-this-pc-icon-front-and-center/"><u>Maximizing Desktop Visibility: Placing 'This PC' Icon Front and Center</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-turn-off-or-disable-the-microsoft-defender-firewall-in-windows-11/"><u>How to Turn Off or Disable the Microsoft Defender Firewall in Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-from-scratch-to-screen-video-editing-with-youtube-and-others/"><u>[Updated] From Scratch to Screen  Video Editing with YouTube & Others</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-ideal-5-monitors-for-enhanced-ps5-experience/"><u>2024 Approved  Ideal 5 Monitors for Enhanced PS5 Experience</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-fusion-of-video-and-melody-adding-music-to-vimeo-projects/"><u>[New] Fusion of Video & Melody  Adding Music to Vimeo Projects</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-chromes-mistaken-malware-detection-errors-in-windows/"><u>Fixing Chrome’s Mistaken Malware Detection Errors in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/prioritize-and-achieve-a-guide-to-top-6-win-11-task-management-tools/"><u>Prioritize & Achieve - A Guide to Top 6 Win 11 Task Management Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-step-by-step-guide-for-updating-and-changing-social-video-covers/"><u>[Updated] Step-by-Step Guide for Updating and Changing Social Video Covers</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-7-best-real-time-video-translation-apps/"><u>New 2024 Approved 7 Best Real Time Video Translation Apps</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Preventing Autonomous Scrolling on OS Windows
-date: 2024-06-25T12:28:47.356Z
-updated: 2024-06-26T12:28:47.356Z
+date: 2024-07-11T21:50:03.707Z
+updated: 2024-07-12T21:50:03.707Z
 tags:
   - windows10
   - windows11
@@ -52,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/46220d4e5de752c9f9121bc5fe5314f52ef333630
 * Do you have multiple mouse devices connected to your device at once? If so, you should disconnect others except for the one you intend to use.
 * Is your Xbox controller connected to your device? If so, remove it.
 * Disconnect any other pointing device currently connected to your device.
-* If you keep Windows automatic updates turned off, check for and[install recent OS updates manually](https://www.makeuseof.com/update-windows-manually/) .
+* If you keep Windows automatic updates turned off, check for and [install recent OS updates manually](https://www.makeuseof.com/update-windows-manually/) .
 * If the**End** key on your keyboard remains pressed down for some reason, it will cause your windows to scroll down. Inspect your**End** key for anything holding it down, or disconnect your keyboard and see if that fixes the problem.
 
 If the above basic checks don't help, apply the remaining fixes.
@@ -78,7 +78,7 @@ If the above basic checks don't help, apply the remaining fixes.
 
  If you think the touchpad is causing the problem, disable it to find out. If disabling the touchpad stops auto-scrolling, the problem is originating from it. So, you can keep it turned off to avoid encountering the same problem. If the problem persists after disabling the touchpad, some software issues might be the culprit.
 
- If you are unfamiliar with the process, check out our guides on[disabling the touchpad on Windows 10](https://www.makeuseof.com/ways-to-disable-touchpad-in-windows-10/) (or[Windows 11](https://www.makeuseof.com/windows-11-disable-touchpad/) ).
+ If you are unfamiliar with the process, check out our guides on [disabling the touchpad on Windows 10](https://www.makeuseof.com/ways-to-disable-touchpad-in-windows-10/) (or [Windows 11](https://www.makeuseof.com/windows-11-disable-touchpad/) ).
 
 ### 4\. Remove or Uninstall Ghost Devices
 
@@ -131,3 +131,43 @@ If the above basic checks don't help, apply the remaining fixes.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/how-to-halt-microsoft-edge-icons-regularity/"><u>How to Halt Microsoft Edge Icons' Regularity</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-correctly-installing-apps-from-ms-store/"><u>Mastering the Art of Correctly Installing Apps From MS Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-reinstalling-failing-drivers-in-win11-system/"><u>Guide to Reinstalling Failing Drivers in Win11 System</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-auto-detection-errors/"><u>Overcoming Windows Auto Detection Errors</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-whatre-the-best-alternatives-to-pexels-for-2024/"><u>Updated Whatre the Best Alternatives to Pexels for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-the-ultimate-guide-to-audio-treasures-for-podcast-production/"><u>New In 2024, The Ultimate Guide to Audio Treasures for Podcast Production</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-through-faulty-shift-in-windows/"><u>Navigate Through Faulty Shift in Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-infinix-zero-30-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Infinix Zero 30 5G</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-essential-guide-to-implementing-lame-for-high-quality-auditory-outputs-in-audacity/"><u>New In 2024, The Essential Guide to Implementing Lame for High-Quality Auditory Outputs in Audacity</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-nvidia-connect-failure-on-windows-11-systems/"><u>Fixing Nvidia Connect Failure on Windows 11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/live-transcribing-made-easy-the-whisper-way/"><u>Live Transcribing Made Easy - The Whisper Way</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-unbiased-reviews-finding-the-top-flac-converter-for-your-files/"><u>In 2024, Unbiased Reviews Finding the Top FLAC Converter for Your Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-accessories-for-optimal-gopro-photography/"><u>In 2024, Ideal Accessories for Optimal GoPro Photography</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-utilize-windows-for-handwritten-input/"><u>How to Utilize Windows for Handwritten Input</u></a></li>
+<li><a href="https://windows11.techidaily.com/hidden-sd-card-regain-access-with-troubleshooting-guide/"><u>Hidden SD Card: Regain Access with Troubleshooting Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/convert-high-res-fb-videos-seamlessly-into-mp4-at-no-extra-cost/"><u>Convert High-Res FB Videos Seamlessly Into MP4 at No Extra Cost</u></a></li>
+<li><a href="https://windows11.techidaily.com/newbies-in-the-windows-world-steer-clear-of-these-top-8-faux-pas/"><u>Newbies in the Windows World: Steer Clear of These Top 8 Faux Pas</u></a></li>
+<li><a href="https://windows11.techidaily.com/overhauling-write-operations-failure-fixes-on-windows/"><u>Overhauling Write Operations Failure Fixes on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/make-file-management-simple-using-windows-autodelete-feature/"><u>Make File Management Simple: Using Windows' Autodelete Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-wi-fi-connectivity-hurdles-clearing-action-shortcomings/"><u>Overcoming Wi-Fi Connectivity Hurdles: Clearing Action Shortcomings</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-x90s-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo X90S</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-solve-atheros-qca61x4-driver-glitches/"><u>Win11: Solve Atheros QCA61x4 Driver Glitches</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-infinix-note-30-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Infinix Note 30 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-shegames-legends-youtubes-number-one-ten/"><u>2024 Approved  SheGames Legends  YouTube's Number One Ten</u></a></li>
+<li><a href="https://windows11.techidaily.com/guides-to-mastering-your-fax-interface-with-w11s-tools/"><u>Guides to Mastering Your Fax Interface with W11's Tools</u></a></li>
+<li><a href="https://network-issues.techidaily.com/quickfix-guide-your-definitive-solution-to-fixed-up-zooms/"><u>QuickFix Guide: Your Definitive Solution to Fixed-Up Zooms</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-xbox-game-pass-0x800700e9-error-in-windows-11-and-11/"><u>How to Fix the Xbox Game Pass 0X800700e9 Error in Windows 11 & 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-2023-update-sony-bdp-s3700-in-depth-analysis/"><u>[New] 2023 Update  Sony BDP-S3700 in Depth Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/invisible-disk-hiding-tricks-in-win11w10/"><u>Invisible Disk Hiding Tricks in Win11/W10</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-wire-free-audio-on-windows-airpods/"><u>Guide to Wire-Free Audio on Windows (AirPods)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-infinix-hot-30-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Infinix Hot 30 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stabilize-an-unstable-printer-on-windows/"><u>How to Stabilize an Unstable Printer on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/merge-your-world-connecting-android-and-windows-11-tablets/"><u>Merge Your World: Connecting Android and Windows 11 Tablets</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-captivating-audiences-on-a-shoestring-budget-youtube-shorts-success-tips/"><u>[Updated] Captivating Audiences on a Shoestring Budget – YouTube Shorts Success Tips</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unleash-creativity-10-top-rated-free-mac-art-software/"><u>Unleash Creativity  10 Top-Rated, FREE Mac Art Software</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/10-best-srt-turbocharger-mods-compatible-with-os-x-and-win-for-2024/"><u>10 Best SRT Turbocharger Mods Compatible with OS X & Win for 2024</u></a></li>
+</ul></div>

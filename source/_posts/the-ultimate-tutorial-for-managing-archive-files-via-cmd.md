@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tutorial for Managing Archive Files via CMD
-date: 2024-06-25T11:59:46.419Z
-updated: 2024-06-26T11:59:46.419Z
+date: 2024-07-11T21:16:33.705Z
+updated: 2024-07-12T21:16:33.705Z
 tags:
   - windows10
   - windows11
@@ -42,7 +42,7 @@ Here's how to zip files using Command Prompt:
 
 ## How to Zip Files Using Windows PowerShell
 
- There are several viable ways to[create zip files on Windows](https://www.makeuseof.com/easy-ways-create-zip-file-windows-10/) . One of these is through Windows PowerShell. However, the**tar** command doesn't work in Windows PowerShell; we'll use another command to get the work done.
+ There are several viable ways to [create zip files on Windows](https://www.makeuseof.com/easy-ways-create-zip-file-windows-10/) . One of these is through Windows PowerShell. However, the**tar** command doesn't work in Windows PowerShell; we'll use another command to get the work done.
 
 Here's how to zip files using Windows PowerShell:
 
@@ -60,7 +60,7 @@ Here's how to zip files using Windows PowerShell:
 
 ## How to Unzip Files Using Command Prompt
 
- There may be situations where you want to[unzip files on your Windows computer](https://www.makeuseof.com/unzip-files-windows-10/) . Fortunately, you can do that as well using Command Prompt. Here's how:
+ There may be situations where you want to [unzip files on your Windows computer](https://www.makeuseof.com/unzip-files-windows-10/) . Fortunately, you can do that as well using Command Prompt. Here's how:
 
 1. Launch Command Prompt with admin privileges.
 2. Use the**cd** command to head toward the zip file's location.
@@ -102,3 +102,60 @@ You've successfully unzipped the file.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-cutting-edge-camera-technology-for-youtube-stars/"><u>[New] 2024 Approved  Cutting-Edge Camera Technology For YouTube Stars</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-rectify-cannot-link-with-nvidia-in-windows-11/"><u>How to Rectify Cannot Link with NVIDIA in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-github-desktop-with-windows-11-os/"><u>Step-by-Step Guide to GitHub Desktop with Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-optimal-sleep-cycles-for-windows-devices/"><u>Unlocking Optimal Sleep Cycles for Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-your-computers-windows-key-settings/"><u>Mastering Your Computer’s Windows Key Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-excessive-ram-allocation-in-connected-devices-interface/"><u>Resolving Excessive RAM Allocation in Connected Devices Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-top-9-truths-about-why-pc-computers-win-over-macos-9/"><u>The Top 9 Truths About Why PC Computers Win over MacOS (#9)</u></a></li>
+<li><a href="https://windows11.techidaily.com/inside-look-how-to-reach-windowsstore-folder/"><u>Inside Look: How To Reach WindowsStore Folder</u></a></li>
+<li><a href="https://windows11.techidaily.com/quash-insufficient-requirement-notice-windows-11/"><u>Quash Insufficient Requirement Notice Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-network-path-with-fixed-ea-server-error-in-os/"><u>Restoring Network Path with Fixed EA Server Error in OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-screen-disruptions-secure-smooth-play-on-w11-with-sonic-frontiers/"><u>Overcoming Screen Disruptions: Secure Smooth Play on W11 with Sonic Frontiers</u></a></li>
+<li><a href="https://windows11.techidaily.com/taking-flight-with-windows-accessibility-novice-style/"><u>Taking Flight with Windows Accessibility, Novice Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-windows-11-efficiency-the-5-uptime-test-routines/"><u>Maximizing Windows 11 Efficiency: The 5 Uptime Test Routines</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-reclaiming-standard-windows-11-search-preferences/"><u>Step-by-Step: Reclaiming Standard Windows 11 Search Preferences</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-more-frustration-quick-fixes-for-windows-11-woes/"><u>No More Frustration! Quick Fixes for Windows 11 Woes</u></a></li>
+<li><a href="https://windows11.techidaily.com/method-for-icon-position-restoration-in-windows/"><u>Method for Icon Position Restoration in WIndows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-harness-the-power-of-gopro-studio-essential-editing-techniques/"><u>[New] 2024 Approved  Harness the Power of GoPro Studio  Essential Editing Techniques</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-cutting-out-distractions-in-photos-for-2024/"><u>[Updated] Cutting Out Distractions in Photos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-counteract-d3d11-hardware-failures-in-w11w10/"><u>Strategies to Counteract D3D11 Hardware Failures in W11/W10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-pro-winscreen-recorders-review/"><u>[New] Pro Winscreen Recorders Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/quickly-fixing-microsoft-store-problems-on-win-11/"><u>Quickly Fixing Microsoft Store Problems on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-best-way-to-setup-games-on-the-windows-xbox-app/"><u>The Best Way to Setup Games on the Windows Xbox App</u></a></li>
+<li><a href="https://windows11.techidaily.com/lowering-gameplay-stress-reducing-cpu-load-while-playing/"><u>Lowering Gameplay Stress: Reducing CPU Load While Playing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-clicks-big-smiles-crafting-memes-easily/"><u>2024 Approved  Quick Clicks, Big Smiles  Crafting Memes Easily</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-expert-strategies-for-home-based-podcast-recordings/"><u>[Updated] Expert Strategies for Home-Based Podcast Recordings</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-enhance-visibility-on-tiktok-a-list-of-powerful-username-concepts/"><u>2024 Approved  Enhance Visibility on TikTok - A List of Powerful Username Concepts</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-actions-for-resolving-directdraw-failures-on-windows-1011/"><u>Immediate Actions for Resolving DirectDraw Failures on Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-steps-delete-email-after-signing-in/"><u>Troubleshooting Steps: Delete Email After Signing In</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-2024-approved-great-ways-to-make-claymation-videos/"><u>Updated 2024 Approved Great Ways to Make Claymation Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-fixing-steam-file-connections-issue/"><u>Strategies for Fixing Steam File Connections Issue</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-enhancing-video-quality-callout-techniques-for-engaging-edits-for-2024/"><u>[New] Enhancing Video Quality  Callout Techniques for Engaging Edits for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-complete-rundown-top-10-digital-drawing-software-on-chrome-for-2024/"><u>A Complete Rundown  Top 10 Digital Drawing Software on Chrome for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-leading-open-source-screen-recorder-apps-reviewed/"><u>In 2024, Leading Open-Source Screen Recorder Apps Reviewed</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-powershell-script-execution-policy-landscape/"><u>Navigating the PowerShell Script Execution Policy Landscape</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-enthusiasts-rejoice-black-friday-offer-for-lifetime-612-windows-11-savings/"><u>Tech Enthusiasts Rejoice - Black Friday Offer for Lifetime $6.12 Windows 11 Savings</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-windows-11-screens-with-custom-wallpaper-panes/"><u>Transform Windows 11 Screens with Custom Wallpaper Panes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-timeframe-equation-for-20mb-content/"><u>In 2024, Timeframe Equation for 20MB Content</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-best-twitter-video-downloaders-how-to-save-twitter-videos/"><u>[Updated] Best Twitter Video Downloaders  How to Save Twitter Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-maze-of-directdraw-fixes-on-modern-microsoft-oses/"><u>Navigating the Maze of DirectDraw Fixes on Modern Microsoft OSes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-infinix-smart-8-hd-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Infinix Smart 8 HD</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-11-internet-options/"><u>Unlocking Windows 11 Internet Options</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-breakthrough-media-tools-to-complement-xsplit/"><u>2024 Approved  Breakthrough Media Tools to Complement XSplit</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-the-impact-of-ntfs-compression-on-data-saving/"><u>Understanding the Impact of NTFS Compression on Data Saving</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-top-10-hits-tiktoks-viral-reactions/"><u>[Updated] In 2024, Top 10 Hits  TikTok's Viral Reactions</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-error-windows-welcome-cant-read-fingers/"><u>Tackling Error: Windows Welcome Can't Read Fingers</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-mastering-in-game-speech-alteration-top-picks-and-reviews/"><u>Updated 2024 Approved Mastering In-Game Speech Alteration Top Picks and Reviews</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ast-track-a-step-by-step-guide-for-swiftly-deleting-comments-on-youtube/"><u>[New] Fast Track  A Step by Step Guide for Swiftly Deleting Comments on YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-your-windows-dashboard-incorporate-portable-apps/"><u>Personalize Your Windows Dashboard: Incorporate Portable Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-walls-of-windows-icons/"><u>Taming the Walls of Windows Icons</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-professional-results-without-the-professionals-diy-movie-making-for-beginners/"><u>In 2024, Professional Results Without the Professionals DIY Movie Making for Beginners</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-landscape-of-android-and-windows-file-sharing/"><u>Navigating the Landscape of Android & Windows File Sharing</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-restore-fn-key-brighness-in-windows-11/"><u>Steps to Restore Fn Key Brighness in Windows 11</u></a></li>
+</ul></div>

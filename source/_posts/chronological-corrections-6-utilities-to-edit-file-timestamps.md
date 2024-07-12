@@ -1,7 +1,7 @@
 ---
 title: "Chronological Corrections: 6 Utilities to Edit File Timestamps"
-date: 2024-06-25T12:27:26.433Z
-updated: 2024-06-26T12:27:26.433Z
+date: 2024-07-11T21:48:32.064Z
+updated: 2024-07-12T21:48:32.064Z
 tags:
   - windows10
   - windows11
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
  And if you need some assistance along the way, simply navigate to the**Help** tab.
 
-**Download** : TimeStamp Changer for[Windows](https://www.softpedia.com/get/PORTABLE-SOFTWARE/System/File-management/TimeStamp-Changer.shtml) (Free)
+**Download** : TimeStamp Changer for [Windows](https://www.softpedia.com/get/PORTABLE-SOFTWARE/System/File-management/TimeStamp-Changer.shtml) (Free)
 
 ## 2\. BulkFileChanger
 
@@ -44,9 +44,9 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
  Once you've uploaded a file or folder, click on it. From there, navigate to the**Actions** tab and then select**Change Time/Attributes** . Alternatively, press**F6** .
 
- Tick the**Created** ,**Modified** , or**Accessed** box and then[change the date and time](https://www.makeuseof.com/windows-11-change-date-time/) to your liking. When you finish, press the**Save Settings** button at the bottom.
+ Tick the**Created** ,**Modified** , or**Accessed** box and then [change the date and time](https://www.makeuseof.com/windows-11-change-date-time/) to your liking. When you finish, press the**Save Settings** button at the bottom.
 
-**Download** : BulkFileChanger for[Windows](https://www.nirsoft.net/utils/bulk%5Ffile%5Fchanger.html) (Free)
+**Download** : BulkFileChanger for [Windows](https://www.nirsoft.net/utils/bulk%5Ffile%5Fchanger.html) (Free)
 
 ## 3\. Attribute Changer
 
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
  Tick the**Modify date and time stamps** box. Next, tick the relevant boxes next to the**Created** ,**Modified** , and**Accessed** options. From there, set your preferred date and time for each option. Finally, press**Apply** and then press**OK** to save these changes.
 
-**Download** : Attribute Changer for[Windows](https://www.petges.lu/download/) (Free)
+**Download** : Attribute Changer for [Windows](https://www.petges.lu/download/) (Free)
 
 ## 4\. NewFileTime
 
@@ -72,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
  Want your files to be a certain number of days older or younger than their current created/modified date? Click the**be older** or**be younger** tabs and then enter the relevant numbers in the**Days** boxes.
 
-**Download** : NewFileTime for[Windows](https://www.softwareok.com/?seite=Microsoft/NewFileTime) (Free)
+**Download** : NewFileTime for [Windows](https://www.softwareok.com/?seite=Microsoft/NewFileTime) (Free)
 
 ## 5\. AttributeMagic
 
@@ -80,11 +80,11 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
  AttributeMagic comes with a minimalist user interface and is incredibly easy to use. To add a file to AttributeMagic, click the**Browse** button and then select the relevant file. Alternatively, drag and drop your file onto the tool.
 
- What's interesting is that this tool has sections that[display your file extensions on Windows](https://www.makeuseof.com/ways-to-make-windows-10-show-file-extensions/) alongside its name. Having all this information at your disposal can help you ensure that you’re editing the correct file.
+ What's interesting is that this tool has sections that [display your file extensions on Windows](https://www.makeuseof.com/ways-to-make-windows-10-show-file-extensions/) alongside its name. Having all this information at your disposal can help you ensure that you’re editing the correct file.
 
  To change the file date and time, scroll to the**Date/Time** section and select the relevant options. Finally, press the**Apply** button in the bottom-left corner.
 
-**Download** : AttributeMagic for[Windows](https://www.elwinsoft.com/attributemagic-free.html) (Free)
+**Download** : AttributeMagic for [Windows](https://www.elwinsoft.com/attributemagic-free.html) (Free)
 
 ## 6\. File & Folder Tools
 
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
  Navigate to the**NEW DateTime** box and tick the relevant boxes next to**Last Created** ,**Last Modified** , and**Last Accessed** . From there, select your preferred date and time, and then click the**CHANGE DATETIME** button.
 
-**Download** : File & Folder Tools for[Windows](https://www.softpedia.com/get/File-managers/File-and-Folder-Tools.shtml) (Free)
+**Download** : File & Folder Tools for [Windows](https://www.softpedia.com/get/File-managers/File-and-Folder-Tools.shtml) (Free)
 
 ## 7\. Bulk Rename Utility
 
@@ -110,19 +110,19 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
 
  Navigate to the**Special** tab and select**Change File Timestamps** . Finally, set your preferred date and time, and then press the**OK** button.
 
-**Download** : Bulk Rename Utility for[Windows](https://www.bulkrenameutility.co.uk/Download.php) (Free)
+**Download** : Bulk Rename Utility for [Windows](https://www.bulkrenameutility.co.uk/Download.php) (Free)
 
 ## 8\. Advanced Renamer
 
 ![Advanced Renamer App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/advanced-renamer-app.jpg)
 
- Advanced Renamer is another tool whose main purpose is to help you easily[rename your files on Windows](https://www.makeuseof.com/windows-11-rename-files/) . But in addition to that, the tool helps you change your files’ timestamps.
+ Advanced Renamer is another tool whose main purpose is to help you easily [rename your files on Windows](https://www.makeuseof.com/windows-11-rename-files/) . But in addition to that, the tool helps you change your files’ timestamps.
 
  To use this tool, drag and drop a file onto the middle pane of Advanced Renamer. Next, click the**Add method** button in the top-left corner of the screen and select the**Timestamp** option.
 
  From there, tick the**Created date and time** ,**Accessed date and time** , or the**Modified date and time** box. Finally, enter your preferred date and time in the bottom-left corner of the screen and press**Enter** .
 
-**Download** : Advanced Renamer for[Windows](https://www.advancedrenamer.com/download) (Free)
+**Download** : Advanced Renamer for [Windows](https://www.advancedrenamer.com/download) (Free)
 
 ## Changing Your Files' Created/Modified Dates Is Easy
 
@@ -147,3 +147,42 @@ thumbnail: https://thmb.techidaily.com/893ed101846c23a15225b4055236cf141325f0b73
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/prevent-chrome-from-saving-webp-images-in-windows/"><u>Prevent Chrome From Saving WebP Images in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-optimize-your-browsing-experience-use-defender-aguard-in-win-11-edge/"><u>How to Optimize Your Browsing Experience: Use Defender Aguard in Win 11 Edge</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-apex-crashes-essential-steps-for-windows-11-gamers/"><u>Overcome Apex Crashes: Essential Steps for Windows 11 Gamers</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionizing-ui-adding-cli-functionality-to-taskmgr-in-win11/"><u>Revolutionizing UI: Adding CLI Functionality to TaskMgr in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/redefine-reviving-with-modern-os-alternatives/"><u>Redefine Reviving with Modern OS Alternatives</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-lan-world-play-in-windows-mc-game/"><u>Mastering LAN World Play in Windows MC Game</u></a></li>
+<li><a href="https://windows11.techidaily.com/launching-the-system-rescue-console-easily/"><u>Launching the System Rescue Console Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-ditch-intels-onboard-graphics-in-windows/"><u>How to Ditch Intel's Onboard Graphics in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-backup-bin-to-picture-panel-guiding-games-on-pcs-with-w11/"><u>From Backup Bin to Picture Panel: Guiding Games on PCs with W11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-record-and-incorporate-speech-into-powerpoint-decks/"><u>[Updated] How to Record & Incorporate Speech Into PowerPoint Decks</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-linguistic-landscapes-smoothly-via-keyboard-shortcuts-in-win1011/"><u>Navigate Linguistic Landscapes Smoothly via Keyboard Shortcuts in Win10/11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/screen-recorder-pro-a-beginners-handbook-for-mac/"><u>Screen Recorder Pro  A Beginner's Handbook for Mac</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xr-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XR to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-windows-activation-flaw-error-0x803f700f/"><u>Remedying Windows Activation Flaw: Error 0X803F700F</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-tailor-your-tweets-exceptional-video-to-twitch-tools/"><u>[Updated] Tailor Your Tweets  Exceptional Video to Twitch Tools</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-express-thumbnails-for-epic-battle-royale/"><u>[New] Express Thumbnails for Epic Battle Royale</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboard-knots-unraveling-win10-functional-issues/"><u>Keyboard Knots: Unraveling WIN10 Functional Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/reduce-clutter-increase-efficiency-one-antivirus-rule/"><u>Reduce Clutter, Increase Efficiency: One Antivirus Rule!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-jaycut-handbook-mastering-free-online-video-editing-in-no-time-for-2024/"><u>Updated The Jaycut Handbook Mastering Free Online Video Editing in No Time for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/reboot-to-reconnect-reviving-ethernet-net-access/"><u>Reboot to Reconnect: Reviving Ethernet Net Access</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-program-use-in-windows-via-right-click-options/"><u>Optimizing Program Use in Windows via Right-Click Options</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-network-error-0x800704b3-in-windows-11-and-11/"><u>How to Fix the Network Error 0X800704b3 in Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfecting-the-art-shrink-or-enlarge-apps-using-shortcut-on-win11/"><u>Perfecting the Art: Shrink or Enlarge Apps Using Shortcut on Win11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tweeting-visuals-integrating-youtube-and-snapchat-for-2024/"><u>Tweeting Visuals  Integrating YouTube and Snapchat for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastery-in-managing-w10-photos-crashes-with-expert-tips/"><u>2024 Approved  Mastery in Managing W10 Photos Crashes with Expert Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/reactivate-quieted-slack-feedback-in-win-11-systems/"><u>Reactivate Quieted Slack Feedback in Win 11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/initiating-changes-accessing-fax-editor-in-the-newest-os/"><u>Initiating Changes: Accessing Fax Editor in the Newest OS</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/secrets-of-10-excellent-tiktok-marketing-initiatives-for-2024/"><u>Secrets of 10 Excellent TikTok Marketing Initiatives for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-engaging-streams-for-success-the-ultimate-youtube-broadcast-blueprint-using-wirecast/"><u>Craft Engaging Streams for Success  The Ultimate Youtube Broadcast Blueprint Using WireCast</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveraging-labels-for-efficient-file-management-on-windows-11/"><u>Leveraging Labels for Efficient File Management on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reverting-back-to-legacy-window-explorer/"><u>Reverting Back to Legacy Window Explorer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-nokia-c22-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Nokia C22? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-a-hidden-items-context-menu-option-in-windows-10-and-11/"><u>How to Add a Hidden Items Context Menu Option in Windows 10 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-tackling-error-1053-unresponsive-windows-services/"><u>Quick Guide to Tackling Error 1053: Unresponsive Windows Services</u></a></li>
+</ul></div>

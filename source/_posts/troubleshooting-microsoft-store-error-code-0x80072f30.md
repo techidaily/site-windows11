@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Microsoft Store: Error Code 0X80072F30"
-date: 2024-06-25T12:28:14.786Z
-updated: 2024-06-26T12:28:14.786Z
+date: 2024-07-11T21:49:25.018Z
+updated: 2024-07-12T21:49:25.018Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a5
 
  First, start by running the Windows Store Apps troubleshooter. That troubleshooter may not detect and address issues with MS Store, but it’s worth a try. You can launch that troubleshooting tool in Windows 11 like this:
 
-1. [Open S](https://www.makeuseof.com/windows-ways-to-open-system-settings/) e[ttings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) with the app’s handy**Win** +**I** keyboard shortcut. See[how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more handy methods.
+1. [Open S](https://www.makeuseof.com/windows-ways-to-open-system-settings/) e [ttings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) with the app’s handy**Win** +**I** keyboard shortcut. See [how to open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) for more handy methods.
 2. Next, click Settings'**Troubleshoot** navigation option in the**System** tab.  
 ![The Run button for the Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-run-button-for-the-app-troubleshooter.jpg)
 3. Click**Other-troubleshooters** to access Windows 11’s troubleshooting tools.
@@ -69,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a5
 3. Turn off the**Set the time automatically** option if enabled.  
 ![The Set the time automatically option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-set-time-automatically-option.jpg)
 4. Select the**Change** option for manually setting the date and time.
-5. Input the correct time and date for the region your PC is set to. You can check the right time and date for your PC’s set region at the[World Clock](https://www.timeanddate.com/worldclock/) website.  
+5. Input the correct time and date for the region your PC is set to. You can check the right time and date for your PC’s set region at the [World Clock](https://www.timeanddate.com/worldclock/) website.  
 ![The Change the date & time window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-change-date-time-window.jpg)
 6. Then select**Change** to set the new time.
 7. Also, make sure the time zone is set right by disabling the**Set time zone automatically** option and choosing an option on the**Time Zone** drop-down menu.
@@ -77,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a5
 
 ## 5\. Turn Off Any Active Proxy Server Settings
 
- A[proxy server](https://www.makeuseof.com/tag/what-is-a-proxy-server/) is an intermediary server through which data traffic flows when enabled on your PC. That can cause MS Store connection issues that only disabling a proxy will resolve. So, it could be the case a proxy server is causing error 0x80072F30 on your PC.
+ A [proxy server](https://www.makeuseof.com/tag/what-is-a-proxy-server/) is an intermediary server through which data traffic flows when enabled on your PC. That can cause MS Store connection issues that only disabling a proxy will resolve. So, it could be the case a proxy server is causing error 0x80072F30 on your PC.
 
  Even if you’re positive you’ve never enabled such a feature, check the proxy server setting like this:
 
@@ -139,3 +139,36 @@ thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a5
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-from-novice-to-pro-utilizing-obs-on-android-systems/"><u>[Updated] 2024 Approved  From Novice to Pro  Utilizing OBS on Android Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-and-fixing-non-responsive-usb-on-pc/"><u>Identifying and Fixing Non-Responsive USB on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-overcome-windows-software-initiation-failures/"><u>How to Overcome Windows Software Initiation Failures</u></a></li>
+<li><a href="https://facebook.techidaily.com/investigating-this-years-most-puzzling-tech-failures/"><u>Investigating This Year's Most Puzzling Tech Failures</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/speedy-cam-and-commentary-recorder-software-for-2024/"><u>Speedy Cam & Commentary Recorder Software for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-detailed-guide-to-pc-capturing-of-consoles-games/"><u>In 2024, Detailed Guide to PC Capturing of Consoles Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-auto-shutdown-on-windows-11-for-idleness/"><u>Mastering Auto-Shutdown on Windows 11 for Idleness</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-file-system-woes-on-windows-11/"><u>Navigating File System Woes on Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-poco-f5-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Poco F5 5G Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-non-detected-network-proxy-settings-in-windows/"><u>Overcoming Non-Detected Network Proxy Settings in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/phase-out-announcement-end-for-windows-781-on-microsoft-platforms/"><u>Phase-Out Announcement: End for Windows 7/8.1 on Microsoft Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-desktop-spaces-preset-program-dimensions-on-win11/"><u>Optimizing Desktop Spaces: Preset Program Dimensions on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-the-labyrinth-of-updater-0x800f080a-on-windows/"><u>Navigating Through the Labyrinth of Updater 0X800F080A on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-4-ways-to-stop-pc-update-notifications/"><u>Quick Fixes: 4 Ways to Stop PC Update Notifications</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-how-you-use-the-mouse-worldwide-through-powertoys/"><u>Revolutionize How You Use the Mouse Worldwide Through PowerToys</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-15-premium-free-music-websites-every-videographer-needs/"><u>[Updated] 2024 Approved  15 Premium, Free Music Websites Every Videographer Needs</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-rise-of-immersive-consumer-spaces/"><u>The Rise of Immersive Consumer Spaces</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-directx-setup-failures-on-pc/"><u>Mending DirectX Setup Failures on PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-extensive-outlay-review-crafting-your-first-podcast/"><u>[New] Extensive Outlay Review  Crafting Your First Podcast</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-troubleshooting-windows-camera/"><u>Master the Art of Troubleshooting Windows Camera</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-error-correction-techniques/"><u>Mastering Windows Error Correction Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-a-disconnected-printer-issue/"><u>Navigating a Disconnected Printer Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-win-network-unreachable-issue/"><u>Overcoming WIN Network Unreachable Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-connection-stability-fixed-windows-lol-issues/"><u>Mastering Connection Stability: Fixed Windows LoL Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/rehabbing-windows-1011s-recycle-bin-crisis-a-step-by-step-guide/"><u>Rehabbing Windows 10/11'S Recycle Bin Crisis: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-permission-problems-during-windows-1011-installer-errors/"><u>Remedying Permission Problems During Windows 10/11 Installer Errors</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-deciding-the-best-live-streamer-vmix-against-wirecast/"><u>2024 Approved  Deciding the Best Live Streamer  VMix Against Wirecast</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-decoding-the-visual-language-of-live-videos-on-youtube/"><u>In 2024, Decoding the Visual Language of Live Videos on YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-battlenet-access-issues-in-windows-1011/"><u>Overcoming Battle.net Access Issues in Windows 10/11</u></a></li>
+</ul></div>

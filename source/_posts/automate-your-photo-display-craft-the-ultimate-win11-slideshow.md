@@ -1,7 +1,7 @@
 ---
 title: Automate Your Photo Display - Craft the Ultimate Win11 Slideshow
-date: 2024-06-25T12:27:22.728Z
-updated: 2024-06-26T12:27:22.728Z
+date: 2024-07-11T21:48:27.878Z
+updated: 2024-07-12T21:48:27.878Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 
 ## 2\. How to Set Up a Screensaver Slideshow
 
- If you prefer to view your favorite images without overlapping desktop icons, set up a screensaver photo presentation instead. Yes, Windows 11 does still include screensavers, even if some people argue that[screensavers are no longer relevant](https://www.makeuseof.com/tag/screensavers-2015-need-dont/) .
+ If you prefer to view your favorite images without overlapping desktop icons, set up a screensaver photo presentation instead. Yes, Windows 11 does still include screensavers, even if some people argue that [screensavers are no longer relevant](https://www.makeuseof.com/tag/screensavers-2015-need-dont/) .
 
 his is how you can set up a screensaver slideshow in Windows 11:
 
@@ -92,7 +92,7 @@ his is how you can set up a screensaver slideshow in Windows 11:
 
 ## 5\. How to Set Up a Slideshow With Google Photos
 
- Google Photos is a cloud storage web app for storing images you can utilize within Windows 11’s Edge browser. Anybody with a Google Account can save snapshots there. If you don’t already have such an account, set one up as outlined on this[Google Account Help page](https://support.google.com/accounts/answer/27441?hl=en) . Then follow these steps to set up a slideshow in Google Photos:
+ Google Photos is a cloud storage web app for storing images you can utilize within Windows 11’s Edge browser. Anybody with a Google Account can save snapshots there. If you don’t already have such an account, set one up as outlined on this [Google Account Help page](https://support.google.com/accounts/answer/27441?hl=en) . Then follow these steps to set up a slideshow in Google Photos:
 
 1. Open Google Photos in Edge or another browser.
 2. If you don’t already have images saved there, click**Upload** \>**Computer** in Google Photos. Press the**Ctrl** key to choose some photos, and click the**Open** option.
@@ -110,7 +110,7 @@ his is how you can set up a screensaver slideshow in Windows 11:
 
  Slides is a presentation web app of the G Suite you can also utilize with a Google Account. That app includes much more extensive options for setting up photo slideshows with different layouts, transition effects, animations, and captions than Google Photos. These are the steps for setting up a basic image slideshow with Slides:
 
-1. Open the[Google Slides](https://www.google.co.uk/slides/about/) homepage.
+1. Open the [Google Slides](https://www.google.co.uk/slides/about/) homepage.
 2. Click the**Go to Slides** button.
 3. Then select the**Blank** presentation option.
 4. Enter a title in the Untitled presentation box.
@@ -134,7 +134,7 @@ his is how you can set up a screensaver slideshow in Windows 11:
 5. Click the**Slideshow** button to view the presentation.
 6. Your presentation gets automatically saved within Slides. However, you can save it to a hard drive by clicking**File** \>**Download** and choosing Microsoft PowerPoint (or alternative) file format.
 
- Slides has many more audio, formatting, text, shape, and theme options available. You can also include multiple images in single slides by selecting different layout options. Our[how to create a presentation in Google Slides](https://www.makeuseof.com/tag/create-a-presentation-in-google-slides/) guide provides more in-depth guidelines for utilizing that web app.
+ Slides has many more audio, formatting, text, shape, and theme options available. You can also include multiple images in single slides by selecting different layout options. Our [how to create a presentation in Google Slides](https://www.makeuseof.com/tag/create-a-presentation-in-google-slides/) guide provides more in-depth guidelines for utilizing that web app.
 
 ## 7\. How to Set Up a Slideshow With Windows Media Player
 
@@ -178,3 +178,55 @@ his is how you can set up a screensaver slideshow in Windows 11:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/resolving-invalid-temp-directories-in-windows-11/"><u>Resolving Invalid Temp Directories in Windows 11</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/the-ultimate-guide-10-tiktok-tactics-for-2024/"><u>The Ultimate Guide  10 TikTok Tactics for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-cutting-edge-techniques-mastering-youtube-subtitlecc-additions/"><u>In 2024, Cutting-Edge Techniques  Mastering YouTube Subtitle/CC Additions</u></a></li>
+<li><a href="https://windows11.techidaily.com/insight-into-application-usage-on-windows-pc/"><u>Insight Into Application Usage on Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-strategies-for-engagingdisengaging-focus-mode-in-terminal/"><u>Efficient Strategies for Engaging/Disengaging Focus Mode in Terminal</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-f34-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-soft-dependency-management-in-win-environments/"><u>Exploring Soft Dependency Management in Win Environments</u></a></li>
+<li><a href="https://windows11.techidaily.com/simple-steps-to-enable-windows-11s-search-feature-in-task-manager/"><u>Simple Steps to Enable Windows 11'S Search Feature in Task Manager</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-explore-the-ultimate-list-of-discords-top-emoji-design-software/"><u>[Updated] Explore the Ultimate List of Discord's Top Emoji Design Software</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-iphone-6s-plus-smoothly-by-drfone-ios/"><u>How To Remove iCloud On iPhone 6s Plus Smoothly</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-guide-forcibly-disabledelete-printer-on-pc/"><u>Immediate Guide: Forcibly Disable/Delete Printer on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-locked-status-tips-for-windows-users-153-chars/"><u>Preventing Locked Status: Tips for Windows Users (153 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-chrome-freeze-windows-edition/"><u>Overcoming Chrome Freeze: Windows Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/improving-startup-order-in-windows-11/"><u>Improving Startup Order in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-your-sign-in-overcoming-access-restrictions-in-win/"><u>Secure Your Sign-In: Overcoming Access Restrictions in Win</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-it-task-management-windows-11-troubleshooter-buttons-guide/"><u>Enhancing IT Task Management: Windows 11 Troubleshooter Buttons Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-unblocked-access-for-microsoft-store-app-in-win11/"><u>Reinstating Unblocked Access for Microsoft Store App in Win11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-imagemosaic-supreme-online-blend-and-designers-choice/"><u>2024 Approved  ImageMosaic Supreme  Online Blend & Designer's Choice</u></a></li>
+<li><a href="https://windows11.techidaily.com/remote-server-files-via-nas-sharing/"><u>Remote Server Files via NAS Sharing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boosting-channel-success-scaling-for-a-million-viewers/"><u>[New] In 2024, Boosting Channel Success  Scaling for a Million Viewers</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-error-code-31-a-troubleshooting-manual/"><u>Navigating Through Windows Error Code 31: A Troubleshooting Manual</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-a-non-responsive-resource-monitor-steps-for-windows-11-users/"><u>Navigating a Non-Responsive Resource Monitor: Steps for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-upgrade-to-virtualbox-70-on-windows-11/"><u>How to Upgrade to VirtualBox 7.0 on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/maintaining-taskbars-presence-in-maxed-browser-views/"><u>Maintaining Taskbar's Presence in Maxed Browser Views</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-swift-and-free-eradicate-red-eye-in-iphone-photography-tips/"><u>[New] Swift and FREE  Eradicate Red-Eye in iPhone Photography Tips</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-best-free-online-audio-waveform-converters-for-video/"><u>New 2024 Approved Best Free Online Audio Waveform Converters for Video</u></a></li>
+<li><a href="https://windows11.techidaily.com/redefining-user-experience-the-changing-landsinas-of-w10-and-w11/"><u>Redefining User Experience: The Changing Landsinas of W10 & W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-malfunctioning-windows-easy-fixes-at-hand/"><u>Mastery Over Malfunctioning Windows: Easy Fixes at Hand!</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-dxgierrordevicehung-in-win1011/"><u>Overcoming DXGI_ERROR_DEVICE_HUNG in Win10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-overcome-windows-memory-errors/"><u>Steps to Overcome Windows Memory Errors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-diverse-vlogging-content-suggestions/"><u>[Updated] 2024 Approved  Diverse Vlogging Content Suggestions</u></a></li>
+<li><a href="https://windows11.techidaily.com/recovering-faulty-tab-key-on-your-pc/"><u>Recovering Faulty Tab Key on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-oops-to-on-point-8-fixes-for-pink-desktop-displays/"><u>From Oops to On Point: 8 Fixes for Pink Desktop Displays</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-for-genuine-adobe-error-message/"><u>Quick Fix for Genuine Adobe Error Message</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-detailed-breakdown-complete-test-of-gecata-tracker/"><u>[Updated] In 2024, Detailed Breakdown  Complete Test of Gecata Tracker</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-data-handling-in-modern-windows-file-deletion-automation/"><u>Efficient Data Handling in Modern Windows: File Deletion Automation</u></a></li>
+<li><a href="https://windows11.techidaily.com/dive-into-the-depth-of-windows-pre-boots/"><u>Dive Into the Depth of Windows Pre-Boots</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-guide-establishing-your-safe-sandbox-environment/"><u>Effortless Guide: Establishing Your Safe Sandbox Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveraging-powershell-for-user-account-control/"><u>Leveraging PowerShell for User Account Control</u></a></li>
+<li><a href="https://windows11.techidaily.com/impact-breakdown-the-eradication-of-taskbar-chat-in-windows-11/"><u>Impact Breakdown: The Eradication of Taskbar Chat in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-remote-access-stability-a-step-by-step-approach/"><u>Enhancing Remote Access Stability: A Step-by-Step Approach</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-virtual-journey-past-to-present-for-2024/"><u>The Virtual Journey  Past to Present for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-task-execution-speed-with-customized-windows-cmds/"><u>Elevate Task Execution Speed with Customized Windows Cmds</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/izing-your-channels-earnings-a-guide-to-creating-impactful-trailers/"><u>Maximizing Your Channel's Earnings  A Guide to Creating Impactful Trailers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/fasten-outlook-pace-on-pc-essential-tips/"><u>Fasten Outlook Pace on PC - Essential Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-efficiently-techniques-bypassing-ls-command/"><u>Navigating Windows Efficiently: Techniques Bypassing LS Command</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-non-detecting-speakers-or-headphones-in-winos/"><u>Fixing Non-Detecting Speakers or Headphones in WinOS</u></a></li>
+</ul></div>

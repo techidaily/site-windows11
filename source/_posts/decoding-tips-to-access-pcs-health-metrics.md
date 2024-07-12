@@ -1,7 +1,7 @@
 ---
 title: Decoding Tips to Access PC's Health Metrics
-date: 2024-06-25T12:44:47.294Z
-updated: 2024-06-26T12:44:47.294Z
+date: 2024-07-11T22:08:37.863Z
+updated: 2024-07-12T22:08:37.863Z
 tags:
   - windows10
   - windows11
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 
  Alternatively, you can access the System Information tool using the Run command dialog box.
 
- Interestingly, the Run command dialog box can help you access almost any program on Windows. If you want to[run third-party programs with the Run command dialog box](https://www.makeuseof.com/windows-10-11-open-third-party-programs-with-run/) , then you’d have to tweak some Registry settings first.
+ Interestingly, the Run command dialog box can help you access almost any program on Windows. If you want to [run third-party programs with the Run command dialog box](https://www.makeuseof.com/windows-10-11-open-third-party-programs-with-run/) , then you’d have to tweak some Registry settings first.
 
  Now, here’s how to open the System Information tool using the Run command dialog box:
 
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/42db5c6877cc90dcf8ab2d1fd7012cdb680249e89
 
 ## 5\. Use the System Settings
 
- You can always use the system settings to customize or repair the apps on your PC (see[how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) ). But did you know that you can open various tools and apps with the system settings?
+ You can always use the system settings to customize or repair the apps on your PC (see [how to repair apps on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) ). But did you know that you can open various tools and apps with the system settings?
 
  Here are the steps for opening the System Information app using the system settings:
 
@@ -174,3 +174,63 @@ Want to make the System Information tool easily accessible?
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-fortune-in-focus-5-best-maps-for-treasures-for-2024/"><u>[Updated] Fortune in Focus  5 Best Maps for Treasures for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-routes-to-examine-and-clean-up-windows-10s-past-actions/"><u>Easy Routes to Examine & Clean Up Windows 10'S Past Actions</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-counteract-install-net-core-now-on-pc/"><u>How to Counteract Install .NET Core Now on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-alleviate-windows-1011s-devastating-discord-js-failure/"><u>How to Alleviate Windows 10/11'S Devastating Discord JS Failure</u></a></li>
+<li><a href="https://windows11.techidaily.com/trimming-excessive-load-reducing-the-burden-of-user-mode-services-on-pcs/"><u>Trimming Excessive Load: Reducing the Burden of User-Mode Services on PCs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-rapid-snapshot-sound-infused-display/"><u>[Updated] Rapid Snapshot  Sound-Infused Display</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-tackling-tricky-feed-issues-hidden-youtubefacebook-videos/"><u>In 2024, Tackling Tricky Feed Issues  Hidden YouTube/Facebook Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/keeping-windows-screensaver-status-intact-from-user-changes/"><u>Keeping Windows Screensaver Status Intact From User Changes</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-a-free-glimpse-into-the-realm-of-ocm-football/"><u>Get a FREE Glimpse Into the Realm of OCM Football</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-ignite-your-creative-spark-scriptwriting-tips-for-youtube-mastery/"><u>[New] In 2024, Ignite Your Creative Spark  Scriptwriting Tips for YouTube Mastery</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-80-pro-straight-screen-edition-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-ethernet-restoring-lost-internet-signal/"><u>Win Ethernet: Restoring Lost Internet Signal</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/navigating-the-minefield-suddenly-banned-videos-on-social-media/"><u>Navigating the Minefield  Suddenly Banned Videos on Social Media</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/enhancing-tiktok-metrics-with-innovative-and-memorable-usernames/"><u>Enhancing TikTok Metrics with Innovative and Memorable Usernames</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-sandbox-titles-everyone-should-own-for-2024/"><u>Essential Sandbox Titles Everyone Should Own for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-13-pro-max-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 13 Pro Max When Its Locked Within Seconds</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-fixes-for-common-windows-os-office-problems/"><u>Essential Fixes for Common Windows OS Office Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-photo-resizing-on-windows-11-6-steps/"><u>The Ultimate Guide to Photo Resizing on Windows 11 – 6 Steps</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/the-power-of-music-in-videos/"><u>The Power of Music in Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-duo-app-configurations-to-resolve-errors/"><u>Correcting Duo App Configurations to Resolve Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/combat-window-settings-malfunctions-now/"><u>Combat Window Settings Malfunctions Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-window-wizardry-how-to-reactivate-off-screen-apps/"><u>Windows 11 Window Wizardry: How to Reactivate Off-Screen Apps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlocking-youtube-chat-insights/"><u>[New] Unlocking YouTube Chat Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/leap-into-connectivity-unlocking-windows-remote-desktop/"><u>Leap Into Connectivity: Unlocking Windows Remote Desktop</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-capture-tools-15-windows-11-recorder-apps/"><u>Essential Capture Tools  #15 Windows 11 Recorder Apps</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-infinix-gt-10-pro-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Infinix GT 10 Pro FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-text-entry-learning-from-typingaid/"><u>Boost Text Entry: Learning From TypingAid</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-unveiled-the-backup-and-sync-technological-advancements/"><u>Windows 11 Unveiled: The Backup & Sync Technological Advancements</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-top-rated-apps-to-elevate-instagram-imagery/"><u>[Updated] 2024 Approved  Top-Rated Apps to Elevate Instagram Imagery</u></a></li>
+<li><a href="https://windows11.techidaily.com/when-should-you-consider-purging-pagefilesys/"><u>When Should You Consider Purging Pagefile.sys?</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-audioarchitect-designing-without-dacast/"><u>[Updated] In 2024, AudioArchitect  Designing Without DaCast</u></a></li>
+<li><a href="https://windows11.techidaily.com/enable-word-to-always-present-email-attachments-in-reading-view-format/"><u>Enable Word to Always Present Email Attachments in Reading View Format</u></a></li>
+<li><a href="https://windows11.techidaily.com/fine-tuning-windows-filename-metadata/"><u>Fine-Tuning Windows Filename Metadata</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/excellence-unleashed-top-tech-for-your-workspace-for-2024/"><u>Excellence Unleashed - Top Tech For Your Workspace for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-unresponsive-downloads-in-windows-explorer/"><u>Troubleshooting Unresponsive Downloads in Windows Explorer</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-cant-detect-camera-error-on-windows-11-pc/"><u>Fixing Can't Detect Camera Error on Windows 11 PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-guide-vmware-crashes-bsod-on-win11/"><u>Troubleshooting Guide: VMware Crashes, BSOD on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-yuzu-emulation-speed-in-windows/"><u>Elevating Yuzu Emulation Speed in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/getting-acquainted-with-the-windows-odbc-system/"><u>Getting Acquainted with the Windows ODBC System</u></a></li>
+<li><a href="https://windows11.techidaily.com/beyond-boundaries-3-tools-that-elevate-pc-audio-above-100/"><u>Beyond Boundaries: 3 Tools That Elevate PC Audio Above 100%%</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/smartest-spots-for-knowquizzes-a-new-year-ranking-2024/"><u>Smartest Spots for KNOWQuizzes - A New Year Ranking, 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/insightful-tips-for-timely-ping-execution-on-windows-pcs/"><u>Insightful Tips for Timely Ping Execution on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-silencing-game-recommendations-on-w11/"><u>Guide to Silencing Game Recommendations on W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-paths-blocked-by-shared-printers/"><u>Clearing Paths Blocked by Shared Printers</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-mac-os-look-in-windows-try-these-5-techniques-first/"><u>Unlock the Mac OS Look in Windows - Try These 5 Techniques First</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-ftdibussys-on-windows-and-why-does-it-disable-memory-integrity/"><u>What Is ftdibus.sys on Windows and Why Does It Disable Memory Integrity?</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-your-computers-potential-a-wintoy-guidebook/"><u>Master Your Computer's Potential: A Wintoy Guidebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-reboot-mastery-conducting-a-pure-boot/"><u>Windows 11 Reboot Mastery: Conducting a Pure Boot</u></a></li>
+<li><a href="https://windows11.techidaily.com/detailed-exploration-retrieving-the-true-nature-of-device-ids-in-windows/"><u>Detailed Exploration: Retrieving the True Nature of Device IDs in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-for-muting-windows-11-tabs/"><u>Essential Steps for Muting Windows 11 Tabs</u></a></li>
+<li><a href="https://windows11.techidaily.com/digital-dot-delights-top-8-desktop-note-alternatives/"><u>Digital Dot Delights: Top 8 Desktop Note Alternatives</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-windows-1011-unsigned-update-errors/"><u>Eliminating Windows 10/11 'Unsigned' Update Errors</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-giving-a-fresh-twist-to-pre-filtered-memories-using-instagram-tools/"><u>In 2024, Giving a Fresh Twist to Pre-Filtered Memories Using Instagram Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-maximize-video-impact-via-creator-studio-utilization/"><u>[Updated] In 2024, Maximize Video Impact via Creator Studio Utilization</u></a></li>
+<li><a href="https://facebook.techidaily.com/revolutionizing-group-discussions-via-channels-feature/"><u>Revolutionizing Group Discussions via Channels Feature</u></a></li>
+</ul></div>

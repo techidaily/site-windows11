@@ -1,7 +1,7 @@
 ---
 title: Enabling Secure Transfer of Textual Data via Edges Guardspace, Win11 Version
-date: 2024-06-25T12:15:43.470Z
-updated: 2024-06-26T12:15:43.470Z
+date: 2024-07-11T21:34:59.038Z
+updated: 2024-07-12T21:34:59.038Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
 
  To enable copy and paste in Application Guard for Edge, follow the steps below:
 
-1. Right-click on Start and select**Settings** from the menu list. For more information, check out our guide on[how to open the Settings window](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
+1. Right-click on Start and select**Settings** from the menu list. For more information, check out our guide on [how to open the Settings window](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
 2. Select**Privacy & security** from the left pane.
 3. Then click the**Windows Security** option on the right-hand side.
 4. On the following screen, select**App & browser control** .
@@ -87,3 +87,41 @@ thumbnail: https://thmb.techidaily.com/1eb9ced51df0b5377c33b33676973c39490da0549
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/unveiling-systems-peak-performance-limits/"><u>Unveiling System's Peak Performance Limits</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabledarkinterfacefornotepad/"><u>EnableDarkInterfaceForNotepad</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-discover-the-best-10-mac-screenshot-and-recording-apps/"><u>[New] Discover the Best 10 Mac Screenshot and Recording Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/detailed-process-of-downloading-and-setting-up-windows-11-arm-iso/"><u>Detailed Process of Downloading and Setting up Windows 11 ARM ISO</u></a></li>
+<li><a href="https://windows11.techidaily.com/ad-ds-and-printer-woes-a-guide-for-windows-11-users/"><u>AD DS and Printer Woes: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-the-premier-free-online-confluence-of-mp3-files-2023-reviewed/"><u>2024 Approved The Premier Free Online Confluence of MP3 Files 2023 Reviewed</u></a></li>
+<li><a href="https://windows11.techidaily.com/diving-into-devs-how-to-use-the-dev-drive-on-windows-11/"><u>Diving Into Devs: How to Use the Dev Drive on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-wisdom-efficiently-eliminate-partitioned-areas-on-your-pc/"><u>Windows Wisdom: Efficiently Eliminate Partitioned Areas on Your PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitter-to-tween-creating-free-animated-videos/"><u>[New] In 2024, Twitter to Tween  Creating FREE Animated Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-step-into-the-world-of-aplus-tiktok-videos-with-designed-video-templates/"><u>In 2024, Step Into the World of A+ TikTok Videos with Designed Video Templates</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-comparative-reviews-beyond-the-norms-of-sharex-for-2024/"><u>[Updated] Comparative Reviews  Beyond the Norms of ShareX for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncovering-digital-shadows-sid-extraction-in-win11/"><u>Uncovering Digital Shadows: SID Extraction in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-windows-blue-screen-error-0x8007007e/"><u>Unraveling the Mystery of Windows Blue Screen Error: 0X8007007E</u></a></li>
+<li><a href="https://windows11.techidaily.com/early-bird-benefits-automatic-open-of-windows-sticky-notes/"><u>Early Bird Benefits: Automatic Open of Windows' Sticky Notes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/mac-video-editing-software-the-cream-of-the-crop-for-2024/"><u>Mac Video Editing Software The Cream of the Crop for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-revival-mastering-the-explore-ui-reset/"><u>Effortless Revival: Mastering the Explore UI Reset</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-history-for-lately-used-pages/"><u>Unlocking Windows History for Lately Used Pages</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-basic-routines-for-recording-on-youtube/"><u>2024 Approved  Basic Routines for Recording on YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-enhancing-visual-aesthetics-adding-black-bar-and-box-to-videos/"><u>[New] 2024 Approved  Enhancing Visual Aesthetics  Adding Black Bar & Box to Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/3-simple-methods-for-identifying-windows-ram/"><u>3 Simple Methods for Identifying Windows RAM</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-incorporating-a-god-mode-shortcut/"><u>Windows 11: Incorporating a God Mode Shortcut</u></a></li>
+<li><a href="https://windows11.techidaily.com/breakdown-of-windows-11s-enhancements-february-update-speaks/"><u>Breakdown of Windows 11'S Enhancements – February Update Speaks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-win11-uis-image-summaries/"><u>Customize Win11 UI's Image Summaries</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-thumbnails-revamp-with-vibrant-neon-borders/"><u>2024 Approved  YouTube Thumbnails Revamp with Vibrant Neon Borders</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-resource-utilization-monitors/"><u>Advanced Resource Utilization Monitors</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-shotcut-video-editor-review/"><u>New 2024 Approved Shotcut Video Editor Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/window-watchers-sticky-pad-software-reviews-8-picks/"><u>Window Watchers: Sticky Pad Software Reviews (8 Picks)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-narrating-numbers-making-millions-from-your-micro-vlogs/"><u>2024 Approved  Narrating Numbers  Making Millions From Your Micro-Vlogs</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-your-windowed-discord-interface-in-windows/"><u>Unblocking Your Windowed Discord Interface in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-the-pitfalls-of-low-end-activation-codes-in-windows/"><u>Avoiding the Pitfalls of Low-End Activation Codes in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-device-synergy-with-google-nearby-sharing/"><u>Unlocking Device Synergy with Google Nearby Sharing</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Strip Windows 11 of the Store Application
-date: 2024-06-25T12:20:49.462Z
-updated: 2024-06-26T12:20:49.462Z
+date: 2024-07-11T21:40:52.903Z
+updated: 2024-07-12T21:40:52.903Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 
  Winget is a handy Windows package manager tool available with the newer releases of Windows 10 and 11\. It makes it ridiculously easy to search and manage applications on your system. You can use it to remove any application, even the Microsoft Store app from your system. Here’s how:
 
-1. Press the**Win + R** key to[launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**cmd** and press the**Ctrl + Shift + Enter** keys to launch the Command Prompt with administrator privileges.
+1. Press the**Win + R** key to [launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . Type**cmd** and press the**Ctrl + Shift + Enter** keys to launch the Command Prompt with administrator privileges.
 2. Now, we need to locate the ID of the Microsoft Store app installed on the system. Type the following command in the command prompt window and press the enter key:**Winget list Store**
 3. Winget will list all the installed programs on your system containing the string “store” in their name. Find the Microsoft Store app in the list and**copy** its**ID** .
 4. After that, you need to run the uninstall command using winget. The syntax is**winget uninstall \[app ID\]** . So, the command will be:  
@@ -45,7 +45,7 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 
 ### 2\. Using PowerShell
 
- Before winget was officially integrated into Windows 10 and 11, there was a method to[remove the Microsoft Store app using PowerShell](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) . The method still works and all you need to do is list the package name and then use the**Remove-AppxPackage** cmdlet to uninstall the Microsoft Store app from your system. Make sure to run PowerShell with elevated permissions.
+ Before winget was officially integrated into Windows 10 and 11, there was a method to [remove the Microsoft Store app using PowerShell](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) . The method still works and all you need to do is list the package name and then use the**Remove-AppxPackage** cmdlet to uninstall the Microsoft Store app from your system. Make sure to run PowerShell with elevated permissions.
 
 ### 3\. Using a Batch File
 
@@ -82,3 +82,49 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/achieve-peak-productivity-essential-windows-11-and-cmd-commands/"><u>Achieve Peak Productivity: Essential Windows 11 & Cmd Commands</u></a></li>
+<li><a href="https://windows11.techidaily.com/controlling-registry-tools-access-on-windows-11/"><u>Controlling Registry Tools Access on Windows 11</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-chrome-compatible-audio-capture-the-most-advanced-microphones-ranked/"><u>In 2024, Chrome-Compatible Audio Capture The Most Advanced Microphones Ranked</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-convert-any-instagram-video-in-minutes-best-free-tools-windowsmac/"><u>[New] In 2024, Convert Any Instagram Video in Minutes  Best Free Tools (Windows/Mac)</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-10-vlogging-editing-apps-for-mobile-devices/"><u>Top 10 Vlogging Editing Apps for Mobile Devices</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-fixing-non-appearing-thumbnails-in-youtube-shorts/"><u>[Updated] 2024 Approved  Fixing Non-Appearing Thumbnails in YouTube Shorts</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackle-non-selectable-text-in-windows-based-pdf-documents-easily/"><u>Tackle Non-Selectable Text in Windows-Based PDF Documents Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/synchronize-the-seconds-windows-time-repair-guide/"><u>Synchronize the Seconds: Windows Time Repair Guide</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-mastering-sound-separation-techniques-for-isolating-audio-from-videos/"><u>New 2024 Approved Mastering Sound Separation Techniques for Isolating Audio From Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-high-memory-consumption-in-edges-webview2/"><u>Tackling High Memory Consumption in Edge's WebView2</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-motorola-moto-g73-5g-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Motorola Moto G73 5G</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-4-ways-to-go-live-on-tiktok-on-computer/"><u>In 2024, 4 Ways to Go Live on TikTok on Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-operation-elevation-woes-on-windows-11-and-11/"><u>Breaking Down Operation Elevation Woes on Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-insiders-edge-building-snaps-with-powertoys/"><u>The Insider's Edge: Building Snaps with PowerToys</u></a></li>
+<li><a href="https://windows11.techidaily.com/an-insight-into-windows-audio-channel-separation/"><u>An Insight Into Windows' Audio Channel Separation</u></a></li>
+<li><a href="https://windows11.techidaily.com/uninstalling-the-default-software-on-win11-pcs/"><u>Uninstalling the Default Software on Win11 PCs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-hp-notebook-efficient-screen-capture-strategies/"><u>[Updated] HP Notebook  Efficient Screen Capture Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-tutorial-to-launch-w11s-administrator-powershell/"><u>The Complete Tutorial to Launch W11's Administrator PowerShell</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-free-software-strategies-for-efficient-educational-streaming/"><u>[Updated] Free Software Strategies for Efficient Educational Streaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/crystal-clear-in-minutes-mastering-fuzzy-window-fixes/"><u>Crystal Clear in Minutes: Mastering Fuzzy Window Fixes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-ios-the-ultimate-list-of-ps2-emulators/"><u>[New] 2024 Approved  IOS  The Ultimate List of PS2 Emulators</u></a></li>
+<li><a href="https://windows11.techidaily.com/circumventing-driver-checks-in-windows-no-signatures-any-installation/"><u>Circumventing Driver Checks in Windows: No Signatures, Any Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-selection-of-cost-free-storage-solutions-for-windows-users/"><u>The Ultimate Selection of Cost-Free Storage Solutions for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-guide-to-image-spin-on-your-windows-11-pc/"><u>The Complete Guide to Image Spin on Your Windows 11 PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-up-chromes-dark-window/"><u>Clearing Up Chrome's Dark Window</u></a></li>
+<li><a href="https://windows11.techidaily.com/automated-file-handling-via-task-scheduler/"><u>Automated File Handling via Task Scheduler</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokémon Go Cooldown Chart On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-niconico-stars-in-snapchat-moments/"><u>[New] 2024 Approved  Niconico Stars in Snapchat Moments</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-solutions-to-the-windows-too-many-requests-challenge/"><u>Swift Solutions to the Windows Too Many Requests Challenge</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-tailored-free-offer-unlock-our-exclusive-youtube-banner-pack/"><u>[Updated] 2024 Approved  Tailored Free Offer - Unlock Our Exclusive YouTube Banner Pack</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-choosing-windows-11-is-a-wise-decision-over-macos/"><u>Why Choosing Windows 11 Is a Wise Decision over MacOS</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-how-to-download-vimeo-video-to-mp4/"><u>In 2024, How To Download Vimeo Video to MP4</u></a></li>
+<li><a href="https://windows11.techidaily.com/system-saviors-the-10-best-windows-diagnostic-apps/"><u>System Saviors: The 10 Best Windows Diagnostic Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-comprehensive-guide-to-post-processing-colors/"><u>In 2024, A Comprehensive Guide to Post-Processing Colors</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-fifa-footage-analysis-trendy-video-patterns/"><u>[New] FIFA Footage Analysis  Trendy Video Patterns</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-how-to-activate-and-customize-zooms-virtual-screen-mode/"><u>2024 Approved  How to Activate and Customize Zoom's Virtual Screen Mode</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-create-text-animation-for-videos-for-2024/"><u>How to Create Text Animation for Videos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/thawing-the-frozen-menus-6-windows-remedies-explored/"><u>Thawing the Frozen Menus: 6 Windows Remedies Explored</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-delving-into-the-visual-excellence-of-benq-sw320s-4k-display/"><u>2024 Approved  Delving Into the Visual Excellence of BenQ SW320's 4K Display</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-sharing-tweets-via-vids-on-whatsapp-now/"><u>[Updated] Sharing Tweets via Vids on WhatsApp Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-sticky-note-opening-on-windows-11/"><u>Breaking Down Sticky Note Opening on Windows 11</u></a></li>
+</ul></div>

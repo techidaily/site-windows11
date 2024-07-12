@@ -1,7 +1,7 @@
 ---
 title: "Create a Convenient Windows Environment: Portable Software Icons"
-date: 2024-06-25T12:41:08.304Z
-updated: 2024-06-26T12:41:08.304Z
+date: 2024-07-11T22:04:23.655Z
+updated: 2024-07-12T22:04:23.655Z
 tags:
   - windows10
   - windows11
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/c5a835a587cbde63390ec7ae0f646f52f65cc154a
  SyMenu is a portable app menu to which you can add software, document file, website URL, folder, and command shortcuts. It adds a menu for portable software you can access on the desktop or by clicking its system tray icon in Windows. You can add a portable software menu to Windows 11 and 10 with SyMenu like this:
 
 1. First, insert a USB flash drive into your PC.
-2. Open the[SyMenu](https://www.ugmfree.it/SyMenuDownload.aspx) download page.
+2. Open the [SyMenu](https://www.ugmfree.it/SyMenuDownload.aspx) download page.
 3. Click the**exe package** option.  
 ![The exe package option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-exe-package-option.jpg)
 4. Once downloaded, double-click**SyMenuPackage.exe** file to open an archive extraction window.
@@ -68,14 +68,14 @@ Now it's time to get SyMenu up and running:
 
  The SyMenu options window also includes a**Structure** tab. You can restructure the menu by dragging items up and down the**Menu structure** box. To add more separators, drag**<Separator>** from available elements onto a menu position. Select**Apply** to save all changes made in the SyMenu options window.
 
- If you're looking for apps to add to your repertoire, why not check out[the best portable apps that require no installation](https://www.makeuseof.com/tag/best-portable-apps/) ?
+ If you're looking for apps to add to your repertoire, why not check out [the best portable apps that require no installation](https://www.makeuseof.com/tag/best-portable-apps/) ?
 
 ## How to Add a Portable Software Menu With LiberKey
 
  LiberKey adds a bigger portable software menu to Windows that includes animation effects, tabs, and larger icons. Its tabbed layout enables you to create alternative menu tabs for opening portable apps. These are the steps for adding a portable software menu to Windows with LiberKey:
 
 1. Plug a flash drive into a USB slot on your PC.
-2. Bring up the[LiberKeys website](https://www.liberkey.com/) in browser software.
+2. Bring up the [LiberKeys website](https://www.liberkey.com/) in browser software.
 3. Select the**Download LiberKey 5.8** option.  
 ![The Download LiberKey option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/download-liberkay-option.jpg)
 4. Double-click**LiberKey\_5.8.1129.exe** to open a setup wizard for the software.
@@ -118,7 +118,7 @@ Now it's time to get SyMenu up and running:
 
 ![The User interface settings for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-user-interface-settings.jpg)
 
- If you're a student on the go, be sure to check out the[best free portable apps for students you can take anywhere](https://www.makeuseof.com/free-portable-apps-for-students/) .
+ If you're a student on the go, be sure to check out the [best free portable apps for students you can take anywhere](https://www.makeuseof.com/free-portable-apps-for-students/) .
 
 ## Make Your Portable Apps More Accessible on Windows
 
@@ -140,3 +140,52 @@ Now it's time to get SyMenu up and running:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/how-to-fix-discord-app-lag-on-windows/"><u>How to Fix Discord App Lag on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-malfunctioning-outlook-mail-signals-on-pc/"><u>Mending Malfunctioning Outlook Mail Signals on PC</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-a-visual-voyage-through-youtubes-2017-data-deluge/"><u>In 2024, A Visual Voyage Through Youtube's 2017 Data Deluge</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-common-fails-on-your-first-day-with-windows-11/"><u>Avoiding Common Fails on Your First Day with Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-22h2-windows-woes/"><u>Navigating Through 22H2 Windows Woes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-conquering-instagrams-video-challenges-head-on/"><u>[New] 2024 Approved  Conquering Instagram's Video Challenges Head-On</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-vivo-y17s-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-domain-user-biometric-control-in-windows-11/"><u>Mastering Domain User Biometric Control in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reach-windows-11s-account-control-interface/"><u>How to Reach Windows 11'S Account Control Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-video-quality-using-madvr-on-windows/"><u>Boosting Video Quality: Using MadVR on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-of-windows-11s-compatibility-diagnostic/"><u>Unveiling the Secrets of Windows 11’S Compatibility Diagnostic</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-tales-leading-academies-for-aspiring-narrators/"><u>Mastering Tales  Leading Academies for Aspiring Narrators</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-discover-hidden-gems-top-7-under-the-radar-tiktok-emojis/"><u>[Updated] Discover Hidden Gems  Top 7 Under-the-Radar TikTok Emojis</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-find-what-youve-just-watched-on-fb-quick-and-easy/"><u>In 2024, Find What You've Just Watched on FB  Quick & Easy</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-new-horizinas-with-ease-top-8-windows-11-avoidances/"><u>Navigating New Horizinas with Ease: Top 8 Windows 11 Avoidances</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixes-for-inactive-snapshots-on-pcs/"><u>Fixes for Inactive Snapshots on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/embracing-ai-with-microsoft-copilot-writes-and-debugging/"><u>Embracing AI with Microsoft Copilot' Writes and Debugging</u></a></li>
+<li><a href="https://windows11.techidaily.com/climate-control-experts-the-finest-windows-11-apps/"><u>Climate Control Experts: The Finest Windows 11 Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-mspcm-bar-with-finesse-in-windows-11-environment/"><u>Navigating MSPCM Bar with Finesse in Windows 11 Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-data-consumption-by-windows-programs/"><u>Decoding Data Consumption by Windows Programs</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-evolution-a-portable-offline-approach/"><u>Windows Evolution: A Portable Offline Approach</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-m54-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy M54 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-accidental-windows-11-search-menu-trigger/"><u>Disabling Accidental Windows 11 Search Menu Trigger</u></a></li>
+<li><a href="https://windows11.techidaily.com/custom-windows-11-taskbar-placement-hacks/"><u>Custom Windows 11 Taskbar Placement Hacks</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/get-clipped-onto-youtube-audio-submission-made-easy-for-2024/"><u>Get Clipped Onto YouTube  Audio Submission Made Easy for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/4-ways-to-find-a-programs-install-location-on-windows/"><u>4 Ways to Find a Program's Install Location on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-display-more-pinned-items-on-the-windows-11-start-menu/"><u>How to Display More Pinned Items on the Windows 11 Start Menu</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveraging-ai-to-enhance-shopping-on-the-ms-store/"><u>Leveraging AI to Enhance Shopping on the MS Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerating-battlenet-game-updates-in-windows/"><u>Accelerating Battle.net Game Updates in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-and-reviving-winget-a-guide-for-windows-11-users/"><u>Navigating and Reviving Winget: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/claim-your-potential-in-windows-11-regain-missing-system-upgrades/"><u>Claim Your Potential in Windows 11: Regain Missing System Upgrades</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-elevation-problem-with-error-code-740-on-windows-11/"><u>Fixing Elevation Problem with Error Code 740 on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/implementing-effective-policies-for-external-drive-use-in-windows/"><u>Implementing Effective Policies for External Drive Use in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-program-initiation-with-optimal-win11-settings/"><u>Enhance Program Initiation with Optimal Win11 Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-projector-disconnected-error-on-your-pc/"><u>Fixing Projector Disconnected Error on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximize-mouse-efficiency-altering-double-click-speed-in-windows/"><u>Maximize Mouse Efficiency: Altering Double-Click Speed in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-gameplay-low-lag-high-fps-on-roblox-pcs/"><u>Optimizing Gameplay: Low Lag, High FPS on Roblox PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/easing-the-load-streamlining-windows-11-mails-email-display/"><u>Easing the Load: Streamlining Windows 11 Mail's Email Display</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-mute-cortana-in-windows-11-os/"><u>How to Mute Cortana in Windows 11 OS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-screencasting-simplified-adopting-the-ezvide-method/"><u>In 2024, Screencasting Simplified  Adopting the EZvide Method</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-exploring-youtubes-regular-pay-structure/"><u>In 2024, Exploring YouTube’s Regular Pay Structure</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-correcting-roblox-error-262/"><u>Mastering the Art of Correcting Roblox Error 262</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-ping-wisdom-utilizing-tools-for-maximum-efficiency/"><u>Windows Ping Wisdom: Utilizing Tools for Maximum Efficiency</u></a></li>
+<li><a href="https://windows11.techidaily.com/faster-apps-better-internet-fixes-for-windows-devices/"><u>Faster Apps, Better Internet: Fixes for Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimal-start-menu-no-commercials-here/"><u>Optimal Start Menu: No Commercials Here!</u></a></li>
+</ul></div>

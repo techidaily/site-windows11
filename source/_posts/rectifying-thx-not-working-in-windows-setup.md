@@ -1,7 +1,7 @@
 ---
 title: Rectifying THX Not Working in Windows Setup
-date: 2024-06-25T11:57:48.337Z
-updated: 2024-06-26T11:57:48.337Z
+date: 2024-07-11T21:14:17.279Z
+updated: 2024-07-12T21:14:17.279Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/f34f1e15652c4e288fb8fde812b08aadacd96fb09
 
 ## 1\. Run the Windows Audio Troubleshooter
 
- The Windows Audio troubleshooter can find and fix common audio issues with the system's sound and audio devices. For instance, it should be one of your first ports of call if you want to[fix no audio on Windows 11](https://www.makeuseof.com/fix-no-audio-windows-11/) .
+ The Windows Audio troubleshooter can find and fix common audio issues with the system's sound and audio devices. For instance, it should be one of your first ports of call if you want to [fix no audio on Windows 11](https://www.makeuseof.com/fix-no-audio-windows-11/) .
 
  The troubleshooter will scan the system for issues and then recommend fixes accordingly.
 
@@ -42,7 +42,7 @@ To run the Windows Audio troubleshooter:
 
  You can set your preferred sound output device in the THX Spatial Audio interface. Since THX Spatial Audio routs the audio through its interface to your audio device, you must set it as the default audio output device on your PC.
 
- Fortunately, you can easily[switch between audio output devices in Windows 11](https://www.makeuseof.com/windows-11-change-sound-output-device/) . Follow these steps to check and set THX Spatial Audio as your default audio output device.
+ Fortunately, you can easily [switch between audio output devices in Windows 11](https://www.makeuseof.com/windows-11-change-sound-output-device/) . Follow these steps to check and set THX Spatial Audio as your default audio output device.
 
 1. Click the**Sound** icon in**Taskbar** .
 2. Click the**Speaker/Sound** icon beside the**Volume slider** .  
@@ -54,7 +54,7 @@ To run the Windows Audio troubleshooter:
 5. In the**Audio** Tab, toggle the switch for**THX Spatial Audio** to turn it on.
 6. Click the**Output Device** drop-down, and select your sound output device (**Speaker/Headphone)** .
 
- That's it. Next, click the**Test THX Spatial Audio** option to see if the sound is working. That said, if the issue is limited to a specific game title, check if your game is supported by[THX Spatial Audio](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2019052&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fthx-spatial-audio%2Fgame-list) . You can search through the games list for compatible titles.
+ That's it. Next, click the**Test THX Spatial Audio** option to see if the sound is working. That said, if the issue is limited to a specific game title, check if your game is supported by [THX Spatial Audio](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2019052&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fthx-spatial-audio%2Fgame-list) . You can search through the games list for compatible titles.
 
 ## 3\. Set Your Default Audio Device in Sound
 
@@ -115,7 +115,7 @@ To uninstall THX Spatial Audio:
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\`
 5. Locate the**Razer** key. If it exists, right-click and select**Delete** . Click**Yes** to confirm the action.
 6. Close Registry Editor and restart your PC.
-7. Next, go to the[THX Spatial Audio page](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2019052&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fp%2FRZ11-13000-0001) and download the installer. It's an online installer, so wait for the setup to download and install the app.
+7. Next, go to the [THX Spatial Audio page](https://razer.a9yw.net/c/119570/642901/10229?subId1=UUmuoUeUpU2019052&subId2=emuo&u=https%3A%2F%2Fwww.razer.com%2Fp%2FRZ11-13000-0001) and download the installer. It's an online installer, so wait for the setup to download and install the app.
 
  Additionally, if you have Razer Synapse installed, check if an update is available. To do this, launch the app and click on the**Settings** (**Gear**) icon on top of the toolbar. Next, open the**About** tab and click on**Check for updates.**
 
@@ -180,3 +180,45 @@ To reinstall the audio device driver:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-selection-best-windows-videophone-apps-guide/"><u>In 2024, Superior Selection  Best Windows Videophone Apps Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-securing-your-snapchat-footage-a-step-by-step-process/"><u>[New] Securing Your Snapchat Footage  A Step-by-Step Process</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensure-seamless-fullscreen-launch-on-windows-pcs/"><u>Ensure Seamless Fullscreen Launch on Windows PCs</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-harmonizing-sounds-with-imagery-professional-strategies-to-boost-your-videography/"><u>Updated 2024 Approved Harmonizing Sounds with Imagery Professional Strategies to Boost Your Videography</u></a></li>
+<li><a href="https://windows11.techidaily.com/dissecting-differences-how-exe-files-function-compared-to-msi/"><u>Dissecting Differences: How Exe Files Function Compared to Msi</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-solving-microsoft-offices-0x80041015/"><u>Understanding & Solving Microsoft Office's 0X80041015</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-turbocharge-your-tiktok-videos-for-instant-viewing-for-2024/"><u>[New] Turbocharge Your TikTok Videos for Instant Viewing for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshoot-non-functional-windows-security-on-win-11/"><u>Troubleshoot Non-Functional Windows Security on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/10-command-prompt-wonders-you-didnt-know/"><u>10 Command Prompt Wonders You Didn’t Know!</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-win11-potential-essential-commands-and-tricks-with-nircmd/"><u>Unlock Win11 Potential: Essential Commands & Tricks with NirCmd</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-address-game-pass-connection-errors-in-windows/"><u>Techniques to Address Game Pass Connection Errors in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-virtual-fraud-tips-for-discerning-true-windows-apps/"><u>Avoid Virtual Fraud: Tips for Discerning True Windows Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/easily-identify-last-opened-files-in-windows-explorer/"><u>Easily Identify Last Opened Files in Windows Explorer</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-developers-rejoice-unveiling-microsoft-copilot/"><u>Windows Developers Rejoice: Unveiling Microsoft Copilot</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-failed-application-launches-windows-11s-error-0xc000003e-explained/"><u>Correcting Failed Application Launches: Windows 11'S Error 0XC000003E Explained</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/explore-the-potential-of-color-grading-through-luts-and-ar-for-2024/"><u>Explore the Potential of Color Grading Through LUTs and AR for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-get-premium-banners-no-cost-just-click/"><u>[Updated] In 2024, Get Premium Banners - No Cost, Just Click</u></a></li>
+<li><a href="https://windows11.techidaily.com/unbroken-streams-winos-stability-verification-guide/"><u>Unbroken Streams: WinOS Stability Verification Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-ultimate-list-10-free-video-rotators-for-any-device/"><u>Updated 2024 Approved The Ultimate List 10 Free Video Rotators for Any Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblock-windows-task-scheduler-issues-quickly/"><u>Unblock Windows Task Scheduler Issues Quickly</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-offers-ukraines-millions-a-no-fee-language-gateway/"><u>Mondly Offers Ukraine's Millions a No-Fee Language Gateway</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-ultimate-guide-to-convert-srt-to-txt-in-minutes-2023/"><u>2024 Approved  Ultimate Guide to Convert SRT to TXT in Minutes 2023</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-and-personalize-the-ultimate-desktop-guide-for-win11-users/"><u>Streamline & Personalize: The Ultimate Desktop Guide for Win11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-virtual-potential-hyper-v-for-windows-11-users/"><u>Unlocking Virtual Potential: Hyper-V for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/trimming-down-linux-overheads-in-android-wsl-setup/"><u>Trimming Down Linux Overheads in Android WSL Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-windows-experience-by-fixing-prerequisites-first/"><u>Streamline Windows Experience by Fixing Prerequisites First</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-honor-x9a-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Honor X9a FRP Bypass</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-audiovisual-synchronization-in-facebook-content-creation/"><u>[Updated] Audiovisual Synchronization in Facebook Content Creation</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-guide-to-direct-access-for-the-curious-explorer-in-windows-11/"><u>A Guide to Direct Access for the Curious Explorer in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-resource-scheduling-for-android-on-windows-wsl/"><u>Efficient Resource Scheduling for Android on Windows WSL</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-innovating-storytelling-editing-and-uploading-immersive-360-content-on-youtube/"><u>2024 Approved  Innovating Storytelling  Editing and Uploading Immersive 360° Content on YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/when-windows-acts-up-reboot-or-reset/"><u>When Windows Acts Up, Reboot or Reset?</u></a></li>
+<li><a href="https://windows11.techidaily.com/vanishing-acts-concealing-keys-without-notice/"><u>Vanishing Acts: Concealing Keys Without Notice</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-final-cut-pro-essentials-how-to-achieve-realistic-motion-blur/"><u>New In 2024, Final Cut Pro Essentials How to Achieve Realistic Motion Blur</u></a></li>
+<li><a href="https://windows11.techidaily.com/dissecting-the-absence-of-drive-letters-in-windows-environments/"><u>Dissecting the Absence of Drive Letters in Windows Environments</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-guardians-of-the-screen-the-best-webcam-cover-options/"><u>[Updated] Guardians of the Screen - The Best Webcam Cover Options</u></a></li>
+</ul></div>

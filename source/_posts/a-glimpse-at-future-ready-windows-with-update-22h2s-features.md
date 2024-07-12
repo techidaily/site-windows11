@@ -1,7 +1,7 @@
 ---
 title: A Glimpse at Future-Ready Windows with Update #22H2's Features
-date: 2024-06-25T12:00:00.209Z
-updated: 2024-06-26T12:00:00.209Z
+date: 2024-07-11T21:16:49.589Z
+updated: 2024-07-12T21:16:49.589Z
 tags:
   - windows10
   - windows11
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/079f54d22d3743bae1a3750a1c4c3f2c075ed5c93
 
  Microsoft introduced File Explorer tabs in the Windows 11 22H2 update last year. Tabs support might expand to the Notepad app as well. Microsoft is currently testing tabs in Notepad with Windows 11 Insiders, hinting that it has a high chance of becoming available in upcoming Moment updates.
 
- Just like how[File Explorer allows you to open multiple tabs](https://www.makeuseof.com/windows-11-file-explorer-tab-guide/) within it, the tabbed interface in Notepad will enable you to open multiple folders and directories in one single app window. For every single folder or directory, you can have a tab, thus making it easier for you to switch between them instead of opening a new app window for each.
+ Just like how [File Explorer allows you to open multiple tabs](https://www.makeuseof.com/windows-11-file-explorer-tab-guide/) within it, the tabbed interface in Notepad will enable you to open multiple folders and directories in one single app window. For every single folder or directory, you can have a tab, thus making it easier for you to switch between them instead of opening a new app window for each.
 
 ## 4\. Animated Icons in the Settings App
 
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/079f54d22d3743bae1a3750a1c4c3f2c075ed5c93
 
  Snipping Tool is Windows 11's in-built screenshot capture application. However, the tool will not be limited to capturing only screenshots in the future. Microsoft is currently testing the ability to create screen recordings in the Snipping Tool app with Windows 11 Dev Channel Insiders. The likelihood is that a new Snipping Tool with screen recording capability will be available in the next Windows 11 Moment 2 update.
 
- The Snipping Tool will let you select the part of your screen you want to record before your PC starts the recording session. Then, once the recording is complete, you can preview, save, and share the clip. Remember, Snipping Tool's screen recording capability does not include audio recording. See our[guide to the Snipping Tool in Windows 11](https://www.makeuseof.com/windows-11-open-snipping-tool/) if you're not familiar with it yet.
+ The Snipping Tool will let you select the part of your screen you want to record before your PC starts the recording session. Then, once the recording is complete, you can preview, save, and share the clip. Remember, Snipping Tool's screen recording capability does not include audio recording. See our [guide to the Snipping Tool in Windows 11](https://www.makeuseof.com/windows-11-open-snipping-tool/) if you're not familiar with it yet.
 
 ## 6\. New Dark Mode Toggle
 
@@ -74,7 +74,7 @@ thumbnail: https://thmb.techidaily.com/079f54d22d3743bae1a3750a1c4c3f2c075ed5c93
 
  Image credit: Zac Bowden/[Twitter](https://twitter.com/zacbowden/status/1592528453903200257)
 
- As things stand currently, the dark mode toggle is available only in the Settings app. And if you are unaware of how to turn it on, you check our[guide on enabling dark mode in Windows 11](https://www.makeuseof.com/windows-11-dark-mode/) .
+ As things stand currently, the dark mode toggle is available only in the Settings app. And if you are unaware of how to turn it on, you check our [guide on enabling dark mode in Windows 11](https://www.makeuseof.com/windows-11-dark-mode/) .
 
 ## 7\. Task Manager Improvements
 
@@ -105,3 +105,48 @@ thumbnail: https://thmb.techidaily.com/079f54d22d3743bae1a3750a1c4c3f2c075ed5c93
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/highlighting-key-windows-processes-for-virus-alerts/"><u>Highlighting Key Windows Processes for Virus Alerts</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-expert-discord-video-capturing-software-androidios/"><u>2024 Approved  Expert Discord Video Capturing Software (Android/iOS)</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-discord-from-starting-with-windows-boot/"><u>Preventing Discord From Starting with Windows Boot</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-steps-for-online-printer-on-windows/"><u>Quick Steps for Online Printer on Windows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimizing-video-meetings-with-tighter-focus-areas/"><u>2024 Approved  Optimizing Video Meetings with Tighter Focus Areas</u></a></li>
+<li><a href="https://windows11.techidaily.com/interpretation-of-the-red-x-icon-in-file-management/"><u>Interpretation of the Red “X” Icon in File Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-the-future-ui-design-with-new-folder-integration-in-windows-11/"><u>Navigate the Future UI Design with New Folder Integration in Windows 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-focussnap-recorder-for-screen-masters-for-2024/"><u>[New] FocusSnap Recorder for Screen Masters for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-x-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your iPhone X</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unveiling-best-practices-in-audio-to-text-translation-for-2024/"><u>[New] Unveiling Best Practices in Audio to Text Translation for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-vivo-s17-easily-by-drfone-android/"><u>How To Unlock a Vivo S17 Easily?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-zoom-brilliance-a-blueprint-for-immaculate-edges/"><u>[Updated] 2024 Approved  Zoom Brilliance  A Blueprint for Immaculate Edges</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-solving-win-1011-ad-ds-printer-problems-efficiently/"><u>Guide to Solving Win 10/11 AD DS Printer Problems Efficiently</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-and-easy-steps-to-efficient-free-clock-use/"><u>In 2024, Quick and Easy Steps to Efficient Free Clock Use</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-online-video-editing-top-10-trimming-tools/"><u>New 2024 Approved Free Online Video Editing Top 10 Trimming Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-past-the-activation-hurdle-in-microsoft-office/"><u>Navigating Past the Activation Hurdle in Microsoft Office</u></a></li>
+<li><a href="https://windows11.techidaily.com/ideal-mobile-software-for-windows-pc-owners-on-android/"><u>Ideal Mobile Software for Windows PC Owners on Android</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-rejuvenate-a-dysfunctional-search-bar-in-windows-11/"><u>Guide to Rejuvenate a Dysfunctional Search Bar in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-win10-blue-screen-recovery/"><u>Mastering the Art of Win10 Blue Screen Recovery</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-unraveling-the-secrets-to-smooth-vimeo-video-downloads-for-2024/"><u>[New] Unraveling the Secrets to Smooth Vimeo Video Downloads for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-overcome-media-error-input-not-recognized-by-vlc/"><u>How to Overcome Media Error: Input Not Recognized by VLC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-enhancing-youtube-presence-with-strategic-banners/"><u>[New] In 2024, Enhancing YouTube Presence with Strategic Banners</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-reversion-of-graphics-settings-for-optimal-viewing/"><u>Quick Reversion of Graphics Settings for Optimal Viewing</u></a></li>
+<li><a href="https://windows11.techidaily.com/pc-files-on-ios-via-smb-share-connection/"><u>PC Files on iOS via SMB Share Connection</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/innovative-approaches-to-record-and-archive-roblox-gameplay-on-apple-systems/"><u>Innovative Approaches to Record & Archive Roblox Gameplay on Apple Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/hidden-behind-pretense-apps-slowdown-your-modern-windows/"><u>Hidden Behind Pretense: Apps Slowdown Your Modern Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/installing-icloud-is-easy-troubleshoot-issues-on-windows/"><u>Installing iCloud Is Easy: Troubleshoot Issues on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/initiate-your-narrative-with-a-click-on-windows-11/"><u>Initiate Your Narrative with a Click on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-restore-your-desktop-icon-positions-on-windows/"><u>How to Restore Your Desktop Icon Positions on Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-samsung-galaxy-z-fold-5-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Samsung Galaxy Z Fold 5 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-activation-error-0x803f700f-fix-guide/"><u>Overcoming Windows Activation Error: 0X803F700F Fix Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-folders-to-the-context-menu-in-windows-11/"><u>How to Add Folders to the Context Menu in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-automatic-screenshore-changes-in-win11/"><u>Preventing Automatic Screenshore Changes in Win11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-viral-visualization-top-story-filter-guide/"><u>[Updated] In 2024, Viral Visualization  Top Story Filter Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-ultimate-list-10-free-online-neon-text-creators-no-design-skills-needed/"><u>Updated In 2024, The Ultimate List 10 Free Online Neon Text Creators (No Design Skills Needed)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-techniques-to-preserve-and-store-live-tv-on-desktop-computers-for-2024/"><u>[Updated] Top Techniques to Preserve and Store Live TV on Desktop Computers for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-of-file-explorer-opening-tabs-in-windows-11/"><u>Mastery of File Explorer: Opening Tabs in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-windows-11-running-slow-or-lagging-on-your-computer-7-ways-to-fix-it/"><u>Is Windows 11 Running Slow or Lagging on Your Computer? 7 Ways to Fix It</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/essential-symbols-in-social-networking-movement-magic/"><u>Essential Symbols in Social Networking  Movement Magic</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-start-adding-windows-hello-to-your-pc/"><u>Quick Start: Adding Windows Hello to Your PC</u></a></li>
+</ul></div>

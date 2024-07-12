@@ -1,7 +1,7 @@
 ---
 title: "Reviving Absent Windows Extras: A Comprehensive Guide"
-date: 2024-06-25T12:06:01.294Z
-updated: 2024-06-26T12:06:01.294Z
+date: 2024-07-11T21:23:50.643Z
+updated: 2024-07-12T21:23:50.643Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,7 @@ To use the DISM tool, follow these steps:
 
  This will start the DISM tool and begin scanning your system for any corrupt or missing files. If it finds any issues with your computer, it will automatically repair them.
 
- Once the process is complete, you can restart your computer and try installing the optional feature again. If DISM does not work or throws an error code, make sure to go through the[DISM not working fixes](https://www.makeuseof.com/windows-11-dism-error-2-fix/) .
+ Once the process is complete, you can restart your computer and try installing the optional feature again. If DISM does not work or throws an error code, make sure to go through the [DISM not working fixes](https://www.makeuseof.com/windows-11-dism-error-2-fix/) .
 
 ## 2\. Run the System File Checker or SFC Utility
 
@@ -45,14 +45,14 @@ To use the DISM tool, follow these steps:
 
 To check your system using SFC, follow these steps:
 
-1. Open the Command Prompt with administrative rights using any of the[ways to open CMD as an admin on Windows](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
+1. Open the Command Prompt with administrative rights using any of the [ways to open CMD as an admin on Windows](https://www.makeuseof.com/windows-run-command-prompt-admin/) .
 2. Type**sfc /scannow** and press**Enter** .  
 ![SFC Utility In Windows Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sfc-utility-in-windows.jpg)
 3. Once SFC scans for errors, make sure to restart your computer.
 
 Want to know the best part?
 
- The best part is that the System File Checker not only helps you fix the optional features problem but also any other Windows issues. In fact, it's one of the best[ways to repair corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) .
+ The best part is that the System File Checker not only helps you fix the optional features problem but also any other Windows issues. In fact, it's one of the best [ways to repair corrupted Windows files](https://www.makeuseof.com/windows-built-in-repair-tools/) .
 
 ## 3\. Reset the Windows Update Components
 
@@ -95,7 +95,7 @@ Follow these steps to run the update troubleshooter on Windows:
 
  If you're using Windows 10, the Windows Update Troubleshooter is in**Settings > Update & Security >** **Troubleshoot > Windows Update** .
 
- The troubleshooter will begin scanning your system for any issues with the update process and will offer suggestions for how to fix them. So, you just need to follow the prompts, and then try[installing the optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) again.
+ The troubleshooter will begin scanning your system for any issues with the update process and will offer suggestions for how to fix them. So, you just need to follow the prompts, and then try [installing the optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) again.
 
 ## 5\. Update Windows to the Latest Version
 
@@ -173,3 +173,54 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-ephemeral-era-of-fb-video/"><u>[Updated] The Ephemeral Era of FB Video</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-optimal-sleep-cycles-for-windows-devices/"><u>Unlocking Optimal Sleep Cycles for Windows Devices</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-top-text-animation-apps-for-mobile-video-editing-for-2024/"><u>New Top Text Animation Apps for Mobile Video Editing for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unlock-success-top-12-tycoon-games-to-capture-your-attention/"><u>2024 Approved  Unlock Success  Top 12 Tycoon Games to Capture Your Attention</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-captivate-audiences-from-day-one/"><u>2024 Approved  Captivate Audiences From Day One</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-12plus-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme 12+ 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-exploring-the-usefulness-of-a-blue-video-icon-on-facebook-chat/"><u>[New] 2024 Approved  Exploring the Usefulness of a Blue Video Icon on Facebook Chat</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/becoming-a-reaction-guru-a-complete-guidebook-for-2024/"><u>Becoming a Reaction Guru  A Complete Guidebook for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-steps-delete-email-after-signing-in/"><u>Troubleshooting Steps: Delete Email After Signing In</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-11-internet-options/"><u>Unlocking Windows 11 Internet Options</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capturing-nintendo-joy-in-the-best-cards-for-2024/"><u>Capturing Nintendo Joy in the Best Cards for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/adobe-audition-reimagined-the-essential-features-for-audio-enthusiasts-and-professionals/"><u>Adobe Audition Reimagined The Essential Features for Audio Enthusiasts and Professionals</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-accelerate-your-videos-top-speed-changer-apps-for-pc-and-mac/"><u>2024 Approved Accelerate Your Videos Top Speed Changer Apps for PC and Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-walls-of-windows-icons/"><u>Taming the Walls of Windows Icons</u></a></li>
+<li><a href="https://windows11.techidaily.com/curing-grayed-screen-savers-quick-fixes-for-windows-users/"><u>Curing Grayed Screen Savers: Quick Fixes for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-error-windows-welcome-cant-read-fingers/"><u>Tackling Error: Windows Welcome Can't Read Fingers</u></a></li>
+<li><a href="https://windows11.techidaily.com/correction-of-microsoft-store-error-0x80073cf3-on-windows-11/"><u>Correction of Microsoft Store Error 0X80073cf3 on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-application-startup-hexadecimal-issue-error/"><u>Unraveling The Application Startup Hexadecimal Issue (Error)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/build-a-loyal-audience-on-facebook-using-effective-growth-methods-for-2024/"><u>Build a Loyal Audience on Facebook Using Effective Growth Methods for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-counteract-d3d11-hardware-failures-in-w11w10/"><u>Strategies to Counteract D3D11 Hardware Failures in W11/W10</u></a></li>
+<li><a href="https://windows11.techidaily.com/voice-your-ideas-type-them-out-with-openais-whisper/"><u>Voice Your Ideas, Type Them Out With OpenAI’s Whisper</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-color-correction-top-15-luts-for-gopro-cams/"><u>2024 Approved  Ultimate Color Correction  Top 15 LUTs for GoPro Cams</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-win11-taskbar-icon-dimensions/"><u>Adjusting Win11 Taskbar Icon Dimensions</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-the-impact-of-ntfs-compression-on-data-saving/"><u>Understanding the Impact of NTFS Compression on Data Saving</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-best-way-to-setup-games-on-the-windows-xbox-app/"><u>The Best Way to Setup Games on the Windows Xbox App</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-system-crashes-sifting-through-win-files/"><u>Deciphering System Crashes: Sifting Through Win Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-windows-11-screens-with-custom-wallpaper-panes/"><u>Transform Windows 11 Screens with Custom Wallpaper Panes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-metamorphic-mentations-vr-enhanced-metaphysical-reflections/"><u>In 2024, Metamorphic Mentations  VR-Enhanced Metaphysical Reflections</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-your-smartphone-writescreen-functionality-for-windows-11/"><u>Unlocking Your Smartphone' Writescreen Functionality for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-the-endless-void-fixing-xbox-app-errors-in-win11/"><u>Avoiding the Endless Void: Fixing Xbox App Errors in Win11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-mp4-play-on-razr-40-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Does MP4 play on Razr 40 Ultra?</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-techniques-finding-out-charge-status-win-1011/"><u>Advanced Techniques: Finding Out Charge Status (Win 10/11)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-top-rated-video-voice-over-software-for-pc-review-and-download-for-2024/"><u>New Top-Rated Video Voice Over Software for PC - Review and Download for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-elite-5-step-time-lapse-recordings-guide/"><u>2024 Approved  Elite 5-Step Time-Lapse Recordings Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-savvy-screens-10-best-tools-for-live-recording/"><u>In 2024, Savvy Screens  #10 Best Tools for Live Recording</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-best-online-video-reversers/"><u>New In 2024, Best Online Video Reversers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tweet-centric-viewing-twitters-top-content/"><u>Tweet-Centric Viewing  Twitter’s Top Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/curing-stale-boot-option-imagery/"><u>Curing Stale BOOT Option Imagery</u></a></li>
+<li><a href="https://windows11.techidaily.com/taking-flight-with-windows-accessibility-novice-style/"><u>Taking Flight with Windows Accessibility, Novice Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/curb-intrusive-windows-scrolling-for-smooth-screens/"><u>Curb Intrusive Windows Scrolling for Smooth Screens</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-solution-for-inaccessible-administrative-mode/"><u>Comprehensive Solution for Inaccessible Administrative Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/battle-of-the-packagers-chocolatey-or-wm-on-windows-pcs/"><u>Battle of the Packagers: Chocolatey or WM on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-enthusiasts-rejoice-black-friday-offer-for-lifetime-612-windows-11-savings/"><u>Tech Enthusiasts Rejoice - Black Friday Offer for Lifetime $6.12 Windows 11 Savings</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-how-to-download-tiktok-musically-videos-quickly-for-2024/"><u>[Updated] How to Download TikTok (Musical.ly) Videos Quickly for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-in-2024-10-best-tools-to-make-pic-collage-for-windows/"><u>Updated In 2024, 10 Best Tools to Make Pic Collage for Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-top-9-truths-about-why-pc-computers-win-over-macos-9/"><u>The Top 9 Truths About Why PC Computers Win over MacOS (#9)</u></a></li>
+<li><a href="https://windows11.techidaily.com/dispatching-windows-11s-silent-search-instigator/"><u>Dispatching Windows 11'S Silent Search Instigator</u></a></li>
+</ul></div>

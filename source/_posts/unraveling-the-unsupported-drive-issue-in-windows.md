@@ -1,7 +1,7 @@
 ---
 title: Unraveling the 'Unsupported Drive' Issue in Windows
-date: 2024-06-25T12:18:06.197Z
-updated: 2024-06-26T12:18:06.197Z
+date: 2024-07-11T21:37:44.965Z
+updated: 2024-07-12T21:37:44.965Z
 tags:
   - windows10
   - windows11
@@ -74,15 +74,15 @@ Repeat the following steps:
 
 ### 5\. Scan the Hard Disk Using CHKDSK
 
- It is possible for the USB disk to contain bad files and sectors; due to which Windows asks you to format it before usage. But you can leverage the inbuilt CHKDSK utility to scan the USB disk for errors and fix them for you. It will scan all the files on the disk and repair the drive. You can either use the[command prompt method or Run CheckDisk](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) using the Properties window in File Explorer.
+ It is possible for the USB disk to contain bad files and sectors; due to which Windows asks you to format it before usage. But you can leverage the inbuilt CHKDSK utility to scan the USB disk for errors and fix them for you. It will scan all the files on the disk and repair the drive. You can either use the [command prompt method or Run CheckDisk](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) using the Properties window in File Explorer.
 
 ### 6\. Run an SFC and DISM Scan
 
- If the check disk doesn’t do any good, and you still have the error, it is possible that your system files are missing or corrupt.[Start with an SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) to check and replace any corrupt system files. Follow that up with a[DISM scan to fix the Windows installation image](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) . Make sure you have an active internet connection to run the DISM scan without any issues.
+ If the check disk doesn’t do any good, and you still have the error, it is possible that your system files are missing or corrupt.[Start with an SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) to check and replace any corrupt system files. Follow that up with a [DISM scan to fix the Windows installation image](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) . Make sure you have an active internet connection to run the DISM scan without any issues.
 
 ### 7\. Use a Linux Installation Media to Access the USB Disk Drive
 
- This method is more of a workaround to not lose your data. If you don’t have a second system nearby, you can[create a Linux installation media](https://www.makeuseof.com/tag/install-ubuntu-computer-using-usb-flash-drive/) and use the Try Ubuntu mode to mount and access the contents of the USB disk. It will save the effort of searching for another computer, and you can successfully create a backup of the USB disk.
+ This method is more of a workaround to not lose your data. If you don’t have a second system nearby, you can [create a Linux installation media](https://www.makeuseof.com/tag/install-ubuntu-computer-using-usb-flash-drive/) and use the Try Ubuntu mode to mount and access the contents of the USB disk. It will save the effort of searching for another computer, and you can successfully create a backup of the USB disk.
 
  To access the USB disk using Linux installation media repeat the following steps:
 
@@ -98,13 +98,13 @@ Repeat the following steps:
 
  If none of those worked, it's time to apply more general fixes before diving into more drastic measures. There are a few different error messages related to storage drive formatting issues that Windows can throw, and all of them share some common fixes.
 
- As such, check out[how to fix format disk errors on Windows without formatting your drive](<http://How> to Fix Format Disk Errors Without Formatting Your Hard Drive on Windows) for more tips.
+ As such, check out [how to fix format disk errors on Windows without formatting your drive](<http://How> to Fix Format Disk Errors Without Formatting Your Hard Drive on Windows) for more tips.
 
 ### 9\. Reset Windows
 
  If nothing seems to work, and you see the error with every USB disk you try to connect to the system, consider a complete Windows reset. It will remove all your system files and installed apps (though you can choose to keep personal files on the system drive).
 
- However, before[performing a System Reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) , try[System Restore](https://www.makeuseof.com/windows-reset-system-restore-difference/) using any available System Restore points. If that fails, and a reset doesn't seem to work, you can[factory reset your Windows computer](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) .
+ However, before [performing a System Reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) , try [System Restore](https://www.makeuseof.com/windows-reset-system-restore-difference/) using any available System Restore points. If that fails, and a reset doesn't seem to work, you can [factory reset your Windows computer](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) .
 
 ## Access USB Disk Contents Without Formatting
 
@@ -128,3 +128,43 @@ Repeat the following steps:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/mastering-windows-based-in-game-voice-sync-with-valorant/"><u>Mastering Windows-Based In-Game Voice Sync with Valorant</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reset-freezes-and-crashes-in-virtual-worlds/"><u>How to Reset Freezes & Crashes in Virtual Worlds</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-directx-downloading-and-updating-steps/"><u>Mastering DirectX: Downloading & Updating Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/introducing-real-space-sound-on-windows-11/"><u>Introducing Real-Space Sound on Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-sunset-symphony-cinematic-darkening-in-pro/"><u>2024 Approved  Sunset Symphony  Cinematic Darkening in Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-tackling-windows-11-logins/"><u>Essential Guide: Tackling Windows 11 Logins</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-oppo-reno-10-pro-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Oppo Reno 10 Pro 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-what-phone-is-compatible-with-gear-vr-2023-update/"><u>[Updated] 2024 Approved  What Phone Is Compatible with Gear VR? -2023 Update</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-viral-video-voyage-unveiling-the-trendiest-tweets-of-2023-for-2024/"><u>[Updated] Viral Video Voyage  Unveiling the Trendiest Tweets of 2023 for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-a-stuck-discord-interface-element-on-your-system/"><u>Mending a Stuck Discord Interface Element on Your System</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-from-monochrome-to-vibrance-a-film-graders-journey/"><u>[Updated] From Monochrome to Vibrance  A Film Grader's Journey</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-persistent-vscode-crashes-on-windows-11/"><u>Fixing Persistent VSCode Crashes on Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-asus-rog-phone-8-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Asus ROG Phone 8?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-the-top-windows-video-editors-you-need-to-know-about/"><u>2024 Approved The Top Windows Video Editors You Need to Know About</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-fixes-for-windows-hellos-recognition-failures/"><u>Essential Fixes for Windows Hello's Recognition Failures</u></a></li>
+<li><a href="https://windows11.techidaily.com/debunking-myths-the-necessity-and-risks-of-pagefilesys/"><u>Debunking Myths: The Necessity and Risks of Pagefile.sys</u></a></li>
+<li><a href="https://windows11.techidaily.com/discreetly-putting-an-end-to-invisible-window-tasks/"><u>Discreetly Putting an End to Invisible Window Tasks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leveraging-youtube-comments-for-content-improvement/"><u>[New] Leveraging YouTube Comments for Content Improvement</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-blue-screen-in-win11-5-methods-to-prevent-hybrid-errors/"><u>Fixing Blue Screen in Win11: 5 Methods to Prevent Hybrid Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/five-innovative-ways-to-personalize-windows-11-search/"><u>Five Innovative Ways to Personalize Windows 11 Search</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-data-retrieval-how-to-master-the-art-of-qr-scanning-with-windows/"><u>Effortless Data Retrieval: How to Master the Art of QR Scanning with Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-prompt-oddities-learn-5-amusing-anomalies/"><u>Command Prompt Oddities: Learn 5 Amusing Anomalies</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/discovering-fun-ways-to-spruce-up-your-discord-status-for-2024/"><u>Discovering Fun Ways to Spruce Up Your Discord Status for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oppo-a79-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Oppo A79 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-mdm-from-iphone-14-pro-by-drfone-ios-unlock-ios-unlock/"><u>How to Remove MDM from iPhone 14 Pro?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/expert-free-fb-image-creator-no-fee-for-2024/"><u>Expert Free FB Image Creator (No Fee) for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-real-time-performance-for-smooth-vlc-viewing/"><u>Enhancing Real-Time Performance for Smooth VLC Viewing</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-hidden-programs-on-windows-pc/"><u>Enabling Hidden Programs on Windows PC</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-boosting-youtube-ad-revenue-keeping-cc-active/"><u>In 2024, Boosting YouTube Ad Revenue  Keeping CC Active</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-increase-virtual-memory-tips-and-tricks-for-windows-11/"><u>How to Increase Virtual Memory: Tips & Tricks for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-batch-filename-changes-with-powertoys/"><u>Mastering Batch-Filename Changes with PowerToys</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-simplifying-age-confirmation-on-tiktok/"><u>[Updated] Simplifying Age Confirmation on TikTok</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-onedrive-cloud-operation-was-unsuccessful-error-in-windows-10-and-11/"><u>How to Fix the OneDrive Cloud Operation Was Unsuccessful Error in Windows 10 & 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-vanguards-choice-top-7-fps-wonders/"><u>[Updated] Vanguard's Choice  Top 7 FPS Wonders</u></a></li>
+<li><a href="https://windows11.techidaily.com/keep-your-windows-control-panel-running-smoothly/"><u>Keep Your Windows Control Panel Running Smoothly</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-smart-color-settings-in-windows-11-apps/"><u>Enabling Smart Color Settings in Windows 11 Apps</u></a></li>
+</ul></div>

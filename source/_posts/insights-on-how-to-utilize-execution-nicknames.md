@@ -1,7 +1,7 @@
 ---
 title: Insights on How to Utilize Execution Nicknames
-date: 2024-06-25T12:35:01.680Z
-updated: 2024-06-26T12:35:01.680Z
+date: 2024-07-11T21:57:17.372Z
+updated: 2024-07-12T21:57:17.372Z
 tags:
   - windows10
   - windows11
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 
  Windows 10 and 11 both allow aliases to be declared for some apps by default. The available apps vary but are often those commonly associated with command line tools. Giving an app an alias allows it to be executed using a shorter title rather than the full name or path.
 
- App aliases can be used in several[Windows Command Line Interfaces](https://www.makeuseof.com/what-is-cli-what-does-it-stand-for/) (CLI), including the Run Dialog, Command Prompt, and[PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . If you use these tools with any regularity, app aliases can help to streamline entering commands.
+ App aliases can be used in several [Windows Command Line Interfaces](https://www.makeuseof.com/what-is-cli-what-does-it-stand-for/) (CLI), including the Run Dialog, Command Prompt, and [PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . If you use these tools with any regularity, app aliases can help to streamline entering commands.
 
 ## How to Enable App Execution Aliases in Settings
 
@@ -50,7 +50,7 @@ In Windows 10:
 
 ## Create App Execution Aliases in Registry Editor
 
- Before editing or creating registry keys, it is advisable to[create a full backup of the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) . Of course, you should also ensure you understand how to restore the Registry from that backup.
+ Before editing or creating registry keys, it is advisable to [create a full backup of the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) . Of course, you should also ensure you understand how to restore the Registry from that backup.
 
  The process below for creating app execution aliases in the Registry Editor should be the same in both Windows 10 and 11.
 
@@ -86,3 +86,50 @@ In Windows 10:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/streamline-and-simplify-game-setup-in-xbox-app/"><u>Streamline and Simplify Game Setup in Xbox App</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-running-handbrake-on-widows/"><u>Mastering the Art of Running HandBrake on Widows</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-from-anonymous-to-notable-the-complete-guide-to-updating-your-tiktok-handle-for-2024/"><u>[New] From Anonymous to Notable  The Complete Guide to Updating Your TikTok Handle for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-leading-choices-discords-elite-emoji-generators/"><u>[Updated] Leading Choices  Discord's Elite Emoji Generators</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-official-method-to-unlock-your-iphone-xs-by-drfone-ios/"><u>In 2024, How To Unlock iPhone XS Official Method to Unlock Your iPhone XS</u></a></li>
+<li><a href="https://windows11.techidaily.com/revamping-network-defenses-with-these-5-steps/"><u>Revamping Network Defenses with These 5 Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-windows-ram-usage-for-device-connectivity-services/"><u>Optimizing Windows RAM Usage for Device Connectivity Services</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-ccleaner-issues-in-windows-11/"><u>Overcoming CCleaner Issues in Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-hp-laptop-screen-recording-the-best-approaches-explained/"><u>[New] 2024 Approved  HP Laptop Screen Recording  The Best Approaches Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-the-missing-file-preview-glitch-in-outlook-360/"><u>Mending the Missing File Preview Glitch in Outlook 360</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/in-2024-before-you-learn-facebook-slideshow-5-things-you-should-know-how-tos/"><u>In 2024, Before You Learn Facebook Slideshow 5 Things You Should Know How-TOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-non-empty-directory-alert-error-code-0x80070091-in-windows-11/"><u>Preventing Non-Empty Directory Alert (Error Code: 0X80070091) in Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-tasks-essential-folders-tweaks-for-windows-users/"><u>Streamline Tasks: Essential Folders Tweaks for Windows Users</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-reinventing-your-speech-implementing-voice-changer-pro-on-your-iphone-device/"><u>Updated In 2024, Reinventing Your Speech Implementing Voice Changer Pro on Your iPhone Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/outperforming-understanding-why-pcs-triumph-over-macs-9/"><u>Outperforming: Understanding Why PCs Triumph over Macs (#9)</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-inaccessible-game-on-windows-steam/"><u>Navigating Through Inaccessible Game on Windows Steam</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pushing-boundaries-with-high-speed-video-discovering-polaroids-xs/"><u>[New] Pushing Boundaries with High-Speed Video - Discovering Polaroid's XS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/rafting-a-legacy-youtubers-playbook-for-success-for-2024/"><u>[New] Crafting a Legacy  YouTuber’s Playbook for Success for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-correct-steam-ui-dll-not-loaded-error/"><u>Steps to Correct Steam UI DLL Not Loaded Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-overcome-systemsettingsexe-crash-in-win11/"><u>Steps to Overcome SystemSettings.exe Crash in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-strategies-nine-fixes-for-wwe-2k23-stability-on-new-os/"><u>Swift Strategies: Nine Fixes for WWE 2K23 Stability on New OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-windows-notepad-notebook-errors/"><u>Solutions for Windows Notepad Notebook Errors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-setup-17-tools-for-swift-image-enhancement-and-cleaning/"><u>Ideal Setup  17 Tools for Swift Image Enhancement and Cleaning</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-intensive-analysis-macos-screenflow-version-4/"><u>[Updated] Intensive Analysis  MacOS screenFlow Version 4</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-notepad-on-win11-through-ai-wisdom/"><u>Transform Notepad on Win11 Through AI Wisdom</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/surging-past-connectivity-hurdles-in-win-and-ea-games/"><u>Surging Past Connectivity Hurdles in Win and EA Games</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-perfecting-sound-with-ideal-cam-mics-list-for-2024/"><u>[Updated] Perfecting Sound with Ideal Cam Mics List for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-triumph-expert-tips-for-reinitializing-windows-11-apps/"><u>Tech Triumph: Expert Tips for Reinitializing Windows 11 Apps</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone 6s Plus</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-port-reset-failed-issue-in-windows-11/"><u>Tackling 'Port Reset Failed' Issue in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-active-directory-related-printer-errors-on-w11/"><u>Steps to Resolve Active Directory-Related Printer Errors on W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-your-pre-win11-system-efficiently/"><u>Optimize Your Pre-Win11 System Efficiently</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-geforce-error-xc0f1103f-in-windows-systems/"><u>Overcoming GeForce Error XC0F1103F in Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-errors-when-opening-sound-devices-on-audacity/"><u>Troubleshooting Errors When Opening Sound Devices on Audacity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-easy-way-to-modify-iphone-photo-dimensions/"><u>[Updated] The Easy Way to Modify iPhone Photo Dimensions</u></a></li>
+<li><a href="https://windows11.techidaily.com/tricks-for-easily-opening-and-modifying-faxes-on-windows-11/"><u>Tricks for Easily Opening and Modifying Faxes on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-rectify-microsoft-store-error-0x80072f30-on-pcs/"><u>Steps to Rectify Microsoft Store Error 0X80072F30 on PCs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-stop-automatically-added-podcast-episodes-via-spotifys-suggestions/"><u>In 2024, Stop Automatically Added Podcast Episodes via Spotify's Suggestions</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-most-frequent-blue-screen-hurdles/"><u>Overcoming the Most Frequent Blue Screen Hurdles</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/dissecting-samsungs-photo-enhancing-software-features/"><u>Dissecting Samsung's Photo Enhancing Software Features</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/immersive-sound-listening-on-the-go-with-iphone/"><u>Immersive Sound  Listening on the Go With iPhone</u></a></li>
+</ul></div>

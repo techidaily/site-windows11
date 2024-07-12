@@ -1,7 +1,7 @@
 ---
 title: "Boost Workflow Efficiency: Mastering Flow Launcher"
-date: 2024-06-25T12:22:52.028Z
-updated: 2024-06-26T12:22:52.028Z
+date: 2024-07-11T21:43:15.198Z
+updated: 2024-07-12T21:43:15.198Z
 tags:
   - windows10
   - windows11
@@ -22,7 +22,7 @@ Here's how to get the most from this popular productivity tool.
 
 ## How to Install Flow Launcher
 
- You will need to download and install Flow Launcher from[GitHub](https://github.com/Flow-Launcher/Flow.Launcher/releases/tag/v1.9.5) , rather than through the Microsoft Store. You can choose between an installed version and a portable one. We have used the installed version for this guide.
+ You will need to download and install Flow Launcher from [GitHub](https://github.com/Flow-Launcher/Flow.Launcher/releases/tag/v1.9.5) , rather than through the Microsoft Store. You can choose between an installed version and a portable one. We have used the installed version for this guide.
 
 1. Download the**Flow-Launcher-Setup.exe** file from the GitHub page. After downloading the file, double-click it to begin the setup.
 2. Follow the steps to install Flow Launcher, choosing the language, hotkeys, and any other settings.  
@@ -41,7 +41,7 @@ Here's how to get the most from this popular productivity tool.
 
  Lastly, you can change the location where the Flow Launcher window opens by clicking on the frame and dragging it into position. As long as the**Remember last launch location** setting is checked, it will always be in this position.
 
- If you are looking for even more ways to[improve productivity in Windows](https://www.makeuseof.com/set-up-windows-pc-maximum-productivity/) , we have some helpful ideas.
+ If you are looking for even more ways to [improve productivity in Windows](https://www.makeuseof.com/set-up-windows-pc-maximum-productivity/) , we have some helpful ideas.
 
 ## How to Launch Apps With Flow Launcher
 
@@ -66,7 +66,7 @@ Here's how to get the most from this popular productivity tool.
  There are several ways to refine searches in Flow Launcher. For example, to search for something on a specific website, you can include the site name in the search query, e.g. YouTube David Bowie.
 
 * To search your browser bookmarks, start the search query with**b** . For example:**b how to create a workbook in excel** .
-* If you want to run a[Powershell](https://www.makeuseof.com/what-is-windows-powershell/) command, type**\>** , followed by the Powershell command. For example:**\> ping 192.168.1.1** .
+* If you want to run a [Powershell](https://www.makeuseof.com/what-is-windows-powershell/) command, type**\>** , followed by the Powershell command. For example:**\> ping 192.168.1.1** .
 * You can even use it to perform simple calculations. Type**5\*5** to see what 5 multiplied by 5 equals. Other mathematical symbols you can use include + (plus), - (minus), and /(divided by).
 * If you want to search in a specific directory, type the directory name between percentage symbols, e.g.**%programfiles%\\** . You will also need to include a trailing backslash.
 
@@ -86,7 +86,7 @@ Here's how to get the most from this popular productivity tool.
 
 ## Uninstalling Flow Launcher
 
- If you installed Flow Launcher onto your PC, you can uninstall it in the same way you would any other app. Check out our guide on[how to uninstall programs on Windows](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) if you need some help with this.
+ If you installed Flow Launcher onto your PC, you can uninstall it in the same way you would any other app. Check out our guide on [how to uninstall programs on Windows](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) if you need some help with this.
 
  Of course, if you decided to use Flow Launcher in portable mode, you won't need to uninstall it. If you are using the utility in this mode, it is worth enabling the**Portable Mode** option in the settings. This ensures that all search data and settings are stored in a single folder, making this data equally portable.
 
@@ -111,3 +111,51 @@ Here's how to get the most from this popular productivity tool.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/resolving-sound-and-microphone-discrepancies-in-valorant/"><u>Resolving Sound and Microphone Discrepancies in Valorant</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-scheduling-effective-zoom-conversations-on-android-platforms/"><u>[New] In 2024, Scheduling Effective Zoom Conversations on Android Platforms</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/mediamolder-for-mac-for-2024/"><u>MediaMolder for Mac for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-samsung-galaxy-m34-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Samsung Galaxy M34 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/thawing-the-frozen-menus-6-windows-remedies-explored/"><u>Thawing the Frozen Menus: 6 Windows Remedies Explored</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-guide-to-image-spin-on-your-windows-11-pc/"><u>The Complete Guide to Image Spin on Your Windows 11 PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-solutions-to-the-windows-too-many-requests-challenge/"><u>Swift Solutions to the Windows Too Many Requests Challenge</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-narzo-60-pro-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/apples-m1-expedition-the-new-era-of-computing-for-2024/"><u>Apple's M1 Expedition  The New Era of Computing for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mac-users-seamlessly-setting-up-streamlabs-in-obs/"><u>[Updated] Mac Users  Seamlessly Setting Up Streamlabs in OBS</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-completely-removing-wsl-in-win-11/"><u>Step-by-Step: Completely Removing WSL in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-license-validity-alert-on-windows-oses/"><u>Resolving License Validity Alert on Windows OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/uninstalling-the-default-software-on-win11-pcs/"><u>Uninstalling the Default Software on Win11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-high-memory-consumption-in-edges-webview2/"><u>Tackling High Memory Consumption in Edge's WebView2</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-nvidia-experience-connectivity-issues-on-pcs/"><u>Remedying Nvidia Experience Connectivity Issues on PCs</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-deciphering-finances-how-much-do-youtubers-earn-per-ad/"><u>[Updated] Deciphering Finances  How Much Do YouTubers Earn Per Ad?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-joyful-journeys-the-ultimate-list-of-familial-classics/"><u>2024 Approved  Joyful Journeys  The Ultimate List of Familial Classics</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-apple-iphone-13-pro-max-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your Apple iPhone 13 Pro Max without Security Questions?</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackle-non-selectable-text-in-windows-based-pdf-documents-easily/"><u>Tackle Non-Selectable Text in Windows-Based PDF Documents Easily</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-geforce-experience-setting-retrieval-failure-on-windows-1111/"><u>Resolving 'GeForce Experience' Setting Retrieval Failure on Windows 11/11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-7-plus-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 7 Plus Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-expert-pro-gopro-filming-made-easy/"><u>In 2024, From Novice to Expert  Pro Gopro Filming Made Easy</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/delineating-distinctions-full-angle-vs-immersive-video-for-2024/"><u>Delineating Distinctions  Full-Angle Vs. Immersive Video for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photoshops-stabilization-capabilities-real-advantage/"><u>2024 Approved  Photoshop's Stabilization Capabilities  Real Advantage?</u></a></li>
+<li><a href="https://windows11.techidaily.com/resetting-grammarly-settings-in-windows/"><u>Resetting Grammarly Settings in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-selection-of-cost-free-storage-solutions-for-windows-users/"><u>The Ultimate Selection of Cost-Free Storage Solutions for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-default-windows-preferences-post-restart/"><u>Reviving Default Windows Preferences Post-Restart</u></a></li>
+<li><a href="https://windows11.techidaily.com/synchronize-the-seconds-windows-time-repair-guide/"><u>Synchronize the Seconds: Windows Time Repair Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/high-end-computers-a-showcase-of-excellence/"><u>High-End Computers  A Showcase of Excellence</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-up-oculus-rift-as-a-windows-pc-vr-setup/"><u>Setting up Oculus Rift as a Windows PC VR Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/skyrocket-your-typing-swift-input-strategies-for-win-1011-users/"><u>Skyrocket Your Typing: Swift Input Strategies for WIN 10/11 Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-nocturnal-landscapes-on-your-iphone/"><u>In 2024, Nocturnal Landscapes on Your iPhone</u></a></li>
+<li><a href="https://windows11.techidaily.com/system-saviors-the-10-best-windows-diagnostic-apps/"><u>System Saviors: The 10 Best Windows Diagnostic Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-tutorial-to-launch-w11s-administrator-powershell/"><u>The Complete Tutorial to Launch W11's Administrator PowerShell</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedy-troubleshooting-excel-display-issue-in-notepad/"><u>Remedy: Troubleshooting Excel Display Issue in Notepad</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-start-driver-verifier-manager/"><u>Steps to Start Driver Verifier Manager</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-taskbar-transparency-in-maxed-browser-screens/"><u>Solutions for Taskbar Transparency in Maxed Browser Screens</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-insiders-edge-building-snaps-with-powertoys/"><u>The Insider's Edge: Building Snaps with PowerToys</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-s18-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo S18</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-listings-for-3d-type-creation-for-2024/"><u>Ultimate Listings for 3D Type Creation for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-stopping-self-activating-store-app/"><u>Strategies for Stopping Self-Activating Store App</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-get-stunning-images-for-free-commercial-use-made-easy/"><u>2024 Approved Get Stunning Images for Free Commercial Use Made Easy</u></a></li>
+</ul></div>

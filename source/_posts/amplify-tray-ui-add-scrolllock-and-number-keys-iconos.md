@@ -1,7 +1,7 @@
 ---
 title: "Amplify Tray UI: Add ScrollLock and Number Keys Iconos"
-date: 2024-07-03T11:16:52.763Z
-updated: 2024-07-04T11:16:52.763Z
+date: 2024-07-11T22:17:00.982Z
+updated: 2024-07-12T22:17:00.983Z
 tags:
   - windows10
   - windows11
@@ -111,3 +111,54 @@ thumbnail: https://thmb.techidaily.com/28a9b9137fb476d23de27db8b2b7a6831725824f9
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-from-simple-to-sophisticated-weaving-multiple-images-into-your-insta-story-for-2024/"><u>[New] From Simple to Sophisticated  Weaving Multiple Images Into Your Insta Story for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-seamless-song-editing-on-mac-unveiling-the-most-acclaimed-mp3-cutter-applications/"><u>In 2024, Seamless Song Editing on Mac Unveiling the Most Acclaimed MP3 Cutter Applications</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-work-around-microsoft-verified-app-restrictions/"><u>Methods to Work Around Microsoft-Verified App Restrictions</u></a></li>
+<li><a href="https://windows11.techidaily.com/fast-factor-essential-steps-for-assessing-lan-router-speed/"><u>Fast Factor: Essential Steps for Assessing LAN Router Speed</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-pin-gmail-to-the-taskbar-on-a-windows-pc/"><u>How to Pin Gmail to the Taskbar on a Windows PC</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/easy-video-joiner-not-working-try-these-10-reliable-alternatives-instead-for-2024/"><u>Easy Video Joiner Not Working? Try These 10 Reliable Alternatives Instead for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-pc-editors-a-compilation-without-inshot/"><u>2024 Approved  PC Editors  A Compilation Without Inshot</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-something-went-wrong-office-error-on-windows/"><u>How to Fix the “Something Went Wrong” Office Error on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensure-smooth-os-operation-autoupdate-and-change-amd-drivers/"><u>Ensure Smooth OS Operation: Autoupdate & Change AMD Drivers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-superior-tools-for-group-online-calls-for-2024/"><u>[Updated] Superior Tools for Group Online Calls for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-download-fonts-for-all-languages-on-windows/"><u>How to Download Fonts for All Languages on Windows</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-honor-x50iplus-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Honor X50i+</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/stylish-spectacles-trending-insta-filters-list-for-2024/"><u>Stylish Spectacles  Trending Insta Filters List for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-samsung-galaxy-a15-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Samsung Galaxy A15 5G Phones</u></a></li>
+<li><a href="https://windows11.techidaily.com/end-the-ebb-and-flow-top-strategies-for-smooth-windows-streaming/"><u>End the Ebb and Flow: Top Strategies for Smooth Windows Streaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-strategies-for-effortless-integration-of-directories-win-11/"><u>Expert Strategies for Effortless Integration of Directories, Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/lessen-malware-apps-resource-usage-for-performance-gain/"><u>Lessen Malware App’s Resource Usage for Performance Gain</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-tips-for-turning-around-a-frozen-windows-hello-system/"><u>5 Tips for Turning Around a Frozen Windows Hello System</u></a></li>
+<li><a href="https://windows11.techidaily.com/activate-virtualization-your-step-by-step-guide-for-win-11-homes/"><u>Activate Virtualization: Your Step by Step Guide for Win 11 Homes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-realme-gt-5-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Realme GT 5 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-harnessing-hashtag-magic-for-more-followers/"><u>2024 Approved  Harnessing Hashtag Magic for More Followers</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-incomplete-updates-in-your-windows-based-discord/"><u>Handling Incomplete Updates in Your Windows-Based Discord</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-terminal-personalize-colors-and-style/"><u>Mastering Terminal: Personalize Colors & Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-install-hyper-v-on-windows-11-home/"><u>How to Install Hyper-V on Windows 11 Home</u></a></li>
+<li><a href="https://windows11.techidaily.com/brushstrokes-begin-accessing-microsoft-paint-in-windows-11/"><u>Brushstrokes Begin: Accessing Microsoft Paint in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-muted-audio-recordings-in-obs-studio-on-windows-11-pcs/"><u>How to Fix Muted Audio Recordings in OBS Studio on Windows 11 PCs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-se-2022-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-video-capture-clash-go-obs-against-shadowgl/"><u>2024 Approved  Video Capture Clash  Go OBS! Against ShadowGL</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-discovering-and-developing-your-personalized-mukbang-style/"><u>[New] In 2024, Discovering and Developing Your Personalized Mukbang Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/beginners-manual-discovering-windows-aids-and-assists/"><u>Beginner's Manual: Discovering Windows Aids and Assists</u></a></li>
+<li><a href="https://windows11.techidaily.com/ideal-guide-efficiently-change-heic-images-to-jpeg-format-on-windows-11/"><u>Ideal Guide: Efficiently Change HEIC Images to JPEG Format on Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-se-2022-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone SE (2022) Lock Screen with Notifications?</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-up-blank-login-issues-on-win1011-pcs/"><u>Clearing Up Blank Login Issues on WIN10/11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximize-your-taskbar-attaching-items-in-windows-11/"><u>Maximize Your Taskbar: Attaching Items in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-strategies-for-overcoming-windows-error-code-0x80040610/"><u>Essential Strategies for Overcoming Windows Error Code 0X80040610</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exclusive-high-end-computer-choices/"><u>Exclusive High-End Computer Choices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-optimizing-facebook-search-efficiency-101/"><u>[Updated] 2024 Approved  Optimizing Facebook Search Efficiency 101</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-at-workplace-presentations-fixing-powerpoints-print-problems-in-windows/"><u>Winning at Workplace Presentations: Fixing PowerPoint's Print Problems in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-most-common-blue-screen-errors-on-windows/"><u>How to Fix the Most Common Blue Screen Errors on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-a-faulty-windows-11-temporary-storage/"><u>Fixing a Faulty Windows 11 Temporary Storage</u></a></li>
+<li><a href="https://windows11.techidaily.com/decreasing-cpu-and-ram-usage-tackling-unrealcefsubprocess-issues/"><u>Decreasing CPU and RAM Usage: Tackling UnrealCEFSubprocess Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-charge-awareness-customizing-battery-indicators-in-win11/"><u>Boosting Charge Awareness: Customizing Battery Indicators in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/gpresult-command-guide-for-policy-reporting/"><u>GPResult Command Guide for Policy Reporting</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieving-a-clearer-taskbar-windows-11-guide/"><u>Achieving a Clearer Taskbar: Windows 11 Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-foundations-of-using-zooms-clustering-feature-for-2024/"><u>[Updated] Foundations of Using Zoom's Clustering Feature for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-complete-blueprint-record-whatsapp-conversations-effectively/"><u>The Complete Blueprint  Record WhatsApp Conversations Effectively</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-the-power-of-music-in-videos-for-2024/"><u>New The Power of Music in Videos for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-15-pro-max-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 15 Pro Max and iPad Securely</u></a></li>
+</ul></div>

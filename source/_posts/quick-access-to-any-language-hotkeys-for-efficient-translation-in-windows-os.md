@@ -1,7 +1,7 @@
 ---
 title: "Quick Access to Any Language: Hotkeys for Efficient Translation in Windows OS"
-date: 2024-06-25T12:06:52.407Z
-updated: 2024-06-26T12:06:52.407Z
+date: 2024-07-11T21:24:49.773Z
+updated: 2024-07-12T21:24:49.773Z
 tags:
   - windows10
   - windows11
@@ -22,16 +22,16 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 
 ## How to Translate Text in Windows Software With QTranslate
 
- QTranslate is among the[best free translation apps](https://www.makeuseof.com/windows-free-translator-apps/) for Windows platforms dating back to XP. It enables you to translate text in all Windows software with nine cloud-based translator services (including Microsoft and Google). However, the best thing about this software is its hotkey functionality for translating selected text. You can translate text passages with QTranslate like this:
+ QTranslate is among the [best free translation apps](https://www.makeuseof.com/windows-free-translator-apps/) for Windows platforms dating back to XP. It enables you to translate text in all Windows software with nine cloud-based translator services (including Microsoft and Google). However, the best thing about this software is its hotkey functionality for translating selected text. You can translate text passages with QTranslate like this:
 
-1. Open[the QTranslate](http://quest-app.appspot.com/home) website.
+1. Open [the QTranslate](http://quest-app.appspot.com/home) website.
 2. Click the**Download QTranslate** button.
 3. Press File Explorer’s button (the one with a folder library icon) on your taskbar.
 4. Go to whatever folder has the QTranslate setup file in it.
 5. Double-click the**Qtranslate.6.10.0.exe** installer file.
 6. Select the**I Agree** and**Install** options for QTranslate. The software will then automatically start after installation so long as you kept the Run QTranslate checkbox selected.  
 ![The QTranslate setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-qtranslate-setup-window.jpg)
-7. Open a website in a foreign language to try out the translator. For the sake of example, this[German Microsoft Store page](https://www.microsoft.com/de-de/store/b/microsoftunddu) will do.
+7. Open a website in a foreign language to try out the translator. For the sake of example, this [German Microsoft Store page](https://www.microsoft.com/de-de/store/b/microsoftunddu) will do.
 8. Select some text to translate on the website, and press the**Ctrl** +**Q** hotkey. A popup window with an English translation for your selected foreign text will open.  
 ![The QTranslate popup window for translations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/qtranslate-popup-window.jpg)
 
@@ -55,17 +55,17 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 
 ![The Theme drop-down menu in DeepL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-theme-drop-down-menu.jpg)
 
- If you like translating text on the web, check out the[best browser tools to translate web pages](https://www.makeuseof.com/tag/10-top-browser-tools-translate-web-pages/) .
+ If you like translating text on the web, check out the [best browser tools to translate web pages](https://www.makeuseof.com/tag/10-top-browser-tools-translate-web-pages/) .
 
 ## How to Translate Text in Windows Software With DeepL
 
  DeepL is the online translator service's official Windows desktop program. That software has freemium, starter, advanced, and ultimate versions. The freemium version has a 5,000-word character translation limit. DeepL has similar hotkey functionality to QTranslate with which you can translate text passages as follows:
 
-1. Open[the DeepL](https://www.softpedia.com/get/Office-tools/Other-Office-Tools/DeepL.shtml) [Softpedia download page](http://www.softpedia.com/get/Office-tools/Other-Office-Tools/DeepL.shtml) .
+1. Open [the DeepL](https://www.softpedia.com/get/Office-tools/Other-Office-Tools/DeepL.shtml) [Softpedia download page](http://www.softpedia.com/get/Office-tools/Other-Office-Tools/DeepL.shtml) .
 2. Select**Download Now** on that page, and click the**Softpedia Secure Download (US)** option.
 3. Double-click**DeepLSetup.exe** to install the software.
 4. After installing, DeepL will automatically start and prompt you to set up an account. However, you can skip it, as having one is not essential.
-5. Now open up this[French Microsoft page](https://www.microsoft.com/fr-fr/store/b/home%E2%80%AF%E2%80%AF) to try out DeepL.
+5. Now open up this [French Microsoft page](https://www.microsoft.com/fr-fr/store/b/home%E2%80%AF%E2%80%AF) to try out DeepL.
 6. Select a text passage to translate.
 7. Press the**Ctrl** +**C** hotkey twice to bring up the DeepL translation window. That window shows the selected text alongside an English translation for it.  
 ![The DeepL translation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-deepl-translation-window.jpg)
@@ -108,3 +108,47 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/augmenting-user-interface-windows-embellished-by-portables/"><u>Augmenting User Interface: Windows, Embellished by Portables</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-slowdowns-in-gpsvc-windows-errors/"><u>Bypassing Slowdowns in GPSVC Windows Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-taskbar-efficiency-win11-guide/"><u>Boosting Taskbar Efficiency: Win11 Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/chrome-freezing-woes-on-win11-try-these-swift-solutions/"><u>Chrome Freezing Woes on Win11? Try These Swift Solutions.</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-in-pursuit-of-perfection-is-black-gopro-better-than-sony-action-cam/"><u>[New] In 2024, In Pursuit of Perfection  Is Black GoPro Better than Sony Action Cam?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-free-and-fabulous-the-top-online-video-stabilizers-for-a-professional-finish/"><u>New 2024 Approved Free and Fabulous The Top Online Video Stabilizers for a Professional Finish</u></a></li>
+<li><a href="https://windows11.techidaily.com/alleviating-video-driver-failures-on-win1110-os/"><u>Alleviating Video Driver Failures on Win11/10 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/4-ways-to-fix-the-windows-powershell-cannot-be-loaded-because-running-scripts-is-disabled-error/"><u>4 Ways to Fix the Windows PowerShell Cannot Be Loaded Because Running Scripts Is Disabled Error</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-transform-your-recording-experience-moving-past-fbx-methods/"><u>[Updated] 2024 Approved  Transform Your Recording Experience  Moving Past FBX Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/building-artificially-inspired-pictures-in-paint-cocreator-win11/"><u>Building Artificially-Inspired Pictures in Paint Cocreator (Win11)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-most-popular-tweets-of-2023-viewership-ranked/"><u>[Updated] In 2024, Most Popular Tweets of 2023 - Viewership Ranked</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-closer-look-at-windows-sound-system-segregation/"><u>A Closer Look at Windows' Sound System Segregation</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-of-online-lyric-video-creators-for-2024/"><u>Updated The Ultimate List of Online Lyric Video Creators for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-comprehensive-list-of-fixes-for-disappearing-windows-in-windows-11/"><u>A Comprehensive List of Fixes for Disappearing Windows in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719338165732-exploring-phonelinkexe-its-role-and-risks-in-windows-98/"><u>Exploring PhoneLink.exe: Its Role and Risks in Windows 9/8</u></a></li>
+<li><a href="https://windows11.techidaily.com/4-ways-to-check-your-network-adapter-speed-on-windows/"><u>4 Ways to Check Your Network Adapter Speed on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/changing-onedrive-storage-address-in-windows-10/"><u>Changing OneDrive Storage Address in Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-pitfalls-of-unknown-not-initialized-disks-on-windows/"><u>Avoiding Pitfalls of Unknown Not Initialized Disks on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-ways-to-fix-the-application-made-too-many-requests-error-0x80860010-on-windows/"><u>7 Ways to Fix the Application Made Too Many Requests Error (0X80860010) on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-deeper-dive-into-user-experience-revamping-windows-11-widgets/"><u>A Deeper Dive Into User Experience: Revamping Windows 11 Widgets</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-pexels-tips-for-discovering-striking-images/"><u>[New] Navigating Pexels  Tips for Discovering Striking Images</u></a></li>
+<li><a href="https://windows11.techidaily.com/clandestine-data-storage-zip-archives-in-image-files-for-windows-enthusiasts/"><u>Clandestine Data Storage: ZIP Archives in Image Files for Windows Enthusiasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerate-launch-times-for-windows-11-apps/"><u>Accelerate Launch Times for Windows 11 Apps</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-poco-f5-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/bluetooth-recovery-guide-9-steps-to-patch-up-your-pcs-link/"><u>Bluetooth Recovery Guide: 9 Steps to Patch Up Your PC's Link</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-non-operational-state-of-ccleaner-on-win1011-systems/"><u>Addressing Non-Operational State of CCleaner on Win10/11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-resetting-video-issue-for-smooth-windows-use/"><u>Addressing Resetting Video Issue for Smooth Windows Use</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-inaccuracy-of-power-usage-predictor-on-win-11-devices/"><u>Addressing Inaccuracy of Power Usage Predictor on Win 11 Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/fb-top-10-crafting-engaging-songs-for-fb-videos-for-2024/"><u>FB Top 10  Crafting Engaging Songs for FB Videos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-ways-to-check-your-device-uptime-on-windows-11/"><u>5 Ways to Check Your Device Uptime on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-vagrant-boot-failures-on-win11plusvmware/"><u>Addressing Vagrant Boot Failures on Win11+VMware</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-complete-guide-to-converting-gif-to-svg-with-ease/"><u>In 2024, Complete Guide to Converting GIF to SVG With Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-linux-with-windows-technologies-and-features/"><u>Boosting Linux With Windows Technologies and Features</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-13-pro-max-by-drfone-ios/"><u>How To Unlock A Found iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-comprehensive-guide-to-wipeout-ms-audit-reports-on-your-pc/"><u>A Comprehensive Guide to Wipeout MS Audit Reports on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/circumventing-unyielding-power-switches-on-windows-11/"><u>Circumventing Unyielding Power Switches on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719373142604-sidestep-common-snip-and-sketch-screenshot-hurdles-4-fixes/"><u>Sidestep Common Snip & Sketch Screenshot Hurdles: 4 Fixes.</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-steps-to-reclaim-your-windows-daylight-look/"><u>5 Steps to Reclaim Your Windows' Daylight Look</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerate-your-typing-on-win-1011-top-7-tricks-revealed/"><u>Accelerate Your Typing on WIN 10/11: Top 7 Tricks Revealed</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Resource Monitor App When It's Not Working on Windows 11
-date: 2024-06-25T12:19:22.119Z
-updated: 2024-06-26T12:19:22.119Z
+date: 2024-07-11T21:39:13.618Z
+updated: 2024-07-12T21:39:13.618Z
 tags:
   - windows10
   - windows11
@@ -36,7 +36,7 @@ So, let's move on to the solution and fix this problem.
 
  When troubleshooting software-related issues, a computer restart can often resolve them without resorting to complex solutions. Doing so refreshes all running programs and services while also clearing out any temporary files that might be causing problems.
 
- In most cases, this can get things back up and running without requiring extra effort. Plus, this solution is usually quick and easy since you only need to shut down your PC and wait for it to boot back up again. If you're having trouble restarting your PC, you can check out our guide on the[different ways you can restart Windows](https://www.makeuseof.com/windows-restart-methods/) .
+ In most cases, this can get things back up and running without requiring extra effort. Plus, this solution is usually quick and easy since you only need to shut down your PC and wait for it to boot back up again. If you're having trouble restarting your PC, you can check out our guide on the [different ways you can restart Windows](https://www.makeuseof.com/windows-restart-methods/) .
 
 ## 2\. Change the DPI Settings
 
@@ -44,7 +44,7 @@ So, let's move on to the solution and fix this problem.
 
 To change the DPI scale to its default settings, follow these steps:
 
-1. Press**Win + I** on your keyboard to[open the Settings menu](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
+1. Press**Win + I** on your keyboard to [open the Settings menu](https://www.makeuseof.com/windows-ways-to-open-system-settings/) .
 2. From the left pane, select**System** .
 3. Then click**Display** on the right.
 4. Under the**Scale & layout** section, click the drop-down menu next to the**Scale** option.  
@@ -61,7 +61,7 @@ To do this, follow these steps:
 
 1. Right-click on Start and select**Run** from the menu list.
 2. Type**cmd** in the text box and press**Ctrl + Shift + Enter** on your keyboard.
-3. When the UAC popup appears on the screen, click**Yes** to open Command Prompt with admin access. If you want in-depth information, read our guide on[running the command prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
+3. When the UAC popup appears on the screen, click**Yes** to open Command Prompt with admin access. If you want in-depth information, read our guide on [running the command prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
 ![Run SFC Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-sfc-command.jpg)
 4. Now in the elevated Command Prompt window, type in the command below and press Enter:  
 sfc /scannow
@@ -69,7 +69,7 @@ sfc /scannow
 
 ## 4\. Check for Windows Updates
 
- It is also possible for an outdated version of Windows to cause this issue, so[manually check for any pending Windows updates](https://www.makeuseof.com/update-windows-manually/) and install them.
+ It is also possible for an outdated version of Windows to cause this issue, so [manually check for any pending Windows updates](https://www.makeuseof.com/update-windows-manually/) and install them.
 
  Microsoft regularly releases new versions of Windows that fix bugs and improve performance, which makes updating worthwhile. Here's how to do it:
 
@@ -95,7 +95,7 @@ sfc /scannow
 
 ## 6\. Create a New User Account
 
- If you're still having issues, try[creating a new local user account](https://www.makeuseof.com/windows-11-create-local-user-account/) and see if that fixes the issue. This can be helpful if corrupted user profile data or settings cause the problem. To do so, follow the steps below:
+ If you're still having issues, try [creating a new local user account](https://www.makeuseof.com/windows-11-create-local-user-account/) and see if that fixes the issue. This can be helpful if corrupted user profile data or settings cause the problem. To do so, follow the steps below:
 
 1. Open the Settings app on your computer.
 2. From the left, select**Accounts** .
@@ -146,3 +146,40 @@ In such a case, you need to perform a clean boot as instructed below:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/slowing-down-windows-11-shutdown-tips-for-live-tasks/"><u>Slowing Down Windows 11 Shutdown: Tips for Live Tasks</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-strategy-become-system-admin-now/"><u>Swift Strategy: Become System Admin Now</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-over-20-unique-collages-for-brightening-spaces/"><u>[Updated] Over 20 Unique Collages for Brightening Spaces</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-delving-into-youtubes-complex-calculation-of-viewer-stats-for-2024/"><u>[New] Delving Into YouTube's Complex Calculation of Viewer Stats for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-list-of-affordable-licensed-game-music-websites/"><u>[Updated] List of Affordable, Licensed Game Music Websites</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-list-of-windows-11s-narrator-keyboard-shortcuts/"><u>The Complete List of Windows 11'S Narrator Keyboard Shortcuts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-10-budget-friendly-platforms-for-youtube-branding-mastery/"><u>[New] 2024 Approved  10 Budget-Friendly Platforms for YouTube Branding Mastery</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-video-enlargement-on-youtube/"><u>In 2024, Mastering Video Enlargement on YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/stopping-google-chrome-alerts-tips-for-windows/"><u>Stopping Google Chrome Alerts: Tips for Windows</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/painless-percussions-reduction-in-garageband/"><u>Painless Percussions Reduction in Garageband</u></a></li>
+<li><a href="https://windows11.techidaily.com/significance-of-redistributing-visual-cplusplus/"><u>Significance of Redistributing Visual C++</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-be-a-social-media-wizard-best-tweeter-video-tools/"><u>[New] Be a Social Media Wizard  Best Tweeter Video Tools</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-develop-a-soundtrack-integrated-movie-in-the-absence-of-costs-for-2024/"><u>Updated Develop a Soundtrack-Integrated Movie in the Absence of Costs for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719293003975-winning-over-window-devices-no-more-naming-clashes/"><u>Winning Over Window Devices: No More Naming Clashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-controlling-file-compression-in-windows-11/"><u>Strategies for Controlling File Compression in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-phasing-out-of-microsofts-windows-xp-7-and-81-lifeline/"><u>The Phasing Out of Microsoft's Windows XP, 7 & 8.1 Lifeline</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-your-windows-11-9-solutions-for-lost-bluetooth/"><u>Reviving Your Windows 11: 9 Solutions for Lost Bluetooth</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-sending-instagram-direct-messages-with-twitter-videos/"><u>[New] Sending Instagram Direct Messages with Twitter Videos</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-high-quality-mobile-audio-editing-discover-the-best-alternatives-to-audacity-on-your-android-device/"><u>New High-Quality Mobile Audio Editing Discover the Best Alternatives to Audacity on Your Android Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-device-disconnection-problems-for-windows-users-with-virtualbox/"><u>Resolving Device Disconnection Problems for Windows Users with VirtualBox</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-customized-transitions-to-obs-for-2024/"><u>New How to Add Customized Transitions to OBS for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-shortcuts-for-app-size-adjustment-on-windows-11/"><u>Unlocking the Power of Shortcuts for App Size Adjustment on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-windows-repeatedly-entering-cmos-settings/"><u>Solutions for Windows Repeatedly Entering CMOS Settings</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719228177134-functions-not-working-on-win10-heres-what-to-do/"><u>Functions Not Working on Win10? Here's What to Do!</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-6-best-to-do-list-apps-for-windows-10-and-11/"><u>The 6 Best To-Do List Apps for Windows 10 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-for-overcoming-license-expiration-notice-in-win11/"><u>Tactics for Overcoming License Expiration Notice in Win11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-infinix-note-30-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Infinix Note 30</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-to-bypass-admin-access-denied-message-on-pc/"><u>Tactics to Bypass 'Admin Access Denied' Message on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719205436965-open-that-locked-handbrake-on-windows-now/"><u>Open That Locked HandBrake on Windows Now!</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-computers-clock-display-with-animated-screensaver-apps/"><u>Transform Your Computer's Clock Display with Animated Screensaver Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-isolating-pictures-from-video-frames-in-photos-app/"><u>[Updated] Isolating Pictures From Video Frames in Photos App</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719270325227-seeking-help-navigate-through-windows-troubles-easily/"><u>Seeking Help? Navigate Through Windows Troubles Easily</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to Batch Convert HEIC Images to JPEG Format in Windows 10 & 11
-date: 2024-06-25T12:32:17.470Z
-updated: 2024-06-26T12:32:17.470Z
+date: 2024-07-11T21:54:08.121Z
+updated: 2024-07-12T21:54:08.121Z
 tags:
   - windows10
   - windows11
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/6fcd76fd6f172d48de92c06ef6acf9b4878b2af92
 
  Aside from that, installing this software also enables you to preview HEIC images in Explorer without converting them. You can convert multiple HEIC images to JPEG with CopyTrans as follows:
 
-1. Open this[CopyTrans HEIC for Windows](https://www.copytrans.net/copytransheic/#down) download page.
+1. Open this [CopyTrans HEIC for Windows](https://www.copytrans.net/copytransheic/#down) download page.
 2. Click CopyTrans HEIC’s**Download** button and downloaded the executable.
 3. Double-click the**CopyTransHEICforWindowsv2.000.exe** file.
 4. Click**Next** to proceed to the software agreement options for CopyTrans HEIC.
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/6fcd76fd6f172d48de92c06ef6acf9b4878b2af92
 
 1. Open Explorer after installing CopyTrans HEIC (there’s no need for a restart Windows).
 2. Bring up a folder that contains some HEIC images you want to convert.
-3. Hold the**Ctrl** key to[select multiple HEIC files](https://www.makeuseof.com/windows-select-multiple-files/) within Explorer.
+3. Hold the**Ctrl** key to [select multiple HEIC files](https://www.makeuseof.com/windows-select-multiple-files/) within Explorer.
 4. Right-click on one of the selected image files to select**Convert to JPEG With CopyTrans** . Windows 11 users need to select**Show more options** \>**Convert to JPEG** .  
 ![The Convert to JPEG with CopyTrans option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/convert-to-jpeg-option.jpg)
 
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/6fcd76fd6f172d48de92c06ef6acf9b4878b2af92
 
  FoneTool is a more general software utility for transferring iPhone files to and from Windows PCs. That software incorporates phone file transfer, backup, and HEIC conversion tools. Its HEIC converter enables you to batch-convert multiple HEIC images to JPEG and PNG formats. This is how you can batch convert your HEIC images to JPEG with the freeware FoneTool version:
 
-1. Open the[FoneTool](https://www.fonetool.com/download.html) download page.
+1. Open the [FoneTool](https://www.fonetool.com/download.html) download page.
 2. Click**Free Download for PC** to get the setup wizard for the freeware version.
 3. Then double-click**FoneTool\_free\_installer.Z1qPz.exe** to open FoneTool’s setup wizard.
 4. If you prefer to configure the installation in any way, click Customization in the setup window. Then you can click the**Select Path** button to change the directory.
@@ -87,9 +87,9 @@ Now it's time to convert images with FoneTool:
 
 ## How to Bach Convert HEIC Images With HEIC to JPEG Free Online Converter
 
- There are various[online HEIC to JPEG conversion tools](https://www.makeuseof.com/convert-heic-files-tools/) you can utilize in Windows browsers. HEIC to JPEG Free Online Converter is a web app with which you can convert up to 100 images simultaneously to JPEG, PNG, or BMP formats. These are the steps for converting HEIC images to JPEG alternatives with that web app:
+ There are various [online HEIC to JPEG conversion tools](https://www.makeuseof.com/convert-heic-files-tools/) you can utilize in Windows browsers. HEIC to JPEG Free Online Converter is a web app with which you can convert up to 100 images simultaneously to JPEG, PNG, or BMP formats. These are the steps for converting HEIC images to JPEG alternatives with that web app:
 
-1. Open the[HEIC to JPEG Free Online Converter](https://heic.online/) web app.
+1. Open the [HEIC to JPEG Free Online Converter](https://heic.online/) web app.
 2. Press the**Add HEIC files** button.  
 ![The Add HEIC files button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-heic-files-button.jpg)
 3. Choose a HEIC image to convert and click the**Open** option. As you can only select one image at a time, you’ll need to repeat steps two and three to add more files.
@@ -126,3 +126,47 @@ Now it's time to convert images with FoneTool:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/updated-adjust-photos-for-core-outer-softness-in-photoshop-suite/"><u>[Updated] Adjust Photos for Core-Outer Softness in Photoshop Suite</u></a></li>
+<li><a href="https://windows11.techidaily.com/say-farewell-to-windows-subsys-embracing-alternatives-for-android/"><u>Say Farewell to Windows Subsys: Embracing Alternatives for Android</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-integration-connect-ps3-dualshock-wirelessly/"><u>Tech Integration: Connect PS3 DualShock Wirelessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-winerrors-your-guide-to-fixes/"><u>Unraveling the Mystery of WinErrors: Your Guide to Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-your-wallet-may-regret-inexpensive-windows-keys/"><u>Why Your Wallet May Regret Inexpensive Windows Keys</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-enhance-engagement-top-tools-and-tips-for-properly-tagged-videos/"><u>[New] Enhance Engagement  Top Tools and Tips for Properly Tagged Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/11-ways-to-open-the-credential-manager-on-windows-11/"><u>11 Ways to Open the Credential Manager on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-launching-works-on-windows-10plus/"><u>Step-by-Step: Launching Works on WIndows 10+</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-screenplay-excellence-genre-based-achievement-showcase/"><u>2024 Approved  Screenplay Excellence  Genre-Based Achievement Showcase</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-windows-11-audio-adjustment-tools/"><u>Unveiling the Windows 11 Audio Adjustment Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-step-by-step-guide-to-audience-captivation-with-unboxing-videos/"><u>In 2024, Step-by-Step Guide To Audience Captivation With Unboxing Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieving-optimal-security-in-win-11-with-ms-defender-application-guard-for-edge/"><u>Achieving Optimal Security in Win 11 with MS Defender Application Guard for Edge</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-software-integration-the-windows-11-troubleshooter/"><u>Unlocking Software Integration: The Windows 11 Troubleshooter</u></a></li>
+<li><a href="https://windows11.techidaily.com/three-easy-steps-to-unlock-your-network-with-telnet-on-wins/"><u>Three Easy Steps to Unlock Your Network with Telnet on Wins</u></a></li>
+<li><a href="https://windows11.techidaily.com/solve-icloud-download-issues-with-these-helpful-steps/"><u>Solve iCloud Download Issues with These Helpful Steps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-5-pinterest-video-clips-download-for-no-cost/"><u>[Updated] Best 5 Pinterest Video Clips, Download for No Cost</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-disconnected-windows-printer-linkup/"><u>Restoring Disconnected Windows Printer Linkup</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719329285690-resolve-programming-discrepancies-with-no-troubleshoot-tool/"><u>Resolve Programming Discrepancies with No Troubleshoot Tool.</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-the-tide-fixing-xbox-11-stranded-app-issue/"><u>Reversing the Tide: Fixing Xbox 11 Stranded App Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-security-change-account-password-for-win-11/"><u>Transforming Security: Change Account Password for Win 11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-step-by-step-breakdown-creating-your-best-yt-shorts/"><u>2024 Approved  A Step-by-Step Breakdown  Creating Your Best YT Shorts</u></a></li>
+<li><a href="https://windows11.techidaily.com/unplugged-os-easy-win11-setup-without-internet/"><u>Unplugged OS: Easy Win11 Setup without Internet</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-security-implementing-custom-pattern-locks-in-windows/"><u>Tailored Security: Implementing Custom Pattern Locks in Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-high-dynamic-range-mastered-for-the-modern-user/"><u>Windows 11'S High Dynamic Range Mastered for the Modern User</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-excellent-audio-editing-software-replacements-for-audacity-for-2024/"><u>New Excellent Audio Editing Software Replacements for Audacity for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-peek-at-your-gadgets-soul-6-methods-to-discover-its-make/"><u>A Peek at Your Gadget's Soul: 6 Methods to Discover Its Make</u></a></li>
+<li><a href="https://windows11.techidaily.com/your-window-to-artistry-in-windows-1011/"><u>Your Window to Artistry in Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-frozen-windows-handbraked-vaults/"><u>Unlock Frozen Windows-Handbraked Vaults</u></a></li>
+<li><a href="https://windows11.techidaily.com/unauthorized-ai-assistance-in-generating-win-11-keys/"><u>Unauthorized AI Assistance in Generating Win 11 Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/show-your-connection-status-update-windows-icon-bar/"><u>Show Your Connection Status: Update Windows Icon Bar</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-motorola-edge-40-pro-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Motorola Edge 40 Pro FRP Without Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-lava-yuva-3-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Lava Yuva 3.</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-and-isnt-allowed-in-windows-11-s-mode/"><u>What Is and Isn’t Allowed in Windows 11 S Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-secrets-of-winnettoolbox/"><u>Unlocking the Secrets of WinNetToolbox</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-realme-10t-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Realme 10T 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/online-onyx-the-monetary-meaningfulness-of-pewdiepies-earnings-for-2024/"><u>Online Onyx  The Monetary Meaningfulness of Pewdiepie's Earnings for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-level-up-your-screen-shots-the-experts-approach-to-ps4-capture/"><u>[New] 2024 Approved  Level Up Your Screen Shots  The Expert's Approach to PS4 Capture</u></a></li>
+<li><a href="https://extra-information.techidaily.com/real-world-examples/"><u>Real-World Examples</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-8-common-slip-ups-for-first-time-windows-11-enthusiasts/"><u>Top 8 Common Slip-Ups for First-Time Windows 11 Enthusiasts</u></a></li>
+</ul></div>

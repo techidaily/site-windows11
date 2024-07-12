@@ -1,7 +1,7 @@
 ---
 title: Quick Setup Guide for Launching Windows Media Player
-date: 2024-06-25T12:14:06.680Z
-updated: 2024-06-26T12:14:06.680Z
+date: 2024-07-11T21:33:06.597Z
+updated: 2024-07-12T21:33:06.597Z
 tags:
   - windows10
   - windows11
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 
 To open Windows Media Player using the Run command, do the following:
 
-1. Press**Win + R** on your keyboard to[open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . For more information, check out our[complete guide to Windows Keyboard Shortcuts](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/) .
+1. Press**Win + R** on your keyboard to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/) . For more information, check out our [complete guide to Windows Keyboard Shortcuts](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/) .
 2. In the Run dialog box, type**wmplayer.exe** and click**OK** .
 
  That's it. This is how you can open Windows Media Player on your PC.
@@ -137,3 +137,56 @@ C:\Program Files (x86)\Windows Media Player\wmplayer.exe
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-pro-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 Pro to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-advanced-windows-startup-techniques/"><u>Exploring Advanced Windows Startup Techniques</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-motorola-g54-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Motorola G54 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/larger-than-life-boosting-taskbar-icons-in-w11/"><u>Larger-than-Life: Boosting Taskbar Icons in W11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/posting-a-youtube-video-via-insta-stories-a-step-by-step-guide-for-2024/"><u>Posting a YouTube Video via Insta Stories  A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-to-solutions-faster-configuring-shortcuts-for-win-1011-tools/"><u>Navigate to Solutions Faster: Configuring Shortcuts for Win 10/11 Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-secrets-to-10-music-video-fame-on-facebook/"><u>[New] The Secrets to #10 Music Video Fame on Facebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicating-error-code-xc0f1103f-with-nvidias-geforce-now/"><u>Eradicating Error Code Xc0f1103f with NVIDIA's GeForce Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-geforce-experiences-unable-to-retrieve-settings-error-in-windows-11-and-11/"><u>How to Fix GeForce Experience’s “Unable to Retrieve Settings” Error in Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-methods-to-convert-word-documents-to-pdf-on-windows-11/"><u>Cutting-Edge Methods to Convert Word Documents to PDF on Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-facebook-video-extravaganza-the-most-advanced-fire-browser-tools-updated/"><u>[Updated] In 2024, Facebook Video Extravaganza  The Most Advanced Fire-Browser Tools, Updated</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-actions-for-non-displayed-windows-sign-ins/"><u>Immediate Actions for Non-Displayed Windows Sign-Ins</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-lockout-overcoming-windows-11-device-error-code-22/"><u>Bypassing Lockout: Overcoming Windows 11 Device Error Code 22</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-5-windows-folders-tricks-for-enhanced-efficiency/"><u>Top 5 Windows Folders Tricks for Enhanced Efficiency</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-high-speed-snapshot-and-voice-commentary-assistant-device/"><u>[New] In 2024, High-Speed Snapshot & Voice Commentary Assistant Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-sweep-away-delayed-input-fasten-your-fingers-for-windows-11/"><u>How to Sweep Away Delayed Input: Fasten Your Fingers for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-desktop-to-deep-dive-installing-kali-linux-on-windows/"><u>From Desktop to Deep-Dive: Installing Kali Linux on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/minimizing-power-drain-addressing-vanguard-ums-overuse-on-pcs/"><u>Minimizing Power Drain: Addressing Vanguard UMS Overuse on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-window-11-email-app-error-code-0x800713f/"><u>Overcoming Window 11 Email App Error Code 0X800713F</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-spark-ar-graphics-mastering-the-art-with-downloadable-color-lookups/"><u>In 2024, Spark AR Graphics  Mastering the Art with Downloadable Color Lookups</u></a></li>
+<li><a href="https://windows11.techidaily.com/finding-out-your-internets-public-ip-with-win-cli/"><u>Finding Out Your Internet's Public IP with Win CLI</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-insight-essential-steps-for-gauging-network-bandwidth/"><u>Windows Insight: Essential Steps for Gauging Network Bandwidth</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-windows-11s-compatibility-diagnostic-tool/"><u>Decoding Windows 11'S Compatibility Diagnostic Tool</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-facebooks-vanished-video-suggestions-explained/"><u>2024 Approved  Facebook's Vanished Video Suggestions Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-settings-for-effortless-administration/"><u>Mastering Windows 11 Settings for Effortless Administration</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transcribe-speech-absolutely-gratis/"><u>In 2024, Transcribe Speech, Absolutely Gratis</u></a></li>
+<li><a href="https://windows11.techidaily.com/matchmaking-the-ideal-nvidia-driver-with-entertainment-goals/"><u>Matchmaking The Ideal Nvidia Driver With Entertainment Goals</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-say-goodbye-to-shaky-videos-5-free-android-apps-to-try/"><u>In 2024, Say Goodbye to Shaky Videos 5 Free Android Apps to Try</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-inshot-a-guide-to-video-transition-techniques/"><u>2024 Approved  Mastering Inshot  A Guide to Video Transition Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-hd-strategy-for-classics-gaming-on-windows-via-scummvm/"><u>The Ultimate HD Strategy for Classics Gaming on Windows via ScummVM</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-the-challenge-0x80072af9-errors/"><u>Conquering the Challenge: 0X80072AF9 Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-up-exit-point-not-found-errors/"><u>Clearing Up Exit Point Not Found Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-unverified-adobe-in-windows/"><u>Troubleshooting Unverified Adobe in Windows</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/method-to-recalibrate-windows-energy-plan/"><u>Method to Recalibrate Window's Energy Plan</u></a></li>
+<li><a href="https://windows11.techidaily.com/configuring-fingerprint-login-for-windows-11-users/"><u>Configuring Fingerprint Login for Windows 11 Users</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-navigating-through-tiktoks-most-effective-campaign-models/"><u>[Updated] 2024 Approved  Navigating Through TikTok's Most Effective Campaign Models</u></a></li>
+<li><a href="https://windows11.techidaily.com/tweaking-netconfigs-windows-11-edition/"><u>Tweaking NetConfigs: Windows 11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/nexus-controller-detection-woes-heres-how-to-win-them-back/"><u>Nexus Controller Detection Woes? Here's How to Win Them Back</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-ways-to-fix-a-profile-error-occured-in-google-chrome-for-windows/"><u>7 Ways to Fix A Profile Error Occured in Google Chrome for Windows</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/2024-approved-the-best-youtube-to-mp3-converters-how-to-make-an-informed-choice/"><u>2024 Approved The Best YouTube to MP3 Converters How to Make an Informed Choice</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-morning-routine-launching-windows-and-sticky-notes/"><u>Mastering Morning Routine: Launching Windows & Sticky Notes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-superior-green-tech-in-video-production/"><u>2024 Approved  Superior Green Tech in Video Production</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-video-editing-fixing-youtube-short-fails/"><u>In 2024, Video Editing  Fixing YouTube Short Fails</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-explore-the-ultimate-list-of-discords-top-emoji-design-software/"><u>[New] In 2024, Explore the Ultimate List of Discord's Top Emoji Design Software</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-best-cameras-for-vlogging/"><u>[Updated] 2024 Approved  Best Cameras for Vlogging</u></a></li>
+<li><a href="https://windows11.techidaily.com/infuse-personalized-style-in-windows-email-calendar/"><u>Infuse Personalized Style in Windows Email, Calendar</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-file-and-folder-integration-in-windows-1011/"><u>Mastering File & Folder Integration in Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/brain-benefits-and-heartbeats-the-joint-impact-of-mindfulness/"><u>Brain Benefits and Heartbeats: The Joint Impact of Mindfulness</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Understanding and Fixing The Application Was Unable Error
-date: 2024-06-25T12:02:36.801Z
-updated: 2024-06-26T12:02:36.801Z
+date: 2024-07-11T21:19:52.667Z
+updated: 2024-07-12T21:19:52.667Z
 tags:
   - windows10
   - windows11
@@ -53,7 +53,7 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
 
 1. Click the Windows taskbar’s search box or button (magnifying glass icon).
 2. Type the search phrase**cmd** inside the text box.
-3. Click**Command Prompt** with your mouse’s right button to select a**Run as administrator** option (see[how to run the Command Prompt as administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for more methods).
+3. Click**Command Prompt** with your mouse’s right button to select a**Run as administrator** option (see [how to run the Command Prompt as administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for more methods).
 4. Then input this Prompt command and press**Return** :  
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 5. Enter and execute the following SFC command:  
@@ -95,7 +95,7 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
 
  The 0xc000003e error can also arise because of corrupted software installations. You can fix a corrupted software installation by reinstalling the app. Reinstalling will also ensure you have the latest app version, which can address compatibility issues.
 
- Uninstall the affected app with one of the methods in our guide on[how to uninstall software in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . The Control Panel’s**Program and Features** applet or**Apps & Features** within Settings will be sufficient for uninstalling most software.
+ Uninstall the affected app with one of the methods in our guide on [how to uninstall software in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . The Control Panel’s**Program and Features** applet or**Apps & Features** within Settings will be sufficient for uninstalling most software.
 
  When you’ve uninstalled the software, download its latest version from the publisher’s website. Then you can reinstall the program by opening the downloaded setup wizard.
 
@@ -105,7 +105,7 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
 
  If you have System Restore enabled on your PC, that utility may provide a potential fix for 0xc000003e. System Restore enables you to roll Windows back to saved restoration points, which can fix corrupted system files. Selecting a restore point that predates the 0xc000003e error on your PC could fix the issue.
 
- Our guide on[how to create restore points on Windows](https://www.makeuseof.com/windows-11-create-restore-point/) includes full instructions about how to roll back Windows with System Restore. Note that any software you installed after a selected restore point will not be available after rolling back Windows. You’ll need to reinstall the software packages removed for a chosen restoration point.
+ Our guide on [how to create restore points on Windows](https://www.makeuseof.com/windows-11-create-restore-point/) includes full instructions about how to roll back Windows with System Restore. Note that any software you installed after a selected restore point will not be available after rolling back Windows. You’ll need to reinstall the software packages removed for a chosen restoration point.
 
 ![The System Restore point tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-system-restore-point.jpg)
 
@@ -129,3 +129,44 @@ thumbnail: https://thmb.techidaily.com/f7564240f8faa92ac0e388d789a175a79bd1b9553
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-waveform-overlaps-the-crossfade-method/"><u>2024 Approved  Mastering Waveform Overlaps  The Crossfade Method</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-effective-ways-to-reopen-a-hidden-windows-terminal/"><u>7 Effective Ways to Reopen a Hidden Windows Terminal</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-loss-the-top-8-windows-recovery-tips/"><u>Avoiding Loss: The Top 8 Windows Recovery Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-artisans-guide-to-flawless-skype-calls-capture-and-storage/"><u>[Updated] 2024 Approved  The Artisan's Guide to Flawless Skype Calls Capture and Storage</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-dive-into-inspiration-with-these-five-powerful-tiktokers-for-2024/"><u>[Updated] Dive Into Inspiration with These Five Powerful TikTokers for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/bridging-gaps-quick-fixes-for-microsoft-to-do-discrepancies/"><u>Bridging Gaps: Quick Fixes for Microsoft To Do Discrepancies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-zoom-and-cut-companion/"><u>2024 Approved  Expert Zoom and Cut Companion</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-print-speed-on-pcs-tips-for-windows-users/"><u>Boosting Print Speed on PCs: Tips for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-a59-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-re-establishing-obs-audio-recording-capabilities/"><u>2024 Approved  Re-Establishing OBS Audio Recording Capabilities</u></a></li>
+<li><a href="https://windows11.techidaily.com/brighten-up-windows-11-screens-with-easy-adjustments/"><u>Brighten Up Windows 11 Screens with Easy Adjustments!</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-windows-update-four-techniques/"><u>Bypassing Windows Update: Four Techniques</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-vital-tips-to-preserve-lol-competitions/"><u>[Updated] Vital Tips to Preserve LOL Competitions</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-unable-to-start-application-error-xc000003e-in-windows-11/"><u>Avoiding Unable to Start Application Error Xc000003e in Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-insights-enhancing-digital-videos-and-photos-online/"><u>2024 Approved  Professional Insights  Enhancing Digital Videos & Photos Online</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-entry-level-expenditure-cost-effective-platforms-for-youtube-purchases/"><u>[New] In 2024, Entry-Level Expenditure  Cost-Effective Platforms for YouTube Purchases</u></a></li>
+<li><a href="https://windows11.techidaily.com/bluescreenview-explained-for-everyday-users/"><u>BlueScreenView Explained for Everyday Users</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-mini-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 mini System Issues? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-guide-to-completely-erase-drives-partitioning-in-windows/"><u>A Guide to Completely Erase Drive's Partitioning in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/account-annihilation-simple-ways-to-render-user-non-existent-on-win11/"><u>Account Annihilation: Simple Ways to Render User Non-Existent on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/9-benefits-adopting-new-outlook-for-windows-users/"><u>9 Benefits: Adopting New Outlook for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-things-to-try-when-the-epic-games-launcher-fails-to-send-a-security-code-on-windows/"><u>7 Things to Try When the Epic Games Launcher Fails to Send a Security Code on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-reasons-to-choose-windows-10-over-windows-11/"><u>7 Reasons to Choose Windows 10 Over Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-practical-guide-to-creating-and-managing-a-win-11-hotspot/"><u>A Practical Guide to Creating and Managing a Win 11 Hotspot</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-techno-titans-earnings-forecast-on-gaming-channels/"><u>In 2024, Techno Titans  Earnings Forecast on Gaming Channels</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypass-the-troubleshooter-effective-fixes-in-vista-and-7/"><u>Bypass the Troubleshooter: Effective Fixes in Vista & 7</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dissecting-podcasters-income-streams/"><u>Dissecting Podcasters' Income Streams</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-8-unexpected-ways-to-add-emoji-to-photo-online-for-2024/"><u>Updated 8 Unexpected Ways to Add Emoji to Photo Online for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/capitalizing-on-windows-capabilities-for-macos/"><u>Capitalizing on Windows Capabilities for macOS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-8-plus-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 8 Plus Properly</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-vivo-y77t-lock-screen-password-by-drfone-android/"><u>How to Reset your Vivo Y77t Lock Screen Password</u></a></li>
+<li><a href="https://windows11.techidaily.com/browser-woes-7-methods-to-reach-elusive-pages-on-pc/"><u>Browser Woes? 7 Methods to Reach Elusive Pages on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/beginners-tutorial-on-windows-canary-usage/"><u>Beginner’s Tutorial on Windows Canary Usage</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieve-peak-performance-self-update-system-with-new-amd-drivers/"><u>Achieve Peak Performance: Self-Update System with New AMD Drivers</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-introduction-of-virbo-windows-wondershare-virbo-for-2024/"><u>Updated Introduction of Virbo Windows | Wondershare Virbo for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-closer-look-at-high-end-vr-walking-machines/"><u>2024 Approved  A Closer Look at High-End VR Walking Machines</u></a></li>
+</ul></div>

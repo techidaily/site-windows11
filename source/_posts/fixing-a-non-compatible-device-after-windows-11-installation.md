@@ -1,7 +1,7 @@
 ---
 title: Fixing a Non-Compatible Device After Windows 11 Installation
-date: 2024-06-25T12:07:34.249Z
-updated: 2024-06-26T12:07:34.249Z
+date: 2024-07-11T21:25:38.022Z
+updated: 2024-07-12T21:25:38.022Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,7 @@ Additionally, you may also see the following error:
 
 ## What Are the System Requirements to Install Windows 11?
 
- Interestingly, the official[Windows 11 system requirements](https://www.makeuseof.com/can-your-pc-run-windows-11/) aren't the most intensive, and most modern systems should support it out of the box. However, there are some upgrades from Windows 10.
+ Interestingly, the official [Windows 11 system requirements](https://www.makeuseof.com/can-your-pc-run-windows-11/) aren't the most intensive, and most modern systems should support it out of the box. However, there are some upgrades from Windows 10.
 
  The following are the system requirements to install and run Windows 11:
 
@@ -45,7 +45,7 @@ Additionally, you may also see the following error:
 * System firmware that supports UEFI, Secure Boot capable
 * Trusted Platform Module (TPM) 1.2/2.0.
 
- Now, if you meet the hardware specifications and still encounter this PC can't run Windows 11 error when using the[PC Health Checkup](https://www.microsoft.com/en-us/windows/windows-11) app, you can fix it by tweaking a few settings in your BIOS/UEFI setup.
+ Now, if you meet the hardware specifications and still encounter this PC can't run Windows 11 error when using the [PC Health Checkup](https://www.microsoft.com/en-us/windows/windows-11) app, you can fix it by tweaking a few settings in your BIOS/UEFI setup.
 
 ![pc health check upgrade windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/pc-health-check-upgrade-windows-11.png)
 
@@ -55,7 +55,7 @@ Additionally, you may also see the following error:
 
  UEFI (Unified Extensible Firmware Interface) is a booting method designed to replace BIOS (Basic Input Output System). In the legacy boot, the system uses BIOS firmware for booting.
 
- In general, installing Windows using the newer UEFI mode is recommended as it comes with more security features such as Secure Boot than the legacy BIOS mode. You can[learn more about BIOS](https://www.makeuseof.com/tag/the-bios-explained-boot-order-video-memory-saving-resets-and-optimum-defaults-si/) here.
+ In general, installing Windows using the newer UEFI mode is recommended as it comes with more security features such as Secure Boot than the legacy BIOS mode. You can [learn more about BIOS](https://www.makeuseof.com/tag/the-bios-explained-boot-order-video-memory-saving-resets-and-optimum-defaults-si/) here.
 
 ## What Causes the "PC Can't Run Windows 11 Error?"
 
@@ -78,7 +78,7 @@ Additionally, you may also see the following error:
 Follow these steps to enable Secure Boot compatibility in Windows 10.
 
 1. Close all the open Windows and save your work. Then shut down your PC.
-2. Restart your system and start pressing**F2** to enter BIOS setup. Different laptop and PC manufacturers may use other function keys such as F12, F10, F8, or Esc key to enter BIOS. If you need help, refer to our guide on[how to enter BIOS](https://www.makeuseof.com/tag/enter-bios-computer/) for more tips.
+2. Restart your system and start pressing**F2** to enter BIOS setup. Different laptop and PC manufacturers may use other function keys such as F12, F10, F8, or Esc key to enter BIOS. If you need help, refer to our guide on [how to enter BIOS](https://www.makeuseof.com/tag/enter-bios-computer/) for more tips.
 3. In the BIOS setup utility, use the arrow keys to open the**Boot** tab. Highlight**Boot Mode** and check if it is set to**Legacy** .
 4. To change the Boot Mode, press Enter while the**Boot Mode** is highlighted.
 5. Choose**UEFI** from the options. Use the Up and Down arrow keys to select UEFI, and hit Enter to select the option.
@@ -107,7 +107,7 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 
  Note that your system must support at least TPM 1.2 for this workaround to work.
 
- Note that editing your Windows Registry involves risk. Make sure to[create a system restore point](https://www.makeuseof.com/windows-11-create-restore-point/) and then proceed with the step below.
+ Note that editing your Windows Registry involves risk. Make sure to [create a system restore point](https://www.makeuseof.com/windows-11-create-restore-point/) and then proceed with the step below.
 
 1. Press**Win + R** to open**Run** .
 2. Type**regedit** and click**OK** to open**Registry Editor.**
@@ -121,7 +121,7 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 7. In the Value data field, type**1** and click**OK** to save the changes.
 8. Close the Registry Editor and try to install Windows 11 using the media creation tool or ISO. The upgrade should complete without the error.
 
- If the issue persists, read our guide to[bypass Windows 11 minimum installation requirements](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) to learn more ways to bypass the restrictions and upgrade your PC.
+ If the issue persists, read our guide to [bypass Windows 11 minimum installation requirements](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) to learn more ways to bypass the restrictions and upgrade your PC.
 
 ## No Boot Device Found Error After Changing Boot Mode from Legacy to UEFI
 
@@ -154,3 +154,45 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-nintendos-best-hd-recorders-for-enthusiasts/"><u>In 2024, Nintendo's Best HD Recorders for Enthusiasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-power-of-dism-in-win11-image-management/"><u>Unveiling the Power of Dism in Win11 Image Management</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/securing-your-fb-conversations-with-recordings/"><u>Securing Your FB Conversations with Recordings</u></a></li>
+<li><a href="https://windows11.techidaily.com/triumph-over-the-quiet-shop-microsoft-writes-on-error-x00000000/"><u>Triumph over the Quiet Shop: Microsoft' Writes on Error X00000000</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-unblock-application-packages-on-windows-servers/"><u>Techniques to Unblock Application Packages on Windows Servers</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplified-guide-to-shift-your-qbittorrent-installation/"><u>Simplified Guide to Shift Your qBittorrent Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-amend-non-interactive-menu-bar-on-windows-11/"><u>Steps to Amend Non-Interactive Menu Bar on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-window-11s-missing-clickables-problem/"><u>Solving Window 11'S Missing Clickables Problem</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-track-video-scaling-for-perfect-mac-display/"><u>[New] 2024 Approved  Fast-Track Video Scaling for Perfect Mac Display</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-enhancing-accessibility-with-vimeo-subtitles-for-2024/"><u>[Updated] Enhancing Accessibility with Vimeo Subtitles for 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-perfect-your-windows-10-media-by-removing-loud-sounds-no-add-ons-required/"><u>New Perfect Your Windows 10 Media by Removing Loud Sounds, No Add-Ons Required</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-code-4-error-a-compre-cookie-guide/"><u>Tackling the Code 4 Error: A Compre Cookie Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-winds-of-windows-fix-for-non-openable-exes/"><u>Taming the Winds of Windows: Fix for Non-Openable EXEs</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-enthusiasts-treasure-hunt-unlock-free-lifetime-windows-11-from-black-fridays-best-price/"><u>Tech Enthusiasts’ Treasure Hunt: Unlock Free Lifetime Windows 11 From Black Friday's Best Price</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-the-vocal-navigator-discovering-premium-online-text-to-speech-providers-for-2024/"><u>New The Vocal Navigator Discovering Premium Online Text to Speech Providers for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-task-managers-feature-extras-under-edge/"><u>Why Task Managers Feature Extras Under Edge?</u></a></li>
+<li><a href="https://games-able.techidaily.com/accelerate-fun-factors-essential-5-steps-to-better-games-on-macos/"><u>Accelerate Fun Factors: Essential 5 Steps to Better Games on macOS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-convert-with-confidence-best-apps-to-turn-spotify-into-youtube-channels/"><u>[Updated] In 2024, Convert with Confidence  Best Apps to Turn Spotify Into YouTube Channels</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-4-microcomputers-pure-windows-environment/"><u>Top 4 Microcomputers: Pure Windows Environment</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-first-steps-in-using-zooms-group-rooms-for-2024/"><u>[New] First Steps in Using Zoom's Group Rooms for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/transformingnotepadlighttodarkwin/"><u>TransformingNotepadLightToDarkWin</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-master-the-art-of-editing-on-zero-budget-discover-these-apps/"><u>[New] 2024 Approved  Master the Art of Editing on Zero Budget  Discover These Apps</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-echo-eraser-pro-the-premier-background-noise-eliminator-for-phones-running-on-android-and-iphone-updated-for-2024/"><u>New Echo Eraser Pro The Premier Background Noise Eliminator for Phones Running on Android and iPhone, Updated for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-vibrance-to-dull-desktop-windows-effects/"><u>Restoring Vibrance to Dull Desktop Windows Effects</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-tips-to-fully-erase-wsl-from-windows-11-systems/"><u>Expert Tips to Fully Erase WSL From Windows 11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/rise-above-ethernet-ceiling-overcome-the-windows-100mbps-limit/"><u>Rise Above Ethernet Ceiling: Overcome the Windows 100Mbps Limit</u></a></li>
+<li><a href="https://windows11.techidaily.com/resurrect-corrupted-files-win-11s-zip-fix-guide/"><u>Resurrect Corrupted Files: Win 11'S ZIP Fix Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/zeroing-out-bloatware-windows-11-edition/"><u>Zeroing Out Bloatware: Windows 11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/solve-no-errors-on-win11-quick-fix-guide/"><u>Solve No Errors on Win11 - Quick Fix Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-essential-mac-screen-recorders-top-10-free-list-in-2024/"><u>[Updated] Essential Mac Screen Recorders – Top 10 FREE List, In 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-comparing-360-degree-captures-and-full-immersion-media/"><u>2024 Approved  Comparing 360-Degree Captures and Full Immersion Media</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-12-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 12 Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplifying-into-a-single-source-for-phone-calls-with-unison-w11/"><u>Simplifying Into a Single Source for Phone Calls with Unison W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/success-reinstalling-microsofts-pc-manager-in-win8/"><u>Success! Reinstalling Microsoft's PC Manager in Win8</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-auditory-artifacts-essential-ringtone-archives-online/"><u>In 2024, Auditory Artifacts  Essential Ringtone Archives Online</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevating-your-instagram-presence-a-guide-to-smart-hashtag-use-for-2024/"><u>[Updated] Elevating Your Instagram Presence  A Guide to Smart Hashtag Use for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Steps to Rectify Preview Failures in Outlook for PCs
-date: 2024-06-25T12:18:51.140Z
-updated: 2024-06-26T12:18:51.140Z
+date: 2024-07-11T21:38:37.302Z
+updated: 2024-07-12T21:38:37.302Z
 tags:
   - windows10
   - windows11
@@ -22,13 +22,13 @@ thumbnail: https://thmb.techidaily.com/6dfe7c6db7f80e87ac6b399dc687e52e1d331efd7
 
 ## 1\. Install Relevant Apps to Preview Files
 
- Outlook may fail to preview attachments if the appropriate app for the file format is not installed on your PC. For instance, if you don’t have a[PDF reader app on your PC](https://www.makeuseof.com/tag/6-pdf-readers-windows/) , Outlook may display the “this file cannot be previewed because there is no previewer installed for it” error.
+ Outlook may fail to preview attachments if the appropriate app for the file format is not installed on your PC. For instance, if you don’t have a [PDF reader app on your PC](https://www.makeuseof.com/tag/6-pdf-readers-windows/) , Outlook may display the “this file cannot be previewed because there is no previewer installed for it” error.
 
  To avoid this, ensure that the appropriate app or software for the file format is available on your computer. After that, Outlook should be able to preview your files without any problems.
 
 ## 2\. Disable Preview Handler in PowerToys
 
- Using Microsoft PowerToys is an excellent way to[boost your productivity on Windows computers](https://www.makeuseof.com/set-up-windows-pc-maximum-productivity/) . However, these PowerToys utilities can sometimes interfere with app processes and prevent apps from working properly.
+ Using Microsoft PowerToys is an excellent way to [boost your productivity on Windows computers](https://www.makeuseof.com/set-up-windows-pc-maximum-productivity/) . However, these PowerToys utilities can sometimes interfere with app processes and prevent apps from working properly.
 
  Several users on the forums reported fixing Outlook’s “this file cannot be previewed” error by disabling the Preview Handler feature. You can also give this method a shot.
 
@@ -89,9 +89,9 @@ To delete Outlook cache data on Windows, use these steps:
 
 ## 7\. Modify Registry Files
 
- Incorrect[Windows Registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) settings could also cause such anomalies. If that's the case, you'll need to correct the Registry settings manually on your PC.
+ Incorrect [Windows Registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) settings could also cause such anomalies. If that's the case, you'll need to correct the Registry settings manually on your PC.
 
- Since Registry files contain important settings for Windows and its apps, you should only use this method if you’re familiar with editing Registry files. Also, it’s a good idea to back up all the Registry files before you proceed. If you need help with that, check our guide on[how to back up Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) and follow the steps outlined there.
+ Since Registry files contain important settings for Windows and its apps, you should only use this method if you’re familiar with editing Registry files. Also, it’s a good idea to back up all the Registry files before you proceed. If you need help with that, check our guide on [how to back up Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) and follow the steps outlined there.
 
 1. Press**Win + R** to open the Run dialog.
 2. Type**regedit** in the text box and press**Enter** .
@@ -146,3 +146,45 @@ To delete Outlook cache data on Windows, use these steps:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/exclusive-servers-for-romance-and-amusement-on-discord/"><u>Exclusive Servers for Romance and Amusement on Discord</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-dissonant-designs-mastering-on-a-mac/"><u>2024 Approved  Dissonant Designs  Mastering on a Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/winservicesexe-what-it-is-and-fixing-errors/"><u>Winservices.exe: What It Is and Fixing Errors</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-the-epic-list-10-must-see-tiktok-reactions/"><u>[Updated] In 2024, The Epic List  10 Must-See TikTok Reactions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/leading-mac-gif-editor-for-2024/"><u>Leading Mac GIF Editor for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-guide-unique-monitors-wallpapers-tips/"><u>Windows 11 Guide: Unique Monitors Wallpapers Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-ultimate-guide-best-cams-for-professional-streaming/"><u>[Updated] In 2024, The Ultimate Guide  Best Cams for Professional Streaming</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-how-to-create-video-with-music-for-free-for-2024/"><u>New How to Create Video with Music for FREE for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/winstorage-revival-guide-with-altwindirstat-insights/"><u>WinStorage Revival Guide with AltWinDirStat Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-user-interface-learn-window-tweaks-via-alomware/"><u>Enhance User Interface: Learn Window Tweaks via AlomWare</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-email-management-stick-a-new-icon-in-taskbar-border/"><u>Enhance Email Management: Stick a New Icon in Taskbar Border</u></a></li>
+<li><a href="https://windows11.techidaily.com/choosing-wisely-windows-terminal-as-your-primary-cli/"><u>Choosing Wisely: Windows Terminal as Your Primary CLI</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-comprehensive-guide-to-using-w11s-auto-hdr/"><u>A Comprehensive Guide to Using W11's Auto HDR</u></a></li>
+<li><a href="https://windows11.techidaily.com/decrypt-the-mystery-of-win11-blue-screen-with-11-hacks/"><u>Decrypt the Mystery of Win11 Blue Screen with 11 Hacks</u></a></li>
+<li><a href="https://windows11.techidaily.com/backtracking-your-pc-with-ease-using-system-restore/"><u>Backtracking Your PC with Ease Using System Restore</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719327094876-top-4-solutions-for-troubleshooting-full-screen-capture-issues-in-windows-snipping-tool/"><u>Top 4 Solutions for Troubleshooting Full-Screen Capture Issues in Windows Snipping Tool.</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-enhancing-your-social-presence-tweeting-to-facebook/"><u>[New] In 2024, Enhancing Your Social Presence  Tweeting to Facebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/zero-tolerance-to-error-e84-steam-fix-guide/"><u>Zero Tolerance to Error E84: Steam Fix Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/discover-the-best-8-mirrorless-cameras-that-transform-vlogging/"><u>Discover the Best  8 Mirrorless Cameras That Transform Vlogging</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-reddit-post-playbook-a-methodical-approach-to-engagement/"><u>2024 Approved  The Reddit Post Playbook  A Methodical Approach to Engagement</u></a></li>
+<li><a href="https://windows11.techidaily.com/brighten-up-a-step-by-step-guide-to-an-eye-catching-cursor/"><u>Brighten Up: A Step-by-Step Guide to an Eye-Catching Cursor</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-instagram-group-photography/"><u>2024 Approved  Mastering the Art of Instagram Group Photography</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-create-stunning-animations-with-these-ios-and-android-apps/"><u>Updated Create Stunning Animations with These iOS and Android Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719268966849-windows-users-save-your-keys-from-failure/"><u>Windows Users: Save Your Keys From Failure!</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-pen-pad-issues-on-windows-os/"><u>Troubleshooting: Pen Pad Issues on Windows OS</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-your-vfx-workflow-with-these-8-online-backdrop-banks/"><u>In 2024, Streamline Your VFX Workflow with These 8 Online Backdrop Banks</u></a></li>
+<li><a href="https://windows11.techidaily.com/biometric-betrayal-how-secure-is-your-windows-hello-lock/"><u>Biometric Betrayal: How Secure Is Your Windows Hello Lock?</u></a></li>
+<li><a href="https://windows11.techidaily.com/dont-relininas-chatbots-for-secure-authenticated-win-11-keys/"><u>Don't Relininas Chatbots for Secure, Authenticated Win 11 Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-grayed-out-memory-protection-in-win11-update/"><u>Fixing Grayed-Out Memory Protection in Win11 Update</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-next-gen-of-video-visionaries/"><u>[New] Next Gen of Video Visionaries</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-memory-management-understanding-and-flushing-cache/"><u>Windows Memory Management: Understanding and Flushing Cache</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-tasks-initiating-administrative-powershell-on-win11/"><u>Elevate Your Tasks: Initiating Administrative PowerShell on Win11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-7-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 7 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/unnoticeable-disk-usage-for-ws1110-users/"><u>Unnoticeable Disk Usage for WS11/10 Users</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-top-8-multi-subtitles-translators-you-can-use/"><u>2024 Approved Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/easing-into-windows-backup-restoration-procedures/"><u>Easing Into Windows Backup Restoration Procedures</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-video-editing-on-mac-vn-editor-and-other-top-picks/"><u>New In 2024, Video Editing on Mac VN Editor and Other Top Picks</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-access-denial-during-system-installation/"><u>Conquering Access Denial During System Installation</u></a></li>
+</ul></div>

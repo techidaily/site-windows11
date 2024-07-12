@@ -1,7 +1,7 @@
 ---
 title: Methods to Correct the Internal Error on Windows 11/11 Pro
-date: 2024-06-25T12:43:16.545Z
-updated: 2024-06-26T12:43:16.545Z
+date: 2024-07-11T22:06:53.044Z
+updated: 2024-07-12T22:06:53.044Z
 tags:
   - windows10
   - windows11
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/0132287bf7d51b07521a43a3870f625dc6e6364d7
 
  Some Remote Desktop Connection users have confirmed that selecting a**Reconnect if the connection is dropped** setting in that app can resolve this error. That simple potential resolution is certainly worth a try. You can select that**Reconnect** setting like this:
 
-1. Start the RDC app with a method in our[how-to open Remote Desktop Connection guide](http://www.makeuseof.com/windows-11-open-remote-desktop-connection/) .
+1. Start the RDC app with a method in our [how-to open Remote Desktop Connection guide](http://www.makeuseof.com/windows-11-open-remote-desktop-connection/) .
 2. Click**Show Options** to view RDC’s settings.  
 ![The Remote Desktop Connections app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/remote-desktop-connections.jpg)
 3. Select the**Experience** tab.  
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/0132287bf7d51b07521a43a3870f625dc6e6364d7
 
  If you’ve set a specific DNS server on your PC, change to an automatic DNS server instead. There could be an issue with the DNS server you’ve set. You can set an automatic DNS server like this:
 
-1. Open Run (press the**Win + R** hotkey or see[how to open Windows Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ) and enter**ncpa.cpl** in that command box.
+1. Open Run (press the**Win + R** hotkey or see [how to open Windows Run](https://www.makeuseof.com/windows-open-run-command-dialog-box/) ) and enter**ncpa.cpl** in that command box.
 2. Click**OK** to view the Network Connections applet.
 3. Right-click the internet connection to select its**Properties** context menu option.  
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/properties-option-1.jpg)
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/0132287bf7d51b07521a43a3870f625dc6e6364d7
 
  Group Policy includes a**Require use of specific security layer policy** setting. Enabling an RDP security layer with that policy might fix the “internal error has occurred” error for some users. To do so, set the**Require use of specific security layer** policy setting as follows:
 
-1. Open Local Group Policy Editor with a method in our guide on[how to launch gpedit.msc](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) guide. If you're using Windows Home, be sure to check out[how to access Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) first.
+1. Open Local Group Policy Editor with a method in our guide on [how to launch gpedit.msc](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) guide. If you're using Windows Home, be sure to check out [how to access Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) first.
 2. Next, you’ll need to double-click**Computer Configuration** \>**Administrative Templates** in the Group Policy’s sidebar.
 3. Double-click**Windows Components** \>**Remote Desktop Services** \>**Remote Desktop Session Host** in the console tree.
 4. Click**Security** to view its policy settings.
@@ -151,3 +151,53 @@ thumbnail: https://thmb.techidaily.com/0132287bf7d51b07521a43a3870f625dc6e6364d7
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-transforming-team-meeting-aesthetics-the-prepost-customization-angle/"><u>[New] 2024 Approved  Transforming Team Meeting Aesthetics  The Pre/Post Customization Angle</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-your-security-settings-on-windows-11/"><u>Tailoring Your Security Settings on Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-videotweeteraudio-quick-audio-extractor-for-2024/"><u>[Updated] VideoTweeterAudio  Quick Audio Extractor for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/defining-your-uniqueness-amongst-viral-tiktok-stars-for-2024/"><u>Defining Your Uniqueness Amongst Viral TikTok Stars for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-deleting-search-box-art-in-win/"><u>Strategies for Deleting Search Box Art in Win</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-initial-steps-to-instagram-video-discussion-success/"><u>2024 Approved  Initial Steps to Instagram Video Discussion Success</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-subtle-art-of-digital-etiquette-in-connection-requests/"><u>The Subtle Art of Digital Etiquette in Connection Requests</u></a></li>
+<li><a href="https://windows11.techidaily.com/peek-inside-windows-determining-your-computers-manufacturer/"><u>Peek Inside Windows: Determining Your Computer's Manufacturer</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-curtail-excessive-wmi-worker-use/"><u>Tips to Curtail Excessive WMI Worker Use</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-avoiding-common-hashtag-faux-pas-on-instagram-for-2024/"><u>[Updated] Avoiding Common Hashtag Faux Pas on Instagram for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-srt-to-sub-how-to-convert-srt-to-sub-with-3-actionable-ways/"><u>In 2024, SRT to SUB  How to Convert SRT to SUB with 3 Actionable Ways</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-shadowrunners-speed-up-your-bf2-experience/"><u>Seamless Shadowrunners: Speed up Your BF2 Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-steams-online-potential-on-pc/"><u>Unlocking Steam's Online Potential on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/overriding-default-no-notify-camera-behavior-in-ws11/"><u>Overriding Default No-Notify Camera Behavior in WS11</u></a></li>
+<li><a href="https://windows11.techidaily.com/precise-strategies-resetting-razers-system-integration/"><u>Precise Strategies: Resetting Razer's System Integration</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-overcoming-error-0x800700e1-in-windows-11-devices/"><u>Techniques for Overcoming Error 0X800700E1 in Windows 11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-network-failure-0x800704b3-in-windows-1011/"><u>Overcoming Network Failure 0X800704B3 in Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/revamp-desktop-by-removing-windows-11s-highlighted-icon/"><u>Revamp Desktop by Removing Windows 11'S Highlighted Icon</u></a></li>
+<li><a href="https://windows11.techidaily.com/process-to-undo-system-image-fault-0x80780119/"><u>Process to Undo System Image Fault: 0X80780119</u></a></li>
+<li><a href="https://windows11.techidaily.com/rapidly-access-apps-on-windows-11/"><u>Rapidly Access Apps on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-for-altering-file-deletion-alerts-in-win/"><u>Steps for Altering File Deletion Alerts in Win</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-video-perfection-top-5-free-apps-for-image-stabilization-on-android-for-2024/"><u>Updated Video Perfection Top 5 Free Apps for Image Stabilization on Android for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-into-safety-with-windows-canary-channel-feature/"><u>Step Into Safety with Windows' Canary Channel Feature</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tech-savvy-apps-for-artful-picture-presentation/"><u>2024 Approved  Top Tech-Savvy Apps for Artful Picture Presentation</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-how-long-does-it-take-to-edit-a-video-for-2024/"><u>New How Long Does It Take To Edit A Video for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-streamlining-sales-with-snapchats-marketing-features/"><u>In 2024, Streamlining Sales with Snapchat's Marketing Features</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-top-10-alternatives-of-facetime-on-android-for-2024/"><u>New Top 10 Alternatives of FaceTime on Android for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-resuscitating-dormant-connections-with-your-obs-cam/"><u>In 2024, Resuscitating Dormant Connections with Your OBS Cam</u></a></li>
+<li><a href="https://windows11.techidaily.com/strip-windows-11-of-the-store-application/"><u>Strip Windows 11 of the Store Application</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-imaginary-device-issue-in-win-11-os/"><u>Resolving Imaginary Device Issue in Win 11 OS</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-ultimate-guide-the-top-6-no-cost-web-accessible-mp3-from-tiktok-apps-6/"><u>[New] Ultimate Guide  The Top 6 No-Cost, Web Accessible MP3 From TikTok Apps (6)</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-google-chrome-to-full-color-in-windows/"><u>Restoring Google Chrome to Full Color in Windows</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-how-can-you-create-animated-facebook-ads-with-high-roi/"><u>[Updated] How Can You Create Animated Facebook Ads With High ROI?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-mastering-the-use-of-tags-for-maximum-reach/"><u>2024 Approved  YouTube  Mastering the Use of Tags for Maximum Reach</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-win1011-network-failure-code-0x800704b3/"><u>Resolving Win10/11 Network Failure: Code 0X800704B3</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-the-best-10-ai-video-analytics-companies-at-a-glance-for-2024/"><u>Updated The Best 10 AI Video Analytics Companies at a Glance for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconnecting-mic-during-windows-powerpoint-screencast/"><u>Reconnecting Mic During Windows PowerPoint Screencast</u></a></li>
+<li><a href="https://windows11.techidaily.com/revitalizing-your-stalled-windows-11-mobile-network-connection/"><u>Revitalizing Your Stalled Windows 11 Mobile Network Connection</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-earnings-guide-policy-overhaul-explained/"><u>[New] YouTube Earnings Guide  Policy Overhaul Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-your-pc-clear-tpm-from-windows-11/"><u>Revolutionize Your PC: Clear TPM From Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-picpinch-recorder-assessment-and-comments/"><u>[Updated] In 2024, PicPinch Recorder Assessment & Comments</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-firmware-enhancement-for-surface-devices/"><u>Seamless Firmware Enhancement for Surface Devices</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-discover-the-leading-10-plugins-to-enhance-discord-usage/"><u>2024 Approved  Discover the Leading 10 Plugins to Enhance Discord Usage</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-rpc-errors-on-windows-os/"><u>Quick Fixes for RPC Errors on Windows OS</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/childhood-learning-leader-mondly-kids-honored-2017/"><u>Childhood Learning Leader: Mondly Kids Honored 2017</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-mastering-the-art-of-sandbox-gaming/"><u>[New] 2024 Approved  Mastering the Art of Sandbox Gaming</u></a></li>
+</ul></div>

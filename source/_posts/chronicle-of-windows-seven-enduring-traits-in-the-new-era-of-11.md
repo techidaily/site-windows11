@@ -1,7 +1,7 @@
 ---
 title: "Chronicle of Windows: Seven Enduring Traits in the New Era of 11"
-date: 2024-06-25T12:02:46.015Z
-updated: 2024-06-26T12:02:46.015Z
+date: 2024-07-11T21:20:03.333Z
+updated: 2024-07-12T21:20:03.333Z
 tags:
   - windows10
   - windows11
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
  With Windows 11, Microsoft finally moved to combine Command Prompt with PowerShell. This new all-in-one Windows terminal tool is now the default when trying to run Command Prompt in the latest versions of the OS. Even so, the old Command Prompt remains and can still be used if you change a few settings in the Windows Terminal.
 
- Check out our[beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) to learn more about how to use this old, but venerable tool.
+ Check out our [beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) to learn more about how to use this old, but venerable tool.
 
 ## 2\. The Run Dialog
 
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
  It could originally also be accessed through a link in the Start Menu. This, and a more modern style, are practically the only things that have changed. The Run Dialog was and still is a very useful tool for Windows users.
 
- Be sure to check out the[essential Windows Run commands](https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/) for tips on how to use this tool.
+ Be sure to check out the [essential Windows Run commands](https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/) for tips on how to use this tool.
 
 ## 3\. Disk Management
 
@@ -46,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
  The ability to be able to manage your storage volumes and partitions has long been an important one in Windows. Even more so with the varied, and arguably more complex, storage options available today. So why Disk Management looks almost identical to the version in Windows 2000 is a bit puzzling.
 
- There are several powerful[Windows partition management tools](https://www.makeuseof.com/windows-disk-management-tools-changer-hdd/) available, such as those from EaseUS, that also look great. There is no immediately apparent reason why Microsoft has not improved the look and function of this essential tool in Windows 11\. Or even in Windows 10\. Of all the features in this list, Disk Management is the one that needs an overhaul the most.
+ There are several powerful [Windows partition management tools](https://www.makeuseof.com/windows-disk-management-tools-changer-hdd/) available, such as those from EaseUS, that also look great. There is no immediately apparent reason why Microsoft has not improved the look and function of this essential tool in Windows 11\. Or even in Windows 10\. Of all the features in this list, Disk Management is the one that needs an overhaul the most.
 
 ## 4\. The Control Panel
 
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
  Leaving this kind of legacy utility in Windows 11 seems to go against the push toward uniformity in the OS. Especially when it has been completely replaced in Settings.
 
- If you're running out of storage on your Windows computer, check out[how to free up some space on Windows 11](https://www.makeuseof.com/windows-11-free-up-storage-space/) .
+ If you're running out of storage on your Windows computer, check out [how to free up some space on Windows 11](https://www.makeuseof.com/windows-11-free-up-storage-space/) .
 
 ## 6\. The Character Map
 
@@ -107,3 +107,55 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/altering-windows-service-for-installation-controls/"><u>Altering Windows Service for Installation Controls</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719369938575-run-a-free-locally-stored-gpt-on-your-pc-with-gpt4all/"><u>Run a Free, Locally-Stored GPT on Your PC with GPT4All.</u></a></li>
+<li><a href="https://windows11.techidaily.com/8-ways-to-fix-the-windows-pin-not-working-in-windows-11-and-11/"><u>8 Ways to Fix the Windows PIN Not Working in Windows 11 & 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-20-free-public-domain-pubg-screenshot-slideshows/"><u>Top 20 Free Public Domain PUBG Screenshot Slideshows</u></a></li>
+<li><a href="https://windows11.techidaily.com/automation-made-simple-windows-task-scheduler-batch/"><u>Automation Made Simple: Windows Task Scheduler Batch</u></a></li>
+<li><a href="https://windows11.techidaily.com/8-essential-steps-to-bring-back-lost-windows-files/"><u>8 Essential Steps to Bring Back Lost Windows Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/bootable-windows-11-flashdrive-top-3-efficient-techniques/"><u>Bootable Windows 11 Flashdrive: Top 3 Efficient Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-efficiency-best-keys-for-auto-clicking/"><u>Boost Efficiency: Best Keys for Auto Clicking</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-silencing-windows-11-alerts-benefits-unveiled/"><u>Avoid Silencing Windows 11 Alerts: Benefits Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/activating-prints-with-microsofts-edge-shield-windows-11/"><u>Activating Prints with Microsoft's Edge Shield (Windows 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-win11-boot-time-quick-tips-for-speedier-launches/"><u>Boosting Win11 Boot Time: Quick Tips for Speedier Launches</u></a></li>
+<li><a href="https://windows11.techidaily.com/accessing-the-internet-without-a-browser-post-setup/"><u>Accessing the Internet Without a Browser Post-Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/banish-os-requirement-warning-labels-in-windows-11/"><u>Banish OS Requirement Warning Labels in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/begin-your-media-adventure-windows-media-player/"><u>Begin Your Media Adventure: Windows Media Player</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-life-to-windows-11-desktops-with-interactive-wallpapers/"><u>Bring Life to Windows 11 Desktops with Interactive Wallpapers</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerate-win-valorant-loading-times-quickly/"><u>Accelerate Win-Valorant Loading Times Quickly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-new-year-new-filmmaking-action-cam-buyers-guide-23/"><u>[New] 2024 Approved  New Year, New Filmmaking  Action Cam Buyers Guide '23</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypass-windows-11-pc-life-hacks-for-older-systems/"><u>Bypass Windows 11: PC Life Hacks for Older Systems</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-techniques-to-silence-audio-streams-from-new-mkv-file-versions/"><u>Updated In 2024, Techniques to Silence Audio Streams From New MKV File Versions</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-tips-for-adding-sound-in-snipping-tool-recordings-max-156/"><u>Advanced Tips for Adding Sound in Snipping Tool Recordings (Max 156)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-first-steps-into-filmmaking-the-ultimate-guide-for-making-your-first-10-youtube-videos/"><u>[New] 2024 Approved  First Steps Into Filmmaking  The Ultimate Guide for Making Your First 10 YouTube Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/camouflage-linguistic-separator-on-win11-status-bar/"><u>Camouflage Linguistic Separator on Win11 Status Bar</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-expert-tips-for-capturing-and-saving-igtv-on-handhrani/"><u>In 2024, Expert Tips for Capturing and Saving IGTV on Handhrani</u></a></li>
+<li><a href="https://windows11.techidaily.com/accessing-control-panel-with-ease-on-pcs/"><u>Accessing Control Panel with Ease on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/adapting-oculus-quest-3-for-windows-os-vr-environment/"><u>Adapting Oculus Quest 3 for Windows OS VR Environment</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-professional-gamers-showcase-live-recording-in-obs/"><u>[New] In 2024, Professional Gamers Showcase - Live Recording in OBS</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-guide-to-overcoming-windows-resolution-riddles/"><u>A Guide to Overcoming Windows Resolution Riddles</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-x100-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo X100 Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-next-level-vfx-gear-for-the-eco-savvy/"><u>[New] In 2024, Next-Level VFX Gear for the Eco-Savvy</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-blunders-fix-windows-color-management-fiascos/"><u>Bypassing Blunders: Fix Windows Color Management Fiascos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/twitch-triumph-or-hitbox-heritage-in-2024/"><u>Twitch Triumph or Hitbox Heritage, In 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/beginners-blueprint-to-conquering-diablo/"><u>Beginner’s Blueprint to Conquering Diablo</u></a></li>
+<li><a href="https://windows11.techidaily.com/aoemi-made-simple-unifying-dual-window-desktops/"><u>AOEMi Made Simple: Unifying Dual Window Desktops</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-failures-fixing-vagrant-boot-problems-win11/"><u>Bypassing Failures: Fixing Vagrant Boot Problems Win11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-subtlety-in-volume-the-ableton-way/"><u>In 2024, Subtlety in Volume  The Ableton Way</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-15-essential-gopro-accessories-for-newbies/"><u>[Updated] Top 15 Essential GoPro Accessories for Newbies</u></a></li>
+<li><a href="https://windows11.techidaily.com/8-essential-fixes-for-resistant-windows-pin-locks/"><u>8 Essential Fixes for Resistant Windows PIN Locks</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-why-obs-wont-start-on-your-pc/"><u>Breaking Down Why OBS Won't Start on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/alter-ip-settings-with-confidence-windows-11/"><u>Alter IP Settings with Confidence (Windows 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/backup-your-cortana-data-for-future-reference-windows/"><u>Backup Your Cortana Data for Future Reference (Windows)</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-win-1011s-xc0f1103f-with-geforce-error/"><u>Addressing Win 10/11'S XC0F1103F with GeForce Error</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-finding-the-best-gif-websites-was-never-easier/"><u>2024 Approved Finding the Best GIF Websites Was Never Easier</u></a></li>
+<li><a href="https://windows11.techidaily.com/banish-the-blues-of-a-non-opening-notepad-streamlined-fixes-for-windows-pcs/"><u>Banish the Blues of a Non-Opening Notepad: Streamlined Fixes for Windows PCs</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-motorola-g24-power-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Motorola G24 Power Phone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-brisk-tutorial-transforming-photos-into-youtube-desktop-thumbnails/"><u>[Updated] Brisk Tutorial  Transforming Photos Into YouTube Desktop Thumbnails</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/becoming-a-pro-at-using-igtv-for-business-and-personal-growth-for-2024/"><u>Becoming a Pro at Using IGTV for Business and Personal Growth for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-metric-monitoring-of-wifi-networks-via-win11-settings/"><u>Adjusting Metric Monitoring of Wifi Networks via Win11 Settings</u></a></li>
+</ul></div>

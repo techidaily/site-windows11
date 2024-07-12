@@ -1,7 +1,7 @@
 ---
 title: Eliminate LoadLibrary Error 87 Misconfiguration
-date: 2024-06-25T12:12:50.907Z
-updated: 2024-06-26T12:12:50.907Z
+date: 2024-07-11T21:31:41.237Z
+updated: 2024-07-12T21:31:41.237Z
 tags:
   - windows10
   - windows11
@@ -34,13 +34,13 @@ thumbnail: https://thmb.techidaily.com/e7c07b94a0d6b31286cb181ffa8593e2e10d02155
 
  If you have a fresh Windows install or using a new system, your computer may be missing the necessary driver for the display adapter. This may cause your display adapter to malfunction and stop working.
 
- To fix the issue, check and[update your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) . If you have a dedicated GPU, use the GPU management tool from the manufacturer to download the update. You can also download the newer updates from the GPU manufacturer’s website.
+ To fix the issue, check and [update your graphics drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) . If you have a dedicated GPU, use the GPU management tool from the manufacturer to download the update. You can also download the newer updates from the GPU manufacturer’s website.
 
 ## 3\. Perform a Driver Roll Back
 
  This error is often due to the issue with your display adapter and mainly with the AMD machines. If the error is triggered after a recent driver or OS update, check if your graphics device has received a newer update. If so, you can perform a driver rollback to reinstall the older driver.
 
- You can[perform a driver rollback using Device Manager](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) . This should work irrespective of the Windows version you are running. However, if the rollback driver option is greyed out, it means Windows doesn’t have an older version that you can go back to and reinstall.
+ You can [perform a driver rollback using Device Manager](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) . This should work irrespective of the Windows version you are running. However, if the rollback driver option is greyed out, it means Windows doesn’t have an older version that you can go back to and reinstall.
 
 ## 4\. Uninstall and Reinstall the Graphics Drivers
 
@@ -57,7 +57,7 @@ To uninstall a display adapter driver:
 5. Select**Attempt to remove the driver for this device** option and click**Uninstall** .
 6. Once done, restart your PC.
 
- You can now reinstall the driver from the GPU manufacturer’s website. If the issue persists, check if the GPU drive is completely removed. If not, you can[use Display Driver Uninstall to completely remove GPU drivers](https://www.makeuseof.com/how-to-cleanly-install-and-reinstall-gpu-drivers-on-windows/) .
+ You can now reinstall the driver from the GPU manufacturer’s website. If the issue persists, check if the GPU drive is completely removed. If not, you can [use Display Driver Uninstall to completely remove GPU drivers](https://www.makeuseof.com/how-to-cleanly-install-and-reinstall-gpu-drivers-on-windows/) .
 
 ## 5\. Rename the atig6pxx.dll File
 
@@ -78,7 +78,7 @@ To rename the atig6pxx.dll file:
 
 To take ownership of the atig6pxx.dll file using Command Prompt
 
-1. Boot into Safe Mode (see[how to boot into Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/) ).
+1. Boot into Safe Mode (see [how to boot into Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/) ).
 2. Once in the safe mode, press the**Win** key and type**cmd** .
 3. Right-click on**Command Prompt** and select**Run as administrator.**
 4. In the Command Prompt window, type the following command to change to the System32 directory: cd \\Windows\\System32
@@ -139,3 +139,59 @@ To uninstall the app:
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/stepwise-strategy-for-full-removal-of-wsl-on-windows-11/"><u>Stepwise Strategy for Full Removal of WSL on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-failed-video-drivers-in-win1110/"><u>Correcting Failed Video Drivers in Win11/10</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-best-mobile-app-dev-editing-systems/"><u>In 2024, Best Mobile App Dev Editing Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-forth-the-forgotten-floppy-drive-sdds-in-winos/"><u>Bring Forth the Forgotten Floppy Drive, SDDs in WinOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-recovery-overcoming-black-screen-issues-in-wins/"><u>Swift Recovery: Overcoming Black-Screen Issues in Wins</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-practical-guide-to-running-ping-efficiently-on-pcs/"><u>A Practical Guide to Running Ping Efficiently on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-windows-update-issue-the-0x800736cc-method/"><u>Bypassing Windows Update Issue: The 0X800736CC Method</u></a></li>
+<li><a href="https://windows11.techidaily.com/upgrade-your-win11s-connectivity-with-these-high-priority-solutions/"><u>Upgrade Your Win11's Connectivity with These High-Priority Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/taskbar-timeline-microsofts-ui-evolution/"><u>Taskbar Timeline: Microsoft's UI Evolution</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-disconnect-untrusted-users-from-windows-11/"><u>Techniques to Disconnect Untrusted Users From Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-oppo-a78-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Oppo A78 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-11s-registry-a-guide-to-its-components/"><u>Unveiling Windows 11'S Registry: A Guide to Its Components</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-resolving-unresponsiveness-in-your-windows-downloads-hub/"><u>Tips for Resolving Unresponsiveness in Your Windows Downloads Hub</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-subtitle-editors-for-mac-alternatives-to-subtitle-edit/"><u>Top Subtitle Editors for Mac Alternatives to Subtitle Edit</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prospective-cameras-to-document-2024s-music-industry-evolution/"><u>[New] Prospective Cameras to Document 2024'S Music Industry Evolution</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-top-9-steps-for-efficient-volume-management-in-windows-11/"><u>Discover Top 9 Steps for Efficient Volume Management in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/speeding-up-typing-typingaids-expertise/"><u>Speeding Up Typing: TypingAid's Expertise</u></a></li>
+<li><a href="https://windows11.techidaily.com/verify-the-validity-three-ways-to-check-windows-11/"><u>Verify the Validity: Three Ways to Check Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unfolding-wxpxo11-dilemnas-fixes-for-non-openable-folders-after-double-clicks/"><u>Unfolding WXP/XO11 Dilemnas: Fixes for Non-Openable Folders After Double-Clicks</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-windows-activation-flaw-error-0x803f700f/"><u>Remedying Windows Activation Flaw: Error 0X803F700F</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-integration-effortlessly-managing-tabs-in-windows-11/"><u>Seamless Integration: Effortlessly Managing Tabs in Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-best-aviation-start-syma-x5c-reviewed-for-droning-beginners/"><u>In 2024, The Best Aviation Start  Syma X5C Reviewed for Droning Beginners</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/leading-audio-to-text-online-solutions/"><u>Leading Audio-to-Text Online Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-unstartable-windows-vms-with-vmware/"><u>Solutions for Unstartable Windows VMs with VMware</u></a></li>
+<li><a href="https://windows11.techidaily.com/configuring-an-everlasting-bin-for-deletion-in-the-windows-interface/"><u>Configuring an Everlasting Bin for Deletion in the Windows Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-the-root-of-windows-update-problems-0xc1900101/"><u>Eliminating the Root of Windows Update Problems (0xC1900101)</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-forgotten-windows-add-ons-and-utilities-in-7-ways/"><u>Enabling Forgotten Windows Add-Ons and Utilities in 7 Ways</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-the-stalled-windows-system-insight/"><u>Troubleshooting the Stalled Windows System Insight</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-system-appearance-with-custom-pointer-design/"><u>Enhancing System Appearance with Custom Pointer Design</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-hidden-dangers-in-bot-made-win-11-codes/"><u>The Hidden Dangers in Bot-Made Win 11 Codes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-critics-choice-best-5-web-recording-applications/"><u>[New] Critics' Choice  Best 5 Web Recording Applications</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-for-no-sound-when-screencasting-with-powerpoint/"><u>Troubleshooting for No Sound when Screencasting with PowerPoint</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-failed-zip-file-extraction-in-windows-11/"><u>Troubleshooting Failed: Zip File Extraction in Windows 11</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-breathtaking-4k-the-most-stunning-video-clips-you-need-to-see/"><u>New In 2024, Breathtaking 4K The Most Stunning Video Clips You Need to See</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-error-0x00000709-in-windows/"><u>Addressing Error 0X00000709 in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-file-sorting-empowering-checkbox-selection-in-win11/"><u>Advanced File Sorting: Empowering Checkbox Selection in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-techniques-for-launching-programs-in-windows/"><u>Cutting-Edge Techniques for Launching Programs in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-printer-busy-errors-on-pcs/"><u>Troubleshooting Printer Busy Errors on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-windows-watcher-functionality/"><u>Disabling Windows Watcher Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/reverting-back-to-legacy-window-explorer/"><u>Reverting Back to Legacy Window Explorer</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-kali-installation-guide-for-windows-users/"><u>Effortless Kali Installation Guide for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-shortcut-pathways-for-windows-starters/"><u>The Shortcut Pathways for Windows Starters</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionizing-ui-adding-cli-functionality-to-taskmgr-in-win11/"><u>Revolutionizing UI: Adding CLI Functionality to TaskMgr in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/bridging-the-gap-activating-linux-support-in-windows/"><u>Bridging the Gap: Activating Linux Support in Windows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-insiders-look-at-optimizing-youtube-video-audio/"><u>[Updated] In 2024, The Insider’s Look at Optimizing YouTube Video Audio</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-maximizing-your-earnings-how-to-monetize-facebook-videos-successfully/"><u>2024 Approved  Maximizing Your Earnings  How to Monetize Facebook Videos Successfully</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-bluescreenviews-purpose/"><u>Decoding BlueScreenView's Purpose</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-techniques-boosting-your-virtual-memory-in-windows-11/"><u>The Essential Techniques: Boosting Your Virtual Memory in Windows 11</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>Additional Tips About Sinnoh Stone For Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-strategy-enhancing-hard-drive-performance/"><u>Win11 Strategy: Enhancing Hard Drive Performance</u></a></li>
+</ul></div>

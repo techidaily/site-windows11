@@ -1,7 +1,7 @@
 ---
 title: Steps to Restore Fn Key Brighness in Windows 11
-date: 2024-06-25T12:23:25.870Z
-updated: 2024-06-26T12:23:25.870Z
+date: 2024-07-11T21:43:54.476Z
+updated: 2024-07-12T21:43:54.476Z
 tags:
   - windows10
   - windows11
@@ -24,13 +24,13 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
 
  Keyboard issues can sometimes be fixed with a simple restart. Restarting your computer will reset the keyboard settings and may make the brightness key work again.
 
- If you need, then open this guide and learn[different methods of restarting your Windows computer](https://www.makeuseof.com/windows-restart-methods/) .
+ If you need, then open this guide and learn [different methods of restarting your Windows computer](https://www.makeuseof.com/windows-restart-methods/) .
 
 ## 2\. Clean Your Keyboard to Remove Dirt and Grime
 
  Over time, dirt and debris can build up on and between the keys of your keyboard. This especially happens if you use your laptop in a dusty environment. Cleaning the keys can make them more responsive and help fix any problem with the brightness function key not working.
 
- If you don't know exactly how to clean the keyboard, you can see our guide on[how to clean your keyboard and sterilize viruses and bacteria](https://www.makeuseof.com/tag/how-to-clean-keyboard/) . You can also read[a simple trick for cleaning under your keyboard's keys](https://www.makeuseof.com/tag/a-simple-trick-for-cleaning-under-your-keyboards-keys/) .
+ If you don't know exactly how to clean the keyboard, you can see our guide on [how to clean your keyboard and sterilize viruses and bacteria](https://www.makeuseof.com/tag/how-to-clean-keyboard/) . You can also read [a simple trick for cleaning under your keyboard's keys](https://www.makeuseof.com/tag/a-simple-trick-for-cleaning-under-your-keyboards-keys/) .
 
 ## 3\. Make Sure the Function Key Is Enabled
 
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
 
  The Hardware and Devices Troubleshooter is the next step to try if the above solutions weren't enough. This tool can detect and fix any hardware and device issues on your computer, including the problem with the keyboard. To run the troubleshooter, do the following:
 
-1. Open the Command Prompt window with admin access. If you need help, see our guide on[how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
+1. Open the Command Prompt window with admin access. If you need help, see our guide on [how to run the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-the-hardware-and-devices-troubleshooter.jpg)
 2. Once you're in the Command Prompt window, type and execute the command below:  
 `msdt.exe -id DeviceDiagnostic`
@@ -102,9 +102,9 @@ Now check if your keyboard is working properly.
 
  If you downloaded any suspicious file or program, then the chances are that your keyboard is experiencing interference due to malware, spyware, or other malicious programs.
 
- To make sure it isn't the case, you can[check if a file is infected with a virus or not](https://www.makeuseof.com/check-suspicious-file-malware/) . In case you find one, you need to[scan your computer for viruses and then remove them](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/) .
+ To make sure it isn't the case, you can [check if a file is infected with a virus or not](https://www.makeuseof.com/check-suspicious-file-malware/) . In case you find one, you need to [scan your computer for viruses and then remove them](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/) .
 
- If you are more comfortable with command line tools, then[use Windows PowerShell to scan and remove any malicious components](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) from your system.
+ If you are more comfortable with command line tools, then [use Windows PowerShell to scan and remove any malicious components](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) from your system.
 
  This should help you fix the issue of your keyboard not functioning properly.
 
@@ -135,3 +135,53 @@ Now check if your keyboard is working properly.
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/taming-high-cpu-in-your-host-system/"><u>Taming High CPU in Your Host System</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-to-reduce-high-wmi-cpu-consumption/"><u>Solutions to Reduce High WMI CPU Consumption</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-macs-premier-6-video-cutting-tools-big-sur/"><u>[New] Mac's Premier 6 Video Cutting Tools (Big Sur)</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-and-edge-background-runs-how-to-control/"><u>Win11 and Edge Background Runs - How to Control</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-implementing-youtube-video-automatic-start-on-facebook/"><u>[New] 2024 Approved  Implementing Youtube Video Automatic Start on Facebook</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-aerial-choreography-the-fresh-take-on-bebops-parrot/"><u>[New] Aerial Choreography – The Fresh Take on Bebop's Parrot</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-access-to-disabled-windows-apps/"><u>Restoring Access to Disabled Windows Apps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-maximize-storage-essential-xbox-drive-picks-reviewed/"><u>2024 Approved  Maximize Storage  Essential Xbox Drive Picks Reviewed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revealing-gone-reddit-content-a-time-savers-guide/"><u>2024 Approved  Revealing Gone-Reddit Content  A Time Saver's Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-mending-non-responsive-windows-network/"><u>Strategies for Mending Non-Responsive Windows Network</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transforming-images-with-dynamic-mosaic-designs-for-2024/"><u>Transforming Images with Dynamic Mosaic Designs for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-capture-joy-best-twitter-gif-saving-toolkit-2024-edition/"><u>[Updated] Capture Joy  Best Twitter GIF Saving Toolkit - 2024 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-black-screens-with-simple-win11-tweaks/"><u>Resolving Black Screens with Simple Win11 Tweaks</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-from-iphone-13-mini-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code From iPhone 13 mini</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-unraveling-failed-system-call-issues-in-win1011/"><u>Steps to Unraveling 'Failed System Call' Issues in Win10/11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/steps-to-cure-intermittent-obs-frames/"><u>Steps to Cure Intermittent OBS Frames</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-visual-comfort-notebook-themes-and-fonts-in-windows-11/"><u>Tailoring Visual Comfort: Notebook Themes and Fonts in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-unable-to-connect-error-with-malwarebytes-in-windows/"><u>Resolving Unable to Connect Error with Malwarebytes in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-package-not-registered-image-glitches-in-win11/"><u>Unraveling 'Package Not Registered' Image Glitches in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/three-strategies-to-redo-windows-11-user-preferences/"><u>Three Strategies to Redo Windows 11 User Preferences</u></a></li>
+<li><a href="https://windows11.techidaily.com/which-browser-takes-up-less-memory-and-cpu-on-windows-macos/"><u>Which Browser Takes Up Less Memory and CPU On Windows, macOS?</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-11s-hidden-calendar-and-email-fixes/"><u>Unveiling Windows 11'S Hidden Calendar & Email Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-complex-windows-partition-unification/"><u>The Ultimate Guide to Complex Windows Partition Unification</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-unveiling-top-win11-videography-software-selections/"><u>[Updated] In 2024, Unveiling Top Win11 Videography Software Selections</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-storage-type-ssd-vs-hdd/"><u>Unveiling Storage Type: SSD vs HDD</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/diagnose-and-cure-win10-print-spooler-hiccups/"><u>Diagnose & Cure WIN10 Print Spooler Hiccups</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-master-the-art-of-cutting-a-video-editors-handbook-for-instagram/"><u>[Updated] In 2024, Master the Art of Cutting  A Video Editor's Handbook for Instagram</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-the-ultimate-collection-of-7-free-sound-effects-that-elevate-your-projects/"><u>2024 Approved The Ultimate Collection of 7 Free Sound Effects That Elevate Your Projects</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-methods-to-enhance-utorrent-download-speed-win-edition/"><u>Top Methods to Enhance uTorrent Download Speed, WIN Edition</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-apple-iphone-xs-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>Change Location on Yik Yak For your Apple iPhone XS to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-8-best-daw-for-hip-hop-music-production/"><u>In 2024, 8 Best DAW for Hip-Hop Music Production</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagining-fn-key-usage-within-windows-11-platform/"><u>Reimagining FN Key Usage Within Windows 11 Platform</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-9-gif-recipes-for-capturing-windows-graphics-fun/"><u>Essential 9 GIF Recipes for Capturing Windows Graphics Fun</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-address-systemsettings-errors-in-windows-11/"><u>Steps to Address SystemSettings Errors in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/stepwise-guide-to-deploying-themes-from-microsoft-store/"><u>Stepwise Guide to Deploying Themes From Microsoft Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-solo-side-windows-earbud-sound-problems/"><u>Resolving Solo Side Windows Earbud Sound Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-tips-avoiding-discords-auto-start-and-update-checks/"><u>Windows Tips: Avoiding Discord's Auto-Start & Update Checks</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-mend-windows-network-proxy-errors/"><u>Steps to Mend Windows Network Proxy Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-your-touch-to-the-world-of-win11-keybindings/"><u>Tailoring Your Touch to the World of Win11 Keybindings</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-erase-no-server-errors-in-pc-apex-legends-(156-chars/"><u>Strategies To Erase No-Server Errors in PC Apex Legends (<156 Chars)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-discover-funimate-games-with-a-single-apk-install-for-2024/"><u>[Updated] Discover Funimate Games with a Single APK Install for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-compreenhensive-guide-to-selecting-and-cultivating-valheim-seeds/"><u>[Updated] In 2024, Compreenhensive Guide to Selecting & Cultivating Valheim Seeds</u></a></li>
+<li><a href="https://windows11.techidaily.com/regain-usb-connectivity-in-windows-os-amidst-issues/"><u>Regain USB Connectivity in Windows OS Amidst Issues</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-ultimate-checklist-for-instagram-selfies-for-2024/"><u>[New] The Ultimate Checklist for Instagram Selfies for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-bite-sized-global-cuisines-on-tiktok/"><u>[Updated] Bite-Sized Global Cuisines on TikTok</u></a></li>
+</ul></div>

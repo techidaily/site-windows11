@@ -1,0 +1,184 @@
+---
+title: Conquering Frequent AnyDesk Windows Complications
+date: 2024-07-11T22:20:54.281Z
+updated: 2024-07-12T22:20:54.281Z
+tags:
+  - windows10
+  - windows11
+categories:
+  - os
+  - windows 11
+description: This Article Describes Conquering Frequent AnyDesk Windows Complications
+excerpt: This Article Describes Conquering Frequent AnyDesk Windows Complications
+keywords: DeskAnyApp Fix,UnblockDesktop,ResolveAnyDeskIssue,OvercomeDesktopErrors,ClearAnyDeskWindows,StopDeskFreezes,EaseDesktopTrouble
+thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73ee1b460d4fca7fb954d5641.jpg
+---
+
+## Conquering Frequent AnyDesk Windows Complications
+
+ AnyDesk is a popular tool for accessing remote desktops with a significant user base. Although it generally runs seamlessly, occasional issues can crop up.
+
+ Many users have reported frustrating errors, from connectivity problems to random shutdowns or even system crashes in severe cases.
+
+ With that in mind, we've rounded up some common Windows AnyDesk errors and provided some simple fixes to help you.
+
+## 1\. Cannot Connect to or Disconnect From the AnyDesk Network
+
+ Due to a poor internet connection, you might encounter issues in using AnyDesk. And believe it or not, connectivity problems generally occur due to multiple reasons. For example, a weak network signal, server downtime, or when your computer's time is not in sync with the internet time.
+
+ Whatever the reason, you can fix them all quickly. Below are some common methods to fix connectivity issues related to AnyDesk:
+
+* **Weak network connection:** We have a dedicated guide that will help you [fix any internet issues on Windows](https://www.makeuseof.com/tag/no-internet-access-fix-windows/) .
+* **AnyDesk server is down:** If you feel that the AnyDesk server is down, you cannot do anything other than wait for the developers to fix it. To ensure your guess is correct, visit the [AnyDesk Status page](https://status.anydesk.com/) and see whether its servers are operational.
+* **Time not in sync:** If the time and date on your Windows PC are incorrect, you may see various issues while browsing and accessing the internet. To fix this, you need to [sync the Windows time properly](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) .
+
+## 2\. The Connection Was Forcibly Closed
+
+ This AnyDesk error shows that something is wrong with your computer's firewall configuration. If the connection is breaking most of the time automatically, you need to check your firewall settings.
+
+ You don't need to worry about the steps, as it is pretty easy for a newbie. Here's how you can allow AnyDesk to bypass the Windows firewall:
+
+1. Open Windows search by pressing**Win + Q** .
+2. Type**Allow an app through Windows Firewall** and click the best match.  
+![Windows Search Bar Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-search-bar-preview.jpg)
+3. Click the**Change settings** button to allow the firewall to modify the settings.  
+![Allowed Apps Window Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allowed-apps-window-overview.jpg)
+4. Find**AnyDesk** in the**Allowed apps and features** list. Toggle the**Private** as well as the**Public** checkbox next to AnyDesk.  
+![AnyDesk In Allowed Apps Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/anydesk-in-allowed-apps-window.jpg)
+5. Once done, click**OK** to allow AnyDesk to pass through the firewall without any restrictions.
+
+ By default, Windows never lets any program connect to the internet (without passing via a firewall). This ensures that hackers' attempts to remotely spread malware to your computer are minimized.
+
+ Besides the firewall, check the [bandwidth limitations or restrictions](https://www.makeuseof.com/tag/tools-limit-bandwidth/) that could be causing the issue.
+
+## 3\. Blank Screen During a Remote Session
+
+ When using AnyDesk, you may encounter issues where the remote screen appears blank (white) or black.
+
+ Note that this issue arises because of two things only: display settings on the remote computer and outdated graphics drivers.
+
+ Now that you know the root cause of the blank screen, read the below ways to fix it:
+
+### 1\. Fix Display Settings on Remote Computer
+
+ First, check the display settings in AnyDesk and ensure you've configured that correctly.
+
+Here's how to access the display settings in AnyDesk:
+
+1. Open AnyDesk and click the hamburger menu located in the top-right corner.
+2. Click**Settings** to open the**AnyDesk Settings** window.  
+![AnyDesk Windows Version Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/anydesk-windows-version-overview.jpg)
+3. On the**Settings** window, select**Display** .
+4. Adjust the**Quality and View Mode** as per your needs to optimize the remote viewing experience. In addition, select the**Balance between quality & reaction time** option when working with a slow internet connection.  
+![AnyDesk Display Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/anydesk-display-settings.jpg)
+5. Under**Hardware Acceleration** , choose**OpenGL** .
+6. Close AnyDesk and re-open it.
+
+ You can now reconnect to the remote computer and check whether the blank display issue is fixed.
+
+### 2\. Update an Outdated Graphics Driver
+
+ Are you one of those who frequently update their Windows PC with the latest version? Great! But aside from that, keeping your graphics driver updated is equally important.
+
+ An outdated graphics driver may lead to performance issues and, worse, system crashes.
+
+ Need to learn more about updating a graphics driver? Don't worry; check out our guide on [how to update your Windows graphics driver](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) . With an updated graphics driver, you can not only avoid display issues, but also enhance your remote viewing experience.
+
+## 4\. Could Not Log Into the Remote Computer
+
+ Isn't it frustrating when you've got everything set up correctly but still get the "Could not login" error? Note that this error may occur because of a fault on the remote computer's end. So, you can't do anything magical from your side.
+
+ If you are eager to connect to a remote computer, it goes without saying that the remote computer must be active, and AnyDesk’s window must be open. Besides, the remote computer must have access to the internet.
+
+ But that's not all! Even if everything is perfect on both sides, if the remote computer rejects the connection request, you can never log in to it.
+
+So, what's the solution?
+
+ Firstly, ensure you're entering the correct address for the remote device. Secondly, you must ensure the remote computer accepts the requests. Last but not least, ensure that it has the necessary AnyDesk settings configured to allow remote access.
+
+## 5\. Session Interrupted on the Remote Side While Using AnyDesk
+
+ This error message usually occurs when the remote computer loses its internet connection or shuts down unexpectedly. To fix this issue, try reconnecting to the remote computer or contacting the person using it.
+
+ Another reason could be that the AnyDesk connection is blocked on the remote computer. It could be because of either the Windows firewall or an antivirus program.
+
+ In both cases, you must "whitelist" or allow AnyDesk to bypass the firewall. While whitelisting AnyDesk should work, it sometimes may not.
+
+ In that case, follow the below-given steps to disable direct connections via AnyDesk:
+
+1. Open AnyDesk and go to its settings
+2. Click the**Unlock Connection Settings** button to get permission to modify settings.
+3. In the**AnyDesk Global Settings** , uncheck the box that says**Allow direct connections** .  
+![AnyDesk Connection Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/anydesk-connection-settings.jpg)
+4. After disabling direct connections, scroll down and click**Apply** to save the changes.
+
+ Once you disable direct connections, AnyDesk will always connect through a relay (intermediary) server. One disadvantage is that it may result in slightly slower connections if your internet speed is slow.
+
+ Do you still need help with AnyDesk? In that case, we recommend you seek assistance from the [AnyDesk technical support team](https://anydesk.com/en/contact/support) .
+
+## Solve Your AnyDesk Problems in No Time
+
+ Troubleshooting AnyDesk errors without proper knowledge can be frustrating. However, following the basic steps can help you quickly resolve many common issues.
+
+ No matter how big the AnyDesk problem is, you can fix it by simply re-installing AnyDesk in most cases. Also, don't forget to whitelist AnyDesk in the firewall settings.
+
+ So, what are you waiting for? Go ahead and master AnyDesk to enjoy an error-free remote desktop experience.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/moment-by-moment-synchronize-windows-clock/"><u>Moment by Moment: Synchronize Windows Clock</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-guide-to-instantaneous-live-streaming-via-obs-and-instagram/"><u>The Ultimate Guide to Instantaneous Live Streaming via OBS & Instagram</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-directx-downloading-and-updating-steps/"><u>Mastering DirectX: Downloading & Updating Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-onedrive-cloud-operation-was-unsuccessful-error-in-windows-10-and-11/"><u>How to Fix the OneDrive Cloud Operation Was Unsuccessful Error in Windows 10 & 11</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-adjust-image-dimensions-accurately/"><u>2024 Approved Adjust Image Dimensions Accurately</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-auto-lock-settings-in-windows/"><u>Navigate Auto-Lock Settings in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-blue-screen-in-win11-5-methods-to-prevent-hybrid-errors/"><u>Fixing Blue Screen in Win11: 5 Methods to Prevent Hybrid Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-obstacles-inaccessible-network-router-interface/"><u>Overcoming Obstacles: Inaccessible Network Router Interface</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-elevate-your-recording-game-with-nvidias-tools/"><u>[New] Elevate Your Recording Game with NVIDIA's Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-mending-directdraw-glitches-in-11-series-oses/"><u>Quick Guide to Mending DirectDraw Glitches in 11-Series OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-windows-1111-shop-glitch-x800704cf/"><u>Preventing Windows 11/11 Shop Glitch X800704CF</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-increase-virtual-memory-tips-and-tricks-for-windows-11/"><u>How to Increase Virtual Memory: Tips & Tricks for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/premium-collection-winning-windows-dsswitch-emulators-list/"><u>Premium Collection: Winning Windows DS/Switch Emulators List</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-batch-filename-changes-with-powertoys/"><u>Mastering Batch-Filename Changes with PowerToys</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-creme-de-la-creme-live-streaming-services/"><u>[New] In 2024, The Crème De La Créme Live Streaming Services</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-most-reliable-free-screen-capture-apps-for-mac/"><u>2024 Approved  The Most Reliable Free Screen Capture Apps for Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/confronting-and-overcoming-failed-capture-issues-in-windows/"><u>Confronting and Overcoming Failed Capture Issues in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-browser-security-incorporating-trusted-websites-in-windows-11/"><u>Personalize Browser Security: Incorporating Trusted Websites in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-resolve-code-0x0001-glitch-in-w10w11-setup/"><u>Methods to Resolve Code 0X0001 Glitch in W10/W11 Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-persistent-vscode-crashes-on-windows-11/"><u>Fixing Persistent VSCode Crashes on Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-xr-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone XR Without a Passcode</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-absence-of-display-on-remote-workspace-win/"><u>Overcoming Absence of Display on Remote Workspace Win</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-corruption-unlock-write-permissions-in-win10win11/"><u>Overcoming Corruption: Unlock Write Permissions in Win10/Win11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-craft-contagious-instagram-visuals/"><u>How to Craft Contagious Instagram Visuals</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-roadblocks-activating-non-functional-scripts-in-windows/"><u>Overcoming Roadblocks: Activating Non-Functional Scripts in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/keep-your-windows-control-panel-running-smoothly/"><u>Keep Your Windows Control Panel Running Smoothly</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-chromeedge-from-hiding-taskbar-on-large-screens/"><u>Preventing Chrome/Edge From Hiding Taskbar on Large Screens</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-could-not-initialize-vm-error-on-pc/"><u>Overcome 'Could Not Initialize VM' Error on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-a-stuck-discord-interface-element-on-your-system/"><u>Mending a Stuck Discord Interface Element on Your System</u></a></li>
+<li><a href="https://windows11.techidaily.com/introducing-real-space-sound-on-windows-11/"><u>Introducing Real-Space Sound on Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-breakthrough-techniques-for-effective-macscreenscreencasting/"><u>In 2024, Breakthrough Techniques for Effective MacScreenscreencasting</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reset-freezes-and-crashes-in-virtual-worlds/"><u>How to Reset Freezes & Crashes in Virtual Worlds</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-image-full-screen-webpage/"><u>[Updated] In 2024, Image Full-Screen Webpage</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-enhance-discord-explore-the-10-most-influential-plugins/"><u>In 2024, Enhance Discord  Explore the 10 Most Influential Plugins</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-free-video-editing-software-8-options-explored/"><u>[New] Free Video Editing Software  8 Options Explored</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-asus-mg28uq-monitor-review-bridging-the-high-res-divide/"><u>In 2024, ASUS MG28UQ Monitor Review  Bridging the High-Res Divide</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-based-in-game-voice-sync-with-valorant/"><u>Mastering Windows-Based In-Game Voice Sync with Valorant</u></a></li>
+<li><a href="https://windows11.techidaily.com/direct-paths-opening-system-information-at-your-fingertips/"><u>Direct Paths: Opening System Information at Your Fingertips</u></a></li>
+</ul></div>

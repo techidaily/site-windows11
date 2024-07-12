@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Folder Menu Enhancement with New Commands (Win 11)"
-date: 2024-06-25T12:22:31.350Z
-updated: 2024-06-26T12:22:31.350Z
+date: 2024-07-11T21:42:51.081Z
+updated: 2024-07-12T21:42:51.081Z
 tags:
   - windows10
   - windows11
@@ -22,9 +22,9 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
 ## How to Add a Move to Folder Context Menu Option
 
- To add new context menu options in Windows 11/10, you must tweak the[Windows registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) one way or another. The Registry Editor app enables users to customize Windows’ right-click menus by manually tweaking the registry. You can add a Move to folder option to the context menu with the Registry Editor as follows:
+ To add new context menu options in Windows 11/10, you must tweak the [Windows registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) one way or another. The Registry Editor app enables users to customize Windows’ right-click menus by manually tweaking the registry. You can add a Move to folder option to the context menu with the Registry Editor as follows:
 
-1. Bring up the Registry Editor with a method included in our[how to open regedit](https://www.makeuseof.com/windows-11-open-registry-editor/) guide.
+1. Bring up the Registry Editor with a method included in our [how to open regedit](https://www.makeuseof.com/windows-11-open-registry-editor/) guide.
 2. Click inside the address bar at the top of Registry Editor, and erase the current key location there.
 3. Then enter this**ContextMenuHandlers** key location and press**Return** :  
 `HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers`
@@ -73,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
  It’s relatively straightforward to add the "Copy/Move to folder" options with the Registry Editor, but there’s still an easier way to do it. You can add the same options to the context menu with the freeware WinBubble. WinBubble is customization software that includes a wide variety of context menu options. This is how to add a "Copy/Move to folder" context menu options with WinBubble:
 
-1. Head over to[the WinBubble](https://www.softpedia.com/get/Tweak/System-Tweak/WinBubble.shtml) page on Softpedia.
+1. Head over to [the WinBubble](https://www.softpedia.com/get/Tweak/System-Tweak/WinBubble.shtml) page on Softpedia.
 2. Press WinBubble’s**Download Now** button.
 3. Click the**Softpedia Mirror (US)** option for the download location.
 4. Next, bring up a**Downloads** tab or page in whatever web browser you’re utilizing. You can do that in Chrome, Edge, Firefox, or Opera with the**Ctrl** +**J** hotkey.
@@ -120,3 +120,60 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/lost-and-found-how-to-find-the-disappeared-enhancements-on-windows-11/"><u>Lost and Found: How to Find the Disappeared Enhancements on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/corrective-measures-for-discord-search-dysfunction/"><u>Corrective Measures for Discord Search Dysfunction</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-pro-tips-for-power-packed-tiktok-content-via-desktop/"><u>[Updated] In 2024, Pro Tips for Power-Packed TikTok Content via Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-reasons-to-steer-clear-from-inexpensive-windows-keys/"><u>5 Reasons to Steer Clear From Inexpensive Windows Keys</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/streamline-video-capture-macbook-webcam-tips/"><u>Streamline Video Capture  MacBook Webcam Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerate-search-results-in-windows-11-with-these-11-fixes/"><u>Accelerate Search Results in Windows 11 with These 11 Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/linux-vs-windows-a-comprehensive-gamers-guide/"><u>Linux Vs. Windows: A Comprehensive Gamer's Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/checking-for-safe-network-connections-on-windows/"><u>Checking for Safe Network Connections on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-change-the-task-manager-start-page-in-windows-11/"><u>How to Change the Task Manager Start Page in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafting-compelling-desktop-imagery-on-windows-11/"><u>Crafting Compelling Desktop Imagery on Windows 11</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-beginners-guide-to-green-screen-keying/"><u>In 2024, Beginners Guide to Green Screen Keying</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-breaking-the-norm-eye-catching-talents-amongst-female-youtube-stars/"><u>2024 Approved  Breaking the Norm  Eye-Catching Talents Amongst Female YouTube Stars</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfect-pathway-setting-up-movie-maker-6-for-2024/"><u>Perfect Pathway  Setting Up Movie Maker 6 for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/skyline-success-on-iphone-top-landscape-shots-techniques-for-2024/"><u>Skyline Success on iPhone  Top Landscape Shots Techniques for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-step-by-step-method-for-changing-your-instagram-tone/"><u>In 2024, Step-By-Step Method for Changing Your Instagram Tone</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveil-productivity-customize-taskbar-and-tiles-in-win-11/"><u>Unveil Productivity: Customize Taskbar & Tiles in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/activating-windows-media-player-in-a-swift-manner/"><u>Activating Windows Media Player in a Swift Manner</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-crafting-splitscreen-youtube-videos-a-guide-to-creativity/"><u>2024 Approved  Crafting Splitscreen YouTube Videos  A Guide to Creativity</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-y27-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo Y27 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/image-integration-insights-securely-stashing-files-on-windows-11/"><u>Image Integration Insights: Securely Stashing Files on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-techniques-for-initiatingexit-focus-in-the-windows-terminal/"><u>Essential Techniques for Initiating/Exit Focus in the Windows Terminal</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-beat-the-wait-efficient-iphone-time-lapse-tricks/"><u>2024 Approved  Beat the Wait  Efficient iPhone Time-Lapse Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-audio-mastery-configuring-custom-volume-hotkeys/"><u>Win11 Audio Mastery: Configuring Custom Volume Hotkeys</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-spotting-hdd-vs-ssd-in-windows-operations/"><u>Essential Guide: Spotting HDD vs SSD in Windows Operations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-win-over-product-sponsors-in-the-youtube-arena/"><u>How to Win Over Product Sponsors in the YouTube Arena</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-graphics-troubleshoot-and-restart-for-clear-images/"><u>Windows 11 Graphics: Troubleshoot & Restart for Clear Images</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-chains-of-stuck-files-win11-download-guide-2/"><u>Breaking Chains of Stuck Files: WIN11 Download Guide (2)</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-visual-power-with-windows-11s-auto-hdr/"><u>Unlocking Visual Power with Windows 11'S Auto HDR</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-the-impact-of-copilot-key-on-your-windows-11-pc-performance/"><u>Deciphering the Impact of Copilot Key on Your Windows 11 PC Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-incorrect-parameters-leading-to-loadlibrary-failure/"><u>Fixing Incorrect Parameters Leading to LoadLibrary Failure</u></a></li>
+<li><a href="https://windows11.techidaily.com/discovering-the-power-of-wintoys-a-step-by-step-analysis-for-windows-users/"><u>Discovering the Power of WinToys: A Step-by-Step Analysis for Windows Users</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/building-a-fanbase-key-strategies-for-desktop-tiktok-videos-for-2024/"><u>Building a Fanbase  Key Strategies for Desktop TikTok Videos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-obs-record-failure-a-comprehensive-guide-for-windows-users/"><u>Addressing OBS Record Failure: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-customize-powerpoint-slideshow-icon-in-simple-ways/"><u>New In 2024, Customize PowerPoint Slideshow Icon in Simple Ways</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-discover-the-best-free-green-screen-apps-for-android-and-ios/"><u>Updated 2024 Approved Discover the Best Free Green Screen Apps for Android and iOS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-battle-of-video-capturing-apps/"><u>[Updated] Ultimate Battle of Video Capturing Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-non-functional-shortcuts-with-windows-snips/"><u>Avoiding Non-Functional Shortcuts with Windows Snips</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-code-three-ways-to-access-game-folders/"><u>Unlock the Code: Three Ways to Access Game Folders</u></a></li>
+<li><a href="https://windows11.techidaily.com/3-ways-to-find-a-group-policy-on-windows/"><u>3 Ways to Find a Group Policy on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-win11-outshines-macos-on-key-fronts/"><u>How Win11 Outshines MacOS on Key Fronts</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-pcs-duration-before-lockdown/"><u>Adjusting PC's Duration Before Lockdown</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/avoiding-youtube-copyright-claims-understanding-the-rules-for-2024/"><u>Avoiding YouTube Copyright Claims  Understanding the Rules for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/step-into-the-spectrum-incorporating-neons-in-video-summaries/"><u>Step Into the Spectrum  Incorporating Neons in Video Summaries</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquer-zip-files-seamless-compressed-archives-on-windows-pcs/"><u>Conquer ZIP Files: Seamless Compressed Archives on Windows PCs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-15-pro-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 15 Pro Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-troubleshooting-for-winscombsvc-error/"><u>Essential Troubleshooting for WinScombSvc Error</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhancing-dull-videos-for-apple-devices/"><u>Enhancing Dull Videos for Apple Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquer-blue-screen-5-tactics-for-win11-hybrid-issue-fixes/"><u>Conquer Blue Screen: 5 Tactics for Win11 Hybrid Issue Fixes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-the-perfect-introduction-15-viral-youtube-video-intros-for-2024/"><u>[New] Crafting the Perfect Introduction  15 Viral YouTube Video Intros for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/taste-bud-travels-delicious-dishes-from-abroad-for-2024/"><u>Taste Bud Travels  Delicious Dishes From Abroad for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-knowledge-about-winservicesexe/"><u>Essential Knowledge About WinServices.exe</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-silent-mode-glitches-on-windows-word-reading-feature/"><u>Fix Silent Mode Glitches on Windows' Word Reading Feature</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-nubia-z50-ultra-by-drfone-android/"><u>Full Guide to Unlock Your Nubia Z50 Ultra</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Command Guide: Win11 - Starting High-Privilege PowerShell"
-date: 2024-06-25T11:59:11.268Z
-updated: 2024-06-26T11:59:11.268Z
+date: 2024-07-11T21:15:53.413Z
+updated: 2024-07-12T21:15:53.413Z
 tags:
   - windows10
   - windows11
@@ -66,7 +66,7 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 
  A command prompt lets you run almost any program or application on your Windows device. To run Windows PowerShell using this tool, follow these steps:
 
-1. Run Command Prompt as an Administrator (see[how to open the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).  
+1. Run Command Prompt as an Administrator (see [how to open the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).  
 ![Open Windows PowerShell Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-command-prompt.jpg)
 2. In the elevated command prompt, copy and paste the given command line:  
 `powershell Start-Process powershell -Verb runAs`
@@ -90,7 +90,7 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 
  Here's how to start Windows PowerShell as an administrator with this tool.
 
-1. Press**Ctrl + Shift + Esc** on your keyboard to open Task Manager (see[how to open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) for more tips).
+1. Press**Ctrl + Shift + Esc** on your keyboard to open Task Manager (see [how to open the Task Manager](https://www.makeuseof.com/ways-to-open-task-manager-windows-10/) for more tips).
 2. Select**Run new task** from the top of the page.
 3. In the pop-up menu, type "PowerShell" and check the "Create this task with administrative privileges" box.  
 ![Open Windows PowerShell Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-task-manager.jpg)
@@ -100,7 +100,7 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 
  Windows Control Panel is a software program that contains many tools for managing settings on Windows. With this tool, you can launch almost any application installed on your computer. Follow these steps to open Windows PowerShell as an administrator:
 
-1. Use one of the many[ways to open the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) .
+1. Use one of the many [ways to open the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) .
 2. Click on**System and Security** .
 3. Scroll down to the bottom and select**Windows Tools** .
 4. Right-click on**Windows PowerShell** and select**Run as administrator** .  
@@ -126,7 +126,7 @@ C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
 
  This method involves creating a batch file to open Windows PowerShell as an administrator. Here's how to do it:
 
-1. Press**Win + R** , type "Notepad", and hit**Enter** to open it (see[how to open Notepad](https://www.makeuseof.com/windows-11-open-notepad/) for more ways).
+1. Press**Win + R** , type "Notepad", and hit**Enter** to open it (see [how to open Notepad](https://www.makeuseof.com/windows-11-open-notepad/) for more ways).
 2. In Notepad, copy and paste the following command line:  
 Powershell.exe -Command "& {Start-Process Powershell.exe -Verb RunAs}"
 3. Now click on**File** and select**Save as** from the menu list.
@@ -157,3 +157,47 @@ Powershell.exe -Command "& {Start-Process Powershell.exe -Verb RunAs}"
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/crafting-iso-images-from-your-windows-esd-originals/"><u>Crafting ISO Images From Your Windows' ESD Originals</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-explorers-guide-6-steps-to-property-expertise/"><u>The Explorer's Guide: 6 Steps to Property Expertise</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tailoring-your-story-a-guide-to-crafting-engaging-podcast-episodes/"><u>[New] Tailoring Your Story  A Guide to Crafting Engaging Podcast Episodes</u></a></li>
+<li><a href="https://windows11.techidaily.com/surface-go-3-with-latest-chip-reviewed-mixed-outcomes-noted/"><u>Surface Go 3 with Latest Chip Reviewed: Mixed Outcomes Noted</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-screen-glitches-in-windows-11-a-step-by-step-guide/"><u>Solving Screen Glitches in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/seeking-entry-into-the-windows-11-insider-circle/"><u>Seeking Entry Into the Windows 11 Insider Circle</u></a></li>
+<li><a href="https://windows11.techidaily.com/banishing-0x800704b3-error-from-your-win1011-system/"><u>Banishing 0X800704B3 Error From Your Win10/11 System</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-pro-freefire-compiling-premier-gaming-vids-and-hashtags/"><u>[Updated] Pro-FreeFire  Compiling Premier Gaming Vids and Hashtags</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-tag-and-showcase-a-podcast-episode-for-2024/"><u>[New] Tag and Showcase a Podcast Episode for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/starting-windows-terminal-with-quake-effects/"><u>Starting Windows Terminal with Quake Effects</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-13-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/sound-struggles-winning-back-noise-from-windows-spacebar/"><u>Sound Struggles: Winning Back Noise From Windows' Spacebar</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-solve-iphone-picture-failure-in-pcs-windows/"><u>Steps to Solve iPhone Picture Failure in PCs (Windows)</u></a></li>
+<li><a href="https://windows11.techidaily.com/steering-onedrive-destination-on-windows-pc/"><u>Steering OneDrive Destination on Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-11-camera-app-eradicating-error-a00f425d/"><u>Troubleshooting Windows 11 Camera App: Eradicating Error A00F425D</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-windows-11s-compatibility-checker-usage-guide/"><u>Understanding Windows 11'S Compatibility Checker: Usage Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-decoding-youtube-exchange-threads-for-2024/"><u>[New] Decoding YouTube Exchange Threads for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlined-startup-routines-in-modern-windows/"><u>Streamlined Startup Routines in Modern Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/viral-flair-identifying-powerful-tags-for-youtube-short-success-for-2024/"><u>Viral Flair  Identifying Powerful Tags for YouTube Short Success for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-notetaking-for-windows-professionals-win11w10/"><u>Advanced Notetaking for Windows Professionals (Win11/W10)</u></a></li>
+<li><a href="https://win11.techidaily.com/what-is-dev-home-for-windows-11/"><u>What Is Dev Home for Windows 11?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlocking-student-engagement-using-youtube-as-a-teaching-tool-for-2024/"><u>Unlocking Student Engagement  Using YouTube as a Teaching Tool for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-essential-fixes-for-hypervisor-blue-screen-on-win-os/"><u>5 Essential Fixes for Hypervisor Blue Screen on WIN OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/circumventing-windows-policies-preventing-app-deployment/"><u>Circumventing Windows Policies Preventing App Deployment</u></a></li>
+<li><a href="https://windows11.techidaily.com/access-hurdles-rejoin-your-shared-windows-zone/"><u>Access Hurdles: Rejoin Your Shared Windows Zone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-guide-to-productive-online-team-sessions/"><u>[Updated] The Ultimate Guide to Productive Online Team Sessions</u></a></li>
+<li><a href="https://windows11.techidaily.com/determining-effective-network-sharing-tools-tech-giants-face-off/"><u>Determining Effective Network Sharing Tools: Tech Giants Face-Off</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-audio-harmony-seekers-perfecting-video-moods/"><u>2024 Approved  Audio Harmony Seekers  Perfecting Video Moods</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-correct-sound-hiccup-in-audacity-on-windows-11/"><u>Strategies to Correct Sound Hiccup in Audacity on Windows 11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-ultimate-list-of-alternatives-to-the-popular-gopro/"><u>[Updated] In 2024, The Ultimate List of Alternatives to the Popular GoPro</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-anime-magic-at-your-fingertips-how-to-use-filters-on-snapchat/"><u>[New] In 2024, Anime Magic at Your Fingertips  How to Use Filters on Snapchat</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-photography-fix-overcoming-package-not-registered-issues/"><u>Win11 Photography Fix: Overcoming Package Not Registered Issues</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/achieving-seamless-sounds-logic-x-crossfade-guide/"><u>Achieving Seamless Sounds  Logic X Crossfade Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/combating-steams-inability-to-synch-with-windows-folders/"><u>Combating Steam's Inability to Synch with Windows Folders</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-microsoft-store-issues-overcoming-0x80072f30/"><u>Unraveling Microsoft Store Issues: Overcoming 0X80072F30</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-stalled-netflix-app-on-windows/"><u>Troubleshooting Stalled Netflix App on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-essential-fixes-for-hybrid-os-hypervisor-faults/"><u>5 Essential Fixes for Hybrid OS Hypervisor Faults</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/2024-approved-unhappy-with-vsdc-explore-these-top-mac-video-editing-options/"><u>2024 Approved Unhappy with VSDC? Explore These Top Mac Video Editing Options</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-windows-from-notifying-you-of-updates/"><u>Stop Windows From Notifying You of Updates</u></a></li>
+</ul></div>
