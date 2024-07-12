@@ -73,29 +73,7 @@ thumbnail: https://thmb.techidaily.com/e3cfe2024e8223233dca02c9346a88bd3c9122571
 
  You can still utilize Microsoft Works 9 on a Windows 10 or 11 PC today. Although that suite might be a little dated, it’s freely available and comes with a good range of templates for document creation. This is how you can install and try out Microsoft Works on a Windows 11/10 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://windows11.techidaily.com/address-common-printer-glitches-in-windows-11/"><u>Address Common Printer Glitches in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-the-application-encountered-an-unrecoverable-error-in-roblox-on-windows/"><u>How to Fix the “The Application Encountered an Unrecoverable Error in Roblox on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-5-windows-folders-tricks-for-enhanced-efficiency/"><u>Top 5 Windows Folders Tricks for Enhanced Efficiency</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-chrome-challenges-fix-common-web-problems-on-windows-pc/"><u>Navigating Chrome Challenges: Fix Common Web Problems on Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/experts-selection-7-best-windows-photos-apps-reviewed/"><u>Expert's Selection: 7 Best Windows Photos Apps Reviewed</u></a></li>
-<li><a href="https://windows11.techidaily.com/no-more-frustration-quick-fixes-for-windows-11-woes/"><u>No More Frustration! Quick Fixes for Windows 11 Woes</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-student-laptop-asus-s15-oled-in-focus/"><u>The Ultimate Student Laptop: ASUS S15 OLED in Focus</u></a></li>
-<li><a href="https://windows11.techidaily.com/precision-tools-for-crafting-custom-windows-filename-dates/"><u>Precision Tools for Crafting Custom Windows Filename Dates</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcome-could-not-initialize-vm-error-on-pc/"><u>Overcome 'Could Not Initialize VM' Error on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-reactivate-lost-bluetooth-listings-dmi/"><u>How to Reactivate Lost Bluetooth Listings DMI</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-pc-mp4-editor-for-windows-8-simplify-your-video-editing-process-for-2024/"><u>Updated PC MP4 Editor for Windows 8 Simplify Your Video Editing Process for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-6-plus-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 6 Plus With or Without Password</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-multi-object-tracking-the-ultimate-guide/"><u>New 2024 Approved Multi Object Tracking The Ultimate Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-gopro-guide-achieving-excellent-underwater-cinematography/"><u>In 2024, GoPro Guide  Achieving Excellent Underwater Cinematography</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-average-profit-per-million-youtube-viewers-for-2024/"><u>[New] Average Profit per Million YouTube Viewers for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-of-the-best-select-photovideo-makers-with-musical-accents/"><u>In 2024, Best of the Best  Select Photo/Video Makers with Musical Accents</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-the-art-of-backwards-videos-on-instagram/"><u>2024 Approved  Mastering the Art of Backwards Videos on Instagram</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-huawei-nova-y91-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Huawei Nova Y91 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-art-of-documenting-dynamic-ppt-presentations/"><u>In 2024, The Art of Documenting Dynamic PPT Presentations</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/elite-endorsement-exquisite-websites-to-download-snap-alert-tunes-for-2024/"><u>Elite Endorsement  Exquisite Websites to Download Snap Alert Tunes for 2024</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

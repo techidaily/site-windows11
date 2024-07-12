@@ -139,29 +139,7 @@ thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c17902
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://windows11.techidaily.com/augmented-folder-actions-power-up-your-file-management/"><u>Augmented Folder Actions: Power Up Your File Management</u></a></li>
-<li><a href="https://windows11.techidaily.com/redirect-to-file-explorer-using-the-onedrive-shortcut/"><u>Redirect to File Explorer Using the OneDrive Shortcut</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-resolving-windows-service-response-errors/"><u>Guide to Resolving Windows Service Response Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-onedrive-cloud-operation-was-unsuccessful-error-in-windows-10-and-11/"><u>How to Fix the OneDrive Cloud Operation Was Unsuccessful Error in Windows 10 & 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-empty-folder-notifications/"><u>Remedying Empty Folder Notifications</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-tip-addressing-winscomrsvc-system-crashes/"><u>Quick Tip: Addressing WinscomrsVc System Crashes</u></a></li>
-<li><a href="https://windows11.techidaily.com/fasten-up-your-windows-devices-with-top-fixes-for-slow-web-linkage/"><u>Fasten Up Your Windows Devices with Top Fixes for Slow Web Linkage</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-for-tranquil-application-management-in-window-11/"><u>Techniques for Tranquil Application Management in Window 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-webp-images-top-4-viewer-tools-on-windows-os/"><u>Elevate WebP Images: Top 4 Viewer Tools on Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-xc0f1103f-flaw-with-nvidias-windows-software/"><u>Overcoming XC0F1103F Flaw with Nvidia's Windows Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-memorable-dialogues-a-screenwriters-guide/"><u>Crafting Memorable Dialogues  A Screenwriter's Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-premier-mp4-broadcast-converter/"><u>[New] 2024 Approved  Premier MP4 Broadcast Converter</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-ideas-that-help-you-out-in-converting-avi-to-gif/"><u>Updated Ideas That Help You Out in Converting AVI to GIF</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-strategies-for-youtube-to-mpeg-conversion/"><u>In 2024, Optimal Strategies for YouTube-to-MPEG Conversion</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-make-stunning-videos-microsoft-video-editor-tips-and-tricks-for-windows/"><u>New 2024 Approved Make Stunning Videos Microsoft Video Editor Tips and Tricks for Windows</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-overcoming-unseen-thumbnails-in-youtube-shorts/"><u>2024 Approved  Overcoming Unseen Thumbnails in YouTube Shorts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastering-the-art-of-secretive-insta-story-consumption/"><u>[Updated] In 2024, Mastering the Art of Secretive Insta Story Consumption</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-evolving-strategies-the-forecast-for-fb-advertising/"><u>In 2024, Evolving Strategies  The Forecast for FB Advertising</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-unveiled-top-5-visual-treats-on-social-medias-giant-for-2024/"><u>[Updated] Unveiled  Top 5 Visual Treats on Social Media's Giant for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-navigating-the-social-media-watersheds-of-your-interest-space/"><u>In 2024, Navigating the Social Media Watersheds of Your Interest Space</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

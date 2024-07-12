@@ -139,24 +139,7 @@ thumbnail: https://thmb.techidaily.com/85e9c2e32a903b6bf60a65b77968212abbcf7690e
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://windows11.techidaily.com/breaking-chains-of-stuck-files-win11-download-guide-2/"><u>Breaking Chains of Stuck Files: WIN11 Download Guide (2)</u></a></li>
-<li><a href="https://windows11.techidaily.com/assessment-of-differences-onsite-vs-cloud-based-windows-downloads/"><u>Assessment of Differences: Onsite vs Cloud-Based Windows Downloads</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-auto-lock-settings-in-windows/"><u>Navigate Auto-Lock Settings in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-to-work-with-non-verified-windows-apps/"><u>Techniques to Work with Non-Verified Windows Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/curate-your-own-win11-screen-saver/"><u>Curate Your Own Win11 Screen Saver</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-troubleshooting-for-winscombsvc-error/"><u>Essential Troubleshooting for WinScombSvc Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/nullify-specification-shortfalls-alerts-in-win11/"><u>Nullify Specification Shortfalls Alerts in Win11</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/2024-approved-make-it-a-gif-28-recommended-video-to-gif-converters/"><u>2024 Approved Make It a GIF 28 Recommended Video to GIF Converters</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-transform-your-virtual-engagements-with-these-top-10-cost-free-tools/"><u>2024 Approved  Transform Your Virtual Engagements with These Top 10 Cost-Free Tools</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-motorola-moto-g23-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Motorola Moto G23 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/ratio-refined-expert-techniques-for-image-sizing-and-scaling-for-2024/"><u>Ratio Refined Expert Techniques for Image Sizing and Scaling for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/in-2024-tips-that-show-anybody-how-to-create-youtube-slideshow-guaranteed/"><u>In 2024, Tips That Show Anybody How To Create Youtube Slideshow – Guaranteed</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-efficiently-add-youtube-playlists-to-your-website-interface-for-2024/"><u>[New] Efficiently Add YouTube Playlists to Your Website Interface for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-trim-your-videos-for-free-10-best-online-video-editors/"><u>New In 2024, Trim Your Videos for Free 10 Best Online Video Editors</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-affordable-recording-powerhouses-ranking-of-10-free-recorders/"><u>[New] In 2024, Affordable Recording Powerhouses  Ranking of 10 Free Recorders</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

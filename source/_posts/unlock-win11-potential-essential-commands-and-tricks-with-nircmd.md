@@ -139,28 +139,7 @@ thumbnail: https://thmb.techidaily.com/f063158b07bb5f14ea4aab44ee9234e61e405ad94
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://windows11.techidaily.com/windows-machine-wattage-determining-computational-power-use/"><u>Windows Machine Wattage: Determining Computational Power Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-package-registration-errors-a-guide-to-photography-on-windows-11/"><u>Correcting Package Registration Errors: A Guide to Photography on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/crafting-the-perfect-keys-list-for-win11s-narrator-control/"><u>Crafting the Perfect Keys List for Win11's Narrator Control</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-a-non-responsive-resource-monitor-steps-for-windows-11-users/"><u>Navigating a Non-Responsive Resource Monitor: Steps for Windows 11 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/access-hurdles-rejoin-your-shared-windows-zone/"><u>Access Hurdles: Rejoin Your Shared Windows Zone</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-the-art-of-troubleshooting-windows-camera/"><u>Master the Art of Troubleshooting Windows Camera</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-something-went-wrong-with-outlook-on-pcs/"><u>Decoding Something Went Wrong with Outlook on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-onedrive-errors-on-windows-11-an-experts-fix-list/"><u>Navigating OneDrive Errors on Windows 11: An Expert's Fix List</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-conquer-common-errors-during-windows-11-rollout/"><u>How to Conquer Common Errors During Windows 11 Rollout</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/irreversible-steps-for-a-fixed-tiktok-exit-for-2024/"><u>Irreversible Steps for a Fixed TikTok Exit for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-y78-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo Y78 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-xiaomi-11-lite-preserve-your-memories-in-stunning-quality/"><u>[Updated] In 2024, Xiaomi 11 Lite  Preserve Your Memories in Stunning Quality</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-optimal-audio-removal-programs-for-windows-videos/"><u>New 2024 Approved Optimal Audio Removal Programs for Windows Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-tier-80s-visual-tricks-for-elevated-editing-for-2024/"><u>Top-Tier 80S Visual Tricks for Elevated Editing for 2024</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/2024-approved-looking-for-a-way-to-learn-how-to-merge-videos-in-handbrake-theres-a-better-solution-waiting-for-you-inside/"><u>2024 Approved Looking for a Way to Learn How to Merge Videos in HandBrake? Theres a Better Solution Waiting for You Inside</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-syncopated-sing-sessions-tiktok-style/"><u>[New] In 2024, Syncopated Sing-Sessions TikTok Style</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-a-compre-cookies-guide-to-marketing-magic-with-20-terms/"><u>[Updated] A Compre Cookie's Guide to Marketing Magic with 20 Terms</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-free-webm-players-how-to-play-webm-video-files-in-2024/"><u>Best Free WebM Players  How to Play WebM Video Files, In 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-mic-matches-for-video-editors/"><u>[Updated] 2024 Approved  Best Mic Matches for Video Editors</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

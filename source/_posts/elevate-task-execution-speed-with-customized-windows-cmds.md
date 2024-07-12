@@ -139,26 +139,7 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://windows11.techidaily.com/removing-obstacles-in-windows-update-code-0xc004f050/"><u>Removing Obstacles in Windows Update (Code 0XC004F050)</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fixes-making-winget-work-again-in-windows/"><u>Quick Fixes: Making Winget Work Again in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/sound-struggles-winning-back-noise-from-windows-spacebar/"><u>Sound Struggles: Winning Back Noise From Windows' Spacebar</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficiently-initiating-the-snip-and-sketch-function-on-win-11/"><u>Efficiently Initiating the Snip and Sketch Function on Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/window-wonderland-crafting-distinctive-displays-in-win-1011/"><u>Window Wonderland: Crafting Distinctive Displays in Win 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-change-reset-count-after-login-failures-a-windows-11-technique/"><u>How to Change Reset Count After Login Failures: A Windows 11 Technique</u></a></li>
-<li><a href="https://windows11.techidaily.com/prevent-windows-stop-recurrent-file-explorer-launches/"><u>Prevent Windows: Stop Recurrent File Explorer Launches</u></a></li>
-<li><a href="https://windows11.techidaily.com/solve-no-errors-on-win11-quick-fix-guide/"><u>Solve No Errors on Win11 - Quick Fix Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/elevate-your-fb-profile-with-these-ten-effective-tactics/"><u>Elevate Your FB Profile with These Ten Effective Tactics</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-13-mini-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 13 mini</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-oppo-find-x7-by-fonelab-android-recover-music/"><u>How To  Restore Missing Music Files from Oppo Find X7</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-bringing-anime-characters-to-life-jujutsu-kaisen-for-tiktok/"><u>[New] 2024 Approved  Bringing Anime Characters to Life  Jujutsu Kaisen for TikTok</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2023s-ios-leading-psp-emulators-ranked-the-creme-de-la-creme-for-2024/"><u>[New] 2023'S iOS Leading PSP Emulators Ranked  The Crème De La Crème for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-f14-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Samsung Galaxy F14 5G?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-lightroom-lut-essentials-for-professional-imagery/"><u>2024 Approved  LightRoom LUT Essentials for Professional Imagery</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-realme-gt-neo-5-frp-bypass-by-drfone-android/"><u>About Realme GT Neo 5 FRP Bypass</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-stream-to-success-obs-youtube-broadcast-basics/"><u>[New] Stream to Success  OBS Youtube Broadcast Basics</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

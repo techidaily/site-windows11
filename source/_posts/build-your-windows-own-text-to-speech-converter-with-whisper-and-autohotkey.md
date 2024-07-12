@@ -252,24 +252,7 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 
  With AutoHotkey, we can effortlessly create a basic GUI for command-line apps like Whisper. So, let's do that and see how you can create your own transcription app by combining AutoHotkey's GUI-making superpowers with OpenAI's Whisper as the "brain" behind the buttons.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://windows11.techidaily.com/breaking-grayed-out-delete-feature-for-windows-11-pins/"><u>Breaking Grayed-Out Delete Feature for Windows 11 PINs</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlined-graphics-the-key-to-optimal-radeon-performance-in-windows-11/"><u>Streamlined Graphics: The Key to Optimal Radeon Performance in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/adeptly-disguise-wireless-networks-with-windows/"><u>Adeptly Disguise Wireless Networks with Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/configuring-chatgpt-on-your-windows-pc/"><u>Configuring ChatGPT on Your Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-microsoft-store-error-0x00000000-in-windows-os/"><u>Eliminating Microsoft Store Error 0X00000000 in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-to-become-a-win-11-insider/"><u>Step-by-Step to Become a Win 11 Insider</u></a></li>
-<li><a href="https://windows11.techidaily.com/curbing-the-constant-appearance-of-edge-icons/"><u>Curbing the Constant Appearance of Edge Icons</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-whats-winning-in-the-world-of-2023-tweets/"><u>[Updated] 2024 Approved  What's Winning in the World of 2023 Tweets</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Oppo A38? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-gaming-intro-masters-the-top-online-creators/"><u>New Gaming Intro Masters The Top Online Creators</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-coexisting-screen-data-gathering-for-2024/"><u>[New] Coexisting Screen Data Gathering for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-accessible-legal-tracks-for-gameplay-enjoyment/"><u>[New] Accessible Legal Tracks for Gameplay Enjoyment</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/capture-your-screen-on-chromebook-methods-4-you/"><u>Capture Your Screen on Chromebook  Methods 4 You</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-pinnacle-montage-apps-androidiphones-creative-powerhouses/"><u>In 2024, Pinnacle Montage Apps  Android/iPhone's Creative Powerhouses</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

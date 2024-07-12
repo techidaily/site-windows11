@@ -252,28 +252,7 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 
  With AutoHotkey, we can effortlessly create a basic GUI for command-line apps like Whisper. So, let's do that and see how you can create your own transcription app by combining AutoHotkey's GUI-making superpowers with OpenAI's Whisper as the "brain" behind the buttons.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://windows11.techidaily.com/breaking-the-mold-unleashing-dormant-windows-11-powers/"><u>Breaking the Mold: Unleashing Dormant Windows 11 Powers</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-screen-glitches-in-windows-11-a-step-by-step-guide/"><u>Solving Screen Glitches in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/enabling-hidden-programs-on-windows-pc/"><u>Enabling Hidden Programs on Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-windows-unplayable-file-challenge/"><u>Addressing Windows' Unplayable File Challenge</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-troubleshooting-for-winscombsvc-error/"><u>Essential Troubleshooting for WinScombSvc Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/harness-the-power-of-windows-11-a-guide-to-7-effective-techniques-36/"><u>Harness the Power of Windows 11: A Guide to 7 Effective Techniques (36)</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-to-overcome-directdraw-challenges-in-11-series-windows/"><u>Unveiling the Secrets to Overcome DirectDraw Challenges in 11-Series Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/best-windows-11-weather-software-compared/"><u>Best Windows 11 Weather Software Compared</u></a></li>
-<li><a href="https://windows11.techidaily.com/reduce-keyboard-latency-in-win-os-with-top-7-hacks/"><u>Reduce Keyboard Latency in Win OS with Top 7 Hacks</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-filtering-the-truth-in-your-insta-network/"><u>[Updated] 2024 Approved  Filtering the Truth in Your Insta Network</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-seize-the-day-documenting-games-on-samsung-phones/"><u>In 2024, Seize the Day! Documenting Games on Samsung Phones</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-simple-path-to-iphone-screen-shots/"><u>In 2024, The Simple Path to IPhone Screen Shots</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/stream-the-hottest-trailers-top-10-iphone-and-ipad-movie-apps/"><u>Stream the Hottest Trailers Top 10 iPhone and iPad Movie Apps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-editing-made-easy-with-the-8-best-no-cost-software-options/"><u>[Updated] YouTube Editing Made Easy with The 8 Best No-Cost Software Options</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-survival-sagas-ultimate-10-roguely-games/"><u>2024 Approved  Survival Sagas  Ultimate 10 Roguely Games</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-fast-track-fame-disco-channel-names-that-shine-bright/"><u>[Updated] In 2024, Fast-Track Fame  Disco Channel Names That Shine Bright</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y28-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Vivo Y28 5G?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-next-gen-home-cinema-top-blu-ray-machines-of-24/"><u>[Updated] Next-Gen Home Cinema  Top Blu-Ray Machines of '24</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-advanced-guide-to-clear-cut-and-ship-video/"><u>[Updated] In 2024, Advanced Guide to Clear, Cut, and Ship Video</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

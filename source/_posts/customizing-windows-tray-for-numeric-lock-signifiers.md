@@ -103,26 +103,7 @@ thumbnail: https://thmb.techidaily.com/8952485f60295f3d1e3d2e7fb384d7f4849fc0ba1
 
  Does your keyboard lack indicator lights for its lock keys? If so, you can add lock button indicators to Windows 11’s system tray to make up for your keyboard’s lack. This is how you can add new lock key indicators to Windows 11’s system tray with TrayStatus, AddLED, and Keyboard LEDs.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://windows11.techidaily.com/a-visual-journey-top-7-windows-10-drawing-tools-unveiled/"><u>A Visual Journey: Top 7 Windows 10 Drawing Tools Unveiled</u></a></li>
-<li><a href="https://windows11.techidaily.com/cherishing-the-slumber-of-your-computer/"><u>Cherishing the Slumber of Your Computer</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-glimpse-at-future-ready-windows-with-update-22h2s-features/"><u>A Glimpse at Future-Ready Windows with Update #22H2's Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/utilizing-portable-gpus-no-internal-graphic-needed/"><u>Utilizing Portable GPUs: No Internal Graphic Needed</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-windows-onedrive-error-for-immediate-folder-addition/"><u>Unraveling Windows OneDrive Error for Immediate Folder Addition</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-clearer-path-to-organization-compact-explorer-setup/"><u>A Clearer Path to Organization: Compact Explorer Setup</u></a></li>
-<li><a href="https://windows11.techidaily.com/disarming-the-windows-11-afc-error-camera-app-solution/"><u>Disarming the Windows 11 AFC Error: Camera App Solution</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixes-for-inactive-snapshots-on-pcs/"><u>Fixes for Inactive Snapshots on PCs</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Samsung Galaxy S24 Ultra</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-how-to-record-sound-on-mac-5-useful-tips-for-you/"><u>New 2024 Approved How to Record Sound on Mac? 5 Useful Tips for You</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-privacy-first-the-leading-storywatchers/"><u>[New] In 2024, Privacy-First  The Leading Storywatchers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-previous-version-of-excel-2013-file-by-stellar-guide/"><u>How to Restore Previous Version of Excel 2013 File?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-identifying-creator-types-six-intriguing-youtube-categorization-tests/"><u>[Updated] Identifying Creator Types  Six Intriguing YouTube Categorization Tests</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-visual-storytelling-with-free-images-from-these-esteemed-online-portals/"><u>2024 Approved  Mastering Visual Storytelling with Free Images From These Esteemed Online Portals</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/camclip-extractor-chatfocused/"><u>CamClip Extractor, ChatFocused</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-achieving-professional-quality-with-instagrams-virtual-screens/"><u>[New] Achieving Professional Quality with Instagram's Virtual Screens</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

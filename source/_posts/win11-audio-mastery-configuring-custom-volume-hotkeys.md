@@ -127,25 +127,7 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 
  However, you can set up custom volume control hotkeys in Windows 11 with some third-party software. Once set up, you’ll be able to change the volume with the press of a few hotkeys instead of fiddling around with sound control bars. Here is how to set up keyboard shortcuts for muting, maximizing, increasing, and decreasing volume with NirCmd and Volume Control.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://windows11.techidaily.com/resolving-capture-failures-overcoming-pc-spec-limitations/"><u>Resolving Capture Failures: Overcoming PC Spec Limitations</u></a></li>
-<li><a href="https://windows11.techidaily.com/invisible-to-others-windows-network-concealment/"><u>Invisible to Others: Windows Network Concealment</u></a></li>
-<li><a href="https://windows11.techidaily.com/crafting-compelling-desktop-imagery-on-windows-11/"><u>Crafting Compelling Desktop Imagery on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-and-resolving-m365-error-30015-26-on-pcs/"><u>Understanding and Resolving M365 Error 30015-26 on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/correction-of-microsoft-store-error-0x80073cf3-on-windows-11/"><u>Correction of Microsoft Store Error 0X80073cf3 on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/utilizing-portable-gpus-no-internal-graphic-needed/"><u>Utilizing Portable GPUs: No Internal Graphic Needed</u></a></li>
-<li><a href="https://windows11.techidaily.com/live-transcribing-made-easy-the-whisper-way/"><u>Live Transcribing Made Easy - The Whisper Way</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-unveiling-the-hidden-recovering-exclusive-snap-content/"><u>In 2024, Unveiling the Hidden  Recovering Exclusive Snap Content</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-essential-tips-effective-screenrec-usage-on-laptops/"><u>In 2024, Essential Tips  Effective ScreenRec Usage on Laptops</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-k70-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi K70 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/mastering-video-creation-adobe-captivate-guide/"><u>Mastering Video Creation  Adobe Captivate Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-oppo-reno-9a-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Oppo Reno 9A 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-finest-15-zero-cost-methods-to-record-windows-screens/"><u>[Updated] 2024 Approved  Finest 15 Zero-Cost Methods to Record Windows Screens</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unmatched-4k-hdtvs-for-intense-gaming/"><u>[Updated] Unmatched 4K HDTVs for Intense Gaming</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Vivo Y200e 5G | Dr.fone</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

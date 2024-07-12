@@ -83,24 +83,7 @@ thumbnail: https://thmb.techidaily.com/836971730456bc9358fe3cf3cc37a571dba17728e
 
  File Explorer has a **Comments** column in which users can add comments to files within Explorer by modifying tags for them on the Details tab. However, folders don’t have editable tags like files do. Nevertheless, you can still add comments to folders even though File Explorer doesn’t have a built-in option for doing so.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://windows11.techidaily.com/photoshop-power-users-guide-to-windows-keys/"><u>Photoshop Power-Users Guide to Windows Keys</u></a></li>
-<li><a href="https://windows11.techidaily.com/from-backup-bin-to-picture-panel-guiding-games-on-pcs-with-w11/"><u>From Backup Bin to Picture Panel: Guiding Games on PCs with W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-set-up-troubleshooter-shortcuts-in-windows-11-and-11/"><u>How to Set Up Troubleshooter Shortcuts in Windows 11 & 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/easy-tips-for-reactivating-file-explorer-ui/"><u>Easy Tips for Reactivating File Explorer UI</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-10-uses-for-windows-powertoys-tools/"><u>Top 10 Uses for Windows PowerToys Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/visual-notetaking-revolution-unlocking-with-obsidian-canvas/"><u>Visual Notetaking Revolution: Unlocking with Obsidian Canvas</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-your-pcs-potential-onedrive-troubleshooting-tips/"><u>Unlocking Your PC's Potential: OneDrive Troubleshooting Tips</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/2024-approved-from-basic-to-epic-how-to-add-mind-blowing-video-effects/"><u>2024 Approved From Basic to Epic How to Add Mind-Blowing Video Effects</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-iphone-users-ultimate-podcast-download-techniques/"><u>[Updated] IPhone Users' Ultimate Podcast Download Techniques</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-mastering-message-pins-on-discord/"><u>[Updated] In 2024, The Ultimate Guide to Mastering Message Pins on Discord</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/the-key-to-success-perfecting-your-online-yt-presence/"><u>The Key to Success  Perfecting Your Online YT Presence</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-apple-iphone-13-pro-max-look-no-further-drfone-by-drfone-virtual-ios/"><u>Looking For A Location Changer On Apple iPhone 13 Pro Max? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/in-2024-how-to-edit-audio-in-avidemux/"><u>In 2024, How to Edit Audio in Avidemux</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/strategies-to-optimize-time-and-quality-in-thumbnail-design/"><u>Strategies to Optimize Time and Quality in Thumbnail Design</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Oppo Find X6 | Dr.fone</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

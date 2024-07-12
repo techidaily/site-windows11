@@ -71,24 +71,7 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://windows11.techidaily.com/from-raw-esd-to-refined-iso-windows-conversion-techniques/"><u>From Raw ESD to Refined ISO: Windows Conversion Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/unblock-your-computers-usb-hub-windows-fix-guide/"><u>Unblock Your Computer's USB Hub: Windows Fix Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/easy-techniques-for-altering-credentials-on-windows-11/"><u>Easy Techniques for Altering Credentials on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-ccleaner-issues-in-windows-11/"><u>Overcoming CCleaner Issues in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-deactivated-sliders-for-volume-control/"><u>Troubleshooting Deactivated Sliders for Volume Control</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-user-interface-integrating-emoji-15-into-win11/"><u>Boosting User Interface: Integrating Emoji 15 Into Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-your-productivity-with-w11-desktop-organization/"><u>Boost Your Productivity with W11 Desktop Organization</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-rapid-rules-for-combining-pictures-on-macosx/"><u>In 2024, Rapid Rules for Combining Pictures on MacOSX</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-create-stunning-time-lapses-with-the-best-video-editing-software/"><u>New 2024 Approved Create Stunning Time-Lapses with the Best Video Editing Software</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-amazons-hottest-tiktok-products-essentials/"><u>[New] Amazon's Hottest TikTok Products - Essentials</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-transform-vimeo-videos-top-techniques-to-trim-and-tailor-online-sequences-for-2024/"><u>[Updated] Transform Vimeo Videos  Top Techniques to Trim and Tailor Online Sequences for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-premier-8-webcams-to-elevate-your-livestreams-for-2024/"><u>[New] Premier 8 Webcams to Elevate Your Livestreams for 2024</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-s-top-rated-video-editing-software-for-avchd-files-for-2024/"><u>Updated S Top-Rated Video Editing Software for AVCHD Files for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-accurate-ranking-top-10-gratuitous-srt-file-tools/"><u>[New] Accurate Ranking  Top 10 Gratuitous Srt File Tools</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-elevate-your-storytelling-how-to-create-stunning-hollywood-style-videos/"><u>2024 Approved Elevate Your Storytelling How to Create Stunning, Hollywood-Style Videos</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

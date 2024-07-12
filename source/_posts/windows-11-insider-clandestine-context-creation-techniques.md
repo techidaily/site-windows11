@@ -71,26 +71,7 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://windows11.techidaily.com/navigating-chrome-challenges-fix-common-web-problems-on-windows-pc/"><u>Navigating Chrome Challenges: Fix Common Web Problems on Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-guide-to-using-windows-11s-compatibility-fixer/"><u>Essential Guide to Using Windows 11’S Compatibility Fixer</u></a></li>
-<li><a href="https://windows11.techidaily.com/improve-sound-quality-top-5-free-windows-tools/"><u>Improve Sound Quality: Top 5 Free Windows Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/cease-windows-tally-of-new-software-activities/"><u>Cease Windows' Tally of New Software Activities</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-increase-disk-size-in-windows-carefully/"><u>How to Increase Disk Size in Windows Carefully</u></a></li>
-<li><a href="https://windows11.techidaily.com/unmasking-windows-hidden-chronicle-view-clean-up/"><u>Unmasking Windows' Hidden Chronicle - View, Clean Up!</u></a></li>
-<li><a href="https://windows11.techidaily.com/maximizing-productivity-with-windows-11-calendar/"><u>Maximizing Productivity with Windows 11 Calendar</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-windows-experience-by-fixing-prerequisites-first/"><u>Streamline Windows Experience by Fixing Prerequisites First</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-voice-change-leaders-the-magic-call-alternatives/"><u>[New] Voice-Change Leaders  The Magic Call Alternatives</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/advanced-conferencing-tech-for-businesses-for-2024/"><u>Advanced Conferencing Tech for Businesses for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/live-broadcast-plus-media-management-at-your-fingertips/"><u>Live Broadcast + Media Management at Your Fingertips</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-study-diversity-in-fb-video-shapes/"><u>[Updated] In 2024, Study  Diversity in FB Video Shapes</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-fb-video-extraction-techniques-for-pc-and-mac/"><u>2024 Approved  FB Video Extraction Techniques for PC & Mac</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-what-is-an-ai-artist-wondershare-virbo-glossary/"><u>Updated 2024 Approved What Is an AI Artist? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-unleash-your-inner-documentarian-comprehensive-guide-for-recording-sims-4-gameplay-triumphantly/"><u>[Updated] Unleash Your Inner Documentarian  Comprehensive Guide for Recording Sims 4 Gameplay Triumphantly</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-comparative-guide-to-content-mastery-on-youtube/"><u>2024 Approved  The Comparative Guide to Content Mastery on YouTube</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

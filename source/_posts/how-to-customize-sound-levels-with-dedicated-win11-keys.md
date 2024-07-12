@@ -127,29 +127,7 @@ thumbnail: https://thmb.techidaily.com/9aed4fec120c663cc65ec80b49fa66d7e36432e1c
 
  However, you can set up custom volume control hotkeys in Windows 11 with some third-party software. Once set up, you’ll be able to change the volume with the press of a few hotkeys instead of fiddling around with sound control bars. Here is how to set up keyboard shortcuts for muting, maximizing, increasing, and decreasing volume with NirCmd and Volume Control.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://windows11.techidaily.com/unseen-windows-firewall-protection-sectors-demystified/"><u>Unseen Windows Firewall Protection Sectors Demystified</u></a></li>
-<li><a href="https://windows11.techidaily.com/taskers-curiosity-non-edge-process-puzzles/"><u>Tasker's Curiosity: Non-Edge Process Puzzles</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolve-cannot-open-error-on-closed-folders-in-microsoft-mail-for-pc/"><u>Resolve Cannot Open Error on Closed Folders in Microsoft Mail for PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/adjusting-non-admin-privilege-levels-in-windows-os/"><u>Adjusting Non-Admin Privilege Levels in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/meeting-prep-101-test-your-windows-webcam-microphone/"><u>Meeting Prep 101: Test Your Windows Webcam, Microphone</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-repair-windows-event-viewer-in-windows-11/"><u>Steps to Repair Windows Event Viewer in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-task-execution-speed-with-customized-windows-cmds/"><u>Elevate Task Execution Speed with Customized Windows Cmds</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-windows-11s-registry-a-guide-to-its-components/"><u>Unveiling Windows 11'S Registry: A Guide to Its Components</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-synthesis-how-meditation-transforms-cognition-and-emotion/"><u>Seamless Synthesis: How Meditation Transforms Cognition & Emotion</u></a></li>
-<li><a href="https://windows11.techidaily.com/accelerating-wired-internet-beyond-100mbps-in-windows/"><u>Accelerating Wired Internet Beyond 100Mbps in Windows</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-strategies-to-elevate-your-video-in-the-trending-topics/"><u>2024 Approved  Strategies to Elevate Your Video in the Trending Topics</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-step-by-step-guide-for-easy-macbook-air-recordings/"><u>[Updated] Step-by-Step Guide for Easy Macbook Air Recordings</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-earning-in-the-limelight-without-ads-a-comprehensive-guide-to-youtube-income-for-2024/"><u>[Updated] Earning in the Limelight without Ads  A Comprehensive Guide to YouTube Income for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>New How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/deciphering-the-best-communication-channel-for-your-crew-slack-or-discord-for-2024/"><u>Deciphering the Best Communication Channel for Your Crew  Slack or Discord for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/enhancing-your-computing-experience-bridging-airpods-with-personal-computers/"><u>Enhancing Your Computing Experience Bridging AirPods with Personal Computers</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-10-best-sources-to-download-free-outro-music-no-copyright/"><u>New 10 Best Sources to Download Free Outro Music No Copyright</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/ultimate-recorder-guide-top-12-tools-for-lone-use/"><u>Ultimate Recorder Guide  Top 12 Tools for Lone Use</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-editors-insight-to-seamless-lut-integration-in-premiere-for-2024/"><u>The Editor's Insight to Seamless LUT Integration in Premiere for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/our-first-step-designing-attractive-videos-on-a-mac/"><u>[New] Your First Step  Designing Attractive Videos on a Mac</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"
