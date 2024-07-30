@@ -139,76 +139,7 @@ thumbnail: https://thmb.techidaily.com/04447bf719b4926e422f9096bc950555ee7a86c16
 
  However, it’s not ideal to manually input NirCmd commands to carry out Windows tasks. It’s much better to create Windows 11/10 desktop and hotkey shortcuts for activating the NirCmd tasks whenever needed. This is how you can set up several handy Windows command shortcuts with NirCmd.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Honor Magic 5? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquer-words-best-writing-software-for-windows-users/"><u>Conquer Words: Best Writing Software for Windows Users</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-tecno-pop-8-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Tecno Pop 8 Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/controlling-highlight-features-on-windows-11-pcs/"><u>Controlling Highlight Features on Windows 11 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-solution-to-stop-0xf0831-in-windows-11/"><u>Comprehensive Solution to Stop 0xF0831 in Windows 11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-samsung-galaxy-s24plus-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Samsung Galaxy S24+? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/farm-fun-family-top-10-games-bringing-groups-of-friends-closer-to-farms-for-2024/"><u>Farm Fun Family  Top 10 Games Bringing Groups of Friends Closer to Farms for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/smart-money-calculators-your-tiktok-profit-analysis/"><u>Smart Money Calculators  Your TikTok Profit Analysis</u></a></li>
-<li><a href="https://windows11.techidaily.com/discover-where-windows-keeps-snaps/"><u>Discover Where Windows Keeps Snaps</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-beginners-essential-guide-to-youtube-video-editing-magic/"><u>[New] 2024 Approved  Beginner’s Essential Guide to YouTube Video Editing Magic</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/face-fluidity-adding-dynamic-blur-to-photos-via-picsart-for-2024/"><u>Face Fluidity  Adding Dynamic Blur to Photos via Picsart for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-device-disabled-issue-with-error-code-22-on-windows-11/"><u>Correcting Device Disabled Issue with Error Code 22 on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-camera-not-detected-error-on-windows-11-pcs/"><u>Correcting “Camera Not Detected” Error on Windows 11 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-ms-resouce-issue-for-text-display/"><u>Correcting Ms-Resouce Issue for Text Display</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-expert-techniques-for-changing-your-instagram-sound/"><u>[Updated] In 2024, Expert Techniques for Changing Your Instagram Sound</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gain-traction-in-the-digital-sphere-explore-the-quintessential-five-youtube-tactics/"><u>[New] 2024 Approved  Gain Traction in the Digital Sphere - Explore the Quintessential Five YouTube Tactics</u></a></li>
-<li><a href="https://windows11.techidaily.com/diagnosing-partially-functioning-windows-earphones/"><u>Diagnosing Partially Functioning Windows Earphones</u></a></li>
-<li><a href="https://windows11.techidaily.com/directing-system-thermal-output-with-customization/"><u>Directing System Thermal Output with Customization</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/youtube-celebs-gabbing-via-snapchat-for-2024/"><u>YouTube Celebs Gabbing via Snapchat for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-safe-and-trusted-tiktok-fan-buyers-for-2024/"><u>[Updated] Safe and Trusted TikTok Fan Buyers for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/crafting-an-efficient-menu-choice-for-regular-system-checks-on-win11plus11/"><u>Crafting an Efficient Menu Choice for Regular System Checks on Win11+11</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquering-windows-screen-size-setsbacks-7-easy-solutions/"><u>Conquering Windows' Screen Size Setsbacks: 7 Easy Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-microsofts-window-file-format-cab-for-ease-of-use/"><u>Deciphering Microsoft's Window File Format (CAB) for Ease of Use</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/2024-approved-video-to-mp3-conversion-best-practices-for-retaining-quality/"><u>2024 Approved Video to MP3 Conversion Best Practices for Retaining Quality</u></a></li>
-<li><a href="https://windows11.techidaily.com/defensive-operations-mastering-windows-unauthorized-prevention/"><u>Defensive Operations: Mastering Windows Unauthorized Prevention</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquer-compatibility-issues-windows-troubleshooting-blueprint/"><u>Conquer Compatibility Issues: Windows Troubleshooting Blueprint</u></a></li>
-<li><a href="https://windows11.techidaily.com/create-your-own-windows-speech-recognition-app-with-autohotkey-and-whisper/"><u>Create Your Own Window's Speech Recognition App with AutoHotkey and Whisper</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-harnessing-viral-potential-the-20-best-tiktok-caption-insights/"><u>[New] Harnessing Viral Potential  The 20 Best TikTok Caption Insights</u></a></li>
-<li><a href="https://windows11.techidaily.com/dial-up-the-velocity-fixing-your-stuttery-pc/"><u>Dial Up the Velocity: Fixing Your Stuttery PC</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-a-comprehensive-guide-to-smoothly-flip-movies-in-vlc/"><u>[Updated] In 2024, A Comprehensive Guide to Smoothly Flip Movies in VLC</u></a></li>
-<li><a href="https://windows11.techidaily.com/dealing-with-inaccessible-steam-servers-in-home-pc-setups/"><u>Dealing With Inaccessible Steam Servers in Home PC Setups</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-obs-studio-edge-top-5-video-enhancements-unveiled/"><u>In 2024, OBS Studio Edge  Top 5 Video Enhancements Unveiled</u></a></li>
-<li><a href="https://windows11.techidaily.com/digital-dilemma-deciphered-7-strategies-to-reopen-browsers-in-win-os/"><u>Digital Dilemma Deciphered: 7 Strategies to Reopen Browsers in WIN OS</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-perfect-your-sound-game-with-these-step-by-step-tiktok-tips/"><u>[New] 2024 Approved  Perfect Your Sound Game with These Step-by-Step TikTok Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-the-past-updating-decrepit-windows-cards/"><u>Clearing the Past: Updating Decrepit Windows Cards</u></a></li>
-<li><a href="https://windows11.techidaily.com/customizing-graphics-output-dpi-adjustment-guide/"><u>Customizing Graphics Output: DPI Adjustment Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquering-idle-computing-with-auto-sleep-in-w10w11/"><u>Conquering Idle Computing with Auto Sleep in W10/W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-up-the-blocked-app-notification-issue/"><u>Clearing Up the Blocked App Notification Issue</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-must-have-filmmaking-tools-for-aspiring-youtubers/"><u>[Updated] Must-Have Filmmaking Tools for Aspiring YouTubers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveiling-top-8-interactive-gloves-in-vr/"><u>Unveiling Top 8 Interactive Gloves in VR</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-civic-challenge-champions-premier-elections-videogames-for-2024/"><u>[Updated] Civic Challenge Champions  Premier Elections Videogames for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/combining-audioscapes-and-visuals-snipping-tool-guide-max-156/"><u>Combining Audioscapes & Visuals: Snipping Tool Guide (Max 156)</u></a></li>
-<li><a href="https://windows11.techidaily.com/delving-into-what-windows-11s-new-updates-signify-for-users/"><u>Delving Into What Windows 11'S New Updates Signify For Users</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-free-easy-hd-download-of-fb-media-library/"><u>[New] 2024 Approved  Free, Easy HD Download of FB Media Library</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-curtail-unrequested-youtube-content-streams-for-2024/"><u>[New] Curtail Unrequested YouTube Content Streams for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-animation-amalgamator-a-top-choice-for-saving-and-storing-your-tweeted-gifs/"><u>[Updated] Animation Amalgamator  A Top Choice for Saving and Storing Your Tweeted GIFs</u></a></li>
-<li><a href="https://windows11.techidaily.com/dealing-with-filehistoryfaults-in-windows-os/"><u>Dealing with FileHistoryFaults in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/curtailing-spontaneous-terminal-trigger-activations/"><u>Curtailing Spontaneous Terminal Trigger Activations</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-footage-flair-pc-and-mobile-filter-addition/"><u>Elevate Footage Flair  PC & Mobile Filter Addition</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-art-of-online-earnings-youtubes-money-matrix/"><u>In 2024, The Art of Online Earnings  YouTube's Money Matrix</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-new-realities-metaverse-meets-omniverse/"><u>Navigating New Realities  Metaverse Meets Omniverse</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-fix-for-msvcr110dll-absence/"><u>Comprehensive Fix for msvcr110.dll Absence</u></a></li>
-<li><a href="https://windows11.techidaily.com/critiquing-7-perplexing-windows-11-aesthetics/"><u>Critiquing 7 Perplexing Windows 11 Aesthetics</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-and-rectifying-the-pink-screen-dilemma/"><u>Decoding and Rectifying the Pink Screen Dilemma</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtubes-profit-distribution-to-content-makers/"><u>[Updated] YouTube's Profit Distribution to Content Makers</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-the-file-damage-enigma-winning-over-error-0x80070570-on-windows-11/"><u>Deciphering the File Damage Enigma - Winning Over Error 0X80070570 on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/command-line-conjuring-windows-new-feature/"><u>Command Line Conjuring: Windows' New Feature</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-dual-monitor-mishaps-on-your-pc/"><u>Correcting Dual Monitor Mishaps on Your PC</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-critical-selection-of-1-5-best-snippers-for-windows/"><u>[Updated] In 2024, Critical Selection of #1-5 Best Snippers for WINDOWS</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-speech-to-text-perfectionism-unleash-with-google-ai/"><u>[Updated] 2024 Approved  Speech-to-Text Perfectionism  Unleash with Google AI</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-first-time-filmmaker-guide-setting-up-logitech-cam/"><u>[Updated] In 2024, First-Time Filmmaker Guide  Setting up Logitech Cam</u></a></li>
-<li><a href="https://windows11.techidaily.com/demystifying-the-advantages-of-microsofts-copilot-key-for-windows-11/"><u>Demystifying the Advantages of Microsoft's Copilot Key for Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-and-correcting-unspecified-obs-recording-glitches/"><u>Decoding and Correcting Unspecified OBS Recording Glitches</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-hunt-for-amusing-sound-layers-and-tones-for-2024/"><u>New Hunt for Amusing Sound Layers and Tones for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/correct-keyboard-fixes-for-windows-11s-unresponsive-f-keys/"><u>Correct: Keyboard Fixes for Windows 11'S Unresponsive F Keys</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

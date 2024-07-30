@@ -127,63 +127,7 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
 
  However, you can set up custom volume control hotkeys in Windows 11 with some third-party software. Once set up, you’ll be able to change the volume with the press of a few hotkeys instead of fiddling around with sound control bars. Here is how to set up keyboard shortcuts for muting, maximizing, increasing, and decreasing volume with NirCmd and Volume Control.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://windows11.techidaily.com/decoding-dism-your-ultimate-toolkit-for-fixing-win11/"><u>Decoding DISM: Your Ultimate Toolkit for Fixing Win11</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-ultimate-noise-free-recording-strategy/"><u>[New] 2024 Approved  The Ultimate Noise-Free Recording Strategy</u></a></li>
-<li><a href="https://windows11.techidaily.com/dissecting-the-purpose-of-pagefilesys-within-os-structure/"><u>Dissecting the Purpose of Pagefile.sys Within OS Structure</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-best-10-gratuitous-online-transformers-for-srt-files/"><u>[New] Best 10 Gratuitous Online Transformers for Srt Files</u></a></li>
-<li><a href="https://windows11.techidaily.com/diagnosing-and-fixing-microsoft-windows-nearby-share-malfunction/"><u>Diagnosing and Fixing Microsoft Windows Nearby Share Malfunction</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-display-apple-iphone-8-plus-screen-on-pc-easily-drfone-by-drfone-ios/"><u>How to Display Apple iPhone 8 Plus Screen on PC Easily? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensible-guide-to-counteracting-winerror-0x80071a90/"><u>Comprehensible Guide to Counteracting WinError 0X80071a90</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-visual-voyages-the-most-motivating-instagram-images/"><u>[New] Visual Voyages  The Most Motivating Instagram Images</u></a></li>
-<li><a href="https://windows11.techidaily.com/controlling-clock-display-in-windows-11-taskbar/"><u>Controlling Clock Display in Windows 11 Taskbar</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-motorola-moto-g84-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Motorola Moto G84 5G Location | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/clear-path-to-app-removal-tackling-do-not-have-access-errors/"><u>Clear Path to App Removal: Tackling Do Not Have Access Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/decode-and-dissolve-rectifying-win11-webcam-issue-error-a00f4289/"><u>Decode & Dissolve: Rectifying Win11 Webcam Issue - Error A00F4289</u></a></li>
-<li><a href="https://windows11.techidaily.com/consistent-experience-migrating-powertoys-on-new-pcs/"><u>Consistent Experience: Migrating PowerToys on New PCs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/perfect-moment-for-podcast-debuts-for-2024/"><u>Perfect Moment for Podcast Debuts for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/disarming-error-dism-0x800f082f-on-microsoft-os/"><u>Disarming Error: DISM 0X800F082F on Microsoft OS</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-apple-iphone-12-pro-max-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or Apple iPhone 12 Pro Max from iCloud</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-html-display-issues-in-windows-11-email-client/"><u>Correcting HTML Display Issues in Windows 11 Email Client</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-camera-access-overlap-in-windows-apps/"><u>Correcting Camera Access Overlap in Windows Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-discord-setup-woes-on-windows-11/"><u>Correcting Discord Setup Woes on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-clock-divergence-chrome-vs-windows/"><u>Correcting Clock Divergence: Chrome vs Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/dial-back-the-dread-of-an-unresponsive-esc-button-in-windows/"><u>Dial Back the Dread of an Unresponsive Esc Button in Windows</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-from-sd-to-hd-a-beginners-guide-to-pixel-size-and-video-quality-for-2024/"><u>New From SD to HD A Beginners Guide to Pixel Size and Video Quality for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/disabling-error-code-zero-on-your-gaming-machine/"><u>Disabling Error Code Zero on Your Gaming Machine</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/transcoding-vimeo-to-mp3-audio-file/"><u>Transcoding Vimeo to MP3 Audio File</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-sound-misstep-solving-xc00d36b4-on-windows/"><u>Decoding Sound Misstep: Solving XC00D36B4 on Windows</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-download-kinemaster-for-macos-a-beginners-guide/"><u>Updated 2024 Approved Download KineMaster for macOS A Beginners Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-secrets-of-snapping-finding-missing-private-images/"><u>2024 Approved  Secrets of Snapping  Finding Missing Private Images</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-expert-picks-8-superior-linux-snapshot-tools/"><u>[Updated] 2024 Approved  Expert Picks  8 Superior Linux Snapshot Tools</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-ace-your-edits-in-depth-guide-to-high-quality-youtube-videos/"><u>2024 Approved  Ace Your Edits  In-Depth Guide to High-Quality YouTube Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/demystifying-windows-error-code-31-and-network-adapter-issues/"><u>Demystifying Windows Error Code 31 and Network Adapter Issues</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-essential-windows-and-macos-daw-software-ranking-the-best/"><u>New Essential Windows & macOS DAW Software Ranking the Best</u></a></li>
-<li><a href="https://windows11.techidaily.com/decode-your-digital-identity-how-to-find-out-what-computer-you-have/"><u>Decode Your Digital Identity: How to Find Out What Computer You Have</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-aspect-ratio-made-simple-a-calculator-for-image-enthusiasts/"><u>Updated In 2024, Aspect Ratio Made Simple A Calculator for Image Enthusiasts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-pc-and-macs-leading-choice-in-screen-recording-tools/"><u>[Updated] In 2024, PC & Mac's Leading Choice in Screen Recording Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-guffaw-generation-generating-7-hilarious-video-moments-online-for-2024/"><u>[Updated] Guffaw Generation  Generating 7 Hilarious Video Moments Online for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-guide-to-unfreezing-window-taskbar/"><u>Comprehensive Guide to Unfreezing Window TaskBar</u></a></li>
-<li><a href="https://windows11.techidaily.com/cut-through-the-frustration-swift-solutions-for-ms-teams-error-80080300-in-win11/"><u>Cut Through the Frustration: Swift Solutions for MS Teams Error 80080300 in Win11</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-how-to-turn-off-a-discord-server-device-wise/"><u>[Updated] 2024 Approved  How to Turn Off a Discord Server Device-Wise</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nokia-xr21-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensible-guide-to-revoking-custom-search-on-windows-11/"><u>Comprehensible Guide to Revoking Custom Search on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/diving-into-windows-n-types-benefits-and-downfalls/"><u>Diving Into Windows N Types: Benefits and Downfalls</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-transforming-plain-words-into-3d-marvels-ps-guide/"><u>[Updated] Transforming Plain Words Into 3D Marvels  PS Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-xs-max-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone XS Max</u></a></li>
-<li><a href="https://windows11.techidaily.com/curing-windows-security-hiccups-in-win-11-system/"><u>Curing Windows Security Hiccups in Win 11 System</u></a></li>
-<li><a href="https://windows11.techidaily.com/command-prompt-mastery-the-fundamental-20-cmd-commands-to-know/"><u>Command Prompt Mastery: The Fundamental 20 CMD Commands to Know</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-rise-to-greatness-with-these-10-elevating-films/"><u>[Updated] Rise to Greatness with These 10 Elevating Films</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-unveiling-the-backbone-of-music-techniques-to-extract-and-adapt-rhythmic-structures/"><u>Updated In 2024, Unveiling the Backbone of Music Techniques to Extract and Adapt Rhythmic Structures</u></a></li>
-<li><a href="https://windows11.techidaily.com/disabling-resource-locks-in-windows-11-environments/"><u>Disabling Resource Locks in Windows 11 Environments</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mobile-audio-enhancers-for-swift-soundplay/"><u>[Updated] Mobile Audio Enhancers for Swift Soundplay</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-how-to-add-and-change-thumbnails-of-twitter-videos/"><u>[New] 2024 Approved  How to Add and Change Thumbnails of Twitter Videos?</u></a></li>
-<li><a href="https://windows11.techidaily.com/dial-down-display-flicker-in-windows-11-devices/"><u>Dial Down Display Flicker in Windows 11 Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/compre-written-guide-to-repair-xbox-live-glitches/"><u>Compre Written Guide To Repair Xbox Live Glitches</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/perfecting-youtube-videos-with-angle-rotation-mastery/"><u>Perfecting YouTube Videos with Angle Rotation Mastery</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-easy-to-follow-guide-recording-non-root-android-sounds/"><u>In 2024, Easy-to-Follow Guide  Recording Non-Root Android Sounds</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

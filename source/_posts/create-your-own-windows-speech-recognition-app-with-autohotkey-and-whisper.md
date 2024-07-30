@@ -252,67 +252,7 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 
  With AutoHotkey, we can effortlessly create a basic GUI for command-line apps like Whisper. So, let's do that and see how you can create your own transcription app by combining AutoHotkey's GUI-making superpowers with OpenAI's Whisper as the "brain" behind the buttons.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://windows11.techidaily.com/comprehensive-fix-for-msvcr110dll-absence/"><u>Comprehensive Fix for msvcr110.dll Absence</u></a></li>
-<li><a href="https://windows11.techidaily.com/distinguishing-characteristics-of-exe-and-msi-files/"><u>Distinguishing Characteristics of EXE and MSI Files</u></a></li>
-<li><a href="https://windows11.techidaily.com/directing-system-thermal-output-with-customization/"><u>Directing System Thermal Output with Customization</u></a></li>
-<li><a href="https://windows11.techidaily.com/disable-windows-11s-covert-surveillance/"><u>Disable Windows 11'S Covert Surveillance</u></a></li>
-<li><a href="https://windows11.techidaily.com/conjoining-android-and-windows-11-tablets-effortlessly/"><u>Conjoining Android and Windows 11 Tablets Effortlessly</u></a></li>
-<li><a href="https://windows11.techidaily.com/connected-scribbles-using-stickies-across-all-devices-in-win11/"><u>Connected Scribbles: Using Stickies Across All Devices in Win11</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-steps-to-become-a-live-spectator-on-tiktok/"><u>[New] In 2024, Steps to Become a Live Spectator on TikTok</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-streamlining-your-creative-process-with-effective-instagram-video-editing-tips/"><u>[New] In 2024, Streamlining Your Creative Process with Effective Instagram Video Editing Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/controlling-highlight-features-on-windows-11-pcs/"><u>Controlling Highlight Features on Windows 11 PCs</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-healing-power-of-asmr-explained-here/"><u>[Updated] The Healing Power of ASMR Explained Here</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-ultimate-guide-to-macro-videography-techniques/"><u>[New] 2024 Approved  Ultimate Guide to Macro Videography Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/curtailing-spontaneous-terminal-trigger-activations/"><u>Curtailing Spontaneous Terminal Trigger Activations</u></a></li>
-<li><a href="https://windows11.techidaily.com/crafting-a-plan-for-file-explorer-in-windows-11/"><u>Crafting a Plan for File Explorer in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/customize-your-window-11-experience-dynamic-wallpapers-guide/"><u>Customize Your Window 11 Experience: Dynamic Wallpapers Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-device-disabled-issue-with-error-code-22-on-windows-11/"><u>Correcting Device Disabled Issue with Error Code 22 on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/critiquing-7-perplexing-windows-11-aesthetics/"><u>Critiquing 7 Perplexing Windows 11 Aesthetics</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-microsofts-window-file-format-cab-for-ease-of-use/"><u>Deciphering Microsoft's Window File Format (CAB) for Ease of Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/discover-where-windows-keeps-snaps/"><u>Discover Where Windows Keeps Snaps</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-vivo-v30-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Vivo V30 Pro IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-systemsettings-executable-errors-on-windows-11/"><u>Correcting SystemSettings Executable Errors on Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-differences-between-srgb-and-rgb/"><u>[Updated] Exploring the Differences Between Srgb & Rgb</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-depth-look-lg-bp350-screen-resolution-and-aspect-ratio/"><u>In-Depth Look  LG BP350 Screen Resolution and Aspect Ratio</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-explore-these-14-fascinating-text-based-animations/"><u>[New] Explore These 14 Fascinating Text-Based Animations</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-add-titles-in-final-cut-pro-x-for-2024/"><u>How to Add Titles in Final Cut Pro X for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/disabling-auto-triggered-console-crashes-on-windows/"><u>Disabling Auto-Triggered Console Crashes on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/correct-keyboard-fixes-for-windows-11s-unresponsive-f-keys/"><u>Correct: Keyboard Fixes for Windows 11'S Unresponsive F Keys</u></a></li>
-<li><a href="https://windows11.techidaily.com/command-line-conjuring-windows-new-feature/"><u>Command Line Conjuring: Windows' New Feature</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-vivo-v29-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Vivo V29</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-realme-c67-4g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Realme C67 4G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-and-correcting-unspecified-obs-recording-glitches/"><u>Decoding and Correcting Unspecified OBS Recording Glitches</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquer-compatibility-issues-windows-troubleshooting-blueprint/"><u>Conquer Compatibility Issues: Windows Troubleshooting Blueprint</u></a></li>
-<li><a href="https://windows11.techidaily.com/dissecting-windows-11s-user-identity-framework/"><u>Dissecting Windows 11'S User Identity Framework</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-ms-resouce-issue-for-text-display/"><u>Correcting Ms-Resouce Issue for Text Display</u></a></li>
-<li><a href="https://windows11.techidaily.com/determining-hddssd-in-windows-a-step-by-step-guide/"><u>Determining HDD/SSD in Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-alternatives-and-step-by-step-guide-for-apowersoft-audio-recorder/"><u>New 2024 Approved Alternatives and Step by Step Guide for Apowersoft Audio Recorder</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-many-viewer-thumbs-up-equals-money-youtube-tips/"><u>[Updated] In 2024, How Many Viewer Thumbs Up Equals Money? YouTube Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/dealing-with-inaccessible-steam-servers-in-home-pc-setups/"><u>Dealing With Inaccessible Steam Servers in Home PC Setups</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-a-roadmap-for-monetization-success-on-youtube-via-adsense/"><u>In 2024, A Roadmap for Monetization Success on YouTube via AdSense</u></a></li>
-<li><a href="https://windows11.techidaily.com/ditching-the-default-store-on-new-windows-11/"><u>Ditching the Default Store on New Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-solution-to-stop-0xf0831-in-windows-11/"><u>Comprehensive Solution to Stop 0xF0831 in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/combining-audioscapes-and-visuals-snipping-tool-guide-max-156/"><u>Combining Audioscapes & Visuals: Snipping Tool Guide (Max 156)</u></a></li>
-<li><a href="https://windows11.techidaily.com/dial-up-the-velocity-fixing-your-stuttery-pc/"><u>Dial Up the Velocity: Fixing Your Stuttery PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-dual-monitor-mishaps-on-your-pc/"><u>Correcting Dual Monitor Mishaps on Your PC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-free-count-down-timers/"><u>In 2024, Best Free Count Down Timers</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquering-idle-computing-with-auto-sleep-in-w10w11/"><u>Conquering Idle Computing with Auto Sleep in W10/W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-camera-not-detected-error-on-windows-11-pcs/"><u>Correcting “Camera Not Detected” Error on Windows 11 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/ditch-default-home-port-on-w11-settings-interface/"><u>Ditch Default Home Port on W11 Settings Interface</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquering-folder-tab-glitches-in-windows-11/"><u>Conquering Folder Tab Glitches in Windows 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/historys-high-scorers-on-reddit-top-10-list/"><u>History's High Scorers on Reddit - Top 10 List</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-mastering-top-faces-essential-fb-videos/"><u>[New] Mastering Top Faces  Essential FB Videos</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-maximizing-your-tiktok-impact-from-fans-to-followers-and-beyond-for-2024/"><u>[New] Maximizing Your TikTok Impact  From Fans to Followers and Beyond for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-and-overcoming-the-windows-virtualbox-efail-error/"><u>Decoding and Overcoming the Windows Virtualbox E_FAIL Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/clean-windows-search-interface-no-icons/"><u>Clean Windows Search Interface: No Icons</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-motorola-edge-40-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Motorola Edge 40 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquering-windows-screen-size-setsbacks-7-easy-solutions/"><u>Conquering Windows' Screen Size Setsbacks: 7 Easy Solutions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quick-fixes-to-repair-microsoft-excel-2010-content-related-error-by-stellar-guide/"><u>Quick Fixes to Repair Microsoft Excel 2010 Content related error</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-4-proven-strategies-to-add-big-heads-in-your-tiktok-vfx-3-ways/"><u>[New] In 2024, 4 Proven Strategies to Add Big Heads in Your TikTok VFX (3 Ways)</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

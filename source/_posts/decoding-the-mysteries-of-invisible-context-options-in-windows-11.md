@@ -71,52 +71,7 @@ thumbnail: https://thmb.techidaily.com/61e1fbca092ac5d2ffa00e76582e3823f6ee9bd86
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-rotate-iphone-pics-sideways-and-upside-down-made-easy/"><u>[New] In 2024, Rotate iPhone Pics  Sideways & Upside Down Made Easy</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-share-problems-in-geforce-software-windows/"><u>Correcting Share Problems in GeForce Software (Windows)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cultivating-a-loyal-viewership-base-on-youtube/"><u>Cultivating a Loyal Viewership Base on Youtube</u></a></li>
-<li><a href="https://windows11.techidaily.com/configure-windows-11-to-optimize-system-audio-performance/"><u>Configure Windows 11 to Optimize System Audio Performance</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-chrome-time-lag-on-windows-devices/"><u>Correcting Chrome Time Lag on Windows Devices</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-finding-software-that-simulates-varied-stomach-gas-emissions/"><u>New In 2024, Finding Software that Simulates Varied Stomach Gas Emissions</u></a></li>
-<li><a href="https://windows11.techidaily.com/connectivity-problems-windows-solutions/"><u>Connectivity Problems: Windows Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/curtailing-spontaneous-terminal-trigger-activations/"><u>Curtailing Spontaneous Terminal Trigger Activations</u></a></li>
-<li><a href="https://windows11.techidaily.com/converting-your-notepad-to-nighttime-mode-with-ease-on-windows-11/"><u>Converting Your Notepad to Nighttime Mode with Ease on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/compute-chronology-determining-window-system-era/"><u>Compute Chronology: Determining Window System Era</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-minimum-requirement-misfires-in-intel-hd-errors/"><u>Correcting Minimum Requirement Misfires in Intel HD Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/disclosing-windows-11s-elusive-icons/"><u>Disclosing Windows 11'S Elusive Icons</u></a></li>
-<li><a href="https://windows11.techidaily.com/customize-your-pcs-idle-lock-time/"><u>Customize Your PC's Idle Lock Time</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-install-access-denied-windows-setup-issue/"><u>Correcting Install Access Denied Windows Setup Issue</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-brand-transformation-on-instagram-top-10-unconventional-igtv-video-ideas/"><u>[Updated] Brand Transformation on Instagram  Top 10 Unconventional IGTV Video Ideas</u></a></li>
-<li><a href="https://windows11.techidaily.com/counteracting-the-issue-of-unsaved-nvidia-settings-in-windows-11/"><u>Counteracting the Issue of Unsaved NVidia Settings in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/customize-thumbnail-heights-in-windows-11-ui/"><u>Customize Thumbnail Heights in Windows 11 UI</u></a></li>
-<li><a href="https://windows11.techidaily.com/differences-between-cloud-based-windows-installations/"><u>Differences Between Cloud-Based Windows Installations</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquering-c0000005-on-windows-operating-systems/"><u>Conquering C0000005 on Windows Operating Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/demystifying-windows-allocation-strategy-for-reserve-memory/"><u>Demystifying Windows' Allocation Strategy for Reserve Memory</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-system-errors-win-os-and-df-conundrums-solved/"><u>Deciphering System Errors: Win OS and DF Conundrums Solved</u></a></li>
-<li><a href="https://windows11.techidaily.com/defunct-windows-characteristics-youll-miss/"><u>Defunct Windows Characteristics You'll Miss</u></a></li>
-<li><a href="https://windows11.techidaily.com/comparing-w10-and-w11-a-detailed-look-at-key-updates/"><u>Comparing W10 & W11: A Detailed Look at Key Updates</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-guide-to-smooth-youtube-video-documentation/"><u>In 2024, Guide to Smooth YouTube Video Documentation</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-camera-not-detected-error-on-windows-11-pcs/"><u>Correcting “Camera Not Detected” Error on Windows 11 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/diving-deep-into-data-6-windows-properties-paths/"><u>Diving Deep Into Data: 6 Windows Properties Paths</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-understanding-aspect-ratio-regulations-on-twitter/"><u>[Updated] Understanding Aspect Ratio Regulations on Twitter</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-seedling-selections-a-farmers-best-game-gems/"><u>[Updated] 2024 Approved  Seedling Selections  A Farmer's Best Game Gems</u></a></li>
-<li><a href="https://windows11.techidaily.com/discover-your-ideal-nvidia-driver-entertainment-driven-selection/"><u>Discover Your Ideal Nvidia Driver: Entertainment-Driven Selection</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-the-discrepancy-c-drive-vs-d-drive/"><u>Decoding the Discrepancy: C: Drive Vs. D: Drive</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-raw-footage-to-polished-perfection-an-essential-youtube-video-editing-guide-for-2024/"><u>[New] From Raw Footage to Polished Perfection  An Essential Youtube Video Editing Guide for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/crafting-windows-11-shortcuts-a-step-by-step-guide-to-text-snapping/"><u>Crafting Windows 11 Shortcuts: A Step-by-Step Guide to Text Snapping</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-build-and-version-numbers-in-windows-os/"><u>Decoding Build and Version Numbers in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/convenient-tips-for-changing-filter-key-options-in-windows/"><u>Convenient Tips for Changing Filter Key Options in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/disabling-automatic-shutdown-timer-on-windows/"><u>Disabling Automatic Shutdown Timer on Windows</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-introduction-to-the-best-cinematic-luts-in-the-market/"><u>Updated Introduction to The Best Cinematic LUTs in The Market</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-tutorial-for-extracting-dual-and-multi-archive-files/"><u>Comprehensive Tutorial for Extracting Dual and Multi-Archive Files</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-solution-to-stop-0xf0831-in-windows-11/"><u>Comprehensive Solution to Stop 0xF0831 in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-device-disabled-issue-with-error-code-22-on-windows-11/"><u>Correcting Device Disabled Issue with Error Code 22 on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-windows-misaligned-thx-audio-feedback/"><u>Correcting Windows' Misaligned THX Audio Feedback</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unveiling-the-secrets-of-facebook-videos/"><u>[Updated] In 2024, Unveiling the Secrets of Facebook Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/dissecting-windows-build-numbers-and-updates/"><u>Dissecting Windows Build Numbers & Updates</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquer-winos-stop-programs-from-autominimizing/"><u>Conquer WinOS: Stop Programs From AutoMinimizing</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"
