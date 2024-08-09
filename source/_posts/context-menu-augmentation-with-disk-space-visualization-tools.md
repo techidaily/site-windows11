@@ -1,7 +1,7 @@
 ---
 title: Context Menu Augmentation with Disk Space Visualization Tools
-date: 2024-07-11T22:26:26.433Z
-updated: 2024-07-12T22:26:26.433Z
+date: 2024-08-08T05:59:06.953Z
+updated: 2024-08-09T05:59:06.953Z
 tags:
   - windows10
   - windows11
@@ -31,8 +31,14 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 5. Select your preferred language for the software on the drop-down menu and click**OK** .
 6. Click**Next** to view the license terms, and select the**I accept the agreement** option.
 7. Keep clicking**Next** to reach additional task settings. There make sure the**Add RidNacs to Windows Explorer Context Menu** checkbox is selected.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![The RidNacs window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/ridnac-setup-window.jpg)
 8. Select**Next** again, and then press the**Install** button to proceed with the installation.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Install button for RidNacs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/setup-ridnac.jpg)
 
  Now you start analyzing folder storage space usage on your PC with RidNacs. Open the Explorer file manager window, and right-click a folder to select**Show more options** . Click the**Analyze Disk Space Usage with RidNacs** option on the classic context menu to start the scan.
@@ -55,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 2. Click the Win 64-Bit**Download** option for the Disk Savvy v14.7.26 product version.
 3. Double-click**disksavvy\_setup\_v14.7.26\_x64.exe** .
 4. Select**Next** and**I Agree** **to confirm acceptance** of the end user agreement.  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![The Disk Savvy setup wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-savvy-window.jpg)
 5. Then press**Install** to add the Disk Savvy tool to the Windows context menu.
 6. Select**Next** when installation is complete.
@@ -76,12 +85,21 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 
  This software can analyze multiple folders at once. To select multiple folders in the Disk Savvy window, click**Default profiles** on the left and the**+** **Add** **input** button for directories. Then select the**Add Input Directory** option, click the**ellipsis** button, choose a folder to add, and press the**OK** buttons. Click**Analyze** to scan all selected folders.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Add Input Directory option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-input-directory.jpg)
 
  You can save and export disk usage reports to various file formats. To do so, click the**Save** option. Select a file extension option on the**Report format** drop-down menu; click the**Report type** drop-down menu to choose an option there, and press the**Save** button. You can view the report by opening it from the default Documents folder save location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Disk space analyzis report options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-report-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Get a Visual Overview of Folder and File Disk Usage in Windows
 
  RidNics and Disk Savvy are useful tools that enable users to quickly analyze disk space usage in selected folders or entire drives. Those context menu utilities give you a comprehensive visual overview of what files and folders are taking up the most space on your hard drive. They’ll come in handy for freeing up drive space through manual user file deletion.
@@ -102,3 +120,40 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-effortless-screen-saving-on-android-devices/"><u>[New] In 2024, Effortless Screen Saving on Android Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-pcmacphone-step-by-step-guide-to-movie-capture/"><u>[New] In 2024, PC/Mac/Phone  Step-by-Step Guide to Movie Capture</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-constructing-captivating-youtube-music-selections-for-2024/"><u>[Updated] Constructing Captivating YouTube Music Selections for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/6-ways-to-fix-network-adapter-not-working-in-windows/"><u>6 Ways to Fix Network Adapter Not Working in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/9-insights-on-how-pc-outperforms-a-mac-in-essential-areas/"><u>9 Insights on How PC Outperforms a Mac in Essential Areas</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-closer-look-at-windows-sound-system-segregation/"><u>A Closer Look at Windows' Sound System Segregation</u></a></li>
+<li><a href="https://windows11.techidaily.com/augmenting-your-window-11-with-these-6-pioneering-android-apps/"><u>Augmenting Your Window 11 with These 6 Pioneering Android Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-loss-the-top-8-windows-recovery-tips/"><u>Avoiding Loss: The Top 8 Windows Recovery Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-lost-messages-how-to-fix-notifications-that-fail/"><u>Avoiding Lost Messages: How to Fix Notifications That Fail</u></a></li>
+<li><a href="https://windows11.techidaily.com/booting-up-windows-sound-service-quick-fix-steps/"><u>Booting Up Windows Sound Service: Quick Fix Steps</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-motorola-moto-g84-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Motorola Moto G84 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/comparing-ease-of-use-in-soft-installation-tools/"><u>Comparing Ease of Use in Soft Installation Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/converting-the-modern-windows-11-search-to-an-icon-style/"><u>Converting the Modern Windows 11 Search to an Icon Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-camera-not-detected-error-on-windows-11-pcs/"><u>Correcting “Camera Not Detected” Error on Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-html-display-issues-in-windows-11-email-client/"><u>Correcting HTML Display Issues in Windows 11 Email Client</u></a></li>
+<li><a href="https://windows11.techidaily.com/counteracting-dxgierrordeviceremoved-in-win-1011/"><u>Counteracting DXGI_ERROR_DEVICE_REMOVED in Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/cracking-the-code-fixing-windows-pin-failures/"><u>Cracking the Code: Fixing Windows PIN Failures</u></a></li>
+<li><a href="https://windows11.techidaily.com/cross-browser-conundrums-unlocking-windows-website-shutouts/"><u>Cross-Browser Conundrums: Unlocking Windows' Website Shutouts</u></a></li>
+<li><a href="https://windows11.techidaily.com/cut-down-clutter-how-to-set-up-autofiledeletion-on-winos/"><u>Cut Down Clutter: How to Set Up AutoFileDeletion on WINOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-windows-the-ai-revolutions-new-frontier/"><u>Cutting-Edge Windows: The AI Revolution's New Frontier</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-and-correcting-installer-messages-on-pcs/"><u>Decoding and Correcting Installer Messages on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-the-discrepancy-c-drive-vs-d-drive/"><u>Decoding the Discrepancy: C: Drive Vs. D: Drive</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-the-windows-startup-journey/"><u>Decoding the Windows Startup Journey</u></a></li>
+<li><a href="https://windows11.techidaily.com/disable-the-app-open-tracker-in-windows-10/"><u>Disable the App Open Tracker in Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-where-windows-keeps-snaps/"><u>Discover Where Windows Keeps Snaps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/efficient-strategies-for-dealing-with-the-chatgpt-is-full-notification-on-windows/"><u>Efficient Strategies for Dealing with the ‘ChatGPT Is Full’ Notification on Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-epson-xp-440-driver-software-without-hassle/"><u>Get the Newest Epson XP-440 Driver Software Without Hassle</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-the-elite-set-selecting-the-best-gaming-streamers-webcams/"><u>In 2024, The Elite Set  Selecting the Best Gaming Streamers Webcams</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-depth-look-at-srt-knowledge-for-all-levels/"><u>In-Depth Look at SRT  Knowledge for All Levels</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/lightweight-pc-video-grabber-w10-compatible-for-2024/"><u>Lightweight PC Video Grabber, W10 Compatible for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719327539921-master-the-art-of-microsoft-support-for-problems/"><u>Master the Art of Microsoft Support for Problems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/upgrade-your-channel-description-with-ease-and-flair-for-2024/"><u>Upgrade Your Channel Description with Ease and Flair for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-gt-5-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme GT 5 Pro Hard Reset | Dr.fone</u></a></li>
+</ul></div>

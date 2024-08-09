@@ -1,7 +1,7 @@
 ---
 title: "Delving Into Windows Tools: CHKDSK, SFC & DISM's Functions"
-date: 2024-07-11T22:30:10.659Z
-updated: 2024-07-12T22:30:10.659Z
+date: 2024-08-08T05:55:51.916Z
+updated: 2024-08-09T05:55:51.916Z
 tags:
   - windows10
   - windows11
@@ -49,12 +49,18 @@ thumbnail: https://thmb.techidaily.com/7190f701d24b2bca2702a5bcd803eaeb74415822a
 
  Select the **Tools** tab and then select **Check** in the **Error-checking** section.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Launch the Check Disk tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-error-checking.jpg)
 
  If Windows determines that everything is running smoothly, it will suggest that you don't need to scan the drive. To run CHKDSK anyway, select **Scan drive**.
 
  The scan may take anywhere from a few minutes to half an hour, depending on the size and state of your drive. Once complete, CHKDSK will either tell you that no errors were found, or if it does find any, it will suggest you fix them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Run CHKDSK From the Command Prompt
 
  For greater control over the disk-checking process, you should run CHKDSK from an elevated Command Prompt. Follow these steps to continue:
@@ -73,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/7190f701d24b2bca2702a5bcd803eaeb74415822a
 
  If you cannot run these commands because "the volume is in use by another process," Command Prompt will offer to schedule the scan for when your PC restarts. This should, however, only happen once. If the tool pops up whenever you boot your PC, you can [stop CHKDSK from running at every startup](https://www.makeuseof.com/tag/stuck-chkdsk-use-fix-right-way/) manually.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## What Is SFC Scannow and When Should You Use It?
 
  Whereas CHKDSK finds and fixes errors in the file system of your hard drive, **SFC (System File Checker)** specifically scans and repairs Windows system files. If it detects a file has been corrupted or modified, SFC automatically replaces that file with the correct version.
@@ -95,8 +105,14 @@ thumbnail: https://thmb.techidaily.com/7190f701d24b2bca2702a5bcd803eaeb74415822a
 * **Windows Resource Protection found corrupt files and successfully repaired them.** This should hopefully mean that your problems have been solved.
 * **Windows Resource Protection found corrupt files but was unable to fix some of them.** This means that system files are to blame, but SFC can't replace them. Try running the tool again in Safe Mode. If you still get the same result, don't despair: it's time to use DISM.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of complete sfc scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-complete-sfc-scan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is DISM and When Should You Use It?
 
 **DISM (Deployment Image Servicing and Management)** is the most powerful of the three Windows diagnostic tools. Although you shouldn't usually need to use the tools, it's the one to turn to when you're experiencing frequent crashes, freezes, and errors, but SFC either can't repair your system files or is unable to run at all.
@@ -124,6 +140,11 @@ thumbnail: https://thmb.techidaily.com/7190f701d24b2bca2702a5bcd803eaeb74415822a
 
  Once the scan and repairs are complete, restart your PC and run SFC again to replace your corrupt or missing system files.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## What Order Should You Run CHKDSK, SFC, and DISM In?
 
  Now that you understand what CHKDSK, SFC, and DISM do, running one or more of these Windows troubleshooting tools will hopefully help you fix your PC.
@@ -142,3 +163,57 @@ thumbnail: https://thmb.techidaily.com/7190f701d24b2bca2702a5bcd803eaeb74415822a
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-exclusive-selection-of-elite-race-games/"><u>[New] Exclusive Selection of Elite Race Games</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-temporaryfreeze-immediate-recording-guide/"><u>[New] In 2024, TemporaryFreeze  Immediate Recording Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unveiling-fake-followers-on-instagram-effortlessly-for-2024/"><u>[New] Unveiling Fake Followers on Instagram, Effortlessly for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-boosting-fb-video-engagement-and-audience-reach/"><u>[Updated] In 2024, Boosting FB Video Engagement & Audience Reach</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-a-step-by-step-walkthrough-to-change-profile-pictorials/"><u>2024 Approved  A Step-by-Step Walkthrough to Change Profile Pictorials</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/a-beginners-pathway-to-iphone-audio-memos/"><u>A Beginner's Pathway to iPhone Audio Memos</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-oppo-find-x7-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Oppo Find X7? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-motorola-edge-40-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Motorola Edge 40 has native MKV support?</u></a></li>
+<li><a href="https://windows11.techidaily.com/downloading-and-instaling-windows-11-arm-a-streamlined-process/"><u>Downloading & Instaling Windows 11 ARM - A Streamlined Process</u></a></li>
+<li><a href="https://windows11.techidaily.com/downloading-woes-fixing-file-transfer-issues-in-windows-11/"><u>Downloading Woes: Fixing File Transfer Issues in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/easily-enlarge-or-decrease-taskbar-in-win11/"><u>Easily Enlarge or Decrease Taskbar in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-techniques-for-deactivating-win11s-hyper-v/"><u>Easy Techniques for Deactivating Win11's Hyper-V</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-desktop-organization-fixing-gmails-taskbar-spot/"><u>Effective Desktop Organization: Fixing Gmail's Taskbar Spot</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-hardware-diagnosis-tools/"><u>Effective Hardware Diagnosis Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-methods-to-restore-functioning-asana-on-windows-machines/"><u>Effective Methods to Restore Functioning Asana on Windows Machines</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-word-lookups-for-newbies-to-win11/"><u>Efficient Word Lookups for Newbies to Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortlessly-access-the-microsoft-store/"><u>Effortlessly Access the Microsoft Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortlessly-accessing-windows-mixer-settings/"><u>Effortlessly Accessing Window's Mixer Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-desktop-8-winbubble-methods-for-window-tailoring/"><u>Elevate Your Desktop: 8 WinBubble Methods for Window Tailoring</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-low-sound-levels-for-external-speakers/"><u>Elevating Low Sound Levels for External Speakers</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-error-rebuild-failed-java-virtual-machine/"><u>Eliminate Error: Rebuild Failed Java Virtual Machine</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-boltguns-lags-winning-techniques-for-windows-users/"><u>Eliminating Boltgun's Lags: Winning Techniques for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-chrome-profiles-errors-on-your-workstation/"><u>Eliminating Chrome Profiles Errors on Your Workstation</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-faulty-printer-response-in-ad-ds-win-10-and-11/"><u>Eliminating Faulty Printer Response in AD DS, WIN 10 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-icon-grouping-in-windows-11/"><u>Eliminating Icon Grouping in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-team-error-80080300-in-windows-11/"><u>Eliminating Team Error 80080300 in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-win1011-error-0xc0000001/"><u>Eliminating Win10/11 Error 0xC0000001</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-windows-notepad-system-breakdowns/"><u>Eliminating Windows Notepad System Breakdowns</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-device-detection-for-razer-gear-in-windows-11/"><u>Enabling Device Detection for Razer Gear in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enablingdisabling-wi-fi-cost-monitor-in-win11/"><u>Enabling/Disabling Wi-Fi Cost Monitor in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-night-vision-with-dark-mode-for-notepad-on-win-11/"><u>Enhance Night Vision with Dark Mode for Notepad on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-pc-master-distributed-transcoding-with-tdarr/"><u>Enhance PC: Master Distributed Transcoding with Tdarr</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-performance-with-customized-windows-11-configurations/"><u>Enhance Performance with Customized Windows 11 Configurations</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-productivity-unleash-potential-via-flow-launcher/"><u>Enhance Productivity: Unleash Potential via Flow Launcher</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-speech-recognition-in-windows-pc/"><u>Enhance Speech Recognition in Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-computer-experience-with-worldwide-mouse-expertise-in-powertoys/"><u>Enhance Your Computer Experience with Worldwide Mouse Expertise in PowerToys</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-user-identity-management-in-win11-pro/"><u>Enhancing User Identity Management in Win11 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicate-performance-hiccups-a-guide-to-optimizing-warhammer-on-windows/"><u>Eradicate Performance Hiccups: A Guide to Optimizing Warhammer on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicating-overload-in-win-based-software-with-ease/"><u>Eradicating Overload in Win-Based Software with Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/error-in-snipper-find-9-steps-for-swift-remedy/"><u>Error in Snipper? Find 9 Steps for Swift Remedy</u></a></li>
+<li><a href="https://windows11.techidaily.com/escalate-typing-pace-via-windows-powertoys/"><u>Escalate Typing Pace via Windows' PowerToys</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/exploring-the-best-audio-capture-technology-for-apple-devices-for-2024/"><u>Exploring the Best Audio Capture Technology for Apple Devices for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/facebook-today-changes-and-what-they-mean-for-you-for-2024/"><u>Facebook Today  Changes and What They Mean for You for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/fifa-highlights-and-trends-charting-on-youtube/"><u>FIFA Highlights & Trends  Charting on YouTube</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-c67-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme C67 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-ingenious-approaches-to-facebook-video-ad-crafting/"><u>In 2024, Ingenious Approaches to Facebook Video Ad Crafting</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-rethink-your-classic-movies-best-swaps-7/"><u>In 2024, Rethink Your Classic Movies - Best Swaps #7</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-best-free-video-splitters-for-mkv-files-updated-2023-for-2024/"><u>New Best Free Video Splitters for MKV Files (Updated 2023) for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/pricing-outline-the-cost-to-film-melodies-visually-for-2024/"><u>Pricing Outline  The Cost to Film Melodies Visually for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/zipping-and-textifying-a-guide-to-crafting-srt-from-zip/"><u>Zipping and Textifying  A Guide to Crafting Srt From Zip</u></a></li>
+</ul></div>
