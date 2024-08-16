@@ -1,7 +1,7 @@
 ---
 title: Muting Windows Update Notifications
-date: 2024-07-11T21:44:41.553Z
-updated: 2024-07-12T21:44:41.553Z
+date: 2024-08-15T15:47:46.028Z
+updated: 2024-08-16T15:47:46.028Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 3. Under Windows Update, you will find the **Restart now** option.
 4. Select this option to restart your computer and install the pending updates.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Install Pending Updates
 
  If your computer keeps reminding you to update and shuts down, check for pending updates. It is possible that the updates were not installed properly and Windows is now asking you to complete them.
@@ -51,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 2. Select **Windows Update** in the left sidebar, then click **Troubleshoot**.
 3. On the next page, click **Other trouble-shooters**.  
 ![Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/other-troubleshooters.jpg)
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Look for **Windows Update** and click **Run** next to it.  
 ![Run Windows Update Troubleshooter-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-windows-update-troubleshooter-1.jpg)
 
@@ -72,6 +78,9 @@ net stop msiserver`
 `C:\Windows\SoftwareDistribution`
 6. In the SoftwareDistribution folder, select all the files and delete them permanently.  
 ![Clear SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-softwaredistribution-folder.jpg)
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7. When a permissions pop-up appears, select the checkbox and click **Continue**.
 8. After you delete the Software Distribution folder, you must restart the services you stopped. To do so, go back to the Command Prompt window and run the following command:  
 `net start wuauserv  
@@ -83,6 +92,9 @@ net start msiserver`
 
  ​​​​
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## 5\. Disable Windows Update
 
  If you keep encountering the issue, disable the Windows Update service. This will stop Windows from automatically downloading updates and showing the message.
@@ -93,9 +105,16 @@ net start msiserver`
 2. Type **services.msc** in the dialog box and press Enter. This will open the Services console.
 3. Search for **Windows Update**, right-click on it, and select **Stop**.  
 ![Stop Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/stop-windows-update-service.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 4. Now double-click on **Windows Update** to open the Properties window.
 5. On the **General** tab, click the **Startup type** drop-down and select **Disabled**.  
 ![Disable Windows Update Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-windows-update-service.jpg)
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Click **Apply** \> **OK** to save the changes.
 7. Now close the window and restart your computer.
 
@@ -191,3 +210,41 @@ net start cryptsvc`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cinematography-secrets-unveiled-by-youtube-pros/"><u>[New] In 2024, Cinematography Secrets Unveiled by YouTube Pros</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-mastering-the-art-of-finding-pixel-tone-sites-for-2024/"><u>[New] Mastering the Art of Finding Pixel Tone Sites for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/amazons-social-stardom-liking-and-viewing-leaderships-for-2024/"><u>Amazon's Social Stardom  Liking and Viewing Leaderships for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/consumers-speak-the-vllo-narrative-for-2024/"><u>Consumers Speak  The VLLO Narrative for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/drive-letter-dilemma-in-windows-understanding-the-issues-fixes-presented/"><u>Drive Letter Dilemma in Windows - Understanding The Issues, Fixes Presented</u></a></li>
+<li><a href="https://windows11.techidaily.com/easily-knock-off-the-onedrive-feature-from-file-explorer/"><u>Easily Knock Off the OneDrive Feature From File Explorer</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-to-activatedeactivate-secure-boot-and-tpm-in-virtualbox/"><u>Easy Steps to Activate/Deactivate Secure Boot & TPM in VirtualBox</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-file-transfers-the-top-5-windows-apps/"><u>Effortless File Transfers: The Top 5 Windows Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortlessly-syncing-files-in-windows-1011/"><u>Effortlessly Syncing Files in Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-workflow-choosing-the-best-6-to-do-list-apps-on-windows-11/"><u>Elevate Your Workflow: Choosing the Best 6 To-Do List Apps on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-virtual-battles-why-windows-reigns-supreme/"><u>Elevating Virtual Battles: Why Windows Reigns Supreme</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-chrome-aw-snap-glitch-on-windows/"><u>Eliminate Chrome “Aw, Snap!” Glitch on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-cursor-blanking-on-win11-instantly/"><u>Eliminate Cursor Blanking on Win11 Instantly</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-common-roadblocks-in-windows-11/"><u>Eliminating Common Roadblocks in WINDOWS 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-steam-hurdles-to-play-your-favorite-game-on-win-11/"><u>Eliminating Steam Hurdles to Play Your Favorite Game on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-visibility-of-windows-11-task-view/"><u>Eliminating Visibility of Windows 11 Task View</u></a></li>
+<li><a href="https://windows11.techidaily.com/enforcing-controlled-directory-access-on-modern-windows-os/"><u>Enforcing Controlled Directory Access on Modern Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-system-without-microsofts-core-software/"><u>Enhance Your System Without Microsoft's Core Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-power-feedback-setting-up-fully-charged-notifications-in-win11/"><u>Enhancing Power Feedback: Setting Up Fully Charged Notifications in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-user-experience-with-automatic-updates-toolbar-in-windows-11plus11/"><u>Enhancing User Experience with Automatic Updates Toolbar in Windows 11+11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enriching-linux-experience-via-windows-collaboration/"><u>Enriching Linux Experience via Windows Collaboration</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensuring-a-smooth-transition-for-linux-subsystem-within-the-new-windows-paradigm/"><u>Ensuring a Smooth Transition for Linux Subsystem Within the New Windows Paradigm</u></a></li>
+<li><a href="https://windows11.techidaily.com/entering-quake-modes-through-windows-terminal/"><u>Entering Quake Modes Through Windows Terminal</u></a></li>
+<li><a href="https://windows11.techidaily.com/escalate-emulation-faster-yuzu-win-users/"><u>Escalate Emulation: Faster Yuzu, WIN Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-itel-a70-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Itel A70 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-samsung-galaxy-xcover-7-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Samsung Galaxy XCover 7 to iPod | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-achieving-smooth-volume-decreases-using-lumafusion/"><u>In 2024, Achieving Smooth Volume Decreases Using Lumafusion</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-s24-ultra-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy S24 Ultra FRP Without Computer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-design-and-build-your-own-4k-editing-system/"><u>In 2024, The Ultimate Guide to Design and Build Your Own 4K Editing System</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/key-destinations-enhancing-youtube-video-impact/"><u>Key Destinations Enhancing YouTube Video Impact</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-reddit-who-get-instant-access-to-filmora-promo-codes/"><u>New Reddit Who? Get Instant Access to Filmora Promo Codes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unraveling-the-mystery-behind-windows-notorious-blue-screen/"><u>Unraveling the Mystery Behind Windows' Notorious Blue Screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-wrinkle-free-up-operator-installation/"><u>Windows Wrinkle? Free Up Operator Installation</u></a></li>
+</ul></div>

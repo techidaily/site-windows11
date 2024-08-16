@@ -1,7 +1,7 @@
 ---
 title: "Understanding Chkdsk Vs. Scan Disk: Dissecting Windows Tools"
-date: 2024-07-11T21:21:57.397Z
-updated: 2024-07-12T21:21:57.397Z
+date: 2024-08-15T16:10:54.417Z
+updated: 2024-08-16T16:10:54.417Z
 tags:
   - windows10
   - windows11
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/a5a6155fc00c2184034c489f78d9dfa451dfb821e
 * [What Is DISM and When Should You Use It?](#what-is-dism-and-when-should-you-use-it)
 * [What Order Should You Run CHKDSK, SFC, and DISM In?](#what-order-should-you-run-chkdsk-sfc-and-dism-in)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * CHKDSK scans your hard drive for errors and bad sectors, and you should run it if your computer isn't booting properly.
@@ -33,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/a5a6155fc00c2184034c489f78d9dfa451dfb821e
 
  CHKDSK, SFC, and DISM are system tools, and you can run all three. However, this can be time-consuming and unnecessary for your specific problem, so it's best to know when and how to use this trio of troubleshooting tools.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is CHKDSK and When Should You Use It?
 
  CHKDSK (Check Disk) is the first Windows diagnostic tool you should try if your PC starts acting strangely. For example, if it hangs while shutting down or becomes frustratingly slow.
@@ -50,11 +56,17 @@ thumbnail: https://thmb.techidaily.com/a5a6155fc00c2184034c489f78d9dfa451dfb821e
  Select the **Tools** tab and then select **Check** in the **Error-checking** section.
 
 ![Launch the Check Disk tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-error-checking.jpg)
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If Windows determines that everything is running smoothly, it will suggest that you don't need to scan the drive. To run CHKDSK anyway, select **Scan drive**.
 
  The scan may take anywhere from a few minutes to half an hour, depending on the size and state of your drive. Once complete, CHKDSK will either tell you that no errors were found, or if it does find any, it will suggest you fix them.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Run CHKDSK From the Command Prompt
 
  For greater control over the disk-checking process, you should run CHKDSK from an elevated Command Prompt. Follow these steps to continue:
@@ -97,6 +109,23 @@ thumbnail: https://thmb.techidaily.com/a5a6155fc00c2184034c489f78d9dfa451dfb821e
 
 ![Screenshot of complete sfc scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-complete-sfc-scan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## What Is DISM and When Should You Use It?
 
 **DISM (Deployment Image Servicing and Management)** is the most powerful of the three Windows diagnostic tools. Although you shouldn't usually need to use the tools, it's the one to turn to when you're experiencing frequent crashes, freezes, and errors, but SFC either can't repair your system files or is unable to run at all.
@@ -121,6 +150,10 @@ thumbnail: https://thmb.techidaily.com/a5a6155fc00c2184034c489f78d9dfa451dfb821e
 `
 
 ![dism scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 
  Once the scan and repairs are complete, restart your PC and run SFC again to replace your corrupt or missing system files.
 
@@ -143,3 +176,57 @@ thumbnail: https://thmb.techidaily.com/a5a6155fc00c2184034c489f78d9dfa451dfb821e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mastering-facetime-capturing-conversations-live/"><u>[New] 2024 Approved  Mastering FaceTime  Capturing Conversations Live</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-capturing-the-moment-leading-tools-to-record-webinars-and-more/"><u>[New] Capturing the Moment - Leading Tools to Record Webinars & More</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unveiling-best-free-user-friendly-srt-translators-online/"><u>[Updated] In 2024, Unveiling Best Free, User-Friendly SRT Translators Online</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-smooth-transitions-with-illustrators-blur-effects/"><u>2024 Approved  Smooth Transitions with Illustrator's Blur Effects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-testimonials-on-screen-marketings-best-friend/"><u>2024 Approved  Testimonials on Screen  Marketing's Best Friend</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-crucial-blunders-every-windows-11-novice-must-avoid/"><u>7 Crucial Blunders Every Windows 11 Novice Must Avoid</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-asus-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Asus</u></a></li>
+<li><a href="https://windows11.techidaily.com/accessing-windows-11-homespace-options/"><u>Accessing Windows 11 Homespace Options</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/apex-workplace-data-sphere/"><u>Apex Workplace Data Sphere</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/approaches-to-mend-obs-fullscreen-errors-for-2024/"><u>Approaches to Mend OBS Fullscreen Errors for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/changing-network-address-translation-types-simplified-for-wins-oses/"><u>Changing Network Address Translation Types Simplified for Wins OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/curing-unable-to-retrieve-settings-issue-with-geforce-experience-on-windows-11/"><u>Curing Unable to Retrieve Settings Issue with GeForce Experience on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-user-experience-through-gpos-in-windows-11-and-11/"><u>Customizing User Experience Through GPOs in Windows 11 & 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-repairs-for-unresponsive-controls-your-guide/"><u>Effortless Repairs for Unresponsive Controls - Your Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortlessly-upgrading-windows-11-in-place/"><u>Effortlessly Upgrading Windows 11 in Place</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-windows-steam-performance-preventing-zero-speed-slowdowns/"><u>Elevate Windows Steam Performance: Preventing Zero-Speed Slowdowns</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-windows-11s-admin-tools/"><u>Exploring Windows 11'S Admin Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-11s-insufficient-uninstall-rights/"><u>Fixing Windows 11'S Insufficient Uninstall Rights</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-to-safety-six-steps-to-entering-safe-mode-in-windows-11/"><u>Get to Safety: Six Steps to Entering Safe Mode in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/harness-window-11-a-productivity-playbook/"><u>Harness Window 11: A Productivity Playbook</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-nubia-z50-ultra-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Nubia Z50 Ultra? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reinvigorate-the-essential-wsreset-process/"><u>How to Reinvigorate the Essential WSReset Process</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-remove-the-show-more-options-entry-from-the-context-menu-on-windows-11/"><u>How to Remove the Show More Options Entry From the Context Menu on Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-pop-8-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Pop 8 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-itel-p40-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Itel P40 Phone Forgot Password</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-action-to-freeze-damaged-windows-pins/"><u>Immediate Action to Freeze-Damaged Windows PINs</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-pip-feature-in-microsoft-edge/"><u>Mastering PIP Feature in Microsoft Edge</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-command-control-on-windows-with-sudo/"><u>Maximizing Command Control on Windows with Sudo</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-correct-the-internal-error-on-windows-1111-pro/"><u>Methods to Correct the Internal Error on Windows 11/11 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-words-silent-mode-fix-for-pc-users/"><u>Microsoft Word's Silent Mode Fix for PC Users</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/navigating-the-world-of-youtube-keywords/"><u>Navigating the World of YouTube Keywords</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11s-network-failure-0x800704b3/"><u>Navigating Windows 11'S Network Failure 0X800704B3</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-effortless-video-import-and-export-tips-and-tricks-for-adobe-premiere-users-for-2024/"><u>New Effortless Video Import and Export Tips and Tricks for Adobe Premiere Users for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-tricks-to-pinpoint-your-graphic-card-on-windows-11/"><u>Quick Tricks to Pinpoint Your Graphic Card on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reducing-powerful-usage-in-modern-host-computers/"><u>Reducing Powerful Usage in Modern Host Computers</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinvigorate-windows-search-top-11-remedies-explored/"><u>Reinvigorate Windows Search: Top 11 Remedies Explored</u></a></li>
+<li><a href="https://windows11.techidaily.com/security-enhancement-manual-add-a-self-designed-lock-pattern/"><u>Security Enhancement Manual: Add a Self-Designed Lock Pattern</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplifying-software-removal-context-menu-optimization-for-win-1011/"><u>Simplifying Software Removal: Context Menu Optimization for Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-approach-to-bypass-cant-add-your-folder-now-error-in-windows-onedrive-drive/"><u>Swift Approach to Bypass 'Can't Add Your Folder Now' Error in Windows OneDrive Drive</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-group-policies-focusing-on-one-user-at-a-time/"><u>Tailoring Group Policies: Focusing on One User at a Time</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-harmony-wirelessly-connect-dualshock-to-pc/"><u>Tech Harmony: Wirelessly Connect DualShock to PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-overcoming-black-screen-on-store-app/"><u>Tips for Overcoming Black Screen on Store App</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-gadget-analysis/"><u>Tom's Tech Review: In-Depth Gadget Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-7-win-11-desk-aids-boosting-workflow/"><u>Top 7 Win 11 Desk Aids Boosting Workflow</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-the-widget-toolbar-functionality-in-win11/"><u>Understanding the Widget Toolbar Functionality in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-variances-between-exe-and-msi-software-packages/"><u>Unveiling the Variances Between EXE & MSI Software Packages</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-1011-auto-cleanup-a-step-by-step-guide/"><u>Windows 10/11 Auto-Cleanup: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-unearthing-absent-settings-in-control-panel/"><u>Windows 11: Unearthing Absent Settings in Control Panel</u></a></li>
+</ul></div>

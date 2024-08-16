@@ -1,7 +1,7 @@
 ---
 title: Method to Rectify the Zero X Error on Windows 11’S Mail App
-date: 2024-07-11T22:03:46.739Z
-updated: 2024-07-12T22:03:46.739Z
+date: 2024-08-15T15:29:05.768Z
+updated: 2024-08-16T15:29:05.768Z
 tags:
   - windows10
   - windows11
@@ -42,20 +42,35 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 2. Select**Privacy & security** to view app permission navigation options.
 3. Click the**Email** navigation option.  
 ![The Email navigation option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/email-navigation-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 4. Turn on**Email access** if that option isn’t enabled.
 5. Click**Let apps access your email** to expand options.  
 ![The Let apps access your email option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/let-apps-access-your-email.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 6. Toggle the**Mail and Calendar** app on if it’s not already.
 7. Also, turn on the**People** app listed there.
 
  If you find those settings are already turned on, try re-enabling them. Turn off the**Allows apps to access your email** and**Mail and Calendar** options, and click**Restart** on the Start menu. Then return to Settings to turn those settings back on after the restart.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## 3\. Reset and Repair the Mail App
 
  Windows 11 includes**Reset** and**Repair** options that can often fix buggy UWP apps showing error codes. Resetting the Mail app can eradicate corrupted data. Our guide to [resetting apps in Windows](https://www.makeuseof.com/windows-reset-app/) provides further details on how to do that. You can also select an alternative**Repair** option for Mail just above its**Reset** button.
 
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-reset-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## 4\. Allow Mail and Calendar Through Windows Defender Firewall
 
  The Windows firewall filters inbound and outbound internet data. That firewall could be causing error 0x800713f by blocking the Mail and Calendar app. First, try temporarily disabling Windows Defender Firewall before opening Mail like this:
@@ -74,6 +89,9 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
  Do you have a third-party firewall on your desktop or laptop? If you do, that software could also be causing Mail app issues. Try disabling third-party firewall software to see if that makes a difference. If it does, check the firewall’s permission settings to ensure Mail is allowed through.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Log in to Windows With a Local User Account
 
  Do you log in to Windows 11 with a Microsoft account? If yes, try logging in with a local user account and utilizing Mail from there. To do that, you’ll need to switch to a local one by changing your account settings like this:
@@ -90,6 +108,9 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 ![Local account info boxes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enter-your-local-account-info.jpg)
 3. Press the**Sign out** **and** **Finish** button.  
 ![The Sign out and finish button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-sign-out-and-finish-button.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. Log in to your local user account.
 5. Open**Mail** to check if the 0x800713f error has been fixed.
 
@@ -105,6 +126,9 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 5. Next, open the Mail and Calendar store page in whatever alternative browser you utilize.
 6. Press the**Get in Store** app button on the Mail and Calendar page.  
 ![The Get in Store app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-get-in-store-app-button.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 7. Click Open in Microsoft Store to bring up a**Get** option for the app.
 8. Select**Get** to reinstall Mail.
 
@@ -132,3 +156,47 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-10-video-capture-tools-for-blogging-platforms/"><u>[New] Top 10 Video Capture Tools for Blogging Platforms</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-fix-intermittent-media-on-chrome-browser/"><u>[Updated] In 2024, Fix Intermittent Media on Chrome Browser</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-personalizing-public-vs-private-settings-on-youtube/"><u>[Updated] Personalizing Public vs Private Settings on YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unleash-the-potential-of-your-gopro-streaming-made-easy-on-facebookperiscope-for-2024/"><u>[Updated] Unleash the Potential of Your Gopro  Streaming Made Easy on Facebook/Periscope for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-quick-fame-formula-amplify-your-insta-presence-with-content/"><u>2024 Approved  Quick Fame Formula  Amplify Your Insta Presence with Content</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-step-by-step-guide-to-perfectly-timed-video-loops-on-ig/"><u>2024 Approved  Step-by-Step Guide to Perfectly Timed Video Loops on IG</u></a></li>
+<li><a href="https://windows11.techidaily.com/ai-driven-evolution-in-windows-software-design/"><u>AI-Driven Evolution in Windows Software Design</u></a></li>
+<li><a href="https://windows11.techidaily.com/automate-peaceful-rest-for-your-windows-11-desktop/"><u>Automate Peaceful Rest for Your Windows 11 Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-installation-issues-fixing-zero-error-on-win11/"><u>Avoid Installation Issues: Fixing Zero Error on Win11</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/extollo-lansocket-1500-a-comprehensive-review-on-high-throughput-reduced-latency-and-transparent-ups-features/"><u>Extollo LANSocket 1500 - A Comprehensive Review on High Throughput, Reduced Latency & Transparent UPS Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixes-for-stumbling-windows-discord-search-bar/"><u>Fixes for Stumbling Windows Discord Search Bar</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-flawed-setups-a-guide-to-windows-package-woes/"><u>Fixing Flawed Setups: A Guide to Windows Package Woes</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-your-pcs-virtual-machine-game-strong-with-hyper-v/"><u>Get Your PC's Virtual Machine Game Strong with Hyper-V</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-enabling-or-disabling-wi-fi-cost-tracking-in-windows-11/"><u>Guide: Enabling or Disabling Wi-Fi Cost Tracking in Windows 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-tecno-camon-20-premier-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Tecno Camon 20 Premier 5G Phones with/without a PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-disable-the-built-in-laptop-keyboard-in-windows/"><u>How to Disable the Built-In Laptop Keyboard in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-mend-the-pairing-glitch-fixing-connection-issues-in-win-11/"><u>How to Mend the Pairing Glitch: Fixing Connection Issues in Win 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-sony-xperia-1-v-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Sony Xperia 1 V? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/initiating-contact-accessing-windows-printer-administration-tools/"><u>Initiating Contact: Accessing Windows' Printer Administration Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/insights-on-how-to-utilize-execution-nicknames/"><u>Insights on How to Utilize Execution Nicknames</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-for-lowering-tiworkerexe-process-resource-use/"><u>Methods for Lowering TiWorker.exe Process Resource Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-multi-screen-brightness-best-tools-to-light-up-your-windows-monitors/"><u>Navigating Multi-Screen Brightness: Best Tools to Light Up Your Windows Monitors</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-boot-sector-problems-on-pc/"><u>Navigating Through Boot Sector Problems on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/notepaddarksettingsinstructionswin1011/"><u>NotepadDarkSettingsInstructionsWin10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-windows-steam-streams-stopping-zero-rate-issues/"><u>Optimize Windows Steam Streams: Stopping Zero-Rate Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-stuck-context-menus-a-quick-guide-to-solutions/"><u>Overcoming Stuck Context Menus: A Quick Guide to Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-store-error-code-0x80073cf3/"><u>Overcoming Windows Store Error Code 0X80073CF3</u></a></li>
+<li><a href="https://windows11.techidaily.com/recovering-database-connections-resolving-malwarebytes-service-issues/"><u>Recovering Database Connections: Resolving Malwarebytes Service Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-code-0x0001-failures-for-nvidia-ge-in-w10w11/"><u>Rectifying Code 0X0001 Failures for Nvidia GE in W10/W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/redirect-to-file-explorer-using-the-onedrive-shortcut/"><u>Redirect to File Explorer Using the OneDrive Shortcut</u></a></li>
+<li><a href="https://windows11.techidaily.com/sculpting-digital-art-the-most-impressive-new-additions-to-paint/"><u>Sculpting Digital Art: The Most Impressive New Additions to Paint</u></a></li>
+<li><a href="https://windows11.techidaily.com/sidestep-windows-11-surveillance-measures/"><u>Sidestep Windows 11 Surveillance Measures</u></a></li>
+<li><a href="https://windows11.techidaily.com/smart-task-management-microsofts-ai-copilot-for-windows-11-enhances-workflow/"><u>Smart Task Management: Microsoft's AI Copilot for Windows 11 Enhances Workflow</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-solution-to-cease-iomap64-syscall-freezes-on-windows/"><u>Step-by-Step Solution to Cease IOMap64 Syscall Freezes on Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-pros-approach-to-optimizing-zoom-settings/"><u>The Pro's Approach to Optimizing Zoom Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/whats-wrong-with-windows-modern-standby/"><u>What's Wrong with Windows Modern Standby?</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-lava-blaze-2-pro-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Lava Blaze 2 Pro Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-selective-deactivation-for-better-efficiency/"><u>Windows 11: Selective Deactivation for Better Efficiency</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-security-beyond-bitlocker-top-4-choices/"><u>Windows Security Beyond BitLocker: Top 4 Choices</u></a></li>
+</ul></div>

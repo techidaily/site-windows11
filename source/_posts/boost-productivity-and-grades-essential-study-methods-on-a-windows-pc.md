@@ -1,7 +1,7 @@
 ---
 title: "Boost Productivity and Grades: Essential Study Methods on a Windows PC"
-date: 2024-07-11T22:20:09.372Z
-updated: 2024-07-12T22:20:09.372Z
+date: 2024-08-15T15:12:58.632Z
+updated: 2024-08-16T15:12:58.632Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
  Now that you have the structure, you can logically group related files.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Set Up Google Drive for Cloud Sync
 
  As a student, you likely use Google Drive on your smartphone to store college notes, PDFs, or other such things. If you use your PC most of the time, setting up Google Drive will help you get the most out of its cross-platform functionality.
@@ -68,6 +71,9 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![Focus Session Option On Windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/focus-session-option-on-windows11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## 4\. Install Useful Browser Extensions
 
  Our web browsers are one of the most essential apps we visit daily. But did you know that adding extensions (or add-ons) can further improve their functionality and optimize your note-taking workflow?
@@ -93,12 +99,24 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 1. Install Drawboard PDF from the [Microsoft Store](https://apps.microsoft.com/store/detail/drawboard-pdf/9WZDNCRFHWQT).
 2. Before opening the app, we'll set Drawboard PDF as the default app to open all the PDF files. For that, right-click on any PDF file and select **Open With Drawboard**.  
 ![Drawboard PDF Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/drawboard-pdf-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Click on **Always** to set Drawboard as your default PDF viewer app.  
 ![App Picker In Windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/app-picker-in-windows11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. The app will ask you to create a new Drawboard account or sign in with your already existing one.
 5. The PDF file should open in Drawboard now. If you've not used Drawboard before, we suggest clicking on the (**+**) plus button on the left side of the ribbon. Set up or configure the annotation tools to add highlights, text, or shapes at your convenience.  
 ![Drawboard PDF Advanced Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/drawboard-pdf-advanced-tools.jpg)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Take Digital Notes With Obsidian and OneNote
 
  Transcribing handwritten notes digitally can be tiresome with time. But the good thing is powerful note-taking apps that even support the use of AI technology now exist.
@@ -116,9 +134,15 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
  You can view a sample college student template in Notion to understand its usability. You can not only track your current semester's classes, notes, and materials; but can also manage your exam schedules in one searchable place.
 
 ![Notion Page Example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/notion-page-example.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We already have a [beginner's guide to get started with Notion](https://www.makeuseof.com/beginners-guide-to-notion/). Besides, you can also browse [Notion templates for students](http://www.notion.so/templates/category/school) to start with an attractive setup.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Install ChatGPT on Your PC
 
  ChatGPT is making a buzz in the education industry. It is gradually changing the way you gather information and write documents.
@@ -126,6 +150,9 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
  As it's a web-based service, you must open your browser and visit [chat.openai.com](https://chat.openai.com/) to use it. But, If you don't want to open your web browser every time, learn [how to install ChatGPT as a Windows app](https://www.makeuseof.com/run-chatgpt-windows-app/). Once done, you can one-click to open it and use it to brainstorm ideas, helpful resources, and draft outlines for your next project.
 
 ![ChatGPT Website Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatgpt-website-screenshot.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 
  Besides, if you don't know how to use ChatGPT for note-taking, you can refer to our guide on [how to use ChatGPT to take notes](https://www.makeuseof.com/use-chatgpt-to-take-notes/).
 
@@ -146,3 +173,42 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-x-professional-audio-toolkit-personal-computing/"><u>[New] 2024 Approved  X-Professional Audio Toolkit, Personal Computing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-direct-digital-diaries-2023-edition/"><u>[New] In 2024, Direct Digital Diaries - 2023 Edition</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-ezvid-video-recorder-review/"><u>[New] In 2024, Ezvid Video Recorder Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lightrooms-top-grading-tools-a-curated-list-of-best-rated-luts/"><u>[Updated] Lightroom's Top Grading Tools – A Curated List of Best-Rated LUTs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-select-the-best-free-mobile-video-platforms-of-2023/"><u>[Updated] Select the Best Free Mobile Video Platforms of 2023</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-perfect-srt-output-with-premiere-pro/"><u>2024 Approved  Crafting Perfect SRT Output with Premiere Pro</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-itel-p55t-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Itel P55T</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-microsoft-store-error-0x80072efd-on-pcs/"><u>Fixing Microsoft Store Error 0X80072EFD on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-overcoming-java-installation-errors-on-pc/"><u>Guide to Overcoming Java Installation Errors on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-to-correct-err-87-on-windows-loadlib/"><u>Guidelines to Correct Err 87 on Windows LoadLib</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-edit-text-in-image-photo-text-editor-online-and-app-for-2024/"><u>How to Edit Text in Image? [Photo Text Editor Online and App] for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-maintain-notebook-visibility-on-win-1011/"><u>How to Maintain Notebook Visibility on Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-return-to-original-windows-setup-settings/"><u>How to Return to Original Windows Setup Settings</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Additional Tips About Sinnoh Stone For Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-captivate-viewers-create-success-a-strategy-for-gamers-channels/"><u>In 2024, Captivate Viewers, Create Success  A Strategy for Gamers' Channels</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-simplified-approach-to-removing-youtube-comments-with-ease/"><u>In 2024, Simplified Approach to Removing YouTube Comments with Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/launch-successfully-guiding-through-startup-services-in-windows-11/"><u>Launch Successfully: Guiding Through Startup Services in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/maintain-full-size-icons-on-your-windows-11-machine/"><u>Maintain Full-Size Icons on Your Windows 11 Machine</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-wake-on-lid-closure-in-windows-devices/"><u>Mastering Wake on Lid Closure in Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-command-execution-setting-terminal-preference/"><u>Optimize Command Execution: Setting Terminal Preference</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-speakers-unresponsiveness/"><u>Overcoming Windows Speakers Unresponsiveness</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-for-disabling-audio-playback-errors/"><u>Quick Fix for Disabling Audio Playback Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-update-breakdown-overcoming-error-0x80246007-on-win11/"><u>Resolving Update Breakdown: Overcoming Error 0X80246007 on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-your-wi-fi-blocking-networks-on-windows-pc/"><u>Secure Your Wi-Fi: Blocking Networks on Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-restore-active-window-defense-system/"><u>Strategies to Restore Active Window Defense System</u></a></li>
+<li><a href="https://windows11.techidaily.com/success-tips-reviving-your-intel-unison-app/"><u>Success Tips: Reviving Your Intel Unison App</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-reinstate-lost-mcuicnt-file-in-windows/"><u>Techniques to Reinstate Lost McUICnt File in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-rotation-rulebook-six-secrets-to-snap-spins-in-windows-11/"><u>The Rotation Rulebook: Six Secrets to Snap-Spins in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-switching-offon-windows-11s-smartscreen/"><u>Tips for Switching Off/On Windows 11'S SmartScreen</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-blackwhite-windows-store-errors/"><u>Troubleshooting Black/White Windows Store Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/turbo-steam-downloads-overcoming-frustrating-speed-halts/"><u>Turbo Steam Downloads: Overcoming Frustrating Speed Halts</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-photos-clever-trick-for-image-renewal/"><u>Windows Photos' Clever Trick for Image Renewal</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/your-top-tools-for-facebook-video-retrieval-revealed/"><u>Your Top Tools for Facebook Video Retrieval Revealed</u></a></li>
+</ul></div>

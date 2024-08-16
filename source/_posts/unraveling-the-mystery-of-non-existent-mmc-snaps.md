@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Mystery of Non-Existent MMC Snaps
-date: 2024-07-11T21:56:49.626Z
-updated: 2024-07-12T21:56:49.626Z
+date: 2024-08-15T15:36:50.869Z
+updated: 2024-08-16T15:36:50.869Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/309cf08df9ca66a5508e9f2e2ecebe14a1b42826a
 4. Close the **Registry Editor** and restart your computer.
 5. After the restart, open the administrative tool snap-in to see if the error is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## 2\. Enable .NET Framework
 
 ![enable net framework 3 5 windows features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-net-framework-3-5-windows-features.jpg)
@@ -57,9 +60,15 @@ thumbnail: https://thmb.techidaily.com/309cf08df9ca66a5508e9f2e2ecebe14a1b42826a
 4. Next, click to **Apply** the changes and install the feature.
 5. Once installed, you’ll be prompted to restart the computer. Restart your system, and the MMC snap-in should work now.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Check for and Repair Corrupt System Files
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan-health-restore-health-command-prompt.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 
  If you have one or more corrupt system files, it may cause issues with the system apps. You can run the System File Checker tool to determine if the problem is due to system file issues. It will scan and check the integrity of systems files and automatically repair them to fix the problem.
 
@@ -67,9 +76,19 @@ thumbnail: https://thmb.techidaily.com/309cf08df9ca66a5508e9f2e2ecebe14a1b42826a
 
  If you're not sure how to run either of these tools, we cover both in our guide on [how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Remove and Reinstall the Microsoft Visual C++ Redistributable
 
 ![repair microsoft visual c plus plus distributable package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-microsoft-visual-c-plus-plus-distributable-package.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 
  If the issue persists, try to fix and repair issues with the Visual C++ Redistributable package. If there are any issues with the package, it can cause the MMC snap-ins to stop working.
 
@@ -94,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/309cf08df9ca66a5508e9f2e2ecebe14a1b42826a
 6. Run the executable file to install the package and follow the on-screen instructions.
 7. Once installed, restart your computer and check if MMC snap-ins are now working.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## Fix the MMC Snap-In and Restore Your Administrative Tools on Windows
 
  This error is triggered when a snap-in malfunctions, which is often a case of broken registry configuration. To fix the issue, you can delete the broken registry sub-key for the affected snap-in. Additionally, enable/re-enable the .NET Framework 3.5\. If not, scan the system for file integrity issues with the DISM and System File Checker utility.
@@ -111,3 +134,41 @@ thumbnail: https://thmb.techidaily.com/309cf08df9ca66a5508e9f2e2ecebe14a1b42826a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-elevate-your-editing-with-blend-mode-innovations/"><u>[New] 2024 Approved  Elevate Your Editing with Blend Mode Innovations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-essential-video-editors-for-cutting-edge-webcams/"><u>[New] In 2024, Essential Video Editors for Cutting-Edge Webcams</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapstreak-savvy-guidance-to-prevent-interruptions/"><u>[New] Snapstreak Savvy  Guidance to Prevent Interruptions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-the-secrets-elevating-your-youtube-presence-in-gameplay/"><u>[New] Unlocking the Secrets  Elevating Your YouTube Presence in Gameplay</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-best-live-streaming-platforms-you-should-know/"><u>10 Best Live Streaming Platforms You Should Know</u></a></li>
+<li><a href="https://windows11.techidaily.com/6-precise-ways-to-determine-your-windows-hardware-identity/"><u>6 Precise Ways to Determine Your Window's Hardware Identity</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-curious-design-choices-that-differ-from-w10/"><u>7 Curious Design Choices That Differ From W10</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-simple-guide-for-correcting-lsassexe-issue/"><u>A Simple Guide for Correcting 'lsass.exe' Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-parsing-misstep-code-0xc00ce556/"><u>Addressing Parsing Misstep: Code 0xC00CE556</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-screen-flickers-on-microsoft-os/"><u>Addressing Screen Flickers on Microsoft OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-windows-11-key-inactivity-issues/"><u>Addressing Windows 11 Key Inactivity Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/arcade-mode-for-window-users-key-fixes-ahead/"><u>Arcade Mode for Window Users: Key Fixes Ahead!</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-scanning-issues-with-your-geforce-experience-on-windows/"><u>Avoid Scanning Issues with Your GeForce Experience on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/backup-your-cortana-data-for-future-reference-windows/"><u>Backup Your Cortana Data for Future Reference (Windows)</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-productivity-with-these-5-essential-windows-folder-practices/"><u>Boost Productivity with These 5 Essential Windows Folder Practices</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-alerts-instant-battery-charged-notifications-in-win11/"><u>Boosting Alerts: Instant Battery Charged Notifications in Win11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-the-clutter-fixing-windows-error-0x80072014/"><u>Clearing the Clutter: Fixing Windows Error 0X80072014</u></a></li>
+<li><a href="https://windows11.techidaily.com/configuring-terminal-in-win11-start-fresh/"><u>Configuring Terminal in Win11: Start Fresh</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-parsing-setback-code-0xc00ce556/"><u>Conquering Parsing Setback: Code 0xC00CE556</u></a></li>
+<li><a href="https://windows11.techidaily.com/controlling-application-spaces-in-windows-task-mgr/"><u>Controlling Application Spaces in Windows Task Mgr</u></a></li>
+<li><a href="https://windows11.techidaily.com/custom-menus-on-windows-1111-with-psoft-tools/"><u>Custom Menus on Windows 11/11 with PSoft Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-graphics-output-for-enhanced-clarity/"><u>Customizing Graphics Output for Enhanced Clarity</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-the-code-of-high-quality-visuals-with-windows-11-hdr/"><u>Deciphering the Code of High-Quality Visuals with Windows 11 HDR</u></a></li>
+<li><a href="https://windows11.techidaily.com/demystifying-microsoft-family-safety-functions/"><u>Demystifying Microsoft Family Safety Functions</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-microsoft-store-failure-codes-x800704cf/"><u>Disabling Microsoft Store Failure Codes X800704CF</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-narzo-60-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme Narzo 60 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/latest-solutions-to-fix-a-non-responsive-rust-application-tips-and-insights/"><u>Latest Solutions to Fix a Non-Responsive Rust Application: Tips and Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719265109241-master-google-chromes-filesync-on-your-windows-device-now/"><u>Master Google Chrome's Filesync on Your Windows Device Now</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-nine-spectacular-platforms-for-accessing-copyright-free-funny-audio-for-2024/"><u>New Nine Spectacular Platforms for Accessing Copyright-Free Funny Audio for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719355454943-opera-installer-dilemma-on-windows-solutions-now/"><u>Opera Installer Dilemma on Windows - Solutions Now</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tying-emotions-to-the-right-soundtrack-in-movies-for-2024/"><u>Tying Emotions to the Right Soundtrack in Movies for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-prodigy-vs-creative-hub-beta-edition-for-2024/"><u>YouTube Prodigy Vs. Creative Hub Beta Edition for 2024</u></a></li>
+</ul></div>

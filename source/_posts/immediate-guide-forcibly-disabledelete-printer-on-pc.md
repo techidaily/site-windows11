@@ -1,7 +1,7 @@
 ---
 title: "Immediate Guide: Forcibly Disable/Delete Printer on PC"
-date: 2024-07-11T21:56:15.454Z
-updated: 2024-07-12T21:56:15.454Z
+date: 2024-08-15T15:36:18.488Z
+updated: 2024-08-16T15:36:18.488Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db8100
 3. In the Services window, locate the **Print Spooler service.**
 4. Right-click on **Print Spooler** and select **Stop**.  
 ![Print Spooler Service Stop Option in Services MMC on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/print-spooler-service-stop-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 5. Minimize the **Services** window.
 6. Now open the **Windows Settings pane**l, go to **Bluetooth & devices > Scanners and Printer**, and try to remove your printer device.
 7. Once the printer is removed, go back to the **Services** window.  
@@ -53,9 +56,15 @@ thumbnail: https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db8100
 
 [Restarting the Printer Spooler service](https://www.makeuseof.com/windows-restart-print-spooler-service/) is necessary. If disabled, you may encounter the [printer spooler service is not running](https://www.makeuseof.com/print-spooler-service-not-running-windows/) error on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Remove the Printer Software to Delete the Printer
 
 ![Remove HP Printer Software in Windows 11 Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/hp-printer-remove-software.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the deleted printer option still appears, you can remove the printer driver associated with the device to uninstall it completely. You can remove the driver using the Apps & feature tab in Windows 10 and 11\.
 
@@ -69,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db8100
 6. Wait for the driver to uninstall, then look for any other drive or software associated with the printer and remove them too.
 7. Once uninstalled, restart your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Remove the Printer Using the Control Panel
 
  You can use the classic Control Panel to manage your printers. Removing the printer from the Control Panel should work if the printer wasn’t removed correctly during the uninstallation process.
@@ -79,12 +91,20 @@ thumbnail: https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db8100
 2. Type **control** and click **OK** to open the Control Panel. You can also search for the app using the Windows search bar.
 3. In the Control Panel, go to **Hardware and Sound.**  
 ![Windows 11 Control Panel Showing the Hardware and Sound Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/control-panel-hardware-and-sound.jpg)
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 4. Next, click on **Devices and Printers.**
 5. Under the **Printers** section, locate and select the printer device you want to remove.  
 ![Remove Printer Option in Windows 11 Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/remove-printer-ccontrol-panel.jpg)
 6. Right-click on the printer and select **Remove Device.**
 7. Click **Yes** to confirm the action.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## 4\. Remove the Printer Using Windows' Print Server Properties
 
  Sometimes, removing the printer device does not remove the drivers completely and can [cause your printer to stop working](https://www.makeuseof.com/windows-11-printer-not-working/). In such a situation, you can use the Print Server Properties dialog to remove the installed printer drivers.
@@ -100,6 +120,9 @@ thumbnail: https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db8100
 5. Open the **Drivers** tab in the **Print Server Properties** dialog.
 6. Under **Installed printer drivers**, select the printer driver to uninstall and click **Remove**.  
 ![Print Server Properties Dialog in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/remove-printer-driver-prin-server-properties.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 7. Next, select the **Remove driver and driver package** option.
 8. Click **OK** to confirm the action and remove the driver.
 9. Restart your PC to complete the driver removal process.
@@ -121,6 +144,9 @@ thumbnail: https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db8100
 7. If the **Printers** section is unavailable, expand the **Print queues** section and repeat the steps to remove the printer.
 8. Close Device Manager and restart your computer to complete the uninstall process.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. How to Uninstall a Printer Using the Command Prompt
 
 ![Command Prompt with Remove Printer Command in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/remove-printer-command-prompt.jpg)
@@ -151,12 +177,21 @@ thumbnail: https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db8100
 4. Click on your **Local Printer** server name to expand it.
 5. Next, select **Printers** to view all the installed printers.  
 ![Delete a Printer Using the Print Management Snap-in On Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-printer-print-management-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. In the right pane, select and right-click on the printer you want to remove.
 7. Select **Delete** and click **Yes** to confirm the action.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Delete a Printer Driver with PowerShell
 
 ![PowerShell Console Running the Remove Printer Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/remove-printer-powershell.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Alternatively, you can delete the printer driver package using PowerShell as an alternative to Print Management. This is also a quicker way to remove multiple printers in your Windows computer.
 
@@ -185,3 +220,45 @@ thumbnail: https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db8100
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/new-captivating-hearts-and-minds-top-20-innovative-tiktok-captions/"><u>[New] Captivating Hearts and Minds  Top 20 Innovative TikTok Captions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-harnessing-the-power-of-look-up-tables-in-film-grading/"><u>[New] Harnessing the Power of Look-Up Tables in Film Grading</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-quick-guide-to-screen-capture-on-laptops-and-chromeos/"><u>[New] In 2024, Quick Guide to Screen Capture on Laptops and ChromeOS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-streamline-your-virtual-gatherings-with-this-10-free-web-application-list/"><u>[New] Streamline Your Virtual Gatherings With This 10 Free Web Application List</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-is-your-content-flourishing-consider-an-mcn-partnership/"><u>[Updated] 2024 Approved  Is Your Content Flourishing? Consider an MCN Partnership</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-watch-nba-in-real-time-15-effective-strategies/"><u>[Updated] How to Watch NBA in Real Time  15 Effective Strategies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-understanding-the-meaning-of-facebooks-blue-emoji/"><u>[Updated] Understanding the Meaning of Facebook's Blue Emoji</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-windows-unplayable-file-challenge/"><u>Addressing Windows' Unplayable File Challenge</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-pathways-to-successful-office-activation/"><u>Clearing Pathways to Successful Office Activation</u></a></li>
+<li><a href="https://windows11.techidaily.com/curing-unable-to-retrieve-settings-issue-with-geforce-experience-on-windows-11/"><u>Curing Unable to Retrieve Settings Issue with GeForce Experience on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-tips-to-revive-winget-in-windows-profiles/"><u>Expert Tips to Revive Winget in Windows Profiles</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reinvigorate-the-essential-wsreset-process/"><u>How to Reinvigorate the Essential WSReset Process</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-remove-the-show-more-options-entry-from-the-context-menu-on-windows-11/"><u>How to Remove the Show More Options Entry From the Context Menu on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-action-to-freeze-damaged-windows-pins/"><u>Immediate Action to Freeze-Damaged Windows PINs</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-s17t-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo S17t Phone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-nokia-c12-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Nokia C12 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/in-depth-instructions-to-update-vistas-drivers/"><u>In-Depth Instructions to Update Vista's Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-icon-positioning-in-windows/"><u>Mastering Icon Positioning in Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-the-art-top-5-hand-to-hand-combat-games/"><u>Mastering the Art  Top 5 Hand-to-Hand Combat Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-command-control-on-windows-with-sudo/"><u>Maximizing Command Control on Windows with Sudo</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/memetic-mastery-the-finest-text-based-jesters-for-2024/"><u>Memetic Mastery  The Finest Text-Based Jesters for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-correct-the-internal-error-on-windows-1111-pro/"><u>Methods to Correct the Internal Error on Windows 11/11 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11s-network-failure-0x800704b3/"><u>Navigating Windows 11'S Network Failure 0X800704B3</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinitializing-distro-and-catroot2-in-w11-a-step-by-step-guide/"><u>Reinitializing Distro & Catroot2 in W11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinitializing-your-steam-gaming-milestones/"><u>Reinitializing Your Steam Gaming Milestones</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-access-to-greyed-out-pin-unlock-option/"><u>Restoring Access to Greyed-Out Pin Unlock Option</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/scripting-quantum-leap-cinematography/"><u>Scripting Quantum Leap Cinematography</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplifying-software-removal-context-menu-optimization-for-win-1011/"><u>Simplifying Software Removal: Context Menu Optimization for Win 10/11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smart-strategies-achieving-advertising-excellence-for-2024/"><u>Smart Strategies  Achieving Advertising Excellence for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-harmony-wirelessly-connect-dualshock-to-pc/"><u>Tech Harmony: Wirelessly Connect DualShock to PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fixes-for-a-keyboard-that-wont-type-properly/"><u>The Ultimate Fixes for a Keyboard That Won't Type Properly</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-lava-agni-2-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Lava Agni 2 5G</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-ultimate-phone-apple-iphone-xs-max-a-comprehensive-assessment/"><u>Unveiling the Ultimate Phone: Apple iPhone XS Max - A Comprehensive Assessment</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-variances-between-exe-and-msi-software-packages/"><u>Unveiling the Variances Between EXE & MSI Software Packages</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-makeover-evolving-file-explorer-here-are-the-changes/"><u>Windows 11 Makeover: Evolving File Explorer, Here Are the Changes</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-unearthing-absent-settings-in-control-panel/"><u>Windows 11: Unearthing Absent Settings in Control Panel</u></a></li>
+</ul></div>

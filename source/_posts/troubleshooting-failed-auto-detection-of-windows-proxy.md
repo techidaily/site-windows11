@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Failed Auto-Detection of Windows Proxy
-date: 2024-07-11T21:51:30.840Z
-updated: 2024-07-12T21:51:30.840Z
+date: 2024-08-15T15:42:02.046Z
+updated: 2024-08-16T15:42:02.046Z
 tags:
   - windows10
   - windows11
@@ -37,11 +37,17 @@ thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04
  Here you'll see a list of options related to proxy servers. If you don't use a proxy (as is the case for most home users), make sure that**Use a proxy server** near the bottom is turned off. Leave**Automatically detect settings** on if it is already.
 
 ![Windows 10 Proxy Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-10-Proxy-Settings-Menu.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 
  For those who do connect with a proxy, such as people in a business or school environment, you might want to check with your system administrator to make sure you have the correct proxy details here. They'll be able to speak to any issues specific to your network.
 
  After this, try reconnecting to the network again and getting online. If you still get the error, turn off**Automatically detect settings** in the proxy options and try once more.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ### What's a Proxy Server?
 
 ​​​​​​
@@ -81,9 +87,15 @@ thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04
  Then, on the**Driver** tab, you can choose**Roll Back Driver** to uninstall the latest update and return to the previous one. Use this if you started experiencing this issue after updating—though it might not be available in all cases.
 
 ![Windows 10 Device Manager Update Roll Back](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Device-Manager-Update-Roll-Back.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 
  Choose**Update Driver** and you can check for new updates over the internet. Since this likely won't find anything, you'll need to [manually update your drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) by downloading them from the manufacturer.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## 6\. Reset Network Configuration via the Command Prompt
 
  Windows offers many network troubleshooting tools through the Command Prompt. A few quick commands can often clear up your issue in moments. If you're still having trouble at this point, right-click the Start button again and open a Command Prompt, PowerShell, or Windows Terminal window with administrator rights.
@@ -100,6 +112,9 @@ thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04
 
 `ipconfig /flushdns`
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Review Firewall, VPN, and Antivirus Software
 
 ![Windows 10 firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/firewall-settings.png)
@@ -108,12 +123,19 @@ thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04
 
  Try disabling your firewall, VPN, and antivirus software one at a time, then see if the error goes away. If it does, the issue lies with one of those apps. You'll need to configure them to avoid interfering with regular network activity.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 8\. Scan for Malware
 
  Some malware can continually mess with your proxy settings to prevent you from getting online. If you run into the "Windows could not detect this network's proxy settings" message every time you reboot, you may be a victim of this.
 
  You should thus run a scan with a trusted anti-malware app, like [Malwarebytes](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU36219/https://try.malwarebytes.com/get-premium/?cjdata=MXxOfDB8WXww&c=cj&s=4112715&k=14452255&utm%5Fsource=cj&utm%5Fmedium=aff&utm%5Fcontent=14452255&utm%5Fcampaign=AFF-CJ%5F4112715&tracking=cj&x-wts=cj&x-affid=4112715&ADDITIONAL%5FAFFID=cj-4112715&cjevent=c8d316be6e5311ee835c008b0a82b82a&clickid=c8d316be6e5311ee835c008b0a82b82a&pid=cj%5Fint) . This will detect any malware running on your system and get rid of it. If the scan finds any infections, take the recommended action and see if your connection works normally again.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## 9\. Utilize a Restore Point
 
 [The System Restore feature in Windows](http://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) lets you return to a previous point at which your computer was working normally. If your issues started recently, you should try this to see if you can go back in time.
@@ -123,6 +145,9 @@ thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04
  In the resulting**System Properties** dialog box on the**System Protection** tab, click**System Restore** to open a new window. Windows will walk you through choosing a restore point and confirming the operation. Of course, if your computer hasn't created any restore points, you can't use this feature.
 
 ![choose a specific restore point and click on next](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/02/click-on-a-restore-point.png)
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note that using a restore point will remove any programs and drivers you've installed since making that restore point. You can click**Scan for affected programs** on a restore point to see what effect it will have. Using a System Restore won't affect any of your personal files.
 
@@ -161,3 +186,40 @@ thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-cutting-edge-tips-for-low-cost-youtube-sessions/"><u>[New] 2024 Approved  Cutting-Edge Tips for Low-Cost YouTube Sessions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-loop-youtube-videos-on-tv/"><u>[New] 2024 Approved  How to Loop YouTube Videos on TV</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-flashing-issues-in-dell-screens/"><u>[Solved]: Flashing Issues in Dell Screens</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unmasking-imagerys-origins-a-complete-guide-to-reverse-picture-searching-in-instagram/"><u>[Updated] In 2024, Unmasking Imagery's Origins  A Complete Guide to Reverse Picture Searching in Instagram</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-reno-11f-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/altering-user-folder-names-on-windows-11/"><u>Altering User Folder Names on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/assessing-the-resilience-against-liquids-how-durable-is-the-new-iphone-15/"><u>Assessing the Resilience Against Liquids: How Durable Is the New iPhone 15?</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-performance-and-productivity-in-windows-1011/"><u>Boosting Performance & Productivity in Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-graphics-glitch-d3d11-error-fixes-for-win11win10/"><u>Conquering Graphics Glitch: D3D11 Error Fixes for Win11/Win10</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-the-cause-of-display-driver-non-startups/"><u>Deciphering the Cause of Display Driver Non-Startups</u></a></li>
+<li><a href="https://windows11.techidaily.com/disable-automatic-snipping-tool-activation-by-prtscn-keypress-in-windows-11/"><u>Disable Automatic Snipping Tool Activation by PrtScn Keypress in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-guide-to-securing-edge-ms-defender-application-guard-on-windows-11/"><u>Easy Guide to Securing Edge: MS Defender Application Guard on Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-to-install-drivers-for-intel-iris-plus-graphics-latest-version-now-available/"><u>Easy-to-Install Drivers for Intel Iris Plus Graphics - Latest Version Now Available!</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-tecno-spark-10-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Tecno Spark 10 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-monochrome-issues-with-windows-store/"><u>Fixing Monochrome Issues with Windows Store</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-x-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone X to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-xiaomi-13t-pro-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Xiaomi 13T Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-apps-for-advancing-android-pics/"><u>In 2024, Ideal Apps for Advancing Android Pics</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-insights-into-youtubes-creative-commons-licensing-system/"><u>In 2024, Insights Into YouTube’s Creative Commons Licensing System</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-unlock-virtual-worlds-top-10-pc-games-for-ultimate-vr-experience/"><u>In 2024, Unlock Virtual Worlds  Top 10 PC Games for Ultimate VR Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/instant-permadelete-configuring-your-desktop-trash-bin-on-windows-11-devices/"><u>Instant PermaDelete: Configuring Your Desktop Trash Bin on Windows 11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/keep-your-disk-space-clear-with-auto-delete-in-win11/"><u>Keep Your Disk Space Clear with Auto-Delete in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-powershell-to-break-free-from-windows-file-blocks/"><u>Mastering PowerShell to Break Free From Windows File Blocks</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-app-crashes-in-windows-dealing-with-unhandled-exceptions/"><u>Overcoming App Crashes in Windows: Dealing with Unhandled Exceptions</u></a></li>
+<li><a href="https://windows11.techidaily.com/prevent-discord-from-checking-for-updates-on-startup/"><u>Prevent Discord From Checking for Updates on Startup</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-setup-guide-for-launching-windows-media-player/"><u>Quick Setup Guide for Launching Windows Media Player</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconnecting-bluetooth-on-windows-audio-only-fix-guide/"><u>Reconnecting Bluetooth on Windows: Audio Only Fix Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-diagnostics-enhancing-windows-11-troubleshooters/"><u>Reviving Diagnostics: Enhancing Windows 11 Troubleshooters</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-making-excel-viewable-in-notepad/"><u>Strategies: Making Excel Viewable in Notepad</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-winerror-x80780119-resolution/"><u>Techniques for WinError X80780119 Resolution</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-nvidia-opengl-glitches-in-windows-11/"><u>Troubleshooting NVIDIA OpenGL Glitches in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-pause-auto-updates-no-more-prompts/"><u>Windows Pause Auto-Updates: No More Prompts!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/your-iphone-wont-connect-to-your-computer-heres-the-fix/"><u>Your iPhone Won't Connect to Your Computer? Here's the Fix!</u></a></li>
+</ul></div>

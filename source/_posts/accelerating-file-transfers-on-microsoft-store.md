@@ -1,7 +1,7 @@
 ---
 title: Accelerating File Transfers on Microsoft Store
-date: 2024-07-11T21:23:14.048Z
-updated: 2024-07-12T21:23:14.048Z
+date: 2024-08-15T16:08:02.331Z
+updated: 2024-08-16T16:08:02.331Z
 tags:
   - windows10
   - windows11
@@ -52,7 +52,13 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
 3. Choose**Wi-Fi** and then select your Wi-Fi connection.
 4. Disable the toggle next to the**Metered connection** option.  
 ![Disable Metered Connection in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/metered-connection.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Change the Background Download Bandwidth
 
  The next thing you can try to get better speeds on the Microsoft Store is to increase the background download bandwidth. Here's how:
@@ -66,9 +72,15 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
 6. Check the **Limit how much bandwidth is used for downloading updates in the background** option, and drag the slider to**100%.**
 7. Then, check the **Limit how much bandwidth is used for downloading updates in the foreground** option and drag the slider to**100%.**  
 ![Limit how much bandwidth is used for downloading updates in the foreground option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/limit-how-much-bandwidth-is-used-for-downloading-updates-in-the-foreground.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 
  That's it. Check if there is an improvement in the downloading speed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Clear the Microsoft Store Cache Data
 
  Microsoft Store stores cache data to offer a better user experience. But if the cache data gets corrupted, it might adversely affect the downloading speed.
@@ -79,7 +91,13 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
 2. In the search bar, type**Command Prompt** and choose**Run as administrator** from the right pane.
 3. In the elevated Command Prompt window, type**wsreset** and press**Enter** .  
 ![wsreset command in the Command Prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/wsreset-command.jpg)
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## 6\. Switch to the Google Public DNS
 
  By default, the [DNS server](https://www.makeuseof.com/tag/what-is-dns-server/) is set to automatic, which can be the reason behind the slow downloading speed on the Microsoft Store. You will have to switch to an open-source DNS server like Google Public DNS to get a better downloading speed. Here's how to do it:
@@ -89,6 +107,9 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
 3. Choose the**Network and Internet** option.
 4. Click on**Network and Sharing Center,** and then click on**Change adapter settings** in the left panel.  
 ![Change Adapter settings option in Windows 11 Network and Sharing center](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Change-Adapter-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Right-click on the connected network and choose**Properties.**
 6. Double-click on the**Internet Protocol Version 4 (TCP/IPv4)** and select the**Use the following DNS server addresses** bulletin.
 7. Type**8.8.8.8** in the**Preferred DNS** **server** box and**8.8.4.4** in the**Alternate DNS** **server** box.  
@@ -118,6 +139,10 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
 2. Select**Advanced network settings** and then choose**Network reset.**
 3. Click the**Reset now** button.  
 ![Reset now button to reset the network settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-now-button.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 4. Click**Yes** to the confirmation box that appears.
 
 ## Improve Your Microsoft Store Download Speed
@@ -143,3 +168,45 @@ thumbnail: https://thmb.techidaily.com/3b4f38d4b261acb2c277f07ba409b2b6a3f82798b
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-collaboration-techniques-in-video-making-viewership-up/"><u>[New] 2024 Approved  Collaboration Techniques in Video Making, Viewership Up</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-methods-to-convert-instagram-video-to-mp3-for-2024/"><u>[New] Methods to Convert Instagram Video to Mp3 for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-remedy-for-audio-pause-in-obs-streams/"><u>[Updated] 2024 Approved  Remedy for Audio Pause in OBS Streams</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-best-5-twitter-alternatives-for-2024/"><u>[Updated] Best 5 Twitter Alternatives for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-event-ensemble-curating-best-dj-templates/"><u>[Updated] Event Ensemble  Curating Best DJ Templates</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-replay-retro-thrills-top-5-ps1-game-emulators-reviewed-for-pc/"><u>[Updated] In 2024, Replay Retro Thrills - Top 5 PS1 Game Emulators Reviewed for PC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-prime-acoustic-collectors-at-schools/"><u>2024 Approved  Prime Acoustic Collectors at Schools</u></a></li>
+<li><a href="https://windows11.techidaily.com/9-ways-to-fix-blurry-screen-issues-on-windows-11/"><u>9 Ways to Fix Blurry Screen Issues on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-the-blank-screen-top-techniques-to-recover-vanished-panes-in-windows-11/"><u>Avoid the Blank Screen: Top Techniques to Recover Vanished Panes in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoidance-of-windows-updates-interruptions/"><u>Avoidance of Windows Updates Interruptions</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-back-windows-photo-viewer-a-1111-edition-guide/"><u>Bring Back Windows Photo Viewer: A 11/11 Edition Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-back-your-bandsaw-methods-for-fixing-lost-windows-time/"><u>Bring Back Your Bandsaw: Methods for Fixing Lost Windows Time</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-limited-it-admin-power-in-security-warning/"><u>Bypassing 'Limited IT Admin Power' In Security Warning</u></a></li>
+<li><a href="https://windows11.techidaily.com/calculate-and-track-power-consumption-for-your-pc-windows-edition/"><u>Calculate and Track Power Consumption for Your PC: Windows Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/clean-windows-search-interface-no-icons/"><u>Clean Windows Search Interface: No Icons</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719266282483-combatting-common-windows-11-mail-errors-get-your-email-back-now/"><u>Combatting Common Windows 11 Mail Errors - Get Your Email Back Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-line-interface-cli-addition-to-task-manager-in-windows-11/"><u>Command Line Interface (CLI) Addition to Task Manager in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-resource-unavailable-situations-on-windows-149-chars/"><u>Correcting 'Resource Unavailable' Situations on Windows (149 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-your-pcs-idle-lock-time/"><u>Customize Your PC's Idle Lock Time</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-windows-file-explorer-path-settings/"><u>Customizing Windows File Explorer Path Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/decode-your-digital-identity-how-to-find-out-what-computer-you-have/"><u>Decode Your Digital Identity: How to Find Out What Computer You Have</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-crash-reports-for-flawless-hardware-repairs/"><u>Decoding Crash Reports for Flawless Hardware Repairs</u></a></li>
+<li><a href="https://windows11.techidaily.com/direct-console-connection-joining-win-to-ps3-controller/"><u>Direct Console Connection: Joining Win to PS3 Controller</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-the-best-4-webp-apps-on-your-windows-laptoppc/"><u>Discover the Best 4 WebP Apps on Your Windows Laptop/PC</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oneplus-nord-ce-3-lite-5g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your OnePlus Nord CE 3 Lite 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719354556221-eliminate-troubleshooting-roadblocks-for-compatibility-issues/"><u>Eliminate Troubleshooting Roadblocks for Compatibility Issues.</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-watcher-to-writer-embrace-the-linguistic-journey-of-ks/"><u>From Watcher to Writer: Embrace the Linguistic Journey of KS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-gionee-f3-pro-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Gionee F3 Pro Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-motorola-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Motorola</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-skyward-elite-unified-ultra-hd-multi-touch-panels/"><u>In 2024, Skyward Elite  Unified, Ultra HD Multi-Touch Panels</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/instantly-enhance-your-facebook-experience-with-collage-for-2024/"><u>Instantly Enhance Your Facebook Experience with Collage for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719297453407-mastery-overprint-how-to-reactivate-the-missing-windows-functionality/"><u>Mastery Overprint: How to Reactivate the Missing Windows Functionality</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rescue-corrupted-videos-naturally/"><u>Rescue Corrupted Videos, Naturally</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719241276591-team-chat-freezing-heres-a-fix/"><u>Team Chat Freezing? Here’s a Fix!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-essential-10-fcp-plugins/"><u>The Ultimate Guide to Essential 10 FCP Plugins</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-choice-for-ergonomic-efficiency-best-wireless-mice-of-the-year-2024/"><u>Top Choice for Ergonomic Efficiency: Best Wireless Mice of the Year 2024</u></a></li>
+</ul></div>

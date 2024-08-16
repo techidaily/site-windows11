@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Pinpointing Device Serial Numbers on Windows
-date: 2024-07-11T21:31:18.245Z
-updated: 2024-07-12T21:31:18.245Z
+date: 2024-08-15T16:01:38.128Z
+updated: 2024-08-16T16:01:38.128Z
 tags:
   - windows10
   - windows11
@@ -41,9 +41,16 @@ thumbnail: https://thmb.techidaily.com/d03b713b6f6bb665862fd62a3d2bf27a022b75c76
 
  Don’t confuse a hardware ID with a compatible ID. A hardware ID is a unique identification number given to a specific device. Meanwhile, a compatible ID is a generic identification number given to a group of devices.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## 2\. Use the Command Prompt
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Command Prompt is an incredible tool that helps you access most apps, configure system settings, and troubleshoot device issues. You can also perform other tricks with it, such as checking the hardware IDs for your devices.
 
@@ -63,6 +70,9 @@ Let’s check out the steps you need to follow:
 2. In the same row, check the option that appears in the "Published Name" category.
 
 ![Selecting the mouse option "msmouse" in the Command Prompt results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-mouse-option-in-the-command-prompt-results-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 
  In this case, the option in the "Published Name" category is**msmouse.inf** .
 
@@ -80,7 +90,13 @@ Let’s check out the steps you need to follow:
  Now, press**Enter** once you’ve typed in the correct command. From there, locate the "Hardware ID" option from the results.
 
 ![Selecting the Hardware ID option in the Command Prompt screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-hardware-id-option-in-the-command-prompt-screen.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Use PowerShell
 
  Alternatively, you can also check the hardware IDs using [Windows PowerShell](https://www.makeuseof.com/what-is-windows-powershell/) . It’s another incredible tool that allows you to run various commands.
@@ -124,6 +140,9 @@ Let’s check out the steps you need to follow:
 
  In this case, the hardware ID for the keyboard (which appears in the "Data" category) is**ACPI\\VEN\_IDEA&DEV\_0102** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Use the Windows Device Console
 
  The Device Console (DevCon) is a feature that shows you detailed information about the devices on your computer. This tool can also help you configure, install, remove, enable, or disable devices.
@@ -161,6 +180,9 @@ Once you’re in the correct folder, follow these steps:
 
  If you want to explore the Device Console in detail, check out [the various ways to use Dev Con](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/devcon-examples) on the Microsoft website.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## You've Successfully Found the Hardware IDs of Your Devices
 
  Hardware IDs make it easy for you to identify all your devices and drivers. The good news is that it's quite easy to find these IDs.
@@ -186,3 +208,48 @@ Once you’re in the correct folder, follow these steps:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-how-to-retreat-from-macos-sierras-latest-upgrade/"><u>[New] In 2024, How to Retreat From MacOS Sierra's Latest Upgrade</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-sparkle-and-shine-tips-to-preserve-your-snapstreak/"><u>[New] In 2024, Sparkle and Shine  Tips to Preserve Your Snapstreak</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/roven-tactics-to-amplify-your-youtube-popularity/"><u>[New] Proven Tactics to Amplify Your YouTube Popularity</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-perfecting-cinematography-for-reddit-amas-for-2024/"><u>[Updated] Perfecting Cinematography for Reddit AMAs for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-science-behind-effective-instagram-puzzle-posts-for-2024/"><u>[Updated] The Science Behind Effective Instagram Puzzle Posts for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-concerned-video-immediate-removal-for-copyright-violation/"><u>2024 Approved  Concerned  Video Immediate Removal for Copyright Violation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-uniting-viewers-mastering-interactive-dialogue-online/"><u>2024 Approved  Uniting Viewers  Mastering Interactive Dialogue Online</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/avoiding-the-ignored-making-your-video-a-staff-pick-on-vimeo-for-2024/"><u>Avoiding the Ignored  Making Your Video a Staff Pick on Vimeo for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/cost-cutting-options-for-purchasing-gopros/"><u>Cost-Cutting Options for Purchasing GoPros</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-to-correct-0x8009030e-in-virtualization/"><u>Essential Steps to Correct 0X8009030E in Virtualization</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-internal-audio-problems-in-audacity-for-windows-1111/"><u>Fixing Internal Audio Problems in Audacity for Windows 11/11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-14-pro-max-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone 14 Pro Max Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-correcting-invalid-profiles-on-windows-oses/"><u>Guide to Correcting Invalid Profiles on Windows OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-hide-the-search-bar-from-the-taskbar-on-windows-11/"><u>How to Hide the Search Bar From the Taskbar on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-revert-time-travelled-command-history/"><u>How to Revert Time-Travelled Command History</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stop-windows-update-asking-to-update-and-restart/"><u>How to Stop Windows Update Asking to Update and Restart</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-htc-u23-pro-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your HTC U23 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://windows11.techidaily.com/independent-windows-version-improvement-tactics/"><u>Independent Windows: Version Improvement Tactics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/infusing-youtube-soundtracks-within-multimedia/"><u>Infusing YouTube Soundtracks Within Multimedia</u></a></li>
+<li><a href="https://windows11.techidaily.com/instantly-access-dark-mode-in-notepad-windows-11-edition/"><u>Instantly Access Dark Mode in Notepad, Windows 11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-component-services-accessibility-in-w11/"><u>Mastering Component Services Accessibility in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-error-0x80070570-restoring-broken-files-on-windows-11/"><u>Mastering Error 0X80070570: Restoring Broken Files on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-fixing-uninstall-glitches-on-windows-11/"><u>Mastering the Art of Fixing Uninstall Glitches on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-group-policies-a-threefold-pathway-guide/"><u>Mastering Windows Group Policies: A Threefold Pathway Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-in-managing-windows-11-tpm-issues/"><u>Mastery in Managing Windows 11 TPM Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-for-correcting-a-dysfunctional-delete-key/"><u>Methods for Correcting a Dysfunctional Delete Key</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-device-dialogue-syncing-android-and-windows/"><u>Navigating Device Dialogue: Syncing Android & Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-steam-content-access-difficulty-on-windows-systems/"><u>Overcoming Steam Content Access Difficulty on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/peering-into-microsofts-updating-mechanics-for-os/"><u>Peering Into Microsoft's Updating Mechanics for OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/recovering-a-mute-windows-start-button-issue/"><u>Recovering a Mute Windows Start Button Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-device-errors-in-windows-11/"><u>Remedying Device Errors in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/rethinking-taskbar-design-top-strategies-to-elevate-windows-11-experience/"><u>Rethinking Taskbar Design: Top Strategies to Elevate Windows 11 Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/smooth-windows-11-access-with-pin-solutions/"><u>Smooth Windows 11 Access with PIN Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-spotify-links-on-windows-11-pcs/"><u>Streamlining Spotify Links on Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-non-functional-windows-11-keys/"><u>Tackling Non-Functional Windows 11 Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-leaderboard-game-lol/"><u>Unlocking Windows Leaderboard Game (LOL)</u></a></li>
+<li><a href="https://windows11.techidaily.com/upgrade-windows-11-notebook-using-ai-expert/"><u>Upgrade Windows 11 Notebook Using AI Expert</u></a></li>
+<li><a href="https://windows11.techidaily.com/weekend-wins-lifetime-win10-starting-at-612/"><u>Weekend Wins: Lifetime Win10, Starting at $6.12</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-update-how-to-use-the-widget-toolbar/"><u>Windows 11 Update: How to Use the Widget Toolbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/zero-cost-hardware-recreation-in-windows/"><u>Zero-Cost Hardware Recreation in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/zero-to-win-efficiently-handling-app-issues-in-windows-11/"><u>Zero-to-Win: Efficiently Handling App Issues in Windows 11</u></a></li>
+</ul></div>

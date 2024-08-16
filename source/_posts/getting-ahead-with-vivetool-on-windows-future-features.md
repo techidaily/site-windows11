@@ -1,7 +1,7 @@
 ---
 title: "Getting Ahead with ViVeTool on Windows: Future Features"
-date: 2024-07-11T22:03:37.949Z
-updated: 2024-07-12T22:03:37.949Z
+date: 2024-08-15T15:28:56.647Z
+updated: 2024-08-16T15:28:56.647Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
 
  If you want to use ViVeTool on your daily driver, go through the [Windows data backup and recovery options](https://www.makeuseof.com/tag/ultimate-windows-10-data-backup-guide/) and proceed with the steps below. Ideally, use a virtual machine to test new features, and if found to be stable, apply them to your daily driver.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## How to Download and Install the ViVeTool GUI Version
 
  ViVeTool GUI is the forked version of the ViVeTool command-line utility. It is less complicated to use and removes the hassle of executing commands or remembering them in the first place. The GUI version is available as an executable installer or portable version. Here’s how to install and use ViVeTool GUI on Windows.
@@ -46,9 +49,15 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
 
 1. Go to the [ViVeTool GUI page](https://github.com/PeterStrick/ViVeTool-GUI/releases/) on GitHub.  
 ![download vivetool gui zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-vivetool-gui-zip.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 2. Download the latest version of the **Setup.exe file** available. You can also download a portable version if you prefer.
 3. Run the setup file and keep the default settings. Follow the on-screen instructions to install the app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## How to Install Unreleased Features Using ViVeTool on Windows
 
  Now that the app is installed, you can use it to find and install unreleased features on your Windows computer. Here’s how to do it:
@@ -61,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
 ![activate feature vivetool gui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/activate-feature-vivetool-gui.jpg)
 5. Click the **Perform Action** drop-down select **Activate** to enable the feature. Wait for the success message and click **Close**.  
 ![revert to default values feature vivetool gui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/revert-to-default-values-feature-vivetool-gui.jpg)
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. If the changes are not immediately visible, [restart Windows Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) to apply the changes. In some instances, you may need to restart your PC to make the changes.
 
  To revert the changes or disable a feature, you can use the Deactivate Feature option available in ViVeTool. Here's how to disable a feature using ViVeTool:
@@ -82,6 +94,9 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
 * [Enable the Enhanced Taskbar in Windows 11](https://www.makeuseof.com/enhanced-taskbar-settings-windows-11/)
 * [Enable the Volume Mixer in the Action Center in Windows 11](https://www.makeuseof.com/volume-mixer-action-center-windows/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## How to Use the ViVeTool Command-Line Version
 
  The original version of ViVeTool is a command-line utility. While it offers similar functionality as the GUI version, it is an efficient way to enable and disable Windows features quickly. Here’s how to do it:
@@ -92,11 +107,17 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
 3. Click on **Assets** to view the download options.
 4. Next, click the **ViVeTool.GUI.1.6.2.0.Portable.zip** file (version may change with the new releases) to download the latest version to your local drive.  
 ![vivetool zip extract folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/vivetool-zip-extract-folder.jpg)
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Right-click on the **Zip** file and select **Extract** **all**. Select a destination and click **Extract**. Take note of the extraction folder.
 
 1. Next, press the **Win** key and type **cmd**.
 2. Right-click on **Command Prompt** and select **Run as administrator.**  
 ![command prompt vivetool change directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/command-prompt-vivetool-change-directory.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. In the Command Prompt, change the directory to ViVeTool extracted folder. So, type the following command and press **Enter** to change the directory:  
 `cd /d [ViVeToolFolderPath]`
 4. For example, if I have the ViVeTool folder saved in C:\\Users\\username\\Downloads\\ViVeTool-v0.3.2, then the full command will look this:  
@@ -106,6 +127,9 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
 
 1. In the above command, replace featureID with the feature ID you want to enable.  
 ![command prompt vivetool enable feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/command-prompt-vivetool-enable-feature.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. For example, to enable the tab feature in File Explorer, the feature ID is id:37634385\. So, the full command will look like this:  
 `ViVeTool.exe /enable /id:37634385`
 3. If you want to disable a feature, then the command will look something like this:  
@@ -155,3 +179,59 @@ thumbnail: https://thmb.techidaily.com/14df3d85d8466ef631a5707d30d5e14919d53addb
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-top-insights-on-maximizing-business-engagement-on-insta/"><u>[New] In 2024, Top Insights on Maximizing Business Engagement on Insta</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-access-all-movies-ioss-no1-freepluspaid-film-apps-guide/"><u>[Updated] Access All Movies  IOS's No.1, FREE+Paid Film Apps Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-tackling-facebook-message-video-not-sending-issue-androidiphone/"><u>[Updated] Tackling Facebook Message Video Not Sending Issue (Android/iPhone)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-addressing-ios-and-android-issues-with-fb-messages-video-sharing/"><u>2024 Approved  Addressing iOS and Android Issues with FB Message's Video Sharing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-splits-a-filmmakers-creative-playbook/"><u>2024 Approved  YouTube Splits  A Filmmaker’s Creative Playbook</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-f04-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/biometric-betrayal-how-secure-is-your-windows-hello-lock/"><u>Biometric Betrayal: How Secure Is Your Windows Hello Lock?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/bold-creation-mastering-timelapses-and-animations-with-movie-maker/"><u>Bold Creation  Mastering Timelapses & Animations with Movie Maker</u></a></li>
+<li><a href="https://windows11.techidaily.com/brighten-up-a-step-by-step-guide-to-an-eye-catching-cursor/"><u>Brighten Up: A Step-by-Step Guide to an Eye-Catching Cursor</u></a></li>
+<li><a href="https://windows11.techidaily.com/choosing-wisely-windows-terminal-as-your-primary-cli/"><u>Choosing Wisely: Windows Terminal as Your Primary CLI</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-access-denial-during-system-installation/"><u>Conquering Access Denial During System Installation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/de-vibratory-techniques-for-drone-video-clarity-for-2024/"><u>De-Vibratory Techniques for Drone Video Clarity for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/decrypt-the-mystery-of-win11-blue-screen-with-11-hacks/"><u>Decrypt the Mystery of Win11 Blue Screen with 11 Hacks</u></a></li>
+<li><a href="https://windows11.techidaily.com/easing-into-windows-backup-restoration-procedures/"><u>Easing Into Windows Backup Restoration Procedures</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/effortless-file-deletion-with-stellar-windows-auto-erase-scheduler-standard-edition/"><u>Effortless File Deletion with Stellar Window's Auto-Erase Scheduler Standard Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-tasks-initiating-administrative-powershell-on-win11/"><u>Elevate Your Tasks: Initiating Administrative PowerShell on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-email-management-stick-a-new-icon-in-taskbar-border/"><u>Enhance Email Management: Stick a New Icon in Taskbar Border</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/faster-phonetic-playback-choose-from-these-10-for-2024/"><u>Faster Phonetic Playback  Choose From These 10 for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-grayed-out-memory-protection-in-win11-update/"><u>Fixing Grayed-Out Memory Protection in Win11 Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-glitch-windows-steam-play-links/"><u>Fixing the Glitch: Windows Steam Play Links</u></a></li>
+<li><a href="https://windows11.techidaily.com/global-mouse-mastery-using-powertoys-innovative-features/"><u>Global Mouse Mastery Using PowerToys' Innovative Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/graphics-driver-restart-procedure-in-windows-11/"><u>Graphics Driver Restart Procedure in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-address-not-starting-speech-recognition-in-windows/"><u>How To Address Not Starting Speech Recognition in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-dampen-explore-tabs-in-windows-11-os/"><u>How to Dampen Explore Tabs in Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-dropboxs-high-cpu-usage-on-windows/"><u>How to Fix Dropbox's High CPU Usage on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stop-the-mouse-from-freezing-in-excel/"><u>How to Stop the Mouse From Freezing in Excel</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-breaking-the-mold-pushing-a-video-into-hot-water/"><u>In 2024, Breaking the Mold  Pushing a Video Into Hot Water</u></a></li>
+<li><a href="https://windows11.techidaily.com/learn-to-handle-text-emphasis-on-windows-11/"><u>Learn to Handle Text Emphasis on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-of-self-extraction-an-insider-look-at-win11-sfxs/"><u>Mastery of Self-Extraction: An Insider Look at Win11 SFXs</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-no-audio-capture-in-obs-on-windows-11-pcs/"><u>Overcoming No Audio Capture in OBS on Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-apps-vying-for-same-camera-on-windows/"><u>Remedying Apps Vying for Same Camera on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-system-8-routes-for-windows-restart/"><u>Reviving System: 8 Routes for Windows Restart</u></a></li>
+<li><a href="https://windows11.techidaily.com/saving-screen-time-by-hushing-file-explorer-tabs/"><u>Saving Screen Time by Hushing File Explorer Tabs</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-windows-11-experience-for-mac-using-parallels/"><u>Seamless Windows 11 Experience for Mac, Using Parallels</u></a></li>
+<li><a href="https://windows11.techidaily.com/securely-shifting-your-streaming-application-across-hardware/"><u>Securely Shifting Your Streaming Application Across Hardware</u></a></li>
+<li><a href="https://windows11.techidaily.com/shining-spotlight-on-cursors-with-windows-1011/"><u>Shining Spotlight on Cursors with Windows 10/11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-tips-for-changing-your-profile-icon-on-discord/"><u>Simple Tips for Changing Your Profile Icon on Discord</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplify-your-life-incorrante-outlook-preview-in-windows-11/"><u>Simplify Your Life: Incorrante Outlook Preview in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-wired-keyboard-interaction-for-windows-system/"><u>Stop Wired Keyboard Interaction for Windows System</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-perfect-icon-placement/"><u>Strategies for Perfect Icon Placement</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/syma-x5c-insights-choosing-the-best-drone-for-aviation-rookies/"><u>Syma X5C Insights  Choosing the Best Drone for Aviation Rookies</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-typhoon-of-erratic-windows-mouse-wheel/"><u>Taming the Typhoon of Erratic Windows Mouse Wheel</u></a></li>
+<li><a href="https://windows11.techidaily.com/taskbar-transformation-minimizing-apps-with-ease-and-speed/"><u>Taskbar Transformation: Minimizing Apps with Ease and Speed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-guide-to-fast-and-smooth-download-experiences-on-pc-gaming-stores/"><u>The Ultimate Guide to Fast and Smooth Download Experiences on PC Gaming Stores</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-walkthrough-for-wiping-data-with-windows-11s-command-line-utility/"><u>The Ultimate Walkthrough for Wiping Data with Windows 11'S Command Line Utility</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshoot-asking-too-many-hands-at-once-errors/"><u>Troubleshoot Asking Too Many Hands at Once Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooters-guide-unlocking-photoshop-on-windows-1011/"><u>Troubleshooters' Guide: Unlocking Photoshop on Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-power-of-your-keyboard-for-app-dimension-control-in-win11/"><u>Unlock the Power of Your Keyboard for App Dimension Control in Win11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nokia-g22-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Nokia G22 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-itel-a05s-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Itel A05s Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-user-mastery-group-and-admin-essentials-guide/"><u>Windows 11 User Mastery: Group & Admin Essentials Guide</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Guiding Through a Windows System's Exception Breaking Point Issue
-date: 2024-07-11T21:27:46.741Z
-updated: 2024-07-12T21:27:46.741Z
+date: 2024-08-15T16:04:19.382Z
+updated: 2024-08-16T16:04:19.382Z
 tags:
   - windows10
   - windows11
@@ -70,9 +70,15 @@ To run the CHKDSK tool:
 `chkdsk C: /r`
 
 ![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-chkdsk-command.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When executed, it will scan and check your system drive (C:/) for bad sectors. Wait for the scan to finish and close the Command Prompt window.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 4\. Turn Off Any GPU Overclocking
 
  If the error is triggered while performing a graphic-intensive task (such as playing a game or rendering 3D models), it can be due to an overclocked GPU.
@@ -100,6 +106,9 @@ To run the CHKDSK tool:
 
  A corrupted user profile may cause the "the exception breakpoint has been reached" error. To fix the error, you can [create a new user local user profile on Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) and give it administrator privilege. Sign into your new user profile and launch the app to see if the error is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## 7\. Update or Uninstall the Problematic App
 
  If specific apps trigger the error, such as the Origin launcher or the Steam client, consider reinstalling the app to solve the issue.
@@ -112,14 +121,23 @@ To uninstall an application on Windows:
 2. Open the**Apps** tab in the left pane.
 3. Click on**Install** **apps** .  
 ![windows 11 settings installed apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-settings-installed-apps.jpg)
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Type the name of your app in the search bar.  
 ![uninstall apps windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-apps-windows-11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 5. Next, click**the three-dots menu** next to the app name and**Uninstall** .
 6. Click on**Uninstall** again to confirm the action.
 7. Once uninstalled, download the app installer and install the app. Restart your PC and check for any improvements.
 
  Note that, at times, the issue can be with a specific version of the app. To fix this, try to install an older version of the app to see if that works.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Fixing the "The Exception Breakpoint Has Been Reached" Error on Windows
 
  This error is often related to your system's inability to utilize the memory resources available due to system file corruption or issues with your hard disk. Use the built-in Windows image repair and System File Checker too to resolve system issues. Also, install pending updates for the app or reinstall the problematic app to fix the problem.
@@ -142,3 +160,62 @@ To uninstall an application on Windows:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-from-darkness-to-brilliance-mastering-iphones-hdr-techniques-for-2024/"><u>[New] From Darkness to Brilliance  Mastering iPhone's HDR Techniques for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-excavate-extravagance-treasure-hunting-maps-ranked/"><u>[New] In 2024, Excavate Extravagance  Treasure Hunting Maps Ranked</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-solving-sound-disconnection-on-live-feeds/"><u>[New] In 2024, Solving Sound Disconnection on Live Feeds</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-ultimate-collection-of-top-ranked-cost-free-youtube-short-video-downloader-apps/"><u>[New] The Ultimate Collection of Top-Ranked, Cost-Free YouTube Short Video Downloader Apps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-detailed-steps-to-capture-all-your-messenger-conversations-for-2024/"><u>[Updated] Detailed Steps to Capture All Your Messenger Conversations for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-ig-success-a-guide-to-best-management-tools/"><u>[Updated] Navigating IG Success  A Guide to Best Management Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/10-ways-to-clean-up-your-firewall-rules/"><u>10 Ways to Clean Up Your Firewall Rules</u></a></li>
+<li><a href="https://windows11.techidaily.com/11-fixes-if-windows-11-cant-detect-a-wi-fi-network/"><u>11 Fixes if Windows 11 Can’t Detect a Wi-Fi Network</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-engaging-with-srt-soundfiles-on-pc-and-mac/"><u>2024 Approved  Engaging with SRT Soundfiles on PC & Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-deep-dive-into-winning-windows-captures-with-printscreen-or-snip-tool/"><u>A Deep Dive Into Winning Windows Captures with Printscreen or Snip Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/adapting-to-new-gear-your-powertoys-configuration-guide/"><u>Adapting To New Gear: Your PowerToys Configuration Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/address-unsigned-files-issue-for-updated-pcs/"><u>Address 'Unsigned' Files Issue for Updated PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-steam-vac-denial-for-gaming-sessions/"><u>Addressing Steam VAC Denial for Gaming Sessions</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-why-files-cant-sync-in-steam-library/"><u>Addressing Why Files Can't Sync in Steam Library</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-windows-11-system-call-failures-quickly/"><u>Addressing Windows 11 System Call Failures Quickly</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/apex-broadcast-tools-and-platforms-for-2024/"><u>Apex Broadcast Tools & Platforms for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-silencing-windows-11-alerts-benefits-unveiled/"><u>Avoid Silencing Windows 11 Alerts: Benefits Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-unable-to-start-application-error-xc000003e-in-windows-11/"><u>Avoiding Unable to Start Application Error Xc000003e in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/beat-windows-timer-troubles-reclaim-control/"><u>Beat Windows Timer Troubles, Reclaim Control</u></a></li>
+<li><a href="https://windows11.techidaily.com/become-a-windows-wizard-learn-essential-shortcut-commands/"><u>Become a Windows Wizard: Learn Essential Shortcut Commands</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-steam-auth-blocks-in-rust-on-windows-devices/"><u>Breaking Down Steam Auth Blocks in Rust on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/bridging-windows-prefixes-with-microsoft-services/"><u>Bridging Windows Prefixes with Microsoft Services</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypass-the-troubleshooter-effective-fixes-in-vista-and-7/"><u>Bypass the Troubleshooter: Effective Fixes in Vista & 7</u></a></li>
+<li><a href="https://windows11.techidaily.com/circumventing-office-activation-barriers-on-desktops/"><u>Circumventing Office Activation Barriers on Desktops</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-tutorial-downloading-and-setting-up-msixbundle-and-msix-file-types/"><u>Comprehensive Tutorial: Downloading & Setting Up Msixbundle & MSIX File Types</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-immediate-failure-effective-strategies-to-tackle-onedrive-folder-issues-on-pc/"><u>Conquering Immediate Failure: Effective Strategies to Tackle OneDrive Folder Issues on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-common-errors-in-windows-onedrive/"><u>Correcting Common Errors in Windows' OneDrive</u></a></li>
+<li><a href="https://windows11.techidaily.com/creating-personalized-music-cds-with-mp3s-a-compreenasive-guide-for-windows-users-imgburn/"><u>Creating Personalized Music CDs with Mp3s: A Compreenasive Guide for Windows Users (ImgBurn)</u></a></li>
+<li><a href="https://windows11.techidaily.com/critiquing-7-perplexing-windows-11-aesthetics/"><u>Critiquing 7 Perplexing Windows 11 Aesthetics</u></a></li>
+<li><a href="https://windows11.techidaily.com/curing-white-screen-problems-on-store-platform/"><u>Curing White Screen Problems on Store Platform</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-runtime-broker-its-essential-role-in-operating-systems/"><u>Decoding Runtime Broker: Its Essential Role in Operating Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/demystifying-windows-error-code-31-and-network-adapter-issues/"><u>Demystifying Windows Error Code 31 and Network Adapter Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/demystifying-windows-aggregatehostexe-its-functionality-and-dangers/"><u>Demystifying Windows' AggregateHost.exe: Its Functionality & Dangers</u></a></li>
+<li><a href="https://windows11.techidaily.com/desk-clean-up-restoring-windows-11-desktop-symbols/"><u>Desk Clean-Up: Restoring Windows 11 Desktop Symbols</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/device-unlock-motorola-moto-g73-5g-by-drfone-android-unlock-android-unlock/"><u>Device unlock  Motorola Moto G73 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/diagnosing-voice-commands-malfunction-in-valorant-games/"><u>Diagnosing Voice Commands Malfunction in Valorant Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/differences-between-cloud-based-windows-installations/"><u>Differences Between Cloud-Based Windows Installations</u></a></li>
+<li><a href="https://windows11.techidaily.com/direct-routes-to-windows-11s-user-authorization-screen/"><u>Direct Routes to Windows 11'S User Authorization Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-ways-to-free-disk-space-without-deleting-windows-11-files-max-156-chars/"><u>Discover Ways to Free Disk Space Without Deleting Windows 11 Files (Max 156 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/dissecting-windows-11s-user-identity-framework/"><u>Dissecting Windows 11'S User Identity Framework</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dj-delight-choosing-ultimate-event-videos/"><u>DJ Delight  Choosing Ultimate Event Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/dji-mini-and-air-2-mixing-made-easy-with-20-free-luts/"><u>DJI Mini & Air 2 Mixing Made Easy with 20 Free LUTS</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719299682478-enhancing-productivity-with-cloud-services-dropboxgoogle-on-c/"><u>Enhancing Productivity with Cloud Services: Dropbox/Google on C</u></a></li>
+<li><a href="https://extra-information.techidaily.com/excellent-easytime-timer-services/"><u>Excellent EasyTime Timer Services</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-razr-40-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola Razr 40</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-nokia-c110-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Nokia C110 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-quick-tips-for-easy-youtube-thumbnail-acquisition-zero-price/"><u>In 2024, Quick Tips for Easy YouTube Thumbnail Acquisition – Zero Price</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/invisible-watch-top-5-stealthy-story-apps/"><u>Invisible Watch  Top 5 Stealthy Story Apps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-apple-iphone-15-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab Apple iPhone 15 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-guide-to-editing-profile-paths-in-w11/"><u>Quick Guide to Editing Profile Paths in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719293537225-resurrect-your-chrome-on-win11-with-ease/"><u>Resurrect Your Chrome on Win11 with Ease</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-the-new-oculus-quest-top-of-the-line-wristband-extra-power-source-and-handy-storage-case-a-complete-review/"><u>Unboxing the New Oculus Quest 지이템스트러피: Top-of-the-Line Wristband, Extra Power Source, and Handy Storage Case - A Complete Review!</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Chkdsk Vs. Scan Disk: Delving Into Dissect's Function in System Repairing"
-date: 2024-07-11T22:12:29.679Z
-updated: 2024-07-12T22:12:29.679Z
+date: 2024-08-15T15:20:29.717Z
+updated: 2024-08-16T15:20:29.717Z
 tags:
   - windows10
   - windows11
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/861e642d844db4b2f3d772a017498464c5809d872
 * [What Is DISM and When Should You Use It?](#what-is-dism-and-when-should-you-use-it)
 * [What Order Should You Run CHKDSK, SFC, and DISM In?](#what-order-should-you-run-chkdsk-sfc-and-dism-in)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * CHKDSK scans your hard drive for errors and bad sectors, and you should run it if your computer isn't booting properly.
@@ -33,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/861e642d844db4b2f3d772a017498464c5809d872
 
  CHKDSK, SFC, and DISM are system tools, and you can run all three. However, this can be time-consuming and unnecessary for your specific problem, so it's best to know when and how to use this trio of troubleshooting tools.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is CHKDSK and When Should You Use It?
 
  CHKDSK (Check Disk) is the first Windows diagnostic tool you should try if your PC starts acting strangely. For example, if it hangs while shutting down or becomes frustratingly slow.
@@ -73,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/861e642d844db4b2f3d772a017498464c5809d872
 
  If you cannot run these commands because "the volume is in use by another process," Command Prompt will offer to schedule the scan for when your PC restarts. This should, however, only happen once. If the tool pops up whenever you boot your PC, you can [stop CHKDSK from running at every startup](https://www.makeuseof.com/tag/stuck-chkdsk-use-fix-right-way/) manually.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is SFC Scannow and When Should You Use It?
 
  Whereas CHKDSK finds and fixes errors in the file system of your hard drive, **SFC (System File Checker)** specifically scans and repairs Windows system files. If it detects a file has been corrupted or modified, SFC automatically replaces that file with the correct version.
@@ -96,6 +105,9 @@ thumbnail: https://thmb.techidaily.com/861e642d844db4b2f3d772a017498464c5809d872
 * **Windows Resource Protection found corrupt files but was unable to fix some of them.** This means that system files are to blame, but SFC can't replace them. Try running the tool again in Safe Mode. If you still get the same result, don't despair: it's time to use DISM.
 
 ![Screenshot of complete sfc scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-complete-sfc-scan.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 
 ## What Is DISM and When Should You Use It?
 
@@ -110,6 +122,9 @@ thumbnail: https://thmb.techidaily.com/861e642d844db4b2f3d772a017498464c5809d872
 `Dism /Online /Cleanup-Image /CheckHealth`
 
 ![windows dism check in command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/windows-dism-check-in-command-prompt.jpg)
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The scan should only take a few seconds. If no corruption is detected, you can run a more advanced scan to determine if the component store is healthy and repairable, again without making any changes, by typing:
 
@@ -124,6 +139,9 @@ thumbnail: https://thmb.techidaily.com/861e642d844db4b2f3d772a017498464c5809d872
 
  Once the scan and repairs are complete, restart your PC and run SFC again to replace your corrupt or missing system files.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Order Should You Run CHKDSK, SFC, and DISM In?
 
  Now that you understand what CHKDSK, SFC, and DISM do, running one or more of these Windows troubleshooting tools will hopefully help you fix your PC.
@@ -143,3 +161,46 @@ thumbnail: https://thmb.techidaily.com/861e642d844db4b2f3d772a017498464c5809d872
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/2024-approved-building-bonds-youtube-and-brands-in-unity/"><u>2024 Approved  Building Bonds  YouTube and Brands in Unity</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beyond-the-screen-top-10-immersive-vr-gear-for-2024/"><u>Beyond The Screen  Top 10 Immersive VR Gear for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-to-downloading-and-updating-hp-network-card-drivers-for-multiple-windows-versions/"><u>Comprehensive Guide to Downloading and Updating HP Network Card Drivers for Multiple Windows Versions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-finties-macbook-pro-13-protective-case-excelling-in-durability-and-affordable-pricing/"><u>Comprehensive Review of Fintie's MacBook Pro 13 Protective Case: Excelling in Durability & Affordable Pricing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-finest-gaming-keyboards-offered-from-full-size-to-minis/"><u>Discover The Finest Gaming Keyboards Offered : From Full-Size to Minis</u></a></li>
+<li><a href="https://windows11.techidaily.com/evaluating-the-significance-of-audio-device-isolation-in-windows/"><u>Evaluating the Significance of Audio Device Isolation in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/examining-why-drive-letters-are-missing-from-windows-systems/"><u>Examining Why Drive Letters Are Missing From Windows Systems</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fix-usb-serial-converter-driver-issue-solved/"><u>Fix USB Serial Converter Driver Issue [Solved]</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-11-ignore-or-prevent-expiry-errors/"><u>Fixing Windows 11: Ignore or Prevent 'Expiry' Errors?</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-cease-built-in-desktop-keyboard-in-windows-os/"><u>Guide to Cease Built-In Desktop Keyboard in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-clearing-winsec-error-limited-administrator/"><u>Guide to Clearing WinSec Error - 'Limited Administrator'</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-guarantee-windows-screensaver-immobility/"><u>How to Guarantee Windows Screensaver Immobility</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-magic-5-lite-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Magic 5 Lite</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-6-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 6 iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-tackle-winservicesexe-malfunctions/"><u>How To Tackle WinServices.exe Malfunctions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unraveling-the-art-of-iphone-vr-video-playback/"><u>In 2024, Unraveling the Art of iPhone VR Video Playback</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/integrating-fingerprint-recognition-in-windows-11/"><u>Integrating Fingerprint Recognition in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/interactive-insights-microsofts-innovative-ai-hub/"><u>Interactive Insights: Microsoft's Innovative AI Hub</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-fixing-nvidia-cp-errors-in-ws1110/"><u>Mastering the Art of Fixing Nvidia CP Errors in WS11/10</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-winerror-fixes-for-oculus-app-installation/"><u>Mastering WinError Fixes for Oculus App Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-servers-problems-quick-and-effective-tips/"><u>Navigating Through Servers Problems: Quick & Effective Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/rejuvenating-pcs-essential-13-tricks-for-restoring-systems/"><u>Rejuvenating PCs: Essential 13 Tricks for Restoring Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-unsupported-device-for-windows-hello-login/"><u>Solving 'Unsupported Device' For Windows Hello Login</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-correctly-handle-windows-updater-issue-error-0x80070003/"><u>Step-by-Step Guide to Correctly Handle Windows' Updater Issue (Error 0X80070003)</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-repairing-windows-fragmented-file-issue/"><u>Steps for Repairing Windows Fragmented File Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/sustained-prominence-of-win-calculator-display/"><u>Sustained Prominence of Win Calculator Display</u></a></li>
+<li><a href="https://windows11.techidaily.com/synchronize-access-controls-with-powertoys-locksmith/"><u>Synchronize Access Controls with PowerToys' Locksmith</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-crafting-a-better-windows-11/"><u>The Art of Crafting a Better Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshoot-error-non-working-windows-11-voice-access/"><u>Troubleshoot Error: Non-Working Windows 11 Voice Access</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshoot-non-functional-shift-in-windows/"><u>Troubleshoot Non-Functional Shift in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblock-onedrive-windows-methods-to-reclaim-file-storage/"><u>Unblock OneDrive: Windows Methods to Reclaim File Storage</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-component-services-in-windows-11/"><u>Unlocking the Power of Component Services in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/wake-lock-woes-keyboard-mouse-in-win11/"><u>Wake Lock Woes: Keyboard, Mouse in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/waking-up-off-screen-windows-mastering-6-strategies-in-win11/"><u>Waking Up Off-Screen Windows: Mastering 6 Strategies in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-does-tasker-show-other-processes/"><u>Why Does Tasker Show Other Processes?</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11s-official-app-three-ways-to-erase-it/"><u>Win 11'S Official App: Three Ways to Erase It</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-adjusting-your-personalized-fn-keys/"><u>Windows 11: Adjusting Your Personalized FN Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-paper-management-reboot-steps/"><u>Windows Paper Management Reboot Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-sign-in-how-to-delete-your-email/"><u>Windows Sign In: How to Delete Your Email</u></a></li>
+</ul></div>

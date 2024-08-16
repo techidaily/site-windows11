@@ -1,7 +1,7 @@
 ---
 title: A User's Guide to Navigating File Explorer Tabs, Windows 11 Style
-date: 2024-07-11T22:16:10.074Z
-updated: 2024-07-12T22:16:10.074Z
+date: 2024-08-15T15:16:52.881Z
+updated: 2024-08-16T15:16:52.881Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,16 @@ thumbnail: https://thmb.techidaily.com/26e5a5bed3537105229e89d2df536f43cfadace1d
 
  Thankfully, the latest Insider build 25290 has a hidden feature that makes it possible to drag out tabs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## How to Enable the Drag-Out Feature in File Explorer
 
  This feature is exclusive to Windows 11 Insider builds and is in the testing phase. So, you will have to download and install the build version 25290 and then use the ViveTool to enable the feature.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Update to the Latest Insider Build
 
  To update to the latest insider build, head over to the Settings page and [check for Windows updates](https://www.makeuseof.com/tag/update-windows-software-guide/) . After that, install the latest 25920 build or newer on your system. You will have to restart your system for the changes to take effect.
@@ -50,18 +56,32 @@ thumbnail: https://thmb.techidaily.com/26e5a5bed3537105229e89d2df536f43cfadace1d
 4. Once you are in the C directory, type**cd Vive** and press the**Enter** key.
 5. After that, type**vivetool /enable /id:39661369** command and press the**Enter** key.  
 ![Enabling Tabs Dragging Feature In File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enabling-tabs-dragging-feature-in-file-explorer.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 6. **Exit** the command prompt window after the ViveTool command executes successfully.
 7. Restart your system to apply the changes.
 8. Log into Windows and press**Win + E** to launch File Explorer. Now, open two tabs and click and hold on any of the open tabs.  
 ![Tabs Dragging Feature in Action in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tabs-dragging-feature-in-action-in-file-explorer.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 9. Try to drag the tabs out of File Explorer. It will open in a second window. You can stack them on each side if you like.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## Can You Restore the Tab to the File Explorer Window?
 
  Yes, you can indeed restore the dragged tab back to a File Explorer window. But the process is very clunky. You have to drag and hold the tab onto another open tab in a different File Explorer window.
 
  If you aren’t able to accurately position the tab, it will not merge with the File Explorer tab bar. In Chrome browser, dragging out and restoring them to the same window is pretty easy. You can even hover the tab and position it between two open tabs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Drag Tabs Out Like a Pro in File Explorer
 
  Microsoft is trying to make File Explorer more useful. But we cannot expect File Explorer to exactly work like a browser. After, it happens to be a means to access different types of files and open them with a compatible app or program in a new window. Still, dragging tabs out is a slick feature, and we hope Microsoft fixes the kinks and adds it in future updates.
@@ -85,3 +105,53 @@ thumbnail: https://thmb.techidaily.com/26e5a5bed3537105229e89d2df536f43cfadace1d
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-alternate-escapades-where-the-gta-v-lives-are-missing/"><u>[New] 2024 Approved  Alternate Escapades - Where the GTA V Lives Are Missing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-youtubes-tagging-system-unveiled/"><u>[New] 2024 Approved  YouTube's Tagging System Unveiled</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-youtube-phenomenon-forecast-for-2024/"><u>[New] YouTube Phenomenon Forecast for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-discover-top-6-short-video-download-sites-free-for-2024/"><u>[Updated] Discover Top 6 Short Video Download Sites (FREE) for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-screening-success-10-movies-that-energize-and-empower/"><u>2024 Approved  Screening Success  10 Movies That Energize & Empower</u></a></li>
+<li><a href="https://windows11.techidaily.com/exiting-others-user-sessions-on-win-11/"><u>Exiting Others' User Sessions on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-windows-pathways-to-filefolder-secrets/"><u>Expert Windows Pathways to File/Folder Secrets</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-error-0x8019-in-windows-updates/"><u>Fixing Error 0X8019 in Windows Updates</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/flash-fiction-directorial-map/"><u>Flash Fiction Directorial Map</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-novice-to-pro-mastering-github-desktop-on-windows-11/"><u>From Novice to Pro: Mastering GitHub Desktop on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stop-the-license-will-expire-warning-in-win11/"><u>How to Stop the License Will Expire Warning in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stop-win11-from-showing-00-error-codes/"><u>How to Stop Win11 From Showing 00 Error Codes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-13-with-imei-code-by-drfone-ios/"><u>How to Unlock iPhone 13 with IMEI Code?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-samsung-galaxy-f15-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Samsung Galaxy F15 5G</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-tall-tales-reimagined-edits-for-vt-videos-on-fcpx/"><u>In 2024, Tall Tales Reimagined  Edits for VT Videos on FCPX</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-ultimate-live-capture-review-discovering-obs-dominance/"><u>In 2024, Ultimate Live Capture Review  Discovering OBS Dominance</u></a></li>
+<li><a href="https://windows11.techidaily.com/managing-windows-modules-installer-resource-demand/"><u>Managing Windows Modules Installer Resource Demand</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-note-taking-on-win11-easy-as-pie/"><u>Master Note-Taking on Win11, Easy as Pie</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-fixes-for-hardware-detection-faults/"><u>Mastering Fixes for Hardware Detection Faults</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-sefx-windows-11-sfx-creation/"><u>Mastering SEFX: Windows 11 SFX Creation</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-for-resolving-process-termination-failure-on-pcs/"><u>Methods for Resolving 'Process Termination Failure' On PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-microphone-performance-with-xbox-app-windows-11/"><u>Optimizing Microphone Performance with Xbox App Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-grayscale-windows-backdrops-tips-for-enhancement/"><u>Overcoming Grayscale Windows Backdrops: Tips for Enhancement</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventive-measures-for-csgo-launch-woes-on-windows-11/"><u>Preventive Measures for CS:GO Launch Woes on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/priority-accessibility-attach-google-mail-taskbar-ready/"><u>Priority Accessibility: Attach Google Mail Taskbar-Ready</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-lsa-errors-on-windows-pcs/"><u>Quick Fixes for LSA Errors on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/reflect-on-one-misconception-about-cultural-relativism-mentioned-in-class-then-describe-how-you-would-address-this-misunderstanding-with-someone-from-a-diff21/"><u>Reflect on One Misconception About Cultural Relativism Mentioned in Class, Then Describe How You Would Address This Misunderstanding with Someone From a Different Culture</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-issues-for-microsoft-store-access-on-windows-11/"><u>Resolving Issues for Microsoft Store Access on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-unresizable-gif-error-tips-for-discord-on-windows-11/"><u>Resolving Unresizable GIF Error: Tips for Discord on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-to-reduce-cpu-consumption-fixing-dropbox-on-windows/"><u>Solutions to Reduce CPU Consumption: Fixing Dropbox on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-methodology-for-full-uninstallation-of-wsl/"><u>Step-by-Step Methodology for Full Uninstallation of WSL</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-ax201-wi-fi-6-error-on-windows/"><u>Steps to Resolve AX201 Wi-Fi 6 Error on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/systematic-steps-for-nullifying-your-windows-drive-partitions/"><u>Systematic Steps for Nullifying Your Windows Drive Partitions</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-pin-verification-hurdles-for-windows-1011-systems/"><u>Tackling PIN Verification Hurdles for Windows 10/11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-deal-with-missing-values-on-pcs-running-winos/"><u>Techniques to Deal with Missing Values on PCs Running WinOS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-no-cost-artificial-intelligence-applications-for-crafting-professional-email-responses-using-chatgpt/"><u>Top 5 No-Cost Artificial Intelligence Applications for Crafting Professional Email Responses Using ChatGPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-7-photo-arrangers-for-a-clutter-free-pc-desktop/"><u>Top 7 Photo Arrangers for a Clutter-Free PC Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-winservicesexe-on-your-pc/"><u>Troubleshooting Winservices.exe on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-peak-performance-why-choose-windows-for-gaming/"><u>Unleashing Peak Performance: Why Choose Windows for Gaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-hidden-potential-in-vintage-video-gaming-titles-using-retroarch/"><u>Unlocking Hidden Potential in Vintage Video Gaming Titles Using Retroarch</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-microsoft-family-safety-potential/"><u>Unlocking Microsoft Family Safety Potential</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-your-podcast-potential-on-ios-from-script-to-success/"><u>Unlocking Your Podcast Potential on iOS  From Script to Success</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-vivetool-enable-unseen-features-on-windows-pcs/"><u>Unraveling ViVeTool: Enable Unseen Features on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-windows-odbc-command-center/"><u>Unveiling the Windows ODBC Command Center</u></a></li>
+<li><a href="https://windows11.techidaily.com/win10win11-diagnostics-tackling-0x0000004e-faults/"><u>Win10/Win11 Diagnostics: Tackling 0X0000004E Faults</u></a></li>
+<li><a href="https://windows11.techidaily.com/workaround-for-win10-and-11s-audacity-device-opening-issue/"><u>Workaround for Win10 & 11’S Audacity Device Opening Issue</u></a></li>
+</ul></div>

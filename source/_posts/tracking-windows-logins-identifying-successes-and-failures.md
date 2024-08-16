@@ -1,7 +1,7 @@
 ---
 title: "Tracking Windows Logins: Identifying Successes & Failures"
-date: 2024-07-11T21:50:23.132Z
-updated: 2024-07-12T21:50:23.132Z
+date: 2024-08-15T15:42:58.457Z
+updated: 2024-08-16T15:42:58.457Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b
 
  Close Group Policy Editor and move to the next set of steps to view login attempts in Event Viewer.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to View Failed and Successful Login Attempts in Event Viewer
 
  The [Event Viewer](https://www.makeuseof.com/windows-event-viewer-guide/) lets you view Windows logs for the application, security, system, and other events. While a useful application to troubleshoot system issues, you can use it to audit login events on your Windows PC.
@@ -52,22 +55,43 @@ thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b
 2. Click on**Event Viewer** from the search result to open it.
 3. In the left pane, expand the**Windows Logs** section.  
 ![event viewer security logon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/event-viewer-security-logon.jpg)
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Next, select**Security** .
 5. In the right pane, locate the**Event 4624** entry. It is a user logon event ID, and you may find multiple instances of this ID in the event log.
 6. To find failed login attempts, locate**Event ID 2625** entries instead.
 7. Next, select the**Event 4624** entry you want to view, and Event Viewer will display all the related information in the bottom section. Alternatively, right-click on the event entry and select**Properties** to view detailed information in a new window.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Decipher the Logon Entries in Event Viewer
 
  While Event ID 4624 is associated with logon events, you will likely find multiple instances of this entry occurring every few minutes in the log. This is due to Event Viewer recording every logon event (whether from the local user account or system services such as Windows Security) with the same event ID**(Event 4624**).
 
 ![event viewer security logon event properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/event-viewer-security-logon-event-properties.jpg)
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To identify the source of login, right-click on the event record and select**Properties** . In the**General** tab, scroll down and locate the**Logon information** section. Here, the**Logon Type** field indicates the kind of logon that occurred.
 
  For example,**Logon Type 5** indicates a service-based login, while**Logon Type 2** indicates user-based login. Know more about the different logon types in the table below.
 
 ![event viewer security logon event properties details 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/event-viewer-security-logon-event-properties-details-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, scroll down to the**New Logon** section and locate the**Security ID** . This will show the user account that was affected by the logon.
 
@@ -92,6 +116,9 @@ thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b
 ## How to View the Last Logon History Using Command Prompt
 
 ![view specific user last login attempt command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/view-specific-user-last-login-attempt-command-prompt.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 
  You can use the Command Prompt to view the last login attempt. It is a handy way to find user-based login attempts without having to go through all the logon events in Event Viewer.
 
@@ -128,3 +155,44 @@ To view the login history of a specific user using Command Prompt:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-acquiring-igtv-media-easily-a-comprehensive-pcmac-guide-for-2024/"><u>[Updated] Acquiring IGTV Media Easily  A Comprehensive PC/Mac Guide for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-soft-shots-with-top-blur-mobile-tools/"><u>[Updated] Master Soft Shots with Top Blur Mobile Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-exclusion-dilemma-is-someone-hidden-on-snapchat/"><u>[Updated] The Exclusion Dilemma  Is Someone Hidden On Snapchat?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-launching-a-google-meet-a-step-by-step-manual/"><u>2024 Approved  Launching a Google Meet  A Step-by-Step Manual</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superior-script-architect-space/"><u>2024 Approved  Superior Script Architect Space</u></a></li>
+<li><a href="https://windows11.techidaily.com/6-ways-to-recover-an-off-screen-window-in-windows-10-and-11/"><u>6 Ways to Recover an Off-Screen Window in Windows 10 and 11</u></a></li>
+<li><a href="https://win11.techidaily.com/7-noteworthy-changes-in-the-windows-11-file-explorer/"><u>7 Noteworthy Changes in the Windows 11 File Explorer</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-windows-11-unable-to-load-driver-errors/"><u>Addressing Windows 11: Unable to Load Driver Errors</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/adopting-hdri-for-superior-visual-storytelling-in-video-arts-for-2024/"><u>Adopting HDRI for Superior Visual Storytelling in Video Arts for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/auditory-pleasure-unlocked-by-paww-wavesound-3-analysis/"><u>Auditory Pleasure Unlocked by Paww Wavesound 3 Analysis</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-xiaomi-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Xiaomi .</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-motorola-razr-40-ultra-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Motorola Razr 40 Ultra</u></a></li>
+<li><a href="https://windows11.techidaily.com/configuring-an-everlasting-bin-for-deletion-in-the-windows-interface/"><u>Configuring an Everlasting Bin for Deletion in the Windows Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/download-adobe-reader-seamlessly-with-microsoft-store/"><u>Download Adobe Reader Seamlessly with Microsoft Store</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-asus-usb-bt400-easy-installation-guide-and-support/"><u>Download ASUS USB-BT400 Easy Installation Guide & Support</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-handheneld-to-hardware-android-titles-on-windows-via-google-service/"><u>From Handheneld to Hardware: Android Titles on Windows via Google Service</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/guide-to-correcting-the-tdr-failure-in-windows-nk-caused-by-atikmpagsys/"><u>Guide to Correcting the TDR Failure in Windows Nk Caused by atikmpag.sys</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-turn-off-chrome-prompts-windows-users/"><u>How to Turn Off Chrome Prompts Windows Users</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-15-by-drfone-ios/"><u>How to Unlock iPhone 15?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-90-gt-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor 90 GT to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-printer-sharing-challenges-in-windows/"><u>Navigating Printer Sharing Challenges in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-to-resolve-winerror-0x8007043c/"><u>Navigating to Resolve WinError 0X8007043C</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/open-an-iphone-sim-tray-without-the-original-pin-a-step-by-step-guide/"><u>Open an iPhone SIM Tray Without the Original Pin - A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-video-lag-during-steam-livestreams/"><u>Overcoming Video Lag During Steam Livestreams</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-tips-for-windows-camera-glitches/"><u>Quick-Fix Tips for Windows Camera Glitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-original-settings-post-deletion-win-11/"><u>Restoring Original Settings Post Deletion (Win 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-support-functionality-in-windows-11-help/"><u>Restoring Support Functionality in Windows 11 Help</u></a></li>
+<li><a href="https://windows11.techidaily.com/slowing-down-the-high-life-excess-in-windowed-worlds/"><u>Slowing Down the High Life Excess in Windowed Worlds</u></a></li>
+<li><a href="https://windows11.techidaily.com/software-selection-showdown-on-windows-choc-vs-wm/"><u>Software Selection Showdown on Windows: Choc vs WM</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-effortlessly-switch-between-windows-terminal-focus-and-normal-states/"><u>Steps to Effortlessly Switch Between Windows Terminal Focus and Normal States</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-windows-11-program-choices/"><u>Streamlining Your Windows 11 Program Choices</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharge-performance-conquering-windows-lag-issues/"><u>Supercharge Performance: Conquering Windows Lag Issues</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/taste-titans-must-follow-culinary-creators-online-for-2024/"><u>Taste Titans  Must-Follow Culinary Creators Online for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-8-different-ways-to-restart-your-windows-computer/"><u>The 8 Different Ways to Restart Your Windows Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-xiaomi-redmi-a2plus-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Xiaomi Redmi A2+ Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-silent-sounds-on-windows-devices/"><u>Troubleshooting Silent Sounds on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-right-click-customization-compatibility-tool-inclusion/"><u>Windows Right-Click Customization: Compatibility Tool Inclusion</u></a></li>
+</ul></div>

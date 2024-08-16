@@ -1,7 +1,7 @@
 ---
 title: Becoming an Expert Learner with These 7 Windowing Strategies
-date: 2024-07-11T22:11:09.938Z
-updated: 2024-07-12T22:11:09.938Z
+date: 2024-08-15T15:21:46.952Z
+updated: 2024-08-16T15:21:46.952Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 1. Go to the [Google Drive website](https://www.google.com/intl/en%5Fin/drive/download/) and click the **Download Drive for Desktop** button.
 2. Run the Google Drive installer file and click on **Install**.  
 ![Google Drive Installer Popup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-installer-popup.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 3. Click **Launch** and log in with your primary Google account.
 4. Once logged in, right-click on the Google Drive icon on the taskbar. Click on the gear (settings) icon and then **Preferences**.  
 ![Google Drive More Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-more-options.jpg)
@@ -57,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 ![Google Drive Preferences](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-preferences.jpg)
 6. Click on **Done** and then **Save** to finish the backup process.  
 ![Google Drive Preferences Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/google-drive-preferences-options.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 
  We asked you to create the main folder (in the previous section) for a reason. Now that your main folder is synced live, whatever files/folders you save to that, you can access all of them from your smartphone.
 
@@ -67,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
  Depending on your needs, you can customize sessions as short as 5 minutes or as long as multiple hours. You can access this feature from your **Windows Settings > System > Focus section**. Click the **Start focus session** button to start a session for the set amount. If you want to change the default timer, click the **Plus** or **Minus** button to adjust it.
 
 ![Focus Session Option On Windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/focus-session-option-on-windows11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 
 ## 4\. Install Useful Browser Extensions
 
@@ -93,11 +104,20 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 1. Install Drawboard PDF from the [Microsoft Store](https://apps.microsoft.com/store/detail/drawboard-pdf/9WZDNCRFHWQT).
 2. Before opening the app, we'll set Drawboard PDF as the default app to open all the PDF files. For that, right-click on any PDF file and select **Open With Drawboard**.  
 ![Drawboard PDF Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/drawboard-pdf-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 3. Click on **Always** to set Drawboard as your default PDF viewer app.  
 ![App Picker In Windows11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/app-picker-in-windows11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. The app will ask you to create a new Drawboard account or sign in with your already existing one.
 5. The PDF file should open in Drawboard now. If you've not used Drawboard before, we suggest clicking on the (**+**) plus button on the left side of the ribbon. Set up or configure the annotation tools to add highlights, text, or shapes at your convenience.  
 ![Drawboard PDF Advanced Tools](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/drawboard-pdf-advanced-tools.jpg)
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Take Digital Notes With Obsidian and OneNote
 
@@ -107,6 +127,9 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
 
  Obsidian is perfect for long-form writing and connecting concepts. It uses backlinks to display a knowledge graph of your notes. We have a [how to get started with Obsidian](https://www.makeuseof.com/what-is-obsidian-note-taking/) guide for those who want to go deep into note-taking with it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Download Notion and Set It Up
 
  As a student, keeping track of classes, deadlines, and college activities can quickly become chaotic. You'll surely agree that managing academic life requires organization. This is where Notion can help.
@@ -116,6 +139,9 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
  You can view a sample college student template in Notion to understand its usability. You can not only track your current semester's classes, notes, and materials; but can also manage your exam schedules in one searchable place.
 
 ![Notion Page Example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/notion-page-example.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  We already have a [beginner's guide to get started with Notion](https://www.makeuseof.com/beginners-guide-to-notion/). Besides, you can also browse [Notion templates for students](http://www.notion.so/templates/category/school) to start with an attractive setup.
 
@@ -126,6 +152,9 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
  As it's a web-based service, you must open your browser and visit [chat.openai.com](https://chat.openai.com/) to use it. But, If you don't want to open your web browser every time, learn [how to install ChatGPT as a Windows app](https://www.makeuseof.com/run-chatgpt-windows-app/). Once done, you can one-click to open it and use it to brainstorm ideas, helpful resources, and draft outlines for your next project.
 
 ![ChatGPT Website Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/chatgpt-website-screenshot.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Besides, if you don't know how to use ChatGPT for note-taking, you can refer to our guide on [how to use ChatGPT to take notes](https://www.makeuseof.com/use-chatgpt-to-take-notes/).
 
@@ -146,3 +175,47 @@ thumbnail: https://thmb.techidaily.com/5094501f2138eda47cf289c17fa771cf70f1a2ff2
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-digital-dynamo-women-the-fastest-growing-female-channel-owners/"><u>[New] In 2024, Digital Dynamo Women  The Fastest-Growing Female Channel Owners</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-perfect-the-art-of-posting-on-snapchat-15-tips-for-2024/"><u>[New] Perfect the Art of Posting on Snapchat (15 Tips) for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-ultimate-guide-to-establishing-a-twitter-presence/"><u>[Updated] The Ultimate Guide to Establishing a Twitter Presence</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/avatar-game-on-pc-now-running-smoothly-with-fixes-implemented/"><u>Avatar Game on PC - Now Running Smoothly with Fixes Implemented!</u></a></li>
+<li><a href="https://windows11.techidaily.com/correction-of-microsoft-store-error-0x80073cf3-on-windows-11/"><u>Correction of Microsoft Store Error 0X80073cf3 on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/curb-intrusive-windows-scrolling-for-smooth-screens/"><u>Curb Intrusive Windows Scrolling for Smooth Screens</u></a></li>
+<li><a href="https://windows11.techidaily.com/curing-stale-boot-option-imagery/"><u>Curing Stale BOOT Option Imagery</u></a></li>
+<li><a href="https://windows11.techidaily.com/dismantling-tpm-in-win11-using-the-power-of-rufus/"><u>Dismantling TPM in Win11 Using the Power of Rufus</u></a></li>
+<li><a href="https://windows11.techidaily.com/dispatching-windows-11s-silent-search-instigator/"><u>Dispatching Windows 11'S Silent Search Instigator</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-cyber-safety-trustable-domains-on-windows-11/"><u>Enhance Cyber Safety: Trustable Domains on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-windows-videography-leverage-advanced-distributive-transcoding-by-tdarr/"><u>Enhance Window's Videography: Leverage Advanced Distributive Transcoding by Tdarr</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-sync-errors-in-nvidia-cp-windows-11/"><u>Fixing Sync Errors in NVidia CP Windows 11</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721266035002-get-the-ultimate-pencil-eraser-for-iphones-shop-now/"><u>Get the Ultimate Pencil Eraser for iPhones – Shop Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-fatal-discord-errors-on-windows-1011-a-comprehensible-guide/"><u>Handling Fatal Discord Errors on Windows 10/11: A Comprehensible Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-your-apple-iphone-13-mini-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your Apple iPhone 13 mini Apple ID on MacBook</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On Apple iPhone XS Max</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-game-recorder-mastery-top-5-techniques-for-windows-11/"><u>In 2024, Game Recorder Mastery  Top 5 Techniques for Windows 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-simplified-pathway-using-instagram-live-effectively/"><u>In 2024, Simplified Pathway  Using Instagram Live Effectively</u></a></li>
+<li><a href="https://windows11.techidaily.com/innovative-2024-windows-devices-you-cant-miss/"><u>Innovative 2024 Windows Devices You Can't Miss</u></a></li>
+<li><a href="https://windows11.techidaily.com/least-ram-and-cpu-hungry-browsers-on-triple-operating-systems/"><u>Least RAM and CPU-Hungry Browsers on Triple Operating Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/maintaining-calculator-prominence-in-windows-os/"><u>Maintaining Calculator Prominence in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-wins-control-in-windows-11-easy-steps/"><u>Master Wins Control in Windows 11: Easy Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/masterful-dns-management-in-windows-11/"><u>Masterful DNS Management in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-multi-monitor-setup-changes/"><u>Mastering Multi-Monitor Setup Changes</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-obs-troubleshooting-techniques-for-win-11-users/"><u>Mastering OBS Troubleshooting Techniques for Win 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-correct-event-viewer-glitches-in-win-11/"><u>Methods to Correct Event Viewer Glitches in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mitigating-code-xc0000142-on-windows-xp-10/"><u>Mitigating Code XC0000142 on Windows XP, 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-making-winget-work-again-in-windows/"><u>Quick Fixes: Making Winget Work Again in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-adding-speed-meter-to-taskbar/"><u>Quick Guide: Adding Speed Meter to Taskbar</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-asus-rog-phone-7-ultimate-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Asus ROG Phone 7 Ultimate Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/revisiting-exe-execution-hurdles-in-windows/"><u>Revisiting EXE Execution Hurdles in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/rewind-to-file-explorer-classics-in-w11/"><u>Rewind to File Explorer Classics in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-up-controlled-temperature-policy-on-windows-pcs/"><u>Setting up Controlled Temperature Policy on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-windows-11s-frustrating-5ghz-link-failures/"><u>Solving Windows 11'S Frustrating 5GHz Link Failures</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-and-personalize-the-ultimate-desktop-guide-for-win11-users/"><u>Streamline & Personalize: The Ultimate Desktop Guide for Win11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-windows-experience-by-fixing-prerequisites-first/"><u>Streamline Windows Experience by Fixing Prerequisites First</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-policy-settings-with-proven-gpo-update-methods/"><u>Streamlining Policy Settings with Proven GPO Update Methods</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-leading-rhythm-alignment-editing-solutions-2023s-guide/"><u>Updated Leading Rhythm Alignment Editing Solutions – 2023S Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-shortcut-for-character-viewing/"><u>Windows 11 Shortcut for Character Viewing</u></a></li>
+</ul></div>

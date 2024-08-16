@@ -1,7 +1,7 @@
 ---
 title: Boost Command-Line Capabilities in Latest Windows Releases
-date: 2024-07-11T21:34:47.268Z
-updated: 2024-07-12T21:34:47.268Z
+date: 2024-08-15T15:56:47.275Z
+updated: 2024-08-16T15:56:47.275Z
 tags:
   - windows10
   - windows11
@@ -82,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 5. Double-click**PowerToysSetup-0.66.0-x64.exe** to open the PowerToys setup window.
 6. Select the**I agree to** checkbox and click PowerToys’**Install** option.  
 ![The PowerToys setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powertoys-setup-window.jpg)
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7. To open PowerToys, click**Start** and**All apps** (in Windows 11). Select PowerToys on the menu
 8. Select the PowerToys**Run** tab.
 9. Toggle on the Enable PowerToys**Run** option if it’s off.  
@@ -91,6 +94,9 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 
 ![The PowerToys Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-powertoys-run-tool.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Getting Familiar With PowerToys Run
 
  The first thing you’ll notice about PowerToys after entering a command in its text box is that it shows multiple results. Thus, it’s a little more like the Windows search tool than Run, which makes it a more flexible alternative. It displays four results by default, but you can increase that by entering a higher value for the**Number of results shown** **before** **scrolling** setting in the**PowerToys Run** tab.
@@ -98,6 +104,9 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
  PowerToys Run has variable plugins you can activate with specific commands. To utilize only the plugin for opening installed programs, input a**.** before the software’s title. For example, input**.Edge** in the**Start typing** box. Then PowerToys Run will only display a couple of results for opening Edge.
 
 ![The .Edge command for opening MS Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-edge-command.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  If you want to search for files with PowerToys, input a**?** followed by a file’s title. PowerToys will show you files matching the search phrase included in the command.
 
@@ -108,14 +117,29 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
  Another good thing about PowerToys is that you can utilize it for calculations. Input an**\=** before a sum in the PowerToys Run command box to activate the calculator. For example, entering**\=55+125** will display a 180 result. You can do calculations by inputting the**+** (addition),**\*** (multiplication),**/** (division), and**–** (subtraction) operators.
 
 ![A calculator command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-calculator-command.jpg)
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 
  You can also access Control Panel applets and Settings app pages by inputting the**$** plugin followed by a search phrase. For example, entering**$uninstall** will find both Programs and Features and the Apps & Features tool. Or you input**$** on its own to view a long list of Settings pages and Control Panel applets.
 
 ![The $ command for accessing Control Panel applets and Settings pages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-command.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 
  You can disable or enable plugins via the**PowerToys Run** tab. Scroll down to the**Plugins** section of that tab to view those options. You can click the**On** or**Off** switches to enable/disable them.
 
 ![The plugin settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/plugin-options.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  Click the down arrows for the plugins to view their settings. Then you can see the activation commands for the plugins in their**Direct** **activation command** boxes. You can change the command by selecting that box, clicking the**X** , and entering a different one.
 
@@ -141,3 +165,54 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/he-quick-content-crusade-youtubes-shortform-versus-tiktoks-trendsetting/"><u>[New] The Quick Content Crusade  YouTube's Shortform Versus TikTok’s Trendsetting</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-maximize-your-snapchat-impact-with-mac-footage/"><u>[Updated] In 2024, Maximize Your Snapchat Impact with Mac Footage</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-direct-upload-from-twitter-to-tumblr/"><u>2024 Approved  Direct Upload From Twitter to Tumblr</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-gopros-rivalry-with-drift-ghost-the-racing-camera-faceoff/"><u>2024 Approved  GoPro's Rivalry with Drift Ghost - The Racing Camera Faceoff</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfected-edits-on-the-go-leading-apps-for-macos-big-surs-video-editors/"><u>2024 Approved  Perfected Edits on the Go  Leading Apps for macOS Big Sur's Video Editors</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-top-iphones-video-editors-face-off-cameo-vs-filmorago/"><u>2024 Approved  Top iPhones' Video Editors Face-Off  Cameo Vs. FilmoraGo</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-practical-guide-to-running-ping-efficiently-on-pcs/"><u>A Practical Guide to Running Ping Efficiently on PCs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/android-non-root-audio-capture-4-easy-methods-for-2024/"><u>Android Non-Root Audio Capture  4 Easy Methods for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-motorola-moto-g13-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Motorola Moto G13 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-xiaomi-redmi-k70-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Xiaomi Redmi K70 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/bridging-the-gap-activating-linux-support-in-windows/"><u>Bridging the Gap: Activating Linux Support in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-forth-the-forgotten-floppy-drive-sdds-in-winos/"><u>Bring Forth the Forgotten Floppy Drive, SDDs in WinOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-windows-update-issue-the-0x800736cc-method/"><u>Bypassing Windows Update Issue: The 0X800736CC Method</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-failed-video-drivers-in-win1110/"><u>Correcting Failed Video Drivers in Win11/10</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-top-9-steps-for-efficient-volume-management-in-windows-11/"><u>Discover Top 9 Steps for Efficient Volume Management in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-kali-installation-guide-for-windows-users/"><u>Effortless Kali Installation Guide for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-the-root-of-windows-update-problems-0xc1900101/"><u>Eliminating the Root of Windows Update Problems (0xC1900101)</u></a></li>
+<li><a href="https://windows11.techidaily.com/fast-track-to-windows-11-arm-with-easy-iso-setup-instructions/"><u>Fast Track to Windows 11 ARM with Easy ISO Setup Instructions</u></a></li>
+<li><a href="https://windows11.techidaily.com/harnessing-power-using-lav-filters-on-microsoft-windows/"><u>Harnessing Power: Using LAV Filters on Microsoft Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-change-reset-count-after-login-failures-a-windows-11-technique/"><u>How to Change Reset Count After Login Failures: A Windows 11 Technique</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-change-your-cursor-on-windows/"><u>How to Change Your Cursor on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-open-the-phone-dialer-in-windows-11/"><u>How to Open the Phone Dialer in Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Xiaomi Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-beat-coffee-stain-effects-with-ioss-complimentary-red-eye-fix-app/"><u>In 2024, Beat Coffee Stain Effects with iOS's Complimentary Red-Eye Fix App</u></a></li>
+<li><a href="https://windows11.techidaily.com/lock-it-down-steps-to-activate-windows-controlled-access/"><u>Lock It Down: Steps to Activate Window’s Controlled Access</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-visual-quality-with-hdr-on-windows-11/"><u>Maximizing Visual Quality with HDR on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-installation-of-intel-wi-fi-drivers/"><u>Navigating the Installation of Intel Wi-Fi Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-maze-of-non-downloading-on-windows-devices/"><u>Navigating the Maze of Non-Downloading on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-1011s-auto-restart-settings/"><u>Navigating Windows 10/11'S Auto-Restart Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/pro-tips-to-locate-windows-10-or-11-keys-efficiently/"><u>Pro Tips to Locate Windows 10 or 11 Keys Efficiently</u></a></li>
+<li><a href="https://windows11.techidaily.com/pro-level-text-workflow-unleash-the-power-of-snipping-tool-on-win-11/"><u>Pro-Level Text Workflow: Unleash the Power of Snipping Tool on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-restoring-windows-defender-threat-shield-functionality/"><u>Quick Fixes: Restoring Windows Defender Threat Shield Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/reintroduce-disappearing-5ghz-network-on-windows-11/"><u>Reintroduce Disappearing 5GHz Network on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-the-error-disabled-device-code-22-in-windows-11/"><u>Remedying the Error: Disabled Device, Code 22 in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reshaping-administration-workflow-in-the-windows-ecosystem/"><u>Reshaping Administration Workflow in the Windows Ecosystem</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-webcam-dark-screen-issue/"><u>Resolving Windows Webcam Dark Screen Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/reverse-c-drive-data-hoarding-in-windows-systems/"><u>Reverse C: Drive Data Hoarding in Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/securely-accessing-power-user-terminal/"><u>Securely Accessing Power-User Terminal</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-allot-browser-permission-via-firewall-on-pc/"><u>Steps to Allot Browser Permission via Firewall on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-windows-update-issues-0xca00a009/"><u>Streamlining Windows Update Issues: 0XCA00A009</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-net-requirement-issue-in-windows-apps/"><u>Tackling the .NET Requirement Issue in Windows Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-troubled-windows-registry-with-effective-solutions/"><u>Tackling Troubled Windows Registry with Effective Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-for-installing-unverified-windows-drivers/"><u>Tactics for Installing Unverified Windows Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-hidden-language-of-windows-update-identifiers/"><u>The Hidden Language of Windows Update Identifiers</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-mute-game-proposals-in-windows-11/"><u>Tips to Mute Game Proposals in Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-clicker-article-titles-maker/"><u>Top Clicker Article Titles Maker</u></a></li>
+<li><a href="https://windows11.techidaily.com/turbocharge-pc-gaming-with-high-speed-yuzu/"><u>Turbocharge PC Gaming with High-Speed Yuzu</u></a></li>
+</ul></div>

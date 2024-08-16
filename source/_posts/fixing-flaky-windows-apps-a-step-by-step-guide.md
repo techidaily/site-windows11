@@ -1,7 +1,7 @@
 ---
 title: "Fixing Flaky Windows Apps: A Step-by-Step Guide"
-date: 2024-07-11T21:38:09.825Z
-updated: 2024-07-12T21:38:09.825Z
+date: 2024-08-15T15:53:51.287Z
+updated: 2024-08-16T15:53:51.287Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 
  To restart your device, open the Start menu. Then select the Power icon and click **Restart**. You can also use the keyboard shortcut **Ctrl + Alt + Del** to open the same window. After restarting, try installing the app again and see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Clear the Microsoft Store Cache
 
  If restarting your device does not help, the next step is to clear the Microsoft Store cache. This process removes any temporary files that might cause this issue. Clearing the cache removes unnecessary files and speeds up the browsing experience. Here’s how to clear the Microsoft Store cache.
@@ -33,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 1. Press **Win + R** on your keyboard to [launch the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/).
 2. Type **WSReset.exe** in the dialog box and press Enter.  
 ![Clear Microsoft Store Cache File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/clear-microsoft-store-cache-file.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A command prompt appears on the screen confirming that the Windows Store cache is cleared. Once you've completed these steps, check if it solves the error.
 
@@ -48,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 
  After following the steps above, restart your computer and see if it resolves the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Run the Windows Store Apps Troubleshooter
 
  Windows comes with a built-in troubleshooter that diagnoses and resolves various problems. You can use it to fix the “This app will not work on your device” error as well. To run the troubleshooter, follow these steps:
@@ -69,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 2. Type **services.msc** in the dialog box and press Enter. This will open the Services window.
 3. Scroll down to find the **Application Identity** service and double-click on it.  
 ![Restart the Application Identity Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/restart-the-application-identity-service.jpg)
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. In the Properties window, set the **Startup type** to **Automatic**.
 5. Also, click on the **Start** button under Service status.
 6. Finally, click **Apply > OK** to save the changes.
@@ -85,11 +97,17 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 4. Once you're in Windows Security, select **Virus & threat protection** from the left pane.
 5. Next, scroll down to **Virus & threat protection settings** and click **Manage settings**.  
 ![Manage settings in Windows security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manage-settings-in-windows-security.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 6. Turn off the **Real-time protection** toggle.  
 ![Turn off the Real-time protection toggle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/turn-off-the-real-time-protection-toggle.jpg)
 
  Now restart your computer and try launching the app again. If the error still persists, turn on Real-time protection and try the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Enable Hyper-V in Windows Features
 
  Hyper-V is a Microsoft virtualization technology that lets some Microsoft Store apps run. If it isn't enabled on your device, you may encounter the “This app will not work on your device” error when installing certain programs.
@@ -98,11 +116,17 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
 2. Go to **Programs > Programs and Features > Turn Windows features on or off**.
 3. In the Windows Features dialog, scroll down to **Hyper-V** and check the box next to it.  
 ![Enable Hyper-V in Windows Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-hyper-v-in-windows-features.jpg)
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 4. Similarly, search for **Virtual Machine Platform** and **Windows Hypervisor Platform** and enable them as well.
 5. Once done, click **OK > Apply** to save the changes.
 
  Finally, restart your computer and check if the problem is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Perform Several Generic Windows Fixes
 
  If none of the above solutions managed to fix the error, you can try performing several generic fixes. This includes [running the System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) to scan for missing or corrupted files and the Deployment Image Servicing and Management tool to repair any corrupt system image.
@@ -126,3 +150,48 @@ thumbnail: https://thmb.techidaily.com/286866a306a63ee3881a3e82bbbdfd6a5621a0735
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-decision-making-in-the-workplace-a-neurological-approach-to-efficacy-and-ethics/"><u>[New] 2024 Approved  Decision-Making in the Workplace  A Neurological Approach to Efficacy and Ethics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pioneers-leading-the-charge-in-virtual-experiences/"><u>[New] Pioneers Leading the Charge in Virtual Experiences</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nlocking-youtube-success-with-savvy-backlinking-for-2024/"><u>[New] Unlocking YouTube Success with Savvy Backlinking for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-10-tips-for-shooting-profesional-youtube-videos/"><u>2024 Approved  10 Tips For Shooting Profesional YouTube Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-streamlining-video-uploads-tips-for-transforming-h-vids-for-igtv/"><u>2024 Approved  Streamlining Video Uploads  Tips for Transforming H-Vids for IGTV</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-ways-to-close-multiple-apps-simultaneously-on-windows/"><u>5 Ways to Close Multiple Apps Simultaneously on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/6-expert-windows-programs-for-video-editors/"><u>6 Expert Windows Programs for Video Editors</u></a></li>
+<li><a href="https://windows11.techidaily.com/6-underestimated-downsides-of-saving-on-activation-keys/"><u>6 Underestimated Downsides of Saving on Activation Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-compreenasian-approach-to-fixing-winget-on-windows-11/"><u>A Compreenasian Approach to Fixing Winget on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerate-your-typing-on-win-1011-top-7-tricks-revealed/"><u>Accelerate Your Typing on WIN 10/11: Top 7 Tricks Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-one-side-output-in-windows-10-headphones/"><u>Addressing One Side Output in Windows 10 Headphones</u></a></li>
+<li><a href="https://windows11.techidaily.com/audible-improvements-for-windows-users-stepwise-audio-driver-revamp/"><u>Audible Improvements for Windows Users: Stepwise Audio Driver Revamp</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-panic-recover-lost-data-with-these-steps/"><u>Avoid Panic, Recover Lost Data with These Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-blue-screen-blues-fixing-error-740-on-winos/"><u>Avoiding Blue Screen Blues: Fixing Error 740 on WINOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/beating-steam-disk-write-failures-on-windows-pc/"><u>Beating Steam Disk Write Failures on Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/becoming-an-admin-in-pc-command-console/"><u>Becoming an Admin in PC Command Console</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-windows-vram-a-step-by-step-guide/"><u>Boosting Windows VRAM: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-windows-11-mode-switch-failures/"><u>Bypassing Windows 11 Mode Switch Failures</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-windows-update-four-techniques/"><u>Bypassing Windows Update: Four Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/captivating-holiday-vistas-through-designed-panes/"><u>Captivating Holiday Vistas Through Designed Panes</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-up-storage-alerts-and-errors-on-windows/"><u>Clearing Up Storage Alerts & Errors on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/compulsory-uninstall-guide-for-windows-11-printers/"><u>Compulsory Uninstall Guide for Windows 11 Printers</u></a></li>
+<li><a href="https://windows11.techidaily.com/confronting-and-overcoming-failed-capture-issues-in-windows/"><u>Confronting and Overcoming Failed Capture Issues in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquer-the-unseen-scroll-phenomenon-in-windows/"><u>Conquer the Unseen Scroll Phenomenon in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquer-win11s-startup-configuration-for-unmatched-performance/"><u>Conquer Win11's Startup Configuration for Unmatched Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/constructing-a-contextual-update-prompt-mechanism/"><u>Constructing a Contextual Update Prompt Mechanism</u></a></li>
+<li><a href="https://windows11.techidaily.com/cursor-on-display-redeeming-darkened-win1011-screens/"><u>Cursor on Display: Redeeming Darkened Win10/11 Screens</u></a></li>
+<li><a href="https://windows11.techidaily.com/cut-through-the-frustration-swift-solutions-for-ms-teams-error-80080300-in-win11/"><u>Cut Through the Frustration: Swift Solutions for MS Teams Error 80080300 in Win11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-the-economic-riches-of-mr-beast/"><u>Decoding the Economic Riches of Mr. Beast</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-windows-11-editions-matching-home-to-pro-features/"><u>Decoding Windows 11 Editions: Matching Home to Pro Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/decreasing-cpu-load-in-setup-hosts/"><u>Decreasing CPU Load in Setup Hosts</u></a></li>
+<li><a href="https://windows11.techidaily.com/delving-into-the-spiritual-command-center-of-windows-11/"><u>Delving Into the Spiritual Command Center of Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/detecting-correct-credentials-vs-error-logins-on-your-winpc/"><u>Detecting Correct Credentials vs Error Logins on Your WinPC</u></a></li>
+<li><a href="https://windows11.techidaily.com/disable-auto-updates-in-windows-and-office-instantly/"><u>Disable Auto-Updates in Windows & Office Instantly</u></a></li>
+<li><a href="https://windows11.techidaily.com/dive-into-windows-powertoys-the-ultimate-guide-to-its-best-uses/"><u>Dive Into Windows PowerToys: The Ultimate Guide to Its Best Uses</u></a></li>
+<li><a href="https://windows11.techidaily.com/diving-into-windows-n-types-benefits-and-downfalls/"><u>Diving Into Windows N Types: Benefits and Downfalls</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/efficient-printing-download-epson-wf-2630-drivers-for-windows-users-on-all-versions-7-81-10/"><u>Efficient Printing: Download Epson WF 2630 Drivers for Windows Users on All Versions (7, 8.1, 10)</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-nikon-j5-sets-new-standards-in-4k-video-capture/"><u>In 2024, Nikon J5 Sets New Standards in 4K Video Capture</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-video-editing-for-mac-avs-editor-solution/"><u>New 2024 Approved Video Editing for Mac AVS Editor Solution</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-the-sounds-of-silence-no-more-three-fresh-strategies-for-adding-audio-to-videos/"><u>New In 2024, The Sounds of Silence No More Three Fresh Strategies for Adding Audio to Videos</u></a></li>
+</ul></div>

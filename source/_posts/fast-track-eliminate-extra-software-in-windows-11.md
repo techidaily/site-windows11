@@ -1,7 +1,7 @@
 ---
 title: "Fast Track: Eliminate Extra Software in Windows 11"
-date: 2024-07-11T21:24:26.726Z
-updated: 2024-07-12T21:24:26.726Z
+date: 2024-08-15T16:07:10.853Z
+updated: 2024-08-16T16:07:10.853Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
 
  When you buy a new PC—whether a high-end gaming device or an entry-level laptop—you expect it to be clean from the start. However, Windows 11 typically comes with at least a few unwanted pre-installed apps, called bloatware. How should you remove bloatware from your PC?
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## What Is Bloatware, and Which Apps Should You Uninstall?
 
 ![Windows 11 Start Menu apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-start-menu-apps.jpg)
@@ -42,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
 
  The apps we mentioned are not necessarily bad for your computer; you may even prefer them over available alternatives. For example, I [use OneNote as my to-do list](https://www.makeuseof.com/tag/x-ways-super-charge-list-onenote/) and [switched to Microsoft Edge from Google Chrome](https://www.makeuseof.com/microsoft-edge-vs-google-chrome-reasons-to-switch/) in 2021\. Because of this, I didn’t remove those when I bought a new Windows laptop. But if you don’t use the pre-installed apps on your Windows PC, you have the option to uninstall them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Uninstall Bloatware Using Windows 11 Settings
 
  The easiest way to remove bloatware is [through the Windows 11 Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/). As long as you know where to go, uninstalling bloatware (or any app, for that matter) on Windows 11 is quick and simple:
@@ -52,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
 3. Under the **Installed apps** window, find the app you want to remove.
 4. Once you’ve found the app you want to remove, click on the **three-dot menu** and choose **Uninstall**.  
 ![Uninstalling an app using the Windows 11 Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/uninstalling-an-app-using-the-windows-11-settings-menu.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 5. A small pop-up window will appear after you press **Uninstall**; click on **Uninstall** again to confirm your choice.
 
  With this, you can manually remove pre-installed apps quickly, as the Settings window does not close after uninstalling one app. Note that you cannot remove some apps, like Photos and the Microsoft Store, with this method.
@@ -84,6 +93,9 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
 
  Win11Debloat is a third-party script that automates the process of clearing up your PC, making it handy if you want to remove several apps or if you’re setting up multiple PCs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try a Clean Install of Windows 11
 
  If your computer has a particularly bad case of bloatware and you think Win11Debloat won’t work, a Windows 11 clean install will remove most unwanted apps. This is especially true if your computer comes with a ton of third-party apps that your PC’s manufacturer added from the factory.
@@ -95,14 +107,36 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
 1. Open the Windows Settings app.
 2. In the sidebar, click on **System**, then choose **Recovery**.  
 ![Windows 11 Recovery option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-recovery-option-in-settings.jpg)
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Click on **Reset PC**.  
 ![Reset this PC option in Windows settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/reset-this-pc-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 4. In the Reset this PC window, choose **Remove everything**.
 5. To ensure you get the latest version of Windows, choose **Cloud download** in the next window. If you don’t have a reliable internet connection, pick **Local reinstall** instead.
 6. In the **Additional settings** window, click **Change settings** to customize your installation.  
 ![Reset this PC additional settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/reset-this-pc-additional-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7. If you have any unwanted apps installed on other drives, ensure that the slider under **Delete files from all drives?** is set to **Yes, all drives**. Be careful though, as this will erase all drives connected to your PC. Don't accidentally erase external drives where you store pictures and the like!  
 ![Delete files from all drives option in Reset This PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/delete-files-from-all-drives-option-in-reset-this-pc.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 8. Once you’ve confirmed this setting, hit **Next**.
 9. When your computer is ready to reset, click **Reset**.  
 ![Ready to reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/ready-to-reset-this-pc-window.jpg)
@@ -120,3 +154,63 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-initial-steps-to-professional-motion-graphics/"><u>[New] Initial Steps to Professional Motion Graphics</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/reeminent-audience-alteration-tools-for-content-casters/"><u>[New] Preeminent Audience Alteration Tools for Content Casters</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-key-to-smooth-auditory-transitions/"><u>[New] The Key to Smooth Auditory Transitions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-ethical-practices-for-accumulating-over-a-million-video-engagements/"><u>[Updated] 2024 Approved  Ethical Practices for Accumulating Over A Million Video Engagements</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-when-worlds-crumble-premium-guide-to-top-zombie-games/"><u>[Updated] 2024 Approved  When Worlds Crumble  Premium Guide to Top Zombie Games</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-downloading-the-latest-insta-reels-two-ways-to-go/"><u>[Updated] In 2024, Downloading the Latest Insta Reels, Two Ways to Go</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-secrets-to-exposing-videos-in-the-news-feed/"><u>[Updated] In 2024, Secrets to Exposing Videos in the News Feed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-step-by-step-adding-snap-camera-to-teams-chats/"><u>[Updated] In 2024, Step-by-Step  Adding Snap Camera to Teams Chats</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-unveiling-techniques-for-high-quality-ps3-game-capture/"><u>[Updated] In 2024, Unveiling Techniques for High-Quality PS3 Game Capture</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-complete-guide-to-assembling-youtube-music-collections-onlineapp-wise/"><u>[Updated] The Complete Guide to Assembling YouTube Music Collections Online/App-Wise</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-facetime-call-recording-techniques-unveiled/"><u>2024 Approved  Facetime Call Recording Techniques Unveiled</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-mastering-social-media-connections-instagram-and-tiktok/"><u>2024 Approved  Mastering Social Media Connections  Instagram & TikTok</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-digital-journals-navigate-your-pen-for-windows/"><u>Best Digital Journals: Navigate Your Pen for Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-unopened-sharing-errors-with-geforce-experience/"><u>Correcting Unopened Sharing Errors with GeForce Experience</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/cutting-through-steps-posting-tiktok-videos-on-twitter/"><u>Cutting Through Steps  Posting TikTok Videos on Twitter</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-the-role-of-copilot-key-in-your-windows-11-pc/"><u>Deciphering the Role of Copilot Key in Your Windows 11 PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/defining-windows-corners-straighten-them-out/"><u>Defining Windows' Corners: Straighten Them Out</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-logitech-c930e-camera-driver-for-windows-11/"><u>Download the Logitech C930e Camera Driver for Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-xiaomi-redmi-13c-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Xiaomi Redmi 13C in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/efficient-vimeo-video-extraction-software-for-2024/"><u>Efficient Vimeo Video Extraction Software for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/enrich-your-windows-setup-with-personal-menus/"><u>Enrich Your Windows Setup with Personal Menus</u></a></li>
+<li><a href="https://windows11.techidaily.com/expanding-linux-horizons-through-windows-apps/"><u>Expanding Linux Horizons Through Windows Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-update-issue-with-error-0x8024800c/"><u>Fixing Windows Update Issue with Error 0X8024800C</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/from-zero-to-cool-video-star-your-mac-youtube-journey-starts-here/"><u>From Zero to Cool Video Star  Your Mac Youtube Journey Starts Here</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-double-clicking-not-opening-folders-on-windows-1110/"><u>How to Fix Double-Clicking Not Opening Folders on Windows 11/10</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-halt-unwanted-file-explorer-triggers/"><u>How to Halt Unwanted File Explorer Triggers</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-hide-a-zip-archive-within-an-image-file-in-windows-11-and-11/"><u>How to Hide a ZIP Archive Within an Image File in Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reactivate-grammarly-on-microsoft-devices/"><u>How To Reactivate Grammarly on Microsoft Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-honor-x50iplus-by-drfone-android-unlock-android-unlock/"><u>How to unlock Honor X50i+</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-a-list-cameras-for-dreamy-4k-videos-18-selection/"><u>In 2024, A-List Cameras for Dreamy 4K Videos (#18 Selection)</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-designing-your-perfect-tiktok-end-screen/"><u>In 2024, Designing Your Perfect TikTok End Screen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-subtle-sonic-reduction-in-the-world-of-audio-editing/"><u>In 2024, Subtle Sonic Reduction in the World of Audio Editing</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-ultimate-guide-to-free-mp4-video-editing-software-2023-edition/"><u>In 2024, The Ultimate Guide to Free MP4 Video Editing Software (2023 Edition)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-uncovering-every-shared-element-in-a-chat-on-messenger/"><u>In 2024, Uncovering Every Shared Element in a Chat on Messenger</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-to-performance-enhancement-with-windows-lav-filters-use/"><u>Key to Performance Enhancement with Window's LAV Filters Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-use-of-toolbars-an-insight-into-mspcm-windows-11/"><u>Mastering the Use of Toolbars: An Insight Into MSPCM, Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-the-malfunction-of-defrag-in-windows-os/"><u>Mending the Malfunction of Defrag in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-fix-wins-unhandled-exception-blue-screen-problem/"><u>Methods to Fix Win's Unhandled Exception Blue Screen Problem</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-1011-a-workshop-for-custom-pattern-crafting/"><u>Navigating Windows 10/11: A Workshop for Custom Pattern Crafting</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigational-aid-embracing-apple-maps-in-windows-systems/"><u>Navigational Aid: Embracing Apple Maps in Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-error-1-secure-your-minecraft-adventures/"><u>Overcome Error 1: Secure Your Minecraft Adventures</u></a></li>
+<li><a href="https://windows11.techidaily.com/peeling-back-the-layers-of-runtime-brokers-on-pcs/"><u>Peeling Back the Layers of Runtime Brokers on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/process-of-disabling-laptops-internal-keys-in-os/"><u>Process of Disabling Laptop's Internal Keys in OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/purpose-and-key-aspects-of-vcplusplus-distributions/"><u>Purpose & Key Aspects of VC++ Distributions</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-bypassing-the-components-not-found-issue-on-w10w11/"><u>Quick Fix: Bypassing the Components Not Found Issue on W10/W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/rejuvenate-your-locked-shift-key-in-windows/"><u>Rejuvenate Your Locked Shift Key in Windows.</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-power-outage-issues-in-laptops-and-desktops-that-wont-start-up/"><u>Solving Power Outage Issues in Laptops and Desktops That Won't Start Up</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-windows-update-error-0x8024800c/"><u>Tackling Windows Update: Error 0X8024800C</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-elite-eight-master-your-photos-with-grid-masters/"><u>The Elite Eight  Master Your Photos with Grid Masters</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-your-ctrl-commands-full-potential-on-windows-11/"><u>Unlocking Your Ctrl Command's Full Potential on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-cause-of-unregistered-packages-in-windows/"><u>Unraveling the Cause of Unregistered Packages in Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-acer-devices-audio-system-with-these-quick-steps/"><u>Update Your Acer Device's Audio System with These Quick Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-how-to-reroute-your-onedrive-storage/"><u>Windows 11: How to Reroute Your OneDrive Storage</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-smart-unlock-hacked-is-it-safe-to-use/"><u>Windows Smart Unlock Hacked – Is It Safe to Use?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-and-instagram-synergy-posting-content-easily-for-2024/"><u>YouTube and Instagram Synergy  Posting Content Easily for 2024</u></a></li>
+</ul></div>

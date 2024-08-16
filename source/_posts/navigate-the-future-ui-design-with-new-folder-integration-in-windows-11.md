@@ -1,7 +1,7 @@
 ---
 title: Navigate the Future UI Design with New Folder Integration in Windows 11
-date: 2024-07-11T21:51:05.095Z
-updated: 2024-07-12T21:51:05.095Z
+date: 2024-08-15T15:41:35.895Z
+updated: 2024-08-16T15:41:35.895Z
 tags:
   - windows10
   - windows11
@@ -42,17 +42,26 @@ Once your PC has restarted:
 4. Choose a directory to add to the context menu and select the**OK** option.
 5. Click**Done** to exit the MyFolders window.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Use MyFolders
 
  Check out the new folder shortcut you’ve just added to the context menu. Right-click a space on the desktop background and select**Show more options** . Move the cursor over the**MyFolders** submenu and**Go to** . Then click the folder shortcut you just added to open its directory in Explorer.
 
 ![The MyFolders submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/myfolders-submenu.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Alternatively, you can select to open the folder in the Command Prompt. Move the cursor over the**Open command window** option. There you can select to open the same folder with the Command Prompt.
 
  The**MyFolders** submenu includes extra options you can select in File Explorer. Right-click a folder in Explorer to select**Show more options** \>**MyFolders** . Then you can click**Copy to** and**Move to** options for copying and moving directories to the folders you’ve added to the menu.
 
 ![The Copy to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-to-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To remove folders from the context menu, select**Settings** on the**MyFolders** submenu. Then select an added folder with the app’s window and click**Remove** . You can also reorganize items by clicking the**Move up** and**Move down** buttons.
 
@@ -83,6 +92,9 @@ Once your PC has restarted:
 3. Double-click the Right Click Context Menu.exe file.
 4. Click the**Folder** radio button.  
 ![The Right Click Context Menu Adder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/right-click-context-menu-adder-window.jpg)
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 5. Press the**Choose Folder** button.
 6. Select a directory to add to the context menu within the**Browse For Folder** window and click**OK** .
 7. Click the**Add to Desktop Context Menu** **and to Folders Context Menu** option.
@@ -92,6 +104,9 @@ Once your PC has restarted:
 
 ![A Program Files folder shortcut on the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/program-files-folder-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Tweak Right Click Context Menu Adder
 
  There are a few optional settings you can change when adding folders to the context menu with Right Click Context Menu Adder. To change the shortcut’s position, select a different**Position on Menu** option.
@@ -106,6 +121,9 @@ Once your PC has restarted:
 
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Open Your Most Important Folders From the Windows 11 Context Menu
 
  MyFolders and Right Click Context Menu Adder make it quick and easy to add folders to the desktop and Explorer context menus without any manual registry tweaking. Adding folders to the context menu will save you from rummaging through File Explorer to get to them. Such right-click shortcuts can be invaluable for quickly accessing folders with long paths in Windows 11.
@@ -128,3 +146,42 @@ Once your PC has restarted:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-pinterest-pin-square-advice-for-2024/"><u>[New] Pinterest Pin Square Advice for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-premium-mac-edition-screens-and-sound-syncing/"><u>[New] Premium Mac Edition  Screens and Sound Syncing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-picks-recommended-portals-for-acquiring-snapalert-melodies/"><u>[New] Premium Picks  Recommended Portals for Acquiring SnapAlert Melodies</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-crafting-professional-broadcasts-mastering-obs-plus-zoom-techniques/"><u>[Updated] 2024 Approved  Crafting Professional Broadcasts  Mastering OBS + Zoom Techniques</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-navigating-the-hub-of-your-youtube-success/"><u>[Updated] 2024 Approved  Navigating the Hub of Your YouTube Success</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-7-epic-strategy-battles-unveiling-ultimate-total-wars-for-2024/"><u>[Updated] Top 7 Epic Strategy Battles  Unveiling Ultimate Total Wars for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-unlocking-vimeo-content-step-by-step-free-and-licensed-tools-guide/"><u>[Updated] Unlocking Vimeo Content  Step-by-Step Free & Licensed Tools Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-honor-magic-vs-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-paths-blocked-by-shared-printers/"><u>Clearing Paths Blocked by Shared Printers</u></a></li>
+<li><a href="https://windows11.techidaily.com/combat-window-settings-malfunctions-now/"><u>Combat Window Settings Malfunctions Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-your-experience-altering-device-settings-in-windows-11/"><u>Customize Your Experience: Altering Device Settings in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enable-word-to-always-present-email-attachments-in-reading-view-format/"><u>Enable Word to Always Present Email Attachments in Reading View Format</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-fixes-for-common-windows-os-office-problems/"><u>Essential Fixes for Common Windows OS Office Problems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/getting-started-with-windows-10-sound-recording-for-2024/"><u>Getting Started with Windows 10 Sound Recording for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/grassroots-game-gatherings-the-free-film-guide-for-2024/"><u>Grassroots Game Gatherings - The Free Film Guide for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-counteract-install-net-core-now-on-pc/"><u>How to Counteract Install .NET Core Now on PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-oppo-a78-5g-phone-by-drfone-android/"><u>How to Reset a Locked Oppo A78 5G Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-poco-c50-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Poco C50?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-11-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 11 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/initiating-windows-11s-concealed-query-engine/"><u>Initiating Windows 11'S Concealed Query Engine</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-missing-msvcr110dll-in-windows-environment/"><u>Overcoming Missing msvcr110.dll in Windows Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/protect-your-passwords-in-windows-files-easily/"><u>Protect Your Passwords in Windows Files Easily</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-excessive-disk-space-consumption-by-microsoft-compatibility-telemetry-on-windows-11/"><u>Resolving Excessive Disk Space Consumption by Microsoft Compatibility Telemetry on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamlessly-carry-over-your-custom-powertoys/"><u>Seamlessly Carry Over Your Custom PowerToys</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-and-sharing-files-building-extractable-sfxs-in-win11/"><u>Securing and Sharing Files: Building Extractable SFXs in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlined-graphics-the-key-to-optimal-radeon-performance-in-windows-11/"><u>Streamlined Graphics: The Key to Optimal Radeon Performance in Windows 11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/synergize-social-impact-effective-techniques-for-facebook-linkedin-youtube-cross-promotion/"><u>Synergize Social Impact: Effective Techniques for Facebook, LinkedIn, YouTube Cross-Promotion</u></a></li>
+<li><a href="https://windows11.techidaily.com/tapping-into-your-true-essence-guide-for-accessing-windows-silent-personal-analyzer/"><u>Tapping Into Your True Essence: Guide for Accessing Windows' Silent Personal Analyzer</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-10-windows-diagnostics-powerhouses/"><u>Top 10 Windows Diagnostics Powerhouses</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-error-0x8024a205-in-winupdate/"><u>Troubleshooting Error 0X8024a205 in WinUpdate</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-frozen-netflix-on-windows/"><u>Troubleshooting Frozen Netflix on Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/uncovering-the-potential-of-netgears-orbi-rbs50y-for-outdoor-wi-fi-networks/"><u>Uncovering the Potential of Netgear's Orbi RBS50Y for Outdoor Wi-Fi Networks</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-the-potential-of-task-scheduler-in-windows/"><u>Unleash the Potential of Task Scheduler in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-mac-os-look-in-windows-try-these-5-techniques-first/"><u>Unlock the Mac OS Look in Windows - Try These 5 Techniques First</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-process-windows-11-ms-work-installation/"><u>Unveiling the Process: Windows 11 MS Work Installation</u></a></li>
+</ul></div>

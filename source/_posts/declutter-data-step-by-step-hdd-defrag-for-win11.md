@@ -1,7 +1,7 @@
 ---
 title: "Declutter Data: Step-by-Step HDD Defrag for Win11"
-date: 2024-07-11T22:22:04.782Z
-updated: 2024-07-12T22:22:04.782Z
+date: 2024-08-15T15:11:06.958Z
+updated: 2024-08-16T15:11:06.958Z
 tags:
   - windows10
   - windows11
@@ -56,6 +56,9 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
 5. Then defragment the C: drive by executing this command:  
 `defrag c:`  
 ![The defrag c command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/defrag-c-command.jpg)
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As mentioned, this command-line tool has numerous parameters for configuring the defragment operation. Those parameters give you extra optimization options and enable you to tweak the defragging more. You can view the parameter switches by inputting and executing this command:
 
@@ -65,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
 
 ![The defrag help command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/defrag-parameter-command.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Defrag a Hard Drive With Defraggler
 
  Piriform Defraggler is a more advanced drive optimization tool than Defragment and Optimize Drives, which you can utilize on Windows platforms dating back to XP. It enables you to defrag whole drive volumes, specific folders, or even single files. You can defrag a hard drive with Defraggler like this:
@@ -78,11 +84,17 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
 6. Click**Run Defraggler** in the Piriform window.
 7. Next, click the**Analyze** button to view a report with a fragmentation percentage figure.  
 ![The Defraggler tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-defraggler-tool.jpg)
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 8. Press the**Defrag** button. Or you click that button’s arrow to select**Quick defrag** if preferred.
 
  Defraggler will then do its stuff and displays an active status for the defrag operation. The drive map shows different color squares for fragmented and non-fragmented blocks. While in operation, you’ll also see yellow and green squares for files read and written. Click the**Drive map** tab to view Defraggler’s color code index.
 
 ![The Drive Map tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/drive-map-tab.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 
  If you prefer to defrag a specific folder or file, click the**Actions** menu. Click either the**Defrag Folder** or**Defrag File** option there. Select a directory or file to optimize and click**OK** .
 
@@ -92,12 +104,18 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
 
 ![The Schedule window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-schedule-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## Can I Defrag a Solid-State Drive?
 
  You can defrag an SSD drive with the tools in this guide, but it’s rather pointless. Solid-state drives are a different type of non-mechanical storage that’s faster than hard drives. Defragging such drives offers little to no performance benefit.
 
  Check out our article about [why you shouldn’t defrag SSDs](https://www.makeuseof.com/should-you-optimize-ssd/) for further details.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Enhance Your PC’s HDD Efficiency in Windows 11
 
  Defragging your PC’s hard drive on a reasonably regular basis with the utilities covered above will make it an altogether faster and more responsive one. Once-the-month manual defrags will usually be sufficient for minimizing data fragmentation and maintaining optimal drive efficiency. Windows 11’s built-in tools are ok for drive optimization, but Defraggler offers the most extensive defrag options.
@@ -118,3 +136,73 @@ thumbnail: https://thmb.techidaily.com/87f89d3b15c9e03d195fa4c767fb7770437292a21
      data-full-width-responsive="true"></ins>
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-cost-free-creative-conversion-twitter-to-tweeple-gifs-for-2024/"><u>[New] Cost-Free Creative Conversion  Twitter to Tweeple GIFs for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-discover-top-emulated-psp-classics-on-ios/"><u>[New] In 2024, Discover Top Emulated PSP Classics on iOS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-ultimate-guide-to-proficiently-navigating-win-10-for-2024/"><u>[New] The Ultimate Guide to Proficiently Navigating Win 10 for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-ultimate-guide-to-video-uploads-on-instagram/"><u>[New] The Ultimate Guide to Video Uploads on Instagram</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transform-your-canon-shots-access-to-unlimited-free-and-purchasable-luts/"><u>[New] Transform Your Canon Shots  Access to Unlimited Free & Purchasable LUTs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-50plus-must-know-quotes-for-tiktok-success-stories/"><u>[Updated] 50+ Must-Know Quotes for TikTok Success Stories</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-get-sweating-to-top-exercromise-anthems-and-rhythms/"><u>[Updated] Get Sweating to Top Exercromise Anthems and Rhythms</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-upgrade-your-editing-game-learning-youtube-cuts-in-sony-vegas-basics/"><u>[Updated] Upgrade Your Editing Game  Learning YouTube Cuts in Sony Vegas Basics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-places-to-find-3d-silver-and-gold-lettering-effects/"><u>2024 Approved  Best Places to Find 3D Silver and Gold Lettering Effects</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-subtitle-edits-rank-the-top-10-programs/"><u>2024 Approved  Innovative Subtitle Edits – Rank the Top 10 Programs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-complete-guide-to-reversed-videos-on-instagram/"><u>2024 Approved  The Complete Guide to Reversed Videos on Instagram</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-tips-for-a-swift-checkup-of-your-youtube-sign-in/"><u>2024 Approved  Tips for a Swift Checkup of Your YouTube Sign-In</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-ai-powerhouses-gemini-pro-vs-microsofts-chatgpt-plus-who-wins/"><u>Comparing AI Powerhouses: Gemini Pro Vs. Microsoft's ChatGPT Plus – Who Wins?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-x-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone X Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-guide-to-controlling-user-profiles-in-windows/"><u>Expert Guide to Controlling User Profiles in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-abnormal-display-of-text-on-pcs/"><u>Fixing Abnormal Display of Text on PCs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-to-reinvigorate-stuck-desktop-bar/"><u>Guidelines to Reinvigorate Stuck Desktop Bar</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-change-the-microsoft-account-administrator-name-in-windows-11/"><u>How to Change the Microsoft Account Administrator Name in Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-enable-and-tune-into-fm-radio-channels-on-smartphones/"><u>How to Enable and Tune Into FM Radio Channels on Smartphones</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enable-microphone-during-powerpoint-recording/"><u>How to Enable Microphone During PowerPoint Recording</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-guarantee-windows-screensaver-immobility/"><u>How to Guarantee Windows Screensaver Immobility</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-halt-windows-push-notifications-for-updates/"><u>How to Halt Windows Push Notifications for Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-tackle-winservicesexe-malfunctions/"><u>How To Tackle WinServices.exe Malfunctions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock Apple iPhone XS Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://windows11.techidaily.com/implementing-effective-end-task-controls-in-windows-11-interface-design/"><u>Implementing Effective End Task Controls in Windows 11 Interface Design</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-oppo-find-x6-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Oppo Find X6 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-motorola-moto-g13-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Motorola Moto G13 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-k70e-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi K70E PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-iphone-transfer-transfer-contact-from-apple-iphone-se-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, iPhone Transfer Transfer Contact from Apple iPhone SE to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-isolated-earbuds-fix-manual/"><u>In 2024, The Isolated Earbuds Fix Manual</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-infinix-note-30-vip-racing-edition-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Infinix Note 30 VIP Racing Edition Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-strategies-top-tips-for-maximizing-wsl-2-performance/"><u>Key Strategies: Top Tips for Maximizing WSL 2 Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/leap-forward-in-workflow-mastering-window-redos-shortcuts/"><u>Leap Forward in Workflow: Mastering Window Redos Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-dependencies-prior-to-vbox-for-windows/"><u>Master the Art: Dependencies Prior to VBox for Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-os-settings-with-confidence/"><u>Mastering OS Settings with Confidence</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximize-wi-fi-performance-in-windows-11-discover-the-top-7-tips/"><u>Maximize Wi-Fi Performance in Windows 11: Discover the Top 7 Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/multi-monitor-magic-custom-wallpapers-for-each-screen/"><u>Multi-Monitor Magic: Custom Wallpapers for Each Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-copy-pasting-like-a-pro-using-powertoys/"><u>Navigate Copy-Pasting Like a Pro Using PowerToys</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-the-virtualupgrade-virtualbox-70-for-new-windows-11-users/"><u>Navigate the VirtualUpgrade: VirtualBox 7.0 for New Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-servers-problems-quick-and-effective-tips/"><u>Navigating Through Servers Problems: Quick & Effective Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-unresizable-gifs-in-windows-11s-discord-woes/"><u>Navigating Through Unresizable GIFs in Windows 11'S Discord Woes</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-fundamental-features-to-consider-when-selecting-an-audio-editor-for-mac-users-for-2024/"><u>New Fundamental Features to Consider When Selecting an Audio Editor for Mac Users for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/optimize-your-privacy-with-stellar-secureerase-pro-setting-up-windows-regular-sweep-cycles/"><u>Optimize Your Privacy with Stellar SecureErase Pro - Setting Up Windows Regular Sweep Cycles</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-speed-fixing-slow-microsoft-edge-win10win11/"><u>Optimizing Speed: Fixing Slow Microsoft Edge (Win10/Win11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-missing-launcher-dilemma-for-ubisoft-games/"><u>Overcoming Missing Launcher Dilemma for Ubisoft Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-non-saving-windows-audio-configuration-issue/"><u>Overcoming Non-Saving Window's Audio Configuration Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-net-framework-not-installed-message/"><u>Overcoming Windows' .NET Framework Not Installed Message</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-for-blue-screen-on-windows-11/"><u>Quick Fix for Blue Screen on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/rejuvenating-pcs-essential-13-tricks-for-restoring-systems/"><u>Rejuvenating PCs: Essential 13 Tricks for Restoring Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-erased-run-commands-logs/"><u>Reviving Erased Run Commands Logs</u></a></li>
+<li><a href="https://windows11.techidaily.com/shedding-darkness-8-ways-to-lighten-up-windows-desktops/"><u>Shedding Darkness: 8 Ways to Lighten Up Windows Desktops</u></a></li>
+<li><a href="https://windows11.techidaily.com/spruce-up-windows-mail-and-schedule-with-personal-photos/"><u>Spruce Up Windows Mail & Schedule With Personal Photos</u></a></li>
+<li><a href="https://windows11.techidaily.com/steer-clear-of-incompatible-feature-stickers-in-win11/"><u>Steer Clear of Incompatible Feature Stickers in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-repairing-windows-fragmented-file-issue/"><u>Steps for Repairing Windows Fragmented File Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-preventing-dxgi-errors/"><u>Strategies for Preventing DXGI Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/sustaining-operational-diagnostics-in-modern-windows/"><u>Sustaining Operational Diagnostics in Modern Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-of-leading-lines-in-iphone-visual-storytelling/"><u>The Art of Leading Lines in iPhone Visual Storytelling</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-list-free-defragmentation-tools-for-peak-pc-efficiency-updated-july-2024/"><u>The Ultimate List: Free Defragmentation Tools for Peak PC Efficiency (Updated July 2024)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-oneplus-ace-2-pro-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your OnePlus Ace 2 Pro Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshoot-error-non-working-windows-11-voice-access/"><u>Troubleshoot Error: Non-Working Windows 11 Voice Access</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncover-9-steps-for-altering-the-auditory-elements-of-windows-11/"><u>Uncover 9 Steps for Altering the Auditory Elements of Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-does-tasker-show-other-processes/"><u>Why Does Tasker Show Other Processes?</u></a></li>
+</ul></div>

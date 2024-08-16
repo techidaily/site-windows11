@@ -1,7 +1,7 @@
 ---
 title: Rectify Stalling Windows Guard Mechanism in Win 11
-date: 2024-07-11T21:46:54.489Z
-updated: 2024-07-12T21:46:54.489Z
+date: 2024-08-15T15:45:46.397Z
+updated: 2024-08-16T15:45:46.397Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/3f943451ad9f20674a4982a12bf6e3782b7a46fb4
 4. Finally, click on **Download & install** to get the ball rolling.
 
 ![windows update section in the settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/windows-update-1.png)
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When the updates download is complete, give your PC a quick restart and see if the problem with Windows Security persists. If it does, then jump below to the next method.
 
@@ -58,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/3f943451ad9f20674a4982a12bf6e3782b7a46fb4
  To get started, launch the **Settings** again. Go to **Apps > Apps & features**, search for the antivirus, and when you find it, click on options (three dots) and select **Uninstall**.
 
 ![apps and features in the apps settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/apps-and-feature.png)
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The third-party antivirus will be removed. Now restart your Windows 11 and see if the problem with Windows Security persists. It shouldn’t.
 
@@ -78,6 +84,9 @@ thumbnail: https://thmb.techidaily.com/3f943451ad9f20674a4982a12bf6e3782b7a46fb4
 
  You can also try the **Repair** option if you don't want to reset the app right off. It’s right there above the **Reset** option. As soon you click on **Repair**, the process will begin. When the Repair is complete, it’ll leave a tick option adjacent to **Repair** box.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Run an SFC and DISM Scan
 
  SFC, short for System File Checker, is a Windows utility that can be fallen back upon when some of your Windows files malfunction. In short, it checks for file corruption and then tries to repair it.
@@ -103,11 +112,18 @@ thumbnail: https://thmb.techidaily.com/3f943451ad9f20674a4982a12bf6e3782b7a46fb4
 `DISM /Online /Cleanup-Image /ScanHealth`
 
 ![execution of dsim scan in the command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/dsim-scan-command-prompt.png)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As soon as the command finishes executing, your files would've been scanned and all the corruption issues would most possibly have been resolved.
 
  When you’re done, [simply restart your PC](https://www.makeuseof.com/windows-restart-methods/) for the changes to take effect, and see if the problem persists.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## 6\. Restart the Windows Security Service
 
  Windows Security makes use of a host of programs and services for smooth functioning on your PC. One of those handy services is the Windows Security Center service which monitors the security state of the important components of your system.
@@ -121,6 +137,9 @@ thumbnail: https://thmb.techidaily.com/3f943451ad9f20674a4982a12bf6e3782b7a46fb4
 
  That's it. Follow any other on-screen instructions and wait for the service to reboot of the service. When that's done, restart your PC and the Windows Security service will be fixed by the next boot-up.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## 7\. Reset Your PC
 
  A panacea for almost all [the common Windows bugs](https://www.makeuseof.com/common-windows-11-problems/), the **Reset Your PC** setting resets your computer and brings it to its initial state. It’s far better than reinstalling the whole Windows, as you can reset your PC while also keeping your personal files and folders intact.
@@ -138,6 +157,9 @@ thumbnail: https://thmb.techidaily.com/3f943451ad9f20674a4982a12bf6e3782b7a46fb4
 
  The whole process is fairly straightforward, but if you face any difficulties during the reset, make sure you go through a [complete guide on Windows 10 factory reset](http://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) and verify if you're making any slip-ups in between the steps.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Fixing the Issues With Windows Security
 
  Windows Security is a must-have for Windows health. However, the app can sometimes malfunction and stop working properly. Hopefully, one of the methods laid out above helped you get it working once again.
@@ -155,3 +177,47 @@ thumbnail: https://thmb.techidaily.com/3f943451ad9f20674a4982a12bf6e3782b7a46fb4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-ultimate-livestream-setup-reviews-on-the-top-livestream-tools-and-devices/"><u>[New] 2024 Approved  Ultimate Livestream Setup  Reviews on the Top Livestream Tools and Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-control-over-sound-attenuation-within-audacity/"><u>[New] Understanding Control Over Sound Attenuation Within Audacity</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-ideal-matches-top-8-stability-tools-for-4k-cameras/"><u>[Updated] 2024 Approved  Ideal Matches  Top 8 Stability Tools for 4K Cameras</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-perfect-picture-spotlights-how-to-zoom-in-and-out-on-insta-stories/"><u>[Updated] 2024 Approved  Perfect Picture Spotlights  How to Zoom in & Out on Insta Stories</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-obs-and-streamlabs-battle-who-will-triumph-in-live-broadcasts/"><u>[Updated] OBS and Streamlabs Battle  Who Will Triumph in Live Broadcasts?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamline-entertainment-incorporating-subtitles-into-wmp/"><u>[Updated] Streamline Entertainment  Incorporating Subtitles Into WMP</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2023-tech-scoop-efficiently-tracking-down-fb-vids-for-2024/"><u>2023 Tech Scoop  Efficiently Tracking Down FB Vids for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-professionals-handbook-to-blending-natural-and-artificial-backgrounds/"><u>2024 Approved  A Professional's Handbook to Blending Natural and Artificial Backgrounds</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-gain-traction-with-effective-video-descriptions-and-tagging/"><u>2024 Approved  Gain Traction with Effective Video Descriptions and Tagging</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-innovations-that-make-av1-superior-to-vp9/"><u>2024 Approved  The Innovations That Make AV1 Superior to VP9</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boosting-hard-drive-efficiency-the-leading-free-defragmentation-apps-of-july-24/"><u>Boosting Hard Drive Efficiency: The Leading Free Defragmentation Apps of July '24</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypass-script-failures-windows-script-troubleshooting-guide/"><u>Bypass Script Failures: Windows Script Troubleshooting Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-windows-11-restrictions-a-beginners-guide/"><u>Bypassing Windows 11 Restrictions: A Beginner's Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/creative-geniuses-in-naming-top-10-ai-powerhouse-generators/"><u>Creative Geniuses in Naming  Top 10 AI Powerhouse Generators</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-opaque-windows-11-themes-via-registry-manipulation/"><u>Enabling Opaque Windows 11 Themes via Registry Manipulation</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-level-insights-into-windows-non-adjacent-partition-integration/"><u>Expert-Level Insights Into Windows Non-Adjacent Partition Integration</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-6-plus-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 6 Plus With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-elevate-your-old-computer-into-a-windows-11-powerhouse/"><u>How to Elevate Your Old Computer Into a Windows 11 Powerhouse</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-meizu-21-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Meizu 21?</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unlock-secret-windows-11-themes-with-the-registry/"><u>How to Unlock Secret Windows 11 Themes With the Registry</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-expert-websites-directory-personalized-ringtone-source/"><u>In 2024, Expert Websites Directory  Personalized Ringtone Source</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-oppo-find-x6-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Oppo Find X6 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/inside-outlook-and-file-explorers-new-backup-integration-in-windows-11/"><u>Inside Outlook and File Explorer's New Backup Integration in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/iphoneandroid-as-windows-microphones-guide/"><u>IPhone/Android as Windows Microphones Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/localize-onedrive-a-step-by-step-windows-approach/"><u>Localize OneDrive: A Step-by-Step Windows Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/monitoring-for-failed-windows-logins-a-security-checkers-guide/"><u>Monitoring for Failed Windows Logins: A Security Checker's Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/peek-inside-windows-determining-your-computers-manufacturer/"><u>Peek Inside Windows: Determining Your Computer's Manufacturer</u></a></li>
+<li><a href="https://windows11.techidaily.com/precise-strategies-resetting-razers-system-integration/"><u>Precise Strategies: Resetting Razer's System Integration</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-rpc-errors-on-windows-os/"><u>Quick Fixes for RPC Errors on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-imaginary-device-issue-in-win-11-os/"><u>Resolving Imaginary Device Issue in Win 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/revitalizing-your-stalled-windows-11-mobile-network-connection/"><u>Revitalizing Your Stalled Windows 11 Mobile Network Connection</u></a></li>
+<li><a href="https://video-capture.techidaily.com/scrutinizing-the-latest-in-screen-recording-tech-by-tunefab-for-2024/"><u>Scrutinizing the Latest in Screen Recording Tech by Tunefab for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-deleting-search-box-art-in-win/"><u>Strategies for Deleting Search Box Art in Win</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-your-security-settings-on-windows-11/"><u>Tailoring Your Security Settings on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-overcoming-error-0x800700e1-in-windows-11-devices/"><u>Techniques for Overcoming Error 0X800700E1 in Windows 11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-curtail-excessive-wmi-worker-use/"><u>Tips to Curtail Excessive WMI Worker Use</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-iphone-14-pro-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From iPhone 14 Pro Making It Possible</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-facts-gpts-limitations-in-crypto-research/"><u>Unveiling the Facts: GPT's Limitations in Crypto Research</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-xiaomi-redmi-note-12r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11s-file-explorer-glitches-learn-how-to-stop-them/"><u>Win11's File Explorer Glitches? Learn How To Stop Them</u></a></li>
+</ul></div>

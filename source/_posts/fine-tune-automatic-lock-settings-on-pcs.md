@@ -1,7 +1,7 @@
 ---
 title: Fine-Tune Automatic Lock Settings on PCs
-date: 2024-07-11T21:40:15.898Z
-updated: 2024-07-12T21:40:15.898Z
+date: 2024-08-15T15:51:44.514Z
+updated: 2024-08-16T15:51:44.514Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 
  Apply the same settings for the **When plugged** in option on the right-hand side pane. From there, close the **system settings** and restart your device to save these changes.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Use the Edit Plan Settings (via the Control Panel)
 
  The Control Panel is a reliable Windows tool that helps you configure various system settings. We’ll show you how you can use it to configure the screen saver timeout settings.
@@ -58,6 +61,11 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 6. Finally, click the **Save changes** button.
 
 ![Using the Edit Plan Settings to Change the Lock Screen Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-Edit-Plan-Settings-to-Change-the-Lock-Screen-Timeout-Settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 
 ### Use the Advanced Power Options (via the Control Panel)
 
@@ -76,6 +84,9 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 
  When you're done, click **Apply** and then click **OK**. Finally, close the **Control Panel** and then restart your device to save these changes.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### Use the Command Prompt
 
  The Command Prompt is a reliable tool that can help you [troubleshoot various Windows system issues](https://www.makeuseof.com/how-to-troubleshoot-faulty-windows-pc/). Interestingly, this tool can also help you configure the settings on your device.
@@ -98,13 +109,22 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
  Finally, restart your PC to save these changes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Change the Screen Saver Timeout Settings
 
  Now, let's explore how you can change the screen saver timeout settings.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Use the System Settings
 
 ![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 
  Here's how to change the duration of the screen saver using the system settings:
 
@@ -114,6 +134,9 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
  Bear in mind that you can change the screen saver timeout settings only if the screen saver is enabled. If the screen saver is currently disabled, click the **Screen saver** drop-down menu and select your preferred image.
 
 ![Enabling the screensaver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Enabling-the-screensaver-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  From there, follow these steps to configure the screen saver timeout settings:
 
@@ -147,6 +170,9 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
  Still looking for more tips on how to increase screen time on your laptop? We've got one more solution for you!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### Use the Registry Editor
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
@@ -171,6 +197,9 @@ HKEY_USERS\.DEFAULT\Control Panel\Desktop
 
  Now, type the screen saver timeout duration (in seconds) in the **Value data** box. The default option is usually **900** seconds (15 minutes), but you can enter your desired value. Finally, click **OK** and then restart your device to save these changes.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tweak Your Lock Screen Timeout Settings Without a Hassle
 
  Wondering how to increase laptop screen time? Or do you want to lock your PC and ensure that it doesn’t fully go into sleep mode?
@@ -196,3 +225,45 @@ HKEY_USERS\.DEFAULT\Control Panel\Desktop
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dissecting-digital-dynamics-comparative-channel-analysis/"><u>[Updated] 2024 Approved  Dissecting Digital Dynamics  Comparative Channel Analysis</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-optimize-youtube-tagstitledescription-for-more-views/"><u>[Updated] How to Optimize YouTube Tags/Title/Description for More Views</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-slendersky-stash-affordable-capacious-clouds/"><u>2024 Approved  SlenderSky Stash  Affordable, Capacious Clouds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-definitive-guide-to-using-vlc-player-in-macos/"><u>2024 Approved  The Definitive Guide to Using VLC Player in macOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-excessive-cpu-load-by-dropbox-app-on-windows-devices/"><u>Addressing Excessive CPU Load by Dropbox App on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/bridging-the-gap-between-wi-fi-and-ethernet-in-windows/"><u>Bridging the Gap Between Wi-Fi and Ethernet in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-security-a-comprehensive-guide-to-lock-patterns-in-windows-11/"><u>Customizing Security: A Comprehensive Guide to Lock Patterns in Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-manage-windows-deletion-prompt-actions/"><u>Efficiently Manage Windows' Deletion Prompt Actions</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-system-stability-automatic-windows-and-amd-driver-shift/"><u>Elevate System Stability: Automatic Windows & AMD Driver Shift</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-taskmgr-with-command-line-interface-cli-feature/"><u>Enhance TaskMgr with Command Line Interface (CLI) Feature</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-honor-x50-gt-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-onedrive-login-hiccup-zero-based-code-error-on-win11/"><u>Fixing OneDrive Login Hiccup: Zero-Based Code Error on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/flushing-dns-on-windows-best-practices/"><u>Flushing DNS on Windows: Best Practices</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-iphone-photographic-file-import-failures-on-windows-pcs/"><u>Handling iPhone Photographic File Import Failures on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-system-resource-usage-details-to-the-windows-system-tray/"><u>How to Add System Resource Usage Details to the Windows System Tray</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-looks-like-youre-stranded-xbox-app-error-in-windows-11-and-11/"><u>How to Fix the “Looks Like You’re Stranded” Xbox App Error in Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-start-the-narrator-in-windows-11/"><u>How to Start the Narrator in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gain-listener-traffic-advanced-techniques-in-podcast-seo/"><u>In 2024, Gain Listener Traffic  Advanced Techniques in Podcast SEO</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveraging-windows-innovations-to-enrich-macos/"><u>Leveraging Windows Innovations to Enrich macOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-windows-performance-with-extended-display-setup/"><u>Master Window's Performance With Extended Display Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-batch-installs-windows-11-with-winstall/"><u>Mastering Batch Installs: Windows 11 with Winstall</u></a></li>
+<li><a href="https://windows11.techidaily.com/method-to-correct-windows-installation-glitch-xc004f050/"><u>Method to Correct Windows Installation Glitch Xc004f050</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/navigating-the-path-to-perfect-french-rhythm-and-tone/"><u>Navigating the Path to Perfect French Rhythm and Tone</u></a></li>
+<li><a href="https://windows11.techidaily.com/pro-tip-unearthing-windows-apps-installed-locations-quickly/"><u>Pro Tip: Unearthing Windows Apps' Installed Locations Quickly</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-c210-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for C210</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719329285690-resolve-programming-discrepancies-with-no-troubleshoot-tool/"><u>Resolve Programming Discrepancies with No Troubleshoot Tool.</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-lost-thermal-management-directive-for-pcs/"><u>Restoring Lost Thermal Management Directive for PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/revising-account-lockout-count-after-multiple-login-failures-in-windows-11/"><u>Revising Account Lockout Count After Multiple Login Failures in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionizing-mouse-interactions-on-windows-via-clicklock-techniques/"><u>Revolutionizing Mouse Interactions on Windows via ClickLock Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-biometric-control-in-w11-for-domain-users/"><u>Secure Biometric Control in W11 for Domain Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-eliminate-windows-error-xc0f1103f-on-geforce/"><u>Steps to Eliminate Windows Error XC0F1103F on GeForce</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactile-hover-over-customizing-your-click-experience-in-win11/"><u>Tactile Hover Over: Customizing Your Click Experience in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-surface-computing-firmware-upgrade-manual/"><u>The Complete Surface Computing Firmware Upgrade Manual</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-0xa00f4243-overlapping-camera-usage-in-apps/"><u>Troubleshooting 0xA00F4243: Overlapping Camera Usage in Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-insufficient-spec-on-game-captures/"><u>Troubleshooting Insufficient Spec on Game Captures</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-the-full-capabilities-of-docker-in-wsl-2-windows/"><u>Unleashing the Full Capabilities of Docker in WSL 2 Windows</u></a></li>
+</ul></div>

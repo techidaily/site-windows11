@@ -1,7 +1,7 @@
 ---
 title: "Command Prompt Mastery: Inserting Directories Into Window's 11 Menu"
-date: 2024-07-11T22:08:35.764Z
-updated: 2024-07-12T22:08:35.764Z
+date: 2024-08-15T15:23:50.746Z
+updated: 2024-08-16T15:23:50.746Z
 tags:
   - windows10
   - windows11
@@ -53,6 +53,9 @@ Once your PC has restarted:
  The**MyFolders** submenu includes extra options you can select in File Explorer. Right-click a folder in Explorer to select**Show more options** \>**MyFolders** . Then you can click**Copy to** and**Move to** options for copying and moving directories to the folders you’ve added to the menu.
 
 ![The Copy to option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-to-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 
  To remove folders from the context menu, select**Settings** on the**MyFolders** submenu. Then select an added folder with the app’s window and click**Remove** . You can also reorganize items by clicking the**Move up** and**Move down** buttons.
 
@@ -71,8 +74,14 @@ Once your PC has restarted:
 7. Then launch the 7-Zip software.
 8. Select the**RightClickContextMenuAdder.RAR** in 7-ZIP and click the**Extract** button.  
 ![The Extract button in 7-Zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-rar-archive.jpg)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 9. Click the**ellipsis (…)** button, choose a location for Right Click Context Menu Adder, and select**OK** .  
 ![The Extract window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-extract-window2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 10. Press the**OK** button to extract the RAR archive.
 11. Exit the 7-Zip software.
 
@@ -83,6 +92,9 @@ Once your PC has restarted:
 3. Double-click the Right Click Context Menu.exe file.
 4. Click the**Folder** radio button.  
 ![The Right Click Context Menu Adder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/right-click-context-menu-adder-window.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Press the**Choose Folder** button.
 6. Select a directory to add to the context menu within the**Browse For Folder** window and click**OK** .
 7. Click the**Add to Desktop Context Menu** **and to Folders Context Menu** option.
@@ -92,6 +104,9 @@ Once your PC has restarted:
 
 ![A Program Files folder shortcut on the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/program-files-folder-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Tweak Right Click Context Menu Adder
 
  There are a few optional settings you can change when adding folders to the context menu with Right Click Context Menu Adder. To change the shortcut’s position, select a different**Position on Menu** option.
@@ -105,6 +120,14 @@ Once your PC has restarted:
  To delete folder shortcuts added, and other context menu icons, click the**Remove items** **from menu** tab. Then select a folder you’ve added to the menu and click**Remove** . Select**Yes** to confirm you’re sure about deleting the menu entry.
 
 ![The Remove items from menu tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-items-from-menu-tab.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 
 ## Open Your Most Important Folders From the Windows 11 Context Menu
 
@@ -128,3 +151,43 @@ Once your PC has restarted:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-charting-success-with-youtube-income-streams/"><u>[New] 2024 Approved  Charting Success with YouTube Income Streams</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-insightful-rank-watchers-optimizing-your-video-performance/"><u>[Updated] 2024 Approved  Insightful Rank Watchers  Optimizing Your Video Performance</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-wipe-out-facebook-story-desktopmobile-tips/"><u>[Updated] 2024 Approved  Wipe Out Facebook Story  Desktop/Mobile Tips</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-make-highlights-on-instagram-for-2024/"><u>[Updated] How to Make Highlights on Instagram for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-open-air-fb-audio-downloads/"><u>[Updated] In 2024, Open Air FB Audio Downloads</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-masterful-zoom-techniques-simple-iphone-solutions/"><u>2024 Approved  Masterful Zoom Techniques  Simple iPhone Solutions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mp4-conversion-mastering-youtube-shorts-editing/"><u>2024 Approved  MP4 Conversion  Mastering YouTube Shorts Editing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-top-5-best-4k-monitors-for-color-grading/"><u>2024 Approved  Top 5 Best 4K Monitors for Color Grading</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/detailed-explanation-of-youtubes-operation-after-a-video-goes-live-for-2024/"><u>Detailed Explanation of YouTube's Operation After a Video Goes Live for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dynamic-techniques-to-fast-track-language-skills/"><u>Dynamic Techniques to Fast-Track Language Skills</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-microsoft-copilot-ai-driven-coding-assistant-explained/"><u>Exploring Microsoft Copilot: AI-Driven Coding Assistant Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixed-low-frame-rate-issue-with-asus-usb-cam-in-win11/"><u>Fixed Low Frame Rate Issue with Asus USB Cam in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-xbox-game-pass-0x800700e9-error-in-windows-11-os/"><u>Fixing Xbox Game Pass 0X800700E9 Error in Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reduce-overhead-from-real-time-scanners/"><u>How to Reduce Overhead From Real-Time Scanners</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-use-slideshow-and-spot-fix-in-the-windows-11-photos-app/"><u>How to Use Slideshow and Spot Fix in the Windows 11 Photos App</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-windows-blue-screen-data-assists-diagnosis/"><u>How Windows Blue Screen Data Assists Diagnosis</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-x6-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Poco X6 Phone without Google Account?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-scripting-for-advanced-typography-in-after-effects/"><u>Innovative Scripting for Advanced Typography in After Effects</u></a></li>
+<li><a href="https://windows11.techidaily.com/instructional-insights-into-activating-windows-11s-wireless-feature/"><u>Instructional Insights Into Activating Windows 11'S Wireless Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/make-your-file-explorer-reliable-fixes-that-work-in-windows-11/"><u>Make Your File Explorer Reliable: Fixes That Work in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-startup-fixes-for-frozen-windows-obs-studio/"><u>Mastering Startup Fixes for Frozen Windows OBS Studio</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-smartly-minimizing-applications-using-ctrlplustab/"><u>Navigate Smartly: Minimizing Applications Using Ctrl+Tab</u></a></li>
+<li><a href="https://windows11.techidaily.com/resetting-the-system-how-to-reinitialize-windows-11-programs/"><u>Resetting the System: How to Reinitialize Windows 11 Programs</u></a></li>
+<li><a href="https://windows11.techidaily.com/restore-smooth-operation-to-windows-timer-tasks/"><u>Restore Smooth Operation to Windows Timer Tasks</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-window-cookie-expiry-post-login-errors/"><u>Setting Window' Cookie Expiry Post-Login Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-stopping-bsod-events-with-vmware-on-win11/"><u>Solutions for Stopping BSOD Events with VMware on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/speeding-up-android-studio-tasks-on-windows-os/"><u>Speeding Up Android Studio Tasks on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-windows-media-player-launch/"><u>Step-by-Step Guide to Windows Media Player Launch</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-windows-10s-caption-error-correction/"><u>Streamlining Windows 10'S Caption Error Correction</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-edge-dilemma-ethical-choices-amidst-societal-controls/"><u>The Edge Dilemma: Ethical Choices Amidst Societal Controls</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-infinix-note-30-vip-racing-edition-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Infinix Note 30 VIP Racing Edition without backup.</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshoot-interface-not-recognized-a-win-to-success-guide/"><u>Troubleshoot 'Interface Not Recognized': A Win to Success Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-defenders-error-0x80004004/"><u>Troubleshooting Defender's Error 0X80004004</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-blocked-functionality-of-ccleaner-on-win11/"><u>Unblocking Blocked Functionality of CCleaner on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-at-speedy-epic-games-installations/"><u>Winning at Speedy Epic Games Installations</u></a></li>
+<li><a href="https://windows11.techidaily.com/your-guide-to-developing-an-automatic-voice-to-text-application-for-windows/"><u>Your Guide to Developing an Automatic Voice-to-Text Application for Windows</u></a></li>
+</ul></div>

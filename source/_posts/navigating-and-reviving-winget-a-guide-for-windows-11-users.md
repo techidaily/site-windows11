@@ -1,7 +1,7 @@
 ---
 title: "Navigating and Reviving Winget: A Guide for Windows 11 Users"
-date: 2024-07-11T21:37:16.511Z
-updated: 2024-07-12T21:37:16.511Z
+date: 2024-08-15T15:55:03.206Z
+updated: 2024-08-16T15:55:03.206Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,18 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 
  Now, you know the reasons behind Winget not working issue. Try out these eight methods to resolve the issue and use your favorite package manager again.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Close and Reopen Winget in the Terminal App
 
  Before moving on to advanced fixes, completely close the Command Prompt or PowerShell instance you are running on the PC. You can use the Task Manager to stop an unresponsive instance of either of these command-line tools.
@@ -58,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
  Winget is a part of Windows 10 and 11 now and is shipped to PCs using the App Installer application. If you haven’t updated the App Installer in a while, you can face issues in running Winget and managing packages. Winget is included only in version 1.11.11451 or higher of the App Installer. If you have a version older than that, you cannot use Winget from the terminal.
 
 ![Update App Installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-app-installer.jpg)
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  So, open Microsoft Store and check the library section for any pending updates for the App Installer. Manually search and install the update and check if Winget works now.
 
@@ -80,9 +95,15 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 2. Click on the **Environment Variables** button. Click on the **Path** entry and then click on the **Edit** button.
 3. Now, click on the New button and paste the following path: **%UserProfile%\\AppData\\Local\\Microsoft\\WindowsApps**  
 ![Manually Add the Path Environment Variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manually-add-the-path-environment-variable.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 4. Click on the **OK** button. Restart your PC.
 5. Open the Terminal app and check if Winget works or not.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## 7\. Re-register Winget Using PowerShell
 
  If Winget isn’t working on your PC, you can re-register it using PowerShell. Since it is a part of the App Installer which is a system app, it is possible to re-register it. Repeat the following steps:
@@ -92,13 +113,31 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 `Add-AppxPackage -DisableDevelopmentMode -Register "C:\Program Files\WindowsApps\Microsoft.Winget.Source_2021.718.1322.843_neutral__8wekyb3d8bbwe\AppXManifest.xml" -Verbose`
 3. You won’t see any confirmation message after the command executes successfully. Close the PowerShell window and restart your PC.  
 ![Re-register Winget Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/re-register-winget-using-powershell.jpg)
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## 8\. Try Some Generic Windows Fixes
 
  If none of the methods work for you, try our generic fixes like SFC and DISM scans that find and fix the system file corruption and service Windows Image components. You must [run the SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) first and allow it to find and replace the corrupt system files, if any. After that, [run the DISM scan](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) in online mode.
 
  After running these scans, you can use System Restore to revert the PC to a point in time when everything worked fine. Lastly, you can perform a complete system reset. You can choose the Keep my files option to preserve all your files while [factory resetting Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Make Winget Functional Again
 
  Winget is a fantastic package manager that helps you control and manage app packages from the terminal. Ensure robust internet connectivity and check if the app execution alias is active for Winget. Manually reconfigure the PATH for Winget and re-register the App Installer using PowerShell. If you want a GUI version of Winget, you can try Winstall which helps you batch-install apps.
@@ -114,3 +153,42 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-is-sns-hdr-the-best-for-your-hdr-needs-insights/"><u>[New] Is SNS HDR the Best for Your HDR Needs? Insights</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-quintessential-guide-to-music-and-voiceovers-in-reels/"><u>[Updated] The Quintessential Guide to Music & Voiceovers in Reels</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/aspect-ratio-compliance-for-youtube-style-tweets/"><u>Aspect Ratio Compliance for YouTube-Style Tweets</u></a></li>
+<li><a href="https://video-capture.techidaily.com/beyondonecam-testing-are-there-better-options/"><u>BeyondOneCam Testing  Are There Better Options?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/building-dreams-in-mc-ideal-village-housing-plans/"><u>Building Dreams in MC  Ideal Village Housing Plans</u></a></li>
+<li><a href="https://windows11.techidaily.com/craft-compelling-content-with-these-windows-tools/"><u>Craft Compelling Content with These Window's Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-for-windows-0x80780119-error-in-image/"><u>Fix for Windows' 0X80780119 Error in Image</u></a></li>
+<li><a href="https://windows11.techidaily.com/fortify-your-pc-with-these-7-leading-gratis-password-apps/"><u>Fortify Your PC with These 7 Leading, Gratis Password Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-on-win-xpvista7-backup-reset-procedure/"><u>Guide on Win XP/Vista/7 Backup Reset Procedure</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-your-windows-license-will-expire-soon-error-on-windows-11-and-11/"><u>How to Fix the “Your Windows License Will Expire Soon” Error on Windows 11 and 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-quickly-accessdeactivate-bing-chat-in-windows-search-bar/"><u>How To Quickly Access/Deactivate Bing Chat in Windows Search Bar</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reset-and-reinstate-blocked-windows-program/"><u>How to Reset and Reinstate Blocked Windows Program</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-bridging-gaps-preventing-video-holds-in-photoshoots/"><u>In 2024, Bridging Gaps  Preventing Video Holds in Photoshoots</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-motorola-g24-power-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Motorola G24 Power Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrate-and-upgrade-the-best-6-android-apps-on-windows-11/"><u>Integrate and Upgrade: The Best 6 Android Apps on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveraging-win-11s-capabilities-for-seamless-application-switch/"><u>Leveraging Win 11'S Capabilities for Seamless Application Switch</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-desktop-organization-notes-on-w11w10/"><u>Mastering Desktop Organization: Notes on W11/W10</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-and-resolve-the-mystery-of-zero-error-in-new-windows-11/"><u>Navigate & Resolve the Mystery of Zero Error in New Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-windows-11-overheating-issues/"><u>Preventing Windows 11 Overheating Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-tips-enabling-easy-access-with-windows-auto-login-feature/"><u>Quick Tips: Enabling Easy Access with Windows Auto Login Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/rebooting-trust-how-to-rectify-windows-safety-setbacks/"><u>Rebooting Trust: How to Rectify Windows Safety Setbacks</u></a></li>
+<li><a href="https://windows11.techidaily.com/refinement-of-your-touchpad-settings-for-optimal-interaction/"><u>Refinement of Your Touchpad Settings for Optimal Interaction</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-closed-folder-issues-via-double-clicks-in-w10w11/"><u>Resolving Closed Folder Issues via Double-Clicks in W10/W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/rog-ally-and-the-new-competitor-from-asus/"><u>ROG Ally and the New Competitor From ASUS</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-up-triple-column-tiles-on-windows-11-a-quick-guide/"><u>Setting Up Triple Column Tiles on Windows 11 – A Quick Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-image-access-via-file-explorer-in-windows-11/"><u>Streamline Image Access via File Explorer in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-media-experience-with-wmp/"><u>Streamlining Your Media Experience with WMP</u></a></li>
+<li><a href="https://windows11.techidaily.com/tame-the-tech-tyranny-restoring-sound-on-your-pc/"><u>Tame the Tech Tyranny: Restoring Sound on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-halt-automatic-startup-of-spotify/"><u>Techniques to Halt Automatic Startup of Spotify</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-strategies-for-resolving-windows-11-onedrive-disconnects/"><u>Top Strategies for Resolving Windows 11 OneDrive Disconnects</u></a></li>
+<li><a href="https://windows11.techidaily.com/trimming-startup-latency-adjust-boot-menu-delay-in-win11/"><u>Trimming Startup Latency: Adjust Boot Menu Delay in Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-iphone-potential-for-high-end-gaming/"><u>Unleashing iPhone Potential for High-End Gaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-hyper-v-on-windows-11-homes-with-simple-instructions/"><u>Unlock Hyper-V on Windows 11 Homes with Simple Instructions</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-the-screen-shot-game-snipping-tool-or-printscreen/"><u>Winning the Screen Shot Game: Snipping Tool or Printscreen?</u></a></li>
+</ul></div>

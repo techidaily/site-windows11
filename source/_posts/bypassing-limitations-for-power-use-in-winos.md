@@ -1,7 +1,7 @@
 ---
 title: Bypassing Limitations for Power Use in WinOS
-date: 2024-07-11T21:20:02.260Z
-updated: 2024-07-12T21:20:02.260Z
+date: 2024-08-15T16:11:07.116Z
+updated: 2024-08-16T16:11:07.116Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 
  Once done, close the Command Prompt and check if the issue is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Activate the Built-In Administrator Account
 
 ![Enable the built-in admin account in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-built-in-admin-account.jpg)
@@ -60,9 +63,15 @@ net user administrator /active:yes
 4. Choose **Properties** from the context menu.
 5. Uncheck the **Account is disabled** option and click **OK**.  
 ![Enable the built-in admin account in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-admin-account.jpg)
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This should successfully activate the built-in administrator account. You can now access the Settings app again and check if you can switch the account type easily now.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Make the Changes in Safe Mode
 
  It's possible that a background process or application is causing interference with system processes, which could be preventing you from switching to an administrator account.
@@ -71,6 +80,9 @@ net user administrator /active:yes
 
  Once you have booted into Safe Mode, try performing the action that was initially causing the problem. If it does not occur in Safe Mode, you can try eliminating the culprit by either uninstalling it manually or [using the System Restore utility](https://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) to revert to a stable, error-free state.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Disable Your Antivirus Program
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
@@ -83,6 +95,9 @@ net user administrator /active:yes
 
 ## 5\. Create a New Administrator Account
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## Finally, if none of the methods above have helped you, you can try creating a new administrator account in Windows
 
  This will help with any corruption issues in the current account, as well as help you determine if the permission-related problems were user-specific. It is, however, important to note that you will require admin access to the system to proceed with the steps in this method, so you must enable the built-in administrator account beforehand.
@@ -93,6 +108,9 @@ net user administrator /active:yes
 2. Choose **Accounts** from the left pane and click on **Other users**.
 3. Hit the **Add account** button for **Add other users** in the following window.  
 ![The Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-account-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. Select **I don’t have this person’s sign-in information** \> **Add a user without a Microsoft account**.
 5. In the next dialog, enter details like the username and password for the new account.
 6. Click **Next**.
@@ -118,3 +136,36 @@ net user administrator /active:yes
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-16-innovative-ways-to-archive-web-based-podcasts/"><u>[New] 2024 Approved  16 Innovative Ways to Archive Web-Based Podcasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-cut-to-the-chase-convert-fb-vids-into-mp3s/"><u>[Updated] Cut-to-the-Chase  Convert FB Vids Into MP3s</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-cutting-edge-tech-for-screen-capture-an-itop-review/"><u>[Updated] In 2024, Cutting-Edge Tech for Screen Capture  An ITop Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfect-cone-capture-equipment/"><u>[Updated] Perfect Cone Capture Equipment</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-solutions-for-enabling-windows-11s-memory-check/"><u>7 Solutions for Enabling Windows 11'S Memory Check</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-leap-forward-for-windows-11-innovative-widget-features-proposal/"><u>A Leap Forward for Windows 11: Innovative Widget Features Proposal</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-users-guide-to-navigating-file-explorer-tabs-windows-11-style/"><u>A User's Guide to Navigating File Explorer Tabs, Windows 11 Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-delayed-auditory-feedback-on-pcs/"><u>Addressing Delayed Auditory Feedback on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-photo-snapshots-in-windows-11/"><u>Adjusting Photo Snapshots in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-revolution-new-era-with-gpt-4-unveiled/"><u>AI Revolution: New Era with GPT-4 Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/asus-zenbook-14-the-windows-mac-battle-continues/"><u>ASUS Zenbook 14: The Windows-Mac Battle Continues</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-expiring-software-license-caution-in-windows-1011/"><u>Avoiding Expiring Software License Caution in Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/awakening-hidden-pane-windows-effective-steps-for-win11/"><u>Awakening Hidden Pane Windows: Effective Steps for Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-in-class-window-videomodding-tools-our-top-picks/"><u>Best-in-Class Window Videomodding Tools: Our Top Picks</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-not-working-errors-for-your-pcs-win-based-software/"><u>Bypassing 'Not Working' Errors for Your PC’s Win-Based Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/clandestine-data-storage-zip-archives-in-image-files-for-windows-enthusiasts/"><u>Clandestine Data Storage: ZIP Archives in Image Files for Windows Enthusiasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/clean-slate-optimizing-windowed-file-space/"><u>Clean Slate: Optimizing Windowed File Space</u></a></li>
+<li><a href="https://windows11.techidaily.com/conjoining-android-and-windows-11-tablets-effortlessly/"><u>Conjoining Android and Windows 11 Tablets Effortlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/conveniently-embedding-passwords-into-windows-text-archives/"><u>Conveniently Embedding Passwords Into Windows Text Archives</u></a></li>
+<li><a href="https://windows11.techidaily.com/cross-network-stealth-securing-data-flow-in-winos/"><u>Cross-Network Stealth: Securing Data Flow in WinOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-the-oculus-quest-for-windows-vr-use/"><u>Customizing the Oculus Quest for Windows VR Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-sound-misstep-solving-xc00d36b4-on-windows/"><u>Decoding Sound Misstep: Solving XC00D36B4 on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/dism-tactics-restoring-windows-11-os-images/"><u>DISM Tactics: Restoring Windows 11 OS Images</u></a></li>
+<li><a href="https://windows11.techidaily.com/dive-into-game-worlds-playing-android-apps-in-windows-11-via-google-services/"><u>Dive Into Game Worlds: Playing Android Apps in Windows 11 via Google Services</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-infinix-smart-7-hd-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Infinix Smart 7 HD online without jailbreak</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-newest-printer-driver-update-for-hp-officejet-4500-direct-download-links-available-now/"><u>Install Newest Printer Driver Update for HP Officejet 4500 - Direct Download Links Available Now</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/uncharted-territories-virtual-realitys-role-in-leisure/"><u>Uncharted Territories  Virtual Reality's Role in Leisure</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/zoom-masterclass-unveiling-best-practices-in-video-reformatting/"><u>Zoom Masterclass  Unveiling Best Practices in Video Reformatting</u></a></li>
+</ul></div>

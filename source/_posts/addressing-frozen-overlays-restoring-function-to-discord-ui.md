@@ -1,7 +1,7 @@
 ---
 title: "Addressing Frozen Overlays: Restoring Function to Discord UI"
-date: 2024-07-11T21:34:42.499Z
-updated: 2024-07-12T21:34:42.499Z
+date: 2024-08-15T15:56:43.152Z
+updated: 2024-08-16T15:56:43.152Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 
  If none of the above checks fixes the problem, proceed to the remaining fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Check for Incorrect Discord Settings
 
  For Discord overlay to work correctly, you must ensure three things: the overlay feature is enabled in Discord, the game you're playing is added to Discord's registered games list, and the overlay setting for that game is not disabled. Therefore, ensure the basic overlay setup isn't misconfigured before going through the rest of the fixes.
@@ -52,6 +55,9 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 ![Click on Add It And Select the Game From the Dropdown Menu in Discord Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/5-click-on-add-game-button-and-select-the-game-from-the-dropdown-menu-in-discord-settings.jpg)
 8. Upon seeing the game in the **Added Games** list, turn on its overlay. You can do that by clicking the **monitor icon** next to the game.  
 ![Turn On the Overlay Option for the Game in the Added Games List in Discord Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-turn-on-the-overlay-option-for-the-game-in-the-added-games-list-in-discord-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 
  If any of the above settings weren't configured correctly, configuring them properly will resolve the problem.
 
@@ -67,6 +73,18 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 
  When changing it, make sure the hotkey you choose isn't already assigned to another function in the game. If you assign the same hotkey, the game will execute the in-game process instead of enabling the Discord overlay.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Select the Recommended Display Scaling
 
  Discord users have reported that over-scaling the display can affect the Discord overlay's functionality. If you've changed display scaling or layout recently and the overlay has stopped working since then, you should revert these changes.
@@ -77,6 +95,9 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 
  If you're running Windows 10, check out our guide on [how to configure display scaling](https://www.makeuseof.com/how-to-configure-display-scaling-windows-10/) to select the recommended scale. The recommended scale percentage can vary depending on the screen size and resolution; select the one Windows suggests.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Turn Off Hardware Acceleration
 
  Hardware acceleration in Discord enables the app to use GPU resources for graphics processing, which makes the app more responsive. However, enabling this feature can be detrimental in some cases. Disabling this feature often resolves most issues with the app. If none of the fixes have worked, you should disable it.
@@ -84,7 +105,14 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
  To disable hardware acceleration, launch Discord, open **User Settings**, select **Advanced** under **App Settings**, and toggle **Hardware Acceleration** off.
 
 ![Turn Off the Toggle Next to Hardware Acceleration in Advanced Tab of App Settings in Discord](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/9-turn-off-the-toggle-next-to-hardware-acceleration-in-advanced-tab-of-app-settings-in-discord.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## 6\. Reset the Overlay Position
 
  If none of the above fixes work, reset the overlay position. This step will ensure that the overlay hasn't been pushed off-screen when you scaled the display.
@@ -100,14 +128,24 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 `"DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true`
 5. Then, simply press **CTRL+S** to save the document and close the file.  
 ![Save and Close the File After Making Certain Changes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/11-save-and-close-the-file-after-making-certain-changes-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the developer tools have been enabled, follow these steps:
 
 1. Relaunch Discord.
 2. Press **Ctrl+Shift+I** to open the developer console.  
 ![Open the Developer Console in Discord App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/12-open-the-developer-console-in-discord-app-on-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Click the **double arrow icon (>>)** and select **Application**.  
 ![Select Application by Clicking the Double Arrow Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/13-select-application-by-clicking-the-double-arrow-icon.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 4. Expand the **Local Storage** category under **Storage**.
 5. Look for the **"OverlayStoreV2"** or **"OverlayStore"** keys. Most likely, you will find only one of these keys.
 6. Right-click the key and select **Delete.**  
@@ -131,3 +169,41 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-capturing-desktop-image-in-windows-versions-11-7/"><u>[New] Capturing Desktop Image in Windows Versions (11-7)</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-high-impact-tweets-hot-videos-on-the-rise-for-2024/"><u>[New] High-Impact Tweets  Hot Videos on the Rise for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-crafting-quality-videos-a-guide-to-apple-device-screen-recording-for-2024/"><u>[Updated] Crafting Quality Videos  A Guide to Apple Device Screen Recording for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-from-novice-to-pro-a-compreenhensive-guide-to-gifs-in-snapchat/"><u>2024 Approved  From Novice to Pro  A Compreenhensive Guide to Gifs in Snapchat</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-secret-sauce-to-staying-fresh-on-instagram-a-4-step-guide-to-gifs/"><u>2024 Approved  The Secret Sauce to Staying Fresh on Instagram  A 4-Step Guide to GIFs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-unlocking-screen-recorder-potential-beyond-cyberlink/"><u>2024 Approved  Unlocking Screen Recorder Potential Beyond Cyberlink</u></a></li>
+<li><a href="https://extra-information.techidaily.com/analyzing-the-impact-of-burst-on-live-action-shoots-for-2024/"><u>Analyzing the Impact of Burst on Live-Action Shoots for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-installation-issues-fixing-zero-error-on-win11/"><u>Avoid Installation Issues: Fixing Zero Error on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-the-wow-breakdown-cure-windows-error-code-132/"><u>Avoid the WoW Breakdown: Cure Windows Error Code 132</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-windows-11-techniques-building-hotkeys-for-text-snapping/"><u>Cutting Edge Windows 11 Techniques: Building Hotkeys for Text Snapping</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-the-start-up-sequence-of-windows-os/"><u>Decoding the Start-Up Sequence of Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/detailed-guide-turning-secure-boot-and-tpm-onoff-in-vbox/"><u>Detailed Guide: Turning Secure Boot and TPM On/Off in VBox</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-memory-write-failures-windows-fixes-guide/"><u>Disabling Memory Write Failures: Windows Fixes Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-a79-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo A79 5G Device SIM</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-your-typing-speed-top-7-fixes-on-win-os/"><u>Elevating Your Typing Speed: Top 7 Fixes on WIN OS</u></a></li>
+<li><a href="https://network-issues.techidaily.com/ending-black-screen-woes-fall-creators-update/"><u>Ending Black Screen Woes: Fall Creators Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-visual-coherence-integrating-this-pc-icon/"><u>Enhance Visual Coherence: Integrating 'This PC' Icon</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-your-windows-11-journey-top-6-multitasking-android-apps/"><u>Enhancing Your Windows 11 Journey: Top 6 Multitasking Android Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/exclusive-guide-to-forgotten-windows-11-themes/"><u>Exclusive Guide to Forgotten Windows 11 Themes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-spark-go-2023-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Spark Go (2023) Phone FRP Lock</u></a></li>
+<li><a href="https://windows11.techidaily.com/notepaddarksettingsinstructionswin1011/"><u>NotepadDarkSettingsInstructionsWin10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-powershell-access-control-settings/"><u>Optimizing PowerShell Access Control Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-solving-disk-errors-uninitialized-scenarios/"><u>Quick Guide to Solving Disk Errors: Uninitialized Scenarios</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-configure-time-zones-on-windows-manually/"><u>Quick Guide: Configure Time Zones on Windows Manually</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/record-desktop-on-windows-3-simple-cost-free-methods-for-2024/"><u>Record Desktop on Windows  3 Simple, Cost-Free Methods for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-unresponsive-printers-in-windows-11-environment/"><u>Remedying Unresponsive Printers in Windows 11 Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-camera-apps-loss-of-recorded-images/"><u>Reversing Camera App's Loss of Recorded Images</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-solution-to-cease-iomap64-syscall-freezes-on-windows/"><u>Step-by-Step Solution to Cease IOMap64 Syscall Freezes on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-reinstate-normal-startup-procedure-in-outlook/"><u>Steps to Reinstate Normal Startup Procedure in Outlook</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-tranquil-application-management-in-window-11/"><u>Techniques for Tranquil Application Management in Window 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/toolwiz-analysis-revolutionizing-image-editing-on-the-go/"><u>Toolwiz Analysis  Revolutionizing Image Editing on the Go</u></a></li>
+<li><a href="https://windows11.techidaily.com/tweaking-windows-cursor-appearance-easily/"><u>Tweaking Window's Cursor Appearance Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-differences-of-fix-focused-tools-dism-sfc-and-chkdsk/"><u>Understanding Differences of Fix-Focused Tools: DISM, SFC & CHKDSK</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-google-pixel-smartwatch-rumors-decoded-forecasted-price-release-date-and-expected-technical-details-for-tech-enthusiasts/"><u>Upcoming Google Pixel Smartwatch Rumors Decoded – Forecasted Price, Release Date & Expected Technical Details for Tech Enthusiasts</u></a></li>
+</ul></div>

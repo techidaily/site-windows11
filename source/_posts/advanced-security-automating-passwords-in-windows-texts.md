@@ -1,7 +1,7 @@
 ---
 title: "Advanced Security: Automating Passwords in Windows Texts"
-date: 2024-07-11T22:12:42.464Z
-updated: 2024-07-12T22:12:42.464Z
+date: 2024-08-15T15:20:16.563Z
+updated: 2024-08-16T15:20:16.563Z
 tags:
   - windows10
   - windows11
@@ -72,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 1. Input some content within the text editor.
 2. Click Secure Edit's **File** menu.  
 ![The Save as option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/save-as-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 3. Select the **Save as** option.
 4. Choose the **Encrypted Files** format on the **Save as** type menu.  
 ![The Save as type option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/save-as-type-drop-down-menu.jpg)
@@ -92,7 +95,13 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
  To change the text style in Secure Edit, click the **Select Editor Font** option. Then you can choose a different font, style, and size in the open window. The Font window also includes **Strikeout**, **Underline**, and **Color** options.
 
 ![Secure Edit's Font window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/font-options-in-secure-edit.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## How to Apply Passwords to Notepad Text Files With PeaZip
 
  PeaZip is a freeware archive utility with which you can [set up password-protected archives](https://www.makeuseof.com/windows-password-protect-zip-file/). You can apply a password to multiple Notepad text files by adding them to a password-protected archive with PeaZip.
@@ -115,12 +124,18 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 1. Hold the **Ctrl** key and select a few Notepad text files to include within the archive.
 2. Press the **Add** button.  
 ![The Add button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/add-button.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 3. Choose **ZIP** in the **Type** drop-down menu.
 4. Click the **Set password / keyfile** option.  
 ![Archive settings in PeaZip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/archive-settings-in-peazip.jpg)
 5. Enter your desired password in the **Password** box.
 6. Re-enter the same password in the **Confirm** box.  
 ![The set password for PeaZip window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-password-box-in-peazip.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 7. Select **OK** in the **Password** window.
 8. Click the three-dot button for the **Output** box. Choose a directory to include the archive in and select **Save**.
 9. Select **OK** to create the password-protected archive.
@@ -130,7 +145,13 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
  Double-click a text file within the archive. Then you'll be prompted to input a password for it. Enter the password you set for the ZIP to open the text file in Notepad.
 
 ![The password box for a PeaZip ZIP archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/password-box-for-archive.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Secure Your Text Files in Windows 11/10
 
  If you share a Windows PC with other users, you should set passwords for text files containing private notes and confidential details. Even if you don't, securing your personal notes is a good idea by applying a password. So, check out LockNote, Secure Edit, or PeaZip to protect your most confidential text files in Windows.
@@ -150,3 +171,41 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cutting-edge-mp4-utilities-choosing-the-right-one-for-mac/"><u>[New] 2024 Approved  Cutting Edge MP4 Utilities  Choosing the Right One for Mac</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-x-spectrum-visual-recorder-pc-for-2024/"><u>[New] X-Spectrum Visual Recorder, PC for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-boundless-treasure-tales-of-instagram-flair/"><u>[Updated] 2024 Approved  Boundless Treasure Tales of Instagram Flair</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-a-successful-mukbang-video-journey/"><u>[Updated] 2024 Approved  Crafting a Successful Mukbang Video Journey</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-streamline-free-webinar-organizing-with-youtube-help/"><u>[Updated] 2024 Approved  Streamline Free Webinar Organizing with YouTube Help</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-best-gamers-streaming-tools-for-2024/"><u>[Updated] Best Gamers' Streaming Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mastering-youtube-shorts-for-profit-essential-requirements-and-potential-earnings/"><u>[Updated] Mastering Youtube Shorts for Profit  Essential Requirements and Potential Earnings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-best-starter-accessories-to-elevate-your-gopro-capture/"><u>[Updated] The Best Starter Accessories to Elevate Your GoPro Capture</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/adjusting-time-display-on-kindle-paperwhite-a-detailed-tutorial/"><u>Adjusting Time Display on Kindle Paperwhite - A Detailed Tutorial</u></a></li>
+<li><a href="https://facebook.techidaily.com/e2ee-update-for-facebook-messenger-when-expected/"><u>E2EE Update for Facebook Messenger – When Expected?</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-non-terminatable-processes-on-windows-systems/"><u>Fixing Non-Terminatable Processes on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-stop-hyper-v-service-in-windows-11/"><u>Guide: Stop Hyper-V Service in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-a-move-and-copy-to-folder-context-menu-options-in-windows-10-and-11/"><u>How to Add a Move and Copy to Folder Context Menu Options in Windows 10 & 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-t2-pro-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo T2 Pro 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/inside-out-mastering-windows-error-resolution-version-22h2/"><u>Inside Out: Mastering Windows Error Resolution, Version 22H2</u></a></li>
+<li><a href="https://windows11.techidaily.com/interactive-guide-to-utilizing-windows-component-services/"><u>Interactive Guide to Utilizing Windows Component Services</u></a></li>
+<li><a href="https://windows11.techidaily.com/linking-win-pink-keys-with-ms-account/"><u>Linking WIN PINK KEYS with MS ACCOUNT</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/photoshop-quick-keys-a-windows-guide/"><u>Photoshop Quick Keys: A Windows Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-pasting-made-easy-personalized-shortcuts-in-the-latest-windows-version/"><u>Quick-Pasting Made Easy: Personalized Shortcuts in the Latest Windows Version</u></a></li>
+<li><a href="https://windows11.techidaily.com/revealing-a-hidden-shortcoming-an-insightful-review-of-samsung-galaxy-tab-a-2020/"><u>Revealing a Hidden Shortcoming: An Insightful Review of Samsung Galaxy Tab A (2020)</u></a></li>
+<li><a href="https://windows11.techidaily.com/solve-mystery-of-disappearing-hardware-in-winos/"><u>Solve Mystery of Disappearing Hardware in WinOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-windows-camera-app-0xa00f429f-glitches/"><u>Solving Windows' Camera App 0xA00F429F Glitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-rectify-failed-utorrent-installations-in-windows/"><u>Strategies to Rectify Failed uTorrent Installations in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-not-found-gpeditmsc-in-windows-errors/"><u>Tackling the Not Found: Gpedit.msc in Windows Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-and-tricks-to-effectively-use-the-windows-key/"><u>Tips & Tricks to Effectively Use the Windows Key</u></a></li>
+<li><a href="https://windows11.techidaily.com/total-extraction-guide-how-to-remove-wsl-on-windows-11/"><u>Total Extraction Guide: How to Remove WSL on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-workspace-sketches-for-win-1011-users/"><u>Transform Your Workspace: Sketches for Win 10/11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/tutorial-enabling-the-revamped-toolset-for-selecting-widgets/"><u>Tutorial: Enabling the Revamped Toolset for Selecting Widgets</u></a></li>
+<li><a href="https://windows11.techidaily.com/unrelated-processes-under-microsoft-edge-in-tasks/"><u>Unrelated Processes Under Microsoft Edge in Tasks</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-s24plus-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy S24+ Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-screen-reset-3-straightforward-solutions/"><u>Win11 Screen Reset: 3 Straightforward Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-whimsy-fixing-fuchsia-and-fern-like-colors-on-your-screen/"><u>Windows Whimsy? Fixing Fuchsia & Fern-Like Colors on Your Screen</u></a></li>
+</ul></div>

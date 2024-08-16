@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Quiet Hardware: Reclaiming Sound Systems"
-date: 2024-07-11T21:39:25.355Z
-updated: 2024-07-12T21:39:25.355Z
+date: 2024-08-15T15:52:59.570Z
+updated: 2024-08-16T15:52:59.570Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/f063158b07bb5f14ea4aab44ee9234e61e405ad94
  Next, check the speaker jack on your PC (a laptop will typically have its own audio).
 
 ![](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/computer-sound-card-e1622129361351.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 
  Whether you're using wired headphones or a set of speakers with your PC, they will be connected to the computer with a traditional 3.5mm jack. This should be connected to the audio out socket.
 
@@ -52,6 +55,9 @@ thumbnail: https://thmb.techidaily.com/f063158b07bb5f14ea4aab44ee9234e61e405ad94
 
  If everything is okay here and there is still no sound, it's worth connecting the speakers to another device. This might be a different PC or even a phone or tablet. As long as it has a suitable audio port, you should be able to connect your PC speakers or headphones.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Confirm That the HDMI Audio Is Selected
 
  Some HD displays don't support audio over an HDMI cable, even when the cable does. As such, there could be a scenario in which you're using an HDMI display that won't play audio.
@@ -79,6 +85,9 @@ Audio should now play on your HDMI TV.
  But if your driver really has become corrupted, then the only way out is a reinstallation. In the Device Manager, find the audio driver,**right-click** on it, and select**Uninstall device** .
 
 ![uninstall audio drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/uninstall-audio-drivers.png)
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After the uninstallation is complete, perform a system reboot. Your computer will install the latest driver on its own at the next boot-up.
 
@@ -96,6 +105,9 @@ Audio should now play on your HDMI TV.
 
  The exact procedure to do this will vary depending on the manufacturer. So, it would be a good idea to check out the manufacturer's website.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Ensure the Speaker Volume Is Turned On
 
  This isn't the same as having your computer set to mute. We are talking about your audio driver software here.
@@ -103,6 +115,9 @@ Audio should now play on your HDMI TV.
  For example, in this Windows computer, the Realtek High Definition Audio software is equally responsible for managing the sound, as are the speakers themselves. So, if your speaker's software settings are not managed properly, it might lead to sound problems, such as your speakers not working.
 
 ![manage the speakers sound](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/manage-the-speakers-sound-1.png)
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Right-click** on the speaker icon that you'll find in the bottom-right corner of your taskbar. From there, select**Sounds** and click on the**Speaker/Headphone** option. Adjust the sound of the speaker in the**Levels** tab.
 
@@ -119,6 +134,9 @@ Audio should now play on your HDMI TV.
 
  If you're interested in keeping Windows working smoothly, check out how to repair corrupt Windows files with built-in tools.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 10\. Disable Audio Enhancements
 
  At times, having audio enhancements enabled can lead to audio issues. To make sure that's not the case, it's better that you turn them off.
@@ -132,6 +150,9 @@ Audio should now play on your HDMI TV.
 
  This will turn off all enhancements that could be the cause of your speakers not working.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 11\. Your Computer Speakers Just Aren't Working
 
  You've checked the mute and volume settings of your speakers and the integrity of the speaker jack. They're powered up and correctly connected to your computer. You've even checked and updated the device drivers.
@@ -140,6 +161,9 @@ Audio should now play on your HDMI TV.
 
  Sure, you could take the time to get your speakers repaired, but unless they're top-end pieces of audio gold, it will probably be cheaper just to buy a new set. And we've collected [the best speakers for PC gaming](https://www.makeuseof.com/best-pc-gaming-speakers/) for an easier time choosing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## Are Your Speakers Working Again?
 
  Whatever the reason for your speaker's malfunctioning, if you are a regular computer worker, then you know how working days on end without good background music can get. Hopefully, one of these tips worked out for you, and your speakers are now blasting as usual.
@@ -162,3 +186,56 @@ Audio should now play on your HDMI TV.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-techniques-to-create-compelling-vlogger-dialogue-plans/"><u>[New] Techniques to Create Compelling Vlogger Dialogue Plans</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-streamline-your-fb-feeds-with-these-5-video-grabbers/"><u>[Updated] 2024 Approved  Streamline Your FB Feeds with These 5 Video Grabbers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-complete-breakdown-dji-inspire-1-explored/"><u>[Updated] Complete Breakdown  DJI Inspire 1 Explored</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-highlighted-6-exceptional-tools-for-cleaning-up-images/"><u>[Updated] Highlighted 6 Exceptional Tools for Cleaning Up Images</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-imovie-content-for-youtube-distribution/"><u>[Updated] Mastering iMovie Content for YouTube Distribution</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-no-pay-maximum-fun-20-custom-lut-sets-for-dji-miniair-users/"><u>2024 Approved  No Pay, Maximum Fun  20 Custom LUT Sets for DJI Mini/Air Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-tricks-for-rejuvenating-non-responsive-windows-service-explorer/"><u>7 Tricks for Rejuvenating Non-Responsive Windows Service Explorer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-understanding-disk-distinctions-c-and-d/"><u>A Guide to Understanding Disk Distinctions (C & D)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-windows-updater-error-code-0xca00a009/"><u>Addressing Windows Updater Error Code: 0XCA00A009</u></a></li>
+<li><a href="https://windows11.techidaily.com/biometric-betrayal-windows-hellos-security-under-fire/"><u>Biometric Betrayal: Windows Hello's Security Under Fire?</u></a></li>
+<li><a href="https://windows11.techidaily.com/circumventing-windows-security-controlled-by-domain-admins/"><u>Circumventing Windows Security Controlled by Domain Admins</u></a></li>
+<li><a href="https://windows11.techidaily.com/correction-of-inaccessible-device-path-issue-in-win/"><u>Correction of Inaccessible Device Path Issue in Win</u></a></li>
+<li><a href="https://windows11.techidaily.com/decreasing-non-essential-tasks-windows-108/"><u>Decreasing Non-Essential Tasks Windows 10/8</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-the-power-of-background-blur-a-windows-11-photo-guide/"><u>Discover the Power of Background Blur: A Windows 11 Photo Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-windows-extract-error-1152-quickly/"><u>Eliminating Windows Extract Error 1152 Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/evaluating-your-systems-electrical-utilization-on-windows-os/"><u>Evaluating Your System’s Electrical Utilization on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-guidance-manual-time-zone-setup-for-windows-users/"><u>Expert Guidance: Manual Time Zone Setup for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/fast-track-installation-of-ms-office-works-on-w11/"><u>Fast-Track Installation of MS Office Works on W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-chromes-mistaken-malware-detection-errors-in-windows/"><u>Fixing Chrome’s Mistaken Malware Detection Errors in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-interruptions-in-geforce-links-with-os-1011/"><u>Fixing Interruptions in GeForce Links with OS 10/11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/from-smartphone-to-screen-uploading-pics-on-youtube-for-2024/"><u>From Smartphone to Screen  Uploading Pics on YouTube for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-xs-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone XS When You Forget the Passcode?</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correct-ipadiphone-images-not-displaying-in-windows-11-environment/"><u>How to Correct iPad/iPhone Images Not Displaying in Windows 11 Environment</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Infinix Note 30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-rectify-and-resolve-onedrive-errors-in-os/"><u>How to Rectify and Resolve OneDrive Errors in OS</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-iphone-15-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from iPhone 15</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-turn-off-or-disable-the-microsoft-defender-firewall-in-windows-11/"><u>How to Turn Off or Disable the Microsoft Defender Firewall in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-instant-insight-into-once-lost-reddit-topics/"><u>In 2024, Instant Insight Into Once Lost Reddit Topics</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-verified-vids-the-reality-of-instas-self-validation/"><u>In 2024, Verified Vids  The Reality of Insta’s Self-Validation</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-depth-analysis-top-9-freeware-logo-designers-unveiled/"><u>In-Depth Analysis  Top 9 Freeware Logo Designers Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/initiating-printer-commands-via-edge-defender-smartscreen/"><u>Initiating Printer Commands via Edge Defender SmartScreen</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/key-digital-platforms-enhance-your-youtube-traffic/"><u>Key Digital Platforms  Enhance Your YouTube Traffic</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-technique-for-silencing-firewall-in-win11/"><u>Master Technique for Silencing Firewall in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-enrollment-in-windows-11s-beta-testers-club/"><u>Mastering Enrollment in Windows 11'S Beta Testers Club</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-directx-12-without-onboard-graphics/"><u>Navigating Through DirectX 12 Without Onboard Graphics</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-autonomous-scrolling-on-os-windows/"><u>Preventing Autonomous Scrolling on OS Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-remedy-for-rearranged-character-inputs/"><u>Quick Remedy for Rearranged Character Inputs</u></a></li>
+<li><a href="https://windows11.techidaily.com/redefining-virtual-meetings-a-lightweight-approach/"><u>Redefining Virtual Meetings: A Lightweight Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/smoothening-playback-speed-in-vlc-for-windows/"><u>Smoothening Playback Speed in VLC for Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-overcome-endless-startup-in-bios-for-windows-systems/"><u>Steps to Overcome Endless Startup in BIOS for Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-steam-friendship-disconnect-on-pcs/"><u>Steps to Resolve Steam Friendship Disconnect on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-overcome-run-as-command-issues/"><u>Strategies to Overcome 'Run As' Command Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/triumph-over-outdated-updates-winning-strategies-revealed/"><u>Triumph Over Outdated Updates: Winning Strategies Revealed</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-made-simple-utilizing-the-mobile-version-of-driver-easy-for-drivers-update-and-repair/"><u>Troubleshooting Made Simple: Utilizing the Mobile Version of Driver Easy for Drivers Update and Repair</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-to-the-linksys-max-stream-ac1900-router-ideal-solution-for-broadband-needs/"><u>Ultimate Guide to the Linksys Max-Stream AC1900 Router - Ideal Solution for Broadband Needs</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-full-potential-mastering-multiple-screens-in-win11/"><u>Unlock Full Potential: Mastering Multiple Screens in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-power-settings-for-cpu-state-insights/"><u>Unlocking Power Settings for CPU State Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-evolution-unveiling-the-latest-system-updates/"><u>Windows 11'S Evolution: Unveiling the Latest System Updates</u></a></li>
+</ul></div>

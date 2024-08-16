@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Photo Resizing on Windows 11 – 6 Steps
-date: 2024-07-11T21:20:51.857Z
-updated: 2024-07-12T21:20:51.857Z
+date: 2024-08-15T16:11:55.443Z
+updated: 2024-08-16T16:11:55.443Z
 tags:
   - windows10
   - windows11
@@ -45,9 +45,15 @@ thumbnail: https://thmb.techidaily.com/52b4eaebcfcbc6c7fedd891af89526f0d5ee168fe
  Microsoft Paint is the raster graphics app bundled with Windows 11\. It’s a relatively basic drawing and image-editing software compared with the likes of PhotoShop. However, utilizing Paint is fine for basic stuff like resizing and cropping images. Our [Paint guide to resizing and cropping images](https://www.makeuseof.com/how-to-resize-crop-image-microsoft-paint/) includes full instructions for how you can change your images’ dimensions with that app.
 
 ![paint's-resize-image-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/paint-s-resize-image-options.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The resize image options in Paint
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. How to Resize Images With Paint 3D
 
  Paint 3D is an advanced version of the aforementioned Paint with options for adding and modifying three-dimensional objects. That Microsoft app also incorporates a tool for resizing images with your mouse and inputting values. This is how you can resize your images within Paint 3D in Windows 11:
@@ -56,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/52b4eaebcfcbc6c7fedd891af89526f0d5ee168fe
 2. Click**Get** **in Store** app on the Paint 3D app page.
 3. Select the**Open Microsoft Store** option to bring up Paint 3D in the app.  
 ![Paint 3D in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/paint-3d-in-ms-store.jpg)
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Click**Get** (the install option) to add Paint 3D to your app library.
 5. Select**Start** \>**All apps** to view installed software on the menu.
 
@@ -73,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/52b4eaebcfcbc6c7fedd891af89526f0d5ee168fe
 
  You can also enter different values in the**Width** and**Height** boxes to resize the image. Select**Pixels** or**Percentage** on the drop-down menu to change the value type. Deselect the**Lock aspect ratio** option if you don’t want to retain the image’s proportions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. How to Resize Images With Edge
 
  Canary and beta versions of the Edge web browser include a built-in image editor feature with which you can resize images. You can try out that feature as covered in our article about [editing images in Edge](https://www.makeuseof.com/edit-images-edge-before-download/#:~:text=Right%2Dclick%20on%20an%20image,you%20can%20adjust%20the%20image.) . However, you’ll have to make do with extensions (or web apps) for resizing images in Edge stable for now. This is how you can resize your pictures in Edge with the Image Magic Extension:
@@ -86,6 +98,9 @@ thumbnail: https://thmb.techidaily.com/52b4eaebcfcbc6c7fedd891af89526f0d5ee168fe
 6. Select the**Resize** checkbox.
 7. Click**Fill with image dimensions** for the**Resize** option to see the current values for the selected picture in the**Width** and**Height** boxes.  
 ![The Image Magic window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/image-magic-extension.jpg)
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 8. Input alternative pixel values in the two**Width** and**Height** boxes.
 9. Press the**Convert** button to download the resized image. You’ll find that image in whatever folder you’ve set Edge to download files in.
 
@@ -107,6 +122,9 @@ thumbnail: https://thmb.techidaily.com/52b4eaebcfcbc6c7fedd891af89526f0d5ee168fe
 2. Then select the**Use Advanced Options** checkbox.
 3. Press the**Advanced Options** button.  
 ![The FastStone Photo Resizer 4.4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/faststone-image-viewer2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 4. Click the**Resize** checkbox if it’s not already selected.
 5. Select the**In Pixels** radio button.
 6. Input values in the**New Width** and**New Height** boxes. Or select an option on the**Pick a Standard Size** drop-down menu.  
@@ -117,6 +135,9 @@ thumbnail: https://thmb.techidaily.com/52b4eaebcfcbc6c7fedd891af89526f0d5ee168fe
 
  FastStone Photo Resizer also includes additional**In Percentage** ,**In Print Size** , and**Resize based on one side** options for resizing. You can select quarter, half, double, or triple options on the percentage preset drop-down menu. The**In Print Size** option enables you to resize images in centimeters and inches for printing purposes.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Make Your Images Fit Better by Resizing Them in Windows 11
 
  So, there are various ways you can resize photographs and pictures with different Windows 11 apps. The pre-installed Photos and Paint apps are sufficient for resizing images in pixels and percentages. However, you can resize images with your mouse in Paint 3D. FastStone Photo Resizer is an especially useful app for users who need to resize single or multiple images for printing. Or check out CoolTweak to resize your photos from the context menu.
@@ -139,3 +160,43 @@ thumbnail: https://thmb.techidaily.com/52b4eaebcfcbc6c7fedd891af89526f0d5ee168fe
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-bridging-gaps-in-communication-automating-story-captions/"><u>[New] 2024 Approved  Bridging Gaps in Communication  Automating Story Captions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-capturing-the-web-in-full-color-the-best-screen-recorders-reviewed/"><u>[New] 2024 Approved  Capturing the Web in Full Color  The Best Screen Recorders Reviewed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-perfect-slide-sharing-techniques-the-best-ways-to-use-a-webcam/"><u>[New] 2024 Approved  Perfect Slide Sharing Techniques  The Best Ways to Use a Webcam</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-list-of-instagram-video-converters-windowsos-x-for-2024/"><u>[New] The Ultimate List of Instagram Video Converters (Windows/OS X) for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cheap-microphones-for-youtubers-on-a-budget/"><u>[Updated] 2024 Approved  Cheap Microphones for Youtubers on a Budget</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-quick-collage-creation-a-step-by-step-guide-for-google-images/"><u>[Updated] In 2024, Quick Collage Creation  A Step-by-Step Guide for Google Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-straightforward-storyline-outline/"><u>[Updated] Straightforward Storyline Outline</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-visual-enhancement-expertly-applying-borders-on-social-media-images-for-2024/"><u>[Updated] Visual Enhancement  Expertly Applying Borders on Social Media Images for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-snowflakes-and-champions-highlights-from-beijing-games/"><u>2024 Approved  Snowflakes and Champions  Highlights From Beijing Games</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/boost-instagram-growth-with-advanced-analysis-platforms/"><u>Boost Instagram Growth with Advanced Analysis Platforms</u></a></li>
+<li><a href="https://games-able.techidaily.com/catch-the-audience-top-6-versatile-titles/"><u>Catch the Audience: Top 6 Versatile Titles</u></a></li>
+<li><a href="https://windows11.techidaily.com/drive-letter-dilemma-in-windows-understanding-the-issues-fixes-presented/"><u>Drive Letter Dilemma in Windows - Understanding The Issues, Fixes Presented</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-methods-to-cut-edges-background-activity/"><u>Effective Methods to Cut Edge's Background Activity</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-explorer-exploration-shun-common-pitfalls/"><u>Efficient Explorer Exploration: Shun Common Pitfalls</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-connectivity-expert-instructions-for-dns-configuration/"><u>Elevate Connectivity: Expert Instructions for DNS Configuration</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-gaming-experience-fixing-valorant-lags/"><u>Elevating Gaming Experience: Fixing Valorant Lags</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-poorly-performing-ccleaner-in-win11/"><u>Elevating Poorly Performing CCleaner in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-your-touch-sensitivity-experience-on-a-windows-laptop/"><u>Elevating Your Touch Sensitivity Experience on a Windows Laptop</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-cursor-blanking-on-win11-instantly/"><u>Eliminate Cursor Blanking on Win11 Instantly</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-microsoft-shop-errors-0x80131500/"><u>Eliminating Microsoft Shop Errors #0X80131500</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-non-functional-behavior-of-ccleaner-in-windows/"><u>Eliminating Non-Functional Behavior of CCleaner in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/empowered-scripting-in-windows-mastering-execution-policies/"><u>Empowered Scripting in Windows: Mastering Execution Policies</u></a></li>
+<li><a href="https://windows11.techidaily.com/empowering-windows-users-with-access-to-apples-imessage/"><u>Empowering Windows Users with Access to Apple's iMessage</u></a></li>
+<li><a href="https://windows11.techidaily.com/enablingdisabling-windows-software-configuration-service/"><u>Enabling/Disabling Windows Software Configuration Service</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-creativity-ranking-the-best-drawers-for-win-11/"><u>Enhance Creativity: Ranking the Best Drawers for Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-taskbar-clarity-separate-groups-on-win-11/"><u>Enhance Taskbar Clarity: Separate Groups on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-windows-experience-selecting-top-free-car-upgraders/"><u>Enhance Windows Experience: Selecting Top Free Car Upgraders</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-efficiency-microsoft-adds-artificial-intelligence-to-windows-11-taskbar/"><u>Enhancing Efficiency: Microsoft Adds Artificial Intelligence to Windows 11 Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-note-visibility-with-windows-tools/"><u>Enhancing Note Visibility with Windows Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-performance-with-virtual-memory-on-windows-11/"><u>Enhancing Performance with Virtual Memory on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-wi-fi-setup-accuracy-ensuring-complete-actions/"><u>Enhancing Wi-Fi Setup Accuracy: Ensuring Complete Actions</u></a></li>
+<li><a href="https://windows11.techidaily.com/epic-launcher-insights-best-practices-for-saving-your-playtime/"><u>Epic Launcher Insights: Best Practices for Saving Your Playtime</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/illustrate-laughter-memes-in-adobe/"><u>Illustrate Laughter  Memes in Adobe</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-masterclass-analyzing-the-updated-lg-bp550/"><u>In 2024, Masterclass  Analyzing the Updated LG BP550</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-iphone-12-pro-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your iPhone 12 Pro in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-oneplus-open-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your OnePlus Open Phone Network-Ready</u></a></li>
+</ul></div>

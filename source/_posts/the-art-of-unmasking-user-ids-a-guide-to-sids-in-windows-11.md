@@ -1,7 +1,7 @@
 ---
 title: "The Art of Unmasking User IDs: A Guide to SIDs in Windows 11"
-date: 2024-07-11T21:54:31.175Z
-updated: 2024-07-12T21:54:31.175Z
+date: 2024-08-15T15:38:46.259Z
+updated: 2024-08-16T15:38:46.259Z
 tags:
   - windows10
   - windows11
@@ -49,11 +49,17 @@ wmic useraccount get name,sid
 4. You can export all this data into a text file on the D drive by executing the following command:  
 wmic useraccount get name,sid > D:\SID.txt  
 ![Check SID Using the WMIC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-wmic-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. If you want to get the details of a specific user account on your PC, the syntax of the command is:  
 wmic useraccount where name="USER" get sid
 6. Replace the **USER** part of the command with an actual username. In our case, the command becomes:  
 wmic useraccount where name="a" get sid  
 ![Check SID Using the WMIC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-wmic-2-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 7. Close the Command Prompt window.
 
 ## 3\. Using a PowerShell Cmdlet
@@ -67,11 +73,17 @@ wmic useraccount where name="a" get sid
 3. Type the following command and press the Enter key:  
 Get-WmiObject win32_useraccount | Select name,sid  
 ![Check SID Using the Powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-powershell-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. The above command will display all the user accounts and their respective SIDs. To export the results in a text file, execute the following command:  
 Get-WmiObject win32_useraccount | Select name,sid > C:\SID.txt
 5. The command will save the file in the **C** drive. Visit the location using File Explorer and open the file in a text editor app.
 6. Close the PowerShell window.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## 4\. Using the Registry Editor
 
  If the Command Prompt or [PowerShell isn’t working on your PC](https://www.makeuseof.com/windows-powershell-has-stopped-working-error-fix/), you can use the Registry Editor to view all the SIDs on your PC. This method isn’t as convenient as viewing the complete SID list in the terminal or in a text file. You will have to do some manual digging to find the SIDs and their user name.
@@ -101,9 +113,15 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
  pause`
 5. Press **Ctrl + Shift + S** to open the **Save as** window. Keep the file name as **SID.bat** and the **Save as Type** field as **All Files**.  
 ![Check SID Using the Batch FIle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-batch-file-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Navigate to the folder location where you saved the batch file. Double-click on it to run it.
 7. A Terminal window will launch and display all the users on your PC and their respective SIDs.  
 ![Check SID Using the Batch FIle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-sid-using-the-batch-file-2-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ## Check SIDs in a Jiffy
 
@@ -122,3 +140,66 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-creating-impressive-video-tracks-with-a-newbie-mac-user/"><u>[New] 2024 Approved  Creating Impressive Video Tracks with a Newbie Mac User</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-tips-for-uncovering-missing-exclusive-photos/"><u>[New] 2024 Approved  Tips for Uncovering Missing Exclusive Photos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-exploring-alternate-functions-with-webcams/"><u>[New] In 2024, Exploring Alternate Functions with Webcams</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/eak-traffic-times-for-stellar-video-performance/"><u>[New] Peak Traffic Times for Stellar Video Performance</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-shared-humor-top-20-memes-across-social-networks/"><u>[New] Shared Humor  Top 20 Memes Across Social Networks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cyber-sovereigns-youtubes-number-one-tens/"><u>[Updated] In 2024, Cyber Sovereigns  YouTube’s Number One Tens</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-pulse-picking-playbacks-character-beats-unveiled/"><u>[Updated] Pulse-Picking Playbacks  Character Beats Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/11-common-windows-11-problems-with-easy-solutions/"><u>11 Common Windows 11 Problems With Easy Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-under-the-lens-hero-4-meets-hero-5/"><u>2024 Approved  Under the Lens  Hero 4 Meets Hero 5</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-infinix-note-30-vip-racing-edition-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-unique-windows-methods-for-launching-applications/"><u>7 Unique Windows Methods for Launching Applications</u></a></li>
+<li><a href="https://windows11.techidaily.com/8-ways-to-fix-the-windows-pin-not-working-in-windows-10-and-11/"><u>8 Ways to Fix the Windows PIN Not Working in Windows 10 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-complete-look-at-windows-11s-audio-recorder-keys/"><u>A Complete Look at Windows 11'S Audio Recorder Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-windows-how-to-deal-with-non-terminatable-errors/"><u>Bypassing Windows: How to Deal with Non-Terminatable Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/cease-uncontrolled-system-shutdowns-on-windows-11/"><u>Cease Uncontrolled System Shutdowns on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/ceasing-autonomous-openings-in-microsoft-shop-app/"><u>Ceasing Autonomous Openings in Microsoft Shop App</u></a></li>
+<li><a href="https://windows11.techidaily.com/changing-terminals-default-backdrop/"><u>Changing Terminal's Default Backdrop</u></a></li>
+<li><a href="https://windows11.techidaily.com/combatting-memory-test-failed-in-windows/"><u>Combatting 'Memory Test Failed' In Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-hardware-utilization-in-windows-11/"><u>Decoding Hardware Utilization in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/dissecting-the-essence-of-windows-11s-registry-structure/"><u>Dissecting the Essence of Windows 11'S Registry Structure</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-tips-for-reactivating-file-explorer-ui/"><u>Easy Tips for Reactivating File Explorer UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-windows-volume-preserve-data/"><u>Enhance Windows Volume, Preserve Data</u></a></li>
+<li><a href="https://network-issues.techidaily.com/error-correction-mh-world-crashed-no-more/"><u>Error Correction: MH World Crashed No More</u></a></li>
+<li><a href="https://windows11.techidaily.com/evaluating-hidden-gems-in-windows-system-monitors/"><u>Evaluating Hidden Gems in Windows' System Monitors</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-execution-issues-in-windows-media-players-server-functionality/"><u>Expert Tips for Fixing Execution Issues in Windows Media Player's Server Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-flaky-windows-apps-a-step-by-step-guide/"><u>Fixing Flaky Windows Apps: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-recover-and-reset-itunes-when-its-not-working/"><u>How to Recover and Reset iTunes When It's Not Working</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-realme-12-proplus-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Realme 12 Pro+ 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-buy-smart-top-picks-for-high-definition-21-hdmi-screens/"><u>In 2024, Buy Smart  Top Picks for High-Definition 2.1 HDMI Screens</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-screencapture-unveiled-the-ultimate-review-of-camstudio/"><u>In 2024, ScreenCapture Unveiled  The Ultimate Review of CamStudio</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-movie-maker-explained-a-step-by-step-walkthrough/"><u>In 2024, YouTube Movie Maker Explained  A Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-depth-look-at-razers-hd-webcam-experience/"><u>In-Depth Look at Razer's HD Webcam Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/innovative-interfaces-windows-following-11/"><u>Innovative Interfaces: Windows Following 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719382274392-is-your-hardware-upgraded-for-win11-find-out/"><u>Is Your Hardware Upgraded For Win11? Find Out</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-mind-games-top-trivia-channels-for-24-for-2024/"><u>Mastering Mind Games – Top Trivia Channels for '24 for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-techniques-for-an-opening-windows-terminal/"><u>Mastering Techniques for an Opening Windows Terminal</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-touchpad-sensitivity-in-windows-11-devices/"><u>Mastering Touchpad Sensitivity in Windows 11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/method-for-handling-device-access-issues-with-audacity-win/"><u>Method for Handling Device Access Issues with Audacity (Win)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/navigating-apex-legends-gameplay-on-single-platforms-only-for-2024/"><u>Navigating Apex Legends Gameplay on Single Platforms Only for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-restrictions-to-write-files-in-windows-11-os/"><u>Overcoming Restrictions to Write Files in Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaim-default-speaker-levels-post-windows-update/"><u>Reclaim Default Speaker Levels Post-Windows Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/reduce-precision-jumps-turn-off-mouse-speed-on-your-pc/"><u>Reduce Precision Jumps: Turn Off Mouse Speed on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedies-for-sudden-stoppages-of-windows-notepad-app/"><u>Remedies for Sudden Stoppages of Windows Notepad App</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-steps-to-launch-wordpad-on-windows/"><u>Seamless Steps to Launch WordPad on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-the-top-to-bottom-problem-correcting-your-asus-laptops-inverted-videos/"><u>Solving the Top-to-Bottom Problem: Correcting Your ASUS Laptop's Inverted Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-setting-up-a-trio-of-widget-boards-in-windows-11/"><u>Step by Step: Setting Up a Trio of Widget Boards in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-rectify-faulty-cpu-usage-in-windows-management-console/"><u>Steps to Rectify Faulty CPU Usage in Windows Management Console</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-resolving-windows-11s-isdonedll-problems/"><u>Strategies for Resolving Windows 11'S ISDone.dll Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-files-in-win-11-with-context-menu-enhancements/"><u>Streamline Your Files in Win 11 with Context Menu Enhancements</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-inactive-mail-signals-on-desktop-os/"><u>Tackling Inactive Mail Signals on Desktop OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-flush-for-your-win11-dns-cache/"><u>The Ultimate Flush for Your Win11 DNS Cache</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-best-free-desktop-pass-gen-software/"><u>The Ultimate Guide to Best Free Desktop Pass Gen Software</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-10-free-face-blurring-tools-for-photos-and-videos-for-2024/"><u>Top 10 Free Face Blurring Tools for Photos and Videos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tricks-to-extend-the-wait-window-in-windows-10-before-restarting/"><u>Tricks to Extend the Wait Window in Windows 10 Before Restarting</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-disabled-programs-in-windows/"><u>Unblocking Disabled Programs in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncovering-the-oddities-in-windows-11-visual-language/"><u>Uncovering the Oddities in Windows 11 Visual Language</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-hidden-potential-essential-tips-on-windows-narrator-commands/"><u>Unveiling the Hidden Potential: Essential Tips on Windows Narrator Commands</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-sturdiness-and-value-of-the-omoton-t1-tablet-support-accessory/"><u>Unveiling the Sturdiness and Value of the Omoton T1 Tablet Support Accessory</u></a></li>
+<li><a href="https://windows11.techidaily.com/wireless-mouse-woes-on-windows-heres-what-to-do/"><u>Wireless Mouse Woes on Windows? Here's What to Do</u></a></li>
+</ul></div>

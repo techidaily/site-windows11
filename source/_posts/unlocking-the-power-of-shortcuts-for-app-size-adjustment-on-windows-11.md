@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Power of Shortcuts for App Size Adjustment on Windows 11
-date: 2024-07-11T22:09:12.520Z
-updated: 2024-07-12T22:09:12.520Z
+date: 2024-08-15T15:24:27.230Z
+updated: 2024-08-16T15:24:27.230Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/8a7c2713a5a85ee94384e3a403324debf1e357fa3
 
  For example, pressing the down key first selects the window’s bottom border. Then you can move that border up or down or extend or decrease its width with the arrow keys.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Resize Software Using Snap Layout Hotkeys
 
  Snap Layouts is one of Windows 11’s best new features. That feature enables you to resize software windows to preset layout sizes. You can utilize that feature with the mouse by hovering the cursor over a window’s**Maximize** button and selecting an alternative layout on the panel. Those layout options resize windows to halves, thirds, or quarters of the desktop area.
@@ -47,7 +50,13 @@ thumbnail: https://thmb.techidaily.com/8a7c2713a5a85ee94384e3a403324debf1e357fa3
  You can resize windows by snapping them to either side of the desktop with a couple of hotkeys. Press the**Windows** key +**right** arrow button to snap a window to the right side of the desktop. Or snap to the left side by pressing the**Win** +**left** arrow button. A window snapped with those keyboard shortcuts is resized to half the desktop area.
 
 ![Two side-by-side windows resized with Snap Layout hotkeys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/side-by-side-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Resize Software Windows With Custom Hotkeys
 
  Wouldn’t it be great if Windows 11 included options with which you could create hotkeys for resizing software windows to specific sizes? Of course, Microsoft’s flagship OS doesn’t have such a feature; but you can install software that does.
@@ -64,14 +73,23 @@ thumbnail: https://thmb.techidaily.com/8a7c2713a5a85ee94384e3a403324debf1e357fa3
 2. Double-click the Sizer desktop shortcut.
 3. Then select one of the sizes for a hotkey to resize a window to on the**Menu** tab.  
 ![The Menu tab in Sizer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-menu-tab.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Click the**Edit** button.
 5. Select one of the**Shortcut key** checkboxes for the**Alt** ,**Ctrl** ,**Win** , or**Shift** keys.  
 ![The Sizer Menu Entry window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-sizer-menu-entry-window.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Press a letter to combine with your selected key.
 7. Click**OK** on the Sizer Menu Entry window.
 8. Select**Apply** on the Sizer Configuration window.
 9. Then click the**Hot Keys** tab to check the keyboard shortcut has been added. You should see the hotkey listed on that tab.  
 ![The Hot Keys tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-hot-keys-tab.jpg)
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now open File Explorer using one of the many [ways to open File Explorer](https://www.makeuseof.com/windows-open-file-explorer/) to try out your new hotkey. Press the keyboard shortcut you set for window size. That hotkey will resize your window to the size you assigned it for.
 
@@ -115,3 +133,56 @@ thumbnail: https://thmb.techidaily.com/8a7c2713a5a85ee94384e3a403324debf1e357fa3
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-capture-your-brilliance-in-insta-cinematic-footage/"><u>[New] 2024 Approved  Capture Your Brilliance in Insta Cinematic Footage</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-how-to-make-career-in-graphic-designing/"><u>[New] How to Make Career in Graphic Designing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-top-5-best-ps3-emulator-for-pc-2023/"><u>[New] In 2024, Top 5 Best Ps3 Emulator For PC 2023</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfecting-playback-apply-filters-to-video-content/"><u>[New] Perfecting Playback  Apply Filters to Video Content</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-a-guide-to-30-compelling-video-presentation-ideas-for-2024/"><u>[Updated] A Guide to 30 Compelling Video Presentation Ideas for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-leveraging-facebooks-autoplay-technology-for-smooth-video-playback-for-2024/"><u>[Updated] Leveraging Facebook's Autoplay Technology for Smooth Video Playback for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-premier-8-edits-suites-for-linux-buffs/"><u>2024 Approved  Premier 8 Edits Suites for Linux Buffs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-why-does-imovie-enforce-dimensions/"><u>2024 Approved  Why Does iMovie Enforce Dimensions?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-motorola-moto-g04-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Motorola Moto G04 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/align-video-elements-in-your-playback-directory-for-2024/"><u>Align Video Elements in Your Playback Directory for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-we-expect-a-gpt-5-insights-into-its-potential-release-schedule/"><u>Can We Expect a GPT-5? Insights Into Its Potential Release Schedule</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-paths-blocked-by-shared-printers/"><u>Clearing Paths Blocked by Shared Printers</u></a></li>
+<li><a href="https://windows11.techidaily.com/combat-window-settings-malfunctions-now/"><u>Combat Window Settings Malfunctions Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-your-experience-altering-device-settings-in-windows-11/"><u>Customize Your Experience: Altering Device Settings in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enable-word-to-always-present-email-attachments-in-reading-view-format/"><u>Enable Word to Always Present Email Attachments in Reading View Format</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-lost-ark-stability-and-performance-fixing-critical-frame-rate-dips/"><u>Enhance Lost Ark Stability & Performance - Fixing Critical Frame Rate Dips</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-fixes-for-common-windows-os-office-problems/"><u>Essential Fixes for Common Windows OS Office Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-issues-with-your-amd-gpu-software-not-initializing-properly/"><u>Fixing Issues with Your AMD GPU Software Not Initializing Properly</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-nvidia-geforce-gtx-980-ti-graphics-card-drivers-download-now/"><u>Free Nvidia GeForce GTX 980 Ti Graphics Card Drivers - Download Now!</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-counteract-install-net-core-now-on-pc/"><u>How to Counteract Install .NET Core Now on PC</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-13-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-6s-plus-to-roku-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 6s Plus to Roku? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-swift-effective-methods-for-iphone-screen-recordings/"><u>In 2024, Swift, Effective Methods for iPhone Screen Recordings</u></a></li>
+<li><a href="https://windows11.techidaily.com/initiating-windows-11s-concealed-query-engine/"><u>Initiating Windows 11'S Concealed Query Engine</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-edge-selecting-the-best-mobile-and-desktop-video-editors/"><u>Instagram Edge  Selecting the Best Mobile & Desktop Video Editors</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-pc-gamepad-adjustments-and-accuracy-checks/"><u>Mastering PC Gamepad Adjustments & Accuracy Checks</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-wsl-2-for-efficient-docker-workflows/"><u>Optimizing WSL 2 for Efficient Docker Workflows</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-missing-msvcr110dll-in-windows-environment/"><u>Overcoming Missing msvcr110.dll in Windows Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/protect-your-passwords-in-windows-files-easily/"><u>Protect Your Passwords in Windows Files Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-microsoft-store-hiccup-0x80131500/"><u>Remedying Microsoft Store Hiccup 0X80131500</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-non-active-thermal-management-on-pcs/"><u>Reviving Non-Active Thermal Management on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-and-sharing-files-building-extractable-sfxs-in-win11/"><u>Securing and Sharing Files: Building Extractable SFXs in Win11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlined-graphics-the-key-to-optimal-radeon-performance-in-windows-11/"><u>Streamlined Graphics: The Key to Optimal Radeon Performance in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-reset-of-windows-icon-positions/"><u>Swift Reset of Windows Icon Positions</u></a></li>
+<li><a href="https://windows11.techidaily.com/tapping-into-your-true-essence-guide-for-accessing-windows-silent-personal-analyzer/"><u>Tapping Into Your True Essence: Guide for Accessing Windows' Silent Personal Analyzer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-playbook-for-procuring-partners-on-youtube-for-2024/"><u>The Ultimate Playbook for Procuring Partners on YouTube for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/thermopro-tp67-review-affordable-but-unreliable/"><u>ThermoPro TP67 Review: Affordable But Unreliable</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-10-windows-diagnostics-powerhouses/"><u>Top 10 Windows Diagnostics Powerhouses</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-error-0x8024a205-in-winupdate/"><u>Troubleshooting Error 0X8024a205 in WinUpdate</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-frozen-netflix-on-windows/"><u>Troubleshooting Frozen Netflix on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/turbocharge-android-studio-for-peak-performance-in-windows/"><u>Turbocharge Android Studio for Peak Performance in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-the-potential-of-task-scheduler-in-windows/"><u>Unleash the Potential of Task Scheduler in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-mac-os-look-in-windows-try-these-5-techniques-first/"><u>Unlock the Mac OS Look in Windows - Try These 5 Techniques First</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-process-windows-11-ms-work-installation/"><u>Unveiling the Process: Windows 11 MS Work Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-bypass-automated-systems-for-win-11-key-generation-safety/"><u>Why Bypass Automated Systems for Win 11 Key Generation Safety?</u></a></li>
+</ul></div>

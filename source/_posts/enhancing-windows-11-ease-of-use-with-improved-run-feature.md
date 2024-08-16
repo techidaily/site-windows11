@@ -1,7 +1,7 @@
 ---
 title: Enhancing Windows 11 Ease of Use with Improved Run Feature
-date: 2024-07-11T21:47:37.675Z
-updated: 2024-07-12T21:47:37.675Z
+date: 2024-08-15T15:44:22.614Z
+updated: 2024-08-16T15:44:22.614Z
 tags:
   - windows10
   - windows11
@@ -71,6 +71,9 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
  The**Options** menu also includes numerous other settings for Run-Command. Selecting**Start with Windows** adds the app to the startup items. You can also add a menu for accessing applets by clicking the**Control Panel** menu option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Add an Alternative Run Accessory to Windows With PowerToys
 
  PowerToys is a great piece of kit for adding new features to Windows 11/10\. That software has a PowerToys Run utility you can enable, which looks somewhat different from the native Run accessory. That utility is more like a 2-in-1 quick app launcher and search tool for Windows 11/10\. This is how you can add that Run replacement to Windows 11/10:
@@ -82,14 +85,24 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 5. Double-click**PowerToysSetup-0.66.0-x64.exe** to open the PowerToys setup window.
 6. Select the**I agree to** checkbox and click PowerToys’**Install** option.  
 ![The PowerToys setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powertoys-setup-window.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 7. To open PowerToys, click**Start** and**All apps** (in Windows 11). Select PowerToys on the menu
 8. Select the PowerToys**Run** tab.
 9. Toggle on the Enable PowerToys**Run** option if it’s off.  
 ![The Enable PowerToys Run option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-powertoys-run-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 
  Now press the**Alt** +**Space** hotkey to bring up a**Start typing** box. Then input the name of the software you want to launch inside PowerToys Run. Select a matching application within the results shown to open its window.
 
 ![The PowerToys Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-powertoys-run-tool.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 ### Getting Familiar With PowerToys Run
 
@@ -98,6 +111,9 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
  PowerToys Run has variable plugins you can activate with specific commands. To utilize only the plugin for opening installed programs, input a**.** before the software’s title. For example, input**.Edge** in the**Start typing** box. Then PowerToys Run will only display a couple of results for opening Edge.
 
 ![The .Edge command for opening MS Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-edge-command.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 
  If you want to search for files with PowerToys, input a**?** followed by a file’s title. PowerToys will show you files matching the search phrase included in the command.
 
@@ -112,6 +128,9 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
  You can also access Control Panel applets and Settings app pages by inputting the**$** plugin followed by a search phrase. For example, entering**$uninstall** will find both Programs and Features and the Apps & Features tool. Or you input**$** on its own to view a long list of Settings pages and Control Panel applets.
 
 ![The $ command for accessing Control Panel applets and Settings pages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-command.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 
  You can disable or enable plugins via the**PowerToys Run** tab. Scroll down to the**Plugins** section of that tab to view those options. You can click the**On** or**Off** switches to enable/disable them.
 
@@ -141,3 +160,36 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-virtual-frontier-top-pc-vr-headset-innovations-of-the-year/"><u>[Updated] 2024 Approved  Virtual Frontier  Top PC VR Headset Innovations of the Year</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-ultimate-guide-to-finding-free-video-subtitles/"><u>2024 Approved  Ultimate Guide to Finding Free Video Subtitles</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-realme-narzo-60-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Realme Narzo 60 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/apples-m1-power-which-macbook-should-you-opt-for/"><u>Apple’s M1 Power  Which MacBook Should You Opt For?</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-hide-the-search-bar-from-the-taskbar-on-windows-11/"><u>How to Hide the Search Bar From the Taskbar on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reestablish-windows-steam-connections/"><u>How to Reestablish Windows-Steam Connections</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-revert-time-travelled-command-history/"><u>How to Revert Time-Travelled Command History</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-15-plus-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 15 Plus to Android | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-honor-v-purse-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Honor V Purse to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-optimizing-final-viewers-interactions-on-yt/"><u>In 2024, Optimizing Final Viewers' Interactions on YT</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/innovative-ways-to-record-without-background-sounds/"><u>Innovative Ways to Record Without Background Sounds</u></a></li>
+<li><a href="https://windows11.techidaily.com/instantly-access-dark-mode-in-notepad-windows-11-edition/"><u>Instantly Access Dark Mode in Notepad, Windows 11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-component-services-accessibility-in-w11/"><u>Mastering Component Services Accessibility in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-fixing-uninstall-glitches-on-windows-11/"><u>Mastering the Art of Fixing Uninstall Glitches on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-group-policies-a-threefold-pathway-guide/"><u>Mastering Windows Group Policies: A Threefold Pathway Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-in-managing-windows-11-tpm-issues/"><u>Mastery in Managing Windows 11 TPM Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-device-dialogue-syncing-android-and-windows/"><u>Navigating Device Dialogue: Syncing Android & Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-steam-content-access-difficulty-on-windows-systems/"><u>Overcoming Steam Content Access Difficulty on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/picking-between-google-and-windows-file-sharing-technologies/"><u>Picking Between Google and Windows File Sharing Technologies</u></a></li>
+<li><a href="https://windows11.techidaily.com/recovering-a-mute-windows-start-button-issue/"><u>Recovering a Mute Windows Start Button Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/smooth-windows-11-access-with-pin-solutions/"><u>Smooth Windows 11 Access with PIN Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-spotify-links-on-windows-11-pcs/"><u>Streamlining Spotify Links on Windows 11 PCs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/subtitle-making-from-compressed-file-extraction-for-2024/"><u>Subtitle Making From Compressed File Extraction for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tackling-lenovo-display-glare-reduction/"><u>Tackling Lenovo Display Glare Reduction</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-non-functional-windows-11-keys/"><u>Tackling Non-Functional Windows 11 Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-leaderboard-game-lol/"><u>Unlocking Windows Leaderboard Game (LOL)</u></a></li>
+<li><a href="https://windows11.techidaily.com/upgrade-windows-11-notebook-using-ai-expert/"><u>Upgrade Windows 11 Notebook Using AI Expert</u></a></li>
+<li><a href="https://windows11.techidaily.com/weekend-wins-lifetime-win10-starting-at-612/"><u>Weekend Wins: Lifetime Win10, Starting at $6.12</u></a></li>
+<li><a href="https://windows11.techidaily.com/zero-cost-hardware-recreation-in-windows/"><u>Zero-Cost Hardware Recreation in Windows</u></a></li>
+</ul></div>

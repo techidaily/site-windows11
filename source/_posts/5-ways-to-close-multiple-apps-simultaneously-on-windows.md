@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Close Multiple Apps Simultaneously on Windows
-date: 2024-07-11T22:18:26.581Z
-updated: 2024-07-12T22:18:26.581Z
+date: 2024-08-15T15:14:39.293Z
+updated: 2024-08-16T15:14:39.293Z
 tags:
   - windows10
   - windows11
@@ -56,6 +56,9 @@ thumbnail: https://thmb.techidaily.com/33139754522d3393b0a998cc016bffa1b55254150
 2. Check the boxes of all the apps you want to re-open.
 3. Right-click on one of the results and select **Resume Process**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Use the Command Prompt
 
 ![Person using a Windows PC while placing it on a lap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Person-using-a-Windows-PC-while-placing-it-on-a-lap.jpg)
@@ -77,9 +80,15 @@ taskkill /f /im explorer.exe
 
  The “taskkill /f /im” command is the one that closes the program, and the “explorer.exe” command is the name of the app. To close multiple windows of your other apps, replace the “explorer.exe” part with the relevant command.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Create a Batch Script for Closing Multiple Apps Simultaneously
 
 ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 
  We’ve already discovered that the Command Prompt can only help you close multiple windows of the same app.
 
@@ -102,6 +111,9 @@ taskkill /f /im SnippingTool.exe /T > nul
 taskkill /f /im paintdotnet.exe /T > nul
 
 ![Creating a Batch Script for Closing Multiple Apps Simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-a-batch-script-for-closing-multiple-apps-simultaneously.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  From there, follow these steps:
 
@@ -125,6 +137,15 @@ taskkill /f /im paintdotnet.exe /T > nul
 ## 5\. Use the Close All Windows Tool
 
 ![The Close All Windows Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-close-all-windows-tool.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 
  You can also quickly close your multiple active apps using a third-party program like the [Close All Windows tool](https://www.softpedia.com/get/System/System-Miscellaneous/AA-Close-All-Windows.shtml). The tool is lightweight, which means it won’t take up much of your disk space.
 
@@ -138,6 +159,9 @@ taskkill /f /im paintdotnet.exe /T > nul
 
 **Download**: Close All Windows for [Windows](https://www.softpedia.com/get/System/System-Miscellaneous/AA-Close-All-Windows.shtml) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Close Your Multiple Apps Simultaneously With Just a Few Clicks
 
  It’s always frustrating when your Windows device suddenly becomes slow or buggy. In most cases, such issues are caused by running tons of apps simultaneously.
@@ -163,3 +187,48 @@ taskkill /f /im paintdotnet.exe /T > nul
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-adding-tunes-to-your-ios-clips-three-no-cost-ways-explored/"><u>[New] Adding Tunes to Your iOS Clips – Three No-Cost Ways Explored</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-color-gradings-secret-weapon-learning-about-luts/"><u>[New] Color Grading's Secret Weapon  Learning About LUTs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-amplify-your-insta-impact-essential-5-lessons-for-influencers-and-real-life-proofs/"><u>[New] In 2024, Amplify Your Insta Impact  Essential 5 Lessons for Influencers & Real-Life Proofs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-ranking-10-must-see-history-youtube-channels-for-learners/"><u>[Updated] 2024 Approved  Ranking 10 Must-See History YouTube Channels for Learners</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-streamlining-your-gaming-playback-for-2024/"><u>[Updated] Streamlining Your Gaming Playback for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-taking-control-youtube-visibility-personalization/"><u>[Updated] Taking Control  YouTube Visibility Personalization</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-swiftly-overcome-video-send-errors-in-facebook-chat-for-iphones-android/"><u>2024 Approved  Swiftly Overcome Video Send Errors in Facebook Chat for iPhones, Android</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-xiaomi-redmi-13c-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-color-discrepancies-on-microsoft-windows/"><u>Fixing Color Discrepancies on Microsoft Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-through-setting-up-and-adjusting-net-settings/"><u>Guide Through Setting Up and Adjusting Net Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-fix-invalid-label-alert-in-win11/"><u>Guide to Fix Invalid Label Alert in Win11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-realme-11x-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Realme 11X 5G Phones with/without a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-htc-u23-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On HTC U23 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-6s-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 6s Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-prime-10-terraria-game-enhancements/"><u>In 2024, Prime 10 Terraria Game Enhancements</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/listenlogic-evaluating-alternatives-to-dacast/"><u>ListenLogic  Evaluating Alternatives to DaCast</u></a></li>
+<li><a href="https://windows11.techidaily.com/manipulating-image-summary-dimensions-w11/"><u>Manipulating Image Summary Dimensions W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/minimizing-resource-waste-during-device-integration-on-windows/"><u>Minimizing Resource Waste During Device Integration on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-win11-with-ease-mastering-package-control-using-wingetui/"><u>Navigate Win11 with Ease: Mastering Package Control Using WingetUI</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimize-your-gameplay-overcoming-lag-spikes-in-bless-unleashed-for-pc-players/"><u>Optimize Your Gameplay: Overcoming Lag Spikes in Bless Unleashed for PC Players</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/izing-your-youtube-music-selection/"><u>Optimizing Your YouTube Music Selection</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfect-speech-capture-on-a-windows-device/"><u>Perfect Speech Capture on a Windows Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/precision-tools-for-program-harmony-on-pc/"><u>Precision Tools for Program Harmony on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/selecting-a-window-for-your-needs-the-win11-homepro-showdown/"><u>Selecting a Window for Your Needs: The Win11 Home/Pro Showdown</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/silence-the-algorithmic-intrusions-on-ig-for-2024/"><u>Silence the Algorithmic Intrusions on IG for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-solve-chrome-not-saving-or-uploading-issues-on-windows/"><u>Steps to Solve Chrome Not Saving or Uploading Issues on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-rescuing-non-transferring-usbs-in-windows/"><u>Strategies for Rescuing Non-Transferring USBs in Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamline-and-enhance-with-these-key-zoom-setup-steps-for-2024/"><u>Streamline & Enhance with These Key Zoom Setup Steps for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-shifting-windows-taskbar-a-historical-view/"><u>The Shifting Windows Taskbar: A Historical View</u></a></li>
+<li><a href="https://media-tips.techidaily.com/three-effective-ways-to-transform-images-into-videos-a-step-by-step-guide/"><u>Three Effective Ways to Transform Images Into Videos: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-oppo-a38-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Oppo A38 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-unseen-hdd-in-windows/"><u>Troubleshooting Unseen HDD in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-typing-potential-essentials-for-crafting-shortcuts-in-the-latest-windows-version/"><u>Unlock Typing Potential: Essentials for Crafting Shortcuts in the Latest Windows Version</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-efficiency-9-gains-from-the-newest-outlook-update/"><u>Unlocking Efficiency: 9 Gains From the Newest Outlook Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-outlook-preview-on-windows-11/"><u>Unlocking the Power of Outlook Preview on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-yourphoneexe-usefulness-on-modern-windows/"><u>Unlocking YourPhone.exe: Usefulness on Modern Windows?</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-invisible-windows-methods-to-bring-them-back-in-win10win11/"><u>Unveiling Invisible Windows: Methods to Bring Them Back in Win10/Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-steps-to-fix-rockalldlldll-not-found-error/"><u>Unveiling Steps to Fix 'Rockalldll.dll Not Found Error'</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-top-7-pencil-powerhouses-for-windows-creators/"><u>Unveiling the Top 7 Pencil Powerhouses for Windows Creators</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-with-virtualbox-deps-before-the-big-setup/"><u>Winning with VirtualBox: Deps Before the Big Setup</u></a></li>
+</ul></div>

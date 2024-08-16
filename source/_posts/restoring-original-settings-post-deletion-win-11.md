@@ -1,7 +1,7 @@
 ---
 title: Restoring Original Settings Post Deletion (Win 11)
-date: 2024-07-11T21:59:44.141Z
-updated: 2024-07-12T21:59:44.141Z
+date: 2024-08-15T15:33:28.601Z
+updated: 2024-08-16T15:33:28.601Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/e03e43d6c35d148960447c0d2ee89542320d7730a
 ## 1\. Change Power Mode From the Settings Panel
 
 ![change power mode windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-power-mode-windows-11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [On Windows 11, you can change the power mode from the Settings app](https://www.makeuseof.com/windows-11-change-power-plan/) . You can choose between the Best power efficiency, Balanced, and Best performance power modes in the Power & battery settings.
 
@@ -63,9 +66,15 @@ To reset Windows default power plans:
 `powercfg -restoredefaultschemes`
 3. The above command will reset default power schemes. Close PowerShell and check for any improvements.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## 3\. Restore the Missing Power Plan Using the Command Prompt
 
 ![restore default power plan windows 11 command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restore-default-power-plan-windows-1-command-prompt.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 
  You can restore the missing default power plans on Windows using the Command Prompt. We’ll use the**powercfg** command-line feature to duplicate the existing but missing power plans.
 
@@ -100,6 +109,9 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
 
  If the power plans are still missing, check if Modern Standby (S0) is enabled. If yes, you’ll need to disable Modern Standby to restore the missing power plans.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Disable Modern Standby (S0) to Restore Default Power Plans
 
  If you have a Modern Standby (S0) compatible system, check if this sleep state is enabled. When enabled, the default power plans may be disabled to prevent any conflict when the system is in a low-power idle state.
@@ -108,6 +120,9 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
 
  Conversely, you may encounter BSOD and other critical errors after disabling Modern Standby (S0). If yes, enable Modern Standby again to fix the issues.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Manually Create the Power Plans
 
  If you don’t want to use the preset power plans, you can create your own power plans on Windows. This should work irrespective of the Modern Standby state of your computer.
@@ -119,10 +134,16 @@ To create a custom Power Plan on Windows:
 3. Go to**Hardware and Sound.**
 4. Next, click on**Power Options** .  
 ![control panel create power plan windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-windows-11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 5. In the left pane, click on**Create a Power Plan.**  
 ![control panel create power plan power saver windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-power-saver-windows-11.jpg)
 6. Next, select the power plan you want to restore and enter a name for the plan under the**Plan name field.**  
 ![control panel create power plan configure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-configure.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 7. Next, configure the settings for the new power plan.
 8. Click**Create** .\`
 
@@ -153,3 +174,49 @@ To create a custom Power Plan on Windows:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-blueprint-producing-purposeful-life-exploration-broadcasts/"><u>[New] 2024 Approved  Blueprint  Producing Purposeful Life Exploration Broadcasts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-social-media-blend-adding-youtube-content-to-stories/"><u>[New] In 2024, Social Media Blend  Adding YouTube Content to Stories</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-hubs-for-downloading-popular-youtube-tone-selections/"><u>2024 Approved  Ideal Hubs for Downloading Popular YouTube Tone Selections</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-vidvault-prodigies-mastering-the-download-of-tweeted-videos/"><u>2024 Approved  VidVault Prodigies  Mastering the Download of Tweeted Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-ways-to-check-your-device-uptime-on-windows-11/"><u>5 Ways to Check Your Device Uptime on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-curious-design-choices-that-differ-from-w10/"><u>7 Curious Design Choices That Differ From W10</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-magic-6-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-simple-guide-for-correcting-lsassexe-issue/"><u>A Simple Guide for Correcting 'lsass.exe' Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-step-by-step-solution-for-spotify-connectivity-fails/"><u>A Step-by-Step Solution for Spotify Connectivity Fails</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-screen-flickers-on-microsoft-os/"><u>Addressing Screen Flickers on Microsoft OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-windows-11-key-inactivity-issues/"><u>Addressing Windows 11 Key Inactivity Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-proxy-in-windows-11-for-enhanced-privacy/"><u>Adjusting Proxy in Windows 11 for Enhanced Privacy</u></a></li>
+<li><a href="https://windows11.techidaily.com/altering-windows-11-identity-new-username-guide/"><u>Altering Windows 11 Identity: New UserName Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/arcade-mode-for-window-users-key-fixes-ahead/"><u>Arcade Mode for Window Users: Key Fixes Ahead!</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-sound-service-reboot-hurdles-at-system-ignition/"><u>Avoiding Sound Service Reboot Hurdles at System Ignition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/best-practices-for-amassing-itunes-video-archives-for-2024/"><u>Best Practices for Amassing iTunes Video Archives for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-productivity-with-these-5-essential-windows-folder-practices/"><u>Boost Productivity with These 5 Essential Windows Folder Practices</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-alerts-instant-battery-charged-notifications-in-win11/"><u>Boosting Alerts: Instant Battery Charged Notifications in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/configuring-terminal-in-win11-start-fresh/"><u>Configuring Terminal in Win11: Start Fresh</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-parsing-setback-code-0xc00ce556/"><u>Conquering Parsing Setback: Code 0xC00CE556</u></a></li>
+<li><a href="https://windows11.techidaily.com/controlling-application-spaces-in-windows-task-mgr/"><u>Controlling Application Spaces in Windows Task Mgr</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-windows-misaligned-thx-audio-feedback/"><u>Correcting Windows' Misaligned THX Audio Feedback</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-windows-xc0f1103f-geforce-not-working/"><u>Correcting Windows' XC0F1103F GeForce Not Working</u></a></li>
+<li><a href="https://windows11.techidaily.com/custom-menus-on-windows-1111-with-psoft-tools/"><u>Custom Menus on Windows 11/11 with PSoft Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-graphics-output-for-enhanced-clarity/"><u>Customizing Graphics Output for Enhanced Clarity</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-the-code-of-high-quality-visuals-with-windows-11-hdr/"><u>Deciphering the Code of High-Quality Visuals with Windows 11 HDR</u></a></li>
+<li><a href="https://windows11.techidaily.com/demystifying-microsoft-family-safety-functions/"><u>Demystifying Microsoft Family Safety Functions</u></a></li>
+<li><a href="https://windows11.techidaily.com/demystifying-the-meaning-behind-windows-folders-x-marks/"><u>Demystifying: The Meaning Behind Windows' Folders X-Marks</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-microsoft-store-failure-codes-x800704cf/"><u>Disabling Microsoft Store Failure Codes X800704CF</u></a></li>
+<li><a href="https://windows11.techidaily.com/ditching-unnecessary-wallpaper-icon-in-win11/"><u>Ditching Unnecessary Wallpaper Icon in Win11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/effortlessly-enrich-your-vids-with-inshots-music-feature/"><u>Effortlessly Enrich Your Vids with InShot's Music Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719361633854-enhance-your-pcs-screen-glow-with-these-fixes/"><u>Enhance Your PC's Screen Glow with These Fixes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/enhancing-engagement-share-tiktoks-on-twitter/"><u>Enhancing Engagement  Share TikToks on Twitter</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-oneplus-ace-2v-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone OnePlus Ace 2V Phone? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Samsung Galaxy M34? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-tecno-phantom-v-fold-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Tecno Phantom V Fold ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-vivo-s17e-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Vivo S17e</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719265109241-master-google-chromes-filesync-on-your-windows-device-now/"><u>Master Google Chrome's Filesync on Your Windows Device Now</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/minimizing-movement-blur-in-media-for-2024/"><u>Minimizing Movement Blur in Media for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/navigating-through-the-excellent-5-virtual-title-experts-for-2024/"><u>Navigating Through the Excellent 5 Virtual Title Experts for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719355454943-opera-installer-dilemma-on-windows-solutions-now/"><u>Opera Installer Dilemma on Windows - Solutions Now</u></a></li>
+</ul></div>

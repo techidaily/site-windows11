@@ -1,7 +1,7 @@
 ---
 title: Run a Free, Locally-Stored GPT on Your PC with GPT4All.
-date: 2024-07-11T22:15:46.141Z
-updated: 2024-07-12T22:15:46.141Z
+date: 2024-08-15T15:17:16.626Z
+updated: 2024-08-16T15:17:16.626Z
 tags:
   - windows10
   - windows11
@@ -68,14 +68,29 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
 1. Use the drop-down menu at the top of the GPT4All's window to select the active Language Model.  
 ![GPT4All Language Model Selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-language-model-selection.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. Use the **burger icon** on the top left to access GPT4All's control panel.  
 ![GPT4All Options Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-options-panel.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 3. The first options on GPT4All's panel allow you to create a **New chat**, **rename** the current one, or **trash** it.  
 ![GPT4All Chat Name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-chat-name.jpg)
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 4. The **Updates** button lets you update the application and add or remove components.  
 ![GPT4All Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-update.jpg)
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. The **Downloads** button gives you access to the **Language Models** panel.  
 ![GPT4All Download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-download.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. You can use the **Language Models** panel to install new LLMs, remove installed ones, and change their download path.  
 ![GPT4All Language Model Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-language-model-management.jpg)
@@ -83,14 +98,23 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 ![GPT4All Chatting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-chatting.jpg)
 3. Like with ChatGPT, if you don't like an LLM's response as it's generated on your screen, you can click on the **Stop Generating** button to interrupt the process.  
 ![GPT4All Stop Generating Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-stop-generating-response.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 4. Similarly, if you don't like an already generated response and want to see an alternative take, you can click the **Regenerate Response** button, which appears on the same spot.  
 ![GPT4All Regenerate Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-regenerate-response.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 5. Note that GPT4All also allows you access to what's known as **Unrestricted** language models. Those don't come with artificial limitations. This "freedom" supposedly "liberates" and "empowers" them to be more creative and offer more factual responses. However, it also means they may produce offensive output.  
 ![GPT4All Unrestricted Language Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-unrestricted-language-model.jpg)
 6. The two first buttons on the top right of the app allow you to **reset** a conversation or **copy** it to the clipboard to paste it elsewhere.  
 ![GPT4All Reload and Copy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-reload-and-copy.jpg)
 7. The third button (with a cogwheel icon) gives you access to GPT4All's **Settings**.  
 ![GPT4All Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 8. The **Generation** tab of GPT4All's Settings allows you to configure the parameters of the active Language Model. By changing variables like its **Temperature** and **Repeat Penalty**, you can tweak its creativeness, conciseness, and so on.  
 ![GPT4All Generation Variables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-generation-variables.jpg)
 9. The **Application** tab allows you to choose a **Default Model** for GPT4All, define a **Download path** for the Language Model, assign a specific number of **CPU Threads** to the app, have every chat automatically saved locally, and enable its internal **web server** to have it accessible through your browser.  
@@ -104,21 +128,47 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 ![GPT4All Local Documents in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-local-documents-in-windows-file-explorer.jpg)
 2. On GPT4All's **Settings** panel, move to the **LocalDocs Plugin (Beta)** tab page. Click the **Browse** button and point the app to the folder where you placed your documents. Then click on **Add** to have them included in GPT4All's external document list.  
 ![GPT4All Local Docs Plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-local-docs-plugin.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 3. You will see an entry for your documents folder on GPT4All's **LocalDocs Plugin** document list. If you decide to remove a documents folder, select it from here and click the **Remove** button on its right.  
 ![GPT4All Local Docs Plugin with Added User Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-local-docs-plugin-with-added-user-document.jpg)
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 4. From the same spot, you can tweak the **Document snippet size** and the **Document snippets to process per prompt** values from the bottom left of the panel. Increasing those will improve the selected Language Model's ability to "understand" your documents and offer more relevant responses. However, it will also severely slow GPT4All down since it must analyze your documents after every prompt.  
 ![GPT4All Local Docs Plugin Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-local-docs-plugin-options.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 5. You can manage your external documents through GPT4All's **Collections** button.  
 ![GPT4All Collections Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-collections-button.jpg)
 6. You can add multiple document collections to GPT4All. It's better, though, instead of having them all active all the time, dragging GPT4All's performance down to control **which** group of documents ("collection") you want active from the **Collections** panel.  
 ![GPT4All Available Collections Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-available-collections-panel.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7. After you add some documents and enable their collection, GPT4All will tell you that it's **processing** them after a prompt.  
 ![GPT4All Processing User s Documents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-processing-user-s-documents.jpg)
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 8. Each time GPT4All presents a response that pulls data from your documents, it will offer a list of **references** and **context links** under the response.  
 ![GPT4All Response from User's Documents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-response-from-user-s-documents.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 9. By clicking a **context link**, GPT4All will show you a snippet of text from your documents that it used for its response.  
 ![GPT4All Response Checking User Document Context](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-response-checking-user-document-context.jpg)
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Your Own ChatGPT on Windows
 
  GPT4All and the language models you can use through it might not be an absolute match for the dominant ChatGPT, but they're still useful.
@@ -140,3 +190,53 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-perfect-practices-in-livestreaming-athletic-competitions/"><u>[New] 2024 Approved  Perfect Practices in Livestreaming Athletic Competitions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-outdated-oss-to-the-latest-windows-11-unlocked/"><u>[New] From Outdated OSs to the Latest  Windows 11 Unlocked</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-optimizing-facebook-live-from-pcmaclaptop-through-obs/"><u>[New] In 2024, Optimizing Facebook Live From PC/Mac/Laptop Through OBS</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-transforming-chat-sounds-on-discord-our-top-10-free-plugins/"><u>[New] In 2024, Transforming Chat Sounds on Discord  Our Top 10 Free Plugins</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-video-mastery-step-by-step-guide-to-cropping-and-exporting-for-insta/"><u>[New] Video Mastery  Step by Step Guide to Cropping and Exporting for Insta</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ultimate-showdown-battle-royales-top-titles/"><u>[Updated] Ultimate Showdown  Battle Royale's Top Titles</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-no-audio-devices-in-windows/"><u>Addressing 'No Audio Devices' In Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/blocking-windows-update-prompts/"><u>Blocking Windows Update Prompts</u></a></li>
+<li><a href="https://windows11.techidaily.com/cherishing-the-slumber-of-your-computer/"><u>Cherishing the Slumber of Your Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/did-rav-antivirus-suddenly-appear-on-your-windows-pc-heres-where-it-came-from-and-how-to-uninstall-it/"><u>Did RAV Antivirus Suddenly Appear on Your Windows PC? Here's Where It Came From & How to Uninstall It</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-most-recent-logitech-g705g900g910-setup-and-drivers-for-windows-os/"><u>Download the Most Recent Logitech G705/G900/G910 Setup and Drivers for Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-reminders-in-every-window-of-your-pc/"><u>Efficient Reminders in Every Window of Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-steam-login-errors-on-windows-via-rust-coding/"><u>Eliminating Steam Login Errors on Windows via Rust Coding</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-for-activating-windows-11s-system-restore-feature/"><u>Essential Steps for Activating Windows 11'S System Restore Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-windows-for-wordpad-operability/"><u>Exploring Windows for WordPad Operability</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-launch-errors-in-robocop-rogue-city-on-your-windows-computer/"><u>Fixing Launch Errors in 'RoboCop: Rogue City' On Your Windows Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/hidden-windows-11-theme-treasures-revealed/"><u>Hidden Windows 11 Theme Treasures Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-overcome-windows-software-initiation-failures/"><u>How to Overcome Windows Software Initiation Failures</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-resolve-unreal-device-issue-in-win-11/"><u>How to Resolve Unreal Device Issue in Win 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-honor-v-purse-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Honor V Purse Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-legitimate-and-false-positive-login-attempts-on-pcs/"><u>Identifying Legitimate and False-Positive Login Attempts on PCs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-infinix-note-30-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Infinix Note 30 Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-nokia-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Nokia Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-error-handling-fixing-missing-updates-error-code-0x80070003/"><u>Mastering Windows Error Handling: Fixing Missing Updates (Error Code: 0X80070003)</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-common-windo-errors-quickly/"><u>Navigating Through Common Windo Errors, Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-the-labyrinth-of-updater-0x800f080a-on-windows/"><u>Navigating Through the Labyrinth of Updater 0X800F080A on Windows</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcoming-amds-tarkov-graphical-glitches/"><u>Overcoming AMD's Tarkov Graphical Glitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-recurrent-enter-to-bios-in-windows-boot-cycle/"><u>Overcoming Recurrent Enter To BIOS in Windows Boot Cycle</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-credentials-error-loop/"><u>Overcoming Windows Credentials Error Loop</u></a></li>
+<li><a href="https://windows11.techidaily.com/preserving-calculator-precedence-on-windows-systems/"><u>Preserving Calculator Precedence on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-thx-not-working-in-windows-setup/"><u>Rectifying THX Not Working in Windows Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-directx-download-problems-in-os/"><u>Remedying DirectX Download Problems in OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-win-ethernet-no-internet-error/"><u>Resolving Win Ethernet No Internet Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-how-you-use-the-mouse-worldwide-through-powertoys/"><u>Revolutionize How You Use the Mouse Worldwide Through PowerToys</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-rearranged-characters-in-windows-os/"><u>Solutions for Rearranged Characters in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-docx-to-pdf-migration-for-windows-users/"><u>Step-by-Step DOCX to PDF Migration for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-switching-notepad-to-dark-theme-in-windows-11/"><u>Step-by-Step Guide to Switching Notepad to Dark Theme in Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/techniques-for-accurate-ps3-playback-rendering-for-2024/"><u>Techniques for Accurate PS3 Playback Rendering for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-github-desktop-on-windows-11-os/"><u>The Ultimate Guide to GitHub Desktop on Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-word-docs-seamlessly-into-pdfs-using-windows-11/"><u>Transform Your Word Docs Seamlessly Into PDFs Using Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-your-windowed-discord-interface-in-windows/"><u>Unblocking Your Windowed Discord Interface in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-history-for-lately-used-pages/"><u>Unlocking Windows History for Lately Used Pages</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-windows-blue-screen-error-0x8007007e/"><u>Unraveling the Mystery of Windows Blue Screen Error: 0X8007007E</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/wasteland-2-directors-cut-review-an-engrossing-adventure-in-turn-based-strategy/"><u>Wasteland 2 Director's Cut Review: An Engrossing Adventure in Turn-Based Strategy</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-1011-printer-uninstallation-a-quick-and-direct-guide/"><u>Win 10/11 Printer Uninstallation: A Quick & Direct Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-wisdom-efficiently-eliminate-partitioned-areas-on-your-pc/"><u>Windows Wisdom: Efficiently Eliminate Partitioned Areas on Your PC</u></a></li>
+</ul></div>

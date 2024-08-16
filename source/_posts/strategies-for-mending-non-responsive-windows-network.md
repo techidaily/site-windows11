@@ -1,7 +1,7 @@
 ---
 title: Strategies for Mending Non-Responsive Windows Network
-date: 2024-07-11T22:05:08.791Z
-updated: 2024-07-12T22:05:08.791Z
+date: 2024-08-15T15:28:18.898Z
+updated: 2024-08-16T15:28:18.898Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 
  But what if your other devices also face the same issue? In such a situation, it's probably a network-wide problem. So, reaching out to your internet service provider (ISP) for help would be wise.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## 2\. Temporarily Disable Your Firewall and Antivirus
 
  If you can't access a network resource, disable your firewall as well as your antivirus software to see if that fixes the issue.
@@ -50,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 
  If you use a third-party antivirus software, disable it through its settings or dashboard. Remember that turning off your antivirus software can expose your computer to security risks. So, re-enable the antivirus protection after you access the resource.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Enable Network Discovery on Your Computer
 
  Network discovery is a Windows setting that follows its name. It makes your computer visible on a network or a local home server. When by chance, the network discovery is disabled from settings, you can neither find other devices nor transfer anything on a network.
@@ -65,6 +71,9 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 4. Now, expand your current network profile. Network profile means whether you're on a **Private** network or on a **Public** one. If you're confused, just click on the **Current profile** text.
 5. Click the toggle next to **Network discovery** to enable it. The text with the toggle should change to **On**.  
 ![Advanced Network Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/advanced-network-sharing-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 ## 4\. Clear the DNS Cache on Windows
 
@@ -77,10 +86,25 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 ![Terminal Admin Option Power Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/terminal-admin-option-power-menu.jpg)
 3. Type the DNS flush command: **ipconfig /flushdns** and press **Enter**. This will execute the command and clear the DNS resolver cache.  
 ![IpConfig Cmd In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ipconfig-cmd-in-command-prompt.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 4. Now you can retry sharing files on the network.
 
  In cases where the problem is due to your network misconfiguration, clearing the DNS cache may not always work. So, move on to the next step to reset the network configuration to default.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Reset the TCP/IP Settings
 
  You don't need to get confused by the term "TCP/IP." To make it easier, TCP/IP means a network protocol that helps you download or upload files online. So now you can understand what will happen if the TCP/IP settings get messed up.
@@ -93,6 +117,9 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
 2. Type **Services** and hit Enter to launch the Windows Services app, where you can manage all the services.
 3. Locate the **TCP/IP NetBIOS Helper** service by scrolling down. Use the right-click button and select the **Restart** option.  
 ![Windows Services App Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-services-app-preview.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 4. Wait for a while till Windows force restarts the service. Once done, disconnect and then reconnect your internet.
 
  That's not it! You need to follow some more steps to address this issue.
@@ -137,3 +164,49 @@ thumbnail: https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-affordable-pc-screen-recorder-comparisons/"><u>[New] In 2024, Affordable PC Screen Recorder Comparisons</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-proven-techniques-for-perfecting-video-aspect-ratios/"><u>[New] Proven Techniques for Perfecting Video Aspect Ratios</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-simplifying-the-process-of-capturing-and-fine-tuning-videos-in-adobe-connect/"><u>[New] Simplifying the Process of Capturing and Fine-Tuning Videos in Adobe Connect</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-freezing-of-fb-video-ads-for-2024/"><u>[Updated] Navigating Freezing of FB Video Ads for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-mastering-the-art-of-haul-video-shopping-showcasing-and-editing/"><u>2024 Approved  Mastering the Art of Haul Video  Shopping, Showcasing & Editing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pursuit-of-visual-excellence-10-essential-iphone-composition-techniques/"><u>2024 Approved  Pursuit of Visual Excellence  10 Essential iPhone Composition Techniques</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-ultimate-strategy-to-dominate-youtube-via-creator-hub/"><u>2024 Approved  The Ultimate Strategy to Dominate YouTube Via Creator Hub</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-potential-fixes-for-an-iphone-showing-sos-only-in-the-status-bar/"><u>6 Potential Fixes for an iPhone Showing SOS Only in the Status Bar</u></a></li>
+<li><a href="https://extra-information.techidaily.com/action-in-high-definition-t5-eye-revealed/"><u>Action in High Definition  T5 Eye Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-camera-app-malfunction-in-windows-11/"><u>Addressing Camera App Malfunction in Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-oppo-f23-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Oppo F23 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-apps-to-skyrocket-your-windows-workflow-and-efficiency/"><u>Best Apps to Skyrocket Your Windows Workflow & Efficiency</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-itel-a60-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Itel A60</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-spark-20-proplus-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-the-not-an-empty-directory-alert-error-code-0x80070091-in-win11/"><u>Conquering the Not an Empty Directory Alert (Error Code: 0X80070091) in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/direct-path-to-spooler-restart/"><u>Direct Path to Spooler Restart</u></a></li>
+<li><a href="https://windows11.techidaily.com/distinguishing-between-hdd-and-ssd-drives-on-pc/"><u>Distinguishing Between HDD & SSD Drives on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-window-experience-mastering-the-start-menu/"><u>Enhance Your Window Experience: Mastering the Start Menu</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-reinstalling-failing-drivers-in-win11-system/"><u>Guide to Reinstalling Failing Drivers in Win11 System</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-xbox-game-pass-0x800700e9-error-in-windows-11-and-11/"><u>How to Fix the Xbox Game Pass 0X800700e9 Error in Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-halt-microsoft-edge-icons-regularity/"><u>How to Halt Microsoft Edge Icons' Regularity</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stabilize-an-unstable-printer-on-windows/"><u>How to Stabilize an Unstable Printer on Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-max-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro Max to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-y55s-5g-2023-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo Y55s 5G (2023) Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-exploring-instagrams-video-sharing-cap/"><u>In 2024, Exploring Instagram's Video Sharing Cap</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-thriving-in-the-social-media-jungle-facebooks-essentials/"><u>In 2024, Thriving in the Social Media Jungle  Facebook's Essentials</u></a></li>
+<li><a href="https://windows11.techidaily.com/newbies-in-the-windows-world-steer-clear-of-these-top-8-faux-pas/"><u>Newbies in the Windows World: Steer Clear of These Top 8 Faux Pas</u></a></li>
+<li><a href="https://windows11.techidaily.com/playnite-extension-virtual-games-collection/"><u>Playnite Extension: Virtual Games Collection</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-and-fixing-invalid-temp-directories-on-win11/"><u>Preventing and Fixing Invalid Temp Directories on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/prying-into-hidden-taskbar-analysis-tool-in-windows-11/"><u>Prying Into Hidden Taskbar Analysis Tool in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/rapid-and-secure-firmware-update-guide-for-surface-systems/"><u>Rapid & Secure Firmware Update Guide for Surface Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/reestablish-wi-fi-masterful-solutions-for-windows-usb-adapters/"><u>Reestablish Wi-Fi: Masterful Solutions for Windows USB Adapters</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversal-of-extra-privileges-win11-standardization-tutorial/"><u>Reversal of Extra Privileges: Win11 Standardization Tutorial</u></a></li>
+<li><a href="https://windows11.techidaily.com/revive-the-disappearing-link-top-9-methods-for-win-11s-bluetooth-woes/"><u>Revive the Disappearing Link: Top 9 Methods for Win 11'S Bluetooth Woes</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-addressing-undetectable-disks/"><u>Strategies for Addressing Undetectable Disks</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/streamline-your-social-media-uploading-on-twitter-for-2024/"><u>Streamline Your Social Media  Uploading on Twitter for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-infinix-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Infinix FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-reducing-browsing-impact-on-system-performance/"><u>Tips for Reducing Browsing Impact on System Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-11-secrets-with-devhome-insights/"><u>Unlocking Windows 11 Secrets with DevHome Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-desktop-from-chaotic-to-customized-in-minutes/"><u>Win11 Desktop: From Chaotic to Customized, in Minutes</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-update-halted-quick-solutions-for-a-perfect-installation/"><u>Windows Update Halted: Quick Solutions for a Perfect Installation</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Task Execution on Windows: Adding an Improved Run Utility"
-date: 2024-07-11T21:19:23.114Z
-updated: 2024-07-12T21:19:23.114Z
+date: 2024-08-15T16:12:33.961Z
+updated: 2024-08-16T16:12:33.961Z
 tags:
   - windows10
   - windows11
@@ -71,6 +71,9 @@ thumbnail: https://thmb.techidaily.com/7fed1c054c54c404a50983c16bd1d7d403eb3f6cb
 
  The**Options** menu also includes numerous other settings for Run-Command. Selecting**Start with Windows** adds the app to the startup items. You can also add a menu for accessing applets by clicking the**Control Panel** menu option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## How to Add an Alternative Run Accessory to Windows With PowerToys
 
  PowerToys is a great piece of kit for adding new features to Windows 11/10\. That software has a PowerToys Run utility you can enable, which looks somewhat different from the native Run accessory. That utility is more like a 2-in-1 quick app launcher and search tool for Windows 11/10\. This is how you can add that Run replacement to Windows 11/10:
@@ -82,6 +85,9 @@ thumbnail: https://thmb.techidaily.com/7fed1c054c54c404a50983c16bd1d7d403eb3f6cb
 5. Double-click**PowerToysSetup-0.66.0-x64.exe** to open the PowerToys setup window.
 6. Select the**I agree to** checkbox and click PowerToys’**Install** option.  
 ![The PowerToys setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powertoys-setup-window.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 7. To open PowerToys, click**Start** and**All apps** (in Windows 11). Select PowerToys on the menu
 8. Select the PowerToys**Run** tab.
 9. Toggle on the Enable PowerToys**Run** option if it’s off.  
@@ -90,7 +96,13 @@ thumbnail: https://thmb.techidaily.com/7fed1c054c54c404a50983c16bd1d7d403eb3f6cb
  Now press the**Alt** +**Space** hotkey to bring up a**Start typing** box. Then input the name of the software you want to launch inside PowerToys Run. Select a matching application within the results shown to open its window.
 
 ![The PowerToys Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-powertoys-run-tool.jpg)
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### Getting Familiar With PowerToys Run
 
  The first thing you’ll notice about PowerToys after entering a command in its text box is that it shows multiple results. Thus, it’s a little more like the Windows search tool than Run, which makes it a more flexible alternative. It displays four results by default, but you can increase that by entering a higher value for the**Number of results shown** **before** **scrolling** setting in the**PowerToys Run** tab.
@@ -98,10 +110,16 @@ thumbnail: https://thmb.techidaily.com/7fed1c054c54c404a50983c16bd1d7d403eb3f6cb
  PowerToys Run has variable plugins you can activate with specific commands. To utilize only the plugin for opening installed programs, input a**.** before the software’s title. For example, input**.Edge** in the**Start typing** box. Then PowerToys Run will only display a couple of results for opening Edge.
 
 ![The .Edge command for opening MS Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-edge-command.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 
  If you want to search for files with PowerToys, input a**?** followed by a file’s title. PowerToys will show you files matching the search phrase included in the command.
 
 ![A file search command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-file-search-command.jpg)
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 
  To open a website with PowerToys Run, input the**//** plugin followed by a site URL. For example, try opening Bing by inputting**//www.bing.com** inside the tool’s command box. Then select the result (or press**Enter**) to open that search engine in your default browser.
 
@@ -141,3 +159,57 @@ thumbnail: https://thmb.techidaily.com/7fed1c054c54c404a50983c16bd1d7d403eb3f6cb
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-metaverse-enthusiasts-secret-to-simple-avatars/"><u>[New] In 2024, Metaverse Enthusiasts' Secret to Simple Avatars</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-guide-to-downloading-and-personalizing-whatsapp-tones-for-iphonesandroids/"><u>[New] The Essential Guide to Downloading & Personalizing WhatsApp Tones for iPhones/Androids</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-unlock-visual-wonders-the-hottest-tiktok-filters-compilation/"><u>[New] Unlock Visual Wonders  The Hottest TikTok Filters Compilation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-analyzing-per-view-gain-for-content-making-on-video-platforms/"><u>[Updated] 2024 Approved  Analyzing Per-View Gain for Content Making on Video Platforms</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-dynamic-decibels-the-best-background-sounds-for-yt-shorts/"><u>[Updated] 2024 Approved  Dynamic Decibels  The Best Background Sounds for YT Shorts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-how-to-host-a-webinar-on-youtube-for-free/"><u>[Updated] 2024 Approved  How to Host a Webinar on YouTube for Free</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-shades-and-tints-in-action-practical-application/"><u>[Updated] Shades & Tints in Action  Practical Application</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-perfect-snapshot-seeker-commercial-abolished/"><u>2024 Approved  Perfect Snapshot Seeker - Commercial Abolished</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-streamlining-online-meetings-zoom-for-win10/"><u>2024 Approved  Streamlining Online Meetings  Zoom for WIN10</u></a></li>
+<li><a href="https://windows11.techidaily.com/3-simple-methods-for-identifying-windows-ram/"><u>3 Simple Methods for Identifying Windows RAM</u></a></li>
+<li><a href="https://windows11.techidaily.com/ad-ds-and-printer-woes-a-guide-for-windows-11-users/"><u>AD DS and Printer Woes: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-resource-utilization-monitors/"><u>Advanced Resource Utilization Monitors</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-the-pitfalls-of-low-end-activation-codes-in-windows/"><u>Avoiding the Pitfalls of Low-End Activation Codes in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-win11-uis-image-summaries/"><u>Customize Win11 UI's Image Summaries</u></a></li>
+<li><a href="https://windows11.techidaily.com/detailed-process-of-downloading-and-setting-up-windows-11-arm-iso/"><u>Detailed Process of Downloading and Setting up Windows 11 ARM ISO</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-dystopia-major-social-networks-downed/"><u>Digital Dystopia: Major Social Networks Downed</u></a></li>
+<li><a href="https://windows11.techidaily.com/early-bird-benefits-automatic-open-of-windows-sticky-notes/"><u>Early Bird Benefits: Automatic Open of Windows' Sticky Notes</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-revival-mastering-the-explore-ui-reset/"><u>Effortless Revival: Mastering the Explore UI Reset</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ting-income-with-mobile-video-monetization-techniques-for-youtubers/"><u>Elevating Income with Mobile Video Monetization Techniques for YouTubers</u></a></li>
+<li><a href="https://windows11.techidaily.com/erase-secure-questions-a-guide-to-altering-local-account-in-win-11/"><u>Erase Secure Questions: A Guide to Altering Local Account in Win 11</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/expert-techniques-in-a-pack-navigating-stellars-diy-and-toolkit-resources/"><u>Expert Techniques in a Pack: Navigating Stellar's DIY and Toolkit Resources</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-non-responsive-slack-alerts-a-quick-win-for-windows-users/"><u>Fix Non-Responsive Slack Alerts: A Quick Win for Windows Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-photo-capture-file-creation-failed-camera-app-error-on-windows-11-and-11/"><u>How to Fix the “Photo Capture File Creation Failed” Camera App Error on Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-and-fixing-non-responsive-usb-on-pc/"><u>Identifying and Fixing Non-Responsive USB on PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-v27-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo V27 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-repair-of-your-touchscreen-for-windows-10-5-proven-techniques-to-get-back-control/"><u>Mastering the Repair of Your Touchscreen for Windows 10 - 5 Proven Techniques to Get Back Control</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-a-disconnected-printer-issue/"><u>Navigating a Disconnected Printer Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-file-system-woes-on-windows-11/"><u>Navigating File System Woes on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-desktop-spaces-preset-program-dimensions-on-win11/"><u>Optimizing Desktop Spaces: Preset Program Dimensions on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-battlenet-access-issues-in-windows-1011/"><u>Overcoming Battle.net Access Issues in Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-non-detected-network-proxy-settings-in-windows/"><u>Overcoming Non-Detected Network Proxy Settings in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-win-network-unreachable-issue/"><u>Overcoming WIN Network Unreachable Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/rehabbing-windows-1011s-recycle-bin-crisis-a-step-by-step-guide/"><u>Rehabbing Windows 10/11'S Recycle Bin Crisis: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-permission-problems-during-windows-1011-installer-errors/"><u>Remedying Permission Problems During Windows 10/11 Installer Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplify-software-management-with-new-context-menu-addition/"><u>Simplify Software Management with New Context Menu Addition</u></a></li>
+<li><a href="https://windows11.techidaily.com/slowing-down-windows-10-shutdown-keep-programs-open/"><u>Slowing Down Windows 10 Shutdown: Keep Programs Open</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-steam-content-restricted-on-pc-a-step-by-step-guide/"><u>Solving Steam Content Restricted on PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-removing-onedrive-linkage-on-windows-os/"><u>Steps for Removing OneDrive Linkage on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-instructions-for-software-icons-on-desktop-menu/"><u>Tailored Instructions for Software Icons on Desktop Menu</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-the-hover-over-sensitivity-and-visibility-in-windows-11/"><u>Tailoring the Hover Over Sensitivity and Visibility in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-9-best-features-in-the-windows-11-february-2023-update/"><u>The 9 Best Features in the Windows 11 February 2023 Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/three-steps-for-ditching-microsofts-store/"><u>Three Steps for Ditching Microsoft's Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-5-windows-pc-boosters-for-speed-and-efficiency/"><u>Top 5 Windows PC Boosters for Speed and Efficiency</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-fbm-issues-on-your-pc-screen/"><u>Unblocking FBM Issues on Your PC Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-full-gpu-potential-in-windows-10-and-11-via-vram/"><u>Unleashing Full GPU Potential in Windows 10 & 11 via VRAM</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-windows-law-filter-mechanics-and-output/"><u>Unraveling the Mystery of Window's LAW Filter Mechanics and Output</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-desk-icons-clashing-find-harmony/"><u>Windows Desk Icons Clashing - Find Harmony!</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-icon-organization-made-simple/"><u>Windows Icon Organization Made Simple</u></a></li>
+</ul></div>

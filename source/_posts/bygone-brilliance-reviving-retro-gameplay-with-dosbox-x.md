@@ -1,7 +1,7 @@
 ---
 title: "Bygone Brilliance: Reviving Retro Gameplay with DOSBox-X"
-date: 2024-07-11T22:12:58.164Z
-updated: 2024-07-12T22:12:58.164Z
+date: 2024-08-15T15:20:01.460Z
+updated: 2024-08-16T15:20:01.460Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 
  For this article, though, we'll stick to classic DOS games.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Download and Install DOSBox-X
 
  DOSBox-X is free and available on Windows, Macs, and Linux. In this guide, we'll be using its Windows version.
@@ -54,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
  For convenience's sake, we suggest you create a folder with a name like "DOS" or "DOSgames" inside the directory where you keep ROMs for other emulators or the disk/partition/folder where you install your modern games.
 
 ![DOS ROMs Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dos-roms-folder.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click in your file manager's "path" field/bar, and **copy the full path** to the folder you created to the Clipboard. Now's the time to **run DOSBox-X**, and the first thing you'll see won't be the app but a requester for the folder it should use. "Tell it" (paste with **CTRL** \+ **V**) to use the folder you created in the previous step.
 
@@ -64,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
  You can give it a name like **C** since, in Microsoft's OSes, that was, is, and probably will remain the letter usually mapped to a PC's "system drive". However, we believe it's better to name it something like **DriveC**, since it will make more sense if you forget about its existence and happen to run into it in the future.
 
 ![DOSBox-X Creating DriveC Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-creating-drivec-folder.jpg)
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Don't close your file manager yet; now is a good time to "prepare" your games. If you have them in compressed archives, extract your games into individual folders within the **C**/**DriveC** folder.
 
@@ -71,6 +80,9 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 
  With almost all file-related tasks behind us, it's time to configure DOSBox-X for some retro gaming.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Configure DOSBox-X for the Best Experience
 
  DOSBox-X has lots of settings to tweak, so let's get it set up.
@@ -92,6 +104,9 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
  If you've copied its path to the **Clipboard** from your file manager, you'll find that you can't paste it, as usual, using the **CTRL** \+ **V** keyboard combination. Instead, use the **Paste Clipboard** button.
 
 ![DOSBox-X Configuration Tool Editing AutoExec](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-tool-editing-autoexec.jpg)
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Press **Enter** and type **c:** in the line underneath. That's how you "change the active drive" inside a DOS environment.
 
@@ -106,6 +121,9 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
  To learn more about all available options, click DOSBox's **Help** button.
 
 ![DOSBox-X Configuration Tool Calling For Help](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-tool-calling-for-help.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  DOSBox's **Help** offers information about all its configuration options, but for now, turn your attention to those under **aspect**.
 
@@ -116,15 +134,36 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
  Click **Close** to exit DOSBox-X's Help file.
 
 ![DOSBox-X Configuration Tool Help Aspect Info](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-tool-help-aspect-info.jpg)
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click on the button with the **three dots** on the right of the **Aspect** line, and enable the graphics aspect you'd like to use. Then, click **OK** to accept and enable the setting.
 
 ![DOSBox-X Configuration Tool Configuring Render Aspect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-tool-configuring-render-aspect.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click on **Save** to save all changes. On the new panel that shows up, choose **Use primary config file** and then click on **Save & Restart**.
 
 ![DOSBox-X Configuration Tool Choosing Config File and Restarting App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-configuration-tool-choosing-config-file-and-restarting-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Launching Your Retro-Favorites With DOSBox-X
 
  DOSBox-X is easier if you're familiar with DOS since it works precisely like a DOS-era PC. If you aren't, and interacting with your PC using commands is something new for you, it would be best to check our [beginners guide to the Windows Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/).
@@ -139,6 +178,9 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
 * You can also use the Tab key to **auto-complete** paths and filenames. If the auto-completed one isn't what you're seeking, press **Tab** again to "cycle" through all entries matching what you've typed.
 
 ![DOSBox-X Dir Virtual C Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-dir-virtual-c-drive.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 
  Let's say you want to launch the classic shareware version of id's genre-defining Doom that you already have in your storage in a folder with the game's name.
 
@@ -149,6 +191,9 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
  Type **dir \*.bat** to check for any runnable batch files in the folder. You'll see two, **IAFIX.BAT** and **RUN.BAT**.
 
 ![DOSBox-X Dir Bat Doom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dosbox-x-dir-bat-doom.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 
  As you can probably guess from its name, the second one is what you need to launch the game. So, type **run.bat** and press **Enter**.
 
@@ -179,3 +224,49 @@ thumbnail: https://thmb.techidaily.com/c4666c711fc9c9a338b2d08e469c371e9c8d5fe0d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-acid-pro-overview-plus-best-software-match-ups/"><u>[New] 2024 Approved  ACID Pro Overview + Best Software Match-Ups</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-save-money-with-the-right-youtube-tv-plan-for-2024/"><u>[New] How to Save Money with the Right YouTube TV Plan for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovative-attention-grabber-designer/"><u>[New] Innovative Attention Grabber Designer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-essential-sony-fdr-x1000v-camera-insight/"><u>2024 Approved  The Essential Sony FDR-X1000V Camera Insight</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-8-linux-screenshot-utilities-compared/"><u>2024 Approved  Top 8 Linux Screenshot Utilities Compared</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/adopt-chatgpts-latest-features-a-comprehensible-guide/"><u>Adopt ChatGPT's Latest Features: A Comprehensible Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advice-alley-17-recommended-tools-for-effective-image-cleaning-for-2024/"><u>Advice Alley  17 Recommended Tools for Effective Image Cleaning for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/best-radio-technologies-for-law-enforcement/"><u>Best Radio Technologies for Law Enforcement</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/cutting-edge-recording-win-11s-superior-camcorders-for-2024/"><u>Cutting-Edge Recording  Win 11'S Superior Camcorders for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/dual-display-designs-selective-screen-splendor-in-win-1011/"><u>Dual-Display Designs: Selective Screen Splendor in Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-to-bypass-renaming-restrictions-on-windows-11/"><u>Easy Steps to Bypass Renaming Restrictions on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-data-management-controlling-ntfs-compression/"><u>Efficient Data Management: Controlling NTFS Compression</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-fixes-for-the-frozen-search-in-windows-11-settings-app/"><u>Efficient Fixes for the Frozen Search in Windows 11 Settings App</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-managing-frame-rates-to-reduce-delay/"><u>Efficiently Managing Frame Rates to Reduce Delay</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-multisystem-video-processing-on-a-single-windows-setup-with-tdarr/"><u>Elevate Multisystem Video Processing on a Single Windows Setup with Tdarr</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-sound-top-5-apps-for-windows-beyond-maxed-volume/"><u>Elevate Sound: Top 5 Apps for Windows Beyond Maxed Volume</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-top-6-innovative-chess-mobile-games/"><u>Elevate Your Gameplay: Top 6 Innovative Chess Mobile Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-vm-game-six-key-tips-for-windows-optimization/"><u>Elevate Your VM Game: Six Key Tips for Windows Optimization</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-mouse-interaction-with-clicklock-in-windows/"><u>Elevating Mouse Interaction with ClickLock in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-ssd-speed-in-windows-using-ssd-fresh/"><u>Elevating SSD Speed in Windows Using SSD Fresh</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-vintage-gameplay-experience-with-achievement-boost-via-retroarch/"><u>Elevating Vintage Gameplay Experience with Achievement Boost via Retroarch</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-user-not-valid-error-on-windows-11-and-11/"><u>Eliminating 'User Not Valid' Error on Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-error-code-0x80300024-from-pc/"><u>Eliminating Error Code: 0X80300024 From PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-gpu-freeze-fix-code-0x887a0006/"><u>Eliminating GPU Freeze: Fix Code 0X887A0006</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-shutdown-restart-and-sign-out-errors-by-suspicious-apps/"><u>Eliminating Shutdown, Restart, and Sign Out Errors by Suspicious Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-pc-finding-leverage-everywhereapp/"><u>Enhance PC Finding: Leverage EverywhereApp</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-the-real-time-update-speed-of-task-manager/"><u>Enhance the Real-Time Update Speed of Task Manager</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-typing-speed-via-typingaid-tactics/"><u>Enhance Your Typing Speed via TypingAid Tactics</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhanced-docker-functionality-via-optimized-wsl-2-use/"><u>Enhanced Docker Functionality via Optimized WSL 2 Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-alt-code-function-on-windows-46-characters/"><u>Enhancing ALT Code Function on Windows (46 Characters)</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-buffer-free-browsing-chromium-and-youtube/"><u>Enhancing Buffer-Free Browsing: Chromium & YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-graphics-with-updated-amd-drivers-windows-edition/"><u>Enhancing Graphics with Updated AMD Drivers, Windows Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-power-indicators-set-up-fully-charged-notifications-on-windows-11/"><u>Enhancing Power Indicators: Set up Fully Charged Notifications on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enlighten-your-way-to-printer-success-on-windows-11/"><u>Enlighten Your Way to Printer Success on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensuring-clear-audio-a-quick-guide-for-windows-users/"><u>Ensuring Clear Audio: A Quick Guide for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensuring-proper-rights-in-fixing-insufficient-privilege-install-errors/"><u>Ensuring Proper Rights in Fixing Insufficient Privilege Install Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-advice-for-resolving-cc-problems-in-the-latest-os/"><u>Essential Advice for Resolving CC Problems in the Latest OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-how-to-disable-samsung-smart-tvs-speaking-functionality/"><u>Guide: How To Disable Samsung Smart TV's Speaking Functionality</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-docx-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a .docx document online</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-silent-input-transcription-services/"><u>In 2024, Ultimate Silent Input Transcription Services</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/tips-for-increasing-visibility-with-accurate-tags-and-titles/"><u>Tips for Increasing Visibility with Accurate Tags & Titles</u></a></li>
+<li><a href="https://win11.techidaily.com/turbo-charging-your-app-downloads-from-microsoft/"><u>Turbo-Charging Your App Downloads From Microsoft</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Mastering Unstoppable Methods to Turn Off MS Defender
-date: 2024-07-11T21:23:32.810Z
-updated: 2024-07-12T21:23:32.810Z
+date: 2024-08-15T16:08:20.881Z
+updated: 2024-08-16T16:08:20.881Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/9f7aaa7e93668c79f588e2bdc07bd0199fd9952e2
 
  We have already disabled Tamper Protection, so it won't interfere when you disable Microsoft Defender using GPE, Registry Editor, or any third-party tool. Here are the following methods that work flawlessly to disable the inbuilt security app on Windows 11:
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Disable Microsoft Defender Using Group Policy Editor
 
  Group Policy Editor is an excellent tool using which you can customize Windows settings with ease. However, it is only reserved for Windows Pro and Enterprise users. Check out [how to access the Group Policy Editor on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/) if you're using that version.
@@ -56,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/9f7aaa7e93668c79f588e2bdc07bd0199fd9952e2
 3. Navigate to**Administrative Templates > Windows Components** .
 4. Locate and click on the Microsoft Defender Antivirus option. Double-click on the**Turn-off Microsoft Defender Antivirus** policy to edit its settings.  
 ![Disable Windows Defender Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-windows-defender-using-group-policy-editor.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Select the**Enabled** radio button and click on the**Apply** button.
 6. Lastly, click on the**OK** button and close the Group Policy Editor. Restart your system and open Windows Security.
 
@@ -72,6 +78,10 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Microsoft Defender
 4. \`Click on the newly created DWORD (32-bit) Value and name it**DisableAntiSpyware** .
 5. Double-click on the DisableAntiSpyware value and set the**Value Dat** a to**1** . Keep the**Base** as**Hexadecimal** .  
 ![Disable Windows Defender Using Group Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-windows-defender-using-group-registry-editor.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 6. Close the Registry Editor and restart your system to apply changes.
 7. Launch Windows Security and visit the Virus and threat protection section. You will see a “ **No active antivirus provider. Your device is vulnerable.** ” message.
 
@@ -84,6 +94,10 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Microsoft Defender
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Microsoft Defender" /v DisableAntiSpyware /t REG_DWORD /d 1 /f
 3. You will see a “**The operation completed successfully.** ” message after the successful execution of the above command.  
 ![Disable Windows Defender Using CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-windows-defender-using-cmd.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 4. Type**exit** to close the Command Prompt window and restart your system.
 
 ### 4\. Disable Microsoft Defender Using Winaero Tweaker
@@ -96,9 +110,15 @@ Repeat the following steps:
 2. Install Winaero Tweaker and right-click on the application and select the**Run as administrator** option.
 3. Click on the search icon and type Defender. Click on the**Microsoft Defender \\ Disable Microsoft Defender** search result.  
 ![Disable Windows Defender Using Winaero Tweaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-windows-defender-using-winaero-tweaker.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Then, click on the**Disable Microsoft Defender** checkbox. Scroll down and click on the**Reboot now** button.
 5. Wait for your computer to restart. Microsoft Defender will be inactive on your system.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Disable Microsoft Defender Using Ultimate Windows Tweaker
 
  Like Winaero Tweaker, the Ultimate Windows Tweaker is also a Windows customization app. You can easily enable and disable multiple Windows operating system settings and features which are otherwise very difficult to locate. Repeat the following steps:
@@ -110,6 +130,9 @@ Repeat the following steps:
 ![Disable Windows Defender Using Ultimate Windows Tweaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-windows-defender-using-ultimate-windows-tweaker.jpg)
 5. Finally, click on the**Close** button and restart your system.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## Permanently Disable Microsoft Defender on Windows 11
 
  Microsoft Defender is a pain to disable on your system because of multiple fail-safe methods built into Windows Security. So, disable Tamper Protection and then process with a method to disable Microsoft Defender. However, do not leave your system open to malware infestation, and use a third-party antivirus if you don’t like Defender.
@@ -133,3 +156,55 @@ Repeat the following steps:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-correct-disconnected-instagram-stories/"><u>[New] 2024 Approved  Correct Disconnected Instagram Stories</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-navigating-the-ins-and-outs-of-aiseesofts-screencast-functionality/"><u>[New] 2024 Approved  Navigating the Ins and Outs of Aiseesoft's Screencast Functionality</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-step-by-step-guide-to-pc-based-live-broadcasts-on-tiktok/"><u>[New] Step-by-Step Guide to PC-Based Live Broadcasts on TikTok</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-techniques-to-broadcast-youtube-media-on-facebook-platforms/"><u>[Updated] 2024 Approved  Techniques to Broadcast YouTube Media on Facebook Platforms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-camera-glitches-ended-by-obs-fix/"><u>2024 Approved  Camera Glitches Ended by OBS Fix</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-immerse-in-pc-game-moments-capture-perfectly/"><u>2024 Approved  Immerse in PC Game Moments - Capture Perfectly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-legality-of-recording-on-youtube-platform/"><u>2024 Approved  Legality of Recording on YouTube Platform?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/amp-up-your-humor-arsenal-kapwings-meme-creator-for-2024/"><u>Amp Up Your Humor Arsenal – Kapwing's Meme Creator for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/aussie-slang-unleashed-mastering-local-expressions/"><u>Aussie Slang Unleashed: Mastering Local Expressions</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-poco-m6-pro-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Poco M6 Pro 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/designing-your-own-instagram-notification-sounds-for-2024/"><u>Designing Your Own Instagram Notification Sounds for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-to-disable-amdnvidia-graphics-extras/"><u>Easy Steps to Disable AMD/Nvidia Graphics Extras</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-tips-for-steam-streaming-woes/"><u>Effective Tips for Steam Streaming Woes</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-file-handling-in-windows-powertoys/"><u>Efficient File Handling in Windows PowerToys</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-techniques-for-purging-steams-dns-cache/"><u>Efficient Techniques for Purging Steam's DNS Cache</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-accessing-windows-emergency-tools/"><u>Efficiently Accessing Windows Emergency Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortlessly-organize-your-desks-icons/"><u>Effortlessly Organize Your Desk's Icons</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-cortana-experience-use-of-vivetool/"><u>Elevate Cortana Experience: Use of ViveTool</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-podcasts-on-pc-select-5-freebies/"><u>Elevate Podcasts on PC: Select 5 Freebies</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-workflow-using-task-scheduler-for-batches/"><u>Elevate Your Workflow: Using Task Scheduler for Batches</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-ui-customization-adding-shortcut-keys-for-wordpad-to-menu-bar/"><u>Elevating UI Customization: Adding Shortcut Keys for Wordpad to Menu Bar</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-blue-screen-due-to-unhandled-win-errors/"><u>Eliminating Blue Screen Due to Unhandled Win Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-non-appearing-screens-on-pc-startup/"><u>Eliminating Non-Appearing Screens on PC Startup</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-overlay-effects-in-nvidia-gpu-software/"><u>Eliminating Overlay Effects in Nvidia GPU Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-the-windows-error-code-0x8007251d-for-activation/"><u>Eliminating the Windows Error Code 0X8007251D for Activation</u></a></li>
+<li><a href="https://windows11.techidaily.com/embracing-evenings-learning-paints-dark-mode-features/"><u>Embracing Evenings: Learning Paint's Dark Mode Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/embracing-independence-chatgpt-alternatives-for-windows-users/"><u>Embracing Independence: ChatGPT Alternatives for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-clear-xbox-audio-on-windows-11-interface/"><u>Enabling Clear Xbox Audio on Windows 11 Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/engage-your-windows-11-interface-adding-interactive-backdrops/"><u>Engage Your Windows 11 Interface: Adding Interactive Backdrops</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-live-performance-on-task-monitor-win-11/"><u>Enhance Live Performance on Task Monitor Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-workday-quick-setup-for-outlook-preview-in-windows-11/"><u>Enhance Your Workday: Quick Setup for Outlook Preview in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-workflow-top-5-windows-folder-techniques/"><u>Enhance Your Workflow: Top 5 Windows Folder Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-file-management-on-windows-11-with-new-actions/"><u>Enhancing File Management on Windows 11 with New Actions</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-performance-lowering-edges-resource-load/"><u>Enhancing Performance: Lowering Edge's Resource Load</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-storage-management-on-win-1011/"><u>Enhancing Storage Management on Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensuring-cortana-records-are-saved-windows-method/"><u>Ensuring Cortana Records Are Saved: Windows Method</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-6-plus-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone 6 Plus iCloud Lock</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-redmi-a2-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-huawei-p60-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Huawei P60 Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-simple-hdr-photography-methods-for-2024/"><u>Mastering Simple HDR Photography Methods for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/melodies-and-movements-uncovering-three-economical-methods-of-syncing-sound-with-iphone-videos/"><u>Melodies and Movements  Uncovering Three Economical Methods of Syncing Sound with iPhone Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/packaging-to-prowess-marketings-unboxed-secrets/"><u>Packaging to Prowess  Marketing's Unboxed Secrets</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/proven-techniques-to-take-your-obs-studio-videos-to-new-heights-for-2024/"><u>Proven Techniques to Take Your OBS Studio Videos to New Heights for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-activating-ai-capabilities-in-bing-app-on-android-platforms/"><u>Step-by-Step Tutorial: Activating AI Capabilities in Bing App on Android Platforms</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-hidden-potential-boost-productivity-essential-activities-during-podcast-sessions-for-2024/"><u>Unlock Hidden Potential, Boost Productivity  Essential Activities During Podcast Sessions for 2024</u></a></li>
+</ul></div>

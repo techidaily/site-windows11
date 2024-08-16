@@ -1,7 +1,7 @@
 ---
 title: Integrating Image Browsing Into File Explorer
-date: 2024-07-11T22:03:44.564Z
-updated: 2024-07-12T22:03:44.564Z
+date: 2024-08-15T15:29:03.582Z
+updated: 2024-08-16T15:29:03.582Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 
  The Gallery section is hidden in Insider builds 25300 and above. If you are a Windows Insider program participant, open and check for the latest Insider builds on your system. Make sure to be in the Dev or Canary channel because this experimental feature is exclusive to these channels only. Or, you can use [UUP Dump to download Windows Insider builds without participating in Microsoft’s Insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) .
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Download ViVeTool
 
  You will also need ViVeTool to enable these experimental features on your system. You can [download ViVetool from GitHub](https://github.com/thebookisclosed/ViVe/releases) , but make sure that you pick the most recent release. Extract the tool to the C drive and then proceed to the next section.
@@ -49,12 +52,18 @@ thumbnail: https://thmb.techidaily.com/66f3a5314b7f0b6f994f976b66c33a57ff0466854
 3. Next, type the**cd Vivetool** command to enter the folder where Vivetool is present in the C drive. It is the main reason why we suggested you extract Vivetool in a convenient location.
 4. Type the**Vivetool** command and press enter key to check if the tool is accessible and working. You will see the version of the tool along with the parameters it supports.  
 ![Enable Gallery in File Explorer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-gallery-in-file-explorer-in-windows-11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Now, type the following command and press the enter key:  
 vivetool /enable /id:41040327
 6. If the command executes correctly, you will see a “Successfully set feature configuration(s)” message. But don’t close the Command Prompt window. Type the following commands to enable all the Gallery features one by one and execute them.  
 vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id:41969252 vivetool /enable /id:42922424 vivetool /enable /id:42295138
 7. After running all the commands without any error, type**exit** and press the enter key to close the command prompt window.  
 ![Enable Gallery in File Explorer in Windows 11 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-gallery-in-file-explorer-in-windows-11-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 8. Restart your computer for the changes made by Vivetool to take effect.
 9. Once your computer boots up, press**Win + E** to open File Explorer. You will see a new**Gallery** option in the left pane below the**Home** option.
 
@@ -63,9 +72,15 @@ vivetool /enable /id:40729001 vivetool /enable /id:40731912 vivetool /enable /id
  You can access the Gallery section by launching File Explorer and clicking on the Gallery option in the left navigation pane. You will see all the images from the Pictures folder and OneDrive folder arranged by modification time (new to old). There is also a handy slider to scroll through the vast image tiles without using the mouse scroll wheel.
 
 ![Gallery in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/gallery-in-windows-file-explorer.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 
  The gallery app allows you to adjust the view of the image tiles to accommodate more or less in a single window. You can use the View option in the menu bar of File Explorer to change the image tile size. If you click on any image, it will open in a separate app window (Photos app or any other app that you use).
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Add or Remove Locations From Gallery in Windows File Explorer
 
  By default, the Gallery selection displays all the images located in the Pictures folder and OneDrive. But you can add or remove a folder from the Gallery section as well.
@@ -90,6 +105,14 @@ To remove a folder from Gallery, repeat the following steps:
 
  There is also the issue of images opening in a separate tab rather than in the same File Explorer window. If you plan to open the image in another window, you can do it from the image folder as well. So, future builds should include an option to preview the image in the File Explorer window. Otherwise, you are opening two apps to achieve the same thing. The Gallery section cannot list any videos as well and just ignores all the video files.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## Find All Your Images in One Place on Windows With Galleries
 
  Adding a Gallery section to File Explorer is a fantastic decision by Microsoft. But the current version is full of kinks we hope that Microsoft irons out before the final preview. If done right, this would make the File Explorer app a powerhouse and reduce dependency on other apps.
@@ -112,3 +135,38 @@ To remove a folder from Gallery, repeat the following steps:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-directors-cut-assessment-video-editor-review/"><u>[New] Director's Cut Assessment – Video Editor Review</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-trio-a-deep-dive-into-vr-ar-and-mr/"><u>[Updated] Unveiling the Trio  A Deep Dive Into VR, AR, & MR</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/easily-create-compelling-fb-video-ads-with-no-cost-kit-for-2024/"><u>Easily Create Compelling FB Video Ads with No-Cost Kit for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-data-handling-in-modern-windows-file-deletion-automation/"><u>Efficient Data Handling in Modern Windows: File Deletion Automation</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-guide-establishing-your-safe-sandbox-environment/"><u>Effortless Guide: Establishing Your Safe Sandbox Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-task-execution-speed-with-customized-windows-cmds/"><u>Elevate Task Execution Speed with Customized Windows Cmds</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhance-win10-efficiency-cpu-reduction-steps/"><u>Enhance Win10 Efficiency: CPU Reduction Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-it-task-management-windows-11-troubleshooter-buttons-guide/"><u>Enhancing IT Task Management: Windows 11 Troubleshooter Buttons Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719258336470-escalate-emulation-faster-yuzu-win-users/"><u>Escalate Emulation: Faster Yuzu, WIN Users!</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-soft-dependency-management-in-win-environments/"><u>Exploring Soft Dependency Management in Win Environments</u></a></li>
+<li><a href="https://windows11.techidaily.com/fasten-outlook-pace-on-pc-essential-tips/"><u>Fasten Outlook Pace on PC - Essential Tips</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-realme-narzo-n53-frp-by-drfone-android/"><u>Full Guide to Bypass Realme Narzo N53 FRP</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-poco-c55-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For Apple iPhone 6s Plus?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/insight-into-application-usage-on-windows-pc/"><u>Insight Into Application Usage on Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/maintaining-taskbars-presence-in-maxed-browser-views/"><u>Maintaining Taskbar's Presence in Maxed Browser Views</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-malfunctioning-windows-easy-fixes-at-hand/"><u>Mastery Over Malfunctioning Windows: Easy Fixes at Hand!</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-a-non-responsive-resource-monitor-steps-for-windows-11-users/"><u>Navigating a Non-Responsive Resource Monitor: Steps for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-error-code-31-a-troubleshooting-manual/"><u>Navigating Through Windows Error Code 31: A Troubleshooting Manual</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-dxgierrordevicehung-in-win1011/"><u>Overcoming DXGI_ERROR_DEVICE_HUNG in Win10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/recovering-faulty-tab-key-on-your-pc/"><u>Recovering Faulty Tab Key on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-unblocked-access-for-microsoft-store-app-in-win11/"><u>Reinstating Unblocked Access for Microsoft Store App in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-your-sign-in-overcoming-access-restrictions-in-win/"><u>Secure Your Sign-In: Overcoming Access Restrictions in Win</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-infinix-hot-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-achieve-stable-gameplay-and-fps-boost-in-roblox/"><u>Strategies to Achieve Stable Gameplay & FPS Boost in Roblox</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-file-management-through-explores-sidebar/"><u>Streamlining File Management Through Explore's Sidebar</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-deactivated-sliders-for-volume-control/"><u>Troubleshooting Deactivated Sliders for Volume Control</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/viral-video-victories-the-daily-top-10-twitch-videos/"><u>Viral Video Victories  The Daily Top 10 Twitch Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-personalization-transforming-ordinary-into-extraordinary/"><u>Windows 11 Personalization: Transforming Ordinary Into Extraordinary</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-back-chrome-color-loss/"><u>Winning Back Chrome Color Loss</u></a></li>
+</ul></div>

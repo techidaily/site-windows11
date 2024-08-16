@@ -1,7 +1,7 @@
 ---
 title: "Monitoring for Failed Windows Logins: A Security Checker's Guide"
-date: 2024-07-11T21:40:29.001Z
-updated: 2024-07-12T21:40:29.001Z
+date: 2024-08-15T15:51:56.538Z
+updated: 2024-08-16T15:51:56.538Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
 
  Close Group Policy Editor and move to the next set of steps to view login attempts in Event Viewer.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to View Failed and Successful Login Attempts in Event Viewer
 
  The [Event Viewer](https://www.makeuseof.com/windows-event-viewer-guide/) lets you view Windows logs for the application, security, system, and other events. While a useful application to troubleshoot system issues, you can use it to audit login events on your Windows PC.
@@ -52,11 +55,17 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
 2. Click on**Event Viewer** from the search result to open it.
 3. In the left pane, expand the**Windows Logs** section.  
 ![event viewer security logon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/event-viewer-security-logon.jpg)
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Next, select**Security** .
 5. In the right pane, locate the**Event 4624** entry. It is a user logon event ID, and you may find multiple instances of this ID in the event log.
 6. To find failed login attempts, locate**Event ID 2625** entries instead.
 7. Next, select the**Event 4624** entry you want to view, and Event Viewer will display all the related information in the bottom section. Alternatively, right-click on the event entry and select**Properties** to view detailed information in a new window.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Decipher the Logon Entries in Event Viewer
 
  While Event ID 4624 is associated with logon events, you will likely find multiple instances of this entry occurring every few minutes in the log. This is due to Event Viewer recording every logon event (whether from the local user account or system services such as Windows Security) with the same event ID**(Event 4624**).
@@ -89,9 +98,15 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
 | Logon Type 10  | RemoteInteractive – Generated when a computer is accessed via a remote access tool such as Remote Desktop Connection.                             |
 | Logon Type 11  | CachedInteractive – When the user logged on to the computer via console using the cached credentials when the domain controller is not available. |
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to View the Last Logon History Using Command Prompt
 
 ![view specific user last login attempt command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/view-specific-user-last-login-attempt-command-prompt.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 
  You can use the Command Prompt to view the last login attempt. It is a handy way to find user-based login attempts without having to go through all the logon events in Event Viewer.
 
@@ -104,6 +119,9 @@ To view the login history of a specific user using Command Prompt:
 4. In the above command, replace "administrator" with the username to view their login history.
 5. The output will show the last login time and date for the specified user.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Viewing Failed and Successful Login Attempts in Windows
 
  If you suspect someone to have logged in to your PC, the Event Viewer will likely catch and record the attempt. For this to work, you must enable the Logon Auditing policy in Group Policy Editor. You can also use Command Prompt to view a specific user's login history.
@@ -128,3 +146,57 @@ To view the login history of a specific user using Command Prompt:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-great-debate-should-you-go-for-obs-or-bandicam/"><u>[New] 2024 Approved  The Great Debate  Should You Go for OBS or Bandicam?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-leading-green-filmmaking-software/"><u>[New] Leading Green Filmmaking Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-streamlining-zoom-sessions-with-invisible-edges/"><u>[New] Streamlining Zoom Sessions with Invisible Edges</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-effortless-capture-of-virtual-meeting-footage-on-pcs/"><u>[Updated] 2024 Approved  Effortless Capture of Virtual Meeting Footage on PCs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-do-youtube-channels-get-paid-regularly/"><u>[Updated] 2024 Approved  How Do YouTube Channels Get Paid Regularly?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-secrets-to-compelling-instagram-video-descriptions-for-2024/"><u>[Updated] The Secrets to Compelling Instagram Video Descriptions for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-essential-techniques-with-nvidia-recorder/"><u>2024 Approved  Essential Techniques with NVIDIA Recorder</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-virtualbox-0x80004005-failure-on-windows-pcs/"><u>Addressing VirtualBox 0X80004005 Failure on Windows PCs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/an-experts-guide-to-accumulating-mass-tiktok-videos-effortlessly/"><u>An Expert's Guide to Accumulating Mass TikTok Videos Effortlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-error-0x80070570-a-guide-for-fixed-damaged-files/"><u>Bypassing Error 0X80070570: A Guide for Fixed Damaged Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/cure-for-hidden-second-display-on-w11/"><u>Cure for Hidden Second Display on W11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dive-into-ks-the-language-of-squid-games-culture/"><u>Dive Into KS: The Language of Squid Game's Culture</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-managing-applications-with-wpm-in-windows-11/"><u>Efficiently Managing Applications with WPM in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-inoperative-drive-not-detected-by-os/"><u>Fixing Inoperative Drive Not Detected by OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-sluggish-excel-experience/"><u>Fixing Windows' Sluggish Excel Experience</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-epson-wf-7710-printer-working-download-latest-drivers-for-windows-10/"><u>Get Your EPSON WF-7710 Printer Working - Download Latest Drivers for Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-for-fixing-nvidia-gui-sharing-glitches/"><u>Guide for Fixing NVIDIA GUI Sharing Glitches</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-methods-to-enhance-your-dell-studio-17-7072-g7-with-latest-graphics-card-software/"><u>Hassle-Free Methods to Enhance Your Dell Studio 17-7072 G7 With Latest Graphics Card Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-poco-c51-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Poco C51 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-mend-the-destructive-js-error-in-discord-on-win-11-pcs/"><u>How to Mend the Destructive JS Error in Discord on Win 11 PCs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-90-gt-by-fonelab-android-recover-data/"><u>How to recover lost data from 90 GT?</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-revive-non-starting-adobe-photoshop-on-ws11-and-11/"><u>How to Revive Non-Starting Adobe Photoshop on WS11 & 11</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-honor-90-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Honor 90 Pro in Minutes | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-swiftly-handle-stalled-gpsvc-process/"><u>How to Swiftly Handle Stalled GPSVC Process</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-tell-fake-instagram-followers-fast-and-free-for-2024/"><u>How to Tell Fake Instagram Followers (Fast and Free) for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-use-a-graphics-tablet-to-play-a-rhythm-game/"><u>How to Use a Graphics Tablet to Play a Rhythm Game</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-tasks-effortlessly-top-8-pomodoro-timer-reviews-on-pc/"><u>Mastering Tasks Effortlessly - Top 8 Pomodoro Timer Reviews on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-troubleshooting-overcoming-error-e84-on-steam/"><u>Mastering the Art of Troubleshooting: Overcoming Error E84 on Steam</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-through-virtual-realms-with-headgear/"><u>Navigating Through Virtual Realms with Headgear</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-audio-recorder-snag-with-error-9999-solution/"><u>Navigating Windows' Audio Recorder Snag with Error 9999 Solution</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/olympic-snowboard-x-sprint-highlights-22-for-2024/"><u>Olympic Snowboard X Sprint Highlights '22 for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-task-execution-on-windows-adding-an-improved-run-utility/"><u>Optimizing Task Execution on Windows: Adding an Improved Run Utility</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-windows-11-programs-for-faster-startups/"><u>Optimizing Windows 11 Programs for Faster Startups</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-steam-setup-obstacles-on-windows-11-devices/"><u>Overcoming Steam Setup Obstacles on Windows 11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/redefine-window-management-embrace-adaptive-wmlayouts/"><u>Redefine Window Management: Embrace Adaptive WMLayouts</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-offline-errors-for-windows-11s-printer-port/"><u>Resolving Offline Errors for Windows 11'S Printer Port</u></a></li>
+<li><a href="https://windows11.techidaily.com/restore-your-window-11-drag-functionality/"><u>Restore Your Window 11 Drag Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamlessly-access-lately-used-documents-in-windows/"><u>Seamlessly Access Lately Used Documents in Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-value-not-found-error-message-in-windows-setups/"><u>Solving 'Value Not Found' Error Message in Windows Setups</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-enhancing-photos-with-cropping-tools/"><u>Step-by-Step  Enhancing Photos with Cropping Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-to-open-adobe-ps-in-w11-after-updates/"><u>Step-by-Step to Open Adobe PS in W11 After Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resurrect-a-dormant-windows-tab-key/"><u>Steps to Resurrect a Dormant Windows Tab Key</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-overcoming-disruptions-after-a-windows-update/"><u>Swiftly Overcoming Disruptions After a Windows Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-for-curtailing-windows-eyes-on-you/"><u>Tactics for Curtailing Windows' Eyes on You</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-pathway-for-effortless-changes-of-file-extensions/"><u>The Pathway for Effortless Changes of File Extensions</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-update-codes-and-version-names-in-windows/"><u>Understanding Update Codes and Version Names in WINDOWS</u></a></li>
+<li><a href="https://windows11.techidaily.com/voice-activated-mastery-in-windows-11s-accessibility-features/"><u>Voice-Activated Mastery in Windows 11'S Accessibility Features</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Antiquated Tech Awakened: AtlasOS Upgrade"
-date: 2024-07-11T22:18:44.362Z
-updated: 2024-07-12T22:18:44.362Z
+date: 2024-08-15T15:14:21.987Z
+updated: 2024-08-16T15:14:21.987Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,16 @@ thumbnail: https://thmb.techidaily.com/0e0ddc9d3f1e3fb1a939d99c12ca5daee2fa294d0
 
 1. Visit [AtlasOS official site](https://atlasos.net/) and click on **Getting started**.  
 ![AtlasOS Official Site](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-official-site.jpg)
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. Select the version of AtlasOS you want to download. As mentioned above, up to the time of writing, only **Atlas Windows 10** was available, with Atlas Windows 11 "coming soon".  
 ![AtlasOS Download Version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-download-version.jpg)
 3. Download both the **AME Wizard** and **Atlas Playbook** from the next page. For ease of use, make a new folder, and save both files inside it.  
 ![AtlasOS Download AME Wizard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-download-ame-wizard.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 
 ## Before We Continue, Back Up Your Data
 
@@ -59,25 +65,46 @@ thumbnail: https://thmb.techidaily.com/0e0ddc9d3f1e3fb1a939d99c12ca5daee2fa294d0
 
 1. Run your favorite file manager (or press **Windows Key** \+ **E** to launch Windows File Explorer) and navigate to the folder where you saved AtlasOS's **AME Wizard executable** and its **Playbook** for your version of Windows. Run the AME Wizard executable.  
 ![AtlasOS Run AME Wizard Beta in Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-run-ame-wizard-beta-in-windows-explorer.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. If AtlasOS's setup wizard doesn't present a loaded Playbook on the left of its window, drag and drop the one you downloaded there. With an appropriate Playbook loaded, AtlasOS's setup will ask you to **Disable Security** to "allow AME Wizard file system access". Click on **Run action** to do that.  
 ![AtlasOS Setup Disable Security Run Action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-disable-security-run-action.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 3. AtlasOS's setup wizard will show you a button, **Open Windows Security**, which you can click to jump to that part of Windows settings quickly.  
 ![AtlasOS Setup Open Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-open-windows-security.jpg)
 4. **Turn off all four types of security measures** on the Windows Security settings page.  
 ![AtlasOS Disabling Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-disabling-windows-security.jpg)
 5. When done, AtlasOS's setup will detect the changes and inform you that "Windows Security is disabled", prompting you to close that settings window and move to the next step.  
 ![AtlasOS Windows Security is Disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-windows-security-is-disabled.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. AtlasOS is designed for a specific combination of a particular Windows version and some updates, and will inform you if those requirements aren't met. Usually, it will also offer the option to "**Prepare** (the) **System**" according to the conditions required by the loaded Playbook. Click on **Run action** to do that.  
 ![AtlasOS Prepare System Run Action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-prepare-system-run-action.jpg)
 2. The setup wizard will start "Preparing (your) system" by installing, removing, or modifying components and settings. Your PC might restart during that part of the process, but apart from that, no user intervention should be required.  
 ![AtlasOS Setup Preparing System](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-preparing-system.jpg)
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. You will also have to **allow** the AME Wizard "**to make changes to your device**" for that part to work.  
 ![AtlasOS AME Wizard Beta User Account Control](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-ame-wizard-beta-user-account-control.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 4. If the AME Wizard prompts you to do so after that, or it fails, you should manually **download the latest updates** for your version of Windows.  
 ![AtlasOS Setup Next Windows Update Checking for Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-next-windows-update-checking-for-update.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 5. When, finally, AME Wizard reports that all "**Requirements** (are) **met**", click on **Next** to proceed to the actual installation.  
 ![AtlasOS Setup Requirements Met Next](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-requirements-met-next.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 
 ## Installing AtlasOS
 
@@ -93,10 +120,16 @@ thumbnail: https://thmb.techidaily.com/0e0ddc9d3f1e3fb1a939d99c12ca5daee2fa294d0
 ![AtlasOS Setup Removing OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-removing-onedrive.jpg)
 5. AtlasOS will also "lose" a lot of system packages and turn off many services to "Lighten up" your OS.  
 ![AtlasOS Setup Removing System Packages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-removing-system-packages.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 6. You'll also be given the option to choose how you deal with **Security Mitigations**. We won't dive into details about them, but you can consider them extra security software patches for older CPUs. If your CPU is newer (released within the last five years), it's (usually) better **not to disable them**. If your CPU is relatively old, by disabling Security Mitigations, you'll be trading reduced security for a boost in performance. It's your choice, but AtlasOS will automatically disable them if you don't answer within 5 minutes.  
 ![AtlasOS Setup Security Mitigations Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-security-mitigations-pro.jpg)
 7. When it's mostly done, AtlasOS wizard will inform you that it's "**Finalizing** (the) **configuration**".  
 ![AtlasOS Setup Finalizing Configuration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-finalizing-configuration.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 8. After all steps are complete and all rules in AtlasOS's Playbook are applied, your PC should restart automatically.  
 ![AtlasOS Setup Playbook Complete](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-setup-playbook-complete.jpg)
 9. Windows might have to perform a reconfiguration during the next startup.  
@@ -111,13 +144,22 @@ thumbnail: https://thmb.techidaily.com/0e0ddc9d3f1e3fb1a939d99c12ca5daee2fa294d0
  However, not everything is perfect: you might not agree with everything AtlasOS disables, removes, or changes. For example, from now on, you'll have to manually download and apply updates to your Windows installation, for AtlasOS also removes the **Windows Update** option.
 
 ![AtlasOS Update Security Unavailable Leads to Troubleshoot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/atlasos-update-security-unavailable-leads-to-troubleshoot.jpg)
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can feel the difference compared to a "normal" Windows installation, and it's also apparent if you check the OS's demands on resources.
 
 ![Windows 10 Firefox And Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-10-firefox-and-task-manager.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In our case, the "vanilla" version of Windows 10 we used before side-grading it to AtlasOS consumed around 8%-10% more resources while idle.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## A Leaner Version of Windows
 
  As you'll see for yourself, AtlasOS's pros are quite enticing. It feels like a new, cleaner, and snappier version of Windows. It's what many would expect from a modern version of what many consider Microsoft's best version of Windows, Windows XP. Your PC will respond quicker, apps will seem faster, and you may also gain some gaming performance.
@@ -135,3 +177,49 @@ thumbnail: https://thmb.techidaily.com/0e0ddc9d3f1e3fb1a939d99c12ca5daee2fa294d0
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-journey-through-puzzles-the-top-10-websites-buying-mystery-boxes/"><u>[New] Journey Through Puzzles  The Top 10 Websites Buying Mystery Boxes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-your-journey-to-youtubes-command-center-of-creativity/"><u>[New] Your Journey to YouTube's Command Center of Creativity</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-vanished-vids-rediscovered-the-ultimate-guide-to-old-youtube-videos/"><u>[Updated] 2024 Approved  Vanished Vids Rediscovered  The Ultimate Guide to Old YouTube Videos</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-demystifying-discords-spoiler-functionality/"><u>[Updated] Demystifying Discord’s Spoiler Functionality</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-send-gif-on-snapchat-step-by-step-guide/"><u>[Updated] In 2024, How to Send Gif on Snapchat [Step-by-Step Guide]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-proiphone-close-ups-techniques-for-captivating-images/"><u>[Updated] In 2024, Proiphone Close-Ups  Techniques for Captivating Images</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-snapshot-solution-how-to-swiftly-switch-your-gif-for-a-sticker/"><u>[Updated] The Snapshot Solution  How to Swiftly Switch Your GIF for a Sticker</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-recording-techniques-for-stellar-voice-over-audio/"><u>2024 Approved  Recording Techniques for Stellar Voice-Over Audio</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-stop-the-void-in-live-gaming-recordings-5-ways-to-avoid-black-screens-with-obs/"><u>2024 Approved  Stop the Void in Live Gaming Recordings  5 Ways to Avoid Black Screens with OBS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-clash-of-bots-is-gpt-plus-superior-to-perplexity/"><u>A Clash of Bots: Is GPT Plus Superior to Perplexity?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721471540447-can-you-get-through-with-smscalls-in-ios-do-not-disturb-discover-8-solutions/"><u>Can You Get Through with SMS/Calls in iOS Do Not Disturb? Discover 8 Solutions!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-edge-40withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Edge 40with/without a PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-highlight-the-mouse-cursor-in-windows-10-and-11/"><u>How to Highlight the Mouse Cursor in Windows 10 & 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-harnessing-tech-acquiring-fb-status-video-content/"><u>In 2024, Harnessing Tech  Acquiring FB Status Video Content</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone 13 Pro</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-your-files-automatically-accessible-in-win11/"><u>Making Your Files Automatically Accessible in Win11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-photopeas-background-erase-technique/"><u>Mastering Photopea's Background Erase Technique</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11s-full-screen-with-sonic-games/"><u>Mastering Windows 11'S Full Screen with Sonic Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-disabled-trash-can-symbol-on-win11-os/"><u>Mending Disabled Trash Can Symbol on Win11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/momentum-builds-for-windows-11-the-future-shines-in-22h2/"><u>Momentum Builds for Windows 11: The Future Shines in 22H2</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-frequent-microsoft-teams-authentication-failures/"><u>Navigating Frequent Microsoft Teams Authentication Failures</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-spark-20-pro-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Spark 20 Pro.</u></a></li>
+<li><a href="https://windows11.techidaily.com/revealing-secrets-unmasking-the-facade-of-restricted-communication/"><u>Revealing Secrets: Unmasking the Facade of Restricted Communication</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-method-for-adobe-reader-purchase-in-microsoft-store/"><u>Secure Method for Adobe Reader Purchase in Microsoft Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-up-jdk-on-windows-11-a-step-by-step-guide/"><u>Setting Up JDK on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/speedy-steam-downloads-secrets-for-windows-gamers/"><u>Speedy Steam Downloads: Secrets for Windows Gamers</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-stop-vmware-blue-screen-in-win11/"><u>Strategies to Stop VMware Blue Screen in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/technique-to-automate-microsoft-words-attachment-display-in-read-only-view/"><u>Technique to Automate Microsoft Word's Attachment Display in Read-Only View</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-prolong-windows-10-closure-with-ongoing-processes/"><u>Techniques to Prolong Windows 10 Closure with Ongoing Processes</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-9-pc-advantages-over-macs/"><u>Top 9: PC Advantages Over Macs</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-bargains-on-windows-11-product-codes/"><u>Top Bargains on Windows 11 Product Codes</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-required-items-not-met-in-win11win11/"><u>Troubleshooting Required Items Not Met in Win11/Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/turn-off-superfluous-windows-notification-tabs/"><u>Turn Off Superfluous Windows Notification Tabs</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-prohibited-windows-based-program/"><u>Unblocking Prohibited Windows-Based Program</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/uncomplicated-ways-to-save-vimeo-content-for-2024/"><u>Uncomplicated Ways to Save Vimeo Content for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-unavailable-drive-letters-on-windows-os/"><u>Understanding Unavailable Drive Letters on Windows OS</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-14-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 14</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-sets-exe-installers-apart-from-standard-msis/"><u>What Sets Exe Installers Apart From Standard MSIs?</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-choose-dxvk-a-game-changer-on-your-windows-system/"><u>Why Choose DXVK: A Game Changer on Your Windows System?</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-meets-virtual-box-70-a-detailed-guide-for-the-tech-savvy/"><u>Windows 11 Meets Virtual Box 7.0: A Detailed Guide for the Tech-Savvy</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-reclaiming-precise-search-functionality/"><u>Windows 11: Reclaiming Precise Search Functionality</u></a></li>
+</ul></div>

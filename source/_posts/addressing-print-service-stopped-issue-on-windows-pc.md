@@ -1,7 +1,7 @@
 ---
 title: Addressing Print Service Stopped Issue on Windows PC
-date: 2024-07-11T21:28:26.894Z
-updated: 2024-07-12T21:28:26.894Z
+date: 2024-08-15T16:02:55.724Z
+updated: 2024-08-16T16:02:55.724Z
 tags:
   - windows10
   - windows11
@@ -37,12 +37,21 @@ thumbnail: https://thmb.techidaily.com/cf530c2c593b6932cef8db0cdf4cd19063a18ed96
 2. Open the **System** tab in the left pane.
 3. In the right pane, scroll down and click on **Troubleshoot**.  
 ![windows 11 troubleshoot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/windows-11-troubleshoot.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 4. Next, click on **Other troubleshooters.**
 5. Next, click the **Run** button for the **Printer** option. The troubleshooter will scan the system and try to detect any issues.  
 ![windows 11 printer troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/windows-11-printer-troubleshooter.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 6. Select the printer you want to troubleshoot and click **Next**.
 7. Wait for the scan to complete and check if it finds any problem. Then, apply the recommended fixes if available.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 2\. Restart Print Spooler Service
 
 ![print spooler service restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/print-spooler-service-restart.jpg)
@@ -74,6 +83,9 @@ thumbnail: https://thmb.techidaily.com/cf530c2c593b6932cef8db0cdf4cd19063a18ed96
 9. Click **OK** and **Apply** to save the changes.
 10. Close the Services snap-in and restart your PC. Next, create a print job and check if the error printer spooler service is not running is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Clear the Print Spooler Files
 
  Too many pending or corrupted print jobs can trigger the print spooler service not running error. To resolve this, you can delete the print spooler files manually and restart the service. Here’s how to do it.
@@ -94,6 +106,9 @@ C:\Windows\System32\spool\PRINTERS
 
  Now create a new print job and check if the error is resolved. If not, disconnect and reconnect the printer to see if that helps.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Check Windows Defender Firewall
 
  If your printer is connected to a network, it is possible that Windows Defender Firewall is preventing the connection resulting in the error. You can confirm this case by [temporarily disabling Windows Defender Firewall](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and creating a new print job.
@@ -104,9 +119,15 @@ C:\Windows\System32\spool\PRINTERS
 2. Open the **Privacy & security** tab in the left pane.
 3. Next, click on **Windows Security.**  
 ![Open Windows Security Windows 11 Settings 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Open-Windows-Security-Windows-11-Settings-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Finally, click on **Open Windows Security.**
 5. Open the **Firewall & network protection** tab in the left pane.  
 ![firewall and network protection windows defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/firewall-and-network-protection-windows-defender.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 6. Click on your currently active network **(Public / Private).**
 7. Toggle the switch under **Microsoft Defender Firewall** to turn off **Firewall**. Click **Yes** if prompted by **UAC**.  
 ![turn off Microsoft defender firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/turn-off-Microsoft-defender-firewall.jpg)
@@ -118,6 +139,9 @@ C:\Windows\System32\spool\PRINTERS
 ## 6\. Update Your Printer Driver
 
 ![update drive printer device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/update-drive-printer-device-manager.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Outdated or corrupted [computer drivers](https://www.makeuseof.com/computer-drivers-what-are-they-why-should-you-update/) can cause your connected device to malfunction. Try updating your printer driver to see if that helps resolve the error. You can update the generic printer driver using the Device Manager. Here’s how to do it.
 
@@ -138,6 +162,9 @@ C:\Windows\System32\spool\PRINTERS
 1. Press **Win + I** to open **Settings**.
 2. In the left pane, click on **Bluetooth & devices.**  
 ![bluetooth and devices printers scanners](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/bluetooth-and-devices-prnters-scanners.jpg)
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Next, click on **Printers & scanners.**
 4. Now locate and click on your printer.  
 ![uninstall printer settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/uninstall-printer-settings.jpg)
@@ -145,6 +172,9 @@ C:\Windows\System32\spool\PRINTERS
 
  Once done, restart your PC. After the restart, download the latest drivers for your printer from the manufacturer's website and complete the setup.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fixing the "Print Spooler Service Is Not Running" Error
 
  Often you can fix issues with the print spooler service by restarting the service or deleting the print queue files. However, if the issue persists, investigate your system for new changes, such as Windows updates or system file corruption.
@@ -160,3 +190,43 @@ C:\Windows\System32\spool\PRINTERS
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-gifify-it-free-method-for-twitter-videos/"><u>[New] Gifify It  Free Method for Twitter Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-dslr-or-mirrorless-the-ultimate-question-for-videographers/"><u>[Updated] 2024 Approved  DSLR or Mirrorless? The Ultimate Question for Videographers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-meme-march-unstoppable-videos-hit-the-tweetsphere/"><u>[Updated] 2024 Approved  Meme March  Unstoppable Videos Hit the Tweetsphere</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-complete-scrutiny-of-cutmatic-editor/"><u>[Updated] Complete Scrutiny of CutMatic Editor</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-creating-popular-jujutsu-kaisen-tiktok-content-for-2024/"><u>[Updated] Creating Popular Jujutsu Kaisen TikTok Content for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-flawless-flow-from-tiktok-creations-to-twitter-broadcasting/"><u>[Updated] Flawless Flow From TikTok Creations to Twitter Broadcasting</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-google-hangout-techniques-4-ways-to-shine/"><u>[Updated] In 2024, Google Hangout Techniques, #4 Ways to Shine</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-inside-the-magic-of-io-screen-capture-technology/"><u>[Updated] Inside the Magic of IO Screen Capture Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-creative-leap-with-chatgpt-for-podcasts-insights-from-an-unconventional-approach/"><u>A Creative Leap with ChatGPT for Podcasts - Insights From an Unconventional Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/choosing-the-right-nearby-share-software-for-secure-collaboration/"><u>Choosing the Right Nearby Share Software for Secure Collaboration</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-system-launch-by-configuring-services-in-windows-11/"><u>Elevate Your System Launch by Configuring Services in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/getting-acquainted-with-apple-maps-on-windows-desktops/"><u>Getting Acquainted with Apple Maps on Windows Desktops</u></a></li>
+<li><a href="https://windows11.techidaily.com/guaranteeing-greatness-perfecting-palette-on-your-pc/"><u>Guaranteeing Greatness: Perfecting Palette on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/harness-the-power-of-windows-11-a-guide-to-7-effective-techniques-36/"><u>Harness the Power of Windows 11: A Guide to 7 Effective Techniques (36)</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-customize-sound-levels-with-dedicated-win11-keys/"><u>How to Customize Sound Levels with Dedicated Win11 Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-develop-windows-custom-text-to-voice-software-using-whisper-and-ahk/"><u>How to Develop Window's Custom Text-To-Voice Software Using Whisper & AHK</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oppo-find-x6-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo Find X6 Without Password | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-choreographing-spellbinding-short-films/"><u>In 2024, Choreographing Spellbinding Short Films</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-nas-into-mobile-device-setups/"><u>Integrating NAS Into Mobile Device Setups</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-securely-enabling-controlled-folder-access-in-windows-11/"><u>Navigate Securely: Enabling Controlled Folder Access in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-quiet-hardware-reclaiming-sound-systems/"><u>Overcoming Quiet Hardware: Reclaiming Sound Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/program-specific-keys-on-a-microsoft-system/"><u>Program-Specific Keys on a Microsoft System</u></a></li>
+<li><a href="https://windows11.techidaily.com/revamp-outlooks-speed-for-better-windows-experience/"><u>Revamp Outlook's Speed for Better Windows Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/safeguard-files-with-windows-controlled-access-feature/"><u>Safeguard Files with Window's Controlled Access Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-your-pc-with-the-proper-management-of-fn-key/"><u>Secure Your PC with the Proper Management of Fn Key</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-reliable-remote-connections-in-windows-environment/"><u>Securing Reliable Remote Connections in Windows Environment</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/speedy-techniques-for-converting-srt-files-into-text-format/"><u>Speedy Techniques for Converting SRT Files Into Text Format</u></a></li>
+<li><a href="https://windows11.techidaily.com/steering-clear-of-disconnect-issues-in-nvidia-software/"><u>Steering Clear of Disconnect Issues in Nvidia Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-your-sound-experience-in-windows-11/"><u>Tailoring Your Sound Experience in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-steps-restoring-light-from-dark-mode/"><u>Troubleshooting Steps: Restoring Light From Dark Mode</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-zooid-design-starter-packs/"><u>Ultimate Zooid Design Starter Packs</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-power-of-local-gpo-control-on-windows-11/"><u>Unlock the Power of Local GPO Control on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-10-keys-a-step-by-step-guide/"><u>Unlocking Windows 10 Keys: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-bsod-understanding-and-fixing-blue-screen/"><u>Win11 BSOD: Understanding & Fixing Blue Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-audio-issue-methods-to-enable-automatic-system-startup/"><u>Windows Audio Issue: Methods to Enable Automatic System Startup</u></a></li>
+</ul></div>

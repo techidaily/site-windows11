@@ -1,7 +1,7 @@
 ---
 title: "Empowering Windows Users: Introducing a Customized Run Helper App"
-date: 2024-07-11T22:08:42.224Z
-updated: 2024-07-12T22:08:42.224Z
+date: 2024-08-15T15:23:57.128Z
+updated: 2024-08-16T15:23:57.128Z
 tags:
   - windows10
   - windows11
@@ -71,6 +71,9 @@ thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b
 
  The**Options** menu also includes numerous other settings for Run-Command. Selecting**Start with Windows** adds the app to the startup items. You can also add a menu for accessing applets by clicking the**Control Panel** menu option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## How to Add an Alternative Run Accessory to Windows With PowerToys
 
  PowerToys is a great piece of kit for adding new features to Windows 11/10\. That software has a PowerToys Run utility you can enable, which looks somewhat different from the native Run accessory. That utility is more like a 2-in-1 quick app launcher and search tool for Windows 11/10\. This is how you can add that Run replacement to Windows 11/10:
@@ -82,6 +85,9 @@ thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b
 5. Double-click**PowerToysSetup-0.66.0-x64.exe** to open the PowerToys setup window.
 6. Select the**I agree to** checkbox and click PowerToys’**Install** option.  
 ![The PowerToys setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powertoys-setup-window.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 7. To open PowerToys, click**Start** and**All apps** (in Windows 11). Select PowerToys on the menu
 8. Select the PowerToys**Run** tab.
 9. Toggle on the Enable PowerToys**Run** option if it’s off.  
@@ -90,7 +96,13 @@ thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b
  Now press the**Alt** +**Space** hotkey to bring up a**Start typing** box. Then input the name of the software you want to launch inside PowerToys Run. Select a matching application within the results shown to open its window.
 
 ![The PowerToys Run tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-powertoys-run-tool.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Getting Familiar With PowerToys Run
 
  The first thing you’ll notice about PowerToys after entering a command in its text box is that it shows multiple results. Thus, it’s a little more like the Windows search tool than Run, which makes it a more flexible alternative. It displays four results by default, but you can increase that by entering a higher value for the**Number of results shown** **before** **scrolling** setting in the**PowerToys Run** tab.
@@ -108,6 +120,9 @@ thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b
  Another good thing about PowerToys is that you can utilize it for calculations. Input an**\=** before a sum in the PowerToys Run command box to activate the calculator. For example, entering**\=55+125** will display a 180 result. You can do calculations by inputting the**+** (addition),**\*** (multiplication),**/** (division), and**–** (subtraction) operators.
 
 ![A calculator command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/a-calculator-command.jpg)
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also access Control Panel applets and Settings app pages by inputting the**$** plugin followed by a search phrase. For example, entering**$uninstall** will find both Programs and Features and the Apps & Features tool. Or you input**$** on its own to view a long list of Settings pages and Control Panel applets.
 
@@ -116,6 +131,9 @@ thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b
  You can disable or enable plugins via the**PowerToys Run** tab. Scroll down to the**Plugins** section of that tab to view those options. You can click the**On** or**Off** switches to enable/disable them.
 
 ![The plugin settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/plugin-options.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  Click the down arrows for the plugins to view their settings. Then you can see the activation commands for the plugins in their**Direct** **activation command** boxes. You can change the command by selecting that box, clicking the**X** , and entering a different one.
 
@@ -141,3 +159,58 @@ thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/basic-procedure-swapping-video-playback-in-vlc-media-player/"><u>Basic Procedure  Swapping Video Playback in VLC Media Player</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bring-a-smile-simple-meme-creation-with-kapwing-for-2024/"><u>Bring a Smile  Simple Meme Creation With Kapwing for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/distinguished-directories-top-online-destinations-for-snapping-alert-tunes/"><u>Distinguished Directories  Top Online Destinations for Snapping Alert Tunes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/essential-updates-and-drivers-for-hp-officejet-pro-8610-on-various-windows-versions-easy-download/"><u>Essential Updates & Drivers for HP Officejet Pro 8610 on Various Windows Versions - Easy Download</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-compatibility-nightmares-in-windows-without-troubleshooting-tools/"><u>Fix Compatibility Nightmares in Windows without Troubleshooting Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-device-not-reset-issue-in-win-11/"><u>Fixing 'Device Not Reset' Issue in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-store-failure-codes/"><u>Fixing Windows Store Failure Codes</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-self-clearing-windows-recycle-bin/"><u>Guide to Self-Clearing Windows Recycle Bin</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-to-correct-err-87-on-windows-loadlib/"><u>Guidelines to Correct Err 87 on Windows LoadLib</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-no-supported-devices-problem-in-windows-update/"><u>Handling 'No Supported Devices' Problem in Windows Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/harness-full-potential-of-windows-11-task-manager-filters-and-themes-at-your-fingertips/"><u>Harness Full Potential of Windows 11 Task Manager: Filters & Themes at Your Fingertips</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-microsoft-store-error-0x80073d26-in-windows-10-and-11/"><u>How to Fix the Microsoft Store Error 0X80073D26 in Windows 10 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-halt-windows-desktop-keys-effectively/"><u>How to Halt Windows Desktop Keys Effectively</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-repair-unable-to-fetch-error-in-nvidia-geforce-experience/"><u>How To Repair 'Unable To Fetch' Error in NVIDIA GeForce Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-intervention-for-directdraw-fails-in-windows-1011/"><u>Immediate Intervention for DirectDraw Fails in Windows 10/11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-oppo-reno-10-proplus-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Oppo Reno 10 Pro+ 5G without App | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-xiaomi-redmi-note-12-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Xiaomi Redmi Note 12 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-directly-viewing-facebook-videos-on-your-apple-tv-setup/"><u>In 2024, Directly Viewing Facebook Videos on Your Apple TV Setup</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-optimization-top-techniques-for-businesses-and-brands/"><u>In 2024, Instagram Optimization  Top Techniques for Businesses and Brands</u></a></li>
+<li><a href="https://common-error.techidaily.com/laptop-touchpad-malfunctioning-here-are-fixes-for-windows-users/"><u>Laptop Touchpad Malfunctioning? Here Are Fixes for Windows Users!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/logitech-unify-mismatch-in-win1110-fixed-guide/"><u>Logitech Unify Mismatch in Win11/10 - Fixed Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/masterful-windows-11-app-launch-strategies/"><u>Masterful Windows 11 App Launch Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-development-navigating-dev-drive-in-windows-11/"><u>Mastering Development: Navigating Dev Drive in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-repairing-windows-email-failures-error-code-0x800713f/"><u>Mastering the Art of Repairing Windows' Email Failures (Error Code 0X800713F)</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-task-scheduler-for-file-batch-execution/"><u>Mastering Windows Task Scheduler for File Batch Execution</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-two-users-shared-ms-login-fails/"><u>Navigating Through Two Users' Shared MS Login Fails</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-connectivity-issues-via-winvpn/"><u>Overcoming Windows Connectivity Issues via WinVPN</u></a></li>
+<li><a href="https://windows11.techidaily.com/proven-tactics-for-heic-to-jpeg-conversion-process-on-windows-11-systems/"><u>Proven Tactics for Heic to JPEG Conversion Process on Windows 11 Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-c12-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after C12 has been deleted</u></a></li>
+<li><a href="https://windows11.techidaily.com/redefining-phones-role-in-windows-11-networking/"><u>Redefining Phones' Role in Windows 11 Networking</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinvigorate-discolored-volume-settings-in-win/"><u>Reinvigorate Discolored Volume Settings in Win</u></a></li>
+<li><a href="https://windows11.techidaily.com/rejuvenating-win11-drive-non-destructive-freeing-methods-max-156-chars/"><u>Rejuvenating Win11 Drive: Non-Destructive Freeing Methods (Max 156 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-problematic-windows-protection-protocol/"><u>Resolving Problematic Windows Protection Protocol</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-accessibility-to-essential-windows-command-center/"><u>Restoring Accessibility to Essential Windows Command Center</u></a></li>
+<li><a href="https://windows11.techidaily.com/safeguarding-your-os-managing-usb-device-use/"><u>Safeguarding Your OS: Managing USB Device Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/secrecy-startup-the-invisible-power-button-guide/"><u>Secrecy Startup: The Invisible Power Button Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-a-static-backdrop-on-modern-windows-11-pcs/"><u>Secure a Static Backdrop on Modern Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/slash-wms-high-graphics-consumption-for-efficient-windows-11/"><u>Slash WM's High Graphics Consumption for Efficient Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-common-disk-errors-on-windows-devices/"><u>Solutions for Common Disk Errors on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/steering-users-clear-of-disconnection-hurdles-from-nvidia/"><u>Steering Users Clear of Disconnection Hurdles From Nvidia</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-entering-windows-11-home-settings/"><u>Step-by-Step: Entering Windows 11 Home Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-prevent-overheating-in-w11-pcs/"><u>Techniques to Prevent Overheating in W11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-rotation-rulebook-six-secrets-to-snap-spins-in-windows-11/"><u>The Rotation Rulebook: Six Secrets to Snap-Spins in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-optimizing-win-11s-taskbar/"><u>The Ultimate Guide to Optimizing Win 11'S Taskbar</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/transforming-viewers-experience-obs-strategies-on-youtube-and-twitch-for-2024/"><u>Transforming Viewers' Experience  OBS Strategies on YouTube & Twitch for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/turbo-steam-downloads-overcoming-frustrating-speed-halts/"><u>Turbo Steam Downloads: Overcoming Frustrating Speed Halts</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncovering-and-correcting-cant-access-mail-errors-in-windows-11-mail-app/"><u>Uncovering and Correcting Can't Access Mail Errors in Windows 11 Mail App</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Samsung Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-transition-phasing-out-old-traits/"><u>Windows Transition: Phasing Out Old Traits</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-windows-timers-for-efficient-pomodoros/"><u>Winning Windows Timers for Efficient Pomodoros</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Configuring ChatGPT on Your Windows PC
-date: 2024-07-11T21:33:42.969Z
-updated: 2024-07-12T21:33:42.969Z
+date: 2024-08-15T15:57:48.639Z
+updated: 2024-08-16T15:57:48.639Z
 tags:
   - windows10
   - windows11
@@ -53,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f
 2. Right-click on the app icon and **Uninstall.**
 3. Click **Uninstall** again to confirm the action.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Add ChatGPT as a Windows App Using Chrome
 
  Similar to Microsoft Edge, Chrome features a Create shortcut feature. You can add any site as a shortcut to use it as a native app. Here’s how to add ChatGPT as a shortcut using Chrome.
@@ -71,6 +74,9 @@ thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f
  If you want to uninstall the Chrome shortcut for ChatGPT, here’s how to do it:
 
 ![uninstall chrome shortcut chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chrome-shortcut-chatgpt.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 
 1. Press the **Win** key and type **ChatGPT**.
 2. Right-click on the **ChatGPT** icon and select **Uninstall**.
@@ -82,6 +88,9 @@ thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f
 ## Run ChatGPT Natively Using an Unofficial Project
 
 ![chat gpt github unofficial project running on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project-running-on-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 
  A developer on GitHub has posted an unofficial ChatGPT project which runs natively on the Windows computer. To use the app, you need to log in using the ChatGPT credentials. It works similarly to the AI chatbot web app but offers some additional features.
 
@@ -91,6 +100,9 @@ thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f
 
 1. Go to the [ChatGPT unofficial GitHub page](https://github.com/lencx/ChatGPT).  
 ![chat gpt github unofficial project](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project.jpg)
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. Scroll down to the Windows section and click on the **.msi installer** download link for the **Direct download installer**. On Microsoft Edge, Windows Defender Screen Filter may temporarily block the download and prompt you to confirm whether you trust the file. To allow the download, click on **Show more,** and then the **three-dots** **menu**. Next, select **Keep** to download the installer. To be on the safer side, you can [scan the installer using an online virus scanning tool](https://www.makeuseof.com/check-suspicious-file-malware/) to find any traces of malware.
 3. Next, run the installer and follow the on-screen instructions to complete the installation.
 4. Once installed, launch the app and log in with your ChaptGPT credentials, and you can start generating responses.
@@ -104,6 +116,9 @@ thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f
  If you decide to uninstall the app, you can do so from the **Settings** app:
 
 ![uninstall chatgpt unofficial client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-chatgpt-unofficial-client.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 
 1. Press **Win + I** to open **Settings**.
 2. Next, open the **Apps** tab and click **Installed Apps**.
@@ -111,6 +126,9 @@ thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f
 
  Once done, you might also want to delete the setup file from the Downloads folder in File Explorer.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Install ChatGPT as a Windows App
 
  Adding ChatGPT as a Windows app lets you access the app in a standalone window. This removes the hassle of visiting the site frequently to use the service.
@@ -130,3 +148,43 @@ thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-innovative-watermarks-for-impactful-insta-imagery/"><u>[New] 2024 Approved  Innovative Watermarks for Impactful Insta Imagery</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-trimmed-techniques-quick-quality-recording-for-dell/"><u>[New] 2024 Approved  Trimmed Techniques  Quick, Quality Recording for Dell</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-adobes-path-to-perspective-creating-life-like-text/"><u>[New] Adobe's Path to Perspective  Creating Life-Like Text</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximizing-your-impact-with-periscope-live/"><u>[New] Maximizing Your Impact with Periscope Live</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-guide-to-optimize-your-instagram-posts-using-hashtags/"><u>[New] Step-by-Step Guide to Optimize Your Instagram Posts Using Hashtags</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-music-transfer-essentials-keeping-your-playlist-alive/"><u>[Updated] Music Transfer Essentials  Keeping Your Playlist Alive</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-perfecting-the-bokeh-aesthetic-for-social-media-posts/"><u>2024 Approved  Perfecting the Bokeh Aesthetic for Social Media Posts</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-clever-cmd-gimmicks-to-spice-up-your-day/"><u>5 Clever CMD Gimmicks to Spice Up Your Day</u></a></li>
+<li><a href="https://windows11.techidaily.com/accessing-stealthed-elements-in-windows-11-ui/"><u>Accessing Stealthed Elements in Windows 11 UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/activating-clipboard-operations-in-application-guard-edge-win11-guide/"><u>Activating Clipboard Operations in Application Guard (Edge) - Win11 Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-qt-plugin-initialization-failure-error/"><u>Addressing Qt Plugin Initialization Failure Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/advance-windows-11-task-manager-refresh-speeds/"><u>Advance Windows 11 Task Manager Refresh Speeds</u></a></li>
+<li><a href="https://windows11.techidaily.com/amplify-windows-efficiency-with-innovative-layouts/"><u>Amplify Windows Efficiency with Innovative Layouts</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-quit-notifications-from-roblox-on-your-computer/"><u>Avoiding Quit Notifications From Roblox on Your Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-pc-maintenance-speed-customizing-win-1011-hotkeys/"><u>Boosting PC Maintenance Speed: Customizing Win 10/11 Hotkeys</u></a></li>
+<li><a href="https://windows11.techidaily.com/briskly-engage-bings-ai-assistant-in-windows-11-search-field/"><u>Briskly Engage Bing's AI Assistant in Windows 11 Search Field</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-scripts-not-active-top-4-fixes-to-powershell-load-issue/"><u>Bypassing 'Scripts Not Active': Top 4 Fixes to PowerShell Load Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-wacatacbml-barriers-a-guide-for-safe-windows-navigation/"><u>Bypassing Wacatac.B!ml Barriers - A Guide for Safe Windows Navigation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-v30-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo V30 is off? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-up-high-dpi-display-issues-in-windows/"><u>Clearing Up High DPI Display Issues in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-line-tip-disable-amdnvidia-gpu-enhancements/"><u>Command Line Tip: Disable AMD/Nvidia GPU Enhancements</u></a></li>
+<li><a href="https://windows11.techidaily.com/compact-windows-powered-systems-unveiled/"><u>Compact Windows-Powered Systems Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensible-guide-to-counteracting-winerror-0x80071a90/"><u>Comprehensible Guide to Counteracting WinError 0X80071a90</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-overview-how-to-optimize-w11s-auto-hdr/"><u>Comprehensive Overview: How to Optimize W11's Auto HDR</u></a></li>
+<li><a href="https://windows11.techidaily.com/construct-ai-driven-artistry-with-win11-and-paint-tool-sai-your-ultimate-guide-to-image-creation/"><u>Construct AI-Driven Artistry with Win11 & Paint Tool SAI: Your Ultimate Guide to Image Creation</u></a></li>
+<li><a href="https://windows11.techidaily.com/counteracting-the-issue-of-unsaved-nvidia-settings-in-windows-11/"><u>Counteracting the Issue of Unsaved NVidia Settings in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-quick-access-to-start-from-onedrive/"><u>Customizing Quick Access to Start From OneDrive</u></a></li>
+<li><a href="https://windows11.techidaily.com/cybersecurity-commandments-winning-access-prevention-on-windows/"><u>Cybersecurity Commandments: Winning Access Prevention on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/dealing-with-non-functional-router-web-interfaces/"><u>Dealing with Non-Functional Router Web Interfaces</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-high-cpu-demands-the-case-for-vanguards-ums-optimization/"><u>Deciphering High CPU Demands: The Case for Vanguard's UMS Optimization</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-quick-ways-to-adjust-your-computers-sound-output-in-windows-11/"><u>Discover Quick Ways to Adjust Your Computer's Sound Output in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/dissecting-windows-build-numbers-and-updates/"><u>Dissecting Windows Build Numbers & Updates</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-smooth-performance-download-recent-amd-core-processor-drivers-for-windows/"><u>Ensure Smooth Performance: Download Recent AMD Core Processor Drivers for Windows</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-lead-the-pack-with-these-top-7-android-tools-against-ads/"><u>In 2024, Lead the Pack with These Top 7 Android Tools Against Ads</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/invisible-voices-techniques-for-silent-screen-recordings/"><u>Invisible Voices  Techniques for Silent Screen Recordings</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/syncopated-sing-sessions-tiktok-style/"><u>Syncopated Sing-Sessions TikTok Style</u></a></li>
+</ul></div>

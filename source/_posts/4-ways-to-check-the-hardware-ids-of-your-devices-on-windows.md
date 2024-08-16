@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Check the Hardware IDs of Your Devices on Windows
-date: 2024-07-11T22:12:13.999Z
-updated: 2024-07-12T22:12:13.999Z
+date: 2024-08-15T15:20:44.572Z
+updated: 2024-08-16T15:20:44.572Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/6b26f43d7c441fdc486228c15693f43761df84b70
 ## 2\. Use the Command Prompt
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 
  The Command Prompt is an incredible tool that helps you access most apps, configure system settings, and troubleshoot device issues. You can also perform other tricks with it, such as checking the hardware IDs for your devices.
 
@@ -56,6 +60,9 @@ Let’s check out the steps you need to follow:
 `Dism /Online /Get-Drivers /all /Format:Table`
 
 ![Displaying device information on the Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/displaying-device-information-on-the-command-prompt.jpg)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 
  Now, let’s say you want the hardware ID for the mouse. Here’s how you can search for it:
 
@@ -102,6 +109,9 @@ Let’s check out the steps you need to follow:
  After finding your target device, check the**Instance ID** (the value that appears in the last column).
 
 ![Selecting the Keyboard option from the PowerShell command options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-keyboard-option-from-the-powershell-command-options.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For the keyboard, the Instance ID is**ACPI\\IDEA0102\\4&15E808EC&0** .
 
@@ -124,6 +134,9 @@ Let’s check out the steps you need to follow:
 
  In this case, the hardware ID for the keyboard (which appears in the "Data" category) is**ACPI\\VEN\_IDEA&DEV\_0102** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Use the Windows Device Console
 
  The Device Console (DevCon) is a feature that shows you detailed information about the devices on your computer. This tool can also help you configure, install, remove, enable, or disable devices.
@@ -137,6 +150,9 @@ Let’s check out the steps you need to follow:
 3. Access the**x64** (64-bit) folder if you're using a 64-bit device or the**x86** (32-bit) folder if you use a 32-bit PC. If you’re unsure what to pick,[check your Windows PC specs](https://www.makeuseof.com/ways-to-check-your-windows-10-essential-pc-specs/) first.
 
 ![Selecting the x64 folder in the Tools section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-x64-folder-in-the-tools-section.jpg)
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once you’re in the correct folder, follow these steps:
 
@@ -144,12 +160,18 @@ Once you’re in the correct folder, follow these steps:
 2. Type**CMD** and then press**Enter** . This will run the Command Prompt within the current folder.
 
 ![Typing the CMD command in the File Explorer address bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/typing-the-cmd-command-in-the-file-explorer-address-bar.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  From there, type the following command into the Command Prompt and press**Enter** :
 
 `devcon hwids *`
 
 ![Displaying hardware IDs using DevCon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/displaying-hardware-ids-using-devcon.jpg)
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This will show you the details of all the devices on your computer. The results will also contain the hardware IDs.
 
@@ -186,3 +208,51 @@ Once you’re in the correct folder, follow these steps:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-voicing-freedom-how-to-modify-your-audio-on-instagram-posts/"><u>[New] In 2024, Voicing Freedom  How to Modify Your Audio on Instagram Posts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optimizing-footage-variety-in-your-video-production/"><u>[New] Optimizing Footage Variety in Your Video Production</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-path-to-link-integration-on-instagrams-social-stage-for-2024/"><u>[New] The Ultimate Path to Link Integration on Instagram's Social Stage for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-charting-the-course-to-youtube-success-top-5-strategies-inside/"><u>[Updated] 2024 Approved  Charting the Course to YouTube Success – Top 5 Strategies Inside</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-yield-your-content-mastering-youtube-ads-for-earnings/"><u>[Updated] Yield Your Content  Mastering YouTube Ads for Earnings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtubes-most-lucrative-star-title/"><u>[Updated] YouTube's Most Lucrative Star Title</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-curated-list-of-6-essential-android-apps-for-windows-11-users/"><u>A Curated List of 6 Essential Android Apps for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-asymmetric-windows-headphone-output/"><u>Adjusting Asymmetric Windows Headphone Output</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-the-pitfalls-of-low-end-activation-codes-in-windows/"><u>Avoiding the Pitfalls of Low-End Activation Codes in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-windows-admin-error-for-apps/"><u>Bypassing Windows Admin Error for Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-win11-uis-image-summaries/"><u>Customize Win11 UI's Image Summaries</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-your-window-preferences-on-win11/"><u>Customize Your Window Preferences on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/detailed-process-of-downloading-and-setting-up-windows-11-arm-iso/"><u>Detailed Process of Downloading and Setting up Windows 11 ARM ISO</u></a></li>
+<li><a href="https://windows11.techidaily.com/diving-into-devs-how-to-use-the-dev-drive-on-windows-11/"><u>Diving Into Devs: How to Use the Dev Drive on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/early-bird-benefits-automatic-open-of-windows-sticky-notes/"><u>Early Bird Benefits: Automatic Open of Windows' Sticky Notes</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-revival-mastering-the-explore-ui-reset/"><u>Effortless Revival: Mastering the Explore UI Reset</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-hidden-windows-bar-when-browser-frames-are-enlarged/"><u>Fixing Hidden Windows Bar when Browser Frames Are Enlarged</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-all-about-io-screen-capture-mastery-guidebook/"><u>In 2024, All About IO Screen Capture Mastery Guidebook</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-pova-5-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Pova 5 To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-note-12-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi Note 12 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-troubleshooting-windows-camera/"><u>Master the Art of Troubleshooting Windows Camera</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-error-correction-techniques/"><u>Mastering Windows Error Correction Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-windows-update-blockage-error-e/"><u>Mending Windows Update Blockage, Error E</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-a-disconnected-printer-issue/"><u>Navigating a Disconnected Printer Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-file-system-woes-on-windows-11/"><u>Navigating File System Woes on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-battlenet-access-issues-in-windows-1011/"><u>Overcoming Battle.net Access Issues in Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-non-detected-network-proxy-settings-in-windows/"><u>Overcoming Non-Detected Network Proxy Settings in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/phase-out-announcement-end-for-windows-781-on-microsoft-platforms/"><u>Phase-Out Announcement: End for Windows 7/8.1 on Microsoft Platforms</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaim-soundfulness-overcoming-muted-mouses-cry/"><u>Reclaim Soundfulness: Overcoming Muted Mouse's Cry</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-permission-problems-during-windows-1011-installer-errors/"><u>Remedying Permission Problems During Windows 10/11 Installer Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/revitalizing-the-old-guard-running-windows-11-on-pre-ultimate-pcs-via-to-go-and-rufus/"><u>Revitalizing the Old Guard: Running Windows 11 on Pre-Ultimate PCs via To Go & Rufus</u></a></li>
+<li><a href="https://windows11.techidaily.com/snipping-tool-or-printscreen-best-windows-capture-strategy/"><u>Snipping Tool or Printscreen? Best Windows Capture Strategy</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-content-disconnected-error-on-windows-using-steam/"><u>Solving Content Disconnected Error on Windows Using Steam</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-steam-content-restricted-on-pc-a-step-by-step-guide/"><u>Solving Steam Content Restricted on PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-permission-fixes-for-installer-problems/"><u>Streamlining Permission Fixes for Installer Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-unseen-wi-fi-in-windows/"><u>The Art of Unseen Wi-Fi in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/time-travel-tech-windows-7-product-key-for-11-activation/"><u>Time-Travel Tech: Windows 7 Product Key for 11 Activation</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-5-windows-pc-boosters-for-speed-and-efficiency/"><u>Top 5 Windows PC Boosters for Speed and Efficiency</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-full-gpu-potential-in-windows-10-and-11-via-vram/"><u>Unleashing Full GPU Potential in Windows 10 & 11 via VRAM</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-archive-file-history-in-windows-11/"><u>Unlocking the Archive: File History in Windows 11</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-13-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 13 to PC | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeo-captions-101-the-essential-guide/"><u>Vimeo Captions 101  The Essential Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-desk-icons-clashing-find-harmony/"><u>Windows Desk Icons Clashing - Find Harmony!</u></a></li>
+</ul></div>

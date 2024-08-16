@@ -1,7 +1,7 @@
 ---
 title: "Boost Workflow Efficiency: Mastering Flow Launcher"
-date: 2024-07-11T21:43:15.198Z
-updated: 2024-07-12T21:43:15.198Z
+date: 2024-08-15T15:48:28.793Z
+updated: 2024-08-16T15:48:28.793Z
 tags:
   - windows10
   - windows11
@@ -52,7 +52,14 @@ Here's how to get the most from this popular productivity tool.
 3. As soon as you see the required app in the list, you can click it to open it or press the displayed shortcut, e.g.**Alt + 2** .
 
 ![launching an app with Flow Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/flowlauncher-searchapp.jpg)
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Search Files More Effectively
 
  Flow Launcher is brilliant for searching your PC. It manages to find everything Windows Search can find, but displays results in a much less cluttered and much more efficient way.
@@ -60,6 +67,9 @@ Here's how to get the most from this popular productivity tool.
  Type in the Flow Launcher window to begin searching. Results are displayed with an icon next to the title to make it easy to tell what it is. It can find apps, files, settings, images, and more. You can then click on the result you want to open or press the displayed keyboard shortcut.
 
 ![searching for files in flow launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/flowlauncher-searchfiles.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If Flow Launcher fails to find a file, app or setting on your computer that matches, it will instead offer a Google search for the query. Clicking this will open a new tab in your default browser for the Internet search.
 
@@ -71,9 +81,15 @@ Here's how to get the most from this popular productivity tool.
 * If you want to search in a specific directory, type the directory name between percentage symbols, e.g.**%programfiles%\\** . You will also need to include a trailing backslash.
 
 ![searching for directories in flowlauncher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/flowlauncher-searchdirectory.jpg)
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you start using Flow Launcher, you might see a result such as**Allow Web Searches Plugin** . This will activate an existing plugin available within Flow Launcher. You can also download and install extra plugins from the store.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Add Extra Features With Flow Launcher Plugins
 
  There are several plugins already installed and activated in Flow Launcher. You can enable and disable these whenever you like in the settings. You can also easily add extra plugins to further increase the scope of the utility.
@@ -84,6 +100,9 @@ Here's how to get the most from this popular productivity tool.
 4. The Flow Launcher window will open with a search for that plugin. Click the result and agree to the installation in the popup message.
 5. The plugin will be added to the plugin list, where you can enable and disable it as required.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Uninstalling Flow Launcher
 
  If you installed Flow Launcher onto your PC, you can uninstall it in the same way you would any other app. Check out our guide on [how to uninstall programs on Windows](https://www.makeuseof.com/tag/how-to-uninstall-programs-on-windows-10/) if you need some help with this.
@@ -113,3 +132,59 @@ Here's how to get the most from this popular productivity tool.
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-step-by-step-instagram-videos-that-wow-viewers/"><u>[New] 2024 Approved  Step-by-Step  Instagram Videos that Wow Viewers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-daily-digest-guidelines-tips-for-successful-vlogs/"><u>[New] In 2024, Daily Digest Guidelines  Tips for Successful Vlogs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-inner-voice-how-to-confidently-share-stories-online/"><u>[New] In 2024, Finding Inner Voice  How to Confidently Share Stories Online</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/icture-talk-engineer/"><u>[New] Picture Talk Engineer</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-selecting-the-right-top-15-tripods-for-gopro-cameras-for-2024/"><u>[New] Selecting the Right Top 15 Tripods for GoPro Cameras for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-non-sharex-heroes-for-secure-file-sharing/"><u>[Updated] In 2024, Non-ShareX Heroes for Secure File Sharing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-adsense-a-step-by-step-approach-for-youtubers/"><u>[Updated] Navigating AdSense  A Step-by-Step Approach for YouTubers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-professional-gamers-guide-optimal-video-capture-tips/"><u>[Updated] Professional Gamers' Guide  Optimal Video Capture Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweet-to-whatsapp-video-dissemination-methods-for-2024/"><u>[Updated] Tweet-to-WhatsApp Video Dissemination Methods for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ultimate-mac-device-visuals-and-acoustics-in-one/"><u>[Updated] Ultimate Mac Device  Visuals & Acoustics in One</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-ultimate-screen-capture-software-guide-apowersoft-included/"><u>2024 Approved  The Ultimate Screen Capture Software Guide - Apowersoft Included</u></a></li>
+<li><a href="https://windows11.techidaily.com/3-simple-methods-for-identifying-windows-ram/"><u>3 Simple Methods for Identifying Windows RAM</u></a></li>
+<li><a href="https://windows11.techidaily.com/ad-ds-and-printer-woes-a-guide-for-windows-11-users/"><u>AD DS and Printer Woes: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-resource-utilization-monitors/"><u>Advanced Resource Utilization Monitors</u></a></li>
+<li><a href="https://windows11.techidaily.com/breakdown-of-windows-11s-enhancements-february-update-speaks/"><u>Breakdown of Windows 11'S Enhancements – February Update Speaks</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-revival-mastering-the-explore-ui-reset/"><u>Effortless Revival: Mastering the Explore UI Reset</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabledarkinterfacefornotepad/"><u>EnableDarkInterfaceForNotepad</u></a></li>
+<li><a href="https://windows11.techidaily.com/erase-secure-questions-a-guide-to-altering-local-account-in-win-11/"><u>Erase Secure Questions: A Guide to Altering Local Account in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-non-responsive-slack-alerts-a-quick-win-for-windows-users/"><u>Fix Non-Responsive Slack Alerts: A Quick Win for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-photo-capture-file-creation-failed-camera-app-error-on-windows-11-and-11/"><u>How to Fix the “Photo Capture File Creation Failed” Camera App Error on Windows 11 & 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-and-fixing-non-responsive-usb-on-pc/"><u>Identifying and Fixing Non-Responsive USB on PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-vivo-y27s-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Vivo Y27s to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-the-power-of-online-livestreams-with-us-today/"><u>In 2024, Unleash the Power of Online Livestreams with Us Today</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ios-restoration-explained-simple-steps-for-a-fresh-start-on-your-apple-gadget/"><u>IOS Restoration Explained: Simple Steps for a Fresh Start on Your Apple Gadget</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-auto-shutdown-on-windows-11-for-idleness/"><u>Mastering Auto-Shutdown on Windows 11 for Idleness</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-connection-stability-fixed-windows-lol-issues/"><u>Mastering Connection Stability: Fixed Windows LoL Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-directx-setup-failures-on-pc/"><u>Mending DirectX Setup Failures on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-a-disconnected-printer-issue/"><u>Navigating a Disconnected Printer Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-desktop-spaces-preset-program-dimensions-on-win11/"><u>Optimizing Desktop Spaces: Preset Program Dimensions on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-win-network-unreachable-issue/"><u>Overcoming WIN Network Unreachable Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-4-ways-to-stop-pc-update-notifications/"><u>Quick Fixes: 4 Ways to Stop PC Update Notifications</u></a></li>
+<li><a href="https://windows11.techidaily.com/rehabbing-windows-1011s-recycle-bin-crisis-a-step-by-step-guide/"><u>Rehabbing Windows 10/11'S Recycle Bin Crisis: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplify-software-management-with-new-context-menu-addition/"><u>Simplify Software Management with New Context Menu Addition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/skype-audio-archive-mp3-techniques-free-edition/"><u>Skype Audio Archive  MP3 Techniques, Free Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/slowing-down-windows-10-shutdown-keep-programs-open/"><u>Slowing Down Windows 10 Shutdown: Keep Programs Open</u></a></li>
+<li><a href="https://windows11.techidaily.com/snap-opera-download-into-action-windows-style/"><u>Snap Opera Download Into Action, Windows Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-steam-content-restricted-on-pc-a-step-by-step-guide/"><u>Solving Steam Content Restricted on PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/speedy-shots-for-immersive-narratives-for-2024/"><u>Speedy Shots for Immersive Narratives for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-removing-onedrive-linkage-on-windows-os/"><u>Steps for Removing OneDrive Linkage on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-instructions-for-software-icons-on-desktop-menu/"><u>Tailored Instructions for Software Icons on Desktop Menu</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-the-hover-over-sensitivity-and-visibility-in-windows-11/"><u>Tailoring the Hover Over Sensitivity and Visibility in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-9-best-features-in-the-windows-11-february-2023-update/"><u>The 9 Best Features in the Windows 11 February 2023 Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-student-laptop-asus-s15-oled-in-focus/"><u>The Ultimate Student Laptop: ASUS S15 OLED in Focus</u></a></li>
+<li><a href="https://windows11.techidaily.com/three-steps-for-ditching-microsofts-store/"><u>Three Steps for Ditching Microsoft's Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-fbm-issues-on-your-pc-screen/"><u>Unblocking FBM Issues on Your PC Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/unfreezing-windows-updates-top-6-strategies-to-resolve-sticking-issues/"><u>Unfreezing Windows Updates: Top 6 Strategies to Resolve Sticking Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-windows-law-filter-mechanics-and-output/"><u>Unraveling the Mystery of Window's LAW Filter Mechanics and Output</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-icon-organization-made-simple/"><u>Windows Icon Organization Made Simple</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-network-overview-understanding-arp-caches/"><u>Windows Network Overview: Understanding ARP Caches</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-reimagined-analyzing-the-core-upgrades-of-windows-11/"><u>Windows Reimagined: Analyzing the Core Upgrades of Windows 11</u></a></li>
+</ul></div>

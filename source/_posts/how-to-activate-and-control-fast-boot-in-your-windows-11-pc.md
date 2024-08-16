@@ -1,7 +1,7 @@
 ---
 title: How to Activate and Control Fast Boot in Your Windows 11 PC
-date: 2024-07-11T21:39:11.416Z
-updated: 2024-07-12T21:39:11.416Z
+date: 2024-08-15T15:52:46.019Z
+updated: 2024-08-16T15:52:46.019Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 
  That said, Fast Startup is not without its shortcomings. For example, [according to Microsoft](http://docs.microsoft.com/en-us/troubleshoot/windows-client/deployment/updates-not-install-with-fast-startup), you may face difficulties installing Windows updates on Fast Startup-enabled systems. Another reason is the [missing dual boot option because of the disabled delayed start function](https://www.makeuseof.com/windows-10-dual-boot-option-not-showing/). To learn more, read our explainer on [how Fast Startup works and why you should disable it](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/).
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Check if Fast Startup Is On or Off
 
 ![check fast startup status windows 11 powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/check-fast-startup-status-windows-11-powershell.jpg)
@@ -66,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 ## How to Enable Hibernation in Windows 11
 
 ![turn on hibernate Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-on-hibernate-Windows-11.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 
  Fast Startup is only available on systems compatible with the Hibernate feature available on almost all modern computers. However, this option is often disabled by default on lower-end systems.
 
@@ -81,6 +88,18 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 ## How to Turn On or Off Fast Startup in the Control Panel
 
 ![enable disable fast startup control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/enable-disable-fast-startup-control-panel.png)
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The easiest way to turn on Fast Startup is via the Control Panel's power settings. Here’s how to do it.
 
@@ -93,6 +112,9 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 7. Uncheck the **Turn on fast startup option** to disable Fast Startup.
 8. Click **Save changes** to apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Turn On or Off Fast Startup Using the Registry Editor
 
 ![turn on off fast startup registry register](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-on-off-fast-startup-registry-register.png)
@@ -112,6 +134,9 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 8. To turn off Fast Startup, enter **0** in the **Value data** field and click **OK**.
 9. Close the Registry Editor and reboot your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## How to Turn On or Off Fast Startup Using a Registry File
 
 ![turn on off registry file fast startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/turn-on-off-registry-file-fast-startup.png)
@@ -136,6 +161,9 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 ## How to Enable or Disable Fast Startup in the Group Policy Editor
 
 ![require use of fast startup group policy editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/require-use-of-fast-startup-group-policy-editor-1.png)
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Group Policy Editor allows you to configure your Group Policy settings to allow or restrict features as required. You can use it to enable or disable the Fast Startup feature on your Windows computer.
 
@@ -152,6 +180,9 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 6. Or Select **Disabled** to turn off Fast Startup.
 7. Click **Apply** and **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## How to Turn Off Fast Startup Using the Command Prompt
 
 ![disable fast startup hibernate Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/disable-fast-startup-hibernate-Windows-2.png)
@@ -164,6 +195,9 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 `Powercfg -h off`
 4. This will disable the Hibernate feature and also turn off Fast Startup.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Making Your Windows 11 PC Boot Better
 
  The Fast Startup feature works like a charm on the older and slower systems with traditional HDDs or hybrid configurations. While you can shave off a few seconds even on an SSD, the incompatibility with dual boot and issues with Windows updates is an annoyance for many.
@@ -181,3 +215,56 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-humor-harvesters-making-memes-without-a-price-tag/"><u>[New] 2024 Approved  Humor Harvesters  Making Memes Without a Price Tag</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ultimate-simplicity-guide-to-iphone-screen-recordings/"><u>[New] 2024 Approved  Ultimate Simplicity Guide to iPhone Screen Recordings</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-professional-premiere-practices-implementing-inout-effects/"><u>[New] In 2024, Professional Premiere Practices  Implementing In/Out Effects</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snap-it-right-15-innovative-posting-hacks/"><u>[New] Snap It Right  15 Innovative Posting Hacks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-zoom-essentials-for-webinar-novices-an-introductory-walkthrough/"><u>[Updated] 2024 Approved  Zoom Essentials for Webinar Novices  An Introductory Walkthrough</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-a-seamless-transition-from-aspect-ratio-to-square-on-instagram-with-imovie/"><u>[Updated] A Seamless Transition From Aspect Ratio to Square on Instagram with iMovie</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-elevate-your-tiktok-impact-through-masterful-cloning/"><u>[Updated] Elevate Your TikTok Impact Through Masterful Cloning</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-multimedia-mastery-tips-for-mass-photo-and-video-uploads/"><u>[Updated] In 2024, Instagram Multimedia Mastery  Tips for Mass Photo & Video Uploads</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-elevate-your-videography-with-top-instagram-techniques/"><u>2024 Approved  Elevate Your Videography with Top Instagram Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-how-to-screenshot-or-record-of-whats-showing-on-your-mac/"><u>2024 Approved  How to Screenshot or Record of What's Showing On Your Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-portable-shake-reducer-for-clear-video-capture/"><u>2024 Approved  Ultimate Portable Shake Reducer for Clear Video Capture</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-oppo-f25-pro-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Oppo F25 Pro 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-users-guide-to-windows-11-system-anomalies-analysis/"><u>A User’s Guide to Windows 11 System Anomalies Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/beat-the-blank-screen-blues-faster-input-in-windows-11/"><u>Beat the Blank Screen Blues: Faster Input in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-workflow-efficiency-mastering-flow-launcher/"><u>Boost Workflow Efficiency: Mastering Flow Launcher</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-barriers-to-maximize-windows-ram/"><u>Breaking Down Barriers to Maximize Windows' RAM</u></a></li>
+<li><a href="https://windows11.techidaily.com/brighten-control-navigating-windows-11-display-settings/"><u>Brighten Control: Navigating Windows 11 Display Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/classic-interface-reclamation-tips/"><u>Classic Interface Reclamation Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-windows-modern-standbys-drawbacks/"><u>Decoding Windows Modern Standby's Drawbacks</u></a></li>
+<li><a href="https://windows11.techidaily.com/easing-wow-start-up-issues-after-updates/"><u>Easing WoW Start-Up Issues After Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-chromiums-firewall-connection-within-windows-safeguards/"><u>Enabling Chromium's Firewall Connection Within Windows Safeguards</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhanced-windows-file-navigation-a-guide-excluding-ls/"><u>Enhanced Windows File Navigation: A Guide Excluding LS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721473687574-fixing-the-overzoomed-lens-clear-images-on-whatsapp-now/"><u>Fixing the Overzoomed Lens: Clear Images on WhatsApp Now</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oppo-find-x6-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-fast-track-your-document-digitization-with-new-scansnap-s1100-drivers/"><u>How to Fast-Track Your Document Digitization with New Scansnap S1100 Drivers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-laugh-ledger-pinpointing-prime-meme-generators/"><u>In 2024, Laugh Ledger  Pinpointing Prime Meme Generators</u></a></li>
+<li><a href="https://driver-install.techidaily.com/latest-usb-drivers-version-45-for-u-are-u-fp/"><u>Latest USB Drivers - Version 4.5 for U-Are-U FP</u></a></li>
+<li><a href="https://windows11.techidaily.com/lowering-gameplay-stress-reducing-cpu-load-while-playing/"><u>Lowering Gameplay Stress: Reducing CPU Load While Playing</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-landscape-of-android-and-windows-file-sharing/"><u>Navigating the Landscape of Android & Windows File Sharing</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-powershell-script-execution-policy-landscape/"><u>Navigating the PowerShell Script Execution Policy Landscape</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-more-frustration-quick-fixes-for-windows-11-woes/"><u>No More Frustration! Quick Fixes for Windows 11 Woes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/proton-vpn-browser-extension-how-to-change-your-email-address-and-the-chatgpt-windows-app-is-fake/"><u>Proton VPN Browser Extension, How to Change Your Email Address, and the ChatGPT Windows App Is Fake</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/quality-guffaws-uncover-the-top-15-youtube-comedy-talents/"><u>Quality Guffaws  Uncover the Top 15 YouTube Comedy Talents</u></a></li>
+<li><a href="https://windows11.techidaily.com/quash-insufficient-requirement-notice-windows-11/"><u>Quash Insufficient Requirement Notice Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/quickly-fixing-microsoft-store-problems-on-win-11/"><u>Quickly Fixing Microsoft Store Problems on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-excessive-ram-allocation-in-connected-devices-interface/"><u>Resolving Excessive RAM Allocation in Connected Devices Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-network-path-with-fixed-ea-server-error-in-os/"><u>Restoring Network Path with Fixed EA Server Error in OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-github-desktop-with-windows-11-os/"><u>Step-by-Step Guide to GitHub Desktop with Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-reclaiming-standard-windows-11-search-preferences/"><u>Step-by-Step: Reclaiming Standard Windows 11 Search Preferences</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-restore-fn-key-brighness-in-windows-11/"><u>Steps to Restore Fn Key Brighness in Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-remedy-no-more-video-disruptions/"><u>Swift Remedy: No More Video Disruptions</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-walls-of-windows-icons/"><u>Taming the Walls of Windows Icons</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-top-9-truths-about-why-pc-computers-win-over-macos-9/"><u>The Top 9 Truths About Why PC Computers Win over MacOS (#9)</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-windows-11-screens-with-custom-wallpaper-panes/"><u>Transform Windows 11 Screens with Custom Wallpaper Panes</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-steps-delete-email-after-signing-in/"><u>Troubleshooting Steps: Delete Email After Signing In</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-optimal-sleep-cycles-for-windows-devices/"><u>Unlocking Optimal Sleep Cycles for Windows Devices</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-poco-c50-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Poco C50? Fixed | Dr.fone</u></a></li>
+</ul></div>

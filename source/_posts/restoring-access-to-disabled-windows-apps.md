@@ -1,7 +1,7 @@
 ---
 title: Restoring Access to Disabled Windows Apps
-date: 2024-07-11T22:05:01.555Z
-updated: 2024-07-12T22:05:01.555Z
+date: 2024-08-15T15:28:12.589Z
+updated: 2024-08-16T15:28:12.589Z
 tags:
   - windows10
   - windows11
@@ -59,6 +59,9 @@ To open Windows apps using Command Prompt:
 ## 3\. Run the Apps as an Administrator
 
 ![run minecraft as administrator windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-minecraft-as-administrator-windows-11.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Some Windows apps may need administrator privileges to work correctly. To fix the error, run the app as an administrator. If it works, you can configure the app properties to always run as administrator.
 
@@ -69,6 +72,9 @@ To run an app as an administrator:
 
  Check if the app launches ad administrator without the error. If yes, you can [set the app to always run as administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) to fix the issue. That said, do this only if you trust the publisher for security reasons.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## 4\. Repair or Reset the Microsoft Store Apps
 
  If the error is triggered when opening a Microsoft Store app, try to perform a repair. You can repair Microsoft Store apps from the Settings panel. This should fix temporary glitches with the app and resolve the error.
@@ -76,6 +82,9 @@ To run an app as an administrator:
 To repair a Microsoft Store app:
 
 ![repair photos app windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/repair-photos-app-windows-11.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 1. Press**Win + I** to open**Settings** .
 2. Open the**Apps** tab and click on**Installed Apps** .
@@ -102,6 +111,10 @@ Reset the Microsoft Store app:
 
  You can [disable Microsoft SmartScreen Filter on Windows](https://www.makeuseof.com/windows-smartscreen-filter-enable-disable/) using the Windows Security app. Once disabled, relaunch the app and check if the error is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 6\. Turn Off Your Antivirus Program
 
  False positives from Antivirus programs are not uncommon. Whether you are using Microsoft Windows Defender or another antivirus program, turn off the security program temporarily to determine if your antivirus blocking the app.
@@ -110,6 +123,9 @@ Reset the Microsoft Store app:
 
  If the error is resolved, add the app to your security program's allowed list. You can also [allowlist files and apps on Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) if you use it as the primary security application.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## 7\. Modify the Windows Registry to Remove Admin Block
 
  User Account Control settings are another common trigger for the This app has been blocked by your system administrator error. You can modify the User Account Control settings in Registry Editor to remove the admin block and resolve the error.
@@ -125,12 +141,18 @@ To remove the admin block using Registry Editor:
 4. Select the**System** subkey under**Policies** .
 5. In the right pane, locate**EnableLUA** .  
 ![enable lua modify registry editor windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-lua-modify-registry-editor-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Right-click on the**EnableLUA** value and select**Modify** .
 7. Type**0** in the**Value data** field and click**OK** to save the changes.  
 ![enable lua modify registry editor value 0 windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-lua-modify-registry-editor-value-0-windows.jpg)
 8. Close Registry Editor and restart your computer to apply the changes. After the restart, launch the app to see if the error is resolved.
 9. If you are using a school or work computer, your organization may put some restrictions on its use. If you can't find the UAC settings, contact your IT administrator to resolve the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unblock the Apps Blocked by Your System Administrator
 
  Security settings on your Windows computer can often block suspicious apps and trigger the This app has been blocked by your system administrator message. To resolve the issue, check and unblock the app in file properties. Also, turn off the SmartScreen filter and your antivirus solution.
@@ -156,3 +178,36 @@ To remove the admin block using Registry Editor:
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-top-picks-best-free-cross-platform-video-communication-tools/"><u>[New] Top Picks  Best Free Cross-Platform Video Communication Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-pro-level-text-wonders-discover-the-top-10-for-videos/"><u>2024 Approved  Pro-Level Text Wonders - Discover the Top 10 for Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-tailoring-snaps-the-science-behind-compelling-advertising/"><u>2024 Approved  Tailoring Snaps  The Science Behind Compelling Advertising</u></a></li>
+<li><a href="https://article-tips.techidaily.com/accelerate-your-facebook-video-journey-in-depth-app-and-extension-guide/"><u>Accelerate Your Facebook Video Journey  In-Depth App & Extension Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/best-photo-and-video-display-apps-from-xi-to-x/"><u>Best Photo & Video Display Apps  From XI to X</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nubia-z50-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-solutions-for-dealing-with-xbox-series-xs-headset-failures/"><u>Comprehensive Solutions for Dealing with Xbox Series X/S Headset Failures</u></a></li>
+<li><a href="https://windows11.techidaily.com/curating-edthemes-experience-on-windows-11/"><u>Curating EdThemes Experience on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-integration-portable-software-menus-for-w11plus/"><u>Easy Integration: Portable Software Menus for W11+</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicating-your-input-cant-be-opened-vlc-error/"><u>Eradicating 'Your Input Can't Be Opened' VLC Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-advice-for-seamlessly-entering-fullscreen-mode/"><u>Expert Advice for Seamlessly Entering Fullscreen Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-monochrome-errors-with-marketplace/"><u>Fixing Monochrome Errors with Marketplace</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-nvidia-setup-not-available-glitch/"><u>Fixing the 'Nvidia Setup Not Available' Glitch</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-conquer-common-errors-during-windows-11-rollout/"><u>How to Conquer Common Errors During Windows 11 Rollout</u></a></li>
+<li><a href="https://windows11.techidaily.com/illuminate-with-joy-magical-holiday-window-decor/"><u>Illuminate with Joy: Magical Holiday Window Decor</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-oneplus-11-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from OnePlus 11 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-ultimate-guide-to-reverse-playback-in-snapchat/"><u>In 2024, The Ultimate Guide to Reverse Playback in Snapchat</u></a></li>
+<li><a href="https://windows11.techidaily.com/legacy-unlocks-employing-a-windows-7-key-in-11-setup/"><u>Legacy Unlocks: Employing a Windows 7 Key in 11 Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-onedrive-errors-on-windows-11-an-experts-fix-list/"><u>Navigating OneDrive Errors on Windows 11: An Expert's Fix List</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-the-maze-of-windows-error-code-0xc00000f/"><u>Navigating Through the Maze of Windows Error Code 0Xc00000f</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-nullnone-value-dilemmas-on-windows/"><u>Overcoming Null/None Value Dilemmas on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-tip-addressing-winscomrsvc-system-crashes/"><u>Quick Tip: Addressing WinscomrsVc System Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-marketplace-failures-x80131500/"><u>Resolving Windows Marketplace Failures X80131500</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-frozen-pages-and-scrolling-issues-in-excel/"><u>Stop Frozen Pages and Scrolling Issues in Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-6-windows-11-prime-fps-monitors-and-trackers/"><u>Top 6 Windows 11: Prime FPS Monitors & Trackers</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-text-selection-power-in-windows-pdf-files/"><u>Unleashing Text Selection Power in Windows PDF Files</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/whatsapp-broadcasting-share-your-tweets-video-style/"><u>WhatsApp Broadcasting  Share Your Tweets Video-Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11-revolution-essential-replacement-tools-to-consider/"><u>Win 11 Revolution: Essential Replacement Tools to Consider</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11s-guide-to-stable-background-fixes/"><u>Win11's Guide to Stable Background Fixes</u></a></li>
+</ul></div>

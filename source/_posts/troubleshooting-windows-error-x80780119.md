@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows' Error X80780119
-date: 2024-07-11T22:03:04.457Z
-updated: 2024-07-12T22:03:04.457Z
+date: 2024-08-15T15:30:28.750Z
+updated: 2024-08-16T15:30:28.750Z
 tags:
   - windows10
   - windows11
@@ -61,9 +61,15 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 3. In the Properties dialog, navigate to the **Tools** tab and move to the **Error checking** section.
 4. Click on the **Check** button here and wait for the system to complete the scan. This may take some time, depending upon the size of your disk.  
 ![Run the error checking tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/error-checking-tool.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 
  If any issues are found, Windows will prompt you to repair them. Follow the on-screen instructions to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Enable System Protection
 
  Several users also noticed that they were facing the problem due to the system protection feature being disabled for the targeted drive. If you have this option disabled in your system, we suggest enabling it and checking if that makes any difference.
@@ -74,11 +80,20 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 2. Navigate to **System** \> **About**.
 3. Head over to the **Device specifications** section and click on the **System protection** option.  
 ![Click on the System protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-protection-options.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 4. In the following dialog, head over to the **System Protection** tab.
 5. Choose the targeted drive and click on the **Configure** button.  
 ![Click on the Configure button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/configure-button.jpg)
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Enable the **Turn on system protection** option and click **Apply** \> **OK** to save the changes.  
 ![Enable system protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/enable-system-protection.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can now close the System Protection dialog and check if the issue is resolved.
 
@@ -95,6 +110,9 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
 3. Now, click on the **Add** button.
 4. In the next dialog, choose **Assign the following drive letter** and click **OK**.  
 ![Change the USB Drive Letter Using Disk Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-the-usb-drive-letter-using-disk-management.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 5. Once done, press the **Win** \+ **R** keys together to open Run.
 6. Type "cmd" in Run and click **Ctrl** \+ **Shift** \+ **Enter** to open Command Prompt as an administrator.
 7. Confirm your action in the UAC prompt.
@@ -118,3 +136,44 @@ thumbnail: https://thmb.techidaily.com/ed85d5260878e7afe5eab5cc1189d2e4580a5c9f5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-time-your-shots-perfectly-tips-for-instagrams-slow-motion/"><u>[New] 2024 Approved  Time Your Shots Perfectly  Tips for Instagram’s Slow Motion</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-editmaster-app/"><u>[Updated] EditMaster App</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-kinemasters-guide-engineering-impeccable-video-continuity-for-2024/"><u>[Updated] Kinemaster's Guide  Engineering Impeccable Video Continuity for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-content-propagation-on-vimeo-for-2024/"><u>[Updated] Mastering Content Propagation on Vimeo for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-designers-odyssey-navigating-to-professional-prominence/"><u>[Updated] The Designer's Odyssey  Navigating to Professional Prominence</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tier-free-memes-for-everyday-chuckles/"><u>2024 Approved  Top-Tier Free Memes for Everyday Chuckles</u></a></li>
+<li><a href="https://games-able.techidaily.com/adjusting-discords-game-overlay-on-pc/"><u>Adjusting Discord’s Game Overlay on PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/affordable-entertainment-how-students-can-enjoy-youtube-premium-for-less/"><u>Affordable Entertainment: How Students Can Enjoy YouTube Premium for Less</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/deactivation-done-right-the-ultimate-instagram-guide-for-2024/"><u>Deactivation Done Right  The Ultimate Instagram Guide for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-for-a-constant-windows-printer/"><u>Guidelines for a Constant Windows Printer</u></a></li>
+<li><a href="https://windows11.techidaily.com/harmonizing-windows-and-wsl-after-a-major-update/"><u>Harmonizing Windows and WSL After a Major Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/harnessing-automatic-deletion-for-effortless-disk-space-maintainance/"><u>Harnessing Automatic Deletion for Effortless Disk Space Maintainance</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-immediuate-switch-text-editor-to-a-dark-scheme-windows-11/"><u>How to Immediuate Switch Text Editor to a Dark Scheme, Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-apex-smartphone-triad-for-ultimate-video-quality/"><u>In 2024, Apex Smartphone Triad for Ultimate Video Quality</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-instagram-storytelling-using-videos-effectively/"><u>In 2024, Instagram Storytelling  Using Videos Effectively</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/masterful-tricks-for-completing-100-windows-update/"><u>Masterful Tricks for Completing 100%% Windows Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-installation-of-the-latest-win11-version-22h2-update/"><u>Mastering Installation of the Latest Win11 Version 22H2 Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-your-way-through-playstation-1-games-in-windows-with-duckstation/"><u>Mastering Your Way Through PlayStation 1 Games in Windows with Duckstation</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-windows-11-like-a-pro-essential-search-hacks-revealed/"><u>Navigate Windows 11 Like a Pro: Essential Search Hacks Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-native-tools-for-disk-replication/"><u>Navigating Native Tools for Disk Replication</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-windows-11-the-8-most-common-mistakes-for-beginners-to-skip/"><u>Navigating Windows 11: The 8 Most Common Mistakes for Beginners to Skip</u></a></li>
+<li><a href="https://windows11.techidaily.com/reactivating-faster-execution-of-excel-on-windows-pcs/"><u>Reactivating Faster Execution of Excel on Windows PCs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-xiaomi-14-ultra-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Xiaomi 14 Ultra</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/seamless-integration-of-dvd-playback-on-your-system-for-2024/"><u>Seamless Integration of DVD Playback on Your System for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-audio-recorder-crash-9999-on-windows-platforms/"><u>Solving Audio Recorder Crash 9999 on Windows Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-regaining-router-interface-on-pc/"><u>Strategies for Regaining Router Interface on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-system-flush-steam-dns-cache-efficiently/"><u>Streamlining Your System: Flush Steam DNS Cache Efficiently</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-windows-files-delete-confirmations/"><u>Tailoring Windows Files' Delete Confirmations</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-experts-guide-to-navigating-with-windows-narrator/"><u>The Expert's Guide to Navigating with Windows Narrator</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-6-strengths-of-win11-outshining-macos/"><u>Top 6 Strengths of Win11 Outshining MacOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-win-rpc-errors-a-5-step-guide/"><u>Troubleshooting Win RPC Errors - A 5-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncovering-development-power-with-windows-11s-dev-drive-insights/"><u>Uncovering Development Power with Windows 11’S Dev Drive Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/ups-and-downs-on-the-desktop-frontier-comparing-w10-and-w11/"><u>Ups and Downs on the Desktop Frontier: Comparing W10 & W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/validate-your-gpus-mettle-using-these-6-tools-on-pc/"><u>Validate Your GPU's Mettle Using These 6 Tools on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-mastery-how-to-install-and-uninstall-optional-add-ons-successfully/"><u>Windows Mastery: How to Install and Uninstall Optional Add-Ons Successfully</u></a></li>
+</ul></div>

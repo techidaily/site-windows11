@@ -1,7 +1,7 @@
 ---
 title: "Quick Troubleshooting Guide: No Audio Output Error"
-date: 2024-07-11T21:48:02.677Z
-updated: 2024-07-12T21:48:02.677Z
+date: 2024-08-15T15:44:47.652Z
+updated: 2024-08-16T15:44:47.652Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 1. Right-click the **Speaker** icon in the system tray and select **Troubleshoot sound problems**.
 2. Similar to Windows 11, This will launch the **Get Help** app. Follow the on-screen instructions to scan your system for audio issues and fix them automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Install the Generic Audio Device Driver
 
  You can fix a corrupt driver by reinstalling the audio output driver with a generic device driver. This is useful if the proprietary audio device driver for your equipment is not working or corrupt. You can [use the Device Manager to update and reinstall device drivers on your Windows PC](https://www.makeuseof.com/how-to-use-device-manager-windows-10/).
@@ -59,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 ![browse-my-computer-for-driver-audio-device-pick-from-list-of-drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/browser-my-computer-for-driver-audio-device-pick-from-list-of-drivers.jpg)
 3. Check the **Show compatible hardware** option**.**  
 ![audio device driver generic device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/audio-device-driver-generic-device-manager.jpg)
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Next, select **Generic software device** and click **Next**.
 5. Wait for Windows to finish installing the drivers for the device.
 6. Close the Device Manager and check for any improvements.
@@ -82,12 +88,21 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 4. Right-click on the audio device and select **Update driver**.
 5. Select the **Browse my computer for drivers** option.  
 ![device manager browse my computer for drivers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/device-manager-browse-my-computer-for-drivers.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 6. Click the **Let me pick from a list of available drivers on my computer** option.  
 ![device manager let me pick from a list of available drivers on my computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/device-manager-let-me-pick-from-a-list-of-available-drivers-on-my-computer.jpg)
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 7. Select the driver under the **Model** section and click **Next** to install the driver.  
 ![device manager select the driver you want to install for this hardware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/device-manager-select-the-driver-you-want-to-install-for-this-hardware.jpg)
 8. Once installed, close **Device Manager**. This should fix the error and restore audio on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Install the Generic Audio Device Driver Using Device Manager
 
  You can also install the generic USB audio device driver using the "Add legacy hardware" option in Device Manager. Here’s how to do it.
@@ -101,6 +116,9 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 
 1. Next, select the **Install the hardware that I manually select from a list (Advanced)** option.  
 ![device manager install hardware that i manually select from list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/device-manager-install-hardware-that-i-manually-select-from-list.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 2. Click **Next**.
 3. Under **Common hardware types**, scroll down and select **Sound, video and game controllers.**  
 ![device manager add legacy hardware common hardware types](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/device-manager-add-legacy-hardware-common-hardware-types.jpg)
@@ -111,9 +129,15 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 7. Click **Next** once again to confirm the action.
 8. Wait for the installation to complete and click **Finish**. Restart your PC and check if your audio device is detected and working again.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Check if Your Audio Device Is Disabled
 
 ![enable audio device paly sound windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/enable-audio-device-paly-sound-windows.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 
  Check if you have accidentally disabled your audio device. While the audio troubleshooter should be able to detect and recommend the same, you can also enable the audio device manually.
 
@@ -135,12 +159,26 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 1. Press **Win + R** to open **Run**.
 2. Type **services.msc** and click **OK** to open the **Services** snap-in.  
 ![Windows Audio Endpoint Service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-audio-endpoint-service.jpg)
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Next, locate and right-click on **Windows Audio Endpoint Service Builder.**
 4. Select **Properties** from the context menu.  
 ![Windows Audio Endpoint Service startup type automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-audio-endpoint-service-startup-type-automatic.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 5. Click the drop-down for **Startup type** and select **Automatic**.
 6. Click **OK** to save the change.  
 ![Windows Audio Endpoint Service restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-audio-endpoint-service-restart.jpg)
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 7. Right-click on **Windows Audio Endpoint Builder** service again and then select **Restart**.
 8. Next, repeat the steps for the **Windows Audio service.**
 9. Once done, close the Services snap-in.
@@ -151,6 +189,9 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 
  To fix the problem, disable or remove any driver update utility such as Avast Driver Updater installed on your PC. Then run the audio troubleshooter again to see if that helps resolve the issue. Sometimes, you may need to remove the updater app to disable it completely.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## 7\. Repair the Windows Image With DISM
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/dism-scan-health-restore-health-command-prompt.jpg)
@@ -189,3 +230,45 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-elite-circle-of-digital-titling-top-5-revealed/"><u>[Updated] 2024 Approved  The Elite Circle of Digital Titling  Top 5 Revealed</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-experience-voice-transformation-list-of-the-best-android-recording-change-apps-for-2024/"><u>[Updated] Experience Voice Transformation  List of the Best Android Recording Change Apps for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-honor-80-pro-straight-screen-edition-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Honor 80 Pro Straight Screen Edition FRP</u></a></li>
+<li><a href="https://windows11.techidaily.com/access-control-microphone-and-camera-via-edge-protection/"><u>Access Control: Microphone and Camera via Edge Protection</u></a></li>
+<li><a href="https://windows11.techidaily.com/caution-not-to-use-chatbots-for-windows-key-formation/"><u>Caution: Not to Use Chatbots For Windows Key Formation</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/creating-immersive-iphone-video-content/"><u>Creating Immersive iPhone Video Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-the-meaning-of-0xc000003e-hexadecimal-errors/"><u>Decoding the Meaning of 0xC000003E Hexadecimal Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-pathway-to-activating-windows-media-player/"><u>Easy Pathway to Activating Windows Media Player</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-file-system-in-windows-unveiled-max-156/"><u>Effective File System in Windows Unveiled (Max 156)</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/effortless-ways-to-transfer-data-from-your-apple-iphone-se-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Effortless Ways to Transfer Data from Your Apple iPhone SE to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-photo-printer-over-printing-white-paper/"><u>Epson Photo Printer: Over-Printing White Paper</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-to-overcome-windows-code-error/"><u>Essential Tips to Overcome Window's Code Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-your-speakers-back-reactivating-disabled-audio-functionality-on-windows-7/"><u>Getting Your Speakers Back: Reactivating Disabled Audio Functionality on Windows 7</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-itel-p40plus-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Itel P40+ Safely | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-open-the-volume-mixer-in-windows-11/"><u>How to Open the Volume Mixer in Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-oneplus-ace-2v-phone-that-is-locked-by-drfone-android/"><u>How to Reset a OnePlus Ace 2V Phone that is Locked?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-asus-rog-phone-7-devices-by-drfone-android/"><u>How to Reset Gmail Password on Asus ROG Phone 7 Devices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-how-to-remove-filmora-watermark-withwithout-paying/"><u>In 2024, How to Remove Filmora Watermark With/Without Paying?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photographing-the-stars-at-night-with-iphones/"><u>In 2024, Photographing the Stars at Night with iPhones</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-ultimate-guide-for-high-quality-movies-on-windowsmac-and-tablets/"><u>In 2024, The Ultimate Guide for High-Quality Movies on Windows/Mac & Tablets</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-nokia-xr21-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Nokia XR21 Location | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-sluggishness-valorant-on-windows/"><u>Overcome Sluggishness: Valorant on Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/premier-video-communication-tools-the-top-10-for-ios-and-android/"><u>Premier Video Communication Tools  The Top 10 for iOS & Android</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-fixing-photography-packaging-issues-on-windows-11/"><u>Quick Guide: Fixing Photography Packaging Issues on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/removing-obstacles-in-windows-update-code-0xc004f050/"><u>Removing Obstacles in Windows Update (Code 0XC004F050)</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-launching-works-on-windows-10plus/"><u>Step-by-Step: Launching Works on WIndows 10+</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-security-implementing-custom-pattern-locks-in-windows/"><u>Tailored Security: Implementing Custom Pattern Locks in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-integration-connect-ps3-dualshock-wirelessly/"><u>Tech Integration: Connect PS3 DualShock Wirelessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/three-easy-steps-to-unlock-your-network-with-telnet-on-wins/"><u>Three Easy Steps to Unlock Your Network with Telnet on Wins</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-8-common-slip-ups-for-first-time-windows-11-enthusiasts/"><u>Top 8 Common Slip-Ups for First-Time Windows 11 Enthusiasts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-vivo-v27-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Vivo V27 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unbeatable-apple-watch-offers-dont-miss-out-on-savings/"><u>Unbeatable Apple Watch Offers - Don't Miss Out on Savings!</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-software-integration-the-windows-11-troubleshooter/"><u>Unlocking Software Integration: The Windows 11 Troubleshooter</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-secrets-of-winnettoolbox/"><u>Unlocking the Secrets of WinNetToolbox</u></a></li>
+<li><a href="https://windows11.techidaily.com/unplugged-os-easy-win11-setup-without-internet/"><u>Unplugged OS: Easy Win11 Setup without Internet</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-winerrors-your-guide-to-fixes/"><u>Unraveling the Mystery of WinErrors: Your Guide to Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-windows-11-audio-adjustment-tools/"><u>Unveiling the Windows 11 Audio Adjustment Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-a78-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo A78 Device</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Achieving a Peaceful State: Disable Background Tasks"
-date: 2024-07-11T22:20:20.547Z
-updated: 2024-07-12T22:20:20.547Z
+date: 2024-08-15T15:12:47.752Z
+updated: 2024-08-16T15:12:47.752Z
 tags:
   - windows10
   - windows11
@@ -64,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
 1. Press **Win + R** to open the **Run** dialog.
 2. Type **notepad** and click **OK** to open the text editor app.  
 ![disable background apps windows 11 registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-background-apps-windows-11-registry-editor.jpg)
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 3. In the Notepad file, copy and paste the following content:  
 `Windows Registry Editor Version 5.00  
 
@@ -74,6 +77,9 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
 4. Next, press **Win + S** to open the **Save** dialog.
 5. Here, name the file as **Disable\_Background\_Apps\_for\_current\_user.reg**. Then, click the **Save as type** drop-down and select **All Files.**  
 ![disable background apps windows 11 registry editor save](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-background-apps-windows-11-registry-editor-save.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 6. Click the **Save** button to save the file.
 7. Right-click on the newly created reg file and select **Open.** Click **Yes** to confirm and modify the registry entries to disable background apps.
 8. If the script runs without error, restart your PC to apply the changes.
@@ -85,6 +91,9 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
  If you need to turn on background apps for the current user, then save the following script as **enable\_background\_apps.reg** and run it as administrator.
 
 ![reg file content background app disable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/reg-file-content-background-app-disable.png)
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 
 `Windows Registry Editor Version 5.00  
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications]  
@@ -92,6 +101,9 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Search]  
 "BackgroundAppGlobalToggle"=-`
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. How to Disable Background Apps for All Users Using Registry Editor
 
  If you want to disable background apps for all the user accounts, you can manually create and modify the registry values in the Registry Editor.
@@ -104,6 +116,10 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
 `HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows`
 4. Under the **Windows** key, locate the **AppPrivacy** key**.** If not available, you will need to create a new key.  
 ![registry editor create new key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/registry-editor-create-new-key.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 5. Right-click on the **Windows** key and select **New > Key.** Rename the key as **AppPrivacy.**
 6. Right-click on the **AppPrivacy** key and select **New > DWORD (32-bit) Value**. Rename the value as **LetAppsRunInBackground.**  
 ![registry editor create new value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/registry-editor-create-new-value.png)
@@ -127,9 +143,15 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
 `Computer Configuration\Administrative Templates\Windows Components\App Privacy​`
 3. In the right pane, locate and double-click on **Let Windows apps run in the background** policy.  
 ![disable background app group policy editor policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/disable-background-app-group-policy-editor-policy.png)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. In the new window that appears, select **Enabled**.
 5. Next, under the **Options** section, click the drop-down for **Default for all apps** and select **Force Deny**.  
 ![disable background app group policy editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/disable-background-app-group-policy-editor.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 6. Click **OK** and **Apply** to save the changes.
 
  Alternatively, you can set the Let Windows apps run in the background policy to **Disabled** and apply the changes. However, when set to **Disabled** or **Not Configured**, individual employees in your organization can configure the apps to run in the background.
@@ -153,3 +175,39 @@ thumbnail: https://thmb.techidaily.com/3e8a6c48903de348edfc32de01dc40c1bc954d345
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-from-past-to-present-a-detailed-tiktok-username-overhaul-guide/"><u>[New] 2024 Approved  From Past to Present  A Detailed TikTok Username Overhaul Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elevate-your-content-youtube-movie-maker-101/"><u>[Updated] 2024 Approved  Elevate Your Content  YouTube Movie Maker 101</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-ultimate-free-android-capturer/"><u>[Updated] Ultimate Free Android Capturer</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-storing-your-stories-and-snaps-safely-on-ios-devices/"><u>2024 Approved  Storing Your Stories and Snaps Safely on iOS Devices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-ultimate-perspective-ranking-the-top-11-multi-angle-cams/"><u>2024 Approved  The Ultimate Perspective  Ranking the Top 11 Multi-Angle Cams</u></a></li>
+<li><a href="https://windows11.techidaily.com/five-fun-flicks-in-windows-cmd-world/"><u>Five Fun Flicks in Windows' CMD World</u></a></li>
+<li><a href="https://windows11.techidaily.com/getting-the-0x0-0x0-error-code-in-windows-11-heres-how-to-fix-it/"><u>Getting the 0X0 0X0 Error Code in Windows 11? Here's How to Fix It</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-12-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 12 to Samsung | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exquisite-note-taking-experience-on-mematic/"><u>In 2024, Exquisite Note-Taking Experience on Mematic</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-restarting-non-starting-windows-drivers/"><u>Mastering the Art of Restarting Non-Starting Windows Drivers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/maximize-productivity-with-zoom-scheduling-techniques/"><u>Maximize Productivity with Zoom Scheduling Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/meet-asuss-latest-rivals-to-rog-ally-in-gaming/"><u>Meet ASUS’s Latest Rivals to ROG Ally in Gaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/mend-your-meeting-screen-display/"><u>Mend Your Meeting Screen Display</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-for-reviving-your-windows-11-password/"><u>Methods for Reviving Your Windows 11 Password</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-common-pin-hurdles-in-modern-windows-os-win10win11/"><u>Navigating Common PIN Hurdles in Modern Windows OS (Win10/Win11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-essential-elements-warning-in-windows-11/"><u>Navigating Through Essential Elements Warning in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/regaining-run-windows-past-execution/"><u>Regaining Run Window's Past Execution</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-chrome-setup-in-windows-11-systems/"><u>Seamless Chrome Setup in Windows 11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/speedy-access-to-repair-solutions-customizing-hotkeys-for-win-1011/"><u>Speedy Access to Repair Solutions: Customizing Hotkeys for Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-successful-v22h2-updater-execution-on-win11/"><u>Strategies for Successful V22H2 Updater Execution on WIN11</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-driving-experience-with-free-upgrades-for-windows-users/"><u>Streamline Driving Experience with Free Upgrades for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-not-found-gpeditmsc-in-windows-errors/"><u>Tackling the Not Found: Gpedit.msc in Windows Errors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-artistic-journey-animating-scenes-with-windows-movie-maker/"><u>The Artistic Journey  Animating Scenes with Windows Movie Maker</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-old-drives-step-by-step-for-windows-rejuvenation/"><u>Transforming Old Drives: Step-by-Step for Windows Rejuvenation</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-error-code-9999-in-win-based-audacity/"><u>Unraveling the Mystery of Error Code 9999 in Win-Based Audacity</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-windows-11s-elevation-failures/"><u>Unraveling the Mystery of Windows 11’S Elevation Failures</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-end-task-control-capabilities-in-windows-11-ui-environment/"><u>Unveiling End Task Control Capabilities in Windows 11 UI Environment</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-discover-the-best-top-10-video-players-for-slow-motion-playback/"><u>Updated 2024 Approved Discover the Best Top 10 Video Players for Slow Motion Playback</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-swift-solutions-for-auditory-clarity-banishing-buildup-noise/"><u>Updated Swift Solutions for Auditory Clarity Banishing Buildup Noise</u></a></li>
+<li><a href="https://windows11.techidaily.com/utilizing-rgb-lighting-on-win11-pcs/"><u>Utilizing RGB Lighting on Win11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-establishing-kids-online-boundaries/"><u>Windows 11: Establishing Kids' Online Boundaries</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-watchlist-7-tasks-to-inspect-for-hidden-viruses/"><u>Windows Watchlist: 7 Tasks to Inspect for Hidden Viruses</u></a></li>
+</ul></div>

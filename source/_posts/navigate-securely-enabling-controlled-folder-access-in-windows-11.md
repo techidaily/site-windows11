@@ -1,7 +1,7 @@
 ---
 title: "Navigate Securely: Enabling Controlled Folder Access in Windows 11"
-date: 2024-07-11T21:38:24.910Z
-updated: 2024-07-12T21:38:24.910Z
+date: 2024-08-15T15:54:06.181Z
+updated: 2024-08-16T15:54:06.181Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 
 ![The Add a protected folder button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-a-protected-folder-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## How to Turn on Controlled Folder Access With PowerShell
 
  Windows PowerShell gives you an alternative method to enable and disable controlled folder access by executing commands. You can turn on controlled folder access with PowerShell as follows:
@@ -45,6 +48,9 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 4. To enable controlled folder access, input this command text and hit**Enter** :  
 `Set-MpPreference -EnableControlledFolderAccess Enabled`  
 ![The enable controlled folder access command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-controlled-folder-access-command.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 5. You can disable controlled folder access by executing this command:  
 `Set-MpPreference -EnableControlledFolderAccess Disabled`
 
@@ -58,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 2. Select**gpedit.msc** to [bring up the Group Policy Editor](https://www.makeuseof.com/windows-11-open-local-group-policy-editor/) .
 3. Click**Computer Configuration** \>**Administrative Templates** inside Group Policy Editor’s left pane.  
 ![Administrative Templates in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/computer-configuration-in-group-policy-editor.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 4. Double-click**Windows Components** to expand it.
 5. Click the arrows for expanding**Microsoft Defender Antivirus** and**Microsoft Defender Exploit Guard** .
 
@@ -70,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 5. Select**Apply** in the Configure Controlled folder access window.
 6. Click the Configure Controlled folder access window’s**OK** button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Turn on Controlled Folder Access From the Windows Context Menu
 
  Alternatively, you can create a context menu shortcut for enabling/disabling controlled folder access. Then you’ll be able to access a Turn on Control folder access setting directly from the desktop area of Windows. You can add such a CFA option to the right-click menu by setting up and running a registry script like this:
@@ -143,8 +155,14 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 `HKEY_CLASSES_ROOT\DesktopBackground\Shell\ControlledFolderAccess`
 3. Right-click the Controlled Folder Access key to select**Delete** .  
 ![The Delete key option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-option-for-registry-key.jpg)
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Click**Yes** to erase that key.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Set Controlled Folder Access Exceptions
 
  The problem with controlled folder access is that it can stop legitimate apps from accessing required files when they need to. That can be an especially big issue for Windows gaming since untrusted games often can’t save progress with controlled folder access enabled. In-game settings can also reset when that feature is turned on.
@@ -157,6 +175,9 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 ![The Add an allowed app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-an-allowed-app.jpg)
 4. Click**Browse all** **apps** on the menu that appears.  
 ![The Browse all apps option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/browse-all-apps-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Select the EXE (application) file for a game or other software you want to exclude from controlled folder access.
 6. Click**Open** to add the selected game or software.
 
@@ -182,3 +203,52 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-filters-a-2023-guide-to-enhanced-photography-for-2024/"><u>[New] Instagram Filters  A 2023 Guide to Enhanced Photography for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-orchestrating-overtures-for-optimal-movie-teasers/"><u>[New] Orchestrating Overtures for Optimal Movie Teasers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-convert-your-avis-to-impactful-gifs-using-filmora-on-windowsmacos/"><u>[Updated] Convert Your AVIs to Impactful GIFs Using Filmora on Windows/MacOS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhancing-storytelling-with-jump-cuts-technique/"><u>[Updated] In 2024, Enhancing Storytelling with Jump Cuts Technique</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-ultimate-user-handbook-youtube-conduct-codes/"><u>[Updated] In 2024, Ultimate User Handbook  YouTube Conduct Codes</u></a></li>
+<li><a href="https://windows11.techidaily.com/11-ways-to-fix-the-windows-search-bar-not-showing-or-working-on-windows-11/"><u>11 Ways to Fix the Windows Search Bar Not Showing or Working on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-must-know-factors-for-buying-your-ideal-windows-computer/"><u>7 Must-Know Factors for Buying Your Ideal WIndows Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-comprehensive-guide-to-tweaking-firewall-security/"><u>A Comprehensive Guide to Tweaking Firewall Security</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerated-tactics-for-gaming-hardware-recognition/"><u>Accelerated Tactics for Gaming Hardware Recognition</u></a></li>
+<li><a href="https://windows11.techidaily.com/account-annihilation-simple-ways-to-render-user-non-existent-on-win11/"><u>Account Annihilation: Simple Ways to Render User Non-Existent on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieving-a-crystal-clarity-on-your-windows-taskbar/"><u>Achieving a Crystal Clarity on Your Windows Taskbar</u></a></li>
+<li><a href="https://games-able.techidaily.com/amd-introduces-fsr-3-potential-contender-or-nvidias-loss-leader/"><u>AMD Introduces FSR 3: Potential Contender or NVIDIA's Loss Leader?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/analyzing-best-days-for-highest-audience-retention-for-2024/"><u>Analyzing Best Days for Highest Audience Retention for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/are-the-icons-on-your-windows-desktop-overlapping-here-are-some-solutions/"><u>Are the Icons on Your Windows Desktop Overlapping? Here Are Some Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-disruption-fix-windows-gaming-woe-errors/"><u>Avoid Disruption, Fix Windows' Gaming WoE Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-game-breaking-interruptions-fixed-steams-error-code-e84/"><u>Avoid Game-Breaking Interruptions: Fixed Steam’s Error Code E84</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoidance-of-expiring-notification-in-windows-11-devices/"><u>Avoidance of ‘Expiring’ Notification in Windows 11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/balance-usage-and-energy-efficiency-with-automatic-rest-mode/"><u>Balance Usage & Energy Efficiency with Automatic Rest Mode</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-discord-connectivity-woes-with-our-expert-fix-it-manual/"><u>Beat Discord Connectivity Woes with Our Expert Fix-It Manual</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-your-youtube-earnings-with-effective-adsense-use/"><u>Boost Your YouTube Earnings with Effective AdSense Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-boot-speed-with-simple-steps-in-windows-11-setup/"><u>Boosting Boot Speed with Simple Steps in Windows 11 Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/breach-limitation-threshold-unleash-higher-ethernet-speeds-on-windows/"><u>Breach Limitation Threshold: Unleash Higher Ethernet Speeds on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-roblox-error-262s-solutions/"><u>Breaking Down Roblox Error 262'S Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-the-cycle-of-unresponsive-photoshop-on-windows/"><u>Breaking the Cycle of Unresponsive Photoshop on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/broken-bitsafe-vault-postpone-the-transition/"><u>Broken BitSafe Vault: Postpone the Transition</u></a></li>
+<li><a href="https://windows11.techidaily.com/building-a-linux-ecosystem-within-hyper-v-windows-environment/"><u>Building a Linux Ecosystem Within Hyper-V Windows Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-failures-fixing-vagrant-boot-problems-win11/"><u>Bypassing Failures: Fixing Vagrant Boot Problems Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-windows-troublesome-dism-error-0x800f082f/"><u>Bypassing Windows' Troublesome DISM: Error 0X800F082F</u></a></li>
+<li><a href="https://windows11.techidaily.com/changing-onedrive-storage-address-in-windows-10/"><u>Changing OneDrive Storage Address in Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/complete-approach-to-deleting-the-wsl-subsystem/"><u>Complete Approach to Deleting the WSL Subsystem</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquer-words-best-writing-software-for-windows-users/"><u>Conquer Words: Best Writing Software for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-ms-resouce-issue-for-text-display/"><u>Correcting Ms-Resouce Issue for Text Display</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-for-clarity-windows-terminal-as-main-app/"><u>Customize for Clarity: Windows Terminal As Main App</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-and-disabling-read-only-properties-in-win11/"><u>Deciphering and Disabling Read-Only Properties in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-why-many-dismiss-windows-11-now/"><u>Decoding Why Many Dismiss Windows 11 Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/decreasing-high-cpu-drain-tips-for-vanguards-user-mode-service/"><u>Decreasing High CPU Drain: Tips for Vanguard's User-Mode Service</u></a></li>
+<li><a href="https://windows11.techidaily.com/decreasing-visual-noise-windows-11-tab-control/"><u>Decreasing Visual Noise: Windows 11 Tab Control</u></a></li>
+<li><a href="https://windows11.techidaily.com/delving-into-individual-user-settings-on-group-policy-level/"><u>Delving Into Individual User Settings on Group Policy Level</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/immediate-access-to-lexar-usb-drives-secure-your-free-download-today/"><u>Immediate Access to Lexar USB Drives: Secure Your Free Download Today!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-honor-80-pro-straight-screen-edition-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Honor 80 Pro Straight Screen Edition without App | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/live-chat-with-woocommerce-leading-into-the-live-selling-world-for-2024/"><u>Live Chat With WooCommerce Leading Into the Live Selling World for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/overcoming-dll-hiccups-repairing-microsofts-directinput-and-directx-components-successfully/"><u>Overcoming DLL Hiccups: Repairing Microsoft's DirectInput & DirectX Components Successfully</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/simple-sound-transformation-iphone-friendly-software-for-youtube-to-mp3-for-2024/"><u>Simple Sound Transformation  IPhone-Friendly Software for YouTube-to-MP3 for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/start-live-webcam-recording-with-vlc-media/"><u>Start Live Webcam Recording with VLC Media</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/triple-tactic-tracker-how-to-scrutinize-your-subscriber-earnings-on-googles-platform-youtube-for-2024/"><u>Triple Tactic Tracker  How to Scrutinize Your Subscriber Earnings on Google's Platform, YouTube for 2024</u></a></li>
+</ul></div>

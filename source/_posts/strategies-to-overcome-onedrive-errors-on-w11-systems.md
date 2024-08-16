@@ -1,7 +1,7 @@
 ---
 title: Strategies to Overcome OneDrive Errors on W11 Systems
-date: 2024-07-11T22:08:18.809Z
-updated: 2024-07-12T22:08:18.809Z
+date: 2024-08-15T15:25:18.015Z
+updated: 2024-08-16T15:25:18.015Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
  First, check your PC’s drive storage space by launching File Explorer and clicking**This PC** . The C: drive icon there shows you how much free storage is available.
 
 ![The Local Disk storage icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/local-disk-storage-icon.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your PC’s hard drive is full, or close to it, free up some storage space. You can make more space on your hard drive by uninstalling software, deleting unneeded user files, and erasing junk data. Our guide about [how to free up storage space in Windows 11](https://www.makeuseof.com/windows-11-free-up-storage-space/) includes numerous methods for making space on a drive.
 
@@ -58,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 3. Type or paste the following command for resetting OneDrive into Run:  
 `%localappdata%\Microsoft\OneDrive\OneDrive.exe /reset`  
 ![The reset OneDrive Run command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-reset-one-drive-command.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. Click**OK** to execute the reset command for OneDrive.
 5. If the OneDrive icon doesn’t reappear after the reset, input this command into Run and click**OK** :  
 `%localappdata%\Microsoft\OneDrive\onedrive.exe`
@@ -76,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 7. Keep clicking**Next** a few times, and select the**Open my OneDrive folder** option.  
 ![The Open my OneDrive folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-my-onedrive-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Enable the "Always Keep on Device" and "Free Up Space" Options
 
  Some OneDrive users have confirmed selecting to always keep affected files on the device, along with a "free up space" option, can fix error 0x80070185\. Selecting the "always keep on this device" option makes a OneDrive file available offline.
@@ -86,9 +95,17 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 2. Click the arrow for your OneDrive storage on the left of Explorer.
 3. Right-click the file affected by error 0x80070185 and select**Always keep on this** **device** .  
 ![The Always keep on this device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/always-keep-on-this-device-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 4. Then right-click the same file again to select**Free up** **space** .
 5. Repeat these steps for all files you can’t access because of error 0x80070185.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## 6\. Turn Off Any Active Firewalls
 
  Firewall blocks applied to OneDrive can sometimes cause the error 0x80070185 to occur. We recommend users temporarily turn off firewalls to see if they’re causing this issue. You can turn off the Windows Defender Firewall with the following steps:
@@ -98,6 +115,9 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 3. Select the**Windows Defender Firewall** search result to view the applet in the Control Panel.
 4. Click**Turn Windows Defender Firewall on or off** to access the settings.  
 ![The Windows Defender Firewall applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-defender-firewall-applet.jpg)
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Select the two**Turn off Windows Defender Firewall** network settings, and click**OK** to apply.  
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/turn-off-windows-defender-firewall-option.jpg)
 6. Return to OneDrive to see if the 0x80070185 error persists with the firewall off.
@@ -114,11 +134,17 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 2. Select**OK** to view Apps & features in Settings.
 3. If you’re using Windows 11’s Settings app, click OneDrive’s three-menu button and click**Uninstall** . You can select OneDrive and press**Uninstall** in Windows 10.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-uninstall-option.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 4. Select**Uninstall** for confirmation.
 5. Open the [OneDrive page on the Microsoft Store](https://apps.microsoft.com/store/detail/onedrive/9WZDNCRFJ1P3?hl=en-gb&gl=gb) .
 6. Click OneDrive’s**Get in Store** button.
 7. Select**Open Microsoft Store** to view the OneDrive page in that app.  
 ![The Get button for OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/get-button-for-onedrive.jpg)
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 8. Click**Get** to reinstall OneDrive.
 
 ## Access your OneDrive Files again
@@ -143,3 +169,53 @@ thumbnail: https://thmb.techidaily.com/6110f59d84b8b2836afe3cb9128ab55b4983bac7c
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enhance-engagement-select-best-fonts-for-your-thumbnails/"><u>[New] 2024 Approved  Enhance Engagement  Select Best Fonts for Your Thumbnails</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-a-comprehensible-approach-uploading-snapchat-images-offline/"><u>[New] A Comprehensible Approach  Uploading Snapchat Images Offline</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-immersive-image-editing-online-cropping-essentials/"><u>[New] Immersive Image Editing  Online Cropping Essentials</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-best-zoom-transcription-software/"><u>[New] In 2024, Best Zoom Transcription Software</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-digital-dynamo-dames-the-next-generation-of-youtubes-powerhouses/"><u>[New] In 2024, Digital Dynamo Dames  The Next Generation of YouTube's Powerhouses</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-prime-uav-options-to-maximize-your-gopro-video-potential-for-2024/"><u>[New] Prime UAV Options to Maximize Your GoPro Video Potential for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-uniting-friends-across-operating-systems-with-skype-groups-for-2024/"><u>[New] Uniting Friends Across Operating Systems with Skype Groups for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-steady-craft-fights-against-camera-jiggles/"><u>[Updated] Steady Craft  Fights Against Camera Jiggles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlock-video-editing-mastery-using-lut-filters-in-obs-studio/"><u>[Updated] Unlock Video Editing Mastery Using LUT Filters in OBS Studio</u></a></li>
+<li><a href="https://windows11.techidaily.com/10-command-prompt-wonders-you-didnt-know/"><u>10 Command Prompt Wonders You Didn’t Know!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-premium-uav-selection-in-stock/"><u>2024 Approved  Premium UAV Selection in Stock</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-virtual-fraud-tips-for-discerning-true-windows-apps/"><u>Avoid Virtual Fraud: Tips for Discerning True Windows Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/dissecting-the-absence-of-drive-letters-in-windows-environments/"><u>Dissecting the Absence of Drive Letters in Windows Environments</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-backlight-on-your-lenovo-tvmonitor/"><u>Enhancing Backlight On Your Lenovo TV/Monitor</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensure-seamless-fullscreen-launch-on-windows-pcs/"><u>Ensure Seamless Fullscreen Launch on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tracker-tools-the-ultimate-6-list-for-windows-users/"><u>Essential Tracker Tools: The Ultimate 6 List For Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-advice-overcoming-printer-error-0xfffffff/"><u>Expert Advice: Overcoming Printer Error 0xFFFFFFF</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-oneplus-ace-3-screen-sharing-drfone-by-drfone-android/"><u>How To Do OnePlus Ace 3 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-windows-11-when-it-cant-connect-to-5ghz-wi-fi/"><u>How to Fix Windows 11 When It Can’t Connect to 5GHz Wi-Fi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y100i-power-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y100i Power 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unlock-and-reset-restricted-program-status/"><u>How to Unlock and Reset Restricted Program Status</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-itel-p40plus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Itel P40+ to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-converting-memories-into-videos-the-power-of-pixiz-techniques/"><u>In 2024, Converting Memories Into Videos  The Power of Pixiz Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-exclusive-list-11-pioneering-cost-free-online-title-makers-for-yt/"><u>In 2024, Exclusive List  11 Pioneering, Cost-Free Online Title Makers for YT</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-expressing-emotionally-using-emojis-for-yt-comments/"><u>In 2024, Expressing Emotionally  Using Emojis for YT Comments</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-fb-videos-unleashed-with-new-mobile-app/"><u>In 2024, FB Videos Unleashed with New Mobile App</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-surface-software-enhancement-techniques-for-maximum-performance/"><u>Mastering Surface Software Enhancement Techniques for Maximum Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-win11-pointer-adjustments-for-access/"><u>Mastering Win11 Pointer Adjustments for Access</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-windows-11-search-with-custom-settings/"><u>Optimizing Windows 11 Search with Custom Settings</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/rapid-bulgarian-proficiency-10-minday/"><u>Rapid Bulgarian Proficiency, 10 Min/Day</u></a></li>
+<li><a href="https://windows11.techidaily.com/recover-lost-pin-following-system-breakdown-on-windows-11/"><u>Recover Lost PIN Following System Breakdown on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectify-stalling-windows-guard-mechanism-in-win-11/"><u>Rectify Stalling Windows Guard Mechanism in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/redirecting-to-file-explorer-from-onedrive-menu/"><u>Redirecting to File Explorer From OneDrive Menu</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedy-troubleshooting-excel-display-issue-in-notepad/"><u>Remedy: Troubleshooting Excel Display Issue in Notepad</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-nvidia-experience-connectivity-issues-on-pcs/"><u>Remedying Nvidia Experience Connectivity Issues on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/skyrocket-your-typing-swift-input-strategies-for-win-1011-users/"><u>Skyrocket Your Typing: Swift Input Strategies for WIN 10/11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-taskbar-transparency-in-maxed-browser-screens/"><u>Solutions for Taskbar Transparency in Maxed Browser Screens</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-completely-removing-wsl-in-win-11/"><u>Step-by-Step: Completely Removing WSL in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-stopping-self-activating-store-app/"><u>Strategies for Stopping Self-Activating Store App</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-guide-to-image-spin-on-your-windows-11-pc/"><u>The Complete Guide to Image Spin on Your Windows 11 PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-insiders-edge-building-snaps-with-powertoys/"><u>The Insider's Edge: Building Snaps with PowerToys</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-selection-of-cost-free-storage-solutions-for-windows-users/"><u>The Ultimate Selection of Cost-Free Storage Solutions for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-s23-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-guide-to-blurring-videos-online-for-free-updated-2023/"><u>Updated 2024 Approved The Ultimate Guide to Blurring Videos Online for Free (Updated 2023)</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-choosing-windows-11-is-a-wise-decision-over-macos/"><u>Why Choosing Windows 11 Is a Wise Decision over MacOS</u></a></li>
+</ul></div>

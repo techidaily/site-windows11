@@ -1,7 +1,7 @@
 ---
 title: "How to Optimize Your Browsing Experience: Use Defender Aguard in Win 11 Edge"
-date: 2024-07-11T21:58:17.238Z
-updated: 2024-07-12T21:58:17.238Z
+date: 2024-08-15T15:34:08.509Z
+updated: 2024-08-16T15:34:08.509Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/f48216f44870658586ad3ccce716597fb01e77f08
 
  Then click**Uninstall Microsoft Defender Application Guard** and uncheck the box next to**Microsoft Defender Application Guard** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. How to Install Microsoft Defender Application Guard Using the Control Panel
 
  You can also install Microsoft Defender Application Guard for Edge on your Windows 11 computer using the classic Control Panel. Here's how to do it:
@@ -53,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/f48216f44870658586ad3ccce716597fb01e77f08
 
  In order to uninstall it, follow the same steps and uncheck the box next to**Microsoft Defender Application Guard** . Then click OK and reboot your computer to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## 3\. How to Install Microsoft Defender Application Guard Using Local Group Policy Editor
 
  Another method to install Microsoft Defender Application Guard is through the Local Group Policy Editor. This method requires some advanced knowledge and might be challenging for some users but don't worry; if you follow the steps, you'll be okay.
@@ -67,6 +74,11 @@ thumbnail: https://thmb.techidaily.com/f48216f44870658586ad3ccce716597fb01e77f08
 `Computer Configuration > Administrative Templates > Windows Components > Microsoft Defender Application Guard`
 4. Now go to the right pane and double-click on the **Turn On Microsoft Defender Application Guard in Managed Mode** policy.  
 ![Microsoft Defender Application Guard Using Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-defender-application-guard-using-local-group-policy-editor.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 5. This will open a new window, select the**Enabled** checkbox.
 6. You can now go to**Options** and change it to**2** or**3** .  
 ![Turn on Microsoft Defender Application Guard in Managed Mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/turn-on-microsoft-defender-application-guard-in-managed-mode.jpg)
@@ -74,6 +86,9 @@ thumbnail: https://thmb.techidaily.com/f48216f44870658586ad3ccce716597fb01e77f08
 
  Now restart your computer and Microsoft Defender Application Guard will be installed on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. How to Install Microsoft Defender Application Guard Using Command Prompt
 
  If you are comfortable with the command prompt, you can also install Microsoft Defender Application Guard using the Command Prompt. Follow the steps here:
@@ -91,6 +106,9 @@ thumbnail: https://thmb.techidaily.com/f48216f44870658586ad3ccce716597fb01e77f08
 
  At this point, you may be asked to restart your computer. To proceed, type**Y** and press Enter. After restarting, you will have successfully installed Microsoft Defender Application Guard on your system.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. How to Install Microsoft Defender Application Guard Using Windows PowerShell
 
  Alternatively, you can use Windows PowerShell to install Microsoft Defender Application Guard for Edge on Windows 11\. This is also a command-line process but is different from the Command Prompt application. Follow these steps to install Microsoft Defender Application Guard using Windows PowerShell:
@@ -111,6 +129,9 @@ thumbnail: https://thmb.techidaily.com/f48216f44870658586ad3ccce716597fb01e77f08
 
  This is how you can install and uninstall Microsoft Defender Application Guard using Windows PowerShell on Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Get Microsoft Defender Application Guard and Stay Safe
 
  Microsoft Defender Application Guard uses isolated secure containers to protect your device from malicious files and threats. In the above-described methods, you can follow the installation steps and remain safe while browsing the web.
@@ -134,3 +155,36 @@ thumbnail: https://thmb.techidaily.com/f48216f44870658586ad3ccce716597fb01e77f08
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-soft-declines-in-volume-using-audacity/"><u>[New] Crafting Soft Declines in Volume Using Audacity</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-depth-evaluation-hero4-black-experience/"><u>[New] In-Depth Evaluation  Hero4 Black Experience</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-make-thumbnails-for-youtube-with-mobile-phones/"><u>[Updated] How to Make Thumbnails for YouTube With Mobile Phones</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-revamp-chrome-browsing-sharper-social-media-videos/"><u>[Updated] In 2024, Revamp Chrome Browsing  Sharper Social Media Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/analyzing-the-impact-of-twitter-checkmarks-and-cybersecurity-alert-the-linus-tech-tips-compromise-demystifying-trojan-malware-threats/"><u>Analyzing the Impact of Twitter Checkmarks & Cybersecurity Alert: The Linus Tech Tips Compromise | Demystifying Trojan Malware Threats</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-a1x-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo A1x 5G Device SIM</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-tecno-pova-5-pro-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-up-and-running-quick-download-of-hp-envy-5660-driver-software/"><u>Get Up & Running: Quick Download of HP Envy 5660 Driver Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/hide-or-show-clock-secrets-of-the-taskbar/"><u>Hide or Show Clock - Secrets of the Taskbar</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-xiaomi-13t-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Xiaomi 13T FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/jumpstart-your-outdated-machine-with-windows-11-using-to-go-and-rufus-guide/"><u>Jumpstart Your Outdated Machine with Windows 11, Using To Go & Rufus Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/leap-ahead-in-workflow-management-embrace-flow-launcher-advantage/"><u>Leap Ahead in Workflow Management: Embrace Flow Launcher Advantage</u></a></li>
+<li><a href="https://windows11.techidaily.com/manual-antivirus-checks-finding-unseen-threats/"><u>Manual Antivirus Checks: Finding Unseen Threats</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-inter-system-file-transfer-with-nearby-share-protocols/"><u>Mastering Inter-System File Transfer with Nearby Share Protocols</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-xbox-live-service-recovery-steps/"><u>Mastering Xbox Live Service Recovery Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-nat-transition-a-comprehensible-win1110-approach/"><u>Mastery Over NAT Transition: A Comprehensible Win11/10 Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-windows-x709-problems/"><u>Mending Windows X709 Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-the-windows-and-wsl-harmony-in-post-update-phase/"><u>Navigating Through The Windows & WSL Harmony in Post-Update Phase</u></a></li>
+<li><a href="https://windows11.techidaily.com/resurrecting-dull-legacy-boot-options/"><u>Resurrecting Dull Legacy Boot Options</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-windows-speech-recognition-failure-to-initialize/"><u>Stop Windows Speech Recognition Failure to Initialize</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-account-associations-between-win-and-microsoft/"><u>Streamlining Account Associations Between WIN and MICROSOFT</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-calls-using-intel-unison-with-windows-11-pcs/"><u>Streamlining Calls: Using Intel Unison with Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-file-system-visibility-on-modern-windows-pcs/"><u>Transforming File System Visibility on Modern Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-steams-response-error/"><u>Troubleshooting Steam's Response Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-overcoming-key-issues-on-win11/"><u>Understanding and Overcoming Key Issues on Win11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleash-creativity-in-memes-genrator-assistance/"><u>Unleash Creativity in Memes  Gen'rator Assistance</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-windows-11-by-mastering-component-inclusion/"><u>Unlock the Full Potential of Windows 11 by Mastering Component Inclusion</u></a></li>
+<li><a href="https://windows11.techidaily.com/utilizing-in-built-color-tuning-for-win11-applications/"><u>Utilizing In-Built Color Tuning for Win11 Applications</u></a></li>
+<li><a href="https://windows11.techidaily.com/zero-user-scope-group-policy-execution-in-windows-10-and-11/"><u>Zero-User Scope Group Policy Execution in Windows 10 & 11</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Boosting Power: Start CMD as Administrator"
-date: 2024-07-11T21:33:38.263Z
-updated: 2024-07-12T21:33:38.263Z
+date: 2024-08-15T15:57:44.460Z
+updated: 2024-08-16T15:57:44.460Z
 tags:
   - windows10
   - windows11
@@ -65,8 +65,14 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 ![Open Local Security Policy Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Open-Local-Security-Policy-Using-Start-Menu.jpg)
 4. Now right-click on Command Prompt and select **Run as administrator**.  
 ![Run Command Promp Via Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Promp-Via-Start-Menu.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 5. If UAC appears on the screen, click **Yes** to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. How to Run Command Prompt as an Administrator Through Task Manager
 
  Task Manager is a tool that every Windows user should know about. It's a great way to see what programs are running on your computer and how many resources they're using at the same time. If you ever need to run a command prompt as an administrator, you can do so by opening Task Manager.
@@ -88,7 +94,14 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 3. Locate **Windows Tools** and click on it.
 4. Next, right-click on **Command Prompt** and select **Run as administrator**.  
 ![Run Command Promp Via Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Run-Command-Promp-Via-Start-Menu.jpg)
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## 7\. How to Run Command Prompt as an Administrator Via File Explorer
 
  There is an address bar in the File Explorer window that can be used to open Command Prompt as an administrator. In order to do this, follow these steps:
@@ -100,6 +113,10 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 ![Open Command Prompt Via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-Command-Prompt-Via-File-Explorer.jpg)
 5. When UAC appears on the screen, click **Yes** to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 8\. How to Run Command Prompt as an Administrator Using a Desktop Shortcut
 
  Creating a dedicated shortcut for an elevated Command Prompt is a smart move if you often run commands requiring administrative privileges. To get started, follow these steps:
@@ -118,6 +135,23 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 
  Once you have finished, click **OK** and then **Apply**. Your shortcut is now ready for use.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## 9\. How to Pin the Command Prompt to the Taskbar and Open It With Admin Rights
 
  If you're looking for a way to make your life a bit easier when it comes to using the Command Prompt, be sure to try out this method in Windows 11\.
@@ -125,12 +159,21 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 1. Open the Start menu and search for "cmd".
 2. Right-click on Command Prompt and select **Pin to taskbar**.  
 ![Pin Command Prompt to taskbar tray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Command-Prompt-to-taskbar-tray.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 3. Now go to the taskbar, and right-click on the Command Prompt icon.
 4. Right-click on **Command Prompt** again and select **Run as administrator**.  
 ![Pin Command Prompt to Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Pin-Command-Prompt-to-Taskbar.jpg)
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This way you will never have to worry about finding it again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 10\. How to Run Command Prompt as an Administrator Using a Keyboard Shortcut
 
  If you prefer a [shortcut key](https://www.makeuseof.com/windows-11-keyboard-shortcuts/), you can create it to open the command prompt as an administrator. Setting up a shortcut key is straightforward and involves a few steps. Here's how to do it:
@@ -150,6 +193,9 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
 
  This is an easy and fast way of opening the Command Prompt as an administrator without using the search box.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Run Elevated Command Prompts Like a Pro
 
  Running a command prompt is quite simple, but some tasks require elevated privileges. This guide will show you different methods for opening Command Prompt as an administrator without a hitch. So, check them out and let us know which method you find most useful.
@@ -167,3 +213,45 @@ thumbnail: https://thmb.techidaily.com/6c8487e0b404251fb12aeaebde28154ddd618ecb4
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-clear-the-way-for-smooth-safari-streaming/"><u>[New] Clear the Way for Smooth Safari Streaming</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-captivating-edu-videos-essential-techniques-and-tips-for-youtube-success/"><u>[New] In 2024, Crafting Captivating Edu-Videos  Essential Techniques and Tips for YouTube Success</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-expressiveness-enhancing-youtube-comments-via-emojis/"><u>[New] In 2024, Expressiveness  Enhancing YouTube Comments via Emojis</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-noise-free-video-chats-with-skype/"><u>[New] In 2024, Noise-Free Video Chats with Skype</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximizing-aerial-excellence-with-optimal-motor-selections/"><u>[New] Maximizing Aerial Excellence with Optimal Motor Selections</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-saving-the-fun-downloading-tweets-gif-content-easily/"><u>[New] Saving the Fun  Downloading Tweets' GIF Content Easily</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-guide-to-cross-platform-movie-capture/"><u>[New] The Ultimate Guide to Cross-Platform Movie Capture</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-masterpieces-at-play-choosing-the-top-10-thrilling-games-for-2024/"><u>[Updated] Masterpieces at Play  Choosing the Top 10 Thrilling Games for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/3d-paint-speed-expertise-through-shortcuts/"><u>3D Paint Speed Expertise Through Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/9-benefits-adopting-new-outlook-for-windows-users/"><u>9 Benefits: Adopting New Outlook for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/add-emulators-to-playnite-a-windows-guide/"><u>Add Emulators to Playnite: A Windows Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/adobe-validity-warning-fix-instantly-on-pc/"><u>Adobe Validity Warning: Fix Instantly on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-errors-manage-deps-for-virtualbox-on-windows/"><u>Avoid Errors: Manage Deps for VirtualBox on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/awakening-windows-11s-digital-storyteller/"><u>Awakening Windows 11'S Digital Storyteller</u></a></li>
+<li><a href="https://windows11.techidaily.com/brightening-up-dull-desktop-windows-appearance/"><u>Brightening Up Dull Desktop Windows Appearance</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-obstacles-downloading-icloud-on-windows/"><u>Bypassing Obstacles: Downloading iCloud on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-slowdowns-in-gpsvc-windows-errors/"><u>Bypassing Slowdowns in GPSVC Windows Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/cant-open-chrome-try-these-win11-solutions-now/"><u>Can't Open Chrome? Try These Win11 Solutions Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/chrome-files-upload-hurdle-heres-how-to-clear-it-on-windows/"><u>Chrome Files Upload Hurdle? Here's How to Clear It on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/classify-your-hdd-or-ssd-with-ease/"><u>Classify Your HDD or SSD with Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/combining-kali-with-windows-os-seamlessly/"><u>Combining Kali with Windows OS Seamlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/compact-pc-capacity-concealed-by-slowness/"><u>Compact PC, Capacity Concealed by Slowness</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-guide-rectifying-delayed-folder-upload-in-onedrive-without-hitches/"><u>Comprehensive Guide: Rectifying Delayed Folder Upload in OneDrive without Hitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/confronting-windows-security-blunders-with-ease/"><u>Confronting Windows Security Blunders with Ease</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-countdown-who-wins-in-the-ps5-vs-xbox-series-x/"><u>Console Countdown: Who Wins in the PS5 Vs. Xbox Series X?</u></a></li>
+<li><a href="https://windows11.techidaily.com/converting-oculus-quest-to-function-in-windows-pc-virtual-reality/"><u>Converting Oculus Quest to Function in Windows PC Virtual Reality</u></a></li>
+<li><a href="https://windows11.techidaily.com/defeating-inadequate-pcs-fixing-game-bar-errors/"><u>Defeating Inadequate PCs: Fixing Game Bar Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-another-users-microsoft-account-on-shared-device/"><u>Disabling Another User's Microsoft Account on Shared Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-camera-tech-review/"><u>Elite Camera Tech Review</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-asmr-content-deep-dive-101/"><u>In 2024, ASMR Content Deep Dive 101</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-audiovisual-success-recording-gotomeetings-easily/"><u>In 2024, Audiovisual Success  Recording GoToMeetings Easily</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hazy-endings-how-to-black-out-with-pro/"><u>In 2024, Hazy Endings  How to Black Out with Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-images-in-your-instagram-profile/"><u>In 2024, Mastering Images in Your Instagram Profile</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-reclaiming-one-headphone-harmony/"><u>In 2024, Reclaiming One-Headphone Harmony</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/no-trace-snapcaptures-discreet-photo-taking-techniques-for-2024/"><u>No Trace SnapCaptures  Discreet Photo-Taking Techniques for 2024</u></a></li>
+<li><a href="https://techidaily.com/remove-lock-screen-without-password90-lite-by-drfone-android-unlock-android-unlock/"><u>Remove Lock Screen without Password(90 Lite)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-why-is-valorant-continuously-crashing-on-pc/"><u>Troubleshooting Steps: Why Is Valorant Continuously Crashing on PC?</u></a></li>
+</ul></div>

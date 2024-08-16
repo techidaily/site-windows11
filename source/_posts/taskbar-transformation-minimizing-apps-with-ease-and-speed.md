@@ -1,7 +1,7 @@
 ---
 title: "Taskbar Transformation: Minimizing Apps with Ease and Speed"
-date: 2024-07-11T21:53:33.027Z
-updated: 2024-07-12T21:53:33.027Z
+date: 2024-08-15T15:39:54.188Z
+updated: 2024-08-16T15:39:54.188Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
 1. Open this [MinimizeToTray download page](https://github.com/sandwichdoge/MinimizeToTray/releases/).
 2. Extract the MinimizeToTray ZIP archive to a folder. This [how-to unzip ZIP files guide](https://www.makeuseof.com/how-to-extract-zip-files-windows-11/) includes instructions for extracting ZIP archives on a Windows 11 PC.  
 ![The Extract all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/extract-all-option5.jpg)
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Double-click **MinimizeToTray** in the software’s extracted folder.
 4. Open a window to try out the MinimizeToTray hotkey.
 5. Press **Alt** \+ **F1** to minimize the active software window to the system tray.
@@ -52,10 +55,16 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
  You won’t see any icons for windows minimized within the system tray area. However, the MinimizeToTray menu includes all software minimized to the tray area with the **Alt** \+ **F1** hotkey. You can restore a minimized window by right-clicking the MinimizeToTray system tray icon and selecting a minimized window shown on its context menu. Alternatively, you can press **Alt** \+ **F2** to restore the last active window.
 
 ![The context menufor MinimizetoTray](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/minimizetotray-context-menu.jpg)
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to change the MinimizeToTray hotkeys, select **Configs** on its context menu. That will bring up a window on which you can set the keyboard shortcuts for minimizing and restoring windows. Click inside a hotkey box and press some keys to set a different keyboard shortcut. Select **OK** in the Edit Hotkeys window to save your new keyboard shortcuts.
 
 ![The Edit Hotkeys window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/edit-hotkey-window.jpg)
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Minimize Windows to the System Tray With 4t Tray Minimizer
 
@@ -71,6 +80,9 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
 
 1. Keep selecting **Next** to reach the **Install** option for 4t Tray Minimizer.  
 ![The 4t Tray Minimizer setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/4t-tray-minimizer-window.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 2. Press **Install** to complete the 4t Tray Minimizer installation.
 3. Click **Finish** with the **Launch** setting selected.
 4. Now open a software window for minimizing into the system tray.
@@ -79,6 +91,9 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
  You will now see an icon for the minimized window within the system tray. The 4t Tray Minimizer window also includes a list of all windows minimized to the tray area. You can reopen the minimized window by clicking its icon in the system tray or double-clicking it within the 4t Tray Minimizer window.
 
 ![The 4t Tray Minimizer Free window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/4t-tray-minimizer-window3.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  Plus, you can minimize windows to the system tray without pressing the **Shift** \+ **Esc** hotkey. To do so, right-click their **Minimize** buttons.
 
@@ -87,6 +102,9 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
  You can reconfigure those keyboard shortcuts from the 4t Tray Minimizer’s settings window. Click **View** and **Options** to bring up that settings window. Select the **Keyboard** tab to view the default hotkeys. Double-click a hotkey there to bring up a **Change Key Sequence** window that includes settings for changing hotkeys. Select the alternative key combination there and click **OK**.
 
 ![The hotkey settings in 4t Tray Minimizer Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/change-key-sequence.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 
  4t Tray Minimizer also adds five new title bar options to software windows. To access them, right-click a window’s title bar to view its context menu. Then you can select **Minimize to tray**, **Roll up**, **Stay on top**, and **Make transparent** options on the context menu. There’s also a 4t Tray Minimizer submenu from which you can select to add the active window to the exclusion list.
 
@@ -111,3 +129,42 @@ thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/5-key-steps-to-resolve-hypervisor-error-bsod-in-winos/"><u>5 Key Steps to Resolve Hypervisor Error BSOD in WINOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/9-ways-to-fix-mails-notifications-not-working-on-windows/"><u>9 Ways to Fix Mail's Notifications Not Working on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-closer-look-at-windows-11s-backup-processing-methods/"><u>A Closer Look at Windows 11'S Backup Processing Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-step-by-step-guide-to-fixing-windows-rare-errors/"><u>A Step-by-Step Guide to Fixing Windows’ Rare Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-visual-journey-to-custom-window-design-with-winbubbles-insights/"><u>A Visual Journey to Custom Window Design with WinBubble's Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-java-not-installing-a-windows-fixers-manual/"><u>Addressing Java Not Installing: A Windows Fixer's Manual</u></a></li>
+<li><a href="https://windows11.techidaily.com/adopting-a-black-background-on-windows-calculator/"><u>Adopting a Black Background on Windows Calculator</u></a></li>
+<li><a href="https://windows11.techidaily.com/augmenting-user-interface-windows-embellished-by-portables/"><u>Augmenting User Interface: Windows, Embellished by Portables</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-spontaneous-windows-11-lockups-and-shuts/"><u>Avoid Spontaneous Windows 11 Lockups & Shuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-failure-of-services-on-windows-with-error-1053-fixes/"><u>Avoiding Failure of Services on Windows with Error 1053 Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/beneath-radar-outstanding-windows-11-customization/"><u>Beneath Radar: Outstanding Windows 11 Customization</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/best-gopro-hero5-black-batteries-and-chargers-official-and-3rd-party-for-2024/"><u>Best GoPro Hero5 Black Batteries & Chargers  Official and 3Rd Party for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-efficiency-on-pc-best-apps-for-personalized-time-themed-screen-saver-creation/"><u>Boost Efficiency on PC: Best Apps for Personalized Time-Themed Screen Saver Creation</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-browsing-security-enhanced-graphics-on-edge/"><u>Boosting Browsing Security: Enhanced Graphics on Edge</u></a></li>
+<li><a href="https://windows11.techidaily.com/bridging-linux-and-windows-gap-with-shared-tools/"><u>Bridging Linux & Windows Gap with Shared Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-microsofts-restrictive-security-measures/"><u>Bypassing Microsoft’s Restrictive Security Measures</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-line-carnival-exciting-stunts-for-your-terminal/"><u>Command Line Carnival: Exciting Stunts for Your Terminal</u></a></li>
+<li><a href="https://windows11.techidaily.com/control-your-machines-invisible-operations-on-window-11/"><u>Control Your Machine's Invisible Operations on Window 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-windows-layout-fancywm-power-up/"><u>Customize Windows Layout: FancyWM Power Up</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-windows-blue-screen-code-0x0000003b-breakdown-and-fixes/"><u>Deciphering Windows Blue Screen: Code 0X0000003B Breakdown & Fixes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/decode-the-mysteries-in-depth-guide-to-stardews-ginger-island/"><u>Decode the Mysteries  In-Depth Guide to Stardew's Ginger Island</u></a></li>
+<li><a href="https://windows11.techidaily.com/demystifying-the-advantages-of-microsofts-copilot-key-for-windows-11/"><u>Demystifying the Advantages of Microsoft's Copilot Key for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/deploying-microsofts-ai-companion-via-vivetool/"><u>Deploying Microsoft's AI Companion via ViveTool</u></a></li>
+<li><a href="https://windows11.techidaily.com/diving-deep-into-data-6-windows-properties-paths/"><u>Diving Deep Into Data: 6 Windows Properties Paths</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-c51-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Realme C51 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-nokia-105-classic-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Nokia 105 Classic to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-v30-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo V30</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-optimal-stabilizers-elevate-your-iphoneandroid-videography/"><u>In 2024, Optimal Stabilizers  Elevate Your iPhone/Android Videography</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-swift-transformation-androids-best-vid-upgrades/"><u>In 2024, Swift Transformation  Android's Best Vid Upgrades</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-a14-4g-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy A14 4G Phone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-5-tracking-apps-to-track-apple-iphone-7-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>Top 5 Tracking Apps to Track Apple iPhone 7 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-software-for-hp-deskjet-3700-get-your-latest-driver-here/"><u>Updated Software for HP DeskJet 3700 - Get Your Latest Driver Here!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/vimeo-and-youtube-a-compreayer-of-their-core-philosophies-for-2024/"><u>Vimeo and YouTube  A Compreayer of Their Core Philosophies for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wirelessly-sync-connecting-computers-and-bluetooth-speakers-made-simple/"><u>Wirelessly Sync: Connecting Computers and Bluetooth Speakers Made Simple</u></a></li>
+</ul></div>

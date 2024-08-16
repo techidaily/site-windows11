@@ -1,7 +1,7 @@
 ---
 title: Overcoming System Shutdown Alerts Due to Roblox Glitches
-date: 2024-07-11T21:55:19.460Z
-updated: 2024-07-12T21:55:19.460Z
+date: 2024-08-15T15:37:27.466Z
+updated: 2024-08-16T15:37:27.466Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,19 @@ thumbnail: https://thmb.techidaily.com/8dc1e121faf37e853cf5b4a2c9e429100f4acf86a
 2. Right-click on the taskbar and open **Task Manager**.
 3. Move the cursor to the **maximize button** of the Roblox window and select the first set of layouts from Snap Layouts. This way, the screen will be split into two halves, with Roblox appearing on the right half.  
 ![Split the Screen Using Snap Layouts to Put Roblox on the Right Half](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/1-split-the-screen-using-snap-layouts-to-put-roblox-on-the-right-half.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Select Task Manager from the left half of the window, and it will open on the left.  
 ![Select Task Manager From the Left Half of the Snap Layouts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/2-select-task-manager-from-the-left-half-of-the-snap-layouts.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Analyze the resource usage percentage in the Task Manager as you play the game.  
 ![Analyze the Resource Usage Percentage in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/3-analyze-the-resource-usage-percentage-in-windows-task-manager.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 
  Examine whether any of the components' usage rises to 100 percent when the game crashes. If that is the case, that component is under severe stress, which causes Roblox to crash. To resolve the issue, reduce stress on the component so Roblox can efficiently use the resources it needs without overloading it.
 
@@ -71,6 +80,9 @@ thumbnail: https://thmb.techidaily.com/8dc1e121faf37e853cf5b4a2c9e429100f4acf86a
 
  Refer to our guide on [how to disable or remove extensions in different browsers](https://www.makeuseof.com/tag/how-to-clean-up-your-browser-extensions-the-easy-way/) if you aren't familiar with the process.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## 5\. Switch to Roblox's Microsoft Store App
 
  The Roblox Microsoft Store app is considered more stable and less prone to errors than the Roblox website launcher, which launches experiences from the web. Some users who experienced crashes while using Roblox were able to resolve the issue by switching to Roblox's Microsoft Store app.
@@ -84,14 +96,23 @@ thumbnail: https://thmb.techidaily.com/8dc1e121faf37e853cf5b4a2c9e429100f4acf86a
 1. Type **"Roblox"** in Windows Search, right-click on **Roblox Player**, and select **Open file location**.
 2. Right-click on the **Roblox Player** shortcut, and then select **Properties**.  
 ![Go to Properties of Roblox Player in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/6-go-to-properties-of-roblox-player-in-windows-file-explorer.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 3. Navigate to the **Compatibility** tab in the **Properties** window.
 4. Check the box beside **Run this program in compatibility mode for** and select **Windows 8** or **Windows 7** from the dropdown.  
 ![Select Windows Version After Checking the Box Beside Run this Program in Compatibility Mode For in the Compatibility Tab of Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/7-select-windows-version-after-checking-the-box-beside-run-this-program-in-compatibility-mode-for-in-the-compatibility-tab-of-properties-window.jpg)
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Then, click **Apply**.
 6. After that, click on the **Run compatibility troubleshooter** button.  
 ![Run Compatibility Troubleshooter After Applying the Changes in the Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/8-run-compatibility-troubleshooter-after-applying-the-changes-in-the-properties-window.jpg)
 7. Click on **Try recommended settings** \> **Test the program…**  
 ![Click on the Test the Program Button in the Troubleshooter Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/9-click-on-the-test-the-program-button-in-the-troubleshooter-window.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 8. Then, save the changes by following the on-screen instructions.
 
 ## 7\. Reinstall the Roblox Client
@@ -101,6 +122,9 @@ thumbnail: https://thmb.techidaily.com/8dc1e121faf37e853cf5b4a2c9e429100f4acf86a
  Refer to our guide on [different ways to uninstall apps in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) and uninstall Roblox using your preferred method. Afterward, go to the file path **"C:/Users/username/AppData/Local"** after entering your username, find the **Roblox folder**, right-click it, and select **Delete**. This process will remove all remnants of the old Roblox installation.
 
 ![Delete Roblox Folder From Its Installation Directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/10-delete-roblox-folder-from-its-installation-directory.jpg)
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After that, go to Roblox's website or the Microsoft Store, depending on the Roblox application you want to install, and install it.
 
@@ -123,3 +147,38 @@ thumbnail: https://thmb.techidaily.com/8dc1e121faf37e853cf5b4a2c9e429100f4acf86a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-cutting-edge-tools-youtubes-finest-editors/"><u>[New] 2024 Approved  Cutting Edge Tools  YouTube's Finest Editors</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-streaming-success-youtube-broadcasts-of-google-meet/"><u>[New] 2024 Approved  Streaming Success  YouTube Broadcasts of Google Meet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-visual-ventures-free-themes-to-elevate-your-channel/"><u>[New] Visual Ventures  FREE Themes to Elevate Your Channel</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-lava-yuva-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-tips-for-adding-effects-on-digital-videos/"><u>Advanced Tips for Adding Effects on Digital Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-12-pro-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme 12 Pro 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enhancing-auditory-appreciation-via-iphones-playback/"><u>Enhancing Auditory Appreciation via iPhone's Playback</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-for-navigating-wpm-on-windows-11/"><u>Essential Tips for Navigating WPM on Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/free-top-10-vr-360-video-players-for-pc/"><u>FREE Top 10 VR (360 Video) Players for PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-bypass-printer-settings-on-windows-11/"><u>How to Bypass Printer Settings on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-connect-airpods-to-windows/"><u>How to Connect AirPods to Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-resolution-for-windows-network-proxy-issue/"><u>Immediate Resolution for Windows Network Proxy Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-the-absence-of-rockalldlldll-windows/"><u>Mending the Absence of Rockalldll.dll (Windows)</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-your-pc-a-guide-to-spotting-huge-files-and-folders/"><u>Optimize Your PC: A Guide to Spotting Huge Files & Folders</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-display-glitches-in-windows-os/"><u>Overcoming Display Glitches in Windows OS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfect-pairings-adding-songs-to-windows-11-videos-with-ease-for-2024/"><u>Perfect Pairings  Adding Songs to Windows 11 Videos with Ease for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/preserve-your-files-as-you-boost-windows-drive/"><u>Preserve Your Files as You Boost Windows Drive</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-tips-for-repairing-video-playback-errors/"><u>Quick Tips for Repairing Video Playback Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-steam-data-write-functionality-in-windows/"><u>Restoring Steam Data Write Functionality in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-your-ad-targeting-strategies-with-innovative-insights-from-cookiebot/"><u>Revolutionize Your Ad Targeting Strategies with Innovative Insights From Cookiebot</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-your-windows-cars-with-these-five-essentials/"><u>Revolutionize Your Windows Cars with These Five Essentials</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-installation-of-intel-wi-fi-adapters-for-gaming/"><u>Seamless Installation of Intel Wi-Fi Adapters for Gaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/stopping-autolock-on-your-computer-screen/"><u>Stopping AutoLock on Your Computer Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-correcting-0xc0000005-failures-on-pcs/"><u>Strategies for Correcting 0Xc0000005 Failures on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/summoning-windows-11s-masked-search-facilitator/"><u>Summoning Windows 11'S Masked Search Facilitator</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-ways-to-elude-windows-11-screensaver/"><u>Swift Ways to Elude Windows 11 Screensaver</u></a></li>
+<li><a href="https://windows11.techidaily.com/unobstructed-wireless-resurrecting-disconnected-networks/"><u>Unobstructed Wireless: Resurrecting Disconnected Networks</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-riddle-of-windows-winerror-woes/"><u>Unraveling the Riddle of Window's WinError Woes</u></a></li>
+<li><a href="https://windows11.techidaily.com/wins-cmd-customize-to-reflect-your-style/"><u>Win's CMD: Customize to Reflect Your Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/your-guide-to-selecting-a-new-window-home-or-premium-edition/"><u>Your Guide to Selecting a New Window : Home or Premium Edition</u></a></li>
+</ul></div>

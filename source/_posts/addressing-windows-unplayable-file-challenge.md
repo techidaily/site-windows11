@@ -1,7 +1,7 @@
 ---
 title: Addressing Windows' Unplayable File Challenge
-date: 2024-07-11T22:06:27.931Z
-updated: 2024-07-12T22:06:27.931Z
+date: 2024-08-15T15:25:30.640Z
+updated: 2024-08-16T15:25:30.640Z
 tags:
   - windows10
   - windows11
@@ -58,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 2. Type "control" in Run and click Enter.
 3. Type "Troubleshooting" in the search bar of the Control Panel and click on the most appropriate result.  
 ![Choose Troubleshooting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/click-on-troubleshooting.jpg)
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Move to the right pane and click **View all**.  
 ![Click on the View all option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/click-view-all.jpg)
 5. In the following window, locate **Windows Media Player Settings** and double-click on it.  
@@ -65,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 6. Choose **Advanced** and checkmark the box associated with **Apply repairs automatically**.
 7. Now, click on the **Run as administrator** hyperlink to launch the troubleshooter and proceed with the on-screen instructions.  
 ![Choose Apply repairs automatically option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/apply-repairs-automatically.jpg)
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 8. If the troubleshooter identifies a problem and suggests a solution, click on **Apply this fix**.
 
  If the Media Player troubleshooter does not help, we suggest running the Video Playback troubleshooter and see if that makes any difference.
@@ -76,9 +82,15 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 3. In the following window, click on **Other troubleshooters**.
 4. Scroll down to the **Other** section to locate the Video Playback troubleshooter and click on the **Run** button for it.  
 ![Run the Video Playback troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/video-playback-troubleshooter-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 5. Wait for the troubleshooter to complete its scan and then check the results. If the troubleshooter suggests fixes, click on **Apply this fix**.
 6. Otherwise, choose **Close the troubleshooter** and move to the next method below.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Check for File Corruption
 
  There is also a chance that the file you are trying to play is dealing with a corruption error, which has made it unreadable and unusable. Typically, in cases such as this one, the users are able to play other similar files without any problems.
@@ -87,12 +99,18 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
  It is important to note that not all corrupt files can be repaired or recovered completely, and the extent of damage can influence the chances of recovery. This is why, we highly recommend [backing up your important files](https://www.makeuseof.com/tag/ultimate-windows-10-data-backup-guide/) in Windows to prevent data loss.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## 4\. Use a Different Media Player
 
  You can also try playing the targeted file in a different media player and check if that makes any difference. This is because different media players have different coding algorithms and may also have built-in troubleshooting mechanisms that can handle certain types of file corruptions easily.
 
  If you don't already have an alternative media player installed, we have a guide on some [highly recommended free media players for Windows](https://www.makeuseof.com/tag/top-5-free-media-players-for-windows/) that can provide a seamless experience without errors.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## The Different Ways to Fix the 0xc10100bf Error
 
  The media player error 0xc10100bf in Windows can be annoying but hopefully, the solutions listed above will help you fix it for good.
@@ -110,3 +128,38 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-mac-gaming-recording-roblox-adventures/"><u>[New] 2024 Approved  Mac Gaming  Recording Roblox Adventures</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/9-key-approaches-to-free-webinar-archiving-for-2024/"><u>9 Key Approaches to Free Webinar Archiving for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/backtracking-your-pc-with-ease-using-system-restore/"><u>Backtracking Your PC with Ease Using System Restore</u></a></li>
+<li><a href="https://windows11.techidaily.com/banishing-desktop-colors-8-fixes-when-windows-turns-rare-hues/"><u>Banishing Desktop Colors: 8 Fixes When Windows Turns Rare Hues</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/boost-cinematic-excellence-with-final-cuts-best-10-plugins-for-2024/"><u>Boost Cinematic Excellence with Final Cut’s Best 10 Plugins for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oppo-find-x7-ultra-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Oppo Find X7 Ultra in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-user-interface-learn-window-tweaks-via-alomware/"><u>Enhance User Interface: Learn Window Tweaks via AlomWare</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-download-and-install-official-hp-officejet-pro-8720-drivers-for-windows-pcs/"><u>How to Download and Install Official HP OfficeJet Pro 8720 Drivers for Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-prevent-in-use-errors-on-windows-11-pcs/"><u>How to Prevent 'In Use' Errors on Windows 11 PCs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-y77t-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo Y77t to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-the-power-of-pinterest-top-5-free-extractors-at-hand/"><u>In 2024, Unlock the Power of Pinterest  Top 5 Free Extractors at Hand</u></a></li>
+<li><a href="https://windows11.techidaily.com/independent-windows-version-boosting-guide-147-chars/"><u>Independent Windows Version Boosting Guide (147 Chars)</u></a></li>
+<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-fn-key-management-basics/"><u>Navigating Through Windows: Fn Key Management Basics</u></a></li>
+<li><a href="https://windows11.techidaily.com/nircmds-guide-to-streamlining-your-task-execution/"><u>NirCmd's Guide to Streamlining Your Task Execution</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-linux-on-windows-top-wsl-2-tips-and-tricks/"><u>Optimize Linux on Windows: Top WSL 2 Tips and Tricks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-apple-iphone-7-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab Apple iPhone 7 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-resolve-error-a00f425d-on-windows-device/"><u>Quick Guide to Resolve Error A00F425D on Windows Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/regain-missing-dxgidll-with-easy-windows-11-fixes/"><u>Regain Missing Dxgi.dll with Easy Windows 11 Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/revamping-your-win8-black-screen-effects/"><u>Revamping Your Win8 Black Screen Effects</u></a></li>
+<li><a href="https://facebook.techidaily.com/revolutionize-your-fb-experience-addremove-links/"><u>Revolutionize Your FB Experience: Add/Remove Links</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/step-into-wealthy-creator-land-via-youtube-shorts-revenue-for-2024/"><u>Step Into Wealthy Creator Land via YouTube Shorts Revenue for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-dispelling-net-core-error-messages-windows/"><u>Steps for Dispelling '.NET Core' Error Messages Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-for-finding-hidden-regedit-command/"><u>Tactics for Finding Hidden Regedit Command</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-grow-your-computers-storage-for-free/"><u>The Ultimate Guide to Grow Your Computer's Storage, For Free</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719327094876-top-4-solutions-for-troubleshooting-full-screen-capture-issues-in-windows-snipping-tool/"><u>Top 4 Solutions for Troubleshooting Full-Screen Capture Issues in Windows Snipping Tool.</u></a></li>
+<li><a href="https://windows11.techidaily.com/unnoticeable-disk-usage-for-ws1110-users/"><u>Unnoticeable Disk Usage for WS11/10 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-actions-can-you-take-if-windows-ignores-powershell/"><u>What Actions Can You Take if Windows Ignores PowerShell?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/win-11-mov-file-recording-guide/"><u>Win 11 MOV File Recording Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-guide-unique-monitors-wallpapers-tips/"><u>Windows 11 Guide: Unique Monitors Wallpapers Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-a-guide-to-copying-file-and-folder-navigational-trails-via-6-steps/"><u>Windows 11: A Guide to Copying File and Folder Navigational Trails, via 6 Steps</u></a></li>
+</ul></div>

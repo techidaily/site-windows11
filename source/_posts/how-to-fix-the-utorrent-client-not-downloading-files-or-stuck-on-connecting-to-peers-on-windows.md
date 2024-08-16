@@ -1,7 +1,7 @@
 ---
 title: How to Fix the uTorrent Client Not Downloading Files or Stuck on Connecting to Peers on Windows
-date: 2024-07-11T21:20:21.165Z
-updated: 2024-07-12T21:20:21.165Z
+date: 2024-08-15T16:11:25.526Z
+updated: 2024-08-16T16:11:25.526Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 
  Below, we have explained how to apply the above fixes to fix this uTorrent issue.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## First, Apply Preliminary Checks
 
  First, apply the following preliminary checks to rule out minor issues that may have contributed to the error:
@@ -58,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
  Launch the uTorrent client, go to the **Options** tab in the top left, and select **Preferences**.
 
 ![Opening the Preferences Settings in the Options Dropdown in uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/1-Opening-the-Preferences-Settings-in-the-Options-Dropdown-in-uTorrent-Client-for-Desktop.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  Then, click the **BitTorrent** tab in the left sidebar of the **Preferences** window. Finally, select **Forced** in the **Outgoing** dropdown menu in the **Protocol Encryption** section.
 
@@ -67,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 
 ![Checking the Boxes for Enable UPnP Port Mapping and Enable NAT-PMP Port Mapping in the Connections Tab of uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/3-Checking-the-Boxes-for-Enable-UPnP-Port-Mapping-and-Enable-NAT-PMP-Port-Mapping--in-the-Connections-Tab-of-uTorrent-Client-for-Desktop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## 3\. Rule Out Interference From Your Windows Firewall or Antivirus
 
  The Windows Defender firewall or antivirus program can also block uTorrent traffic. Thus, it's imperative to rule out this possibility. The following fixes will help you do that:
@@ -75,6 +85,9 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 * Disable your antivirus temporarily if you are using one. If you can't do that, you should at least whitelist the uTorrent client through your antivirus settings.
 * Navigate to **Options > Preferences** and select the **Connection** tab in the left panel. On that page, check the box for **Add Windows Firewall exception**.  
 ![Checking the Box for Add Windows Firewall Exception in the Connections Tab of uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Checking-the-Box-for-Add-Windows-Firewall-Exception-in-the-Connections-Tab-of-uTorrent-Client-for-Desktop.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ## 4\. Check the Storage Space Available
 
@@ -82,6 +95,9 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 
  Considering this, see if there is enough space on the drive where uTorrent downloads the files. If the storage space is low, either free it up by removing junk or change the destination drive, preferably to one with more space, so it can easily accommodate the file.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Fix Issues With Trackers
 
  There may be a problem with some torrent tracker servers that cannot keep track of available seeds and peers, resulting in peers getting stuck on connecting. Therefore, you should rule out tracker issues. To do this, select the file that is stuck on downloading and go to the **Trackers** tab.
@@ -90,12 +106,22 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 
 1. If specific trackers are having connection issues, update them so that they can find better peers. Simply right-click the tracker having problems and select **Update Tracker**.  
 ![Clicking on the Update Tracker Option by Right-clicking on the Tracker in the uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/5-Clicking-on-the-Update-Tracker-Option-by-Right-clicking-on-the-Tracker-in-the-uTorrent-Client-for-Desktop.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 2. If a few trackers remain stuck after updating them, right-click on them and select **Remove Tracker** from the menu.  
 ![Clicking on the Delete Tracker Option by Right-clicking the Tracker in uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/6-Clicking-on-the-Delete-Tracker-Option-by-Right-clicking-the-Tracker-in-uTorrent-Client-for-Desktop.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 3. The next step is to add torrent trackers with high uptime in the uTorrent client. So, find and copy the torrent trackers from any trusted website (such as [FossBytes](https://fossbytes.com/torrent-trackers-list/)). Then, right-click the file stuck on downloading in the uTorrent client and select **Properties**.  
 ![Opening Properties of Downloaded File by Right-Clicking on the File in the uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/7-Opening-Properties-of-Downloaded-File-by-Right-Clicking-on-the-File-in-the-uTorrent-Client-for-Desktop.jpg)  
  After that, paste the copied list of torrent trackers at the end of the **Trackers** box in the Properties window.  
 ![Adding the List of Torrent Trackers in the Trackers Box in the Properties Window of Downloaded File in uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/8-Adding-the-List-of-Torrent-Trackers-in-the-Trackers-Box-in-the-Properties-Window-of-Downloaded-File-in-uTorrent-Client-for-Desktop.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ## 6\. Try the Network Configuration Test
 
@@ -106,6 +132,9 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 1. Open the uTorrent client.
 2. Go to the **Options** tab and select **Setup Guide**. (You can also open the Setup Guide window by pressing **CTRL + G**)  
 ![Going to the Setup Guide Settings From the Dropdown of the Options Settings in the uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/9-Going-to-the-Setup-Guide-Settings-From-the-Dropdown-of-the-Options-Settings-in-the-uTorrent-Client-for-Desktop.jpg)
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Select the test location closest to you in the dropdown menu next to **Bandwidth**.
 4. Click the **Run tests** button.  
 ![Clicking on the Run Tests Button After Selecting the Test Location in the Dropdown Menu Next to Bandwidth in the Setup Guide Settings of the uTorrent Client for Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/10-Clicking-on-the-Run-Tests-Button-After-Selecting-the-Test-Location-in-the-Dropdown-Menu-Next-to-Bandwidth-in-the-Setup-Guide-Settings-of-the-uTorrent-Client-for-Desktop.jpg)
@@ -121,6 +150,9 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 2. Then, select the **Bandwidth** tab on the left sidebar.
 3. If the box next to **Maximum upload rate** has any value other than 0, remove it and enter 0.  
 ![Resetting the Gloal Maximum Upload Rate in uTorrent's Bandwidth Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/resetting-the-gloal-maximum-upload-rate-in-utorrent-s-bandwidth-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Wait for the Seeders or Peers to Go Live
 
@@ -133,6 +165,9 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
 * Allow the torrent download to run in the background for a few hours so the client can connect to strong seeders and peers once they become available and successfully download files.
 * Choose a torrent file with more seeders and fewer leechers—users who do not share the file but only cause strain on the swarm.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## 9\. Clear the Peer List
 
  Downloads would get stuck at connecting to peers if the peers the uTorrent client is attempting to connect to are inactive or sharing files very slowly. Of the many ways to get around this issue, clearing the peer list is the simplest. Clearing the peer list clears the peer cache and gives you a bunch of new and powerful peers to connect to, which could help resolve the issue.
@@ -158,3 +193,50 @@ thumbnail: https://thmb.techidaily.com/d2e4e8d37dd44251b856b042284c1dfc0b019c21a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-physical-security-measures/"><u>[New] Physical Security Measures</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-stealthy-strategies-for-anonymous-instagram-broadcasts/"><u>[New] Stealthy Strategies for Anonymous Instagram Broadcasts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-checklist-for-twitch-broadcasting-for-2024/"><u>[New] The Ultimate Checklist for Twitch Broadcasting for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-accelerating-or-decelerating-mastering-snapchats-timeline-controls/"><u>[Updated] Accelerating or Decelerating  Mastering Snapchat's Timeline Controls</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-mastering-xbox-ultimate-screen-capture-tips/"><u>[Updated] In 2024, Mastering Xbox  Ultimate Screen Capture Tips</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-premier-movie-access-on-facebook-ranked-8-list/"><u>[Updated] In 2024, Premier Movie Access on Facebook  Ranked #8 List</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-visual-storytelling-planning-strategy-on-instavideo/"><u>[Updated] Mastering Visual Storytelling  Planning Strategy on InstaVideo</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-optimizing-trailer-vibes-the-melody-essentials-for-2024/"><u>[Updated] Optimizing Trailer Vibes  The Melody Essentials for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2023s-leading-online-sound-recorders-ranked-for-2024/"><u>2023'S Leading Online Sound Recorders Ranked for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/8-red-flags-before-factory-resetting-your-machine/"><u>8 Red Flags Before Factory Resetting Your Machine</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/a-step-by-step-approach-to-using-cg-central-luts-in-grading/"><u>A Step-by-Step Approach to Using CG Central LUTs in Grading</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerate-launch-times-for-windows-11-apps/"><u>Accelerate Launch Times for Windows 11 Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerate-win-valorant-loading-times-quickly/"><u>Accelerate Win-Valorant Loading Times Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-xbox-game-pass-failure-the-0x800700e9-factor/"><u>Addressing Xbox Game Pass Failure: The 0X800700E9 Factor</u></a></li>
+<li><a href="https://windows11.techidaily.com/android-meets-windows-easy-synching-protocol/"><u>Android Meets Windows: Easy Synching Protocol</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-pitfalls-of-unknown-not-initialized-disks-on-windows/"><u>Avoiding Pitfalls of Unknown Not Initialized Disks on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-slate-companions-selecting-top-7-windows-tabs/"><u>Best Slate Companions: Selecting Top 7 Windows Tabs</u></a></li>
+<li><a href="https://windows11.techidaily.com/bold-windows-11-remove-curved-edges/"><u>Bold Windows 11: Remove Curved Edges</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-productivity-and-grades-essential-study-methods-on-a-windows-pc/"><u>Boost Productivity and Grades: Essential Study Methods on a Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/breakdown-how-law-filters-transform-your-windows-experience/"><u>Breakdown: How LAW Filters Transform Your Windows Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/browser-woes-7-methods-to-reach-elusive-pages-on-pc/"><u>Browser Woes? 7 Methods to Reach Elusive Pages on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypass-windows-11-pc-life-hacks-for-older-systems/"><u>Bypass Windows 11: PC Life Hacks for Older Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/choosing-a-fresh-termbackground-pic/"><u>Choosing a Fresh TermBackground Pic</u></a></li>
+<li><a href="https://windows11.techidaily.com/choosing-your-win-software-downloader-choco-versus-wslm/"><u>Choosing Your Win Software Downloader: Choco Versus WSLM</u></a></li>
+<li><a href="https://windows11.techidaily.com/combatting-procedure-call-failures-in-malwarebytes-for-windows-os/"><u>Combatting Procedure Call Failures in Malwarebytes for Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehending-cab-files-within-the-windows-ecosystem/"><u>Comprehending CAB Files Within the Windows Ecosystem</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquer-erratic-movement-7-windows-mouse-solutions/"><u>Conquer Erratic Movement: 7 Windows Mouse Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/correct-keyboard-fixes-for-windows-11s-unresponsive-f-keys/"><u>Correct: Keyboard Fixes for Windows 11'S Unresponsive F Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafting-quick-repair-pathways-creating-custom-win-shortcuts/"><u>Crafting Quick Repair Pathways: Creating Custom Win Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-success-in-playing-ps1-games-on-win-with-duckstations-tips/"><u>Deciphering Success in Playing PS1 Games on WIN with Duckstation’s Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-the-workings-of-windows-memory-cache/"><u>Deciphering the Workings of Windows Memory Cache</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-windows-11s-backup-and-sync-an-overview-of-its-functionality/"><u>Deciphering Windows 11’S Backup & Sync: An Overview of Its Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-x80070091-error-in-windows-steps-for-empty-directory-problem-solving/"><u>Deciphering X80070091 Error in Windows - Steps for 'Empty Directory' Problem Solving</u></a></li>
+<li><a href="https://windows11.techidaily.com/decode-subtitle-failures-in-prime-windows-11-collaboration/"><u>Decode Subtitle Failures in Prime, Windows 11 Collaboration</u></a></li>
+<li><a href="https://windows11.techidaily.com/directing-system-thermal-output-with-customization/"><u>Directing System Thermal Output with Customization</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-path-to-security-instruction-for-safe-mode-entry-and-drivers-removal/"><u>Effortless Path to Security: Instruction for Safe Mode Entry & Drivers Removal</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-maintain-stability-for-snowrunner-software-running-on-personal-computers/"><u>How to Maintain Stability for SnowRunner Software Running on Personal Computers</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719207064707-ifas-hottest-laptops-unveiled/"><u>IFA's Hottest Laptops Unveiled</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-fast-tracking-views-on-vimeo/"><u>In 2024, Fast-Tracking Views on Vimeo</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y36-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y36 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/quick-fix-hide-identities-in-photos-with-picart/"><u>Quick Fix  Hide Identities in Photos with PicArt</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-oneplus-11r-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends OnePlus 11R without Him Knowing | Dr.fone</u></a></li>
+</ul></div>

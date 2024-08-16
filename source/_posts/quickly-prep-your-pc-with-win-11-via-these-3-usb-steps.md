@@ -1,7 +1,7 @@
 ---
 title: Quickly Prep Your PC with Win 11 via These 3 USB Steps
-date: 2024-07-11T21:39:28.665Z
-updated: 2024-07-12T21:39:28.665Z
+date: 2024-08-15T15:53:02.757Z
+updated: 2024-08-16T15:53:02.757Z
 tags:
   - windows10
   - windows11
@@ -37,9 +37,15 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
 
  Once you have the ISO file downloaded, follow one of the methods below to create a Windows 11 bootable USB drive.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. How to Create a Windows 11 Bootable USB Using Rufus
 
 ![create windows 11 bootable usb drive with rufus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/create-windows-11-bootable-usb-drive-with-rufus.png)
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Rufus is an open-source utility to format and create a bootable USB flash drive for the Windows operating system. It's a lightweight utility and offers a few more customization options compared to Microsoft's in-house media creation tool.
 
@@ -74,19 +80,31 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
 4. Next, run the **Mediacreationtool.exe** file and click **Yes** if prompted by UAC. The tool may take a few seconds to launch, so wait till you see the **Setup wizard.**
 5. Click the **Accept button** to agree to the terms.  
 ![select language and edition Create bootable drive windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/select-langugae-and-edition.png)
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 
 1. The media creation tool will automatically select the **Edition** and **Language** to match the current Windows configuration on your PC. To change the language, uncheck **Use the recommended options for this PC** box and select your preferred language from the drop-down menu.
 2. Choose your options and click **Next**.  
 ![choose which media to use Media Creation Tool Bootable Drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/choose-which-media-to-use.png)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 3. In the **Choose which media to use** window, select **USB flash** drive.
 4. Click the **Next** button.
 5. Select your USB drive from the list of drives available.  
 ![select a usb drive media creation tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/select-a-usb-drive.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Click the **Next** button to continue.
 7. Next, click the **Finish** button.
 
  Media Creation Tool will now download the necessary Windows 11 files and create an installation media. When the "your USB flash drive is ready" message appears, click the **Finish** button to close the setup wizard. Now you can boot from the USB drive to troubleshoot or [clean install Windows 11](https://www.makeuseof.com/how-to-clean-install-windows-11/).
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. How to Create a Bootable Drive Using Command Prompt
 
  If you don’t want to use a third-party tool to create a bootable drive, you can use the Diskpart utility and Command Prompt to create installation media. Here's how to do it.
@@ -94,6 +112,9 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
 1. First, take a backup of all the files on your USB drive and then connect it to your PC.
 2. Press the **Win** key, type cmd, **and** click on **Run as Administrator** under **Command Prompt.** You can also use PowerShell if you prefer it over Command Prompt.  
 ![disk part windows 11 bootable drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/disk-part-windows-11-bootable-drive.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 3. In the Command Prompt window, type the following command and hit enter to launch the **Windows Diskpart** utility.  
 `DISKPART`
 4. Next, type the following command to list all the available storage devices:  
@@ -167,3 +188,45 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-stream-like-a-pro-top-5-cams-revolutionizing-live-broadcasts-on-twitch/"><u>[New] 2024 Approved  Stream Like a Pro  Top 5 Cams Revolutionizing Live Broadcasts on Twitch</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-effortlessly-excel-at-creating-instagram-reels/"><u>[Updated] 2024 Approved  Effortlessly Excel at Creating Instagram Reels</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-quintessential-guide-to-secret-story-viewing/"><u>[Updated] In 2024, The Quintessential Guide to Secret Story Viewing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-uniting-brands-and-youtube-for-maximum-impact-for-2024/"><u>[Updated] Uniting Brands & YouTube for Maximum Impact for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-your-step-by-step-roadmap-for-instagrams-latest-feature-sharing-gifs/"><u>[Updated] Your Step-by-Step Roadmap for Instagram's Latest Feature - Sharing GIFs</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-inaccessible-page-errors-for-windows-store-apps/"><u>Addressing Inaccessible Page Errors for Windows Store Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/an-intuitive-guide-to-performing-a-windows-rollback-via-system-restore/"><u>An Intuitive Guide to Performing a Windows Rollback via System Restore</u></a></li>
+<li><a href="https://facebook.techidaily.com/beyond-simulation-comparing-metaverse-and-virtual-realitys-6-traits/"><u>Beyond Simulation: Comparing Metaverse and Virtual Reality's 6 Traits</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/bluetooth-typing-troubles-learn-how-to-reconnect-your-wireless-keyboard-with-computer/"><u>Bluetooth Typing Troubles? Learn How to Reconnect Your Wireless Keyboard with Computer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/digital-content-dissection-audiovisual-media-battleground-for-2024/"><u>Digital Content Dissection  Audiovisual Media Battleground for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/disentangling-compact-icons-on-desktop-shelf/"><u>Disentangling Compact Icons on Desktop Shelf</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-installation-guide-get-your-logitech-brio-webcam-running-on-windows-pcs/"><u>Easy Installation Guide: Get Your Logitech Brio Webcam Running on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-sound-for-windows-screencasts-with-powerpoint/"><u>Enabling Sound for Windows Screencasts with PowerPoint</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhance-cinematography-with-obs-studios-lut-features-and-downloads/"><u>Enhance Cinematography with OBS Studio's LUT Features and Downloads</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-app-instance-identifiers-and-practices/"><u>Exploring App Instance Identifiers and Practices</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-classpnpsys-issues-in-windows-107-systems/"><u>Fixing Classpnp.sys Issues in Windows 10/7 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-snipping-tool-keyboard-failures-on-pc/"><u>Fixing Snipping Tool Keyboard Failures on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-separate-to-shared-android-pc-harmony-guide/"><u>From Separate to Shared: Android-PC Harmony Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/groundbreaking-screenplays-in-8-movie-categories-for-2024/"><u>Groundbreaking Screenplays in 8 Movie Categories for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-realme-12-proplus-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Realme 12 Pro+ 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-poco-m6-pro-4g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Poco M6 Pro 4G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-speed-up-and-conclude-your-puzzled-updates/"><u>How to Speed Up and Conclude Your Puzzled Updates</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-13-pro-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 13 Pro</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-playstation-and-windows-the-ps5-controller-tutorial/"><u>Joining PlayStation and Windows: The PS5 Controller Tutorial</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11-calendar-easily/"><u>Navigating Windows 11 Calendar Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-your-pc-a-guide-to-alomwares-control-options/"><u>Personalize Your PC: A Guide to AlomWare's Control Options</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/premium-gadgets-to-save-livestreamed-vids-on-youtube-for-2024/"><u>Premium Gadgets to Save Livestreamed Vids on YouTube for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-issues-with-the-epic-games-launcher-for-win-users/"><u>Preventing Issues with the Epic Games Launcher for Win Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-file-explorer-crashes-in-newest-windows-11/"><u>Quick Fixes for File Explorer Crashes in Newest Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reigniting-your-calendars-and-mailboxes-w11-edition/"><u>Reigniting Your Calendars and Mailboxes: W11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-snipkey-issues-resetting-windows-keys/"><u>Solving SnipKey Issues: Resetting Windows Keys</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/strengthen-your-content-identity-inserting-watermarklogo-in-videos-for-2024/"><u>Strengthen Your Content Identity  Inserting Watermark/Logo in Videos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-unexpected-wins-system-messages/"><u>Tackling Unexpected WINS System Messages</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-top-8-tips-for-a-smooth-windows-11-transition/"><u>The Top 8 Tips for a Smooth Windows 11 Transition</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-turning-onoff-windows-10s-smartscreen/"><u>Tips for Turning On/Off Windows 10'S SmartScreen</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-memory-management-understanding-and-flushing-cache/"><u>Windows Memory Management: Understanding and Flushing Cache</u></a></li>
+<li><a href="https://windows11.techidaily.com/winstorage-revival-guide-with-altwindirstat-insights/"><u>WinStorage Revival Guide with AltWinDirStat Insights</u></a></li>
+</ul></div>

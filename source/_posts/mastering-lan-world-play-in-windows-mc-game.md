@@ -1,7 +1,7 @@
 ---
 title: Mastering LAN World Play in Windows MC Game
-date: 2024-07-11T21:58:23.097Z
-updated: 2024-07-12T21:58:23.097Z
+date: 2024-08-15T15:34:13.918Z
+updated: 2024-08-16T15:34:13.918Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 
  If the issue persists, note down the version listed under the **Latest release** and confirm that the host uses the same version.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## 4\. Change Your Windows Network Profile to Private
 
  When you connect to a network for the first time, it is usually set as public and hides itself from other devices on the network. If you haven't changed the network profile before, you probably use the default settings, which is likely the public profile.
@@ -54,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 
  If you are having difficulty connecting to a host computer, ensure the host computer is configured to use a private network profile.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## 5\. Enable Network Discovery in the Control Panel
 
  The network discovery feature in Windows allows your device to discover other devices connected to the same network or permit other devices to see yours. If you still can't join the LAN world in Minecraft or have issues, make sure this setting is turned on. Here's how you can check that:
@@ -65,6 +71,9 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 4. Expand the private network profile and turn on the toggle next to N**etwork discovery**.
 5. Also, check the box beside **Set up network connected devices automatically**.  
 ![Enable Network Discovery in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-network-discovery-in-the-windows-settings-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Perform Some General Fixes
 
@@ -89,16 +98,30 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
 3. Then, click on **Join Server**.  
 ![Add the Server Address to Join the LAN Server in Minecraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/add-the-server-address-to-join-the-lan-server-in-minecraft.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Join a Minecraft LAN World Seamlessly on Windows
 
  Having trouble joining a LAN world when friends are waiting for you can be frustrating. Hopefully, you now have a clearer understanding of what can prevent you from entering a LAN world. If you carefully apply the fixes listed above, you can join the LAN world in Minecraft. If nothing works, you should try to establish a direct connection.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## FAQ
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Q: How Do You Join a Minecraft LAN Server With an IP Address?
 
  You can [join a Minecraft LAN server](https://www.makeuseof.com/how-to-join-minecraft-server/) with an IP address by copying the host's IP address, selecting Multiplayer > Add a server or Direct connect, pasting the copied IP address, and connecting to the server.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Q: What Is the IP for a LAN Minecraft Server?
 
  Your computer's [IP address](https://www.makeuseof.com/tag/what-is-ip-address/) is the IP address for your LAN Minecraft server. You can [find your Windows PC's IP address](https://www.makeuseof.com/tag/find-ip-address-windows-10/) by running the "ipconfig" command in a Command Prompt window. The value next to "IPv4 Address" is your machine's local IP address.
@@ -114,3 +137,50 @@ thumbnail: https://thmb.techidaily.com/2cd3ca0cbeb8c4e3cd0fc34413344036f23c5912a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-stream-instagram-and-youtube-a-step-by-step-guide/"><u>[New] In 2024, Stream Instagram & YouTube  A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-beat-matching-visuals-and-audio-on-facebook-platform/"><u>[Updated] 2024 Approved  Beat-Matching Visuals & Audio on Facebook Platform</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-commencing-your-google-meet-experience/"><u>[Updated] In 2024, Commencing Your Google Meet Experience</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-starting-strong-in-screen-sharpness-your-first-tutorial-on-hd-video-for-2024/"><u>[Updated] Starting Strong in Screen Sharpness  Your First Tutorial on HD Video for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/boosting-roi-in-fb-ads-through-animation-techniques/"><u>Boosting ROI in FB Ads Through Animation Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-drawing-experience-with-the-latest-driver-update-for-huion-h610-pro-graphics-pad/"><u>Enhance Your Drawing Experience with the Latest Driver Update for Huion H610 Pro Graphics Pad</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-sync-apps-for-microsoft-office-holders/"><u>Essential Sync Apps for Microsoft Office Holders</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-windows-strategies-for-device-id-discovery/"><u>Essential Windows Strategies for Device ID Discovery</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-sleep-issues-on-windows-11-keys-and-mice/"><u>Fixing Sleep Issues on Windows 11: Keys & Mice</u></a></li>
+<li><a href="https://windows11.techidaily.com/fortify-your-files-embrace-weekly-windows-data-saves/"><u>Fortify Your Files: Embrace Weekly Windows Data Saves</u></a></li>
+<li><a href="https://windows11.techidaily.com/gameplay-improvement-less-lag-more-frames-in-roblox/"><u>Gameplay Improvement: Less Lag, More Frames in Roblox</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-unreachable-error-connecting-to-game-servers-on-windows/"><u>How to Fix Unreachable Error: Connecting to Game Servers on Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/lowering-cpuram-in-windows-w11-news-apps/"><u>Lowering CPU/RAM in Windows W11 News Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/mapmyride-reviewed-a-detailed-breakdown/"><u>MapMyRide Reviewed: A Detailed Breakdown</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-awaits-conquering-windows-11-with-group-software-updates-via-winstall/"><u>Mastery Awaits: Conquering Windows 11 with Group Software Updates via Winstall</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-efficiency-shortcut-placement-in-win11-menu-bar/"><u>Maximizing Efficiency: Shortcut Placement in Win11 Menu Bar</u></a></li>
+<li><a href="https://windows11.techidaily.com/momentum-builds-for-windows-11-the-future-shines-in-22h2/"><u>Momentum Builds for Windows 11: The Future Shines in 22H2</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-frequent-microsoft-teams-authentication-failures/"><u>Navigating Frequent Microsoft Teams Authentication Failures</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-traffic-alerts-and-beyond-detailed-review-of-the-feature-rich-escort-max-360-radar-detector/"><u>Navigating Traffic Alerts and Beyond: Detailed Review of the Feature-Rich Escort Max 360 Radar Detector</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-intrusive-windows-store-operations/"><u>Overcoming Intrusive Windows Store Operations</u></a></li>
+<li><a href="https://windows11.techidaily.com/precision-setup-integrating-latest-network-drivers-from-intel-in-fedora/"><u>Precision Setup: Integrating Latest Network Drivers From Intel in Fedora</u></a></li>
+<li><a href="https://windows11.techidaily.com/prodigious-windows-11-tools-the-ultimate-7-productivity-list/"><u>Prodigious Windows 11 Tools: The Ultimate 7 Productivity List</u></a></li>
+<li><a href="https://windows11.techidaily.com/regain-classic-text-bar-with-icons-for-windows-11s-search/"><u>Regain Classic Text Bar with Icons for Windows 11'S Search</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-audio-transmission-phones-and-windows-integration/"><u>Seamless Audio Transmission: Phones & Windows Integration</u></a></li>
+<li><a href="https://windows11.techidaily.com/speedy-steam-downloads-secrets-for-windows-gamers/"><u>Speedy Steam Downloads: Secrets for Windows Gamers</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-reestablishing-functionality-after-failed-ccleaner-on-windows-1011/"><u>Strategies for Reestablishing Functionality After Failed CCleaner on Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-track-down-where-your-windows-programs-live/"><u>Strategies to Track Down Where Your Windows Programs Live</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailor-windows-11-task-manager-interface-elements/"><u>Tailor Windows 11 Task Manager Interface Elements</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-the-start-page-for-task-manager-windows-11/"><u>Tailoring the Start Page for Task Manager (Windows 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/technique-to-automate-microsoft-words-attachment-display-in-read-only-view/"><u>Technique to Automate Microsoft Word's Attachment Display in Read-Only View</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-enigma-of-missing-video-suggestions-in-your-feed-for-2024/"><u>The Enigma of Missing Video Suggestions in Your Feed for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/title-tweaking-desktop-icons-separation-in-winxiplus10/"><u>Title: Tweaking Desktop Icons' Separation in WinXI+10</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-prohibited-windows-based-program/"><u>Unblocking Prohibited Windows-Based Program</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-unavailable-drive-letters-on-windows-os/"><u>Understanding Unavailable Drive Letters on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-power-of-taskbar-icon-size-in-w11/"><u>Unlock the Power of Taskbar Icon Size in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-gpu-potentials-on-pc-the-ultimate-6-windows-apps/"><u>Unlocking GPU Potentials on PC: The Ultimate 6 Windows Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-ultimate-gameplay-with-dxvk-in-windows-environment/"><u>Unlocking Ultimate Gameplay with DXVK in Windows Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-steps-to-alleviate-server-stumble-on-windows-store/"><u>Unveiling Steps to Alleviate Server Stumble on Windows Store</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-distinctions-between-public-private-and-personal-artificebased-intelligence-systems/"><u>Unveiling the Distinctions Between Public, Private & Personal Artificebased Intelligence Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-huawei-p60-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Huawei P60 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-at-preservation-moving-old-games-into-windows-11-folder/"><u>Winning at Preservation: Moving Old Games Into Windows 11 Folder</u></a></li>
+</ul></div>

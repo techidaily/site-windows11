@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Approach to Crafting Slideshows & Fixing Flaws in Win11's Photos App
-date: 2024-07-11T22:12:59.212Z
-updated: 2024-07-12T22:12:59.212Z
+date: 2024-08-15T15:20:00.425Z
+updated: 2024-08-16T15:20:00.425Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
 
  The updated Photos app also supports the option to switch the slideshow to windowed mode. It means that you can drag and resize the slideshow window and continue running it in one section of your display.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Update the Photos App
 
  All the new features are available with the Photos app version number **2023.11050.2013.0** or higher. At the time of writing, this is only available for Windows Insiders. If you're not an Insider, you can still [download the Windows 11 Insider ISO without joining the Insider program](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/).
@@ -38,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
 
 ![Download Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/download-photos-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use the Slideshow Feature in the Photos App
 
  When you launch the Photos app, you will notice a **Start Slideshow** icon in the **All Photos** section next to the filters option. Click on it to begin the slideshow. Alternatively, you can press the **F5** key to start the slideshow.
@@ -49,6 +55,9 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
  By default, the app will apply transitions, music, animation, and a loop to the slideshow. To adjust any of these features, **hover** on the slideshow and click on the **Music** icon. Now, you can enable or disable any of the four **toggles** to add or remove the effect from the slideshow.
 
 ![Slideshow options in Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slideshow-options-in-photos-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 
  By default, you are stuck with a basic zoom-in animation effect, a fade-out transition, and an auto-loop option. The only customizable feature is the background music where you can choose tracks from multiple categories.
 
@@ -64,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
 
  So, you don’t need to blur areas in an image before sending it to others. The end result is flawless (in most cases with simple backgrounds). Still, you don’t have to send partially blurred images which sparks more curiosity about what was blurred. A simpler use case is to remove spots from the face.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Use the Spot Fix Feature in the Photos App
 
  Double-click on any photo in the app to open it in a new window. Now, press **Ctrl + E** or click on the **Edit** icon to switch to the image editing window. Click on the **Retouch** option to open the Spot Fix tool.
@@ -71,10 +83,16 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
  Now, click on the area which you want to remove using the tool. If you want to increase the size of the tool, adjust the **size slider** present on the right side. You may have to use the spot fix on an area (textured or patterns) multiple times to get it right.
 
 ![Spotfix feature in Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/spotfix-feature-in-photos-app.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We tried deleting some taskbar icons from an image and the tool worked perfectly. But it also struggled in some areas, where transparency effects were in action. However, with a real-world image of an ice cream cone the tool somewhat struggled to do a convincing spot fix. So, the end result depends on the number of objects, shapes, patterns, and colors in an image.
 
 ![Spotfix feature in Photos App 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/spotfix-feature-in-photos-app-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Another gripe with the Spot Fix feature is that you cannot select an area in an image. You are left with the maximum size of the tool only. The circular size of the tool makes it difficult to tackle the corners of the object you want to remove from the image.
 
@@ -103,3 +121,52 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gamer-centric-streaming-tool-selection/"><u>[New] 2024 Approved  Gamer-Centric Streaming Tool Selection</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-premier-nintendo-switch-fighting-apps-list-max-156/"><u>[New] Premier Nintendo Switch Fighting Apps List (Max 156)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-capturing-ps4-a-comprehensive-review-of-recording-options/"><u>[Updated] 2024 Approved  Capturing PS4  A Comprehensive Review of Recording Options</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-creative-energy-for-impactful-lyric-videos-and-lyric-video-maker/"><u>[Updated] 2024 Approved  Harnessing Creative Energy for Impactful Lyric Videos & Lyric Video Maker</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-master-your-remote-work-with-these-5-video-conference-recorders/"><u>[Updated] 2024 Approved  Master Your Remote Work with These 5 Video Conference Recorders</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-mastering-audio-quality-with-top-podcast-mics-for-2024/"><u>[Updated] Mastering Audio Quality with Top Podcast Mics for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-professional-thumbnail-tactics-dos-and-donts-guidebook/"><u>[Updated] Professional Thumbnail Tactics  Do's and Don'ts Guidebook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-update-complete-shorts-visibility-restored/"><u>[Updated] Update Complete  Shorts Visibility Restored</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-art-of-social-media-stardom-nine-tracks-to-insta-success/"><u>2024 Approved  The Art of Social Media Stardom  Nine Tracks to Insta Success</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-most-reliable-gopro-cases-1-10-showdown/"><u>2024 Approved  The Most Reliable GoPro Cases - #1-10 Showdown</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-best-practices-for-linktree-on-tiktok-profiles/"><u>2024 Approved  Unveiling the Best Practices for Linktree on TikTok Profiles</u></a></li>
+<li><a href="https://windows11.techidaily.com/drive-discretion-in-windows-1011/"><u>Drive Discretion in Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-for-activating-outlook-preview-in-windows-11-os/"><u>Easy Steps for Activating Outlook Preview in Windows 11 OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-tips-for-installing-the-latest-samsung-usb-drivers-on-smartphones/"><u>Easy Tips for Installing the Latest Samsung USB Drivers on Smartphones</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-methods-to-fix-error-code-0x80041015/"><u>Effective Methods to Fix Error Code 0X80041015</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/effective-techniques-for-securely-storing-itunes-videos/"><u>Effective Techniques for Securely Storing iTunes Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-task-management-on-windows-11/"><u>Efficient Task Management on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-run-windows-11-news-and-video-sites-without-strain/"><u>Efficiently Run Windows 11 News & Video Sites without Strain</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-telnet-configuration-for-win11-users/"><u>Effortless Telnet Configuration for Win11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-webp-experience-with-these-4-windows-viewer-tools/"><u>Elevate WebP Experience with These 4 Windows Viewer Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-workflow-select-7-most-powerful-w11-widgets/"><u>Elevate Workflow: Select 7 Most Powerful W11 Widgets</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-account-unlock-admin-potential/"><u>Elevate Your Account - Unlock Admin Potential</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-application-display-enable-windows-11s-autocolor/"><u>Elevate Your Application Display - Enable Windows 11'S AutoColor</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/elevate-your-chat-game-nine-tricks-to-better-english-talk/"><u>Elevate Your Chat Game: Nine Tricks to Better English Talk</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-your-app-setup-game-with-winstall-on-windows-11/"><u>Elevating Your App Setup Game with Winstall on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-error-unknown-value-in-windows-systems/"><u>Eliminating Error: Unknown Value in Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-unexpected-closure-notifications-from-roblox-games/"><u>Eliminating Unexpected Closure Notifications From Roblox Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-uninstall-troubles-with-epic-games-hub-w11/"><u>Eliminating Uninstall Troubles with Epic Games Hub W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-windows-0x800704b3-network-hurdles/"><u>Eliminating Windows' 0X800704B3 Network Hurdles</u></a></li>
+<li><a href="https://windows11.techidaily.com/elusive-archive-tucked-away-zip-and-images-on-windows-11/"><u>Elusive Archive Tucked Away: ZIP & Images on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabledisable-tpm-support-within-virtualbox-70-settings/"><u>Enable/Disable TPM Support Within VirtualBox 7.0 Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-win-gpgpu-capabilities-using-1-6-tools/"><u>Enhance Win GPGPU Capabilities Using #1-#6 Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-discord-performance-on-windows-systems/"><u>Enhancing Discord Performance on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-epic-launcher-performance-a-how-to/"><u>Enhancing Epic Launcher Performance: A How-To</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-windows-event-viewer-functionality/"><u>Enhancing Windows Event Viewer Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensuring-single-user-printer-operation-on-windows-11/"><u>Ensuring Single-User Printer Operation on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicating-hypervisorerr-bsod-in-windows-1011/"><u>Eradicating HYPERVISOR_ERR: BSOD in Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicating-service-did-not-respond-error-in-windows-os/"><u>Eradicating Service Did Not Respond Error in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/erase-webp-images-from-your-chrome-saved-collection-on-windows/"><u>Erase WebP Images From Your Chrome Saved Collection on Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/explore-the-globe-in-one-frame-iphone-360-video-guide/"><u>Explore the Globe in One Frame  IPhone 360 Video Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-g54-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola G54 5G</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-hasten-recovering-deleted-snaps/"><u>In 2024, Hasten Recovering Deleted Snaps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-y27-4g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo Y27 4G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/iview-harmony-ios-and-macos-slideshow-tool/"><u>IView Harmony  IOS & macOS Slideshow Tool</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-guide-how-to-quickly-download-the-latest-geforce-gtx-750-graphics-card-drivers/"><u>Simple Guide: How to Quickly Download the Latest GeForce GTX 750 Graphics Card Drivers</u></a></li>
+</ul></div>

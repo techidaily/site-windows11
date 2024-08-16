@@ -1,7 +1,7 @@
 ---
 title: From Spoken Voice to Textual Output in Seconds - Whisper's Guide
-date: 2024-07-11T21:17:05.884Z
-updated: 2024-07-12T21:17:05.884Z
+date: 2024-08-15T16:14:31.070Z
+updated: 2024-08-16T16:14:31.070Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 
  If you'd prefer the "vanilla" version of Whisper and the versatility of the terminal instead of clunky GUIs, check our article on [how to turn your voice into text with OpenAI's Whisper for Windows](https://www.makeuseof.com/dictate-documents-openai-whisper/).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## Are Whisper and Whisper Desktop the Same?
 
  Despite its official-sounding name, Whisper Desktop is a third-party GUI for Whisper, made for everyone who'd prefer to click buttons instead of typing commands.
@@ -38,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 
  You're on the other end of the spectrum, and instead of seeking an easier way to use Whisper than the terminal you're seeking ways to implement it in your own solutions? Rejoice, for [OpenAI has opened access to ChatGPT and Whisper APIs](https://www.makeuseof.com/what-chatgpt-and-whisper-apis-means-for-businesses/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Download & Install Whisper Desktop
 
  Although Whisper Desktop is easier to use than the standalone Whisper, its installation is more convoluted than repeatedly clicking Next in a wizard.
@@ -46,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 ![Whisper Desktop Github Releases Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-desktop-github-releases-link.jpg)
 2. Under **Assets**, click **WhisperDesktop.zip** and download it to your PC.  
 ![Whisper Desktop Github Download Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-desktop-github-download-link.jpg)
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. Extract the downloaded archive to a folder and use your file manager to visit it. Inside you will find the Whisper Desktop application. Double-click on it to run it.  
 ![Whisper Desktop App in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-desktop-app-in-file-explorer.jpg)
 4. You also need a Whisper language model in **GCML** binary format. Whisper Desktop will provide you with two links for acquiring one. Skip the second link for generating your own model since it's a more complicated process. Click on **Hugging Face** to open that page in your default browser, from where you can download a ready-to-use file.  
@@ -58,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 ![Hugging Face Whisper Medium Model Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hugging-face-whisper-medium-model-link.jpg)
 8. Finally, you should have reached your destination. Notice the line stating that this file is stored with Git LFS and is too big to display, but you can still download it. Click on **download** to do precisely that.  
 ![Hugging Face Whisper Medium Model Download Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hugging-face-whisper-medium-model-download-link.jpg)
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 9. When the file completes downloading, use your favorite file manager (File Explorer will do) to move the downloaded language model file into the same folder as Whisper Desktop.  
 ![Whisper Medium Model Placed in Whisper Desktop Folder in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-medium-model-placed-in-whisper-desktop-folder-in-file-explorer.jpg)
 
@@ -76,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
  Click on OK to move to the app's main interface.
 
 ![Whisper Desktop Advanced Options Changing Graphics Adapter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-desktop-advanced-options-changing-graphics-adapter.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 
  If you already have a recording of your voice you want to turn into written text, click on **Transcribe File** and select it. Still, we will use Whisper Desktop for live transcription for this article.
 
@@ -86,6 +102,9 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
  Make sure **Save to text file** and **Append to that file** are enabled to have Whisper Desktop save its output to a file without overwriting its content. Use the **button with the three dots** on the right of the file's path field to define said text file.
 
 ![Whisper Desktop Saving And Appending to Text File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-desktop-saving-and-appending-to-text-file.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 
  Click on **Capture** to begin transcribing your speech to text.
 
@@ -94,6 +113,9 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
  You can keep talking for as long as you like, and you should occasionally see the two first indicators flashing while the app turns your voice into text. Click **Stop** when done.
 
 ![Whisper Desktop Active Voice Transcribing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-desktop-active-voice-transcribing.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 
  The text file you selected should open in your default text editor, containing in written form everything you said until you clicked **Stop**.
 
@@ -101,6 +123,9 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 
  We should note that you can also do the opposite of what we saw here: convert any text to speech. This way you can listen to anything as if it were a podcast instead of tiring your eyes squinting at screens. For more info on that, check our article on [some of the best free online tools to download text-to-speech as MP3 audio](https://www.makeuseof.com/tag/download-text-to-speech-as-mp3-audio/).
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Whisper Desktop Voice-Typing Tips
 
  Although Whisper Desktop can be a lifesaver, enabling you to write with your voice much quicker than you could type, it's far from perfect.
@@ -117,6 +142,9 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
 4. As with the standalone version of Whisper, it's best to use the optimal language model for your available hardware. You can use up to the **medium** model if your GPU has 8GB of VRAM. For less VRAM, go for the smaller models. Only choose the slightly more accurate but also much more demanding **large** model if you use a GPU with 16GB of VRAM or more.
 5. Remember that the larger the language model, the slower the transcription process. Don't go for a model larger than needed. You'll probably find Whisper Desktop can already "understand you" most of the time with the medium or smaller models, with only one or two errors per paragraph.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Are You Still Typing? Use Your Voice With Whisper
 
  Despite requiring some time to set up, as you will see when you try it, Whisper Desktop performs much better than most alternatives, with much higher accuracy and better speed.
@@ -134,3 +162,49 @@ thumbnail: https://thmb.techidaily.com/a0961ee471b397828689bb0499e11bd310468db6e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-decoding-instagrams-best-timing-practices/"><u>[New] 2024 Approved  Decoding Instagram's Best Timing Practices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-make-slow-motion-videos-for-instagram/"><u>[New] 2024 Approved  How to Make Slow Motion Videos for Instagram</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-earning-stream-start-small-see-big-on-youtube-for-2024/"><u>[New] Earning Stream  Start Small, See Big on YouTube for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-full-breakdown-the-ultimate-dji-phantom-4-experience/"><u>[New] In 2024, Full Breakdown  The Ultimate DJI Phantom 4 Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximizing-iphone-video-clarity-top-4-fixes-using-premiere-pros-hdr-tools/"><u>[New] Maximizing iPhone Video Clarity  Top 4 Fixes Using Premiere Pro's HDR Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flavorful-frames-stepwise-food-film-making/"><u>[Updated] 2024 Approved  Flavorful Frames  Stepwise Food Film-Making</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-charting-the-financial-pathway-of-tseries-within-youtube-market-space-for-2024/"><u>[Updated] Charting the Financial Pathway of TSeries Within YouTube Market Space for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-benqs-bl2711u-showcase-the-quest-for-perfect-4k-visual-fidelity/"><u>2024 Approved  BenQ's BL2711U Showcase  The Quest for Perfect 4K Visual Fidelity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-thrifty-shopping-for-cameras-the-most-economical-lists-under-100/"><u>2024 Approved  Thrifty Shopping for Cameras  The Most Economical Lists Under $100</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/6-simple-steps-to-sidestep-gpt-dialogue-dangers/"><u>6 Simple Steps to Sidestep GPT Dialogue Dangers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-critical-look-at-auto-gpt-solo-use/"><u>A Critical Look at Auto-GPT Solo Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieve-peak-speed-for-your-windows-ssd-using-fresh-methods/"><u>Achieve Peak Speed for Your Windows' SSD Using Fresh Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-non-existent-files-message-on-windows-11/"><u>Addressing Non-Existent Files Message on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/altering-monitors-sequence-on-laptops/"><u>Altering Monitors' Sequence on Laptops</u></a></li>
+<li><a href="https://windows11.techidaily.com/altering-windows-files-date-creation-and-modification-adjustments/"><u>Altering Windows Files: Date Creation & Modification Adjustments</u></a></li>
+<li><a href="https://windows11.techidaily.com/antiquated-tech-awakened-atlasos-upgrade/"><u>Antiquated Tech Awakened: AtlasOS Upgrade</u></a></li>
+<li><a href="https://windows11.techidaily.com/banishing-blue-screens-a-windows-fixers-manual/"><u>Banishing Blue Screens: A Windows Fixer’s Manual</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-free-from-the-frozen-windows-terminal/"><u>Breaking Free From the Frozen Windows Terminal</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-frozen-wow-post-update-phases/"><u>Bypassing Frozen WoW Post-Update Phases</u></a></li>
+<li><a href="https://windows11.techidaily.com/changing-default-user-directory-labels-windows-11/"><u>Changing Default User Directory Labels (Windows 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-access-issues-enabling-windows-logins-post-fail/"><u>Clearing Access Issues: Enabling Windows Logins Post-Fail</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-guide-to-using-bluescreenview-tools/"><u>Comprehensive Guide to Using BlueScreenView Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/consistent-experience-migrating-powertoys-on-new-pcs/"><u>Consistent Experience: Migrating PowerToys on New PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-cannot-calculate-issues-on-windows-platform/"><u>Correcting 'Cannot Calculate' Issues on Windows Platform</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-audacitys-internal-portaudio-error-on-w10w11-pcs/"><u>Correcting Audacity's Internal PortAudio Error on W10/W11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-your-window-11-experience-dynamic-wallpapers-guide/"><u>Customize Your Window 11 Experience: Dynamic Wallpapers Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-down-unnecessary-memory-use-by-webview2-on-edge/"><u>Cutting Down Unnecessary Memory Use by WebView2 on Edge</u></a></li>
+<li><a href="https://windows11.techidaily.com/dealing-with-the-extract-to-temp-directory-glitch-fix-for-error-1152/"><u>Dealing with the 'Extract to Temp Directory' Glitch: Fix for Error 1152</u></a></li>
+<li><a href="https://windows11.techidaily.com/deletion-redefined-windows-photo-apps-new-edge/"><u>Deletion Redefined: Windows Photo App's New Edge</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-auto-triggered-console-crashes-on-windows/"><u>Disabling Auto-Triggered Console Crashes on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-unique-applications-the-best-10-uses-for-powertoys/"><u>Discover Unique Applications: The Best 10 Uses for PowerToys</u></a></li>
+<li><a href="https://windows11.techidaily.com/discovering-surface-laptop-studio-2-the-near-perfect-companion/"><u>Discovering Surface Laptop Studio 2 - The Near-Perfect Companion</u></a></li>
+<li><a href="https://windows11.techidaily.com/dispatching-speed-limits-defeat-windows-100mbps-boundary/"><u>Dispatching Speed Limits: Defeat Windows' 100Mbps Boundary</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/engrossing-12-pc-clicker-games-that-keep-you-hooked-for-2024/"><u>Engrossing 12 PC Clicker Games That Keep You Hooked for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/essential-6-social-platforms-for-enterprises-for-2024/"><u>Essential 6 Social Platforms for Enterprises for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-possibebilities-of-chatgpt-through-custom-instructions/"><u>Exploring the Possibebilities of ChatGPT Through Custom Instructions</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixes-for-non-functional-iphone-hotspot-a-comprehvew/"><u>Fixes for Non-Functional iPhone Hotspot - A Comprehvew</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-raw-files-to-stunning-artwork-mastering-polarrs-editing/"><u>In 2024, From Raw Files to Stunning Artwork  Mastering Polarr's Editing</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premier-gadgets-in-auto-traffic-camera-tech/"><u>In 2024, Premier Gadgets in Auto Traffic Camera Tech</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/infinix-smart-8-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Infinix Smart 8 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/rx-fanfare-update-pack-for-2024/"><u>RX Fanfare Update Pack for 2024</u></a></li>
+</ul></div>
