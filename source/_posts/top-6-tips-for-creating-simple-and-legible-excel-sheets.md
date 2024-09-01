@@ -1,7 +1,7 @@
 ---
 title: Top 6 Tips for Creating Simple and Legible Excel Sheets
-date: 2024-08-27 14:21:27
-updated: 2024-08-29 11:39:40
+date: 2024-08-31T22:04:49.694Z
+updated: 2024-09-01T22:04:49.694Z
 tags:
   - excel
 categories:
@@ -54,10 +54,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An excel worksheet with a totals row at the bottom of a table of data.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/totals-row.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  First, select the row you want to affect (in our case, row 102). Then, open the "Home" tab on the ribbon, and use the border and color options to format this row.
 
 ![An Excel worksheet with the totals row selected, and the border and color icons highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/totals-row-highlighted.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
  We recommend you apply a top border only, and use a light color fill, such as light blue or gray.
 
 ![An Excel worksheet with a totals row at the foot of a table colored and with a top border.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/totals-row-formatted.png) 
@@ -72,6 +78,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An Excel worksheet with the header row highlighted and 'Wrap Text' selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/wrap-text.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You will see that the text in each cell along this row has now adjusted to fit the cell width.
 
  However, as some of the words are longer than the cell width, they are split into two lines. So, the second step is to [adjust the column widths](https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-huawei-p60-drfone-by-drfone-virtual-android/). You can adjust column widths individually, but we want them to be the same, so that there's an aesthetic consistency across our sheet.
@@ -80,12 +89,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An Excel worksheet with all cells highlighted and an arrow pointing at the divide between two column headers where it is possible to change the column widths.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/adjust-column-widths.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
  Once you've achieved a suitable cell width, click anywhere on your sheet to deselect the cells. You'll notice that doing this makes your spreadsheet far less cramped, which, again, is pleasing on the eye.
 
  We'd also recommend that you center-align your headers vertically and horizontally to add that extra professional quality. Select the header row and click both center alignment icons in the Alignment group on the Home tab.
 
 ![An Excel worksheet with the header row center-aligned.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/centre-align.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In Excel, by default, text aligns to the left and numbers align to the right. You may wish to make these all the same—or even center-align all your data—to increase the readability of your data.
 
  Also note the following tips to achieve consistent formatting:
@@ -103,8 +118,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An Excel worksheet with a cell H1's note in view.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/view-cell-note.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
  To edit or delete the note, simply right-click the cell again and click "Edit Note" or "Delete Note."
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Tip 5: Let Excel Create Your Charts and Tables
 
  A quick and easy way to improve your Excel sheet's appearance and display your data effectively is to use the in-built chart and table functions.
@@ -113,6 +134,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Data selected in an Excel worksheet, and the chart options highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/insert-chart.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also tell Excel to [format your tables](https://instagram-videos.techidaily.com/updated-2024-approved-how-to-convert-your-best-videography-into-melodic-mp3s-insta/). To do this, highlight all the data in your table, including the header row or column. Then, open the "Home" tab, and click "Format As Table" in the Stypes group, and choose a layout that works with your chosen color palette.
 
 ![The Format As Table option displayed in an Excel worksheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/format-as-table.png) 
@@ -147,3 +171,44 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-streamline-playlist-dissemination-on-youtube/"><u>[New] 2024 Approved  Streamline Playlist Dissemination on Youtube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-loom-chronicles-crafting-visual-stories-for-2024/"><u>[New] The Loom Chronicles  Crafting Visual Stories for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-ultimate-companion-for-high-fps-filming-yi-hero/"><u>[New] The Ultimate Companion for High FPS Filming  Yi Hero</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-income-on-instagram-comprehensive-step-by-step-guide/"><u>[Updated] 2024 Approved  Income on Instagram  Comprehensive Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-banishing-facebook-broadcasts-from-laptoptablet/"><u>[Updated] In 2024, Banishing Facebook Broadcasts From Laptop/Tablet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-quick-tips-for-overcoming-adobe-premieres-srt-export-issues/"><u>[Updated] In 2024, Quick Tips for Overcoming Adobe Premiere's SRT Export Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-the-right-tool-snapchats-my-ai-vs-chatgpt-best-practices/"><u>Choosing the Right Tool: Snapchat's My AI Vs. ChatGPT - Best Practices</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-blue-screen-0x8007007e-problems/"><u>Fixing Windows Blue Screen 0X8007007E Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-win11-screensaver-failures-effectively/"><u>Handling WIN11 Screensaver Failures Effectively</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reset-audio-driver-error-unresponsive-device-issue/"><u>How To Reset Audio Driver Error: Unresponsive Device Issue</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-moto-g34-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Motorola Moto G34 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-use-the-diskusage-command-to-analyze-drive-space-on-windows/"><u>How to Use the DiskUsage Command to Analyze Drive Space on Windows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-enhance-info-blocks-templates-for-youtube-titles/"><u>In 2024, Enhance Info Blocks  Templates for YouTube Titles</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-vivo-s18-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo S18 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/keep-your-laptop-cool-the-gamers-guide-to-temperature-control/"><u>Keep Your Laptop Cool: The Gamer’s Guide to Temperature Control</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-to-unveiling-windows-11-security-dashboard/"><u>Key to Unveiling Windows 11 Security Dashboard</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-9-ways-to-engage-windows-11s-volume-management/"><u>Master 9 Ways to Engage Windows 11'S Volume Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-boot-time-fixes-for-windows-audiovisual-issues/"><u>Mastering Boot-Time Fixes for Windows Audiovisual Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-print-device-non-response-windows-11/"><u>Overcoming Print Device Non-Response (Windows 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-runtime-issues-with-malwarebytes-in-modern-windows-systems/"><u>Overcoming Runtime Issues with Malwarebytes in Modern Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/path-retrieval-pro-unveiling-six-strategies-for-copying-windows-11-directory-structures/"><u>Path Retrieval Pro: Unveiling Six Strategies for Copying Windows 11 Directory Structures</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfect-window-dimensions-win11s-configurability/"><u>Perfect Window Dimensions: Win11's Configurability</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-lsasuxcomplision-error-on-windows-systems/"><u>Resolving LSASUX_COMPLISION ERROR on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-full-access-to-steam-games-on-win11/"><u>Restoring Full Access to Steam Games on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/secretive-windows-11-aesthetic-designs/"><u>Secretive Windows 11 Aesthetic Designs</u></a></li>
+<li><a href="https://windows11.techidaily.com/sifting-through-nvidia-drivers-for-entertainment-needs/"><u>Sifting Through Nvidia Drivers for Entertainment Needs</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplifying-editing-adding-wordpad-command-keys-to-windows-ui/"><u>Simplifying Editing: Adding WordPad Command Keys to Windows' UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-installing-and-setting-up-win11/"><u>Steps for Installing and Setting Up Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-resolving-efail-0x80004005-error-in-windows-virtualbox/"><u>Strategies for Resolving E_FAIL (0X80004005) Error in Windows Virtualbox</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-recovery-plan-from-0x800713f-disruption-in-windows-email-sphere/"><u>Swift Recovery Plan From 0X800713F Disruption in Windows' Email Sphere</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-synonym-searches-in-windows-11/"><u>Swift Synonym Searches in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailor-your-workflow-perfecting-the-use-of-window-11s-search-box/"><u>Tailor Your Workflow: Perfecting the Use of Window 11'S Search Box</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-savvy-access-three-ways-to-game-directories/"><u>Tech Savvy Access: Three Ways to Game Directories</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-vintage-films-with-a-windows-based-madvr-approach/"><u>Transforming Vintage Films with a Windows-Based MadVR Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/trim-your-digital-clutter-with-win11s-scheduled-deletion/"><u>Trim Your Digital Clutter with Win11's Scheduled Deletion</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-winmcs-potential-solving-wi-fi-issues/"><u>Unleashing WinMC's Potential: Solving Wi-Fi Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-nextgen-access-mastering-upcoming-features-with-vivetool/"><u>Windows NextGen Access: Mastering Upcoming Features with ViVeTool</u></a></li>
+</ul></div>

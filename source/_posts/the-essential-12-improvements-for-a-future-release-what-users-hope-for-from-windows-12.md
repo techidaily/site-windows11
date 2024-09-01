@@ -1,7 +1,7 @@
 ---
 title: "The Essential 12 Improvements for a Future Release: What Users Hope For From Windows 12"
-date: 2024-08-27 15:16:10
-updated: 2024-08-29 10:29:28
+date: 2024-08-31T22:01:18.541Z
+updated: 2024-09-01T22:01:18.541Z
 tags:
   - windows
 categories:
@@ -36,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/d57dd9f54952f4e7ca5edd2db9c4efad701c22be4
 
 ![The legacy Control Panel in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_47.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Expand Phone Link's Usefulness
 
 [Phone Link](https://data-safeguard.techidaily.com/automated-data-gathering-with-cookiebot-solutions/), formerly Your Phone, has steadily improved over the years, but it is still a far cry from the sort of seamless integration Apple users have access to if they combine a Mac and an iPhone.
@@ -44,6 +47,12 @@ thumbnail: https://thmb.techidaily.com/d57dd9f54952f4e7ca5edd2db9c4efad701c22be4
 
 ![The Microsoft Phone Link app with a Pixel device.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h14_14.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ##  Universal Noise Cancellation Built-in
 
  Many applications now have noise cancelation built in, but the quality is widely variable. [Discord, which uses Krisp](https://ai-editing-video.techidaily.com/new-2024-approved-creative-ways-to-add-green-screen-effects-in-photoshop/), has excellent noise cancelation. NVIDIA also offers [NVIDIA Broadcast](https://extra-skills.techidaily.com/in-2024-orchestrating-the-scene-adding-cropping-and-adjusting-music-in-canva/), which includes a noise cancellation feature. NVIDIA Broadcast allows users with an NVIDIA GPU to filter out echoes or troublesome background noise. It works really well, but it requires [an RTX GPU](https://remote-screen-capture.techidaily.com/2024-approved-mastering-mayhem-and-mystery-the-essential-gaming-list-top-10/) to run.
@@ -62,6 +71,9 @@ Andrew Heinzman / How-To Geek
 
  In the interim, [Wallpaper Engine](https://www.wallpaperengine.io/en) or [Lively](https://apps.microsoft.com/detail/9ntm2qc6qws7) are great, low-cost ways to get your animated background fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  More Useful Widgets
 
  Microsoft has made several attempts at implementing widgets in Windows over the years, and none of them have been particularly successful. One—Gadgets in Windows Vista and 7—quite famously [introduced security vulnerabilities](https://learn.microsoft.com/en-us/security-updates/SecurityAdvisories/2013/2719662?redirectedfrom=MSDN).
@@ -76,6 +88,9 @@ Andrew Heinzman / How-To Geek
 
  Personally, I’d love a little weather widget in the upper right corner of my right monitor.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Control Over the Right-Click Menu
 
  The right-click context menu is an essential part of using a Windows computer, and yet, we have no meaningful built-in tools to customize how it looks and operates. Why not?
@@ -84,6 +99,9 @@ Andrew Heinzman / How-To Geek
 
  We’ve been living with cluttered right-click menus for decades. A native tool would be a small but fantastic addition to Windows 12.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  A Favorites List on the Emoji Picker
 
 [The emoji picker](https://screen-video-capture.techidaily.com/2024-approved-top-6-minecraft-house-ideas-for-beginners/) is one of my favorite additions in the recent versions of Windows, but it is lacking one critical feature: a favorites list!
@@ -92,6 +110,15 @@ Andrew Heinzman / How-To Geek
 
 ![The Emoji picker on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2024-05-06_02h15_16.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
  It would be great to have the option to build a favorites tab that opens by default. It would be even better if the favorites tab let you assign a key to each favorited item for faster access, much like [how the Power User Menu works](https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/).
 
  The ability to press Win+. and then just tap a single key to enter an emdash? Yes, please.
@@ -102,6 +129,9 @@ Andrew Heinzman / How-To Geek
 
  Live tiles were a bit of a bust, but allowing users to integrate their favorite widgets into the Start Menu would be a nice start. The ability to toggle between a list display and an icon grid array would also be really nice.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The Xbox App Needs a Rework
 
  The Xbox app is notoriously buggy and has been for years. Sometimes it works, sometimes, inexplicably, it doesn’t.
@@ -153,3 +183,51 @@ Andrew Heinzman / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-crafting-stories-essential-tips-for-youtube-video-editors/"><u>[New] 2024 Approved  Crafting Stories  Essential Tips for YouTube Video Editors</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-comedy-in-a-click-best-funny-short-video-suggestions-for-youtubers-for-2024/"><u>[New] Comedy in a Click  Best Funny Short Video Suggestions for YouTubers for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-interactive-presenters-synopsis-update-8/"><u>[New] Interactive Presenter's Synopsis, Update 8</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-5-panoramic-capture-models/"><u>[New] Top 5 Panoramic Capture Models</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-the-landscape-of-online-storytelling-with-reels/"><u>[Updated] Navigating the Landscape of Online Storytelling with Reels</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-podcast-cover-design-10-core-insights/"><u>2024 Approved  Guide to Podcast Cover Design  10 Core Insights</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastering-the-self-play-feature-in-facebook-videos/"><u>2024 Approved  Mastering the Self-Play Feature in Facebook Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/7-chrome-tools-for-advanced-ai-interactions/"><u>7 Chrome Tools for Advanced AI Interactions</u></a></li>
+<li><a href="https://facebook.techidaily.com/breaking-stereotypes-the-rise-and-role-of-metamates-at-facebook/"><u>Breaking Stereotypes: The Rise and Role of Metamates at Facebook</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ngs-on-youtube-the-crucial-number-of-video-views-for-money/"><u>Earnings on YouTube  The Crucial Number of Video Views for Money</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-fixes-for-unresponsive-windows-defender-security-shield/"><u>Essential Fixes for Unresponsive Windows Defender Security Shield</u></a></li>
+<li><a href="https://windows11.techidaily.com/explore-extreme-device-integration-the-power-of-galaxys-dex-app/"><u>Explore Extreme Device Integration: The Power of Galaxy's DeX App</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-tecno-spark-20-proplus-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Tecno Spark 20 Pro+ Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-vivo-y27-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo Y27 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-overcome-error-code-54-on-iphone-troubleshooting-itunes-sync-issues-after-windows-11-upgrade/"><u>How to Overcome Error Code -54 on iPhone: Troubleshooting iTunes Sync Issues After Windows 11 Upgrade</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-2024-phasmophobia-game-crashing-issues-effectively/"><u>How to Resolve 2024 Phasmophobia Game Crashing Issues Effectively</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-turn-off-windows-surveillance-features/"><u>How To Turn Off Windows Surveillance Features</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-80-pro-straight-screen-edition-phone-without-password-by-drfone-android/"><u>How To Unlock Honor 80 Pro Straight Screen Edition Phone Without Password?</u></a></li>
+<li><a href="https://windows11.techidaily.com/iis-mastery-guide-navigating-with-ease-and-speed/"><u>IIS Mastery Guide: Navigating with Ease and Speed</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-poco-m6-pro-4gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Poco M6 Pro 4Gwith/without a PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboard-command-guide-to-streamline-win-11s-voice-input/"><u>Keyboard Command Guide to Streamline Win 11'S Voice Input</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/kingdoms-collide-ranking-top-7-total-war-historical-games-for-2024/"><u>Kingdoms Collide  Ranking Top 7 Total War Historical Games for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-android-windows-integration-for-webcams/"><u>Mastering Android-Windows Integration for Webcams</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-operatives-select-6-best-usage-trackers-for-windows/"><u>Microsoft Operatives: Select 6 Best Usage Trackers for Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-new-era-of-win-pc-memory-capacity/"><u>Navigating the New Era of Win PC Memory Capacity</u></a></li>
+<li><a href="https://windows11.techidaily.com/power-through-print-settings-in-win11-quick-guide-max-48-chars/"><u>Power Through Print Settings in Win11 - Quick Guide (Max 48 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-recovery-actions-save-vanished-windows-content/"><u>Quick Recovery Actions: Save Vanished Windows Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/stepping-up-stalled-safety-settings-on-win-11/"><u>Stepping Up Stalled Safety Settings on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/stepwise-strategy-to-erase-wsl-from-windows-11-operating-system/"><u>Stepwise Strategy to Erase WSL From Windows 11 Operating System</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-system-recovery-focus-on-net-max-156/"><u>Streamlining System Recovery: Focus on .NET (Max 156)</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-solutions-to-overcome-onedrives-immediate-folder-addition-error/"><u>Swift Solutions to Overcome OneDrive's Immediate Folder Addition Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-non-installed-disk-errors-in-win-11-with-ease-and-simplicity/"><u>Tackling Non-Installed Disk Errors in Win 11 with Ease and Simplicity</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-11-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-iphone-11-pro-max-and-android-phones-by-drfone-ios/"><u>Top IMEI Unlokers for iPhone 11 Pro Max and Android Phones</u></a></li>
+<li><a href="https://windows11.techidaily.com/understated-applications-the-real-throttlers-of-pc-performance/"><u>Understated Applications: The Real Throttlers of PC Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-smooth-gaming-on-windows-eradicate-errors/"><u>Unleash Smooth Gaming on Windows, Eradicate Errors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unlocking-bandicams-potential-for-efficient-video-capture-for-2024/"><u>Unlocking Bandicam's Potential for Efficient Video Capture for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-divine-control-windows-11s-spiritual-command-center-guide/"><u>Unlocking Divine Control: Windows 11'S Spiritual Command Center Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-best-top-7-no-cost-password-tools-for-win-users/"><u>Unveiling the Best: Top 7 No-Cost Password Tools for Win Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/waking-up-the-watches-5-fixes-for-lost-windows-server-time/"><u>Waking Up the Watches: 5 Fixes for Lost Windows Server Time</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/lies-behind-the-unlisted-tag-on-youtube/"><u>What Lies Behind the 'Unlisted' Tag on YouTube?</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-terminal-the-art-of-color-selection/"><u>Windows Terminal: The Art of Color Selection</u></a></li>
+<li><a href="https://windows11.techidaily.com/winrar-archive-integrity-preventing-checksum-error-messages/"><u>WinRAR Archive Integrity: Preventing Checksum Error Messages</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Versatility of Hyperlink in Excel: 6 Essential Applications"
-date: 2024-08-28 13:32:37
-updated: 2024-08-29 11:37:17
+date: 2024-08-31T22:04:23.382Z
+updated: 2024-09-01T22:04:23.382Z
 tags:
   - excel
 categories:
@@ -27,6 +27,9 @@ With the HYPERLINK function, you can enter a file path or URL with the sheet, ce
 
  Excel offers its own [built-in linking feature in the toolbar](https://tech-revival.techidaily.com/enhance-your-at-home-workflow-with-these-6-ingenious-uses-of-chatgpt/). But the HYPERLINK function lets you do more, like a link to a workbook on your company intranet, shared server, another drive, or even a bookmark in a Word document. Let's look at everything you can do with this versatile function.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ##  What Is the HYPERLINK Function?
 
  HYPERLINK in Excel is a function for [creating clickable links](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-s23-drfone-by-drfone-virtual/) to all sorts of places and objects. You could, of course, do some of the same things that HYPERLINK does using the Link tool in Excel. However, a [formula](https://games-able.techidaily.com/is-premium-play-on-demand-worth-it/) gives you finer control of the link, and HYPERLINK is a simple function to learn that can get you comfortable with creating formulas in general. Additionally, HYPERLINK lets you link directly to a specific cell or defined name.
@@ -57,6 +60,9 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
 
 ![HYPERLINK function to link within the current sheet and use display text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkCurrentSheetText-ExcelHYPERLINKFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ##  2\. Link to a Cell Within the Workbook
 
  To link to a cell in the current workbook, but on [a different sheet](https://facebook-video-footage.techidaily.com/updated-2024-approved-dynamic-and-simple-building-a-subscriber-button-for-youtube-using-filmora/), simply replace the current sheet name with the other sheet's name.
@@ -79,6 +85,12 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
 
 ![HYPERLINK and CELL functions with a cell as display text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkOtherSheetCELLText-ExcelHYPERLINKFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  3\. Link to a Defined Name
 
  Maybe you'd like to link to a [named range of cells](https://fox-blue.techidaily.com/2024-approved-mastering-chroma-key-techniques-in-live-broadcasts/) in the current or another Excel workbook. In this case, you'll add brackets around the path directly before the defined name.
@@ -95,12 +107,21 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
 
 ![HYPERLINK function to link a defined name in another sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkOtherDefinedName-ExcelHYPERLINKFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To use something different for the display text, in either example, simply add it to the second argument:
 
 =HYPERLINK("[HTG_Desktop.xlsx]Scores","Go There")
 
 ![HYPERLINK function to link a defined name with display text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkOtherDefinedNameText-ExcelHYPERLINKFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ##  4\. Link to a Workbook on Another Drive
 
 [Linking to an Excel file](https://extra-approaches.techidaily.com/new-reviewing-the-unseen-facebooks-privacy-and-security-guide/) on a different drive on your computer is another option. You can also link directly to a cell or named range if needed.
@@ -117,6 +138,9 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
 
 ![HYPERLINK function to link a sheet cell on another drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkOtherDriveCell-ExcelHYPERLINKFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  For another example, we'll link to the named range Totals in the same file and location. Because you're [using a defined name](https://some-skills.techidaily.com/new-the-impact-of-testimonial-videos-today/), be sure to insert the brackets around the path. Here, we'll include the display text Totals:
 
 =HYPERLINK("[E:\MyDataEntryForm.xlsx]Totals","Totals")
@@ -137,6 +161,12 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
 
 ![HYPERLINK function to link a workbook cell on the web](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkWebCell-ExcelHYPERLINKFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ##  6\. Link to a Word Document
 
  If you want to integrate your documents with your spreadsheets, you can use the HYPERLINK function to link to a Word document. Plus, you can link straight to a [bookmark you've created in Word](https://win-solutions.techidaily.com/stop-interruptions-ultimate-solution-to-world-of-tanks-blitz-stability-problems/).
@@ -177,3 +207,56 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/resolution-unlocking-pc-performance-eliminating-shell-induced-high-cpu-load-on-modern-oses/"><u>(Resolution) Unlocking PC Performance: Eliminating Shell-Induced High CPU Load on Modern OSes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-essential-skills-for-capturing-soundless-videography/"><u>[New] 2024 Approved  Essential Skills for Capturing Soundless Videography</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-add-radial-blur-effect-to-photos-in-photoshop/"><u>[New] How to Add Radial Blur Effect to Photos in Photoshop</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-quick-guide-to-optimized-and-streamlined-mac-screenshots-via-keyboard-shortcuts/"><u>[New] In 2024, Quick Guide to Optimized and Streamlined Mac Screenshots via Keyboard Shortcuts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-secrets-to-boosting-your-income-via-youtube-shorts-monetization/"><u>[New] In 2024, The Secrets to Boosting Your Income via YouTube Shorts Monetization</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streamer-struggle-navigating-the-waters-between-obs-and-twitch-for-2024/"><u>[New] Streamer Struggle  Navigating the Waters Between OBS & Twitch for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-finest-tech-for-streaming-and-saving-your-video-conferences/"><u>[New] The Finest Tech for Streaming and Saving Your Video Conferences</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-8-superb-tablet-titans-to-take-your-photo-editing-skills-further/"><u>[Updated] 8 Superb Tablet Titans to Take Your Photo Editing Skills Further</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-bring-your-videos-to-life-border-magic-on-ig-for-2024/"><u>[Updated] Bring Your Videos to Life  Border Magic on IG for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-elite-choices-for-image-capturing-for-2024/"><u>[Updated] Elite Choices for Image Capturing for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-essential-strategies-for-uploading-to-instagram-tv/"><u>[Updated] Essential Strategies for Uploading to Instagram TV</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-how-to-incrementally-lower-decibels-in-logic-pro-for-2024/"><u>[Updated] How to Incrementally Lower Decibels in Logic Pro for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-a-step-by-step-guide-to-enhancing-your-youtube-content-post-uploading/"><u>[Updated] In 2024, A Step-by-Step Guide to Enhancing Your YouTube Content Post-Uploading</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-whats-sweeping-the-web-dive-into-these-8-trending-videos-for-2024/"><u>[Updated] What's Sweeping the Web? Dive Into These 8 Trending Videos for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-nokia-c300-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Nokia C300 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-beginners-journey-to-enhanced-gopro-adventures/"><u>A Beginner's Journey to Enhanced GoPro Adventures</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/chasingpeakperformance-after-mycam-for-2024/"><u>ChasingPeakPerformance After MyCam for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-android-auto-and-carplay-in-your-car-a-step-by-step-guide/"><u>Effortless Installation of Android Auto and CarPlay in Your Car: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-blue-screen-0x8007007e-problems/"><u>Fixing Windows Blue Screen 0X8007007E Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-win11-screensaver-failures-effectively/"><u>Handling WIN11 Screensaver Failures Effectively</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reset-audio-driver-error-unresponsive-device-issue/"><u>How To Reset Audio Driver Error: Unresponsive Device Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-use-the-diskusage-command-to-analyze-drive-space-on-windows/"><u>How to Use the DiskUsage Command to Analyze Drive Space on Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-get-ahead-in-call-capturing-20plus-techniques-for-windowsmac-users/"><u>In 2024, Get Ahead in Call Capturing  20+ Techniques for Windows/Mac Users</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleashing-youtube-potential-with-effective-seo-methods-1-11/"><u>In 2024, Unleashing YouTube Potential with Effective SEO Methods (1-11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/keep-your-laptop-cool-the-gamers-guide-to-temperature-control/"><u>Keep Your Laptop Cool: The Gamer’s Guide to Temperature Control</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-9-ways-to-engage-windows-11s-volume-management/"><u>Master 9 Ways to Engage Windows 11'S Volume Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-boot-time-fixes-for-windows-audiovisual-issues/"><u>Mastering Boot-Time Fixes for Windows Audiovisual Issues</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-extracting-still-moments-top-10-video-to-photo-converters-for-2024/"><u>New Extracting Still Moments Top 10 Video to Photo Converters for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-grayed-extended-volume-options-in-windows/"><u>Overcome Grayed Extended Volume Options in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-print-device-non-response-windows-11/"><u>Overcoming Print Device Non-Response (Windows 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-runtime-issues-with-malwarebytes-in-modern-windows-systems/"><u>Overcoming Runtime Issues with Malwarebytes in Modern Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/path-retrieval-pro-unveiling-six-strategies-for-copying-windows-11-directory-structures/"><u>Path Retrieval Pro: Unveiling Six Strategies for Copying Windows 11 Directory Structures</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfect-window-dimensions-win11s-configurability/"><u>Perfect Window Dimensions: Win11's Configurability</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-lsasuxcomplision-error-on-windows-systems/"><u>Resolving LSASUX_COMPLISION ERROR on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-full-access-to-steam-games-on-win11/"><u>Restoring Full Access to Steam Games on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/secretive-windows-11-aesthetic-designs/"><u>Secretive Windows 11 Aesthetic Designs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/step-into-the-future-the-best-10-free-video-call-applications/"><u>Step Into the Future  The Best 10 FREE Video Call Applications</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-path-upgrading-your-vm-software-from-virtualbox-v6-to-v7-in-win11/"><u>Step-by-Step Path: Upgrading Your VM Software From VirtualBox v6 to v7 in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-installing-and-setting-up-win11/"><u>Steps for Installing and Setting Up Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-resolving-efail-0x80004005-error-in-windows-virtualbox/"><u>Strategies for Resolving E_FAIL (0X80004005) Error in Windows Virtualbox</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-recovery-plan-from-0x800713f-disruption-in-windows-email-sphere/"><u>Swift Recovery Plan From 0X800713F Disruption in Windows' Email Sphere</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-synonym-searches-in-windows-11/"><u>Swift Synonym Searches in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailor-your-workflow-perfecting-the-use-of-window-11s-search-box/"><u>Tailor Your Workflow: Perfecting the Use of Window 11'S Search Box</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-savvy-access-three-ways-to-game-directories/"><u>Tech Savvy Access: Three Ways to Game Directories</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-pathway-to-improved-speed-optimizing-virtual-memory-in-windows-11/"><u>The Pathway to Improved Speed: Optimizing Virtual Memory in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-vintage-films-with-a-windows-based-madvr-approach/"><u>Transforming Vintage Films with a Windows-Based MadVR Approach</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-running-sfc-on-windows/"><u>Understanding and Running SFC on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-winmcs-potential-solving-wi-fi-issues/"><u>Unleashing WinMC's Potential: Solving Wi-Fi Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-nextgen-access-mastering-upcoming-features-with-vivetool/"><u>Windows NextGen Access: Mastering Upcoming Features with ViVeTool</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Beginning Your Journey with Windows Live Mesh 2011 – The Ultimate Guide for Seamless Data Management
-date: 2024-08-28 13:13:42
-updated: 2024-08-29 10:46:40
+date: 2024-08-31T22:03:48.851Z
+updated: 2024-09-01T22:03:48.851Z
 tags:
   - excel
 categories:
@@ -87,18 +87,30 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
 
 ![sshot-2010-10-14-[18-27-48]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-27-481.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
  This time instead of clicking another PC, you want to select SkyDrive synced storage and click OK. 
 
 ![sshot-2010-10-14-[18-28-28]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-28-28.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You'll see a message that the files are being synced and after the process completes. 
 
 ![sshot-2010-10-14-[18-30-05]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-30-05.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
  To see the folders and files you synced to your synced storage, click on SkyDrive synced storage and sign into your Live account if prompted. 
 
 ![sshot-2010-10-14-[18-44-58]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-44-58.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
  Here we can see the Excel documents folder that we synced to our SkyDrive. Click on the folder to view its content. 
 
 ![sshot-2010-10-14-[18-45-32]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-45-32.png) 
@@ -107,6 +119,9 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
 
 ![sshot-2010-10-14-[18-46-37]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-46-37.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Sync Folders with Other Computers & SkyDrive
 
  You can actually choose multiple machines and your SkyDrive Synced Storage at once. For instance, if we wanted to sync our Office Docs folder between other computers and SkyDrive Synced Storage, click on Select devices. 
@@ -117,12 +132,18 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
 
 ![sshot-2010-10-14-[19-02-59]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-02-59.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Remotely Connect to Another Computer
 
  Another neat feature with Live Mesh 2011 is the ability to remotely connect to another computer. So for example maybe you want to connect to to your Work computer at Home or vice-versa. 
 
 ![sshot-2010-10-14-[19-31-39]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-31-39.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
  If you haven't done so already you'll need to click on Allow remote connections to this computer on each of the machines you want to access remotely. 
 
 ![sshot-2010-10-14-[19-35-54]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-35-54.png) 
@@ -135,6 +156,9 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
 
 ![sshot-2010-10-14-[19-38-46]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-38-46.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Here we connected to our Netbook -- both running Windows 7\. Now you'll be able to access your other machine just like as if you were sitting in front of it. 
 
 ![sshot-2010-10-14-[20-06-37]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-20-06-37.png) 
@@ -155,14 +179,26 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
 
 ![sshot-2010-10-14-[20-12-55]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-20-12-55.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
  Here is an example where we connected to a Vista computer. 
 
 ![sshot-2010-10-14-[22-07-15]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-22-07-15.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you're done with a session just disconnect from the other machine. 
 
 ![sshot-2010-10-14-[19-42-10]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-42-10.png) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Sync Program Settings Between Computers
 
  Another thing you might want to do is sync Internet Explorer and MS Office settings between machines. In Live Mesh 2011 under Program Settings, click Turn on syncing next to each one you want to sync. Do this for each machine you want program settings synced to. 
@@ -173,6 +209,9 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
 
 ![sshot-2010-10-14-[22-20-12]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-22-20-12.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  And it quickly brought over bookmarks from the other PC. 
 
 ![sshot-2010-10-14-[22-23-30]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-22-23-30.png) 
@@ -197,3 +236,46 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/vent-ensemble-curating-best-dj-templates-for-2024/"><u>[New] Event Ensemble  Curating Best DJ Templates for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-skys-bounty-the-ultimate-guide-to-drone-video-editing/"><u>[New] Sky's Bounty  The Ultimate Guide to Drone Video Editing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-interactive-instagram-flipbook-feature/"><u>[Updated] 2024 Approved  Interactive Instagram Flipbook Feature</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-most-attractive-gaming-peripherals-for-under-100/"><u>[Updated] 2024 Approved  The Most Attractive Gaming Peripherals for Under $100</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unlock-hidden-potential-boost-productivity-essential-multitasking-tips-for-podcast-lovers/"><u>[Updated] In 2024, Unlock Hidden Potential, Boost Productivity  Essential Multitasking Tips for Podcast Lovers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-transforming-rookie-marketers-into-pros-with-these-five-hacks/"><u>[Updated] Transforming Rookie Marketers Into Pros with These Five Hacks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-reversing-frozen-dark-theme-on-computers/"><u>A Guide to Reversing Frozen Dark Theme on Computers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/concoct-chuckles-giphy-edition/"><u>Concoct Chuckles - Giphy Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/dimming-down-music-effortlessly-on-computers-macos-and-windows/"><u>Dimming Down Music Effortlessly on Computers (macOS & Windows)</u></a></li>
+<li><a href="https://windows11.techidaily.com/filter-outuseless-windows-updates/"><u>Filter Outuseless Windows Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-organization-restricted-options-errors-in-windows-11-os/"><u>Fixing Organization-Restricted Options Errors in Windows 11 OS</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-discord-game-detection-feature-not-working-on-windows/"><u>How to Fix the Discord Game Detection Feature Not Working on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-turn-your-silent-slack-alerts-back-on-win-11-style/"><u>How to Turn Your Silent Slack Alerts Back On, Win 11 Style</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-samsung-galaxy-m34-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Samsung Galaxy M34 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-securesync-experts-analysis/"><u>In 2024, SecureSync Experts Analysis</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-narzo-60x-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Realme Narzo 60x 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-iphone-15-pro-max-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking iPhone 15 Pro Max Passcode without a Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-sticky-notifications-maximizing-win-11-potential/"><u>Mastery over Sticky Notifications: Maximizing Win 11 Potential</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11-8-key-avoidances-for-smooth-sailing/"><u>Navigating Windows 11: 8 Key Avoidances for Smooth Sailing</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimal-windows-solutions-for-video-file-editing-and-conversion/"><u>Optimal Windows Solutions for Video File Editing & Conversion</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-remedying-post-windows-update-glitches/"><u>Quick Guide to Remedying Post-Windows Update Glitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-the-trend-of-failed-ea-server-connectivity/"><u>Reversing the Trend of Failed EA Server Connectivity</u></a></li>
+<li><a href="https://windows11.techidaily.com/screen-separation-strategies-wallpapers-per-monitor-windows-style/"><u>Screen Separation Strategies: Wallpapers per Monitor, Windows Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/securely-delete-saved-wi-fi-from-win-11/"><u>Securely Delete Saved Wi-Fi From Win 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/speed-up-redoing-tasks-on-windows-with-key-combinations/"><u>Speed Up Redoing Tasks on Windows with Key Combinations</u></a></li>
+<li><a href="https://windows11.techidaily.com/speeding-up-sluggish-excel-troubleshooting-steps-for-windows-users/"><u>Speeding Up Sluggish Excel: Troubleshooting Steps for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-enlisting-widgets-in-windows-11-ui/"><u>Steps for Enlisting Widgets in Windows 11 UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-avoid-blackout-while-playing-windows-games/"><u>Strategies to Avoid Blackout While Playing Windows Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-epic-games-sign-in-problems-on-pc/"><u>Troubleshooting Epic Games Sign-In Problems on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-systemsettingsexe-failure-on-windows-11/"><u>Troubleshooting SystemSettings.exe Failure on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-printer-offline-on-windows-11/"><u>Understanding 'Printer Offline' On Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/uninstall-and-reinstall-how-to-get-icloud-on-windows/"><u>Uninstall and Reinstall: How to Get iCloud on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-full-potential-mastering-windows-11s-launchpad/"><u>Unleashing Full Potential: Mastering Windows 11'S Launchpad</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-off-screen-app-functionality-win-1011s-best-recovery-approaches-6-key-techniques/"><u>Unlock Off-Screen App Functionality: Win 10/11'S Best Recovery Approaches (6 Key Techniques)</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-powertoys-windows-11-installation-guide/"><u>Unveiling PowerToys: Windows 11 Installation Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/validating-or-rejecting-window-login-attempts-with-precision/"><u>Validating or Rejecting Window Login Attempts with Precision</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-back-lost-apps-expert-methods-for-off-screen-window-restoration/"><u>Win Back Lost Apps: Expert Methods for Off-Screen Window Restoration</u></a></li>
+</ul></div>

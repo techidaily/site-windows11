@@ -1,7 +1,7 @@
 ---
 title: "Mastering Microsoft Excel: A Comprehensive Guide to Utilizing Round Functions"
-date: 2024-08-27 17:40:29
-updated: 2024-08-29 12:29:15
+date: 2024-08-31T22:04:34.623Z
+updated: 2024-09-01T22:04:34.623Z
 tags:
   - excel
 categories:
@@ -56,6 +56,9 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Formula for ROUND with a cell reference](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/CellReference-ExcelRoundFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  The ROUNDUP Function
 
  Maybe you have a sheet with numbers that you want to always round up. This is when the ROUNDUP function is useful.
@@ -68,12 +71,18 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Formula for ROUND with decimal places](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/DecimalPlaces-ExcelRoundFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
  To round that same number to the nearest integer, you would use the next formula and receive the result 6.
 
 =ROUNDUP(5.3692,0)
 
 ![Formula for ROUND for an integer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Integer-ExcelRoundFunctions.png) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
  To use the cell reference A1 for the value and round up three places to the left of the decimal point, you'd use this formula.
 
 =ROUNDUP(A1,-3)
@@ -118,18 +127,28 @@ Related: [How to Fix Common Formula Errors in Microsoft Excel](https://extra-les
 
 ![Formula for MROUND with a positive multiple](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/PositiveMultiple-ExcelRoundFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
  To round -20 to the nearest multiple of -6 and receive the result -18, you'd use this formula:
 
 =MROUND(-20,-6)
 
 ![Formula for MROUND with a negative multiple](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/NegativeMultiple-ExcelRoundFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To round the value in cell A1 to the nearest multiple of 3, you would use this formula:
 
 =MROUND(A1,3)
 
 ![Formula for ROUND with a cell reference](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/CellReference-ExcelRoundFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
  Rounding is one of those [tasks that you don't have to do manually](https://vimeo-videos.techidaily.com/in-2024-high-end-downloads-best-10-apps-for-extracting-vimeo-videos/) in Excel. These functions take the work out of rounding the numbers in your spreadsheet.
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |
@@ -152,3 +171,56 @@ Related: [How to Fix Common Formula Errors in Microsoft Excel](https://extra-les
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/astering-the-art-of-monetization-with-ajey-carryminati/"><u>[New] Mastering the Art of Monetization with Ajey (CarryMinati)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-safeguarding-against-scams-as-you-seek-to-amass-one-million-youtube-watches/"><u>[New] Safeguarding Against Scams as You Seek to Amass One Million YouTube Watches</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-total-recording-tool-az-app-examination-guide-for-2024/"><u>[New] Total Recording Tool - AZ App Examination Guide for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-honorable-5-quicktime-frame-recorder/"><u>[Updated] Honorable 5 Quicktime Frame Recorder</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premier-picture-preservation-websites/"><u>[Updated] Premier Picture Preservation Websites</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-secret-sauce-to-outstanding-online-identity-creation-for-2024/"><u>[Updated] The Secret Sauce to Outstanding Online Identity Creation for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-analysis-of-the-samsung-galaxy-s21-a-strategic-step-backwards/"><u>Comprehensive Analysis of the Samsung Galaxy S21: A Strategic Step Backwards</u></a></li>
+<li><a href="https://extra-information.techidaily.com/effortless-video-magic-the-no-cost-guide/"><u>Effortless Video Magic  The No-Cost Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevating-your-photography-with-lightrooms-hdr-merging-features/"><u>Elevating Your Photography with Lightroom's HDR Merging Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-to-using-microsoft-copilot-in-development/"><u>Essential Guide to Using Microsoft Copilot in Development</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-troubleshooting-missing-steam-controllers/"><u>Essential Tips: Troubleshooting Missing Steam Controllers</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-your-slow-internet-matching-mobile-and-desktop-speeds/"><u>Fix Your Slow Internet: Matching Mobile and Desktop Speeds</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-your-unresponsive-xbox-controllers-on-pc/"><u>Fixing Your Unresponsive Xbox Controllers on PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-c51-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme C51 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-mute-windows-11-monitoring-tools/"><u>How to Mute Windows 11 Monitoring Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unfreeze-google-chrome-in-windows-11-fastly-find-out-now/"><u>How to Unfreeze Google Chrome in Windows 11 Fastly? Find Out Now!</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unlock-pin-related-bluetooth-disconnects-in-win11win10/"><u>How To Unlock PIN-Related Bluetooth Disconnects in Win11/Win10</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-your-device-top-6-windows-pc-model-names/"><u>Identifying Your Device: Top 6 Windows PC Model Names</u></a></li>
+<li><a href="https://windows11.techidaily.com/ifas-best-laptops-of-2023-now/"><u>IFA's Best Laptops of 2023, Now!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-audience-wow-factor-how-to-create-spectacular-live-streams/"><u>In 2024, Audience Wow Factor  How to Create Spectacular Live Streams</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-seeking-clarity-complete-accessibility-of-mutual-shared-materials/"><u>In 2024, Seeking Clarity  Complete Accessibility of Mutual Shared Materials</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboard-shortcut-wisdom-shrinking-down-software-in-win11/"><u>Keyboard Shortcut Wisdom: Shrinking Down Software in Win11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175714150-master-effortless-heat-management-with-the-new-idiot-proof-thermal-paste-applicator-from-x-apply-arriving-soon/"><u>Master Effortless Heat Management with the New 'Idiot-Proof' Thermal Paste Applicator From X-Apply - Arriving Soon!</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-fast-filesaving-top-6-tips-for-powerpoint-in-win11/"><u>Mastering the Art of Fast Filesaving: Top 6 Tips for PowerPoint in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-meaning-of-windows-mbr-error-messages/"><u>Mastering the Meaning of Windows MBR Error Messages</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-easily-getting-outlook-preview-on-winoss/"><u>Navigate Easily: Getting Outlook Preview on WinOSs</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-non-operational-windows-programs-with-7-strategies/"><u>Navigating Non-Operational Windows Programs with 7 Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-text-pasting-in-powertoys-quickly/"><u>Navigating Text Pasting in PowerToys Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-code-0x0000004e-anomalies/"><u>Navigating Through Code 0X0000004E Anomalies</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-zero-error-in-windows-11-with-procedures/"><u>Overcoming Zero-Error in Windows 11 with Procedures</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaim-lost-boot-prompts-uefi-fixes/"><u>Reclaim Lost Boot Prompts: UEFI Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/resetting-forgotten-power-schemes-on-ws-11/"><u>Resetting Forgotten Power Schemes on WS 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-lockout-due-to-failed-sign-in-attempts/"><u>Resolving Windows Lockout Due to Failed Sign-In Attempts</u></a></li>
+<li><a href="https://windows11.techidaily.com/revamping-robustness-of-win11s-cleanup-companion-ccleaner/"><u>Revamping Robustness of Win11's Cleanup Companion, CCleaner</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-hypervisorbsod-in-windows-a-top-ten-approach/"><u>Stop HYPERVISOR_BSOD in Windows: A Top-Ten Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-tasks-top-9-reasons-to-adopt-modernized-outlook/"><u>Streamline Your Tasks: Top 9 Reasons to Adopt Modernized Outlook</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-nvidia-connection-failures-in-10-and-11-editions/"><u>Streamlining Nvidia Connection Failures in 10 & 11 Editions</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-7-best-photo-organizer-apps-for-windows/"><u>The 7 Best Photo Organizer Apps For Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-note-management-on-obsidian-canvas/"><u>The Art of Note Management on Obsidian Canvas</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-fix-guide-stabilizing-ps4-input-link-on-pc/"><u>The Ultimate Fix Guide: Stabilizing PS4 Input Link on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/transformative-ways-to-customize-windows-11-ui/"><u>Transformative Ways to Customize Windows 11 UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-potential-understanding-function-fn-key-operations/"><u>Unleash Potential: Understanding Function (Fn) Key Operations</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-how-to-fix-older-user-credential-message/"><u>Unlocking: How to Fix Older User Credential Message</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-directdraw-complexities-in-the-latest-microsoft-oses/"><u>Unraveling DirectDraw Complexities in the Latest Microsoft OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-specific-error-recovery-reinstating-non-functional-software/"><u>Win-Specific Error Recovery: Reinstating Non-Functional Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-cs-go-launch-guide/"><u>Windows 11 CS GO Launch Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-bridging-gaps-between-pc-and-phone/"><u>Windows 11: Bridging Gaps Between PC and Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-settings-guide-managing-usb-devices-effectively/"><u>Windows Settings Guide: Managing USB Devices Effectively</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-woes-get-your-arrows-back-to-normal/"><u>Windows Woes? Get Your Arrows Back to Normal</u></a></li>
+</ul></div>

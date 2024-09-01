@@ -1,7 +1,7 @@
 ---
 title: "Mastering Conditional Logic: A Step-by-Step Guide to Microsoft Excel's IF Statement"
-date: 2024-08-27 23:39:38
-updated: 2024-08-29 12:17:24
+date: 2024-08-31T22:03:20.153Z
+updated: 2024-09-01T22:03:20.153Z
 tags:
   - excel
 categories:
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/1c29d979a20696d19bd8c5c3e9d947157133fd882
 
  Whether you're grading exams or simply trying to make sense of a spreadsheet full of data, Microsoft Excel's `IF` function can help. You can also use an `IF` function inside of another `IF` function to run deeper tests, too. We'll show you how.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What Can You Do with Excel's IF Function?
 
  Put simply, you can use the `IF` function to retrieve a pre-specified result based on whether the function gets a TRUE or FALSE value.
@@ -41,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/1c29d979a20696d19bd8c5c3e9d947157133fd882
     
  for someone with a score of 90 or higher.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Write an IF Statement in Excel
 
  To write an `IF` statement in Excel, all you have to do is type the function and specify [what results to retrieve when the condition](https://instagram-clips.techidaily.com/how-to-share-igtv-videos-to-facebook-3-ways-for-2024/) is TRUE and FALSE.
@@ -71,14 +77,23 @@ Related: [How to Use Conditional Formatting to Find Duplicate Data in Excel](htt
 
 ![Result of Excel's IF function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2-if-function-result-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To copy the function for all your records, from the bottom-right corner of the D2 cell, drag downwards to cover all your records.
 
 ![Result of Excel's IF function for all records.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/3-if-function-result-all-records.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  And that's it.
 
  Modify the `IF` function in whatever way you want and you'll get the desired result.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ##  Use the Nested IF Function in Excel
 
  A nested `IF` is an `IF` function inside of another `IF` function. You use this when you want to run another logical test after the first one.
@@ -107,6 +122,10 @@ Related: [How to Use Conditional Formatting to Find Duplicate Data in Excel](htt
 
 ![Result of Excel's nested IF function for all records.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/6-nested-if-function-result-all-records.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
  And you're set.
 
  Excel's `IF` function is an excellent way to run various logical tests. You can use it to specify multiple conditions and display the results accordingly.
@@ -133,3 +152,46 @@ Related: [How to Use Conditional Formatting to Find Duplicate Data in Excel](htt
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2023s-premier-ios-solutions-best-psp-game-simulators/"><u>[Updated] 2023'S Premier iOS Solutions  Best PSP Game Simulators</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-step-by-step-to-adobe-cloud-success-and-non-adobe-options/"><u>[Updated] Step-by-Step to Adobe Cloud Success & Non-Adobe Options</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-2023-assessment-of-apeaksofts-pioneering-screens-recording/"><u>2024 Approved  The 2023 Assessment of Apeaksoft's Pioneering Screens Recording</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-step-by-step-process-to-embed-timestamps-on-youtube-links/"><u>2024 Approved  The Step-by-Step Process to Embed Timestamps on YouTube Links</u></a></li>
+<li><a href="https://video-capture.techidaily.com/best-6-mac-video-snaggers-compiled-here/"><u>Best 6 Mac Video Snaggers Compiled Here</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/download-of-youtube-preview-pictures/"><u>Easy Download of YouTube Preview Pictures</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-digital-marketing-strategy-with-nextgencookie-solutions-for-smarter-ppc-campaigns/"><u>Elevate Your Digital Marketing Strategy with NextGenCookie Solutions for Smarter PPC Campaigns</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/epicurean-enjoyment-tiktoks-top-eating-stories/"><u>Epicurean Enjoyment  TikTok's Top Eating Stories</u></a></li>
+<li><a href="https://windows11.techidaily.com/file-trailblazing-in-windows-11-the-top-6-techniques-to-duplicate-paths/"><u>File Trailblazing in Windows 11: The Top 6 Techniques to Duplicate Paths</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-g2-phone-without-google-account-by-drfone-android/"><u>How to Unlock Vivo G2 Phone without Google Account?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-cinema-at-a-new-frontier-the-in-depth-look-at-the-lg-display-model-31mu97-b/"><u>In 2024, Cinema at a New Frontier  The In-Depth Look at the LG Display, Model 31MU97-B</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-realme-11-pro-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Realme 11 Pro FRP?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-securing-skype-audio-with-obs-recording-techniques/"><u>In 2024, Securing Skype Audio with OBS Recording Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/keep-your-file-explorer-running-smoothly-in-windows-11/"><u>Keep Your File Explorer Running Smoothly in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-file-access-toggling-windows-11-filters/"><u>Mastering File Access: Toggling Windows 11 Filters</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-spotlight-screenshots-in-windows-os/"><u>Mastering Spotlight Screenshots in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-execution-codewords-for-apps/"><u>Navigating Through Execution Codewords for Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-virtualbox-usb-connectivity-glitches-and-errors/"><u>Navigating Through VirtualBox USB Connectivity Glitches & Errors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/online-signatures-for-excel-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Online signatures for Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-file-limit-anomaly-in-windows/"><u>Overcoming File Limit Anomaly in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-paste-feature-efficacy-in-win-11/"><u>Restoring Paste Feature Efficacy in Win 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/saving-smiles-techniques-for-capturing-twitters-gifs-for-2024/"><u>Saving Smiles  Techniques for Capturing Twitter's GIFs for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-your-full-screen-capture-predicament-with-snip-and-sketch/"><u>Solving Your Full-Screen Capture Predicament with Snip & Sketch</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-process-implementing-end-task-feature-on-window-manager-windows-11/"><u>Step-By Step Process: Implementing End Task Feature on Window Manager (Windows 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-adding-outlook-preview-to-windows-devices/"><u>Step-by-Step: Adding Outlook Preview to Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-tasks-like-pro-mastering-windows-11s-capabilities/"><u>Streamline Tasks Like Pro: Mastering Windows 11'S Capabilities</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-windows-troubleshooting-with-8-tips/"><u>Streamlining Windows Troubleshooting with 8 Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-excess-window-tasks-in-windows/"><u>Tackling Excess Window Tasks in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-unstartable-speech-to-text-on-windows-systems/"><u>Tackling Unstartable Speech to Text on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailor-filenames-in-bulk-using-windows-powertools/"><u>Tailor Filenames in Bulk Using Windows PowerTools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-vivo-s17-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Vivo S17 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-checklist-for-epic-launcher-savings/"><u>The Complete Checklist for Epic Launcher Savings</u></a></li>
+<li><a href="https://windows11.techidaily.com/timely-troubleshooting-your-chrome-clock-glitch/"><u>Timely Troubleshooting: Your Chrome Clock Glitch</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-nvidia-cp-non-saving-on-win11/"><u>Troubleshooting Nvidia CP Non-Saving on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-sound-service-lag/"><u>Troubleshooting Windows Sound Service Lag</u></a></li>
+<li><a href="https://windows11.techidaily.com/unmasking-windows-remote-desktop-glitch-dark-screen/"><u>Unmasking Windows Remote Desktop Glitch: Dark Screen</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-modernity-discover-these-top-10-digital-realms-for-artistic-font-styles-for-2024/"><u>Unveiling Modernity  Discover These Top 10 Digital Realms for Artistic Font Styles for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-dormancy-practical-tips-and-tricks/"><u>Windows Dormancy: Practical Tips & Tricks</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Birthday Math: A Step-by-Step Guide to Finding Age with Excel"
-date: 2024-08-27 20:33:31
-updated: 2024-08-29 11:34:47
+date: 2024-08-31T22:04:29.524Z
+updated: 2024-09-01T22:04:29.524Z
 tags:
   - excel
 categories:
@@ -73,6 +73,12 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![Age in months in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/8-age-months-answer.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Calculate Age in Days
 
  Excel's `DATEDIF` function is so powerful that you can use it to find someone's age in days as well.
@@ -81,10 +87,16 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![A sample spreadsheet to find age in days in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/9-age-days-spreadsheet.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
  In this spreadsheet, we'll click the C2 cell where we want to display the age in days.
 
 ![Click the C2 cell in the spreadsheet in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/10-c2-cell.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
  In the C2 cell, we'll type the following function. In this function, the "D" argument tells the function to display the age in days.
 
 =DATEDIF(B2,TODAY(),"D")
@@ -95,6 +107,9 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![Age in days in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/12-age-days-answer.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
  You can use Excel to [add and subtract dates](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-s17-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/), too.
 
 ##  How to Calculate Age in Years, Months, and Days at the Same Time
@@ -111,10 +126,19 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![Enter =DATEDIF(B2,TODAY(),"Y") & " Years " & DATEDIF(B2,TODAY(),"YM") & " Months " & DATEDIF(B2,TODAY(),"MD") & " Days" in the C2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/14-enter-age-formula.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the C2 cell, you'll see the age in years, months, and days.
 
 ![Age in years, months, and days in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/15-age-combination-answer.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ##  How to Calculate Age on a Specific Date
 
  With Excel's `DATEDIF` function, you can go as far as to finding someone's age on a specific date.
@@ -123,6 +147,9 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![A specific date in the C2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/16-specific-date.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  We'll click the D2 cell where we want to show the age on the specified date.
 
 ![Click the D2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/17-d2-cell.png) 
@@ -163,3 +190,55 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-maximizing-impact-when-to-start-your-podcast/"><u>[New] 2024 Approved  Maximizing Impact  When to Start Your Podcast</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-bikers-ultimate-camera-companion-list-update/"><u>[New] Biker's Ultimate Camera Companion List Update</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-efficiently-producing-quality-videos-on-the-latest-windows-os/"><u>[New] In 2024, Efficiently Producing Quality Videos on the Latest Windows OS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-turn-fb-hd-videos-into-high-quality-mp4-free-online-method-unveiled/"><u>[New] In 2024, Turn FB HD Videos Into High-Quality MP4 – Free Online Method Unveiled</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-urban-uprising-video-game-list-like-gta-v/"><u>[New] In 2024, Urban Uprising  Video Game List Like GTA V</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-stardom-in-your-sights-6-must-try-techniques-for-verification-and-growth-for-2024/"><u>[New] Instagram Stardom in Your Sights  6 Must-Try Techniques for Verification and Growth for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-new-photography-these-are-your-cams-in-24/"><u>[Updated] 2024 Approved  New Photography? These Are Your Cams in '24</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-masterclass-in-merging-movies-with-modern-education/"><u>[Updated] Masterclass in Merging Movies with Modern Education</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-navigating-google-translate-for-superior-speech-to-text/"><u>[Updated] Navigating Google Translate for Superior Speech-to-Text</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-revolutionize-virtuality-top-7-devices-for-success/"><u>[Updated] Revolutionize Virtuality - Top 7 Devices for Success</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-streamlining-adobe-presentation-videos-in-adobe-for-2024/"><u>[Updated] Streamlining Adobe Presentation Videos in Adobe for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-deep-dive-into-the-android-specific-lightroom-app/"><u>2024 Approved  Deep Dive Into the Android-Specific Lightroom App</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-edge-testing-gopros-hero5-black-against-sessions/"><u>2024 Approved  The Ultimate Edge  Testing GoPro's Hero5 Black Against Sessions</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-the-art-of-frequency-shifting-without-compromising-clarity-in-audacity/"><u>2024 Approved The Art of Frequency Shifting Without Compromising Clarity in Audacity</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-honor-x7b-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audacity-techniques-for-smooth-sound-blending-for-2024/"><u>Audacity Techniques for Smooth Sound Blending for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beyond-imagination-exploring-ar-worlds-for-2024/"><u>Beyond Imagination  Exploring AR Worlds for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/e-a-unique-identity-personalize-your-youtube-url-today-for-2024/"><u>Create a Unique Identity  Personalize Your YouTube URL Today for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/excellence-on-screen-the-top-15-in-stop-motion-cinema-for-2024/"><u>Excellence on Screen  The Top 15 in Stop Motion Cinema for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/finding-fix-for-non-functional-vss-in-win/"><u>Finding Fix for Non-Functional VSS in Win</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-media-player-server-crash/"><u>Fixing Media Player Server Crash</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-overcoming-lol-launch-lag/"><u>Guide to Overcoming LOL Launch Lag</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-postpone-windows-10-shutdown-during-active-processes/"><u>Guide to Postpone Windows 10 Shutdown During Active Processes</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-force-delete-or-uninstall-a-printer-in-windows-10-and-11/"><u>How to Force Delete or Uninstall a Printer in Windows 10 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/leverage-latest-proven-wsl-2-methods-on-windows-systems/"><u>Leverage Latest: Proven WSL 2 Methods on Windows Systems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leveraging-eco-friendly-visual-effects-revolutionizing-online-video-content/"><u>Leveraging Eco-Friendly Visual Effects  Revolutionizing Online Video Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/modify-default-task-manager-viewport-in-win11/"><u>Modify Default Task Manager Viewport in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-keyboard-interface-with-personalized-fn-keys-in-windows-11/"><u>Optimizing Keyboard Interface with Personalized FN Keys in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-task-failures-restore-windows-schedules/"><u>Overcome Task Failures, Restore Windows Schedules</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-usb-device-errors-on-windows-pcs/"><u>Overcoming USB Device Errors on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalized-overheat-avoidance-bios-tutorial-for-win-users/"><u>Personalized Overheat Avoidance: BIOS Tutorial for Win Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/regain-your-control-restoring-synapse-on-w10-and-w11/"><u>Regain Your Control: Restoring Synapse on W10 & W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reigniting-frozen-discord-overlay-a-stepwise-guide-for-windows-users/"><u>Reigniting Frozen Discord Overlay: A Stepwise Guide for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/security-refresh-windows-firewalls-five-commandments/"><u>Security Refresh: Windows Firewall's Five Commandments</u></a></li>
+<li><a href="https://windows11.techidaily.com/smooth-operations-at-low-cost-leverage-w11-pro-key/"><u>Smooth Operations at Low Cost: Leverage W11 Pro Key</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-spontaneous-scrolls-a-winworlders-guide/"><u>Stop Spontaneous Scrolls: A Winworlder's Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategic-shopping-for-cost-efficient-windows-11-keys/"><u>Strategic Shopping for Cost-Efficient Windows 11 Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-decrease-high-cpu-consumption-by-dropbox-on-windows/"><u>Strategies to Decrease High CPU Consumption by Dropbox on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-windows-update-failures-error-x712/"><u>Tackling Windows Update Failures: Error X712</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-picture-previews-in-windows-11-ui/"><u>Tailoring Picture Previews in Windows 11 UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-access-denial-in-windows-11-a-quick-guide-to-5-solutions/"><u>Troubleshooting Access Denial in Windows 11: A Quick Guide to 5 Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/ultimate-list-wins-premier-video-trimming-tools/"><u>Ultimate List: Win's Premier Video Trimming Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/unique-apps-for-a-stylish-windows-clock-display/"><u>Unique Apps for a Stylish Windows Clock Display</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-a-flapping-discord-overlay-on-pc/"><u>Unraveling the Mystery of a Flapping Discord Overlay on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11s-vanishing-icons-restoration-strategies/"><u>Win 11'S Vanishing Icons - Restoration Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-1110-hacks-swift-recovery-of-synapse-functions/"><u>Windows 11/10 Hacks: Swift Recovery of Synapse Functions</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-with-both-wi-fi-and-ethernet-connections-on-your-computer/"><u>Winning with Both Wi-Fi & Ethernet Connections on Your Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/wireless-gaming-ps3-pad-to-windows-network/"><u>Wireless Gaming: PS3 Pad to Windows Network</u></a></li>
+</ul></div>

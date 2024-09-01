@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Correcting Your Laptop/Monitor Display's Persistent Yellow Discoloration"
-date: 2024-08-28 16:57:43
-updated: 2024-08-29 10:45:13
+date: 2024-08-31T22:02:07.560Z
+updated: 2024-09-01T22:02:07.560Z
 tags:
   - windows
 categories:
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/03b50fa097007316bd728c0f1505911c6985b5446
 
  If your laptop screen has taken on a yellowish tint, the Night Light feature could be enabled. The issue could also stem from a loosely connected display cable, corrupted graphics drivers, or misconfigured monitor settings. Here are some troubleshooting steps you can try to resolve the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ##  Disable the Night Light
 
  The [Night Light feature](https://apple-account.techidaily.com/in-2024-how-to-change-your-iphone-14-plus-apple-id-on-macbook-by-drfone-ios/) is designed to reduce the blue tone of your monitor, giving the screen a warmer appearance, but it makes the screen appear yellowish. If you've adjusted your display settings and noticed a yellow tint afterward, this feature has likely been enabled. To check if this is the case, right-click on the Start button and select "Settings."
@@ -38,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/03b50fa097007316bd728c0f1505911c6985b5446
 
 ![Turning off the night light in Windows settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-turning-off-the-night-light-in-windows-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Ensure the Cable Connection Isn't Loose
 
  The display cable transmits video signals from the video card to the monitor. These signals can be analog or digital, depending on the type of cable and the devices involved. If the cable is not securely plugged in at either end, it can lead to poor connection quality, which might present problems like a yellow tint on the screen.
@@ -48,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/03b50fa097007316bd728c0f1505911c6985b5446
 
 _[Alexander\_Evgenyevich/Shutterstock.com](https://www.shutterstock.com/image-photo/protected-hdmi-cable-connected-monitor-728531827)_
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ##  Reset the Monitor Settings
 
  If you've [manually tweaked the monitor settings](https://win-answers.techidaily.com/effortless-ways-to-stop-your-deathloop-from-freezing-and-crashing-on-your-pc-detailed-steps-inside/) by pressing the monitor buttons, ensure that you haven't misconfigured its display settings. To rule out this possibility, you should reset the monitor settings to their default values. The process for doing this can vary depending on the manufacturer of your monitor.
@@ -82,20 +92,32 @@ Justin Duino / How-To Geek
 
 ![Opening the color management settings in the display settings of Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-opening-the-color-management-settings-in-the-display-settings-of-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the next window, select the correct display from the drop-down menu next to Device. Then, click on the "Add" button, choose the "sRGB" profile from the ICC profiles list, and click "OK."
 
 ![Adding a new color profile in the color management settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/4-adding-a-new-color-profile-in-the-color-management-settings-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  After that, select the newly added profile and click on the "Set as Default Profile" button. Close all windows, restart your device, and check if the yellow tint issue has been resolved.
 
 ![Making a newly created color profile default in the color management settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/5-making-a-newly-created-color-profile-default-in-the-color-management-settings-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ##  Calibrate the Display Color
 
  If none of the above-mentioned solutions fix the issue, you may need to calibrate the display color. Calibration fine-tunes your display to known color reference standards, which can help eliminate color irregularities such as the yellow tint. To calibrate the display, type "Color Management" into Windows Search and open the "Color Management" window.
 
 ![Opening the setting to calibrate display settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/6-opening-the-setting-to-calibrate-display-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
  Then, navigate to the "Advanced" tab and click on the "Calibrate Display" button. Follow the on-screen instructions in the Display Color Calibration window to calibrate the display.
 
 ##  Reinstall the Graphics Card Driver
@@ -106,6 +128,9 @@ Justin Duino / How-To Geek
 
 ![Updating the graphics drivers in the Windows Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/7-updating-the-graphics-drivers-in-the-windows-device-manager.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
  Likewise, follow the steps outlined above to update the monitor drivers.
 
  If updating doesn't resolve the issue, reinstall the driver. Right-click on the driver in Device Manager and select "Uninstall Device." Then, follow the same steps to reinstall it from scratch.
@@ -130,3 +155,42 @@ Justin Duino / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-render-your-social-media-footage/"><u>[New] 2024 Approved  Render Your Social Media Footage</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-three-safe-methods-for-directly-downloading-youtubes-audios-as-mp3/"><u>[New] 2024 Approved  Three Safe Methods for Directly Downloading YouTube's Audios as MP3</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastery-of-color-grading-premiere-pros-lut-capabilities/"><u>[New] Mastery of Color Grading  Premiere Pro's LUT Capabilities</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-title-design-in-after-effects/"><u>[New] The Art of Title Design in After Effects</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-frame-your-photos-right-a-guide-to-top-notch-edges-in-instagram/"><u>[Updated] Frame Your Photos Right  A Guide to Top-Notch Edges in Instagram</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-cutting-edge-tools-for-seamless-vimeo-video-download/"><u>[Updated] In 2024, Cutting-Edge Tools for Seamless Vimeo Video Download</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-inexpensive-pcs-revealed-by-best-obs-setup/"><u>[Updated] Inexpensive PCs Revealed by Best OBS Setup</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-s17t-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/curated-collection-of-best-max-centered-documentaries-available-this-july-2024/"><u>Curated Collection of Best Max-Centered Documentaries Available This July 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-steps-for-swiftly-dealing-with-unspecified-obs-recording-problem/"><u>Expert Steps for Swiftly Dealing with Unspecified OBS Recording Problem</u></a></li>
+<li><a href="https://windows11.techidaily.com/exposing-the-trojan-terror-defending-your-windows-against-wacatacbml/"><u>Exposing the Trojan Terror: Defending Your Windows Against Wacatac.B!ml</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-your-pcs-missing-piece-how-to-restore-bluetooth-on-windows-11/"><u>Fix Your PC's Missing Piece: How to Restore Bluetooth on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-mp3-files-to-audio-cds-a-step-by-step-imgburn-process-on-pc/"><u>From Mp3 Files to Audio CDs: A Step-by-Step ImgBurn Process on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-ahead-top-strategies-to-master-the-windows-11-taskbar/"><u>Get Ahead: Top Strategies to Master the Windows 11 Taskbar</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-snapping-windows-uac-alerts/"><u>How-To: Snapping Windows UAC Alerts</u></a></li>
+<li><a href="https://windows11.techidaily.com/learn-the-hack-no-more-pins-for-windows-11-projecting/"><u>Learn the Hack: No More PINs for WIndows 11 Projecting</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-outlook-preview-in-windows-11-pro/"><u>Mastering Outlook Preview in Windows 11 Pro</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-rockstar-games-launcher-repair-ultimate-guide-with-2024-techniques/"><u>Mastering Rockstar Games Launcher Repair - Ultimate Guide with 2024 Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/minimizing-system-fatigue-lowering-the-impact-of-user-mode-services-on-cpus/"><u>Minimizing System Fatigue: Lowering the Impact of User-Mode Services on CPUs</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-recording-voice-overs-like-a-pro-top-tips-for-final-cut-pro-users/"><u>New In 2024, Recording Voice Overs Like a Pro Top Tips for Final Cut Pro Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/pro-tips-using-hotkeys-to-simplify-windows-changes/"><u>Pro Tips: Using Hotkeys to Simplify Windows Changes</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-file-transfer-using-dropbox-google-drive-in-windows/"><u>Quick File Transfer: Using Dropbox, Google Drive in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/rush-your-print-jobs-how-to-spur-a-slow-windows-printer/"><u>Rush Your Print Jobs: How to Spur a Slow Windows Printer</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-unsuited-audio-device-stopped-in-windows-errors/"><u>Solutions for 'Unsuited Audio Device Stopped' In Windows Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/speedy-synergy-microsoft-projects-command-line-commands/"><u>Speedy Synergy: Microsoft Project's Command-Line Commands</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-enablingdisabling-filters-on-pcs/"><u>Step-by-Step: Enabling/Disabling Filters on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-address-failing-windows-alt-codes/"><u>Strategies to Address Failing Windows ALT Codes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/swift-exchange-space-age-video-rejuvenation/"><u>Swift Exchange: Space-Age Video Rejuvenation</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-winning-combination-to-recover-deleted-windows-files/"><u>The Winning Combination to Recover Deleted Windows Files</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-music-livestream-providers/"><u>Top Music Livestream Providers</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-why-windows-11-upgrade-remains-unpopular/"><u>Understanding Why Windows 11 Upgrade Remains Unpopular</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-hardware-drivers-in-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to reinstall your hardware drivers in Windows 10 & 7</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-mishap-resolution-fix-for-error-code-0x0000011b/"><u>Win11 Mishap Resolution: Fix for Error Code 0X0000011B</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-the-battle-against-windows-service-not-responding-errors/"><u>Winning the Battle Against Windows' Service Not Responding Errors</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Essential 14 Features: Why Google Sheets Outshines Microsoft Excel"
-date: 2024-08-26 11:45:58
-updated: 2024-08-29 10:37:38
+date: 2024-08-31T22:03:11.809Z
+updated: 2024-09-01T22:03:11.809Z
 tags:
   - excel
 categories:
@@ -54,6 +54,9 @@ Related: [How to Add Numbers in Microsoft Excel](https://instagram-clips.techida
 
 ![MINUS function in Google Sheets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/MINUS-GoogleSheetsFunctionsNotExcel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Count Unique Values: COUNTUNIQUE
 
  If you ever need to [count the number of distinct values](https://youtube-help.techidaily.com/in-2024-unleash-potential-with-optimal-hashtags-for-gaming-vids/) in Google Sheets, then COUNTUNIQUE is your function. Count the number of customers who ordered once, products without inventory, or anything else where you want [unique values](https://extra-lessons.techidaily.com/in-2024-authoritative-picks-top-10-apps-to-watch-football-games-anytime-anywhere/) using this function.
@@ -72,6 +75,10 @@ Related: [How to Add Numbers in Microsoft Excel](https://instagram-clips.techida
 
 ![COUNTUNIQUE for values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/COUNTUNIQUEValues-GoogleSheetsFunctionsNotExcel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 Related: [How to Count Unique Values in Google Sheets](https://extra-lessons.techidaily.com/in-2024-authoritative-picks-top-10-apps-to-watch-football-games-anytime-anywhere/) 
 
 ##  Language Functions: DETECTLANGUAGE and GOOGLETRANSLATE
@@ -92,6 +99,9 @@ Related: [How to Share Documents on Google Docs, Sheets, and Slides](https://app
 
 ![DETECTLANGUAGE in Google Sheets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/DETECTLANGUAGE-GoogleSheetsFunctionsNotExcel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The syntax for the second function is `GOOGLETRANSLATE(text, from_language, to_language)` where you can use a cell reference or the text for the first argument. For the language arguments, you use a two-letter abbreviation. You can also use "auto" for the `from_language` argument to automatically detect the source dialect.
 
  To translate the text in cell A1 from English to Spanish, use this formula:
@@ -104,6 +114,9 @@ Related: [How to Share Documents on Google Docs, Sheets, and Slides](https://app
 
 ![GOOGLETRANSLATE in Google Sheets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/GOOGLETRANSLATE-GoogleSheetsFunctionsNotExcel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Greater Than, Less Than, and Equal to: GT, GTE, LT, LTE, EQ
 
  Have you ever wanted an easy way to display if one value is greater than, less than, or equal to another in your sheet? These functions do just that and would be great additions to Excel.
@@ -149,6 +162,9 @@ Related: [How to Insert a Picture in Microsoft Excel](https://screen-mirroring-r
 
 ![IMAGE function with original size](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/IMAGEOriginal-GoogleSheetsFunctionsNotExcel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
  To insert that same image but use a custom size, you would use this formula replacing the URL, width, and height with your own details:
 
 =IMAGE("https://www.howtogeek.com/wp-content/uploads/2022/02/DateOptions-GoogleSheetsCustomDateTime.png",4,200,500)
@@ -171,12 +187,18 @@ Related: [How to Make a QR Code in Google Sheets](https://location-fake.techidai
 
 ![SPARKLINE Line chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/SPARKLINELine-GoogleSheetsFunctionsNotExcel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To use a bar chart with that same cell range, you'd use this formula:
 
 =SPARKLINE(B2:E2,{"charttype","column"})
 
 ![SPARKLINE Column chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/SPARKLINEColumn-GoogleSheetsFunctionsNotExcel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
  For even more functions you'll find in Google Sheets but not Microsoft Excel, look at [how to join text](https://fox-access.techidaily.com/2024-approved-demystifying-copyright-rules-for-your-musical-creations-on-insta/) or how to do the reverse and [split text](https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-s23-fe-screen-to-pc-with-chromecast-drfone-by-drfone-android/).
 
 Related: [How to Concatenate Data from Multiple Cells in Google Sheets](https://fox-access.techidaily.com/2024-approved-demystifying-copyright-rules-for-your-musical-creations-on-insta/)
@@ -195,3 +217,52 @@ Related: [How to Concatenate Data from Multiple Cells in Google Sheets](https://
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-charting-a-course-for-growth-precise-youtube-stats-from-social-blades-hub/"><u>[New] 2024 Approved  Charting a Course for Growth  Precise YouTube Stats From Social Blade's Hub</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-ultimate-checklist-for-fb-cover-video-excellence/"><u>[New] In 2024, The Ultimate Checklist for FB Cover Video Excellence</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-effortless-screen-recording-for-hp-users-top-4-methods-compared/"><u>[Updated] 2024 Approved  Effortless Screen Recording for HP Users - Top 4 Methods Compared</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-influencing-cultures-through-memetic-expression/"><u>[Updated] Influencing Cultures Through Memetic Expression</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-and-user-friendly-z-edge-z3plus-camera-recap/"><u>Affordable and User-Friendly Z-Edge Z3+ Camera Recap</u></a></li>
+<li><a href="https://windows11.techidaily.com/expose-the-invisible-uncover-windows-11s-concealed-settings/"><u>Expose the Invisible: Uncover Windows 11'S Concealed Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-most-serious-javascript-problems-in-discord-on-w10w11-pcs/"><u>Fixing the Most Serious Javascript Problems in Discord on W10/W11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-hide-the-language-bar-from-the-windows-11-taskbar/"><u>How to Hide the Language Bar From the Windows 11 Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reactivate-a-frozen-qbittorrent-tracker/"><u>How to Reactivate a Frozen qBittorrent Tracker</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-note-30-pro-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Note 30 Pro?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-motorola-g54-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Motorola G54 5G</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-plus-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Plus to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-asus-rog-phone-8-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-aguard-technology-into-windows-11s-edge-web-experience/"><u>Integrating Aguard Technology Into Windows 11'S Edge Web Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-multiview-tech-with-windows/"><u>Mastering Multiview Tech with Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-sign-in-shift-move-from-pin-to-password-effortlessly/"><u>Mastering Windows 11 Sign-In Shift: Move From PIN to Password Effortlessly</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/maximizing-your-sightline-in-roblox-playground-for-2024/"><u>Maximizing Your Sightline in Roblox Playground for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-the-could-not-call-runtime-problem-in-malwarebytes-windows/"><u>Mending the Could Not Call Runtime Problem in Malwarebytes Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-no-script-zone-essential-4-steps-for-ps-execution-restoration/"><u>Navigating the No-Script Zone: Essential 4 Steps for PS Execution Restoration</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-more-maintenance-alert-post-support-for-windows-781/"><u>No More Maintenance Alert: Post-Support for Windows 7/8.1</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-crash-zeroing-in-on-error-0x800f0831/"><u>Overcoming Windows Crash: Zeroing In on Error 0X800F0831</u></a></li>
+<li><a href="https://windows11.techidaily.com/quickfire-processes-identifying-graphic-card-model-windows-11/"><u>Quickfire Processes: Identifying Graphic Card Model, Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-nvidia-control-panel-save-issue/"><u>Resolving Nvidia Control Panel Save Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/reverting-lost-presets-for-win-11-sleep-mode/"><u>Reverting Lost Presets for Win 11 Sleep Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/running-the-troubleshooter-in-windows-settings/"><u>Running the Troubleshooter in Windows Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/scripting-changes-to-fn-key-settings-in-win-1011/"><u>Scripting Changes to FN Key Settings in Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-up-safe-browsing-for-kids-on-windows-11/"><u>Setting Up Safe Browsing for Kids on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/shielding-windows-key-tactics-for-uac-protection/"><u>Shielding Windows: Key Tactics for UAC Protection</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplified-integration-how-to-set-up-linux-in-your-win10-box/"><u>Simplified Integration: How to Set Up Linux in Your Win10 Box</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-windows-11-search-issue-unlocking-the-settings-apps-search-bar/"><u>Solving Windows 11 Search Issue: Unlocking the Settings App's Search Bar</u></a></li>
+<li><a href="https://windows11.techidaily.com/steady-app-placement-tips-for-windows-task-manager/"><u>Steady App Placement Tips for Windows Task Manager</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-address-file-system-problems-in-win11/"><u>Strategies to Address File System Problems in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-solutions-overcome-blue-screen-on-win11s-hypervisor/"><u>Swift Solutions: Overcome Blue Screen on Win11's HYPERVISOR</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackle-microsoft-store-login-challenges/"><u>Tackle Microsoft Store Login Challenges</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-essential-guide-to-choosing-video-aspect-ratios/"><u>The Essential Guide to Choosing Video Aspect Ratios</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-seamless-interweaving-of-folders-and-files/"><u>The Seamless Interweaving of Folders & Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-secret-behind-timeless-game-aesthetics-retroarcs-shaders/"><u>The Secret Behind Timeless Game Aesthetics - RetroArc's Shaders</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-choosing-between-snipping-tool-and-printscreen/"><u>The Ultimate Guide to Choosing Between Snipping Tool and PrintScreen</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-windows-climate-trackers-windows-1011/"><u>Top Windows Climate Trackers (Windows 10/11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-windows-hello-tips-for-fingerprint-issues/"><u>Unblocking Windows Hello: Tips for Fingerprint Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncover-the-file-location-for-your-desktop-images/"><u>Uncover the File Location for Your Desktop Images</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-fixing-winscomrssvdll-errors-in-windows-78/"><u>Understanding and Fixing WinscomrssvDll Errors in Windows 7/8</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-edges-ongoing-role-in-win11-systems/"><u>Understanding Edge's Ongoing Role in Win11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-windows-11-search-here/"><u>Unlock the Full Potential of Windows 11 Search Here</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11s-error-740-a-strategic-plan-for-correction-and-compensation/"><u>Win 11’S Error 740: A Strategic Plan for Correction and Compensation</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: Lenovo Legion
-date: 2024-08-26 12:33:52
-updated: 2024-08-29 12:11:59
+date: 2024-08-31T22:01:13.348Z
+updated: 2024-09-01T22:01:13.348Z
 tags:
   - windows
 categories:
@@ -108,10 +108,16 @@ Lenovo's Legion 7i 16 Gen 9 laptop packs a punch in the power department, offeri
 
 Expand 
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Lenovo Went All-In on a User-Upgradable Design
 
 ![The Lenovo Legion 7i 16 Gen 9 has an Intel i9 and Nvidia graphics card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-has-an-intel-i9-and-nvidia-graphics-card_53662863778_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The overall design of Lenovo’s latest Legion 7i 16 Gen 9 is pretty sleek if I do say so myself. I had the privilege of testing the white model and, while I typically like gray or dark laptops, the white is pretty crisp and clean. The branding is minimal with just "Legion" and "Lenovo" graphics on the top. Overall, the aesthetic is definitely on the cleaner side for gaming laptops.
@@ -122,6 +128,10 @@ Jerome Thomas / How-To Geek
 
 ![The function key lights up keys that have commands](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-funtion-key-lights-up-keys-that-have-commands_53663005894_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  For the keyboard, mouse, and other peripherals like that, you’ll find that it’s pretty typical, but above average. The keyboard features 1.3mm of key travel and offers per-key RGB backlighting. The feel of the keys was a _tad_ squishy for me, but my two main keyboards are Cherry MX Blues and Kailh Copper switches, so most other keyboards feel squishy to me. The trackpad was only okay. The right-click is a little picky, but, for daily usage, it got the job done. For gaming, however, I would always recommend a dedicated mouse. The [SteelSeries Aerox](https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oneplus-open-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/) lineup of wireless mice is my personal favorite.
@@ -134,6 +144,9 @@ Jerome Thomas / How-To Geek
 
  Lenovo chose to put the power key dead center of the top of the keyboard and built a fingerprint reader into it. I found that the reader worked reliably every time for me, and it was a great placement for me as well.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Hitting Above Its Weight Class, This Laptop Really Packs a Punch
 
 ![The Lenovo Legion 7i 16 Gen 9 Legion branding](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-legion-branding_53661777577_o.jpg) 
@@ -150,6 +163,9 @@ Jerome Thomas / How-To Geek
 
 ![The backlit keyboard on the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-backlit-keyboard-on-the-lenovo-legion-7i-16-gen-9_53661777647_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Overall, I was extremely pleased with the performance of this laptop. When compared to other higher-class laptops, it also holds its own. I also have an RTX 4090-powered ASUS ROG Strix system which is an absolute monster of a machine. The RTX 4090 laptop, for comparison, hit 199FPS when in turbo mode. While that’s about two times the frames, it’s also over double the cost, and much, much larger and heavier.
@@ -166,6 +182,9 @@ Jerome Thomas / How-To Geek
 
  One thing that I wasn’t too happy with, however, was the coil whine. If you’ve not experienced coil whine before, you will with this laptop. Even at idle, there was a whine coming from the system that was a bit annoying. And, when the fans were at full tilt during a game, I could hear the coil whine even through my headphones. It’s not unbearable, but it’s something that I wasn’t very happy with for sure.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Lenovo Included All the Ports You Could Want but Could Have Made It a Bit Less Confusing
 
 ![The ports on the left side of the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-left-side-of-the-lenovo-legion-7i-16-gen-9_53662650521_o.jpg) 
@@ -190,6 +209,10 @@ Jerome Thomas / How-To Geek
 
 ![The file explorer on the Lenovo Legion 7i 16 Gen 9](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-file-explorer-on-the-lenovo-legion-7i-16-gen-9_53661777622_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The 16-inch IPS WQXGA display here has a resolution of 2,560 x 1,600, which clocks in with a 16:10 aspect ratio. This seems to be the norm among modern laptops as people want a slightly taller aspect ratio, but it does mean that you’re pushing slightly more pixels when gaming. The RTX 4070 doesn’t let that affect performance though, which is nice. The screen features a 240Hz refresh rate, is 100% sRGB, and comes in at 500 nits, which is very noticeable when gaming. Windows didn’t find the display to be HDR ready, even though it’s DisplayHDR 400 certified, but the X-Rite Color Management with Dolby Vision and G-SYNC features all functioned as well as you’d expect.
@@ -202,6 +225,9 @@ Jerome Thomas / How-To Geek
 
 ![The Lenovo Legion 7i 16 Gen 9 with charger](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-legion-7i-16-gen-9-with-charger_53662863758_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  After spending the better part of a month with this laptop, this laptop is a great buy. The version of the [Lenovo Legion 7i 16 Gen 9](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=http%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Flegion-laptops%2Flegion-7-series%2Flegion-7i-gen-9-%2816-inch-intel%29%2Flen101g0037) I’ve been testing comes in at $1,785.99 right now direct from Lenovo, and I think that’s a fantastic price for it. You’re getting a laptop that can function as a desktop replacement in many scenarios. Plus, when on the go, you’ll have a 16-inch 240Hz display. All in a body that weighs under five pounds.
@@ -236,3 +262,40 @@ Lenovo's Legion 7i 16 Gen 9 laptop packs a punch in the power department, offeri
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-how-to-record-google-voice-calls-for-2024/"><u>[New] How To Record Google Voice Calls for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guidelines-for-effective-use-of-cc-licenses/"><u>[New] In 2024, Guidelines for Effective Use of CC Licenses</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-mac-user-writers-guide-to-dynamic-srt-adjustment/"><u>[Updated] The Mac User’ Writers Guide to Dynamic SRT Adjustment</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-s18e-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo S18e to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/all-inclusive-list-of-prime-no-money-streaming-applications-and-software-for-2024/"><u>All-Inclusive List of Prime No-Money Streaming Applications & Software for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/effortless-guide-to-designing-youtube-follow-links/"><u>Effortless Guide to Designing YouTube Follow Links</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-phones-playground-to-pc-realm-android-games-via-microsoft-and-google/"><u>From Phone's Playground to PC Realm: Android Games via Microsoft & Google</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-ch340g-usb-communication-interface-software-for-windows-11/"><u>Get the Newest CH340g USB Communication Interface Software for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-convert-mkv-to-mp4-in-windows/"><u>How to Convert MKV to MP4 in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-aguard-technology-into-windows-11s-edge-web-experience/"><u>Integrating Aguard Technology Into Windows 11'S Edge Web Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/journey-into-creativity-initiating-ms-paint-on-win11/"><u>Journey Into Creativity: Initiating MS Paint on Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/linux-guide-running-android-apps-seamlessly/"><u>Linux Guide: Running Android Apps Seamlessly</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/logic-pro-techniques-for-fading-out-sounds/"><u>Logic Pro Techniques for Fading Out Sounds</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-rectifying-fatal-javascript-glitch-in-win-based-discord/"><u>Mastering the Art of Rectifying Fatal Javascript Glitch in Win-Based Discord</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-xpatch-troubleshooting/"><u>Mastering Windows XPatch Troubleshooting</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-guide-navigating-and-controlling-windows-fn-key/"><u>Mastery Guide: Navigating and Controlling Windows' Fn Key</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-and-local-unpacking-key-contrasts-in-windows-login-mechanisms/"><u>Microsoft & Local: Unpacking Key Contrasts in Windows Login Mechanisms</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-more-maintenance-alert-post-support-for-windows-781/"><u>No More Maintenance Alert: Post-Support for Windows 7/8.1</u></a></li>
+<li><a href="https://windows11.techidaily.com/overhaul-your-privacy-by-switching-off-windows-trackers/"><u>Overhaul Your Privacy by Switching Off Windows Trackers</u></a></li>
+<li><a href="https://windows11.techidaily.com/redeeming-windows-reviving-ms-store-programs/"><u>Redeeming Windows: Reviving MS Store Programs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-and-simple-download-of-canon-mg3620-drivers/"><u>Secure and Simple Download of Canon MG3620 Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-your-response-invalid-captcha-mistake/"><u>Solving 'Your Response Invalid' CAPTCHA Mistake</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-windows-11-search-issue-unlocking-the-settings-apps-search-bar/"><u>Solving Windows 11 Search Issue: Unlocking the Settings App's Search Bar</u></a></li>
+<li><a href="https://windows11.techidaily.com/steady-app-placement-tips-for-windows-task-manager/"><u>Steady App Placement Tips for Windows Task Manager</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-address-file-system-problems-in-win11/"><u>Strategies to Address File System Problems in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-solutions-overcome-blue-screen-on-win11s-hypervisor/"><u>Swift Solutions: Overcome Blue Screen on Win11's HYPERVISOR</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackle-microsoft-store-login-challenges/"><u>Tackle Microsoft Store Login Challenges</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-six-most-common-problems-causing-your-cars-battery-drainage/"><u>The Six Most Common Problems Causing Your Car's Battery Drainage</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-windows-climate-trackers-windows-1011/"><u>Top Windows Climate Trackers (Windows 10/11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-mail-error-code-zero-x-eight-oh-three-one-f/"><u>Troubleshooting Windows Mail Error Code: Zero X Eight Oh Three One F</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-windows-hello-tips-for-fingerprint-issues/"><u>Unblocking Windows Hello: Tips for Fingerprint Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-addressing-audio-failure-xc00d36b4/"><u>Understanding and Addressing Audio Failure XC00D36B4</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-opt-out-of-wsl/"><u>Why Opt Out of WSL?</u></a></li>
+</ul></div>
