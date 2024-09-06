@@ -1,7 +1,7 @@
 ---
 title: Tackling Nvidia-Related Windows Connections
-date: 2024-08-31T22:14:41.048Z
-updated: 2024-09-01T22:14:41.048Z
+date: 2024-09-05T02:08:05.032Z
+updated: 2024-09-06T02:08:05.032Z
 tags:
   - windows10
   - windows11
@@ -70,8 +70,10 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
 5. Repeat those steps for all NVIDIA services you can find.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Manually Update the NVIDIA Graphics Driver With Device Manager
 
@@ -81,17 +83,32 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Select your graphics card model and PC OS in the drop-down menus and click**Search** .  
 ![The NVIDIA driver downloads page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nvidia-driver-downloads.jpg)
 3. Select**Download** to obtain the NVIDIA driver pack.
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Then open Device Manager, which you can access by right-clicking your**Start** button in Windows and selecting the shortcut for that tool. You can also use one of the other[ways to open the Device Manager](https://www.makeuseof.com/windows-open-device-manager/) .
 5. Next, click the arrow beside the**Display adapters** to view that category.
 6. Right-click the NVIDIA GPU to select**Update driver** on the context menu.  
 ![The Update driver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/update-driver-option.jpg)
 7. Select**Browse my computer** to locate a driver package.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 8. Click**Browse** to select the downloaded driver package.  
 ![the-browse-button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-browse-button.jpg)
 9. Select**Next** to install the selected NVIDIA driver.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Edit the Hosts File
 
@@ -102,17 +119,29 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Click the**hosts** file with the mouse’s right button and select**Open with** .  
 ![The etc folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/etc-folder.jpg)
 3. Then click**Notepad** to view the hosts file in that text editor.
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. If the localhost is set to**0.0.0.0** , or another value, change it to**127.0.0.1** as shown in the image below.  
 ![The localhost value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/localhost-value.jpg)
 5. Then click**File** at the top of Notepad to select a**Save** option.
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Select**All Files** on the drop-down menu and click**Save** .  
 ![The All files option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-all-files-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you can’t edit hosts because of permission restrictions, copy and paste the file onto the desktop. To do so, right-click**hosts** and select**Copy** . Then right-click the desktop and select**Paste** .
 
@@ -125,13 +154,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![The Uninstall option for NVIDIA GeForce Experience](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/programs-and-features-applet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  When you’ve uninstalled the old software version, open the[GeForce website](https://www.nvidia.com/en-gb/geforce/geforce-experience/) . Click**Download Now** to obtain the setup wizard for the latest GeForce Experience version. Go into File Explorer, open the folder containing the downloaded setup file, and double-click**GeForce\_Experience\_v3.27.0.112.exe** . Then select**Agree and Install** within the setup wizard.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Get the “Unable to connect to NVIDIA” Error Sorted
 
  The “unable to connect to NVIDIA” error is an old issue GeForce Experience users have talked about on the NVIDIA forum for many years. A lot of users have been able to fix that issue by applying the potential resolutions outlined above. So, it’s likely one of them will get the same “unable to connect to NVIDIA” error sorted on your Windows PC.

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the 0X0000004E Error in Windows 10 and 11
-date: 2024-08-31T22:12:58.698Z
-updated: 2024-09-01T22:12:58.698Z
+date: 2024-09-05T02:08:06.480Z
+updated: 2024-09-06T02:08:06.480Z
 tags:
   - windows10
   - windows11
@@ -55,7 +55,10 @@ chkdsk /f
  You can also diagnose and fix a faulty RAM or memory-related issues [using the Memory Diagnostic tool in Windows](https://www.makeuseof.com/ways-to-open-windows-memory-diagnostic/). If the Check Disk utility failed to fix the problem, run the Memory Diagnostic tool and check the results in the Event Viewer. You can then take the necessary steps to fix the problem based on the underlying cause.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2\. Disable Your Antivirus
 
@@ -68,14 +71,20 @@ chkdsk /f
 ![Disable antivirus in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/disable-antivirus-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If the error does not appear after disabling the antivirus, then we highly recommend switching to a different, better security program. You can also configure Windows Defender Firewall properly if you do not want to trust a third-party security solution again.
 
  If you're already using Windows Defender, be sure to check out [how to turn off Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and see if that fixes the BSOD.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Other Generic Windows BSOD Fixes to Try
 
@@ -86,8 +95,10 @@ chkdsk /f
  Finally, it's time to pull out the reliable fixes. Windows BSODs are usually due to a common pool of issues, and fixing those problems can fix almost any BSOD, including the 0x0000004E error. As such. be sure to check out our [tips to help you fix a Windows BSOD](https://www.makeuseof.com/tag/4-tips-fix-blue-screen-error/) for all the ways you can fix this issue, and any potential ones you encounter in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## PFN\_LIST\_CORRUPT BSOD, Fixed
 

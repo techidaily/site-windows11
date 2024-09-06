@@ -1,7 +1,7 @@
 ---
 title: Seamless Conversion of Your Mp3 Library Into Widespread, High-Quality Audio Cds with ImgBurn
-date: 2024-08-31T22:15:33.588Z
-updated: 2024-09-01T22:15:33.588Z
+date: 2024-09-05T02:08:04.243Z
+updated: 2024-09-06T02:08:04.243Z
 tags:
   - windows10
   - windows11
@@ -57,6 +57,12 @@ thumbnail: https://thmb.techidaily.com/0b81880445efb7746c34685a24a5e53155bfff0ac
 
  Note that if you want to perform the opposite, to bring your CDs into the modern age by converting them to MP3s, we've got you covered, too. Check our article on[how to rip a CD to MP3 (and auto-name the files correctly)](https://www.makeuseof.com/tag/how-to-rip-a-cd-automatically-correctly-name-the-files-windows/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Download and Install ImgBurn
 
  With the necessary information out of the way, it's time to write some music on your CDs. For this article, we're taking for granted that your PC is equipped with a CD writer and that you have a handful of audio files and blank CDs available.
@@ -67,10 +73,31 @@ thumbnail: https://thmb.techidaily.com/0b81880445efb7746c34685a24a5e53155bfff0ac
 
 ![ImgBurn Main Interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-main-interface.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Place an "empty" CD in your CD writer, and prepare to burn some music.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Make a Cue File
 
@@ -81,23 +108,44 @@ thumbnail: https://thmb.techidaily.com/0b81880445efb7746c34685a24a5e53155bfff0ac
 2. Drag and drop your audio files from a file manager on ImgBurn's**Create CUE File** window. You'll see them in serialized sequence inside the**Layout** part of ImgBurn's window.  
 ![ImgBurn Creating the CUE list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-list.jpg)
 3. If you want to remove a file from your Audio CD, select it in the**Layout** and click on the button with the**red "X"** on the right. Audio CDs can hold up to 70 minutes of audio. If your files add up to more, you should remove some of them, or ImgBurn won't be able to write them on an Audio CD.  
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ImgBurn Creating the CUE Removing Files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-removing-files.jpg)
 4. You can use the**arrow buttons** on the right of the window to change the placement of files in the CUE sequence.  
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ImgBurn Creating the CUE Changing Sequence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-changing-sequence.jpg)
 5. Most Audio CD Players will display information about the playing track on their screen. You can choose what they should show from the**CD-TEXT** section under the**Track Options** . If you don't want to enter information for your music manually, go for either**File Name** or**Tag** .  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ImgBurn Creating the CUE CD TEXT Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-cd-text-options.jpg)
 6. Enable the option**Add To Write Queue When Done** on the bottom left of ImgBurn's window. Then, click on OK to save your CUE file and have it "forwarded" to the CD writing section of the app.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ImgBurn Creating the CUE Add to Write Queue When Done](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-creating-the-cue-add-to-write-queue-when-done.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## How to "Burn" Your Music Onto a CD
 
  When back at ImgBurn's main interface, you can now have the app convert on-the-fly and write your music to an Audio CD.
@@ -105,27 +153,31 @@ thumbnail: https://thmb.techidaily.com/0b81880445efb7746c34685a24a5e53155bfff0ac
 1. With an "empty" writeable CD inside your CD writer, click on**Write image file to disc** .  
 ![ImgBurn Write Image File to Disc](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-write-image-file-to-disc.jpg)
 2. If you have more than one optical disc writing device on your PC, select the correct one under**Destination** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![ImgBurn Select Writing Device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-select-writing-device.jpg)
 3. Turn your attention to the bottom right of ImgBurn's writing window. Change the**Write Speed** under**Settings** to 4x or even lower for optimal results.  
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ImgBurn Choose Writing Speed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-choose-writing-speed.jpg)
 4. Click on the large button on the bottom left of ImgBurn's writing window to start the burning process.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ImgBurn Burn Media](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-burn-media.jpg)
 5. ImgBurn's main window will "morph" again to show you the writing process progress. Your Audio CD will be ready when the bar under**Complete** fills up. Depending on your settings and hardware, your CD tray may eject when the writing completes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![ImgBurn Writing Progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/imgburn-writing-progress.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Listen to Music the Retro Way With ImgBurn
 

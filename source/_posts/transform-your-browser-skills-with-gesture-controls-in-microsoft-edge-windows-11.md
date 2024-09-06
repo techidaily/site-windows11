@@ -1,7 +1,7 @@
 ---
 title: Transform Your Browser Skills with Gesture Controls in Microsoft Edge (Windows 11)
-date: 2024-08-31T22:13:22.103Z
-updated: 2024-09-01T22:13:22.103Z
+date: 2024-09-05T02:08:06.152Z
+updated: 2024-09-06T02:08:06.152Z
 tags:
   - windows10
   - windows11
@@ -103,5 +103,8 @@ thumbnail: https://thmb.techidaily.com/70eb207ffd605d91a6b2f543dd9aa1d6c7a04729a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

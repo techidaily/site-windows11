@@ -1,7 +1,7 @@
 ---
 title: Overcoming 0X800700E1 in Win10 & 11 PCs
-date: 2024-08-31T22:16:08.615Z
-updated: 2024-09-01T22:16:08.615Z
+date: 2024-09-05T02:08:03.692Z
+updated: 2024-09-06T02:08:03.692Z
 tags:
   - windows10
   - windows11
@@ -45,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
 
  If you’ve installed an alternative third-party antivirus app, you must disable that software’s real-time protection instead. Most antivirus apps have context menu settings for disabling antivirus shields. So, look in the system tray area, right-click your antivirus app, and select an option that will temporarily disable its antivirus shield for an hour or two.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Repair File Explorer
 
  Error 0x800700E1 can also occur because of issues with the File Explorer process. That’s more likely if you can’t transfer or copy some files because of error 0x800700E1\. You might be able to address such issues by running a couple of more specific SFC commands for explorer.exe like this:
@@ -58,6 +55,18 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
 `sfc /SCANFILE=c:windowsexplorer.exe`  
 ![The sfc scanfile command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-scannow-command-for-file-explorer.jpg)
 4. Then input this SFC command text and hit **Enter**:  
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 `sfc /SCANFILE=C:WindowsSysWow64explorer.exe`  
 ![An SFC scanfile command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-explorer-command.jpg)
 5. Wait for both scans to finish and show a Windows Resource Protection message.
@@ -72,35 +81,41 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
 ![The Internet Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-general-tab.jpg)
 4. Deselect the **Preserve Favorites** website data checkbox if selected.
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 5. Select the **Cookies**, **History**, and T**emporary Internet Files** checkboxes.  
 ![The Delete Browsing History window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/delete-browsing-history-window.jpg)
 6. Click **Delete** to erase browsing data.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you utilize Chrome, Edge, Firefox, Opera, or another alternative, clear the browsing data with your browser’s built-in settings. All browsers include a tool or options for clearing cookies, history, and cached data. Look through your browser’s settings tab and menus to find its tool for clearing browser data.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Try Some Generic Windows Fixes
 
  If nothing has worked so far, here are some general Windows fixes you can try:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Add the File to Your Antivirus' Exclusion List
 
  If error 0x800700E1 occurs when you try to move or copy files from an external drive, try adding the folder that includes them to your antivirus utility’s exclusion list. Doing that will ensure your antivirus utility won’t raise any false alarms for the files you’re trying to copy or transfer. Our guide tells you [how to add exclusions within Windows Security](https://www.makeuseof.com/windows-11-security-exclusions/).
 
 ![The Add an exclusion button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-an-exclusion-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you have a third-party antivirus app, you’ll need to select the folder within that software’s exclusion or exceptions list. You should be able to find such a feature within the settings tab of an antivirus utility. Check out your antivirus utility’s online manual on the publisher’s website for details about how to set folder exclusions in it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Run SFC and DISM File Scans
 
  If the above potential solutions don’t work for you, try running an SFC scan to check for and repair system file corruption. The System File Checker utility is one you can run by executing a CMD command. We have a guide that tells you [how to run a System File Checker scan](https://www.makeuseof.com/system-file-checker-sfc-windows/).
@@ -108,12 +123,10 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
 ![A general sfc scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-scannow.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  In addition, run a Deployment Image Servicing and Management (DISM) scan to address system image issues. You can run that utility much the same as SFC by inputting a command for it within the Command Prompt. Execute this DISM command:
 
@@ -125,10 +138,25 @@ thumbnail: https://thmb.techidaily.com/afa50b24e25ed08989c229ae73d3b233da6ab60b7
 
 ![The Startup tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/startup-tab.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  We have a guide about [how to clean boot Windows](https://www.makeuseof.com/clean-boot-windows-11/) that includes step-by-step instructions for applying this potential fix. You can disable all non-essential third-party startup apps and services with the Task Manager and MSConfig tools. Then restart Windows to see if error 0x800700E1 persists after clean booting.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Get Error 0x800700E1 Sorted in Windows
 

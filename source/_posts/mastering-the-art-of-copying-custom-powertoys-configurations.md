@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Copying Custom PowerToys Configurations
-date: 2024-08-31T22:11:37.587Z
-updated: 2024-09-01T22:11:37.587Z
+date: 2024-09-05T02:08:07.635Z
+updated: 2024-09-06T02:08:07.635Z
 tags:
   - windows10
   - windows11
@@ -47,8 +47,10 @@ thumbnail: https://thmb.techidaily.com/7fab9a6185158d097b206408c1b02e98fd2b514b0
  Your previously saved settings have now been applied to the clean installation of PowerToys. If the two versions of PowerToys are different, some settings may not have been transferred.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Transferring PowerToys Settings Made Easy
 

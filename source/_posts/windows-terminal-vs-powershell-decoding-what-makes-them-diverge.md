@@ -1,7 +1,7 @@
 ---
 title: "Windows Terminal Vs. PowerShell: Decoding What Makes Them Diverge"
-date: 2024-08-31T22:10:44.174Z
-updated: 2024-09-01T22:10:44.174Z
+date: 2024-09-05T02:08:08.384Z
+updated: 2024-09-06T02:08:08.384Z
 tags:
   - windows10
   - windows11
@@ -34,14 +34,20 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
  If you're using Windows 11 or Windows 10, you'll find PowerShell and Windows Terminal pre-installed. Both are command-line interfaces that allow you to enter text commands to perform various tasks, but what makes them different?
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## PowerShell Is an Improvement Over the Command Prompt
 
 ![The Windows PowerShell interface in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/windows-powershell-interface.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Microsoft introduced PowerShell in 2006 to take what people could do in Command Prompt to the next level. Since Microsoft built PowerShell on top of the .NET Framework, you can use .NET languages with text-based commands to interact with your operating system. The most popular language for PowerShell is C#, allowing you to unlock the tool's advanced features and boost your productivity.
 
@@ -49,6 +55,12 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 
  Furthermore, while PowerShell can run batch files in the same way as CMD, it also allows for greater automation by [allowing you to schedule tasks in PowerShell](https://www.makeuseof.com/windows-powershell-scheduled-task/) to save time. That way, you can better plan your actions.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Windows Terminal Is a Terminal Emulator
 
 ![Windows Terminal with the profiles dropdown expanded](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/windows-terminal-with-the-profiles-dropdowb-expanded.jpg)
@@ -58,15 +70,15 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
  To run BASH and other Linux shells, including ZSH, FISH, and Ksh (KornShell) in Windows Terminal, you'll first have to [enable Windows Subsystems for Linux (WSL)](https://www.makeuseof.com/enable-windows-subsystem-for-linux/). You can also run Azure Cloud Shell in Windows Terminal, which allows you to manage your Azure resources from within Windows Terminal.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## User Interface and Customization
 
 ![the settings page of Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/the-settings-of-windows-powershell.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  One of Windows Terminal's most notable features is the move to a modern tabbed interface that lets you run several command-line utilities side by side. For instance, you can have multiple instances of Command Prompt running simultaneously while using PowerShell, BASH, or Azure.​​​​​ This is something that PowerShell cannot do.
 
  The user interface of both PowerShell and Windows Terminal is customizable. In PowerShell, to a lesser degree, you can customize the environment visually by changing fonts, font colors, and prompts. You can [customize Windows Terminal in various ways](https://www.makeuseof.com/windows-terminal-customization/), including tweaking the starting profile settings, color schemes, interactions, and rendering options.
@@ -74,7 +86,10 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
  Note that you can also customize PowerShell using the preset color schemes within Windows Terminal.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Unicode and UTF support
 
@@ -82,13 +97,16 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 
  PowerShell also has Unicode and UTF support, but you may run into problems with encoding issues, such as bugs and limitations with specific characters. This is especially true regarding characters from other languages and emojis. Windows Terminal provides a much better experience in this regard.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Community Support
 
  Windows Terminal and PowerShell are open-source projects with active communities that participate in their development. Both communities are passionate about the projects and will continually support their apps, improve their performance, and add more features. There's also extensive documentation available for Windows Terminal and PowerShell, so you'll find no shortage of forums, tutorials, and guides to help you use them effectively.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Windows Terminal Is All You Need
 
  PowerShell helps bring the power of the .NET Framework to the command-line environment, while Windows Terminal emulates various shells, including those from Linux, on your Windows computer. Furthermore, Terminal has more customization options and better Unicode/UTF support than PowerShell.

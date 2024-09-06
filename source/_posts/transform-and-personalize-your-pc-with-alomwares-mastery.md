@@ -1,7 +1,7 @@
 ---
 title: Transform and Personalize Your PC With AlomWare's Mastery
-date: 2024-08-31T22:16:37.618Z
-updated: 2024-09-01T22:16:37.618Z
+date: 2024-09-05T02:08:03.262Z
+updated: 2024-09-06T02:08:03.262Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,18 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
  While AlomWare is designed with Windows power users in mind, it also comes with some tools to make your life easier, even if you're an average user. Here are some of the essentials that come with AlomWare.
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Calendar
 
 ![AlomWare Toolbox calendar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-toolbox-calendar.jpg)
@@ -44,30 +56,51 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
  It's also easy to set a reminder on the calendar, and each recorded reminder appears under Current, Arrived, or Missed tab, along with how many days are left until the reminder arrives or when it was due if it's already past.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Notes
 
 ![AlomWare Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-notes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The Notes tab features a notepad-like interface that lets you keep whatever text you need. You can save as many notes as you want and then use the letters above it to filter them according to their first letter.
 
  Alternatively, you can click on **(click here to filter)** to search for specific text in your notes or use the **yyyy-mm-dd** date format to search your notes by date written.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Clipboard
 
 ![AlomWare clipboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-clipboard.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The AlomWare Clipboard works just [like Windows 11's clipboard history](https://www.makeuseof.com/windows-11-turn-on-clipboard-history/). However, it separates the items that you copied into two tabs—one for text and another for images. This makes it easier to find what you copied.
 
  Furthermore, AlomWare adds more tools to its clipboard. It lets you lock or pin any item you copied and save it as a different file altogether. You can also use its built-in optical character recognition to extract text from a photo—no need to [use OCR apps to convert images to text](https://www.makeuseof.com/tag/top-5-free-ocr-software-tools-to-convert-your-images-into-text-nb/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Screenshots
 
@@ -75,13 +108,16 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
  Screenshots are traditionally saved on the clipboard or to the Pictures > Screenshots folder. But with the AlomWare Toolbar, all your screenshots are saved to the app's Screenshots tab. This makes it easy to find all the screenshots you've made and ensures that you won't miss them, even after you've restarted your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Files
 
 ![AlomWare batch rename](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-batch-rename.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  AlomWare Tools offers four major file functions: single-file backups with versioning, file search, multiple file rename, and folder monitoring. These features make it easier to manage files, including ensuring you don't accidentally overwrite an important file and keeping track of any changes made to a particular folder.
 
 ## Getting to Know the Advanced AlomWare Tools
@@ -89,15 +125,15 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
  Although AlomWare has several nifty basic features, its advanced capabilities make it stand out. These features can save you a lot of time by automating your Windows PC's most mundane and repetitive tasks.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Automation
 
 ![AlomWare automation options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-automation-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
  You can [create a Windows Batch File command to automate repetitive tasks](https://www.makeuseof.com/tag/use-windows-batch-file-commands-automate-repetitive-tasks/), but it could be complicated. That's why most users don't bother making one, as it could lead to more problems and would make you just want to do it yourself manually.
 
  Thankfully, AlomWare's Automation tab already has a good number of pre-created commands that help you with everyday tasks. For example, the "Auto Text/tyvm" command will automatically replace "tyvm" with "Thank you very much!" saving you time and effort.
@@ -106,35 +142,38 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
  You can also create your own automation with several steps from scratch. But if you find that too complicated, you can use the **Create an action with a wizard** button to make it easier.
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### States
 
 ![AlomWare states](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-states.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  States is also another feature perfect for office-based professionals. If you use the same set of apps daily and already have a fixed place for them on your screen, you can save that as a PC State on AlomWare Tools. You can then launch it from the app, and your computer will enter into your set configuration, opening all the apps you need and placing them exactly where you want them on the monitor.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## The AlomWare Power Menu
 
 ![AlomWare Power Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-power-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Aside from the features inside the app, AlomWare also gives you extra capabilities via the AlomWare Power Menu. You can activate this feature by middle-clicking on an open app's upper-right. You'll see several features from there like **Keep locked here**, **Minimize to tray**, **Roll up to title**, and more.
 
  You can even set where an app will open on your monitor every time by choosing **Opening state > Open like this (position, size, transparency, etc)**. With this feature, AlomWare gives you many useful options to use your computer just how you like it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## "Reboot" Your PC Without Turning It Off
 
 ![AlomWare Clean Slate](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/alomware-clean-slate.jpg)
@@ -143,6 +182,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  This feature makes clearing your PC's memory faster, especially if it's starting to run slow. That's because even if your computer already runs on an SSD, the [different ways of restarting your Windows computer](https://www.makeuseof.com/windows-restart-methods/) will still take some time. So, if you only need a quick speed boost, AlonWare's Clean Slate feature will give you just that.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unleash the Windows Power User in You
 
  Being a Windows power user can be confusing and difficult for most people, but it does make your life easier. So, if you don't want to go through the hassle of trial and error, you should use AlomWare Tools to make your Windows PC do the things you want.

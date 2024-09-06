@@ -1,7 +1,7 @@
 ---
 title: Removing Borders with Technique and Precision Tools
-date: 2024-08-31T22:11:22.450Z
-updated: 2024-09-01T22:11:22.450Z
+date: 2024-09-05T02:08:07.872Z
+updated: 2024-09-06T02:08:07.872Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,16 @@ thumbnail: https://thmb.techidaily.com/b91466317b7eccd6ee21d430979cabf5463805ed4
 
 ![Microsoft Paint app in Microsoft Store on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/microsoft-paint-in-microsoft-store-on-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The Remove background feature in MS Paint was part of the [Windows 11 Moment 4 update](https://www.makeuseof.com/new-windows-11-features-moment-4-update/). To get started, make sure you have the latest Windows 11 updates installed. To do this, go to **Settings > Windows Update** and choose **Check for updates**. You should also update [Microsoft Paint](https://apps.microsoft.com/detail/paint/9PCFS5B6T72H) and [Paint 3D](https://apps.microsoft.com/detail/paint-3d/9NBLGGH5FV99) from the Microsoft Store to receive new features.
 
  After the update is installed, launch any of the apps, and you'll see the **Remove background** or the **Magic select** option in the respective apps' toolbar. Using them is straightforward, as you can see below.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Remove the Background of an Image Using Microsoft Paint
 
  The [background removal tool](https://www.makeuseof.com/tag/3-easy-ways-to-remove-backgrounds-from-images-without-specialized-software/) in the standard Paint app is powered by AI. You can import any images onto your Paint canvas and click the Remove background feature to clean up the background with a single click.
@@ -53,14 +56,29 @@ thumbnail: https://thmb.techidaily.com/b91466317b7eccd6ee21d430979cabf5463805ed4
 ![Microsoft Paint App With a Bird Image and Remove Background Option Selected in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/microsoft-paint-app-with-a-bird-image-and-remove-background-option-selected-in-windows-11-2.jpg)
 2. In the **Command bar**, click the **Remove background** option. Microsoft Paint uses AI to process and detect the image elements and remove the background.  
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Microsoft Paint App Showing an Image Without Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/microsoft-paint-app-showing-an-image-without-background.jpg)
 3. You can also use the selection tool to specify only part of the image to remove and then click the **Remove background** option.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. To save the image, go to **File > Save as**, then choose the **PNG** or **JPEG** format. Enter a name for the file and click **Save**. The Paint app will save the file with a transparent background.
 
  As with most AI tools, the remove background feature is not perfect, but more often than not, it does a decent enough job.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Remove the Background of an Image Using Paint 3D
 
  You can use the **Magic select** feature in Paint 3D to remove the background of an image. While the process is not as straightforward as the Paint app, it offers greater control and multiple creative options.
@@ -70,39 +88,31 @@ thumbnail: https://thmb.techidaily.com/b91466317b7eccd6ee21d430979cabf5463805ed4
 1. Launch the **Paint 3D** app and import the image you want to edit.  
 ![Paint 3D App With the Magic Select Option Selected In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/paint-3d-app-with-the-magic-select-option-selected-in-windows-11.jpg)
 2. Click the **Magic select** option in the toolbar.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![Paint 3D App With the Magic Select Cutout Selection In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/paint-3d-app-with-the-magic-select-cutout-selection-in-windows-11.jpg)
 3. Adjust the focus area to fit around the area of the image you want to retain. Even if you want to keep a large part of the image, a slight adjustment is necessary for the app to determine the background.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 4. Click **Next**.  
 ![Paint 3D App Main Object Cutout Selection In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/paint-3d-app-main-object-cutout-selection-in-windows-11.jpg)
 5. Preview the cutout to see if the image isolation is accurate. If not, use the **Add** or **Remove** option in the top-right corner to refine your selection further.
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Click **Done**.  
 ![Paint 3D App Delete Background Canvas In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/paint-3d-app-delete-background-canvas-in-windows-11.jpg)
 2. Now, select the cutout and drag it to the side of the canvas.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Using the selection tool, click and drag over the canvas and press **Delete** to remove the background.
 4. Now select the **Canvas** option in the toolbar.  
 ![Paint 3D App Showing a Deleted Bird Background Canvas In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/paint-3d-app-showing-a-deleted-bird-background-canvas-in-windows-11.jpg)
 5. In the right pane, toggle the **Transparent canvas** option.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Now drag the cutout back to the canvas and adjust it to fit the image.
 7. To save the image, press **Ctrl + S**, click **Image,** and then **Save**. Give a name to the file and select **Save**.
 

@@ -1,7 +1,7 @@
 ---
 title: "Speedy Boot: Streamlining Your Win11 Routines"
-date: 2024-08-31T22:17:03.826Z
-updated: 2024-09-01T22:17:03.826Z
+date: 2024-09-05T02:08:02.860Z
+updated: 2024-09-06T02:08:02.860Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,12 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 
  Windows allows you to prevent apps from booting at startup but if you do not want to take the extreme route, you can simply delay the startup time of the targeted program. We have listed two methods of delaying the load time in Windows. Proceed with the method that suits your situation the best.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2.1 Use the Task Scheduler Utility
 
  In this method, we will first disable the program from the Startup list and then use the Task Scheduler utility to delay the boot time.
@@ -50,36 +56,62 @@ Here is all that you need to do:
 5. Click on the**Disable** button as shown below.  
 ![Click on the Startup button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/task-manager-startup-disable.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Once done, search for**Task Scheduler** using the Windows Search utility and launch it.
 
 1. Click on the**Create Task** option in the left pane and enter a name for the task. You can enter the name of the application whose startup time you want to delay.  
 ![Click on the Create Task button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/task-scheduler-create-task.jpg)
 2. Now, head over to the**Trigger** tab and click on the**New** button.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![Click on the New button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/task-scheduler-create-task-triggers-new.jpg)
 3. Expand the dropdown for**Begin the task** and choose**At log on** .
 4. Checkmark the box associated with**Delay task for** .  
 ![Delay the task](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/new-trigger-delay-task-time.jpg)
 5. Expand the dropdown and choose your preferred time.
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Click**OK** to save the changes.
 2. Now, navigate to the**Action** tab and select**New** .  
 ![task-scheduler-create-task-actions-new](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/task-scheduler-create-task-actions-new.jpg)
 3. In the dropdown for**Action** , choose**Start a program** \>**Browse** option.  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Click on the Browse button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/start-a-program-browse.jpg)
 4. Next, navigate to the EXE file of the application and click**Open** \>**OK** .
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Go to the**Conditions** tab and uncheck the box associated with**Start the task only if the computer is on AC power** .  
 ![Change the startup settings of the computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/conditions-start-the-task-only-if-the-computer-is-on-ac-power.jpg)
 6. Finally, click**OK** and close the Task Scheduler.
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2.2 Use a Third-Party App
 
@@ -95,23 +127,31 @@ Here is how you can proceed:
 5. Enter your preferred delay time under**Delay time** .  
 ![Set a delay time in the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-startup-helper-delay-time.jpg)
 6. Now, click on the**Add New Item** button under the second step.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![Click on the Add New button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-startup-helper-add-new-item.jpg)
 7. Enter the program name, its path, and the parameters.  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Enter the name and path of the targeted program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-startup-helper-add-edit-dialog.jpg)
 8. Once done, click on the**Start** button.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Click on the Start button in the Startup Helper utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-startup-helper-start.jpg)
 
  The targeted app will now launch after the time you selected on the app.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Run a Startup Cleaner Utility
 
@@ -128,20 +168,11 @@ Follow these steps to proceed:
 3. Click on the Tool icon in the left pane.  
 ![Click on the Tools option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ccleaner-tools.jpg)
 4. Choose**Startup** in the following window.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ccleaner-tools-startup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ccleaner-tools-startup.jpg)
 5. In the following four sections, you will be able to see all the components that run when you boot into Windows. Locate the unnecessary ones, click on them, and choose**Disable** or**Delete** .  
 ![Disable or delete the uneeded apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/ccleaner-tools-startup-disable-delete.jpg)
 6. Once done, restart your computer and check if you notice any difference.
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Uninstall Any Unnecessary Programs
 
  The unnecessary programs installed on the system can also slow down the overall performance and load times.
@@ -150,6 +181,12 @@ Follow these steps to proceed:
 
  See our guide on[ways to uninstall software in Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) for more information.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Keep Your Windows Updated
 
  This may seem trivial, but keeping your Windows up-to-date at all times can help prevent a number of issues such as frequent lagging and sudden crashes.
@@ -157,7 +194,10 @@ Follow these steps to proceed:
  We highly recommend[installing the Windows updates](https://www.makeuseof.com/windows-11-install-updates/) as soon as they are released. You can view all the pending system updates in the Windows Updates section of the Settings app.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Manage Your Windows Startup Apps to Improve Your System's Performance
 

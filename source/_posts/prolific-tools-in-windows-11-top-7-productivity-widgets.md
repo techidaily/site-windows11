@@ -1,7 +1,7 @@
 ---
 title: "Prolific Tools in Windows 11: Top 7 Productivity Widgets"
-date: 2024-08-31T22:15:40.008Z
-updated: 2024-09-01T22:15:40.008Z
+date: 2024-09-05T02:08:04.137Z
+updated: 2024-09-06T02:08:04.137Z
 tags:
   - windows10
   - windows11
@@ -38,22 +38,36 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 
  If you’re in a hurry, you can schedule an event directly from the widget. You can also set event reminders and change the time zone, which is a [useful tip when working in different time zones](https://www.makeuseof.com/time-management-tips-different-time-zones/). Outlook Calendar also has some useful customization options, such as selecting which calendars to view (if you have more than one.) To customize the widget, hit the three dots at the top right of the widget.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. To Do
 
 ![Microsoft To Do widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/microsoft-to-do-widget-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Microsoft To Do is a powerful daily productivity planner, packed with tools to help you be more efficient and build a better to-do list. If you’re new to the app, check out our [beginner’s guide to Microsoft To Do](https://www.makeuseof.com/a-beginners-guide-to-microsoft-to-do-how-to-organize-your-personal-and-work-life/).
 
  The To Do widget puts all the app’s essentials into one condensed space. Using the dropdown at the top of the widget, you can easily switch between different lists. For an overview of all your to-do items, click on **Tasks**. The **My Day** tab is another useful tool for viewing urgent tasks. To Do syncs with your mobile app, so you can keep up-to-date with your schedule. Best of all, you can add new tasks directly from the widget.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## 3\. Focus Session
 
 ![Focus session widget expanded view Windows 11-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/focus-session-widget-expanded-view-windows-11-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Staying focused while working from home can be challenging. Focus Session is a great tool that utilizes the [Pomodoro method](https://www.makeuseof.com/what-is-pomodoro-method-how-increase-productivity/) to help you be more efficient.
 
  Using the widget is simple—select how long you want your focus session to be, then hit the play button to start the timer. During a focus session, many distracting features on Windows 11 will be disabled. This includes removing badges from taskbar apps and enabling Do Not Disturb mode.
@@ -61,7 +75,10 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
  You can also change which features are disabled during focus sessions by heading to the Windows Settings page and then navigating to **System > Focus**.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Phone Link
 
@@ -71,27 +88,30 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 
  To get started, simply select your mobile’s operating system from the widget, then scan the QR code to link your mobile to your PC. You can also send text messages and make calls using Phone Link. The widget features some useful information about your device’s status, including its battery, Wi-Fi connectivity, and signal strength. You can open the Phone Link app in full by clicking the phone icon from the widget.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## 5\. Tips
 
 ![Tips Windows 11 widget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tips-windows-11-widget.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you’re new to using Windows 11 widgets, this next tool can help you learn the basics. Microsoft’s Tips widget provides hints on using widgets alongside tips to help you get around Windows 11\.
 
  To enable the Tips widget, hit the **plus** (**+**) button from the widgets display, select **Tips**, then click **Pin**. This tool guides you on how to reorder, remove, and customize widgets. Using the Tips widget helps remind you of handy shortcuts and features to maximize your productivity in Windows 11\.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## 6\. Memory Check
 
 ![Memory check widget Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/memory-check-widget-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Memory Check is a widget not offered by Microsoft but can be found on the Microsoft Store. After installing the app, you can find it from your widgets sidebar.
 
  The widget monitors your total memory usage, so you can identify which apps are slowing your PC down. Memory usage is displayed both in GB and as a percentage. If your memory usage is consistently high, check out our tips to [free up RAM and reduce RAM usage on Windows](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/).
@@ -102,9 +122,6 @@ thumbnail: https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6
 
 ![Memodown widget note taking Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/memodown-widget-note-taking-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  Memodown is another third-party widget built with many note-taking tools to boost your productivity. The app allows you to create sticky notes and pin them as Windows 11 widgets.
 
  There’s plenty of customization available in Memodown. For each sticky note, you can choose from a range of colors, change the note size, and rotate notes. Memodown also supports [Markdown](https://www.makeuseof.com/tag/learning-markdown-write-web-faster/), so you can quickly format notes in a desired style. If you rely on writing things down to stay on top of your schedule, Memodown is a perfect note-taking solution to keep your reminders visible.

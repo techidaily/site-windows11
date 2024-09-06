@@ -1,7 +1,7 @@
 ---
 title: "Win Storage Management: Finding and Reducing High-Space Items"
-date: 2024-08-31T22:15:48.150Z
-updated: 2024-09-01T22:15:48.150Z
+date: 2024-09-05T02:08:04.020Z
+updated: 2024-09-06T02:08:04.020Z
 tags:
   - windows10
   - windows11
@@ -45,17 +45,27 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 
  Ideally, you should start clearing space from the category that consumes the most space on your hard drive. For instance, if apps and features occupy the bulk of your storage, you should free that up first.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Free Up Your Windows Storage Drive
 
  Typically, three data types take up most of your drive space: apps and features, system and reserved files, and temporary files. Hence, reducing the burden of these data types can effectively free up your drive space. Let's see how you can accomplish that.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 1\. Manage Your Apps and Features
 
@@ -69,13 +79,31 @@ Follow these steps to remove extra apps and features:
 ![Sorting the Installed Apps by Size in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/3-sorting-the-installed-apps-by-size-in-windows-settings-app.jpg)
 6. Determine which apps are redundant and taking up the most disk space.
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 7. Click the**three vertical dots** next to each app and click**Uninstall** .  
 ![Uninstalling the App by Clicking on Three Vertical Dots Next to it in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/4-uninstalling-the-app-by-clicking-on-three-vertical-dots-next-to-it-in-windows-settings.jpg)
 8. Repeat the above step for all apps you find hefty, and you should be able to free up quite a bit of space.
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your operating system lives on the same overcrowded disk, the system and reserved files could be the next big space eater.
@@ -86,10 +114,6 @@ Follow these steps to remove extra apps and features:
 
 ![Managing System and Reserved Files Storage in Storage Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/5-managing-system-and-reserved-files-storage-in-storage-tab-of-windows-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
  Space consumed by system files, reserved storage, and virtual memory is actually used by your device to perform its functions; refrain from deleting files contained therein. Therefore, there are only two types of storage left to manage; the hibernation file and the space reserved for System Restore. This raises the question: can you free this up?
 
  Although you can disable the hibernation mode, you shouldn't do so if you frequently use this feature for keeping in-use apps open while the device is in hibernation. However, this feature takes up a lot of space in GBs, so if you aren't using it, you can free some room. Our guide on[if you should delete the Hiberfil.sys file on Windows](https://www.makeuseof.com/tag/delete-hiberfil-sys-windows-10/) will walk you through every step.
@@ -108,14 +132,20 @@ Follow these steps to remove extra apps and features:
 ![Managing the Temporary File Storage in Storage Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/6-managing-the-temporary-file-storage-in-storage-tab-of-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  With these tips, you'll hopefully be able to free up a significant amount of space that was previously unnecessarily occupied. Are you still running low on disk space? If so, then your device's storage drive is not large enough. So, upgrade it to accommodate your data more effectively.
 
  If you decide to go this route, check out our roundup of[best NVMe SSDs for faster performance](https://www.makeuseof.com/tag/best-nvme-ssds/) first.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Avoid Cluttering Up Your Precious Disk Space
 

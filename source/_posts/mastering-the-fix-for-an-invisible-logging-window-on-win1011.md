@@ -1,7 +1,7 @@
 ---
 title: Mastering the Fix for an Invisible Logging Window on WIN10/11
-date: 2024-08-31T22:15:04.292Z
-updated: 2024-09-01T22:15:04.292Z
+date: 2024-09-05T02:08:04.675Z
+updated: 2024-09-06T02:08:04.675Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,12 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 
 **Ctrl + Alt + Delete** is a Windows keyboard shortcut initially used to terminate unresponsive applications. However, the combo is now used differently on Windows 11\. By default, it now shows a hidden menu with multiple critical options such as Password Change, Restart, Task Manager and more. You can also easily[add or remove options from the Ctrl + Alt + Delete](https://www.makeuseof.com/windows-ctrl-alt-del-add-remove/) combo on Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Boot Into Safe Mode
 
  In safe mode, the Windows OS starts with only essential services. All the third-party services are disabled, so the admin can determine if a third-party app conflicts with the system functionality.
@@ -41,16 +47,15 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
  This may also allow you to access your lock screen and sign in to perform additional troubleshooting. First, refer to our guide to[boot into safe mode in Windows 11](https://www.makeuseof.com/windows-11-boot-safe-mode/) and then apply the troubleshooting steps below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Install Pending Windows Updates
 
 ![check for windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-for-windows-update-1-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Check and install all the Windows updates available on your computer. Widespread issues likely get a hotfix on a priority basis. So, check if you have any pending updates and install them to see if that fixes the issue.
 
 To check and update Windows 11:
@@ -60,15 +65,18 @@ To check and update Windows 11:
 3. Click on**Check for updates** in the top right corner. Windows will scan for available updates and list them accordingly.
 4. Click on**Download and install.** Wait for the updates to install and restart your PC to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Check and Disable Ctrl + Alt + Delete Secure Sign-In
 
  Windows lets you add an extra layer of security to your computer with its interactive Secure sign-in option. When enabled, the user must press the default**Ctrl + Alt + Delete** key on the lock screen to view the sign-in screen. This helps prevent malicious tools from mimicking the sign-in screen to steal user credentials.
 
  While a handy feature, it may prevent you from accessing the sign-in screen without the keyboard combo. Check if you or other users on the computer have enabled the feature. If you find it annoying, you can easily[disable Secure sign-in with Ctrl + Alt + Delete in Windows 11](https://www.makeuseof.com/windows-11-disable-secure-sign-in/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Perform a System Restore
 
  Windows automatically creates new restore points on configured systems before a Windows, unsigned driver or a new program is installed. So if a bad update or driver causes the system to malfunction, you can use a restore point to undo the changes and restore your PC.
@@ -86,21 +94,10 @@ To check and update Windows 11:
 5. Click on**System Restore** .  
 ![advanced option system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-option-system-restore.jpg)
 6. Select the most recent restore point in the**System Restore** wizard and click**Next** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 7. Follow on-screen instructions to complete the system restore process.
 
  Once done, your PC will restart. If successful, you should be able to view your sign-in screen. If not, you can try again with a different restore point.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 6\. Run Startup Repair
 
  The Startup Repair is a Windows recovery tool that can scan the system for issues interrupting the normal start-up of your computer and try to fix them automatically. It is part of the Windows Recovery Environment, so you’ll need to boot into WinRE to use the option. Follow these steps to run Startup Repair in Windows 11.
@@ -109,13 +106,28 @@ No advertising on the website.
 2. Next, under**Choose an option** , click on**Troubleshoot** .  
 ![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
 3. Next, click on**Advanced options.**  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![advanced option startup repair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-option-startup-repair.jpg)
 4. Click on**Startup Repair.** Now it will start to diagnose your PC to find issues with the start-up.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Next, select a user account and enter the password.
 6. Click**Continue** to begin Startup repair. This process may take some time, so wait till it is complete.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 7\. Disable the Lock Screen
 

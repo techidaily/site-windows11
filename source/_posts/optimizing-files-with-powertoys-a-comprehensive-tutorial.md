@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Files with PowerToys: A Comprehensive Tutorial"
-date: 2024-08-31T22:10:59.258Z
-updated: 2024-09-01T22:10:59.258Z
+date: 2024-09-05T02:08:08.175Z
+updated: 2024-09-06T02:08:08.175Z
 tags:
   - windows10
   - windows11
@@ -35,7 +35,10 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
  It can also be used to troubleshoot the apps and files that slow down your PC and find performance bottlenecks. When you use it alongside other[ways to troubleshoot and improve PC performance](https://www.makeuseof.com/tag/windows-10-faster-performance/) , it can help speed up your PC by quite a bit.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Check Files and Processes in File Locksmith
 
@@ -48,20 +51,29 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 ![Opening a file in File Locksmith on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-locksmith-scan.jpg)
 3. File Locksmith will open a window and begin scanning the file. Any processes being used will be displayed in the window.
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 4. Stop the processes directly from the File Locksmith window by clicking the End Process button.  
 ![the file list in the File Locksmith utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-locksmith-filelist.jpg)
 5. You can click the arrow to expand each process listed to see the Process ID, User, and the path to the individual file being used.
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 6. To refresh the list of processes in File Locksmith, click the Reload button at the top-right of the open window.
 
  To see processes being run by a different user, you will need to open File Locksmith as an administrator. If you are already running PowerToys as an administrator, click the**Restart as Administrator** button at the top-right of the File Locksmith window.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Using the PowerToys File Locksmith Utility, Made Easy
 

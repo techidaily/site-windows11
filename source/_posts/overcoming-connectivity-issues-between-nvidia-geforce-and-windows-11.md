@@ -1,7 +1,7 @@
 ---
 title: Overcoming Connectivity Issues Between Nvidia GeForce and Windows 11
-date: 2024-08-31T22:11:23.678Z
-updated: 2024-09-01T22:11:23.678Z
+date: 2024-09-05T02:08:07.855Z
+updated: 2024-09-06T02:08:07.855Z
 tags:
   - windows10
   - windows11
@@ -70,7 +70,10 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
 5. Repeat those steps for all NVIDIA services you can find.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Manually Update the NVIDIA Graphics Driver With Device Manager
 
@@ -80,24 +83,39 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
 2. Select your graphics card model and PC OS in the drop-down menus and click**Search** .  
 ![The NVIDIA driver downloads page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/nvidia-driver-downloads.jpg)
 3. Select**Download** to obtain the NVIDIA driver pack.
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Then open Device Manager, which you can access by right-clicking your**Start** button in Windows and selecting the shortcut for that tool. You can also use one of the other[ways to open the Device Manager](https://www.makeuseof.com/windows-open-device-manager/) .
 5. Next, click the arrow beside the**Display adapters** to view that category.
 6. Right-click the NVIDIA GPU to select**Update driver** on the context menu.  
 ![The Update driver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/update-driver-option.jpg)
 7. Select**Browse my computer** to locate a driver package.
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 8. Click**Browse** to select the downloaded driver package.  
 ![the-browse-button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-browse-button.jpg)
 9. Select**Next** to install the selected NVIDIA driver.
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## 4\. Edit the Hosts File
 
  Hosts is a file for mapping domain names. The “Unable to connect to NVIDIA” error occurs when the localhost value in it equals 0.0.0.0\. Some GeForce Experience users have fixed the “Unable to connect to NVIDIA” error by changing the localhost value to 127.0.0.1 in the hosts file like this:
@@ -107,23 +125,40 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
 2. Click the**hosts** file with the mouse’s right button and select**Open with** .  
 ![The etc folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/etc-folder.jpg)
 3. Then click**Notepad** to view the hosts file in that text editor.
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 4. If the localhost is set to**0.0.0.0** , or another value, change it to**127.0.0.1** as shown in the image below.  
 ![The localhost value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/localhost-value.jpg)
 5. Then click**File** at the top of Notepad to select a**Save** option.
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Select**All Files** on the drop-down menu and click**Save** .  
 ![The All files option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-all-files-option.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you can’t edit hosts because of permission restrictions, copy and paste the file onto the desktop. To do so, right-click**hosts** and select**Copy** . Then right-click the desktop and select**Paste** .
 
  Next, edit and save hosts as outlined above. Copy the edited hosts file on the desktop. Open the etc folder that includes the original hosts file again and press the**Ctrl** +**V** hotkey. Click the**Replace** option to overwrite the original file.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Reinstall GeForce Experience
 
  Outdated GeForce Experience software is one of the most common causes of the “Unable to connect to NVIDIA” error. Many users have resolved the issue by uninstalling GeForce Experience and installing the latest version. You can uninstall GeForce Experience within the Control Panel as instructed in this guide to[removing Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
@@ -132,6 +167,12 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
 
  When you’ve uninstalled the old software version, open the[GeForce website](https://www.nvidia.com/en-gb/geforce/geforce-experience/) . Click**Download Now** to obtain the setup wizard for the latest GeForce Experience version. Go into File Explorer, open the folder containing the downloaded setup file, and double-click**GeForce\_Experience\_v3.27.0.112.exe** . Then select**Agree and Install** within the setup wizard.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Get the “Unable to connect to NVIDIA” Error Sorted
 
  The “unable to connect to NVIDIA” error is an old issue GeForce Experience users have talked about on the NVIDIA forum for many years. A lot of users have been able to fix that issue by applying the potential resolutions outlined above. So, it’s likely one of them will get the same “unable to connect to NVIDIA” error sorted on your Windows PC.

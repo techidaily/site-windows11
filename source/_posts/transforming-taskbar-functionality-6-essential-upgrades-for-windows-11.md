@@ -1,7 +1,7 @@
 ---
 title: "Transforming Taskbar Functionality: 6 Essential Upgrades for Windows 11"
-date: 2024-08-31T22:14:21.230Z
-updated: 2024-09-01T22:14:21.230Z
+date: 2024-09-05T02:08:05.294Z
+updated: 2024-09-06T02:08:05.294Z
 tags:
   - windows10
   - windows11
@@ -37,8 +37,10 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
  When you set the "Combine taskbar buttons" to**Never** in Windows 10, it shows all the taskbar buttons individually for the same app on the taskbar, thus helping you to know which window is what and switch to the one you want quickly. You can enable the feature from the taskbar setting page in Windows 10 but not Windows 11\. We hope Microsoft will re-introduce it to Windows 11 in future "Moment" updates.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Enabling Users to Move the Start Button in Taskbar
 
@@ -46,19 +48,39 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  It may not be available in Windows 11 anytime soon, but we would like to see it in future versions of Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Add Better Drag And Drop Support
 
  If you are running Windows 11, version 22H2, you can drag files onto apps in the taskbar to open them directly in specific apps. This way, you can open files faster than by double-clicking the app icon with your mouse and then opening files. However, there is still room for improvement. For example, unlike in macOS Dock, you can not simply drag a file or folder to Windows 11 taskbar.
 
  Windows 11 taskbar will be much more functional if Microsoft adds the ability to drag and drop files and folders onto it. That said, you can[pin almost anything to the Windows 11 taskbar](https://www.makeuseof.com/windows-11-taskbar-pin-almost-anything/) .
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Integrate Events Into the Calendar Flyout in the Taskbar
 
 ![Windows 10 calendar flyout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-10-calendar-flyout.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Image credit:[Microsoft](https://blogs.windows.com/windows-insider/2016/04/22/announcing-windows-10-insider-preview-build-14328-for-pc-and-mobile/)
 
@@ -66,22 +88,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Microsoft can improve the taskbar by bringing back the ability to view upcoming events as well as create new ones from the Calendar flyout.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## 6\. What More Can Microsoft Do to Improve the Taskbar?
 
  Apart from the changes mentioned above, Microsoft can also make the Windows taskbar more modern and more consistent with the design of Windows 11\. For example, one of the changes the software company can make is implementing a rounded-corner design to the taskbar.
 
 ![Floating taskar in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/floating-taskar-in-windows-11.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Image credit: Albacore/[Twitter](https://twitter.com/thebookisclosed/status/1580287591890329601)
 
  The rounded corner design in the Windows 11 taskbar will make it look more like ChromeOS' "Shelf" (taskbar equivalent of ChromeOS) and macOS Dock. However, we don't mind if Microsoft brings a rounded corner design as a customization option on top of what we already have.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Did Microsoft Remove Certain Taskbar Features in Windows 11?
 
  When Microsoft built Windows 11, it worked on the taskbar from scratch. Because Microsoft was not using the same taskbar in Windows 10, it had to pick and choose which features it wanted to add first to the new taskbar experience in Windows 11.
@@ -92,9 +114,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Tablet optimized taskbar in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/tablet-optimized-taskbar-in-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image credit:[Microsoft](https://blogs.windows.com/windows-insider/2022/09/08/announcing-windows-11-insider-preview-build-25197/)
 
  When Windows 11 debuted in 2021, the taskbar was less functional than it is today. It was missing some basic features, such as the ability to drag files onto apps on the taskbar, the taskbar context menu, and many more. Windows 11, version 22H2 brought back some of those missing features, including the drag-and-drop support and the context menu.
@@ -102,7 +121,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  In a more recent development, Microsoft added a touch-optimized taskbar for tablets and two-in-one devices alongside other[new features with Windows 11 February 2023 update](http://www.makeuseof.com/windows-11-february-2023-update-best-features/) , also known as "Moment 2.". Microsoft also updated the taskbar system tray area with new animations, rounded corners, and the ability to pin and unpin background apps via the Settings app.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Will the Windows 11 Taskbar Be as Good as We Want It to Be?
 

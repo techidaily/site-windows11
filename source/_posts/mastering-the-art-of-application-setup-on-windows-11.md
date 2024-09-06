@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Application Setup on Windows 11
-date: 2024-08-31T22:10:26.167Z
-updated: 2024-09-01T22:10:26.167Z
+date: 2024-09-05T02:08:08.723Z
+updated: 2024-09-06T02:08:08.723Z
 tags:
   - windows10
   - windows11
@@ -43,8 +43,10 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
  For more ways to fire up this tool, please read our guide on the[different ways to run the Program Compatibility Troubleshooter on Windows](https://www.makeuseof.com/run-program-compatibility-troubleshooter-windows/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Pick a Program to Fix in the Program Compatibility Troubleshooter
 
@@ -52,17 +54,29 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![the screen to select a program in the program compatibility troubleshooter on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-select-program.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After the tool analyzes the program, it will ask you to select a troubleshooting option between**Try recommended settings** and**Troubleshoot program** .
 
 ![the screen for selecting a troubleshooting option in the program compatibility troubleshooter on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-select-troubleshooting-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 Let’s see what each of them does.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Troubleshoot Compatibility With the “Try recommended settings” Option
 
@@ -70,17 +84,29 @@ Let’s see what each of them does.
 
 ![program-compatibility-troubleshooter-test-program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-test-program.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
  You will then be asked if you want to save the applied settings. If they worked, click**Yes, save these settings for this program** . If not, click**No, try again using different settings** – this will be like selecting**Troubleshoot program** as your troubleshooting option.
 
 ![program-compatibility-troubleshooter-save-settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-save-settings.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Otherwise, click **No, report the problem to Microsoft and check online for a solution** .
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Troubleshoot Compatibility With the “Troubleshoot Program” Option
 
@@ -88,13 +114,16 @@ Let’s see what each of them does.
 
 ![selecting a problem in the program compatibility troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-choose-problem.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you ticked **The program worked in earlier versions of Windows but won’t install or run now** , you’ll be required to pick an earlier version of Windows by clicking on the appropriate radio button. Then, click**Next** to apply the compatibility settings.
 
 ![picking an older version of Windows in the Program Compatibility Troubleshooter-pick-old-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-pick-old-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you ticked,**The program opens but doesn’t display correctly** when choosing a problem, you’ll need to pick the display problems you’re experiencing. Then, click**Next** to apply the compatibility settings, and, remember, you can pick more than one problem to give the tool more information on how to best optimize it.
 
 ![program-compatibility-troubleshooter-pick-display-problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/program-compatibility-troubleshooter-pick-display-problem.jpg)

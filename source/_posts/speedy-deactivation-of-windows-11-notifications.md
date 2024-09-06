@@ -1,7 +1,7 @@
 ---
 title: Speedy Deactivation of Windows 11 Notifications
-date: 2024-08-31T22:14:35.989Z
-updated: 2024-09-01T22:14:35.989Z
+date: 2024-09-05T02:08:05.095Z
+updated: 2024-09-06T02:08:05.095Z
 tags:
   - windows10
   - windows11
@@ -54,7 +54,10 @@ thumbnail: https://thmb.techidaily.com/1ce0f809b5f53bee55ecc4e59e4fc7fd703e674d5
  Or you can choose to[explore the notification settings and customize notifications](https://www.makeuseof.com/windows-11-customize-notifications/) to your liking.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Work Uninterrupted on Windows Without Notifications
 

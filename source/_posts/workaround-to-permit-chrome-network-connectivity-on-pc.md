@@ -1,7 +1,7 @@
 ---
 title: Workaround to Permit Chrome Network Connectivity on PC
-date: 2024-08-31T22:14:46.103Z
-updated: 2024-09-01T22:14:46.103Z
+date: 2024-09-05T02:08:04.952Z
+updated: 2024-09-06T02:08:04.952Z
 tags:
   - windows10
   - windows11
@@ -58,7 +58,10 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
  You can also use [other ways to make an exception in Windows 11](https://www.makeuseof.com/windows-11-security-exclusions/). Once Chrome is added, try opening the webpage again. If the browser still throws the same error, your antivirus is likely to blame. Therefore, you should also add an exception to your antivirus program for Chrome.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Make an Exception for Chrome in an Antivirus
 
@@ -67,8 +70,10 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
  Check the documentation on the official websites of [Avast](https://support.avast.com/en-us/article/antivirus-scan-exclusions/#pc), [Malwarebytes](https://support.malwarebytes.com/hc/en-us/articles/360038479234-Exclude-detections-in-Malwarebytes-for-Windows), [McAfee](https://www.mcafee.com/support/?articleId=TS102056&page=shell&shell=article-view), and [Bitdefender](https://www.bitdefender.com/consumer/support/answer/13427/) for instructions on creating an exception for any program in each antivirus. If you use a different program than those listed above, refer to your antivirus documentation for instructions.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Help Chrome Establish a Successful Connection
 

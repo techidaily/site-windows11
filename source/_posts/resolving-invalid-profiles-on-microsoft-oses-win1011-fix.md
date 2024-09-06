@@ -1,7 +1,7 @@
 ---
 title: "Resolving Invalid Profiles on Microsoft OSes: Win10/11 Fix"
-date: 2024-08-31T22:17:58.089Z
-updated: 2024-09-01T22:17:58.089Z
+date: 2024-09-05T02:08:02.010Z
+updated: 2024-09-06T02:08:02.010Z
 tags:
   - windows10
   - windows11
@@ -39,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/5da3799a8bedda4d69cf1376b93deacb85f38c0ac
 
  If there’s a new Windows build version available, we also recommend that you select to install it. A fresh build update can feasibly fix many potential Windows issues.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 3\. Scan and Repair System Files
 
  Some users have said the System File Checker (SFC) tool can help resolve the “Specified user does not have a valid profile” error. Running an SFC scan is worth a try since that’s a straightforward potential solution to apply. Our article about[running SFC scans in Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/) tells you how to repair system files.
@@ -49,7 +46,10 @@ thumbnail: https://thmb.techidaily.com/5da3799a8bedda4d69cf1376b93deacb85f38c0ac
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sfc-scannow-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Take Ownership of the WindowsApps Folder
 
@@ -61,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/5da3799a8bedda4d69cf1376b93deacb85f38c0ac
 
 ![The Select User or Group window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/select-user-or-group-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Change the Location of an Affected App’s Folder
 
  It has also been confirmed that changing the location of folders that include affected apps can resolve the “Specified user does not have a valid profile” error. You’ll also need to take ownership of the WindowsApps folder to apply this potential solution. When you’ve done that, try moving an affected app’s folder out of WhatsApps like this:
@@ -73,10 +70,19 @@ thumbnail: https://thmb.techidaily.com/5da3799a8bedda4d69cf1376b93deacb85f38c0ac
 2. Find the app folder specified in the error message within the WindowsApps directory.  
 ![The WindowsApps folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windowsapps-folder.jpg)
 3. Left-click the app's folder, hold the left button, and drag it into your User directory to move it.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Then open the moved folder and double-click the app’s EXE file specified within the error message.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Uninstall CloudPaging Player and Creo Trial
 
@@ -86,9 +92,6 @@ thumbnail: https://thmb.techidaily.com/5da3799a8bedda4d69cf1376b93deacb85f38c0ac
 
  If that doesn’t work, completely uninstall CloudPaging Player or Creo Trial to ensure such software cannot cause the “Specified user does not have a valid profile” error.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Perform a Clean Startup
 
  CloudPaging Player and Creo Trial might not be the only apps that can cause the “user does not have a valid profile” error. So, it’s recommended users disable other apps from starting with Windows by performing a clean boot.
@@ -97,21 +100,36 @@ thumbnail: https://thmb.techidaily.com/5da3799a8bedda4d69cf1376b93deacb85f38c0ac
 
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/services-tab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  When you’ve configured a clean startup, restart your PC and try launching the app again. If that works, you can leave the boot configuration as it is. If you prefer to undo the boot changes, you’ll need to identify what app is causing the valid profile error when it’s running in the background and keep it disabled.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Reinstall the Affected Apps
 
  There could be an issue with the app that only reinstalling it will resolve. So, remove an affected app by opening Apps & Features, clicking its menu button, and selecting**Uninstall** . Windows 10 users only need to select the app in Settings and click**Uninstall** to remove it.
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Open the app’s page within Microsoft Store. You can find it more easily by inputting the app’s title within Microsoft Store’s search box. Click the**Get** button to download and install the app you just removed.
 
  Does the affected app also have a desktop software version like Spotify for example? If so, the desktop software version gives you a different reinstallation option. Try reinstalling a desktop software version of the affected app if there is one available on the publisher’s website.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## 9\. Create a New User Account
 
  As this issue can occur because of restricted account access, setting up a new admin account could be a potential fix. Follow the steps in our[guide to fixing Windows issues by setting up a new account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) to apply this possible solution. Then try opening the same app in the new user account. If that works, you can copy the data from your old account to the new one, as outlined within the linked guide.
@@ -119,7 +137,16 @@ thumbnail: https://thmb.techidaily.com/5da3799a8bedda4d69cf1376b93deacb85f38c0ac
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-account-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Kick-Start Your Windows Apps With These Fixes
 

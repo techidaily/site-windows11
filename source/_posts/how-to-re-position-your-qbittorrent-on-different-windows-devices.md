@@ -1,7 +1,7 @@
 ---
 title: How to Re-Position Your qBittorrent on Different Windows Devices
-date: 2024-08-31T22:14:51.136Z
-updated: 2024-09-01T22:14:51.136Z
+date: 2024-09-05T02:08:04.885Z
+updated: 2024-09-06T02:08:04.885Z
 tags:
   - windows10
   - windows11
@@ -50,7 +50,10 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 ![Windows Explorer New Torrent Files Location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-explorer-new-torrent-files-location.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## The Problem With Moving qBittorrent to a Different Drive Letter
 
@@ -63,14 +66,26 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 ![qBittorrent Loading Torrents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/qbittorrent-loading-torrents.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  And yet, swapping drive letters may be impossible or lead to other issues. For example, you might have started using your new PC and already actively used another drive with the same letter your torrent drive had on your previous PC. In this case, changing your torrent drive's letter to "fix" qBittorrent could break other software.
 
  Thankfully, there's a solution for that, too, as we'll see next. However, it is more complicated than reassigning a letter.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Update and Double-Check Your Folder Paths
 
@@ -79,18 +94,21 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 1. Click the app's **Options** button (with the little cog icon).  
 ![qBittorrent Options Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/qbittorrent-options-button.jpg)
 2. Select the **Downloads** page from the list on the left, and scroll down a bit to find **Default Save Path**. Make sure it points to the correct path for your downloaded torrents folder. Here, if, like us, you also used a second folder for incomplete torrents, make sure the option **Use another path for incomplete torrents** is enabled and that the field on its right points to the correct folder for your half-downloaded files, too. Click **OK** to save your changes to qBittorrent's configuration, and exit the **Options** window.  
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![qBittorrent Options Downloads Default Save Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/qbittorrent-options-downloads-default-save-path.jpg)
 3. Fully exit qBittorrent and rerun it. This time it should find and start importing your torrents. However, it may fail to detect their progress and general state correctly. To fix that, highlight all your torrent files in qBittorrent's transfers list, right-click on them, and select **Force Recheck**. If your transfer list adds up to a multi-gigabyte sum, and especially if stored on an old and slow HDD, this process can take a while. When it finishes, your migrated qBittorrent installation should be indistinguishable from the original.  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![qBittorrent Right Click Menu Force Recheck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/qbittorrent-right-click-menu-force-recheck.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  And yet again, that might not be enough. qBittorrent also supports **categories**, each of which can have its own path. So, if you used that feature to have your torrents downloaded to different folders, you must also update each category's path.
 
@@ -100,6 +118,18 @@ thumbnail: https://thmb.techidaily.com/bc869d9d43a6e8eaba8010b4b670a5dfb48692bba
 
  When you eventually start downloading again, don't seek torrent links at shoddy sites: qBittorrent comes with a built-in search function you can use to find new torrents. Plus, we've covered how you can make it even more useful by [expanding it with more search engines](https://www.makeuseof.com/qBittorrent-add-search-engines/).
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A Seamless Transition for qBittorrent
 
  It might involve taking an external hard disk drive from your old PC and plugging it into your new one, but migrating your qBittorrent installation between computers is not as simple.

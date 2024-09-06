@@ -1,7 +1,7 @@
 ---
 title: The Win 11 & 10 Way Out of the 'S Mode Maze'
-date: 2024-08-31T22:17:45.350Z
-updated: 2024-09-01T22:17:45.350Z
+date: 2024-09-05T02:08:02.204Z
+updated: 2024-09-06T02:08:02.204Z
 tags:
   - windows10
   - windows11
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 
  You can also check out third-party websites like [Down Detector](https://downdetector.com/). In such a case, patiently wait while Microsoft fixes the issue. If you use a [VPN service](https://www.makeuseof.com/tag/5-great-free-vpn-services-compared-which-is-fastest/) on your PC, temporarily disconnect from it and then retry exiting the S mode.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check the Microsoft Store Install Service
 
  Microsoft Update service handles all the update-related tasks on your PC. With any glitch, you must restart it to get it working again.
@@ -45,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 ![Restart the Windows Update service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/restart-the-windows-update-service.jpg)
 4. Exitthe Task Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## 3\. Sign out and Sign in Again
 
  You can try signing out of the Microsoft Store and then signing back in. After that, you can reattempt exiting the S mode.
@@ -56,202 +50,140 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 2. Click on **Profile >** **Sign out**.
 3. ![Sign out of Microsoft Store-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sign-out-of-microsoft-store-1.jpg)
 4. Close and relaunch the Microsoft Store app.
-5. Click on the **Profile >** **Sign in** \> **Select** your Microsoft Account and click on **Continue**.  
-![Sign in to Microsoft Store-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sign-in-to-microsoft-store-1.jpg)
-6. Enter your PC **PIN** and then complete the login process.
-7. Retry switching out of S mode.
-
-## 4\. Update All Store Apps
-
- Outdated apps, including the Microsoft Store, can pose issues while trying to leave S mode. You must update all of them using the Microsoft Store update section. Even the update for the Microsoft Store app is available here.
-
-1. Launch the Microsoft Store app.
-2. Navigate to the bottom left area and click on the **Library** icon.
-3. Click on the **Get updates** button to check for all the available updates.
-4. Click on the **Update all** button.
-5. Wait for the updates to install, and then close the Microsoft Store app.
-6. Restartyour PC.
-
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## 5\. Set the Correct Date and Time
-
- Incorrect date and time settings on your PC can cause problems while installing or removing Windows features. So, you must manually sync the date and time settings with Windows servers.
-
-1. Go to the system tray notifications area and right-click the **Date and time** icon.
-2. Click on the **Adjust date and time** option.
-3. Scroll down to the **Additional settings** section and click the **Sync now** button.  
-![Sync the Date and Time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sync-the-date-and-time.jpg)
-4. Closethe Settings app.
-
-## 6\. Rename the SoftwareDistribuiton Folder
-
- The SoftwareDistribution folder contains temporary Windows update files. Rename the folder if there are issues with the app or Windows updates. Windows will recreate the folder when you try to check and download the updates.
-
-1. Open the [Command Prompt window as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/).
-2. Type the following commands and press **Enter** to stop the Windows Update Service and Background Intelligent Transfer Service:  
-`net stop wuauserv  
- net stop bits`
-3. Execute the following command to rename the SoftwareDistribution folder:  
-`rename %windir%\SoftwareDistribution SoftwareDistribution.bak`
-4. Execute the following commands to restart the Windows Update Service and Background Intelligent Transfer Service:  
-`net start wuauserv  
- net start bits`  
-![Rename the SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/rename-the-softwaredistribution-folder.jpg)
-5. Closethe Command Prompt window.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-6. Restartyour PC.
-
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
-## 7\. Reset the Microsoft Store
-
- The Microsoft Store app can stop working correctly due to corrupt cache files. So, you must [reset the Microsoft Store via Settings or the Terminal](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/).
-
-## 8\. Re-register All System Apps
-
- If resetting the Microsoft Store doesn’t resolve the issue, you must re-register all system apps, including the Microsoft Store. Here’s how to do it:
-
-1. Open the [PowerShell as an administrator](https://www.makeuseof.com/windows-11-powershell-administrator/).
-2. Type the following command and press **Enter** to execute it:  
-`Get-AppXPackage -AllUsers |Where-Object {$_.InstallLocation -like "SystemApps"} | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}`  
-![Reset All System Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/reset-all-system-apps.jpg)
-3. Closethe Command Prompt windows and restart your PC.
-
-## 9\. Do an In-place Upgrade
-
- You can [do an In-place upgrade on your Windows PC](https://www.makeuseof.com/in-place-upgrade-windows-11/) to get out of the S mode. It is better than resetting your Windows PC because an In-place upgrade preserves all your files, apps, and data stored in the C drive.
-
-## Get Rid of Windows S Mode
-
- It's not difficult to solve why you can't exit the S mode on your Windows PC. Check Microsoft services, update the Microsoft Store app, and sign out and sign in again. Then, rename the SoftwareDistribution folder, reset all system apps, and do an In-place Upgrade to fix the issue if everything fails.
-
- Windows S Mode is a restricted version of Windows 11 and 10 where you can only install apps from the Microsoft Store, cannot access the Registry or the Group Policy Editor, and are stuck with Edge and Bing as the default browser and search engine. To install an app unavailable in the Microsoft Store, you must get out of Windows S Mode and upgrade. But sometimes, you can't switch out of the S mode because of an error.
-
- Try these fixes to get out of the Windows S mode for good.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
-## 1\. Check Microsoft Servers Status
-
-[Windows S mode has its merits and drawbacks](https://www.makeuseof.com/windows-11-s-mode-guide/); the only way to exit it is via the Microsoft Store. But if Microsoft Servers are down due to any issues, you will face issues when trying to get out of the S mode. So, check the official [Microsoft Service status](https://admin.microsoft.com/servicestatus) website or Microsoft Store's [X page](https://twitter.com/MicrosoftStore) for outage reports.
-
- You can also check out third-party websites like [Down Detector](https://downdetector.com/). In such a case, patiently wait while Microsoft fixes the issue. If you use a [VPN service](https://www.makeuseof.com/tag/5-great-free-vpn-services-compared-which-is-fastest/) on your PC, temporarily disconnect from it and then retry exiting the S mode.
-
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## 2\. Check the Microsoft Store Install Service
-
- Microsoft Update service handles all the update-related tasks on your PC. With any glitch, you must restart it to get it working again.
-
-1. Press **Ctrl + Shift + Esc** to open Task Manger.
-2. Click on **Services**.
-3. Find the **wauserv** service in the list and right-click on it. Select **Restart**.  
-![Restart the Windows Update service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/restart-the-windows-update-service.jpg)
-4. Exitthe Task Manager.
-
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
-## 3\. Sign out and Sign in Again
-
- You can try signing out of the Microsoft Store and then signing back in. After that, you can reattempt exiting the S mode.
-
-1. Launch Microsoft Store.
-2. Click on **Profile >** **Sign out**.
-3. ![Sign out of Microsoft Store-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sign-out-of-microsoft-store-1.jpg)
-4. Close and relaunch the Microsoft Store app.
-5. Click on the **Profile >** **Sign in** \> **Select** your Microsoft Account and click on **Continue**.  
-![Sign in to Microsoft Store-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sign-in-to-microsoft-store-1.jpg)
-6. Enter your PC **PIN** and then complete the login process.
-7. Retry switching out of S mode.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
-## 4\. Update All Store Apps
-
- Outdated apps, including the Microsoft Store, can pose issues while trying to leave S mode. You must update all of them using the Microsoft Store update section. Even the update for the Microsoft Store app is available here.
-
-1. Launch the Microsoft Store app.
-2. Navigate to the bottom left area and click on the **Library** icon.
-3. Click on the **Get updates** button to check for all the available updates.
-4. Click on the **Update all** button.
-5. Wait for the updates to install, and then close the Microsoft Store app.
-6. Restartyour PC.
-
-## 5\. Set the Correct Date and Time
-
- Incorrect date and time settings on your PC can cause problems while installing or removing Windows features. So, you must manually sync the date and time settings with Windows servers.
-
-1. Go to the system tray notifications area and right-click the **Date and time** icon.
-2. Click on the **Adjust date and time** option.
-3. Scroll down to the **Additional settings** section and click the **Sync now** button.  
-![Sync the Date and Time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sync-the-date-and-time.jpg)
-4. Closethe Settings app.
-
-## 6\. Rename the SoftwareDistribuiton Folder
-
- The SoftwareDistribution folder contains temporary Windows update files. Rename the folder if there are issues with the app or Windows updates. Windows will recreate the folder when you try to check and download the updates.
-
-1. Open the [Command Prompt window as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/).
-2. Type the following commands and press **Enter** to stop the Windows Update Service and Background Intelligent Transfer Service:  
-`net stop wuauserv  
- net stop bits`
-3. Execute the following command to rename the SoftwareDistribution folder:  
-`rename %windir%\SoftwareDistribution SoftwareDistribution.bak`
-4. Execute the following commands to restart the Windows Update Service and Background Intelligent Transfer Service:  
-`net start wuauserv  
- net start bits`  
-![Rename the SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/rename-the-softwaredistribution-folder.jpg)
-5. Closethe Command Prompt window.
-6. Restartyour PC.
-
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## 7\. Reset the Microsoft Store
-
- The Microsoft Store app can stop working correctly due to corrupt cache files. So, you must [reset the Microsoft Store via Settings or the Terminal](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/).
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-## 8\. Re-register All System Apps
+5. Click on the **Profile >** **Sign in** \> **Select** your Microsoft Account and click on **Continue**.  
+![Sign in to Microsoft Store-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sign-in-to-microsoft-store-1.jpg)
+6. Enter your PC **PIN** and then complete the login process.
+7. Retry switching out of S mode.
 
- If resetting the Microsoft Store doesn’t resolve the issue, you must re-register all system apps, including the Microsoft Store. Here’s how to do it:
+## 4\. Update All Store Apps
 
-1. Open the [PowerShell as an administrator](https://www.makeuseof.com/windows-11-powershell-administrator/).
-2. Type the following command and press **Enter** to execute it:  
-`Get-AppXPackage -AllUsers |Where-Object {$_.InstallLocation -like "SystemApps"} | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}`  
-![Reset All System Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/reset-all-system-apps.jpg)
-3. Closethe Command Prompt windows and restart your PC.
+ Outdated apps, including the Microsoft Store, can pose issues while trying to leave S mode. You must update all of them using the Microsoft Store update section. Even the update for the Microsoft Store app is available here.
+
+1. Launch the Microsoft Store app.
+2. Navigate to the bottom left area and click on the **Library** icon.
+3. Click on the **Get updates** button to check for all the available updates.
+4. Click on the **Update all** button.
+5. Wait for the updates to install, and then close the Microsoft Store app.
+6. Restartyour PC.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## 9\. Do an In-place Upgrade
-
- You can [do an In-place upgrade on your Windows PC](https://www.makeuseof.com/in-place-upgrade-windows-11/) to get out of the S mode. It is better than resetting your Windows PC because an In-place upgrade preserves all your files, apps, and data stored in the C drive.
-
-## Get Rid of Windows S Mode
-
- It's not difficult to solve why you can't exit the S mode on your Windows PC. Check Microsoft services, update the Microsoft Store app, and sign out and sign in again. Then, rename the SoftwareDistribution folder, reset all system apps, and do an In-place Upgrade to fix the issue if everything fails.
-
- Windows S Mode is a restricted version of Windows 11 and 10 where you can only install apps from the Microsoft Store, cannot access the Registry or the Group Policy Editor, and are stuck with Edge and Bing as the default browser and search engine. To install an app unavailable in the Microsoft Store, you must get out of Windows S Mode and upgrade. But sometimes, you can't switch out of the S mode because of an error.
-
- Try these fixes to get out of the Windows S mode for good.
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Set the Correct Date and Time
+
+ Incorrect date and time settings on your PC can cause problems while installing or removing Windows features. So, you must manually sync the date and time settings with Windows servers.
+
+1. Go to the system tray notifications area and right-click the **Date and time** icon.
+2. Click on the **Adjust date and time** option.
+3. Scroll down to the **Additional settings** section and click the **Sync now** button.  
+![Sync the Date and Time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sync-the-date-and-time.jpg)
+4. Closethe Settings app.
+
+## 6\. Rename the SoftwareDistribuiton Folder
+
+ The SoftwareDistribution folder contains temporary Windows update files. Rename the folder if there are issues with the app or Windows updates. Windows will recreate the folder when you try to check and download the updates.
+
+1. Open the [Command Prompt window as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/).
+2. Type the following commands and press **Enter** to stop the Windows Update Service and Background Intelligent Transfer Service:  
+`net stop wuauserv  
+ net stop bits`
+3. Execute the following command to rename the SoftwareDistribution folder:  
+`rename %windir%\SoftwareDistribution SoftwareDistribution.bak`
+4. Execute the following commands to restart the Windows Update Service and Background Intelligent Transfer Service:  
+`net start wuauserv  
+ net start bits`  
+![Rename the SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/rename-the-softwaredistribution-folder.jpg)
+5. Closethe Command Prompt window.
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+6. Restartyour PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 7\. Reset the Microsoft Store
+
+ The Microsoft Store app can stop working correctly due to corrupt cache files. So, you must [reset the Microsoft Store via Settings or the Terminal](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 8\. Re-register All System Apps
+
+ If resetting the Microsoft Store doesn’t resolve the issue, you must re-register all system apps, including the Microsoft Store. Here’s how to do it:
+
+1. Open the [PowerShell as an administrator](https://www.makeuseof.com/windows-11-powershell-administrator/).
+2. Type the following command and press **Enter** to execute it:  
+`Get-AppXPackage -AllUsers |Where-Object {$_.InstallLocation -like "SystemApps"} | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}`  
+![Reset All System Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/reset-all-system-apps.jpg)
+3. Closethe Command Prompt windows and restart your PC.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 9\. Do an In-place Upgrade
+
+ You can [do an In-place upgrade on your Windows PC](https://www.makeuseof.com/in-place-upgrade-windows-11/) to get out of the S mode. It is better than resetting your Windows PC because an In-place upgrade preserves all your files, apps, and data stored in the C drive.
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Get Rid of Windows S Mode
+
+ It's not difficult to solve why you can't exit the S mode on your Windows PC. Check Microsoft services, update the Microsoft Store app, and sign out and sign in again. Then, rename the SoftwareDistribution folder, reset all system apps, and do an In-place Upgrade to fix the issue if everything fails.
+
+ Windows S Mode is a restricted version of Windows 11 and 10 where you can only install apps from the Microsoft Store, cannot access the Registry or the Group Policy Editor, and are stuck with Edge and Bing as the default browser and search engine. To install an app unavailable in the Microsoft Store, you must get out of Windows S Mode and upgrade. But sometimes, you can't switch out of the S mode because of an error.
+
+ Try these fixes to get out of the Windows S mode for good.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 1\. Check Microsoft Servers Status
 
@@ -259,15 +191,6 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 
  You can also check out third-party websites like [Down Detector](https://downdetector.com/). In such a case, patiently wait while Microsoft fixes the issue. If you use a [VPN service](https://www.makeuseof.com/tag/5-great-free-vpn-services-compared-which-is-fastest/) on your PC, temporarily disconnect from it and then retry exiting the S mode.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## 2\. Check the Microsoft Store Install Service
 
  Microsoft Update service handles all the update-related tasks on your PC. With any glitch, you must restart it to get it working again.
@@ -277,12 +200,12 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 3. Find the **wauserv** service in the list and right-click on it. Select **Restart**.  
 ![Restart the Windows Update service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/restart-the-windows-update-service.jpg)
 4. Exitthe Task Manager.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Sign out and Sign in Again
 
@@ -292,6 +215,12 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 2. Click on **Profile >** **Sign out**.
 3. ![Sign out of Microsoft Store-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sign-out-of-microsoft-store-1.jpg)
 4. Close and relaunch the Microsoft Store app.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Click on the **Profile >** **Sign in** \> **Select** your Microsoft Account and click on **Continue**.  
 ![Sign in to Microsoft Store-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sign-in-to-microsoft-store-1.jpg)
 6. Enter your PC **PIN** and then complete the login process.
@@ -317,10 +246,13 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 3. Scroll down to the **Additional settings** section and click the **Sync now** button.  
 ![Sync the Date and Time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sync-the-date-and-time.jpg)
 4. Closethe Settings app.
-
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Rename the SoftwareDistribuiton Folder
 
  The SoftwareDistribution folder contains temporary Windows update files. Rename the folder if there are issues with the app or Windows updates. Windows will recreate the folder when you try to check and download the updates.
@@ -339,12 +271,144 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 6. Restartyour PC.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 7\. Reset the Microsoft Store
 
  The Microsoft Store app can stop working correctly due to corrupt cache files. So, you must [reset the Microsoft Store via Settings or the Terminal](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 8\. Re-register All System Apps
+
+ If resetting the Microsoft Store doesn’t resolve the issue, you must re-register all system apps, including the Microsoft Store. Here’s how to do it:
+
+1. Open the [PowerShell as an administrator](https://www.makeuseof.com/windows-11-powershell-administrator/).
+2. Type the following command and press **Enter** to execute it:  
+`Get-AppXPackage -AllUsers |Where-Object {$_.InstallLocation -like "SystemApps"} | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}`  
+![Reset All System Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/reset-all-system-apps.jpg)
+3. Closethe Command Prompt windows and restart your PC.
+
+## 9\. Do an In-place Upgrade
+
+ You can [do an In-place upgrade on your Windows PC](https://www.makeuseof.com/in-place-upgrade-windows-11/) to get out of the S mode. It is better than resetting your Windows PC because an In-place upgrade preserves all your files, apps, and data stored in the C drive.
+
+## Get Rid of Windows S Mode
+
+ It's not difficult to solve why you can't exit the S mode on your Windows PC. Check Microsoft services, update the Microsoft Store app, and sign out and sign in again. Then, rename the SoftwareDistribution folder, reset all system apps, and do an In-place Upgrade to fix the issue if everything fails.
+
+ Windows S Mode is a restricted version of Windows 11 and 10 where you can only install apps from the Microsoft Store, cannot access the Registry or the Group Policy Editor, and are stuck with Edge and Bing as the default browser and search engine. To install an app unavailable in the Microsoft Store, you must get out of Windows S Mode and upgrade. But sometimes, you can't switch out of the S mode because of an error.
+
+ Try these fixes to get out of the Windows S mode for good.
+
+## 1\. Check Microsoft Servers Status
+
+[Windows S mode has its merits and drawbacks](https://www.makeuseof.com/windows-11-s-mode-guide/); the only way to exit it is via the Microsoft Store. But if Microsoft Servers are down due to any issues, you will face issues when trying to get out of the S mode. So, check the official [Microsoft Service status](https://admin.microsoft.com/servicestatus) website or Microsoft Store's [X page](https://twitter.com/MicrosoftStore) for outage reports.
+
+ You can also check out third-party websites like [Down Detector](https://downdetector.com/). In such a case, patiently wait while Microsoft fixes the issue. If you use a [VPN service](https://www.makeuseof.com/tag/5-great-free-vpn-services-compared-which-is-fastest/) on your PC, temporarily disconnect from it and then retry exiting the S mode.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 2\. Check the Microsoft Store Install Service
+
+ Microsoft Update service handles all the update-related tasks on your PC. With any glitch, you must restart it to get it working again.
+
+1. Press **Ctrl + Shift + Esc** to open Task Manger.
+2. Click on **Services**.
+3. Find the **wauserv** service in the list and right-click on it. Select **Restart**.  
+![Restart the Windows Update service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/restart-the-windows-update-service.jpg)
+4. Exitthe Task Manager.
+
+## 3\. Sign out and Sign in Again
+
+ You can try signing out of the Microsoft Store and then signing back in. After that, you can reattempt exiting the S mode.
+
+1. Launch Microsoft Store.
+2. Click on **Profile >** **Sign out**.
+3. ![Sign out of Microsoft Store-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sign-out-of-microsoft-store-1.jpg)
+4. Close and relaunch the Microsoft Store app.
+5. Click on the **Profile >** **Sign in** \> **Select** your Microsoft Account and click on **Continue**.  
+![Sign in to Microsoft Store-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sign-in-to-microsoft-store-1.jpg)
+6. Enter your PC **PIN** and then complete the login process.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+7. Retry switching out of S mode.
+
+## 4\. Update All Store Apps
+
+ Outdated apps, including the Microsoft Store, can pose issues while trying to leave S mode. You must update all of them using the Microsoft Store update section. Even the update for the Microsoft Store app is available here.
+
+1. Launch the Microsoft Store app.
+2. Navigate to the bottom left area and click on the **Library** icon.
+3. Click on the **Get updates** button to check for all the available updates.
+4. Click on the **Update all** button.
+5. Wait for the updates to install, and then close the Microsoft Store app.
+6. Restartyour PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Set the Correct Date and Time
+
+ Incorrect date and time settings on your PC can cause problems while installing or removing Windows features. So, you must manually sync the date and time settings with Windows servers.
+
+1. Go to the system tray notifications area and right-click the **Date and time** icon.
+2. Click on the **Adjust date and time** option.
+3. Scroll down to the **Additional settings** section and click the **Sync now** button.  
+![Sync the Date and Time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sync-the-date-and-time.jpg)
+4. Closethe Settings app.
+
+## 6\. Rename the SoftwareDistribuiton Folder
+
+ The SoftwareDistribution folder contains temporary Windows update files. Rename the folder if there are issues with the app or Windows updates. Windows will recreate the folder when you try to check and download the updates.
+
+1. Open the [Command Prompt window as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/).
+2. Type the following commands and press **Enter** to stop the Windows Update Service and Background Intelligent Transfer Service:  
+`net stop wuauserv  
+ net stop bits`
+3. Execute the following command to rename the SoftwareDistribution folder:  
+`rename %windir%\SoftwareDistribution SoftwareDistribution.bak`
+4. Execute the following commands to restart the Windows Update Service and Background Intelligent Transfer Service:  
+`net start wuauserv  
+ net start bits`  
+![Rename the SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/rename-the-softwaredistribution-folder.jpg)
+5. Closethe Command Prompt window.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+6. Restartyour PC.
+
+## 7\. Reset the Microsoft Store
+
+ The Microsoft Store app can stop working correctly due to corrupt cache files. So, you must [reset the Microsoft Store via Settings or the Terminal](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Re-register All System Apps
 
  If resetting the Microsoft Store doesn’t resolve the issue, you must re-register all system apps, including the Microsoft Store. Here’s how to do it:
@@ -360,7 +424,10 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
  You can [do an In-place upgrade on your Windows PC](https://www.makeuseof.com/in-place-upgrade-windows-11/) to get out of the S mode. It is better than resetting your Windows PC because an In-place upgrade preserves all your files, apps, and data stored in the C drive.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Get Rid of Windows S Mode
 
@@ -376,6 +443,12 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 
  You can also check out third-party websites like [Down Detector](https://downdetector.com/). In such a case, patiently wait while Microsoft fixes the issue. If you use a [VPN service](https://www.makeuseof.com/tag/5-great-free-vpn-services-compared-which-is-fastest/) on your PC, temporarily disconnect from it and then retry exiting the S mode.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Check the Microsoft Store Install Service
 
  Microsoft Update service handles all the update-related tasks on your PC. With any glitch, you must restart it to get it working again.
@@ -385,9 +458,18 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 3. Find the **wauserv** service in the list and right-click on it. Select **Restart**.  
 ![Restart the Windows Update service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/restart-the-windows-update-service.jpg)
 4. Exitthe Task Manager.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Sign out and Sign in Again
 
@@ -397,16 +479,22 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 2. Click on **Profile >** **Sign out**.
 3. ![Sign out of Microsoft Store-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sign-out-of-microsoft-store-1.jpg)
 4. Close and relaunch the Microsoft Store app.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Click on the **Profile >** **Sign in** \> **Select** your Microsoft Account and click on **Continue**.  
 ![Sign in to Microsoft Store-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sign-in-to-microsoft-store-1.jpg)
 6. Enter your PC **PIN** and then complete the login process.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Retry switching out of S mode.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Update All Store Apps
 
@@ -420,7 +508,10 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 6. Restartyour PC.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5\. Set the Correct Date and Time
 
@@ -431,12 +522,12 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 3. Scroll down to the **Additional settings** section and click the **Sync now** button.  
 ![Sync the Date and Time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/sync-the-date-and-time.jpg)
 4. Closethe Settings app.
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Rename the SoftwareDistribuiton Folder
 
@@ -456,15 +547,15 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 6. Restartyour PC.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 7\. Reset the Microsoft Store
 
  The Microsoft Store app can stop working correctly due to corrupt cache files. So, you must [reset the Microsoft Store via Settings or the Terminal](https://www.makeuseof.com/windows-10-11-reset-microsoft-store/).
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 8\. Re-register All System Apps
 
  If resetting the Microsoft Store doesn’t resolve the issue, you must re-register all system apps, including the Microsoft Store. Here’s how to do it:
@@ -474,17 +565,17 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 `Get-AppXPackage -AllUsers |Where-Object {$_.InstallLocation -like "SystemApps"} | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}`  
 ![Reset All System Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/reset-all-system-apps.jpg)
 3. Closethe Command Prompt windows and restart your PC.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. Do an In-place Upgrade
 
  You can [do an In-place upgrade on your Windows PC](https://www.makeuseof.com/in-place-upgrade-windows-11/) to get out of the S mode. It is better than resetting your Windows PC because an In-place upgrade preserves all your files, apps, and data stored in the C drive.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Get Rid of Windows S Mode
 
  It's not difficult to solve why you can't exit the S mode on your Windows PC. Check Microsoft services, update the Microsoft Store app, and sign out and sign in again. Then, rename the SoftwareDistribution folder, reset all system apps, and do an In-place Upgrade to fix the issue if everything fails.

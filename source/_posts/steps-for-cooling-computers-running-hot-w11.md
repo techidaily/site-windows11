@@ -1,7 +1,7 @@
 ---
 title: Steps for Cooling Computers Running Hot W11
-date: 2024-08-31T22:18:08.144Z
-updated: 2024-09-01T22:18:08.144Z
+date: 2024-09-05T02:08:01.875Z
+updated: 2024-09-06T02:08:01.875Z
 tags:
   - windows10
   - windows11
@@ -46,9 +46,6 @@ To update your Windows computer:
 
 ![high cpu usage service task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/high-cpu-usage-service-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Background apps with high CPU usage are often responsible for an overheating computer. Even if the app is using only 5-6% of your CPU resources, it may still be able to cause high CPU temperature.
 
  You can use the Windows Task Manager to monitor background services and terminate them if necessary. To do this:
@@ -59,21 +56,27 @@ To update your Windows computer:
 4. Check if any background services have high CPU usage. For example, an audio service that is usually not a resource hog.
 5. End the process and check if the CPU temperature decreased. If yes, you'll need to disable the service, and update the associated drivers to fix the problem.
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Select the Balanced Power Plan
 
 ![balanced power pan windows 11 control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/balanced-power-pan-windows-11-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  On Windows 11, you can choose from multiple power plans. By default, the system uses the Balanced power plan to offer sufficient performance and good battery life. If your laptop is set to use the high-performance power plan, it may cause your system to overheat.
 
@@ -82,7 +85,10 @@ To update your Windows computer:
  You can[change the Windows Power Plan using Control Panel](https://www.makeuseof.com/windows-11-change-power-plan/) . Under**Power Options** , review your current plan and select**Balanced (Recommended)** .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5\. Change the Maximum Processor State
 
@@ -98,23 +104,19 @@ To change the maximum processor state on Windows:
 ![power options control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/power-options-control-panel-1.jpg)
 4. Next, click the**Change plan settings** option for your currently active power plan.  
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![change plan settings power options control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-plan-settings-power-options-control-panel.jpg)
 5. Click on**Change advanced power settings** .  
 ![change advanced power settings control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/change-advanced-power-settings-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Scroll down and expand the**Processor power management** section.
 2. Next, expand the**Maximum processor state** option.  
 ![change maximum processor state 99 precent](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-maximum-processor-state-99-precent.jpg)
 3. Select**On Battery** and change the value to**99%** .
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Select**Plugged in** and change the value to**99%** .
 5. Click**Apply** and**OK** to save the changes.
 
@@ -126,19 +128,28 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  If the issue persists, your computer is likely[overheating due to insufficient airflow, fan problems, and driver issues](https://www.makeuseof.com/how-to-fix-overheating-computer/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6\. Disable Windows Search Indexing
 
  Searchindexer is a Windows service that facilitates faster Windows search. While it works in the background, this service can cause high CPU usage, thus resulting in high temperatures.
 
  You can manage search indexing to exclude specific folders from indexing. You can also[completely turn off Windows Search Indexer](https://www.makeuseof.com/windows-search-indexer-guide/) to see if that helps resolve the overheating problem on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Adjust the Performance Option to "Best Performance"
 
 ![The Adjust for best performance option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/adjust-for-best-performance-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If your computer is overheating under heavy use like gaming, you can adjust your system to offer the best performance. Adjusting for best performance comes at the cost of reduced visual effects.
 
 To adjust your computer for best performance:
@@ -153,7 +164,10 @@ To adjust your computer for best performance:
 ![go back to previous version windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/go-back-to-previous-version-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you are unable to uninstall a Windows update, you can use the**Go back** recovery option to reinstall the previous version of Windows. This option is only available for 10 days after a major Windows update is installed
 
@@ -165,13 +179,16 @@ To use the Go back option:
 
  If the option is greyed out, the option is no longer available on your PC. Windows disables the Go back recovery option 10 days after the upgrade. You can, however, extend the[10 days go-back period to 60 days on Windows 11](https://www.makeuseof.com/windows-11-extend-rollback-period/) using Command Prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. Perform a System Restore
 
 ![system restore select restore point](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-restore-select-restore-point.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
  Windows 11 automatically creates a snapshot of your system’s current state, known as restore points. A new restore point is created before installing an update. You can use an existing restore point to undo the changes and fix any issues that may have occurred due to a bad Windows update or recent changes made to your system.
 
 To perform a system restore:
@@ -184,6 +201,18 @@ To perform a system restore:
 
  A restore point won’t remove your files and folders. However, it will remove apps and games installed after the restore point was created.
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10\. Check for Hardware Issues
 
  A clean install should fix any issues occurring due to a software conflict. But, before performing a clean install, look into other issues to[fix your overheating laptop](https://www.makeuseof.com/tag/fix-overheating-laptop/) .
