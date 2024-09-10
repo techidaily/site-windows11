@@ -1,7 +1,7 @@
 ---
 title: Winning Against Apex's Hurdles in Windows 11 Crashes
-date: 2024-09-05T02:14:50.369Z
-updated: 2024-09-06T02:14:50.369Z
+date: 2024-09-09T11:58:18.038Z
+updated: 2024-09-10T11:58:18.038Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: Wins Over Apex Crashes Win11,Overcoming Apex Windows Woes,Solving Apex
 thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572cf9b49cfe1852edc61f82d53.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Winning Against Apex's Hurdles in Windows 11 Crashes
 
  Like most Battle Royale games, Apex Legends has its fair share of bugs and glitches. These are understandable to an extent, but it gets frustrating when it crashes on every launch on your Windows 11 PC.
@@ -34,6 +40,12 @@ thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572c
 
  However, if Apex Legends is crashing on a compatible computer, then here are the fixes that might help you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Close Unnecessary Background Running Applications
 
 ![End task option in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-task-option-2.jpg)
@@ -52,12 +64,6 @@ thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572c
 
  So, to fix Apex Legends' crashing issue, consider disabling CPU overclocking, which will reset your processor to its default settings.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Change the EasyAntiCheat Priority
 
  EasyAntiCheat is an anti-cheat service that ensures your multiplayer game is free from hacking and cheating. But sometimes, this service can consider your computer background processes malicious and cause various issues, including a complete game crash.
@@ -68,21 +74,15 @@ thumbnail: https://thmb.techidaily.com/bd1f3164b21938808543fb77a181f9a976b01572c
 
  Next, switch to Apex Legends and check if you still experience the crash.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Tweak the In-Game Settings
 
 ![Apex Legends Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/apex-legends-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Apex Legends offers a plethora of graphics-related options that you can enable to enhance the look of the game. Some of these options are only compatible with high-spec devices.
 
@@ -116,15 +116,27 @@ Here's how to do it in the EA app:
 2. Click the**three dots** on Apex Legends and choose**Repair.**  
 ![Repair option in the EA App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The EA app will now look for and remove any corruption in the Apex Legends files.
 
  If you're using Steam or Origin, then check out our guide on how to[verify a game's file integrity on Steam and Origin](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Update Your Graphics Driver
 
@@ -137,10 +149,10 @@ Here's how to do it in the EA app:
 ![Update Graphics driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-Graphics-driver.jpg)
 5. Select**Search automatically for drivers** option.
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Device Manager will search for and download any available graphics driver update on your computer.
@@ -155,6 +167,12 @@ Here's how to do it in the EA app:
 2. Type**Allow an app through Windows Firewall** and choose**Open.**  
 ![Allow an app through Windows Firewall in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-an-app-through-windows-firewall.jpg)
 3. Click the**Change settings** option.
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Check both the**Private** and**Public** boxes of all the EA app services.  
 ![Allow EA Services through Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-ea-services.jpg)
 5. Click**OK.**
@@ -162,10 +180,16 @@ Here's how to do it in the EA app:
  Similarly, if you're using Steam or Origin, check both the Private and Public boxes for these launchers and save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## The Apex Legends Crashing Issue, Fixed
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Access Denied Roblox Game Due To PC Settings
-date: 2024-09-05T02:17:23.533Z
-updated: 2024-09-06T02:17:23.533Z
+date: 2024-09-09T11:58:15.981Z
+updated: 2024-09-10T11:58:15.981Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,12 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
  Sometimes, you may not even see the play button when you try to run specific experiences from Roblox's website. If this error message frustrates you and you're eager to run restricted Roblox experiences again, let's discuss possible solutions for this issue.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Does Someone Administer Your Roblox Account?
 
  As part of its settings, Roblox allows parents to administrate their children's accounts and select the appropriate age group for their youngsters. It allows parents to limit their children's exposure to Roblox experiences that aren't suitable for them and prevent them from getting exposed to inappropriate content.
@@ -39,6 +45,12 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 3. Once signed in, click on the**gear icon** in the top-right corner and select**Settings** .  
 ![Go to Settings on the Roblox Website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-go-to-settings-on-the-roblox-website.jpg)
 4. Select the**Privacy** tab on the left.
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Turn off the toggle next to**Account Restrictions are enabled** .  
 ![Turn Off the Toggle Next to Account Restrictions are Enabled in Privacy Tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-turn-off-the-toggle-next-to-account-restrictions-are-enabled-in-privacy-tab.jpg)
 6. After that, navigate to**Parental Controls** from the left sidebar.
@@ -49,12 +61,6 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
  Hopefully, by turning off the restrictions and choosing the proper age group, you'll be able to access all those gaming experiences that are appropriate for you. If the experience where you encountered the error earlier suits your new (and correct) age group, you shouldn't have any problems running it now. However, if the above settings are already configured correctly, apply the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Apply Some Basic Windows Fixes
 
  Hopefully, making the above changes to your account settings alone will resolve the issue. If not, perform the following checks:
@@ -63,28 +69,16 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 ![End Roblox Related Processes in Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-end-roblox-related-processes-in-windows-task-manager.jpg)
 * [Restart your Windows device](https://www.makeuseof.com/windows-restart-methods/) .
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 * Turn off the VPN on your device if it is enabled.
 * Try not to launch multiple experiences simultaneously. Close the previous experience before moving on to the next.
 
 If none of the above fixes help, proceed with the remaining steps.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Run Roblox as Administrator
 
  If you encounter this error when running the Roblox Player app, generally downloaded from the Microsoft Store, close it down and run it as administrator. When running Microsoft Store apps on a standard user account with restricted rights, some app features may not be accessible. To make sure this isn't causing the issue under discussion, too, take the following steps:
@@ -94,31 +88,25 @@ If none of the above fixes help, proceed with the remaining steps.
 ![Run Roblox as an Administrator in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-run-roblox-as-an-administrator-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If running Roblox as administrator fixes the problem,[configure the app to always run as administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Switch the Roblox Client
 
  There are two main ways for Windows users to run Roblox experiences. The first method is to run them directly from the Microsoft Store app. The second choice is to run the experiences directly via the Roblox website.
 
  So, if you encounter the "this experience is unavailable due to your account settings" error when running Roblox experiences from one of these clients, try accessing the unplayable experience from the other client.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Check for Account-Specific Issues
 
  If none of the above fixes work and the error persists, you should ensure the problem isn't with your Roblox account.
@@ -128,16 +116,10 @@ If none of the above fixes help, proceed with the remaining steps.
  If you don't get any errors this time, something is wrong with your primary account. Therefore, you should contact Roblox support to report the problem (Refer to the[Roblox website](https://en.help.roblox.com/hc/en-us/articles/208448546-Contact-Us) for details about how to get in touch with the support team). In the meantime, you can continue using the new account until the error resolves.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Run Roblox Experiences Without a Hitch
 

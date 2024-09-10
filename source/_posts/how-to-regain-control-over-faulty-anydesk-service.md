@@ -1,7 +1,7 @@
 ---
 title: How To Regain Control Over Faulty AnyDesk Service
-date: 2024-09-05T02:16:48.534Z
-updated: 2024-09-06T02:16:48.534Z
+date: 2024-09-09T11:58:16.433Z
+updated: 2024-09-10T11:58:16.433Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,18 @@ thumbnail: https://thmb.techidaily.com/453561a8ca0d834b48f18b90c63e8754b707ad468
 
  So, if the AnyDesk app is slow or not launching at all in Windows 11, try implementing these potential fixes to kick-start it.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why AnyDesk Is Not Working in Windows 11
 
  Usually, the AnyDesk app works fine in Windows 11, but if it is not working, then the following can be the reasons behind it:
@@ -38,12 +50,6 @@ thumbnail: https://thmb.techidaily.com/453561a8ca0d834b48f18b90c63e8754b707ad468
 
  After the restart, open the AnyDesk app and check if the problem continues.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Check the AnyDesk App Server Status
 
 ![Server Status page of AnyDesk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/server-status-page.jpg)
@@ -54,12 +60,6 @@ thumbnail: https://thmb.techidaily.com/453561a8ca0d834b48f18b90c63e8754b707ad468
 
  If the servers are down, there's nothing much you can do other than to patiently wait while AnyDesk fixes the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Allow AnyDesk to Communicate through Windows Defender Firewall
 
  At times, Windows Firewall can consider AnyDesk as a malicious app and stop it from opening on your computer. This usually happens when an app is blocked under the Firewall settings.
@@ -73,30 +73,30 @@ thumbnail: https://thmb.techidaily.com/453561a8ca0d834b48f18b90c63e8754b707ad468
 5. Select the**Allow an app through Windows Firewall** option under**Windows Defender Firewall** section.  
 ![Allow an app through Firewall option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-an-app-through-firewall.jpg)
 6. Click the**Change settings** button.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 7. In the**Allowed apps and features** list, search for the**AskDesk** app.
 8. Check the**Private** and**Public** checkboxes for the AnyDesk app.  
 ![AnyDesk in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/anydesk.jpg)
 9. Click**OK** to save the changes.
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That's it. Now restart your computer and check if the problem persists.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Change the System Date and Time
 
@@ -113,7 +113,19 @@ Here are the steps you need to follow:
 6. Check the**Synchronize with an Internet time server** box, and then click the**Update now** button.  
 ![Update now option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-now-option.jpg)
 7. Click**OK** to save the changes.
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Try Networking Command Prompt Commands
 
  Windows allows you to run[various networking commands in the Command Prompt](https://www.makeuseof.com/tag/commands-manage-wireless-networks-windows/) . You should try running a few of them if the AnyDesk app is still not running on your computer. To do that, open the Search menu, type**CMD** in the search bar, and choose **Run as** **administrator** from the right pane. It'll open an elevated Command Prompt window.
@@ -136,12 +148,6 @@ That's it. Check if you're still facing the problem.
 
  If you're interested in these commands, you can read about them (and more) in our guide on the[CMD commands to manage wireless networks on Windows](https://www.makeuseof.com/tag/commands-manage-wireless-networks-windows/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Perform a Clean Boot
 
  AnyDesk app may not work on your computer if it faces any interference from a background program. The solution, in this case, is to[perform a clean boot on your computer](https://www.makeuseof.com/clean-boot-windows-11/) . It'll only load important drivers and applications and stop the rest. Doing this will ensure whether a background program is causing trouble with the AnyDesk app.
@@ -153,16 +159,10 @@ To perform a clean boot, follow the below steps:
 ![Hide all Microsoft Services option in Clean Boot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hide-all-microsoft-services.jpg)
 3. Click the**Disable all** button.
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 4. Then, switch to the**Startup** tab and select the**Open Task** **Manager** option.
 5. The Task Manager will appear with the Startup program section. Find and right-click on all the startup applications and choose**Disable.**
@@ -180,14 +180,14 @@ You can update the AnyDesk app by following the below instructions:
 4. Check the**Enable Auto-Update - Main Channel** option under the**Update** section.  
 ![Enable Auto Update option in AnyDesk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-auto-update.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  AnyDesk will now automatically download any available update on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enjoy Remote Work With AnyDesk
 
  Nothing worse than facing an interruption in work due to the malfunctioning of an app. Fortunately, if the AnyDesk app is not working on your Windows PC, you now know what's causing the problem and how to fix it.

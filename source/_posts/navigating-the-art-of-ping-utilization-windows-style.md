@@ -1,7 +1,7 @@
 ---
 title: Navigating the Art of Ping Utilization Windows-Style
-date: 2024-09-05T02:18:18.748Z
-updated: 2024-09-06T02:18:18.748Z
+date: 2024-09-09T11:58:15.188Z
+updated: 2024-09-10T11:58:15.188Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
  The ping command is commonly used to troubleshoot network problems and assess the health of a network connection. Learn how the ping command works, how to use it on Windows, and examples of a few scenarios you can use it for.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## What Does the Ping Command Do?
 
@@ -44,12 +44,6 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 
  Besides checking if a host is reachable, the command keeps track of the round-trip time. This is the time a message takes to go from a source computer to a destination server and then return to the source, along with a response from the destination server. This data can help you analyze how stable your connection to a server is.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Syntax of the Ping Command
 
  The basic syntax of the ping command looks like this:
@@ -60,12 +54,6 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 
  Besides this basic parameter required for the Ping test to execute correctly, you can also use other parameters listed on the [Microsoft website](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ping) to customize the test further.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use the Ping Command on Windows
 
  To run the ping command on Windows, follow the steps below:
@@ -74,9 +62,27 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 2. Type **"PowerShell"** in the box and click the **OK** button.  
 ![Opening the Windows PowerShell utility from the Run dialogue box in Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/opening-the-windows-powershell-utility-from-the-run-dialogue-box-in-windows.jpg)
 3. Type the following command after entering the IP address or domain name of the server you wish to ping: Ping <targetname>
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Press **Enter** and let your device ping the server four times. Then, it will compile the results.  
 ![Running the ping command in Windows PowerShell.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-ping-command-in-windows-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Alternatively, you can perform the test in Command Prompt. Simply press **Win + R,** type **“cmd**,**”** and click **OK**. Then, type the command and press Enter.
 
 ![Running the Command Prompt app from the Run dialog box in Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-command-prompt-app-from-the-run-dialog-box-in-windows.jpg)
@@ -86,25 +92,31 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 ![Running the Windows PowerShell as an administrator on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-windows-powershell-as-an-administrator-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Then, click **"Yes"** in the **UAC (User Account Control)** window.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Analyzing the Results of the Ping Test
 
  The **Sent** packets (with a default size of 32 bytes each) indicate how many messages were sent from the host device to the remote server. **Received** packets show the number of responses received from the server to the host device. **Lost** packets represent the number of signals sent from the host device that the destination server didn't respond to. **Time** refers to the round-trip time of each ping.
 
 ![Running the ping command in Windows PowerShell.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-ping-command-in-windows-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The **TTL** (Time to Live) value is the lifespan of the packet in the network, after which it's discarded after a certain number of hops through routers. The common benchmark is 64, but TTL can be higher if the data packet is sent through a complex network. But a drastically longer one deserves a closer look to ensure your network is functioning smoothly.
 
  If the ping doesn't go through correctly in the test, and you see a "request timed out" error, it indicates an issue with your internet connection.
@@ -116,22 +128,10 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 ![Stopping the ping test to analyze results in Windows Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-stop-the-ping-test-by-pressing-ctrl-c-keys-in-windows-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## What Can the Ping Command Do for You?
 

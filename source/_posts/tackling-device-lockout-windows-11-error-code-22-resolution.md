@@ -1,7 +1,7 @@
 ---
 title: "Tackling Device Lockout: Windows 11 Error Code 22 Resolution"
-date: 2024-09-05T02:11:35.445Z
-updated: 2024-09-06T02:11:35.445Z
+date: 2024-09-09T11:58:20.586Z
+updated: 2024-09-10T11:58:20.586Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: W11 Lockout Fix,Code 22 Window Error,Unlocking Win11,Reset Device Erro
 thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b899b1042a541c20e9321a2f.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tackling Device Lockout: Windows 11 Error Code 22 Resolution
 
  Are you getting the "this device is disabled (Code 22)" error when you connect an external device to your computer? This is a common Device Manager error that prevents you from using the device.
@@ -34,6 +40,12 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
 
  Now that you have a brief knowledge about the "this device is disabled (Code 22)" error, let's explore solutions that will help you fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Enable the Device in the Device Manager
 
  One of the simplest ways to fix error code 22 is to manually enable the device throwing the error. To do that, open the **Device Manager** (check how to [launch Device Manager on Windows](https://www.makeuseof.com/windows-open-device-manager/)), right-click on the problematic device, and choose **Properties**. Then, click the **Enable Device** button.
@@ -43,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
  The Device Manager will refresh, and the device will be back online. Check if you still get the error message. If yes, try the next solution on the list.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2\. Check for Physical Damage on the Device
 
@@ -54,12 +66,6 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
 
  You should also look for signs of liquid damage, such as corrosion or discoloration on your device. If you find any physical damage, it is likely the culprit behind the error message. In this case, the best thing you can do is to replace the device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update Your Device Driver
 
  If your device driver is outdated or corrupt, you may be more likely to experience hardware device issues, such as error code 22\. The solution, in this case, is to update your device driver.
@@ -68,25 +74,19 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
 
 ![Check for updates option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-for-updates-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Your computer will now check the Microsoft servers for updates to your current operating system, including its drivers. If any updates are found, they will be downloaded and installed automatically. Otherwise, you will see a message that says **You're up to date**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Use the Hardware and Device Troubleshooter
 
@@ -100,14 +100,14 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
 
 ![Apply repairs automatically option of Hardware troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Apply-repairs-automatically.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once the wizard completes, the troubleshooter will let you know of any issues it found and how to fix them.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Clear Your Computer's CMOS
 
  Another way to fix the "this device is disabled (code 22)" error is to clear the CMOS. Doing this will be helpful if a recent change in your BIOS setting is causing the issue. You can clear the CMOS by following the below instructions:
@@ -125,6 +125,12 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
 
  So, make sure to update the BIOS to prevent any hardware-related issues on your system. Check out our guide on [updating BIOS in Windows](http://www.makeuseof.com/tag/update-uefi-bios-windows/) to find out how to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Perform a Clean Boot
 
  The next solution on the list is to [perform a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/). This will help you rule out third-party applications that might be causing the error.
@@ -134,10 +140,10 @@ thumbnail: https://thmb.techidaily.com/a7021ad624ff445cc29baa46a54eaf2cd9c23802b
  To do that, start re-enabling the services you disabled for performing the clean boot until the error returns. Once you find the problematic service, consider uninstalling it or downloading its update.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 8\. Perform a System Restore
 

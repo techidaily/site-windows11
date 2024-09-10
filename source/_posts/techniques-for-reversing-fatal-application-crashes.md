@@ -1,7 +1,7 @@
 ---
 title: Techniques for Reversing Fatal Application Crashes
-date: 2024-09-05T02:14:35.054Z
-updated: 2024-09-06T02:14:35.054Z
+date: 2024-09-09T11:58:18.258Z
+updated: 2024-09-10T11:58:18.258Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: Fix App Crash,Recovery Tools,Revive Failed Apps,Stop Dead Apps,Restart
 thumbnail: https://thmb.techidaily.com/9c2b7ca2e1893d88d6bb8597241a29c970bfa10f3bf7e355bd7f5437be375738.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Techniques for Reversing Fatal Application Crashes
 
  Have you encountered the error "the application encountered an unrecoverable error" when trying to join a Roblox experience via your web browser, causing your Roblox client to crash? If so, something is wrong that has caused Roblox to crash.
@@ -35,6 +41,12 @@ thumbnail: https://thmb.techidaily.com/9c2b7ca2e1893d88d6bb8597241a29c970bfa10f3
 
 ![Roblox Microsoft Store App Listing on Windows](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/roblox-microsoft-store-app-listing-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Roblox users have reported that the error under discussion only affects those who attempt to join Roblox experiences from the web, not Roblox's Microsoft Store app. Because of this, if you have encountered a crash when joining an experience through the Roblox website, download Roblox's app from the [Microsoft Store](https://apps.microsoft.com/store/detail/roblox/9NBLGGGZM6WM) and join the experience through it.
 
  Until the issue isn't fixed, continue using the Microsoft Store app to play Roblox experiences.
@@ -45,15 +57,21 @@ thumbnail: https://thmb.techidaily.com/9c2b7ca2e1893d88d6bb8597241a29c970bfa10f3
 
 ![An open laptop sitting on a windowsill with a residential view in the background.](https://thmb.techidaily.com/4a4364521475bc98d43a49b1c82e26ef445f3c795924721c63fb3c06810bfd5f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Do you also want to run Roblox Player on a virtual machine, but the client crashes? If so, that could be the cause of the error. Close the virtual machine and run Roblox by installing the client on your OS; hopefully, nothing will go wrong this way.
 
  If you don't use a virtual machine and still get the **"the application encountered an unrecoverable error"** error, virtualization could be enabled in the BIOS settings.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Disable Virtualization From the BIOS
 
@@ -67,27 +85,15 @@ thumbnail: https://thmb.techidaily.com/9c2b7ca2e1893d88d6bb8597241a29c970bfa10f3
 4. Click on **Intel Virtualization Technology (VT)** and uncheck the box beside **Enable** **Intel Virtualization Technology (VT)**.  
 ![Disable Intel Virtualization Technology Option in the BIOS Settings of a Dell Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-intel-virtualization-in-bios-settings-of-a-dell-laptop.jpeg)
 5. Click on **Intel VT for Direct I/O** and uncheck the box beside **Enable** **Intel VT for Direct I/O**.  
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable Intel VT for Direct IO in BIOS Settings of a Dell Device](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-intel-vt-for-direct-io-in-bios-settings-of-a-dell-device.jpeg)
 
  If you're using a device from another manufacturer, visit its official website for steps on disabling virtualization.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5\. Check for Browser Interference
 
@@ -111,22 +117,16 @@ thumbnail: https://thmb.techidaily.com/9c2b7ca2e1893d88d6bb8597241a29c970bfa10f3
 ![Delete Roblox Temporary Folder in the Windows Temp Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-roblox-temporary-folder-in-the-windows-temp-folder.jpg)
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 7\. Report the Problem to the Roblox Support Team
 
@@ -137,6 +137,12 @@ thumbnail: https://thmb.techidaily.com/9c2b7ca2e1893d88d6bb8597241a29c970bfa10f3
  (If subfolders aren't already there, create them)  
 ![Create and Save a JSON File in the Roblox App Data Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/creating-and-saving-a-json-file-in-the-roblox-app-data-folder.jpg)
 2. Open the newly created file, add the following text, and save it:  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 `{"DFIntWriteFullDmpPercent": 100}`
 3. Run Roblox and let it crash.
 4. Post a bug report by following the instructions on the [Roblox website](https://devforum.roblox.com/t/how-to-post-a-bug-report/24388).
@@ -144,18 +150,18 @@ thumbnail: https://thmb.techidaily.com/9c2b7ca2e1893d88d6bb8597241a29c970bfa10f3
 `%UserProfile%\AppData\Local\Roblox\logs  
 %UserProfile%\AppData\Local\Roblox\logs\crashes`
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Reinstall the Roblox Client
 
  If the Roblox installation gets corrupt, it can also crash and present the **"the application encountered an unrecoverable error"** error. To ensure that's not the case, uninstall the previous installation and reinstall Roblox from scratch. If you do not know how to do this, refer to our guide on [how to uninstall any software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
 
  Once the Roblox client has been uninstalled, navigate to the **C:\\Users\\<your username>\\AppData\\Local** and delete the Roblox folders. Then, go to Roblox's official website and reinstall the Roblox client. You should avoid downloading the Roblox client from third-party sources since unsigned third-party applications are prone to causing issues.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Don't Let Roblox Crash on Windows
 
  Seeing Roblox crash and display annoying errors can be a bit unsettling. You should now better understand what causes the error in question. Also, applying the basic fixes discussed above will resolve the problem. Report the issue to Roblox support if nothing works. They will diagnose the issue for you and help you resolve it.

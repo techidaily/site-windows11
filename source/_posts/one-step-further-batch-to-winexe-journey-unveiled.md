@@ -1,7 +1,7 @@
 ---
 title: "One Step Further: Batch-to-WinEXE Journey Unveiled"
-date: 2024-09-05T02:12:45.088Z
-updated: 2024-09-06T02:12:45.088Z
+date: 2024-09-09T11:58:19.675Z
+updated: 2024-09-10T11:58:19.675Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,12 @@ To launch the IExpress app, follow the steps below:
 4. Enter a name for the**Package** **title** and hit**Next** again.  
 ![package title](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/package-title.JPG)
 5. Select**No prompt** and hit**Next** .
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Select**Do not display** **a license** and click on**Next** .
 7. Click on**Add** to select the batch script you want to convert, and click on the**Next** button.
 8. From the**Install Program** field, type in the following command and hit**Next** :  
@@ -44,21 +50,39 @@ cmd /c Calculator.bat
 
 ![install program to launch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/install-program-to-launch.JPG)
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In our example, we're converting a Batch file that contains a simple calculator. Therefore, in the command_cmd /c Calculator.bat_ , the name of our batch file is '_Calculator.bat_ '. Since your Batch file will be likely different, make sure you change the command accordingly.
 
  Stick with the default option in the**Show window** and**Finished message** menu, and click**Next** . Now, in the**Package Name and Options** menu, select**Browse** to pick a target path, name the file anything you’d like, and click on**Next** . In the following few pages, click on**Next** without changing anything.
 
 ![saving new file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/saving-new-file.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Finally, on the**Create package** page, click on**Next** again. That’s it, folks. Your EXE package will be created in a few minutes. All you’ve to do from there is to head to the destination folder and launch the file for verifying.
 
 ![create package](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-package.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Convert Batch Files to EXE With a Converter
 
@@ -74,24 +98,18 @@ cmd /c Calculator.bat
 ![bat to exe converter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/bat-to-exe-converter.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Again, your Batch files should be converted into an EXE in a few minutes. Launch the .exe file, and your program should execute effortlessly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Converting Batch Files to EXEs on Windows
 

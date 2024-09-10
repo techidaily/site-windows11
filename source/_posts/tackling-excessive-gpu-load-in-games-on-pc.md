@@ -1,7 +1,7 @@
 ---
 title: Tackling Excessive GPU Load in Games on PC
-date: 2024-09-05T02:15:27.047Z
-updated: 2024-09-06T02:15:27.047Z
+date: 2024-09-09T11:58:17.542Z
+updated: 2024-09-10T11:58:17.542Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,12 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 
  If none of the above checks help or resolve the problem, move on to the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Check if the Game Is Really Straining the CPU
 
  First, double-check that the game you blame for high CPU usage is really straining it. There is a chance that some other programs running simultaneously with the game might be using more CPU resources than the game itself. So, closing those resource-hungry tasks alone may free up enough resources and lower CPU usage.
@@ -43,15 +49,21 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 
 ![Close Microsoft Edge Process From Windows Task Manager For Consuming the Most CPU Resources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/close-microsoft-process-from-windows-task-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  However, if the game alone appears to be causing the most CPU strain, you should investigate the issue further.
 
  If you have a dedicated GPU installed on your device, follow the instructions in the next heading. If not, skip the next fix and jump straight to heading #4\. If you're unsure whether your computer has a dedicated graphics card, refer to our guide on[how to check the graphics card in Windows](https://www.makeuseof.com/check-graphics-card-model-windows-11/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Force the Game to Process Graphics Using the Dedicated GPU (if Available)
 
@@ -62,26 +74,20 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 3. Click**Options** and select**High Performance** .  
 ![screenshot of sonic frontiers switching to high performance in windows graphics settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_sonic_frontiers_switching_to_high_performance.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Forcing the game to use the dedicated GPU will likely reduce CPU usage. If not, check whether the problem is game-specific.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Ensure That the Problem Isn't Confined to One Game
 
  Check if the CPU usage spikes when you run a specific game or for all graphics-intensive games. If the problem occurs with only one game that isn't resource-intensive, an outdated or corrupt version of the game could be the culprit. To exclude this possibility, update the game and the gaming client if the game runs through it.
 
  Likewise, if you're having this issue with a newly released game, ensure the problem doesn't lie with the game's version. Find out if other users are experiencing the same issue on the game's official forum. If others are experiencing the same problem, there could be a problem with the game version. In that case, you will need to wait for the release of the updated version.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Sacrifice Graphics Quality
 
  If the above checks and fixes do not reduce CPU resource consumption, lower the game's graphics settings. This will reduce the game's graphics processing requirements, reducing the load on your CPU. This step will undoubtedly reduce your CPU usage but at the expense of your game's graphics quality.
@@ -100,33 +106,27 @@ thumbnail: https://thmb.techidaily.com/fe46f510d5bddf23ae454985f506805f0ef965f85
 
 ![Efficiency Mode Option Grayed Out for Roblox Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/efficiency-mode-option-grayed-out-for-roblox-game.jpg)
 
+ To prevent such games from consuming a lot of CPU resources, you need to enable the efficiency mode for their subprocesses. To enable efficiency mode for a subprocess, expand the game process, find the subprocess straining the CPU the most, right-click on it, and select**Efficiency Mode** .
+
+![Enabling Efficiency Mode for a Roblox Subprocess](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enabling-efficiency-mode-for-a-roblox-subprocess.jpg)
+
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
   <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
- To prevent such games from consuming a lot of CPU resources, you need to enable the efficiency mode for their subprocesses. To enable efficiency mode for a subprocess, expand the game process, find the subprocess straining the CPU the most, right-click on it, and select**Efficiency Mode** .
-
-![Enabling Efficiency Mode for a Roblox Subprocess](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enabling-efficiency-mode-for-a-roblox-subprocess.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Bring the CPU Usage Down While You Game on Windows
 

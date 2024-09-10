@@ -1,7 +1,7 @@
 ---
 title: "Unraveling Windows 11' Writability: Creating Self-Extractables"
-date: 2024-09-05T02:13:29.882Z
-updated: 2024-09-06T02:13:29.882Z
+date: 2024-09-09T11:58:19.089Z
+updated: 2024-09-10T11:58:19.089Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,12 @@ thumbnail: https://thmb.techidaily.com/99131a0c0da4530303a8f3d5a541a1cf2cb9af3e3
 
  You can use such archives to share groups of files with other users via emails, which they can easily extract by double-clicking SFX packages. This is how you can set up a self-extracting SFX archive in Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Set Up an SFX Archive With Windows 11's IExpress Wizard
 
  Windows 11 includes an IExpress wizard with which you can set up an SFX. You can utilize that tool to set up SFX archives for extracting files only or ones that run installation commands. Selecting that wizard's**Extract files and run installation command** option enables you to set up archives for installing apps.
@@ -34,6 +40,12 @@ thumbnail: https://thmb.techidaily.com/99131a0c0da4530303a8f3d5a541a1cf2cb9af3e3
 5. Select the**Extract files only** option and**Next** .  
 ![The Extract files only option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-files-only.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Enter the title**SFX archive** for the package title and click**Next** .
 2. A confirmation prompt for extracting is an optional extra, but it’s a good idea to add one. To do so, select "Prompt user with" and input a confirmation message like "Do you wish to extract archive?"  
 ![The Prompt user with radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/prompt-user-with-radio-button.jpg)
@@ -41,6 +53,12 @@ thumbnail: https://thmb.techidaily.com/99131a0c0da4530303a8f3d5a541a1cf2cb9af3e3
 4. Select**Next** again and then click the**Add** button. Hold the**Ctrl** key to choose all the files you want to include within the archive and click**Open** .  
 ![The Add file option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-package-option.jpg)
 5. Click**Next** to proceed to a Show window step. Select the**Default** (recommended) option there.
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Then select**Next** again to go to the finish message step. As it’s not especially important to have a finishing message, select the**No message** radio button.
 
 Now we can get started using IExpress Wizard:
@@ -51,8 +69,20 @@ Now we can get started using IExpress Wizard:
 3. Press**Next** to reach the options for saving a SED. Click the**Don’t Save** option there.  
 ![The Create new Self Extraction Directive file option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-new-self-extracting-archive-option.jpg)
 4. Click**Next** twice more to create the archive.
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Wait for the package creation process to finish. Then click the Finish button on the IExpress wizard window.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Testing the SFX Archive Made With IExpress
 
  Now try extracting the files from your new self-extracting archive. Open the folder you selected to save the archive in. Then double-click the SFX archive.exe archive package.
@@ -63,12 +93,6 @@ Now we can get started using IExpress Wizard:
 
  Selecting the**Don’t save SED** option means you can’t modify the self-extracting archive after creating it. If you would prefer the archive to be editable, select the**Save Self Extraction Directive** option instead. Then you can change the archive later by selecting the**Open existing Self Extraction Directive** file radio button within IExpress Wizard.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Set Up an SFX Archive With 7-ZIP
 
  7-Zip is a freely available third-party extraction utility for Windows with which you can also set up self-extracting archives. You can set up SFX archives that have variable compression levels with 7-Zip. That software also enables you to[encrypt your files](https://www.makeuseof.com/windows-encrypt-files-folders/) within SFX packages. These are the steps for setting up SFX archives with 7-Zip.
@@ -80,19 +104,13 @@ Now we can get started using IExpress Wizard:
 5. Click the**Add** button.  
 ![The Add button in 7-Zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-zip-file-manager-window.jpg)
 6. Select the**Create SFX archive** checkbox.  
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Add to Archive window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-to-archive-window.jpg)
 7. Click the**Archive** box’s ellipses button.
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 8. Choose a folder to save the SFX archive in and click**Open** .
 9. Input a file name within the**Archive** box.
@@ -105,10 +123,10 @@ Testing the SFX File With 7-ZIP
 ![A 7-Zip self-extracting archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-zip-archive.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you want to set a password for the archive, you can do so within 7-Zip’s "Add to archive" window. Input some text in the**Enter password** box there. Then users will need to input a password after double-clicking the self-extracting archive. The archive will have an AES-256 encryption method set.
 
@@ -117,25 +135,13 @@ Testing the SFX File With 7-ZIP
 ![The Compression Level drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/compression-level-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can also configure the archive’s compression with the**Word size** and**Dictionary** options. Setting a higher**Dictionary size** setting increases the compression. A higher**Word size** setting can also enhance the compression ratio for the LZMA method.
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Share Your Files Within Self-Extracting SFX Archives
 
  It’s easy to set up self-extracting SFX archives with both IExpress and 7-Zip. Creating such archives will enable you to attach more files to emails because they reduce the overall attachment data sizes. Furthermore, recipients of such archives won’t need any extraction software installed to open them up.

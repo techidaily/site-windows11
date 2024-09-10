@@ -1,7 +1,7 @@
 ---
 title: "Unheard Voices: A Guide to Fixing Windows Microphone Issues on Meet"
-date: 2024-09-05T02:12:39.953Z
-updated: 2024-09-06T02:12:39.953Z
+date: 2024-09-09T11:58:19.748Z
+updated: 2024-09-10T11:58:19.748Z
 tags:
   - windows10
   - windows11
@@ -14,10 +14,22 @@ keywords: Mic Issue Fix in Windows,Meet Windows Microphone,Windows Audio Trouble
 thumbnail: https://thmb.techidaily.com/5101a256be44324944567b3cdefbcb470dad072a31cdc714305925ec88d3af54.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unheard Voices: A Guide to Fixing Windows Microphone Issues on Meet
 
  Is your microphone not working in Google Meet? Did you join a meeting, but nobody heard you? It seems like a technical problem, but don’t give up hope yet. This guide explains how to troubleshoot and fix the issue of not using your Google Meet microphone on Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Is Google Meet Not Working With Your Microphone?
 
  Google Meet facilitates remote collaboration and communication. If you're having trouble hearing others during a Google Meet, it could be due to microphone issues. Some of the possible causes are:​
@@ -31,6 +43,12 @@ thumbnail: https://thmb.techidaily.com/5101a256be44324944567b3cdefbcb470dad072a3
 
  Before you begin troubleshooting, check if you're in [Companion Mode on Google Meet](https://www.makeuseof.com/what-is-companion-mode-on-google-meet/). If so, leave and rejoin the meeting as the microphone and speaker are unavailable in this mode. Once you’ve verified that, try these fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Unmute the Microphone
 
  If you’re unable to use your Google Meet microphone, check if it is muted. If so, other people can't hear you. To unmute it, click the Microphone icon in the lower-left corner of the Google Meet window.
@@ -40,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/5101a256be44324944567b3cdefbcb470dad072a3
  If you don’t see this icon, press **Ctrl + D** on your keyboard. This will unmute the Microphone and allow others to hear you in the meeting.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2\. Test Google Meet Microphone
 
@@ -52,37 +70,19 @@ thumbnail: https://thmb.techidaily.com/5101a256be44324944567b3cdefbcb470dad072a3
 1. Click the **three dots** (More options) in the lower-right corner of the Google Meet window.  
 ![Open Google Meet Settings.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/open-google-meet-settings.jpg)
 2. Select **Settings** from the menu.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. In the pop-up window, click **Audio** from the left sidebar.  
 ![Test Google Meet Microphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/test-google-meet-microphone.jpg)
 4. Click the **Microphone** drop-down menu and go with the default.
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 5. Now speak out loud and check whether the meter next to the microphone icon moves.
 
  If it does, your microphone is working correctly, otherwise, select a different microphone and repeat the steps.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Check the Microphone in System Settings
 
  If the microphone test doesn't work, it’s possible that your computer's settings prevent Google Meet from using the microphone. To verify this, do the following.
@@ -94,25 +94,25 @@ thumbnail: https://thmb.techidaily.com/5101a256be44324944567b3cdefbcb470dad072a3
 4. Under **General**, make sure Windows and apps can use this device for audio.  
 ![Allow apps and Windows to use this device for audio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/allow-apps-and-windows-to-use-this-device-for-audio.jpg)
 5. Next, in the **Input settings**, set the microphone volume to an optimal level.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Now click the **Start test** button and talk or play audio out loud for a few seconds.  
 ![Test Your Microphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/test-your-microphone.jpg)
 7. Then click **Stop test** to end the test. You should see a percentage display telling you how loud your microphone is.
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 8. If the volume is not accurate, adjust it accordingly.
 
  Now that everything is set up right and the microphone test works, try starting a Google Meet call to test the sound.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Troubleshoot Microphone Problems
 
  If you don't find Microphone Array as an option in your system settings, or the microphone test doesn't work, troubleshoot the input devices.
@@ -128,24 +128,18 @@ thumbnail: https://thmb.techidaily.com/5101a256be44324944567b3cdefbcb470dad072a3
 ![Toubleshoot Microphone Array in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/toubleshoot-microphone-array-in-settings.jpg)
 6. Let the troubleshooter finish and apply the changes.  
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Finished Microphone Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/finished-microphone-troubleshooter.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Once finished, close the troubleshooter window and find the microphone array option in your settings. Now follow the steps described in the previous section to check your microphone. After that, try a Google Meet call again.
 
@@ -158,24 +152,18 @@ thumbnail: https://thmb.techidaily.com/5101a256be44324944567b3cdefbcb470dad072a3
 3. Under **App permissions**, click on **Microphone**.  
 ![Microphone in Privacy & security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/microphone-in-privacy-security.jpg)
 4. Turn on the **Microphone access** switch.
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Now ensure **Let apps access your microphone** is toggled on.  
 ![Let Desktop Apps Access Your Microphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/let-desktop-apps-access-your-microphone.jpg)
 6. Scroll down and make sure the apps you want to use have permission to access your microphone.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once all settings are correct, try starting a Google Meet call and see if the microphone works.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Check Browser Permissions
 
  Using the wrong browser settings prevents Google Meet from accessing your microphone. It seems simple but is often overlooked.
@@ -194,8 +182,20 @@ Screenshot by Digvijay Kumar - No attribution
 8. Under the **Permission** section, click the **Microphone** drop-down menu and select **Allow**.  
 ![Allow Google Meet to access your microphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/allow-google-meet-to-access-your-microphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once you’ve checked the permissions are correct, try joining a Google Meet call using your microphone.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Clear Browser Cache and Cookies
 
  When you visit a website, your computer stores information in its cache to load the page faster. If this data becomes outdated or corrupted, it can cause microphone issues in Google Meet. To clear the cache and cookies, follow these steps:

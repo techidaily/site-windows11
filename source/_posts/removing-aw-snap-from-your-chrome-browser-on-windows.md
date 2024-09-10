@@ -1,7 +1,7 @@
 ---
 title: Removing “Aw, Snap!” From Your Chrome Browser on Windows
-date: 2024-09-05T02:11:07.840Z
-updated: 2024-09-06T02:11:07.840Z
+date: 2024-09-09T11:58:20.953Z
+updated: 2024-09-10T11:58:20.953Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,12 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 
  If you are facing the same problem, this guide has some useful solutions that should get Google Chrome to work again on your Windows computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Start With the Generic Fixes
 
  It’s a good idea to start with some basic troubleshooting tips and see if that fixes Chrome’s “Aw Snap!” page crash error on Windows.
@@ -30,6 +36,12 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 * **Clear Cache and Cookies:** It is not unusual for Chrome's browser data to become corrupted over time. When this happens, webpages may crash in Google Chrome. To fix this, you can try [clearing the cache and cookies in Google Chrome](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/).
 * **Check the Computer for Memory Problems:** Memory issues with your Windows computer can also cause such anomalies. To check for this possibility, you can [use the Memory Diagnostic Tool on Windows to scan your PC for memory problems](https://www.makeuseof.com/windows-memory-diagnostic-tool-guide/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Rule Out Issues With Your Internet Connection
 
  A weak or inconsistent internet connection can prevent Google Chrome from loading pages, resulting in the “Aw Snap!” page crash error. Hence, it's important to make sure that your internet connection is working properly. A quick way to test your internet connection on Windows is to open an app that uses the internet, such as the Microsoft Store, and see if it loads fine.
@@ -37,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
  If there’s a problem with your internet, try out some [helpful suggestions to resolve internet issues on Windows](https://www.makeuseof.com/tag/no-internet-access-fix-windows/) or switch to an alternate network connection.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Use an Incognito Window
 
@@ -50,25 +62,13 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 
 ![Open Incognito Window in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-incognito-window-in-google-chrome.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you don’t get the “Aw Snap!” error this time, it’s likely that the issue is caused by one of your extensions or a corrupt Chrome profile.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Disable Your Extensions
 
@@ -83,6 +83,12 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 3. Use the toggles to disable all your extensions.  
 ![Disable Chrome Extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-chrome-extensions.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Restart Chrome after this and re-enable your extensions one at a time. You will need to load a webpage after enabling each extension to identify the one causing the issue. Once you find the problematic extension, consider removing it to avoid such issues in the future.
 
 ## 5\. Disable Hardware Acceleration
@@ -99,16 +105,10 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
 ![Disable Hardware Acceleration in Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-hardware-acceleration-in-google-chrome.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Create a New Chrome Profile
 
@@ -138,10 +138,16 @@ thumbnail: https://thmb.techidaily.com/81e161f907419dfdc391568e85d3e05da23f1ff74
  Check out [how to fix issues in Chrome and Firefox with a browser reset](https://www.makeuseof.com/tag/reset-chrome-firefox/) for more information.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Browse With Google Chrome Again on Windows
 

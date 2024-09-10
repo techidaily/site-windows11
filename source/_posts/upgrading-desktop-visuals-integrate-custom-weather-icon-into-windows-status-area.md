@@ -1,7 +1,7 @@
 ---
 title: "Upgrading Desktop Visuals: Integrate Custom Weather Icon Into Windows Status Area"
-date: 2024-09-05T02:18:26.393Z
-updated: 2024-09-06T02:18:26.393Z
+date: 2024-09-09T11:58:15.071Z
+updated: 2024-09-10T11:58:15.071Z
 tags:
   - windows10
   - windows11
@@ -30,12 +30,24 @@ thumbnail: https://thmb.techidaily.com/5f042bcf8e18adcc53cbb8d889707c4f827028b31
 2. Click **Select** to choose an installation for WeatherMate.  
 ![The WeatherMate Portable Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/weathermate-window.jpg)
 3. Click **OK** in the Browse for Folder window and select **Finish**.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Select **Close** to exit the setup window and launch WeatherMate.
 
  Now you’ll see a WeatherMate temperature icon in your system tray. Double-click that icon to bring up the WeatherMate panel. That panel shows more detailed weather info for the location set.
 
 ![weathermate-icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/weathermate-icon.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To set your location, press the **Click for options** cog button on the WeatherMate panel. Then select **Locations** to bring up a window from which you can select many US or international locations.
 
  Click the **US** or **International** radio button, select your state or country on the drop-down menu, and then a more specific location. Choose **Add** \> **OK** to set the location.
@@ -50,6 +62,18 @@ thumbnail: https://thmb.techidaily.com/5f042bcf8e18adcc53cbb8d889707c4f827028b31
 
  If you can only see the WeatherMate in the taskbar corner overflow menu, you’ll need to set its icon to appear within the taskbar corner (known as the "system tray"). Our guide on [showing and hiding Windows system tray icons](https://www.makeuseof.com/system-tray-icons-windows-11/#:~:text=In%20Taskbar%20settings%2C%20scroll%20down,set%20the%20toggle%20to%20Off.) provides instructions for how to set taskbar corner icons.
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Add a Weather Icon to the System Tray With Weather Bar
 
  Weather Bar is an alternative to WeatherMate that displays a temperature icon for a location in the system tray much the same. However, Weather Bar’s panel displays shows forecasts for up to 15 days and includes animation effects. This is how you can add a weather info icon to Windows 11’s system tray with Weather Bar.
@@ -60,21 +84,33 @@ thumbnail: https://thmb.techidaily.com/5f042bcf8e18adcc53cbb8d889707c4f827028b31
 
 ![The Weather Bar system tray icon and panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/weatherbar-system-tray-icon.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can set weather info for your area by clicking the hamburger menu button on the panel and selecting **New location**. Enter your city or town name in the search box to find and select it. If you’re in a village, that location might not be available. In which case, select the nearest city or town you can. Click **Let’s go** to set the new location.
 
 ![The location search box in Weather Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/location-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Check the Weather From the System Tray in Windows 11
 

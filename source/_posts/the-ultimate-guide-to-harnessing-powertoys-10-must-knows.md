@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Harnessing PowerToys' 10 Must-Knows
-date: 2024-09-05T02:13:15.324Z
-updated: 2024-09-06T02:13:15.324Z
+date: 2024-09-09T11:58:19.287Z
+updated: 2024-09-10T11:58:19.287Z
 tags:
   - windows10
   - windows11
@@ -22,6 +22,12 @@ thumbnail: https://thmb.techidaily.com/2ed779a90446e954f94e74e484145fa08b9476978
 
  PowerToys is a set of free software which allows users to easily configure how Windows looks, feels, and works. If you’re still having doubts, we’ll list the best things you can do with PowerToys to level up your Windows user experience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Install PowerToys
 
  Veteran Windows users might remember PowerToys from Windows 95 days. After a few years of absence, PowerToys became available again for Windows 10 and Windows 11\. We recommend downloading PowerToys from Microsoft Store, so you’ll avoid any pirated version that might infect your computer with malware.
@@ -30,6 +36,12 @@ thumbnail: https://thmb.techidaily.com/2ed779a90446e954f94e74e484145fa08b9476978
 
 ![Install PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/install-power-toys-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now that you’ve installed PowerToys, let’s take a look at some of its coolest functionalities.
 
 **Note:** Windows 7, 8, and 8.1 didn’t receive official support for PowerToys, so you might have a hard time trying to get it to work if you’re still using older Windows versions.
@@ -40,13 +52,19 @@ thumbnail: https://thmb.techidaily.com/2ed779a90446e954f94e74e484145fa08b9476978
 
 ![PowerToys Color Picker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/color-picker-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once Color Picker identifies the color, it saves the information to your Windows clipboard. You can configure the tool and select which color formats to use or have Color Picker show the color’s name.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2\. Rename Multiple Files at Once
 
@@ -56,34 +74,34 @@ thumbnail: https://thmb.techidaily.com/2ed779a90446e954f94e74e484145fa08b9476978
 
 ![Rename multiple files with PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/rename-files-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can check the**Preview** window to make sure the selection is correct. Then, type in the new name for your batch. PowerRename allows you to use multiple criteria when it comes to searching for your files. You can exclude files, enumerate items, or make the search case-sensitive.
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Resize Multiple Images at Once
 
  Image Resizer is another File Explorer add-on to make your life easier. As its name says, you can resize multiple images at once.
 
 ![Resize images with PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/resize-images-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Select the images, bring up the context menu, and click**Image resize** . Then, in the pop-up window, you can choose one of the available settings or create a custom one.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Preview Files Easier
 
  Windows can already generate previews of your files, but File Explorer Preview takes it to the next level. With the tool turned on, open the**View** menu, and check**Preview** . This way, you can check a file’s content without having to open it.
@@ -91,35 +109,35 @@ thumbnail: https://thmb.techidaily.com/2ed779a90446e954f94e74e484145fa08b9476978
 ![Preview files with PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/preview-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  File Explorer Preview really stands out when it comes to PDF files, as you can preview the first ten pages of the file.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Keep any Windows on Top
 
  Let’s say you created a Word doc to gather information from multiple files or apps. While you keep browsing through them, Word might get buried behind other windows. To keep this from happening, you could use PowerToys’**Always on Top** .
 
 ![PowerToys Always on Top tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/always-on-top-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This feature will keep the designated window in front of every other app, no matter which command you use. Even if you accidentally click**Minimize** , the window will stay up until you turn**Always on Top** off.
 
  To turn it on or off, select the window and press**Win + Ctrl +T** .
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Find Your Mouse
 
  If you[need to use a multiple-display setup](https://www.makeuseof.com/how-to-set-up-dual-monitors/) , the cursor might get lost between your monitors. Fortunately, you can have PowerToys indicate your cursor position for you.
@@ -142,14 +160,14 @@ thumbnail: https://thmb.techidaily.com/2ed779a90446e954f94e74e484145fa08b9476978
 
 ![Manage windows with FancyZones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/fancy-zones-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can add more zones, resize them, or add space between them, so your screen doesn’t look too cluttered.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. Remember Every Windows Shortcut
 
 [Windows comes with a lot of keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) that you can use to increase your productivity, but sometimes you may have a hard time remembering them. Instead of googling a shortcut every time you need it, you can have PowerToys refresh your memory.
@@ -157,16 +175,10 @@ thumbnail: https://thmb.techidaily.com/2ed779a90446e954f94e74e484145fa08b9476978
 ![PowerToys Windows shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-shortcut-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 10\. Keep Your Computer Awake
 
@@ -174,6 +186,18 @@ thumbnail: https://thmb.techidaily.com/2ed779a90446e954f94e74e484145fa08b9476978
 
 ![Keep your computer awake with PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/awake-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now, instead of[changing the Power & sleep settings](https://www.makeuseof.com/windows-11-change-power-plan/) , you can use Awake. You can set Awake to keep your computer running indefinitely or for a set time. You can even choose to keep the monitor turned on.
 
 ## Best Of PowerToys

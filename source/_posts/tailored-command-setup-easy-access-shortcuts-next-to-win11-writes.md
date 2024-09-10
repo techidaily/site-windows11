@@ -1,7 +1,7 @@
 ---
 title: "Tailored Command Setup: Easy Access Shortcuts Next to Win11' Writes"
-date: 2024-09-05T02:17:20.987Z
-updated: 2024-09-06T02:17:20.987Z
+date: 2024-09-09T11:58:16.014Z
+updated: 2024-09-10T11:58:16.014Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: Win11 Shortcuts,Custom Win11 Commands,Quick Win11 Access,Personalized 
 thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e992652aa5e9b27c3e355526ca4c.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tailored Command Setup: Easy Access Shortcuts Next to Win11' Writes
 
  Are you tired of digging through your folders in the File Explorer? Did you know you can add shortcuts next to the Power Button in the Start Menu on Windows 11 to keep things quick and straightforward?
@@ -22,6 +28,12 @@ thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e9926
 
  So, let's look at how to add these quick shortcuts to your Windows menu. Let's get started!
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Adding Shortcuts Next to Power Buttons
 
  If you look at the default Windows 11 Start Menu, you'll find the area next to the Power Button empty. While a clean, clutter-free design is undoubtedly desirable, adding folder shortcuts will improve your PC's functionality.
@@ -32,6 +44,12 @@ thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e9926
 
  However, you can only add specific icons beside the Power Button. They are**Settings** ,**File Explorer** ,**Documents** ,**Downloads** ,**Music** ,**Pictures** ,**Videos** ,**Network** , and**Personal folder** . Moreover, the small size of the Start menu itself can make things congested if you try and add all nine shortcuts at once. Other than this, the Start menu shortcut is a handy tool.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Add Shortcuts Next to Power Buttons on Windows 11
 
  Now that we've peeked into the benefits of adding shortcuts next to Power Buttons on Windows 11, let's look at how you can do it as well.
@@ -47,6 +65,12 @@ thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e9926
 
 ![folders section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/folders-section.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  As soon as you toggle on the switch, new icons of the respective folders will appear next to your Power button menu.
 
  For instance, in this example, we'll toggle on the switches for**File Explorer** ,**Documents** , and**Music** folder. This is how your customized Windows 11 Start menu will look like:
@@ -54,16 +78,16 @@ thumbnail: https://thmb.techidaily.com/bae70dc1da321109f70e787435e8a7bf8638e9926
 ![windows 11 start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Adding Shortcuts Next to Power Buttons on Windows 11
 

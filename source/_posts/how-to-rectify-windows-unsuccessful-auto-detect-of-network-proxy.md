@@ -1,7 +1,7 @@
 ---
 title: How to Rectify Windows' Unsuccessful Auto Detect of Network Proxy
-date: 2024-09-05T02:14:29.936Z
-updated: 2024-09-06T02:14:29.936Z
+date: 2024-09-09T11:58:18.336Z
+updated: 2024-09-10T11:58:18.336Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: Fix Network Proxy Error,Disable AutoProxyWinReg,Change Windows Proxy S
 thumbnail: https://thmb.techidaily.com/e95b10a90432b136a95f53788d2f6a34587f22e1538a737ba31a5504b6070516.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Rectify Windows' Unsuccessful Auto Detect of Network Proxy
 
  After having Windows troubleshoot a network error for you, you might have come across this message:
@@ -22,6 +28,12 @@ thumbnail: https://thmb.techidaily.com/e95b10a90432b136a95f53788d2f6a34587f22e15
 
  What does this mean, and how do you fix it? Let's take a look at Windows' proxy settings and the steps to repair this.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Reboot Your Computer and Router
 
  Before you launch into any specific troubleshooting, it's always a good idea to restart your equipment first. There's a chance that this will clear up your issue in a few moments.
@@ -30,6 +42,12 @@ thumbnail: https://thmb.techidaily.com/e95b10a90432b136a95f53788d2f6a34587f22e15
 
  If the problem hasn't fixed itself after you reboot your computer and router, continue on with the more detailed steps.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Review Proxy Settings in Windows
 
  Because this issue is related to your Windows proxy settings, that's a sensible first place to check. To access proxy settings in Windows 10, open**Settings** , select the**Network & Internet** category, and switch to the**Proxy** tab on the left sidebar. This is in the same place on Windows 11, except**Proxy** is an item in the list instead of appearing on a sidebar.
@@ -38,6 +56,12 @@ thumbnail: https://thmb.techidaily.com/e95b10a90432b136a95f53788d2f6a34587f22e15
 
 ![Windows 10 Proxy Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-10-Proxy-Settings-Menu.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  For those who do connect with a proxy, such as people in a business or school environment, you might want to check with your system administrator to make sure you have the correct proxy details here. They'll be able to speak to any issues specific to your network.
 
  After this, try reconnecting to the network again and getting online. If you still get the error, turn off**Automatically detect settings** in the proxy options and try once more.
@@ -52,6 +76,12 @@ thumbnail: https://thmb.techidaily.com/e95b10a90432b136a95f53788d2f6a34587f22e15
 
  These are most common in business and school use, where system administrators use them for security and efficiency. It's very unlikely that you would use a proxy server on your home network, unless you specifically set one up. This is why in most home cases, you should clear any proxy settings that might exist when you run into this issue.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Run the Network Adapter Troubleshooter
 
  When you right-click on the network connection icon in your System Tray and choose to troubleshoot, it runs the**Internet Connections** troubleshooter. This is what results in the "Windows could not detect proxy settings" error. But there's another network troubleshooter you can run that might provide more help.
@@ -61,16 +91,10 @@ thumbnail: https://thmb.techidaily.com/e95b10a90432b136a95f53788d2f6a34587f22e15
  Choose**Network Adapter** from the list and walk through the troubleshooter. As seasoned Windows users know, these troubleshooters don't always fix your problem, but it's still worth a try.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Auto-Obtain IP Address and DNS Info
 
@@ -82,12 +106,6 @@ thumbnail: https://thmb.techidaily.com/e95b10a90432b136a95f53788d2f6a34587f22e15
 
 ![Windows IP Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/01/Windows-IP-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On Windows 11, go to**Settings > Network & internet** and choose**Wi-Fi** or**Ethernet** depending on the connection you're using. Then click your network name. If you don't see**Automatic (DHCP)** next to both**IP assignment** and**DNS server assignment** , click the**Edit** button next to both and set them to this value.
 
 ## 5\. Update or Roll Back Your Network Driver
@@ -101,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/e95b10a90432b136a95f53788d2f6a34587f22e15
 ![Windows 10 Device Manager Update Roll Back](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Device-Manager-Update-Roll-Back.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Choose**Update Driver** and you can check for new updates over the internet. Since this likely won't find anything, you'll need to[manually update your drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) by downloading them from the manufacturer.
 
@@ -124,26 +142,20 @@ thumbnail: https://thmb.techidaily.com/e95b10a90432b136a95f53788d2f6a34587f22e15
 
 `ipconfig /flushdns`
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Review Firewall, VPN, and Antivirus Software
 
 ![Windows 10 firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/01/firewall-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You should next make sure you don't have a firewall, VPN, or security suite interfering with your network connection. Perhaps your chosen software had an update that changed an option you weren't aware of, or you just installed a new app that changed proxy settings for some reason.
 
  Try disabling your firewall, VPN, and antivirus software one at a time, then see if the error goes away. If it does, the issue lies with one of those apps. You'll need to configure them to avoid interfering with regular network activity.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Scan for Malware
 
  Some malware can continually mess with your proxy settings to prevent you from getting online. If you run into the "Windows could not detect this network's proxy settings" message every time you reboot, you may be a victim of this.
@@ -162,12 +174,6 @@ thumbnail: https://thmb.techidaily.com/e95b10a90432b136a95f53788d2f6a34587f22e15
 
  Note that using a restore point will remove any programs and drivers you've installed since making that restore point. You can click**Scan for affected programs** on a restore point to see what effect it will have. Using a System Restore won't affect any of your personal files.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Reset Your Network Settings
 
 ![Windows 10 Network Reset](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2019/04/Windows-10-Network-Reset.png)
@@ -179,10 +185,10 @@ thumbnail: https://thmb.techidaily.com/e95b10a90432b136a95f53788d2f6a34587f22e15
  Be aware that this will remove all network information from your computer, so you'll need to reconnect to saved networks again. If you're OK with this, click**Reset now** . Your computer will perform the reset, then restart.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Windows Could Not Detect Proxy Settings: Resolved
 

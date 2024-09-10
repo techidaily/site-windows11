@@ -1,7 +1,7 @@
 ---
 title: How to Fix ALT Codes Not Working on Windows
-date: 2024-09-05T02:15:40.765Z
-updated: 2024-09-06T02:15:40.765Z
+date: 2024-09-09T11:58:17.347Z
+updated: 2024-09-10T11:58:17.347Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,12 @@ thumbnail: https://thmb.techidaily.com/fe4b0191212c8e41c031bf23c61d1f9123e35ac3b
 
  The problem may also occur due to conflicting background programs, outdated software drivers, or hardware compatibility glitches. If you are experiencing this issue, here are some tips for resolving it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Turn On Mouse Keys
 
  If you need to use ALT codes on Windows but find that they are not working, you might want to enable Mouse Keys when NUM LOCK is ON. This is an easy fix for many ALT code problems.
@@ -38,18 +44,6 @@ thumbnail: https://thmb.techidaily.com/fe4b0191212c8e41c031bf23c61d1f9123e35ac3b
 
  Doing this should allow you to use ALT codes again, as it will enable you to type characters by clicking the numeric keypad with the mouse cursor. This is especially useful if your laptop does not have a separate number pad or if you’re using a smaller keyboard without one.
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Modify the System Settings
 
  If the above solution does not work, it means the keyboard shortcut is disabled in the Ease of Access Centre. In such a case, you can manually make the changes either through the Control Panel or via Windows Settings. Here's how to do it:
@@ -78,6 +72,12 @@ To get started, follow these steps:
 3. When a UAC window appears on the screen, click**Yes** .  
 ![Enable HexNumpad in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-hexnumpad-in-registry.jpg)
 4. After opening the Registry Editor, navigate to the following directory. Alternatively, you can copy and paste the given location in the registry address field and hit**Enter** on your keyboard:  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 HKEY_CURRENT_USER\Control Panel\Input Method
 5. Now right-click on**Input Method** and choose**New > String Value** .
 6. Once you have created the string value, name it**EnableHexNumpad** and press**Enter** to save it.
@@ -86,6 +86,12 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 
  Once you've completed the above steps, close Registry Editor and restart your computer. Upon restarting, hold down the right Alt key and press the + (plus) key on your numeric keypad. Then enter the hex code, and release the Alt key to enter any character.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Remove the Problematic Application
 
  If you have installed any third-party applications that might be causing problems with the ALT codes, then uninstalling them could also help fix this issue. To do this, follow these steps:
@@ -95,20 +101,6 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 3. Once you find it, click the three dots and click**Uninstall** .
 4. Then follow the onscreen instructions to complete the process.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## 5\. Try a Different Keyboard Layout
-
- If you’re still having issues with ALT codes, you can try switching to a different keyboard layout. Here's how to do it:
-
-1. Open the Control Panel (see[how to open the Control Panel on Windows](https://www.makeuseof.com/windows-11-open-control-panel/) ).
-2. Then go to**Clock and Region > Region** . Alternatively, type**intl.cpl** in the Run dialog box and press**Enter** .  
-![Try a Different Keyboard Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/try-a-different-keyboard-layout.jpg)
-3. Under the**Formats** tab, select a different language from the list.
 <!-- affiliate ads begin -->
 <span id="1328679">
 					<video width="240" height="200" style="cursor:pointer"
@@ -121,20 +113,28 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 </span>
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+## 5\. Try a Different Keyboard Layout
+
+ If you’re still having issues with ALT codes, you can try switching to a different keyboard layout. Here's how to do it:
+
+1. Open the Control Panel (see[how to open the Control Panel on Windows](https://www.makeuseof.com/windows-11-open-control-panel/) ).
+2. Then go to**Clock and Region > Region** . Alternatively, type**intl.cpl** in the Run dialog box and press**Enter** .  
+![Try a Different Keyboard Layout](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/try-a-different-keyboard-layout.jpg)
+3. Under the**Formats** tab, select a different language from the list.
 
  After selecting one, click**Apply** , then**OK** , and restart your computer. Now try using ALT codes again to see if they work now.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Troubleshoot With a Clean Boot
 
@@ -145,24 +145,24 @@ HKEY_CURRENT_USER\Control Panel\Input Method
 3. Make sure that the box**Load startup items** is unchecked.  
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
 4. The next step is to click on the**Services** tab.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Click**Hide all Microsoft services** , then click**Disable all** .  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 6. Click the**Apply** button to save the changes.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Go to the**Startup** tab and click**Open Task Manager** .
 8. On the Startup tab, right-click each service and disable it.
 9. After making changes to System Configuration, click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Troubleshooting Windows ALT codes
 

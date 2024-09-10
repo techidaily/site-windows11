@@ -1,7 +1,7 @@
 ---
 title: "Windows Whisperer: Learning to Activate the Hidden Character Tracker"
-date: 2024-09-05T02:16:27.220Z
-updated: 2024-09-06T02:16:27.220Z
+date: 2024-09-09T11:58:16.720Z
+updated: 2024-09-10T11:58:16.720Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,12 @@ thumbnail: https://thmb.techidaily.com/ba36ce8581d9aeca4885040164c69b231f981ce3e
 
  If you want to change the way your characters look on Windows, you can do so by opening the Private Character Editor. Here's a quick guide that will help.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. How to Open the Private Character Editor Using Windows Settings
 
  Windows Settings allows you to make changes to the appearance of your desktop, add or remove programs, and adjust other settings. However, there is also a hidden option in Windows known as the Private Character Editor.
@@ -30,6 +36,12 @@ thumbnail: https://thmb.techidaily.com/ba36ce8581d9aeca4885040164c69b231f981ce3e
 2. In the Settings menu, type “Private Character Editor” into the search box and press**Enter** .  
 ![Open Private Character Editor Using Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-private-character-editor-using-windows-settings.jpg)
 3. Then, click on the search result that appears in the right pane.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You will see the application on your computer screen after clicking this.
 
@@ -45,6 +57,12 @@ thumbnail: https://thmb.techidaily.com/ba36ce8581d9aeca4885040164c69b231f981ce3e
 
  To learn more about this tool, we have a[Windows 10 Search cheat sheet](https://www.makeuseof.com/tag/windows-search-cheat-sheet/) that can help you out.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. How to Open the Private Character Editor Using a Run Command
 
  Windows has a built-in Run command that you can use to access programs and files quickly. If you want to open the Private Character Editor with a keyboard shortcut, follow these steps:
@@ -52,18 +70,6 @@ thumbnail: https://thmb.techidaily.com/ba36ce8581d9aeca4885040164c69b231f981ce3e
 1. Right-click on the Start menu and select**Run** to open the Run dialog box. You can also open the tool directly by pressing**Win + R** on your keyboard.  
 ![Open Private Character Editor Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-private-character-editor-using-run-command.jpg)
 2. Type "eudcedit" in the text box and press the**Enter** key. A new window will open for the Private Character and you can start editing your characters.
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. How to Open the Private Character Editor Through Control Panel
 
@@ -73,6 +79,12 @@ thumbnail: https://thmb.techidaily.com/ba36ce8581d9aeca4885040164c69b231f981ce3e
 2. In the Control Panel, type "Private Character Editor" in the search bar and press**Enter** .  
 ![Open Private Character Editor Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-private-character-editor-using-control-panel.jpg)
 3. On the search results page, you will find a link called "Private Character Editor". Click on it to open the application.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. How to Open the Private Character Editor via Command Prompt
 
@@ -83,25 +95,7 @@ thumbnail: https://thmb.techidaily.com/ba36ce8581d9aeca4885040164c69b231f981ce3e
 3. If UAC appears on the screen, click**Yes** to continue.  
 ![Open Private Character Editor Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-private-character-editor-using-command-prompt.jpg)
 4. In the Command Prompt, type "eudcedit" and press**Enter** . This will open the Private Character Editor application.
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. How to Open the Private Character Editor via Windows PowerShell
 
  Windows PowerShell is another command-line tool that you can use to launch Private Character Editor on your Windows computer. Here's how:
@@ -110,13 +104,19 @@ thumbnail: https://thmb.techidaily.com/ba36ce8581d9aeca4885040164c69b231f981ce3e
 2. Type "powershell" in the search box and press**Ctrl + Shift + Enter** on your keyboard.  
 ![Open Private Character Editor Using Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-private-character-editor-using-windows-powershell.jpg)
 3. When UAC pops up on your screen, click**Yes** to grant privileges.
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Next, type "eudcedit" and hit**Enter** to access the Private Character Editor.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 7\. How to Open the Private Character Editor Using Task Manager
 
@@ -130,16 +130,10 @@ To open the Private Character Editor, follow these steps:
 ![Open Private Character Editor Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-private-character-editor-using-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can then use Private Character Editor to create your own custom characters.
 
@@ -153,10 +147,10 @@ To open Private Character Editor, follow these steps:
 2. In the address bar, type "eudcedit" and press**Enter** . This will open the Private Character Editor application.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 9\. How to Open Private Character Editor With Desktop Shortcut
 
@@ -172,10 +166,10 @@ To open Private Character Editor, follow these steps:
 7. A new icon will appear on your desktop. Double-click on this icon to launch the Private Character Editor.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Create Your Own Windows Fonts And Symbols
 

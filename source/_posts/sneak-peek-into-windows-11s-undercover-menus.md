@@ -1,7 +1,7 @@
 ---
 title: Sneak Peek Into Windows 11'S Undercover Menus
-date: 2024-09-05T02:17:49.898Z
-updated: 2024-09-06T02:17:49.898Z
+date: 2024-09-09T11:58:15.616Z
+updated: 2024-09-10T11:58:15.616Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,30 @@ keywords: Windows 11 Sneak Peek,Into Windows Menu,Undercover Windows,New Windows
 thumbnail: https://thmb.techidaily.com/3c096ca7006d9a28f3f7e555f29e64435eb73c0052911cf681dfac2286fbe4f4.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Sneak Peek Into Windows 11'S Undercover Menus
 
  File Explorer has a Hidden items option you can select to reveal hidden files and folders. Those are mainly important system files and folders hidden for good reason. However, you can also select to hide user files as well.
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Add a Hidden Items Option to the Context Menu With a Registry Script
 
  To add any new option to a Windows context menu, we must modify the registry. Adding a **Hidden items** option to the context menu involves a slightly more complicated registry tweak. So, it’s best to add such an option to the right-click menu with a more automated registry script method like this:
@@ -31,6 +49,18 @@ thumbnail: https://thmb.techidaily.com/3c096ca7006d9a28f3f7e555f29e64435eb73c005
 5. Unzip (extract) the **hidden\_files\_context\_menu** ZIP file. We have a guide that includes instructions for [unzipping ZIP archives in Windows](https://www.makeuseof.com/unzip-files-windows-10/).  
 ![The Extract Compressed (Zipped) Folder tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/extraction-utility.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Open the extracted hidden\_files\_context\_menu folder.
 2. Double-click the **Add hidden files** **context menu** command registry script file.  
 ![The registry script's folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/registry-script-folder.jpg)
@@ -43,6 +73,12 @@ thumbnail: https://thmb.techidaily.com/3c096ca7006d9a28f3f7e555f29e64435eb73c005
 
 ![The Hidden items option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hidden-items.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The **hidden\_files\_context\_menu** ZIP archive also includes another registry script for removing the context menu. So, you don’t need to manually edit the registry to remove the **Hidden items** context menu. Running the **Undo hidden files in context menu** script will do the job for you.
 
 ## How to Add a Hidden Items Option to the Context Menu With Right-Click Extender
@@ -59,6 +95,12 @@ thumbnail: https://thmb.techidaily.com/3c096ca7006d9a28f3f7e555f29e64435eb73c005
 8. Click the **File**/**Folder** tab in Right-Click Extender.  
 ![toggle-items-checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/toggle-items-checkbox.jpg)
 9. Select the **Toggle File**/**Folder Visibility** option along with its Icon checkbox.
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 10. Click on the **Apply** button.
 
  Now bring up the classic context menu within a folder in File Explorer by pressing **Shift** \+ **F10**. There you’ll see a new **Toggle File Visibility** submenu. Move your cursor over the **Toggle File Visibility** submenu to select a **Show Hidden Files** option. You can conceal the items again by selecting the opposite **Hide Hidden Files** option.
@@ -66,10 +108,10 @@ thumbnail: https://thmb.techidaily.com/3c096ca7006d9a28f3f7e555f29e64435eb73c005
 ![The Toggle File Visibility submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/toggle-file-visibility-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Toggle Hidden Items On and Off From File Explorer’s Context Menu
 

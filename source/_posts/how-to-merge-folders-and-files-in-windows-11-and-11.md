@@ -1,7 +1,7 @@
 ---
 title: How to Merge Folders and Files in Windows 11 and 11
-date: 2024-09-05T02:14:58.760Z
-updated: 2024-09-06T02:14:58.760Z
+date: 2024-09-09T11:58:17.930Z
+updated: 2024-09-10T11:58:17.930Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,18 @@ keywords: Merging Windows Folders,File & Folder Integration W11,Windows 11 Merge
 thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050db781f6bcdf9e50e7619aa67.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Merge Folders and Files in Windows 11 and 11
 
  Folder merging in Windows is an excellent file management idea to organize folders with similar files into one big folder. This helps avoid clutter and offers everything in one place, thus making it easier to find what you are looking for.
@@ -22,10 +34,28 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
  Here we show you the best ways to merge folders on a Windows 10 and 11 system. It includes the convenient File Explorer merge option, a PowerShell script hack and third-party tools to merge folders.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Merge Folders Using File Explorer
 
 ![confirm folder replace merge folder file explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/confirm-folder-replace-merge-folder-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  File Explorer will detect and prompt you to merge the folder when you try to move a folder with a name identical to an existing folder at the same level.
 
  For example, if you have an**XYZ** folder in**D:\\Folders** and want to merge the**XYX** folder in the same level, all you have to do is rename the**XYX** folder as**XYZ** . When the**Confirm Folder Replace** prompt appears, click**Yes** .
@@ -34,6 +64,12 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
  Conversely, this can be a time-consuming process when you have to work with hundreds of folders at a time. A more efficient way to overcome this limitation is to use a PowerShell script hack to merge folders on Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Merge Folders Using a PowerShell Script
 
  PowerShell is a powerful automation shell utility. You can learn the[essential PowerShell cmdlets](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) to automate everyday tasks with a script.
@@ -56,6 +92,18 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
 ![merge folders powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/merge-folders-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1. Press the**Win** key and type**powershell** .
 2. Click on**Windows PowerShell** from the search results.
 3. Copy and paste the following script in the PowerShell window:  
@@ -83,32 +131,14 @@ foreach($file in $files){
 
  You can repeat the script with different file paths to merge more folders. If you encounter any error, check if the file path for the destination and source is correct.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Merge Folders Using Third-Party Software
 
  If you prefer a GUI-based utility over a PowerShell script to merge files, you have a few options to choose from. Third-party merge tools for Windows offer basic merging capabilities and premium offerings catered to software and creative design professionals.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Folder Merger
 
 ![folder merger windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/folder-merger-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Folder Merger is a free utility to merge the contents of different folders into a single folder. You can add multiple source folders to the app and then merge them to a specified destination folder.
 
  Using Folder Merger is easy. You can add a single folder or select a root folder to add first-level subfolders. Next, click the**Destination** folder icon to set the destination folder.
@@ -120,27 +150,15 @@ foreach($file in $files){
 **Download** :[Folder Merger](https://2xdsoft.de.tl/Folder-Merger.htm) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2\. WinMerge
 
 ![winmerge file difference comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/winmerge-file-difference-comparison.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  WinMerge serves a different purpose than Folder Merger with a clean user interface. It is an open-source differencing and merger utility for Windows. A handy tool if you want to compare multiple text documents to find the differences. It can compare text-based documents, images, web pages, and more from a folder for differences and then perform a merge.
 
 To compare and merge documents using WinMerge:
@@ -156,18 +174,6 @@ To compare and merge documents using WinMerge:
 
 **Download** :[WinMerge](https://winmerge.org/) (Free)
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Best Apps to Merge Files and Folders on Windows
 
  Windows 11 can detect and prompt copied folders in the same level to be merged. However, if you need to work with multiple folders frequently, a PowerShell script or a GUI-based tool like Folder Merger makes the task much easier.

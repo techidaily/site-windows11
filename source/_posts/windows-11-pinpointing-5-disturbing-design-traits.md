@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Pinpointing 5 Disturbing Design Traits"
-date: 2024-09-05T02:16:23.382Z
-updated: 2024-09-06T02:16:23.382Z
+date: 2024-09-09T11:58:16.769Z
+updated: 2024-09-10T11:58:16.769Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,12 @@ thumbnail: https://thmb.techidaily.com/41de1135ff58d32185caafd7a16e179b6c3f3f0f5
 
  No matter what, nothing matches. Let's have a look at xx different Windows 11 design inconsistencies that are just annoying.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Does Windows 11 Have So Many Design Inconsistencies?
 
  Windows 11 is in the process of moving much of its UI elements over to a new framework, known as WinUI.
@@ -36,61 +42,55 @@ thumbnail: https://thmb.techidaily.com/41de1135ff58d32185caafd7a16e179b6c3f3f0f5
 
 ![screenshot of the windows 11 control panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_outdated_windows_11_control_panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Let's start off with one you very well may have noticed already. Found in the Windows 11 control panel is an option to backup and restore Windows 7.
 
  Giving the user the option to open the Windows 7 Backup and Restore tool in Windows 11 is a bit of an eyebrow-raiser. This tool functions fine for Windows 11, and the error really is only in the name.
 
  One would think such a minor text element would be an easy fix, but here we are.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Menu Differences on Lock Screen
 
 ![screenshot of the differences between menus on the windows 11 lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_lockscreen_differences.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here's another one that's hard to miss. On the lock screen, the network menu has a nice dark shade, regardless of if your system is in dark mode or not.
 
  The accessibility menu is a bright white color, again ignoring your system's dark mode settings. This creates a noticeable contrast when opening two menus that are right next to each other.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Taskbar Oddities
 
 ![screenshot of the windows 11 taskbar showing context menu differences](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_taskbar_context_menu_differences.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The taskbar is full of some interesting quirks. First, the context menu will appear slightly differently depending on if you're right-clicking the taskbar, an icon, or a system icon. Additionally, the flyouts for different system menus can adhere to different spacing, sizing, or brush coloration.
 
  Depending on how up-to-date your version of Windows 11 is, you may even see Windows 10-era context menus on different system icons.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. UI Ignoring Dark Mode
 
 ![screenshot of windows 11 control panel and task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_control_panel.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  When Windows 11 is set to dark mode, many default apps don't care.
 
@@ -102,22 +102,28 @@ thumbnail: https://thmb.techidaily.com/41de1135ff58d32185caafd7a16e179b6c3f3f0f5
 
 ![screenshot of the windows 11 settings menu and different inconsistent sub menus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_settings_inconsistencies-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The settings menu is full of UI design inconsistencies. The overall menu itself has been brought in line over the years, with many functions now adhering to the same sleek design decisions.
 
  It's the amount of settings applications you can launch from this menu that show a wide range of different design elements.
 
  From Disk Management resembling something from XP, to Device Manager still showing signs of the Windows 10 days, you can find something a little different in every submenu of the Windows 11 settings menu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Different Context Menus
 
 ![screenshot of the different windows 11 context menus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_context_menus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This one may seem minor, but you can observe these subtle differences across all of Windows 11.
 
  The context menu adheres to different spacing and styling rules depending on where you're opening it. Right-click on your taskbar, and then try right-clicking on your desktop to see the difference.
@@ -131,10 +137,10 @@ thumbnail: https://thmb.techidaily.com/41de1135ff58d32185caafd7a16e179b6c3f3f0f5
 ![screenshot of the windows 11 on screen keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/screenshot_of_windows_11_onscreen_keyboard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  In an interesting inverse to the rest of the UI inconsistencies, the on-screen keyboard actually sticks to a dark theme even if you've selected a light theme.
 

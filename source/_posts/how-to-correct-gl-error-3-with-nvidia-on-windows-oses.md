@@ -1,7 +1,7 @@
 ---
 title: How to Correct GL Error 3 with Nvidia on WIndows OSes
-date: 2024-09-05T02:12:21.943Z
-updated: 2024-09-06T02:12:21.943Z
+date: 2024-09-09T11:58:19.986Z
+updated: 2024-09-10T11:58:19.986Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,18 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 6. Select the**Prefer maximum performance** option.  
 ![The Prefer maximum performance option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/prefer-maximum-performance-option.jpg)
 7. Press the NVIDIA Control Panel’s**Apply** button.
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 8. Then click**Start** ,**Power** , and the**Restart** option.
 
  Alternatively, you can set maximum performance specifically for an affected app instead. To do so, click the**Programs Settings** tab in NVIDIA Control Panel. Select the software for which error code 3 arises within the**Select a program to customize** drop-down menu. Then select**Prefer maximum performance** in the program settings and click**Apply** .
@@ -47,13 +59,19 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 4. Select the**3D App – Visual Simulation** setting on the menu.  
 ![The Visual Simulation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/visual-simulation-setting-1.jpg)
 5. Click**Apply** to set the selected preset option.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Roll Back an NVIDIA Graphics Driver Update
 
  Have you recently updated your PC’s graphics driver? If so, the new driver could be causing the error code 3 issue on your PC. You might be able to resolve error code 3 by rolling back a recent graphics driver update.
@@ -65,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
  Select**Yes** to roll back the driver, then restart the PC before you try opening affected apps and games again.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Select the Repair and Reset Options for the Affected App
 
@@ -79,16 +97,16 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 ![The Repair and Reset options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-repair-and-reset-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5\. Reinstall the Affected Software
 
@@ -97,24 +115,18 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 ![The Programs and Features Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/programs-and-features3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Then reinstall the uninstalled program in Windows. First, download the latest software version, preferably from the publisher’s website. Open the folder containing the downloaded installer and double-click that setup wizard to reinstall its software.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Cleanly Reinstall the NVIDIA Graphics Driver
 
@@ -128,6 +140,12 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 
  Therefore, resetting Windows is a drastic troubleshooting method, but it's also one that often works. Our guide on[how to reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=If%20you're%20on%20Windows,Windows%2011%20and%20Windows%2010.) tells you how to apply this potential resolution with the Reset this PC tool. You can at least select to preserve all your user files by resetting your PC with that utility.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stop Error Code 3 Crashing Your Software on Windows
 
  Those potential fixes will probably stop error code 3 crashing software packages on most Windows 10 and 11 PCs. The most widely confirmed solutions for that OpenGL issue are to select the maximum performance and 3D App Visual Simulation settings in NVIDIA Control Panel. However, some users might need to reinstall affected apps and NVIDIA drivers or even reset Windows to get this issue fixed.

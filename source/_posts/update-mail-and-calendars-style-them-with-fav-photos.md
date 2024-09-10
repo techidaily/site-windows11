@@ -1,7 +1,7 @@
 ---
 title: "Update Mail & Calendars: Style Them with Fav Photos"
-date: 2024-09-05T02:11:30.415Z
-updated: 2024-09-06T02:11:30.415Z
+date: 2024-09-09T11:58:20.658Z
+updated: 2024-09-10T11:58:20.658Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,24 @@ keywords: Calendar Update Trends,Mail App Customize,Favorite Photo Settings,Emai
 thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79b5ffdb49f75954366a9ab9c.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Update Mail & Calendars: Style Them with Fav Photos
 
  A personalized app or possession is great to own and use. You know how an app tuned to your likes and needs adds a layer of familiar comfort to the whole experience—making everything feel so much better.
 
  You'll be glad to know that you can customize the Mail and Calendar apps on your Windows PC. Yes, you can have a background image or your favorite pictures on these everyday-use apps. So let us explore how you can do that easily.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Mail and Calendar: The Simple and Smart Way to Manage Your Mails and Your Day
 
  The Mail and Calendar apps come built into the Windows OS. Though they function as separate apps, they are connected—you can access one from the other.
@@ -30,6 +42,12 @@ thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79
 
  Fortunately, you can easily customize Mail and Calendar on your Windows PC, so let's explore how.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Personalize Your Mail App with a Colorful Background or Favorite Picture
 
  The Mail app is simple yet effective to use. Make the Mail experience your own by customizing it with colors, background images that appear when no email is selected, and themes with specific backgrounds and colors. You can even set a favorite wallpaper.
@@ -45,6 +63,18 @@ thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79
 5. The next 12 thumbnails are of background themes that come with the color of the left pane matched to the image. Select the one you like and you will see the theme appear on the right pane change along with its matching color on the left pane.  
 ![Background Theme Selected in Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-background-theme-mail-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Set a Favorite Picture as Your Mail Background
 
  You can add easily add a favorite picture to the Mail app on your Windows PC. You could choose a heartwarming photo of a memorable family holiday, an exciting moment from a music concert you went to, or even a pic to reflect your signature style or passion. Let's see how.
@@ -54,52 +84,28 @@ thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79
 ![Browse Option to Choose Picture for Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/browse-to-choose-picture-mail-app.jpg)
 3. Click on**Open,** and the**Mail** app will open again with your picture on the right pane. The picture's thumbnail will be at the bottom of the**Background** section.  
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Chosen Picture On Right Pane in the Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/chosen-picture-on-right-pane-mail-app.jpg)
 4. Your favorite picture will appear on the right pane when no email is selected and you can choose to match the color of the left pane with this picture. So scroll up to the**Colors** sections in the**Personalization** flyout, where you can choose from one of the 10 colors for the left pane. You'll find the option to choose your Windows accent color too.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Left Pane Color Matching With Picture in Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/choose-left-pane-color-to-match-picture.jpg)  
  Remember, if you choose Dark Mode for the Mail or Calendar apps, the left pane will not show the selected color as its solid color background. Instead, it will use the color black.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. You can also have a background theme or your favorite picture spread across the Mail app screen and also appear on the left pane instead of a color. In the**Background** section, turn on the toggle to**Fill entire window** with your background picture, as you can see in the screenshot below.  
 ![Picture Extending to Left Pane in Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/extend-picture-to-left-pane-mail-app.jpg)  
  Your chosen background picture will appear with a blurred effect on the left pane so that the text is legible on it. With the Dark Mode on, the picture will appear behind a dark blurred background on the left pane.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. To enjoy your favorite picture to the max, you can hide most of the left pane by clicking on the**three-lines icon** on the top left of the Mail app.  
 ![Enjoy a Bigger Picture on Your Mail App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enjoy-bigger-picture-on-mail-app-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now your chosen picture will appear bigger, in a wider area on the Mail app.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## How to Add a New Background or Picture to the Calendar App
 

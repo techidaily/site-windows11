@@ -1,7 +1,7 @@
 ---
 title: Reviving a Slept-On Windows Start Button Symbol
-date: 2024-09-05T02:16:10.502Z
-updated: 2024-09-06T02:16:10.502Z
+date: 2024-09-09T11:58:16.940Z
+updated: 2024-09-10T11:58:16.940Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: Windows Start Symbol Revival,Start Button Redesign,Icon Update for Win
 thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a90b0cd758e49ef9cfc3066d.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Reviving a Slept-On Windows Start Button Symbol
 
  The Start Menu has been a central part of Windows since Windows 95\. Because of its inclusion in almost every Windows version, it's sorely missed when it decides to stop working.
@@ -24,10 +30,22 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
 
 ![windows booting up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-booting-up.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You’d be surprised how many issues a simple, quick restart can fix on your Windows PC. In fact, rebooting is often suggested as a first recourse to even many hardware problems, such as[unresponsive keyboard buttons](https://www.makeuseof.com/tag/laptop-keyboard-not-working/) . One of the reasons for this is that a restart clears away your RAM, which can otherwise face memory leaks over long-term use. This can cause hiccups in your workflow, like problems with the Start button in your case here.
 
  So, restart your PC and see if the Windows Start button still isn't working on the next boot-up. If the problem was because of memory or similar low-level issues, a restart should be enough to get everything back to work.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Update Windows
 
  One of the easiest ways to resolve issues plaguing Windows 10 is to update it. Microsoft constantly pushes out patches, new features, and improvements to Windows with big updates every year and smaller security updates in between.
@@ -40,12 +58,6 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
 
  Finally, finalize the update by restarting your computer. This will hopefully fix the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Sign Out of Your User Account
 
  After performing a Windows update, signing out and in again into your user account is the next quickest possible way to fix the Start Menu.
@@ -58,8 +70,20 @@ To sign out of your PC:
 
 ![Signing out of Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/start-menu-not-working-sign-out.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Although this is a sort of hack and not a “solid” solution, this simple trick can save you from having to take more drastic measures like editing the registry entries or restarting Windows Explorer.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Restart Windows Explorer
 
  Windows Explorer is Windows’ default file manager. Microsoft first introduced Window Explorer in Windows 95\. Explorer allows you to see, interact with, and modify files present on your system.
@@ -75,19 +99,19 @@ To restart Explorer:
 ![Restarting Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/start-menu-not-working-restart-explorer.JPG)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  When you restart Windows Explorer, the Explorer application will quit, causing the GUI that sits on top of the file system to disappear momentarily. So, don’t worry if you see everything go blank for a sec.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Perform a System File Checker Scan
 
  Corrupt system files causing unforeseen problems are an issue as old as Windows itself. As you can expect, such files can also affect the Start Menu and cause it to stop working.
@@ -113,16 +137,10 @@ Start the Command Prompt with administrative privileges. To do this:
 ![Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/start-menu-not-working-powershell.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 7\. Disable Temporary Cortana Files With the Command Prompt
 
@@ -141,12 +159,6 @@ Once Command Prompt starts, run the following commands in order:
 
  If these commands don’t work, you have a few more options at your disposal so follow along.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Boot Into Safe Mode
 
  If you really need the Start Menu button to work and don’t mind losing access to third-party applications,[booting into Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/) can be an excellent way to get the Start Menu back.
@@ -157,12 +169,6 @@ Once Command Prompt starts, run the following commands in order:
 
 So, boot into Safe Mode and see if it fixes the Start Menu.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Perform a System Restore or Factory Reset
 
  If none of these solutions work it would mean that one of Windows' core functions is causing the Start Menu to misbehave. In that case, you may need to[restore or factory reset Windows](https://www.makeuseof.com/tag/system-restore-factory-reset-work-windows-10/) to get it working again.

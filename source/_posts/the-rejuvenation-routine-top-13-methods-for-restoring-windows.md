@@ -1,7 +1,7 @@
 ---
 title: "The Rejuvenation Routine: Top 13 Methods for Restoring Windows"
-date: 2024-09-05T02:15:56.143Z
-updated: 2024-09-06T02:15:56.143Z
+date: 2024-09-09T11:58:17.131Z
+updated: 2024-09-10T11:58:17.131Z
 tags:
   - windows10
   - windows11
@@ -26,20 +26,44 @@ thumbnail: https://thmb.techidaily.com/4d92bee2eba99f34da43a3826fc4e46ce3e4a6c22
 
 ![Create restore point manually](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-restore-point-manually-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To get started, type **Restore Point** into your search bar and click on the result titled **Create a restore point**. Click the button labelled **Create** and choose a name, then wait for the process to complete and see if an error message pops up.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Check System Restore is Active on All Volumes
 
  System Restore may simply not be activated on your computer. This is particularly relevant if you're using more than one drive, or have recently swapped your system storage from one volume to another, as drives can have their protection turned on and off individually.
 
 ![Check system restore status](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/system-restore-status-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Type **Restore Point** into the search bar and click on **Create a Restore Point**. You'll see the Available Drives listed under the Protection Settings subheading, alongside a column telling you whether or not they're protected.
 
  To change this setting, click on the desired drive to highlight it and then click on **Configure**. A radio toggle will allow you to turn System Restore protection on or off.
 
  As with almost any other technical issue, turning System Restore off and on again is well worth a try.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Disable Antivirus Software
 
  Using a [reliable piece of antivirus software](https://www.makeuseof.com/windows-11-antivirus-apps/) is a great way to keep your system protected against malware and other undesirable installs, but sometimes this kind of utility can cause problems for other tasks.
@@ -47,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/4d92bee2eba99f34da43a3826fc4e46ce3e4a6c22
  If you're facing difficulties with System Restore, briefly disable your antivirus software early on during your troubleshooting — it may well fix things.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Check Your Disk Space Allocation
 
@@ -58,24 +82,24 @@ thumbnail: https://thmb.techidaily.com/4d92bee2eba99f34da43a3826fc4e46ce3e4a6c22
 
 ![Check System Restore disk allocation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/restore-disk-allocation-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click the Configure button and you'll be able to tweak your **Disk Space Usage**. Try using the slider to increase your allocated space, then create a new Restore Point to see whether it has had the desired effect.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Manually Delete Restore Points
 
  As we’ve mentioned, System Restore will fail to create a new restore point if there’s no available storage space on your computer. However, you can [manually delete older restore points](https://www.makeuseof.com/ways-delete-system-restore-points-in-windows/) that you no longer need to free up some space for System Restore to work.
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Confirm Essential Services are Running
 
  System Restore relies on a few different services to do its job; without them, it can't function. Fortunately, it's very easy to check whether or not they are active by typing **Services** into the search bar and opening the app.
@@ -90,18 +114,6 @@ thumbnail: https://thmb.techidaily.com/4d92bee2eba99f34da43a3826fc4e46ce3e4a6c22
 
 ![Check System Restore services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-restore-services-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Run Check Disk via Command Prompt
 
  Check Disk is a system tool built into Windows that can verify the integrity of a file system, and fix logical errors. To access the utility, in the Start menu search bar, search for **command prompt** and select **Run as administrator**.
@@ -116,12 +128,6 @@ chkdsk /f /r
 
 sfc /scannow
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Boot Into Safe Mode
 
  Problems affecting System Restore can often be traced back to services and drivers from a source other than Microsoft. Safe Mode strips your computer's abilities back to the bare essentials, meaning that those processes won't interfere with your procedure.
@@ -134,12 +140,6 @@ sfc /scannow
 
  If this didn't work for you, there are [other methods to boot your computer into Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Try Selective Startup
 
  Selective Startup is a similar tool to Safe Mode, in that it reduces the amount of processes running on your computer to make it easier to diagnose problems. Type **System Configuration** into the search box and open the top result to get started.
@@ -148,25 +148,31 @@ sfc /scannow
 
  You can check and uncheck the **Load system services** and **Load startup items** boxes to customize how your computer behaves at startup. For more information on using Selective Startup to troubleshoot, refer to Microsoft's guide to the process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10\. Consult the Event Viewer
 
  You might be able to find some clues about errors pertaining to System Restore processes by delving into the Event Viewer. Search for the utility and open it up to get started — you'll need to expand the **Windows Logs** folder, then click on **Applications**.
 
 ![Check Windows event viewer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/event-viewer-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Scroll through the results to find anything with **Error** in the **Level** column. Click on an individual event to display its description, and see if that offers up any reason that it might be connected to System Restore. You can do a Google search for any related errors that you find to see what the best course of action is.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 11\. Check Your Timing
 
@@ -174,40 +180,40 @@ sfc /scannow
 
 ![Restore Point Creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/restore-point-creator-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Among a host of other advantages, Restore Point Creator offers users the opportunity to schedule the task for the future, and instruct their system to wake up at that specified time. This option is available by navigating to **System Restore Point Utilities** \> **Schedule creation of System Restore Points** and then checking the box labelled **Wake computer if the system is sleeping**.
 
  One point to remember is that Restore Point Creator uses Task Scheduler to implement this feature. As such, you'll have to check that your computer is compatible with the tool.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 12\. Employ a Third-Party Alternative
 
  If you really can't fix System Restore, you could always try a different solution. This won't help anyone in the midst of a crisis right now, but for those readers that are just setting up their defenses, a backup plan could pay dividends down the line.
 
  You might also check out these [rescue and restore disks for your Windows System Restore](https://www.makeuseof.com/tag/5-best-rescue-disks-windows-system-restore/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 13\. Factory Reset Your Computer
 
  If none of the above solutions fixed System Restore, and you’re stuck with a system full of bugs and glitches, you should factory reset your computer. This is a bold move, as it will return your PC to the state it was when you bought it.
 
  Before doing so, make sure to [back up any personal data](https://www.makeuseof.com/tag/ultimate-windows-10-data-backup-guide/) you might need, so long as you’re able to.
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fixing Windows System Restore
 
  There are plenty of reasons why System Restore might stop working, so it might be challenging to pin down the exact cause. However, with a bit of patience, the above tips will help you fix the issue so you can load a restore point any time you need it.

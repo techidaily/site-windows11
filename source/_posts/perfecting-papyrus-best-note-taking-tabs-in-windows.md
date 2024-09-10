@@ -1,7 +1,7 @@
 ---
 title: "Perfecting Papyrus: Best Note-Taking Tabs in Windows"
-date: 2024-09-05T02:13:14.013Z
-updated: 2024-09-06T02:13:14.013Z
+date: 2024-09-09T11:58:19.307Z
+updated: 2024-09-10T11:58:19.307Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,18 @@ keywords: Note-Taking Tabs,Windows Note Pages,Papyrus App for Notes,Efficient Te
 thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c90f2ad47957b85620005c06.png
 ---
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Perfecting Papyrus: Best Note-Taking Tabs in Windows
 
  Whether you're a student or a working professional, pen tablets are one of your best productivity devices.
@@ -57,6 +69,12 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 
 **Download:** [Nebo](https://apps.microsoft.com/store/detail/nebo/9NBLGGH4NLB0?hl=en-us&gl=us) ($9.99)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Samsung Notes
 
 ![Samsung Notes Windows App Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/samsung-notes-windows-app-overview.jpg)
@@ -77,21 +95,15 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 
 **Download:** [Samsung Notes](https://apps.microsoft.com/store/detail/samsung-notes/9NBLGGH43VHV?hl=en-us&gl=us) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. GoodNotes for Windows
 
 ![GoodNotes For Windows App Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/goodnote-for-windows-app-overview.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  We've previously ranked GoodNotes as the [best note-taking app for iPads](https://www.makeuseof.com/tag/best-note-taking-app-ipad-pro/). Now, the same company has brought its expertise to the Windows platform.
 
@@ -112,10 +124,10 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 **Download:** [GoodNotes for Windows](https://www.microsoft.com/store/productId/9N92MC09DB30) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5\. Scrble Ink
 
@@ -138,10 +150,10 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 ![Bamboo Paper Windows Note Taking App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/bamboo-paper-windows-note-taking-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The manufacturers of WACOM pen tablets develop Bamboo Paper. When you begin using it, it asks you to set up a notebook. Then, just like OneNote, it follows a paper notebook approach, where a notebook can contain many different pages (notes).
 
@@ -154,20 +166,26 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 **Download:** [Bamboo Paper](https://apps.microsoft.com/store/detail/bamboo-paper/9WZDNCRFJ1BH) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 7\. Xournal++
 
 ![Xournal++ Windows App Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/xournal-windows-app-overview.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Xournal++ is an open-source note-taking app that surpasses every app in the list (except OneNote) regarding features. While the app looks odd because of an outdated user interface, feature-wise, it gives tough competition.
 
@@ -179,6 +197,12 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 
 **Download:** [Xournal++](https://xournalpp.github.io/installation/) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What’s Your Pick for the Best Note-Taking App?
 
  For us, OneNote and Samsung Notes are the top note-taking apps combined with a pen or stylus. Both apps are feature-rich and never disappoint regarding a smooth writing experience.

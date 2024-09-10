@@ -1,7 +1,7 @@
 ---
 title: Unlocking RDP Access on Windows 11 No Password
-date: 2024-09-05T02:17:27.451Z
-updated: 2024-09-06T02:17:27.451Z
+date: 2024-09-09T11:58:15.919Z
+updated: 2024-09-10T11:58:15.919Z
 tags:
   - windows10
   - windows11
@@ -14,10 +14,28 @@ keywords: RDP Access Without Passwords,Bypass RDP Login,Windows 11 RDP Entry,Rem
 thumbnail: https://thmb.techidaily.com/cdf4d7c5a6e11bc2ecb600573fb51d6d46dc48a05d2a33906086e284e9c970a7.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unlocking RDP Access on Windows 11 No Password
 
  Remote Desktop connections let two computers share data and applications online. It's handy for accessing files and programs from afar. Although security measures often require passwords. But what if you could connect to your remote desktop without it? This article explains how to connect to a remote desktop without a password in Windows 11\.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Using Group Policy
 
  A group policy editor is a tool administrators use to set user access control policies. You can use this feature to disable passwords. Make sure you are running Windows Pro, Enterprise, or Education Edition.
@@ -58,10 +76,10 @@ Security Settings > Local Policies > Security Options
  To enable the password prompt again, go through the same steps and double-click on the policy. When the Properties window opens, select **Enabled**. Click **Apply** \> **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Using Registry Editor
 
@@ -80,22 +98,16 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 ![Make remote desktop connections using Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/make-remote-desktop-connections-using-registry.jpg)
 6. Change the **Value data** field to **0** and click **OK** to save changes.
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will prevent Windows from requiring a password when connecting remotely.
 
  If you ever want to re-enable the password prompt, navigate back to the same registry key and change the value data field to **1**. Now close the Registry Editor and you are ready to connect remotely without a password.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Using Command Prompt
 
  If you prefer the command line over graphical tools, try this method. It works the same way as the registry editor but is done through the command prompt. Since this could be difficult for novice users, double-check each step. This ensures you don't make mistakes and damage your system.
@@ -107,6 +119,18 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 3. If the UAC dialog box pops up, click **Yes** to grant permission. This will open the Command Prompt with administrative privileges.  
 ![Make Passwordless Remote Desktop Connections Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/make-passwordless-remote-desktop-connections-using-command-prompt.jpg)
 4. Now type the following command and hit Enter.  
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa” /v LimitBlankPasswordUse /t REG_DWORD /d 0 /f
 
  Running this command will change the value data field to **0** and disable the remote password prompt.
@@ -115,12 +139,6 @@ Reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa” /v LimitBl
 
 Reg add “HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa” /v LimitBlankPasswordUse /t REG_DWORD /d 1 /f
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Using a Reg File
 
  If you're not good at editing with the registry editor, create a .reg file instead. The .reg files are basically text files with predefined instructions. When executed, they change the registry and apply settings automatically.
@@ -137,10 +155,10 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 ![Create a Reg File Connect Remote Desktop Without a Password](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/create-a-reg-file-connect-remote-desktop-without-a-password.jpg)
 4. Name the file **no-password.reg** and save it to your desktop.
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 5. Double-click on the file to execute it and apply the settings automatically.
 
@@ -153,12 +171,6 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
  Now save the file as **enabled\_password.reg** and double-click it to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enjoy Password-Free Remote Access
 
  Read this guide to access remote desktop without remembering and entering passwords each time. This creates a password-free experience, making it easier to connect with coworkers or friends whenever required.

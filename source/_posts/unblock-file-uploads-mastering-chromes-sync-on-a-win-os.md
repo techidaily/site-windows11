@@ -1,7 +1,7 @@
 ---
 title: "Unblock File Uploads: Mastering Chrome's Sync on a Win OS"
-date: 2024-09-05T02:18:13.431Z
-updated: 2024-09-06T02:18:13.431Z
+date: 2024-09-09T11:58:15.270Z
+updated: 2024-09-10T11:58:15.270Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,24 @@ keywords: Unlock Chrome Files,Win ChromSync Fix,Chrome Sync Issue,Windows File S
 thumbnail: https://thmb.techidaily.com/6471b67acfe8051c9c2c5b701d3d154a93913c9b510e1febb60299ae780985b8.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unblock File Uploads: Mastering Chrome's Sync on a Win OS
 
  Having trouble uploading files in Google Chrome? It can be quite irritating, right? Whether you're attaching documents to emails, sharing images on social media, or submitting essential files for work or school, a smooth file upload process is essential. Hence, it can be frustrating if your file uploads keep failing in Chrome on your Windows PC.
 
  If you're not ready to give up on your favorite browser just yet, here are some tips that should restore your ability to upload files in Google Chrome
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Start With Generic Fixes
 
  Before we get to any advanced troubleshooting tips, it’s a good idea to first try some basic solutions mentioned below.
@@ -28,6 +40,12 @@ thumbnail: https://thmb.techidaily.com/6471b67acfe8051c9c2c5b701d3d154a93913c9b5
 * **Restart Chrome:** Sometimes, the simplest solutions are the most effective. It is possible that a temporary browser glitch is causing file upload issues in Chrome. If that is the case, restarting Chrome should resolve the problem.
 * **Clear Cache and Cookies:** Outdated or corrupted browsing data could also cause such problems. You can try [clearing the cache and cookies in Google Chrome](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/) to see if that solves the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Use an Incognito Window
 
  One of the key advantages of using Chrome is its wide range of extension support. However, not all third-party extensions are reliable. There’s a chance that one of your extensions is causing Chrome to become unresponsive or crash when you upload files from your Windows PC.
@@ -49,14 +67,14 @@ thumbnail: https://thmb.techidaily.com/6471b67acfe8051c9c2c5b701d3d154a93913c9b5
 3. Use the toggles to disable all the extensions.  
 ![Disable Chrome Extensions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-chrome-extensions.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Restart Chrome after this, and then enable your extensions one at a time. You will need to upload a test file after enabling each extension until the issue occurs again. Once you find the extension that is causing the issue, consider removing it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable Energy Saver Mode in Chrome
 
  When you [enable Energy Saver mode in Chrome](https://www.makeuseof.com/enable-google-chrome-energy-saver-mode/), it limits certain background processes and visual effects to conserve battery life. However, this feature might cause your file uploads to fail in Chrome, especially if you are uploading large files.
@@ -80,6 +98,12 @@ thumbnail: https://thmb.techidaily.com/6471b67acfe8051c9c2c5b701d3d154a93913c9b5
 
  If this solves your problem, you will need to review the web protection settings in your antivirus program and make the necessary changes to avoid any issues.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Install Any Pending Google Chrome Updates
 
  Another reason why you might be unable to upload files in Google Chrome is if you are using an outdated or buggy version of the browser. Although Google Chrome typically updates automatically, this may not happen if you have not closed the browser in a while.
@@ -91,25 +115,13 @@ thumbnail: https://thmb.techidaily.com/6471b67acfe8051c9c2c5b701d3d154a93913c9b5
 3. Wait for Chrome to download pending updates, and then click the **Relaunch** button to install them.  
 ![Install Chrome Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/install-chrome-updates.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you have updated Chrome, your file uploads should work as expected.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 7\. Create a New Chrome Profile
 
@@ -121,25 +133,13 @@ thumbnail: https://thmb.techidaily.com/6471b67acfe8051c9c2c5b701d3d154a93913c9b5
 ![Set Up New Chrome Profile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/set-up-new-chrome-profile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Switch to the newly created profile and try to upload files again. If this fixes your problem, you can consider [deleting the old Google Chrome profile](https://www.makeuseof.com/how-to-delete-google-chrome-profile/).
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Reset Chrome Settings
 
  If you still can't upload files in Google Chrome, you can reset the browser as a last resort. This will remove all of your custom settings, disable extensions, and delete other temporary data. However, your saved bookmarks and passwords will not be affected, so you don't need to worry about them.
@@ -154,10 +154,10 @@ thumbnail: https://thmb.techidaily.com/6471b67acfe8051c9c2c5b701d3d154a93913c9b5
 ![Reset Google Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-google-chrome.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  After resetting Chrome, restart it, and the issue should bother you.
 

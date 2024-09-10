@@ -1,7 +1,7 @@
 ---
 title: Reinstating Lost Gesture Control on PCs Running Windows
-date: 2024-09-05T02:17:58.783Z
-updated: 2024-09-06T02:17:58.783Z
+date: 2024-09-09T11:58:15.488Z
+updated: 2024-09-10T11:58:15.488Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,12 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 
  For this, press **Win + X** on your keyboard. Then press **U** and select **Restart**. This closes all open programs and restarts your device. Once it starts up, check if your touchpad gestures work again.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Enable Touchpad Gestures
 
  If your touchpad gestures are disabled, you can't execute multi-finger commands. To enable gestures, access your touchpad settings and adjust accordingly. Here's how to do it.
@@ -45,26 +51,26 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 3. Scroll down in the right pane and click on the **Touchpad** section.  
 ![Bluetooth & devices in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/bluetooth-devices-in-settings.jpg)
 4. Under **Gestures & interaction**, you'll see several touchpad gesture options.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Check the boxes for each gesture you want to activate.
 6. To configure three-finger or four-finger gestures, click **Advanced gestures** under Related settings.  
 ![Advanced gestures in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/advanced-gestures-in-settings.jpg)
 7. On this page, you will see various configuration options for multi-finger gestures. Click on the drop-down menu and select the action you want for each gesture.  
 ![Touchpad in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/touchpad-in-settings.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once you configure the settings, your touchpad is ready for three-finger and four-finger commands. Now close the Settings window and test the gestures.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update Touchpad Drivers
 
  Outdated or corrupt touchpad drivers also affect gesture recognition. So, if you’re still having issues, try updating your touchpad drivers.
@@ -75,28 +81,22 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 ![Update Touch driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-touch-driver.jpg)
 4. Right-click on your touchpad device and select **Update driver**.  
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Search automatically for drivers for Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/search-automatically-for-drivers-for-mouse.jpg)
 5. On the next page, choose **Search automatically for drivers**.
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This allows Windows to find and install the latest available drivers for your touchpad. If this doesn't work, search for the touchpad manufacturer's drivers online and install them that way.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Reinstall Touchpad Drivers
 
  If updating the drivers didn’t help, try reinstalling them. This removes the current touchpad drivers from your system and installs them again from scratch.
@@ -108,18 +108,6 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 3. Right-click on the touchpad device and select **Uninstall device**.  
 ![Uninstall Mice and other pointing devices](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-mice-and-other-pointing-devices.jpg)
 4. Click **Uninstall** when prompted.
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now wait for the process to finish. Once it does, restart your computer. Windows will automatically reinstall new touchpad drivers for your device at startup.
 
@@ -134,14 +122,14 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 3. Click on **Advanced** and check the box for **Apply repairs automatically**.  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-the-hardware-and-devices-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now click **Next** and let the troubleshooter find and fix any hardware-related problems. Once it completes, restart your computer and try using the touchpad again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Check for Third-Party Software Interference
 
  Sometimes third-party applications can interfere with Windows touchpad gestures. So, if you’ve recently installed any new software or apps on your computer, try uninstalling them and see if it solves the problem.
@@ -152,8 +140,20 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 
 ![Turn Windows features on or off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/turn-windows-features-on-or-off.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This stops these programs from interfering with Windows processes. Once you’ve made the changes, restart your computer and check if the touchpad gestures are working again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Reset Touchpad Gestures Settings
 
  If the touchpad gesture settings are not configured correctly, it will interfere with gesture recognition. In that case, reset touchpad settings and gestures to default. This removes personalized preferences and restores original settings.
@@ -167,18 +167,18 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 ![Reset touchpad settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/reset-touchpad-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Once the settings are reset, restart your computer and see if your touchpad gestures have become responsive.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Get Into Your Touchpad Gestures Again
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Your Browser Is Managed by Your Organization on Chrome and Edge for Windows
-date: 2024-09-05T02:11:18.836Z
-updated: 2024-09-06T02:11:18.836Z
+date: 2024-09-09T11:58:20.813Z
+updated: 2024-09-10T11:58:20.813Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,24 @@ keywords: Chrome Organizational Settings Fix,Edge Workplace Management Fix,Brows
 thumbnail: https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5eaad89567c354cd2fc066c4c.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fix Your Browser Is Managed by Your Organization on Chrome and Edge for Windows
 
  The "your browser is managed by your organization" message in Chrome and Edge means two things. First, you are using a work computer; hence the browser and associated policies are managed by the IT admin. Second, a legitimate computer program has set enterprise policies for the browser, or you have installed a potentially unwanted application (PUA) that has hijacked the browser.
 
  If you are not using a work computer, it is likely a third-party program like your antivirus or a malicious application managing your browser. Here we show you how to troubleshoot and fix the "your browser is managed by your organization" error on Google Chrome and Microsoft Edge.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Causes the "Your Browser is Managed By Your Organization" Error?
 
  If you use a work computer, this message indicates that your organization controls some settings and behavior of the Edge or Chrome browser. You can ignore the message if you are using a work computer and contact your IT admin to verify the cause.
@@ -44,12 +56,6 @@ thumbnail: https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5e
 
  If the issue persists, it is likely malware or adware triggering the message on your browser. To fix the problem, check the Registry Editor policies for the browser and remove any suspicious policies.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Remove Chrome or Edge Registry Editor Policies
 
  A potentially unwanted application often modifies the Windows Registry to set policies for the browser. You can manually remove these policies from Registry Editor to remove the message.
@@ -63,18 +69,18 @@ thumbnail: https://thmb.techidaily.com/92449e9d9f3ee8946cb03a78041d2307431f0fc5e
 4. Under the**Policies** key, locate and select the**Chrome** or**Edge** folder. If you see any policies in the right pane that you didn’t create yourself, right-click on the policies and select**Delete** .  
 ![delete chrome policy registry editor 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-chrome-policy-registry-editor-1.jpg)
 5. If there are no Chrome or Edge policies in the**Policies** key, navigate to the following location:  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\`
 6. Next, if you use**Chrome** , navigate to**\\Google\\Chrome** and delete any policy values in the right pane.  
 ![delete chrome policy registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-chrome-policy-registry-editor.jpg)
 7. For**Edge** , navigate to**\\Microsoft\\MicrosoftEdge** . In the right pane, check for any suspicious policies. If it exists, right-click on the policy and select**Delete** .
 8. Close Registry Editor and restart your computer to see if the message is removed.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Remove All the Group Policies for the Users Using Command Prompt
 
  If you can’t find the policies in Registry Editor, you can remove all the group policies for the User's account using Command Prompt. This will remove all the group policies, including any setup by malware. So, be sure to reconfigure any custom group policies you had before on the computer.
@@ -91,10 +97,28 @@ RD /S /Q "%WinDir%\System32\GroupPolicy"
 `gpupdate /force`
 6. Close Command Prompt and check if the message is removed.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Reset Chrome and Edge
 
 ![Clicking on the Reset Button to Restore Settings to their Original Defaults in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-reset-button-to-restore-settings-to-their-original-defaults-in-chrome-settings.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  A browser reset removes settings and shortcuts, disables extensions, and deletes cookies and other temporary site data. It doesn’t remove your bookmarks or passwords, so it is completely safe to perform.
 
 To reset Google Chrome:
@@ -110,17 +134,23 @@ To reset Microsoft Edge:
 
 ![Reset Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/reset-edge-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Click the**three-dots menu** and select**Settings** .
 2. Open the**Reset settings** tab in the left pane, and click on**Restore settings to their default values** .
 3. Click**Reset** to confirm the action.
 4. You’ll need to enable your extensions after the reset is complete.
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Run MalwareBytes AdwCleaner
 
 ![malwarebytes adwcleaner windows](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malwarebytes-adwcleaner-windows.jpg)
@@ -136,26 +166,26 @@ To remove adware using MalwareBytes:
 5. Close the app and relaunch your browser to check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Perform a Windows Reset
 
 ![factory reset Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/factory-reset-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you cannot find the affected policy or can’t remove the malware, you’ll need to perform a reset to remove the message and the malicious program.
 
@@ -170,12 +200,6 @@ To perform a Windows system reset:
 5. Next, select**Cloud Download** . This option requires an active Internet connection to download and reinstall the latest version of Windows operating system. If not, select**Local** **Reinstall** .
 6. Wait for the reset to complete, and your PC will restart. After the restart, you’ll need to reinstall the browser and other apps to get started.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Remove the "Your Browser is Managed By Your Organization" Message on Windows
 
  This message can occur if your antivirus program controls your web browser with its web protection feature. If you rule out your antivirus to be the issue, check if a potentially unwanted program has hijacked the browser. If yes, you’ll need to manually remove the Windows Registry policies or run an adware cleaner to remove adware and PUPs from your computer.

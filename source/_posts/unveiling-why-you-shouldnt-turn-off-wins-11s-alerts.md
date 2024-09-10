@@ -1,7 +1,7 @@
 ---
 title: Unveiling Why You Shouldn’t Turn Off Wins 11'S Alerts
-date: 2024-09-05T02:16:19.673Z
-updated: 2024-09-06T02:16:19.673Z
+date: 2024-09-09T11:58:16.820Z
+updated: 2024-09-10T11:58:16.820Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,24 @@ keywords: Turn Off Wins Alerts?,Ignore Wins Alerts Risk,No Wins Alert Benefits,W
 thumbnail: https://thmb.techidaily.com/571b43b53a53cad9b332dce8854b53a71ff048e6605567e6d7468a0e180b6317.jpeg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unveiling Why You Shouldn’t Turn Off Wins 11'S Alerts
 
  You may be tempted to get rid of Windows 11's notifications, as they can distract you from the current work. However, when you are not working or can afford to divide your attention with something else, you might be better off keeping notifications turned on on Windows 11\.
 
  The benefits of turning on Notifications outweigh the negatives. And in this article, we will put together a list of reasons you should not turn on the Notifications toggle in Windows 11\.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Notifications Help You Stay Informed About the Latest News, Emails, Messages, and More
 
 ![Windows 11 Desktop on an Ultrawide Monitor With App Tray, System Status, and Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-11-desktop-on-an-ultrawide-monitor-with-app-tray-system-status-and-notifications.jpg)
@@ -30,6 +42,12 @@ thumbnail: https://thmb.techidaily.com/571b43b53a53cad9b332dce8854b53a71ff048e66
 
  To turn on Notifications, open the Settings app, click **Notifications,** and then enable the **Notifications** toggle.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. You Can Perform Quick Actions Without Opening the App
 
 ![Screenshot showing actionable WhatsApp notification](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/actionable-notifications.jpg)
@@ -41,16 +59,10 @@ thumbnail: https://thmb.techidaily.com/571b43b53a53cad9b332dce8854b53a71ff048e66
  It is also important to note that all your notifications appear in Windows 11 Action Center, which opens from the right side of your screen. Here is [how to can fix Action Center if it's not opening](https://www.makeuseof.com/windows-11-action-center-not-opening/).
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Notifications Help You Better Manage Your Time
 
@@ -58,12 +70,6 @@ thumbnail: https://thmb.techidaily.com/571b43b53a53cad9b332dce8854b53a71ff048e66
 
  Imagine a situation where you keep opening an app to stay updated with everything latest. It will be even worse if the app provides you with news — you will have to open it every time you want to check for what's happening. So, you are better off with Notifications enabled on your Windows 11 PC, as they save you time and keep you organized.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. You Can Control Which Apps Can Send You Notifications
 
 ![Disable the Toggle Next to Specific Apps in the Notifications From Apps and Other Senders Section in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-the-toggle-next-to-specific-apps-in-the-notifications-from-apps-and-other-senders-section-in-windows-settings-app.jpg)
@@ -73,45 +79,21 @@ thumbnail: https://thmb.techidaily.com/571b43b53a53cad9b332dce8854b53a71ff048e66
  You can tweak notifications from apps and other senders from the Notifications page in the Settings app.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5\. Notifications Help You Capture Better Screenshots
 
 ![Snipping-tool-notification-in-Windows-11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-2023-07-08-111356.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Windows 11 has a handy keyboard shortcut for taking screenshots on your PC. You can press the **Win key** \+ **Shift** \+ **S** on your keyboard to launch the Snipping tool and capture a window, the entire screen, or a portion of the screen.
 
  However, if you turn off the Notifications from the Settings app, you wouldn't know if the screenshot was captured. You will need to open the Snipping Tool app to check out and save the screenshot. This can be a massive pain point if you take screenshots regularly. Y
 
  ou can avoid all of this and get notified when a screenshot is captured and get an option to save it from the notification itself. It is also important to note that you may not be able to take screenshots with Notifications turned on. If that is the case, you can [fix the Snipping Tool not working on Windows 11](https://www.makeuseof.com/windows-11-fix-snipping-tool-not-working/).
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Notifications Can Help You Stay Secure in Windows 11
 
  Security is one of the most important aspects of your computer, no matter which operating system you are running. Equally important is staying up to date with what's wrong with the security of your PC. The only easy way to get notified instantly about any compromise in security in Windows 11 is by enabling Notifications.
@@ -121,10 +103,10 @@ thumbnail: https://thmb.techidaily.com/571b43b53a53cad9b332dce8854b53a71ff048e66
  To ensure your PC is less vulnerable to malware and other threats, you should learn [how to beef up Windows 11 security](https://www.makeuseof.com/windows-11-improve-security/).
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Make Windows 11's Notifications a Help, Not a Hinder
 

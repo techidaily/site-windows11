@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Printer Errors: Another Computer?"
-date: 2024-09-05T02:14:52.908Z
-updated: 2024-09-06T02:14:52.908Z
+date: 2024-09-09T11:58:18.001Z
+updated: 2024-09-10T11:58:18.001Z
 tags:
   - windows10
   - windows11
@@ -20,6 +20,18 @@ thumbnail: https://thmb.techidaily.com/5962b87511edddba346cb57d7aca143b8c59fba6d
 
  This error message suggests the printer can’t print because it’s already in use by another computer. However, the error also arises for home users who aren’t sharing their printers with other computers on organization networks. This is how you can fix the “Another computer is using the printer” error on Windows 10 & 11\.
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Restart the Printer
 
  Restarting the printer is a simple possible fix that’s worth a try. The printer could be stuck with a preceding request, which applying this solution might resolve. So, power off your printer for a few minutes and then turn it back on to see if that makes a difference.
@@ -38,26 +50,26 @@ thumbnail: https://thmb.techidaily.com/5962b87511edddba346cb57d7aca143b8c59fba6d
 
  You might see an alternative WS printer listed in Settings (most typically for Canon models). The WS stands for web services, and that printer shouldn’t be your default one. Make sure your standard printer is set as default.
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Utilize the Print Troubleshooter
 
  Windows has a Printer troubleshooter that’s there to detect and resolve all manner of printing issues. So, that troubleshooter could feasibly offer a solution for the “Another computer is using the printer” error. This [how to run any troubleshooter post](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) explains how you can access that troubleshooter in the Windows 11/10 Settings app.
 
 ![The Printer troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/printer-troubleshooter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Make sure the printer’s cable is connected to your PC before running the Printer troubleshooter if it’s a non-wireless one. Then select your printer model within the troubleshooter and apply the potential fixes suggested.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Start or Restart the Print Spooler
 
  Print spooler is a service for handling print jobs. Some users say they’ve been able to fix the “Another computer is using the printer” error by restarting that service. You can apply that resolution by following the step-by-step instructions in our [how-to restart the printer spooler article](https://www.makeuseof.com/windows-restart-print-spooler-service/). If the service isn’t already running, click its **Start** option.
@@ -65,16 +77,28 @@ thumbnail: https://thmb.techidaily.com/5962b87511edddba346cb57d7aca143b8c59fba6d
 ![The Restart option for the Print Spooler service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-restart-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5\. Clear the Printers Folder
 
@@ -89,14 +113,20 @@ thumbnail: https://thmb.techidaily.com/5962b87511edddba346cb57d7aca143b8c59fba6d
 5. Select everything in the Printers folder by pressing **Ctrl** \+ **A**.  
 ![The PRINTERS folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-printers-folder.jpg)
 6. Press the **Del** keyboard button to erase the selected files.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Return to the Services app, right-click **Print** **spooler**, and select **Start**.
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Disconnect Previous Users
 
  If you share your PC with other users, the “Another computer is using the printer” error could be due to a previous user who hasn’t been completely logged off. You can remedy that by disconnecting previous users with Task Manager like this:
@@ -107,18 +137,18 @@ thumbnail: https://thmb.techidaily.com/5962b87511edddba346cb57d7aca143b8c59fba6d
 ![The Disconnect option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-users-tab.jpg)
 4. Repeat the previous step to disconnect all users other than yourself shown within Task Manager.
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Update the Printer’s Driver
 
  Antiquated printer drivers can cause lots of printing issues. So, you may need to update your printer’s driver to resolve the “Another computer is using the printer” error if other potential solutions aren’t effective.
@@ -127,12 +157,6 @@ thumbnail: https://thmb.techidaily.com/5962b87511edddba346cb57d7aca143b8c59fba6d
 
 ![The printer driver downloads section on the HP website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/printer-driver-downloads-section.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Print, Print, and Print Again on Windows
 
  Getting the “Another computer is using the printer” error fixed is essential for the many users who can’t afford to lose printing functionality. Fortunately, lots of users have resolved that printing issue with the potential Windows 11/10 fixes covered here. So, applying them will probably get that issue sorted on your Windows PC, and then you can print to your heart’s content again.

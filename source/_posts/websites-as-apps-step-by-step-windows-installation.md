@@ -1,7 +1,7 @@
 ---
 title: "Websites as Apps: Step-by-Step Windows Installation"
-date: 2024-09-05T02:11:00.158Z
-updated: 2024-09-06T02:11:00.158Z
+date: 2024-09-09T11:58:21.052Z
+updated: 2024-09-10T11:58:21.052Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: WebApp Installation,UI/UX for Sites,Site Migration Steps,Mobile Websit
 thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1916f6c8fc284b58583f1b79.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Websites as Apps: Step-by-Step Windows Installation
 
  A native desktop is preferable to visiting a web page frequently. However, not all web apps are available as standalone desktop apps. If you use a web service frequently, you can turn the websites into desktop apps on Windows.
@@ -26,6 +32,12 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
 
  These apps are also often free of all the clutter that web browsers bring, including bookmarks, menus, and more. Then there is a full-screen benefit that allows you to use all the real estate for a distraction-free experience.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Install a Website as an App Using Microsoft Edge
 
  Microsoft Edge has a handy feature to turn a website into an app. This is by far the easiest way to install a website as an app on Windows.
@@ -39,6 +51,12 @@ To install a website and app using Microsoft Edge:
 4. In the**Install app** dialog, enter a name for the app. It is important to enter a custom name as Edge by default will use the web page name and not the website name.  
 ![install chatgpt app windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-chatgpt-app-windows.jpg)
 5. To change the app icon, click the**Edit** button and select an icon from your local drive.
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 6. Click**Install** and wait for the app to be installed.
 
  Once installed, the app will auto-start with a few options to customize. The app will now run safely in its own window. You can launch it from the Start menu, Windows taskbar, or your desktop.
@@ -48,27 +66,15 @@ To install a website and app using Microsoft Edge:
  You can open the installed apps from the Start menu. Use the three-dots menu in the app's top right corner to access print, zoom, casting, and share options.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Uninstall An App in Microsoft Edge
 
 ![edge manage web apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edge-manage-web-apps.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Go to**edge://apps** using your web browser to manage all the installed apps and permissions. Click the**three-dots menu** and select**Uninstall** to remove the app. You can also[remove the app from the settings page](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) by going to**Settings > Apps > Installed Apps.**
 
 ## 2\. Install Websites as App Using Google Chrome
@@ -81,26 +87,8 @@ To add a shortcut to a website as an app in Chrome:
 2. Click the**three-dots menu** in the top-right corner.  
 ![chatgpt create chrome shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut.jpg)
 3. Next, go to**More Tools** and select**Create a shortcut** .  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![chatgpt create chrome shortcut create](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut-create.jpg)
 4. In the**Create a shortcut** pop-up, type a name for the app. Again, if you leave it default, Chrome will use the default web page name for the app.
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Next, select the**Open as window** option.
 6. Finally, click**Create to create** the website shortcut as an app.
 
@@ -117,16 +105,22 @@ To change the app icon:
 ![website app properties shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/website-app-properties-shortcut.jpg)
 3. Click the**Change icon** button at the bottom.  
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![website-app-properties-shortcut-change-icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/website-app-properties-shortcut-change-icon.jpg)
 4. Click**Browse** and select a custom icon from your local drive. To use an existing icon from Windows's library, paste the following path in the**Change icon** dialog and click**Browse** .  
 C:\Windows\System32\imageres.dll
 5. The**Imageres.dll** file consists of the default icons pack for Windows. Select an icon from the library and click**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Turn Websites Into Desktop Apps With WebCatalog
 
  WebCataglog is a platform for desktop web apps. It comes with a library of web apps that you can install with a click. You can also create custom apps using the website URL.
@@ -140,14 +134,26 @@ To install a website as an app using WebCatalog:
 ![webcatalog windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/webcatalog-windows.jpg)
 3. To install an app, search for its existing library. If an app doesn't exist, you create a custom app.
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 4. Click the**Create custom app** option.  
 ![wev catalog create custom app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/wev-catalog-create-custom-app.jpg)
 5. Enter a name for the app and then add the URL to the website.
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Next, click**Select Local Image** and select an icon for the app.
 2. Select the**Add shadows and rounded corners** option.
@@ -182,10 +188,10 @@ To create a desktop app using Web2Desk:
  Apps Created using the service feature a Web2Desk splash screen. You can remove it for a premium of $45.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Install Websites as Desktop Apps on Windows
 

@@ -1,7 +1,7 @@
 ---
 title: "Unleash Your Windows: Start Windows Media Player Now"
-date: 2024-09-05T02:15:16.862Z
-updated: 2024-09-06T02:15:16.862Z
+date: 2024-09-09T11:58:17.681Z
+updated: 2024-09-10T11:58:17.681Z
 tags:
   - windows10
   - windows11
@@ -14,6 +14,12 @@ keywords: Start Windows MP,Media Player Launch,Win XP MPlayer,Play Media Window,
 thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd74185b074d0cf9fcbe34770c5fd.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Unleash Your Windows: Start Windows Media Player Now
 
  If you're looking for an easy way to play and manage your media files in Windows 11, then Windows Media Player is what you need. It's a free built-in application that allows you to quickly access your audio, video, and photo files with just a few clicks. In this article, we'll show you how to open Windows Media Player in Windows 11.
@@ -25,9 +31,21 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 1. Press**Win + Q** on your keyboard.  
 ![Open Windows Media Player Using Search Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-search-tool.jpg)
 2. From here, type “**Windows Media Player Legacy** ” into the search bar.
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Upon doing this, you will see a list of related results; clicking on this will then open Windows Media Player automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. How to Open Windows Media Player Using Run Dialog Box
 
  The Run dialog box is one of the most useful tools on Windows. It's a quick and easy way to access frequently used programs and files without having to search through your computer's file system.
@@ -54,10 +72,10 @@ To open Windows Media Player using Task Manager, follow these steps:
  This will open up Media Player, so you can enjoy all your media files without any trouble!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. How to Open Windows Media Player From File Explorer
 
@@ -66,6 +84,18 @@ To open Windows Media Player using Task Manager, follow these steps:
 1. Right-click on Start and select**File Explorer** or press**Win + E** on your keyboard. This will open the File Explorer window.
 2. From there, go to the address bar, type**wmplayer.exe** , and hit**Enter** .
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. How to Open Windows Media Player With the Start Menu
 
  The Start menu works as a central hub on your computer from where you can access the files and programs you have installed. To open Windows Media Player from the Start Menu, follow these steps:
@@ -75,18 +105,12 @@ To open Windows Media Player using Task Manager, follow these steps:
 3. Then scroll down and click**Windows Tools** in the list.  
 ![Open Windows Media Player Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-control-panel.jpg)
 4. Double-click**Windows Media Player Legacy** on the next page.
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. How to Open Windows Media Player Using Control Panel
 
@@ -99,6 +123,12 @@ To open Windows Media Player using Task Manager, follow these steps:
 3. Scroll down and click**Windows Tools** . This will open a new folder containing advanced tools for system administrators.  
 ![Open Windows Media Player Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/open-windows-media-player-using-control-panel.jpg)
 4. Now double-click**Windows Media Player Legacy** to launch the tool.
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. How to Open Windows Media Player With a Desktop Shortcut
 
@@ -109,12 +139,6 @@ To open Windows Media Player using Task Manager, follow these steps:
 1. Right-click on your desktop area and select**New > Shortcut** .  
 ![Create Desktop Shortcut of Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-desktop-shortcut-of-windows-media-player.jpg)
 2. In the text box, type the following path and click**Next** or press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 C:\Program Files (x86)\Windows Media Player\wmplayer.exe
 3. Give the shortcut a name and click**Finish** .
 
@@ -128,18 +152,6 @@ C:\Program Files (x86)\Windows Media Player\wmplayer.exe
 
  After creating the shortcut, double-click it to launch Windows Media Player Legacy.
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. How to Open Windows Media Player Using a Keyboard Shortcut
 
  Windows offers multiple ways to open Windows Media Player, but the keyboard shortcut is the quickest and easiest way. To use it, follow these steps:
@@ -153,16 +165,10 @@ C:\Program Files (x86)\Windows Media Player\wmplayer.exe
  Once you have done so, just press Ctrl + Alt and type the letter or number you chose. Just remember to keep the desktop shortcut around; if you ever delete it, it'll take down the keyboard shortcut with it.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Media Player Is Now at Your Fingertips
 
