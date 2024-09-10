@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"windows11.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8795</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9586</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8795</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9586</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,32 +750,31 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/mastering-excels-essential-logical-operators-if-and-or-xor-and-not/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0d4d3a83638bfcc50c7ba407.jpg" alt="Mastering Excel&#39;s Essential Logical Operators: IF, AND, OR, XOR, and NOT" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/the-ultimate-how-to-for-creating-a-mobile-hotspot-with-win-11/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e5fa00147cce37f680150801c141d35390120d59266d824622e9ec9a5bd6e401.jpg" alt="The Ultimate How-To for Creating a Mobile Hotspot with Win 11" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/mastering-excels-essential-logical-operators-if-and-or-xor-and-not/">
-                            Mastering Excel&#39;s Essential Logical Operators: IF, AND, OR, XOR, and NOT
+                        <a href="/the-ultimate-how-to-for-creating-a-mobile-hotspot-with-win-11/">
+                            The Ultimate How-To for Creating a Mobile Hotspot with Win 11
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Mastering Excel’s Essential Logical Operators: IF, AND, OR, XOR, and NOTQuick Links
-How to Use the IF Function 
-The AND and O...
+                            <p>This Article Describes The Ultimate How-To for Creating a Mobile Hotspot with Win 11</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 22:05:10 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 09 2024 11:58:15 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-09
                 
             </span>
         </span>
@@ -731,7 +787,17 @@ The AND and O...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/os/">os</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
                         </li>
                     
                     
@@ -746,7 +812,12 @@ The AND and O...
                     
                         <li>
                             
-                            <a href="/tags/excel/">excel</a>&nbsp;
+                            <a href="/tags/windows10/">windows10</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/windows11/">windows11</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -754,7 +825,7 @@ The AND and O...
         
     </div>
 
-    <a href="/mastering-excels-essential-logical-operators-if-and-or-xor-and-not/">Read more<span class="seo-reader-text">Mastering Excel&#39;s Essential Logical Operators: IF, AND, OR, XOR, and NOT</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/the-ultimate-how-to-for-creating-a-mobile-hotspot-with-win-11/">Read more<span class="seo-reader-text">The Ultimate How-To for Creating a Mobile Hotspot with Win 11</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -770,32 +841,31 @@ The AND and O...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/effortless-unit-transformation-techniques-with-microsoft-excel-tutorials/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/microsoft_excel_hero_1200x675.jpg" alt="Effortless Unit Transformation Techniques with Microsoft Excel Tutorials" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/unlocking-efficiency-the-guide-to-windows-print-tools/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a5548956162285f37bc39ffc3e.jpeg" alt="Unlocking Efficiency: The Guide to Windows Print Tools" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/effortless-unit-transformation-techniques-with-microsoft-excel-tutorials/">
-                            Effortless Unit Transformation Techniques with Microsoft Excel Tutorials
+                        <a href="/unlocking-efficiency-the-guide-to-windows-print-tools/">
+                            Unlocking Efficiency: The Guide to Windows Print Tools
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Effortless Unit Transformation Techniques with Microsoft Excel TutorialsQuick Links
-Which Units Can You Convert? 
-Use the CON...
+                            <p>This Article Describes Unlocking Efficiency: The Guide to Windows Print Tools</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 22:05:08 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 09 2024 11:58:15 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-09
                 
             </span>
         </span>
@@ -808,7 +878,17 @@ Use the CON...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/os/">os</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
                         </li>
                     
                     
@@ -823,7 +903,12 @@ Use the CON...
                     
                         <li>
                             
-                            <a href="/tags/excel/">excel</a>&nbsp;
+                            <a href="/tags/windows10/">windows10</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/windows11/">windows11</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -831,7 +916,7 @@ Use the CON...
         
     </div>
 
-    <a href="/effortless-unit-transformation-techniques-with-microsoft-excel-tutorials/">Read more<span class="seo-reader-text">Effortless Unit Transformation Techniques with Microsoft Excel Tutorials</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/unlocking-efficiency-the-guide-to-windows-print-tools/">Read more<span class="seo-reader-text">Unlocking Efficiency: The Guide to Windows Print Tools</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -847,31 +932,31 @@ Use the CON...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/effortless-techniques-for-eliminating-borders-and-guides-in-your-excel-spreadsheets/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/microsoft_excel_hero_1200x675.jpg" alt="Effortless Techniques for Eliminating Borders &amp; Guides in Your Excel Spreadsheets" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/reinstating-lost-gesture-control-on-pcs-running-windows/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72bb938f97ddf7a9d42ff93268.jpg" alt="Reinstating Lost Gesture Control on PCs Running Windows" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/effortless-techniques-for-eliminating-borders-and-guides-in-your-excel-spreadsheets/">
-                            Effortless Techniques for Eliminating Borders &amp; Guides in Your Excel Spreadsheets
+                        <a href="/reinstating-lost-gesture-control-on-pcs-running-windows/">
+                            Reinstating Lost Gesture Control on PCs Running Windows
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Effortless Techniques for Eliminating Borders &amp; Guides in Your Excel SpreadsheetsQuick Links
-Remove Dotted Lines After a ...
+                            <p>This Article Describes Reinstating Lost Gesture Control on PCs Running Windows</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 22:05:07 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 09 2024 11:58:15 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-09
                 
             </span>
         </span>
@@ -884,7 +969,17 @@ Remove Dotted Lines After a ...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/os/">os</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
                         </li>
                     
                     
@@ -899,7 +994,12 @@ Remove Dotted Lines After a ...
                     
                         <li>
                             
-                            <a href="/tags/excel/">excel</a>&nbsp;
+                            <a href="/tags/windows10/">windows10</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/windows11/">windows11</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -907,7 +1007,7 @@ Remove Dotted Lines After a ...
         
     </div>
 
-    <a href="/effortless-techniques-for-eliminating-borders-and-guides-in-your-excel-spreadsheets/">Read more<span class="seo-reader-text">Effortless Techniques for Eliminating Borders &amp; Guides in Your Excel Spreadsheets</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/reinstating-lost-gesture-control-on-pcs-running-windows/">Read more<span class="seo-reader-text">Reinstating Lost Gesture Control on PCs Running Windows</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -923,30 +1023,31 @@ Remove Dotted Lines After a ...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/efficiently-converting-dynamic-excel-equations-to-fixed-numbers-in-excel-2013/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/05/00_lead_image_cell_formula_converted_to_value.png" alt="Efficiently Converting Dynamic Excel Equations to Fixed Numbers in Excel 2013" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/fixing-offline-issues-a-solution-for-steam-and-windows/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/aa427c93a364e264a275d02d7b783f7e962d85c1fac24bb52cc0d4742cbe1750.jpg" alt="Fixing Offline Issues: A Solution for Steam and Windows" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/efficiently-converting-dynamic-excel-equations-to-fixed-numbers-in-excel-2013/">
-                            Efficiently Converting Dynamic Excel Equations to Fixed Numbers in Excel 2013
+                        <a href="/fixing-offline-issues-a-solution-for-steam-and-windows/">
+                            Fixing Offline Issues: A Solution for Steam and Windows
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Efficiently Converting Dynamic Excel Equations to Fixed Numbers in Excel 2013When you open an Excel worksheet or change any e...
+                            <p>This Article Describes Fixing Offline Issues: A Solution for Steam and Windows</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 22:05:06 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 09 2024 11:58:15 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-09
                 
             </span>
         </span>
@@ -959,7 +1060,17 @@ Remove Dotted Lines After a ...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/os/">os</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
                         </li>
                     
                     
@@ -974,7 +1085,12 @@ Remove Dotted Lines After a ...
                     
                         <li>
                             
-                            <a href="/tags/excel/">excel</a>&nbsp;
+                            <a href="/tags/windows10/">windows10</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/windows11/">windows11</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -982,7 +1098,7 @@ Remove Dotted Lines After a ...
         
     </div>
 
-    <a href="/efficiently-converting-dynamic-excel-equations-to-fixed-numbers-in-excel-2013/">Read more<span class="seo-reader-text">Efficiently Converting Dynamic Excel Equations to Fixed Numbers in Excel 2013</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/fixing-offline-issues-a-solution-for-steam-and-windows/">Read more<span class="seo-reader-text">Fixing Offline Issues: A Solution for Steam and Windows</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -998,30 +1114,31 @@ Remove Dotted Lines After a ...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/easy-steps-implementing-macros-into-your-quick-access-toolbar/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e18215ac7c02404eb389cacb68b2.jpg" alt="Easy Steps: Implementing Macros Into Your Quick Access Toolbar" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/expert-level-strategies-for-mastering-windows-voice-access/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/99bd3a8517ed5c451f9f836179e6586efe05dbc59db5ea292ed9c7e8afff15a8.jpg" alt="Expert-Level Strategies for Mastering Windows Voice Access" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/easy-steps-implementing-macros-into-your-quick-access-toolbar/">
-                            Easy Steps: Implementing Macros Into Your Quick Access Toolbar
+                        <a href="/expert-level-strategies-for-mastering-windows-voice-access/">
+                            Expert-Level Strategies for Mastering Windows Voice Access
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Easy Steps: Implementing Macros Into Your Quick Access ToolbarMacros in Word and Excel provide the ability to save time on pr...
+                            <p>This Article Describes Expert-Level Strategies for Mastering Windows Voice Access</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 22:05:05 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 09 2024 11:58:15 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-09
                 
             </span>
         </span>
@@ -1034,7 +1151,17 @@ Remove Dotted Lines After a ...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/os/">os</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
                         </li>
                     
                     
@@ -1049,7 +1176,12 @@ Remove Dotted Lines After a ...
                     
                         <li>
                             
-                            <a href="/tags/excel/">excel</a>&nbsp;
+                            <a href="/tags/windows10/">windows10</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/windows11/">windows11</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1057,7 +1189,7 @@ Remove Dotted Lines After a ...
         
     </div>
 
-    <a href="/easy-steps-implementing-macros-into-your-quick-access-toolbar/">Read more<span class="seo-reader-text">Easy Steps: Implementing Macros Into Your Quick Access Toolbar</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/expert-level-strategies-for-mastering-windows-voice-access/">Read more<span class="seo-reader-text">Expert-Level Strategies for Mastering Windows Voice Access</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1073,30 +1205,31 @@ Remove Dotted Lines After a ...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/change-excel-gridlines-hue-a-comprehensive-tutorial/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/c71ce8851536aefe75546ef7e7f6082e2261917107a95dfb8fa865056cdf9989.jpg" alt="Change Excel Gridlines Hue: A Comprehensive Tutorial" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/restoring-dormant-wsreset-utility-on-computers/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff32ad0111bfbaa0c8293dac8c.jpg" alt="Restoring Dormant WSReset Utility on Computers" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/change-excel-gridlines-hue-a-comprehensive-tutorial/">
-                            Change Excel Gridlines Hue: A Comprehensive Tutorial
+                        <a href="/restoring-dormant-wsreset-utility-on-computers/">
+                            Restoring Dormant WSReset Utility on Computers
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Change Excel Gridlines Hue: A Comprehensive TutorialYou may not have thought about the color of the gridlines in Excel before...
+                            <p>This Article Describes Restoring Dormant WSReset Utility on Computers</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 22:05:03 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 09 2024 11:58:15 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-09
                 
             </span>
         </span>
@@ -1109,7 +1242,17 @@ Remove Dotted Lines After a ...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/os/">os</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
                         </li>
                     
                     
@@ -1124,7 +1267,12 @@ Remove Dotted Lines After a ...
                     
                         <li>
                             
-                            <a href="/tags/excel/">excel</a>&nbsp;
+                            <a href="/tags/windows10/">windows10</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/windows11/">windows11</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1132,7 +1280,7 @@ Remove Dotted Lines After a ...
         
     </div>
 
-    <a href="/change-excel-gridlines-hue-a-comprehensive-tutorial/">Read more<span class="seo-reader-text">Change Excel Gridlines Hue: A Comprehensive Tutorial</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/restoring-dormant-wsreset-utility-on-computers/">Read more<span class="seo-reader-text">Restoring Dormant WSReset Utility on Computers</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1148,31 +1296,31 @@ Remove Dotted Lines After a ...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1-mastering-excel-a-step-by-step-guide-to-revealing-hidden-data/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/0ac17e49979c72a050b377ffc6f63723ef10196944c0e4d0e8d090140eaead92.jpg" alt="1. Mastering Excel: A Step-by-Step Guide to Revealing Hidden Data" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/resetting-dns-cache-a-quick-tutorial-for-windows-users/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/8e1219109f6e569a973b3c46c3d9e23c1f4eabc6e42aa2cadb4595040f5c4520.jpg" alt="Resetting DNS Cache: A Quick Tutorial for Windows Users" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1-mastering-excel-a-step-by-step-guide-to-revealing-hidden-data/">
-                            1. Mastering Excel: A Step-by-Step Guide to Revealing Hidden Data
+                        <a href="/resetting-dns-cache-a-quick-tutorial-for-windows-users/">
+                            Resetting DNS Cache: A Quick Tutorial for Windows Users
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            1. Mastering Excel: A Step-by-Step Guide to Revealing Hidden DataQuick Links
-How to Unhide All Rows in Excel With a Shortcut ...
+                            <p>This Article Describes Resetting DNS Cache: A Quick Tutorial for Windows Users</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 22:05:02 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 09 2024 11:58:15 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-09
                 
             </span>
         </span>
@@ -1185,7 +1333,17 @@ How to Unhide All Rows in Excel With a Shortcut ...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/os/">os</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
                         </li>
                     
                     
@@ -1200,7 +1358,12 @@ How to Unhide All Rows in Excel With a Shortcut ...
                     
                         <li>
                             
-                            <a href="/tags/excel/">excel</a>&nbsp;
+                            <a href="/tags/windows10/">windows10</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/windows11/">windows11</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1208,7 +1371,7 @@ How to Unhide All Rows in Excel With a Shortcut ...
         
     </div>
 
-    <a href="/1-mastering-excel-a-step-by-step-guide-to-revealing-hidden-data/">Read more<span class="seo-reader-text">1. Mastering Excel: A Step-by-Step Guide to Revealing Hidden Data</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/resetting-dns-cache-a-quick-tutorial-for-windows-users/">Read more<span class="seo-reader-text">Resetting DNS Cache: A Quick Tutorial for Windows Users</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1224,32 +1387,31 @@ How to Unhide All Rows in Excel With a Shortcut ...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-guide-dividing-data-across-several-excel-sheet-columns/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/d9a0fed70b3544c875727acbd189babb9991061b2738772aa77659169a12a4b8.jpg" alt="Step-by-Step Guide: Dividing Data Across Several Excel Sheet Columns" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/tailored-monitorscape-crafting-individual-themes-for-each-window-of-win-1011/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/1d1233e027868c7eb597be592cc478aeb7aba77b444eae6e981167865c0c0478.jpg" alt="Tailored Monitorscape: Crafting Individual Themes for Each Window of Win 10/11" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-guide-dividing-data-across-several-excel-sheet-columns/">
-                            Step-by-Step Guide: Dividing Data Across Several Excel Sheet Columns
+                        <a href="/tailored-monitorscape-crafting-individual-themes-for-each-window-of-win-1011/">
+                            Tailored Monitorscape: Crafting Individual Themes for Each Window of Win 10/11
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Step-by-Step Guide: Dividing Data Across Several Excel Sheet ColumnsQuick Links
-How to Use “Text to Columns” in Excel 
-How to...
+                            <p>This Article Describes Tailored Monitorscape: Crafting Individual Themes for Each Window of Win 10&#x2F;11</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 22:05:01 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 09 2024 11:58:15 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-09
                 
             </span>
         </span>
@@ -1262,7 +1424,17 @@ How to...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/os/">os</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
                         </li>
                     
                     
@@ -1277,7 +1449,12 @@ How to...
                     
                         <li>
                             
-                            <a href="/tags/excel/">excel</a>&nbsp;
+                            <a href="/tags/windows10/">windows10</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/windows11/">windows11</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1285,7 +1462,7 @@ How to...
         
     </div>
 
-    <a href="/step-by-step-guide-dividing-data-across-several-excel-sheet-columns/">Read more<span class="seo-reader-text">Step-by-Step Guide: Dividing Data Across Several Excel Sheet Columns</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/tailored-monitorscape-crafting-individual-themes-for-each-window-of-win-1011/">Read more<span class="seo-reader-text">Tailored Monitorscape: Crafting Individual Themes for Each Window of Win 10/11</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1301,31 +1478,31 @@ How to...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/mastering-the-hidden-feature-starting-word-excel-and-powerpoint-with-enhanced-security-settings/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad97d3a8d2551786ec91da20e4.jpg" alt="Mastering the Hidden Feature: Starting Word, Excel, and PowerPoint with Enhanced Security Settings" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/minimizing-windows-extender-lowering-cpu-demand/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d131fe0f5a053db33ae9c232d.jpg" alt="Minimizing Windows Extender: Lowering CPU Demand" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/mastering-the-hidden-feature-starting-word-excel-and-powerpoint-with-enhanced-security-settings/">
-                            Mastering the Hidden Feature: Starting Word, Excel, and PowerPoint with Enhanced Security Settings
+                        <a href="/minimizing-windows-extender-lowering-cpu-demand/">
+                            Minimizing Windows Extender: Lowering CPU Demand
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Mastering the Hidden Feature: Starting Word, Excel, and PowerPoint with Enhanced Security SettingsQuick Links
-What Is Office ...
+                            <p>This Article Describes Minimizing Windows Extender: Lowering CPU Demand</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 22:05:00 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 09 2024 11:58:15 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-09
                 
             </span>
         </span>
@@ -1338,7 +1515,17 @@ What Is Office ...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/os/">os</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
                         </li>
                     
                     
@@ -1353,7 +1540,12 @@ What Is Office ...
                     
                         <li>
                             
-                            <a href="/tags/excel/">excel</a>&nbsp;
+                            <a href="/tags/windows10/">windows10</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/windows11/">windows11</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1361,7 +1553,7 @@ What Is Office ...
         
     </div>
 
-    <a href="/mastering-the-hidden-feature-starting-word-excel-and-powerpoint-with-enhanced-security-settings/">Read more<span class="seo-reader-text">Mastering the Hidden Feature: Starting Word, Excel, and PowerPoint with Enhanced Security Settings</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/minimizing-windows-extender-lowering-cpu-demand/">Read more<span class="seo-reader-text">Minimizing Windows Extender: Lowering CPU Demand</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1377,31 +1569,31 @@ What Is Office ...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/mastering-number-formatting-how-to-precisely-add-prefixes-like-zeroes-in-excel-cells/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/4c3c65f6b07b6c1127c499f9b9889ab3244702ce710d3692e68eb1f54ab083aa.jpg" alt="Mastering Number Formatting: How To Precisely Add Prefixes Like Zeroes in Excel Cells" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/updating-old-pcs-think-beyond-windows/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/ebac8749de86200184a77a3fa2bb901785d67bf12335ea2d0dc0b871ccf2113a.jpg" alt="Updating Old PCs? Think Beyond Windows" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/mastering-number-formatting-how-to-precisely-add-prefixes-like-zeroes-in-excel-cells/">
-                            Mastering Number Formatting: How To Precisely Add Prefixes Like Zeroes in Excel Cells
+                        <a href="/updating-old-pcs-think-beyond-windows/">
+                            Updating Old PCs? Think Beyond Windows
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Mastering Number Formatting: How To Precisely Add Prefixes Like Zeroes in Excel CellsQuick Links
-Keep the Leading Zero as you...
+                            <p>This Article Describes Updating Old PCs? Think Beyond Windows</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sat Aug 31 2024 22:04:58 GMT+0800">
+            <span class="home-article-date" data-date="Mon Sep 09 2024 11:58:15 GMT+0800">
                 
-                    2024-08-31
+                    2024-09-09
                 
             </span>
         </span>
@@ -1414,7 +1606,17 @@ Keep the Leading Zero as you...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/os/">os</a>&nbsp;
+                        </li>
+                    
+                    
+                
+                    
+                        
+                            <li>></li>
+                        
+                        <li>
+                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
                         </li>
                     
                     
@@ -1429,7 +1631,12 @@ Keep the Leading Zero as you...
                     
                         <li>
                             
-                            <a href="/tags/excel/">excel</a>&nbsp;
+                            <a href="/tags/windows10/">windows10</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/windows11/">windows11</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1437,7 +1644,7 @@ Keep the Leading Zero as you...
         
     </div>
 
-    <a href="/mastering-number-formatting-how-to-precisely-add-prefixes-like-zeroes-in-excel-cells/">Read more<span class="seo-reader-text">Mastering Number Formatting: How To Precisely Add Prefixes Like Zeroes in Excel Cells</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/updating-old-pcs-think-beyond-windows/">Read more<span class="seo-reader-text">Updating Old PCs? Think Beyond Windows</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1447,7 +1654,7 @@ Keep the Leading Zero as you...
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/111/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/110/">110</a><a class="page-number" href="/page/111/">111</a><span class="page-number current">112</span><a class="page-number" href="/page/113/">113</a><a class="page-number" href="/page/114/">114</a><span class="space">&hellip;</span><a class="page-number" href="/page/880/">880</a><a class="extend next" rel="next" href="/page/113/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/111/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/110/">110</a><a class="page-number" href="/page/111/">111</a><span class="page-number current">112</span><a class="page-number" href="/page/113/">113</a><a class="page-number" href="/page/114/">114</a><span class="space">&hellip;</span><a class="page-number" href="/page/959/">959</a><a class="extend next" rel="next" href="/page/113/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

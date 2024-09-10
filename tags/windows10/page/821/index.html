@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"windows11.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8795</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9586</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -629,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='07-29'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-08'>
                 
                     
-                        <a href="/eradicating-disk-read-issues-on-your-pc-today/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Eradicating Disk Read Issues on Your PC Today</span>
+                        <a href="/quick-fixes-for-battlenet-being-inaccessible-in-windows-1011/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Quick Fixes for Battle.net Being Inaccessible in Windows 10/11</span>
                         </a>
                     
               
                 
                     
-                        <a href="/enhance-watching-tips-for-prime-subtitles-glitches-in-windows-11/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Enhance Watching: Tips for Prime Subtitles Glitches in Windows 11</span>
+                        <a href="/gaming-past-present-atlasos-enablement/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Gaming Past, Present: AtlasOS Enablement</span>
                         </a>
                     
               
                 
                     
-                        <a href="/eliminate-onedrive-icons-in-explorer-on-windows-11/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Eliminate OneDrive Icons in Explorer on Windows 11</span>
+                        <a href="/steps-to-tackle-stranded-error-on-xbox-app-windows-devices/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Steps to Tackle &#39;Stranded&#39; Error on Xbox App Windows Devices</span>
                         </a>
                     
               
                 
                     
-                        <a href="/eradicating-windows-update-problems-the-0x800736cc-way/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Eradicating Windows Update Problems: The 0X800736CC Way</span>
+                        <a href="/how-to-revert-your-windows-backup-settings/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How To Revert Your Windows Backup Settings</span>
                         </a>
                     
               
                 
                     
-                        <a href="/enhance-your-win11-experience-with-rgb-customization/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Enhance Your Win11 Experience with RGB Customization</span>
+                        <a href="/how-to-disable-amdnvidia-graphics-ui-extras/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">How to Disable AMD/Nvidia Graphics UI Extras</span>
                         </a>
                     
               
                 
                     
-                        <a href="/empower-your-pc-with-the-most-innovative-powertoys-use-cases/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Empower Your PC with the Most Innovative PowerToys Use Cases</span>
+                        <a href="/navigating-and-resolving-steam-setup-errors-with-win11/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Navigating and Resolving Steam Setup Errors with Win11</span>
                         </a>
                     
               
                 
                     
-                        <a href="/eradicate-the-windows-1011-requires-privilege-issue-error-0x80070522/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Eradicate the Windows 10/11 Requires Privilege Issue (Error 0X80070522)</span>
+                        <a href="/mastering-windows-connecting-to-dropbox-and-google-drive-directly/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Mastering Windows: Connecting to Dropbox &amp; Google Drive Directly</span>
                         </a>
                     
               
                 
                     
-                        <a href="/efficiently-tailor-dns-settings-for-your-win11-system/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Efficiently Tailor DNS Settings for Your Win11 System</span>
+                        <a href="/deciphering-and-correcting-not-found-on-windows/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Deciphering and Correcting &#39;Not Found&#39; On Windows</span>
                         </a>
                     
               
                 
                     
-                        <a href="/eliminate-overscan-maximizing-screen-real-estate-in-windows/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Eliminate Overscan: Maximizing Screen Real Estate in Windows</span>
+                        <a href="/discovery-of-four-cortana-succession-steps/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Discovery of Four Cortana Succession Steps</span>
                         </a>
                     
               
                 
                     
-                        <a href="/efficient-ways-to-handle-lunar-client-not-starting-on-pc/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Efficient Ways To Handle Lunar Client Not Starting on PC</span>
+                        <a href="/cutting-down-unnecessary-memory-use-by-webview2-on-edge/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Cutting Down Unnecessary Memory Use by WebView2 on Edge</span>
                         </a>
                     
               
@@ -710,7 +767,7 @@
 
 <div class="tag-paginator">
 	<div class="paginator">
-    <a class="extend prev" rel="prev" href="/tags/windows10/page/820/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/tags/windows10/">1</a><span class="space">&hellip;</span><a class="page-number" href="/tags/windows10/page/819/">819</a><a class="page-number" href="/tags/windows10/page/820/">820</a><span class="page-number current">821</span><a class="page-number" href="/tags/windows10/page/822/">822</a><a class="page-number" href="/tags/windows10/page/823/">823</a><span class="space">&hellip;</span><a class="page-number" href="/tags/windows10/page/855/">855</a><a class="extend next" rel="next" href="/tags/windows10/page/822/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/tags/windows10/page/820/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/tags/windows10/">1</a><span class="space">&hellip;</span><a class="page-number" href="/tags/windows10/page/819/">819</a><a class="page-number" href="/tags/windows10/page/820/">820</a><span class="page-number current">821</span><a class="page-number" href="/tags/windows10/page/822/">822</a><a class="page-number" href="/tags/windows10/page/823/">823</a><span class="space">&hellip;</span><a class="page-number" href="/tags/windows10/page/934/">934</a><a class="extend next" rel="next" href="/tags/windows10/page/822/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>

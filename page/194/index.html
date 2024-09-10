@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"windows11.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8795</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9586</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8795</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9586</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,31 +750,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/transformative-ways-to-customize-windows-11-ui/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/f7c3dfb51630ea312d0721a61ab19847e1113bba58f7b17ac94759c2d0864364.jpg" alt="Transformative Ways to Customize Windows 11 UI" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mastering-microsoft-excel-a-comprehensive-guide-to-utilizing-round-functions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/3f22ae9e837b10e05053cf12480b5c15e8d166c20b49b11db4fda3e3ee1b2757.jpg" alt="Mastering Microsoft Excel: A Comprehensive Guide to Utilizing Round Functions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/transformative-ways-to-customize-windows-11-ui/">
-                            Transformative Ways to Customize Windows 11 UI
+                        <a href="/mastering-microsoft-excel-a-comprehensive-guide-to-utilizing-round-functions/">
+                            Mastering Microsoft Excel: A Comprehensive Guide to Utilizing Round Functions
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Transformative Ways to Customize Windows 11 UI</p>
-
+                            Mastering Microsoft Excel: A Comprehensive Guide to Utilizing Round FunctionsQuick Links The ROUND Function The ROUNDUP Func...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 16:02:16 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 22:04:34 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -730,17 +786,7 @@
                     
                         
                         <li>
-                            <a href="/categories/os/">os</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -755,12 +801,7 @@
                     
                         <li>
                             
-                            <a href="/tags/windows10/">windows10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/windows11/">windows11</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -768,7 +809,7 @@
         
     </div>
 
-    <a href="/transformative-ways-to-customize-windows-11-ui/">Read more<span class="seo-reader-text">Transformative Ways to Customize Windows 11 UI</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-microsoft-excel-a-comprehensive-guide-to-utilizing-round-functions/">Read more<span class="seo-reader-text">Mastering Microsoft Excel: A Comprehensive Guide to Utilizing Round Functions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -784,31 +825,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-to-unfreeze-google-chrome-in-windows-11-fastly-find-out-now/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/9c252b23b1e3ad8357c15bea477480a8c23a36edb5cd9b4be147d76d8870fe38.jpg" alt="How to Unfreeze Google Chrome in Windows 11 Fastly? Find Out Now!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mastering-guide-fixed-and-the-specific-features-of-excel-like-cell-dimensions-setting-fixed-columns-and-rows/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/microsoft_excel_hero_1200x675.jpg" alt="Mastering, Guide, Fixed, and the Specific Features of Excel Like Cell Dimensions, Setting Fixed Columns, and Rows." class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-to-unfreeze-google-chrome-in-windows-11-fastly-find-out-now/">
-                            How to Unfreeze Google Chrome in Windows 11 Fastly? Find Out Now!
+                        <a href="/mastering-guide-fixed-and-the-specific-features-of-excel-like-cell-dimensions-setting-fixed-columns-and-rows/">
+                            Mastering, Guide, Fixed, and the Specific Features of Excel Like Cell Dimensions, Setting Fixed Columns, and Rows.
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes How to Unfreeze Google Chrome in Windows 11 Fastly? Find Out Now!</p>
-
+                            Mastering, Guide, Fixed, and the Specific Features of Excel Like Cell Dimensions, Setting Fixed Columns, and Rows.Quick Links...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 16:02:15 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 22:04:33 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -821,17 +861,7 @@
                     
                         
                         <li>
-                            <a href="/categories/os/">os</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -846,12 +876,7 @@
                     
                         <li>
                             
-                            <a href="/tags/windows10/">windows10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/windows11/">windows11</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -859,7 +884,7 @@
         
     </div>
 
-    <a href="/how-to-unfreeze-google-chrome-in-windows-11-fastly-find-out-now/">Read more<span class="seo-reader-text">How to Unfreeze Google Chrome in Windows 11 Fastly? Find Out Now!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-guide-fixed-and-the-specific-features-of-excel-like-cell-dimensions-setting-fixed-columns-and-rows/">Read more<span class="seo-reader-text">Mastering, Guide, Fixed, and the Specific Features of Excel Like Cell Dimensions, Setting Fixed Columns, and Rows.</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -875,31 +900,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/windows-settings-guide-managing-usb-devices-effectively/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b36010696a635f2d59959383d55084.jpg" alt="Windows Settings Guide: Managing USB Devices Effectively" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mastering-excel-tips-how-to-create-bullet-point-items-in-your-spreadsheets-easily/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/639d037a37b2c4b70f42aebe7df41fe55ddc0ed820ba5f25e49c1dbd778b36d5.jpg" alt="Mastering Excel Tips: How To Create Bullet Point Items In Your Spreadsheets Easily" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/windows-settings-guide-managing-usb-devices-effectively/">
-                            Windows Settings Guide: Managing USB Devices Effectively
+                        <a href="/mastering-excel-tips-how-to-create-bullet-point-items-in-your-spreadsheets-easily/">
+                            Mastering Excel Tips: How To Create Bullet Point Items In Your Spreadsheets Easily
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Windows Settings Guide: Managing USB Devices Effectively</p>
-
+                            Mastering Excel Tips: How To Create Bullet Point Items In Your Spreadsheets EasilyQuick Links Insert Bullet Points From the S...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 16:02:14 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 22:04:31 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -912,17 +936,7 @@
                     
                         
                         <li>
-                            <a href="/categories/os/">os</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -937,12 +951,7 @@
                     
                         <li>
                             
-                            <a href="/tags/windows10/">windows10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/windows11/">windows11</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -950,7 +959,7 @@
         
     </div>
 
-    <a href="/windows-settings-guide-managing-usb-devices-effectively/">Read more<span class="seo-reader-text">Windows Settings Guide: Managing USB Devices Effectively</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-excel-tips-how-to-create-bullet-point-items-in-your-spreadsheets-easily/">Read more<span class="seo-reader-text">Mastering Excel Tips: How To Create Bullet Point Items In Your Spreadsheets Easily</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -966,31 +975,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/windows-11-bridging-gaps-between-pc-and-phone/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/33bb4081d4eeefa2b002761f140e6d8a1ab23c4b8fc2690daa04e9c88bdd81bd.jpg" alt="Windows 11: Bridging Gaps Between PC and Phone" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mastering-excel-a-step-by-step-guide-to-using-exponents/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16a9fa8da6c72d7e20d694e32.jpg" alt="Mastering Excel: A Step-by-Step Guide to Using Exponents" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/windows-11-bridging-gaps-between-pc-and-phone/">
-                            Windows 11: Bridging Gaps Between PC and Phone
+                        <a href="/mastering-excel-a-step-by-step-guide-to-using-exponents/">
+                            Mastering Excel: A Step-by-Step Guide to Using Exponents
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Windows 11: Bridging Gaps Between PC and Phone</p>
-
+                            Mastering Excel: A Step-by-Step Guide to Using ExponentsQuick Links How to Display Exponents in Excel How to Use Exponents i...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 16:02:12 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 22:04:30 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -1003,17 +1011,7 @@
                     
                         
                         <li>
-                            <a href="/categories/os/">os</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -1028,12 +1026,7 @@
                     
                         <li>
                             
-                            <a href="/tags/windows10/">windows10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/windows11/">windows11</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1041,7 +1034,7 @@
         
     </div>
 
-    <a href="/windows-11-bridging-gaps-between-pc-and-phone/">Read more<span class="seo-reader-text">Windows 11: Bridging Gaps Between PC and Phone</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-excel-a-step-by-step-guide-to-using-exponents/">Read more<span class="seo-reader-text">Mastering Excel: A Step-by-Step Guide to Using Exponents</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1057,31 +1050,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/mastering-the-art-of-fast-filesaving-top-6-tips-for-powerpoint-in-win11/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/b5e9ddde4e68e5c468b12c2fce264f22eb978dc955e335250b1f4d060c7be8f8.jpg" alt="Mastering the Art of Fast Filesaving: Top 6 Tips for PowerPoint in Win11" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mastering-birthday-math-a-step-by-step-guide-to-finding-age-with-excel/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/a84f233e2df716933c1def7036ee5f60e5a298fe75b79753bbc6bfd2f6d9a6e5.jpg" alt="Mastering Birthday Math: A Step-by-Step Guide to Finding Age with Excel" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/mastering-the-art-of-fast-filesaving-top-6-tips-for-powerpoint-in-win11/">
-                            Mastering the Art of Fast Filesaving: Top 6 Tips for PowerPoint in Win11
+                        <a href="/mastering-birthday-math-a-step-by-step-guide-to-finding-age-with-excel/">
+                            Mastering Birthday Math: A Step-by-Step Guide to Finding Age with Excel
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Mastering the Art of Fast Filesaving: Top 6 Tips for PowerPoint in Win11</p>
-
+                            Mastering Birthday Math: A Step-by-Step Guide to Finding Age with ExcelQuick Links How to Calculate Age in Years How to Calc...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 16:02:11 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 22:04:29 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -1094,17 +1086,7 @@
                     
                         
                         <li>
-                            <a href="/categories/os/">os</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -1119,12 +1101,7 @@
                     
                         <li>
                             
-                            <a href="/tags/windows10/">windows10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/windows11/">windows11</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1132,7 +1109,7 @@
         
     </div>
 
-    <a href="/mastering-the-art-of-fast-filesaving-top-6-tips-for-powerpoint-in-win11/">Read more<span class="seo-reader-text">Mastering the Art of Fast Filesaving: Top 6 Tips for PowerPoint in Win11</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-birthday-math-a-step-by-step-guide-to-finding-age-with-excel/">Read more<span class="seo-reader-text">Mastering Birthday Math: A Step-by-Step Guide to Finding Age with Excel</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1148,31 +1125,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-to-mute-windows-11-monitoring-tools/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a0528aada037fb1ed089f58b7830637011a25b39b40ee36dae7aad2706914652.jpg" alt="How to Mute Windows 11 Monitoring Tools" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/learning-excel-from-scratch-top-6-skills-you-need-to-get-started/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/microsoft_excel_hero_1200x675.jpg" alt="Learning Excel From Scratch? Top 6 Skills You Need to Get Started!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-to-mute-windows-11-monitoring-tools/">
-                            How to Mute Windows 11 Monitoring Tools
+                        <a href="/learning-excel-from-scratch-top-6-skills-you-need-to-get-started/">
+                            Learning Excel From Scratch? Top 6 Skills You Need to Get Started!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes How to Mute Windows 11 Monitoring Tools</p>
-
+                            Learning Excel From Scratch? Top 6 Skills You Need to Get Started!Quick Links Entering Data in Excel Managing Spreadsheets ...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 16:02:10 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 22:04:28 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -1185,17 +1161,7 @@
                     
                         
                         <li>
-                            <a href="/categories/os/">os</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -1210,12 +1176,7 @@
                     
                         <li>
                             
-                            <a href="/tags/windows10/">windows10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/windows11/">windows11</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1223,7 +1184,7 @@
         
     </div>
 
-    <a href="/how-to-mute-windows-11-monitoring-tools/">Read more<span class="seo-reader-text">How to Mute Windows 11 Monitoring Tools</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/learning-excel-from-scratch-top-6-skills-you-need-to-get-started/">Read more<span class="seo-reader-text">Learning Excel From Scratch? Top 6 Skills You Need to Get Started!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1239,31 +1200,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-art-of-note-management-on-obsidian-canvas/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3de73e34857cd0f78a7df37ffea6db9e6fc87f29fa552917e2c2599c84130202.jpg" alt="The Art of Note Management on Obsidian Canvas" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/guide-mastering-the-art-of-text-trimming-in-ms-excel/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/05fdd1e1f79925f7174d27adc0ae3abbe1009fc921370376e92e90f7d158bcf8.jpg" alt="Guide: Mastering the Art of Text Trimming in MS Excel" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-art-of-note-management-on-obsidian-canvas/">
-                            The Art of Note Management on Obsidian Canvas
+                        <a href="/guide-mastering-the-art-of-text-trimming-in-ms-excel/">
+                            Guide: Mastering the Art of Text Trimming in MS Excel
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes The Art of Note Management on Obsidian Canvas</p>
-
+                            Guide: Mastering the Art of Text Trimming in MS ExcelQuick Links Truncate Text in Excel with RIGHT or RIGHTB Truncate Text i...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 16:02:09 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 22:04:27 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -1276,17 +1236,7 @@
                     
                         
                         <li>
-                            <a href="/categories/os/">os</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -1301,12 +1251,7 @@
                     
                         <li>
                             
-                            <a href="/tags/windows10/">windows10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/windows11/">windows11</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1314,7 +1259,7 @@
         
     </div>
 
-    <a href="/the-art-of-note-management-on-obsidian-canvas/">Read more<span class="seo-reader-text">The Art of Note Management on Obsidian Canvas</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/guide-mastering-the-art-of-text-trimming-in-ms-excel/">Read more<span class="seo-reader-text">Guide: Mastering the Art of Text Trimming in MS Excel</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1330,31 +1275,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/modify-winterrals-theme-picture/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/42e80c71c3e676d07f669fb711246bda708f83a958555a8cf5d9869ea65371d4.jpg" alt="Modify WinTerral&#39;s Theme Picture" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/guide-how-to-alter-the-money-sign-for-specific-cells-using-excel/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/0de78e74e4231d077c0bbd1093422fc13ce8314c6f52350885d9fed67ecbab12.jpg" alt="Guide: How To Alter The Money Sign For Specific Cells Using Excel" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/modify-winterrals-theme-picture/">
-                            Modify WinTerral&#39;s Theme Picture
+                        <a href="/guide-how-to-alter-the-money-sign-for-specific-cells-using-excel/">
+                            Guide: How To Alter The Money Sign For Specific Cells Using Excel
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Modify WinTerral’s Theme Picture</p>
-
+                            Guide: How To Alter The Money Sign For Specific Cells Using ExcelIf you’re working with different currencies in one Excel spr...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 16:02:07 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 22:04:25 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -1367,17 +1311,7 @@
                     
                         
                         <li>
-                            <a href="/categories/os/">os</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -1392,12 +1326,7 @@
                     
                         <li>
                             
-                            <a href="/tags/windows10/">windows10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/windows11/">windows11</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1405,7 +1334,7 @@
         
     </div>
 
-    <a href="/modify-winterrals-theme-picture/">Read more<span class="seo-reader-text">Modify WinTerral&#39;s Theme Picture</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/guide-how-to-alter-the-money-sign-for-specific-cells-using-excel/">Read more<span class="seo-reader-text">Guide: How To Alter The Money Sign For Specific Cells Using Excel</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1421,31 +1350,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/seven-strong-points-that-make-windows-10-preferable-over-win11/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/91d802feac954d9a2b7218b9de82c000f339447018e6cb53073b6a41a90f92e5.jpg" alt="Seven Strong Points That Make Windows 10 Preferable over Win11" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/guide-enabling-the-developer-tab-in-your-microsoft-office-suite/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/9648422bd4a60544ea009a8215c8d33f0ea36e37be4db7347e6bdc7775fbd6e2.jpg" alt="Guide: Enabling the Developer Tab in Your Microsoft Office Suite" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/seven-strong-points-that-make-windows-10-preferable-over-win11/">
-                            Seven Strong Points That Make Windows 10 Preferable over Win11
+                        <a href="/guide-enabling-the-developer-tab-in-your-microsoft-office-suite/">
+                            Guide: Enabling the Developer Tab in Your Microsoft Office Suite
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Seven Strong Points That Make Windows 10 Preferable over Win11</p>
-
+                            Guide: Enabling the Developer Tab in Your Microsoft Office SuiteQuick Links Why Bother with the Developer Tab? How to Add th...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 16:02:06 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 22:04:24 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -1458,17 +1386,7 @@
                     
                         
                         <li>
-                            <a href="/categories/os/">os</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -1483,12 +1401,7 @@
                     
                         <li>
                             
-                            <a href="/tags/windows10/">windows10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/windows11/">windows11</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1496,7 +1409,7 @@
         
     </div>
 
-    <a href="/seven-strong-points-that-make-windows-10-preferable-over-win11/">Read more<span class="seo-reader-text">Seven Strong Points That Make Windows 10 Preferable over Win11</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/guide-enabling-the-developer-tab-in-your-microsoft-office-suite/">Read more<span class="seo-reader-text">Guide: Enabling the Developer Tab in Your Microsoft Office Suite</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1512,31 +1425,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/quick-fixes-to-overcome-the-errortoomanypatterns-in-wsl/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/6af9f284b317fd0fc6915e0019f4adbc9dd81ab605d1c55ebd68e10c11778128.png" alt="Quick Fixes to Overcome the ERROR_TOO_MANY_PATTERNS in WSL" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/exploring-the-versatility-of-hyperlink-in-excel-6-essential-applications/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/109f8e41f016b710f8a0ad598776af950e5e0ec716fb01a083b32b51c83dd241.jpg" alt="Exploring the Versatility of Hyperlink in Excel: 6 Essential Applications" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/quick-fixes-to-overcome-the-errortoomanypatterns-in-wsl/">
-                            Quick Fixes to Overcome the ERROR_TOO_MANY_PATTERNS in WSL
+                        <a href="/exploring-the-versatility-of-hyperlink-in-excel-6-essential-applications/">
+                            Exploring the Versatility of Hyperlink in Excel: 6 Essential Applications
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Quick Fixes to Overcome the ERROR_TOO_MANY_PATTERNS in WSL</p>
-
+                            Exploring the Versatility of Hyperlink in Excel: 6 Essential ApplicationsQuick Links What Is the HYPERLINK Function? Link to...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 16:02:05 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 22:04:23 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -1549,17 +1461,7 @@
                     
                         
                         <li>
-                            <a href="/categories/os/">os</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -1574,12 +1476,7 @@
                     
                         <li>
                             
-                            <a href="/tags/windows10/">windows10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/windows11/">windows11</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1587,7 +1484,7 @@
         
     </div>
 
-    <a href="/quick-fixes-to-overcome-the-errortoomanypatterns-in-wsl/">Read more<span class="seo-reader-text">Quick Fixes to Overcome the ERROR_TOO_MANY_PATTERNS in WSL</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/exploring-the-versatility-of-hyperlink-in-excel-6-essential-applications/">Read more<span class="seo-reader-text">Exploring the Versatility of Hyperlink in Excel: 6 Essential Applications</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1597,7 +1494,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/193/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/192/">192</a><a class="page-number" href="/page/193/">193</a><span class="page-number current">194</span><a class="page-number" href="/page/195/">195</a><a class="page-number" href="/page/196/">196</a><span class="space">&hellip;</span><a class="page-number" href="/page/880/">880</a><a class="extend next" rel="next" href="/page/195/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/193/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/192/">192</a><a class="page-number" href="/page/193/">193</a><span class="page-number current">194</span><a class="page-number" href="/page/195/">195</a><a class="page-number" href="/page/196/">196</a><span class="space">&hellip;</span><a class="page-number" href="/page/959/">959</a><a class="extend next" rel="next" href="/page/195/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

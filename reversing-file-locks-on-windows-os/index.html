@@ -26,22 +26,28 @@
 <meta property="og:site_name" content="Windows11">
 <meta property="og:description" content="This Article Describes Reversing File Locks on Windows OS">
 <meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://a.impactradius-go.com/display-ad/16384-2136548">
+<meta property="og:image" content="https://ursime.pxf.io/i/5597632/2136548/16384">
+<meta property="og:image" content="https://a.impactradius-go.com/display-ad/7443-2118320">
+<meta property="og:image" content="https://appsumo.8odi.net/i/5597632/2118320/7443">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Change-Read-Only-Attribute-by-Modifying-Properties.jpg">
+<meta property="og:image" content="https://a.impactradius-go.com/display-ad/21526-2137974">
+<meta property="og:image" content="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Change-Read-Only-Attribute-With-Command-Prompt.jpg">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/12108-1186864">
-<meta property="og:image" content="https://dhgate.sjv.io/i/5597632/1186864/12108">
+<meta property="og:image" content="https://a.impactradius-go.com/display-ad/7443-2123735">
+<meta property="og:image" content="https://appsumo.8odi.net/i/5597632/2123735/7443">
+<meta property="og:image" content="https://a.impactradius-go.com/display-ad/19272-2115946">
+<meta property="og:image" content="https://aligracehair.sjv.io/i/5597632/2115946/19272">
 <meta property="og:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Change-Read-Only-Attribute-With-PowerShell.jpg">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/19272-2016170">
-<meta property="og:image" content="https://aligracehair.sjv.io/i/5597632/2016170/19272">
-<meta property="og:image" content="https://a.impactradius-go.com/display-clicktoplayimage/1531879.png">
-<meta property="og:image" content="https://imp.pxf.io/i/5597632/1531879/16446">
-<meta property="article:published_time" content="2024-09-04T18:12:32.215Z">
-<meta property="article:modified_time" content="2024-09-05T18:12:32.215Z">
+<meta property="og:image" content="https://a.impactradius-go.com/display-ad/19272-2135411">
+<meta property="og:image" content="https://aligracehair.sjv.io/i/5597632/2135411/19272">
+<meta property="article:published_time" content="2024-09-09T03:58:19.848Z">
+<meta property="article:modified_time" content="2024-09-10T03:58:19.848Z">
 <meta property="article:author" content="Joseph">
 <meta property="article:tag" content="windows10">
 <meta property="article:tag" content="windows11">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Change-Read-Only-Attribute-by-Modifying-Properties.jpg">
+<meta name="twitter:image" content="https://a.impactradius-go.com/display-ad/16384-2136548">
     
 
     <!-- google site verification -->
@@ -74,6 +80,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -261,7 +324,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"windows11.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -604,7 +667,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8795</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9586</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -636,7 +699,7 @@
                 <img src="https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83da4a3303db46e26dc1ec6ec7.jpg" alt="Reversing File Locks on Windows OS" class="w-full h-60 sm:h-72 md:h-80 object-cover sm:rounded-t-large dark:brightness-75"/>
                 
                 <div class="w-full flex items-center absolute bottom-0 justify-start">
-                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-4xl md:text-5xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">Reversing File Locks on Windows OS</h1>
+                    <h1 class="article-title-cover text-center mx-6 my-6 text-second-text-color bg-background-color-transparent px-4 py-3 text-3xl sm:text-2xl md:text-2xl font-bold backdrop-blur-lg rounded-xl border border-border-color ">Reversing File Locks on Windows OS</h1>
                 </div>
             
             </div>
@@ -657,15 +720,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-09-05 02:12:32</span>
-        <span class="mobile">2024-09-05 02:12:32</span>
+        <span class="desktop">2024-09-09 11:58:19</span>
+        <span class="mobile">2024-09-09 11:58:19</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-09-06 02:12:32</span>
-            <span class="mobile">2024-09-06 02:12:32</span>
+            <span class="desktop">2024-09-10 11:58:19</span>
+            <span class="mobile">2024-09-10 11:58:19</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -729,9 +792,35 @@
 
 
         <div class="article-content markdown-body px-2 sm:px-6 md:px-8 pb-8">
-            <h2 id="Reversing-File-Locks-on-Windows-OS"><a href="#Reversing-File-Locks-on-Windows-OS" class="headerlink" title="Reversing File Locks on Windows OS"></a>Reversing File Locks on Windows OS</h2><p> When a file is marked as read-only on Windows, you can only view it and not change it in any way. This essentially protects important files from unauthorized changes.</p>
+            <!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img  height="0" width="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://ursime.pxf.io/i/5597632/2136548/16384"
+                      style="position:absolute;visibility:hidden;" border="0" 
+                >
+<!-- affiliate ads end -->
+## Reversing File Locks on Windows OS
+
+<p> When a file is marked as read-only on Windows, you can only view it and not change it in any way. This essentially protects important files from unauthorized changes.</p>
 <p> On Windows, you can set or remove the read-only attribute for a file by modifying its properties. Alternatively, you can also run a command in Command Prompt or Windows PowerShell to do the same. In this article, we take a look at all of them.</p>
-<h2 id="1-How-to-Change-the-Read-Only-Attribute-for-Files-by-Modifying-Properties"><a href="#1-How-to-Change-the-Read-Only-Attribute-for-Files-by-Modifying-Properties" class="headerlink" title="1. How to Change the Read-Only Attribute for Files by Modifying Properties"></a>1. How to Change the Read-Only Attribute for Files by Modifying Properties</h2><p> The easiest way to set or remove the read-only attribute for a file on Windows is by modifying its properties. Here’s how you can go about it.</p>
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img  height="0" width="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://appsumo.8odi.net/i/5597632/2118320/7443"
+                      style="position:absolute;visibility:hidden;" border="0" 
+                >
+<!-- affiliate ads end -->
+## 1\. How to Change the Read-Only Attribute for Files by Modifying Properties
+
+<p> The easiest way to set or remove the read-only attribute for a file on Windows is by modifying its properties. Here’s how you can go about it.</p>
 <ol>
 <li><a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/windows-open-file-explorer/" >Open File Explorer <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and navigate to the file for which you want to change the read-only attribute.</li>
 <li>Right-click on your file and select<strong>Properties</strong> .</li>
@@ -744,7 +833,20 @@
                 ></li>
 </ol>
 <p> Note that Windows may prevent you from changing the read-only attribute of a file if you don’t have the necessary permissions to modify the folder in which the file is located. In that case, you must take ownership of the folder first. If you need help, check our guide on[how to take ownership of folders on Windows](<a class="link"   target="_blank" rel="noopener" href="http://how/" >http://How <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> to Take Ownership of Folders in Windows 10 &amp; 11) .</p>
-<h2 id="2-How-to-Change-the-Read-Only-Attribute-for-Files-Using-the-Command-Prompt"><a href="#2-How-to-Change-the-Read-Only-Attribute-for-Files-Using-the-Command-Prompt" class="headerlink" title="2. How to Change the Read-Only Attribute for Files Using the Command Prompt"></a>2. How to Change the Read-Only Attribute for Files Using the Command Prompt</h2><p> Command Prompt is one of two command-line tools available on Windows. You can use it to run batch files, troubleshoot errors, and perform various other tasks. It also lets you change a file’s read-only attribute with a single command. Here are the steps you need to follow.</p>
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img  height="0" width="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526"
+                      style="position:absolute;visibility:hidden;" border="0" 
+                >
+<!-- affiliate ads end -->
+## 2\. How to Change the Read-Only Attribute for Files Using the Command Prompt
+
+<p> Command Prompt is one of two command-line tools available on Windows. You can use it to run batch files, troubleshoot errors, and perform various other tasks. It also lets you change a file’s read-only attribute with a single command. Here are the steps you need to follow.</p>
 <ol>
 <li>Right-click on the file for which you want to modify the read-only attribute and select<strong>Copy as path</strong> .</li>
 <li>Press<strong>Win + X</strong> to open the Power User menu.</li>
@@ -759,18 +861,30 @@
                      data-src="https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Change-Read-Only-Attribute-With-Command-Prompt.jpg"
                       alt="Change Read-Only Attribute With Command Prompt"
                 ></p>
-<p> Once you run the above command, the file will be set as read-only. Likewise, if you want to remove the read-only attribute for a file, use this command:</p>
-<p><code>attrib -r &quot;FilePath&quot;</code></p>
-<p> Once you remove the read-only attribute for a file, you should be able to edit or modify it.</p>
-<p> Like using Command Prompt? Check our guide to learn<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/windows-10-command-prompt-tips/" >how to master Command Prompt on Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> .</p>
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
 <img  height="0" width="0" 
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://dhgate.sjv.io/i/5597632/1186864/12108"
+                     data-src="https://appsumo.8odi.net/i/5597632/2123735/7443"
+                      style="position:absolute;visibility:hidden;" border="0" 
+                >
+<!-- affiliate ads end -->
+ Once you run the above command, the file will be set as read-only. Likewise, if you want to remove the read-only attribute for a file, use this command:
+
+<p><code>attrib -r &quot;FilePath&quot;</code></p>
+<p> Once you remove the read-only attribute for a file, you should be able to edit or modify it.</p>
+<p> Like using Command Prompt? Check our guide to learn<a class="link"   target="_blank" rel="noopener" href="https://www.makeuseof.com/tag/windows-10-command-prompt-tips/" >how to master Command Prompt on Windows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> .</p>
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img  height="0" width="0" 
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://aligracehair.sjv.io/i/5597632/2115946/19272"
                       style="position:absolute;visibility:hidden;" border="0" 
                 >
 <!-- affiliate ads end -->
@@ -793,44 +907,20 @@
                       alt="Change Read-Only Attribute With PowerShell"
                 ></p>
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
 <img  height="0" width="0" 
                      lazyload
                      src="/images/loading.svg"
-                     data-src="https://aligracehair.sjv.io/i/5597632/2016170/19272"
+                     data-src="https://aligracehair.sjv.io/i/5597632/2135411/19272"
                       style="position:absolute;visibility:hidden;" border="0" 
                 >
 <!-- affiliate ads end -->
  Alternatively, if you want to remove the read-only attribute for a file, use this command:
 
 <p><code>Set-ItemProperty -Path &quot;FilePath&quot; -Name IsReadOnly -Value $False</code></p>
-<!-- affiliate ads begin -->
-<span id="1531879">
-                    <video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-       <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-       <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-                      style="border: none; height: 100%; width: 100%; object-fit: contain"
-                >
-    </video>
-    <div style="width:540px;text-align:center"><a class="link"   href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);" >Click here <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></div>
-</span>
-<img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1531879/16446"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                >
-<!-- affiliate ads end -->
-## Modifying the Read-Only Attribute for Files on Windows
-
-<p> It’s worth noting that most system files on Windows will have the read-only attribute by default. So, make sure you don’t modify them by mistake. For your other files, you can pick any of the above methods listed above to set or unset their read-only attribute.</p>
+<h2 id="Modifying-the-Read-Only-Attribute-for-Files-on-Windows"><a href="#Modifying-the-Read-Only-Attribute-for-Files-on-Windows" class="headerlink" title="Modifying the Read-Only Attribute for Files on Windows"></a>Modifying the Read-Only Attribute for Files on Windows</h2><p> It’s worth noting that most system files on Windows will have the read-only attribute by default. So, make sure you don’t modify them by mistake. For your other files, you can pick any of the above methods listed above to set or unset their read-only attribute.</p>
 <p><ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -918,11 +1008,11 @@
         <li><strong>Title:</strong> Reversing File Locks on Windows OS</li>
         <li><strong>Author:</strong> Joseph</li>
         <li><strong>Created at
-                :</strong> 2024-09-05 02:12:32</li>
+                :</strong> 2024-09-09 11:58:19</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-09-06 02:12:32
+                    :</strong> 2024-09-10 11:58:19
             </li>
         
         <li>
@@ -966,13 +1056,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/how-to-enable-controlled-folder-access-in-windows-11-and-11/"
+                        href="/explore-the-full-potential-of-windows-powertoys-with-these-10-tips/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">How to Enable Controlled Folder Access in Windows 11 &amp; 11</span>
+                                <span class="post-nav-title-item">Explore the Full Potential of Windows PowerToys with These 10 Tips</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -982,10 +1072,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/explore-the-full-potential-of-windows-powertoys-with-these-10-tips/"
+                        href="/how-to-enable-controlled-folder-access-in-windows-11-and-11/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Explore the Full Potential of Windows PowerToys with These 10 Tips</span>
+                                <span class="post-nav-title-item">How to Enable Controlled Folder Access in Windows 11 &amp; 11</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
@@ -1007,7 +1097,7 @@
     <div class="post-toc">
         <div class="toc-title">On this page</div>
         <div class="page-title">Reversing File Locks on Windows OS</div>
-        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Reversing-File-Locks-on-Windows-OS"><span class="nav-text">Reversing File Locks on Windows OS</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#1-How-to-Change-the-Read-Only-Attribute-for-Files-by-Modifying-Properties"><span class="nav-text">1. How to Change the Read-Only Attribute for Files by Modifying Properties</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#2-How-to-Change-the-Read-Only-Attribute-for-Files-Using-the-Command-Prompt"><span class="nav-text">2. How to Change the Read-Only Attribute for Files Using the Command Prompt</span></a></li></ol>
+        <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Modifying-the-Read-Only-Attribute-for-Files-on-Windows"><span class="nav-text">Modifying the Read-Only Attribute for Files on Windows</span></a></li></ol>
 
     </div>
 </div>

@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"windows11.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8795</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9586</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -629,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-08'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-15'>
                 
                     
-                        <a href="/troubleshoot-error-non-working-windows-11-voice-access/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Troubleshoot Error: Non-Working Windows 11 Voice Access</span>
+                        <a href="/1719309112975-stuck-in-chrome-unfreeze-windows-11-with-simple-fixes/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Stuck in Chrome? Unfreeze Windows 11 with Simple Fixes!</span>
                         </a>
                     
               
                 
                     
-                        <a href="/how-to-guarantee-windows-screensaver-immobility/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">How to Guarantee Windows Screensaver Immobility</span>
+                        <a href="/avoiding-game-session-rejection-by-steams-vac/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Avoiding Game Session Rejection by Steam&#39;s VAC</span>
                         </a>
                     
               
                 
                     
-                        <a href="/rejuvenating-pcs-essential-13-tricks-for-restoring-systems/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Rejuvenating PCs: Essential 13 Tricks for Restoring Systems</span>
+                        <a href="/applying-local-group-policies-to-individual-users-windows-11-guide/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Applying Local Group Policies to Individual Users: Windows 11 Guide</span>
                         </a>
                     
               
                 
                     
-                        <a href="/why-does-tasker-show-other-processes/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Why Does Tasker Show Other Processes?</span>
+                        <a href="/batch-folder-generation-in-windows-11-for-efficiency-boost/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Batch Folder Generation in Windows 11 for Efficiency Boost</span>
                         </a>
                     
               
                 
                     
-                        <a href="/guide-to-clearing-winsec-error-limited-administrator/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Guide to Clearing WinSec Error - &#39;Limited Administrator&#39;</span>
+                        <a href="/accessible-windows-for-new-users-and-learners/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Accessible Windows for New Users &amp; Learners</span>
                         </a>
                     
               
                 
                     
-                        <a href="/the-art-of-crafting-a-better-windows-11/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">The Art of Crafting a Better Windows 11</span>
+                        <a href="/a-comprehensive-list-of-10-ways-to-fine-tune-windows-11-screens/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">A Comprehensive List of 10 Ways to Fine-Tune Windows 11 Screens</span>
                         </a>
                     
               
                 
                     
-                        <a href="/guide-to-cease-built-in-desktop-keyboard-in-windows-os/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Guide to Cease Built-In Desktop Keyboard in Windows OS</span>
+                        <a href="/breaking-through-windows-tpm-restrictions-with-ease/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Breaking Through Windows TPM Restrictions with Ease</span>
                         </a>
                     
               
                 
                     
-                        <a href="/evaluating-the-significance-of-audio-device-isolation-in-windows/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Evaluating the Significance of Audio Device Isolation in Windows</span>
+                        <a href="/aging-gracefully-with-your-grans-windows-machine/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Aging Gracefully with Your Gran’s Windows Machine</span>
                         </a>
                     
               
                 
                     
-                        <a href="/mastering-winerror-fixes-for-oculus-app-installation/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Mastering WinError Fixes for Oculus App Installation</span>
+                        <a href="/chkdsk-sfc-and-dism-windows-tools-unveiled-and-explained/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">CHKDSK, SFC &amp; DISM: Windows Tools Unveiled and Explained</span>
                         </a>
                     
               
                 
                     
-                        <a href="/synchronize-access-controls-with-powertoys-locksmith/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Synchronize Access Controls with PowerToys&#39; Locksmith</span>
+                        <a href="/breakdown-how-law-filters-transform-your-windows-experience/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Breakdown: How LAW Filters Transform Your Windows Experience</span>
                         </a>
                     
               
@@ -709,7 +766,7 @@
 </div>
 <div class="category-paginator">
     <div class="paginator">
-    <a class="extend prev" rel="prev" href="/categories/os/windows-11/page/678/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/os/windows-11/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/os/windows-11/page/677/">677</a><a class="page-number" href="/categories/os/windows-11/page/678/">678</a><span class="page-number current">679</span><a class="page-number" href="/categories/os/windows-11/page/680/">680</a><a class="page-number" href="/categories/os/windows-11/page/681/">681</a><span class="space">&hellip;</span><a class="page-number" href="/categories/os/windows-11/page/855/">855</a><a class="extend next" rel="next" href="/categories/os/windows-11/page/680/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/categories/os/windows-11/page/678/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/categories/os/windows-11/">1</a><span class="space">&hellip;</span><a class="page-number" href="/categories/os/windows-11/page/677/">677</a><a class="page-number" href="/categories/os/windows-11/page/678/">678</a><span class="page-number current">679</span><a class="page-number" href="/categories/os/windows-11/page/680/">680</a><a class="page-number" href="/categories/os/windows-11/page/681/">681</a><span class="space">&hellip;</span><a class="page-number" href="/categories/os/windows-11/page/934/">934</a><a class="extend next" rel="next" href="/categories/os/windows-11/page/680/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>

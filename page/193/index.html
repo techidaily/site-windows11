@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"windows11.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8795</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9586</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8795</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9586</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,31 +750,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-to-unlock-pin-related-bluetooth-disconnects-in-win11win10/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4e4c1c2d693991f9d3085553.jpg" alt="How To Unlock PIN-Related Bluetooth Disconnects in Win11/Win10" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/step-by-step-guide-to-intensifying-excel-grid-lines/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/MS-excel-logo-675.png" alt="Step-by-Step Guide to Intensifying Excel Grid Lines" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-to-unlock-pin-related-bluetooth-disconnects-in-win11win10/">
-                            How To Unlock PIN-Related Bluetooth Disconnects in Win11/Win10
+                        <a href="/step-by-step-guide-to-intensifying-excel-grid-lines/">
+                            Step-by-Step Guide to Intensifying Excel Grid Lines
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes How To Unlock PIN-Related Bluetooth Disconnects in Win11&#x2F;Win10</p>
-
+                            Step-by-Step Guide to Intensifying Excel Grid LinesQuick Links Use a Darker Gridline Color in Settings Apply a Border to the...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 16:02:27 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 22:04:46 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -730,17 +786,7 @@
                     
                         
                         <li>
-                            <a href="/categories/os/">os</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -755,12 +801,7 @@
                     
                         <li>
                             
-                            <a href="/tags/windows10/">windows10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/windows11/">windows11</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -768,7 +809,7 @@
         
     </div>
 
-    <a href="/how-to-unlock-pin-related-bluetooth-disconnects-in-win11win10/">Read more<span class="seo-reader-text">How To Unlock PIN-Related Bluetooth Disconnects in Win11/Win10</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/step-by-step-guide-to-intensifying-excel-grid-lines/">Read more<span class="seo-reader-text">Step-by-Step Guide to Intensifying Excel Grid Lines</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -784,31 +825,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/essential-tips-troubleshooting-missing-steam-controllers/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9bd34731fb80416cf28c2a508.jpg" alt="Essential Tips: Troubleshooting Missing Steam Controllers" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/step-by-step-guide-renaming-series-within-an-ms-excel-dataset/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/bdbc1bb211547c18c849de30d5eb74ca5d67d9e0fc552f041d0a6f6f88d073bb.jpg" alt="Step-by-Step Guide: Renaming Series Within an MS Excel Dataset" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/essential-tips-troubleshooting-missing-steam-controllers/">
-                            Essential Tips: Troubleshooting Missing Steam Controllers
+                        <a href="/step-by-step-guide-renaming-series-within-an-ms-excel-dataset/">
+                            Step-by-Step Guide: Renaming Series Within an MS Excel Dataset
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Essential Tips: Troubleshooting Missing Steam Controllers</p>
-
+                            Step-by-Step Guide: Renaming Series Within an MS Excel DatasetA data series in Microsoft Excel is a set of data, shown in a r...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 16:02:26 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 22:04:45 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -821,17 +861,7 @@
                     
                         
                         <li>
-                            <a href="/categories/os/">os</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -846,12 +876,7 @@
                     
                         <li>
                             
-                            <a href="/tags/windows10/">windows10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/windows11/">windows11</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -859,7 +884,7 @@
         
     </div>
 
-    <a href="/essential-tips-troubleshooting-missing-steam-controllers/">Read more<span class="seo-reader-text">Essential Tips: Troubleshooting Missing Steam Controllers</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/step-by-step-guide-renaming-series-within-an-ms-excel-dataset/">Read more<span class="seo-reader-text">Step-by-Step Guide: Renaming Series Within an MS Excel Dataset</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -875,31 +900,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/navigate-easily-getting-outlook-preview-on-winoss/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a055c6f3927bcc9e40cc66cb.jpg" alt="Navigate Easily: Getting Outlook Preview on WinOSs" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/step-by-step-guide-combining-multiple-charts-with-excels-overlay-feature/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/7951d32be8f36c4eb18b2a1ca73585423cfb1568fc448e5639b2a4a582d5f7dd.jpg" alt="Step-by-Step Guide: Combining Multiple Charts with Excel&#39;s Overlay Feature" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/navigate-easily-getting-outlook-preview-on-winoss/">
-                            Navigate Easily: Getting Outlook Preview on WinOSs
+                        <a href="/step-by-step-guide-combining-multiple-charts-with-excels-overlay-feature/">
+                            Step-by-Step Guide: Combining Multiple Charts with Excel&#39;s Overlay Feature
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Navigate Easily: Getting Outlook Preview on WinOSs</p>
-
+                            Step-by-Step Guide: Combining Multiple Charts with Excel’s Overlay FeatureQuick Links Create a Combo Chart in Excel Overlap ...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 16:02:25 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 22:04:44 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -912,17 +936,7 @@
                     
                         
                         <li>
-                            <a href="/categories/os/">os</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -937,12 +951,7 @@
                     
                         <li>
                             
-                            <a href="/tags/windows10/">windows10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/windows11/">windows11</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -950,7 +959,7 @@
         
     </div>
 
-    <a href="/navigate-easily-getting-outlook-preview-on-winoss/">Read more<span class="seo-reader-text">Navigate Easily: Getting Outlook Preview on WinOSs</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/step-by-step-guide-combining-multiple-charts-with-excels-overlay-feature/">Read more<span class="seo-reader-text">Step-by-Step Guide: Combining Multiple Charts with Excel&#39;s Overlay Feature</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -966,31 +975,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/fixing-your-unresponsive-xbox-controllers-on-pc/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/82ace019181fb90d20c533db44f7982f837c984d09bf52bb3d1445c9e89ae06d.jpg" alt="Fixing Your Unresponsive Xbox Controllers on PC" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/speedy-techniques-for-removing-pictorial-data-from-your-excel-files/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/MS-excel-logo-675.png" alt="Speedy Techniques for Removing Pictorial Data From Your Excel Files" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/fixing-your-unresponsive-xbox-controllers-on-pc/">
-                            Fixing Your Unresponsive Xbox Controllers on PC
+                        <a href="/speedy-techniques-for-removing-pictorial-data-from-your-excel-files/">
+                            Speedy Techniques for Removing Pictorial Data From Your Excel Files
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Fixing Your Unresponsive Xbox Controllers on PC</p>
-
+                            Speedy Techniques for Removing Pictorial Data From Your Excel FilesQuick Links Remove Multiple Pictures at Once in Excel T...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 16:02:24 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 22:04:42 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -1003,17 +1011,7 @@
                     
                         
                         <li>
-                            <a href="/categories/os/">os</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -1028,12 +1026,7 @@
                     
                         <li>
                             
-                            <a href="/tags/windows10/">windows10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/windows11/">windows11</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1041,7 +1034,7 @@
         
     </div>
 
-    <a href="/fixing-your-unresponsive-xbox-controllers-on-pc/">Read more<span class="seo-reader-text">Fixing Your Unresponsive Xbox Controllers on PC</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/speedy-techniques-for-removing-pictorial-data-from-your-excel-files/">Read more<span class="seo-reader-text">Speedy Techniques for Removing Pictorial Data From Your Excel Files</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1057,31 +1050,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/navigating-through-code-0x0000004e-anomalies/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb1ee83a9d9a5c2d8f590e22f.jpg" alt="Navigating Through Code 0X0000004E Anomalies" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/securing-your-files-a-guide-to-encrypting-documents-and-pdfs-using-microsoft-office-tools/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f0e7070951ebc50a7e45bfdb.jpg" alt="Securing Your Files: A Guide to Encrypting Documents &amp; PDFs Using Microsoft Office Tools" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/navigating-through-code-0x0000004e-anomalies/">
-                            Navigating Through Code 0X0000004E Anomalies
+                        <a href="/securing-your-files-a-guide-to-encrypting-documents-and-pdfs-using-microsoft-office-tools/">
+                            Securing Your Files: A Guide to Encrypting Documents &amp; PDFs Using Microsoft Office Tools
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Navigating Through Code 0X0000004E Anomalies</p>
-
+                            Securing Your Files: A Guide to Encrypting Documents &amp; PDFs Using Microsoft Office ToolsQuick Links How Secure Is Microso...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 16:02:23 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 22:04:41 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -1094,17 +1086,7 @@
                     
                         
                         <li>
-                            <a href="/categories/os/">os</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -1119,12 +1101,7 @@
                     
                         <li>
                             
-                            <a href="/tags/windows10/">windows10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/windows11/">windows11</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1132,7 +1109,7 @@
         
     </div>
 
-    <a href="/navigating-through-code-0x0000004e-anomalies/">Read more<span class="seo-reader-text">Navigating Through Code 0X0000004E Anomalies</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/securing-your-files-a-guide-to-encrypting-documents-and-pdfs-using-microsoft-office-tools/">Read more<span class="seo-reader-text">Securing Your Files: A Guide to Encrypting Documents &amp; PDFs Using Microsoft Office Tools</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1148,31 +1125,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/reclaim-lost-boot-prompts-uefi-fixes/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/ceeb71131f67470128687850a84b0078790624844b7b52caccd45c8365ecdd85.jpg" alt="Reclaim Lost Boot Prompts: UEFI Fixes" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/seamlessly-moving-your-contacts-converting-excel-data-for-use-in-outlook/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb0b1ed4fef37387dcca189b5.jpg" alt="Seamlessly Moving Your Contacts: Converting Excel Data for Use in Outlook" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/reclaim-lost-boot-prompts-uefi-fixes/">
-                            Reclaim Lost Boot Prompts: UEFI Fixes
+                        <a href="/seamlessly-moving-your-contacts-converting-excel-data-for-use-in-outlook/">
+                            Seamlessly Moving Your Contacts: Converting Excel Data for Use in Outlook
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Reclaim Lost Boot Prompts: UEFI Fixes</p>
-
+                            Seamlessly Moving Your Contacts: Converting Excel Data for Use in OutlookQuick Links Save Your Contacts as a CSV File Import...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 16:02:22 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 22:04:40 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -1185,17 +1161,7 @@
                     
                         
                         <li>
-                            <a href="/categories/os/">os</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -1210,12 +1176,7 @@
                     
                         <li>
                             
-                            <a href="/tags/windows10/">windows10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/windows11/">windows11</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1223,7 +1184,7 @@
         
     </div>
 
-    <a href="/reclaim-lost-boot-prompts-uefi-fixes/">Read more<span class="seo-reader-text">Reclaim Lost Boot Prompts: UEFI Fixes</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/seamlessly-moving-your-contacts-converting-excel-data-for-use-in-outlook/">Read more<span class="seo-reader-text">Seamlessly Moving Your Contacts: Converting Excel Data for Use in Outlook</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1239,31 +1200,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/identifying-your-device-top-6-windows-pc-model-names/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a2a04cdf466fbea2e01b9f9b4e0e053a2190bbd1cddde4903063c61616ed0d4f.jpg" alt="Identifying Your Device: Top 6 Windows PC Model Names" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/save-time-and-effort-with-quick-excel-solutions-no-more-manual-file-organization/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-laptop-with-excel-and-the-file-explorer-open.jpg" alt="Save Time and Effort with Quick Excel Solutions - No More Manual File Organization!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/identifying-your-device-top-6-windows-pc-model-names/">
-                            Identifying Your Device: Top 6 Windows PC Model Names
+                        <a href="/save-time-and-effort-with-quick-excel-solutions-no-more-manual-file-organization/">
+                            Save Time and Effort with Quick Excel Solutions - No More Manual File Organization!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Identifying Your Device: Top 6 Windows PC Model Names</p>
-
+                            Save Time and Effort with Quick Excel Solutions - No More Manual File Organization!Highlights Use Excel’s FlashFill to create...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 16:02:21 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 22:04:39 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -1276,17 +1236,7 @@
                     
                         
                         <li>
-                            <a href="/categories/os/">os</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -1301,12 +1251,7 @@
                     
                         <li>
                             
-                            <a href="/tags/windows10/">windows10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/windows11/">windows11</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1314,7 +1259,7 @@
         
     </div>
 
-    <a href="/identifying-your-device-top-6-windows-pc-model-names/">Read more<span class="seo-reader-text">Identifying Your Device: Top 6 Windows PC Model Names</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/save-time-and-effort-with-quick-excel-solutions-no-more-manual-file-organization/">Read more<span class="seo-reader-text">Save Time and Effort with Quick Excel Solutions - No More Manual File Organization!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1330,31 +1275,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/navigating-text-pasting-in-powertoys-quickly/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/46162ff1d50cb6f1b35f044048a0b2464ebecd738e59505ca40bf7c4a2c48673.png" alt="Navigating Text Pasting in PowerToys Quickly" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/one-click-syncing-of-ms-excel-workbooks-with-onedrive-explained/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/microsoft-excel-logo.jpg" alt="One-Click Syncing of MS Excel Workbooks with OneDrive Explained" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/navigating-text-pasting-in-powertoys-quickly/">
-                            Navigating Text Pasting in PowerToys Quickly
+                        <a href="/one-click-syncing-of-ms-excel-workbooks-with-onedrive-explained/">
+                            One-Click Syncing of MS Excel Workbooks with OneDrive Explained
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Navigating Text Pasting in PowerToys Quickly</p>
-
+                            One-Click Syncing of MS Excel Workbooks with OneDrive ExplainedQuick Links Automatically Save Microsoft Excel Workbooks Chan...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 16:02:20 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 22:04:38 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -1367,17 +1311,7 @@
                     
                         
                         <li>
-                            <a href="/categories/os/">os</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -1392,12 +1326,7 @@
                     
                         <li>
                             
-                            <a href="/tags/windows10/">windows10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/windows11/">windows11</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1405,7 +1334,7 @@
         
     </div>
 
-    <a href="/navigating-text-pasting-in-powertoys-quickly/">Read more<span class="seo-reader-text">Navigating Text Pasting in PowerToys Quickly</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/one-click-syncing-of-ms-excel-workbooks-with-onedrive-explained/">Read more<span class="seo-reader-text">One-Click Syncing of MS Excel Workbooks with OneDrive Explained</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1421,31 +1350,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/unleash-potential-understanding-function-fn-key-operations/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e763bab0af0faf409f9f29c9c.jpg" alt="Unleash Potential: Understanding Function (Fn) Key Operations" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mastering-the-quick-freezing-of-selected-row-groups-in-ms-excel-a-step-by-step-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/6404644d3e1ec95170f598da6ea66bbff597c34cc3f9580cc8d7755b3643dcab.png" alt="Mastering the Quick Freezing of Selected Row Groups in MS Excel: A Step-by-Step Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/unleash-potential-understanding-function-fn-key-operations/">
-                            Unleash Potential: Understanding Function (Fn) Key Operations
+                        <a href="/mastering-the-quick-freezing-of-selected-row-groups-in-ms-excel-a-step-by-step-guide/">
+                            Mastering the Quick Freezing of Selected Row Groups in MS Excel: A Step-by-Step Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Unleash Potential: Understanding Function (Fn) Key Operations</p>
-
+                            Mastering the Quick Freezing of Selected Row Groups in MS Excel: A Step-by-Step GuideQuick Links Freeze Two or More Rows in E...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 16:02:19 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 22:04:37 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -1458,17 +1386,7 @@
                     
                         
                         <li>
-                            <a href="/categories/os/">os</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -1483,12 +1401,7 @@
                     
                         <li>
                             
-                            <a href="/tags/windows10/">windows10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/windows11/">windows11</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1496,7 +1409,7 @@
         
     </div>
 
-    <a href="/unleash-potential-understanding-function-fn-key-operations/">Read more<span class="seo-reader-text">Unleash Potential: Understanding Function (Fn) Key Operations</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-the-quick-freezing-of-selected-row-groups-in-ms-excel-a-step-by-step-guide/">Read more<span class="seo-reader-text">Mastering the Quick Freezing of Selected Row Groups in MS Excel: A Step-by-Step Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1512,31 +1425,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/navigating-non-operational-windows-programs-with-7-strategies/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee741804b69375cf4ed02faf5de.jpg" alt="Navigating Non-Operational Windows Programs with 7 Strategies" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mastering-pictorial-data-representation-embedding-pictures-into-ms-excel-worksheets/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2fae50b407ca5b13b61d24c2.jpg" alt="Mastering Pictorial Data Representation: Embedding Pictures Into MS Excel Worksheets" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/navigating-non-operational-windows-programs-with-7-strategies/">
-                            Navigating Non-Operational Windows Programs with 7 Strategies
+                        <a href="/mastering-pictorial-data-representation-embedding-pictures-into-ms-excel-worksheets/">
+                            Mastering Pictorial Data Representation: Embedding Pictures Into MS Excel Worksheets
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Navigating Non-Operational Windows Programs with 7 Strategies</p>
-
+                            Mastering Pictorial Data Representation: Embedding Pictures Into MS Excel WorksheetsRead update Microsoft added a dedicated ...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 16:02:17 GMT+0800">
+            <span class="home-article-date" data-date="Sat Aug 31 2024 22:04:35 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-31
                 
             </span>
         </span>
@@ -1549,17 +1461,7 @@
                     
                         
                         <li>
-                            <a href="/categories/os/">os</a>&nbsp;
-                        </li>
-                    
-                    
-                
-                    
-                        
-                            <li>></li>
-                        
-                        <li>
-                            <a href="/categories/os/windows-11/">windows 11</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -1574,12 +1476,7 @@
                     
                         <li>
                             
-                            <a href="/tags/windows10/">windows10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/windows11/">windows11</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1587,7 +1484,7 @@
         
     </div>
 
-    <a href="/navigating-non-operational-windows-programs-with-7-strategies/">Read more<span class="seo-reader-text">Navigating Non-Operational Windows Programs with 7 Strategies</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-pictorial-data-representation-embedding-pictures-into-ms-excel-worksheets/">Read more<span class="seo-reader-text">Mastering Pictorial Data Representation: Embedding Pictures Into MS Excel Worksheets</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1597,7 +1494,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/192/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/191/">191</a><a class="page-number" href="/page/192/">192</a><span class="page-number current">193</span><a class="page-number" href="/page/194/">194</a><a class="page-number" href="/page/195/">195</a><span class="space">&hellip;</span><a class="page-number" href="/page/880/">880</a><a class="extend next" rel="next" href="/page/194/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/192/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/191/">191</a><a class="page-number" href="/page/192/">192</a><span class="page-number current">193</span><a class="page-number" href="/page/194/">194</a><a class="page-number" href="/page/195/">195</a><span class="space">&hellip;</span><a class="page-number" href="/page/959/">959</a><a class="extend next" rel="next" href="/page/194/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>
