@@ -1,7 +1,7 @@
 ---
 title: Starting Microsoft Paint in Windows 11
-date: 2024-09-09T12:12:29.548Z
-updated: 2024-09-10T12:12:29.548Z
+date: 2024-09-13T22:19:42.723Z
+updated: 2024-09-15T21:23:16.072Z
 tags:
   - windows10
   - windows11
@@ -18,12 +18,6 @@ thumbnail: https://thmb.techidaily.com/5102f68d4f6f5865eb613c39e1e5be805ea96bcf0
 
  Whether you are a professional graphic designer or just want to create a quick sketch, Microsoft Paint is an easy-to-use tool that can help you get the job done. In this article, we'll show you how to find and open Microsoft Paint in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. How to Open Microsoft Paint Using Windows Search
 
  Windows Search makes it easy and effective to open Microsoft Paint in Windows 11\. You can easily locate and access the program by typing in the search box. To do this, follow these steps:
@@ -33,12 +27,6 @@ thumbnail: https://thmb.techidaily.com/5102f68d4f6f5865eb613c39e1e5be805ea96bcf0
 ![Open Paint Using Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-paint-using-windows-search.jpg)
 3. Clicking on the Paint icon will launch the program immediately.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. How to Open Microsoft Paint Using a Run Command
 
  The Run dialog box is another great way to quickly launch applications in Windows 11\. It allows you to access almost any program or feature without having to navigate through different menu options. If you want to open Microsoft Paint in Windows 11, follow these steps:
@@ -47,12 +35,6 @@ thumbnail: https://thmb.techidaily.com/5102f68d4f6f5865eb613c39e1e5be805ea96bcf0
 2. Type "MSPaint" in the Run dialogue box and click**OK** .  
 ![Open Paint Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-paint-using-run-command.jpg)
 3. This will launch Microsoft Paint within seconds.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. How to Open Microsoft Paint From Start Menu
 
@@ -66,11 +48,12 @@ thumbnail: https://thmb.techidaily.com/5102f68d4f6f5865eb613c39e1e5be805ea96bcf0
  If you're having trouble finding it, try typing "Paint" into the Start menu search bar; this should narrow down the results.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. How to Open Microsoft Paint From File Explorer
 
  Microsoft Windows Explorer is the default file management application. It provides access to your computer's files, folders, and drives, enabling you to manage them and run applications. To open Microsoft Paint with File Explorer, follow these steps:
@@ -80,18 +63,6 @@ thumbnail: https://thmb.techidaily.com/5102f68d4f6f5865eb613c39e1e5be805ea96bcf0
 
 Now that Microsoft Paint is open, you can start working.
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. How to Open Microsoft Paint Through Command Prompt
 
  Additionally, you can use the Command Prompt application in Windows 11 to open Microsoft Paint. It allows you to launch programs quickly by typing in a command rather than navigating through the Start menu or desktop icons. To open Microsoft Paint using Command Prompt, you need to take the following steps:
@@ -100,15 +71,16 @@ Now that Microsoft Paint is open, you can start working.
 2. In the Command Prompt, type**mspaint** and press**Enter** .  
 ![Open Paint Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-paint-using-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Microsoft Paint program will launch immediately and be ready for use.
 
  Check out our[beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) if you really want to make use of this handy tool.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. How to Open Microsoft Paint via Windows PowerShell
 
@@ -121,20 +93,8 @@ To open the Microsoft Paint application, follow the steps below:
 3. Once you're in the PowerShell window, type**mspaint** and press the**Enter** key.  
 ![Open Paint Via Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-paint-via-windows-powershell.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 The Microsoft Paint application will appear on your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. How to Open Microsoft Paint Through Task Manager
 
  The Task Manager provides you with detailed information about currently running applications, processes, and background services. It also offers options for managing and controlling them.
@@ -148,20 +108,22 @@ The Microsoft Paint application will appear on your screen.
 ![Open Paint Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-paint-using-task-manager.jpg)
 5. Click**OK** to launch the application.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The Microsoft Paint application should now be open and ready to use!
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. How to Open Microsoft Paint Using a Desktop Shortcut
 
  If you want to save time and make your workflow more efficient, you can create a shortcut for Microsoft Paint on your desktop. The program starts with a click, so you don't have to scroll through menus or type commands.
@@ -199,14 +161,11 @@ Create a desktop shortcut as explained above.
 
  Microsoft Paint is one of the most popular image editing applications available on Windows 11\. If you are having trouble opening this tool, hopefully once of the methods we covered has made it easier to get Paint open.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -217,38 +176,18 @@ Create a desktop shortcut as explained above.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-how-to-use-zoom-for-win11-pc/"><u>[Updated] In 2024, How to Use Zoom for Win11 PC</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-advanced-hdr-image-processing-steps-in-adobe-lightroom/"><u>2024 Approved Advanced HDR Image Processing Steps in Adobe Lightroom</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-10-free-os-compatible-videography-applications/"><u>2024 Approved Top 10 Free, OS-Compatible Videography Applications</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-samsung-galaxy-f14-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/fix-it-right-away-tackling-the-problem-of-itunes-and-iphone-connection-failure-due-to-invalid-response-errors/"><u>Fix It Right Away: Tackling the Problem of iTunes and iPhone Connection Failure Due to Invalid Response Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-correct-gl-error-3-with-nvidia-on-windows-oses/"><u>How to Correct GL Error 3 with Nvidia on WIndows OSes</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-prevent-auto-restart-events-on-win11/"><u>How to Prevent Auto-Restart Events on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-troubleshoot-high-cpu-usage-with-the-windows-resource-monitor/"><u>How to Troubleshoot High CPU Usage With the Windows Resource Monitor</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-iphone-6-plus-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On iPhone 6 Plus?</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-wash-away-your-computers-defender-past/"><u>How to Wash Away Your Computer's Defender Past</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-a-step-by-step-guide-how-to-record-save-and-share-youtube-video-for-no-cost/"><u>In 2024, A Step-by-Step Guide How To Record, Save & Share YouTube Video for No Cost</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/keyboard-commands-for-optimal-windows-photo-editing/"><u>Keyboard Commands for Optimal Windows Photo Editing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-canon-mf82cu-printer-drivers-available-for-download-on-microsoft-windows-platforms/"><u>Latest Canon MF82cu Printer Drivers Available for Download on Microsoft Windows Platforms</u></a></li>
-<li><a href="https://windows11.techidaily.com/leveraging-law-filters-in-windows-an-experts-perspective/"><u>Leveraging LAW Filters in Windows – An Expert's Perspective</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-network-configurations-in-windows-os/"><u>Mastering Network Configurations in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-win11s-accessibility-keys/"><u>Mastering Win11's Accessibility Keys</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-non-working-escape-keys-on-your-windows-system/"><u>Navigating Non-Working Escape Keys on Your Windows System</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-maze-of-chrome-profile-disruptions-on-desktop/"><u>Navigating the Maze of Chrome Profile Disruptions on Desktop</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-6-best-free-online-imovie-alternatives/"><u>New In 2024, 6 Best Free Online iMovie Alternatives</u></a></li>
-<li><a href="https://windows11.techidaily.com/precise-control-setup-adjusting-shortcut-locations-on-windows-11s-power-icon/"><u>Precise Control Setup: Adjusting Shortcut Locations on Windows 11'S Power Icon</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/quick-guide-to-infusing-new-flair-in-old-content-using-instagram-features-for-2024/"><u>Quick Guide to Infusing New Flair in Old Content Using Instagram Features for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/regaining-access-post-failed-windows-login-attempt/"><u>Regaining Access Post Failed Windows Login Attempt</u></a></li>
-<li><a href="https://windows11.techidaily.com/regaining-access-fixing-malwarebytes-service-errors-in-windows-1011/"><u>Regaining Access: Fixing Malwarebytes' Service Errors in Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-connection-lost-5-easy-steps-for-a-fixed-usb-wi-fi-adapter/"><u>Seamless Connection Lost? 5 Easy Steps for a Fixed USB Wi-Fi Adapter</u></a></li>
-<li><a href="https://windows11.techidaily.com/stay-ahead-postpone-windows-edge-tabs-on-w11/"><u>Stay Ahead: Postpone Windows Edge Tabs on W11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/step-by-step-unlocking-the-joys-of-ifunnys-meme-app/"><u>Step-by-Step Unlocking the Joys of iFunny's Meme App</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-cut-down-energy-use-of-wlanextexe/"><u>Strategies to Cut Down Energy Use of Wlanext.EXE</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-pinnacle-of-participation-chronicling-the-most-upvoted-posts-on-reddit/"><u>The Pinnacle of Participation Chronicling the Most Upvoted Posts on Reddit</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-techniques-for-disabling-windows-11-tpm/"><u>Top Techniques for Disabling Windows 11 TPM</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-windows-ignoring-local-lsa-warning/"><u>Troubleshooting Windows: Ignoring Local LSA Warning</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-of-team-meeting-applications/"><u>Ultimate Selection of Team Meeting Applications</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-windows-remote-problem-invisible-screen/"><u>Unveiling Windows Remote Problem: Invisible Screen</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-nokia-g42-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Nokia G42 5G Phones</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-art-of-inspiration-crafting-captivating-ig-posts/"><u>[New] 2024 Approved The Art of Inspiration Crafting Captivating IG Posts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-channel-branding-101-brainstorm-techniques-for-2024/"><u>[New] Channel Branding 101 Brainstorm Techniques for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-swift-navigation-for-iphone-zooming-features/"><u>[New] In 2024, Swift Navigation for iPhone Zooming Features</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-plan-for-streaming-google-meet-on-youtube/"><u>[New] The Ultimate Plan for Streaming Google Meet on YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-legal-landscapes-understanding-youtube-and-cc-divergences-for-2024/"><u>[Updated] Legal Landscapes Understanding YouTube & CC Divergences for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/becoming-a-bilingual-mastermind-mondlys-blueprint/"><u>Becoming a Bilingual Mastermind: Mondly's Blueprint</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cellular-not-working-heres-what-you-need-to-know-to-get-your-apple-watch-connected-again/"><u>Cellular Not Working? Here’s What You Need to Know to Get Your Apple Watch Connected Again!</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-connectivity-challenges-in-winmc-minecraft/"><u>Navigating Connectivity Challenges in WinMC Minecraft</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/seeking-a-new-laptop-check-out-these-top-6-stores/"><u>Seeking a New Laptop? Check Out These Top 6 Stores!</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-decrease-cpu-spikes-from-modules-installer/"><u>Strategies to Decrease CPU Spikes From Modules Installer</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/subscribe-like-a-pro-true-or-false/"><u>Subscribe Like a Pro True or False?</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-microsoft-store-error-code-x800704cf-on-windows-devices/"><u>Troubleshooting: Microsoft Store Error Code X800704CF on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-methods-identifying-active-tcpip-connections/"><u>Windows Methods: Identifying Active TCP/IP Connections</u></a></li>
 </ul></div>
+

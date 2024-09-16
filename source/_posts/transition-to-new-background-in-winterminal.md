@@ -1,7 +1,7 @@
 ---
 title: Transition to New Background in WinTerminal
-date: 2024-09-09T12:16:00.835Z
-updated: 2024-09-10T12:16:00.835Z
+date: 2024-09-08T20:11:30.472Z
+updated: 2024-09-15T16:20:08.358Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Terminal Background Update,Change WinTerminal Backdrop,WinTerminal New
 thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc985ca7253a27ff290bf8c11.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Transition to New Background in WinTerminal
 
  Changing the background image of the Windows Terminal is an easy way to customize your command line experience. This adds a personal touch and makes your experience visually appealing.
@@ -56,12 +50,6 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 
  If you want to switch to the default image,[reset the Windows Terminal to its default settings](https://www.makeuseof.com/windows-11-reset-terminal-settings/) . This will automatically restore your background to the default image.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Change the Windows Terminal Background Image via Windows File Explorer
 
  Manually editing settings.json is another great way to customize your Windows Terminal background image. For this, you need to open the settings.json file in any text editor, such as Notepad. Here's how to do it:
@@ -79,12 +67,6 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 
 ![How to Change Windows Terminal Background Image From Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/how-to-change-windows-terminal-background-image-from-windows-file-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then paste this path into the**backgroundImage** section of settings.json. Remember to include a comma (**,**) after the path, as shown in the image above.
 
  Once you have pasted the path of your image, save the settings file and close the text editor. To apply this new background image, simply restart your Windows Terminal. The new background image should be displayed on the terminal window.
@@ -94,11 +76,12 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
  Restart Windows Terminal for the changes to take effect. In this way, you can easily customize your Windows Terminal background image using the settings.json file.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Change the Windows Terminal Background Image Using the Run Command
 
  The Run Command can also help you change your Windows Terminal background image. Instead of searching for the settings.json file in Windows File Explorer, you can directly access and modify it using this tool.
@@ -111,23 +94,18 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 3. This will open the Local State folder containing the settings.json file. Right-click on**Settings** and select**Open with** \>**Notepad** .  
 ![Change Windows Terminal Background Image From Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-windows-terminal-background-image-from-windows-file-explorer.jpg)
 4. Scroll down to the**backgroundImage** section and replace the image path with your own.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Then press**Ctrl + S** on your keyboard to save the changes.
 6. Close Notepad, then open Windows Terminal to see your new background image.
 
  You’re done! Now you know how to customize your Windows Terminal background image using the Run Command tool. You can further explore the settings.json file or use other tools to[customize and personalize your Windows Terminal](https://www.makeuseof.com/windows-terminal-customization/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Set a New Background Image for Windows Terminal
 
  It's easy to customize your Windows Terminal by adding or changing the background image. All you need to do is access the settings.json file, where you can also adjust your image's transparency. Just remember to restart Windows Terminal after making changes. Read this guide to learn how to customize your Windows Terminal background image easily.
@@ -138,8 +116,6 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,49 +125,20 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-crafting-cinematic-experiences-with-magix-video-pro-x/"><u>[New] Crafting Cinematic Experiences with Magix Video Pro X</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-boost-your-chances-strategic-keywords-for-youtubers/"><u>[New] In 2024, Boost Your Chances Strategic Keywords for YouTubers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-maximize-your-snapshots-on-android/"><u>[Updated] Maximize Your Snapshots on Android</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlock-the-potential-advanced-techniques-for-podcast-editing-in-garageband/"><u>[Updated] Unlock the Potential Advanced Techniques for Podcast Editing in GarageBand</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-google-pixel-rhythms-the-ideal-online-source/"><u>2024 Approved Google Pixel Rhythms The Ideal Online Source</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-masterpiece-narratives-across-the-eightfold-genre-spectrum/"><u>2024 Approved Masterpiece Narratives Across the Eightfold Genre Spectrum</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Nokia 150 (2023) | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1725288748578-digiarty-winxdvd/"><u>Digiarty WinXDVDサポート - すべての疑問に対する包括的な回答リスト</u></a></li>
-<li><a href="https://windows11.techidaily.com/easy-guide-ripping-audio-cds-successfully-with-your-windows-pc/"><u>Easy Guide: Ripping Audio CDs Successfully with Your Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/end-of-windows-10-maintenance-in-year-exploring-alternative-os-choices/"><u>End of Windows 10 Maintenance in [Year]: Exploring Alternative OS Choices</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhanced-sound-mastery-with-microsofts-updated-clipchamp-software/"><u>Enhanced Sound Mastery with Microsoft's Updated Clipchamp Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/evaluating-the-portable-razer-usb-c-hub-essential-insights-for-mobile-gaming-enthusiasts/"><u>Evaluating the Portable Razer USB-C Hub: Essential Insights for Mobile Gaming Enthusiasts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-rookie-to-veteran-10-must-have-cinema-cameras/"><u>From Rookie to Veteran 10 Must-Have Cinema Cameras</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/green-canvas-essential-templates-to-enhance-your-cinematographic-journey/"><u>Green Canvas Essential Templates to Enhance Your Cinematographic Journey</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone 12 Pro</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/innovative-techniques-for-iphone-sideways-shots/"><u>Innovative Techniques for iPhone Sideways Shots</u></a></li>
-<li><a href="https://windows11.techidaily.com/latest-security-features-in-version-127-of-google-chrome-enhanced-malware-defense/"><u>Latest Security Features in Version 127 of Google Chrome: Enhanced Malware Defense</u></a></li>
-<li><a href="https://windows11.techidaily.com/local-backup-mastery-unveiling-the-charm-and-reliability-of-in-house-data-replicas/"><u>Local Backup Mastery: Unveiling the Charm and Reliability of In-House Data Replicas</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-the-control-a-step-by-step-tutorial-for-blocking-microsoft-marketing-features-in-windows-11/"><u>Master the Control: A Step-by-Step Tutorial for Blocking Microsoft Marketing Features in Windows 11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-android-effective-ways-to-prevent-unnecessary-app-background-processes/"><u>Mastering Android: Effective Ways to Prevent Unnecessary App Background Processes</u></a></li>
-<li><a href="https://windows11.techidaily.com/microsoft-disk-operating-system-version-40-1988-available-for-free/"><u>Microsoft Disk Operating System, Version 4.0 (1988) Available for Free</u></a></li>
-<li><a href="https://windows11.techidaily.com/microsoft-launches-advanced-ai-driven-search-tool-comprehensive-guide-and-recall-details/"><u>Microsoft Launches Advanced AI-Driven Search Tool: Comprehensive Guide and Recall Details</u></a></li>
-<li><a href="https://windows11.techidaily.com/my-top-pick-the-understated-notepad-application-for-windows-users/"><u>My Top Pick: The Understated Notepad Application for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/nvidias-leap-into-the-future-my-5-anticipated-benefits-of-their-innovative-arm-chip/"><u>NVIDIA's Leap Into the Future: My 5 Anticipated Benefits of Their Innovative ARM Chip</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-realme-11-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Realme 11 5G? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-file-explorer-from-windows-10-on-your-new-windows-11-pc/"><u>Reviving File Explorer From Windows 10 on Your New Windows 11 PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-guide-correcting-your-laptopmonitor-displays-persistent-yellow-discoloration/"><u>Step-by-Step Guide: Correcting Your Laptop/Monitor Display's Persistent Yellow Discoloration</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-for-restoring-functionality-of-a-nonworking-wireless-mouse-on-windows-11-systems/"><u>Step-by-Step Tutorial for Restoring Functionality of a Nonworking Wireless Mouse on Windows 11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-how-to-extract-music-from-cds-using-windows-software/"><u>Step-by-Step Tutorial: How to Extract Music From CDs Using Windows Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-creative-process-behind-developing-the-famous-3d-pipes-windows-screensaver/"><u>The Creative Process Behind Developing the Famous 3D Pipes Window's Screensaver</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-enduring-legacy-of-windows-xp-why-theres-no-successor/"><u>The Enduring Legacy of Windows XP - Why There's No Successor</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-latest-addition-to-the-lineup-meet-the-online-only-microsoft-surface-laptop-alice-what-is-the-term-used-for-any-form-of-energy-that-relates-to-motion/"><u>The Latest Addition to the Lineup: Meet the Online-Only Microsoft Surface Laptop # Alice: What Is the Term Used for Any Form of Energy that Relates to Motion?</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-picks-superior-non-adobe-tools-boosting-your-upcoming-design-endeavors/"><u>Top Picks: Superior Non-Adobe Tools Boosting Your Upcoming Design Endeavors</u></a></li>
-<li><a href="https://windows11.techidaily.com/transitioning-to-windows-11-the-top-features-im-nostalgic-for-from-windows-10/"><u>Transitioning to Windows 11: The Top Features I'm Nostalgic for From Windows 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-guide-resolving-issues-with-google-maps-functionality/"><u>Troubleshooting Guide: Resolving Issues with Google Maps Functionality</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-tips-fixing-the-an-error-has-happened-while-solving-problems-on-windows-11-or-10/"><u>Troubleshooting Tips: Fixing the 'An Error Has Happened While Solving Problems' On Windows 11 or 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleash-the-potential-of-local-ai-driven-imagery-creation-the-ultimate-windows-solution/"><u>Unleash the Potential of Local AI-Driven Imagery Creation: The Ultimate Windows Solution</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleashing-productivity-leveraging-microsoft-copilot-for-enhanced-windows-11-performance/"><u>Unleashing Productivity: Leveraging Microsoft Copilot for Enhanced Windows 11 Performance</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-control-panel-powers-launching-group-policy-editor-in-windows-10/"><u>Unlocking Control Panel Powers: Launching Group Policy Editor in Windows 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-microsofts-new-surface-laptop-6-exclusive-release-with-no-retail-availability/"><u>Unveiling Microsoft's New Surface Laptop 6: Exclusive Release with No Retail Availability</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-solutions-resolving-the-visibility-issue-of-your-freshly-installed-hard-drive-on-windows/"><u>Unveiling Solutions: Resolving the Visibility Issue of Your Freshly Installed Hard Drive on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/weekly-tech-highlights-anticipating-the-upcoming-innovations-from-google-and-samsungs-new-handsets/"><u>Weekly Tech Highlights: Anticipating the Upcoming Innovations From Google & Samsung's New Handsets</u></a></li>
-<li><a href="https://windows11.techidaily.com/why-does-my-windows-desktoplaptop-turn-off-unexpectedly-discover-the-top-8-causes/"><u>Why Does My Windows Desktop/Laptop Turn Off Unexpectedly? Discover the Top 8 Causes</u></a></li>
-<li><a href="https://windows11.techidaily.com/why-microsofts-copilotplus-and-its-advanced-upscaling-technology-make-it-essential-gear-for-serious-gamers/"><u>Why Microsoft's CoPilot+ and Its Advanced Upscaling Technology Make It Essential Gear for Serious Gamers</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-upgrades-simplified-step-by-step-instructions-for-keeping-your-software-current/"><u>Windows 11 Upgrades Simplified: Step-by-Step Instructions for Keeping Your Software Current</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-guide-to-integrating-sound-into-presentations-powerpoint/"><u>2024 Approved Guide to Integrating Sound Into Presentations (PowerPoint)</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-superlative-picture-based-adventure-builder/"><u>2024 Approved Superlative Picture-Based Adventure Builder</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-integration-guide-for-ios-and-android-users/"><u>ChatGPT Integration Guide for iOS & Android Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpts-role-in-modern-career-exploration/"><u>ChatGPT's Role in Modern Career Exploration</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-powerful-thumbnails-with-top-20-font-options-for-2024/"><u>Crafting Powerful Thumbnails with Top 20 Font Options for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-device-error-0xa00f425d-in-camera-app/"><u>Fixing Windows Device Error 0xA00F425D in Camera App</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-motorola-moto-g73-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Motorola Moto G73 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-iphone-11-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue From iPhone 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-storyremix-for-windows-11-enhancing-videos-with-photos/"><u>Mastering StoryRemix for Windows 11 Enhancing Videos with Photos</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-steam-disconnection-challenges-on-windows/"><u>Navigating Steam Disconnection Challenges on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/revive-and-restore-your-windows-display-preferences/"><u>Revive and Restore Your Windows Display Preferences</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-potential-with-updated-amd-drivers-in-windows-11/"><u>Unleashing Potential with Updated AMD Drivers in Windows 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unleashing-youtube-talent-the-best-themes-for-channel-growth-for-2024/"><u>Unleashing YouTube Talent The Best Themes for Channel Growth for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/upgrading-antique-directx-programming-with-dxvk-tools/"><u>Upgrading Antique DirectX Programming with DXVK Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-1110-homes-enabling-efficient-user-handling/"><u>Windows 11/10 Homes: Enabling Efficient User Handling</u></a></li>
 </ul></div>
+
