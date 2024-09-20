@@ -1,7 +1,7 @@
 ---
 title: Getting Your Nvidia CP Back on Win11 After Closure
-date: 2024-09-11T22:39:29.330Z
-updated: 2024-09-15T17:11:27.896Z
+date: 2024-09-15T20:52:38.701Z
+updated: 2024-09-20T21:10:21.934Z
 tags:
   - windows10
   - windows11
@@ -73,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 ![The Automatic option the Startup type menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/startup-type-drop-down-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Update Your PC’s NVIDIA Graphics Driver
@@ -94,10 +94,16 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 4. Go through the install process.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Edit the Windows Registry
@@ -132,10 +138,10 @@ To apply this fix, edit the Registry as follows:
 ![The Uninstall app option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-uninstall-option-in-apps-features.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you’ve uninstalled NVIDIA Control Panel, restart your PC. Then click**Get in Store** app on the[NVIDIA Control Panel](https://apps.microsoft.com/store/detail/nvidia-control-panel/9NF8H0H7WMLT) [Microsoft Store page](https://apps.microsoft.com/store/detail/nvidia-control-panel/9NF8H0H7WMLT) . Select**Open Microsoft Store** , and click**Get** to reinstall the app.
@@ -159,14 +165,18 @@ To apply this fix, edit the Registry as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-craft-your-story-with-immersive-youtube-video-editing-tips/"><u>[New] 2024 Approved Craft Your Story with Immersive YouTube Video Editing Tips</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-guide-to-creating-popularity-with-youtube-opens/"><u>[Updated] In 2024, Essential Guide to Creating Popularity with YouTube Opens</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-y100-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo Y100 FRP Bypass Instantly</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-admin-focused-issues-in-windows-security-framework/"><u>Fixing Admin-Focused Issues in Windows Security Framework</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-xc0000142-blue-screen-in-win10win11/"><u>Fixing XC0000142 Blue Screen in WIN10/WIN11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-logitech-g25-racing-wheel-driver-software-download-for-windows-7-8-and-10/"><u>Free Logitech G25 Racing Wheel Driver Software Download for Windows 7, 8 & 10</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-13-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 13</u></a></li>
-<li><a href="https://windows11.techidaily.com/key-tools-enabling-seamless-shift-from-mac-os-to-windows-powered-pc/"><u>Key Tools Enabling Seamless Shift From Mac OS to Windows-Powered PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/tips-for-preventing-your-gas-station-simulator-game-from-crashing-on-computer-monitor/"><u>Tips for Preventing Your Gas Station Simulator Game From Crashing on Computer Monitor</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-discreet-insta-story-enthusiasts-best-5-tools/"><u>[New] Discreet Insta-Story Enthusiast's Best 5 Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-high-seas-of-soundtracking-leading-destinations-for-hearing-heroes-tts-downloads/"><u>[Updated] High Seas of Soundtracking Leading Destinations for Hearing Heroes' TTS Downloads</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-how-to-record-facebook-live-stream/"><u>[Updated] In 2024, How to Record Facebook Live Stream</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/calendar-imprinting-techniques-in-photography-for-2024/"><u>Calendar Imprinting Techniques in Photography for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-convenience-top-4-plugin-store-enhancements-that-chatgpt-must-integrate-soon/"><u>Elevating Convenience: Top 4 Plugin Store Enhancements That ChatGPT Must Integrate Soon</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/filmmakers-choice-converting-avi-files-to-gif-via-filmora-software-windowsmac-for-2024/"><u>Filmmaker's Choice Converting AVI Files to GIF via Filmora Software (Windows/Mac) for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enable-and-utilize-the-script-execution-policy-in-windows-powershell/"><u>How to Enable and Utilize the Script Execution Policy in Windows PowerShell</u></a></li>
+<li><a href="https://windows11.techidaily.com/jumpstart-joy-eliminate-windows-11s-sluggishness/"><u>Jumpstart Joy: Eliminate Windows 11'S Sluggishness</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-memory-diagnostic-failures/"><u>Navigating Through Memory Diagnostic Failures</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/presents-for-the-holidays-windows-apps-from-ms-store/"><u>Presents for the Holidays: Windows Apps From MS Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-the-no-script-decree-in-windows-4-pathways-to-execution-enablement/"><u>Reversing the No-Script Decree in Windows: 4 Pathways to Execution Enablement</u></a></li>
+<li><a href="https://windows11.techidaily.com/skyrocket-beyond-wired-speed-limit-in-windows-environment/"><u>Skyrocket Beyond Wired Speed Limit in Windows Environment</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-xiaomi-13t-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Xiaomi 13T FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is Split Screen Not Working on Windows? Here's What to Do
-date: 2024-09-10T17:24:22.989Z
-updated: 2024-09-15T18:29:35.416Z
+date: 2024-09-19T21:00:01.954Z
+updated: 2024-09-20T17:59:50.960Z
 tags:
   - windows10
   - windows11
@@ -57,16 +57,10 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
  After making these changes, close the Settings window and check if it solves the issue.
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Check Your Display Settings
@@ -76,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
  To get started, [open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) and navigate to **System** \> **Display**. In the right pane, scroll down to the **Scale & layout** section.
 
 ![Display Resolution in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/display-resolution-in-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now click the **Display resolution** drop-down menu and adjust the resolution to fit your connected display. Once you've done that, try using split screen again.
 
@@ -92,22 +93,15 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 ![Restart Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/restart-windows-explorer.jpg)
 5. Now click **Run new task** at the top of the Task Manager window.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Type **explorer.exe** in the Open field and click **OK**. This will start a new Windows Explorer instance.
 
  After restarting Windows Explorer, try split screen again and see if it works now.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall Third-Party Software
@@ -137,22 +131,6 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
  Whether it’s for work or leisure, a split screen can make all the difference in multitasking. Now that you know how to fix split screen problems on Windows, you can manage your apps and tasks simultaneously easily.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-discover-7-premium-android-adblocking-tools/"><u>[New] In 2024, Discover 7 Premium Android AdBlocking Tools</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-download-facebook-audio-mp3s-for-2024/"><u>[Updated] Download Facebook Audio MP3s for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-income-on-instagram-comprehensive-step-by-step-guide/"><u>[Updated] Income on Instagram Comprehensive Step-by-Step Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-full-review-and-tutorial-s-video-show-app/"><u>2024 Approved Full Review & Tutorial 'S Video Show App</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ace-ai-education-from-home-dive-into-lifewires-exhaustive-catalog-of-15-complimentary-autonomous-ai-classes-online/"><u>Ace AI Education From Home: Dive Into Lifewire’s Exhaustive Catalog of 15 Complimentary, Autonomous AI Classes Online</u></a></li>
-<li><a href="https://facebook.techidaily.com/digital-discourse-decoded-learn-the-top-30-abbreviations-in-social-media/"><u>Digital Discourse Decoded: Learn the Top 30 Abbreviations in Social Media</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-itel-p40plus-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Itel P40+ to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/innovative-design-meets-sustainability-in-romer-rechargeable-searchlight-top-choice-for-eco-friendly-explorers/"><u>Innovative Design Meets Sustainability in Romer Rechargeable Searchlight: Top Choice for Eco-Friendly Explorers</u></a></li>
-<li><a href="https://windows11.techidaily.com/making-your-own-speech-to-text-app-for-windows-whisper-plus-ahk-guide/"><u>Making Your Own Speech-to-Text App for Windows: Whisper + AHK Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-discord-js-crashes-in-win-11-with-ease-and-precision/"><u>Tackling Discord JS Crashes in Win 11 with Ease and Precision</u></a></li>
-<li><a href="https://windows11.techidaily.com/tech-hacks-6-new-ways-to-open-programs-in-windows/"><u>Tech Hacks: 6 New Ways to Open Programs in Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-uploading-multiple-photos-together-on-facebook/"><u>The Ultimate Guide to Uploading Multiple Photos Together on Facebook</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -160,3 +138,23 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-innovative-ideas-to-make-money-from-your-snapchat-community/"><u>[Updated] 2024 Approved Innovative Ideas to Make Money From Your Snapchat Community</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unveiling-the-methodology-for-quality-ps3-game-screenings/"><u>[Updated] Unveiling the Methodology for Quality PS3 Game Screenings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-power-of-authenticity-in-testimonial-videography/"><u>2024 Approved Unlocking the Power of Authenticity in Testimonial Videography</u></a></li>
+<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-turning-off-facebook-connectivity-for-android-users/"><u>Guide to Turning Off Facebook Connectivity for Android Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-insider-insights-unpacking-the-dji-phantom-3-pro-features/"><u>In 2024, Insider Insights Unpacking the DJI Phantom 3 Pro Features</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-unravel-the-revenue-riddle-googles-guided-triple-steps-to-youtube-income-analysis/"><u>In 2024, Unravel the Revenue Riddle Google's Guided Triple Steps to YouTube Income Analysis</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/key-benefits-and-limitations-free-hd-video-converter-vs-hd-video-converter-pro-edition/"><u>Key Benefits & Limitations: Free HD Video Converter Vs. HD Video Converter Pro Edition</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-essential-dog-bark-samples-for-audio-projects/"><u>New 2024 Approved Essential Dog Bark Samples for Audio Projects</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-more-patches-understanding-the-shutdown-of-windows-7-and-81-support/"><u>No More Patches: Understanding the Shutdown of Windows 7 & 8.1 Support</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-firefox-load-problems-on-your-pc-7-simple-steps/"><u>Overcome Firefox Load Problems on Your PC: 7 Simple Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/reach-full-internet-accessibility-on-windows-11-using-these-strategies/"><u>Reach Full Internet Accessibility on Windows 11 Using These Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-systemsettings-error-on-win11/"><u>Steps to Resolve SystemSettings Error on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-solutions-for-flawed-windows-application-performance/"><u>Swift Solutions for Flawed Windows Application Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-folder-and-file-harmony-in-win1011/"><u>The Ultimate Folder & File Harmony in WIN10/11</u></a></li>
+</ul></div>
+

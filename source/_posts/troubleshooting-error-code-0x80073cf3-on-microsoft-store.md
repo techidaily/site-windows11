@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Error Code 0X80073CF3 on Microsoft Store
-date: 2024-09-12T21:15:47.675Z
-updated: 2024-09-15T17:37:53.333Z
+date: 2024-09-15T16:47:39.499Z
+updated: 2024-09-20T17:31:24.491Z
 tags:
   - windows10
   - windows11
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 
 ![The Repair and Reset buttons for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-reset-and-repair-buttons.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Repair the Gaming Services App
 
  A few users who’ve needed to fix error 0x80073CF3 for their Microsoft Store game apps have confirmed that repairing Gaming Services can resolve the issue. Gaming Services is a Microsoft Store app required by Xbox Game Pass apps on Microsoft’s storefront. To do so, select the **Repair** option for Gaming Services in Settings, as covered within our [guide to repairing apps in Windows](https://www.makeuseof.com/windows-repair-apps-programs/).
@@ -59,26 +66,6 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
  If you don’t have the Gaming Services app, you may need it to download and install certain games from the Microsoft Store without issues. So, try downloading and installing Gaming Services from the Microsoft Store to fix error 0x80073CF3\. Open this Gaming Services Microsoft Store page and click **Get in Store app** \> **Open Microsoft Store**. Select **Get** to install the app.
 
 ![The Gaming Services app page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-gaming-services-app-page.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Turn Off Any Active Antivirus Apps
 
@@ -90,32 +77,46 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 
 ![The real-time protection setting for Microsoft Defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/real-time-protection-setting.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Set Windows to Perform a Clean Boot
 
  The description for error 0x80073CF3 hints that a software (or app) conflict can cause this issue to arise. Setting Windows to clean boot could eliminate such a potential software conflict. Applying that potential fix will disable all unnecessary third-party startup items from running automatically.
 
 ![The System Configuration window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-configuration-window.jpg)
 
- You can configure a clean boot by selecting to disable third-party startup programs and services with Task Manager and System Configuration. Our guide to [performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) includes full guidelines for how to disable startup items with those tools. Then restart your PC and try downloading the required Microsoft Store apps again to see if error 0x80073CF3 continues.
-
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can configure a clean boot by selecting to disable third-party startup programs and services with Task Manager and System Configuration. Our guide to [performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) includes full guidelines for how to disable startup items with those tools. Then restart your PC and try downloading the required Microsoft Store apps again to see if error 0x80073CF3 continues.
 
 ## 7\. Free Up Some Drive Storage Space
 
  Some users have also discovered limited drive storage space can cause error 0x80073CF3\. Those users resolved this issue by freeing up drive space for large games from Microsoft Store. So, try [freeing up more drive storage space within Windows](https://www.makeuseof.com/windows-11-free-up-storage-space/) if you can’t install a big game app from Microsoft Store by uninstalling unneeded software, erasing temporary files, and clearing out the Recycle Bin.
 
 ![The Apps & features uninstaller tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/apps-features-uninstaller.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Reinstall the Microsoft Store App
 
@@ -124,17 +125,10 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 ![The remove MS Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-remove-app-package-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Perform a Windows In-Place Upgrade
@@ -151,26 +145,6 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 
  Users can’t install Microsoft Store apps that trigger the 0x80073CF3 error. Some users might try to wait out that error hoping it will somehow fix itself after a few days, but seldom will that happen. This is how you can fix Microsoft Store error code 0x80073CF on a Windows 11/10 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-rapid-methods-to-customize-your-soundscaping-in-pubg/"><u>[New] 2024 Approved Rapid Methods to Customize Your Soundscaping in PUBG</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-audacity-wisdom-achieving-fluid-audio-transitions/"><u>[New] Audacity Wisdom Achieving Fluid Audio Transitions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-synergy-of-slack-and-filmora-for-effective-scheduling/"><u>[New] In 2024, The Synergy of Slack and Filmora for Effective Scheduling</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-navigating-the-landscape-of-ps3-capture-software/"><u>[Updated] 2024 Approved Navigating the Landscape of PS3 Capture Software</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-crafting-timeless-videos-with-retro-filmmaking-skills/"><u>2024 Approved Crafting Timeless Videos with Retro Filmmaking Skills</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-do-ai-systems-differ-from-conventional-pcs/"><u>How Do AI Systems Differ From Conventional PCs?</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-geforce-now-error-0xc0f1103f-in-windows-11-and-11/"><u>How to Fix the GeForce Now Error 0Xc0f1103f in Windows 11 & 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-tecno-spark-20-proplus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Tecno Spark 20 Pro+</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-lava-blaze-curve-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Lava Blaze Curve 5G</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone XS Max</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unleashing-speed-in-facebook-videos-the-best-tools-and-tips/"><u>In 2024, Unleashing Speed in Facebook Videos The Best Tools and Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/innovating-windows-11-six-imperative-modifications-for-an-enhanced-taskbar-experience/"><u>Innovating Windows 11: Six Imperative Modifications for an Enhanced Taskbar Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-active-directory-printer-issues-on-microsofts-latest-os/"><u>Overcoming Active Directory Printer Issues on Microsoft's Latest OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-11-hurdles-with-simple-tips/"><u>Overcoming Windows 11 Hurdles with Simple Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailored-visuals-customizing-individual-monitors-with-win-1011-wallpapers/"><u>Tailored Visuals: Customizing Individual Monitors with Win 10/11 Wallpapers</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-fast-launcher-downloads/"><u>The Ultimate Guide to Fast Launcher Downloads</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -178,3 +152,20 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-unveiling-video-sharing-secrets-examining-igtv-and-youtube-in-depth/"><u>[New] In 2024, Unveiling Video Sharing Secrets Examining IGTV & YouTube in Depth</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-streamline-and-enhance-your-filmmaking-an-intro-to-final-cut-pro/"><u>[New] Streamline and Enhance Your Filmmaking An Intro to Final Cut Pro</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/vob3gpmovavi/"><u>直接在線上免費移動VOB到3GP：簡便的Movavi視頻轉換方法</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-driver-download-u-are-u-reader-v450x/"><u>Direct Driver Download: U-Are-U Reader V4.50x</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-change-what-the-fn-keys-do-in-windows-10-and-11/"><u>How to Change What the Fn Keys Do in Windows 10 and 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-motorola-moto-e13-to-mac-drfone-by-drfone-android/"><u>How to Mirror Motorola Moto E13 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-reno-10-pro-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/invisibly-erase-language-line-from-windows-11-ui/"><u>Invisibly Erase Language Line From Windows 11 UI</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/luminous-upgrades-5-must-try-online-video-tools-for-2024/"><u>Luminous Upgrades 5 Must-Try Online Video Tools for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/simple-steps-to-transform-webm-into-wmv-video-formats-without-an-internet-connection/"><u>Simple Steps to Transform WebM Into WMV Video Formats Without an Internet Connection</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplified-process-for-downloading-and-running-msixbundle-extensions/"><u>Simplified Process for Downloading and Running MSixbundle Extensions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/uncover-hidden-missing-emails-in-gmail-with-these-simple-techniques/"><u>Uncover Hidden Missing Emails in Gmail with These Simple Techniques</u></a></li>
+</ul></div>
+

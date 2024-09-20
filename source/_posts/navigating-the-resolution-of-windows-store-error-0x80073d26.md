@@ -1,7 +1,7 @@
 ---
 title: Navigating the Resolution of Windows Store Error 0X80073D26
-date: 2024-09-14T19:48:09.370Z
-updated: 2024-09-15T19:34:35.199Z
+date: 2024-09-16T20:00:28.560Z
+updated: 2024-09-20T16:22:03.952Z
 tags:
   - windows10
   - windows11
@@ -58,19 +58,6 @@ thumbnail: https://thmb.techidaily.com/e0fa0d67e26442f6514904daf3cc23134382c2cc5
 5. Click the **GamingServicesNet** key with the mouse’s right button and select the **Delete** \> **Yes** options.
 6. Exit Registry Editor and restart your PC.
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Reinstall the Microsoft Gaming Service
 
  One of Microsoft’s official resolutions for error 0x80073D26 is to reinstall Gaming Service. This potential solution involves entering three PowerShell commands that will remove the Gaming Service app along with associated registry entries. These are the steps for applying this potential fix:
@@ -82,6 +69,14 @@ thumbnail: https://thmb.techidaily.com/e0fa0d67e26442f6514904daf3cc23134382c2cc5
 `Get-AppxPackage *gaming services* -allusers | remove-appxpackage -allusers`  
 ![The remove-app package command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-app-package-command.jpg)
 5. Then input these separate commands, pressing **Return** after each:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServices" -recurse  
 
 Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -recurse` 
@@ -99,29 +94,36 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
 ![The Reset button for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To begin with, try repairing system files to see if there are any issues. You can do that by executing a System File Checker scan within the Command Prompt. That tool will check for and repair corrupted system files detected when you run its command. To apply this potential fix, follow the instructions in our [how to run the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) guide.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Set Windows to Clean Boot
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-services-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Another possibility is that a software conflict might be causing error 0x80073D26 to occur on your PC. Setting Windows to clean boot by disabling third-party startup items will likely eliminate such a potential cause. That will stop third-party apps and services that could be conflicting with the Microsoft Store from automatically starting.
 
  To apply this fix, check out this guide about [clean-booting Windows 10 or 11](https://www.makeuseof.com/clean-boot-windows-11/). Disable startup programs in Task Manager and services in MS Config as covered within that guide; then restart your PC and try installing Microsoft Store games again to see if the issue persists.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Reinstall the Microsoft Store
 
@@ -130,13 +132,6 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
  Some users might need to reinstall the Microsoft Store to fix error 0x80073D26\. Such a resolution might be necessary for fixing wider issues with the Microsoft Store app other potential solutions don’t address.
 
  There isn’t a standard uninstall option available for Microsoft Store. So, you’ll have to reinstall that app with two PowerShell commands. Our guide about [how to reinstall the Microsoft Store](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) tells you how to apply this potential fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Perform an In-Place Windows Upgrade
 
@@ -148,35 +143,20 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-setup-window2.jpg)
 
- You can also perform a Windows 10 in-place upgrade much the same. One difference is that you’ll need to download a Windows 10 Setup file by clicking **Download tool** on the [Microsoft Windows 10 download webpage](https://www.microsoft.com/en-gb/software-download/windows10). Then select **Upgrade this PC** now in the Windows 10 Setup wizard to install the latest version of the OS.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can also perform a Windows 10 in-place upgrade much the same. One difference is that you’ll need to download a Windows 10 Setup file by clicking **Download tool** on the [Microsoft Windows 10 download webpage](https://www.microsoft.com/en-gb/software-download/windows10). Then select **Upgrade this PC** now in the Windows 10 Setup wizard to install the latest version of the OS.
 
 ## Enjoy the Best Xbox Game Pass Games Available on the Microsoft Store
 
  It’s very likely the potential resolutions covered in this guide will fix error 0x80073D26, as some of them are widely confirmed to work. Hopefully, you can get this error fixed and get back into gaming.
 
  Players can’t enjoy their Xbox Game Pass titles because of error 0x80073D26, which makes this an annoying issue for Xbox Game Pass users. This is how you can fix the Microsoft Store error 0x80073D26 in Windows
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-boost-your-e-commerce-strategy-with-these-top-15-fb-analyzers-for-2024/"><u>[New] Boost Your E-Commerce Strategy with These Top 15 FB Analyzers for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/elevate-your-obs-experience-the-role-of-custom-luts/"><u>Elevate Your OBS Experience The Role of Custom LUTs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elite-audio-curated-lists-for-video-editors/"><u>Elite Audio Curated Lists for Video Editors</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-tips-for-opening-wordpad-on-windows-os/"><u>Essential Tips for Opening WordPad on Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-on-eliminating-windows-error-0x800700e1/"><u>Guide on Eliminating Windows Error 0X800700E1</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-tecno-pova-6-pro-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Tecno Pova 6 Pro 5G</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/quickly-locate-new-windows-files-and-folders/"><u>Quickly Locate New Windows Files and Folders</u></a></li>
-<li><a href="https://windows11.techidaily.com/realigning-windows-group-policies-for-organizational-needs/"><u>Realigning Windows Group Policies for Organizational Needs</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/step-into-the-world-of-slowed-motion-a-comprehensive-ig-reel-guide-for-2024/"><u>Step Into the World of Slowed-Motion A Comprehensive IG Reel Guide for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-the-file-corruption-mystery-in-windows-11/"><u>Unraveling the File Corruption Mystery in Windows 11</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -185,3 +165,24 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-essential-3-step-copywriting-blueprint-for-effective-fb-campaigns/"><u>[New] Essential 3-Step Copywriting Blueprint for Effective FB Campaigns</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-incorporating-tracks-into-online-visual-narratives/"><u>[New] In 2024, Incorporating Tracks Into Online Visual Narratives</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-premium-window-calls-top-8-standout-titles/"><u>[New] In 2024, Premium Window Calls Top 8 Standout Titles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-pixelsnapper-professional-edition-for-2024/"><u>[Updated] PixelSnapper Professional Edition for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-tips-for-choosing-a-high-quality-4k-camera-lens/"><u>[Updated] Top Tips for Choosing a High-Quality 4K Camera Lens</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-transform-your-pubg-audio-gameplay-fast/"><u>[Updated] Transform Your PUBG Audio Gameplay Fast</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1-offizielle-winx-dvd-ripper-platin-gutscheine-beste-rabatte-finden/"><u>1. Offizielle WinX DVD Ripper-Platin-Gutscheine: Beste Rabatte Finden!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/elevating-posts-how-to-trend-on-social-media-for-2024/"><u>Elevating Posts How to Trend on Social Media for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-change-what-the-fn-keys-do-in-windows-10-and-11/"><u>How to Change What the Fn Keys Do in Windows 10 and 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-7-plus-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone 7 Plus online without SIM Card?</u></a></li>
+<li><a href="https://windows11.techidaily.com/invisibly-erase-language-line-from-windows-11-ui/"><u>Invisibly Erase Language Line From Windows 11 UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-installation-woes-clipchamp-and-windows-11-guide/"><u>Mastering Installation Woes: ClipChamp and Windows 11 Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/modifying-webcam-activity-alert-settings-for-win11/"><u>Modifying Webcam Activity Alert Settings for Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-the-maze-of-windows-security-faults/"><u>Navigating Through the Maze of Windows Security Faults</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplified-process-for-downloading-and-running-msixbundle-extensions/"><u>Simplified Process for Downloading and Running MSixbundle Extensions</u></a></li>
+<li><a href="https://windows11.techidaily.com/skip-suspended-pop-ups-from-non-adobe-software/"><u>Skip Suspended Pop-Ups From Non-Adobe Software</u></a></li>
+</ul></div>
+

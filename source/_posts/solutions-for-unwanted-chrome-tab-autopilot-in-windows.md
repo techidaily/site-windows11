@@ -1,7 +1,7 @@
 ---
 title: Solutions for Unwanted Chrome Tab Autopilot in Windows
-date: 2024-09-08T17:29:05.629Z
-updated: 2024-09-15T23:40:12.789Z
+date: 2024-09-15T20:53:48.995Z
+updated: 2024-09-20T16:10:05.542Z
 tags:
   - windows10
   - windows11
@@ -59,24 +59,18 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 3. Navigate to the **Where results open** section and uncheck the box beside **Open each selected result in a new browser window**.  
 ![Uncheck the Box Beside Open Each Selected Result in a New Browser Window Option in See All Search Settings in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-uncheck-the-box-beside-open-each-selected-result-in-a-new-browser-window-option-in-see-all-search-settings-in-chrome.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Stop Chrome From Opening New Tabs on PC Startup or Browser Launch
 
  If Chrome automatically launches and opens new tabs when your Windows device boots up, you probably granted it permission to do so. To turn off this permission, open Task Manager, navigate to the **Startup apps** tab, locate **Chrome** in the list of applications, right-click on it, and choose **Disable**.
 
 ![Disable Chrome From Startup Apps in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-chrome-from-startup-apps-in-the-task-manager-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If new tabs open up at browser startup, you've probably configured the browser to open a set of new tabs at its launch or to open the tabs you left open when you last used the browser. Follow these steps to remove these permissions:
 
@@ -84,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 2. Click the **three vertical dots** in the top-right corner and select **Settings**.
 3. Navigate to the **On startup** tab and check the circle besides **Open the New Tab page**.  
 ![Select Open the New Tab Option in the On Startup Tab of Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/6-select-open-the-new-tab-option-in-the-on-startup-tab-of-chrome-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Ensure That the Website You Are on Isn’t Malicious
 
@@ -97,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
  If the problem persists despite removing the hijacker, you may have a malware infection on your device, forcing Chrome to open unwanted websites on its own. To rule out this possibility, [run a full malware scan using a Microsoft Security scanner](https://www.makeuseof.com/microsoft-safety-scanner-guide/) to get rid of any possible infections.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Reset and Reinstall Chrome
 
  If you find that your browser doesn't have any infections and the virus scan does not detect any malware on your device, you should reset it. By resetting a browser, its settings are restored to their defaults, so you can confirm that misconfigured settings aren't the cause of your problem.
@@ -115,10 +109,10 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
  If resetting the browser also doesn't work, you can reinstall the browser from scratch, which is the least desirable solution. Before you begin the new installation, ensure you properly remove the old installation using our guide on [uninstalling apps on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stop Chrome From Opening New Tabs on Windows
@@ -133,26 +127,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
  If you'd like to open new links in the same tab or stop the browser from opening new tabs automatically, here are a few fixes you can try.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-surpassing-peers-standing-out-in-the-vimeo-staffs-choices/"><u>[New] 2024 Approved Surpassing Peers Standing Out in the Vimeo Staff's Choices</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-comprehensive-review-of-slomo-video-capture-tool/"><u>[New] Comprehensive Review of SloMo Video Capture Tool</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-auditory-ambiance-elevating-your-instagram-creations/"><u>[Updated] 2024 Approved Auditory Ambiance Elevating Your Instagram Creations</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-proven-winners-the-top-5-tools-for-video-conference-recording/"><u>[Updated] 2024 Approved Proven Winners The Top 5 Tools for Video Conference Recording</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-elevate-your-zoom-experience-with-virtual-boards-tips-for-all-devices-for-2024/"><u>[Updated] Elevate Your Zoom Experience with Virtual Boards - Tips for All Devices for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-start-w11s-on-demand-repair-service/"><u>How to Start W11’s On-Demand Repair Service</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-oneplus-nord-n30-se-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to OnePlus Nord N30 SE Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://windows11.techidaily.com/joining-the-ranks-of-windows-11-insiders-explained/"><u>Joining the Ranks of Windows 11 Insiders Explained</u></a></li>
-<li><a href="https://win-able.techidaily.com/lunar-client-error-how-to-fix-continuous-crashing-on-personal-computers/"><u>Lunar Client Error: How to Fix Continuous Crashing on Personal Computers</u></a></li>
-<li><a href="https://windows11.techidaily.com/off-sight-panes-not-anymore-revive-them-with-these-6-secrets-for-windows-users/"><u>Off-Sight Panes? Not Anymore! Revive Them with These 6 Secrets for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/rectifying-win1011-portaudio-hiccups-within-audacity-application/"><u>Rectifying Win10/11 PortAudio Hiccups Within Audacity Application</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-winstore-problems-effective-fix-for-0x80072f17/"><u>Tackling WinStore Problems: Effective Fix for 0X80072f17</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/transcending-boundaries-how-windows-enhances-gameplay/"><u>Transcending Boundaries: How Windows Enhances Gameplay</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-13-mini-screen-lock-without-password-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 13 mini screen lock without password</u></a></li>
-<li><a href="https://windows11.techidaily.com/widgets-essentials-launching-into-windows-11/"><u>Widgets Essentials: Launching Into Windows 11</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -160,3 +134,20 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://solve-lab.techidaily.com/comment-stabiliser-vos-clips-video-sur-plateformes-multiplateformes-windows-mac-android-iphone/"><u>Comment Stabiliser Vos Clips Video Sur Plateformes Multiplateformes (Windows, Mac, Android, iPhone)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/exploring-the-revolutionary-approach-of-smart-training-techniques/"><u>Exploring the Revolutionary Approach of Smart Training Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/failed-ms-pc-manager-on-win-explore-solutions-now/"><u>Failed MS PC Manager on Win? Explore Solutions Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-recover-and-resolve-d3dx9n41dll-errors-on-your-computer/"><u>How to Recover and Resolve 'd3dx9_n41.dll' Errors on Your Computer</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-write-a-script-for-a-youtube-video-for-2024/"><u>How to Write a Script for a YouTube Video for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-70-lite-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor 70 Lite 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-enter-the-ispoofer-discord-server-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to enter the iSpoofer discord server On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-k11x-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Oppo K11x FRP</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-your-pathway-to-professional-looking-animated-gifs-online/"><u>In 2024, Your Pathway to Professional-Looking Animated GIFs Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/speed-sense-essential-windows-tips-for-testing-lan-performance/"><u>Speed Sense: Essential Windows Tips for Testing LAN Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-digital-canvas-making-magic-with-paint-tool-sai-and-win11-for-ai-art/"><u>Taming the Digital Canvas: Making Magic with Paint Tool SAI & Win11 for AI Art</u></a></li>
+<li><a href="https://win-forum.techidaily.com/toutes-les-etapes-pour-transformer-un-fichier-mp2-en-format-ogg-facilement-et-gratuit-avec-laide-de-movavi-guide-complet/"><u>Toutes Les Étapes Pour Transformer Un Fichier MP2 en Format OGG Facilement Et Gratuit Avec L'aide De Movavi - Guide Complet</u></a></li>
+</ul></div>
+

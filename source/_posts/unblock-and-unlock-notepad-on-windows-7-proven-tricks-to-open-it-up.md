@@ -1,7 +1,7 @@
 ---
 title: "Unblock and Unlock Notepad on Windows: 7 Proven Tricks to Open It Up"
-date: 2024-09-11T21:15:58.380Z
-updated: 2024-09-15T19:15:39.049Z
+date: 2024-09-14T21:02:28.847Z
+updated: 2024-09-20T21:47:04.922Z
 tags:
   - windows10
   - windows11
@@ -83,6 +83,20 @@ To repair the Notepad app on Windows:
 4. Click the**Uninstall** button.  
 ![Uninstall Notepad App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-notepad-app-on-windows.jpg)
 5. Wait for Windows to uninstall Notepad from your computer.
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Next, click the**View features** button at the top.
 7. Type**Notepad** in the search box.
 8. Tick the**Notepad (system)** checkbox and click**Next** .
@@ -90,10 +104,10 @@ To repair the Notepad app on Windows:
 ![Install Notepad App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/install-notepad-app-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for Windows to install Notepad on your computer and then try to open it using the search menu.
@@ -116,13 +130,6 @@ To run the SFC scan on Windows:
 
 ![DISM Scan in Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/dism-scan-in-windows-terminal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After the scan is complete, restart your PC and see if you can access Notepad.
 
 ## 6\. Perform a Clean Boot
@@ -130,6 +137,13 @@ To run the SFC scan on Windows:
  At times, third-party apps and background services can conflict with Windows processes and cause problems like the one discussed here. One way to verify this possibility is to boot your computer in a clean boot state, where it only runs with essential apps and services.
 
  If you perform a clean boot and Notepad opens normally, it means that the culprit causing the issue got disabled. If you'd like to learn more about the topic, check out our guide on[how to perform a clean boot on Windows](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) and follow the steps listed there.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create Another User Account
 
@@ -142,13 +156,6 @@ To create a new user account on Windows:
 3. Click the**Add account** button.
 4. In the Microsoft account window, click **I don't have this person's sign-in information** .  
 ![Microsoft Account Sign-In Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/microsoft-account-sign-in-window.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Follow the on-screen prompts to create a new user account. Make sure you give the new account administrative privileges so that you can[move your personal files and data to the new account](https://www.makeuseof.com/windows-10-copy-files-between-user-accounts/) with ease.
 
@@ -173,13 +180,19 @@ To create a new user account on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-seamlessly-stream-and-save-youtube-lives-from-every-device/"><u>[New] Seamlessly Stream and Save YouTube Lives From Every Device</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effortless-ways-to-tackle-the-fifa-19-directx-glitch-a-step-by-step-guide/"><u>Effortless Ways to Tackle the FIFA 19 DirectX Glitch: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-borderlands-3-ls-0013-error/"><u>How To Fix Borderlands 3 LS-0013 Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-solve-the-wslregisterdistribution-failed-with-error-0x80370102-issue-in-windows/"><u>How to Solve the WslRegisterDistribution Failed With Error 0X80370102 Issue in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-error-code-windows-0x80242016/"><u>Navigating Through Error Code: Windows 0X80242016</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-guide-for-missing-d3dcompiler-dll-files-error-code-43/"><u>Solution Guide for Missing D3DCompiler DLL Files (Error Code 43)</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-your-file-sending-routine-on-dual-systems/"><u>Streamlining Your File Sending Routine on Dual Systems</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/unpacking-the-impact-of-youtubes-shorts-programme/"><u>Unpacking the Impact of YouTube's Shorts Programme</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-make-your-favorite-tiktok-sound-a-phones-custom-ringtone/"><u>[New] 2024 Approved Make Your Favorite TikTok Sound a Phone's Custom Ringtone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-capture-and-share-immedienas-unprecedented-journey-with-dslr-and-facebook-live/"><u>[New] Capture and Share Immedienas Unprecedented Journey with DSLR & Facebook LIVE</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-amplify-your-video-content-with-precision-insights-from-social-blade-and-youtube-for-2024/"><u>[Updated] Amplify Your Video Content with Precision Insights From Social Blade & YouTube for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-crafting-attention-a-look-at-the-best-15-video-intro-plans/"><u>2024 Approved Crafting Attention A Look at the Best 15 Video Intro Plans</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-funimate-video-retrieval/"><u>2024 Approved Step-by-Step Funimate Video Retrieval</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easily-watch-mov-videos-on-windows-1011-a-guide-to-five-user-friendly-solutions/"><u>Easily Watch MOV Videos on Windows 10/11: A Guide to Five User-Friendly Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-to-address-winerror-0xc0000005-instantly/"><u>Essential Steps to Address WinError 0Xc0000005 Instantly</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-crashes-due-to-0x0000011b-errors/"><u>Fixing Windows Crashes Due to 0X0000011B Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-for-fixing-windows-11-support-tool/"><u>Guidelines for Fixing Windows 11 Support Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-your-headset-mic-not-working-on-windows/"><u>How to Fix Your Headset Mic Not Working on Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigate-the-future-of-digital-art-with-the-finest-tablet-pads-of-2024/"><u>Navigate the Future of Digital Art with the Finest Tablet Pads of 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-checklist-for-saving-and-recovering-notes/"><u>The Ultimate Checklist for Saving and Recovering Notes</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-cannot-reach-server-error-in-win-10-and-11-for-mb/"><u>Troubleshooting Cannot Reach Server Error in Win 10 & 11 for MB</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-artificular-intelligence-risks-and-concerns/"><u>Understanding Artificular Intelligence: Risks and Concerns</u></a></li>
 </ul></div>
 

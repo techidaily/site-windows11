@@ -1,7 +1,7 @@
 ---
 title: Seamlessly Retrieve Content From a Shared Windows Space
-date: 2024-09-13T21:03:19.460Z
-updated: 2024-09-15T20:48:11.646Z
+date: 2024-09-17T20:14:47.897Z
+updated: 2024-09-20T16:01:14.850Z
 tags:
   - windows10
   - windows11
@@ -83,22 +83,17 @@ To turn on Network discovery, follow these steps:
 2. Click**View network status and tasks** .  
 ![Control Panel Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-overview.jpg)
 3. On the left-hand pane, click**Change advanced sharing settings** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Under**Private networks** , turn**On** the**Network discovery** option.  
 ![Windows Advanced Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-advanced-sharing-settings.jpg)
 5. Turn**On** the**File and printer sharing** option as well.
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to disable login abilities for accessing the shared folder, toggle**Password protected sharing** to**Off** .
 
@@ -117,6 +112,14 @@ Here's how you can fix all the firewall issues on your computer:
 3. Click**Public network** .  
 ![Windows Security App Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-security-preview.jpg)
 4. Uncheck or disable the option saying**Block all incoming connections** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Perform the same step with**Domain network** and**Private network** as well.
 6. Restart your PC to make sure the firewall is not blocking any Internet connections now.
 
@@ -136,23 +139,16 @@ Here's how to reset the network settings on Windows:
 3. In the Command Prompt window, type the**netsh int ip reset** command without the double quotes.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Ip Reset Command In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/ip-reset-command.jpg)
 4. Press**Enter** to execute the command. This will reset your network settings.
 
  This command is helpful in solving many common networking issues, such as when your computer fails to connect to a network or when the internet connection is not stable. So, the next time you face a network-related error, you now have a handy command for troubleshooting.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Troubleshooting Shared Folders on Windows
 
@@ -173,15 +169,20 @@ Here's how to reset the network settings on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-acquire-no-cost-sounds-for-videos-and-podcasts/"><u>[New] 2024 Approved Acquire No-Cost Sounds for Videos & Podcasts</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-most-effective-7-apps-for-blocking-android-web-ads/"><u>[New] The Most Effective 7 Apps for Blocking Android Web Ads</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-unplugged-bliss-selecting-smartphone-slowdowns/"><u>[New] Unplugged Bliss Selecting Smartphone Slowdowns</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-say-no-to-youtube-ads-chrome-firefox-android-and-ios-tips-for-2024/"><u>[Updated] How to Say No to YouTube Ads Chrome, Firefox, Android & iOS Tips for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/google-pixel-tablet-news-price-release-date-specs-and-more/"><u>Google Pixel Tablet: News, Price, Release Date, Specs, and More</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Nokia C32? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-the-art-of-finding-administrative-rules-on-pcs/"><u>Master the Art of Finding Administrative Rules on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-gameplay-and-frames-per-second-in-roblox-windows/"><u>Optimizing Gameplay & Frames per Second in Roblox Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-essential-expedition-for-pinpointing-pc-program-locations/"><u>The Essential Expedition for Pinpointing PC Program Locations</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/unlock-the-full-potential-of-web-marketing-with-next-gen-tools-such-as-cookiebot/"><u>Unlock the Full Potential of Web Marketing With Next-Gen Tools Such as Cookiebot</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-illuminating-origins-a-comprehensible-guide-to-inverted-images-in-instagram/"><u>[Updated] 2024 Approved Illuminating Origins A Comprehensible Guide to Inverted Images in Instagram</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-microphone-functionality-on-windows-10-devices/"><u>How to Restore Microphone Functionality on Windows 10 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-successfully-retry-failed-application-downloads-on-marketplace/"><u>How To Successfully Retry Failed Application Downloads on Marketplace</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-efficient-techniques-for-accessing-and-saving-vimeo-videos/"><u>In 2024, Efficient Techniques for Accessing and Saving Vimeo Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-elevate-your-play-with-these-5-windows-11-recording-approaches/"><u>In 2024, Elevate Your Play with These 5 Windows 11 Recording Approaches</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-social-savvy-how-to-save-gifs-for-iphoneandroid-use/"><u>In 2024, Social Savvy How to Save GIFs for iPhone/Android Use</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/limited-offer-get-the-powerful-16gb-memory-in-a-portable-13-inch-with-m3-macbook-air-at-an-unbeatable-price-of-1149/"><u>Limited Offer! Get the Powerful 16GB Memory in a Portable 13-Inch with M3 MacBook Air at an Unbeatable Price of $1,149</u></a></li>
+<li><a href="https://windows11.techidaily.com/lock-screen-after-how-long-on-windows/"><u>Lock Screen After How Long on Windows?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mkv-playback-mac-app-selection-guide/"><u>MKV Playback Mac App Selection Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-to-confirm-disk-type/"><u>Navigating Windows to Confirm Disk Type</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-stubbornness-in-windows-ui-elements/"><u>Overcoming Stubbornness in Windows UI Elements</u></a></li>
+<li><a href="https://windows11.techidaily.com/pioneer-windows-delving-into-upcoming-features-via-vivetool/"><u>Pioneer Windows: Delving Into Upcoming Features via ViVeTool</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagined-user-support-in-new-windows-release/"><u>Reimagined User Support in New Windows Release</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-unavailable-files-notification-in-office-email-app/"><u>Steps to Resolve 'Unavailable' Files Notification in Office Email App</u></a></li>
+<li><a href="https://discover-community.techidaily.com/winx-mediatrans-pro-top-tipp-fur-den-schnellen-datentransfer-von-ios-geraten-zu-computer/"><u>WinX MediaTrans Pro: Top-Tipp Für Den Schnellen Datentransfer Von iOS Geräten Zu Computer</u></a></li>
 </ul></div>
 

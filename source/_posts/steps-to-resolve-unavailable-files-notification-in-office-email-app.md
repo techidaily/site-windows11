@@ -1,7 +1,7 @@
 ---
 title: Steps to Resolve 'Unavailable' Files Notification in Office Email App
-date: 2024-09-09T18:25:50.906Z
-updated: 2024-09-15T18:17:43.701Z
+date: 2024-09-19T17:15:55.309Z
+updated: 2024-09-20T18:43:24.133Z
 tags:
   - windows10
   - windows11
@@ -93,10 +93,10 @@ To delete Outlook cache data on Windows, use these steps:
 ![Enable Microsoft Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-microsoft-defender-firewall.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Modify Registry Files
@@ -119,35 +119,6 @@ To delete Outlook cache data on Windows, use these steps:
 6. If any of the above-mentioned values are missing, right-click on an empty spot and select**New > String Value** .
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-7. Double-click on the newly created string value.
-8. Enter the name of the application handler in the**Value data** field and click**OK** .
-9. Right-click on the string value, select**Rename** and type the value associated with the application handler.
-10. Exit the Registry Editor window and restart your PC.  
-![Edit String in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-string-in-registry.jpg)
-
-## 8\. Run the Microsoft Office Repair Tool
-
- Microsoft Office includes a repair tool for fixing Office apps on Windows. So, if nothing works, you can run this tool to repair the Outlook app. Here's how:
-
-1. [Use one of the many ways to open the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) .
-2. Go to**Programs and Features** .
-3. Locate and select**Microsoft Office** on the list. Then, click the**Change** button at the top.
-4. Select**Quick Repair** and then click**Repair** .  
-![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
-
-<!-- affiliate ads begin -->
 <span id="1304648">
 					<video width="200" height="200" style="cursor:pointer"
            poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
@@ -160,13 +131,42 @@ To delete Outlook cache data on Windows, use these steps:
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+7. Double-click on the newly created string value.
+8. Enter the name of the application handler in the**Value data** field and click**OK** .
+9. Right-click on the string value, select**Rename** and type the value associated with the application handler.
+10. Exit the Registry Editor window and restart your PC.  
+![Edit String in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-string-in-registry.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## 8\. Run the Microsoft Office Repair Tool
+
+ Microsoft Office includes a repair tool for fixing Office apps on Windows. So, if nothing works, you can run this tool to repair the Outlook app. Here's how:
+
+1. [Use one of the many ways to open the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) .
+2. Go to**Programs and Features** .
+3. Locate and select**Microsoft Office** on the list. Then, click the**Change** button at the top.
+4. Select**Quick Repair** and then click**Repair** .  
+![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
+
  Wait for the process to finish and check if you can preview files. If you can't, repeat the above steps to perform an**Online Repair** . As suggestive of its name, this process does necessitate an active internet connection on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Preview Your Outlook Attachments Again on Windows
@@ -190,18 +190,18 @@ To delete Outlook cache data on Windows, use these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-from-zero-to-viral-video-top-10-user-friendly-youtube-concepts/"><u>[New] 2024 Approved From Zero to Viral Video Top 10 User-Friendly YouTube Concepts</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-secrets-unlocked-banishing-instagram-video-fails/"><u>[New] 2024 Approved Secrets Unlocked Banishing Instagram Video Fails</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-ultimate-guide-to-single-platform-gaming-in-apex-legends/"><u>[Updated] In 2024, The Ultimate Guide to Single-Platform Gaming in Apex Legends</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-unique-identity-creation-accessible-logo-base-and-personal-customization-for-no-cost/"><u>[Updated] In 2024, Unique Identity Creation Accessible Logo Base & Personal Customization for No-Cost</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/breaking-down-madden-19-standout-modes-marred-by-ageing-formula/"><u>Breaking Down Madden '19: Standout Modes Marred by Ageing Formula</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-in-the-professional-sphere-6-compelling-reasons-for-skill-acquisition/"><u>ChatGPT in the Professional Sphere: 6 Compelling Reasons for Skill Acquisition</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-windows-data-source-configuration-interface/"><u>Exploring Windows Data Source Configuration Interface</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixes-for-reactivating-the-windows-firewall-system/"><u>Fixes for Reactivating the Windows Firewall System</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-transform-your-speech-the-7-top-vocal-changer-mobile-apps/"><u>In 2024, Transform Your Speech The 7 Top Vocal Changer Mobile Apps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/nahimic-driver-enhancement-made-simple-recent-improvements-revealed/"><u>Nahimic Driver Enhancement Made Simple – Recent Improvements Revealed</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlined-methods-program-size-modification-via-keyboard-in-win11/"><u>Streamlined Methods: Program Size Modification via Keyboard in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailoring-new-interface-redesigned-widgets-chooser-for-win11/"><u>Tailoring New Interface: Redesigned Widgets Chooser for Win11</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-review-of-the-eero-pro-wireless-router-ensuring-seamless-wi-fi-connectivity-across-every-room/"><u>Top Review of the Eero Pro Wireless Router: Ensuring Seamless Wi-Fi Connectivity Across Every Room</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-guide-to-recording-your-lol-adventures-3-ways/"><u>[New] The Ultimate Guide to Recording Your LOL Adventures (3 Ways)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-30-beneath-the-surface-tips-for-optimized-windows-11/"><u>[New] Top 30 Beneath-the-Surface Tips for Optimized Windows 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/array-of-unique-video-cameras-by-type/"><u>Array of Unique Video Cameras by Type</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/conquering-your-fitness-aspirations-a-step-by-step-process-with-chatgpt/"><u>Conquering Your Fitness Aspirations: A Step-by-Step Process with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-capabilities-of-claude-2/"><u>Decoding the Capabilities of Claude 2</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-wsl-distributor-error-0x80370102-on-windows-systems/"><u>Fixing WSL Distributor Error 0X80370102 on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-successfully-retry-failed-application-downloads-on-marketplace/"><u>How To Successfully Retry Failed Application Downloads on Marketplace</u></a></li>
+<li><a href="https://windows11.techidaily.com/lock-screen-after-how-long-on-windows/"><u>Lock Screen After How Long on Windows?</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-to-confirm-disk-type/"><u>Navigating Windows to Confirm Disk Type</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-stubbornness-in-windows-ui-elements/"><u>Overcoming Stubbornness in Windows UI Elements</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagined-user-support-in-new-windows-release/"><u>Reimagined User Support in New Windows Release</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/samsung-galaxy-a71-5g-review/"><u>Samsung Galaxy A71 5G Review</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/step-by-step-guide-to-screen-capturing-hulu-content-seamlessly-for-2024/"><u>Step-by-Step Guide to Screen Capturing Hulu Content Seamlessly for 2024</u></a></li>
 </ul></div>
 

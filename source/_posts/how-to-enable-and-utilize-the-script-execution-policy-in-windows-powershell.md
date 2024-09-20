@@ -1,7 +1,7 @@
 ---
 title: How to Enable and Utilize the Script Execution Policy in Windows PowerShell
-date: 2024-09-13T21:20:34.277Z
-updated: 2024-09-15T20:48:33.850Z
+date: 2024-09-16T20:29:21.170Z
+updated: 2024-09-20T20:09:28.969Z
 tags:
   - windows10
   - windows11
@@ -76,16 +76,16 @@ To change the execution policy using PowerShell:
 `Set-ExecutionPolicy RemoteSgined -Scope CurrentUser`
 5. Replace**CurrentUser** in the above command with other users (Scope) as per your requirement.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Remove Script Execution Policy Using PowerShell
 
 ![set-execution-policy-undefined](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-execution-polify-undefined.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to disable script execution, set the execution policy to**Undefined** using th**e Set\_ExecutionPolicy** cmdlet. This is a default state and prevents PowerShell from executing any scripts.
 
@@ -97,6 +97,13 @@ To disable script execution using PowerShell:
 3. The above command will set the execution policy default (undefined) for all the users. If you want to disable script execution for a specific scope, use the following command:  
 `Set-ExecutionPolicy undefined -Scope CurrentUser`
 4. The above command will disable script execution for**CurrentUser** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Understanding Execution Policies and Scopes
 
@@ -128,13 +135,6 @@ The below table briefly explains all the execution policy scopes:
 | LocalMachine           | Configured for all users and stored in HKEY\_CURRENT\_MACHINE registry subkey.           |
 | Process                | Affects current PowerShell session and automatically deleted when the session is closed. |
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Add or Remove PowerShell Script Execution Policy on Windows
 
  Script execution on PowerShell is disabled by default for Windows clients and set to RemoteSigned for Windows server. Power users, however, can change execution policies to run local, signed, and unsigned PowerShell scripts.
@@ -156,17 +156,21 @@ The below table briefly explains all the execution policy scopes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-optimize-video-views-with-these-top-5-link-shrinkers/"><u>[Updated] 2024 Approved Optimize Video Views with These Top 5 Link Shrinkers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-a-comprehensible-guide-on-saving-instagram-story-content/"><u>2024 Approved A Comprehensible Guide on Saving Instagram Story Content</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/desktop-icon-disappearance-issues-resolved-in-windows-11-solved/"><u>Desktop Icon Disappearance Issues Resolved in Windows 11 [SOLVED]</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-connection-from-usb-20-to-local-area-network/"><u>Direct Connection From USB 2.0 to Local Area Network</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-unblock-and-install-unverified-windows-software/"><u>How to Unblock and Install Unverified Windows Software</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-vivo-y100-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Vivo Y100</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-xiaomi-14-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Xiaomi 14 Pro FRP Bypass</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolve-your-apple-watch-cellular-woes-with-these-effective-steps/"><u>Resolve Your Apple Watch Cellular Woes with These Effective Steps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tech-titans-meet-ms-bzs-merger-explored-with-ais-role-in-creativity-podcast/"><u>Tech Titans Meet: MS, BZ's Merger Explored with AI's Role in Creativity [Podcast]</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-fix-for-msvcr120dll-non-existence-on-computers/"><u>The Ultimate Fix for MSVCR120.DLL Non-Existence on Computers</u></a></li>
-<li><a href="https://windows11.techidaily.com/what-is-the-arp-cache-and-how-do-you-clear-it-on-windows/"><u>What Is the ARP Cache, and How Do You Clear It on Windows?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-charting-your-path-to-success-in-youtubes-earnings-system/"><u>[Updated] In 2024, Charting Your Path to Success in YouTube's Earnings System</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-iphones-high-dynamic-range-step-by-step-guide/"><u>2024 Approved IPhone's High Dynamic Range Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-microsofts-phone-link-for-android-usage-guide/"><u>Exploring Microsoft's Phone Link for Android: Usage Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-7-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximize-print-speed-on-windows-devices/"><u>Maximize Print Speed on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-failed-nvidia-connect-attempts-on-windows-11-pcs/"><u>Overcoming Failed Nvidia Connect Attempts on Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-empty-folder-puzzle-in-win-11/"><u>Overcoming the Empty Folder Puzzle in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-reactivate-windows-11s-silent-wireless-hotspot/"><u>Strategies to Reactivate Windows 11'S Silent Wireless Hotspot</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-concealment-start-menu-command-hideout/"><u>The Art of Concealment: Start Menu Command Hideout</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-blueprint-behind-facebooks-network-structure/"><u>The Blueprint Behind Facebook's Network Structure</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-computing-by-toms-tech-experts/"><u>The Ultimate Guide to Computing by Tom's Tech Experts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-ultimate-guide-to-macs-image-file-transformation/"><u>The Ultimate Guide to Mac's Image File Transformation</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-video-editing-made-easy-a-wax-tutorial-for-beginners/"><u>Updated Free Video Editing Made Easy A Wax Tutorial for Beginners</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-hurdles-apps-with-dull-facades-draining-energy/"><u>Windows 11 Hurdles: Apps With Dull Facades Draining Energy</u></a></li>
 </ul></div>
 

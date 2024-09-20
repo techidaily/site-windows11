@@ -1,7 +1,7 @@
 ---
 title: "Tackling the Win 11 Challenge: Reversing the Operation Elevation Mistake"
-date: 2024-09-11T16:01:51.182Z
-updated: 2024-09-15T21:39:10.315Z
+date: 2024-09-15T21:27:46.709Z
+updated: 2024-09-20T21:32:35.327Z
 tags:
   - windows10
   - windows11
@@ -47,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 
 ![The User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/user-account-control-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Adjust Folder Permission Settings
 
  This potential resolution is recommended for users who can’t access specific folders because of error 740\. In that scenario, this error can be a folder permissions issue that selecting the **Replace all child object permission entries** option could feasibly address.
@@ -71,14 +64,21 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 7. Click **Apply** on the Advanced Security Settings window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Select **Yes** when asked to continue.
 9. Exit the folder’s properties window and restart your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Modify the Behavior of the UAC Elevation Prompt
 
@@ -92,6 +92,20 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 4. Then go to **Local Policies** and **Security Options** to access User Account Control Policy settings.  
 ![Security Options within Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/security-options.jpg)
 5. Double-click the **User Account Control: Behavior of the elevation prompt for administrators in Admin Approval Mode** policy.
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Select the **Elevate without prompting** option on the drop-down menu.  
 ![The Elevate without prompting option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elevate-without-prompting.jpg)
 7. Click **Apply** to set the **Elevate without prompting policy**.
@@ -110,20 +124,13 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 4. Select **Apply** to turn off Admin Approval Mode.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. To close the policy window, select the **OK** option.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Disable Third-Party Antivirus Software Packages
 
@@ -141,39 +148,20 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 
 ![The Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-account-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To apply this troubleshooting method for the “requested operation requires elevation” error, follow the instructions within this article about [how to fix Windows issues by creating new user accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/). First, you’ll need to set up and sign in to the new admin account to see if the error occurs there. If not, transfer user files into the new account as covered there.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Error 740 Sorted on Windows
 
  The “requested operation requires elevation” error is an inconvenient admin access privilege issue many users have needed to fix. Users have resolved that issue by applying the potential resolutions in this guide. So, try applying those fixes for the “requested operation requires elevation” error in the order specified to find one that works on your Windows 10 or 11 PC.
 
  This is how you can fix error 740 within Windows 10 and 11\.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-global-lens-local-tales-how-to-transform-your-travel-experiences-into-content/"><u>[New] 2024 Approved Global Lens, Local Tales How to Transform Your Travel Experiences Into Content</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-step-by-step-to-smiles-and-laughter-your-snapchat-gif-tutorial/"><u>[New] Step-by-Step to Smiles and Laughter Your Snapchat Gif Tutorial</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-techniques-to-recover-from-obs-fullscreen-lockout/"><u>2024 Approved Techniques to Recover From OBS Fullscreen Lockout</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-copilot-and-copilot-pro-essential-differences-that-influence-your-choice/"><u>Comparing CoPilot and CoPilot Pro: Essential Differences That Influence Your Choice</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-issues-how-to-restore-your-dell-camera-functionality-in-windows/"><u>Fixing Issues: How to Restore Your Dell Camera Functionality in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-overcome-repetitive-login-failures-in-teams/"><u>How to Overcome Repetitive Login Failures in Teams</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-show-or-hide-system-tray-icons-and-the-hidden-icons-menu-on-windows-11/"><u>How to Show or Hide System Tray Icons and the Hidden Icons Menu on Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-samsung-galaxy-a54-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Samsung Galaxy A54 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/instant-internet-jump-after-installing-os/"><u>Instant Internet Jump After Installing OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/leveraging-windows-for-top-linux-functionality/"><u>Leveraging Windows for Top Linux Functionality</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-connection-ready-to-use-fixes-for-your-airpods-and-windows-pcs/"><u>Mastering the Connection: Ready-to-Use Fixes for Your AirPods and Windows PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/personalizing-window-writable-wallpaper-with-confidence/"><u>Personalizing Window' Writable Wallpaper with Confidence</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamlessly-link-several-bluetooth-speakers-to-your-smartphone-or-tablet/"><u>Seamlessly Link Several Bluetooth Speakers to Your Smartphone or Tablet</u></a></li>
-<li><a href="https://windows11.techidaily.com/silent-steps-a-quick-guide-to-stopping-windows-11-activities/"><u>Silent Steps: A Quick Guide to Stopping Windows 11 Activities</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-best-way-to-play-ps1-games-on-windows-a-duckstation-guide/"><u>The Best Way to Play PS1 Games on Windows: A Duckstation Guide</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -182,3 +170,21 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-audio-formatting-guide-from-srt-to-xmlssa-ttml-etc/"><u>[Updated] In 2024, Audio Formatting Guide From SRT to XML/SSA, TTML, Etc</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-art-of-changing-meeting-screens-on-microsoft-teams-for-2024/"><u>[Updated] The Art of Changing Meeting Screens on Microsoft Teams for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-color-dynamics-bringing-artistic-vision-to-life/"><u>2024 Approved Color Dynamics Bringing Artistic Vision to Life</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722895627860-amazing-phone-and-tablet-jokes-the-best-ios-pranks-ever/"><u>Amazing Phone and Tablet Jokes: The Best iOS Pranks Ever</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/command-center-conundrums-deciphering-best-cloud-solutions/"><u>Command Center Conundrums Deciphering Best Cloud Solutions</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-nvidia-geforce-rtx-2070-super-graphics-card-drivers-download-and-update-guide-for-windows-11-users/"><u>Latest Nvidia GeForce RTX 2070 Super Graphics Card Drivers: Download & Update Guide for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-windows-with-ease-using-these-5-folder-tips/"><u>Navigate Windows with Ease Using These 5 Folder Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-iomap64-blue-screen-of-death-in-windows-78/"><u>Overcoming the IOMap64 Blue Screen of Death in Windows 7/8</u></a></li>
+<li><a href="https://windows11.techidaily.com/stealth-mode-for-windows-11-search-bar-on-taskbar/"><u>Stealth Mode for Windows 11 Search Bar on Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-8-best-video-cutting-apps-for-windows-10-and-11/"><u>The 8 Best Video Cutting Apps for Windows 10 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-artisans-guide-to-win-1011-wall-decorations/"><u>The Artisan's Guide to Win 10/11 Wall Decorations</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-best-slow-mo-video-players-top-picks/"><u>Updated 2024 Approved Best Slow-Mo Video Players Top Picks</u></a></li>
+</ul></div>
+

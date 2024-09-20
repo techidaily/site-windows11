@@ -1,7 +1,7 @@
 ---
 title: Master the Windows Photo Interface with Keys
-date: 2024-09-11T22:36:17.777Z
-updated: 2024-09-15T18:50:51.765Z
+date: 2024-09-16T18:36:37.506Z
+updated: 2024-09-20T19:51:44.515Z
 tags:
   - windows10
   - windows11
@@ -46,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
  The shortcut to scroll up, down, left, or right in the Photos app is the**Arrow** key. The up and down arrow keys will scroll vertically and the left and right arrow keys will scroll horizontally.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Zoom in or Out of an Image
@@ -76,16 +76,22 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  The shortcut to copy in the Photos app is the**Ctrl + C** key. This will copy the current photo or video to the clipboard, so it can be pasted into another location.
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 11\. Enhance a Photo
 
  The shortcut to enhance a photo in the Photos app is the**Ctrl + E** key. This will open up an "Auto Enhance" window, allowing you to apply various adjustments such as brightness, contrast, and color.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 12\. Undo Changes
 
@@ -115,9 +121,23 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  The shortcut to set a photo or video as the lock screen in the Photos app is the**Ctrl + L** key. This will open up a window where you can select the image or video to be used as your lock screen.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 19\. Create a New Album
 
  In the Photos app, the shortcut for creating a new album is the**Ctrl + N** key. This will open up a window where you can enter the name and description of the new album.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 20\. Remove the Album
 
@@ -127,34 +147,20 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  The shortcut to move within a photo in the Photos app is the**Arrow** key. Using the left and right arrow keys will allow you to quickly scroll through the photo, while the up and down arrows will zoom in and out.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 22\. Select an Item and Enter the Selection Mode
 
  The shortcut to select an item and enter Selection mode in the Photos app is the**Spacebar** key.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 23\. Show the Next or Previous Item
 
  In the Photos app, the shortcut to show the next or previous item is the Left or right arrow keys. It is only possible to do this with a single item or slide show.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 24\. Resize Crop or Selective Focus Area
 
@@ -183,17 +189,19 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-ultimate-speaker-change-tech-for-internet-showbiz-pros/"><u>[New] 2024 Approved Ultimate Speaker Change Tech for Internet Showbiz Pros</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-ultimate-guide-to-mac-iphone-and-ipad-pip/"><u>[Updated] 2024 Approved The Ultimate Guide to Mac, iPhone, and iPad PIP</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-steps-to-resurrect-itunes-on-windows-devices/"><u>Essential Steps to Resurrect iTunes on Windows Devices</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-reno-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-mute-amdnvidia-graphic-enhancements/"><u>How to Mute AMD/Nvidia Graphic Enhancements</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-xiaomi-redmi-13c-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Xiaomi Redmi 13C FRP</u></a></li>
-<li><a href="https://article-tips.techidaily.com/precision-and-excellence-a-guide-to-professional-audacity-recordings/"><u>Precision and Excellence A Guide to Professional Audacity Recordings</u></a></li>
-<li><a href="https://windows11.techidaily.com/steady-your-cursor-fixing-erratic-movements-in-windows-11/"><u>Steady Your Cursor: Fixing Erratic Movements in Windows 11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-x100-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo X100 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-winning-edge-a-compilation-of-top-8-editors-for-windows/"><u>The Winning Edge: A Compilation of Top 8 Editors for Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveil-if-your-pc-is-prepared-for-the-upcoming-os/"><u>Unveil If Your PC Is Prepared for the Upcoming OS</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-5-pioneering-portals-to-streamline-your-text-effects-search/"><u>[New] 5 Pioneering Portals to Streamline Your Text Effects Search</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-first-steps-in-gamified-editing-software-selection-for-2024/"><u>[New] First Steps in Gamified Editing Software Selection for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-intricacies-of-crafting-a-virtual-experience/"><u>[Updated] The Intricacies of Crafting a Virtual Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-freesync-fidelity-meets-4k-bliss-with-samsung-ue590/"><u>2024 Approved FreeSync Fidelity Meets 4K Bliss with Samsung UE590</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-drivers-for-your-epson-perfection-v500-free-downloads-available/"><u>Get the Latest Drivers for Your Epson Perfection V500 - Free Downloads Available!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-your-pictures-the-ultimate-guide-to-photo-text-editing/"><u>In 2024, Perfect Your Pictures The Ultimate Guide to Photo Text Editing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-seeking-clearance-can-you-upload-media-on-fb/"><u>In 2024, Seeking Clearance Can You Upload Media on FB?</u></a></li>
+<li><a href="https://windows11.techidaily.com/missing-wingman-copilot-in-the-sky-of-windows-11/"><u>Missing Wingman (Copilot) in the Sky of Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-new-picsart-app-review-and-tutorial-for-2024/"><u>Navigating the New PicsArt App – Review & Tutorial for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/regaining-internet-access-in-windows/"><u>Regaining Internet Access in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/retrospective-on-classic-ratchet-and-clank-reenvisioned-and-revitalized/"><u>Retrospective on Classic Ratchet & Clank Reenvisioned and Revitalized</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-keyboard-commands-add-wordpad-shortcuts-to-windows-context-menus/"><u>Streamlining Keyboard Commands: Add Wordpad Shortcuts to Window's Context Menus</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactical-approach-to-beat-wows-fatal-132-hurdle/"><u>Tactical Approach to Beat WOW's Fatal #132 Hurdle</u></a></li>
 </ul></div>
 

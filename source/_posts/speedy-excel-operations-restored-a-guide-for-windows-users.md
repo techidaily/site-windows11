@@ -1,7 +1,7 @@
 ---
 title: "Speedy Excel Operations Restored: A Guide for Windows Users"
-date: 2024-09-09T20:53:51.271Z
-updated: 2024-09-15T23:04:11.611Z
+date: 2024-09-19T21:26:30.740Z
+updated: 2024-09-20T20:09:25.528Z
 tags:
   - windows10
   - windows11
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 4. Click **OK** and restart Excel.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Enable Manual Calculation
@@ -81,22 +81,29 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 
 ![Enable Manual Calculation in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-manual-calculation-in-excel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Reduce the Size of Your Excel File
 
  The larger your spreadsheet, the more calculations and operations Excel has to perform. This can have a negative impact on Excel's performance and lead to various problems. To avoid this, you can try reducing the size of your Excel workbook by decreasing the number of sheets, removing unnecessary formatting, and compressing any pictures within your workbook.
 
  Another thing you can do is save your Excel file in binary (.xslb) format. To do so, press **F12** on your keyboard to bring up the **Save As** dialog in Excel. Click the drop-down menu next to **Save as type** to select **Excel Binary Workbook (\*.xslb)** and click the **Save** button.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Save As Dialog in Excel
 
 ![Save As Dialog in Excel](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/save-as-dialog-in-excel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Update Microsoft Excel
 
@@ -106,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 2. Select **Account** from the left sidebar.
 3. Click **Update Options > Update Now**.  
 ![Update Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft-excel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for Microsoft Office to update Excel along with other Office apps and check if that fixes the problem.
 
@@ -128,20 +128,14 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 6. Select the **Quick Repair** option and then click **Repair**.  
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
 
- Allow the repair tool to fix any issues with Excel. If the issue remains even after that, you can perform an **Online Repair** instead. This will allow the tool to perform a more comprehensive repair to resolve any issues.
-
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Allow the repair tool to fix any issues with Excel. If the issue remains even after that, you can perform an **Online Repair** instead. This will allow the tool to perform a more comprehensive repair to resolve any issues.
 
 ## 8\. Try Some Generic Windows Fixes
 
@@ -157,20 +151,6 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 
  Before you consider switching to Excel’s web version or another alternative, try the following tips to boost Excel’s performance on your Windows computer.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-optimal-visuals-selecting-superior-gear-for-4k-projects/"><u>[New] Optimal Visuals Selecting Superior Gear for 4K Projects</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-echo-music-into-your-whatsapp-narrative/"><u>[Updated] Echo Music Into Your WhatsApp Narrative</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-zero-cost-video-cutting-and-joining-solutions-for-new-users/"><u>Best Zero-Cost Video Cutting and Joining Solutions for New Users</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-htc-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For HTC Phones</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-connectivity-challenges-in-winmc-minecraft/"><u>Navigating Connectivity Challenges in WinMC Minecraft</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-dll-problems-tips-for-when-you-cant-locate-msvcr70dll/"><u>Overcoming DLL Problems: Tips for When You Can’t Locate MSVCR70.DLL</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/seamless-video-transfer-from-youtube-to-instagram-for-2024/"><u>Seamless Video Transfer From YouTube to Instagram for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-decrease-cpu-spikes-from-modules-installer/"><u>Strategies to Decrease CPU Spikes From Modules Installer</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-microsoft-store-error-code-x800704cf-on-windows-devices/"><u>Troubleshooting: Microsoft Store Error Code X800704CF on Windows Devices</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-sculpting-the-silence-an-in-depth-look-at-modifying-audio-keyframes-for-immersive-experiences-in-final-cut-pro-x-for-2024/"><u>Updated Sculpting the Silence An In-Depth Look at Modifying Audio Keyframes for Immersive Experiences in Final Cut Pro X for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -178,3 +158,24 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-combat-colossus-leading-10-royale-titles/"><u>[New] Combat Colossus Leading 10 Royale Titles</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-complete-obs-guide-to-skype-call-recording-for-2024/"><u>[New] The Complete OBS Guide to Skype Call Recording for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-eradicating-motion-sickness-in-immersive-virtualities/"><u>[Updated] 2024 Approved Eradicating Motion Sickness in Immersive Virtualities</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ive-channel-titling-techniques-for-growth/"><u>Creative Channel Titling Techniques for Growth</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-the-problem-of-failed-window-11-closures-a-step-by-step-guide/"><u>Fixing the Problem of Failed Window 11 Closures - A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-screenless-to-seen-effective-methods-for-re-emerging-off-screen-windows-in-win-10/"><u>From Screenless To Seen: Effective Methods for Re-Emerging Off-Screen Windows in Win 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/guiding-through-the-maze-of-steam-setup-errors-in-win11/"><u>Guiding Through the Maze of Steam Setup Errors in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-razer-synapse-not-working-in-windows-1110/"><u>How to Fix Razer Synapse Not Working in Windows 11/10</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-6-proven-techniques-to-elevate-your-youtube-engagement-and-reduce-churn/"><u>In 2024, 6 Proven Techniques to Elevate Your YouTube Engagement and Reduce Churn</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-streamline-recorder-quality-test/"><u>In 2024, StreamLine Recorder Quality Test</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-fixes-revive-razers-synapse-control/"><u>Mastering Windows Fixes: Revive Razer's Synapse Control</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-procuring-growls-and-whispers-audio-packages/"><u>New 2024 Approved Procuring Growls and Whispers Audio Packages</u></a></li>
+<li><a href="https://windows11.techidaily.com/regain-control-from-spontaneous-scrolls-in-winworlds/"><u>Regain Control From Spontaneous Scrolls in Winworlds</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-realme-narzo-60x-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-configure-windows-firewall-for-chrome-permissions/"><u>Strategies to Configure Windows Firewall for Chrome Permissions</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-customizing-w11s-transparent-bar/"><u>The Ultimate Guide to Customizing W11's Transparent Bar</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential: Access Unannounced Features with ViVeTool"
-date: 2024-09-12T19:55:47.115Z
-updated: 2024-09-15T16:02:40.418Z
+date: 2024-09-14T21:34:58.828Z
+updated: 2024-09-20T16:49:25.100Z
 tags:
   - windows10
   - windows11
@@ -55,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 3. Run the setup file and keep the default settings. Follow the on-screen instructions to install the app.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Install Unreleased Features Using ViVeTool on Windows
@@ -72,19 +72,6 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 4. Next, select the feature you want to enable or disable. Alternatively, type the feature name in the search bar to find a specific feature.  
 ![activate feature vivetool gui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/activate-feature-vivetool-gui.jpg)
 5. Click the **Perform Action** drop-down select **Activate** to enable the feature. Wait for the success message and click **Close**.  
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![revert to default values feature vivetool gui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/revert-to-default-values-feature-vivetool-gui.jpg)
 6. If the changes are not immediately visible, [restart Windows Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) to apply the changes. In some instances, you may need to restart your PC to make the changes.
@@ -108,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 * [Enable the Enhanced Taskbar in Windows 11](https://www.makeuseof.com/enhanced-taskbar-settings-windows-11/)
 * [Enable the Volume Mixer in the Action Center in Windows 11](https://www.makeuseof.com/volume-mixer-action-center-windows/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use the ViVeTool Command-Line Version
 
  The original version of ViVeTool is a command-line utility. While it offers similar functionality as the GUI version, it is an efficient way to enable and disable Windows features quickly. Here’s how to do it:
@@ -115,19 +109,6 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 1. Go to the [ViVeTool page](https://github.com/PeterStrick/ViVeTool-GUI/releases/) on GitHub. This lists all the releases of ViVeTools since its inception.  
 ![download vivetool command line zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-vivetool-command-line-zip.jpg)
 2. Locate the latest version of ViVeTools. As of writing this, **Version 1.6.2** is the latest stable release available, and version 1.7 is available as a pre-release.
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Click on **Assets** to view the download options.
 4. Next, click the **ViVeTool.GUI.1.6.2.0.Portable.zip** file (version may change with the new releases) to download the latest version to your local drive.  
@@ -147,11 +128,26 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 1. In the above command, replace featureID with the feature ID you want to enable.  
 ![command prompt vivetool enable feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/command-prompt-vivetool-enable-feature.jpg)
 2. For example, to enable the tab feature in File Explorer, the feature ID is id:37634385\. So, the full command will look like this:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `ViVeTool.exe /enable /id:37634385`
 3. If you want to disable a feature, then the command will look something like this:  
 `ViVeTool.exe /disable /id:featureID`
 4. Once the command is executed, type exit and press Enter to close the Command Prompt.
 5. Restart your PC to apply the changes. After the PC restarts, the changes should be visible.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why Does Enabling a Feature in ViVeTool Not Do Anything?
 
@@ -160,10 +156,10 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
  In other instances, it may be due to the feature state being set to **Always Disabled** or **Enabled** during compilation. In this instance, even if ViVeTool successfully processes your request, you are unlikely to see any real changes, as the feature is hard-coded to remain on or off.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ViVeTool's Supported Commands
@@ -185,19 +181,6 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 | /appupdate       | Look for new ViVeTool updates                                |
 | /notifyusage     | Shows a feature notification                                 |
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ViVeTool Brings Hidden Windows Experimental Features to Everyone
 
  ViVeTool makes it easy to find and test new experimental features before they are released to the public. Whether you use the GUI or command-line version, it lets you easily enable and disable some exciting and annoying features.
@@ -206,23 +189,6 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 
  It allows you to try newer and unreleased features on your stable or developer Windows releases, such as the multi-tab feature in File Explorer or restore the classic Windows 11 context menu. But should you use ViVeTool? Let’s find out!
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-beyondthebaseline-mycams-successor-for-2024/"><u>[New] BeyondTheBaseline MyCam's Successor for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/find-anything-you-want-to-know-about-instagram-video-limit/"><u>Find Anything You Want to Know About Instagram Video Limit</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-errors-in-windows-discord-query-system/"><u>Fixing Errors in Windows' Discord Query System</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-automatically-shut-down-a-windows-11-and-11-pc-when-its-idle/"><u>How to Automatically Shut Down a Windows 11 and 11 PC When It's Idle</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-resolve-faulty-narration-function-on-word-windows/"><u>How To Resolve Faulty Narration Function on Word (Windows)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-vivo-s17-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Vivo S17</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-f23-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo F23 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Honor Magic Vs 2? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/perfecting-file-management-engage-checkboxes-in-win11-files/"><u>Perfecting File Management: Engage Checkboxes in Win11 Files</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/say-goodbye-to-freezing-mice-in-win10/"><u>Say Goodbye to Freezing Mice in Win10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-great-mismatch-separating-facts-on-siri-and-chatgpt-functionality-differences/"><u>The Great Mismatch: Separating Facts on Siri and ChatGPT Functionality Differences</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-inability-to-add-columns-in-ms-excel-windows/"><u>Troubleshooting: Inability to Add Columns in MS Excel (Windows)</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -230,3 +196,15 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-crafting-a-customized-soundscape-youtube-playlist-building-on-the-internetapps/"><u>[Updated] In 2024, Crafting a Customized Soundscape YouTube Playlist Building on the Internet/Apps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-navigating-cross-platform-shares-igtv-and-facebook/"><u>[Updated] In 2024, Navigating Cross-Platform Shares IGTV & Facebook</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-peeling-layers-to-originality-a-guide-for-instagram-photo-search-for-2024/"><u>[Updated] Peeling Layers to Originality A Guide for Instagram Photo Search for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/how-to-clean-up-your-figma-compositions-effectively-for-2024/"><u>How To Clean Up Your Figma Compositions Effectively for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-error-code-0xc0000001-on-windows-10-or-11/"><u>How to Fix Error Code 0Xc0000001 on Windows 10 or 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-resolution-of-windows-store-error-0x80073d26/"><u>Navigating the Resolution of Windows Store Error 0X80073D26</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-blueprint-instantly-creating-multiple-directories-for-a-neat-workspace-on-windows/"><u>The Complete Blueprint: Instantly Creating Multiple Directories for a Neat Workspace on Windows</u></a></li>
+</ul></div>
+

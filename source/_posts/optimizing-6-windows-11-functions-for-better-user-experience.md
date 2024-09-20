@@ -1,7 +1,7 @@
 ---
 title: Optimizing 6 Windows 11 Functions for Better User Experience
-date: 2024-09-14T18:59:18.528Z
-updated: 2024-09-15T17:29:48.664Z
+date: 2024-09-14T21:55:14.924Z
+updated: 2024-09-20T17:31:03.306Z
 tags:
   - windows10
   - windows11
@@ -47,19 +47,6 @@ thumbnail: https://thmb.techidaily.com/852437a8f4dc8f33eb3a839d8b7d9a1e3df217c9c
 
  It may not be available in Windows 11 anytime soon, but we would like to see it in future versions of Windows.
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Add Better Drag And Drop Support
 
  If you are running Windows 11, version 22H2, you can drag files onto apps in the taskbar to open them directly in specific apps. This way, you can open files faster than by double-clicking the app icon with your mouse and then opening files. However, there is still room for improvement. For example, unlike in macOS Dock, you can not simply drag a file or folder to Windows 11 taskbar.
@@ -77,10 +64,16 @@ thumbnail: https://thmb.techidaily.com/852437a8f4dc8f33eb3a839d8b7d9a1e3df217c9c
  Microsoft can improve the taskbar by bringing back the ability to view upcoming events as well as create new ones from the Calendar flyout.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. What More Can Microsoft Do to Improve the Taskbar?
@@ -89,16 +82,16 @@ thumbnail: https://thmb.techidaily.com/852437a8f4dc8f33eb3a839d8b7d9a1e3df217c9c
 
 ![Floating taskar in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/floating-taskar-in-windows-11.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image credit: Albacore/[Twitter](https://twitter.com/thebookisclosed/status/1580287591890329601)
 
  The rounded corner design in the Windows 11 taskbar will make it look more like ChromeOS' "Shelf" (taskbar equivalent of ChromeOS) and macOS Dock. However, we don't mind if Microsoft brings a rounded corner design as a customization option on top of what we already have.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why Did Microsoft Remove Certain Taskbar Features in Windows 11?
 
@@ -115,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/852437a8f4dc8f33eb3a839d8b7d9a1e3df217c9c
  When Windows 11 debuted in 2021, the taskbar was less functional than it is today. It was missing some basic features, such as the ability to drag files onto apps on the taskbar, the taskbar context menu, and many more. Windows 11, version 22H2 brought back some of those missing features, including the drag-and-drop support and the context menu.
 
  In a more recent development, Microsoft added a touch-optimized taskbar for tablets and two-in-one devices alongside other[new features with Windows 11 February 2023 update](http://www.makeuseof.com/windows-11-february-2023-update-best-features/) , also known as "Moment 2.". Microsoft also updated the taskbar system tray area with new animations, rounded corners, and the ability to pin and unpin background apps via the Settings app.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will the Windows 11 Taskbar Be as Good as We Want It to Be?
 
@@ -137,20 +137,17 @@ thumbnail: https://thmb.techidaily.com/852437a8f4dc8f33eb3a839d8b7d9a1e3df217c9c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-best-practices-in-selecting-youtube-video-extractor-apps-for-android/"><u>[New] In 2024, Best Practices in Selecting YouTube Video Extractor Apps for Android</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-luts-refine-image-details-and-contrast-in-photos/"><u>[Updated] How LUTs Refine Image Details and Contrast in Photos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-assessing-the-m1s-role-in-creative-media-editing/"><u>[Updated] In 2024, Assessing the M1's Role in Creative Media Editing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-master-screen-capture-detailed-tutorial-walkthrough/"><u>[Updated] Master Screen Capture Detailed Tutorial Walkthrough</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-exploring-screen-recording-with-zdsoft/"><u>2024 Approved Exploring Screen Recording with ZDSoft</u></a></li>
-<li><a href="https://windows11.techidaily.com/guaranteeing-your-printers-access-in-win11/"><u>Guaranteeing Your Printer's Access in Win11</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-htc-u23-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-c12-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Nokia C12 Pro by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-stealth-concealing-drives-on-windows-11-and-10/"><u>Mastering Stealth: Concealing Drives on Windows 11 & 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/revive-lost-space-a-windows-technique-for-storage-recovery/"><u>Revive Lost Space: A Windows Technique for Storage Recovery</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-your-code-with-jdk-on-windows-11/"><u>Streamlining Your Code with JDK on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/surmounting-ram-barriers-in-the-windows-environment/"><u>Surmounting RAM Barriers in the Windows Environment</u></a></li>
-<li><a href="https://windows11.techidaily.com/unzipping-and-zipping-made-easy-windows-command-line-guidebook/"><u>Unzipping & Zipping Made Easy: Windows Command Line Guidebook</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-skirmish-fixing-sse-in-skyrim-games/"><u>Win Skirmish: Fixing SSE in Skyrim Games</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-effortless-editing-a-beginners-guide-to-multi-snaps-in-snapchat/"><u>[New] Effortless Editing A Beginner's Guide to Multi-Snaps in Snapchat</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-14-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Xiaomi 14 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cinematic-excellence-discover-the-best-15-gopro-action-cam-luts/"><u>Cinematic Excellence Discover the Best 15 GOPRO Action Cam LUTs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-samsung-galaxy-z-fold-5-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Samsung Galaxy Z Fold 5 Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/innovative-windows-11-disk-space-strategies-without-deleting-files-max-156-chars/"><u>Innovative Windows 11 Disk Space Strategies Without Deleting Files (Max 156 Chars)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-productivity-leverage-5-free-ai-powered-tools-that-utilize-chatgpt-to-forge-professional-messages-and-condense-your-emails/"><u>Maximize Productivity: Leverage 5 Free AI-Powered Tools that Utilize ChatGPT to Forge Professional Messages and Condense Your Emails</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-unlocking-talkshoplive-pros-and-tips-for-live-shopping-success/"><u>New Unlocking TalkShopLive Pros and Tips for Live Shopping Success</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-non-operative-grammarly-on-your-computer/"><u>Overcoming Non-Operative Grammarly on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-hurdle-of-launch-failures-in-games-through-proper-file-validation/"><u>Overcoming the Hurdle of Launch Failures in Games Through Proper File Validation</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplify-storage-management-in-windows-10-and-11-via-context-menu-tool/"><u>Simplify Storage Management in Windows 10 & 11 via Context Menu Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-the-prime-viewing-experience-on-windows-11-devices/"><u>Streamline the Prime Viewing Experience on Windows 11 Devices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-7-microphone-not-working-problems-solved/"><u>Windows 7 Microphone Not Working Problems [Solved]</u></a></li>
 </ul></div>
 

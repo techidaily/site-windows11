@@ -1,7 +1,7 @@
 ---
 title: Navigating Spotify Error 4 in Windows 11 Environments
-date: 2024-09-13T19:12:58.207Z
-updated: 2024-09-15T19:46:56.063Z
+date: 2024-09-18T18:37:02.416Z
+updated: 2024-09-20T17:08:18.643Z
 tags:
   - windows10
   - windows11
@@ -66,14 +66,22 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 6. Then right-click the**EnableActiveProbing** DWORD and select**Modify** .  
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/modify-option.jpg)
 7. If**EnableActiveProbing** is set to**0** , clear the**Value data** box. Then input**1** inside that data box.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Edit DWORD window for the EnableActiveProbing DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-dword-window.jpg)
 8. Select**OK** to save the new**EnableActiveProbing** value.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Exclude Spotify From Your Antivirus Software
@@ -84,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 
  Our article about[setting Windows Security exclusions](https://www.makeuseof.com/windows-11-security-exclusions/) includes instructions for adding software to that app’s exception list. If you’re utilizing a third-party antivirus tool, look for an exclusion list within its settings tab. The antivirus software’s website will also likely include guidelines for how to use its exclusion list.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Turn Off the Windows Defender Firewall
 
  Windows Defender Firewall is a component of Windows Security for filtering network traffic. Turning that firewall off could resolve error 4 if Spotify isn’t allowed through it. You can turn off WDF as outlined in our guide to[disabling the Windows Defender firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) .
@@ -93,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
  Should this solution work, it’s not a good idea to keep the firewall disabled. Open Windows Defender Firewall’s allowed app list and select the Spotify checkboxes there to permit that app through it. Check out our how to guide about[allowing apps through the Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) for further details.
 
 ![The firewall's allowed apps settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allowed-app-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Of course, numerous standalone third-party firewalls can block Spotify much the same. If you have installed a third-party firewall, try disabling it to see if that resolves error 4\. Then add Spotify to its allowed apps and turn the firewall back on if it does.
 
@@ -117,22 +125,15 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 ![The Download Spotify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-option.jpg)
 7. Open the Explorer file manager along with the folder in which Spotify downloaded.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Double-click the**SpotifySetup.exe** file to bring up the setup wizard and install Spotify.
 
  Another option is to install the Spotify UWP (Universal Windows Platform) app on Microsoft Store. Click the**Get it From Microsoft Store** button on the linked Spotify download page to bring up that app’s MS store page. Then click the**Get in Store app** \>**Open Microsoft Store** options and select**Get** to install the UWP app.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enjoy Spotify Music Online Again
@@ -154,17 +155,16 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-step-by-step-approach-to-saving-instagram-stories/"><u>[New] 2024 Approved Step-by-Step Approach to Saving Instagram Stories</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-tailored-content-creation-how-to-cropped-and-export-videos-for-instagram/"><u>[New] 2024 Approved Tailored Content Creation How to Cropped & Export Videos for Instagram</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-brightening-tactics-for-android-video-enthusiasts-for-2024/"><u>[New] Brightening Tactics for Android Video Enthusiasts for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-visual-magic-grading-through-hue-manipulation/"><u>[New] In 2024, Visual Magic Grading Through Hue Manipulation</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-14-top-metaverse-initiatives-revealing-potential-futures/"><u>2024 Approved 14 Top Metaverse Initiatives Revealing Potential Futures</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-how-to-get-royalty-free-clip-art/"><u>2024 Approved How to Get Royalty Free Clip Art?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionary-video-editor-top-tier-clarity/"><u>2024 Approved Revolutionary Video Editor Top-Tier Clarity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/7-compelling-justifications-for-snapchat-ais-significance/"><u>7 Compelling Justifications for Snapchat AI's Significance</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-shoot-and-score-top-techniques-for-great-youtube-cinematography/"><u>In 2024, Shoot and Score Top Techniques for Great YouTube Cinematography</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-window-10s-captions-with-minimal-trouble/"><u>Mastering Window 10'S Captions with Minimal Trouble</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-for-ms-store-crash-error-code-0x0-on-win-1011/"><u>Quick Fix for MS Store Crash: Error Code 0X0 on Win 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-5-must-have-apps-to-maximize-your-windows-workflow/"><u>Top 5 Must-Have Apps to Maximize Your Windows Workflow</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-explore-top-5-ps2-games-simulators-for-ios-for-2024/"><u>[New] Explore Top 5 PS2 Games Simulators for iOS for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-beyond-the-numbers-narrative-the-impact-of-fake-likes/"><u>[Updated] In 2024, Beyond the Numbers Narrative The Impact of Fake Likes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crayoncrafts-thorough-examination-and-users-manual-2eva/"><u>2024 Approved CrayonCrafts Thorough Examination & User's Manual 2Eva</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oppo-a78-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Oppo A78 FRP Without Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-honor-magic-v2-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Honor Magic V2 Phone Pattern Lock</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-it-possible-to-stream-spotify-simultaneously-with-a-friend/"><u>Is It Possible to Stream Spotify Simultaneously with a Friend?</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-without-powershell-on-windows-system/"><u>Navigating Without PowerShell on Windows System</u></a></li>
+<li><a href="https://windows11.techidaily.com/reformatting-esd-files-as-linux-and-windows-isos-with-precision/"><u>Reformatting ESD Files as Linux and Windows ISOs with Precision</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-up-an-everlasting-file-eraser-a-user-guide-to-customizing-windows-11s-trash/"><u>Setting up an Everlasting File Eraser: A User Guide to Customizing Windows 11'S Trash</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-0x800700e9-problem-in-xbox-game-pass-windows-11-edition/"><u>Solving 0X800700E9 Problem in Xbox Game Pass, Windows 11 Edition</u></a></li>
 </ul></div>
 

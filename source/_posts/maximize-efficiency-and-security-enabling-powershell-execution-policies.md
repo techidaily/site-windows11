@@ -1,7 +1,7 @@
 ---
 title: "Maximize Efficiency and Security: Enabling PowerShell Execution Policies"
-date: 2024-09-09T20:25:16.709Z
-updated: 2024-09-15T22:44:05.128Z
+date: 2024-09-19T18:01:48.938Z
+updated: 2024-09-20T18:06:17.953Z
 tags:
   - windows10
   - windows11
@@ -91,6 +91,13 @@ To disable script execution using PowerShell:
 `Set-ExecutionPolicy undefined -Scope CurrentUser`
 4. The above command will disable script execution for**CurrentUser** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Understanding Execution Policies and Scopes
 
  Simply put, PowerShell’s execution policy is a policy that controls how PowerShell executes config files and scripts. The intended purpose is to prevent users from accidentally running malicious scripts. The seven PowerShell execution policies are **Default, Restricted, RemoteSigned, AllSigned, Unrestricted, Bypass, and Undefined** .
@@ -108,10 +115,16 @@ To disable script execution using PowerShell:
 | Unrestricted     | Allow unsigned script execution with a warning for the scripts downloaded from the internet.                   |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Execution Policy Scope
@@ -127,13 +140,6 @@ The below table briefly explains all the execution policy scopes:
 | CurrenUser             | Configured for the current user and stored in HKEY\_CURRENT\_MACHINE registry subkey.    |
 | LocalMachine           | Configured for all users and stored in HKEY\_CURRENT\_MACHINE registry subkey.           |
 | Process                | Affects current PowerShell session and automatically deleted when the session is closed. |
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Add or Remove PowerShell Script Execution Policy on Windows
 
@@ -156,14 +162,15 @@ The below table briefly explains all the execution policy scopes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-superior-console-emulation-best-ps1-games-for-your-pc/"><u>[New] In 2024, Superior Console Emulation Best PS1 Games for Your PC</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-churning-up-channels-top-gear-list/"><u>[Updated] Churning Up Channels Top Gear List</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/building-an-audience-on-ig-steps-to-reach-1k-in-one-month-for-2024/"><u>Building an Audience on IG Steps to Reach 1K in One Month for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-guide-overcoming-the-winscomrssrvdll-crashes/"><u>Essential Guide: Overcoming the Winscomrssrvdll Crashes</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-10-and-11-fixing-isdonedll-errors/"><u>Mastering Windows 10 & 11: Fixing ISDone.dll Errors</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/netgear-orbi-examined-why-its-the-premier-mesh-router-on-the-market-now/"><u>Netgear Orbi Examined: Why It's the Premier Mesh Router on The Market Now</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/professional-level-content-structure-with-expert-templates-for-2024/"><u>Professional-Level Content Structure with Expert Templates for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleashing-the-potential-of-dism-on-windows-11-systems/"><u>Unleashing the Potential of Dism on Windows 11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-potential-ms-store-apps-that-elevate-experience/"><u>Unlock Potential: MS Store Apps That Elevate Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-add-logo-or-watermark-to-youtube-video/"><u>[New] 2024 Approved How to Add Logo or Watermark to YouTube Video</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-crafty-concepts-designing-unforgettable-instagram-puzzle-feeds-for-2024/"><u>[New] Crafty Concepts Designing Unforgettable Instagram Puzzle Feeds for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-premiere-visual-document-evaluation/"><u>[Updated] 2024 Approved Premiere Visual Document Evaluation</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-to-address-winerror-0xc0000005-instantly/"><u>Essential Steps to Address WinError 0Xc0000005 Instantly</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-crashes-due-to-0x0000011b-errors/"><u>Fixing Windows Crashes Due to 0X0000011B Errors</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-lock-your-samsung-galaxy-m54-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Samsung Galaxy M54 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-unveiling-youtubes-cc-policy-for-aspiring-creators/"><u>In 2024, Unveiling YouTube's CC Policy for Aspiring Creators</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-disconnected-steam-friends-list-wins11/"><u>Reviving Disconnected Steam Friends List (Wins11)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722853065573-step-by-step-guide-to-reversing-videos-on-snapchat-learn-how-today/"><u>Step-by-Step Guide to Reversing Videos on Snapchat - Learn How Today</u></a></li>
 </ul></div>
 

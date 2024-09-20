@@ -1,7 +1,7 @@
 ---
 title: "Mastery in Mending Windows Update Failures: 0X712"
-date: 2024-09-10T23:03:37.516Z
-updated: 2024-09-15T22:43:26.347Z
+date: 2024-09-19T19:37:29.656Z
+updated: 2024-09-20T18:48:18.015Z
 tags:
   - windows10
   - windows11
@@ -65,10 +65,10 @@ Repeat the following steps to start the necessary services:
 6. **Close** the Services window and reattempt the Windows update.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run the Disk Cleanup Tool
@@ -95,27 +95,21 @@ Repeat the following steps:
 ![Rename the SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder.jpg)
 3. Once these services stop running, type**cls** in the command prompt windows. Then enter the following commands:  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ren C:\\Windows\\SoftwareDistribution SoftwareDistribution.old ren C:\\Windows\\System32\\catroot2 Catroot2.old  
 ![Rename the SoftwareDistribution Folder 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-2.jpg)
 4. Both the above commands rename the**SoftwareDistribution** folder and**Catroot2** folder.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Now, you need to restart all the Windows services you stopped in step 3\. Enter the following commands:  
 net start wuauserv net start cryptSvc net start bits net start msiserver  
 ![Rename the SoftwareDistribution Folder 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-3.jpg)
 6. Lastly,**restart** your system and visit the following folder location:**C:\\Windows** . You will notice that there is a new SoftwareDistribution folder in that location.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Open the Windows update in Settings and try to download and install updates.
 
@@ -131,6 +125,13 @@ Retrace the following steps to delete the pending.xml file:
 4. Press the**Shift** key and click on the**Delete** option.
 5. Restart your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Manually Download Windows Updates
 
  If you are unable to download a specific Windows update using the Settings page, consider a direct download and install approach. Visit the Microsoft Update Catalog website and search for the KB update you want to download. However, you first have to check the corresponding update number which is failing to download and install on your system.
@@ -142,10 +143,16 @@ Retrace the following steps to delete the pending.xml file:
  Resetting Windows is the last resort you have if none of the above methods work in your favor. However, before learning[how to perform a Windows system reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) , try out general fixes such as[SFC, CHKDSK, and DISM](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) scans on your system. Also,[disable Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and try updating your system before hitting the reset button.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Update Windows Without Hiccups
@@ -167,18 +174,21 @@ Retrace the following steps to delete the pending.xml file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-ustream-review-and-alternatives/"><u>[New] Ustream Review and Alternatives</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-cultivating-effective-sponsorship-agreements-in-youtubers-realm/"><u>2024 Approved Cultivating Effective Sponsorship Agreements in YouTubers' Realm</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/become-a-social-butterfly-engage-in-fb-live-on-your-roku-box/"><u>Become a Social Butterfly Engage in FB Live on Your Roku Box</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-explore-the-best-no-cost-video-meeting-apps-iosandroid/"><u>In 2024, Explore the Best No-Cost Video Meeting Apps - iOS/Android</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-samsung-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Samsung Phone Network-Ready</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-bluescreenview-techniques/"><u>Mastering BlueScreenView Techniques</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-videopad-video-editor-review-the-best-choice-for-your-video-editing-needs/"><u>New In 2024, Videopad Video Editor Review The Best Choice for Your Video Editing Needs</u></a></li>
-<li><a href="https://windows11.techidaily.com/power-up-notifications-ensuring-a-fully-charged-battery-on-win11/"><u>Power-Up Notifications: Ensuring a Fully Charged Battery on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-the-classics-windows-11-for-98-revisited/"><u>Reviving the Classics: Windows 11 for '98 Revisited</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-windows-11s-steam-connectivity-issues/"><u>Solving Windows 11'S Steam Connectivity Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-your-linux-experience-in-new-windows-landscape/"><u>Streamlining Your Linux Experience in New Windows Landscape</u></a></li>
-<li><a href="https://some-skills.techidaily.com/swiftly-convert-creepy-slow-videos-with-best-apps-for-2024/"><u>Swiftly Convert Creepy-Slow Videos with Best Apps for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/video-luster-the-top-5-brilliant-enhancers/"><u>Video Luster The Top 5 Brilliant Enhancers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-small-businesss-safest-video-conferencing-top-picks/"><u>[Updated] 2024 Approved Small Business's Safest Video Conferencing Top Picks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-virtual-universe-showdown-meta-and-omni-explored/"><u>[Updated] 2024 Approved Virtual Universe Showdown Meta & Omni Explored</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-essential-insights-into-youtubes-content-policy-framework/"><u>2024 Approved Essential Insights Into YouTube's Content Policy Framework</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/apex-audio-streamer-androids-choice/"><u>Apex Audio Streamer, Android's Choice</u></a></li>
+<li><a href="https://windows11.techidaily.com/getting-acquainted-with-windows-11-controls/"><u>Getting Acquainted with Windows 11 Controls</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-discovering-the-quintessence-of-five-superior-slow-cams/"><u>In 2024, Discovering the Quintessence of Five Superior Slow Cams</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oppo-find-x7-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Oppo Find X7 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-reaction-video-mastery-top-ios-and-android-apps/"><u>New In 2024, Reaction Video Mastery Top iOS and Android Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/optimisez-la-qualite-de-vos-medias-avec-handbrake-parametres-de-constance-pour-les-dvds-et-blu-ray/"><u>Optimisez La Qualité De Vos Médias Avec Handbrake - Paramètres De Constance Pour Les DVDs Et Blu-Ray</u></a></li>
+<li><a href="https://windows11.techidaily.com/pinpointing-where-windows-stores-new-software/"><u>Pinpointing Where Windows Stores New Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-avoid-frozen-game-launchers/"><u>Strategies to Avoid Frozen Game Launchers</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlined-snippet-paste-hotkey-setup-tips-for-windows-11-and-11-users/"><u>Streamlined Snippet Paste: Hotkey Setup Tips for Windows 11 and 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-next-chapter-ai-enhanced-windows-11-for-users-worldwide/"><u>The Next Chapter: AI-Enhanced Windows 11 for Users Worldwide</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-intel-unison-non-operational-status-in-windows-11/"><u>Troubleshooting Intel Unison Non-Operational Status in Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-web-compendium-alarm-rhythms-guidebook/"><u>Ultimate Web Compendium Alarm Rhythms Guidebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-tackling-the-usb-disconnected-error-in-virtulbox/"><u>Understanding and Tackling the 'USB Disconnected' Error in VirtulBox</u></a></li>
 </ul></div>
 

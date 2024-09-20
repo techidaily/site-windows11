@@ -1,7 +1,7 @@
 ---
 title: Reviving Disconnected Steam Friends List (Wins11)
-date: 2024-09-11T20:38:57.511Z
-updated: 2024-09-15T17:00:22.015Z
+date: 2024-09-19T16:56:06.536Z
+updated: 2024-09-20T21:39:47.597Z
 tags:
   - windows10
   - windows11
@@ -59,11 +59,25 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
 ![Opt out of Steam beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-beta-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Edit Steam’s Executable
 
  While this isn’t an official fix, editing the executable file could fix the “Steam friends network unreachable” error. To find Steam’s executable file, search for **Steam** within the Start menu search bar and select **Open file location**. Then, right-click **Steam** and head to **Properties**. Open the **Shortcut** tab and add **\-nofriendsui** into the **Target** field.
 
  Click **Apply** and **OK** to save the new settings and restart Steam.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Delete the Steam Appdata Folder
 
@@ -89,41 +103,11 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
 ![Delete Steam web cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-steam-cache-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Get Back to Playing With Your Friends
 
  The tricky part about the ”Steam friends network unreachable” error is that Steam doesn’t tell you what’s wrong and how you can fix it. If you still can’t join your friends' server, you can use Steam’s Remote Play Together. Using this feature, you can even try new games as you can join your friends even if you don’t own the game or have it installed.
 
  Even if you’re not sure about the cause, there’s no reason you should miss out on having fun with your friends. We’ve put together a list of fixes that you should try to get rid of the network unreachable error.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-top-specialists-exceptional-instragram-highlight-artisans/"><u>[New] In 2024, Top Specialists Exceptional Instragram Highlight Artisans</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-integrating-gopro-adventures-with-popular-social-media-channels/"><u>[New] Integrating GoPro Adventures with Popular Social Media Channels</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-mozilla-revolutionized-screen-splitting-with-ffxp/"><u>[Updated] How Mozilla Revolutionized Screen Splitting with FFXP</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-perfect-your-gif-game-on-windows-nine-best-capture-software-for-2024/"><u>[Updated] Perfect Your GIF Game on Windows Nine Best Capture Software for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-optimizing-skype-call-audio-environment/"><u>2024 Approved Optimizing Skype Call Audio Environment</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-slendersky-saver-economic-storage-for-voluminous-files/"><u>2024 Approved SlenderSky Saver - Economic Storage for Voluminous Files</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-samsung-galaxy-m14-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Samsung Galaxy M14 5G PC | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/download-videos-safely-explore-reliable-options-beyond-offliberty/"><u>Download Videos Safely: Explore Reliable Options Beyond Offliberty</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/email-protection-essentials-how-to-incorporate-addresses-into-safelists-effortlessly/"><u>Email Protection Essentials: How To Incorporate Addresses Into Safelists Effortlessly</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-and-conceal-pc-folders-with-ease-windows-11/"><u>Navigate and Conceal PC Folders with Ease (Windows 11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-11-system-call-errors/"><u>Overcoming Windows 11 System Call Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-for-recovering-lost-router-configuration/"><u>Solutions for Recovering Lost Router Configuration</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -132,3 +116,18 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-facebooks-360-livestream-a-complete-comprehensive-guide/"><u>[New] 2024 Approved Facebook's 360 Livestream A Complete Comprehensive Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-agriculture-adventures-the-ultimate-farmers-game-guide/"><u>[New] In 2024, Agriculture Adventures The Ultimate Farmer's Game Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-suggestions-best-iphone-audio-innovators/"><u>[Updated] Leading Suggestions Best iPhone Audio Innovators</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-xiaomi-redmi-12-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Xiaomi Redmi 12</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/freshen-up-your-computer-with-these-8-free-driver-updater-utilities-july-2024-edition/"><u>Freshen Up Your Computer with These 8 Free Driver Updater Utilities - July 2024 Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-update-your-amd-ryzen-5-nvmes-drivers-with-new-release-step-by-step/"><u>How to Update Your AMD Ryzen 5 Nvme's Drivers with New Release – Step by Step</u></a></li>
+<li><a href="https://windows11.techidaily.com/play-ocm-like-pros-strategies-and-tips-for-the-uninitiated/"><u>Play OCM Like Pros: Strategies and Tips for the Uninitiated</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-system-the-best-windows-software-to-ditch/"><u>Streamline Your System: The Best Windows Software to Ditch</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-win11s-password-vault-11-proven-strategies-for-easy-access/"><u>Unraveling Win11's Password Vault: 11 Proven Strategies for Easy Access</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/virtual-warriors-journey-7-intense-fps-games/"><u>Virtual Warriors’ Journey - 7 Intense FPS Games</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Reawaken Your Computer's USB: A Quick Fix Guide, Windows"
-date: 2024-09-13T16:27:42.711Z
-updated: 2024-09-15T17:12:35.113Z
+date: 2024-09-16T16:11:15.658Z
+updated: 2024-09-20T18:38:38.535Z
 tags:
   - windows10
   - windows11
@@ -77,31 +77,26 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 2. **Browse the list for** **Universal Serial Bus controllers**
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Expand this and look for the **USB Host Controller**(your device may have a longer title, but it will feature those three words)  
 ![Find the USB Host Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr-host-controller.png)
 4. Right-click USB Host Controller (and any duplicates) and select **Uninstall**  
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Uninstall USB Host Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr-host-controller-uninstall.png)
 5. Restart your computer
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. If no USB Host Controller is listed, click **Scan for hardware changes** on the toolbar
 
  If you're using a USB mouse and keyboard, it will be disabled while the USB Host Controllers are uninstalled.
@@ -139,10 +134,10 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
  Check out [how to enter the BIOS settings on Windows](https://www.makeuseof.com/tag/enter-bios-computer/) for instructions. If it was indeed a faulty BIOS/ UEFI stopping your USB port from working properly, then everything will be back to normal after a reset.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## You've Fixed Your Broken USB Port
@@ -151,23 +146,6 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
  USB ports aren't the only potential weak spots on your computer. Looking after your hardware will reduce potential failures, and you can save a lot of money if you know how to test your PC for failing hardware.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-winter-vibes-selecting-heated-background-ideas/"><u>[New] 2024 Approved Winter Vibes Selecting Heated Background Ideas</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-webcam-powered-recording-revolutionize-your-ppts-for-2024/"><u>[New] Webcam-Powered Recording Revolutionize Your PPTs for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-test-nikon-d7500-vs-competitors/"><u>2024 Approved The Ultimate Test Nikon D7500 vs Competitors</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bring-back-life-to-flawed-usb-serial-devices/"><u>Bring Back Life to Flawed USB-Serial Devices</u></a></li>
-<li><a href="https://media-tips.techidaily.com/convert-avi-videos-free-online-mp4-converter-and-mac-software/"><u>Convert AVI Videos Free: Online MP4 Converter & Mac Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-fictitious-device-spec-errors-in-windows-11-pro/"><u>Fixing Fictitious Device Spec Errors in Windows 11 Pro</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-optimize-your-use-of-microsoft-family-safety/"><u>How to Optimize Your Use of Microsoft Family Safety</u></a></li>
-<li><a href="https://windows11.techidaily.com/hush-the-hum-fixing-faulty-spacebar-audio-on-windows-systems/"><u>Hush the Hum: Fixing Faulty Spacebar Audio on Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-plugged-inspection-failures-for-pc-speakers/"><u>Overcoming Plugged Inspection Failures for PC Speakers</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-reopening-of-battlenet-on-windows-computers/"><u>Seamless Reopening of Battle.net on Windows Computers</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-tackling-windows-security-faults/"><u>Strategies for Tackling Windows Security Faults</u></a></li>
-<li><a href="https://techtrends.techidaily.com/upcoming-apple-ring-unveiled-anticipated-cost-launch-timeline-and-technical-details-revealed/"><u>Upcoming Apple Ring Unveiled: Anticipated Cost, Launch Timeline & Technical Details Revealed</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-elevate-your-video-experience-best-quality-enhancement-software-for-2024/"><u>Updated Elevate Your Video Experience Best Quality Enhancement Software for 2024</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -175,3 +153,18 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-backward-button-chronicles-youtubes-video-reversal/"><u>[New] 2024 Approved The Backward Button Chronicles YouTube's Video Reversal</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-direct-access-to-streams-how-to-download-youtube-videos-to-your-ios-device-for-2024/"><u>[Updated] Direct Access to Streams How to Download YouTube Videos to Your iOS Device for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-start-with-simple-understanding-facebook-metrics-for-newbies/"><u>[Updated] Start with Simple Understanding Facebook Metrics for Newbies</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/3-ways-to-export-contacts-from-apple-iphone-se-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>3 Ways to Export Contacts from Apple iPhone SE to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/dungeon-masters-aide-de-camp-unleashing-potential-with-chatgpt/"><u>Dungeon Masters' Aide-De-Camp: Unleashing Potential with ChatGPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-for-efficient-ms-work-setup-in-w11/"><u>Essential Tips for Efficient MS Work Setup in W11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/interacting-with-a-blended-world-the-essence-of-mixed-reality-for-2024/"><u>Interacting with a Blended World The Essence of Mixed Reality for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/issue-free-iphone-13-here-are-six-typical-problems-and-how-to-tackle-them-successfully/"><u>Issue-Free iPhone 13? Here Are Six Typical Problems and How to Tackle Them Successfully</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-inspecting-a-pc-for-hidden-spyware/"><u>Steps for Inspecting a PC for Hidden Spyware</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-efficiency-a-guide-to-quick-rdc-in-win-11/"><u>Unlocking Efficiency: A Guide to Quick RDC in Win 11</u></a></li>
+</ul></div>
+

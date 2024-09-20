@@ -1,7 +1,7 @@
 ---
 title: "From 4 to 16GB: The Evolution in Windows Computing Power"
-date: 2024-09-09T17:10:14.328Z
-updated: 2024-09-15T22:23:22.970Z
+date: 2024-09-13T19:37:27.330Z
+updated: 2024-09-20T17:52:27.087Z
 tags:
   - windows10
   - windows11
@@ -46,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
  Be sure to check out our [explainer on RAM](https://www.makeuseof.com/tag/quick-dirty-guide-ram-need-know/) that everyone can understand.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is Happening With RAM in Windows Computers?
 
  A [TrendForce market research report](https://www.trendforce.com/presscenter/news/20240117-12000.html) says Microsoft is planning to bump up the minimum amount of RAM new devices have:
@@ -74,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
  An "AI PC" could be a machine where AI powers the operating system itself. It might also be a flashy marketing term for a regular PC with some simple AI tools pre-installed. Regardless of how AI PCs go, those special processing tools will need more memory to run properly.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### The Potential Set Up for Windows 12
@@ -92,6 +85,19 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
  Windows 12 is currently believed to have a 2025 release date, which gives Microsoft a lot of time to work on implementing artificial intelligence into its operating system. And for people to make the most of Windows 12, Microsoft needs new PCs to have enough RAM to support it; hence the 16GB suggestion.
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Setting 16GB RAM as the New Standard Good News for You?
 
  While Microsoft has reasons for upping the minimum amount of RAM, it's easy to be skeptical about its claims. Who's to say this isn't just a move to raise the demand for RAM and force hardware prices up? Is 16GB of RAM really necessary?
@@ -102,24 +108,6 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
  As much as this may sound like Microsoft is making excuses to sell PCs with more RAM, its claims hold a lot of water. We'll have to wait a while and see what it means by "AI PC" before rendering any further judgment.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-from-doodles-to-dollars-the-graphic-artists-guide/"><u>[New] 2024 Approved From Doodles to Dollars The Graphic Artist's Guide</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-mastering-your-video-projects-with-superior-recorder-software/"><u>[Updated] 2024 Approved Mastering Your Video Projects with Superior Recorder Software</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-transforming-video-capture-mastering-vimeos-tech-for-2024/"><u>[Updated] Transforming Video Capture Mastering Vimeo's Tech for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-facebook-feed-breakthroughs-seeing-your-videos/"><u>2024 Approved Facebook Feed Breakthroughs Seeing Your Videos</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/a-new-era-of-cybercrimes-the-quintupled-impact-of-ai/"><u>A New Era of Cybercrimes: The Quintupled Impact of AI</u></a></li>
-<li><a href="https://win11.techidaily.com/bypassing-insufficient-privileges-for-app-updates-on-windows-oses/"><u>Bypassing Insufficient Privileges for App Updates on Windows OSes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-guide-removing-every-single-message-on-your-gmail-account/"><u>Complete Guide: Removing Every Single Message on Your Gmail Account</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-essentials-choosing-a-camera-recorder-wisely/"><u>Evaluating Essentials: Choosing a Camera Recorder Wisely</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-adjusting-taskbar-width-on-win11/"><u>Guide to Adjusting Taskbar Width on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-connecting-to-websites-on-win-10/"><u>Quick Guide: Connecting to Websites on Win 10</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-vivo-y78t-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Vivo Y78t on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-non-functional-speakerheadphone-connections-in-windows/"><u>Tackling Non-Functional Speaker/Headphone Connections in WINDOWS</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-tips-to-open-computer-management-interface/"><u>Troubleshooting Tips to Open Computer Management Interface</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-how-much-electricity-a-windowed-computer-guzzles/"><u>Understanding How Much Electricity a Windowed Computer Guzzles</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -127,3 +115,24 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-frame-to-firm-selecting-your-mcn-partner/"><u>[New] 2024 Approved From Frame to Firm Selecting Your MCN Partner</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-the-ultimate-checklist-of-8-mirrorless-cameras-for-vloggers/"><u>[New] 2024 Approved The Ultimate Checklist of 8 Mirrorless Cameras for Vloggers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-intrigue-and-ingenuity-in-leading-escapade-centres/"><u>[Updated] 2024 Approved Intrigue and Ingenuity in Leading Escapade Centres</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-essential-tips-for-adding-visual-impact-in-google-meet/"><u>[Updated] In 2024, Essential Tips for Adding Visual Impact in Google Meet</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-mastering-youtube-frames-top-5-cost-free-techniques-for-2024/"><u>[Updated] Mastering YouTube Frames Top 5 Cost-Free Techniques for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/a-compre-written-by-dr-john-smith-phd-in-environmental-science-for-2024/"><u>A Compre Written By Dr. John Smith, PhD in Environmental Science for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-unclickable-recycling-symbol-in-windows-11/"><u>Fixing Unclickable Recycling Symbol in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/future-focused-laptop-innovations-at-ifa-2023/"><u>Future-Focused Laptop Innovations at IFA 2023</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-photoplusmusic-recorder-software-of-the-year/"><u>In 2024, Innovative Photo+Music Recorder Software of the Year</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/installation-failure-canon-pixma-mp620-driver-missing-in-win10/"><u>Installation Failure: Canon Pixma MP620 Driver Missing in WIN10</u></a></li>
+<li><a href="https://windows11.techidaily.com/reverting-terminal-setup-on-the-latest-windows-11/"><u>Reverting Terminal Setup on the Latest Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-access-learning-how-to-lock-and-unlock-fn-key/"><u>Secure Access: Learning How to Lock and Unlock (Fn) Key</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-unwanted-chrome-tab-autopilot-in-windows/"><u>Solutions for Unwanted Chrome Tab Autopilot in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/streaming-games-to-multiple-ps5s/"><u>Streaming Games to Multiple PS5s</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-gateway-to-win11s-print-management-tools-max-56-chars/"><u>Unlocking the Gateway to Win11's Print Management Tools (Max 56 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-printer-service-reset-guide/"><u>Win Printer Service Reset Guide</u></a></li>
+</ul></div>
+

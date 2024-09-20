@@ -1,7 +1,7 @@
 ---
 title: Removing Block by System Admins From Windows
-date: 2024-09-13T22:34:46.456Z
-updated: 2024-09-15T19:36:57.513Z
+date: 2024-09-15T17:30:10.344Z
+updated: 2024-09-20T19:38:37.691Z
 tags:
   - windows10
   - windows11
@@ -74,6 +74,13 @@ To run an app as an administrator:
 
  Check if the app launches ad administrator without the error. If yes, you can[set the app to always run as administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) to fix the issue. That said, do this only if you trust the publisher for security reasons.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Repair or Reset the Microsoft Store Apps
 
  If the error is triggered when opening a Microsoft Store app, try to perform a repair. You can repair Microsoft Store apps from the Settings panel. This should fix temporary glitches with the app and resolve the error.
@@ -81,13 +88,6 @@ To run an app as an administrator:
 To repair a Microsoft Store app:
 
 ![repair photos app windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/repair-photos-app-windows-11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Press**Win + I** to open**Settings** .
 2. Open the**Apps** tab and click on**Installed Apps** .
@@ -108,13 +108,6 @@ Reset the Microsoft Store app:
 3. Click the**three-dots menu** near the app name and select**Advanced options** .
 4. Scroll down and click the**Reset** button. Click**Reset** again to confirm the action. Similar to Repair, you'll see a checkmark when the reset process is complete.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Disable Microsoft Defender SmartScreen
 
  Microsoft Defender's SmartScreen scans programs and files during the launch for potential threats and can block them from running. You can disable the SmartScreen feature temporarily to determine if your app is blocked by it.
@@ -128,13 +121,6 @@ Reset the Microsoft Store app:
  You can[temporarily disable Microsoft Defender](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) using the Windows Security app. To turn off third-party antivirus, right-click the app icon in the system tray and select the appropriate options.
 
  If the error is resolved, add the app to your security program's allowed list. You can also[allowlist files and apps on Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) if you use it as the primary security application.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Modify the Windows Registry to Remove Admin Block
 
@@ -152,10 +138,25 @@ To remove the admin block using Registry Editor:
 5. In the right pane, locate**EnableLUA** .  
 ![enable lua modify registry editor windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-lua-modify-registry-editor-windows.jpg)
 6. Right-click on the**EnableLUA** value and select**Modify** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Type**0** in the**Value data** field and click**OK** to save the changes.  
 ![enable lua modify registry editor value 0 windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-lua-modify-registry-editor-value-0-windows.jpg)
 8. Close Registry Editor and restart your computer to apply the changes. After the restart, launch the app to see if the error is resolved.
 9. If you are using a school or work computer, your organization may put some restrictions on its use. If you can't find the UAC settings, contact your IT administrator to resolve the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Unblock the Apps Blocked by Your System Administrator
 
@@ -178,13 +179,12 @@ To remove the admin block using Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-elite-arena-top-10-royale-game-spectacles/"><u>[Updated] In 2024, Elite Arena Top 10 Royale Game Spectacles</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-rhythmic-respite-top-20-easygoing-country-hits-for-stress-relief-dance-on-tiktok-for-2024/"><u>[Updated] Rhythmic Respite Top 20 Easygoing Country Hits for Stress-Relief Dance on TikTok for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-secure-your-cash-ranking-safe-and-effective-posts-for-2024/"><u>[Updated] Secure Your Cash Ranking Safe & Effective Posts for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-free-online-solutions-for-instantaneous-gif-conversion/"><u>2024 Approved Best Free Online Solutions For Instantaneous GIF Conversion</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-tips-for-handling-windows-security-mishaps/"><u>Expert Tips for Handling Windows Security Mishaps</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-tomtom-actioncam-2023-for-adventure-seekers/"><u>In 2024, TomTom ActionCam 2023 for Adventure Seekers</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-discord-js-crashes-in-win-11-with-ease-and-precision/"><u>Tackling Discord JS Crashes in Win 11 with Ease and Precision</u></a></li>
-<li><a href="https://windows11.techidaily.com/tech-hacks-6-new-ways-to-open-programs-in-windows/"><u>Tech Hacks: 6 New Ways to Open Programs in Windows</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-professional-strategies-for-embedding-timestamps-on-your-channel/"><u>[Updated] In 2024, Professional Strategies for Embedding Timestamps on Your Channel</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-tailoring-your-multi-task-experience-safe-area-and-pip-settings/"><u>[Updated] In 2024, Tailoring Your Multi-Task Experience Safe Area & PIP Settings</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-vivo-s17-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Vivo S17 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-honor-x50-phone-by-drfone-android/"><u>How to Reset a Locked Honor X50 Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-context-menu-captivity-in-windows-systems/"><u>Overcome Context Menu Captivity in Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlined-microsoft-teams-quick-and-lightweight/"><u>Streamlined Microsoft Teams: Quick & Lightweight</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-for-mending-fatal-discord-javascript-crashes-on-windows-1011/"><u>Tactics for Mending Fatal Discord Javascript Crashes on Windows 10/11</u></a></li>
 </ul></div>
 

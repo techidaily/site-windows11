@@ -1,7 +1,7 @@
 ---
 title: Guide to Preventing Invalid File Paths on W11 PC
-date: 2024-09-14T21:13:46.695Z
-updated: 2024-09-15T21:30:20.967Z
+date: 2024-09-17T21:54:31.002Z
+updated: 2024-09-20T17:59:03.623Z
 tags:
   - windows10
   - windows11
@@ -53,22 +53,29 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
  Right-click the EXE file and select**Send to > Compressed (Zipped)** . Windows will create a zipped folder with the same name. Open the folder and launch the installer.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run the Windows Memory Diagnostic Tool
 
  The inability to install new software on your Windows 11 computer, might be caused by memory-related issues. If you try to install an app and Windows keeps freezing, you should[run the Windows Memory Diagnostic tool](https://www.makeuseof.com/windows-memory-diagnostic-tool-guide/) to fix the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Clean Boot Your System
 
  Sometimes, third-party apps can hinder Windows functionality and affect its ability to install new software. Now, if there are too many apps for you to remember which one is allowed to change your system settings, you should[perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) .
 
  This way, your system boots up with a minimal number of drivers and startup apps, so you can figure out if a background app is causing you issues. If everything works as usual, check the list of installed apps and remove the ones that may be causing conflict.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Re-Download the App and Install It
 
@@ -81,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
  If nothing worked until now, and you can’t install anything on your computer, you should[reset your computer](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) . Fortunately, Windows allows you to use the**Cloud download** option, so you can keep your files while it removes all third-party apps on your computer.
 
 ![Reset Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-windows-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix Windows 11's Temp Files With These Tips
 
@@ -110,18 +110,19 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-transitioning-from-standard-to-custom-thumbnails-in-twitter-videos-for-2024/"><u>[New] Transitioning From Standard to Custom Thumbnails in Twitter Videos for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-ultimate-guide-to-vr-and-ar-game-apps-for-phones/"><u>[Updated] In 2024, The Ultimate Guide to VR and AR Game Apps for Phones</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-streamlined-selection-top-10-efficient-vimeo-downloaders/"><u>2024 Approved Streamlined Selection Top 10 Efficient Vimeo Downloaders</u></a></li>
-<li><a href="https://extra-information.techidaily.com/convert-your-sbt-to-cutting-edge-srt-with-our-top-8-software-for-desktop-users/"><u>Convert Your SBT to Cutting-Edge SRT with Our Top 8 Software for Desktop Users</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/elevate-your-creative-expression-with-smart-caption-techniques-for-tiktoks/"><u>Elevate Your Creative Expression with Smart Caption Techniques for TikToks</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-deal-with-occupied-files-on-windows-systems-149-chars/"><u>How to Deal with 'Occupied' Files on Windows Systems (149 Chars)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/prevent-and-repair-guilty-gear-strive-computer-freezes-or-crashes/"><u>Prevent and Repair Guilty Gear Strive Computer Freezes or Crashes</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-tips-for-seamless-switching-with-the-fn-key/"><u>Quick Tips for Seamless Switching with the Fn Key</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-windows-distorted-thx-spatial-sound/"><u>Solving Windows' Distorted THX Spatial Sound</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-pairing-airpods-to-windows-devices/"><u>Step-by-Step: Pairing AirPods to Windows Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-fixing-execution-error-with-mcuicntexe-in-win-1011/"><u>Steps for Fixing Execution Error with McUICnt.exe in Win 10/11</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-facebooks-new-dating-feature-a-quick-guide/"><u>Unveiling Facebook's New Dating Feature: A Quick Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/win-over-gamepad-woes-fixing-the-steelseries-gg-engine-compatibility-issues-on-windows-1011/"><u>Win Over Gamepad Woes: Fixing the SteelSeries GG (Engine) Compatibility Issues on Windows 10/11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-comprehensive-guide-to-obs-setup-use-macos-edition/"><u>2024 Approved Comprehensive Guide to OBS Setup, Use, macOS Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-12-no-cost-typing-tutorials-suitable-for-any-age/"><u>Best 12 No-Cost Typing Tutorials Suitable for Any Age</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-infinix-hot-40i-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Infinix Hot 40i.</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-bloodthirsty-horror-your-go-to-8-zombie-titles/"><u>In 2024, Bloodthirsty Horror Your Go-To 8 Zombie Titles</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-iphone-7-plus-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 7 Plus Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximizing-your-network-with-the-tp-link-ac1200-range-extender-re305-detailed-insights-and-performance-testing/"><u>Maximizing Your Network with the TP-Link AC1200 Range Extender RE305: Detailed Insights and Performance Testing</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-between-google-share-and-windows-direct-network-links/"><u>Navigating Between Google Share and Windows Direct Network Links</u></a></li>
+<li><a href="https://windows11.techidaily.com/revel-in-easy-entry-unlocking-windows-11s-application-archive/"><u>Revel in Easy Entry: Unlocking Windows 11'S Application Archive</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamlessly-blend-windows-11-and-android-top-6-integrative-apps/"><u>Seamlessly Blend Windows 11 and Android: Top 6 Integrative Apps</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-mp4-devices-for-2024/"><u>The Ultimate Guide to MP4 Devices for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/to-microsoft-tolerating-persistent-promotions-vs-unwanted-aggression-in-advertising/"><u>To Microsoft: Tolerating Persistent Promotions Vs. Unwanted Aggression in Advertising</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-and-overcoming-errorinvalidargument-in-wsl/"><u>Unraveling and Overcoming ERROR_INVALID_ARGUMENT in WSL</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-advanced-integrating-dolby-atmos-support/"><u>Windows 11 Advanced: Integrating Dolby Atmos Support</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/m4v3gp/"><u>무료 M4V/3GP 변환 - 인터넷을 통해 모바일화 코스트를 쉽게 사용하세요!</u></a></li>
 </ul></div>
 

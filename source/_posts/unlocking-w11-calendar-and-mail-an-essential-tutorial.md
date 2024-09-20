@@ -1,7 +1,7 @@
 ---
 title: "Unlocking W11 Calendar & Mail: An Essential Tutorial"
-date: 2024-09-13T18:45:05.288Z
-updated: 2024-09-15T16:17:39.221Z
+date: 2024-09-13T20:05:36.219Z
+updated: 2024-09-20T21:38:36.198Z
 tags:
   - windows10
   - windows11
@@ -60,13 +60,6 @@ Here's how to update Mail and Calendar on Windows 11.
 
  After updating the application, reboot the system and check for the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Run the Windows Store Apps Troubleshooter
 
  The Windows Store app troubleshooter is a built-in utility that solves issues revolving around UWP apps. It is the go-to option whenever a UWP app becomes inaccessible or crashes randomly.
@@ -81,13 +74,6 @@ Here's how to run the Windows Store Apps Troubleshooter.
 5. The troubleshooting window will pop up and look for the problem.
 
  If any problem is found, follow the onscreen instructions to apply the potential fixes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Check Mail Sync Settings
 
@@ -117,6 +103,20 @@ Here's how to run the Windows Store Apps Troubleshooter.
 ![Mail and Calendar toggle in Calendar window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/mail-and-calendar-toggle.jpg)
 4. Next, click on the**Email** option in the App permission section, and enable the toggle next to**Mail and Calendar** in the following window.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Repair the Mail and Calendar App
 
  Repairing the app is a textbook trick that is often recommended to troubleshoot any minor issue. We recommend trying this to fix the Mail and Calendar app as well.
@@ -131,7 +131,21 @@ Here are the steps to repair the Mail and Calendar app.
 6. Under the**Reset** section, click on**Repair.**  
 ![Mail and Calendar repair and reset screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/Repair-Mail.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Windows will take a few seconds to repair the app. Once the process is complete, launch the Mail and Calendar, and check if you are still facing the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Clear Microsoft Store Cache
 
@@ -145,10 +159,10 @@ Here's how to do it.
  Command Prompt will take a few seconds to execute the command. After that, the Microsoft Store will open automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Whitelist Mail and Calendar on Windows Defender Firewall
@@ -167,19 +181,6 @@ Here's how to do it.
 7. Click OK to save the changes.
 
  The third-party antivirus program can also cause the issue. Try to disable it and check if you can access the Mail and Calendar app.
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Re-Register the Mail And Calendar App
 
@@ -212,13 +213,6 @@ Here are the steps to run an SFC scan.
 
 Reboot the system once DISM finishes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 11\. Reinstall Mail and Calendar
 
  If none of the fixes helped solve the issue, you could consider reinstalling the Mail and Calendar app. You can reinstall Mail and Calendar by following the below steps.
@@ -248,18 +242,14 @@ Reboot the system once DISM finishes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-strategic-social-media-mastery-instagrams-5-crucial-steps-with-examples/"><u>[New] Strategic Social Media Mastery Instagram's 5 Crucial Steps with Examples</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-spectrasafe-uv-censor-webcam-shield/"><u>[Updated] In 2024, SpectraSafe UV-Censor Webcam Shield</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pixel-to-passion-unlocking-new-forms-of-entertainment-with-vr/"><u>2024 Approved Pixel to Passion Unlocking New Forms of Entertainment with VR</u></a></li>
-<li><a href="https://fox-links.techidaily.com/elevate-your-portraits-with-hdr-techniques-for-2024/"><u>Elevate Your Portraits with HDR Techniques for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-iphone-13-pro-max-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From iPhone 13 Pro Max How to Bypass?</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-step-by-step-guide-to-watching-facebook-live-2sy-year/"><u>In 2024, Step-by-Step Guide to Watching Facebook Live, 2Sy Year</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-entrepreneurs-pathway-to-profitable-vlogging/"><u>In 2024, The Entrepreneur's Pathway to Profitable Vlogging</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-and-conceal-pc-folders-with-ease-windows-11/"><u>Navigate and Conceal PC Folders with Ease (Windows 11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-complexity-of-winscomrssvdll-crashes-in-windows/"><u>Navigating the Complexity of WinscomrssvDll Crashes in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-11-system-call-errors/"><u>Overcoming Windows 11 System Call Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/prime-tools-for-your-gameplay-selecting-best-fps-counter-apps-in-windows-11/"><u>Prime Tools for Your Gameplay: Selecting Best FPS Counter Apps in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-for-recovering-lost-router-configuration/"><u>Solutions for Recovering Lost Router Configuration</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-revive-a-non-responsive-gamepad/"><u>Strategies to Revive a Non-Responsive Gamepad</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-vidma-screen-recorder-review/"><u>[New] Vidma Screen Recorder Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-the-ultimate-guide-to-youtube-live-streaming/"><u>[Updated] In 2024, The Ultimate Guide to YouTube Live Streaming</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-stop-microsoft-edge-from-crashing-on-windows-11-proven-fixes/"><u>How to Stop Microsoft Edge From Crashing on Windows 11 - Proven Fixes!</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-11-to-launch-outlook-preview/"><u>Navigating Through Windows 11 to Launch Outlook Preview</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oneplus-ace-3-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass OnePlus Ace 3 FRP</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-implementing-windows-11s-automatic-hdr-feature/"><u>The Ultimate Guide to Implementing Windows 11'S Automatic HDR Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-essentials-for-selecting-a-win-pc-a-must-know-guide/"><u>Top Essentials for Selecting a Win PC: A Must-Know Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/what-is-instagram-story-highlight/"><u>What Is Instagram Story Highlight?</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11-solutions-for-unzipped-files-woes/"><u>Win 11: Solutions for Unzipped Files Woes</u></a></li>
 </ul></div>
 

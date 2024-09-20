@@ -1,7 +1,7 @@
 ---
 title: Key Techniques for WindowsApps File Reveal
-date: 2024-09-13T22:51:18.411Z
-updated: 2024-09-15T16:45:18.187Z
+date: 2024-09-14T20:52:30.156Z
+updated: 2024-09-20T18:36:40.690Z
 tags:
   - windows10
   - windows11
@@ -84,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 
  Moreover, you can also check out some [free tools for taking control of files and folders](https://www.makeuseof.com/take-ownership-of-windows-files-and-folders-with-these-tools/) on Windows. Such tools allow you to take full ownership of all your files and folders with a single click.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2\. How to Access WindowsApps via a PowerShell Command
 
  The File Explorer-based method is pretty complicated for a newbie. Use PowerShell to complete your job if you're looking for an easy-to-go method. Using Windows PowerShell is a pretty straightforward and automated way of doing the same thing.
@@ -96,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 
 ![PowerShell In Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/PowerShell-In-Windows-Search.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4\. In Powershell, run the following command and press the Enter key:
 
 `takeown /f &ldquo;C:\Program Files\WindowsApps&rdquo; /r`
@@ -110,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 ![Change Ownership Command In Shell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Change-Ownership-Command-In-Shell.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The above command will restore all the files or folder ownership to the system administrator. It will take some time for your administrator user account to become the owner of the WindowsApps folder and everything in it.
@@ -121,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
  The access you gain by executing the above process is similar to that of the Windows File Explorer-based method. You have just automated the process and eliminated the unhiding of system files. Now, you can back up, clear some space, or make changes to the Windows apps' back-end files.
 
  If you're facing crashes while executing the file, make sure to check out some [effective ways to fix PowerShell crash errors](http://www.makeuseof.com/windows-powershell-has-stopped-working-error-fix/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Access WindowsApps via a Registry Hack
 
@@ -138,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 ![Take Ownership Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Take-Ownership-Context-Menu.jpg)
 7. In the Command Prompt, you must [give User Account Control Administrator rights](https://www.makeuseof.com/tag/user-account-control-windows-10/) for the registry hack to work. After that, please wait a few minutes for the window to close. Soon, it will display success messages constantly in the Command Prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once finished, you'll no longer face the "You've been denied permission" error on clicking the WindowsApps folder.
 
 ## Enjoy Unrestricted Access to the WindowsApps Folder
@@ -157,25 +157,6 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 
  Thankfully, you can remove unnecessary files from the WindowsApps folder to free up some space. But it's a little hard to get to this folder because it's protected and hidden in Windows File Explorer. Here are some ways to access the WindowsApps Folder on Windows and make necessary changes to it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-revolutionize-youtube-uploads-speed-enhancing-render-tricks/"><u>[New] 2024 Approved Revolutionize YouTube Uploads Speed-Enhancing Render Tricks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-powerdirector-command-center-a-complete-2024-examination/"><u>[New] PowerDirector Command Center A Complete 2024 Examination</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oneplus-nord-n30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-your-channels-moniker-youtube-naming-tools-and-tips/"><u>Craft Your Channel's Moniker YouTube Naming Tools and Tips</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-videos-and-music-files-from-iphone-13-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Photos, Videos & Music Files from iPhone 13 Pro | Stellar</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ispring-screencap-tech-explored-in-detail/"><u>In 2024, ISpring Screencap Tech Explored in Detail</u></a></li>
-<li><a href="https://windows11.techidaily.com/masterclass-combating-the-winscomrssvc-error-in-windows/"><u>Masterclass: Combating the WinscomrsSvc Error in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-portable-internet-access-via-windows-11/"><u>Mastering the Art of Portable Internet Access via Windows 11</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondlys-excellence-recognized-germanys-top-linguistic-haven/"><u>Mondly’s Excellence Recognized - Germany’s Top Linguistic Haven</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-disk-space-clear-temporary-windows-files-now/"><u>Optimize Disk Space: Clear Temporary Windows Files Now</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-out-of-space-on-windows/"><u>Overcoming Out Of Space On Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/reestablishing-functionality-for-frozen-spotify-app/"><u>Reestablishing Functionality for Frozen Spotify App</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-visionary-educators-guide-to-multimedia-use-for-2024/"><u>The Visionary Educator's Guide to Multimedia Use for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-8-video-edits-software-the-ultimate-guide-for-win11-users/"><u>Top 8 Video Edits Software: The Ultimate Guide for Win11 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-the-core-of-computer-configurations/"><u>Unlocking the Core of Computer Configurations</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -183,3 +164,22 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-elevate-your-video-presence-with-swiftly-created-captions-and-text-on-fb/"><u>[Updated] Elevate Your Video Presence with Swiftly Created Captions and Text on FB</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-rating-7-of-the-ultimate-waterproof-recorder-guide/"><u>[Updated] Rating #7 of the Ultimate Waterproof Recorder Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-understanding-youtubes-premier-package/"><u>[Updated] Understanding YouTube's Premier Package</u></a></li>
+<li><a href="https://win11.techidaily.com/banish-black-screen-in-windows-quick-fix-guide/"><u>Banish Black Screen in Windows - Quick Fix Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-clear-out-microsoft-app-from-win11/"><u>How to Clear Out Microsoft App From Win11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-amazon-primes-cost-justified-by-its-perks/"><u>Is Amazon Prime's Cost Justified by Its Perks?</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-windows-print-management-after-a-failure/"><u>Reinstating Windows Print Management After a Failure</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-samsung-galaxy-m54-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-enabling-grammarly-offline-mode-windows/"><u>Steps for Enabling Grammarly Offline Mode Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/stream-success-starts-here-choosing-the-right-camera-for-twitch/"><u>Stream Success Starts Here Choosing the Right Camera for Twitch</u></a></li>
+<li><a href="https://windows11.techidaily.com/subtle-security-concealing-archives-inside-digital-images/"><u>Subtle Security: Concealing Archives Inside Digital Images</u></a></li>
+<li><a href="https://windows11.techidaily.com/trimming-high-resource-usage-by-top-news-websites/"><u>Trimming High Resource Usage by Top News Websites</u></a></li>
+<li><a href="https://windows11.techidaily.com/validate-your-devices-compatibility-with-win11/"><u>Validate Your Device's Compatibility with Win11</u></a></li>
+<li><a href="https://discover-best.techidaily.com/1726029753539-wonderfox-dvd/"><u>WonderFox DVDコンバーターのセットアップ完了 - お使いいただきありがとうございます!</u></a></li>
+</ul></div>
+

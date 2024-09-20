@@ -1,7 +1,7 @@
 ---
 title: Strategies to Mend Windows 11 Assistive Tool
-date: 2024-09-10T21:15:51.555Z
-updated: 2024-09-15T22:21:56.960Z
+date: 2024-09-14T17:54:51.549Z
+updated: 2024-09-20T21:18:26.920Z
 tags:
   - windows10
   - windows11
@@ -62,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 * Connecting to a different network, as specific network configurations might disrupt certain apps.
 * Contacting your Internet Service Provider (ISP) to inquire about potential network maintenance.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Disable VPN or Proxy Temporarily
 
  If you're still facing issues with the Get Help app, it seems to be due to your VPN or proxy configuration. You can disable your connected VPN or proxy for a quick test.
@@ -84,6 +77,19 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
  Now you can open the Get Help app and check whether the content loads correctly. Try the following troubleshooting method if the Get Help app still displays a blank screen.
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Restart Windows Services
 
  If you don't know, Windows services continuously operate in the background. Such services handle various system tasks, and specific applications, like the Get Help app, rely on the services to work correctly. If the app is still not working, it may be due to one or more Windows services malfunctioning.
@@ -95,22 +101,23 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 2. Now press **Enter** to launch the Services app.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. You'll see a list of all the services currently available in your system. Locate the **Diagnostic Policy Service** and right-click on its name.
 4. Select **Restart** from its context menu.  
 ![Diagnostic Policy Service Restart Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/diagnostic-policy-service-restart-option.jpg)
 5. Similarly, repeat the steps to restart the **Windows Management Instrumentation** service.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Install the Microsoft Edge WebView2 Runtime
 
@@ -124,13 +131,6 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 2. Click on the button matching your system's architecture under the **Evergreen Standalone Installer** heading. Alternatively, click the **Download** button under the **Evergreen Bootstrapper**.  
 ![Microsoft Edge Developer Site Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-edge-developer-site-screenshot.jpg)
 3. Once you download the setup file, run it and follow the instructions.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. After installing the Microsoft Edge WebView2 Runtime, check if the Get Help app functions correctly.
 
@@ -147,10 +147,16 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
  A fresh installation should resolve all the issues with the app. And now, you can go back to troubleshooting without any hassle.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## No More Blank Screen in the Get Help App
@@ -161,18 +167,6 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
  So, let's look at how to fix the Get Help app issues on Windows and make the troubleshooting experience a breeze.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-secrets-to-earning-facebooks-status-symbol-blue-for-2024/"><u>[New] Secrets to Earning Facebook’s Status Symbol (Blue) for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/fighting-the-frenzy-of-wind-vibration-in-multimedia-capture-across-oses-and-devices/"><u>Fighting the Frenzy of Wind Vibration in Multimedia Capture Across OSes and Devices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-honor-x50i-is-unlocked-by-drfone-android/"><u>How To Check if Your Honor X50i Is Unlocked</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Oppo A1 5G? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-admin-restricted-setup-issues-in-windows/"><u>Overcoming Admin-Restricted Setup Issues in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-write-restrictions-in-steam-libraries-on-windows-11/"><u>Overcoming Write Restrictions in Steam Libraries on Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/professional-stabilization-tech-for-youtube-content-creators/"><u>Professional Stabilization Tech for YouTube Content Creators</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-supercharging-your-windows-start-menu/"><u>The Ultimate Guide to Supercharging Your Window's Start Menu</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -180,3 +174,19 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-vimeo-streaming-to-mp3-a-compreenas-guide-for-2024/"><u>[Updated] Vimeo Streaming to MP3 - A Compreenas Guide for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-the-most-from-wsl-2-top-methods-on-windows-based-systems/"><u>Get the Most From WSL 2: Top Methods on Windows-Based Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-poco-f5-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Poco F5 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-zte-nubia-flip-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From ZTE Nubia Flip 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-nokia-c22-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Nokia C22</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-windows-performance-by-curbing-tiworkerexe-resources/"><u>Optimizing Windows Performance by Curbing TiWorker.exe Resources</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconciling-excel-and-windows-notepad-compatibility/"><u>Reconciling: Excel and Windows Notepad Compatibility</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-mastering-advanced-filter-creation-in-gmail/"><u>Ultimate Guide: Mastering Advanced Filter Creation in Gmail</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+</ul></div>
+

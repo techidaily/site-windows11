@@ -1,7 +1,7 @@
 ---
 title: Mastering Fixes for No Sufficient Privileges in Windows Installer
-date: 2024-09-10T17:00:26.261Z
-updated: 2024-09-15T17:04:18.578Z
+date: 2024-09-18T20:26:54.252Z
+updated: 2024-09-20T16:57:48.555Z
 tags:
   - windows10
   - windows11
@@ -52,10 +52,16 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 ![The Take Ownership option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/take-ownership-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Try Installing it in a Different Folder
@@ -72,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 3. If Windows Installer is running, select its **Restart** context menu option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Alternatively, you can double-click the **Windows Installer** service to view its properties window and restart it from there. Click **Start** if the service is already stopped, or, select **Stop > Start** to restart.
@@ -85,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
  User Account Control is one of the security features that can generate installation issues when set to its higher levels. Turn off UAC before attempting to install affected software to see if that resolves the “installer has insufficient privileges” error. Check out this guide about [disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) for details about how to turn off UAC.
 
 ![The Never notify option in UAC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/never-notify-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Disable All User Account Control Policy Settings
 
@@ -104,10 +103,25 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 3. Double-click **User Account Control: Admin Approval Mode** to bring up that policy setting window.  
 ![The UAP security policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/security-options.jpg)
 4. Select **Disabled** to turn off that policy setting.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click **Apply** \> **OK** to save the policy setting you’ve selected.  
 ![The Enabled radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-enabled-radio-button.jpg)
 
  Once done, repeat steps three to five above for all the User Account Control policy settings. Exit Group Policy Editor and restart your PC after disabling all UAC policy settings.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Turn Off Third-Party Security Apps
 
@@ -122,10 +136,16 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Try Installing Software After Clean Booting
@@ -144,13 +164,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Get Your Windows 11/10 Software Installed
 
  The possible fixes covered here will probably resolve the “installer has insufficient privileges” Windows error in most cases but aren’t necessarily guaranteed.
@@ -159,26 +172,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 
  The result of this installation error is the same as most others. Users can’t install the software packages they need to when it happens. This is how you can fix the “installer has insufficient privileges” error on a Windows 11/10 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-web.techidaily.com/ree-software-less-method-to-save-youtube-videos/"><u>[New] Free Software-Less Method to Save YouTube Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-top-8-suggestions-for-high-quality-iphone-videography-projects/"><u>[Updated] Top 8 Suggestions for High-Quality iPhone Videography Projects</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/captivating-cosmic-images-from-nasa-transform-your-computer-background-with-stunning-space-photography/"><u>Captivating Cosmic Images From NASA: Transform Your Computer Background with Stunning Space Photography</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-steps-to-resurrect-itunes-on-windows-devices/"><u>Essential Steps to Resurrect iTunes on Windows Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-lava-yuva-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-mute-amdnvidia-graphic-enhancements/"><u>How to Mute AMD/Nvidia Graphic Enhancements</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-overcome-repetitive-login-failures-in-teams/"><u>How to Overcome Repetitive Login Failures in Teams</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-nokia-c32-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Nokia C32 Phone? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/instant-internet-jump-after-installing-os/"><u>Instant Internet Jump After Installing OS</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/micro-snippet-analysis-at-a-glance-for-2024/"><u>Micro Snippet Analysis at a Glance for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-decoding-the-process-of-anime-dubbing-techniques-and-success-stories-for-2024/"><u>New Decoding the Process of Anime Dubbing Techniques and Success Stories for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-corsair-icue-malfunctions-a-guide-for-windows-1011-users/"><u>Overcoming Corsair iCUE Malfunctions: A Guide for Windows 10/11 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/personalizing-window-writable-wallpaper-with-confidence/"><u>Personalizing Window' Writable Wallpaper with Confidence</u></a></li>
-<li><a href="https://windows11.techidaily.com/silent-steps-a-quick-guide-to-stopping-windows-11-activities/"><u>Silent Steps: A Quick Guide to Stopping Windows 11 Activities</u></a></li>
-<li><a href="https://windows11.techidaily.com/steady-your-cursor-fixing-erratic-movements-in-windows-11/"><u>Steady Your Cursor: Fixing Erratic Movements in Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unraveling-rcs-technology-the-future-of-text-and-multimedia-exchange/"><u>Unraveling RCS Technology: The Future of Text and Multimedia Exchange</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -186,3 +179,22 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/updated-complete-review-of-the-latest-slomo-capture-application/"><u>[Updated] Complete Review of the Latest SloMo Capture Application</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-engage-audiences-writing-magical-youtube-description-templates-for-higher-views-for-2024/"><u>[Updated] Engage Audiences Writing Magical YouTube Description Templates for Higher Views for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-leading-lights-youtubes-biggest-brands/"><u>[Updated] In 2024, Leading Lights YouTube's Biggest Brands</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-beyond-boundaries-with-innovative-wins11-titles/"><u>[Updated] Step Beyond Boundaries with Innovative Wins11 Titles</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-stepwise-guide-to-leveraging-pip-feature-on-microsoft-edge/"><u>2024 Approved Stepwise Guide to Leveraging PIP Feature on Microsoft Edge</u></a></li>
+<li><a href="https://windows11.techidaily.com/fast-forwarding-copy-and-paste-custom-hotkeys-for-text-snaps-in-win11/"><u>Fast-Forwarding Copy & Paste: Custom Hotkeys for Text Snaps in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/getting-your-nvidia-cp-back-on-win11-after-closure/"><u>Getting Your Nvidia CP Back on Win11 After Closure</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-v-purse-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-30-slept-on-speech-to-text-apps-for-macos-users/"><u>In 2024, Top 30 Slept-On Speech to Text Apps for macOS Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-11s-restricted-access-feature/"><u>Navigating Through Windows 11’S Restricted Access Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-device-not-initialized-warning-in-win-11/"><u>Rectifying 'Device Not Initialized' Warning in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-setup-guide-windows-hello-fingerprinting/"><u>Step-by-Step Setup Guide: Windows Hello Fingerprinting</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-6-windows-solutions-for-dynamic-screen-brightness-settings/"><u>Top 6 Windows Solutions for Dynamic Screen Brightness Settings</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unleash-more-drive-potential-the-definitive-review-of-highpoints-rocket-1608a-usb-expansion-card/"><u>Unleash More Drive Potential: The Definitive Review of HighPoint's Rocket 1608A USB Expansion Card</u></a></li>
+</ul></div>
+

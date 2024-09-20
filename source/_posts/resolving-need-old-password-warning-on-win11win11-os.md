@@ -1,7 +1,7 @@
 ---
 title: Resolving “Need Old Password” Warning on Win11/Win11 OS
-date: 2024-09-11T19:36:39.683Z
-updated: 2024-09-15T18:32:46.094Z
+date: 2024-09-15T17:24:09.667Z
+updated: 2024-09-20T16:33:02.597Z
 tags:
   - windows10
   - windows11
@@ -51,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
  Some people who have encountered this error claim that you can resolve it by pressing the Enter key with the password field empty. This should work if you've never set up a password for the local admin account, and it works for some people.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Reset Your Windows Password
 
  If you recall from earlier, you can set the Windows password to something you'll remember later on. As such, the final and most effective fix is to set up or reset your local admin account password and use it as the current Windows password.
@@ -68,15 +61,29 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 2. On the Settings page, select the **Accounts** option. You should [check that your Windows account has admin rights](https://www.makeuseof.com/check-windows-account-admin-rights/) before continuing.  
 ![Accounts Page in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/accounts-page-in-windows-11.jpg)
 3. Then, select **Sign-In Options** \> **Passwords**. You’ll find **Add** if you’re creating a password for the first time. Otherwise, you’ll find **Change**, meaning you’ll need to [reset your local admin account password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Password Option under Sign-In Options in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-option-under-sign-in-options-in-windows-11.jpg)
 4. If you click **Add**, you’ll be directed to a page where you can set up a password.  
 ![Create New Password for Local Admin Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-new-password-for-local-admin-account.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you have created or reset your Windows password, you can proceed to sign into your Microsoft account. Once you’re asked to insert your “current Windows password,” swiftly input your newly minted password.
@@ -87,25 +94,6 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
  However, this error can be easily resolved. Here’s everything you need to know.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ffortless-entrepreneurship-top-10-easy-to-create-biz-channels-on-youtotube-for-2024/"><u>[New] Effortless Entrepreneurship Top 10 Easy-to-Create Biz Channels on YouToTube for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/reely-accessible-cutting-edge-video-editor-tools-for-2024/"><u>[New] Freely Accessible Cutting Edge Video Editor Tools for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-record-video-presentations-using-adobe-presenter/"><u>[Updated] In 2024, How to Record Video Presentations Using Adobe Presenter</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-realme-11-proplus-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Realme 11 Pro+ Phones with/without a PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-reactivate-computer-sound-output-quickly/"><u>How to Reactivate Computer Sound Output Quickly</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-reestablish-razer-device-detection-via-windows-synapse/"><u>How to Reestablish Razer Device Detection via WIndows' Synapse</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/immerse-yourself-with-the-lg-c9-65-inch-oled-masterpiece-an-in-depth-guide-to-its-breathtaking-display-and-advanced-technology-for-tv-connoisseurs/"><u>Immerse Yourself with the LG C9 65-Inch OLED Masterpiece: An In-Depth Guide to Its Breathtaking Display and Advanced Technology for TV Connoisseurs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-nokia-105-classic-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Nokia 105 Classic Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-components-management-in-windows-os/"><u>Mastering Components Management in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-repairing-package-failures-in-windo/"><u>Mastering the Art of Repairing Package Failures in Windo</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-choices-identifying-your-ideal-home-edition-or-pro/"><u>Mastering Windows Choices: Identifying Your Ideal Home Edition or Pro</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/step-by-step-from-graphic-geniuses-to-sticker-stars-in-all-chat-apps-for-2024/"><u>Step by Step From Graphic Geniuses to Sticker Stars in All Chat Apps for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-network-adapter-woes-clearing-up-win-error-31/"><u>Tackling Network Adapter Woes: Clearing Up WIN Error 31</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-to-clear-vacant-directories-with-minimal-hassle-in-windows/"><u>Tips to Clear Vacant Directories with Minimal Hassle in Windows</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -113,3 +101,17 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-nokia-71-impressive-display-and-camera-performance/"><u>Affordable Nokia 7.1 - Impressive Display & Camera Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/bypass-non-genuine-adobe-pop-up-on-pcs/"><u>Bypass Non-Genuine Adobe Pop-Up on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-open-and-use-the-dialer-on-win-11/"><u>How to Open and Use the Dialer on Win 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-infinix-smart-7-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Infinix Smart 7 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oneplus-12r-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock OnePlus 12R Phone When You Forget the Password</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-snap-and-save-the-ultimate-list-of-top-8-free-android-recorders/"><u>In 2024, Snap & Save The Ultimate List of Top 8 Free Android Recorders</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ps-color-enhancement-simplified-approaches/"><u>PS Color Enhancement Simplified Approaches</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-absence-of-mcuicnt-entry-point-windows/"><u>Steps to Resolve Absence of McUICnt Entry Point Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/zeroing-in-on-win11s-onedrive-sign-in-fault-error-xyz-unraveled/"><u>Zeroing in on Win11's ONEDRIVE Sign In Fault: Error XYZ Unraveled</u></a></li>
+</ul></div>
+

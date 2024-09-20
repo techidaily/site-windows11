@@ -1,7 +1,7 @@
 ---
 title: Reverting Terminal Setup on the Latest Windows 11
-date: 2024-09-11T17:38:26.260Z
-updated: 2024-09-15T20:42:45.385Z
+date: 2024-09-14T16:31:07.921Z
+updated: 2024-09-20T21:21:44.407Z
 tags:
   - windows10
   - windows11
@@ -60,13 +60,6 @@ del /f /s /q /a "%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe
 3. Now press the**Enter** key to delete the settings.json file.
 4. You can now exit the command prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Reset Windows Terminal Settings Using Windows PowerShell
 
  Windows PowerShell is another command line application that you can use to restore Windows Terminal Settings to their default state. To figure out how, follow these steps:
@@ -76,14 +69,14 @@ del /f /s /q /a "%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe
 ![Reset Windows Terminal Using PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-terminal-using-powershell.jpg)  
 Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json" -Force
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Press**Enter** to execute the command.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings From File Explorer
 
@@ -93,6 +86,14 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 2. Copy and paste the following path into the address bar:  
 ![Reset Windows Terminal Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-terminal-using-file-explorer.jpg)  
 %LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. On the next page, right-click on**settings.json** and select**Delete** from the context menu.
 
  Once you perform the above steps, Settings.json will automatically be created with the default settings.
@@ -116,15 +117,13 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-how-to-use-video-titles-and-youtube-tags-for-more-views/"><u>[Updated] 2024 Approved How to Use Video Titles and YouTube Tags for More Views?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-best-facebook-lite-video-downloading-software-of-2023/"><u>2024 Approved Best Facebook Lite Video Downloading Software of 2023</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/maximize-gaming-experience-by-replacing-old-graphic-drivers/"><u>Maximize Gaming Experience by Replacing Old Graphic Drivers</u></a></li>
-<li><a href="https://windows11.techidaily.com/mending-erased-typing-on-windows-systems/"><u>Mending Erased Typing on Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-0x80072af9-error-in-windows-os/"><u>Overcoming 0X80072AF9 Error in Windows OS</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-missing-libgdk-win32-20-0dll-file-issues-on-your-computer/"><u>Resolving Missing libgdk-win32-2.0-0.dll File Issues on Your Computer</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-xiaomi-13-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-mystery-what-to-do-when-mfc42dll-cant-be-located/"><u>Solving the Mystery: What to Do When mfc42.dll Can't Be Located</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-reduce-cpu-and-ram-overuse-from-unrealcefsubprocess-on-pcs/"><u>Strategies to Reduce CPU and RAM Overuse From UnrealCEFSubprocess on PCs</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-swedish-sound-system-simplified/"><u>The Swedish Sound System Simplified</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-best-practice-manual-for-text-on-picture-edits/"><u>[Updated] The Best Practice Manual for Text-on-Picture Edits</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-vocal-mix-app-for-android-advocates/"><u>2024 Approved Premier Vocal Mix App for Android Advocates</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/free-video-chat-alternatives-for-windowsmac-os-users/"><u>Free Video Chat Alternatives for Windows/Mac OS Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reactivate-bright-mode-in-stuck-windows-devices/"><u>How to Reactivate Bright Mode in Stuck Windows Devices</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-audio-dial-achieving-smooth-volume-ramp-ups/"><u>New 2024 Approved Audio Dial Achieving Smooth Volume Ramp-Ups</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-utorrents-non-downloading-issue-in-windows/"><u>Resolving uTorrent's Non-Downloading Issue in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-corporate-controlled-browser-configuration-on-chromeedge/"><u>Streamlining Corporate Controlled Browser Configuration on Chrome/Edge</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unearth-17-methods-a-complete-guide-to-tracking-internet-radio/"><u>Unearth 17 Methods A Complete Guide to Tracking Internet Radio</u></a></li>
 </ul></div>
 

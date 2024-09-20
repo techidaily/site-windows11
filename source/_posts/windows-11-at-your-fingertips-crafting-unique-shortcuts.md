@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 at Your Fingertips: Crafting Unique Shortcuts"
-date: 2024-09-09T22:53:10.093Z
-updated: 2024-09-15T16:54:00.125Z
+date: 2024-09-17T19:28:01.124Z
+updated: 2024-09-20T17:59:28.754Z
 tags:
   - windows10
   - windows11
@@ -87,6 +87,19 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
 ![Make the Current Windows drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/make-the-current-window-drop-down-menu.png)
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Create Custom Keyboard Shortcuts With HotkeyP
 
  HotkeyP is a decent alternative third-party app to WinHotKey for creating custom Windows keyboard shortcuts. Like WinHotKey, it’s a freely available and lightweight app for utilizing on most Windows platforms. It enables you to set up custom keyboard shortcuts for opening user files and folders, running programs, and activating many functions. This is how you can download and run HotkeyP:
@@ -98,10 +111,10 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 4. Double-click **HotkeyP.exe** file inside the extracted **hotkeyp\_64bit** directory.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you’ll see an empty HotkeyP window. You can fill that window by adding some new custom hotkeys. First, try setting up a hotkey that opens software on your PC like this:
@@ -115,13 +128,6 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 ![The Hot Key window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-hot-key-window.jpg)
 6. Select **OK** to add the new custom hotkey.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Now you’ll see the new hotkey you’ve created included within the all and programs categories on the HotkeyP window. Press the new hotkey you just set up to launch the selected program.
 
  There are extra options you can select to configure how the hotkey launches the program. For example, select **Run as administrator** to set the program to open with elevated privileges. Or set the software to run at a higher priority by selecting a high or above normal option on the **Process** priority drop-down menu.
@@ -132,36 +138,22 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
 ![The Shutdown option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-shutdown-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can change general software settings for HotkeyP by clicking the **Options** button. That will bring up an Options window that includes numerous miscellaneous software. Make sure the **Start automatically at Windows startup** checkbox is selected on the **General** tab. Then HotKeyP will automatically start in the background.
 
 ![The Start automatically checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-start-automatically-checkbox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Set Up All the Windows Software HotKeys You Need With WinHotKey
 
  So, you won’t need Windows 11 desktop, Start menu, and taskbar shortcuts anymore when you’ve got WinHotKey or HotKey P. They're easy-to-utilize programs with which you can set up a wide variety of software, folders, and document keyboard shortcuts without cluttering the Windows desktop. Their only notable shortcoming is that you can’t set up website hotkeys with them, but they're still very handy apps nonetheless.
 
  As a result, it’s better to check out some of the third-party keyboard shortcut software packages for Windows 11\. WinHotKey and HotkeyP are among those apps that enable you to set up keyboard shortcuts for your favorite software, documents, and folders. This is how you can set up custom hotkeys with WinHotKey and HotkeyP.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-music-infused-video-tutorials-for-enhanced-social-media-presence-fb/"><u>[New] 2024 Approved Music-Infused Video Tutorials for Enhanced Social Media Presence (FB)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-pixelpartition-review/"><u>[New] In 2024, PixelPartition Review</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-unleashing-creativity-mastering-the-art-of-360-degree-videography-for-youtube/"><u>[New] In 2024, Unleashing Creativity Mastering the Art of 360-Degree Videography for YouTube</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-macs-as-music-makers-a-look-inside-for-2024/"><u>[New] Macs as Music Makers A Look Inside for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-free-image-transformation-the-best-smartphone-editing-aids-unveiled/"><u>[Updated] Free Image Transformation The Best Smartphone Editing Aids Unveiled</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comprehensive-guide-fresh-nvidia-driver-downloads-for-windows-11-7-and-8-pcs/"><u>Comprehensive Guide: Fresh NVIDIA Driver Downloads for Windows 11, 7 & 8 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/leveraging-universal-stickies-in-windows-11/"><u>Leveraging Universal Stickies in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-wi-fi-disconnection-on-windows-11/"><u>Mastering the Art of Wi-Fi Disconnection on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/securely-modifying-your-windows-11-keyboard-layout/"><u>Securely Modifying Your Windows 11 Keyboard Layout</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailored-choice-in-windows-11-identifying-best-home-or-pro-option/"><u>Tailored Choice in Windows 11: Identifying Best Home or Pro Option</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -170,3 +162,20 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-complete-manual-of-adding-captions-on-vimeo/"><u>[New] The Complete Manual of Adding Captions on Vimeo</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-troubleshooting-techniques-refresh-network-configurations-in-macos/"><u>Essential Troubleshooting Techniques: Refresh Network Configurations in macOS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-honor-magic-6-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Honor Magic 6 Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-craft-integrating-gpt-my-bots-into-hobbies-and-artistry/"><u>Mastering the Craft: Integrating GPT-My Bots Into Hobbies and Artistry</u></a></li>
+<li><a href="https://games-able.techidaily.com/sony-playstation-handheld-demystified/"><u>Sony PlayStation Handheld Demystified</u></a></li>
+<li><a href="https://windows11.techidaily.com/surmounting-ram-barriers-in-the-windows-environment/"><u>Surmounting RAM Barriers in the Windows Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-automatic-downtime-on-windows-11-pcs/"><u>The Ultimate Guide to Automatic Downtime on Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-winning-formula-for-stunning-images-and-engaging-slide-shows-on-windows-11s-photo-app/"><u>The Winning Formula for Stunning Images and Engaging Slide Shows on Windows 11'S Photo App</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-snipviewer-non-responsive-shortcuts/"><u>Troubleshooting SnipViewer Non-Responsive Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-transforms-mastering-the-art-of-amd-card-driver-updates/"><u>Windows 11 Transforms: Mastering the Art of AMD Card Driver Updates</u></a></li>
+</ul></div>
+

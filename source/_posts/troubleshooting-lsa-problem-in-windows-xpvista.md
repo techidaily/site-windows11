@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting LSA Problem in Windows XP/Vista
-date: 2024-09-11T18:04:02.830Z
-updated: 2024-09-15T17:01:50.526Z
+date: 2024-09-17T20:05:01.172Z
+updated: 2024-09-20T17:14:10.657Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
 
  Now wait for the scan to finish. If malicious programs are detected, Windows Security will remove them from your system automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Change the Group Policy Settings
 
  If the above steps don't help, you might need to configure LSA manually. It involves editing the Local Group Policy Editor and setting some specific settings. However, this tool only works with Windows 11 Professional and Enterprise editions.
@@ -65,13 +72,6 @@ Administrative Templates > System > Local Security Authority
 ![Change the Group Policy Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-the-group-policy-settings.jpg)
 6. Now, in the window that appears, alter the settings from **Not Configured** to **Enabled**.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Under the Options section, click the drop-down menu for **Configure LSASS to run as a protected process** and select **Enabled with UEFI Lock**.  
 ![Set as Enabled with UEFI Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-as-enabled-with-uefi-lock.jpg)
 8. Now click **Apply > OK** to save the changes.
@@ -79,10 +79,10 @@ Administrative Templates > System > Local Security Authority
  After making the above changes, restart your computer and check if the error is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Tweak the Registry Editor
@@ -118,42 +118,30 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
  Wait for the reset process to finish and restart your computer. After restarting, check if the error is still present.
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Perform Some Generic Fixes
 
  There are also some generic fixes to resolve the issue. First, [run the System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) command to repair incorrect or damaged system files. You may also want to use the Deployment Image Servicing and Management tool to diagnose issues with local system images. If the problem persists, try [updating Windows to the latest version](https://www.makeuseof.com/update-windows-manually/) to resolve any glitches or bugs.
 
  Some antivirus and security programs can be too aggressive in protecting your system. They could prevent access to the LSA feature, leading to this problem. To be sure, you can [temporarily disable your security software](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and check if it solves the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fixing the LSA Protection Error on Windows
 
  Local Security Authority protection safeguards unauthorized access to system resources, such as passwords or other sensitive information. However, this feature might not work as expected due to LSA Protection Error. Thanks to the potential solutions discussed in this guide, solving the problem is easy.
 
  It suggests an underlying problem that requires resolution to restore system security. If you have the same problem, these solutions might help.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-support.techidaily.com/new-precision-rhythm-tracking-made-simple-try-these-free-ones/"><u>[New] Precision Rhythm Tracking Made Simple - Try These Free Ones</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-prime-explorations-in-top-livestream-websites/"><u>[Updated] Prime Explorations in Top Livestream Websites</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/5-routes-to-reviving-the-elusive-windows-terminal/"><u>5 Routes to Reviving the Elusive Windows Terminal</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/exploring-efficiency-and-performance-the-electric-rivian-r1s-versus-traditional-trucks/"><u>Exploring Efficiency and Performance: The Electric Rivian R1S Versus Traditional Trucks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/guide-to-identifying-and-repairing-common-post-errors/"><u>Guide to Identifying and Repairing Common POST Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/guides-to-reinstate-windows-print-spooler/"><u>Guides to Reinstate Windows Print Spooler</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s24-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S24 Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-understanding-the-mechanics-of-vlc-media-player-on-macos/"><u>In 2024, Understanding the Mechanics of VLC Media Player on macOS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/quick-ways-to-retain-live-chat-transcripts-for-2024/"><u>Quick Ways to Retain Live Chat Transcripts for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-workflow-integration-to-do-plus-ifttt/"><u>Seamless Workflow Integration: To-Do + IFTTT</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-workflow-integrating-a-functional-taskbar-on-slate-devices-windows-11/"><u>Streamlining Workflow: Integrating a Functional Taskbar on Slate Devices (Windows 11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-error-0xc00d36b4-on-windows-11-pcs/"><u>Tackling Error 0XC00D36B4 on Windows 11 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-modern-standby-demystified-with-pros-and-cons/"><u>Windows Modern Standby Demystified with Pros & Cons</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-not-acknowledging-kbs/"><u>Windows Not Acknowledging KBs</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -162,3 +150,21 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-your-go-to-list-of-best-free-game-apps-on-android/"><u>[New] In 2024, Your Go-To List of Best Free Game Apps on Android</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-screen-capture-mastery-a-closer-look-at-recmeister-tech-for-2024/"><u>[New] Screen Capture Mastery A Closer Look at Recmeister Tech for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-best-mac-video-software-alternatives-to-bandicam/"><u>[Updated] 2024 Approved Best Mac Video Software Alternatives to Bandicam</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-recognizing-unseen-snaps-on-social-network-for-2024/"><u>[Updated] Recognizing Unseen Snaps on Social Network for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/instant-collage-creation-tips-for-social-media-posts-for-2024/"><u>Instant Collage Creation Tips for Social Media Posts for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-barriers-to-installing-games-from-the-microsoft-hub/"><u>Overcoming Barriers to Installing Games From the Microsoft Hub</u></a></li>
+<li><a href="https://windows11.techidaily.com/pinpointing-your-pcs-drive-type-with-windows/"><u>Pinpointing Your PC's Drive Type with Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/real-time-broadcasting-tools-ultimate-guide-to-manycam-and-online-webcams/"><u>Real-Time Broadcasting Tools: Ultimate Guide to ManyCam and Online Webcams</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-unresponsive-windows-11-activation-codes/"><u>Resolving Unresponsive Windows 11 Activation Codes</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-artisans-guide-enteringleaving-focus-state-in-the-window-terminal/"><u>The Artisan's Guide: Entering/Leaving Focus State in the Window Terminal</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-permissions-violation-during-setup/"><u>Troubleshooting Windows Permissions Violation During Setup</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719576145082-update-privacy-policy-and-terms-of-use/"><u>Update: Privacy Policy & Terms Of Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-resurrecting-old-folder-tools/"><u>Windows 11: Resurrecting Old Folder Tools</u></a></li>
+</ul></div>
+

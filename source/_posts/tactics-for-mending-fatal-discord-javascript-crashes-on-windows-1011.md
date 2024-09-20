@@ -1,7 +1,7 @@
 ---
 title: Tactics for Mending Fatal Discord Javascript Crashes on Windows 10/11
-date: 2024-09-12T16:33:19.022Z
-updated: 2024-09-15T22:59:27.563Z
+date: 2024-09-17T18:09:12.364Z
+updated: 2024-09-20T18:00:10.579Z
 tags:
   - windows10
   - windows11
@@ -79,19 +79,19 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 8. Next, double-click**DiscordSet.exe** in whatever file your browser downloaded it in.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9. Go through Discord’s installation wizard to reinstall the software.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Any Third-Party Antivirus Tools
@@ -111,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 4. Toggle off the**Real-time protection** option to disable background antivirus scanning.  
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/real-time-protection-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Check the Quality Windows Audio Video Experience Service is Enabled
 
  Quality Windows Audio Video Experience is a service for improving audio and video streaming performance. That’s an important service to have enabled and running for Discord. So, check that qWave is turned on and running as follows:
@@ -127,20 +120,29 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 3. Select**OK** to launch the Services app.  
 ![The Services app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-app.jpg)
 4. Then double-click**Quality Windows Audio Video Experience** inside the Services window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. If Quality Windows Audio Video Experience is disabled, select the**Automatic** startup option.  
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-startup-type-drop-down-menu.jpg)
 6. Press the service’s**Start** button.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Select**Log On** at the top of the service’s properties window.  
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/this-account-radio-button.jpg)
 8. Click**Browse** for the**This account** radio button.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Input your user account within the**Enter** object name box.
 10. Click**OK** to close out of the Select user window.
 11. To save the service’s new settings, select its**Apply** option.
@@ -165,17 +167,14 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-prime-video-grabber-fb-and-firefox-edition/"><u>[New] Prime Video Grabber FB & FireFox Edition</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ocial-media-shifts-yearly-data-visualization-guide-for-2024/"><u>[New] Social Media Shifts Yearly Data Visualization Guide for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-funimate-pro-activation-guide-for-android-users/"><u>[Updated] 2024 Approved Funimate Pro Activation Guide for Android Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/brickwall-bug-resolving-frequent-collapses-of-fuel-service-supervisor-simulation-on-personal-devices/"><u>Brickwall Bug: Resolving Frequent Collapses of Fuel Service Supervisor Simulation on Personal Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-assess-quality-a-buyers-guide-to-secondhand-computers/"><u>How to Assess Quality: A Buyer's Guide to Secondhand Computers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-s23-fe-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy S23 FE to Mac? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/leveraging-universal-stickies-in-windows-11/"><u>Leveraging Universal Stickies in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-microsofts-phone-link-app/"><u>Navigating Through Microsoft's Phone Link App</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailored-choice-in-windows-11-identifying-best-home-or-pro-option/"><u>Tailored Choice in Windows 11: Identifying Best Home or Pro Option</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-best-free-iphone-video-rotation-software/"><u>Updated Discover the Best Free iPhone Video Rotation Software</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-of-web-based-vertical-video-editors/"><u>Updated The Ultimate List of Web-Based Vertical Video Editors</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/a-beginners-guide-to-embedding-youtube-playlists-in-code/"><u>A Beginner's Guide to Embedding YouTube Playlists in Code</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-5-snug-scenarios-for-your-snowy-youtube-sessions/"><u>In 2024, Top 5 Snug Scenarios for Your Snowy Youtube Sessions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/professional-streaming-the-premier-6-zoom-webcam-picks/"><u>Professional Streaming The Premier #6 Zoom Webcam Picks</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-error-0x800700e1-in-windows-11-os/"><u>Solutions for Error 0X800700E1 in Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-failed-display-sharing-on-windows-devices/"><u>Solutions for Failed Display Sharing on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-remedy-for-win-11-store-failures-code-x00000000/"><u>Swift Remedy for Win 11 Store Failures: Code X00000000</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-overcoming-onedrives-add-folder-unsuccessful-on-pc/"><u>Troubleshooting: Overcoming OneDrive's 'Add Folder Unsuccessful' On PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-to-up-your-download-speeds-on-origin-in-the-year-2024/"><u>Ultimate Fixes to Up Your Download Speeds on Origin in the Year 2024</u></a></li>
 </ul></div>
 

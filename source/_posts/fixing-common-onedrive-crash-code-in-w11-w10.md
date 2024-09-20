@@ -1,7 +1,7 @@
 ---
 title: Fixing Common OneDrive Crash Code in W11, W10
-date: 2024-09-10T16:12:58.716Z
-updated: 2024-09-15T18:53:34.433Z
+date: 2024-09-16T19:30:47.206Z
+updated: 2024-09-20T19:56:49.865Z
 tags:
   - windows10
   - windows11
@@ -63,10 +63,16 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 5. Turn off the**File On-Demand** option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Unlink and Relink Your OneDrive Account
@@ -79,29 +85,23 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 ![The Unlink this PC option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/account-tab.jpg)
 4. Press the**Unlink account** button to confirm.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Unlink account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/unlink-account-button2.jpg)
 5. Input the email address you utilize for linking OneDrive in the Microsoft OneDrive window that automatically opens.
 
 1. Click the**Sign in** option.  
 ![The Sign in button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sign-in-button.jpg)
 2. Select**Next** to set the same OneDrive folder location.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click**Use this folder** on the dialog box.  
 ![The Choose new folder button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/choose-new-folder-button.jpg)
 4. Then keep selecting**Next** to reach the mobile app step.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**Later** to skip the mobile app.
 6. Press the**Open my OneDrive folder** button.
@@ -113,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
  Uninstall OneDrive via Settings as instructed in method two of our[guide for removing apps in Windows 11](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . Then restart Windows before reinstalling OneDrive.
 
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-option2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To reinstall the app, open the[OneDrive MS Store page](https://apps.microsoft.com/store/detail/onedrive/9WZDNCRFJ1P3?hl=en-gb&gl=gb&rtc=1) in a browser. Click**Get in Store** app >**Open Microsoft Store** to bring up an**Install** option for the app. Click**Get** to download and install OneDrive. Then you'll need to open OneDrive and sign in to an account again.
 
@@ -135,15 +142,12 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-detailed-walkthrough-ipad-screen-recording/"><u>[Updated] Detailed Walkthrough IPad Screen Recording</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-enlightenment-in-education-top-10-history-youtube-channels-for-2024/"><u>[Updated] Enlightenment in Education Top 10 History YouTube Channels for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-maximizing-mobile-media-posts-ios-and-youtube-techniques/"><u>[Updated] Maximizing Mobile Media Posts IOS and YouTube Techniques</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-top-editors-for-virtual-backgrounds-spectrumswitch-studio/"><u>2024 Approved Top Editors for Virtual Backgrounds SpectrumSwitch Studio</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-to-follow-instructions-downloading-your-microsoft-comfort-keyboard-4000-drivers/"><u>Easy-to-Follow Instructions: Downloading Your Microsoft Comfort Keyboard 4000 Drivers</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-lost-renderer-phenomenon-in-ow2/"><u>Fixing the 'Lost Renderer' Phenomenon in OW2</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-convert-cr2-images-to-jpgs-on-windows/"><u>How to Convert CR2 Images to JPGs on Windows</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-honor-magic-v2-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Honor Magic V2? Fixed | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-11-unveiling-rarely-used-functions/"><u>Mastering Windows 11: Unveiling Rarely Used Functions</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-razer-device-functionality-in-windows-11/"><u>Restoring Razer Device Functionality in Windows 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-vision-realized-creating-and-launching-an-engaging-youtube-chanel-for-2024/"><u>[New] A Vision Realized Creating and Launching an Engaging YouTube Chanel for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-how-to-stream-in-superior-quality-on-facebook-network/"><u>[New] How To Stream in Superior Quality on Facebook Network</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/invisible-modifications-the-essence-of-selective-edits-for-2024/"><u>Invisible Modifications The Essence of Selective Edits for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-steam-achievements-redo/"><u>Mastering the Art of Steam Achievements Redo</u></a></li>
+<li><a href="https://windows11.techidaily.com/methodology-to-revive-windows-steam-iconage/"><u>Methodology to Revive Windows Steam Iconage</u></a></li>
+<li><a href="https://windows11.techidaily.com/title-customizing-icon-separation-in-winoss-1011/"><u>Title: Customizing Icon Separation in WinOSs (10/11)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-vpn-connection-issues-on-ios-top-7-solutions/"><u>Troubleshooting VPN Connection Issues on iOS: Top 7 Solutions</u></a></li>
 </ul></div>
 

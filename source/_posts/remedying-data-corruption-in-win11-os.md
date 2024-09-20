@@ -1,7 +1,7 @@
 ---
 title: Remedying Data Corruption in Win11 OS
-date: 2024-09-13T17:30:41.112Z
-updated: 2024-09-15T17:05:13.266Z
+date: 2024-09-19T17:53:03.473Z
+updated: 2024-09-20T16:32:56.923Z
 tags:
   - windows10
   - windows11
@@ -58,6 +58,19 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 5. Apply any suggestions the troubleshooter provides.  
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-app-window.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Check That the Windows License Manager Service Is Running
 
  Some file system errors can arise for opening files with UWP apps when the Windows License Manager service is disabled. That’s a service required for MS Store infrastructure support, and apps downloaded from the store don’t always work right when it’s disabled. This is how you can check that service is enabled and start it if necessary:
@@ -67,6 +80,20 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 3. Double-click**Windows License Manager Service** to access its properties window.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-window2.jpg)
 4. Click on the**Startup type** menu to open it and select**Automatic** .  
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Windows License Manager server window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-license-service-manager.jpg)
 5. If the service isn’t running, press**Start** within the properties window.
 6. Select**Apply** to save settings for the Windows License Manager Service.
@@ -80,14 +107,14 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
 ![Apps & features in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/apps-features-window.jpg)
 
- When you’ve uninstalled the app, reinstall it from the MS Store. Bring up the Microsoft Store, and input the app’s title in its search box. Then select the app to reinstall in the search results, and click the**Get** button for it.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ When you’ve uninstalled the app, reinstall it from the MS Store. Bring up the Microsoft Store, and input the app’s title in its search box. Then select the app to reinstall in the search results, and click the**Get** button for it.
 
 ## 6\. Set Up a New Local User Account on Windows
 
@@ -96,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
  Our guide on[how to fix Windows issues by creating new accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) includes full instructions for how to apply this solution.
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-account-button.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Restore Windows to an Earlier Date
 
@@ -114,13 +134,6 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
  However, restoring Windows to a previous time removes software not installed on the restoration point’s date. So, it’s likely you’ll have to reinstall some apps after rolling back Windows. Clicking**Scan for affected programs** in System Restore provides an overview of software that will be removed for a restore point.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Reset Windows
 
  This final system file error solution is the most drastic of all since it amounts to reinstalling Windows 10 or 11\. Factory resetting restores Windows to a default system state, which can fix many errors caused by registry, third-party software, and system file issues. If you can’t fix a system file error with any other potential fix in this guide, then resetting is the last thing to try.
@@ -128,10 +141,10 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
  Windows 11 and 10 have a Reset this PC tool that makes it easy to factory reset the platform. That tool also includes an option that enables you to keep user files in the process. Our guide on[how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) includes instructions for applying this potential resolution with this tool.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get File System Errors Sorted in Windows
@@ -153,20 +166,16 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-multi-channel-mastery-coordinated-content-consumption/"><u>[New] In 2024, Multi-Channel Mastery Coordinated Content Consumption</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-a-guide-to-designing-spectacular-photo-tileworks/"><u>[Updated] A Guide to Designing Spectacular Photo Tileworks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-essential-top-10-on-spotify-streams/"><u>[Updated] Essential Top 10 on Spotify Streams</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-gopro-hero5-black-vs-yi-4k-latest-camera-showdown/"><u>[Updated] GoPro Hero5 Black VS Yi 4K - Latest Camera Showdown</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Hide/Fake Snapchat Location on Your Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Oppo A38? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-the-office-activation-barrier/"><u>Overcoming the Office Activation Barrier</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/overcoming-windows-10-refreshing-anomalies/"><u>Overcoming Windows 10 Refreshing Anomalies</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-accessing-the-windows-1amode-control-panel/"><u>Step-by-Step Guide: Accessing the Windows 1Amode Control Panel</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/strategies-for-a-seamless-macos-catalina-migration/"><u>Strategies for a Seamless macOS Catalina Migration</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-missing-d3dx939-dll-in-win11-os/"><u>Tackling Missing D3DX9_39 DLL in Win11 OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleashing-the-potential-of-dism-on-windows-11-systems/"><u>Unleashing the Potential of Dism on Windows 11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-potential-ms-store-apps-that-elevate-experience/"><u>Unlock Potential: MS Store Apps That Elevate Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-hidden-workings-of-windows-aggregatorhostexe/"><u>Unveiling the Hidden Workings of Windows AggregatorHost.exe</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-short-term-disabling-of-its-protection-systems/"><u>Windows 11: Short-Term Disabling of Its Protection Systems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-aesthetic-alignment-for-online-glamour-content-for-2024/"><u>[New] Aesthetic Alignment for Online Glamour Content for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-clearing-the-fuzziness-tips-to-improve-chrome-videography/"><u>[New] In 2024, Clearing the Fuzziness Tips to Improve Chrome Videography</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-invisible-player-mastering-xbox-one-screenshots/"><u>[New] In 2024, The Invisible Player Mastering Xbox One Screenshots</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-rhythmic-resonance-select-sites-for-downloading-tones-for-2024/"><u>[New] Rhythmic Resonance Select Sites for Downloading Tones for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-best-free-webm-players/"><u>[Updated] Best Free WebM Players</u></a></li>
+<li><a href="https://windows11.techidaily.com/hidden-impact-unassuming-apps-draining-windows-11-power/"><u>Hidden Impact: Unassuming Apps Draining Windows 11 Power</u></a></li>
+<li><a href="https://windows11.techidaily.com/managing-alerts-when-your-pcs-webcam-activates/"><u>Managing Alerts When Your PC's WebCam Activates</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-top-complaints-in-windows-11-review/"><u>Navigating Through Top Complaints in Windows 11 Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/nexus-controller-woes-solved-steam-detection-guide/"><u>Nexus Controller Woes Solved: Steam Detection Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-ownership-challenges-with-managed-windows-11-features/"><u>Solving Ownership Challenges with Managed Windows 11 Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-selection-top-18-streaming-mkv-players-for-cross-platform-use-on-mac-pc-mobile-and-tablet/"><u>Ultimate Selection: Top 18 Streaming MKV Players for Cross-Platform Use on Mac, PC, Mobile & Tablet</u></a></li>
 </ul></div>
 

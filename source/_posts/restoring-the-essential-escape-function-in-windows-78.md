@@ -1,7 +1,7 @@
 ---
 title: Restoring the Essential Escape Function in Windows 7/8
-date: 2024-09-13T18:52:31.795Z
-updated: 2024-09-15T20:00:53.752Z
+date: 2024-09-18T20:29:52.487Z
+updated: 2024-09-20T18:11:45.221Z
 tags:
   - windows10
   - windows11
@@ -62,6 +62,13 @@ To run the keyboard troubleshooter on Windows:
 3. In the Hardware and Devices window, click**Next** to run the troubleshooter.  
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Hardware-and-Devices-Troubleshooter-on-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Turn Off Filter Keys
 
  The Filter keys option in Windows allows it to ignore brief or repeated keystrokes on your computer. However, this feature can sometimes cause Windows to ignore your key inputs entirely. To avoid this, you should disable the Filter keys in Windows by following the steps below.
@@ -72,22 +79,21 @@ To run the keyboard troubleshooter on Windows:
 ![Disable Sticky Keys in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-sticky-keys-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall Any Key Mapping Software
 
  Are you using any key mapping software on your PC? If so, you need to ensure that the Esc key isn’t disabled or mapped to a different function. If it is, you can either restore the key mapping to its default or remove the key remapping software entirely. In case you need help with the latter, check our guide on[different ways to uninstall software in Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Run SFC and DISM Scans
 
@@ -114,10 +120,16 @@ To run the keyboard troubleshooter on Windows:
 ![Check for Windows Update-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-windows-update-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Check for Malware
@@ -127,16 +139,10 @@ To run the keyboard troubleshooter on Windows:
  Make sure you take[the necessary steps if you discover malware on your computer](https://www.makeuseof.com/tag/10-steps-to-take-when-you-discover-malware-on-your-computer/) .
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Troubleshoot in Clean Boot State
@@ -160,10 +166,10 @@ To perform a system restore on Windows, use these steps:
 ![System Restore Dialog on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-dialog-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start Using the Esc Key Again on Windows
@@ -185,20 +191,21 @@ To perform a system restore on Windows, use these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-cultivating-inquisitive-interview-habits/"><u>[Updated] Cultivating Inquisitive Interview Habits</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-creative-annotation-warping-tactics/"><u>2024 Approved Creative Annotation Warping Tactics</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/constructive-methods-for-muting-users-for-2024/"><u>Constructive Methods for Muting Users for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/fuchsia-fiasco-solutions-to-reclaiming-a-standard-desktop-display/"><u>Fuchsia Fiasco? Solutions to Reclaiming a Standard Desktop Display</u></a></li>
-<li><a href="https://windows11.techidaily.com/get-the-most-from-wsl-2-top-methods-on-windows-based-systems/"><u>Get the Most From WSL 2: Top Methods on Windows-Based Systems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-apple-iphone-12-mini-for-mobile-legends-drfone-by-drfone-virtual-ios/"><u>How To Fake GPS On Apple iPhone 12 mini For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-amplify-online-impact-through-savvy-templates-design/"><u>In 2024, Amplify Online Impact Through Savvy Templates Design</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-new-era-of-metal-3d-printing-the-compact-and-economical-micronics-sls-printer-2999/"><u>Introducing the New Era of Metal 3D Printing: The Compact and Economical Micronics' SLS Printer ($2,999)</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-windows-performance-by-curbing-tiworkerexe-resources/"><u>Optimizing Windows Performance by Curbing TiWorker.exe Resources</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fixes-for-elusive-registry-application/"><u>Quick Fixes for Elusive 'Registry' Application</u></a></li>
-<li><a href="https://windows11.techidaily.com/reconciling-excel-and-windows-notepad-compatibility/"><u>Reconciling: Excel and Windows Notepad Compatibility</u></a></li>
-<li><a href="https://windows11.techidaily.com/shield-your-keys-keep-start-menu-undetected/"><u>Shield Your Keys: Keep Start Menu Undetected</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/step-by-step-installation-of-updated-drivers-for-windows-maximizing-performance-with-amd-vega-56/"><u>Step-by-Step Installation of Updated Drivers for Windows: Maximizing Performance with AMD Vega 56</u></a></li>
-<li><a href="https://windows11.techidaily.com/stop-x-on-mouse-in-excel-quick-fix-guide-for-windows-users/"><u>Stop X on Mouse in Excel: Quick Fix Guide for Windows Users</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-gameplay-streaming-tools-revealed-obs-or-fraps/"><u>[New] In 2024, Gameplay Streaming Tools Revealed OBS or Fraps?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-simple-guide-turning-favorite-tiktok-beats-into-cellphone-signals/"><u>[Updated] 2024 Approved Simple Guide Turning Favorite TikTok Beats Into Cellphone Signals</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-unleashing-popularity-how-to-make-a-youtube-hit/"><u>[Updated] 2024 Approved Unleashing Popularity How to Make a YouTube Hit</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-achieving-distraction-free-video-conferencing-with-skype/"><u>[Updated] In 2024, Achieving Distraction-Free Video Conferencing with Skype</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-ultimate-tracker-gauging-youtube-popularity-for-financial-insights/"><u>[Updated] In 2024, The Ultimate Tracker Gauging YouTube Popularity for Financial Insights</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-loop-maker-assembly/"><u>[Updated] Loop Maker Assembly</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-thermopro-tp67-temperature-probe-a-detailed-analysis/"><u>Budget-Friendly ThermoPro TP67 Temperature Probe - A Detailed Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/in-depth-guide-to-alternatives-for-windows-ls-functionality/"><u>In-Depth Guide to Alternatives for Windows' LS Functionality</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mp4-video-compression-tips-maintaining-high-quality-in-smaller-sizes/"><u>MP4 Video Compression Tips: Maintaining High-Quality in Smaller Sizes</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfecting-gaming-console-use-with-windows-a-guide-to-testing/"><u>Perfecting Gaming Console Use with Windows: A Guide to Testing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/picture-in-picture-pro-optimizing-your-viewing-with-netflixs-floating-window-feature/"><u>Picture-in-Picture Pro Optimizing Your Viewing with Netflix's Floating Window Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/rapid-response-to-slow-printer-woes-on-pc/"><u>Rapid Response to Slow Printer Woes on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/removing-block-by-system-admins-from-windows/"><u>Removing Block by System Admins From Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-launcher-not-found-error-on-windows-pcs/"><u>Resolving Launcher Not Found Error on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/stopping-spontaneous-hotkey-engagements-in-windows/"><u>Stopping Spontaneous Hotkey Engagements in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-clear-audio-recording-in-obs-studio-win-11/"><u>Unlocking Clear Audio Recording in OBS Studio - Win 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Understanding and Tackling the 'USB Disconnected' Error in VirtulBox
-date: 2024-09-11T19:01:08.953Z
-updated: 2024-09-15T18:51:31.912Z
+date: 2024-09-17T21:05:31.354Z
+updated: 2024-09-20T18:47:36.803Z
 tags:
   - windows10
   - windows11
@@ -53,10 +53,10 @@ Here are some possible reasons for the VirtualBox USB devices error.
 2. Navigate to the**Disk Drives** option and click the**arrow** icon to expand the section.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Find the USB drive you connected to the host system. If it is not present in the list, pull it out and reconnect it to another USB port on your system.
@@ -99,14 +99,14 @@ Here are some possible reasons for the VirtualBox USB devices error.
 ![Configure the USB Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Configure-the-USB-Controller.jpg)
 5. Now, click on the**Add new USB filter** and pick the USB device you want to connect to the virtual machine.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click on the**OK** button and close the settings window. Start the virtual machine and check if the error pops up now.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Reinstall the VBox USB drivers
 
@@ -119,19 +119,6 @@ Here are some possible reasons for the VirtualBox USB devices error.
 5. Right-click on the file and select the**Install** option.
 6. Close Virtual Box and restart your system. Connect the USB device to the virtual machine and check whether the error code pops up.
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Reinstall VirtualBox
 
  If all the above methods don’t solve the ‘Failed to Attach the USB Device’ Error code, consider reinstalling the VirtualBox app on your system. Here’s how to do it.
@@ -142,16 +129,29 @@ Here are some possible reasons for the VirtualBox USB devices error.
 3. **UAC** will pop up. Click on**Yes** to continue.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Follow the on-screen prompts to uninstall VirtualBox from your system.
 5. Now visit the[official VirtualBox website](https://www.virtualbox.org/wiki/Downloads) and download the app and the corresponding extension pack.
 6. Open the download location and run the setup file. Follow the on-screen prompts to install and then install the extension pack as described in method 3.
 7. Now, attach a USB device and start the virtual machine to check if the error code occurs or not.
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Easily Connect USB Devices to Your Virtual Machine Once More
 
@@ -172,19 +172,21 @@ Here are some possible reasons for the VirtualBox USB devices error.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-rising-stars-guide-essential-hashtags-to-increase-your-insta-presence-for-2024/"><u>[New] Rising Stars Guide Essential Hashtags to Increase Your Insta Presence for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-the-voice-of-action-crafting-moving-screenplay-conversations/"><u>[New] The Voice of Action Crafting Moving Screenplay Conversations</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-embark-on-the-journey-defining-and-developing-style-and-niche/"><u>[Updated] Embark on the Journey Defining & Developing Style and Niche</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-mobile-image-mastery-with-top-10-stickers-for-appleandroid-users-for-2024/"><u>[Updated] Mobile Image Mastery with Top 10 Stickers for Apple/Android Users for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-view-count-value-on-youtubes-earnings-graph/"><u>2024 Approved View Count Value on YouTube's Earnings Graph</u></a></li>
-<li><a href="https://windows11.techidaily.com/from-screenless-to-seen-effective-methods-for-re-emerging-off-screen-windows-in-win-10/"><u>From Screenless To Seen: Effective Methods for Re-Emerging Off-Screen Windows in Win 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-razer-synapse-not-working-in-windows-1110/"><u>How to Fix Razer Synapse Not Working in Windows 11/10</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Xiaomi Redmi Note 12 4G?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/insight-into-the-functionality-of-windows-component-services/"><u>Insight Into the Functionality of Windows Component Services</u></a></li>
-<li><a href="https://windows11.techidaily.com/launch-your-windows-11-pc-into-wireless-broadcast-mode/"><u>Launch Your Windows 11 PC Into Wireless Broadcast Mode</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-audio-device-irq-balancing/"><u>Mastering Audio Device IRQ Balancing</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-the-entry-to-wordpad-on-pc/"><u>Streamlining the Entry to WordPad on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-to-disable-game-proposals-on-w11-home-system/"><u>Tips to Disable Game Proposals on W11 Home System</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-video-creation-software-for-mac-edit-enhance-share/"><u>Updated 2024 Approved Video Creation Software for Mac Edit, Enhance, Share</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-navigating-through-the-world-of-ar-stickers-highlighting-google/"><u>[New] 2024 Approved Navigating Through the World of AR Stickers, Highlighting Google</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-audio-from-visuals-making-mp3s-from-instagram-content/"><u>[New] In 2024, Audio From Visuals Making Mp3s From Instagram Content</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-switch-saving-gameplay-footage-for-2024/"><u>[Updated] Mastering Switch Saving Gameplay Footage for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-television-or-projector-for-peak-4k-performance/"><u>2024 Approved Television or Projector for Peak 4K Performance?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-no-playable-sources-found-error-in-windows-comprehensive-solution/"><u>How to Fix 'No Playable Sources Found' Error in Windows - Comprehensive Solution</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-obs-studio-showdown-with-bandicam-the-ultimate-test/"><u>In 2024, OBS Studio Showdown with Bandicam The Ultimate Test</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-windows-photo-interface-with-keys/"><u>Master the Windows Photo Interface with Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimal-settings-where-to-store-your-games-on-xbox/"><u>Optimal Settings: Where to Store Your Games on Xbox</u></a></li>
+<li><a href="https://windows11.techidaily.com/reducing-memory-waste-with-microsoft-edges-webview2/"><u>Reducing Memory Waste with Microsoft Edge's WebView2</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-need-old-password-warning-on-win11win11-os/"><u>Resolving “Need Old Password” Warning on Win11/Win11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-desktop-top-5-clock-saver-software/"><u>Revolutionize Desktop - Top 5 Clock Saver Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-win-11-challenge-reversing-the-operation-elevation-mistake/"><u>Tackling the Win 11 Challenge: Reversing the Operation Elevation Mistake</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-at-your-fingertips-crafting-unique-shortcuts/"><u>Windows 11 at Your Fingertips: Crafting Unique Shortcuts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-biggest-beauty-influencers-on-youtube/"><u>Year's Biggest Beauty Influencers on YouTube</u></a></li>
 </ul></div>
 

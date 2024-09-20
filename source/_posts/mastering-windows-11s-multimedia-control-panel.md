@@ -1,7 +1,7 @@
 ---
 title: Mastering Windows 11'S Multimedia Control Panel
-date: 2024-09-13T17:26:58.885Z
-updated: 2024-09-15T18:06:53.775Z
+date: 2024-09-14T16:01:22.550Z
+updated: 2024-09-20T17:26:25.973Z
 tags:
   - windows10
   - windows11
@@ -52,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
  In order to change the volume of a specific application, click on its icon and drag the slider. To mute a specific application, click on the speaker icon next to it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Use the Windows File Explorer
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
  Windows File Explorer has an address bar that allows you to reach almost all files or programs on your computer. To open Volume Mixer, type**sndvol.exe** into the address bar and press Enter. This will open the Volume Mixer instantly, and you can adjust each app's volume from here.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Use the Task Manager
@@ -86,16 +86,10 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
  In the Command Prompt window, type**sndvol.exe** , and hit Enter again. This will open Volume Mixer immediately, allowing you to adjust the volume of each application from there.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Use Windows Search Tool
@@ -116,14 +110,14 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
 ![Create Shortcut to open Volume Mixer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-shortcut-to-open-volume-mixer.jpg)
 
- Then, enter a name for the shortcut and click**Finish** . This will create a shortcut on the desktop, and you can double-click on it to open Volume Mixer.
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Then, enter a name for the shortcut and click**Finish** . This will create a shortcut on the desktop, and you can double-click on it to open Volume Mixer.
 
 ## Get Quick and Easy Access to the Volume Mixer
 
@@ -144,15 +138,19 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-break-through-boundaries-15plus-best-free-video-starters-for-2024/"><u>[New] Break Through Boundaries 15+ Best Free Video Starters for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-speak-and-record-iphone-voice-memo-basics/"><u>[Updated] 2024 Approved Speak and Record IPhone Voice Memo Basics</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-mastering-the-exchange-of-fb-vids-on-whatsapp/"><u>[Updated] In 2024, Mastering the Exchange of FB Vids on WhatsApp</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-blending-primary-and-b-roll-for-smooth-transitions/"><u>2024 Approved Blending Primary and B-Roll for Smooth Transitions</u></a></li>
-<li><a href="https://windows11.techidaily.com/gamers-guide-cooling-down-the-heat-of-laptop-games/"><u>Gamer's Guide: Cooling Down the Heat of Laptop Games</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-rtx-3nvidia-geforce-3070-ti-driver-compatible-with-win-10-8-and-7/"><u>Get the Latest RTX 3Nvidia GeForce 3070 Ti Driver - Compatible with Win 10, 8 & 7</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-best-video-chatting-tools-for-remote-team-interactions/"><u>In 2024, Best Video Chatting Tools for Remote Team Interactions</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/rip-and-transfer-captain-phillips-film-onto-your-tablet-with-itunes-or-third-party-apps/"><u>Rip and Transfer Captain Phillips Film Onto Your Tablet with iTunes or Third-Party Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-routes-for-steam-connection-failures/"><u>Troubleshooting Routes for Steam Connection Failures</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-11-proxies-a-practical-guide-to-enhanced-privacy/"><u>Win 11 Proxies: A Practical Guide to Enhanced Privacy</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-visual-snips-tool/"><u>[New] 2024 Approved Visual Snips Tool</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-new-horizons-in-video-editing-software/"><u>2024 Approved Explore New Horizons in Video Editing Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-resolve-faulty-narration-function-on-word-windows/"><u>How To Resolve Faulty Narration Function on Word (Windows)</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-pro-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Pro to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-and-resolving-windows-search-startup-woes/"><u>Identifying & Resolving Windows Search Startup Woes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-is-it-possible-to-use-miracast-with-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Is it Possible to Use Miracast with Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfecting-file-management-engage-checkboxes-in-win11-files/"><u>Perfecting File Management: Engage Checkboxes in Win11 Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/pinpointing-and-fixing-sound-issues-in-windows/"><u>Pinpointing and Fixing Sound Issues in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-deployment-pro-6-drivers-updates/"><u>Quick Deployment: Pro 6 Drivers Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-stagnant-utorrent-transfers-on-windows/"><u>Remedying Stagnant uTorrent Transfers on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/track-down-the-file-where-your-desktop-image-stores/"><u>Track Down the File Where Your Desktop Image Stores</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/will-future-ai-technologies-contribute-positively-to-our-emotional-care-and-counseling-services/"><u>Will Future AI Technologies Contribute Positively to Our Emotional Care and Counseling Services?</u></a></li>
 </ul></div>
 

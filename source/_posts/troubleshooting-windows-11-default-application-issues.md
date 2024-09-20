@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows 11 Default Application Issues
-date: 2024-09-08T16:10:04.490Z
-updated: 2024-09-15T22:03:58.274Z
+date: 2024-09-19T21:39:34.490Z
+updated: 2024-09-20T17:29:54.536Z
 tags:
   - windows10
   - windows11
@@ -70,10 +70,17 @@ To proceed, follow these steps:
 3. Now, choose the desired app and click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What to Do If You Cannot Change the Default Apps in Windows 11?
@@ -99,14 +106,14 @@ Here is how you can do that:
 4. Install all the pending updates one by one by clicking on the**Download & install** button and then restart your PC.  
 ![Click on the Download & install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/settings-windows-update-download-and-install.jpg)
 
- Once this is done, follow one of the steps above to change the default app.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Once this is done, follow one of the steps above to change the default app.
 
 ### 2\. Reset the Targeted App
 
@@ -124,13 +131,6 @@ Get-AppxPackage Microsoft.Windows.Photos -AllUsers | Reset-AppxPackage
 ![Reset the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/get-appxpackage-packagename.jpg)
 6. Once the command is executed, check if you can change the default app.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Reinstall the App
 
  Lastly, you can try reinstalling the app that you want to set as default. This will eliminate any corruption errors are bugs within the app that are preventing you from setting it as the default option.
@@ -142,17 +142,18 @@ Here is how you can proceed:
 3. In the following window, navigate to**Uninstall a program** .  
 ![Uninstall a program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/uninstall-a-program.jpg)
 4. Locate the targeted app and right-click on it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Choose**Uninstall** and follow the on-screen instructions to proceed.  
 ![Uninstall the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/win11-uninstall-program.jpg)
 
  Once the uninstallation is completed, restart the computer and reinstall the app. Hopefully, this time, you will be able to set it as the default option without any problems.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Make Your Preferred Apps Default
 
@@ -175,19 +176,16 @@ Here is how you can proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-dive-into-the-world-of-self-expression-a-treasury-of-instagramcaptions/"><u>[New] 2024 Approved Dive Into the World of Self-Expression - A Treasury of #InstagramCaptions</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-streamline-your-twitterscape-with-these-pc-tips-for-2024/"><u>[New] Streamline Your Twitterscape with These PC Tips for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-complete-obs-android-manual-for-professionals/"><u>2024 Approved The Complete OBS Android Manual for Professionals</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-spectrum-of-present-use-to-future-drones-potential/"><u>2024 Approved The Spectrum of Present Use to Future Drones' Potential</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/2024s-top-selection-of-mice-designed-for-mac-computers/"><u>2024'S Top Selection of Mice Designed for Mac Computers</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-fixes-for-a-frozen-windows-11-search-box-within-settings-app/"><u>Essential Fixes for a Frozen Windows 11 Search Box Within Settings App</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-google-pixel-8-by-fonelab-android-recover-data/"><u>How to recover lost data from Google Pixel 8?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Xiaomi 13T? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-audio-integration-in-windows-11-snipping-tool-screenshots-max-156/"><u>Mastering Audio Integration in Windows 11 Snipping Tool Screenshots (Max 156)</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-window-management-with-keys/"><u>Mastering the Art of Window Management with Keys</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/scouting-the-best-screenshot-and-recorders-of-today-for-2024/"><u>Scouting the Best Screenshot & Recorders of Today for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/sculpting-styles-manipulating-text-with-3d-for-2024/"><u>Sculpting Styles Manipulating Text with 3D for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-blocked-files-on-your-system-with-powershell/"><u>Tackling Blocked Files on Your System with PowerShell</u></a></li>
-<li><a href="https://windows11.techidaily.com/unshackling-from-the-internet-localized-onedrive-usage/"><u>Unshackling From the Internet: Localized OneDrive Usage</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-ultimate-source-guide-buying-and-downloading-your-favorite-youtube-rings/"><u>[New] 2024 Approved Ultimate Source Guide Buying and Downloading Your Favorite YouTube Rings</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-elite-lockpicking-games-for-thrill-seekers/"><u>[Updated] In 2024, Elite Lockpicking Games for Thrill Seekers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unveiling-the-magic-crafting-animated-gifs-with-ease/"><u>[Updated] Unveiling the Magic Crafting Animated GIFs with Ease</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-mastering-macs-preview-app-an-in-depth-tutorial-for-users/"><u>2024 Approved Mastering Mac's Preview App An In-Depth Tutorial for Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-nubia-z50s-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Nubia Z50S Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-cab-files-and-their-setup-process/"><u>Navigating Through Windows' CAB Files and Their Setup Process</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-6-windows-11-functions-for-better-user-experience/"><u>Optimizing 6 Windows 11 Functions for Better User Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-recording-on-join-with-me-calls-made-simple/"><u>Step-by-Step Tutorial: Recording on 'Join with Me' Calls Made Simple</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-get-your-fortnite-voice-chat-up-and-running-today/"><u>Troubleshooting Guide: Get Your Fortnite Voice Chat Up & Running Today!</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-unsuccessful-files-download-on-windows-11/"><u>Troubleshooting Unsuccessful Files Download on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-the-role-of-memory-velocity-and-delay-in-enhancing-pc-efficiency/"><u>Understanding the Role of Memory Velocity and Delay in Enhancing PC Efficiency</u></a></li>
 </ul></div>
 

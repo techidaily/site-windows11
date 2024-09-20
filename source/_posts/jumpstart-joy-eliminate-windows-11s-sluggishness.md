@@ -1,7 +1,7 @@
 ---
 title: "Jumpstart Joy: Eliminate Windows 11'S Sluggishness"
-date: 2024-09-14T22:09:58.319Z
-updated: 2024-09-15T19:24:09.897Z
+date: 2024-09-15T16:51:10.612Z
+updated: 2024-09-20T18:38:54.533Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,13 @@ To turn off these services, follow these steps:
 4. Click**Disable all** \>**Apply** \>**OK** .  
 ![Hit OK After Disabling Certain Services in Windows System Configuration App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hit-ok-after-disabling-certain-services-in-windows-system-configuration-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Disable Notifications
 
  Windows sends notifications regularly to inform users of new app updates, unresolved issues with installed apps, improper syncing, etc. While such notifications are sometimes handy, they consume a ton of system resources. So, disabling these notifications for specific apps and services can make your device more efficient.
@@ -59,23 +66,25 @@ To turn off these notifications, follow the below steps:
 1. Open the**Settings** app, and navigate to**System** \>**Notifications** .  
 ![Go to Notifications Settings in the System Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/go-to-notifications-settings-in-the-system-tab-of-the-windows-settings-app.jpg)
 2. Disable the toggle next to**Notifications** to stop receiving all notifications.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn Off the Toggle Next to Notifications to Disable Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-the-toggle-next-to-notifications-to-disable-notifications.jpg)
 3. Disable the toggle next to specific apps in the**Notifications from apps and other senders** section.  
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Disable the Toggle Next to Specific Apps in the Notifications From Apps and Other Senders Section in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-the-toggle-next-to-specific-apps-in-the-notifications-from-apps-and-other-senders-section-in-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Disable Some Windows Permissions
 
@@ -87,16 +96,10 @@ To turn off these notifications, follow the below steps:
 ![Windows Permissions Settings in the Privacy and Security Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-permissions-settings-in-the-privacy-and-security-tab-of-the-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Don't Let Windows Updates Hamper Your Device's Performance
@@ -112,27 +115,7 @@ To pause updates, follow these steps:
 3. Expand the dropdown next to**Pause updates** and select the desired timeframe.  
 ![Paused Windows Updates in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-2-Resuming-the-Paused-Windows-Updates-in-Windows-Settings-App.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Besides this, Windows updates are sometimes buggy and can slow down your computer's performance. If the symptoms started after this, you could[fix Windows slowing down after an update](https://www.makeuseof.com/windows-10-slow-after-update-fix/) in several ways.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Check Which Apps Burden Your CPU, Memory, and Storage
 
@@ -171,20 +154,18 @@ So, try them out to boost your system's performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-outlining-expenditures-the-price-tag-of-video-capturing-tunes/"><u>[New] In 2024, Outlining Expenditures The Price Tag of Video Capturing Tunes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-hitchhikers-guide-to-youtube-playlists/"><u>[New] The Ultimate Hitchhiker's Guide to YouTube Playlists</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-surpassing-peers-standing-out-in-the-vimeo-staffs-choices/"><u>[Updated] 2024 Approved Surpassing Peers Standing Out in the Vimeo Staff's Choices</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-download-youtube-images-with-ease-online/"><u>[Updated] In 2024, Download YouTube Images with Ease Online</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unveiling-virtual-experiences-simplified-insights/"><u>[Updated] Unveiling Virtual Experiences Simplified Insights</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-transform-youtube-live-with-these-must-know-secrets/"><u>2024 Approved Transform YouTube Live with These Must-Know Secrets</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-the-depths-of-android-and-windows-file-sharing/"><u>Exploring the Depths of Android & Windows File Sharing</u></a></li>
-<li><a href="https://windows11.techidaily.com/inside-insights-windows-saver-mechanics-explained/"><u>Inside Insights: Windows Saver Mechanics Explained</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/privacy-tips-how-to-nullify-chatgpts-recording-function/"><u>Privacy Tips: How to Nullify ChatGPT's Recording Function</u></a></li>
-<li><a href="https://windows11.techidaily.com/progressive-pathways-mastering-the-art-of-replacing-aged-windows-drivers/"><u>Progressive Pathways: Mastering the Art of Replacing Aged Windows Drivers</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-implementing-pc-manager-in-w11/"><u>Step-by-Step: Implementing PC Manager in W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-technical-conundrums-strategies-to-overcome-error-80080300-in-teammers/"><u>Unraveling Technical Conundrums: Strategies to Overcome Error 80080300 in Teammers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unveil-the-potential-of-vfx-animated-text-for-free/"><u>Unveil the Potential of VFX Animated Text for Free</u></a></li>
-<li><a href="https://windows11.techidaily.com/visual-upgrade-protocols-a-comprehensive-guide-to-theme-alteration-in-win11/"><u>Visual Upgrade Protocols: A Comprehensive Guide to Theme Alteration in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-installation-insight-pinpointing-software-homesteads/"><u>Windows Installation Insight: Pinpointing Software Homesteads</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-best-11-tools-for-perfecting-your-fb-profile-pics/"><u>[New] 2024 Approved Best 11 Tools For Perfecting Your FB Profile Pics</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-unlocking-asmr-potential-professional-filming-practices-revealed/"><u>[New] 2024 Approved Unlocking ASMR Potential Professional Filming Practices Revealed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-basics-of-capturing-switch-gaming-moments/"><u>[Updated] 2024 Approved The Basics of Capturing Switch Gaming Moments</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-digital-archivists-playbook-preserving-real-time-videos/"><u>[Updated] 2024 Approved The Digital Archivist's Playbook Preserving Real-Time Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mastering-game-recordings-on-fortnite/"><u>[Updated] Mastering Game Recordings on Fortnite</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-6-apps-to-translate-film-content/"><u>Advanced 6 Apps to Translate Film Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-steams-read-only-mode-for-library-folders-in-win-11/"><u>Fixing Steam's Read-Only Mode for Library Folders in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-manage-windows-11s-online-scanning-option/"><u>How to Manage Windows 11'S Online Scanning Option</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-show-or-hide-the-dim-display-after-option-in-the-power-options-menu-on-windows/"><u>How to Show or Hide the “Dim Display After” Option in the Power Options Menu on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/make-every-day-better-with-these-6-must-have-android-apps-for-window-11/"><u>Make Every Day Better with These 6 Must-Have Android Apps for Window 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-rectifying-wow-crashes-error-132/"><u>Mastering the Art of Rectifying WoW Crashes: Error 132</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-steams-captcha-rejection/"><u>Overcoming Steam's CAPTCHA Rejection</u></a></li>
 </ul></div>
 

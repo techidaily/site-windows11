@@ -1,7 +1,7 @@
 ---
 title: "Simplifying the Networks Menu: Win 11 Wifi Cleanup"
-date: 2024-09-13T22:57:27.180Z
-updated: 2024-09-15T16:03:40.861Z
+date: 2024-09-15T18:36:56.177Z
+updated: 2024-09-20T18:22:16.081Z
 tags:
   - windows10
   - windows11
@@ -57,6 +57,13 @@ To forget a Wi-Fi network via the Settings app:
 
  And that's about it. Once you click the**Forget** button, Windows will remove the network profile associated with that network.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Remove a Saved Wi-Fi Network With Command Prompt or PowerShell
 
  Another option for removing a saved Wi-Fi network is to use a command-line tool such as Command Prompt or Windows PowerShell. You can easily forget a Wi-Fi network by running a couple of commands in the terminal window. Here’s how you can go about it.
@@ -71,22 +78,15 @@ To forget a Wi-Fi network via the Settings app:
 `netsh wlan delete profile name="WIFIName"`  
 ![Delete a Saved Wi-Fi Profile Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Delete-a-Saved-Wi-Fi-Profile-Using-Command-Prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can repeat the above command to remove as many networks as you want. Conveniently, the command-line tool also lets you remove all the saved Wi-Fi networks at once. To do so, use this command:
 
 `netsh wlan delete profile name=* i=*`
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Remove a Saved Wi-Fi Network Using Registry Editor
@@ -107,6 +107,13 @@ To remove a Wi-Fi network using the Registry Editor:
 8. Select**Yes** to confirm.  
 ![Remove Wi-Fi Network on Windows Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Remove-Wi-Fi-Network-on-Windows-Using-Registry-Editor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you complete the above steps, the saved profile will be removed from your system.
 
 ## How to Reconnect to a Forgotten Wi-Fi Network on Windows 11
@@ -116,13 +123,6 @@ To remove a Wi-Fi network using the Registry Editor:
  To connect to a Wi-Fi network on Windows 11, press**Win + A** to open the Quick Settings panel. Click the arrow next to the Wi-Fi button to view a list of nearby networks. Select the network you want to connect to and click the**Connect** button. Enter the password for that network and you should be good.
 
 ![Connect to a Wi-Fi Network Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Connect-to-a-Wi-Fi-Network-Windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Of course, this isn't the only way to connect to a Wi-Fi network on Windows. Refer to our guide on[different ways to connect to Wi-Fi on Windows](https://www.makeuseof.com/windows-ways-to-connect-to-wifi/) to learn more.
 
@@ -147,15 +147,19 @@ To remove a Wi-Fi network using the Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-smartphone-tools-for-perfecting-your-pronunciation/"><u>[Updated] 2024 Approved Smartphone Tools for Perfecting Your Pronunciation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-economics-of-entertainment-pewdiepies-profit/"><u>[Updated] The Economics of Entertainment PewDiePie's Profit</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oppo-find-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/budget-friendly-radar-detector-reviews-with-the-passport-brand-heres-what-you-need-to-know/"><u>Budget-Friendly Radar Detector Reviews with the Passport Brand, Here's What You Need to Know!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/future-frontiers-the-new-era-of-chatbots-and-ai/"><u>Future Frontiers: The New Era of Chatbots & AI</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-on-resolving-roblox-error-403-in-windows-environment/"><u>Guide on Resolving Roblox Error 403 in Windows Environment</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-look-at-final-cut-pro-functions-and-features/"><u>In 2024, In-Depth Look at Final Cut Pro Functions and Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-windows-11-installation-hurdles-for-uncomplicated-clipchamp-use/"><u>Navigate Windows 11 Installation Hurdles for Uncomplicated ClipChamp Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-your-lockscreen-experience-through-spotlight-settings/"><u>Optimize Your Lockscreen Experience Through Spotlight Settings</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-efficient-obs-adjustments-on-cost-effective-computers/"><u>[New] 2024 Approved Efficient OBS Adjustments on Cost-Effective Computers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-soundscape-sanctuary-free-high-resolution-dj-videos-available-for-2024/"><u>[Updated] Soundscape Sanctuary Free High-Resolution DJ Videos Available for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-mogul-with-maximum-gross-income/"><u>[Updated] YouTube Mogul with Maximum Gross Income</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/cutting-through-latency-how-to-enjoy-seamless-valorant-gameplay-on-your-pc-updated-for-2t24/"><u>Cutting Through Latency: How to Enjoy Seamless Valorant Gameplay on Your PC, Updated for 2T24</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-from-concept-to-cinematic-creating-charismatic-clips-with-wmm/"><u>In 2024, From Concept to Cinematic Creating Charismatic Clips with WMM</u></a></li>
+<li><a href="https://driver-install.techidaily.com/installing-m2-nvme-driver/"><u>Installing M.2 NVMe Driver</u></a></li>
+<li><a href="https://windows11.techidaily.com/quiet-the-clicks-fixes-to-resurrect-spacebar-volume-control/"><u>Quiet the Clicks: Fixes to Resurrect Spacebar Volume Control</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/remove-the-login-pin-from-windows-vehicles-a-comprehensive-tutorial/"><u>Remove the Login Pin From Windows Vehicles: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionary-approaches-to-obtaining-windows-10-keys/"><u>Revolutionary Approaches to Obtaining Windows 10 Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-screen-no-pin-mastery-for-projector-mode-win11/"><u>Secure Screen, No-Pin Mastery for Projector Mode Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-experience-fixes-for-common-rainmeter-issues/"><u>Streamlining Your Experience: Fixes for Common Rainmeter Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-ftdibussys-impact-on-windows-memory-reliability/"><u>Understanding ftdibus.sys: Impact on Windows Memory Reliability</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-esd-mastery-achieving-conversion-to-iso-format/"><u>Windows ESD Mastery: Achieving Conversion to ISO Format</u></a></li>
+<li><a href="https://blog-min.techidaily.com/wmvvlcwindows-1110/"><u>WMVファイルをVLCメディアプレーヤー上でWindows 11/10で再生するための解決方法</u></a></li>
 </ul></div>
 

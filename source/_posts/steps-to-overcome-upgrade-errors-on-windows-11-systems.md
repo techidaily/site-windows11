@@ -1,7 +1,7 @@
 ---
 title: Steps to Overcome Upgrade Errors on Windows 11 Systems
-date: 2024-09-08T22:23:45.011Z
-updated: 2024-09-15T18:09:11.099Z
+date: 2024-09-14T16:05:04.577Z
+updated: 2024-09-20T16:46:06.235Z
 tags:
   - windows10
   - windows11
@@ -62,13 +62,6 @@ Additionally, you may also see the following error:
 
  In general, installing Windows using the newer UEFI mode is recommended as it comes with more security features such as Secure Boot than the legacy BIOS mode. You can[learn more about BIOS](https://www.makeuseof.com/tag/the-bios-explained-boot-order-video-memory-saving-resets-and-optimum-defaults-si/) here.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Causes the "PC Can't Run Windows 11 Error?"
 
  This error occurs when you run the PC Health Check app to check if your PC supports Windows 11\. It may also occur when you try to install Windows 11 from the bootable flash drive or using the setup file from the mounted ISO.
@@ -83,16 +76,16 @@ Additionally, you may also see the following error:
 
  To fix this error, you should set the Boot Mode to UEFI and enable Secure Boot, and then make sure TPM 1.2/2.0 is enabled on your computer. Please note that the tab names may vary between manufacturers, but the instructions should translate roughly across hardware.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Enable Secure Boot in Windows 10
 
 ![Enable Secure Boot UEFI Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Secure-Boot-enabled.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Follow these steps to enable Secure Boot compatibility in Windows 10.
 
@@ -107,23 +100,9 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 
  Once you have enabled Secure Boot and UEFI in Boot Mode, make sure TPM 1.2/2.0 is also enabled for your PC. So, don't close the BIOS setup menu yet.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Enable TMP 1.2/2.0 to fix the "This PC Can't Install Windows 11 Error"
 
 ![Enable Trusted Platform Module](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Enable-TPM-2-0-BIOS.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  TMP 1.2/2.0 feature is accessible from the BIOS setup as well. Here's how to do it.
 
@@ -133,6 +112,13 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 4. Save the changes and exit.
 
  That's it. You have successfully enabled Secure Boot compatibility and TMP 2.0 on Windows 10\. Restart your PC, run the PC Health Checkup tool, or install Windows 11 to see if the error is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Bypass TPM 2.0 and Secure Boot Requirement Using Registry Editor
 
@@ -152,6 +138,14 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 6. Right-click on the newly created value and select**Modify** .  
 ![registry editor mosetup new value 1 bypass windows 11 restriction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-mosetup-new-value-1-bypass-windows-11-restriction.jpg)
 7. In the Value data field, type**1** and click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Close the Registry Editor and try to install Windows 11 using the media creation tool or ISO. The upgrade should complete without the error.
 
  If the issue persists, read our guide to[bypass Windows 11 minimum installation requirements](https://www.makeuseof.com/bypass-windows-11-minimum-installation-requirements/) to learn more ways to bypass the restrictions and upgrade your PC.
@@ -165,6 +159,13 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
  Once you have converted the drive, you can change the Boot Mode from Legacy to UEFI without the No Boot Device Found error. Alternatively, if you are going to clean install Windows 11, make sure to install Windows 11 (or Windows 10) in the UEFI mode to prevent any issues in the future.
 
  If the bootable drive does not show up in the Boot Manager after enabling Secure Boot, ensure it is formatted with the UEFI system in Rufus. If not, create a bootable drive again with the target system set to UEFI (CMS).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing the This PC Can't Run Windows 11 Error
 
@@ -185,20 +186,20 @@ Follow these steps to enable Secure Boot compatibility in Windows 10.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-craft-digital-laughter-kapwing-meme-maker/"><u>[Updated] Craft Digital Laughter – Kapwing Meme Maker</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-screen-recording-simplified-review-insights/"><u>[Updated] Screen Recording Simplified Review Insights</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-reinstating-normalcy-regain-your-fb-account/"><u>2024 Approved Reinstating Normalcy Regain Your FB Account</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-lenovo-thinkphone-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-samsung-galaxy-a14-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Samsung Galaxy A14 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-oppo-reno-8t-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Oppo Reno 8T Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://windows11.techidaily.com/keeping-taskmanager-visible-above-others/"><u>Keeping TaskManager Visible Above Others</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-file-flow-effective-win11-disk-management/"><u>Mastering File Flow: Effective Win11 Disk Management</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-friend-connect-fixes-for-win11s-steam/"><u>Mastering Friend Connect Fixes for Win11's Steam</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-volume-mixer-windows-11-sounds-configuration-steps/"><u>Mastering the Volume Mixer: Windows 11 Sounds Configuration Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-file-archives-cli-mastery-in-windows/"><u>Navigating File Archives: CLI Mastery in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/reclaiming-defaults-in-win11-command-prompt/"><u>Reclaiming Defaults in Win11 Command Prompt</u></a></li>
-<li><a href="https://windows11.techidaily.com/reimagine-windows-task-execution-via-enhanced-run-toolkit-implementation/"><u>Reimagine Windows Task Execution via Enhanced Run Toolkit Implementation</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/russian-math-breakdown-for-beginners/"><u>Russian Math Breakdown for Beginners</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/transform-your-gopro-footage-easy-editing-tips-and-tricks/"><u>Transform Your GoPro Footage Easy Editing Tips and Tricks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-epic-encounters-a-selection-of-supreme-7-total-war-conflicts/"><u>[New] In 2024, Epic Encounters A Selection of Supreme 7 Total War Conflicts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-attenuating-audio-gradually-in-fl-projects/"><u>[Updated] Attenuating Audio Gradually in FL Projects</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/anthem-of-adventure-engaging-sci-fi-action-and-humor-in-the-outer-worlds/"><u>Anthem of Adventure: Engaging Sci-Fi Action and Humor in The Outer Worlds</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-xiaomi-redmi-note-13-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi Redmi Note 13 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-15-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 15 Pro Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/hacking-facebook-fast-profile-discovery-methods/"><u>Hacking Facebook Fast Profile Discovery Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-repair-and-resolve-msodll-file-missing-error-on-your-pc/"><u>How to Repair and Resolve mso.dll File Missing Error on Your PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sleepy-sequences-examining-bedtime-story-video-adaptations/"><u>In 2024, Sleepy Sequences Examining Bedtime Story Video Adaptations</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-chatgpt-more-accurate-than-traditional-horoscopes-in-forecasting-the-future/"><u>Is ChatGPT More Accurate than Traditional Horoscopes in Forecasting the Future?</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximize-print-speed-on-windows-devices/"><u>Maximize Print Speed on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-failed-nvidia-connect-attempts-on-windows-11-pcs/"><u>Overcoming Failed Nvidia Connect Attempts on Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-empty-folder-puzzle-in-win-11/"><u>Overcoming the Empty Folder Puzzle in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamlessly-retrieve-content-from-a-shared-windows-space/"><u>Seamlessly Retrieve Content From a Shared Windows Space</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-reactivate-windows-11s-silent-wireless-hotspot/"><u>Strategies to Reactivate Windows 11'S Silent Wireless Hotspot</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-concealment-start-menu-command-hideout/"><u>The Art of Concealment: Start Menu Command Hideout</u></a></li>
 </ul></div>
 

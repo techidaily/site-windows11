@@ -1,7 +1,7 @@
 ---
 title: "Key Fixes for Creative Block: Photoshop Stuck in Windows 10/11"
-date: 2024-09-09T17:50:53.922Z
-updated: 2024-09-15T20:07:19.525Z
+date: 2024-09-13T21:12:39.125Z
+updated: 2024-09-20T20:23:41.243Z
 tags:
   - windows10
   - windows11
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 ![Adobe Photoshop processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-photoshop-processes.jpg)
 4. Select Adobe Photoshop background processes and click **End task** to terminate them. Disable all Photoshop processes you can find.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Turn Off Controlled Folder Access
 
  If controlled access is enabled on your PC, Photoshop might not be able to start because it can’t access certain protected folders. So, check if controlled folder access is on and disable it as follows:
@@ -60,20 +67,20 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 4. Click the switch for the **Controlled folder access** option to disable that setting if it’s turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Controlled Folder Access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/controlled-folder-access-option.jpg)
 5. Then try launching Adobe Photoshop with controlled folder access disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Your PC’s Display Adapter
@@ -90,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
  You can always re-enable the graphics adapter when you’re not utilizing Photoshop. To do so, right-click your graphics card in Device Manager and select Enable device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Clear Photoshop’s Font Cache
 
  A corrupted font cache is another potential cause for Adobe Photoshop not starting on your PC. Deleting the CT Font Cache folder will remedy that by clearing corrupted cache data. This is how you can clear Photoshop’s font cache like this:
@@ -105,6 +105,14 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 2. Then type **%AppData%** into Run and press **Enter** to open a Roaming directory.  
 ![The Roaming subfolder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-roaming-subfolder.jpg)
 3. Open the Adobe > Photoshop subfolders from the Roaming directory.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Right-click the CT Font Cache subfolder and select **Delete** (the trash can on Windows 11's context menu).  
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-delete-option4.jpg)
 5. Double-click the Recycle Bin desktop shortcut and select **Empty Recycle Bin**.
@@ -117,31 +125,11 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
  When you’ve uninstalled Photoshop, restart your PC. Then open the Adobe Creative Cloud app. Install Adobe Photoshop from the Creative Cloud app.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Edit Your Images in Adobe Photoshop Again
 
  The potential resolutions covered in this guide are widely confirmed to fix Adobe Photoshop not opening on Windows 11/10\. That doesn’t mean they will fix all cases of Photoshop not opening, but one of them will probably kick-start that image editor on your PC. Then you can get back to editing your photographs with the best image editor in the world.
 
  Either way, users can’t utilize Photoshop when it doesn’t open in Windows 10 or 110\. Are you among those users who need to kick-start Photoshop? If you are, try applying these potential fixes for Adobe Photoshop 2021-2023 not launching on Windows 10 and 11 PCs.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-14-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on 14</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-how-to-create-vintage-videos-a-comprehensive-tutorial/"><u>In 2024, How to Create Vintage Videos A Comprehensive Tutorial</u></a></li>
-<li><a href="https://facebook.techidaily.com/pioneers-pushing-boundaries-triggering-discord/"><u>Pioneers Pushing Boundaries, Triggering Discord</u></a></li>
-<li><a href="https://windows11.techidaily.com/polishing-windows-11-backgrounds-for-eye-pleasure/"><u>Polishing Windows 11 Backgrounds for Eye Pleasure</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoration-of-microsoft-store-applications-in-1011-systems/"><u>Restoration of Microsoft Store Applications in 10/11 Systems</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-10-best-spy-watches-for-your-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Top 10 Best Spy Watches For your Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/transform-your-pc-audio-with-a-fresh-windows-driver-installation/"><u>Transform Your PC Audio With a Fresh Windows Driver Installation</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/vanguard-enterprises-of-spatial-display-tech/"><u>Vanguard Enterprises of Spatial Display Tech</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-strategies-for-ms-teams-error-80080300/"><u>Win11 Strategies for MS Teams Error 80080300</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -150,3 +138,24 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-dive-into-the-world-of-youtube-on-facebook-video-content/"><u>[New] 2024 Approved Dive Into the World of YouTube on Facebook Video Content</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-a-complete-look-at-color-correction-for-gopro-videos/"><u>[New] A Complete Look at Color Correction for GoPro Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-secrets-unveiled-the-ultimate-guide-to-recording-games/"><u>[Updated] 2024 Approved Secrets Unveiled The Ultimate Guide to Recording Games</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-channeling-success-navigating-the-new-youtube-membership-model/"><u>2024 Approved Channeling Success Navigating the New YouTube Membership Model</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-solve-the-wslregisterdistribution-failed-with-error-0x80370102-issue-in-windows/"><u>How to Solve the WslRegisterDistribution Failed With Error 0X80370102 Issue in Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-90-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor 90 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-error-code-windows-0x80242016/"><u>Navigating Through Error Code: Windows 0X80242016</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-fps-in-csgo-on-windows-platforms/"><u>Optimize FPS in CS:GO on Windows Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/streaming-star-status-buttons-and-growth-accolades-for-2024/"><u>Streaming Star Status - Buttons & Growth Accolades for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-file-sending-routine-on-dual-systems/"><u>Streamlining Your File Sending Routine on Dual Systems</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-art-of-audio-mastery-with-iphones-voice-recording/"><u>The Art of Audio Mastery with iPhone's Voice Recording</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformar-videos-en-imagenes-tecnicas-profesionales-con-la-ayuda-de-movavi-en-tu-pc/"><u>Transformar Vídeos en Imágenes: Técnicas Profesionales Con La Ayuda De Movavi en Tu PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/transitioning-to-windows-11-escape-the-common-pitfalls-top-8/"><u>Transitioning to Windows 11: Escape the Common Pitfalls (Top 8)</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-fix-remedy-for-invalid-file-history-error/"><u>Windows Fix: Remedy for Invalid File History Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-strategy-eliminating-a-disks-segmented-blocks/"><u>Winning Strategy: Eliminating a Disk's Segmented Blocks</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Memory Diagnostic Failures
-date: 2024-09-14T21:15:26.713Z
-updated: 2024-09-15T16:37:36.266Z
+date: 2024-09-15T17:50:01.939Z
+updated: 2024-09-20T21:30:39.802Z
 tags:
   - windows10
   - windows11
@@ -67,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 
  If repairing the slots is not possible, your only option is a motherboard replacement. Depending on your system configuration, this can be an expensive solution. Or you can continue to use the system without utilizing the faulty memory slot, albeit with reduced performance.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Test Your RAM with MemTest86+
 
  If the troubleshooter fails to detect any issue, you can perform a memory test using the MemTest86+ utility. It is an open-source memory testing tool to check for fails in your computer memory.
@@ -83,30 +90,24 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 ![memtest86 plus create bootable usb drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/memtest86-plus-create-bootable-usb-drive.jpg)
 4. Click **Next** and wait for the installer to create a bootable drive.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Next, if you haven’t already, [disable Secure Boot on your Windows computer](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/).
 6. Next, power off your computer. You may also need to clear your motherboard CMOS to reset your BIOS to factory default settings. You can also [reset BIOS to its default configuration](https://www.makeuseof.com/tag/reset-bios-default-settings-computer/) from the BIOS menu.  
 ![memtest86 plus memory integrity test in progress](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/memtest86-plus-memory-integrity-test-in-progress.png)
 7. Next, plug the Memtest86+ bootable USB drive into your computer and turn it on.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Boot into the Boot Menu and select the bootable USB drive as the boot device. The hotkey key to enter the Boot Menu may vary depending on your computer manufacturer. You can press **F9** on an **HP** computer, **F12** on a **Dell** computer and so on to access the **Boot Menu**.
 9. Memtest86+ will automatically start the memory integrity check. Let Memtest86+ complete at least 2 passes; the more, the better. Press the **Esc** key to stop the test if there are no errors after multiple passes.
 
  If an error is detected during testing, it is likely a case of faulty RAM and may need replacement. But to be on the safer side, ensure you test each RAM separately to find the odd one out.
 
  Not all the errors detected by the Memtest86+ are due to faulty hardware. Some errors may occur due to compatibility issues. Check your RAM module and the motherboard specifications to determine any compatibility issues. You can also test the RAM modules by inserting them into a different motherboard and see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Perform a Repair Reinstall or Clean Install Windows
 
@@ -122,22 +123,6 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 
  This error can be a false positive. You can also confirm the same by using a third-party memory diagnostic tool. In case of a hardware issue, you may need to replace the memory stick or repair the memory slot, if possible.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://video-capture.techidaily.com/new-essential-guide-to-premium-free-phone-video-chat-apps-iosandroid-for-2024/"><u>[New] Essential Guide to Premium-Free Phone Video Chat Apps - iOS/Android for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-swiftly-adapt-video-formats-for-mac-pixels/"><u>[Updated] Swiftly Adapt Video Formats for MAC Pixels</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-app-complaint-net-core-install-required-on-windows/"><u>Fixing App Complaint: .NET Core Install Required on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-open-sticky-notes-at-startup-on-windows/"><u>How to Open Sticky Notes at Startup on Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-asus-rog-phone-7-ultimate-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Asus ROG Phone 7 Ultimate to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-the-art-of-inverted-investigation-finding-true-sources-on-instagram-photos/"><u>In 2024, The Art of Inverted Investigation Finding True Sources on Instagram Photos</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-essential-guide-to-building-youtube-music-playlists/"><u>In 2024, The Essential Guide to Building YouTube Music Playlists</u></a></li>
-<li><a href="https://windows11.techidaily.com/powershell-expertise-uncovering-network-details-in-windows/"><u>PowerShell Expertise: Uncovering Network Details in Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-fix-list-for-6-prevalent-chatgpt-issues/"><u>The Ultimate Fix List for 6 Prevalent ChatGPT Issues</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-and-resolving-usb-connection-errors-on-260ci-wia-drives/"><u>Troubleshooting and Resolving USB Connection Errors on 260CI WiA Drives</u></a></li>
-<li><a href="https://windows11.techidaily.com/winerror-woes-be-gone-fixing-oculus-app-for-winxc/"><u>WinError Woes Be Gone: Fixing Oculus App for WinXC</u></a></li>
-<li><a href="https://windows11.techidaily.com/wsl-and-the-surge-in-linux-popularity/"><u>WSL and the Surge in Linux Popularity</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -145,3 +130,24 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-maximizing-speed-with-top-pc-monitor-controls/"><u>[New] Maximizing Speed with Top PC Monitor Controls</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-a-game-changer-for-gamers-easy-5-ways-to-capture-your-minecraft-adventures-mac/"><u>[Updated] In 2024, A Game Changer for Gamers Easy 5 Ways to Capture Your Minecraft Adventures (Mac)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-hitting-the-high-notes-of-youtube-editing-audio-addition-secrets-revealed/"><u>[Updated] In 2024, Hitting the High Notes of YouTube Editing Audio Addition Secrets Revealed</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comparing-sound-quality-google-nest-audio-vs-apple-homepod-showdown/"><u>Comparing Sound Quality: Google Nest Audio Vs. Apple HomePod Showdown</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-craft-an-engaging-solo-auditory-adventure/"><u>How to Craft an Engaging Solo Auditory Adventure</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-max-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro Max to Android? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://windows11.techidaily.com/ramping-up-vram-in-windows-a-comprehensive-guide-for-gaming/"><u>Ramping Up VRAM in Windows - A Comprehensive Guide for Gaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-bios-secure-boot-a-step-by-step-guide-for-windows-users/"><u>Reviving BIOS Secure Boot: A Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719818065530-reviving-the-gone-display-on-my-laptop/"><u>Reviving the Gone Display on My Laptop!</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-content-unreachable-issue-with-steam-desktop-client/"><u>Solving Content Unreachable Issue with Steam Desktop Client</u></a></li>
+<li><a href="https://win-able.techidaily.com/starfield-pc-stability-issues-solved-end-those-frustrating-crashes/"><u>Starfield PC Stability Issues Solved – End Those Frustrating Crashes!</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-the-top-8-timers-for-effective-pomodoro/"><u>The Ultimate Guide to the Top 8 Timers for Effective Pomodoro</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncomplicated-upgrade-the-essence-of-windows-11-installation/"><u>Uncomplicated Upgrade: The Essence of Windows 11 Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-best-matched-nvidia-drivers-gaming-studios/"><u>Unveiling Best Matched Nvidia Drivers – Gaming, Studios</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11-solutions-for-unzipped-files-woes/"><u>Win 11: Solutions for Unzipped Files Woes</u></a></li>
+</ul></div>
+

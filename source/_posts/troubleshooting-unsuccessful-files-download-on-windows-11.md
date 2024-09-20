@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unsuccessful Files Download on Windows 11
-date: 2024-09-14T19:36:07.653Z
-updated: 2024-09-15T16:06:46.878Z
+date: 2024-09-13T16:06:22.819Z
+updated: 2024-09-20T17:03:56.788Z
 tags:
   - windows10
   - windows11
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 6. Select a folder on your PC’s C: drive and click **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Then click **Yes** on the logoff prompt.
@@ -85,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 ![full-scan-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-scan-options.jpg)
 5. Select **Start actions** to eradicate detected malware.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Disable Any Active Third-Party Antivirus Utilities
 
  Third-party antivirus apps shouldn't stop you from downloading any files. However, they can interfere with downloads when set to the highest protection settings. To check if a third-party security app is causing this issue, right-click on its antivirus system tray icon and select an option for temporarily disabling its shield. Then try to download a file in your browser again.
@@ -99,32 +92,26 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this works, you can’t risk leaving antivirus protection off for too long. Consider uninstalling your antivirus utility and re-enabling real-time protection in the pre-installed Windows Security app. Or look for some settings in your security software to reduce the level of its antivirus protection.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Temporarily Turn Off the Windows Firewall Utility
 
  Windows Defender Firewall is a security utility that monitors inbound and outbound network traffic on your PC. This tool can affect file downloads when set to block connections. So, try [turning off Windows Defender Firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) to see if that makes a difference.
 
 ![The Turn off Windows Defender Firewall (not recommended) radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-firewall-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If disabling Windows Defender Firewall works, it’s not a good idea to leave it off. Resetting that firewall to its default configuration will likely disable the rules causing the issue. To do that, click the **Restore defaults** in the Windows Defender Firewall Control Panel applet. Then click the **Restore defaults** button.
 
@@ -140,14 +127,15 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 2. Click **Reset settings** in the sidebar.  
 ![The Reset settings tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-settings-tab.jpg)
 3. Press the **Restore settings** button.
-4. Click **Reset** inside the confirmation prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Click **Reset** inside the confirmation prompt.
 
 ## 9\. Factory Reset Window
 
@@ -157,6 +145,13 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 ![The Reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-this-pc.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Download Files Again on Your Windows PC
 
  Those potential resolutions will address most of the possible causes for your Windows browsers not downloading files when there’s nothing wrong with your internet connection. Go through all those troubleshooting methods to find one that fixes files not downloading on your PC.
@@ -165,24 +160,6 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
  Not being able to download files with browsers is a serious Windows issue. If you can’t download files with Edge or any other of your installed browsers, this is how you can fix files not downloading on a Windows 10 or 11 PC.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/best-free-no-invasive-android-video-recorders-for-2024/"><u>Best Free, No-Invasive Android Video Recorders for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-remove-tiktok-watermarks-with-ease-best-online-solutions/"><u>In 2024, Remove TikTok Watermarks with Ease Best Online Solutions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/master-level-solutions-keeping-your-risk-of-rain-2-game-running-smoothly/"><u>Master Level Solutions: Keeping Your Risk of Rain 2 Game Running Smoothly</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-comic-files-on-win11-a-step-by-step-guide/"><u>Navigating Comic Files on Win11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-the-storm-understanding-why-security-challenges-in-generative-ai-are-getting-worse/"><u>Navigating the Storm: Understanding Why Security Challenges in Generative AI Are Getting Worse</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-eliminating-common-anydesk-hurdles-on-windows/"><u>Quick Guide: Eliminating Common AnyDesk Hurdles on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/regain-control-over-your-wobbling-windows-arrows/"><u>Regain Control Over Your Wobbling Windows Arrows</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-windows-11s-hidden-mac-pathways/"><u>Unraveling Windows 11'S Hidden MAC Pathways</u></a></li>
-<li><a href="https://windows11.techidaily.com/unwanted-file-explorer-freezes-try-these-quick-fixes-on-win11/"><u>Unwanted File Explorer Freezes? Try These Quick Fixes on Win11</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-online-video-montage-makers-for-trailers/"><u>Updated Best Online Video Montage Makers for Trailers</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-mac-video-cutting-made-simple-quick-tips-for-efficient-editing-for-2024/"><u>Updated Mac Video Cutting Made Simple Quick Tips for Efficient Editing for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-tutorial-enable-tablet-taskbar/"><u>Windows 11 Tutorial: Enable Tablet Taskbar</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -190,3 +167,19 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-avoid-shaky-footage-proper-tripod-usage-techniques-in-vlog-creation/"><u>[New] In 2024, Avoid Shaky Footage Proper Tripod Usage Techniques in Vlog Creation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-top-11-screen-recorder-programs-for-mac/"><u>[Updated] The Top 11 Screen Recorder Programs for Mac</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/te-video-engagement-top-7-free-thumbnail-design-tools/"><u>Elevate Video Engagement Top 7 Free Thumbnail Design Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-motorola-g24-power-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Motorola G24 Power</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mercedes-benz-introduces-chatgpt-with-voice-control-to-its-vehicles/"><u>Mercedes-Benz Introduces ChatGPT With Voice Control to Its Vehicles</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimal-settings-where-to-store-your-games-on-xbox/"><u>Optimal Settings: Where to Store Your Games on Xbox</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/professional-photoshop-practices-for-facial-pixelation-for-2024/"><u>Professional Photoshop Practices for Facial Pixelation for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/reaching-peak-performance-in-windows-gaming/"><u>Reaching Peak Performance in Windows Gaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-need-old-password-warning-on-win11win11-os/"><u>Resolving “Need Old Password” Warning on Win11/Win11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-win-11-challenge-reversing-the-operation-elevation-mistake/"><u>Tackling the Win 11 Challenge: Reversing the Operation Elevation Mistake</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204732927-tips-for-successful-smartaudio-activation-after-initial-failures-resolved/"><u>Tips for Successful SmartAudio Activation After Initial Failures - Resolved!</u></a></li>
+</ul></div>
+

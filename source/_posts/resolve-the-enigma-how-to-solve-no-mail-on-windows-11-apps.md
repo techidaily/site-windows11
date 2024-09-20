@@ -1,7 +1,7 @@
 ---
 title: "Resolve the Enigma: How to Solve No Mail on Windows 11 Apps"
-date: 2024-09-13T23:45:36.651Z
-updated: 2024-09-15T17:36:07.551Z
+date: 2024-09-18T20:28:49.499Z
+updated: 2024-09-20T19:05:59.165Z
 tags:
   - windows10
   - windows11
@@ -43,23 +43,9 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 
  As mentioned earlier, incorrect date and time settings can also be a prime reason behind the Mail error. If it's wrong, check out[how to change the date and time on Windows](https://www.makeuseof.com/windows-11-change-date-time/) .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Allow Mail Through the Windows Firewall
 
  If the Mail app is blocked under the Windows Firewall settings, it will fail to fetch emails and show the "System error can't get mail" error. To fix this, you'll have to[allow the Mail app to run through the Windows Firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Update Windows
 
@@ -68,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 ![Check for Updates option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-updates-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use the Windows Update Troubleshooter
@@ -83,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 ![The Run button for the Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-run-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Next, go through the troubleshooter and apply all suggestions to fix the problem.
@@ -100,10 +86,25 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 3. Enable the toggle next to**Email access** .  
 ![Email access toggle in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/email-access.jpg)
 4. Click the drop-down icon next to**Let apps access your email** to view its expanded options.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Enable the toggle next to**Mail and Calendar** .  
 ![Mail and Calendar toggle in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/mail-and-calendar-toggle.jpg)
 
 Now, restart your system and check for the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Repair and Reset the Mail App
 
@@ -122,10 +123,10 @@ Now, restart your system and check for the issue.
 ![Reset option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use the Mail App to Access Your Emails Again on Windows
@@ -149,19 +150,15 @@ Now, restart your system and check for the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-detailed-guide-instastickers-your-pathway-to-musical-posting/"><u>[New] Detailed Guide InstaStickers – Your Pathway to Musical Posting</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/treaming-success-seekers-deciphering-the-platform-winner-vimeo-vs-youtubeplusdailymotion-in-2024/"><u>[New] Streaming Success Seekers Deciphering The Platform Winner - Vimeo vs YouTube+Dailymotion, In 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expanding-textual-arsenal-in-after-effects/"><u>[Updated] Expanding Textual Arsenal in After Effects</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-windows-snap-shotting-simplified/"><u>[Updated] In 2024, Windows Snap Shotting Simplified</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/harmony-achieved-nvidia-7025-in-windows-10/"><u>Harmony Achieved: Nvidia 7025 in Windows 10</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/lightweight-obs-adjustments-for-thriftier-systems/"><u>Lightweight OBS Adjustments for Thriftier Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-language-diversity-windows-font-download/"><u>Navigating Language Diversity: Windows Font Download</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-the-maze-of-print-error-xfffee/"><u>Navigating Through the Maze of Print Error XFFFEE</u></a></li>
-<li><a href="https://windows11.techidaily.com/redefining-privileges-for-non-administrative-windows-users/"><u>Redefining Privileges for Non-Administrative Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-reverse-text-entry-in-windows-systems/"><u>Remedying Reverse Text Entry in Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-windows-update-error-code-x8024a205/"><u>Resolving Windows Update: Error Code X8024A205</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-strategy-for-concealing-the-search-bar-on-taskbar/"><u>The Strategy for Concealing the Search Bar on Taskbar</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-notch-techniques-for-saving-online-radio-broadcasts-for-2024/"><u>Top-Notch Techniques for Saving Online Radio Broadcasts for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-why-isnt-my-thaumaturge-game-starting-on-windows/"><u>Troubleshooting Steps: Why Isn't My Thaumaturge Game Starting on Windows?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/dive-into-smartwatch-excellence-with-our-review-of-the-classic-styled-tech-forward-skagen-falster-3/"><u>Dive Into Smartwatch Excellence with Our Review of the Classic-Styled, Tech-Forward Skagen Falster 3</u></a></li>
+<li><a href="https://tools.techidaily.com/eltima/products/"><u>Eltima's Products</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-vivo-x-fold-2-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Vivo X Fold 2 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-find-x7-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find X7 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-lava-blaze-pro-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Lava Blaze Pro 5G FRP</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboardmouse-wake-issues-in-windows-11/"><u>Keyboard/Mouse Wake Issues in Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/laugh-ledger-pinpointing-prime-meme-generators-for-2024/"><u>Laugh Ledger Pinpointing Prime Meme Generators for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-nddrive-mapping-in-win11-effortlessly/"><u>Master NDDrive Mapping in Win11 Effortlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-your-words-real-time-speech-to-text-with-whisper/"><u>Master Your Words: Real-Time Speech-to-Text with Whisper</u></a></li>
+<li><a href="https://windows11.techidaily.com/regaining-lost-plans-windows-11-power-reset/"><u>Regaining Lost Plans: Windows 11 Power Reset</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows Crashes Due to 0X0000011B Errors
-date: 2024-09-13T17:55:54.175Z
-updated: 2024-09-15T19:16:30.251Z
+date: 2024-09-19T17:24:28.592Z
+updated: 2024-09-20T16:52:35.651Z
 tags:
   - windows10
   - windows11
@@ -86,13 +86,6 @@ To check and install Windows updates:
 
  Your newly added printer will now appear under**Device and Printer** in**Control Panel** and the**Settings** app. Give a new print job to see if the error is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Disable the CVE-2021-1678 Registry Fix
 
  The problematic security update included a security fix to patch the Printer Spooler Spoofing vulnerability dubbed CVE-2021-1678\. However, the new changes seem to have triggered the 0x0000011B operation failed error.
@@ -114,16 +107,23 @@ Next, follow these steps to disable CVE-2021-1678 mitigation:
 6. Right-click on the**RpcAuthnLevelPrivacyEnabled** value and select**Modify** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Type**0** in the**Value data** field and click**OK** to save the changes.  
 ![registry editor modify rpcauthlevelprivacyenabled 0 disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled-0-disabled.jpg)
 8. Close**Registry Editor** and restart your PC to apply the changes.
 9. After the restart, try to use your shared printer and check if the error is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Uninstall Recently Installed Updates
 
@@ -141,10 +141,10 @@ To uninstall Windows updates:
 4. Click on**View installed updates** under**Programs and Features** . This will open the**Uninstall updates** section in the**Settings** app. Alternatively, go to **Settings > Windows Update > Update history > Uninstall updates** to access the same.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![uninstall windows updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-windows-updates.jpg)
@@ -170,14 +170,18 @@ To uninstall Windows updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-sifting-through-the-differences-igtv-vs-youtube-in-a-direct-comparison-for-2024/"><u>[Updated] Sifting Through the Differences IGTV Vs. YouTube in a Direct Comparison for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-streamlining-content-creation-with-youtube-rules/"><u>[Updated] Streamlining Content Creation with YouTube Rules</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/elite-selection-the-premier-smart-glasses-on-the-market/"><u>Elite Selection: The Premier Smart Glasses on the Market</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/how-to-amplify-your-social-media-reach-through-judicious-use-of-hash-tags-on-facebook-for-2024/"><u>How to Amplify Your Social Media Reach Through Judicious Use of Hash Tags on Facebook for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-motorola-edge-2023-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Motorola Edge 2023 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-friend-connect-fixes-for-win11s-steam/"><u>Mastering Friend Connect Fixes for Win11's Steam</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-volume-mixer-windows-11-sounds-configuration-steps/"><u>Mastering the Volume Mixer: Windows 11 Sounds Configuration Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/reimagine-windows-task-execution-via-enhanced-run-toolkit-implementation/"><u>Reimagine Windows Task Execution via Enhanced Run Toolkit Implementation</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-issues-stop-resident-evil-4-remake-from-frequently-crashing/"><u>Resolving Issues: Stop Resident Evil 4 Remake From Frequently Crashing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-download-fb-links-8-free-online-tools/"><u>[New] Download FB Links 8 FREE, Online Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-achieve-youtube-profitability-the-milestone-of-500plus-subscribers-unlocked/"><u>[Updated] In 2024, Achieve Youtube Profitability The Milestone of 500+ Subscribers Unlocked</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-how-to-skillfully-secure-and-save-gif-images-from-facebooks-domain/"><u>[Updated] In 2024, How To Skillfully Secure and Save GIF Images From Facebook's Domain</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-step-by-step-guide-to-video-aspect-ratio-selection/"><u>2024 Approved A Step-by-Step Guide to Video Aspect Ratio Selection</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-read-only-files-windows-strategies-for-recovery/"><u>Fixing Read-Only Files: Windows Strategies for Recovery</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-adjusting-taskbar-width-on-win11/"><u>Guide to Adjusting Taskbar Width on Win11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-itel-s23plus-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Itel S23+ Phone that is Locked?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-a79-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo A79 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-itel-a70-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Itel A70</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-connecting-to-websites-on-win-10/"><u>Quick Guide: Connecting to Websites on Win 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-non-functional-speakerheadphone-connections-in-windows/"><u>Tackling Non-Functional Speaker/Headphone Connections in WINDOWS</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-tips-to-open-computer-management-interface/"><u>Troubleshooting Tips to Open Computer Management Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-how-much-electricity-a-windowed-computer-guzzles/"><u>Understanding How Much Electricity a Windowed Computer Guzzles</u></a></li>
 </ul></div>
 

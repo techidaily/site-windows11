@@ -1,7 +1,7 @@
 ---
 title: "Mastering Ping: Usage & Timing on Windows Systems"
-date: 2024-09-14T19:25:40.032Z
-updated: 2024-09-15T23:14:31.389Z
+date: 2024-09-15T17:55:09.138Z
+updated: 2024-09-20T20:07:29.450Z
 tags:
   - windows10
   - windows11
@@ -53,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
  Besides this basic parameter required for the Ping test to execute correctly, you can also use other parameters listed on the [Microsoft website](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ping) to customize the test further.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use the Ping Command on Windows
 
  To run the ping command on Windows, follow the steps below:
@@ -70,36 +63,29 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 3. Type the following command after entering the IP address or domain name of the server you wish to ping: Ping <targetname>
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Press **Enter** and let your device ping the server four times. Then, it will compile the results.  
 ![Running the ping command in Windows PowerShell.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-ping-command-in-windows-powershell.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, you can perform the test in Command Prompt. Simply press **Win + R,** type **“cmd**,**”** and click **OK**. Then, type the command and press Enter.
 
 ![Running the Command Prompt app from the Run dialog box in Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-command-prompt-app-from-the-run-dialog-box-in-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you are an administrator of a locked corporate-owned PC, you might need to run PowerShell or Command Prompt with administrative privileges to run the ping test. To do so, type **"Command Prompt"** or **"PowerShell"** in Windows Search, right-click on the utility, and select **"Run as administrator**.**"**
 
 ![Running the Windows PowerShell as an administrator on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-windows-powershell-as-an-administrator-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then, click **"Yes"** in the **UAC (User Account Control)** window.
 
@@ -113,11 +99,37 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
  If the ping doesn't go through correctly in the test, and you see a "request timed out" error, it indicates an issue with your internet connection.
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How Do You Stop the Ping Command?
 
  The ping command supports a "/t" parameter that specifies that it should continue sending echo requests to the destination server until interrupted. If you use this parameter when running the ping test, your device keeps pinging the specified server until you manually stop the test. To stop an ongoing ping test, you can press **Ctrl + C** or press **Ctrl + Enter** to stop and display the data.
 
 ![Stopping the ping test to analyze results in Windows Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-stop-the-ping-test-by-pressing-ctrl-c-keys-in-windows-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Can the Ping Command Do for You?
 
@@ -129,22 +141,6 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
  Besides the ping command, you can also [use other CMD commands to manage your wireless networks](https://www.makeuseof.com/tag/commands-manage-wireless-networks-windows/) effectively.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-retrieve-your-voice-on-youtube-comments/"><u>[New] In 2024, How To Retrieve Your Voice on YouTube (Comments)</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-guide-what-to-do-when-you-encounter-a-missing-d3dx939dll-error-message/"><u>Fix Guide: What to Do When You Encounter a Missing d3dx9_39.dll Error Message</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-an-ipad-that-wont-connect-to-wi-fi/"><u>How to Fix an iPad That Won't Connect to Wi-Fi</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-redmi-k70-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Xiaomi Redmi K70</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-login-fixes-for-denied-users/"><u>Mastering Windows Login Fixes for Denied Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/quickly-resolve-the-notorious-windows-update-bug-0x80070002/"><u>Quickly Resolve the Notorious Windows Update Bug 0X80070002</u></a></li>
-<li><a href="https://windows11.techidaily.com/skip-past-stalled-wow-65-updates-on-pc/"><u>Skip Past Stalled WoW 6.5 Updates on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-to-fixed-outlooks-non-previewable-files-problem/"><u>Solutions to Fixed Outlook's Non-Previewable Files Problem</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/user-guide-to-navigating-the-apple-books-digital-library/"><u>User Guide to Navigating the Apple Books Digital Library</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -152,3 +148,21 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-cutting-edge-zoom-recording-techniques/"><u>[New] In 2024, Cutting-Edge Zoom Recording Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-crafting-gentle-volume-declines-in-premiere-pro-videos-for-2024/"><u>[Updated] Crafting Gentle Volume Declines in Premiere Pro Videos for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-platform-comparison-iphone-vs-android-youtube-viewing/"><u>Cross-Platform Comparison IPhone vs Android YouTube Viewing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-red-magic-8s-proplus-by-fonelab-android-recover-video/"><u>How to recover old videos from your Red Magic 8S Pro+</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/intellectual-stimulation-through-foreign-words/"><u>Intellectual Stimulation Through Foreign Words</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/lunch-whole-grain-pasta-salad-with-cherry-tomatoes-artichoke-hearts-kalamata-olives-feta-cheese/"><u>Lunch: Whole Grain Pasta Salad with Cherry Tomatoes, Artichoke Hearts, Kalamata Olives, Feta Cheese</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-windows-photo-interface-with-keys/"><u>Master the Windows Photo Interface with Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-need-old-password-warning-on-win11win11-os/"><u>Resolving “Need Old Password” Warning on Win11/Win11 OS</u></a></li>
+<li><a href="https://fox-http.techidaily.com/shining-up-your-android-videos-effortlessly-for-2024/"><u>Shining Up Your Android Videos Effortlessly for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-win-11-challenge-reversing-the-operation-elevation-mistake/"><u>Tackling the Win 11 Challenge: Reversing the Operation Elevation Mistake</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11s-blanked-outspots-how-to-replace-them/"><u>Win 11'S Blanked Outspots: How to Replace Them</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-chrome-issues-jumpstart-solution-suggestions/"><u>Win11 Chrome Issues? Jumpstart Solution Suggestions.</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Guidelines for Fixing Windows 11 Support Tool
-date: 2024-09-13T16:11:20.950Z
-updated: 2024-09-15T23:17:49.202Z
+date: 2024-09-17T19:59:05.882Z
+updated: 2024-09-20T20:43:39.660Z
 tags:
   - windows10
   - windows11
@@ -73,16 +73,10 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 2. Choose the **Disconnect** button to turn off the VPN.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Similarly, you must [temporarily disable your proxy](https://www.makeuseof.com/windows-11-disable-proxy/) to troubleshoot the cause of your Get Help failing to work.
@@ -90,19 +84,6 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
  Remember to re-enable your VPN or proxy once you're done to ensure your online activities remain private and secure.
 
  Now you can open the Get Help app and check whether the content loads correctly. Try the following troubleshooting method if the Get Help app still displays a blank screen.
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Restart Windows Services
 
@@ -118,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 ![Diagnostic Policy Service Restart Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/diagnostic-policy-service-restart-option.jpg)
 5. Similarly, repeat the steps to restart the **Windows Management Instrumentation** service.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Install the Microsoft Edge WebView2 Runtime
 
  You may not know that the Get Help app is not a full-fledged Windows app. Instead, it's a simple web app that displays the in-app content from Microsoft's server. For this, the app uses something called Microsoft Edge WebView.
@@ -132,15 +120,22 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 3. Once you download the setup file, run it and follow the instructions.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. After installing the Microsoft Edge WebView2 Runtime, check if the Get Help app functions correctly.
 
  If you see an error saying "**Setup failed**," "please re-download the correct version again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Uninstall and Reinstall the Get Help App
 
@@ -149,13 +144,6 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
  For uninstallation, you can easily [uninstall a Windows app via Settings](https://www.makeuseof.com/ways-to-uninstall-apps-windows-11/). Once done, go to the [Get Help Microsoft Store page](https://apps.microsoft.com/store/detail/get-help/9PKDZBMV1H3T). Click on the **Get in Store app** button and download it from there.
 
 ![Get Help In Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-store.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A fresh installation should resolve all the issues with the app. And now, you can go back to troubleshooting without any hassle.
 
@@ -167,19 +155,6 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 
  So, let's look at how to fix the Get Help app issues on Windows and make the troubleshooting experience a breeze.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-making-every-frame-count-in-instagram-videos/"><u>[New] In 2024, Making Every Frame Count in Instagram Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-refining-zoom-image-precision-proactive-measures/"><u>[New] Refining Zoom Image Precision Proactive Measures</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-captivating-crafting-writing-intriguing-youtube-descriptions-with-templates-for-2024/"><u>[Updated] Captivating Crafting Writing Intriguing Youtube Descriptions with Templates for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-systems-blocked-app-barrier/"><u>Overcoming System's Blocked App Barrier</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/quick-guide-to-turkish-alphabet-an-essential-reading-companion/"><u>Quick Guide To Turkish Alphabet: An Essential Reading Companion</u></a></li>
-<li><a href="https://windows11.techidaily.com/remediation-of-sound-device-not-stopped-in-windows-os/"><u>Remediation of Sound Device Not Stopped in Windows OS</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/streamline-video-analytics-a-guide-to-youtube-statistics-with-social-blade-for-2024/"><u>Streamline Video Analytics A Guide to YouTube Statistics with Social Blade for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-and-resolving-win10win11-security-faults/"><u>Understanding & Resolving Win10/Win11 Security Faults</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-windows-sign-in-option-post-fail/"><u>Unlocking Windows Sign-In Option Post-Fail</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -187,3 +162,19 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-youtube-subtitled-content-download-without-paying-for-2024/"><u>[New] Free YouTube Subtitled Content Download Without Paying for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-understanding-du-recorder-through-this-guide/"><u>[New] In 2024, Understanding Du Recorder Through This Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/2024s-top-8-must-have-family-filter-services-and-applications/"><u>2024’S Top 8 Must-Have Family Filter Services and Applications</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-t2-pro-5g-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo T2 Pro 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/expert-smartphone-photo-and-film-capture-iphoneandroid-comparison-for-2024/"><u>Expert Smartphone Photo & Film Capture IPhone/Android Comparison for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unblock-and-install-unverified-windows-software/"><u>How to Unblock and Install Unverified Windows Software</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-honor-90-lite-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Honor 90 Lite to iPhone | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-establishing-erased-battery-mode-on-ws-11/"><u>Re-Establishing Erased Battery Mode on WS 11</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-microsoft-offices-0x80041015-problematic-error/"><u>Solutions to Microsoft Office's 0X80041015 Problematic Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-fix-for-msvcr120dll-non-existence-on-computers/"><u>The Ultimate Fix for MSVCR120.DLL Non-Existence on Computers</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-the-arp-cache-and-how-do-you-clear-it-on-windows/"><u>What Is the ARP Cache, and How Do You Clear It on Windows?</u></a></li>
+</ul></div>
+

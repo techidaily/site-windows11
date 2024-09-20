@@ -1,7 +1,7 @@
 ---
 title: "Time Traveling Your Data: Modifying Windows File Dates"
-date: 2024-09-10T18:39:34.793Z
-updated: 2024-09-15T20:37:26.910Z
+date: 2024-09-17T21:01:30.687Z
+updated: 2024-09-20T17:46:33.033Z
 tags:
   - windows10
   - windows11
@@ -110,16 +110,10 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 6. To remove selected properties, check the circle beside **Remove the following properties from this file**, select the attributes you want to remove, and click **OK**.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Modify Your File's Attributes With Ease
@@ -132,20 +126,6 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 
  If you don't want the receiver to know the actual file attributes, here's how to remove or modify them.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-gecata-watchers-complete-appraisal/"><u>[New] GECATA Watcher's Complete Appraisal</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-jumpstart-your-channelstopwatch-seeking-viewers-with-these-youtube-seo-essentials/"><u>[Updated] In 2024, Jumpstart Your Channel’stopwatch-Seeking Viewers with These YouTube SEO Essentials</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-quick-guide-applying-on-screen-captions-to-photos-videos/"><u>[Updated] Quick Guide Applying On-Screen Captions to Photos Videos</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-captivating-yt-cover-art-for-maximum-traffic/"><u>2024 Approved Captivating YT Cover Art for Maximum Traffic</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-setting-up-a-stream-discord-edition-101/"><u>2024 Approved Setting Up a Stream Discord Edition 101</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-keep-track-of-cortana-activities-on-windows/"><u>How to Keep Track of Cortana Activities on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-top-complaints-in-windows-11-review/"><u>Navigating Through Top Complaints in Windows 11 Review</u></a></li>
-<li><a href="https://windows11.techidaily.com/nexus-controller-woes-solved-steam-detection-guide/"><u>Nexus Controller Woes Solved: Steam Detection Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/seamless-integration-of-geforce-210-with-windows-10-os/"><u>Seamless Integration of GeForce 210 with Windows 10 OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-ownership-challenges-with-managed-windows-11-features/"><u>Solving Ownership Challenges with Managed Windows 11 Features</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -153,3 +133,22 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-techniques-for-smooth-playback-and-no-frame-dropping-in-obs/"><u>[New] Techniques for Smooth Playback and No Frame Dropping in OBS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-smart-choices-the-ultimate-list-of-educator-friendly-recording-tools/"><u>[Updated] Smart Choices The Ultimate List of Educator-Friendly Recording Tools</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-structuring-a-significant-tiktok-close-up/"><u>[Updated] Structuring a Significant TikTok Close-Up</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/facebook-algorithm-change-are-you-ready-for-2024/"><u>Facebook Algorithm Change Are You Ready？ for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-steams-read-only-mode-for-library-folders-in-win-11/"><u>Fixing Steam's Read-Only Mode for Library Folders in Win 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratis-tool-zum-hochladen-von-hd-audiokonvertierung-aus-dvds-bewahren-sie-die-exzellente-tonqualitat/"><u>Gratis Tool Zum Hochladen Von HD-Audiokonvertierung Aus DVDs - Bewahren Sie Die Exzellente Tonqualität</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-manage-windows-11s-online-scanning-option/"><u>How to Manage Windows 11'S Online Scanning Option</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-show-or-hide-the-dim-display-after-option-in-the-power-options-menu-on-windows/"><u>How to Show or Hide the “Dim Display After” Option in the Power Options Menu on Windows</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-lean-cloud-archive-efficient-low-cost-large-data/"><u>In 2024, Lean Cloud Archive Efficient, Low-Cost Large Data</u></a></li>
+<li><a href="https://windows11.techidaily.com/make-every-day-better-with-these-6-must-have-android-apps-for-window-11/"><u>Make Every Day Better with These 6 Must-Have Android Apps for Window 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-rectifying-wow-crashes-error-132/"><u>Mastering the Art of Rectifying WoW Crashes: Error 132</u></a></li>
+<li><a href="https://windows11.techidaily.com/triumph-in-tpm-deactivation-on-windows-11/"><u>Triumph in TPM Deactivation on Windows 11</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-to-add-bitmoji-to-keyboard/"><u>Updated How to Add Bitmoji to Keyboard?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/winxvideo-ai-4k8k10k-winxvideo/"><u>WinXVideo AI를 활용하여 고해상도(4K/8K/10K)으로 이미지 크기 조정 및 제거하세요 - Winxvideo</u></a></li>
+</ul></div>
+

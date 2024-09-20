@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Cannot Reach Server Error in Win 10 & 11 for MB
-date: 2024-09-13T23:33:16.613Z
-updated: 2024-09-15T20:19:23.869Z
+date: 2024-09-13T21:04:41.995Z
+updated: 2024-09-20T20:46:03.210Z
 tags:
   - windows10
   - windows11
@@ -55,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 ![The Windows Management Instrumentation service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-management-instrumentation-service.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Repair Malwarebytes With Its Dedicated Support Tool
@@ -78,6 +78,13 @@ Here is how you can repair Malwarebytes with its support tool:
 8. Press the**Repair System** button.
 9. Restart your PC when prompted.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Run a Malware Scan With Windows Security
 
  Malwarebytes is a common target for malware because it’s an antivirus utility. So, there’s a possibility of malware causing this Malwarebytes startup issue. You can purge malware by running a manual Microsoft Defender scan within the Windows Security app like this:
@@ -89,19 +96,6 @@ Here is how you can repair Malwarebytes with its support tool:
 ![The Scan now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/scan-now-button.jpg)
 4. Press**Scan now** to start a Microsoft Defender scan.
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Reinstall Malwarebytes
 
  Users have also resolved the "unable to connect to service" error by reinstalling Malwarebytes. The Malwarebytes Support Tool includes a Clean option for uninstalling and reinstalling the software. This is how you can reinstall Malwarebytes with its support tool:
@@ -111,17 +105,24 @@ Here is how you can repair Malwarebytes with its support tool:
 3. Click**Clean** and**Yes** to confirm the removal.  
 ![The Malwarebytes Cleanup dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/malwarebytes-cleanup-dialog.jpg)
 4. Select**OK** to restart the PC.
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Yes** in the window that pops up after the restart.
 6. Select**Yes** in the Reinstall Malwarebytes for Windows popup dialog box that opens.
 7. Click the**Personal Computer** option.
 8. Finally, select**Yes** to reinstall Malwarebytes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Now You Can (Probably) Utilize Malwarebytes
 
@@ -144,17 +145,20 @@ Here is how you can repair Malwarebytes with its support tool:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-step-into-the-world-of-aplus-tiktok-videos-with-designed-video-templates/"><u>[New] Step Into the World of A+ TikTok Videos with Designed Video Templates</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-get-your-youtube-video-seen-6-easy-steps/"><u>[Updated] How to Get Your YouTube Video Seen - 6 Easy Steps</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unveiling-the-pathway-to-monetizing-your-instagram-content-for-2024/"><u>[Updated] Unveiling the Pathway to Monetizing Your Instagram Content for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/comparing-gpt-and-bert-unveiling-distinct-features-of-top-ai-language-models/"><u>Comparing GPT and BERT: Unveiling Distinct Features of Top AI Language Models</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-latest-logitech-webcam-drivers-at-no-cost-on-windows-pcs/"><u>Download Latest Logitech Webcam Drivers at No Cost on Windows PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-acquire-your-acers-official-bluetooth-driver-today/"><u>Easy Installation: Acquire Your Acer's Official Bluetooth Driver Today!</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/innovative-approaches-to-youtube-teaser-trailblazing-for-2024/"><u>Innovative Approaches to YouTube Teaser Trailblazing for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/itunesflac/"><u>ITunesにFlacファイルを取り込む手順と、変換ソフト・オプションのスコットランド選び - 最新ガイド</u></a></li>
-<li><a href="https://windows11.techidaily.com/rehabbing-a-controller-that-refuses-to-work-on-windows/"><u>Rehabbing a Controller That Refuses to Work on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/selective-deactivation-the-path-to-efficient-windows-11-performance/"><u>Selective Deactivation: The Path to Efficient Windows 11 Performance</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategic-ways-to-procure-cost-effective-windows-product-keys/"><u>Strategic Ways to Procure Cost-Effective Windows Product Keys</u></a></li>
-<li><a href="https://facebook.techidaily.com/withheld-implementation-date-for-whatsapps-new-privacy-agreement/"><u>Withheld Implementation Date for WhatsApp's New Privacy Agreement</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-leading-limitless-time-tracker-apps-for-2024/"><u>[Updated] Leading Limitless Time Tracker Apps for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/explaining-0xc000003e-error-windows-app-failure-diagnosis/"><u>Explaining 0xC000003E Error: Windows App Failure Diagnosis</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-open-sticky-notes-at-startup-on-windows/"><u>How to Open Sticky Notes at Startup on Windows</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-x-flip-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-foundations-of-cinematography-15-must-know-shot-types/"><u>In 2024, Foundations of Cinematography 15 Must-Know Shot Types</u></a></li>
+<li><a href="https://windows11.techidaily.com/incorinas-technology-and-apple-maps-for-windows-users/"><u>Incorinas Technology and Apple Maps for Windows Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installation-guide-brother-hl-l2anddw-printer-drivers-and-firmware-updates/"><u>Installation Guide: Brother HL-L2#&DW Printer Drivers and Firmware Updates</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-the-samsung-cf591-a-top-contender-in-gaming-displays-our-in-depth-review/"><u>Is the Samsung CF591 a Top Contender in Gaming Displays? Our In-Depth Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximizing-productivity-with-auditory-storytelling-for-2024/"><u>Maximizing Productivity with Auditory Storytelling for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-troubles-avoiding-sudden-game-stoppages/"><u>Navigating Windows Troubles: Avoiding Sudden Game Stoppages</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-top-dogs-choice-an-unbiased-assessment-of-furbos-leading-canine-camera-technology/"><u>The Top Dog's Choice: An Unbiased Assessment of Furbo's Leading Canine Camera Technology</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-data-integrating-windows-with-qr-technology/"><u>Transforming Data: Integrating Windows with QR Technology</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-printer-dilemma-windows-error-xffffff/"><u>Unraveling the Printer Dilemma: Windows Error XFFFFFF</u></a></li>
+<li><a href="https://windows11.techidaily.com/winerror-woes-be-gone-fixing-oculus-app-for-winxc/"><u>WinError Woes Be Gone: Fixing Oculus App for WinXC</u></a></li>
 </ul></div>
 

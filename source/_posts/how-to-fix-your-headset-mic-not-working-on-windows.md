@@ -1,7 +1,7 @@
 ---
 title: How to Fix Your Headset Mic Not Working on Windows
-date: 2024-09-12T20:18:55.607Z
-updated: 2024-09-15T22:33:19.399Z
+date: 2024-09-14T20:54:18.916Z
+updated: 2024-09-20T17:45:22.521Z
 tags:
   - windows10
   - windows11
@@ -61,20 +61,27 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
 **Y**ou may not see any popups when connecting the headset to a laptop; just ensure you have plugged your headset correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Make Sure Your Headset Microphone Isn't Faulty
 
 ![Green and Black Razer Headset Sitting on Mousepad on Gamer’s Desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/green-and-black-razer-headset-sitting-on-mousepad-on-gamer-s-desk.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Is your headset already unmuted and correctly plugged in? If that is the case, ensure your microphone is not faulty, which could be why it isn't picking up your voice. The easiest way to find that out is to connect your headset to a different device (assuming you have one) and see if it works there.
 
  If your headset mic also doesn't work on your other device, it could be faulty. If that is the case, you should have your hardware inspected by a nearby technician. However, if the other device detects the microphone, your hardware isn't faulty; probably misconfigured OS settings are to blame.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Select the Right Microphone and Test It
 
@@ -89,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 ![Test the Headset Microphone in the Sound Properties Windows of the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/test-the-headset-microphone-in-the-sound-properties-windows-of-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Make the Headset Microphone Your Default Audio Input Device
@@ -101,35 +108,29 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
 ![Go to More Sound Settings in the Sound Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-go-to-more-sound-settings-in-the-sound-settings-of-the-windows-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the sound settings, go to the **Recording** tab, right-click on your headset microphone, and select **Set as Default Device**.
 
 ![Set Your Headset Microphone As a Default Device in the Recording Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/6-set-your-headset-microphone-as-a-default-device-in-the-recording-tab-of-more-sound-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you don't see the headset microphone in the list of recording devices, it could be disabled. In such a case, right-click anywhere in the **Recording** tab and select **Show Disabled Devices**.
 
 ![Click on Show Disabled Devices by Right-clicking Within the Recording Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/7-click-on-show-disabled-devices-by-right-clicking-within-the-recording-tab-of-more-sound-settings.jpg)
 
- After that, set your headset microphone as the default audio input device.
-
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After that, set your headset microphone as the default audio input device.
 
 ## 7\. Change the App Permissions for the Microphone
 
@@ -143,13 +144,6 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 5. After that, locate the app where the headset microphone isn't working and turn on the toggle next to it.  
 ![Turn On the Toggle Next to App to Enable Microphone Access in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/9-turn-on-the-toggle-next-to-app-to-enable-microphone-access-in-windows-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Select the Correct Microphone in the App's Settings
 
  If the headset microphone still does not work after following the steps above, likely, the app where the microphone does not work doesn't have the correct microphone selected in its settings.
@@ -162,21 +156,6 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
  If you want to fix the underlying issue and get your headset microphone working, here are a few steps you can take.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-selfies-to-subscribers-jake-pauls-online-odyssey/"><u>[New] 2024 Approved From Selfies to Subscribers Jake Paul’s Online Odyssey</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-mirrorless-challenge-to-dslr-who-wins-in-video/"><u>[New] 2024 Approved Mirrorless Challenge to DSLR Who Wins in Video?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-superior-graphics-processors-in-4k-territory/"><u>[New] In 2024, Superior Graphics Processors in 4K Territory</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-crafting-content-for-success-how-to-start-your-own-youtube-chanel/"><u>[Updated] In 2024, Crafting Content for Success How to Start Your Own YouTube Chanel</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-top-7-security-programs-for-windows-os-149-chars/"><u>Exploring Top 7 Security Programs for Windows OS (149 Chars)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Huawei Nova Y71? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unmissable-streaming-games-await/"><u>In 2024, Unmissable Streaming Games Await</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-mobile-artistry-top-tactics-for-idevice-collage-excellence/"><u>Mastering Mobile Artistry Top Tactics for iDevice Collage Excellence</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigational-mastery-over-your-folder-of-windows-11-applications/"><u>Navigational Mastery Over Your Folder of Windows 11 Applications</u></a></li>
-<li><a href="https://windows11.techidaily.com/unearth-hidden-5ghz-network-in-windows-11-with-simple-fixes/"><u>Unearth Hidden 5GHz Network in Windows 11 with Simple Fixes</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -184,3 +163,22 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-secure-your-remote-sessions-with-these-tools/"><u>[New] 2024 Approved Secure Your Remote Sessions with These Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-latest-screens-recording-revelation-by-apeaksoft-2023/"><u>[New] 2024 Approved The Latest Screens Recording Revelation by Apeaksoft, 2023</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-speech-clarity-mastering-googles-translation-technology/"><u>[Updated] 2024 Approved Speech Clarity Mastering Google’s Translation Technology</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-bundle-of-nine-premium-holiday-treasures-watch-for-free-on-youtube/"><u>[Updated] In 2024, A Bundle of Nine Premium Holiday Treasures Watch for Free on YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-transform-your-fb-advertising-simplify-with-a-free-toolkit/"><u>2024 Approved Transform Your FB Advertising Simplify with a Free Toolkit</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-oppo-a18-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Oppo A18 without App | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/download-unique-fonts-for-your-iphone-a-comprehensive-walkthrough/"><u>Download Unique Fonts for Your iPhone - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-app-complaint-net-core-install-required-on-windows/"><u>Fixing App Complaint: .NET Core Install Required on Windows</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/huion-inspiroy-g10t-tablet-an-ultimate-guide-to-its-exceptional-durability-and-superior-drawing-capabilities/"><u>Huion Inspiroy G10T Tablet: An Ultimate Guide to Its Exceptional Durability & Superior Drawing Capabilities</u></a></li>
+<li><a href="https://windows11.techidaily.com/powershell-expertise-uncovering-network-details-in-windows/"><u>PowerShell Expertise: Uncovering Network Details in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/progressive-pathways-mastering-the-art-of-replacing-aged-windows-drivers/"><u>Progressive Pathways: Mastering the Art of Replacing Aged Windows Drivers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-forza-horizon-4-crashes-on-windows-computers/"><u>Troubleshooting and Solving Forza Horizon 4 Crashes on Windows Computers</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-installation-insight-pinpointing-software-homesteads/"><u>Windows Installation Insight: Pinpointing Software Homesteads</u></a></li>
+<li><a href="https://windows11.techidaily.com/wsl-and-the-surge-in-linux-popularity/"><u>WSL and the Surge in Linux Popularity</u></a></li>
+</ul></div>
+

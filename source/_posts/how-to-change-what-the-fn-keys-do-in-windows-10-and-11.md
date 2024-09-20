@@ -1,7 +1,7 @@
 ---
 title: How to Change What the Fn Keys Do in Windows 10 and 11
-date: 2024-09-09T22:47:56.424Z
-updated: 2024-09-15T23:08:18.561Z
+date: 2024-09-16T17:37:35.246Z
+updated: 2024-09-20T18:03:13.736Z
 tags:
   - windows10
   - windows11
@@ -72,16 +72,10 @@ Similarly, if you have an Acer device, follow these steps:
 3. Pick the desired mode and hit Exit.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Change the Function Key Settings Using the UEFI Settings
@@ -94,19 +88,6 @@ Similarly, if you have an Acer device, follow these steps:
 2. Head over to**Update & Security** \>**Recovery** .  
 ![Recovery settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/update-and-security-recovery.jpg)
 3. Choose Restart now.  
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Restart now button in Windows Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/restart-now.jpg)
 
@@ -123,9 +104,24 @@ If you are a Windows 11 user, follow these steps:
 2. Click on**UEFI Firmware Settings** \>**Restart** .  
 ![UEFI Firmware settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/advanced-options-startup.jpg)
 3. In the following window, head over to the**Configuration** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select the**Hotkey Mode** and click on**Enabled** or**Disabled** .  
 ![hotkey-mode-disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/hotkey-mode-disabled.jpg)
 5. Click**Save** and then press**Exit** to sign out of BIOS.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Enable the Fn Lock
 
@@ -134,13 +130,6 @@ If you are a Windows 11 user, follow these steps:
  In most keyboards, the Fn lock is associated with the Esc key, but it can be different in your device. Typically, these keys have a lock icon on them. You can use the manufacturer’s website to find the lock on your device if you cannot locate a key with a lock icon.
 
  Once you have found the key, hold the Fn key and press the lock key. This will enable the function. You can follow the same steps for disabling it in the future.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is It a Good Idea To Change Fn Key Settings?
 
@@ -175,17 +164,14 @@ If you are a Windows 11 user, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-easy-way-to-spot-and-view-trending-youtube-feedback/"><u>[New] The Easy Way to Spot and View Trending YouTube Feedback</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-instant-designing-techniques-for-fortnite-images/"><u>[Updated] In 2024, Instant Designing Techniques for Fortnite Images</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-top-10-best-ways-to-optimize-instagram-highlights-for-your-business/"><u>[Updated] Top 10 Best Ways to Optimize Instagram Highlights for Your Business</u></a></li>
-<li><a href="https://windows11.techidaily.com/identifying-and-resolving-windows-search-startup-woes/"><u>Identifying & Resolving Windows Search Startup Woes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Gionee F3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-samsungs-advanced-2023-bd-j5900-reviewed-here/"><u>In 2024, Samsung's Advanced 2023 BD-J5900 Reviewed Here</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-stabilizing-your-gopro-footage-a-step-by-step-guide/"><u>In 2024, Stabilizing Your GoPro Footage A Step-by-Step Guide</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-step-by-step-guide-for-aspiring-filmmakers-incorporating-audio-with-imovie/"><u>New Step-By-Step Guide for Aspiring Filmmakers Incorporating Audio with iMovie</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-14-ultra-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi 14 Ultra? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-stagnant-utorrent-transfers-on-windows/"><u>Remedying Stagnant uTorrent Transfers on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/track-down-the-file-where-your-desktop-image-stores/"><u>Track Down the File Where Your Desktop Image Stores</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-deactivated-rulesets-in-outlookwindows/"><u>Troubleshooting Deactivated Rulesets in Outlook/Windows</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-bridging-the-gap-connecting-instagram-to-your-facebook-account/"><u>[New] 2024 Approved Bridging the Gap Connecting Instagram to Your Facebook Account</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-precision-techniques-to-record-your-facetime-chats/"><u>[Updated] 2024 Approved Precision Techniques to Record Your FaceTime Chats</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-thriving-in-the-social-media-jungle-facebooks-essentials/"><u>2024 Approved Thriving in the Social Media Jungle Facebook's Essentials</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-affordable-high-definition-cams-for-adventure-enthusiasts/"><u>In 2024, Affordable High Definition Cams for Adventure Enthusiasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-repair-of-file-corruption-error-code-0x80070570-in-windows-11/"><u>Mastering Repair of File Corruption (Error Code 0X80070570) in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-to-unblock-your-windows-pin-entry/"><u>Quick Fixes to Unblock Your Windows Pin Entry</u></a></li>
+<li><a href="https://win11.techidaily.com/skip-mobility-center-windows-11-shortcuts/"><u>Skip Mobility Center: Windows 11 Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-launching-csgo-in-windows-11/"><u>Tips for Launching CS:GO in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/trasforma-video-mp4-in-gif-senza-costi-con-la-funzionalita-on-line-di-convertitore-gratuito-movavi/"><u>Trasforma Video MP4 in GIF Senza Costi Con La Funzionalità On-Line Di Convertitore Gratuito Movavi</u></a></li>
 </ul></div>
 

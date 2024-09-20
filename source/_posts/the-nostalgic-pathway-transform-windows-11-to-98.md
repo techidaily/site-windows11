@@ -1,7 +1,7 @@
 ---
 title: "The Nostalgic Pathway: Transform Windows 11 to '98"
-date: 2024-09-09T20:35:07.047Z
-updated: 2024-09-15T16:10:38.692Z
+date: 2024-09-14T21:57:30.911Z
+updated: 2024-09-20T18:29:28.966Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
  Winaero Tweaker is an important program, and we'll be using it to do quite a lot. Head over to the[Winaero Tweaker download page](https://winaerotweaker.com) , and then over to[this DeviantArt page](https://www.deviantart.com/vovan29/art/Windows-95-ALL-ICONS-805656804) for a Windows 95 icon set to go along with it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Open-Shell-Menu
 
  Open-Shell-Menu, found on the[Open-Shell GitHub page](http://github.com/Open-Shell/Open-Shell-Menu) , is a handy program to have in general. We've used it before in order to[make Windows 10 look like Windows XP](https://www.makeuseof.com/tag/windows-10-windows-xp-7-8-look-alike/) . This program can make extensive design modifications to Windows, so it's worth keeping around even if you don't keep the classic theme around.
@@ -53,33 +60,20 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
  This one might be optional if you don't care for the mostly forgotten Channel Bar, but if you do, head over to[the download page for Desktop Sidebar](http://www.oldversion.com/windows/desktop-sidebar-1-03-build-42) to add it to the collection.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Windows 98 Sound Pack
 
  Last, but very important, is the sound pack. We can import this directly as a sound scheme, although it's going to require some work later on. Download[this sound pack on Blockland Glass](https://blocklandglass.com/addons/addon.php?id=524) and we can finally begin.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Install WindowBlinds 11 and Skin Pack
 
 ![screenshot of windowblinds 11 selecting the classic theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_windowblinds11_classic_theme.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Install WindowBlinds 11 using its .exe file, and after it has finished installing, simply double-click the**Windows 98 Classic.wba** file that you downloaded earlier. This will load the skin into WindowBlinds 11.
 
@@ -88,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
  You'll find your theme at the very bottom of the list of available themes. Select this theme and then click**Apply style to Desktop.** You'll have to wait a few seconds.
 
  You'll now have a very general color layout applied, but it's not quite there yet.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Install Open-Shell-Menu
 
@@ -143,23 +144,9 @@ This gives us a fairly authentic-looking Start Menu and icon.
 
  Set the**Skin** to**Old Win Style by szaoservices.** Now it should look a lot more like the image above, and fit right in with the rest of your system.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Winaero Tweaker
 
 ![screenshot of winaero tweaker configuring icon settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_winaero_tweaker_icons_page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With WinAero Tweaker, we'll be doing some finishing touches. Install this program using the .exe and then use the search bar within the program to seek out the following options.
 
@@ -176,6 +163,13 @@ However, there is one icon you can only change using Winaero Tweaker.
 
  Search for the term libraries and open**Customize Libraries Item.** From here you can hit**Browse** and replace the Libraries icon with a Windows 98 equivalent. This icon appears frequently throughout Windows, so setting it to a classic look goes far in keeping up the classic theme.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Performance Tweaks for Authenticity
 
 ![screenshot of the power settings in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_power_settings_in_windows.jpg)
@@ -188,14 +182,14 @@ However, there is one icon you can only change using Winaero Tweaker.
 
 ![screenshot of windows 11 desktop with classic skin applied](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_windows_11_with_skin_applied-2.jpg)
 
- The finished product feels very convincing when browsing and navigating menus. You'll feel right at home if you grew up on these classic Windows versions.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The finished product feels very convincing when browsing and navigating menus. You'll feel right at home if you grew up on these classic Windows versions.
 
 ## What's New Is Old on Windows
 
@@ -220,17 +214,20 @@ However, there is one icon you can only change using Winaero Tweaker.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-thriving-on-screen-time-maximize-your-youtube-impact/"><u>[New] In 2024, Thriving on Screen Time Maximize Your YouTube Impact</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-essential-tips-for-amazing-podcast-outro-scripts/"><u>[Updated] Essential Tips for Amazing Podcast Outro Scripts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-spectrum-of-immersive-tech-vr-vs-ar-and-more/"><u>2024 Approved The Spectrum of Immersive Tech VR Vs. AR and More</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722864248777-easy-ways-to-navigate-zoom-features-for-ios-devices/"><u>Easy Ways to Navigate Zoom Features for iOS Devices</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enthralling-3d-experience-selecting-top-blu-ray-decks/"><u>Enthralling 3D Experience Selecting Top Blu-Ray Decks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-your-ps4-dualshock-troubleshooting-charging-issues/"><u>Fixing Your PS4 Dualshock: Troubleshooting Charging Issues</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/organize-and-share-music-how-to-make-youtube-playlists-easier/"><u>Organize and Share Music How to Make YouTube Playlists Easier</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-incompatible-file-issue-in-windows-vlc/"><u>Overcoming Incompatible File Issue in Windows VLC</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-eradicating-xc0f1103f-problem-with-geforce/"><u>Steps for Eradicating XC0F1103F Problem with GeForce</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tips-and-tricks-to-leverage-chatgpt-for-writing-complex-work-emails/"><u>Tips and Tricks to Leverage ChatGPT for Writing Complex Work Emails</u></a></li>
-<li><a href="https://windows11.techidaily.com/turbocharge-valorant-windows-download-optimization-guide/"><u>Turbocharge Valorant: Windows Download Optimization Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-top-10-tools-to-shield-photographic-work/"><u>[New] Top 10 Tools to Shield Photographic Work</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/football-manager-2020-fixed-version-available-no-more-crashing-issues/"><u>Football Manager 2020: Fixed Version Available - No More Crashing Issues</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-oneplus-open-to-mac-drfone-by-drfone-android/"><u>How to Mirror OnePlus Open to Mac? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Anti Tracker Software For Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-the-windows-start-button-not-working-heres-how-to-fix-it/"><u>Is the Windows Start Button Not Working? Here's How to Fix It</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-device-naming-without-conflicts-in-windows-pcs/"><u>Master the Art of Device Naming without Conflicts in Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-bluescreenview-techniques/"><u>Mastering BlueScreenView Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009808735-no-more-mouse-troubles-in-resident-evil-village-heres-the-fix-you-need/"><u>No More Mouse Troubles in Resident Evil Village! Here's the Fix You Need</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-cure-to-steams-online-connectivity-problems/"><u>Quick Cure to Steam's Online Connectivity Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-the-classics-windows-11-for-98-revisited/"><u>Reviving the Classics: Windows 11 for '98 Revisited</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-linux-experience-in-new-windows-landscape/"><u>Streamlining Your Linux Experience in New Windows Landscape</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-the-windows-11-interface-an-insiders-guide-to-tablet-bar-setup/"><u>Tailoring the Windows 11 Interface: An Insider's Guide to Tablet Bar Setup</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-top-four-mastering-the-art-of-engagement-on-facebook-twitter-instagram-and-youtube/"><u>The Top Four: Mastering the Art of Engagement on Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlocking-the-full-potential-of-pc-sound-capture-for-2024/"><u>Unlocking the Full Potential of PC Sound Capture for 2024</u></a></li>
 </ul></div>
 

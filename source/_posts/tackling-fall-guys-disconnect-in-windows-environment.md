@@ -1,7 +1,7 @@
 ---
 title: Tackling Fall Guys Disconnect in Windows Environment
-date: 2024-09-11T17:30:40.686Z
-updated: 2024-09-15T19:55:39.202Z
+date: 2024-09-14T18:00:52.040Z
+updated: 2024-09-20T20:35:13.985Z
 tags:
   - windows10
   - windows11
@@ -55,19 +55,6 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 
  Then, right-click on all such applications, and choose**End task.** After that, restart Fall Guys and check if the problem persists.
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Temporarily Disable the Windows Firewall
 
  Windows Firewall can interfere with the working of Fall Guys and cause connection errors. The solution, in this case, is to temporarily disable the Windows Firewall.
@@ -80,6 +67,13 @@ Here's how you can do that:
 3. Choose**Turn off Windows Defender Firewall (not recommended)** option for both**private** and**public** network settings.  
 ![Turn off firewall option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/turn-off-firewall.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, check if the problem continues. If not, enable the Windows Defender Firewall and then add Fall Guys to the Windows Firewall exception list. Here's how:
 
 1. In the Windows Search, type**Allow an app through Windows Firewall** and press**Enter** .
@@ -88,17 +82,30 @@ Here's how you can do that:
 ![Browse option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/browse-option.jpg)
 4. Go to the Fall Guys installation folder. It'd be**C:\\Program Files\\Epic Games\\FallGuys** if you kept the same target location during installation.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Select**FallGuys\_client.exe** and click**Add.**  
 ![FallGuys file in browse option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/fallguys-file.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That's it! Fall Guys has now been added to the Windows Firewall exception list.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable Any Active Proxy Servers
 
@@ -107,13 +114,6 @@ Here's how you can do that:
 1. Open the Windows Search, type**Command Prompt,** and choose**Run as administrator** from the right pane.
 2. In the console, type**netsh winhttp reset proxy** and press**Enter** .  
 ![Disabling proxy command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disabling-proxy.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Connect to a Different DNS Server
 
@@ -129,23 +129,16 @@ Follow the below steps to change to Google DNS:
 5. Select the**Use the following DNS server addresses** option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. If you're on IPv4, type**8.8.8.8** in the**Preferred DNS server** and**8.8.4.4** in the**Alternate DNS server.**
 7. If you're on IPv6, type**2001:4860:4860::8888** in the**Preferred DNS server** and**2001:4860:4860::8844** in the**Alternate DNS** server.  
 ![Editing IPv6 properties in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/editing-ipv6-properties.jpg)
 8. Click**OK.**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Edit the Fall Guys Engine.ini File
 
@@ -169,6 +162,13 @@ RetryTime=0.5`
 ![Editing the Engine.ini file in Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/editing-the-engine-ini-file.jpg)
 
 Launch Fall Guys and check if the problem persists.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reset Winsock Settings
 
@@ -201,21 +201,16 @@ Now, restart your computer and check if the problem is fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-building-your-ultimate-youtube-music-list-step-by-step-guide-webmobile/"><u>[New] In 2024, Building Your Ultimate YouTube Music List Step-by-Step Guide (Web/Mobile)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-unleash-your-gameplays-social-impact-from-xbox-live-to-facebook/"><u>[New] Unleash Your Gameplay's Social Impact From Xbox Live to Facebook</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/ace-search-engine-rankings-on-youtube-11-proven-seo-methods-for-2024/"><u>Ace Search Engine Rankings on YouTube 11 Proven SEO Methods for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/blueprint-for-creating-viral-trailers-in-the-world-of-youtube/"><u>Blueprint for Creating Viral Trailers in the World of YouTube</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/comprehensive-video-walkthrough-exporting-mailboxes-from-an-edb-archive-to-live-exchange-environment/"><u>Comprehensive Video Walkthrough: Exporting Mailboxes From an EDB Archive to Live Exchange Environment</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oneplus-12r-device-sim-by-drfone-android/"><u>Easily Unlock Your OnePlus 12R Device SIM</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-captivating-titles-with-ae/"><u>In 2024, Crafting Captivating Titles with AE</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-and-rectifying-steam-installation-issues-win11-edition/"><u>Navigating and Rectifying Steam Installation Issues, Win11 Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/pathway-to-correcting-windows-backup-settings/"><u>Pathway to Correcting Windows Backup Settings</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-lava-yuva-2-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Lava Yuva 2</u></a></li>
-<li><a href="https://windows11.techidaily.com/post-upgrade-realignment-of-the-windows-and-wsl-system/"><u>Post-Upgrade: Realignment of the Windows and WSL System</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamlessly-integrate-windows-11-into-your-routine/"><u>Seamlessly Integrate Windows 11 Into Your Routine</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-for-a-shaky-cursor-on-windows-pcs/"><u>Solutions for a Shaky Cursor on Windows PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-troubleshoot-processes-in-win10win11/"><u>Streamlining Troubleshoot Processes in Win10/Win11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-microsoft-flight-simulator-2020-persistent-pc-crashes/"><u>Troubleshooting Tips for Microsoft Flight Simulator 2020 Persistent PC Crashes</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-windows-n-variants-for-software-developers/"><u>Understanding Windows N Variants: For Software Developers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-maximizing-visual-variety-with-b-roll-elements/"><u>[New] Maximizing Visual Variety with B Roll Elements</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/34293626-updated-closing-your-vlog-right-top-6-free-youtube-outro-tools/"><u>[Updated] Closing Your Vlog Right Top 6 Free YouTube Outro Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-ipad-pro-mini-m4-with-macbook-air-m3-which-is-superior/"><u>Comparing IPad Pro Mini (M4) with MacBook Air (M3): Which Is Superior?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-canon-mx340-up-and-running-drivers-for-windows-1187-download-here/"><u>Get Your Canon MX340 Up and Running: Drivers for Windows 11/8/7 Download Here</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unlock-windows-after-failed-sign-in/"><u>How to Unlock Windows After Failed Sign-In</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-split-screen-not-working-on-windows-heres-what-to-do/"><u>Is Split Screen Not Working on Windows? Here's What to Do</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-to-protected-windowsapps-directory/"><u>Navigating to Protected WindowsApps Directory</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/peeking-at-perfection-a-compreayer-look-at-lgs-27ud68-display/"><u>Peeking at Perfection A Compreayer Look at LG’s 27UD68 Display</u></a></li>
+<li><a href="https://windows11.techidaily.com/powerful-tools-to-simultaneously-release-numerous-zip-archives/"><u>Powerful Tools to Simultaneously Release Numerous Zip Archives</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-decipher-group-policy-on-your-computer/"><u>Strategies to Decipher Group Policy on Your Computer</u></a></li>
+<li><a href="https://win11.techidaily.com/the-unmatched-features-in-windows-10-why-its-superior-to-win11/"><u>The Unmatched Features in Windows 10: Why It's Superior to Win11</u></a></li>
 </ul></div>
 

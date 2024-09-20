@@ -1,7 +1,7 @@
 ---
 title: "Quick Start: Running AI on Windows PCs"
-date: 2024-09-08T22:23:32.136Z
-updated: 2024-09-15T18:57:58.518Z
+date: 2024-09-17T18:46:04.719Z
+updated: 2024-09-20T20:48:48.809Z
 tags:
   - windows10
   - windows11
@@ -84,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
  In addition to this, you can [install websites as desktop apps on Windows](https://www.makeuseof.com/websites-desktop-apps-windows/) using tools like WebCatalog. It allows you to turn web pages into desktop apps, organize them, and even switch between multiple accounts without logging out.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Run ChatGPT Natively Using an Unofficial Project
 
 ![chat gpt github unofficial project running on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project-running-on-windows.jpg)
@@ -97,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 1. Go to the [ChatGPT unofficial GitHub page](https://github.com/lencx/ChatGPT).  
 ![chat gpt github unofficial project](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project.jpg)
 2. Scroll down to the Windows section and click on the **.msi installer** download link for the **Direct download installer**. On Microsoft Edge, Windows Defender Screen Filter may temporarily block the download and prompt you to confirm whether you trust the file. To allow the download, click on **Show more,** and then the **three-dots** **menu**. Next, select **Keep** to download the installer. To be on the safer side, you can [scan the installer using an online virus scanning tool](https://www.makeuseof.com/check-suspicious-file-malware/) to find any traces of malware.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Next, run the installer and follow the on-screen instructions to complete the installation.
 4. Once installed, launch the app and log in with your ChaptGPT credentials, and you can start generating responses.
@@ -119,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 ![uninstall chatgpt unofficial client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-chatgpt-unofficial-client.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Press **Win + I** to open **Settings**.
@@ -141,21 +141,6 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
  At the time of writing, OpenAI hasn't released an official app for ChatGPT on the Chrome Web Store or the Microsoft Store. Please be cautious while searching for any purported ChatGPT app on these and other app marketplaces.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-captivating-content-the-essential-six-video-formats/"><u>[New] 2024 Approved Captivating Content The Essential Six Video Formats</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-pinnacle-of-personal-data-holdings/"><u>[New] 2024 Approved The Pinnacle of Personal Data Holdings</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-sweep-through-your-contacts-with-speed-and-skill/"><u>[New] Sweep Through Your Contacts with Speed and Skill</u></a></li>
-<li><a href="https://windows11.techidaily.com/handling-unresponsive-clicks-in-the-latest-windows/"><u>Handling Unresponsive Clicks in the Latest Windows</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-address-non-starting-issues-with-obs-on-pc/"><u>How to Address Non-Starting Issues with OBS on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-maximize-all-available-ram-in-your-windows-environment/"><u>How to Maximize All Available RAM in Your Windows Environment</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-over-post-update-linux-integration-on-win-11/"><u>Mastery Over Post-Update Linux Integration on Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-unresolved-roblox-issues-on-windows/"><u>Overcoming Unresolved Roblox Issues on Windows</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/precise-portrayal-of-pixels-master-netflix-recordings-with-these-6-mac-tactics-for-2024/"><u>Precise Portrayal of Pixels Master Netflix Recordings with These 6 Mac Tactics for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-guide-for-stabilizing-adobe-premiere-pro-on-windows-1110-systems/"><u>Solution Guide for Stabilizing Adobe Premiere Pro on Windows 11/10 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-expired-semaphore-in-win1110-systems/"><u>Troubleshooting Expired Semaphore in Win11/10 Systems</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -163,3 +148,23 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-reinforcing-photo-viewing-functionality-with-windows-10-solutions/"><u>[New] 2024 Approved Reinforcing Photo Viewing Functionality with Windows 10 Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-annual-salary-details-for-streaming-sensation-pewdiepie/"><u>[New] Annual Salary Details for Streaming Sensation PewDiePie</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-optimal-assortment-premier-webcam-stabilizers/"><u>[New] Optimal Assortment Premier Webcam Stabilizers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nlock-8-youtube-fitness-ideas-for-viewers-active-participation-for-2024/"><u>[New] Unlock 8 YouTube Fitness Ideas for Viewers' Active Participation for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-executing-a-successful-facebook-live-from-previous-recordings/"><u>[Updated] In 2024, Executing a Successful Facebook Live From Previous Recordings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/diving-deep-into-minecraft-playback-secrets-from-the-pros/"><u>Diving Deep Into Minecraft Playback Secrets From the Pros</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-defrag-a-hard-disk-drive-in-windows-11/"><u>How to Defrag a Hard Disk Drive in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-time-management-pick-from-these-5-best-windows-clock-screen-saver-apps/"><u>Master Time Management: Pick From These 5 Best Windows Clock Screen Saver Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-resolving-windows-errors-in-windows-11/"><u>Mastering the Art of Resolving Windows Errors in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-your-keyboard-use-with-winos-commands/"><u>Personalize Your Keyboard Use with WinOS Commands</u></a></li>
+<li><a href="https://windows11.techidaily.com/preserving-default-time-on-windows-pcs/"><u>Preserving Default Time on Windows PCs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-regain-access-to-your-facebook-account-sans-emailphone/"><u>Step-by-Step Guide: Regain Access to Your Facebook Account Sans Email/Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-break-windows-stealthy-cam-policy/"><u>Techniques to Break Window's Stealthy Cam Policy</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-rpc-problems-here-are-5-fixes-you-need/"><u>Win RPC Problems? Here Are 5 Fixes You Need!</u></a></li>
+</ul></div>
+

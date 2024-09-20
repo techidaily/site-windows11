@@ -1,7 +1,7 @@
 ---
 title: Swift Remedies for Fixing Microsoft Store Crash Code 0X80072EFD
-date: 2024-09-13T18:37:47.180Z
-updated: 2024-09-15T22:21:29.907Z
+date: 2024-09-15T17:02:18.946Z
+updated: 2024-09-20T20:44:48.479Z
 tags:
   - windows10
   - windows11
@@ -72,6 +72,13 @@ net start msiserver`
 
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Turn Off Proxy Server
 
  Some users who've needed to fix error 0x80072EFD have confirmed they resolved that issue by turning off the proxy server setting. That's because a proxy server generated a Microsoft Store connection issue on those users' PCs. You can check if a proxy server is enabled on your PC and disable it in the following steps:
@@ -81,22 +88,17 @@ net start msiserver`
 3. Select**Connections** \>**LAN settings** to reach a**Use a proxy server** setting.  
 ![The LAN settings button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-tab.jpg)
 4. Uncheck the checkbox for**Use a proxy server** if it's selected.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click the**Automatically detect settings** option to select it.  
 ![The Use a proxy server for your LAN checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/use-a-proxy-server-option.jpg)
 6. Select the Local Area Network window's**OK** option.
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Double-Check the Time Settings in Windows
 
@@ -106,17 +108,24 @@ net start msiserver`
 2. Click**Date & time** to view those settings.  
 ![The Date & time navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/date-time-tab.jpg)
 3. Select to turn off the**Set time zone** option there.
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Make sure the correct time zone for your location is selected in the**Time Zone** drop-down menu.  
 ![The Set the time zone automatically option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/set-the-time-automatically-option.jpg)
 5. Then press the**Sync now** button.  
 ![The Sync now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sync-now-button.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Alternatively, you can manually set the time by disabling the Set the time automatically option. Press the**Change** button for the**Set the date and time manually** option. Check the date and exact time for your location via online sources, and then enter it inside the**Change date & time** box.
 
@@ -131,33 +140,7 @@ net start msiserver`
 ![The Advanced tab in Internet Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-advanced-tab.jpg)
 5. Click**Apply** to set the protocol options.
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Select**OK** to exit the Internet Options window.
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Reregister Microsoft Store
 
@@ -173,10 +156,10 @@ net start msiserver`
 6. Then exit PowerShell, and select the**Restart** option.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Reset Your Network
@@ -184,6 +167,13 @@ net start msiserver`
  Resetting network settings in Windows is another 0x80072EFD error fix that's worked for some users. Note that this measure will erase Wi-Fi and Ethernet connection details, so you'll need to re-establish your connection after applying it. You can apply this potential fix as covered in our[how-to reset networks in Windows 11](https://www.makeuseof.com/reset-network-settings-windows-11/) guide.
 
 ![The Reset now button for networks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-now-network-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Shopping in Microsoft Store Again
 
@@ -204,18 +194,18 @@ net start msiserver`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-directing-your-camera-roll-a-step-by-step-snapchat-integration/"><u>[New] 2024 Approved Directing Your Camera Roll A Step-by-Step Snapchat Integration</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-guide-to-effective-video-capturing-via-screencastify/"><u>[New] Guide to Effective Video Capturing via Screencastify</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-navigating-to-your-youtube-comments-easily/"><u>2024 Approved Navigating to Your YouTube Comments Easily</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-ultimate-guide-to-hd-live-streaming-equipment/"><u>2024 Approved Ultimate Guide to HD Live-Streaming Equipment</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/achieving-balanced-screen-viewing-a-step-by-step-guide-to-90-degree-rotation/"><u>Achieving Balanced Screen Viewing: A Step-by-Step Guide to 90-Degree Rotation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/an-easy-fix-for-a-magic-mouse-tracking-problem/"><u>An Easy Fix for a Magic Mouse Tracking Problem</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/asus-mg28uq-4k-revolution-experience-unparalleled-clarity-review-for-2024/"><u>ASUS MG28UQ 4K Revolution - Experience Unparalleled Clarity Review for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-to-restoring-optimal-sound-levels-on-your-windows-10-pc/"><u>Guide to Restoring Optimal Sound Levels on Your Windows 10 PC</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-profit-power-for-the-uninitiated-top-13-income-tips-on-reddit/"><u>In 2024, Profit Power for the Uninitiated! Top 13 Income Tips on Reddit</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-pin-related-bluetooth-link-problems-in-win11win10/"><u>Mastering PIN-Related Bluetooth Link Problems in Win11/Win10</u></a></li>
-<li><a href="https://windows11.techidaily.com/taskbar-chat-functionality-in-windows-11-what-happens-when-we-take-away-this-feature/"><u>Taskbar Chat Functionality in Windows 11: What Happens When We Take Away This Feature</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-controller-recognition-in-steam-on-windows/"><u>Unlock Controller Recognition in Steam on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/what-makes-dxvk-a-key-player-for-games-on-windows-pcs/"><u>What Makes DXVK a Key Player for Games on Windows PCs?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-fixing-the-frustrating-missing-footage-in-fb-feed/"><u>[Updated] 2024 Approved Fixing the Frustrating Missing Footage in FB Feed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/10-ai-forecasters-sharing-their-outlook/"><u>10 AI Forecasters Sharing Their Outlook</u></a></li>
+<li><a href="https://windows11.techidaily.com/harnessing-deity-settings-on-windows-11-os/"><u>Harnessing Deity Settings on Windows 11 OS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-meizu-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Meizu</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-15-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 15 Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-stabilize-for-success-3-secrets-of-iphone-video-making/"><u>In 2024, Stabilize for Success 3 Secrets of iPhone Video Making</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-memory-usage-in-windows-clearing-cache/"><u>Optimizing Memory Usage in Windows: Clearing Cache</u></a></li>
+<li><a href="https://windows11.techidaily.com/pinnacle-gpu-checks-top-6-windows-software-choices/"><u>Pinnacle GPU Checks: Top 6 Windows Software Choices</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-data-corruption-in-win11-os/"><u>Remedying Data Corruption in Win11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolve-the-enigma-how-to-solve-no-mail-on-windows-11-apps/"><u>Resolve the Enigma: How to Solve No Mail on Windows 11 Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-workflows-microsoft-to-do-plus-ifttt/"><u>Streamline Your Workflows: Microsoft To-Do + IFTTT</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-list-15-best-adobe-premiere-pro-plugins-to-download/"><u>Updated 2024 Approved The Ultimate List 15 Best Adobe Premiere Pro Plugins to Download</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-itel-s23plus-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Itel S23+? Here is How | Dr.fone</u></a></li>
 </ul></div>
 

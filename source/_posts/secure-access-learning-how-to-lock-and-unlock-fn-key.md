@@ -1,7 +1,7 @@
 ---
 title: "Secure Access: Learning How to Lock and Unlock (Fn) Key"
-date: 2024-09-11T20:48:58.286Z
-updated: 2024-09-15T23:52:51.748Z
+date: 2024-09-15T18:31:23.304Z
+updated: 2024-09-20T18:46:25.415Z
 tags:
   - windows10
   - windows11
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
  To lock the Fn key, simply press the Fn key and the Esc key together. Once the lock icon lights up, the Fn key has been successfully locked. To unlock, you can press both keys together again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Access the BIOS Settings
 
  You can also change the hardware settings of your computer via the BIOS settings. Here is how you can lock or unlock the Fn key via BIOS:
@@ -58,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 3. Click on**UEFI Firmware Settings** and hit**Restart** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Windows 10 Troubleshoot Advanced Options UEFI Firmware Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/05/uefi-screenshot.jpg)
@@ -72,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 8. Choose the**Function key** option to lock it.  
 ![Function Key Behavior](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/function-key.jpg)
 9. Click F10 to save the changes, and then click**Yes** in the User Account Control prompt.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Use the Windows Mobility Center
 
@@ -87,10 +87,10 @@ Follow these steps to proceed:
  This should allow you to use the function keys without pressing the Fn key. In case you no longer want to use the Fn key and think that you will be better off disabling it, you can use the KeyTweak app to perform this action. Check out our guide on[how to disable specific keys on your keyboard in Windows](https://www.makeuseof.com/tag/disable-specific-keys-keyboard-windows-10/) for more information about KeyTweak.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Manage Your Fn Key Better on Windows
@@ -112,14 +112,20 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-essential-mac-screen-capturing-substitutes-for-bandicam/"><u>2024 Approved Essential Mac Screen Capturing Substitutes for Bandicam</u></a></li>
-<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-ways-to-stop-your-csgo-from-unexpectedly-crashing/"><u>Effective Ways to Stop Your CS:GO From Unexpectedly Crashing</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-read-only-files-windows-strategies-for-recovery/"><u>Fixing Read-Only Files: Windows Strategies for Recovery</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-motorola-edge-40-pro-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Motorola Edge 40 Pro?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/play-ocm-like-pros-strategies-and-tips-for-the-uninitiated/"><u>Play OCM Like Pros: Strategies and Tips for the Uninitiated</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-your-system-the-best-windows-software-to-ditch/"><u>Streamline Your System: The Best Windows Software to Ditch</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-win11s-password-vault-11-proven-strategies-for-easy-access/"><u>Unraveling Win11's Password Vault: 11 Proven Strategies for Easy Access</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gearing-up-for-youtube-success-cross-platform-strategies/"><u>[New] In 2024, Gearing Up for YouTube Success Cross-Platform Strategies</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-adding-frames-to-instagram-videos-3-procedures/"><u>2024 Approved Adding Frames to Instagram Videos - 3 Procedures</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-honor-x50i-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Honor X50i without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-and-dismantling-windows-11s-misaligned-html-emails/"><u>Deciphering and Dismantling Windows 11'S Misaligned HTML Emails</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-4-to-16gb-the-evolution-in-windows-computing-power/"><u>From 4 to 16GB: The Evolution in Windows Computing Power</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-preventing-invalid-file-paths-on-w11-pc/"><u>Guide to Preventing Invalid File Paths on W11 PC</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-honor-x50i-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor X50i in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enable-and-utilize-the-script-execution-policy-in-windows-powershell/"><u>How to Enable and Utilize the Script Execution Policy in Windows PowerShell</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-infinix-hot-30-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Infinix Hot 30 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/jumpstart-joy-eliminate-windows-11s-sluggishness/"><u>Jumpstart Joy: Eliminate Windows 11'S Sluggishness</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-memory-diagnostic-failures/"><u>Navigating Through Memory Diagnostic Failures</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-the-no-script-decree-in-windows-4-pathways-to-execution-enablement/"><u>Reversing the No-Script Decree in Windows: 4 Pathways to Execution Enablement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/taking-comedy-to-the-digital-frontier-your-gif-creation-roadmap-for-2024/"><u>Taking Comedy to the Digital Frontier Your GIF Creation Roadmap for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/windows-11-ultimate-video-recorder-software/"><u>Windows 11 Ultimate Video Recorder Software</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Reviving the Classics: Windows 11 for '98 Revisited"
-date: 2024-09-14T17:33:59.773Z
-updated: 2024-09-15T20:01:22.597Z
+date: 2024-09-13T18:11:56.622Z
+updated: 2024-09-20T16:29:35.957Z
 tags:
   - windows10
   - windows11
@@ -44,33 +44,20 @@ thumbnail: https://thmb.techidaily.com/482c489aae9be3633db03ca123df50eb46b4ca67b
 
  RetroBar is pretty self-explanatory. It's going to be crucial to get our taskbar looking just right, as well as restore classic functionality. This is another program that you might find useful aside from its classic look. Find it on[the RetroBar GitHub page](https://github.com/dremin/RetroBar) and download it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Desktop Sidebar
 
  This one might be optional if you don't care for the mostly forgotten Channel Bar, but if you do, head over to[the download page for Desktop Sidebar](http://www.oldversion.com/windows/desktop-sidebar-1-03-build-42) to add it to the collection.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Windows 98 Sound Pack
 
  Last, but very important, is the sound pack. We can import this directly as a sound scheme, although it's going to require some work later on. Download[this sound pack on Blockland Glass](https://blocklandglass.com/addons/addon.php?id=524) and we can finally begin.
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Install WindowBlinds 11 and Skin Pack
 
@@ -105,10 +92,10 @@ This gives us a fairly authentic-looking Start Menu and icon.
 ![screenshot of the retrobar settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_retrobar_settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  RetroBar will make an immediate difference, as soon as you run it. You'll notice that it automatically changes your taskbar to a classic style, with individual tabs for programs.
@@ -145,9 +132,23 @@ This gives us a fairly authentic-looking Start Menu and icon.
 
  Set the**Skin** to**Old Win Style by szaoservices.** Now it should look a lot more like the image above, and fit right in with the rest of your system.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Winaero Tweaker
 
 ![screenshot of winaero tweaker configuring icon settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_winaero_tweaker_icons_page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With WinAero Tweaker, we'll be doing some finishing touches. Install this program using the .exe and then use the search bar within the program to seek out the following options.
 
@@ -176,20 +177,13 @@ However, there is one icon you can only change using Winaero Tweaker.
 
 ![screenshot of windows 11 desktop with classic skin applied](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_windows_11_with_skin_applied-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The finished product feels very convincing when browsing and navigating menus. You'll feel right at home if you grew up on these classic Windows versions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What's New Is Old on Windows
@@ -215,18 +209,18 @@ However, there is one icon you can only change using Winaero Tweaker.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-next-level-recording-exploring-manycams-video-innovations/"><u>[New] 2024 Approved Next-Level Recording Exploring ManyCam's Video Innovations</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-efficient-ways-to-terminate-your-discord-membership/"><u>[Updated] In 2024, Efficient Ways to Terminate Your Discord Membership</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/affordable-topmate-c302-laptop-cooler-evaluation-value-packed-and-highly-functional/"><u>Affordable TopMate C302 Laptop Cooler Evaluation: Value-Packed and Highly Functional</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/bypassing-the-annoyance-fixing-constant-crashes-of-content-alerts-on-desktop-computers/"><u>Bypassing the Annoyance: Fixing Constant Crashes of Content Alerts on Desktop Computers</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-lost-renderer-phenomenon-in-ow2/"><u>Fixing the 'Lost Renderer' Phenomenon in OW2</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/green-screen-video-magic-must-know-methods-for-2024/"><u>Green Screen Video Magic Must-Know Methods for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-on-resolving-roblox-error-403-in-windows-environment/"><u>Guide on Resolving Roblox Error 403 in Windows Environment</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-convert-cr2-images-to-jpgs-on-windows/"><u>How to Convert CR2 Images to JPGs on Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-samsung-galaxy-m54-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Samsung Galaxy M54 5G Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/master-video-improvement-using-winxvideo-ai-in-depth-guide-to-clipping-coloring-optimizing-and-transforming-content/"><u>Master Video Improvement Using Winxvideo AI - In-Depth Guide to Clipping, Coloring, Optimizing, and Transforming Content</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-11-unveiling-rarely-used-functions/"><u>Mastering Windows 11: Unveiling Rarely Used Functions</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-razer-device-functionality-in-windows-11/"><u>Restoring Razer Device Functionality in Windows 11</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/uncharted-territories-of-data-loss-navigating-with-totans-guidance/"><u>Uncharted Territories of Data Loss - Navigating with Totan's Guidance</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unleash-creativity-with-these-top-10-instagram-reel-apps-for-2024/"><u>[New] Unleash Creativity with These Top 10 Instagram Reel Apps for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleash-your-gameplays-social-impact-from-xbox-live-to-facebook-for-2024/"><u>[New] Unleash Your Gameplay's Social Impact From Xbox Live to Facebook for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-key-steps-in-manipulating-song-pace-in-spotify-app-for-2024/"><u>[Updated] Key Steps in Manipulating Song Pace in Spotify App for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-leading-6-platforms-for-profitable-businesses-online/"><u>[Updated] Leading 6 Platforms for Profitable Businesses Online</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-skype-audio-capture-expert-picks-and-reviews-for-2024/"><u>[Updated] Skype Audio Capture Expert Picks and Reviews for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-steams-read-only-mode-for-library-folders-in-win-11/"><u>Fixing Steam's Read-Only Mode for Library Folders in Win 11</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-crash-ultimate-guide-to-resolving-error-code-0xc000021a-bsod-in-windows-10-and-8/"><u>Fixing the Crash: Ultimate Guide to Resolving Error Code 0xC000021A (BSoD) in Windows 10 & 8</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-manage-windows-11s-online-scanning-option/"><u>How to Manage Windows 11'S Online Scanning Option</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-show-or-hide-the-dim-display-after-option-in-the-power-options-menu-on-windows/"><u>How to Show or Hide the “Dim Display After” Option in the Power Options Menu on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo S17e? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-rectifying-wow-crashes-error-132/"><u>Mastering the Art of Rectifying WoW Crashes: Error 132</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-impact-of-online-gaming-on-the-appeal-of-solo-adventures-my-personal-story/"><u>The Impact of Online Gaming on the Appeal of Solo Adventures: My Personal Story</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-ultimate-guide-to-maximizing-your-medical-ads-on-fb-for-2024/"><u>The Ultimate Guide to Maximizing Your Medical Ads on FB for 2024</u></a></li>
 </ul></div>
 

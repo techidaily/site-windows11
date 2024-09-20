@@ -1,7 +1,7 @@
 ---
 title: How To Reconcile Windows' Privileged Access Denial (Error 0X80070522)
-date: 2024-09-13T17:56:26.317Z
-updated: 2024-09-15T20:52:31.761Z
+date: 2024-09-16T16:17:34.062Z
+updated: 2024-09-20T17:39:03.541Z
 tags:
   - windows10
   - windows11
@@ -46,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
  It’s not recommended to leave UAC off. Do what you must with the files when User Account Control is disabled. Then turn UAC back on after you’ve saved, moved, or copied the files as needed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Modify the Drive’s Sharing Permissions
@@ -68,15 +68,16 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 2. Select the**Full control** option’s**Allow checkbox for the Everyone** group.  
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-full-control-checkbox.jpg)
 3. Click the**Apply** and**OK** on the Permissions and Advanced Sharing windows.
-4. Select**Close** to exit the properties window.
-5. Then click**Power** and select**Restart** within your Start menu.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Select**Close** to exit the properties window.
+5. Then click**Power** and select**Restart** within your Start menu.
 
 ## Perform the Required File or Folder Actions on Windows
 
@@ -99,15 +100,20 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-what-does-the-blue-marker-on-fb-chat-reveal-in-2024/"><u>[New] What Does the Blue Marker on FB Chat Reveal, In 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-screencast-strategies-unleashed-powerful-ideas-inside-for-2024/"><u>[Updated] Screencast Strategies Unleashed Powerful Ideas Inside for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-3dr-navigating-the-single-user-realm-of-3d-tech/"><u>2024 Approved '3DR' Navigating the Single User Realm of 3D Tech</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-samsung-galaxy-a24-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-realme-11-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/linux-experience-without-wsl/"><u>Linux Experience Without WSL</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-business-efficiency-insights-into-trinet-and-abbyys-process-analytics-webinar/"><u>Mastering Business Efficiency: Insights Into TriNet & ABBYY's Process Analytics Webinar</u></a></li>
-<li><a href="https://windows11.techidaily.com/overhauling-the-standard-windows-11-launch-page/"><u>Overhauling the Standard Windows 11 Launch Page</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-for-windows-infamous-dism-error-0x800f082f/"><u>Quick Fix for Windows' Infamous DISM Error 0X800F082F</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-maintenance-made-easy-the-most-effective-5-uptime-checks/"><u>Windows 11 Maintenance Made Easy: The Most Effective 5 Uptime Checks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-making-a-lasting-impression-with-profile-clips/"><u>[New] In 2024, Making a Lasting Impression with Profile Clips</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-masterclass-in-instagram-story-downloads-and-creation/"><u>[Updated] 2024 Approved Masterclass in Instagram Story Downloads & Creation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-fixing-disconnected-headphone-unit/"><u>2024 Approved Fixing Disconnected Headphone Unit</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-your-guide-to-cost-free-android-screenshots/"><u>2024 Approved Your Guide to Cost-Free Android Screenshots</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-razer-blackshark-v2-microphone-problems-for-crystal-clear-audio/"><u>Fixing Razer BlackShark V2 Microphone Problems for Crystal Clear Audio</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stop-recurring-windows-settings-crashes/"><u>How to Stop Recurring Windows Settings Crashes</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-how-to-add-audio-fade-out-effect/"><u>New In 2024, How to Add Audio Fade Out Effect</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-context-menu-captivity-in-windows-systems/"><u>Overcome Context Menu Captivity in Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlined-microsoft-teams-quick-and-lightweight/"><u>Streamlined Microsoft Teams: Quick & Lightweight</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-for-mending-fatal-discord-javascript-crashes-on-windows-1011/"><u>Tactics for Mending Fatal Discord Javascript Crashes on Windows 10/11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/timeless-1980s-filters-and-techniques-in-editing-for-2024/"><u>Timeless 1980S Filters & Techniques in Editing for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transition-from-ps4-to-ps5-how-to-enjoy-your-older-games-on-the-new-platform/"><u>Transition From PS4 to PS5: How to Enjoy Your Older Games on the New Platform</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-correcting-error-0x8007251d-in-win-os/"><u>Understanding and Correcting Error 0X8007251d in Win OS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-picture-perfection-compreenhensive-facetune-review-for-2024/"><u>Unlock Picture Perfection Compreenhensive Facetune Review for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/which-browser-minimizes-cpu-and-ram-on-triple-system-os/"><u>Which Browser Minimizes CPU and RAM On Triple System OS?</u></a></li>
 </ul></div>
 

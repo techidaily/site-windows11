@@ -1,7 +1,7 @@
 ---
 title: "Tackling Sound Glitches on Windows 11: Error 0XC00D36B4"
-date: 2024-09-08T18:19:55.455Z
-updated: 2024-09-15T19:38:32.011Z
+date: 2024-09-14T19:15:42.368Z
+updated: 2024-09-20T17:36:43.963Z
 tags:
   - windows10
   - windows11
@@ -71,21 +71,14 @@ Here is how you can do that:
 7. Confirm your action in the User Account Control prompt and restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Upon reboot, restart the service by following the same steps mentioned above.
 9. Finally, restart your computer again and check if the issue is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Uninstall Nero Codecs
 
@@ -99,6 +92,13 @@ Here is how you can do that:
 4. Choose**Uninstall** and follow the on-screen instructions to complete the process.  
 ![Uninstall the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/win11-uninstall-program.jpg)
 5. Once done, restart your computer and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Disable Copy Protection
 
@@ -114,27 +114,14 @@ Here is how you can do that:
 3. Head over to the**Rip Music** tab and uncheck the box associated with**Copy protect music** .  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Uncheck the Copy protect music option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/copy-protect-music.jpg)
 4. Click**Apply** \>**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Update Audio Drivers
 
@@ -147,6 +134,13 @@ Here is how you can do that:
  Finally, you can try reinstalling the Windows Media Player which will clear out any issues within the media player itself that may be contributing to the issue.
 
  Alternatively, you can also consider switching to a third-party media player that offers a similar functionality until Microsoft releases an official fix for this issue. We have discussed some of the[best free media players for Windows](https://www.makeuseof.com/tag/top-5-free-media-players-for-windows/) in our previous guide which you can head over to, to make an informed decision.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Audio Issues in Windows, Resolved
 
@@ -169,18 +163,13 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-following-fades-track-losses-on-insta-for-2024/"><u>[New] Following Fades Track Losses on Insta for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-from-hd-to-breathtaking-eizos-newest-4k-display/"><u>[New] In 2024, From HD to Breathtaking EIZO's Newest 4K Display</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-unlocking-the-secrets-to-perfect-thumbnails/"><u>[Updated] 2024 Approved Unlocking the Secrets to Perfect Thumbnails</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-digital-influencers-riches-exceed-ages-kaji-ryan-story/"><u>[Updated] Digital Influencer's Riches Exceed Ages Kaji Ryan Story</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-innovations-in-podcasting-generating-custom-rss-files/"><u>2024 Approved Innovations in Podcasting Generating Custom RSS Files</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-restore-vanished-desktop-icons-in-windows-11-a-complete-guide/"><u>How to Restore Vanished Desktop Icons in Windows 11: A Complete Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-realme-gt-neo-5-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Realme GT Neo 5 FRP</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-top-five-mac-screen-seize-techniques-char-limit-156/"><u>In 2024, Top Five Mac Screen Seize Techniques (Char Limit 156)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/incorporating-spiritual-sounds-on-cellphones-for-2024/"><u>Incorporating Spiritual Sounds on Cellphones for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/one-side-windows-earbud-sound-recovery-guide/"><u>One-Side Windows Earbud Sound Recovery Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/turn-off-wired-laptop-keyboard-on-windows-system/"><u>Turn Off Wired Laptop Keyboard on Windows System</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-the-internets-locked-up-landmarks-fixes-for-windows-browsers/"><u>Unlocking the Internet's Locked-Up Landmarks: Fixes for Window's Browsers</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-windows-how-to-use-powershell-for-file-unblocking/"><u>Unlocking Windows: How to Use PowerShell for File Unblocking</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-auditory-enhancements-for-pixels-and-playlists/"><u>[New] In 2024, Auditory Enhancements for Pixels and Playlists</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-free-end-credits-maker-the-1-video-closers-guide/"><u>[Updated] Free End Credits Maker - The #1 Video Closers Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reactivate-bright-mode-in-stuck-windows-devices/"><u>How to Reactivate Bright Mode in Stuck Windows Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-digital-documentation-mobile-and-desktop-meeting-recordings/"><u>In 2024, Digital Documentation Mobile & Desktop Meeting Recordings</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-cream-of-the-crop-5-top-reaction-video-creators/"><u>New In 2024, The Cream of the Crop 5 Top Reaction Video Creators</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/securing-your-social-media-visuals-instagram-edition-for-2024/"><u>Securing Your Social Media Visuals Instagram Edition for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-deal-with-microsoft-offices-error-code-0x80041015/"><u>Strategies to Deal with Microsoft Office's Error Code: 0X80041015</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-corporate-controlled-browser-configuration-on-chromeedge/"><u>Streamlining Corporate Controlled Browser Configuration on Chrome/Edge</u></a></li>
 </ul></div>
 

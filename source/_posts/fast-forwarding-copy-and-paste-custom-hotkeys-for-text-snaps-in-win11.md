@@ -1,7 +1,7 @@
 ---
 title: "Fast-Forwarding Copy & Paste: Custom Hotkeys for Text Snaps in Win11"
-date: 2024-09-11T19:11:14.954Z
-updated: 2024-09-15T17:32:39.409Z
+date: 2024-09-15T17:49:28.268Z
+updated: 2024-09-20T19:56:10.510Z
 tags:
   - windows10
   - windows11
@@ -93,16 +93,10 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
  You can set up a program keyboard shortcut by selecting an app’s path within the Hot Key window. Click the**ellipses (…)** button for the**Command** box to select a program for a keyboard shortcut to open. Then you can also select additional**Process priority** and**Run as administrator** settings for the software the hotkey launches.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create Handy Hotkeys for Pasting Pre-Defined Text in Windows
@@ -124,15 +118,21 @@ thumbnail: https://thmb.techidaily.com/270945824bfc208da598210ea9d10172c37fe105e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-boosting-your-channel-strategies-for-skyrocketing-view-counts/"><u>2024 Approved Boosting Your Channel Strategies for Skyrocketing View Counts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-unleash-potential-ae-templates-for-aspiring-artists/"><u>2024 Approved Unleash Potential AE Templates for Aspiring Artists</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhanced-by-advanced-cookiebot-solutions/"><u>Enhanced by Advanced Cookiebot Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/keyboardmouse-wake-issues-in-windows-11/"><u>Keyboard/Mouse Wake Issues in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/lack-of-crtdll-leads-to-crash/"><u>Lack of crt.dll Leads to Crash</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-your-words-real-time-speech-to-text-with-whisper/"><u>Master Your Words: Real-Time Speech-to-Text with Whisper</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/optimizing-your-webcam-performance-in-windows-11-through-driver-updates/"><u>Optimizing Your Webcam Performance in Windows 11 Through Driver Updates</u></a></li>
-<li><a href="https://windows11.techidaily.com/regaining-lost-plans-windows-11-power-reset/"><u>Regaining Lost Plans: Windows 11 Power Reset</u></a></li>
-<li><a href="https://facebook.techidaily.com/steering-your-social-network-with-effective-rule-making/"><u>Steering Your Social Network with Effective Rule-Making</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-smart-ac-units-expert-picks/"><u>Top-Rated Smart AC Units: Expert Picks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-breakthrough-techniques-for-enhancing-video-quality-in-meet/"><u>[New] In 2024, Breakthrough Techniques for Enhancing Video Quality in Meet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-streamline-your-videos-with-these-titans/"><u>[New] Streamline Your Videos with These Titans</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-full-potential-of-windows-11s-video-production-suite/"><u>[New] Unlocking the Full Potential of Windows 11'S Video Production Suite</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-avoid-buffering-switch-av1-codec-on-youtube/"><u>[Updated] Avoid Buffering Switch AV1 Codec on YouTube</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-encyclopedia-of-hand-centered-interaction-systems/"><u>2024 Approved The Encyclopedia of Hand-Centered Interaction Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-microsofts-phone-link-for-android-usage-guide/"><u>Exploring Microsoft's Phone Link for Android: Usage Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-full-exploration-of-speech-to-text-features-within-gdoc/"><u>In 2024, A Full Exploration of Speech-to-Text Features Within GDoc</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximize-print-speed-on-windows-devices/"><u>Maximize Print Speed on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-between-google-share-and-windows-direct-network-links/"><u>Navigating Between Google Share and Windows Direct Network Links</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-failed-nvidia-connect-attempts-on-windows-11-pcs/"><u>Overcoming Failed Nvidia Connect Attempts on Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-empty-folder-puzzle-in-win-11/"><u>Overcoming the Empty Folder Puzzle in Win 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/solve-your-dvd-troubles-in-just-10-steps-quick-fixes-for-when-your-disc-isnt-working/"><u>Solve Your DVD Troubles in Just 10 Steps: Quick Fixes for When Your Disc Isn’t Working</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-and-overcoming-errorinvalidargument-in-wsl/"><u>Unraveling and Overcoming ERROR_INVALID_ARGUMENT in WSL</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/which-ai-tool-leads-for-coding-github-copilot-or-gpt-3-examined/"><u>Which AI Tool Leads for Coding? GitHub Copilot or GPT-3 Examined</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-hurdles-apps-with-dull-facades-draining-energy/"><u>Windows 11 Hurdles: Apps With Dull Facades Draining Energy</u></a></li>
 </ul></div>
 

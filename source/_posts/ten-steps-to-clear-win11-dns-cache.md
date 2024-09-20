@@ -1,7 +1,7 @@
 ---
 title: Ten Steps to Clear Win11 DNS Cache
-date: 2024-09-09T19:01:09.627Z
-updated: 2024-09-15T17:56:21.795Z
+date: 2024-09-14T17:54:17.892Z
+updated: 2024-09-20T18:49:44.529Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,13 @@ To flush the DNS cache using the Run command box, do as follows:
 ![Flush DNS Using the Run Command Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/flush-dns-using-the-run-command-box.jpg)
 3. Press**Ctrl + Shift + Enter** keys at once. The Command Prompt will launch, execute the flush command, and close automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Using CMD
 
  To clear the DNS resolver cache using CMD, repeat the following steps:
@@ -57,10 +64,10 @@ To flush the DNS cache using the Run command box, do as follows:
 4. You will see a “**Successfully flushed the DNS Resolver Cache.** ” message after the command execution.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Using PowerShell
@@ -73,10 +80,10 @@ To flush the DNS cache using the Run command box, do as follows:
 3. You won’t see a message after the command executes successfully. But you can open PowerShell again and view the DNS cache to confirm.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Using a Batch File
@@ -93,13 +100,6 @@ Repeat the following steps to create a DNS-clearing batch file:
 5. Now go to the batch file location and double-click on it.
 6. The Command Prompt will launch and execute the "**/** flushdns" command.
 7. Type**exit** and press the**Enter** key to close the command prompt window.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Flush Your Browser's DNS Records
 
@@ -132,18 +132,20 @@ Repeat the following steps to create a DNS-clearing batch file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-banish-coffee-stains-free-iphone-app-to-remove-red-eyes/"><u>[New] Banish Coffee Stains Free iPhone App to Remove Red Eyes</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-a-comprehensive-guide-to-producing-engaging-subtitles-and-captions-for-fb/"><u>[Updated] A Comprehensive Guide to Producing Engaging Subtitles and Captions for FB</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-pros-pathway-to-professional-video-conferencing-with-slack-and-filmora/"><u>[Updated] In 2024, The Pro's Pathway to Professional Video Conferencing with Slack & Filmora</u></a></li>
-<li><a href="https://extra-information.techidaily.com/discover-a-world-of-creative-slide-show-patterns-at-no-cost/"><u>Discover a World of Creative Slide Show Patterns at No Cost</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/prime-top-10-audio-capture-software-for-spotify-users/"><u>Prime Top 10 Audio Capture Software for Spotify Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/prioritize-your-pcs-protection-with-these-downloads/"><u>Prioritize Your PC's Protection with These Downloads</u></a></li>
-<li><a href="https://windows11.techidaily.com/reclaim-your-typing-efficiency-with-9-proven-fixes-for-broken-windows-shortcut-commands/"><u>Reclaim Your Typing Efficiency with 9 Proven Fixes for Broken Window's Shortcut Commands</u></a></li>
-<li><a href="https://windows11.techidaily.com/reimagine-windows-interface-a-journey-to-larger-icons/"><u>Reimagine Windows Interface: A Journey to Larger Icons</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-enabling-dark-display-on-calc-app/"><u>Step by Step: Enabling Dark Display on Calc App</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-overcome-java-virtual-machine-error-on-pcs/"><u>Steps to Overcome Java Virtual Machine Error on PCs</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-6s-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 6s</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-isnt-my-iphone-syncing-emails-solutions-to-update-your-inbox-efficiently/"><u>Why Isn't My iPhone Syncing Emails? Solutions to Update Your Inbox Efficiently</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-echocam-grabber-for-video-calls/"><u>[New] 2024 Approved EchoCam Grabber for Video Calls</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unveiling-obs-screen-recorder-functionality-deeply/"><u>[New] In 2024, Unveiling OBS Screen Recorder Functionality Deeply</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-5-minute-timelapse-video-maker-for-2024/"><u>[New] Ultimate 5-Minute Timelapse Video Maker for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-expert-techniques-for-uploading-youtubes-on-dailymotion/"><u>2024 Approved Expert Techniques for Uploading YouTubes on Dailymotion</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/critical-insights-how-to-rectify-the-persistent-red-screen-problems-on-windows-pcs/"><u>Critical Insights: How To Rectify The Persistent Red Screen Problems On Windows PCs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/descompunere-gratuita-si-simpla-in-time-de-webm-video-in-format-mp4/"><u>Descompunere Gratuita Și Simplă In-Time De Webm Video În Format Mp4</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-build-successful-youtube-advertisements-for-free/"><u>In 2024, How to Build Successful YouTube Advertisements for Free?</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-powershell-clearing-blocked-files-in-windows/"><u>Mastering PowerShell: Clearing Blocked Files in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-in-mending-windows-update-failures-0x712/"><u>Mastery in Mending Windows Update Failures: 0X712</u></a></li>
+<li><a href="https://windows11.techidaily.com/pricing-predicaments-what-youre-overlooking-with-inexpensive-windows-keys/"><u>Pricing Predicaments: What You're Overlooking with Inexpensive Windows Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-camera-unresponsive-on-windows-11/"><u>Remedying Camera Unresponsive on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/sync-or-not-addressing-windows-sluggish-internet/"><u>Sync or Not: Addressing Windows' Sluggish Internet</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-controllers-cry-solutions-for-steams-ignorance-in-windows/"><u>The Controller's Cry: Solutions for Steam's Ignorance in Windows</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-caused-the-social-media-blackout-epidemic/"><u>What Caused the Social Media Blackout Epidemic?</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-maintaining-a-valid-functional-temp-folder/"><u>Windows 11: Maintaining a Valid, Functional Temp Folder</u></a></li>
 </ul></div>
 

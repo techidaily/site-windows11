@@ -1,7 +1,7 @@
 ---
 title: Resolving Responsiveness Issues with Resource Monitor Apps on Win11
-date: 2024-09-10T22:21:56.622Z
-updated: 2024-09-15T21:03:35.848Z
+date: 2024-09-15T17:27:08.247Z
+updated: 2024-09-20T21:03:14.082Z
 tags:
   - windows10
   - windows11
@@ -69,8 +69,23 @@ To do this, follow these steps:
 3. When the UAC popup appears on the screen, click**Yes** to open Command Prompt with admin access. If you want in-depth information, read our guide on[running the command prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
 ![Run SFC Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-sfc-command.jpg)
 4. Now in the elevated Command Prompt window, type in the command below and press Enter:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 sfc /scannow
 5. Wait for the process to complete, then restart your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Check for Windows Updates
 
@@ -85,13 +100,6 @@ sfc /scannow
 
  If there are any updates available, it will download and install them automatically. After the download completes, install the updates and restart your computer. After that, check to see if Resource Monitor is working.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Uninstall the Latest Windows Updates
 
  If you recently updated your OS and there are no newer updates for it, the last update might have caused the issue. So, try uninstalling any recent update you may have installed, which could help resolve conflicts between the updates and existing system files that are causing problems with Resource Monitor.
@@ -103,22 +111,22 @@ sfc /scannow
 4. Scroll down to Related settings and click**Uninstall updates** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Uninstall the latest Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-the-latest-windows-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then select any recent updates that you want to uninstall. After that, restart your computer and check if Resource Monitor is now working properly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Create a New User Account
 
@@ -131,20 +139,14 @@ sfc /scannow
 ![Create a New User Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-a-new-user-account.jpg)
 5. On the Microsoft account page, click **I don't have this person's sign-in information** .
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then follow the instructions to add a new user account and then sign in with that account. Now open Resource Monitor and see if it's working properly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Troubleshoot in Clean Boot State
 
@@ -157,13 +159,6 @@ In such a case, you need to perform a clean boot as instructed below:
 3. Check the**Selective startup** box on the General tab.  
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
 4. Uncheck the**Load startup items** box.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Switch to the**Services** tab and check the**Hide all Microsoft services** box.  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
@@ -192,18 +187,20 @@ In such a case, you need to perform a clean boot as instructed below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-boost-visuals-zoom-in-on-snapchat-content/"><u>[New] Boost Visuals Zoom in on Snapchat Content</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-9gag-a-guide-for-memetic-creation/"><u>[New] Mastering 9GAG A Guide for Memetic Creation</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/reeminent-audience-alteration-tools-for-content-casters/"><u>[New] Preeminent Audience Alteration Tools for Content Casters</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-zero-to-hero-boosting-youtube-view-count-quickly-for-2024/"><u>[Updated] From Zero to Hero Boosting YouTube View Count Quickly for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-tips-on-managing-and-eliminating-your-windows-activity-logs/"><u>Expert Tips on Managing & Eliminating Your Windows Activity Logs</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-tecno-spark-go-2023-phone-by-drfone-android/"><u>How to Unlock a Network Locked Tecno Spark Go (2023) Phone?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/in-depth-analysis-secrets-inside-and-comprehensive-breakdown/"><u>In-Depth Analysis, Secrets Inside, and Comprehensive Breakdown.</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-12-pro-max-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 12 Pro Max in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/journey-into-windows-11s-core-understanding-the-registry/"><u>Journey Into Windows 11'S Core: Understanding the Registry</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/neon-font-creator-top-rated-online-tools-for-custom-neon-text/"><u>Neon Font Creator Top-Rated Online Tools for Custom Neon Text</u></a></li>
-<li><a href="https://windows11.techidaily.com/perfect-windows-11-desktop-backgrounds-experience/"><u>Perfect Windows 11 Desktop Backgrounds Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-guide-overcoming-fall-guys-link-issues-pc-wide/"><u>Troubleshooting Guide: Overcoming Fall Guys Link Issues PC-Wide</u></a></li>
-<li><a href="https://windows11.techidaily.com/unziping-woes-solutions-to-fix-windows-11s-errors/"><u>Unziping Woes: Solutions to Fix Windows 11'S Errors</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-crucial-collections-8-innovative-products-to-boost-your-professional-edge/"><u>[Updated] Crucial Collections 8 Innovative Products to Boost Your Professional Edge</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-from-watchlist-to-documents-a-comprehensible-list-of-six-mac-techniques-for-screenshotting-netflix-for-2024/"><u>[Updated] From Watchlist to Documents - A Comprehensible List of Six Mac Techniques for Screenshotting Netflix for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-inshot-pc-editing-made-easy/"><u>[Updated] Mastering Inshot PC Editing Made Easy</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-youtube-seo-guide-for-beginners-who-want-more-views-for-2024/"><u>[Updated] YouTube SEO Guide for Beginners Who Want More Views for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/eveo-bluetooth-driver-download-latest-version-available-now/"><u>EVEO Bluetooth Driver Download - Latest Version Available Now!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-realtek-drivers-for-your-windows-10-compatible-card-reader/"><u>Get the Latest Realtek Drivers for Your Windows 10 Compatible Card Reader</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-top-5-cinematiccamera-tips/"><u>In 2024, Top 5 Cinematic/Camera Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-of-windows-display-settings/"><u>Mastery of Windows Display Settings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/monthly-free-secure-entryway-monitoring-with-the-eufy-security-e340-smart-video-door-bell/"><u>Monthly-Free Secure Entryway Monitoring with the Eufy Security E340 Smart Video Door Bell</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-windows-upgrades-mastering-the-installation-of-elusive-features/"><u>Seamless Windows Upgrades: Mastering the Installation of Elusive Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/switching-off-geforce-ui-in-windows-settings/"><u>Switching Off GeForce UI in Windows Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-sound-glitches-on-windows-11-error-0xc00d36b4/"><u>Tackling Sound Glitches on Windows 11: Error 0XC00D36B4</u></a></li>
+<li><a href="https://windows11.techidaily.com/title-manage-icons-gaps-to-create-a-neat-windows-ui/"><u>Title: Manage Icons Gaps to Create a Neat Windows UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-woes-no-more-essential-fixers-ranked/"><u>Windows Woes No More: Essential Fixers Ranked</u></a></li>
 </ul></div>
 

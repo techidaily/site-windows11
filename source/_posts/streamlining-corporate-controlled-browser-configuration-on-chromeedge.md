@@ -1,7 +1,7 @@
 ---
 title: Streamlining Corporate Controlled Browser Configuration on Chrome/Edge
-date: 2024-09-09T22:43:54.350Z
-updated: 2024-09-15T16:37:34.110Z
+date: 2024-09-19T17:45:26.299Z
+updated: 2024-09-20T19:16:07.204Z
 tags:
   - windows10
   - windows11
@@ -68,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 7. For**Edge** , navigate to**\\Microsoft\\MicrosoftEdge** . In the right pane, check for any suspicious policies. If it exists, right-click on the policy and select**Delete** .
 8. Close Registry Editor and restart your computer to see if the message is removed.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Remove All the Group Policies for the Users Using Command Prompt
 
  If you can’t find the policies in Registry Editor, you can remove all the group policies for the User's account using Command Prompt. This will remove all the group policies, including any setup by malware. So, be sure to reconfigure any custom group policies you had before on the computer.
@@ -91,15 +84,22 @@ RD /S /Q "%WinDir%\System32\GroupPolicy"
 `gpupdate /force`
 6. Close Command Prompt and check if the message is removed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Reset Chrome and Edge
 
 ![Clicking on the Reset Button to Restore Settings to their Original Defaults in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-reset-button-to-restore-settings-to-their-original-defaults-in-chrome-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A browser reset removes settings and shortcuts, disables extensions, and deletes cookies and other temporary site data. It doesn’t remove your bookmarks or passwords, so it is completely safe to perform.
@@ -122,6 +122,13 @@ To reset Microsoft Edge:
 3. Click**Reset** to confirm the action.
 4. You’ll need to enable your extensions after the reset is complete.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Run MalwareBytes AdwCleaner
 
 ![malwarebytes adwcleaner windows](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malwarebytes-adwcleaner-windows.jpg)
@@ -135,13 +142,6 @@ To remove adware using MalwareBytes:
 3. Once the scan is complete, click**Next** to quarantine selected items.
 4. Next, it will show the pre-installed apps. You can leave them unchecked and click**Quarantine** . This should remove any and all adware on your computer.
 5. Close the app and relaunch your browser to check for any improvements.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Perform a Windows Reset
 
@@ -179,20 +179,20 @@ To perform a Windows system reset:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-youtube-revenue-demystified/"><u>[Updated] In 2024, YouTube Revenue Demystified</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-12-mini-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 12 mini Without Passcode Easily</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/narratives-in-motion-transforming-thoughts-into-words/"><u>Narratives in Motion Transforming Thoughts Into Words</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-windows-with-ease-using-these-5-folder-tips/"><u>Navigate Windows with Ease Using These 5 Folder Tips</u></a></li>
-<li><a href="https://android-frp.techidaily.com/oppo-reno-10-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Oppo Reno 10 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-the-iomap64-blue-screen-of-death-in-windows-78/"><u>Overcoming the IOMap64 Blue Screen of Death in Windows 7/8</u></a></li>
-<li><a href="https://fox-http.techidaily.com/prime-7-video-software-for-apple-machines-for-2024/"><u>Prime 7 Video Software for Apple Machines for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/reinstating-normalcy-regain-your-fb-account-for-2024/"><u>Reinstating Normalcy Regain Your FB Account for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/retrospective-on-classic-ratchet-and-clank-reenvisioned-and-revitalized/"><u>Retrospective on Classic Ratchet & Clank Reenvisioned and Revitalized</u></a></li>
-<li><a href="https://windows11.techidaily.com/stealth-mode-for-windows-11-search-bar-on-taskbar/"><u>Stealth Mode for Windows 11 Search Bar on Taskbar</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-8-best-video-cutting-apps-for-windows-10-and-11/"><u>The 8 Best Video Cutting Apps for Windows 10 & 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-artisans-guide-to-win-1011-wall-decorations/"><u>The Artisan's Guide to Win 10/11 Wall Decorations</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-tecno-phantom-v-fold-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Tecno Phantom V Fold Location | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-apple-iphone-6s-plus-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-techniques-for-embedding-youtube-in-slides-on-google-slate/"><u>[Updated] In 2024, Techniques for Embedding YouTube in Slides on Google Slate</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-laptop-landscapes-curate-the-ultimate-collection-of-screen-decor/"><u>[Updated] Laptop Landscapes Curate the Ultimate Collection of Screen Decor</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-text-workflow-in-after-effects/"><u>[Updated] Streamlining Text Workflow in After Effects</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-the-leading-2024-freeware-for-creating-stunning-brand-watermarks-top-15-picks/"><u>Discover the Leading 2024 Freeware for Creating Stunning Brand Watermarks (Top 15 Picks)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/exploring-advanced-iphone-techniques-in-hdr-photography/"><u>Exploring Advanced iPhone Techniques in HDR Photography</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/high-performance-internet-hub-unpacking-the-features-of-tp-link-archer-a3-ac1200-reviewed/"><u>High-Performance Internet Hub: Unpacking the Features of TP-Link Archer A^3 AC1200 Reviewed</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Intercept Text Messages on Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-eliminate-error-0x0000004e-in-win1011/"><u>Quick Guide to Eliminate Error 0X0000004E in Win10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-turning-word-into-a-reader-only-application-for-email-content/"><u>Quick Guide: Turning Word Into a Reader-Only Application for Email Content</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-setup-for-xbox-controllers-download-essential-wireless-adapters-now/"><u>Quick Setup for Xbox Controllers - Download Essential Wireless Adapters Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-the-winscomrsvc-failure-on-initial-launch/"><u>Resolving the WinscomrsVc Failure on Initial Launch</u></a></li>
+<li><a href="https://windows11.techidaily.com/smooth-sailing-in-the-web-world-keeping-your-connection-steady/"><u>Smooth Sailing in the Web World: Keeping Your Connection Steady</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-wisdom-unleashing-sticky-notes-on-win11/"><u>Tech Wisdom: Unleashing Sticky Notes on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-and-remedying-error-code-0x80071a90-windows-issue/"><u>Unraveling and Remedying Error Code: 0X80071A90 Windows Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-premier-data-syncing-apps-expertly-curated-selections/"><u>Windows' Premier Data Syncing Apps: Expertly Curated Selections</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Guide to Correct Oculus App Errors in WinXI/WinXC
-date: 2024-09-11T20:45:58.259Z
-updated: 2024-09-15T18:54:52.688Z
+date: 2024-09-16T18:05:02.836Z
+updated: 2024-09-20T20:08:49.566Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
  Disabling proxy servers is another fix a few Oculus app users confirm can fix the “we encountered an error” installation issue. You can deselect the **Use a proxy server** checkbox within Internet Properties. Our [guide to disabling proxy settings in Windows](https://www.makeuseof.com/windows-11-disable-proxy/) includes step-by-step instructions for how you can deselect that setting.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Temporarily Disable Microsoft Defender (or Third-Party Antivirus)
@@ -56,16 +56,16 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
  If you utilize third-party antivirus software, turn off that app’s antivirus shield. Right-click a system tray icon for the antivirus software and select an option that will turn off its real-time antivirus shield (preferably for no longer than 30-60 minutes). Then try installing Oculus with your antivirus protection turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Turn Off the Windows Firewall
 
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-windows-defender-firewall-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Windows firewall can disrupt the Oculus server connection required for the software installation. So, temporarily disable the Microsoft Defender Firewall before installing the Oculus app. Check out this [how-to turn off Microsoft Defender Firewall guide](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) for instructions about how to do so. Then have another go at installing the Oculus software with the firewall disabled.
 
@@ -77,19 +77,6 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 2. Click the **Download** option for .NET Framework 4.6.1.  
 ![The Download button for .NET Framework 4.6.1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/download-button-1.jpg)
 3. Bring up the directory containing the downloaded .NET Framework setup file.
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Double-click the **NDP461-KB3102438-Web.exe** file to bring up the setup window.
 5. Select to install .NET Framework 4.6.1 if you need to.
@@ -112,23 +99,18 @@ C:\Users\<User Folder>\AppData`
 
  You can also utilize a third-party uninstaller utility like IObitUninstaller to clear away leftover Oculus folders and registry keys. When you’ve eradicated all leftover Oculus subfolders, open this [Meta download page](https://www.meta.com/us/en/quest/setup/). Then click **Download Software** to get the latest Windows Oculus app for your VR headset and try installing it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Install the Oculus Windows Software
 
  Many users have resolved the “we encountered an error” Oculus app installation issue by applying those potential solutions. So, there’s a good chance one will fix the Oculus app not installing on your Windows PC. Then you get back to playing all your favorite Rift PC VR games again.
 
  However, some users can’t install the Oculus Windows app because of an error message that says, “Sorry, we encountered an error during installation.” Users can’t utilize Rift headsets without that software installed. Quest 2 users can’t play Rift PC VR games because of this issue. This is how you can fix the “we encountered an error” Oculus app installation issue.
-
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-perfect-harmony-how-to-add-audio-content-in-adobe-premiere/"><u>[New] 2024 Approved Perfect Harmony How To Add Audio Content in Adobe Premiere</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-lava-yuva-3-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Lava Yuva 3 to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-mastering-twitch-broadcasts-recording-essentials/"><u>In 2024, Mastering Twitch Broadcasts Recording Essentials</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-streamlining-the-process-of-ppt-recording/"><u>In 2024, Streamlining the Process of PPT Recording</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-incompatible-file-issue-in-windows-vlc/"><u>Overcoming Incompatible File Issue in Windows VLC</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-update-glitch-windows-error-0x80246007-fix/"><u>Resolving Update Glitch: Windows' Error 0X80246007 Fix</u></a></li>
-<li><a href="https://fox-that.techidaily.com/teach-your-iphone-to-type-correctly-a-guide-to-fixing-autocorrect-issues-in-six-steps/"><u>Teach Your iPhone to Type Correctly: A Guide to Fixing Autocorrect Issues in Six Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/turbocharge-valorant-windows-download-optimization-guide/"><u>Turbocharge Valorant: Windows Download Optimization Guide</u></a></li>
-</ul></div>
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -137,3 +119,18 @@ C:\Users\<User Folder>\AppData`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-5-creative-tiktok-caption-ideas-for-maximum-impact/"><u>[New] In 2024, 5 Creative TikTok Caption Ideas for Maximum Impact</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-engage-efficiently-leading-insta-filters/"><u>[New] In 2024, Engage Efficiently Leading Insta Filters</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-100plus-cool-gaming-channel-names-for-every-gamer/"><u>[Updated] In 2024, 100+ Cool Gaming Channel Names for Every Gamer</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-puzzling-problem-of-error-code-c0000005-in-win-os/"><u>Fixing the Puzzling Problem of Error Code C0000005 in Win-OS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-y27-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Vivo Y27 5G</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-the-fitbit-charge-3-worth-your-investment-expert-review-inside/"><u>Is the Fitbit Charge 3 Worth Your Investment? Expert Review Inside!</u></a></li>
+<li><a href="https://windows11.techidaily.com/migrate-onedrive-to-a-desired-folder-on-win-11/"><u>Migrate OneDrive to a Desired Folder on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/repairing-windows-11s-isdonedll-file-failure/"><u>Repairing Windows 11'S ISDone.dll File Failure</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-tutorial-download-and-set-up-displaylink-on-windows-10/"><u>Step-by-Step Tutorial: Download and Set Up DisplayLink on Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-evolution-of-burst-mode-in-gopro-cameras/"><u>The Evolution of Burst Mode in GoPro Cameras</u></a></li>
+</ul></div>
+

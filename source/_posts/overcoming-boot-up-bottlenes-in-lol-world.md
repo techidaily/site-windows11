@@ -1,7 +1,7 @@
 ---
 title: Overcoming Boot-Up Bottlenes in LOL World
-date: 2024-09-11T23:20:39.860Z
-updated: 2024-09-15T21:28:54.364Z
+date: 2024-09-14T18:56:59.935Z
+updated: 2024-09-20T21:44:15.662Z
 tags:
   - windows10
   - windows11
@@ -65,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 
 ![router placed on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-router.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the device is connected, [check the stability of the internet connection](https://www.makeuseof.com/check-stability-internet-connection-windows/). If the connection appears to be unstable, [apply the appropriate fixes to stabilize it](https://www.makeuseof.com/tag/fix-slow-unstable-wi-fi-connection/).
 
 ## 4\. Disable Cheat Software
@@ -89,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 3. To end each process, right-click on it and click **End task**.  
 ![Ending the Riot Process in Windows Task Manager App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2-ending-the-riot-process-in-windows-task-manager-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Free Up System Resources
 
  League of Legends is an extremely resource-hungry game. It requires substantial processing power to function correctly. If your system hardware barely meets the minimum game requirements, ensure enough resources are available for the game to run smoothly.
@@ -105,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
  If that is the case, you will need to close graphics-intensive tasks simultaneously running alongside the game. By closing them, your system will have more resources available that League of Legends can use to function smoothly.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Delete the Config and Logs Folders
@@ -124,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 4. To delete these folders, simply right-click on them and select **Delete**.  
 ![Deleting the Config Folder of League of Legends in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/3-deleting-the-config-folder-of-league-of-legends-in-windows-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Disable Any Active In-Game Overlays
 
  Do you use any in-game overlays, especially the Discord overlay, when playing League of Legends? If so, you should disable them before starting the game to ensure the game doesn't get stuck on the loading screen because of an overlay. To turn off the Discord overlay, follow the below steps:
@@ -134,10 +127,10 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 ![Disabling the Discord Overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Discord-Overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you don't want to turn off the overlay for all games but only League of Legends, follow the below steps:
@@ -147,7 +140,21 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 3. Click the **monitor icon** next to League of Legends.  
 ![Disable Discord Overlay for a Specific Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-discord-overlay-for-a-specific-game-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you use any other overlay, you can also turn it off in a similar manner within the settings of the app.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Whitelist League of Legends From the Windows Defender Firewall
 
@@ -159,13 +166,6 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 
  If none of the above fixes solve your problem and the game doesn't open, you may need to reinstall it. Before you begin the installation process, you should uninstall the existing installation. Once you have uninstalled it, you can reinstall the game after downloading it from the official website, just as you did the first time.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Get Back to Playing League of Legends on Windows
 
  When League of Legends does not open, frustration may set in. If your system meets the minimum game requirements and you aren't experiencing any specific errors, the fixes above should fix the problem, and you should be able to play the game. When none of the fixes work, reinstall the game.
@@ -174,25 +174,6 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
 
  This article will discuss the causes of League of Legends not opening and how to resolve the issue.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-hand-tracking-insights-and-types/"><u>[Updated] Hand Tracking Insights and Types</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-optimizing-fb-techniques-for-shooting-and-posting-360-vids-for-2024/"><u>[Updated] Optimizing FB Techniques for Shooting & Posting 360 Vids for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-fixing-glitches-seeing-your-own-face-in-fb-live/"><u>2024 Approved Fixing Glitches Seeing Your Own Face in FB Live</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/establishing-system-heat-control-on-windows-os/"><u>Establishing System Heat Control on Windows OS</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-slow-to-fast-how-to-create-time-lapses-in-final-cut-pro-for-2024/"><u>From Slow to Fast How to Create Time Lapses in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-open-the-control-panel-as-an-administrator-in-windows/"><u>How to Open the Control Panel as an Administrator in Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-compreayer-guide-to-iphone-hdr-mastery/"><u>In 2024, The Compreayer Guide to iPhone HDR Mastery</u></a></li>
-<li><a href="https://windows11.techidaily.com/increase-speed-of-task-manager-view-on-windows-11/"><u>Increase Speed of Task Manager View on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/instructions-to-create-safe-dialogue-for-hardware-disconnect/"><u>Instructions to Create Safe Dialogue for Hardware Disconnect</u></a></li>
-<li><a href="https://windows11.techidaily.com/preventing-constant-display-of-edge-buttons/"><u>Preventing Constant Display of Edge Buttons</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-motorola-g54-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Motorola G54 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-hdd-and-ssd-identification-on-windows/"><u>The Ultimate Guide to HDD & SSD Identification on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/transitioning-to-kali-your-windows-pathway/"><u>Transitioning to Kali: Your Windows Pathway</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -200,3 +181,23 @@ thumbnail: https://thmb.techidaily.com/7aded2edc417202acc9394b304042727d6eb0d2ac
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-mastering-whatsapp-call-recording-techniques/"><u>[New] 2024 Approved Mastering WhatsApp Call Recording Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-online-slot-scanner-summary/"><u>2024 Approved ONLINE SLOT SCANNER SUMMARY</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-install-latest-asus-laptop-driver-updates/"><u>Download and Install Latest ASUS Laptop Driver Updates</u></a></li>
+<li><a href="https://article-helps.techidaily.com/efficient-management-and-use-of-b-roll-footage-for-2024/"><u>Efficient Management and Use of B-Roll Footage for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-update-for-wacom-cintiq-13hd-drivers-download-now/"><u>Effortless Update for Wacom Cintiq 13HD Drivers - Download Now!</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-merge-folders-and-files-in-windows-10-and-11/"><u>How to Merge Folders and Files in Windows 10 and 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comparing-magix-music-maker-and-studio-max/"><u>In 2024, Comparing Magix Music Maker and Studio Max</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-preeminent-free-websites-for-aspiring-vector-designers/"><u>In 2024, Guide to Preeminent Free Websites for Aspiring Vector Designers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-wireless-methods-to-mirrorapple-iphone-6-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>In 2024, Wireless Methods to MirrorApple iPhone 6 & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/linux-experience-without-wsl/"><u>Linux Experience Without WSL</u></a></li>
+<li><a href="https://windows11.techidaily.com/overhauling-the-standard-windows-11-launch-page/"><u>Overhauling the Standard Windows 11 Launch Page</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfecting-the-art-of-virtualizing-windows-11-in-vmware/"><u>Perfecting the Art of Virtualizing Windows 11 in VMware</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-for-windows-infamous-dism-error-0x800f082f/"><u>Quick Fix for Windows' Infamous DISM Error 0X800F082F</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-null-device-error-on-win-11/"><u>Troubleshooting Null Device Error on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-maintenance-made-easy-the-most-effective-5-uptime-checks/"><u>Windows 11 Maintenance Made Easy: The Most Effective 5 Uptime Checks</u></a></li>
+</ul></div>
+

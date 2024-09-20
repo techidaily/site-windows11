@@ -1,7 +1,7 @@
 ---
 title: Solutions for Unlinked Device Errors in Win
-date: 2024-09-11T22:56:35.520Z
-updated: 2024-09-15T19:01:09.851Z
+date: 2024-09-18T20:59:52.136Z
+updated: 2024-09-20T18:40:25.819Z
 tags:
   - windows10
   - windows11
@@ -64,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
 6. Select **Apply** to save the new file settings.
 7. Click **OK** to close the file's properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Edit the File's Permissions
 
  Another cause of the "cannot access the specified device" error message is insufficient file permissions. That's something you can remedy by editing the permissions for affected files. So, try editing an affected file's permissions as follows:
@@ -85,20 +78,14 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
 ![The Deny checkboxes for file permissions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deny-checkboxes.jpg)
 8. Select **Apply** to set the new permission settings.
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. Press the **OK** buttons on all windows.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Recreate a Program's Shortcut
 
@@ -109,21 +96,16 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
 ![The Shortcut option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shortcut-option.jpg)
 3. Then click **Browse** to select an EXE file the error occurs for and press the **OK** button.  
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Create Shortcut tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-shortcut-window.jpg)
 4. Select **Next** and input a shortcut title in the text box.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click **Finish** to add the new program shortcut.
 6. Right-click the program's old shortcut to select **Delete** (the trash can button in Windows 11).
 
@@ -150,10 +132,10 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
 4. Double-click the **Admin Approval Mode for Built-in Administrator** account policy.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Then select the **Enabled** radio button.  
@@ -167,6 +149,13 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
 
 ![Add an exclusion button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-an-exclusion-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Temporarily Disable Any Active Third-Party Security Software
 
  Some third-party antivirus apps share similar app-blocking features to Windows Security. Thus, alternative security software can also feasibly cause the same issue to occur much the same. So, try turning off any third-party antivirus software installed on your PC before attempting to run affected EXE software.
@@ -178,10 +167,10 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
  Should this potential solution work, you'll know what's causing it. However, don't leave your antivirus software disabled. Add affected files to the security software's exceptions list.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Repair or Reinstall the File
@@ -203,19 +192,6 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
 
  So, how do you solve the "cannot access the specified device" error? Check out some of the troubleshooting steps you can take below.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-live-video-showdown-which-is-superior-virusmixwirecast-for-2024/"><u>[Updated] Live Video Showdown Which Is Superior, VirusMix/WireCast for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-maximizing-reach-youtubes-template-advantage-explained/"><u>2024 Approved Maximizing Reach YouTube's Template Advantage Explained</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/avoiding-the-traps-how-students-can-ethically-leverage-cheatgpt-for-academic-success/"><u>Avoiding the Traps: How Students Can Ethically Leverage CheatGPT for Academic Success</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/beat-junkies-essentials-online-cost-free-software/"><u>Beat Junkies' Essentials Online, Cost-Free Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-started-with-brother-hl-l2380dw-on-your-windows-computer-driver-downloads-and-installation-steps/"><u>Get Started with Brother HL-L2380DW on Your Windows Computer – Driver Downloads and Installation Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-reestablish-razer-device-detection-via-windows-synapse/"><u>How to Reestablish Razer Device Detection via WIndows' Synapse</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-components-management-in-windows-os/"><u>Mastering Components Management in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-repairing-package-failures-in-windo/"><u>Mastering the Art of Repairing Package Failures in Windo</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-choices-identifying-your-ideal-home-edition-or-pro/"><u>Mastering Windows Choices: Identifying Your Ideal Home Edition or Pro</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -223,3 +199,18 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-crafting-professional-edits-including-sounds-in-premiere-projects/"><u>[New] 2024 Approved Crafting Professional Edits Including Sounds in Premiere Projects</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-gain-command-over-youtubes-video-playback-speed/"><u>[New] 2024 Approved Gain Command Over YouTube's Video Playback Speed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/vercoming-shyness-in-the-spotlight-top-video-blogger-fears-for-2024/"><u>[New] Overcoming Shyness in the Spotlight Top Video Blogger Fears for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-honor-x50i-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Honor X50i?</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-your-workspace-dragging-tabs-window-explorer-ways/"><u>Optimize Your Workspace: Dragging Tabs, Window Explorer Ways</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-oppo-reno-10-pro-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Oppo Reno 10 Pro 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-uninstalling-and-reinstalling-on-windows-11/"><u>Quick Guide to Uninstalling and Reinstalling on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-address-steams-unsyncable-files-dilemma-on-pc/"><u>Strategies to Address Steam's Unsyncable Files Dilemma on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-quick-solutions-to-windows-1011-update-error-codes/"><u>Unlocking Quick Solutions to Windows 10/11 Update Error Codes</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-writers-choice-best-sticky-note-software-alternatives/"><u>Windows Writers' Choice: Best Sticky Note Software Alternatives</u></a></li>
+</ul></div>
+

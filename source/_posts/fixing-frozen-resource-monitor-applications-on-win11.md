@@ -1,7 +1,7 @@
 ---
 title: Fixing Frozen Resource Monitor Applications on Win11
-date: 2024-09-08T19:09:21.019Z
-updated: 2024-09-15T21:05:06.727Z
+date: 2024-09-14T21:06:19.822Z
+updated: 2024-09-20T18:35:19.722Z
 tags:
   - windows10
   - windows11
@@ -59,10 +59,16 @@ To change the DPI scale to its default settings, follow these steps:
  Once you have made the changes, close the Settings window and run the Resource Monitor app to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Run the System File Checker
@@ -76,6 +82,14 @@ To do this, follow these steps:
 3. When the UAC popup appears on the screen, click**Yes** to open Command Prompt with admin access. If you want in-depth information, read our guide on[running the command prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) .  
 ![Run SFC Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/run-sfc-command.jpg)
 4. Now in the elevated Command Prompt window, type in the command below and press Enter:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 sfc /scannow
 5. Wait for the process to complete, then restart your PC.
 
@@ -90,13 +104,20 @@ sfc /scannow
 3. When Windows Update opens, click the**Check for updates** button.  
 ![Check for Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-updates.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If there are any updates available, it will download and install them automatically. After the download completes, install the updates and restart your computer. After that, check to see if Resource Monitor is working.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall the Latest Windows Updates
@@ -112,6 +133,13 @@ sfc /scannow
 
  Then select any recent updates that you want to uninstall. After that, restart your computer and check if Resource Monitor is now working properly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Create a New User Account
 
  If you're still having issues, try[creating a new local user account](https://www.makeuseof.com/windows-11-create-local-user-account/) and see if that fixes the issue. This can be helpful if corrupted user profile data or settings cause the problem. To do so, follow the steps below:
@@ -125,13 +153,6 @@ sfc /scannow
 
  Then follow the instructions to add a new user account and then sign in with that account. Now open Resource Monitor and see if it's working properly.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Troubleshoot in Clean Boot State
 
  When all else fails, try starting your computer in safe mode and see if the problem persists. If it does not, then background services and applications are possibly conflicting with startup items and causing this error to occur.
@@ -144,13 +165,6 @@ In such a case, you need to perform a clean boot as instructed below:
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
 4. Uncheck the**Load startup items** box.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Switch to the**Services** tab and check the**Hide all Microsoft services** box.  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 6. Then click**Disable All** .
@@ -158,13 +172,6 @@ In such a case, you need to perform a clean boot as instructed below:
 8. Disable any services or programs that are active in Startup apps.
 
  Once you have done this, close Task Manager, then click**OK** on the MSConfig window to save these changes. Now restart your computer for them to take effect, then try using Resource Monitor to see if they work now.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Resolve Resource Monitor Issues in Windows 11
 
@@ -185,21 +192,14 @@ In such a case, you need to perform a clean boot as instructed below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-navigating-video-uploads-on-social-platforms/"><u>[New] In 2024, Navigating Video Uploads on Social Platforms</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-unlocking-verified-status-essential-strategies-for-increasing-instagram-popularity-for-2024/"><u>[New] Unlocking Verified Status Essential Strategies for Increasing Instagram Popularity for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/building-a-reliable-routine-for-google-meet-sessions-for-2024/"><u>Building a Reliable Routine for Google Meet Sessions for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/easy-steps-for-documenting-user-account-control-messages/"><u>Easy Steps for Documenting User Account Control Messages</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-words-read-aloud-feature-when-it-stops-working-in-windows/"><u>How to Fix Word’s Read Aloud Feature When It Stops Working in Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-mastering-the-art-of-making-an-effective-podcast-launch-video/"><u>In 2024, Mastering the Art of Making an Effective Podcast Launch Video</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 13 Pro Max</u></a></li>
-<li><a href="https://windows11.techidaily.com/managing-excessive-cpu-consumption-by-dropbox-on-windows/"><u>Managing Excessive CPU Consumption by Dropbox on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-in-game-network-links-in-windows-mc/"><u>Mastering In-Game Network Links in Windows MC</u></a></li>
-<li><a href="https://windows11.techidaily.com/showing-d-drive-directories-in-explorer-view/"><u>Showing D: Drive Directories in Explorer View</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-enabling-dark-display-on-calc-app/"><u>Step by Step: Enabling Dark Display on Calc App</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-initiating-amazon-echo-dot-into-setup-mode/"><u>Step-by-Step Tutorial on Initiating Amazon Echo Dot Into Setup Mode</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-fixing-driver-not-responding-in-windows-11/"><u>Steps for Fixing 'Driver Not Responding' In Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-and-tailoring-your-systems-startups-in-windows-11/"><u>Understanding and Tailoring Your System's Startups in Windows 11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-capture-your-audience-the-smartphone-guide-to-youtube-thumbnails/"><u>[Updated] 2024 Approved Capture Your Audience The Smartphone Guide to YouTube Thumbnails</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-premiere-pro-power-tools-your-ultimate-2023-samples-free/"><u>[Updated] 2024 Approved Premiere Pro Power Tools - Your Ultimate 2023 Samples (FREE)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-from-concept-to-creation-crafting-youtube-video-splits/"><u>[Updated] In 2024, From Concept to Creation Crafting YouTube Video Splits</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-troubleshoot-and-resolve-sound-issues-in-your-windows-11-pc/"><u>How to Troubleshoot and Resolve Sound Issues in Your Windows 11 PC</u></a></li>
+<li><a href="https://discover-community.techidaily.com/lossless-conversion-techniques-transforming-hevc-files-into-high-quality-mp4/"><u>Lossless Conversion Techniques: Transforming HEVC Files Into High-Quality MP4</u></a></li>
+<li><a href="https://windows11.techidaily.com/power-up-notifications-ensuring-a-fully-charged-battery-on-win11/"><u>Power-Up Notifications: Ensuring a Fully Charged Battery on Win11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-issue-of-mingwm10dll-file-absent-from-system-step-by-step-guide/"><u>Solving the Issue of mingwm10.dll File Absent From System - Step by Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-windows-11s-steam-connectivity-issues/"><u>Solving Windows 11'S Steam Connectivity Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-avoid-frozen-game-launchers/"><u>Strategies to Avoid Frozen Game Launchers</u></a></li>
 </ul></div>
 

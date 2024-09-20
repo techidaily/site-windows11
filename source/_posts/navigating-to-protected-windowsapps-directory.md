@@ -1,7 +1,7 @@
 ---
 title: Navigating to Protected WindowsApps Directory
-date: 2024-09-09T17:24:53.788Z
-updated: 2024-09-15T20:30:19.399Z
+date: 2024-09-17T16:06:46.524Z
+updated: 2024-09-20T20:43:25.820Z
 tags:
   - windows10
   - windows11
@@ -85,16 +85,10 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
  Moreover, you can also check out some [free tools for taking control of files and folders](https://www.makeuseof.com/take-ownership-of-windows-files-and-folders-with-these-tools/) on Windows. Such tools allow you to take full ownership of all your files and folders with a single click.
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 2\. How to Access WindowsApps via a PowerShell Command
@@ -121,6 +115,13 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 
  If you're facing crashes while executing the file, make sure to check out some [effective ways to fix PowerShell crash errors](http://www.makeuseof.com/windows-powershell-has-stopped-working-error-fix/).
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. How to Access WindowsApps via a Registry Hack
 
  There's another quick way to do the same thing with just a few steps. If you cannot use the PowerShell method stated above, you can use a simple registry hack to access the files in one go.
@@ -132,13 +133,6 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 ![Take Ownership Registry File In Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Take-Ownership-Registry-File.jpg)
 3. On the next screen, click **Yes** to add it to the registry.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Next, exit the popup by clicking **OK** and navigate to the **C:\\Program Files** directory.
 5. Select the **WindowsApps** folder and right-click on it.
 6. From the context menu, click the **Take Ownership** option.  
@@ -146,10 +140,10 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 7. In the Command Prompt, you must [give User Account Control Administrator rights](https://www.makeuseof.com/tag/user-account-control-windows-10/) for the registry hack to work. After that, please wait a few minutes for the window to close. Soon, it will display success messages constantly in the Command Prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once finished, you'll no longer face the "You've been denied permission" error on clicking the WindowsApps folder.
@@ -164,22 +158,6 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 
  Thankfully, you can remove unnecessary files from the WindowsApps folder to free up some space. But it's a little hard to get to this folder because it's protected and hidden in Windows File Explorer. Here are some ways to access the WindowsApps Folder on Windows and make necessary changes to it.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-daily-deeds-for-digital-diaries-tips-on-virtual-journeys-for-2024/"><u>[Updated] Daily Deeds for Digital Diaries Tips on Virtual Journeys for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-dive-deep-into-dynamic-dialogue-dives/"><u>2024 Approved Dive Deep Into Dynamic Dialogue Dives</u></a></li>
-<li><a href="https://article-helps.techidaily.com/adding-depth-to-narratives-through-b-clips/"><u>Adding Depth to Narratives Through B-Clips</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-tips-for-handling-windows-security-mishaps/"><u>Expert Tips for Handling Windows Security Mishaps</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-unveiling-magix-video-pro-x-capabilities/"><u>In 2024, Unveiling Magix Video Pro X Capabilities</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-prevention-of-automatic-bios-entry-at-booting/"><u>Mastering Prevention of Automatic BIOS Entry at Booting</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-window-management-with-keys/"><u>Mastering the Art of Window Management with Keys</u></a></li>
-<li><a href="https://windows11.techidaily.com/securely-uninstalling-windows-11-printers-without-errors/"><u>Securely Uninstalling Windows 11 Printers Without Errors</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-10-mp4-convertors-from-mkv-on-pc-and-mac-with-free-trials/"><u>Top 10 MP4 Convertors From MKV on PC and Mac with Free Trials</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-solution-to-stop-xcom-angs-on-your-windows-pc-now/"><u>Ultimate Solution to Stop XCOM Angs on Your Window's PC - Now</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-fixes-for-microsoft-store-error-0x80131500/"><u>Unveiling Fixes for Microsoft Store Error 0X80131500</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Realme Narzo N53 | Dr.fone</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -187,3 +165,17 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/create-and-share-the-funniest-memes-for-2024/"><u>Create and Share the Funniest Memes for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/eye-catching-images-windows-10s-screenshot-feature-for-2024/"><u>Eye-Catching Images Windows 10'S Screenshot Feature for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/leap-past-loading-delays-on-lotr-launchpad-lol/"><u>Leap Past Loading Delays on LOTR Launchpad (LOL)</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-warhammers-precision-gameplay-end-stuttering-on-windows/"><u>Mastering Warhammer's Precision Gameplay - End Stuttering on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-non-responsive-sliders-on-windows-systems/"><u>Resolving Non-Responsive Sliders on Windows Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solution-for-roblox-wont-start-problems-tips-and-fixes/"><u>Step-by-Step Solution for Roblox Won't Start Problems (Tips & Fixes)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-definitive-breakdown-of-the-revolutionary-xbox-series-x-for-4k-enthusiasts/"><u>The Definitive Breakdown of the Revolutionary Xbox Series X for 4K Enthusiasts</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unveiling-the-power-of-vita-your-ultimate-guide-to-mastering-the-cutting-edge-video-editor/"><u>Unveiling the Power of VITA: Your Ultimate Guide to Mastering the Cutting-Edge Video Editor</u></a></li>
+<li><a href="https://windows11.techidaily.com/your-winning-strategy-unraveling-and-fixing-11-windows-problems/"><u>Your Winning Strategy: Unraveling & Fixing 11 Windows Problems</u></a></li>
+</ul></div>
+

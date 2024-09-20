@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Windows After Failed Sign-In
-date: 2024-09-09T19:25:40.301Z
-updated: 2024-09-15T20:30:37.667Z
+date: 2024-09-13T16:46:15.375Z
+updated: 2024-09-20T22:00:33.371Z
 tags:
   - windows10
   - windows11
@@ -82,22 +82,8 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 ![local users and groups account properties windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/local-users-and-groups-account-peroperties-windows.jpg)
 5. Next, select **Properties**.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![local users and groups unselect account is disabled account is locked out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/local-users-and-groups-unselect-account-is-disabled-account-is-locked-out.jpg)
 6. In the **Properties** dialog, open the **General** tab.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Here, uncheck Account is disabled, and Account is locked out option.
 8. Click **Apply** and **OK** to save the changes.
@@ -116,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 ![script remove pin win user account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/sccript-remove-pin-win-user-account.jpg)
 2. Next, copy and paste the following script into the Notepad file:  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `@echo off  
 powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'  
 'takeown /f C:\Windows\ServiceProfiles\LocalService\AppData\Local\Microsoft\NGC /r /d y'  
@@ -135,11 +114,26 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 3. Press **Ctrl + S** to open the Save dialog and name the file **Remove-Win-Account-PIN.bat**.  
 ![save remove win account pin batch script](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/save-remove-win-account-pin-batch-script.jpg)
 4. Next, click the **Save as type** drop-down and select **All files**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click **Save** to create the batch script.
 
  To execute the script, double-click on it and click Yes when prompted by User Account Control.
 
  Upon execution, the script will PIN for all the user accounts on your computer. Once done, you can [set up a new PIN for your user account on Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Change the Account Lockout Threshold Policy
 
@@ -160,10 +154,10 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 6. Click **Apply** and **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Edit the Account Lockout Policy Using Registry Editor
@@ -181,14 +175,28 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 4. In the right pane, locate and right-click on **MaxDenials**.  
 ![modify Maxdenials registry DWORD value registry editor 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-maxdenials-registry-dword-value-registry-editor-1.jpg)
 5. Select **Modify**.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![modify Maxdenials registry DWORD value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-maxdenials-registry-dword-value-registry-editor.jpg)
 6. Type **0** in the **Value data** field and click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Close Registry Editor and reboot your computer to apply the changes.
@@ -203,26 +211,6 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
  Windows may show this error for various reasons, including a temporary glitch, corrupted login PIN, or incorrect account configuration. Here, we guide you through a few troubleshooting steps to resolve the error and regain access to your computer.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-efficiently-transfer-vids-from-premiere-to-youtube-for-2024/"><u>[New] Efficiently Transfer Vids From Premiere to YouTube for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-live-stream-success-obs-steps-to-shine-on-youtube/"><u>[Updated] Live Stream Success OBS Steps to Shine on Youtube</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-avc-player-on-devices/"><u>2024 Approved Ultimate AVC Player on Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/microsofts-windows-11-reimagined-with-ai-infused-taskbar-companion/"><u>Microsoft's Windows 11 Reimagined with AI-Infused Taskbar Companion</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/revolutionize-your-cleaning-routine-a-deep-dive-into-the-capabilities-of-the-dreame-bot-l1-10/"><u>Revolutionize Your Cleaning Routine: A Deep Dive Into the Capabilities of the Dreame Bot L1지오트피로 10 프루</u></a></li>
-<li><a href="https://techtrends.techidaily.com/steps-to-address-when-your-computer-cant-find-xlivedll/"><u>Steps to Address When Your Computer Can't Find Xlive.dll</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/swift-systems-for-rearranging-youtube-video-lineup/"><u>Swift Systems for Rearranging YouTube Video Lineup</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-file-overload-utilizing-windows-automatic-cleanup/"><u>Tackling File Overload: Utilizing Windows' Automatic Cleanup</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-samsung-galaxy-s24plus-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Samsung Galaxy S24+ Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-revolutionary-appeal-of-apples-m1-max-clip-for-2024/"><u>The Revolutionary Appeal of Apple's M1 Max Clip for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-troubleshooting-photoscape-on-new-windows-systems/"><u>Tips for Troubleshooting Photoscape on New Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-access-denied-message-in-microsoft-office-for-pc/"><u>Troubleshooting 'Access Denied' Message in Microsoft Office for PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-unresponsive-copypaste-on-windows-11/"><u>Troubleshooting Unresponsive Copy/Paste on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unshackling-from-the-internet-localized-onedrive-usage/"><u>Unshackling From the Internet: Localized OneDrive Usage</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-windows-11-shortcut-wizardry-for-efficient-control/"><u>Unveiling Windows 11 Shortcut Wizardry for Efficient Control</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updating-facebook-video-coverage-with-ease/"><u>Updating Facebook Video Coverage with Ease</u></a></li>
-</ul></div>
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -230,3 +218,15 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
     
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-ultimate-list-of-android-mobas/"><u>[New] 2024 Approved The Ultimate List of Android MOBAs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-quick-musical-notes-understanding-youtube-shorts/"><u>In 2024, Quick Musical Notes Understanding YouTube Shorts</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-your-windows-11-pointer-more-visible-and-tactile/"><u>Making Your Windows 11 Pointer More Visible and Tactile</u></a></li>
+<li><a href="https://win-dash.techidaily.com/microsoft-edge-now-features-an-irritating-notification-update-on-windows/"><u>Microsoft Edge Now Features an Irritating Notification Update on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-with-precision-enriching-windows-explorer-commentary/"><u>Navigate with Precision: Enriching Windows Explorer Commentary</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfect-ringtones-leading-download-pages/"><u>Perfect Ringtones Leading Download Pages</u></a></li>
+<li><a href="https://windows11.techidaily.com/trim-your-pcs-warm-up-3-keys-for-a-speedy-win11-launch/"><u>Trim Your PC's Warm-Up: 3 Keys for a Speedy Win11 Launch</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Tackling Non-Opening: Fixes for Double-Click Failures in W10/W11"
-date: 2024-09-11T23:05:01.446Z
-updated: 2024-09-15T18:52:50.770Z
+date: 2024-09-16T17:20:22.692Z
+updated: 2024-09-20T17:26:50.548Z
 tags:
   - windows10
   - windows11
@@ -57,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 
 ![The System File Checker command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-sfc-scannow3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Edit the Shell Registry Key
 
  Quite a few users have confirmed editing the **shell** registry key can fix the double-clicking of folders not working in Windows 11/10\. Those users changed that key’s **(Default)** string value to fix the issue. These are the steps for editing the **shell** key:
@@ -78,13 +71,20 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 ![The (Default) string value for the shell registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-default-string-value.jpg)
 6. Click **OK** to save the new **(Default)** string value.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You might need to [restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) for this registry tweak to take effect. Alternatively, restart Windows and then try double-clicking a folder to see if it opens.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Edit the Mouse Registry Key
@@ -102,14 +102,14 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 ![The MouseHoverWidth string value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-mousehoverwidth-string-value.jpg)
 5. Repeat the previous two steps for the **MouseHoverHeight**, **DoubleClickHeight**, and **DoubleClickWidth** strings in the **Mouse** key. Set their values to **4**, just like you did for the **MouseHoverWidth**string.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you’ve finished adjusting those string values, exit the Registry Editor and restart your PC. If you find all those strings are already set to four, you don’t need to change them.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Turn Off Controlled Folder Access
 
@@ -123,16 +123,23 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 3. Scroll down a little and click on **Manage ransomware protection**.  
 ![The Manage ransomware protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/manage-ransomware-protection.jpg)
 4. Click the **Controlled folder access** toggle switch to turn off that setting.  
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Controlled folder access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/controlled-folder-access-setting.jpg)
 
  Then, go into File Explorer and try opening some folders again to see if disabling that security feature makes a difference. If it does, then it’s probably best to leave controlled folder access off.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Revert Windows to a Restore Point
 
@@ -145,16 +152,10 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
  To apply this potential fix, check out our guide on [utilizing System Restore](https://www.makeuseof.com/use-system-restore-windows/). The System Restore tool will need to be enabled for you to select a restoration point. Be prepared to reinstall software packages a selected restore point deletes, which you can check by clicking **Scan for affected programs** in System Restore.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make Double-Clicking Open Folders on Windows Again
@@ -174,21 +175,20 @@ thumbnail: https://thmb.techidaily.com/dc54f112c78b3afb0110331eb25c5f493a4d3b214
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-the-use-and-maintenance-of-m1-max-clips/"><u>[New] Mastering the Use and Maintenance of M1 Max Clips</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-visualize-for-a-friendly-facebook/"><u>[New] Visualize for a Friendly Facebook</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/adobe-explores-cutting-edge-firefly-ai-technology-for-next-gen-imagery-creation/"><u>Adobe Explores Cutting-Edge Firefly AI Technology for Next-Gen Imagery Creation</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-windows-data-source-configuration-interface/"><u>Exploring Windows Data Source Configuration Interface</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixes-for-reactivating-the-windows-firewall-system/"><u>Fixes for Reactivating the Windows Firewall System</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-c12-pro-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from C12 Pro.</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/phrase-phantom-fight-gpt-vs-google-in-translation/"><u>Phrase Phantom Fight: GPT Vs. Google in Translation</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedy-for-windows-no-sound-despite-connected-devices/"><u>Remedy for Windows: No Sound Despite Connected Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/roaming-without-restrictions-tethered-internet-access-via-roku-for-students-and-travellers/"><u>Roaming Without Restrictions: Tethered Internet Access via Roku for Students and Travellers</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-decrease-cpu-spikes-from-modules-installer/"><u>Strategies to Decrease CPU Spikes From Modules Installer</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlined-methods-program-size-modification-via-keyboard-in-win11/"><u>Streamlined Methods: Program Size Modification via Keyboard in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailoring-new-interface-redesigned-widgets-chooser-for-win11/"><u>Tailoring New Interface: Redesigned Widgets Chooser for Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-troubleshooting-photoscape-on-new-windows-systems/"><u>Tips for Troubleshooting Photoscape on New Windows Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-cybercrime-the-role-of-ai-in-crafting-romance-scam-techniques/"><u>Unveiling Cybercrime: The Role of AI in Crafting Romance Scam Techniques</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/44or44k944kz44oz5lik44gn44gu44ot44oh44kq5zue6lui5oqa6kgtic0g54sh5paz44ks44kk44oj/"><u>パソコン上でのビデオ回転技術 - 無料ガイド</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-tactics-to-make-fb-videos-attractive-and-effective/"><u>[New] In 2024, Tactics to Make FB Videos Attractive and Effective</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-navigating-igtv-a-video-uploading-handbook-for-2024/"><u>[New] Navigating IGTV A Video Uploading Handbook for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-streamlining-meetings-with-snap-camera-on-teams-for-2024/"><u>[Updated] Streamlining Meetings with Snap Camera on Teams for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-learn-how-to-change-number-on-tiktok-with-working-methods/"><u>2024 Approved Learn How to Change Number on TikTok with Working Methods</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-tips-to-fix-broken-xbox-series-sx/"><u>Expert Tips to Fix Broken Xbox Series S/X</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-honor-x7b-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Honor X7b? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-error-code-0xc0000001-on-windows-10-or-11/"><u>How to Fix Error Code 0Xc0000001 on Windows 10 or 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-xiaomi-redmi-a2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Xiaomi Redmi A2 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-resolution-of-windows-store-error-0x80073d26/"><u>Navigating the Resolution of Windows Store Error 0X80073D26</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-error-0x800700e1-in-windows-11-os/"><u>Solutions for Error 0X800700E1 in Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-remedy-for-win-11-store-failures-code-x00000000/"><u>Swift Remedy for Win 11 Store Failures: Code X00000000</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-busy-resource-issue-in-windows-environments-153-chars/"><u>Tackling the Busy Resource Issue in Windows Environments (153 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-blueprint-instantly-creating-multiple-directories-for-a-neat-workspace-on-windows/"><u>The Complete Blueprint: Instantly Creating Multiple Directories for a Neat Workspace on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-overcoming-onedrives-add-folder-unsuccessful-on-pc/"><u>Troubleshooting: Overcoming OneDrive's 'Add Folder Unsuccessful' On PC</u></a></li>
 </ul></div>
 
