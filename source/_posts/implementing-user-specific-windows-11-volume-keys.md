@@ -145,65 +145,7 @@ thumbnail: https://thmb.techidaily.com/5f63ba1e3593ebd7d73d1c72fb68eace0cd63a5c8
 
  However, you can set up custom volume control hotkeys in Windows 11 with some third-party software. Once set up, you’ll be able to change the volume with the press of a few hotkeys instead of fiddling around with sound control bars. Here is how to set up keyboard shortcuts for muting, maximizing, increasing, and decreasing volume with NirCmd and Volume Control.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-advanced-techniques-flawless-insertion-of-vimeo-video-in-slides/"><u>[New] 2024 Approved  Advanced Techniques  Flawless Insertion of Vimeo Video in Slides</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-4-easy-ways-to-screen-record-lenovo-laptop/"><u>[New] 4 Easy Ways to Screen Record Lenovo Laptop</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-live-tv-mastery-capturing-content-on-your-windows-pc/"><u>[New] Live TV Mastery  Capturing Content on Your Windows PC</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-makeup-inspiration-videos-for-2024/"><u>[New] Makeup Inspiration Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-organize-and-download-fb-links-optimized-tools-for-23-for-2024/"><u>[New] Organize and Download FB Links  Optimized Tools for '23 for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-strength-of-details-why-hdr-triumphs-over-sdr/"><u>[New] The Strength of Details  Why HDR Triumphs Over SDR</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-ultimate-guide-to-multi-video-watching-on-youtube/"><u>[Updated] 2024 Approved  The Ultimate Guide to Multi-Video Watching on YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-connectivity-at-its-peak-usb-c-and-the-hp-envy-27-monitor/"><u>[Updated] Connectivity at Its Peak  USB-C & the HP Envy 27 Monitor</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-insider-secrets-mastering-unseen-social-media-features/"><u>[Updated] Insider Secrets  Mastering Unseen Social Media Features</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-zooming-elevate-your-tiktok-videos/"><u>[Updated] The Art of Zooming  Elevate Your TikTok Videos</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-a-symphony-of-shades-applying-complementary-colors/"><u>2024 Approved  A Symphony of Shades  Applying Complementary Colors</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-wanderlust-wonders-crafting-engaging-travel-content-for-your-audience/"><u>2024 Approved  Wanderlust Wonders  Crafting Engaging Travel Content for Your Audience</u></a></li>
-<li><a href="https://win11.techidaily.com/essentials-for-enabling-win11-on-5ghz-networks-effortlessly/"><u>Essentials for Enabling Win11 on 5GHz Networks Effortlessly</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-the-elegance-of-taotronics-tt-dl16-with-our-in-depth-led-desk-lamp-analysis/"><u>Experience the Elegance of TaoTronics TT-DL16 with Our In-Depth LED Desk Lamp Analysis</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-organization-restricted-options-errors-in-windows-11-os/"><u>Fixing Organization-Restricted Options Errors in Windows 11 OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-sound-devices-not-opened-by-audacity-in-win-os/"><u>How to Fix Sound Devices Not Opened by Audacity in Win OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-discord-game-detection-feature-not-working-on-windows/"><u>How to Fix the Discord Game Detection Feature Not Working on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-turn-your-silent-slack-alerts-back-on-win-11-style/"><u>How to Turn Your Silent Slack Alerts Back On, Win 11 Style</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-xs-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone XS to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-xr21-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nokia XR21 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-obs-vs-wirecast-ultimate-broadcast-showdown/"><u>In 2024, OBS vs Wirecast  Ultimate Broadcast Showdown</u></a></li>
-<li><a href="https://windows11.techidaily.com/mute-irrelevant-suggestions-on-windows-11/"><u>Mute Irrelevant Suggestions on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-risks-cheap-windows-activation-key-drawbacks/"><u>Navigating the Risks: Cheap Windows Activation Key Drawbacks</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimal-windows-solutions-for-video-file-editing-and-conversion/"><u>Optimal Windows Solutions for Video File Editing & Conversion</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-4-windows-11-email-issues-resolving-unavailable-mail-alerts/"><u>Overcoming 4 Windows 11 Email Issues: Resolving Unavailable Mail Alerts</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-11-version-22h2-update-non-installation-barrier/"><u>Overcoming Windows 11 Version 22H2 Update Non-Installation Barrier</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolve-icloud-install-issues-on-windows-quickly/"><u>Resolve iCloud Install Issues on Windows Quickly</u></a></li>
-<li><a href="https://windows11.techidaily.com/screen-separation-strategies-wallpapers-per-monitor-windows-style/"><u>Screen Separation Strategies: Wallpapers per Monitor, Windows Style</u></a></li>
-<li><a href="https://windows11.techidaily.com/securely-delete-saved-wi-fi-from-win-11/"><u>Securely Delete Saved Wi-Fi From Win 11</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/solution-the-primary-cause-of-arc-blow-in-welding-processes-is-magnetic-fields-that-deflect-the-arc-away-from-its-intended-path/"><u>Solution: The Primary Cause of Arc Blow in Welding Processes Is Magnetic Fields that Deflect the Arc Away From Its Intended Path</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-enlisting-widgets-in-windows-11-ui/"><u>Steps for Enlisting Widgets in Windows 11 UI</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-overcoming-windows-0x800704b3-problems/"><u>Strategies for Overcoming Windows' 0X800704B3 Problems</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-stopping-microsoft-teams-from-shutting-down-ws11ws10/"><u>Strategies for Stopping Microsoft Teams From Shutting Down WS11/WS10</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-avoid-blackout-while-playing-windows-games/"><u>Strategies to Avoid Blackout While Playing Windows Games</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-counteract-source-not-available-errors-in-windows-1011/"><u>Strategies to Counteract Source Not Available Errors in Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-windows-camera-software-hurdles/"><u>Tackling Windows Camera Software Hurdles</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-for-enhancing-result-visibility-on-windows-1011/"><u>Techniques for Enhancing Result Visibility on Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-art-of-file-reinstatement-in-windows-os/"><u>The Art of File Reinstatement in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-essential-blueprint-for-direct-access-in-windows-11/"><u>The Essential Blueprint for Direct Access in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-key-to-no-fuss-vbox-installation-deps-please/"><u>The Key to No-Fuss VBox Installation? Deps, Please</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-overcoming-generic-sound-failure-in-windows/"><u>Tips for Overcoming Generic Sound Failure in Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tooninnovate-master-review-year-2024-edition/"><u>ToonInnovate Master Review - Year 2024 Edition</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/transform-into-a-metaverse-virtuoso-essential-tools-list/"><u>Transform Into a Metaverse Virtuoso - Essential Tools List</u></a></li>
-<li><a href="https://ai-video.techidaily.com/translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide/"><u>Translate Videos Like a Pro with Subtitle Cat Your Essential Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-systemsettingsexe-failure-on-windows-11/"><u>Troubleshooting SystemSettings.exe Failure on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/ultimate-strategy-batch-convert-heic-files-to-jpeg-in-windows-11/"><u>Ultimate Strategy: Batch Convert HEIC Files to JPEG in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-printer-offline-on-windows-11/"><u>Understanding 'Printer Offline' On Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/uninstall-and-reinstall-how-to-get-icloud-on-windows/"><u>Uninstall and Reinstall: How to Get iCloud on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleashing-full-potential-mastering-windows-11s-launchpad/"><u>Unleashing Full Potential: Mastering Windows 11'S Launchpad</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-windows-service-command-line-issues-a-list-of-7-solutions/"><u>Unlocking Windows Service Command Line Issues: A List of 7 Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/unravel-and-solve-your-windows-update-puzzle-fast/"><u>Unravel and Solve Your Windows Update Puzzle Fast!</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-and-tackling-error-code-0x803f700f-in-windows-activation/"><u>Unraveling and Tackling Error Code 0X803f700f in Windows Activation</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-powertoys-windows-11-installation-guide/"><u>Unveiling PowerToys: Windows 11 Installation Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-tweaks-for-swifter-epic-games-setup/"><u>Windows Tweaks for Swifter Epic Games Setup</u></a></li>
-<li><a href="https://windows11.techidaily.com/write-better-work-smarter-5-pc-apps-guide/"><u>Write Better, Work Smarter: 5 PC Apps Guide</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

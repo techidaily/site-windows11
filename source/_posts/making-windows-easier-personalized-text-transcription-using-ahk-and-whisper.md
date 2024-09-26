@@ -291,76 +291,7 @@ Gui, Add, DropDownList, x345 y5 w165 h100 vTaskType, transcribe||translate|`
 
  With AutoHotkey, we can effortlessly create a basic GUI for command-line apps like Whisper. So, let's do that and see how you can create your own transcription app by combining AutoHotkey's GUI-making superpowers with OpenAI's Whisper as the "brain" behind the buttons.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-dimming-dynamics-understated-audio-alteration-in-garageband-for-2024/"><u>[New] Dimming Dynamics  Understated Audio Alteration in Garageband for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-expert-advice-for-flawless-recordings-on-mi-11-phones-for-2024/"><u>[New] Expert Advice for Flawless Recordings on Mi 11 Phones for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-fraps-as-a-video-recorder-what-you-need-to-know/"><u>[New] In 2024, Fraps as a Video Recorder  What You Need To Know</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-mastering-quadcopter-power-5-premium-engine-choices/"><u>[New] In 2024, Mastering Quadcopter Power  5 Premium Engine Choices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-top-tier-free-video-editing-software-guide-for-iphoneipad-users/"><u>[New] Top-Tier Free Video Editing Software Guide for iPhone/iPad Users</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-expert-guidelines-to-improve-zoom-on-chromeos/"><u>[Updated] 2024 Approved  Expert Guidelines to Improve Zoom on ChromeOS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-exclusive-guide-top-5-streamlined-recording-software/"><u>[Updated] Exclusive Guide  Top 5 Streamlined Recording Software</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-guide-to-mastering-asmr-experience/"><u>[Updated] In 2024, Essential Guide to Mastering ASMR Experience</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-beginners-guide-to-easy-multi-snap-chat-videos-and-edits/"><u>[Updated] In 2024, The Beginner's Guide to Easy Multi-Snap Chat Videos & Edits</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-adobe-audition-101-the-art-of-fading-on/"><u>2024 Approved  Adobe Audition 101  The Art of Fading On</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-movie-magic-tiktok-effects-techniques/"><u>2024 Approved  Mastering Movie Magic  TikTok Effects Techniques</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-preserving-the-pixels-how-to-download-animated-tweets-from-twitter/"><u>2024 Approved  Preserving the Pixels  How To Download Animated Tweets From Twitter</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-reflect-and-record-capture-your-window-world/"><u>2024 Approved  Reflect & Record  Capture Your Window World</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-13t-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-s18-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo S18 Pro without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/apples-next-gen-marvel-iphone-15-pro-vs-pro-max-showdown/"><u>Apple's Next-Gen Marvel: IPhone 15 Pro Vs. Pro Max Showdown</u></a></li>
-<li><a href="https://driver-error.techidaily.com/asus-laptop-tip-fixing-the-picture-displayed-invertedly/"><u>ASUS Laptop Tip: Fixing the Picture Displayed Invertedly</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/demystifying-recmeisters-advanced-screen-capture-technology-for-2024/"><u>Demystifying Recmeister's Advanced Screen Capture Technology for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-update-drivers-for-your-acer-predator-xb2n-hu-in-a-jiffy/"><u>Download & Update Drivers for Your Acer Predator XB2n-HU in a Jiffy!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-ways-to-repair-and-restart-your-corsair-icue-on-microsofts-latest-os-windows-11/"><u>Effective Ways to Repair and Restart Your Corsair iCUE on Microsoft's Latest OS, Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-strategies-for-windows-activation-failure-0x803f700f/"><u>Expert Strategies for Windows Activation Failure: 0X803F700f</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-ineffectual-system-defrag-functionality/"><u>Fixing Ineffectual System Defrag Functionality</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-overcoming-the-msvcr110dll-deficit/"><u>Guide to Overcoming the Msvcr110.dll Deficit</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-re-implementing-windows-11s-search-bar-as-an-icon/"><u>Guide: Re-Implementing Windows 11'S Search Bar as an Icon</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-best-free-mac-apps-for-professional-tiktok-cuts/"><u>In 2024, Best Free Mac Apps for Professional TikTok Cuts</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-realme-12-pro-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Realme 12 Pro 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-xiaomi-14-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Xiaomi 14 Pro FRP Bypass</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-understanding-control-over-sound-dampening-in-audacity/"><u>In 2024, Understanding Control over Sound Dampening in Audacity</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/leading-titles-the-top-5-android-apps-for-ps2-games-for-2024/"><u>Leading Titles  The Top 5 Android Apps for PS2 Games for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/leverage-your-smartphones-capability-to-store-social-snaps-for-2024/"><u>Leverage Your Smartphone's Capability to Store Social Snaps for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/low-cost-high-risks-9-concerns-with-sub-standard-windows-keys/"><u>Low Cost, High Risks: 9 Concerns with Sub-Standard Windows Keys</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-the-art-of-logging-into-windows-11-with-password-instead-of-pin/"><u>Master the Art of Logging Into Windows 11 with Password Instead of PIN</u></a></li>
-<li><a href="https://windows11.techidaily.com/masterful-manipulation-of-your-identity-name-on-windows-11/"><u>Masterful Manipulation of Your Identity Name on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-booting-windows-11-3-key-usb-methods/"><u>Mastering Booting Windows 11: 3 Key USB Methods</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-github-desktop-on-windows-step-by-step-guide/"><u>Mastering GitHub Desktop on Windows: Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-11s-context-menu-with-additional-software-icons/"><u>Mastering Windows 11'S Context Menu with Additional Software Icons</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-errors-with-amd-195-setup/"><u>Mastering Windows Errors with AMD 195 Setup</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-of-windows-11-text-illumination-control/"><u>Mastery of Windows 11 Text Illumination Control</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-over-maintaining-your-note-apps-data/"><u>Mastery Over Maintaining Your Note App's Data</u></a></li>
-<li><a href="https://windows11.techidaily.com/microsoft-family-safety-your-complete-reference/"><u>Microsoft Family Safety: Your Complete Reference</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-user-interface-manage-filter-key-options-in-windows/"><u>Optimize User Interface: Manage Filter Key Options in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-csgo-not-starting-in-windows-11/"><u>Overcoming CS:GO Not Starting in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-device-access-barriers-in-audacity-windows/"><u>Overcoming Device Access Barriers in Audacity (Windows)</u></a></li>
-<li><a href="https://windows11.techidaily.com/reclaiming-off-screen-windows-in-win11-6-step-guide/"><u>Reclaiming Off-Screen Windows in Win11: 6 Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/reinitializing-windows-updates-a-step-by-step-guide/"><u>Reinitializing Windows Updates: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-taskbar-freeze-on-windows-systems/"><u>Resolving Taskbar Freeze on Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-unsupported-boots-a-5-step-windows-guide/"><u>Resolving Unsupported Boots: A 5-Step Windows Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/revitalizing-network-safety-5-firewall-tips/"><u>Revitalizing Network Safety: 5 Firewall Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-input-devices-after-sleep-on-win11/"><u>Reviving Input Devices After Sleep on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/speedy-acquisition-download-tips-from-microsofts-app-marketplace/"><u>Speedy Acquisition: Download Tips From Microsoft's App Marketplace</u></a></li>
-<li><a href="https://windows11.techidaily.com/speedy-valorant-download-fix-for-windows-users/"><u>Speedy Valorant Download Fix for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-mending-the-the-service-did-not-respond-windows-issue/"><u>Strategies for Mending the 'The Service Did Not Respond' Windows Issue</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlined-method-for-enabling-windows-11-calculator/"><u>Streamlined Method for Enabling Windows 11 Calculator</u></a></li>
-<li><a href="https://windows11.techidaily.com/system-resuscitation-modernizing-windows-driver-technology/"><u>System Resuscitation: Modernizing Windows Driver Technology</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/tailoring-your-netflix-viewing-experience/"><u>Tailoring Your Netflix Viewing Experience</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-art-of-chromatic-enhancement/"><u>The Art of Chromatic Enhancement</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-smart-way-to-mitigate-pc-cpu-spikes-via-resource-monitor/"><u>The Smart Way to Mitigate PC CPU Spikes via Resource Monitor</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-c32-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from C32</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transform-your-screen-pip-tutorials-for-macos-enthusiasts-for-2024/"><u>Transform Your Screen  PIP Tutorials for macOS Enthusiasts for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unleash-creativity-complimentary-premiere-pro-toolset/"><u>Unleash Creativity - Complimentary Premiere Pro Toolset</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleash-power-top-10-must-have-msistore-picks/"><u>Unleash Power: Top 10 Must-Have MSIStore Picks</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-windows-11s-tabbed-views/"><u>Unlock the Full Potential of Windows 11'S Tabbed Views</u></a></li>
-<li><a href="https://windows11.techidaily.com/unpack-and-deploy-quick-apk-installation-guide-in-windows-11/"><u>Unpack and Deploy: Quick APK Installation Guide in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unshackling-power-the-fourfold-path-to-user-deactivation-in-windows-11/"><u>Unshackling Power: The Fourfold Path to User Deactivation in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/usb-ports-not-working-how-to-diagnose-and-fix-the-issue-in-windows/"><u>USB Ports Not Working? How to Diagnose and Fix the Issue in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-11-troubleshooting-alternatives-to-rename-folder-functions/"><u>Win 11 Troubleshooting: Alternatives to Rename Folder Functions</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-vintage-conversion-the-98-experience/"><u>Windows 11 Vintage Conversion: The ’98 Experience</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

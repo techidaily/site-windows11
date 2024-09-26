@@ -74,70 +74,7 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-characters-that-captivate-key-growth-strategies/"><u>[New] 2024 Approved  Characters That Captivate  Key Growth Strategies</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-jailbreak-comedy-hour-best-fb-moments-of-amusement-and-awe/"><u>[New] 2024 Approved  Jailbreak Comedy Hour  Best FB Moments of Amusement and Awe</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-make-each-second-count-engaging-activities-that-blend-learning-and-multitasking/"><u>[New] 2024 Approved  Make Each Second Count  Engaging Activities that Blend Learning and Multitasking</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-transforming-challenges-into-triumphs-with-these-30-tips/"><u>[New] Transforming Challenges Into Triumphs with These 30 Tips</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-effortlessly-upload-your-imovie-masterpieces-to-vimeo/"><u>[Updated] Effortlessly Upload Your iMovie Masterpieces to Vimeo</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-gigabyte-totals-for-extended-video-playback/"><u>[Updated] Gigabyte Totals for Extended Video Playback</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-efficient-desktop-capture-for-windows-users/"><u>[Updated] In 2024, Efficient Desktop Capture for Windows Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-melodic-matchmakers-aligning-music-to-visuals/"><u>[Updated] Melodic Matchmakers  Aligning Music to Visuals</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-peak-computing-powerhouses-the-best-on-the-market/"><u>[Updated] Peak Computing Powerhouses - The Best On the Market</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-strategies-for-effective-use-of-classroom-media-for-2024/"><u>[Updated] Strategies for Effective Use of Classroom Media for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-skywalkers-unite-new-war-epoch/"><u>[Updated] The Skywalkers Unite! New War Epoch</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-excellence-in-audio-on-windows-best-8-podcast-apps-compiled/"><u>2024 Approved  Excellence in Audio on Windows  Best 8 Podcast Apps Compiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-vegas-pro-2021-reviewed-a-sports-betting-journey/"><u>2024 Approved  Vegas Pro 2021 Reviewed – A Sports Betting Journey</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-honor-x50-gt-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Honor X50 GT to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/brother-hl-2240-drivers-latest-version-released-for-windows-users/"><u>Brother HL-2240 Drivers: Latest Version Released for Windows Users</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-realme-11-proplus-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Realme 11 Pro+</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-most-serious-javascript-problems-in-discord-on-w10w11-pcs/"><u>Fixing the Most Serious Javascript Problems in Discord on W10/W11 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/from-phones-playground-to-pc-realm-android-games-via-microsoft-and-google/"><u>From Phone's Playground to PC Realm: Android Games via Microsoft & Google</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-honor-x50i-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Honor X50i.</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-convert-mkv-to-mp4-in-windows/"><u>How to Convert MKV to MP4 in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-correct-over-saturated-colors-on-laptops/"><u>How to Correct Over-Saturated Colors on Laptops</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-hide-the-language-bar-from-the-windows-11-taskbar/"><u>How to Hide the Language Bar From the Windows 11 Taskbar</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-lenovo-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Lenovo Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-m14-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy M14 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-instagrams-podcast-post-and-story-distribution/"><u>In 2024, Mastering Instagram's Podcast Post & Story Distribution</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-your-content-with-these-20-essential-youtube-hacks/"><u>In 2024, Streamline Your Content with These 20 Essential YouTube Hacks</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-whats-catching-eyes-the-leading-8-video-sensations/"><u>In 2024, What's Catching Eyes? The Leading 8 Video Sensations</u></a></li>
-<li><a href="https://windows11.techidaily.com/integrating-aguard-technology-into-windows-11s-edge-web-experience/"><u>Integrating Aguard Technology Into Windows 11'S Edge Web Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/journey-into-creativity-initiating-ms-paint-on-win11/"><u>Journey Into Creativity: Initiating MS Paint on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-rectifying-fatal-javascript-glitch-in-win-based-discord/"><u>Mastering the Art of Rectifying Fatal Javascript Glitch in Win-Based Discord</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-w11s-auto-hdr-a-step-by-step-guide/"><u>Mastering W11's Auto HDR: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-xpatch-troubleshooting/"><u>Mastering Windows XPatch Troubleshooting</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-guide-navigating-and-controlling-windows-fn-key/"><u>Mastery Guide: Navigating and Controlling Windows' Fn Key</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722488023987-maximizing-performance-on-a-penny-discover-how-the-topmate-c302-pad-tackles-overheating/"><u>Maximizing Performance on a Penny? Discover How the TopMate C302 Pad Tackles Overheating</u></a></li>
-<li><a href="https://windows11.techidaily.com/microsoft-and-local-unpacking-key-contrasts-in-windows-login-mechanisms/"><u>Microsoft & Local: Unpacking Key Contrasts in Windows Login Mechanisms</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-technology-master-classes-from-toms-hardware-specialists/"><u>Navigating Technology: Master Classes From Tom's Hardware Specialists</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-windows-and-ea-connections-troubles/"><u>Navigating Through Windows and EA Connections Troubles</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-unlock-your-creativity-best-video-editing-apps-with-music-for-mobile/"><u>New 2024 Approved Unlock Your Creativity Best Video Editing Apps with Music for Mobile</u></a></li>
-<li><a href="https://windows11.techidaily.com/no-more-maintenance-alert-post-support-for-windows-781/"><u>No More Maintenance Alert: Post-Support for Windows 7/8.1</u></a></li>
-<li><a href="https://windows11.techidaily.com/overhaul-your-privacy-by-switching-off-windows-trackers/"><u>Overhaul Your Privacy by Switching Off Windows Trackers</u></a></li>
-<li><a href="https://windows11.techidaily.com/redeeming-windows-reviving-ms-store-programs/"><u>Redeeming Windows: Reviving MS Store Programs</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-accessibility-for-non-starting-store-programs/"><u>Restoring Accessibility for Non-Starting Store Programs</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-original-touchscreen-layout-on-windows-11/"><u>Restoring Original Touchscreen Layout on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/setting-up-safe-browsing-for-kids-on-windows-11/"><u>Setting Up Safe Browsing for Kids on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/sharpen-your-pc-queries-with-everythingapp/"><u>Sharpen Your PC Queries with EverythingApp</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/short-form-spectacularity-compile-the-top-10-video-editing-tools/"><u>Short-Form Spectacularity  Compile the Top 10 Video Editing Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-your-response-invalid-captcha-mistake/"><u>Solving 'Your Response Invalid' CAPTCHA Mistake</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-windows-11-search-issue-unlocking-the-settings-apps-search-bar/"><u>Solving Windows 11 Search Issue: Unlocking the Settings App's Search Bar</u></a></li>
-<li><a href="https://windows11.techidaily.com/steady-app-placement-tips-for-windows-task-manager/"><u>Steady App Placement Tips for Windows Task Manager</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-address-file-system-problems-in-win11/"><u>Strategies to Address File System Problems in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-solutions-overcome-blue-screen-on-win11s-hypervisor/"><u>Swift Solutions: Overcome Blue Screen on Win11's HYPERVISOR</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackle-microsoft-store-login-challenges/"><u>Tackle Microsoft Store Login Challenges</u></a></li>
-<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-jpg-files-online-by-ldigisigner-sign-a-jpg-sign-a-jpg/"><u>The best electronic signature way to sign JPG files online</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-seamless-interweaving-of-folders-and-files/"><u>The Seamless Interweaving of Folders & Files</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-windows-climate-trackers-windows-1011/"><u>Top Windows Climate Trackers (Windows 10/11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/triggering-windows-calculator-in-version-11/"><u>Triggering Windows Calculator in Version 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-windows-mail-error-code-zero-x-eight-oh-three-one-f/"><u>Troubleshooting Windows Mail Error Code: Zero X Eight Oh Three One F</u></a></li>
-<li><a href="https://windows11.techidaily.com/unblocking-windows-hello-tips-for-fingerprint-issues/"><u>Unblocking Windows Hello: Tips for Fingerprint Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-and-addressing-audio-failure-xc00d36b4/"><u>Understanding and Addressing Audio Failure XC00D36B4</u></a></li>
-<li><a href="https://windows11.techidaily.com/why-opt-out-of-wsl/"><u>Why Opt Out of WSL?</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"

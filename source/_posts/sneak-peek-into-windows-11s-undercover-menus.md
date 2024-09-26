@@ -119,41 +119,7 @@ thumbnail: https://thmb.techidaily.com/3c096ca7006d9a28f3f7e555f29e64435eb73c005
 
  Explorer’s **View** menu and tab (in Windows 10) include the **Hidden items** option. However, you can make that option a little more accessible by adding it to the context menu. Then you can toggle hidden files on/off from the right-click menu. This is how you can add a **Hidden items** option to the context menu in Windows 10 and 11\.
 
-<span class="atpl-alsoreadstyle">Also read:</span>
-<div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-best-in-class-android-storage-in-the-cloud/"><u>[New] Best-in-Class Android Storage in the Cloud</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-conquering-peaks-and-valleys-comparing-the-mightiest-gopros-b-and-sessions/"><u>[Updated] 2024 Approved  Conquering Peaks and Valleys  Comparing the Mightiest GoPros, B & Sessions</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-the-ultimate-guide-to-creating-slow-motion-content-in-tiktok/"><u>[Updated] In 2024, The Ultimate Guide to Creating Slow-Motion Content in TikTok</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-effective-time-management-streamlining-zoom-meetings-on-win11-systems/"><u>2024 Approved  Effective Time Management  Streamlining Zoom Meetings on Win11 Systems</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-streamline-your-soundtrack-exchanging-playlists-seamlessly/"><u>2024 Approved  Streamline Your Soundtrack  Exchanging Playlists Seamlessly</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-virtual-victory-channel-over-a-hundred-heroes-rise/"><u>2024 Approved  Virtual Victory Channel  Over a Hundred Heroes Rise</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/14-youtube-gaming-video-ideas-to-boost-gaming-channels-for-2024/"><u>Best 14 YouTube Gaming Video Ideas to Boost Gaming Channels for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-windows-canary-a-guide-for-first-timers/"><u>Exploring Windows Canary: A Guide for First-Timers</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-unlisted-device-detected-error-in-win1011/"><u>Fixing Unlisted Device Detected Error in Win10/11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-plus-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Plus to the Previous iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-loudness-in-the-void-breaking-soundless-twitter-vids/"><u>In 2024, Loudness in the Void  Breaking Soundless Twitter Vids</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-10-web-based-subtitle-editor-tools/"><u>In 2024, Top 10 Web-Based Subtitle Editor Tools</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-zte-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change ZTE IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-note-30is-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Infinix Note 30is Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://windows11.techidaily.com/insights-into-ftdibussys-the-implications-for-windows-memory-safety/"><u>Insights Into ftdibus.sys: The Implications for Windows Memory Safety</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-in-gaming-3-methods-for-directory-unlock/"><u>Mastery in Gaming: 3 Methods for Directory Unlock</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-the-world-of-cost-free-graphic-designs-for-2024/"><u>Navigating the World of Cost-Free Graphic Designs for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-inaudible-audio-on-wireless-devices/"><u>Resolving Inaudible Audio on Wireless Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-memory-safety-in-windows-11s-system-settings/"><u>Restoring Memory Safety in Windows 11'S System Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/revamping-your-networks-first-line-of-defense/"><u>Revamping Your Network's First Line of Defense</u></a></li>
-<li><a href="https://windows11.techidaily.com/solve-your-inked-woes-a-guide-to-fixing-windows-pen-devices/"><u>Solve Your Inked Woes: A Guide to Fixing Windows Pen Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-w10w11-interruptexception-bsod-a-comprehensible-guide/"><u>Solving W10/W11 INTERRUPT_EXCEPTION BSOD: A Comprehensible Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/speedy-boot-streamlining-your-win11-routines/"><u>Speedy Boot: Streamlining Your Win11 Routines</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-pc-functionality-addressing-11-windows-problems/"><u>Streamlining PC Functionality - Addressing 11 Windows Problems</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-audio-advantage-top-4-programs-for-surpassing-windows-100-limit/"><u>The Audio Advantage: Top 4 Programs for Surpassing Windows' 100%% Limit</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-easy-switch-for-classic-gaming-in-the-windows-photo-hub/"><u>The Easy Switch for Classic Gaming in the Windows Photo Hub</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-os-metamorphosis-insights-into-w10-and-w11-developments/"><u>The OS Metamorphosis: Insights Into W10 and W11 Developments</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-unseen-consequences-of-cost-saving-windows-activation/"><u>The Unseen Consequences of Cost-Saving Windows Activation</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-compressed-storage-on-windows-11/"><u>Unlocking Compressed Storage on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-successful-remote-steam-connectivity/"><u>Unlocking Successful Remote Steam Connectivity</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-system-restore-issue-0x80042306-in-win10/"><u>Unraveling System Restore Issue 0X80042306 in Win10</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-ram-cache-basics-and-cleansing-methods/"><u>Windows RAM Cache Basics and Cleansing Methods</u></a></li>
-</ul></div>
+
 
 <ins class="adsbygoogle"
       style="display:block"
