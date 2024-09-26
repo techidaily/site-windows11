@@ -1,7 +1,7 @@
 ---
 title: Overcoming Lags in Valorant for Windows Gamers
-date: 2024-09-18T19:40:05.762Z
-updated: 2024-09-20T17:18:53.511Z
+date: 2024-09-23T20:02:42.257Z
+updated: 2024-09-26T22:20:22.005Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 4. Turn on the **Limit FPS in Menus** and **Limit FPS in Background** options.  
 ![Enable and Disable Selective Options in General Settings in the Video Tab of Valorant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-enable-and-disable-selective-options-in-general-settings-in-the-video-tab-of-valorant.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Change the Screen Resolution Settings in Valorant
 
  The higher the game resolution, the more pixels your graphics card will need to render, which can result in a noticeable drop in FPS. If you play Valorant with the highest resolution setting and get a low FPS, reducing the graphics quality will help you lower the strain on your GPU.
@@ -53,14 +60,36 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 5. Turn off the **Vignette** and **VSync** options.  
 ![Reduce the Resolution to Increase FPS in Valorant by Changing Settings in the Game](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4a-reduce-the-resolution-to-increase-fps-in-valorant-by-changing-settings-in-the-game.jpg)
 6. Set the **Anti-Aliasing** to **MSAA 4x**. Also, select **4x** in the **Anisotropic Filtering** menu.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Disable **Improve Clarity**, **Experimental Sharpening**, **Bloom**, **Distortion**, and **Cast Shadows**.  
 ![Turn Off VIsual Effets in Valorant's Game Settings to Increase FPS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-reduce-the-resolution-to-increase-fps-in-valorant-by-changing-settings-in-the-game.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Turn Off Hardware-Accelerated GPU Scheduling
 
  Hardware-accelerated GPU scheduling transfers some CPU workload to your GPU. It enhances the performance of high-priority processes on your device. Although handy, this can put extra strain on your GPU and prevent it from using all its resources when playing Valorant, causing the frame rate to drop.
 
  To turn off this feature in Windows settings, check out [what hardware-accelerated GPU scheduling means and how to disable it](https://www.makeuseof.com/hardware-accelerated-gpu-scheduling-disable-windows/). If you follow the steps and discover that the hardware-accelerated GPU scheduling setting is already disabled, try turning it on and see if it improves or worsens your FPS.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Turn Any Active In-Game Overlays Off
 
@@ -81,42 +110,23 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
 5. Boost the performance of Valorant by setting the **Graphics preference** settings to **High**. This ensures you're [using your preferred graphics card on Windows](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) when running Valorant.  
 ![Set Valorants Graphics Preference to High in the Graphics Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/10-set-valorants-graphics-preference-to-high-in-the-graphics-settings-of-the-windows-settings-app.jpg)
 6. Set Valorant's process priority to high. To do that, open Task Manager, navigate to the **Details** tab, right-click the **Valorant** process, and select **High** from the **Set priority** menu.  
-![Set Valorants Process Priority to High in the Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/11-set-valorants-process-priority-to-high-in-the-windows-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Set Valorants Process Priority to High in the Windows Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/11-set-valorants-process-priority-to-high-in-the-windows-task-manager.jpg)
 
 ## 6\. Optimize Your Graphics Card Software
 
  If you've previously tweaked your GPU's software settings (for example, you [customized your graphics card settings using the NVIDIA Control Panel](https://www.makeuseof.com/how-to-customize-graphics-settings-nvidia-control-panel-geforce-experience/)), open the software again and turn down some of the settings. This is especially true if you told the GPU software to override any in-game settings you've set up.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Overclock Your GPU for Better Performance
 
  Similarly, you can [overclock your GPU](https://www.makeuseof.com/tag/safely-overclock-gpu-gain-fps/) to get the best performance from your hardware. Try overclocking your GPU and see if it improves your FPS. Note, however, that overclocking the GPU can sometimes affect the game's performance negatively. If that happens, revert the change and turn off overclocking again.
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Keep Your FPS High and Stable in Valorant
 
@@ -134,5 +144,19 @@ thumbnail: https://thmb.techidaily.com/c662b1f4b263fbd42169b1603658323aeb42e5641
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-fading-frequencies-the-gentle-way-with-garageband/"><u>[Updated] Fading Frequencies The Gentle Way with Garageband</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Google Pixel 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/castcritique-exploring-dacast-options-for-2024/"><u>CastCritique Exploring DaCast Options for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-guide-win11-starting-high-privilege-powershell/"><u>Command Guide: Win11 - Starting High-Privilege PowerShell</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-characters-the-most-effective-gpt-prompts-unveiled/"><u>Elevating Characters: The Most Effective GPT Prompts Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-pcs-performance-dispose-of-bloatware/"><u>Enhance Your PC's Performance: Dispose of Bloatware</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unify-your-cloud-storage-onedrive-plus-microsoft-service/"><u>How to Unify Your Cloud Storage: OneDrive + Microsoft Service</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-on-apple-iphone-8-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes On Apple iPhone 8?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-game-changer-asus-rog-swift-pg49wcd-a-49-oled-marvel-for-gaming-excellence/"><u>The Game Changer: Asus ROG Swift PG49WCD - A 49 OLED Marvel for Gaming Excellence</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-integrating-alternative-antiviruses-with-ms-defender/"><u>Tips for Integrating Alternative Antiviruses with MS Defender</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-second-shuffle-solved/"><u>Windows Second Shuffle Solved</u></a></li>
+</ul></div>
 

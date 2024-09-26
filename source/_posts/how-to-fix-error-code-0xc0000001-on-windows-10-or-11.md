@@ -1,7 +1,7 @@
 ---
 title: How to Fix Error Code 0Xc0000001 on Windows 10 or 11
-date: 2024-09-13T18:10:31.918Z
-updated: 2024-09-20T19:46:44.029Z
+date: 2024-09-22T19:00:20.903Z
+updated: 2024-09-26T18:41:19.338Z
 tags:
   - windows10
   - windows11
@@ -54,6 +54,13 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
 
 ![windows command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The above commands are basically aimed at fixing or rebuilding the Boot Configuration Data (BCD) of your Windows. Since the error code 0xc0000001 is a booting error, it therefore makes sense to give this method a shot.
 
  Once you’re done with all the commands, reboot your PC and see if you still face the error code 0xc0000001 on your Windows PC.
@@ -80,6 +87,13 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
 
 [Using System Restore](https://www.makeuseof.com/use-system-restore-windows/) is reasonably straightforward, and we have covered it before. Just follow the steps in the guide and see if this fixes the error code 0xc0000001 on Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Perform a Malware Scan
 
  As is always the case with anything tech, malware can lead to all sorts of problems with the functioning of your PC. Indeed, malware can appear out of nowhere and raise all kinds of havoc on your Windows; and the booting issues by a BSOD are one of many such issues.
@@ -87,10 +101,10 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
  A [quick malware scan by Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) is a surefire way to rule out this possibility for good.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Perform a CHDSK Scan
@@ -99,18 +113,18 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
 
  Indeed, the issues, if they have been left unchecked for too long, can be the cause of Windows 10 or 11 error code 0xc0000001 as well. While it’s no guarantee that [running the CHKDSK scan](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) fill will fix the problem, it’s very well worth a try.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Factory Reset Your Windows
 
  If all fails, you will always have the Factory reset of your Windows as the last resort. Of course, it goes without saying that, like all resorts, you should only turn to it if your fixes have yet to work.
 
  There are [many ways to factory reset your Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/). So pick whatever method suits you best and then start fresh from ground zero.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing the Error Code 0xc0000001 on Windows Computer
 
@@ -126,5 +140,22 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-essential-free-editing-software-rankings-for-2024/"><u>[New] Essential Free Editing Software Rankings for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-8-innovative-glasses-for-entering-metaverse-worlds/"><u>[Updated] Top 8 Innovative Glasses for Entering Metaverse Worlds</u></a></li>
+<li><a href="https://windows11.techidaily.com/banishing-0x800704b3-error-from-your-win1011-system/"><u>Banishing 0X800704B3 Error From Your Win10/11 System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-artificial-intelligence-platforms-such-as-chatgpt-and-bard-be-trusted-with-personal-finance-guidance/"><u>Can Artificial Intelligence Platforms Such as ChatGPT and Bard Be Trusted with Personal Finance Guidance?</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-the-hidden-potential-in-windows-powertoys-10-applications/"><u>Discover the Hidden Potential in Windows PowerToys' 10 Applications</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/guide-to-flawless-transition-of-phone-cookies-from-device-to-social-media-for-2024/"><u>Guide to Flawless Transition of Phone' Cookies From Device to Social Media for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-brighten-a-dark-video-on-iphone-3-simple-methods-for-2024/"><u>How to Brighten a Dark Video on Iphone| 3 Simple Methods for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-endure-no-more-teams-login-troubles-in-windows/"><u>How to Endure No More Teams Login Troubles in Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-essential-software-for-epson-scanners-download-drivers-now/"><u>Install Essential Software for Epson Scanners - Download Drivers Now!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/key-fact-5-most-abundant-fragment-the-most-intense-fragment-peak-can-provide-significant-structural-information-and-is-used-along-with-other-peaks-for-compo77/"><u>Key Fact #5: Most Abundant Fragment - The Most Intense Fragment Peak Can Provide Significant Structural Information and Is Used Along with Other Peaks for Compound Identification.</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-productivity-with-windows-11-calendar/"><u>Maximizing Productivity with Windows 11 Calendar</u></a></li>
+<li><a href="https://windows11.techidaily.com/n-series-window-enigma-deciding-factors/"><u>N-Series Window Enigma: Deciding Factors</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-system-limit-fixing-gpt-windows-problems/"><u>Overcoming System Limit: Fixing GPT Windows Problems</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-get-crisp-videos-best-free-online-video-quality-enhancement-services/"><u>Updated Get Crisp Videos Best Free Online Video Quality Enhancement Services</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering PowerShell: Clearing Blocked Files in Windows"
-date: 2024-09-16T18:52:50.728Z
-updated: 2024-09-20T21:55:57.220Z
+date: 2024-09-21T21:03:47.458Z
+updated: 2024-09-26T17:03:50.091Z
 tags:
   - windows10
   - windows11
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 
  There’s a way you can tell Windows to always trust files you download from the internet. To do that, please read our guide on[how to stop Windows 10 from blocking your downloaded files](https://www.makeuseof.com/stop-windows-10-from-blocking-your-downloaded-files/) . The instructions in the tutorial use the Registry Editor and Local Group Policy Editor, so they should also work on Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Now You Know How to Unblock Files You Know Are Safe
 
  With the instruction above unlocking a bunch of downloaded files in a directory should be easier. Keep in mind that you shouldn’t do this on files you don’t trust. The last thing you want to do is put your Windows PC at risk unnecessarily
@@ -65,12 +72,20 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-connectivity-at-its-peak-strategies-for-broadcasting-videos-to-friends/"><u>[New] In 2024, Connectivity at Its Peak Strategies for Broadcasting Videos to Friends</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-windows-desktop-recording-techniques-no-cost-for-2024/"><u>[New] Windows Desktop Recording Techniques - No Cost for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-tactics-optimizing-freefire-video-content/"><u>[Updated] Expert Tactics Optimizing FreeFire Video Content</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-poco-c51-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tech-tips-how-to-get-fcp-without-money/"><u>2024 Approved Tech Tips How to Get FCP Without Money</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-pin-count-on-the-w11-start-screen/"><u>Boosting Pin Count on the W11 Start Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-the-barrier-of-windows-11-updates/"><u>Breaking Down the Barrier of Windows 11 Updates</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-oneplus-ace-2-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your OnePlus Ace 2 is off? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/perfect-6-apps-for-private-android-video-capturing-for-2024/"><u>Perfect 6 Apps for Private Android Video Capturing for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/resurrect-your-pcs-absent-controllers/"><u>Resurrect Your PC's Absent Controllers</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-challenge-of-non-working-win-plus-printer-feature-in-windows/"><u>Tackling the Challenge of Non-Working Win + Printer Feature in Windows.</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-audio-equipment-for-crystal-clear-4k-video-capture-for-2024/"><u>Top Audio Equipment for Crystal Clear 4K Video Capture for 2024</u></a></li>
+</ul></div>
 

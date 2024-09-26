@@ -1,7 +1,7 @@
 ---
 title: Solutions for Error 0X800700E1 in Windows 11 OS
-date: 2024-09-13T19:23:29.843Z
-updated: 2024-09-20T17:39:05.010Z
+date: 2024-09-25T18:15:57.523Z
+updated: 2024-09-26T21:52:30.994Z
 tags:
   - windows10
   - windows11
@@ -42,11 +42,25 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 
  If error 0x800700E1 occurs when you try to transfer some files from a USB drive, scan the folder that includes the files you’re trying to move or copy. To do that, you’ll need to connect the drive to your PC. Then right-click the folder on the external drive within Explorer and select **Scan with Malwarebytes**.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Turn Off Microsoft Defender (or Any Active Third-Party Antivirus Apps)
 
  Error 0x800700E1 can occur when antivirus software misidentifies a legitimate file to be malware (or a virus). Such a scenario is called a false positive. So, try temporarily [disabling Microsoft Defender’s Real-time protection](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) option just before attempting to transfer your files or perform a Windows backup.
 
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/real-time-protection-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’ve installed an alternative third-party antivirus app, you must disable that software’s real-time protection instead. Most antivirus apps have context menu settings for disabling antivirus shields. So, look in the system tray area, right-click your antivirus app, and select an option that will temporarily disable its antivirus shield for an hour or two.
 
@@ -60,6 +74,14 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 `sfc /SCANFILE=c:windowsexplorer.exe`  
 ![The sfc scanfile command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-scannow-command-for-file-explorer.jpg)
 4. Then input this SFC command text and hit **Enter**:  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `sfc /SCANFILE=C:WindowsSysWow64explorer.exe`  
 ![An SFC scanfile command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-explorer-command.jpg)
 5. Wait for both scans to finish and show a Windows Resource Protection message.
@@ -75,28 +97,15 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
 4. Deselect the **Preserve Favorites** website data checkbox if selected.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Select the **Cookies**, **History**, and T**emporary Internet Files** checkboxes.  
 ![The Delete Browsing History window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/delete-browsing-history-window.jpg)
 6. Click **Delete** to erase browsing data.
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you utilize Chrome, Edge, Firefox, Opera, or another alternative, clear the browsing data with your browser’s built-in settings. All browsers include a tool or options for clearing cookies, history, and cached data. Look through your browser’s settings tab and menus to find its tool for clearing browser data.
 
@@ -105,10 +114,10 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
  If nothing has worked so far, here are some general Windows fixes you can try:
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Add the File to Your Antivirus' Exclusion List
@@ -116,13 +125,6 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
  If error 0x800700E1 occurs when you try to move or copy files from an external drive, try adding the folder that includes them to your antivirus utility’s exclusion list. Doing that will ensure your antivirus utility won’t raise any false alarms for the files you’re trying to copy or transfer. Our guide tells you [how to add exclusions within Windows Security](https://www.makeuseof.com/windows-11-security-exclusions/).
 
 ![The Add an exclusion button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-an-exclusion-button.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you have a third-party antivirus app, you’ll need to select the folder within that software’s exclusion or exceptions list. You should be able to find such a feature within the settings tab of an antivirus utility. Check out your antivirus utility’s online manual on the publisher’s website for details about how to set folder exclusions in it.
 
@@ -135,6 +137,13 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
  In addition, run a Deployment Image Servicing and Management (DISM) scan to address system image issues. You can run that utility much the same as SFC by inputting a command for it within the Command Prompt. Execute this DISM command:
 
 `DISM.exe /Online /Cleanup-image /Restorehealth`
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Set Windows to Clean Boot
 
@@ -158,5 +167,22 @@ thumbnail: https://thmb.techidaily.com/9abfa493c09f599241cf74fbf150ee16ae0981c66
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-hidden-screenshotters-concealed-photography-on-the-snapchat-app/"><u>[Updated] Hidden ScreenShotters Concealed Photography on the Snapchat App</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-professional-editors-showdown-filmora-vs-democracy-creator-features/"><u>[Updated] Professional Editors Showdown Filmora Vs. Democracy Creator Features</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-seamless-integration-of-text-with-image-editing-tools/"><u>[Updated] Seamless Integration of Text with Image Editing Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-essential-fixes-for-hybrid-os-hypervisor-faults/"><u>5 Essential Fixes for Hybrid OS Hypervisor Faults</u></a></li>
+<li><a href="https://win-answers.techidaily.com/black-ops-cold-war-troubleshooting-guide-overcoming-error-code-887a0005/"><u>Black Ops Cold War Troubleshooting Guide: Overcoming Error Code 887A0005</u></a></li>
+<li><a href="https://windows11.techidaily.com/determining-effective-network-sharing-tools-tech-giants-face-off/"><u>Determining Effective Network Sharing Tools: Tech Giants Face-Off</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-new-submenus-to-windows-11s-desktop-context-menu/"><u>How to Add New Submenus to Windows 11’S Desktop Context Menu</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-sprinkle-new-colors-into-your-past-media-with-instagram-for-2024/"><u>How to Sprinkle New Colors Into Your Past Media with Instagram for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-explore-the-world-of-tiny-screens-top-6-online-tools-for-free-and-complimentary-youtube-short-downloads/"><u>In 2024, Explore the World of Tiny Screens Top 6 Online Tools for Free & Complimentary YouTube Short Downloads</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-no-supported-devices-found-in-windows-11/"><u>Overcoming No Supported Devices Found in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalizing-windows-space-adding-this-pc-iconography/"><u>Personalizing Windows Space: Adding 'This PC' Iconography</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-access-to-any-language-hotkeys-for-efficient-translation-in-windows-os/"><u>Quick Access to Any Language: Hotkeys for Efficient Translation in Windows OS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/screenrecording-excellence-in-newsoftvision-10plus/"><u>ScreenRecording Excellence in NewSoftVision 10+</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/secure-recording-methods-for-sensitive-whatsapp-discussions-for-2024/"><u>Secure Recording Methods for Sensitive WhatsApp Discussions for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackle-interruptexception-in-win11-blue-screen/"><u>Tackle INTERRUPT_EXCEPTION in Win11 Blue Screen</u></a></li>
+</ul></div>
 

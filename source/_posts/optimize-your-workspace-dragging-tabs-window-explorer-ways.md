@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Workspace: Dragging Tabs, Window Explorer Ways"
-date: 2024-09-15T20:23:57.320Z
-updated: 2024-09-20T17:50:46.186Z
+date: 2024-09-21T19:04:43.617Z
+updated: 2024-09-26T16:25:03.313Z
 tags:
   - windows10
   - windows11
@@ -35,9 +35,23 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 
  Thankfully, the latest Insider build 25290 has a hidden feature that makes it possible to drag out tabs.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Enable the Drag-Out Feature in File Explorer
 
  This feature is exclusive to Windows 11 Insider builds and is in the testing phase. So, you will have to download and install the build version 25290 and then use the ViveTool to enable the feature.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Update to the Latest Insider Build
 
@@ -62,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 9. Try to drag the tabs out of File Explorer. It will open in a second window. You can stack them on each side if you like.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can You Restore the Tab to the File Explorer Window?
@@ -75,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
  If you aren’t able to accurately position the tab, it will not merge with the File Explorer tab bar. In Chrome browser, dragging out and restoring them to the same window is pretty easy. You can even hover the tab and position it between two open tabs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Drag Tabs Out Like a Pro in File Explorer
@@ -98,5 +112,22 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/updated-8-best-free-mp3-downloader-for-android/"><u>[Updated] 8 Best Free MP3 Downloader for Android</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-comparative-study-youtube-app-on-smartphone-platforms/"><u>[Updated] In 2024, Comparative Study YouTube App on Smartphone Platforms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-collabs-for-youtube-channel-expansion/"><u>[Updated] In 2024, Crafting Collabs for YouTube Channel Expansion</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-crafting-perfection-ios-and-androids-best-montage-aides/"><u>2024 Approved Crafting Perfection IOS & Android's Best Montage Aides</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-misconfigured-duo-apps-on-windows/"><u>Addressing Misconfigured Duo Apps on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-on-resolving-crashes-of-elite-dangerous-when-played-on-a-computer/"><u>Comprehensive Guide on Resolving Crashes of Elite Dangerous When Played on a Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-and-dismantling-the-win10-blue-screen/"><u>Decoding and Dismantling the Win10 Blue Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/empowering-your-system-bypass-tpm-and-secure-boot-via-rufus/"><u>Empowering Your System: Bypass TPM & Secure Boot via Rufus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-world-of-ai-on-your-phone-introducing-chatgpt-for-ios/"><u>Explore the World of AI on Your Phone - Introducing ChatGPT for iOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-window-gloss-your-guide-to-a-clearer-taskbar-in-win11/"><u>Mastering Window Gloss: Your Guide to a Clearer Taskbar in Win11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-discover-the-best-video-editing-apps-for-kids-free-paid-and-everything-in-between-for-2024/"><u>New Discover the Best Video Editing Apps for Kids Free, Paid, and Everything in Between for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-and-testing-the-audio-input-in-windows-11-easy-tutorial/"><u>Troubleshooting & Testing the Audio Input in Windows 11 - Easy Tutorial</u></a></li>
+<li><a href="https://windows11.techidaily.com/unfreezing-and-reviving-windows-11s-stuck-media-player/"><u>Unfreezing and Reviving Windows 11'S Stuck Media Player</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/value-packed-asrock-b7eelch-b760m-pro-rs-extensive-and-budget-friendly-m2-slots/"><u>Value-Packed ASRock B7eelch B760M Pro RS: Extensive and Budget-Friendly M.2 Slots</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-purpose-does-a-directory-like-windows-bt-serve/"><u>What Purpose Does a Directory Like Windows ~BT Serve?</u></a></li>
+</ul></div>
 

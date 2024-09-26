@@ -1,7 +1,7 @@
 ---
 title: "Taming the Digital Canvas: Making Magic with Paint Tool SAI & Win11 for AI Art"
-date: 2024-09-13T16:10:44.025Z
-updated: 2024-09-20T20:49:26.710Z
+date: 2024-09-21T17:01:37.464Z
+updated: 2024-09-26T17:08:57.733Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 
  The Paint app has already received significant upgrades like the Fit to Window option, support for image layers, and a background removal feature.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use the Paint Cocreator Feature
 
  The Paint Cocreator feature is in the experimental phase and available to Windows Insiders. If you have enrolled your PC in the Canary, Dev, or Beta channel of the [Windows Insider program](https://www.makeuseof.com/windows-11-insider-program-join/), you can try out the Cocreator feature. Release Preview Insider users will have to wait longer.
@@ -50,11 +57,26 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 5. Click on the **Create** button.  
 ![creating an image prompt in Paint cocreator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/creating-an-image-prompt-in-paint-cocreator.jpg)
 6. Wait for the feature to generate the images based on the prompt you provided. It can take a while to create the images and fetch them from the server. It will produce three sets of images for each prompt.  
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Generated images in Paint cocreator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/generated-images-in-paint-cocreator.jpg)
 7. Once the images are generated, you can click on them to add to the image or empty canvas.
 8. To save the generated image, click on the **ellipses** icon of the image and select the **Save image** option.  
 ![saving the generated image in Paint](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/saving-the-generated-image-in-paint.jpg)
 9. Name the image and click on the **Save** button to save it in a PNG format.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Similarly, you can try more combinations and styles to generate different images based on the same prompt. Remember that creating an image consumes one credit at a time.
 
@@ -69,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 ![Generating image using Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/generating-image-using-copilot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Generate AI Images in Paint
@@ -87,5 +109,26 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-influencers-insight-quick-pathways-to-instagram-fame-with-our-ultimate-list-of-15-tips-for-2024/"><u>[New] Influencer's Insight Quick Pathways to Instagram Fame with Our Ultimate List of 15 Tips for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-transform-your-footage-with-the-ideal-dimension-proportion/"><u>[Updated] 2024 Approved Transform Your Footage with the Ideal Dimension Proportion</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-analyzing-splitcams-place-among-best-recorders-for-2024/"><u>[Updated] Analyzing SplitCam's Place Among Best Recorders for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-breakdown-of-steps-perfecting-idevice-video-features-on-youtube-for-2024/"><u>[Updated] Breakdown of Steps Perfecting iDevice Video Features on YouTube for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-how-to-minimize-stress-in-ipad-screen-recordings-heres-a-way/"><u>2024 Approved How to Minimize Stress in iPad Screen Recordings? Here's a Way</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-revolutionize-your-streaming-game-with-these-5-pro-tips/"><u>2024 Approved Revolutionize Your Streaming Game with These 5 Pro Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-non-compliance-overcoming-intel-hd-graphics-errors/"><u>Addressing Non-Compliance: Overcoming Intel HD Graphics Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/discreetly-putting-an-end-to-invisible-window-tasks/"><u>Discreetly Putting an End to Invisible Window Tasks</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-to-using-windows-11s-compatibility-fixer/"><u>Essential Guide to Using Windows 11’S Compatibility Fixer</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-for-diablo-gameplay-enthusiasts/"><u>Essential Tips for Diablo Gameplay Enthusiasts</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-v30-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo V30 FRP Bypass</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/metodos-verificados-para-resgatar-discos-de-video-com-direitos-autorais-no-windows-11-and-macos/"><u>Métodos Verificados Para Resgatar Discos De Vídeo Com Direitos Autorais No Windows 11 & macOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-removing-isdonedll-malfunctions-from-windows-11/"><u>Quick Guide: Removing ISDone.dll Malfunctions From Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/recovering-failed-zip-operations-on-win-11-system/"><u>Recovering Failed ZIP Operations on Win 11 System</u></a></li>
+<li><a href="https://facebook.techidaily.com/safeguarding-your-fb-with-key-recovery-techniques/"><u>Safeguarding Your FB with Key Recovery Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharge-efficiency-select-windows-software-for-success/"><u>Supercharge Efficiency: Select Windows Software for Success</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-4-microcomputers-pure-windows-environment/"><u>Top 4 Microcomputers: Pure Windows Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-insider-clandestine-context-creation-techniques/"><u>Windows 11 Insider: Clandestine Context Creation Techniques</u></a></li>
+</ul></div>
 

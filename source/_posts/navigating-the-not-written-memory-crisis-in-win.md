@@ -1,7 +1,7 @@
 ---
 title: Navigating the 'Not Written' Memory Crisis in Win
-date: 2024-09-15T17:46:59.495Z
-updated: 2024-09-20T17:12:25.983Z
+date: 2024-09-23T22:39:54.997Z
+updated: 2024-09-26T19:04:51.256Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ Here are a few solutions to fix this annoying problem.
 
  Should you get this error randomly while you're using your computer, you should restart it. If it doesn't recur after turning on your PC again, then it confirms that the problem might have only been a temporary hiccup.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Repair Corrupt System Files
 
  If you're still encountering the error, ensure it isn't caused by corrupted or missing system files. The best way to do this is by running an SFC scan. SFC checks the integrity of your system—it repairs corrupted files and rebuilds missing ones. It often resolves most issues on Windows PCs.
@@ -51,6 +58,13 @@ Here are a few solutions to fix this annoying problem.
 
  It's easy to clean boot your PC. If you're unfamiliar with it, refer to our guide on performing a clean boot on[Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) or[Windows 10](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run a Memory Diagnostic Check
 
  If you're RAM is starting to have issues, it could cause this error too. The best way to test your RAM's health is by using the Windows Memory Diagnostic Tool.
@@ -58,19 +72,19 @@ Here are a few solutions to fix this annoying problem.
 ![Windows memory diagnostic tool restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tool-restart.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the system detects any problems with your RAM, get it checked as soon as possible. If a severe technical issue affects your PC's memory, it could fail at the most inopportune moment. If you keep using it without having it at least checked, your memory modules might break while you're in the middle of catching a deadline. Avoid this trouble by installing reliable RAM sticks on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Increase the Virtual Memory
@@ -79,14 +93,20 @@ Here are a few solutions to fix this annoying problem.
 
 ![The Virtual Memory window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/custom-radio-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you've never changed the virtual memory before, refer to our guide about[increasing the virtual memory in Windows 11](https://www.makeuseof.com/how-increase-virtual-memory-windows-11/) .
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Repair Corrupted App or Game Files
 
@@ -105,13 +125,6 @@ Here are a few solutions to fix this annoying problem.
 ## 8\. Repair the .Net Framework on Windows
 
  The .Net framework a necessary for running many apps on your PC. If it's corrupted, it can cause memory issues and more. To fix this issue, you can run the SFC scan we mentioned in step two. You can also check out the other ways to[repair the .Net framework on Windows](https://www.makeuseof.com/windows-repair-net-framework/) to get it running again.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Configure the Problem App to Use a Different GPU
 
@@ -136,5 +149,20 @@ Here are a few solutions to fix this annoying problem.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fixed-mouse-and-keyboard-glitch-on-windows-11/"><u>[Fixed] Mouse & Keyboard Glitch on Windows 11</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-uniting-platforms-sharing-vids-on-twtplustumblr-space/"><u>[New] Uniting Platforms Sharing Vids on Twt+Tumblr Space</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-making-the-most-of-your-phones-camera-in-video-production/"><u>[Updated] In 2024, Making the Most of Your Phone's Camera in Video Production</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-the-sound-barrier-gpts-quintuple-ascent-to-fame/"><u>Breaking the Sound Barrier: GPT's Quintuple Ascent to Fame</u></a></li>
+<li><a href="https://windows11.techidaily.com/easing-windows-woes-with-adobe-ps/"><u>Easing Windows Woes with Adobe PS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-videos-from-iphone-15-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Videos from iPhone 15 Without Backup? | Stellar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-mini-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 mini To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-samsung-galaxy-s24plus-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Samsung Galaxy S24+? Fixed | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/keep-your-data-and-save-space-win11s-secure-drive-management-methods-max-156-chars/"><u>Keep Your Data and Save Space: Win11's Secure Drive Management Methods (Max 156 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-recurring-edge-shortcut-installations/"><u>Preventing Recurring Edge Shortcut Installations</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-photo-resizing-on-windows-11-6-steps/"><u>The Ultimate Guide to Photo Resizing on Windows 11 – 6 Steps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/why-does-instagram-keep-flipping-my-video-in-2024/"><u>Why Does Instagram Keep Flipping My Video, In 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-reboot-mastery-conducting-a-pure-boot/"><u>Windows 11 Reboot Mastery: Conducting a Pure Boot</u></a></li>
+</ul></div>
 

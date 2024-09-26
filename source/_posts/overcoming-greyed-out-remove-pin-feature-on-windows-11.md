@@ -1,7 +1,7 @@
 ---
 title: Overcoming Greyed-Out Remove PIN Feature on Windows 11
-date: 2024-09-18T20:50:14.860Z
-updated: 2024-09-20T20:00:57.831Z
+date: 2024-09-20T16:23:46.617Z
+updated: 2024-09-26T19:37:42.166Z
 tags:
   - windows10
   - windows11
@@ -54,6 +54,20 @@ To remove PIN using forgot my PIN:
 6. Next, enter your Microsoft account details to sign in.  
 ![set up a pin cancel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/set-up-a-pin-cancel.jpg)
 7. When the**Set up a PIN** dialog appears, click on**Cancel** .  
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![close your account requires windows hello pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/close-your-account-requires-windows-hello-pin.jpg)
 8. Next, click the**Close** button to exit the**Your account requires a Windows Hello PIN** dialog.
 
@@ -75,26 +89,33 @@ That's it! You have successfully removed the Windows Hello PIN.
 2. Now scroll down to the**Additional security** section.  
 ![additional security turn off passwordless account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/additional-security-turn-off-passwordless-account.jpg)
 3. Click on**Turn Off** for**Passwordless account.**
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Next, follow the on-screen instruction to disable the features.
 5. Once done, you should be able to use the Remove PIN option in Settings.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Remove the PIN on Your Windows 11 PC
 
 ![windows 11 remove pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-remove-pin.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the option is restored, follow these steps to remove Windows Hello PIN from the Settings app:
 
@@ -104,6 +125,13 @@ That's it! You have successfully removed the Windows Hello PIN.
 4. Scroll down and click on**PIN (Windows Hello).**
 5. Click on**Remove** and then on**Remove** again to confirm the action.
 6. Enter your account password and click OK to remove the PIN.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix the Grayed-Out Remove PIN Option
 
@@ -122,5 +150,20 @@ That's it! You have successfully removed the Windows Hello PIN.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-get-premium-minecraft-channel-graphics/"><u>[Updated] Get Premium Minecraft Channel Graphics</u></a></li>
+<li><a href="https://fox-info.techidaily.com/a-compreited-chronological-catalog-of-your-image-collection-for-2024/"><u>A Compreited Chronological Catalog of Your Image Collection for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/access-control-microphone-and-camera-via-edge-protection/"><u>Access Control: Microphone and Camera via Edge Protection</u></a></li>
+<li><a href="https://windows11.techidaily.com/caution-not-to-use-chatbots-for-windows-key-formation/"><u>Caution: Not to Use Chatbots For Windows Key Formation</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-nokia-c300-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Nokia C300 Device</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/online-m4r-movavi/"><u>Online 무료 비디오 M4R파일 바이트 단위로 변환: Movavi의 속도적인 방법</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-sluggishness-valorant-on-windows/"><u>Overcome Sluggishness: Valorant on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-fixing-photography-packaging-issues-on-windows-11/"><u>Quick Guide: Fixing Photography Packaging Issues on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-launching-works-on-windows-10plus/"><u>Step-by-Step: Launching Works on WIndows 10+</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-when-your-astro-a2-mic-wont-work/"><u>Troubleshooting Steps When Your Astro A2 Mic Won't Work</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlock-your-content-potential-best-ideas-for-youtube-themes-for-2024/"><u>Unlock Your Content Potential Best Ideas for YouTube Themes for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-windows-11-audio-adjustment-tools/"><u>Unveiling the Windows 11 Audio Adjustment Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726028830976-windows-10mp4/"><u>フリーウェアによるWindows 10上でのMP4動画回転手順</u></a></li>
+</ul></div>
 

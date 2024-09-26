@@ -1,7 +1,7 @@
 ---
 title: Migrate OneDrive to a Desired Folder on Win 11
-date: 2024-09-15T16:59:01.475Z
-updated: 2024-09-20T21:48:17.407Z
+date: 2024-09-23T19:51:56.255Z
+updated: 2024-09-26T18:50:03.834Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
  If you’re new to the concept, check out our articles on[what OneDrive is](https://www.makeuseof.com/what-is-onedrive/) and[why you should use it](https://www.makeuseof.com/microsoft-onedrive-personal-benefits/) .
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Unlinking OneDrive
 
  The first thing to do is to[unlink your OneDrive folder from your Microsoft account](https://www.makeuseof.com/unlink-onedrive-microsoft-account-windows/) so that files on the cloud no longer sync to their current location.
@@ -36,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
  Your OneDrive files on your PC will no longer synchronize to the cloud. Don’t worry; a little later you’ll be re-linking your OneDrive folder to your Microsoft account.
 
  Once you’ve done this, you will be presented with a window to set up OneDrive. Leave this open for the moment. You will need to revisit it once you’ve moved your OneDrive folder to a different location on your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Moving Your OneDrive Folder
 
@@ -53,6 +67,13 @@ With that done, you can now relocate your OneDrive folder.
 
  That’s it! You’ve moved your OneDrive folder to a new location on your Windows PC.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Re-Linking OneDrive
 
  Now all that’s left is to re-link your Microsoft account with OneDrive on your PC, this time pointing to the new location. Follow the steps below to do that.
@@ -67,10 +88,10 @@ With that done, you can now relocate your OneDrive folder.
 6. Verify that the location you’ve selected is the correct one, and click on**Next** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. You’ll be presented with a welcome screen. Scroll through it and close the setup window.
@@ -78,13 +99,6 @@ With that done, you can now relocate your OneDrive folder.
  Your OneDrive folder has been moved, and any files you add, or existing ones you modify, will be synced to the cloud from this new OneDrive location on your PC.
 
  Additionally, there are many[ways to control how OneDrive syncs files on your PC](https://www.makeuseof.com/ways-to-control-onedrive-sync-pc/) , from pausing automatic sync on metered networks to stopping specific folders from syncing.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Free Up PC Storage by Moving Your OneDrive Folder
 
@@ -103,5 +117,22 @@ With that done, you can now relocate your OneDrive folder.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1716069082801-new-2024-approved-pinnacle-playtime-the-greatest-action-adventure-game-lineup-ever/"><u>[New] 2024 Approved Pinnacle Playtime The Greatest Action-Adventure Game Lineup Ever!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-channel-king-and-queen-academy-youtube-excellence/"><u>[Updated] In 2024, Channel King & Queen Academy YouTube Excellence</u></a></li>
+<li><a href="https://windows11.techidaily.com/cure-for-hidden-second-display-on-w11/"><u>Cure for Hidden Second Display on W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-managing-applications-with-wpm-in-windows-11/"><u>Efficiently Managing Applications with WPM in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/find-and-download-the-right-hp-networking-drivers-for-your-windows-pc-windows-11-windows-7-and-8/"><u>Find and Download the Right HP Networking Drivers for Your Windows PC (Windows 11, Windows 7 & 8)</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-itel-s23plus-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Itel S23+ Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-lava-blaze-2-5g-frp-by-drfone-android/"><u>How Can We Bypass Lava Blaze 2 5G FRP?</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-revive-non-starting-adobe-photoshop-on-ws11-and-11/"><u>How to Revive Non-Starting Adobe Photoshop on WS11 & 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-jokefactory-enjoy-and-create-online/"><u>In 2024, JokeFactory Enjoy & Create Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-troubleshooting-overcoming-error-e84-on-steam/"><u>Mastering the Art of Troubleshooting: Overcoming Error E84 on Steam</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/personalizing-clients-exercise-regimens-with-ai-the-role-of-chatgpt-for-coaches/"><u>Personalizing Client's Exercise Regimens with AI: The Role of ChatGPT for Coaches</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-narzo-n55-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Narzo N55 has been deleted.</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-offline-errors-for-windows-11s-printer-port/"><u>Resolving Offline Errors for Windows 11'S Printer Port</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-overcoming-disruptions-after-a-windows-update/"><u>Swiftly Overcoming Disruptions After a Windows Update</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-hardware-enthusiasts-by-tom/"><u>The Ultimate Resource for Hardware Enthusiasts by Tom</u></a></li>
+</ul></div>
 

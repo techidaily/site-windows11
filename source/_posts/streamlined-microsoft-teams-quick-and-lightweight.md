@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Microsoft Teams: Quick & Lightweight"
-date: 2024-09-13T16:36:06.914Z
-updated: 2024-09-20T16:39:55.310Z
+date: 2024-09-25T22:03:39.528Z
+updated: 2024-09-26T20:40:58.318Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
 
  Another significant change is the introduction of the new architecture. Microsoft Teams has now fully transitioned from AngularJS to React for its web development framework needs. Where Fluent UI’s UX controls provide standardized common component support, WebView2 replaces Electron as the rendering engine for the app.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Other Features That Boost Collaboration and Productivity in Teams
 
  Apart from the core changes, Teams now comes with a host of new features to boost collaboration and productivity. You can personalize each account and organization with different color themes to quickly recognize your current workspace. And these go hand-in-hand with some of the[best productivity apps for Teams](https://www.makeuseof.com/best-productivity-apps-microsoft-teams/) .
@@ -45,9 +52,23 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
 
  Apart from these, Microsoft also plans to bring some new features later this year, including third-party and Line-of-Business(LOB) apps support and advanced calling and meeting feature.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Try the Teams Public Preview
 
 ![Microsoft teams update policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-teams-update-policies.png)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The new Teams is only available as a public preview build and is available for commercial users now. While the company plans to bring it to Education and platforms like VDI and web later this year, here’s how to set an Update policy and enable Teams public preview for organizations.
 
@@ -66,10 +87,10 @@ To set the Update policy and enable public preview:
  To enable new Teams, launch the app and toggle the**new Teams** switch to starting using the latest iteration of Teams. You can switch between the classic and new Teams app without restrictions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Teams is Now More Efficient and Faster
@@ -91,5 +112,24 @@ To set the Update policy and enable public preview:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-duel-of-apps-comparative-analysis-of-tiktok-and-snapchat-for-2024/"><u>[Updated] The Duel of Apps Comparative Analysis of TikTok and Snapchat for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-understanding-the-magic-behind-quantum-hdr/"><u>[Updated] Understanding the Magic Behind Quantum HDR</u></a></li>
+<li><a href="https://windows11.techidaily.com/3-simple-methods-for-identifying-windows-ram/"><u>3 Simple Methods for Identifying Windows RAM</u></a></li>
+<li><a href="https://windows11.techidaily.com/ad-ds-and-printer-woes-a-guide-for-windows-11-users/"><u>AD DS and Printer Woes: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-vivo-y55s-5g-2023-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Vivo Y55s 5G (2023) Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-and-fixing-non-responsive-usb-on-pc/"><u>Identifying and Fixing Non-Responsive USB on PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-apple-iphone-6-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From Apple iPhone 6 How to Bypass?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-uncharted-territories-with-these-iphone-vr-apps/"><u>In 2024, Explore Uncharted Territories with These iPhone VR Apps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-how-to-correct-fisheye-lens-distortion-from-gopro-footage/"><u>In 2024, How to Correct Fisheye (Lens Distortion) From GoPro Footage</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-desktop-spaces-preset-program-dimensions-on-win11/"><u>Optimizing Desktop Spaces: Preset Program Dimensions on Win11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-find-x6-pro-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Find X6 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/rehabbing-windows-1011s-recycle-bin-crisis-a-step-by-step-guide/"><u>Rehabbing Windows 10/11'S Recycle Bin Crisis: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-the-hover-over-sensitivity-and-visibility-in-windows-11/"><u>Tailoring the Hover Over Sensitivity and Visibility in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-new-heads-of-air-cooling-royalty-comprehensive-reviews-of-id-coolings-frozn-a72n-and-a620-models/"><u>The New Heads of Air Cooling Royalty: Comprehensive Reviews of ID-Cooling's FROZN A72n and A620 Models</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-fbm-issues-on-your-pc-screen/"><u>Unblocking FBM Issues on Your PC Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-windows-law-filter-mechanics-and-output/"><u>Unraveling the Mystery of Window's LAW Filter Mechanics and Output</u></a></li>
+</ul></div>
 

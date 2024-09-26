@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows Crashes Due to 0X0000011B Errors
-date: 2024-09-19T17:24:28.592Z
-updated: 2024-09-20T16:52:35.651Z
+date: 2024-09-19T22:58:51.700Z
+updated: 2024-09-26T17:09:27.980Z
 tags:
   - windows10
   - windows11
@@ -58,6 +58,13 @@ To check and install Windows updates:
 4. Click on**Download & install** to install the updates.
 5. Once installed, restart your PC and check for any improvements.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Install the Printer Manually via the Local Port
 
  A little complicated, yet a working solution to fix the operation failed error 0x0000011B is to[add your printer manually to Windows](https://www.makeuseof.com/windows-11-add-wired-wireless-printer/) for the local port. Here’s how to do it.
@@ -67,6 +74,14 @@ To check and install Windows updates:
 3. Next, click on**Add a printer or scanner** . Windows will scan for available printers.  
 ![the printer that i want isnt listed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-printer-that-i-want-isnt-listed.jpg)
 4. Click on the**The printer that I want isn’t listed** option. If you don't see the option immediately, wait for a few seconds after clicking on the**Add a printer or scanner** option.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the**Add Printer** dialog, select **Add a local printer or network printer with manual settings.**  
 ![add local printer network printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-local-printer-network-printer.jpg)
 
@@ -103,27 +118,29 @@ Next, follow these steps to disable CVE-2021-1678 mitigation:
 4. Next, right-click on**Print > New > DWORD (32-bit) Value.**  
 ![create new dword 32 bit value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-dword-32-bit-value-registry-editor.jpg)
 5. Rename the**DWORD value** as**RpcAuthnLevelPrivacyEnabled.**  
-![registry editor modify rpcauthlevelprivacyenabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled.jpg)
-6. Right-click on the**RpcAuthnLevelPrivacyEnabled** value and select**Modify** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![registry editor modify rpcauthlevelprivacyenabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled.jpg)
+6. Right-click on the**RpcAuthnLevelPrivacyEnabled** value and select**Modify** .
 
 7. Type**0** in the**Value data** field and click**OK** to save the changes.  
 ![registry editor modify rpcauthlevelprivacyenabled 0 disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled-0-disabled.jpg)
 8. Close**Registry Editor** and restart your PC to apply the changes.
-9. After the restart, try to use your shared printer and check if the error is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+9. After the restart, try to use your shared printer and check if the error is resolved.
 
 ## 5\. Uninstall Recently Installed Updates
 
@@ -137,6 +154,14 @@ To uninstall Windows updates:
 2. Type**control** and click**OK** to open**Control Panel.**  
 ![control panel uninstall programs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs.jpg)
 3. Next, click on**Programs** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![control panel uninstall programs view installed updatges](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs-view-installed-updatges.jpg)
 4. Click on**View installed updates** under**Programs and Features** . This will open the**Uninstall updates** section in the**Settings** app. Alternatively, go to **Settings > Windows Update > Update history > Uninstall updates** to access the same.  
 
@@ -168,5 +193,19 @@ To uninstall Windows updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-igtv-strategies-for-uploading-horizontal-videos/"><u>[New] 2024 Approved Mastering IGTV Strategies for Uploading Horizontal Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-game-capture-made-simple-top-free-tools-listing/"><u>2024 Approved Game Capture Made Simple Top Free Tools Listing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/demystifying-the-use-of-luts-in-professional-photoshop-workflows/"><u>Demystifying the Use of LUTs in Professional Photoshop Workflows</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-windows-display-by-removing-overscan-effects/"><u>Enhance Windows Display by Removing Overscan Effects</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-components-to-creativity-designing-your-own-4k-editor-pc-for-2024/"><u>From Components to Creativity Designing Your Own 4K Editor PC for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-leveraging-the-power-of-images-in-your-instagram-video-plans/"><u>In 2024, Leveraging the Power of Images in Your Instagram Video Plans</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-podcast-feature-listen-and-share-with-friends/"><u>In 2024, Podcast Feature Listen and Share with Friends</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-tips-disable-win-11-mobility-hub/"><u>Quick Tips: Disable Win 11 Mobility Hub</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reactivating-scanner-in-upgraded-windows-10-version/"><u>Reactivating Scanner in Upgraded Windows 10 Version</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-repair-keyboard-issues-with-windows-snipper/"><u>Tips to Repair Keyboard Issues with Windows Snipper</u></a></li>
+<li><a href="https://windows11.techidaily.com/transitioning-from-iphones-calendar-to-windows-smoothly/"><u>Transitioning From iPhone's Calendar to Windows Smoothly</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshoot-bcm2045a0-drivers-for-immediate-performance-boost/"><u>Troubleshoot BCM2045A0 Drivers for Immediate Performance Boost</u></a></li>
+</ul></div>
 

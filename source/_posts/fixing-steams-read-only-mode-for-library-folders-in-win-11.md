@@ -1,7 +1,7 @@
 ---
 title: Fixing Steam's Read-Only Mode for Library Folders in Win 11
-date: 2024-09-14T19:58:19.174Z
-updated: 2024-09-20T19:54:35.355Z
+date: 2024-09-24T17:47:16.888Z
+updated: 2024-09-26T18:08:41.775Z
 tags:
   - windows10
   - windows11
@@ -61,13 +61,21 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 7. Click on the **Full Control** checkbox to grant all the permissions for your user profile.  
 ![Grant Full Ownership of the Steam Folder-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/grant-full-ownership-of-the-steam-folder-1.jpg)
 8. Now, click on the **Apply** button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Lastly, click on the **OK** button and then close the Properties window.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Repair the Steam Library Folder
@@ -84,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 6. After the repair completes, click on the **Close** button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Re-Add the Steam Library Folder
@@ -101,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 5. Now, click on the **plus** icon. Select the folder location and click on the **Add** button.
 6. Close and relaunch Steam.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Flush the Steam Download Cache
 
  An outdated or corrupt download cache can cause interference while installing games or updating the Steam client. So, you must empty the Steam download cache using the settings. Repeat the following steps to do so:
@@ -111,14 +126,15 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 4. Find the **Clear Download Cache** option in the right pane. Click on the **Clear Cache** button.  
 ![Flush the Download Cache-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/flush-the-download-cache-1.jpg)
 5. Steam will reconfirm your decision to clear the cache. Click on the **Confirm** button.
-6. The app will restart after purging the download cache. You will have to sign in again to your Steam account.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+6. The app will restart after purging the download cache. You will have to sign in again to your Steam account.
 
 ## 7\. Run a Check Disk Scan
 
@@ -135,6 +151,13 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 ![Reinstall the Game on Another Drive-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reinstall-the-game-on-another-drive-1.jpg)
 5. Now, click on the **Add** button.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Format the Disk and Try Again
 
  Many users want to install games on a newly added disk drive but face the “Steam library folder not writable” error in the process. It is mainly because the newly added disk drive bears the same letter as the old drive with a Steam Library folder.
@@ -146,13 +169,6 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 3. Click on the **Change** button.  
 ![Format the Disk And Try Again-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/format-the-disk-and-try-again-1.jpg)
 4. Expand the drop-down list and select a new drive letter. Click on the **OK** button.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Now, right-click on the disk drive and select the **Format** option.
 6. Keep the **File System** as **NTFS** and click on the **OK** button.  
@@ -174,5 +190,19 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-comical-creation-quick-tips-for-meme-mastery-for-2024/"><u>[New] Comical Creation Quick Tips for Meme Mastery for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-elevate-your-video-remove-extraneous-details-effectively/"><u>2024 Approved Elevate Your Video - Remove Extraneous Details Effectively</u></a></li>
+<li><a href="https://windows11.techidaily.com/curating-edthemes-experience-on-windows-11/"><u>Curating EdThemes Experience on Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-11-pro-max-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone 11 Pro Max when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-essential-tips-for-iphone-shadow-photography/"><u>In 2024, Essential Tips for iPhone Shadow Photography</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/legacy-unlocks-employing-a-windows-7-key-in-11-setup/"><u>Legacy Unlocks: Employing a Windows 7 Key in 11 Setup</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/mp4-format-conversion-no-cost-ram-to-mp4-file-editor-by-movavi-online/"><u>MP4 Format Conversion - No Cost Ram to MP4 File Editor by Movavi Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-onedrive-errors-on-windows-11-an-experts-fix-list/"><u>Navigating OneDrive Errors on Windows 11: An Expert's Fix List</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-the-maze-of-windows-error-code-0xc00000f/"><u>Navigating Through the Maze of Windows Error Code 0Xc00000f</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-microsoft-drivers-downloading-and-updating-on-windows-11-8-and-7/"><u>Quick and Simple Guide: Microsoft Drivers Downloading and Updating on Windows 11, 8 & 7</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-oppo-a78-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Oppo A78 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+</ul></div>
 

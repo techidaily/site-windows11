@@ -1,7 +1,7 @@
 ---
 title: Ramping Up VRAM in Windows - A Comprehensive Guide for Gaming
-date: 2024-09-17T19:37:08.459Z
-updated: 2024-09-20T17:39:44.099Z
+date: 2024-09-23T20:28:53.978Z
+updated: 2024-09-26T19:35:47.512Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/f2db6799877945629968cd53153eb704a207aecfe
 
 ![Windows 10 Video RAM Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/Windows-10-Video-RAM-Information.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To reach this menu on Windows 11, go to**Settings > System > Display > Advanced display** . Then choose a display and click**Display adapter properties** .
 
  Under**Adapter Type** , you'll see the name of your**Nvidia** or**AMD** graphics card, depending on what device you have. If you see**AMD Accelerated Processing Unit** or**Intel HD Graphics** (more likely), you're[using integrated graphics](https://www.makeuseof.com/tag/can-shared-graphics-finally-compete-with-a-dedicated-graphics-card/) . We cover more on this below.
@@ -88,10 +95,10 @@ Head to the following location:
  Like with most hardware tasks, upgrading your RAM or video card is often difficult on a laptop but simple to do on a desktop.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Kinds of Tasks Need Video RAM?
@@ -115,10 +122,10 @@ Head to the following location:
  Even if you're not interested in gaming, some popular software requires a fair amount of VRAM too. 3D design software like AutoCAD, particularly intense edits in Photoshop, and editing high-quality video will all suffer if you don't have enough video RAM.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Much VRAM Do I Need?
@@ -135,13 +142,6 @@ Head to the following location:
 
  Extremes aren't the concern with VRAM. You don't need an $800, top-of-the-line card with 12GB of VRAM to play 2D indie platformers. Really, you only need to worry about how much VRAM to get when a card you want to buy is available in multiple VRAM configurations. VRAM isn't the only[factor that should go into your GPU decision](https://www.makeuseof.com/tag/5-things-know-buying-graphics-card/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Common Video RAM Concerns
 
  Remember that just like normal RAM, more VRAM doesn't always mean better performance. If your card has 4GB of VRAM and you're playing a game that only uses 2GB, upgrading to an 8GB card isn't going to do anything noticeable.
@@ -151,6 +151,13 @@ Head to the following location:
  Remember that VRAM is only one factor in performance. If you don't have a powerful enough CPU, rendering 4K video will take forever. A lack of system RAM prevents you from running many programs at once, and using a mechanical hard drive will severely limit your system performance too. And some cheaper graphics cards use slow DDR3 VRAM, which is inferior to DDR6 and DDR5 used in modern cards.
 
  The best way to find out which specific graphics card and amount of video RAM is right for you is to talk to someone knowledgeable. Ask a friend who knows about the latest graphics cards, or post on a forum like Reddit or Tom's Hardware asking if a specific card would work for your needs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Understanding VRAM With Integrated Graphics
 
@@ -183,5 +190,24 @@ Head to the following location:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-capture-the-moment-enhancing-and-cutting-video-for-instagram-impact/"><u>[New] In 2024, Capture the Moment Enhancing and Cutting Video for Instagram Impact</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-7-free-apps-to-record-screens-of-budget-pcs/"><u>[New] In 2024, Top 7 Free Apps to Record Screens of Budget PCs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-recipe-rulers-must-follow-culinary-youtubers-for-2024/"><u>[Updated] Recipe Rulers Must-Follow Culinary YouTubers for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-wisdom-the-most-overlooked-features/"><u>2024 Approved Instagram Wisdom The Most Overlooked Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-unpredictable-power-estimator-display-on-windows-11/"><u>Correcting Unpredictable Power Estimator Display on Windows 11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/demons-souls-remastered-immersive-visuals-and-timeless-excellence/"><u>Demon's Souls Remastered: Immersive Visuals and Timeless Excellence</u></a></li>
+<li><a href="https://windows11.techidaily.com/dive-into-digital-dreams-with-paint-cocreator-and-windows-11-creating-vivid-ai-visuals/"><u>Dive Into Digital Dreams with Paint Cocreator & Windows 11, Creating Vivid AI Visuals</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensuring-convergence-of-windows-and-wsl-with-win-11-upgrade/"><u>Ensuring Convergence of Windows & WSL with Win 11 Upgrade</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-customize-and-reset-your-command-prompt/"><u>Guide to Customize and Reset Your Command Prompt</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/igadget-restoration-kit-confident-and-precise-recovery/"><u>IGadget Restoration Kit: Confident & Precise Recovery</u></a></li>
+<li><a href="https://windows11.techidaily.com/instructions-for-resetting-customized-windows-settings/"><u>Instructions for Resetting Customized Windows Settings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-macos-sierra-installation-procedures/"><u>Mastering macOS Sierra Installation Procedures</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-hurdles-in-windows-hello-fingerprint-failures/"><u>Overcome Hurdles in Windows Hello Fingerprint Failures</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/sequel-of-seconds-measuring-20mb-footage/"><u>Sequel of Seconds Measuring 20MB Footage</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-windows-11-selection-home-edition-or-pro-level-choice/"><u>Tailored Windows 11 Selection: Home Edition or Pro-Level Choice</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-media-maker-error-x8007043c-fix-guide/"><u>Windows' Media Maker Error X.8007043C Fix Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/worlds-leading-online-destinations-the-ultimate-ranking-of-top-10-sites/"><u>World's Leading Online Destinations: The Ultimate Ranking of Top 10 Sites</u></a></li>
+</ul></div>
 
