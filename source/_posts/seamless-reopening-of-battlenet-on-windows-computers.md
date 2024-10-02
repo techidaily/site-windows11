@@ -1,7 +1,7 @@
 ---
 title: Seamless Reopening of Battle.net on Windows Computers
-date: 2024-09-14T23:25:17.612Z
-updated: 2024-09-15T19:01:22.981Z
+date: 2024-09-28T00:39:29.968Z
+updated: 2024-10-01T20:50:21.533Z
 tags:
   - windows10
   - windows11
@@ -44,6 +44,14 @@ This is how you can erase those folders in Windows 11/10:
 3. Clear Explorer’s folder path bar, and input this directory location there: C:\\ProgramData  
 ![The Blizzard Entertainment folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/blizzard-entertainment-folder.jpg)
 4. Right-click the Battle.net directory and select the**Delete** context menu option.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-delete-button.jpg)
 5. Next, erase the Blizzard Entertainment folder.
 6. Try opening Battle.net again.
@@ -61,10 +69,25 @@ This is how you can erase those folders in Windows 11/10:
 4. Click the**Start** service button for Secondary Logon.  
 ![The Secondary Logon Properties window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-logon-properties-window.jpg)
 5. Remember to select**Apply** to save the setting.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Select**OK** to exit the Secondary Logon Properties window.
 7. Click**Restart** on the Start menu in Windows 11/10.
 
  If you find Secondary Logon is already enabled, restart the service instead. Right-click Secondary Logon on the Services window to select**Restart** . Or you can click**Stop** and**Start** in the service’s properties window.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Turn Off the Windows Defender Firewall
 
@@ -74,6 +97,14 @@ This is how you can erase those folders in Windows 11/10:
 2. Select the**Turn Windows Defender Firewall on or off** navigation option on the left of the applet.  
 ![The Windows Defender Firewall applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-defender-control-panel-applet.jpg)
 3. Click the**Turn off Windows Defender Firewall** options for both the public and private network settings.  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Turn off Windows Defender Firewall radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/turn-off-windows-defender-firewall-settings.jpg)
 4. Select**OK** to save the new WDF options.
 5. Try opening Battle.net again with the firewall disabled.
@@ -87,10 +118,10 @@ This is how you can erase those folders in Windows 11/10:
  You can usually find options for disabling third-party antivirus software on their context menus. So, right-click an antivirus icon in the system tray and look for an option to disable or turn off its shield on the menu that opens. If that works, you’ll know what’s causing the issue. Whitelist Battle.net in your antivirus tool’s exclusion settings.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Disable the Proxy Server
@@ -107,21 +138,7 @@ This is how you can erase those folders in Windows 11/10:
 ![The Use a proxy server checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-use-a-proxy-server-checkbox.jpg)
 7. Press the**OK > Apply** buttons.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Malware can activate a proxy server setting on Windows. If you discover a proxy server enabled, but didn’t select it yourself, consider manually running an antivirus scan. Our[Windows Security (Defender) guide](https://www.makeuseof.com/windows-11-quick-security-guide/) tells you how to run a scan with the built-in antivirus utility on Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Set Windows 11/10 to Clean Boot
 
@@ -138,10 +155,10 @@ This is how you can erase those folders in Windows 11/10:
 ![The Programs and Features Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-programs-and-features-applet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can remove Battle.net in Control Panel’s Programs and Features applet, as outlined in our[guide for uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . After uninstalling the game launcher, open the[Battle.net desktop app](https://www.blizzard.com/en-us/apps/battle.net/desktop) download page; click**Download for Windows** on that page. Then double-click the**Battle.net-Setup.exe** file in whatever folder it downloaded to, and go through the setup wizard to install.
@@ -165,5 +182,18 @@ This is how you can erase those folders in Windows 11/10:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-finding-the-perfect-countdown-timer-for-your-wedding-ceremony/"><u>[New] Finding the Perfect Countdown Timer for Your Wedding Ceremony</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-use-chroma-keying-in-video-making-for-2024/"><u>[New] How to Use Chroma Keying in Video Making for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-transform-ppt-deck-into-video-stream/"><u>[New] Transform PPT Deck Into Video Stream</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-download-screen-recorder-pro-for-windows-11-for-2024/"><u>[Updated] Download Screen Recorder Pro for Windows 11 for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-successful-uploads-on-google-podcast/"><u>2024 Approved Step-by-Step Successful Uploads on Google Podcast</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-clashes-in-windows-desktop-ordering/"><u>Avoid Clashes in Windows Desktop Ordering</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/foremost-venues-expanding-youtube-visibility/"><u>Foremost Venues Expanding YouTube Visibility</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-powertoys-navigating-globally-peering-deeply/"><u>Mastering PowerToys: Navigating Globally, Peering Deeply</u></a></li>
+<li><a href="https://windows11.techidaily.com/shine-the-light-how-to-make-your-cursor-more-noticeable-on-win1011/"><u>Shine the Light: How to Make Your Cursor More Noticeable on Win10/11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/vtuber202-cups-15-x-7-plus-134x-plus-8/"><u>VTuber之路上的秘密诀窍：如何在202 Cups = (1/5) X -7 + (1/3)(4X + 8)</u></a></li>
+<li><a href="https://windows11.techidaily.com/winphone-users-decide-between-unison-and-phone-link-apps/"><u>WinPhone Users: Decide Between Unison and Phone Link Apps</u></a></li>
+</ul></div>
 

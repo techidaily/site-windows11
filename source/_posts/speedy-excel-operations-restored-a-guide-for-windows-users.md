@@ -1,7 +1,7 @@
 ---
 title: "Speedy Excel Operations Restored: A Guide for Windows Users"
-date: 2024-09-22T18:21:57.561Z
-updated: 2024-09-26T16:25:23.347Z
+date: 2024-09-28T20:29:48.210Z
+updated: 2024-10-01T22:49:15.114Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,16 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
  Restart Excel on your PC and enable your add-ins one at a time. Try using Excel after enabling each add-in and observe its performance. Once you identify the faulty add-in, consider removing it.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Optimize Excel for Compatibility
@@ -60,32 +66,13 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 4. Click **OK** to save the changes.  
 ![Optimize Excel for Compatiblity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/optimize-excel-for-compatiblity.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart Excel after this and check if it still runs slowly or lags on your Windows computer.
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Disable Hardware Graphics Acceleration
@@ -99,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 3. Under the **Display** section, tick the **Disable hardware graphics acceleration** checkbox.
 4. Click **OK** and restart Excel.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Enable Manual Calculation
 
  When you make changes to a cell, Excel recalculates all formulas and functions. This process can be resource-intensive and result in the app lagging when you input or edit data.
@@ -107,29 +101,22 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 
 ![Enable Manual Calculation in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/enable-manual-calculation-in-excel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Reduce the Size of Your Excel File
 
  The larger your spreadsheet, the more calculations and operations Excel has to perform. This can have a negative impact on Excel's performance and lead to various problems. To avoid this, you can try reducing the size of your Excel workbook by decreasing the number of sheets, removing unnecessary formatting, and compressing any pictures within your workbook.
 
  Another thing you can do is save your Excel file in binary (.xslb) format. To do so, press **F12** on your keyboard to bring up the **Save As** dialog in Excel. Click the drop-down menu next to **Save as type** to select **Excel Binary Workbook (\*.xslb)** and click the **Save** button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Save As Dialog in Excel
 
 ![Save As Dialog in Excel](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/save-as-dialog-in-excel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Update Microsoft Excel
 
@@ -139,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 2. Select **Account** from the left sidebar.
 3. Click **Update Options > Update Now**.  
 ![Update Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft-excel.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait for Microsoft Office to update Excel along with other Office apps and check if that fixes the problem.
 
@@ -180,20 +174,19 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-exploring-the-spectrum-a-creatives-resource/"><u>[New] In 2024, Exploring the Spectrum A Creative's Resource</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ntegrating-video-content-from-youtube-into-websites-a-comprehensive-guide-for-2024/"><u>[New] Integrating Video Content From YouTube Into Websites - A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-mastering-instagram-stories-step-by-step-recording-guide-for-2024/"><u>[New] Mastering Instagram Stories Step-by-Step Recording Guide for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-iphone-11-pro-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your iPhone 11 Pro for Free</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/decode-youtube-shorts-a-complete-breakdown-for-2024/"><u>Decode YouTube Shorts A Complete Breakdown for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-compact-icons-arrangement-in-system-interface/"><u>Fixing Compact Icons Arrangement in System Interface</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-honor-90-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Honor 90 Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-11-for-sticky-note-usage/"><u>Navigating Windows 11 for Sticky Note Usage</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premier-videography-instruments-for-2024/"><u>Premier Videography Instruments for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/rectifying-pc-issues-amidst-minimum-specifications-and-intel-graphic-errors/"><u>Rectifying PC Issues Amidst Minimum Specifications and Intel Graphic Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-resolve-missing-device-alert-in-windows-10/"><u>Steps to Resolve 'Missing' Device Alert in Windows 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-art-and-science-of-professional-printing-from-powerpoint-on-a-windows-computer/"><u>The Art and Science of Professional Printing From PowerPoint on a Windows Computer</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/top-virtualdub-substitutes-effortlessly-capture-and-save-live-streams-as-mp4/"><u>Top VirtualDub Substitutes: Effortlessly Capture and Save Live Streams as MP4</u></a></li>
-<li><a href="https://windows11.techidaily.com/turning-on-windows-11-desktop-widget-tools/"><u>Turning On Windows 11 Desktop Widget Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-visual-power-with-windows-11s-auto-hdr/"><u>Unlocking Visual Power with Windows 11'S Auto HDR</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-video-tales-in-reverse-perfecting-instagram-posts-for-2024/"><u>[New] Video Tales in Reverse Perfecting Instagram Posts for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mp4-ogv/"><u>「簡単な手順で！ MP4ビデオから高品質な OGVへの完全変換方法」</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-content-top-15-download-apps-unveiled/"><u>2024 Approved Instagram Content Top 15 Download Apps Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-conversion-transform-videos-into-wav-files-with-ease/"><u>Effortless Conversion: Transform Videos Into WAV Files with Ease</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhanced-user-experience-with-advanced-analytics-powered-by-the-cutting-edge-technology-of-cookiebot/"><u>Enhanced User Experience with Advanced Analytics: Powered by the Cutting-Edge Technology of Cookiebot</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-scripts-to-discover-your-computers-ip-and-mac-addresses/"><u>Essential Scripts to Discover Your Computer's IP & MAC Addresses</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-perfecting-virtual-presentations-key-practices-for-using-skypes-screen-share-feature/"><u>In 2024, Perfecting Virtual Presentations Key Practices for Using Skype’s Screen Share Feature</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/picture-posters-best-frame-enhancing-software-recommendations/"><u>Picture Posters Best Frame-Enhancing Software Recommendations</u></a></li>
+<li><a href="https://win11.techidaily.com/rejuvenating-windows-1011s-faulty-recycle-bin-error/"><u>Rejuvenating Windows 10/11'S Faulty Recycle Bin Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/resetting-and-recovering-lost-steam-icons/"><u>Resetting and Recovering Lost Steam Icons</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-overlapping-icons-on-pc/"><u>Solving Overlapping Icons on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/stepwise-installation-of-dolby-atmos-audio-on-windows-devices/"><u>Stepwise Installation of Dolby Atmos Audio on Windows Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/turning-time-on-its-ear-unique-approaches-to-reversed-youtube-content-for-2024/"><u>Turning Time on Its Ear Unique Approaches to Reversed YouTube Content for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-users-dislike-in-windows-11-most/"><u>What Users Dislike in Windows 11 Most</u></a></li>
 </ul></div>
 

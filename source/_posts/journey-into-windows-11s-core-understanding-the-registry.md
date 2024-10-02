@@ -1,7 +1,7 @@
 ---
 title: "Journey Into Windows 11'S Core: Understanding the Registry"
-date: 2024-09-11T21:58:56.954Z
-updated: 2024-09-15T18:33:50.280Z
+date: 2024-09-26T19:00:51.795Z
+updated: 2024-10-02T01:22:26.449Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,19 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 
  Now that you know what a registry file is, let's get into how you can check its contents.
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Using File Explorer Preview
 
  The easiest way to preview a registry file on Windows is by using the File Explorer app. No need to open another app or program. You can preview it directly without ever leaving the registry file location. Here's how to do it:
@@ -42,6 +55,19 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 5. Now, click on the registry file you want to preview. The Preview pane will display a loading screen and then display the contents of the registry file. If you're going to copy the contents of the registry file from the Preview pane, select the text, press **Ctrl + C**, and then paste it into a text editor.  
 ![View the Registry File Contents Using File Explorer Preview 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-file-explorer-preview-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Using Windows Notepad
 
  Notepad is an inseparable part of Windows OS; the latest version even supports the tabs feature. So, you can open multiple files without even opening another Notepad window and stacking them side by side. Repeat the following steps:
@@ -51,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 3. Navigate to the directory where the registry file is present. Click on the **File type** drop-down list and select **All files (\*.\*)**.
 4. Now, you will see the registry file in the folder location—Double-click on the registry file to open it in Notepad.  
 ![View the Registry File Contents Using Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-notepad.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With that, you will see the contents of the registry file on Notepad.
 
@@ -66,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 5. After reviewing the file, type **exit** in the Command Prompt window and press **Enter** key to close it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Using PowerShell
@@ -85,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 6. PowerShell will display the contents of the registry file. **Close** the PowerShell window afterward.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Using PowerToys Registry Preview
@@ -102,23 +135,9 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 ![View the Registry File Contents Using PowerToys 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-powertoys-1.jpg)
 3. A new window will pop up. Click on the **Open File** button. Browse to the registry file location and select the file. Click on the **Open** button.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. The registry file will open in the left-hand side pane of the Registry Preview window. On the right, you will see the corresponding registry key and value that the registry file will change.  
 ![View the Registry File Contents Using PowerToys 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/view-the-registry-file-contents-using-powertoys-2.jpg)
 5. If you want to tweak the registry file, click on the left-hand side and type the changes. Then, you can either save the file or create a new registry file.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Using Chrome or Any Other Browser
 
@@ -139,5 +158,19 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-elite-mkv-deck-desktop-and-mobile/"><u>[New] Elite MKV Deck Desktop & Mobile</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-paint-peculiar-pictures-with-giphy/"><u>[New] Paint Peculiar Pictures with Giphy</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerating-file-download-rates-in-utorrent-win-os-style/"><u>Accelerating File Download Rates in uTorrent, WIN OS Style</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-play-mkv-movies-on-htc-u23-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can I play MKV movies on HTC U23?</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-access-issues-enabling-windows-logins-post-fail/"><u>Clearing Access Issues: Enabling Windows Logins Post-Fail</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-solutions-to-overcome-internet-explorers-service-unavailable-errors/"><u>Comprehensive Solutions to Overcome Internet Explorer's 'Service Unavailable' Errors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convertendo-facilmente-musicas-do-formato-ogg-para-mp3-gratuitamente-aprenda-a-usar-a-ferramenta-on-line-da-movavi-hoje/"><u>Convertendo Facilmente Músicas Do Formato OGG Para MP3 Gratuitamente - Aprenda a Usar a Ferramenta On-Line Da Movavi Hoje!</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-your-workspace-pinning-techniques-for-w11/"><u>Customize Your Workspace: Pinning Techniques for W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-auto-triggered-console-crashes-on-windows/"><u>Disabling Auto-Triggered Console Crashes on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/discovering-surface-laptop-studio-2-the-near-perfect-companion/"><u>Discovering Surface Laptop Studio 2 - The Near-Perfect Companion</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-motorola-defy-2-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on Motorola Defy 2, is it possible?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlocking-youtubes-algorithm-title-and-tag-optimization-for-2024/"><u>Unlocking YouTube's Algorithm Title & Tag Optimization for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reclaim Your Typing Efficiency with 9 Proven Fixes for Broken Window's Shortcut Commands
-date: 2024-09-12T19:42:46.253Z
-updated: 2024-09-15T17:09:22.584Z
+date: 2024-10-01T00:52:20.751Z
+updated: 2024-10-01T16:25:41.923Z
 tags:
   - windows10
   - windows11
@@ -40,14 +40,14 @@ thumbnail: https://thmb.techidaily.com/a6cda5d3da29aa302f42489d12b2f7ee98a977d6c
 
 ![Update relevant keyboard driver in windows device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-relevant-keyboard-driver-in-windows-device-manager.jpg)
 
- If you’re using a gaming keyboard, head to the manufacturer's website and check if there’s an update available.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If you’re using a gaming keyboard, head to the manufacturer's website and check if there’s an update available.
 
 ## 4\. Run the Keyboard Troubleshooter
 
@@ -74,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/a6cda5d3da29aa302f42489d12b2f7ee98a977d6c
 
  If you want to turn on or off Sticky Keys using a keyboard shortcut, check the box next to **Allow the shortcut key to start Sticky Keys**. This will allow you to turn it on or off by pressing **Shift** five times.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Turn On Windows 10's Hotkeys
 
  If your Windows 10 hotkeys are disabled for some reason, here's how to bring them back:
@@ -87,17 +94,10 @@ thumbnail: https://thmb.techidaily.com/a6cda5d3da29aa302f42489d12b2f7ee98a977d6c
 ![Group policy editor in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/group-policy-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reset the Keyboard Settings
@@ -114,10 +114,16 @@ thumbnail: https://thmb.techidaily.com/a6cda5d3da29aa302f42489d12b2f7ee98a977d6c
 ![Setting a new language in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/set-new-language-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Check Human Interface Device Service
@@ -131,6 +137,13 @@ thumbnail: https://thmb.techidaily.com/a6cda5d3da29aa302f42489d12b2f7ee98a977d6c
 5. Right-click it again and select **Refresh**.
 
 ![Human interface service in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/human-interface-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Check Third-Party Apps
 
@@ -153,5 +166,22 @@ thumbnail: https://thmb.techidaily.com/a6cda5d3da29aa302f42489d12b2f7ee98a977d6c
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-photo-editing-achieving-focus-with-distortions/"><u>[New] Photo Editing Achieving Focus with Distortions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-building-immersive-thumbnails-for-igtv-videos/"><u>[Updated] In 2024, Building Immersive Thumbnails for IGTV Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-prompt-mastery-inserting-directories-into-windows-11-menu/"><u>Command Prompt Mastery: Inserting Directories Into Window's 11 Menu</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-to-revive-your-black-screen-windows-11/"><u>Easy Steps to Revive Your Black Screen Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/elite-echoes-the-windows-choice/"><u>Elite Echoes The Windows Choice</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-to-office-works-setup-on-win-11/"><u>Essential Guide to Office Works Setup on Win 11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/excellent-alarms-best-download-sites-for-2024/"><u>Excellent Alarms Best Download Sites for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-open-installation-packages-resolving-windows-errors/"><u>Guide to Open Installation Packages: Resolving Windows Errors</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-z-flip-5-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy Z Flip 5 FRP?</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-regain-missing-router-interface-on-pc/"><u>How to Regain Missing Router Interface on PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-15-plus-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone 15 Plus</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-z-fold-5-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy Z Fold 5 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-infinix-smart-7-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Infinix Smart 7 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-for-overcoming-license-expiration-notice-in-win11/"><u>Tactics for Overcoming License Expiration Notice in Win11</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/top-reliable-alternatives-to-easeus-data-recovery-a-comparative-guide/"><u>Top Reliable Alternatives to EaseUS Data Recovery: A Comparative Guide</u></a></li>
+</ul></div>
 

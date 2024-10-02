@@ -1,7 +1,7 @@
 ---
 title: Guide to Preventing Invalid File Paths on W11 PC
-date: 2024-09-19T18:29:27.689Z
-updated: 2024-09-26T18:06:28.355Z
+date: 2024-09-28T01:47:08.840Z
+updated: 2024-10-01T22:00:19.643Z
 tags:
   - windows10
   - windows11
@@ -31,19 +31,6 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
  To fix it, check out[how to delete Windows' temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Disable Read-Only Access
 
  Windows usually creates temporary files for programs, including the one that you're trying to install. If the temp folder is set to read-only, Windows can't save files in it and will throw an error.
@@ -60,29 +47,22 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 7. Click**Apply > OK** .
 8. Restart your computer and check if the problem is now solved.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Compress the EXE File You're Trying to Run
 
  If the problem is limited to a certain app, some users have had success by compressing the EXE installer. It's an odd fix, but it's quick and easy to do, so it's worth a shot.
 
  Right-click the EXE file and select**Send to > Compressed (Zipped)** . Windows will create a zipped folder with the same name. Open the folder and launch the installer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Run the Windows Memory Diagnostic Tool
 
  The inability to install new software on your Windows 11 computer, might be caused by memory-related issues. If you try to install an app and Windows keeps freezing, you should[run the Windows Memory Diagnostic tool](https://www.makeuseof.com/windows-memory-diagnostic-tool-guide/) to fix the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Clean Boot Your System
 
@@ -97,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
  If you think your PC is infected, be sure to[perform an offline scan with Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) to ensure nothing is lurking in your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reset Your Computer
@@ -108,6 +88,20 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
  If nothing worked until now, and you can’t install anything on your computer, you should[reset your computer](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) . Fortunately, Windows allows you to use the**Cloud download** option, so you can keep your files while it removes all third-party apps on your computer.
 
 ![Reset Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-windows-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix Windows 11's Temp Files With These Tips
 
@@ -130,18 +124,18 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-how-to-extract-thumbnails-from-youtube-on-windowsmac-and-browsers/"><u>[Updated] 2024 Approved How to Extract Thumbnails From Youtube on Windows/Mac and Browsers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-iphone-strategies-preserving-and-enjoying-gifs-at-their-best/"><u>2024 Approved IPhone Strategies Preserving & Enjoying GIFs at Their Best</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-shared-printer-issues-on-windows-11/"><u>Addressing Shared Printer Issues on Windows 11</u></a></li>
-<li><a href="https://win-dash.techidaily.com/amd-radeon-rx-6800-xt-graphics-card-drivers-compatible-with-windows-11-10-8-and-7-download-now/"><u>AMD Radeon RX 6800 XT Graphics Card Drivers: Compatible with Windows 11, 10, 8 & 7 - Download Now</u></a></li>
-<li><a href="https://windows11.techidaily.com/best-windows-laptops-a-forward-looking-2024-review/"><u>Best Windows Laptops: A Forward-Looking 2024 Review</u></a></li>
-<li><a href="https://extra-information.techidaily.com/beyond-gopro-the-15-top-waterproof-cams-for-adventure-for-2024/"><u>Beyond GoPro The 15 Top Waterproof Cams for Adventure for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-itel-a60-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-15-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone 15? How to Fix it?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/initiating-conversations-on-instagram-live-for-2024/"><u>Initiating Conversations on Instagram Live for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-11s-multi-task-abilities-efficiently/"><u>Navigating Windows 11'S Multi-Task Abilities Efficiently</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/social-media-sensation-spotlights-for-2024/"><u>Social Media Sensation Spotlights for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/solve-non-responsive-function-keys-in-windows-11/"><u>Solve: Non-Responsive Function Keys in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-windows-onedrive-error-for-immediate-folder-addition/"><u>Unraveling Windows OneDrive Error for Immediate Folder Addition</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-next-gen-gamers-wealth-wave-predictions/"><u>[New] 2024 Approved Next-Gen Gamers' Wealth Wave Predictions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-becoming-a-master-at-iphones-hdr-photography-techniques/"><u>[New] Becoming a Master at iPhone's HDR Photography Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fine-tuning-focus-on-youtube-threads/"><u>[New] In 2024, Fine-Tuning Focus on YouTube Threads</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-tailoring-timeline-memories-the-look-back-video-expertise/"><u>[New] Tailoring Timeline Memories The Look Back Video Expertise</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-expert-guide-to-creating-compact-engaging-youtube-content-for-2024/"><u>[Updated] Expert Guide to Creating Compact, Engaging YouTube Content for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-art-of-monitoring-youtube-discussions/"><u>2024 Approved The Art of Monitoring YouTube Discussions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-tecno-pop-8-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Tecno Pop 8 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-transform-your-recording-experience-moving-past-fbx-methods/"><u>In 2024, Transform Your Recording Experience Moving Past FBX Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/manage-battery-saver-functionality-on-your-laptop-seamlessly/"><u>Manage Battery Saver Functionality on Your Laptop Seamlessly</u></a></li>
+<li><a href="https://driver-download.techidaily.com/optimize-your-hardware-intel-raid-drivers-for-windows-users-on-version-11-10-8-and-7/"><u>Optimize Your Hardware: Intel RAID Drivers for Windows Users on Version 11, 10, 8 & 7</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-guide-win1110s-nvidia-access-problems/"><u>Troubleshooting Guide: Win11/10's NVidia Access Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-the-frozen-windows-enter-button-function/"><u>Unblocking the Frozen Windows 'Enter' Button Function</u></a></li>
+<li><a href="https://windows11.techidaily.com/visual-advancements-for-safe-web-experience-in-windows-11/"><u>Visual Advancements for Safe Web Experience in Windows 11</u></a></li>
 </ul></div>
 

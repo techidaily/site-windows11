@@ -1,7 +1,7 @@
 ---
 title: How to Stop Recurring Windows Settings Crashes
-date: 2024-09-19T20:19:01.222Z
-updated: 2024-09-26T20:37:09.532Z
+date: 2024-09-25T02:56:10.738Z
+updated: 2024-10-02T00:34:38.686Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 
  Now that we know about the potential causes behind the issue, let’s have a look at the troubleshooting methods you can try to fix the problem once and for all.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your PC
 
  This might seem too simple to work, but resetting the computer at times can eliminate any temporary bugs or corruption issues, resolving the error in the process.
@@ -43,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
  This is why we recommend starting your troubleshooting journey by performing one of the[ways to restart Windows](https://www.makeuseof.com/windows-restart-methods/) . End all the active processes on the system, perform a restart, and upon reboot, check if the Settings app works fine.
 
 If the issue persists, move to the next method below.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Update Windows
 
@@ -62,6 +62,19 @@ Here is all that you need to do:
 3. Once the updates are displayed, install them one by one by clicking on the**Download & Install** button. down  
 ![Click on the Download & install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/settings-windows-update-download-and-install.jpg)
 4. After the updates are installed, restart your system and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In some rare cases, the issue can also start occurring after installing an update. This typically happens when the update itself was corrupt. If this scenario applies to you, you can[uninstall the installed Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) and then check if that makes any difference.
 
@@ -81,16 +94,10 @@ Follow these steps to proceed:
 5. Once found, follow the on-screen instructions to install it.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Finally, restart your computer to implement the changes.
@@ -109,16 +116,17 @@ Here is all that you need to do:
 2. Choose**App settings** from the context menu.  
 ![Choose App Settings from the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/taskbar-windows-icon-app-settings.jpg)
 3. In the following window, head over to the**Reset** section. You will have two options here; Repair and Reset.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. First, click on**Repair** and once the process is completed, check if the problem is fixed.
 5. If not, click on**Reset** and follow the on-screen instructions to proceed.  
 ![Repair or reset the application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/app-settings-reset-and-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To re-register the app, follow these steps:
 
@@ -128,13 +136,6 @@ To re-register the app, follow these steps:
 Get-AppxPackage *windows.immersivecontrolpanel* | Reset-AppxPackage  
 ![Execute the entered command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/get-appxpackage-windows-immersivecontrolpanel.jpg)
 4. Finally, close the Powershell window and reboot.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hopefully, this should fix the problem once and for all.
 
@@ -157,24 +158,22 @@ Hopefully, this should fix the problem once and for all.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-selecting-peak-frames-per-second-for-slow-motion-cinema/"><u>[New] The Ultimate Guide to Selecting Peak Frames Per Second For Slow-Motion Cinema</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-unleashing-fb-video-potential-with-speedy-insights/"><u>[Updated] In 2024, Unleashing FB Video Potential with Speedy Insights</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-quick-fixes-enhancing-images-in-windows-10s-photos-editor/"><u>[Updated] Quick Fixes Enhancing Images in Windows 10'S Photos Editor</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/advanced-resource-utilization-monitors/"><u>Advanced Resource Utilization Monitors</u></a></li>
-<li><a href="https://windows11.techidaily.com/erase-secure-questions-a-guide-to-altering-local-account-in-win-11/"><u>Erase Secure Questions: A Guide to Altering Local Account in Win 11</u></a></li>
-<li><a href="https://fox-links.techidaily.com/expertise-in-format-switching-srt-to-advanced-standards/"><u>Expertise in Format Switching SRT to Advanced Standards</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-non-responsive-slack-alerts-a-quick-win-for-windows-users/"><u>Fix Non-Responsive Slack Alerts: A Quick Win for Windows Users</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-infinix-smart-8-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Infinix Smart 8 Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-photo-capture-file-creation-failed-camera-app-error-on-windows-11-and-11/"><u>How to Fix the “Photo Capture File Creation Failed” Camera App Error on Windows 11 & 11</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-efficient-windows-11-recorders-to-ace-your-content/"><u>In 2024, Efficient Windows 11 Recorders to Ace Your Content</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-mastering-account-management-unfollow-steps/"><u>In 2024, Mastering Account Management Unfollow Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/simplify-software-management-with-new-context-menu-addition/"><u>Simplify Software Management with New Context Menu Addition</u></a></li>
-<li><a href="https://windows11.techidaily.com/slowing-down-windows-10-shutdown-keep-programs-open/"><u>Slowing Down Windows 10 Shutdown: Keep Programs Open</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-removing-onedrive-linkage-on-windows-os/"><u>Steps for Removing OneDrive Linkage on Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailored-instructions-for-software-icons-on-desktop-menu/"><u>Tailored Instructions for Software Icons on Desktop Menu</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-vivo-y36i-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Vivo Y36i.</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/troubleshooting-macs-youtube-problems-for-smooth-downloads-and-streaming-fix-your-errors-now/"><u>Troubleshooting Mac's YouTube Problems for Smooth Downloads and Streaming | Fix Your Errors Now!</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-icon-organization-made-simple/"><u>Windows Icon Organization Made Simple</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-8-tips-on-how-to-vlog-confidently-like-popular-youtubers/"><u>[New] 2024 Approved 8 Tips on How to Vlog Confidently Like Popular YouTubers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-decoding-the-instagram-story-viewer-experience/"><u>[New] Decoding the Instagram Story Viewer Experience</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-all-around-vs-3d-visual-perspectives/"><u>[Updated] All Around Vs 3D Visual Perspectives</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/captivating-yuletide-atmosphere-in-window-artistry/"><u>Captivating Yuletide Atmosphere in Window Artistry</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-up-the-blocked-app-notification-issue/"><u>Clearing Up the Blocked App Notification Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-complexity-adding-ease-to-uninstall-in-windows/"><u>Conquering Complexity: Adding Ease to Uninstall in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-your-clock-region-on-windows-avoiding-automatic-changes/"><u>Customize Your Clock Region on Windows, Avoiding Automatic Changes</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-and-correcting-not-found-on-windows/"><u>Deciphering and Correcting 'Not Found' On Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-the-disruption-in-skyrims-scripting/"><u>Deciphering the Disruption in Skyrim's Scripting</u></a></li>
+<li><a href="https://windows11.techidaily.com/direct-route-to-dialing-system-in-win-11/"><u>Direct Route to Dialing System in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/dissecting-disparities-microsoft-and-default-windows-login-types/"><u>Dissecting Disparities: Microsoft and Default Windows Login Types</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-c33-2023-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Realme C33 2023 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-nokia-g310-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Nokia G310</u></a></li>
+<li><a href="https://facebook.techidaily.com/monitoring-your-actions-preserves-facebook-youtubes-app-availability/"><u>Monitoring Your Actions Preserves Facebook, YouTube's App Availability</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721098381909-reinstall-directx-9-and-related-components/"><u>Reinstall DirectX 9 and Related Components</u></a></li>
 </ul></div>
 

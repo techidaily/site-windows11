@@ -1,7 +1,7 @@
 ---
 title: "Title: Customizing Icon Separation in WinOSs (10/11)"
-date: 2024-09-11T22:13:55.126Z
-updated: 2024-09-15T21:53:25.810Z
+date: 2024-09-26T02:57:39.799Z
+updated: 2024-10-02T00:03:59.694Z
 tags:
   - windows10
   - windows11
@@ -61,12 +61,32 @@ thumbnail: https://thmb.techidaily.com/5101a256be44324944567b3cdefbcb470dad072a3
 5. Select the checkbox for the**Show extracted files when complete** setting on the Extract Compressed (Zipped) Folders window.  
 ![The Extract Compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-extract-compressed-window3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. To unzip the archive, click**Extract** .
 2. Double-click the installer file for Winaero Tweaker to bring up the software’s setup wizard.
 3. Select the**Next** option a few times, and click the**I accept the radio agreement** button.
 4. Click**Next** to proceed to the folder selection. Although not essential to do so, you can click**Browse** to choose a different folder.  
 ![The Winaero Tweaker setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/setup-winaero-tweaker-window2.jpg)
 5. All the other default installation options selected are fine. Keep clicking**Next** and then Install to finish.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Select the**Run Winaero Tweaker** checkbox after installing, and then click**Finish** .
 2. Double-click the**Advanced Appearance Settings** category in Winaero.
@@ -108,13 +128,20 @@ thumbnail: https://thmb.techidaily.com/5101a256be44324944567b3cdefbcb470dad072a3
 ![The spacing bars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/spacing-bars.jpg)
 6. Then drag the**Vertical Space** bar’s slider to adjust vertical icon spacing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also change desktop icon sizes from the Windows-Metrics window. Click the**Desktop icon size** drop-down menu to choose an alternative size from there. If you select the largest icon sizes, you’ll need to increase the spacing between them to prevent them overlapping.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Much Icon Space Do You Want on Your Desktop?
@@ -134,5 +161,19 @@ thumbnail: https://thmb.techidaily.com/5101a256be44324944567b3cdefbcb470dad072a3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-how-to-archive-your-favorite-movies-mac-screenshots-for-netflix-for-2024/"><u>[Updated] How to Archive Your Favorite Movies Mac Screenshots for Netflix for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-capture-your-feed-on-devices-using-obs-studio-for-2024/"><u>[Updated] How to Capture Your Feed on Devices Using OBS Studio for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-unlocking-the-potentials-of-streamlabs-obs/"><u>2024 Approved Unlocking the Potentials of Streamlabs OBS</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-guide-to-overcoming-windows-resolution-riddles/"><u>A Guide to Overcoming Windows Resolution Riddles</u></a></li>
+<li><a href="https://windows11.techidaily.com/ace-your-win-11-games-with-these-best-fps-tools/"><u>Ace Your Win 11 Games with These Best FPS Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-control-mastering-local-gpo-access-on-windows-11/"><u>Boosting Control: Mastering Local GPO Access on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypass-bottlenecks-9-fixes-for-rapid-windows-verification/"><u>Bypass Bottlenecks: 9 Fixes for Rapid Windows Verification</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-the-clutter-soundcard-irq-solutions/"><u>Cutting the Clutter: Soundcard IRQ Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-the-best-tools-to-enhance-your-pdf-analysis/"><u>Explore the Best Tools to Enhance Your PDF Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-first-steps-in-vector-art-exploring-kinds-applications/"><u>In 2024, First Steps in Vector Art Exploring Kinds, Applications</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-unlock-advanced-splitting-with-non-xsplit-apps/"><u>In 2024, Unlock Advanced Splitting with Non-Xsplit Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-instagram-delays-effective-solutions-for-iphone-and-android-users/"><u>Troubleshooting Instagram Delays: Effective Solutions for iPhone & Android Users</u></a></li>
+</ul></div>
 

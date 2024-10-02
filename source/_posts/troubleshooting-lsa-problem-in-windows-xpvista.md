@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting LSA Problem in Windows XP/Vista
-date: 2024-09-21T20:01:18.025Z
-updated: 2024-09-26T19:38:27.188Z
+date: 2024-09-30T20:20:05.158Z
+updated: 2024-10-02T01:27:11.258Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
 ## 1\. Restart Your PC
 
  As the error message suggests, you first restart your Windows system. This minor step can fix several system-level errors and is worth a try. Restarting your computer involves shutting down all running programs and starting it up again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Scan for Malicious Programs
 
@@ -69,14 +76,14 @@ Administrative Templates > System > Local Security Authority
 ![Set as Enabled with UEFI Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-as-enabled-with-uefi-lock.jpg)
 8. Now click **Apply > OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After making the above changes, restart your computer and check if the error is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Tweak the Registry Editor
 
@@ -93,10 +100,10 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 6. Change the Value data from 0 to **2** and click **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Similarly, find the **RunAsPPLBoot** key and set its value to **2**.  
@@ -117,13 +124,6 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 ![Reset Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-windows-security.jpg)
 7. If the confirmation window pops up, click **Reset** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for the reset process to finish and restart your computer. After restarting, check if the error is still present.
 
 ## 6\. Perform Some Generic Fixes
@@ -133,10 +133,10 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
  Some antivirus and security programs can be too aggressive in protecting your system. They could prevent access to the LSA feature, leading to this problem. To be sure, you can [temporarily disable your security software](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and check if it solves the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing the LSA Protection Error on Windows
@@ -155,22 +155,21 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2023s-ultimate-selection-of-ios-devices-for-classic-psp-games-for-2024/"><u>[New] 2023'S Ultimate Selection of iOS Devices for Classic PSP Games for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-guide-to-validating-your-yt-channels-earnings/"><u>[New] In 2024, The Ultimate Guide to Validating Your YT Channel's Earnings</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-the-next-generation-of-aerial-artistry-with-bebops-parrot-2/"><u>[New] The Next Generation of Aerial Artistry with Bebop's Parrot 2</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-decode-the-mystery-top-7-tiktok-emojis-explored/"><u>[Updated] Decode the Mystery Top 7 TikTok Emojis Explored</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-seamless-integration-of-smartphone-tech-in-creating-youtube-channels-for-2024/"><u>[Updated] Seamless Integration of Smartphone Tech in Creating YouTube Channels for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-conquer-video-quality-with-best-3-transcoder-methods-for-zoom/"><u>2024 Approved Conquer Video Quality with Best 3 Transcoder Methods for Zoom</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-absent-msvcr110dll-in-windows/"><u>Correcting Absent msvcr110.dll in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-wins-system-alert-messages-in-windows-1011/"><u>Correcting WINS System Alert Messages in Windows 10/11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-creativity-with-chatgpt-learn-these-creativewritingtips-for-better-stories/"><u>Enhance Creativity with ChatGPT: Learn These #CreativeWritingTips for Better Stories</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-restoring-your-surface-pros-ability-to-connect-to-wireless-networks/"><u>Expert Advice: Restoring Your Surface Pro’s Ability to Connect to Wireless Networks</u></a></li>
-<li><a href="https://windows11.techidaily.com/instant-permadelete-configuring-your-desktop-trash-bin-on-windows-11-devices/"><u>Instant PermaDelete: Configuring Your Desktop Trash Bin on Windows 11 Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-powershell-to-break-free-from-windows-file-blocks/"><u>Mastering PowerShell to Break Free From Windows File Blocks</u></a></li>
-<li><a href="https://win11.techidaily.com/proven-tools-to-assist-in-making-your-pc-to-mac-os-transition-easier/"><u>Proven Tools to Assist in Making Your PC-to-Mac OS Transition Easier</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-setup-guide-for-launching-windows-media-player/"><u>Quick Setup Guide for Launching Windows Media Player</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-creative-processes-with-these-8-windows-best-apps/"><u>Streamline Creative Processes With These 8 Window's Best Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-for-winerror-x80780119-resolution/"><u>Techniques for WinError X80780119 Resolution</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-telnet-enablement-steps-explained/"><u>Windows 11 Telnet Enablement Steps Explained</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unveiling-the-secrets-of-crafting-perfect-audio-for-videos/"><u>[New] 2024 Approved Unveiling the Secrets of Crafting Perfect Audio for Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-prime-unlimited-space-service-catalogue/"><u>[New] In 2024, Prime Unlimited Space Service Catalogue</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-android-non-root-audio-capture-4-easy-methods/"><u>[Updated] In 2024, Android Non-Root Audio Capture 4 Easy Methods</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-slicing-sequences-smoothly-effective-ways-to-trim-vimeo-video-lengths/"><u>2024 Approved Slicing Sequences Smoothly Effective Ways to Trim Vimeo Video Lengths</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-oneplus-ace-3-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your OnePlus Ace 3 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-your-digital-footprints-in-windows-11/"><u>Exploring Your Digital Footprints in Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/gartner-recognizes-abbyy-as-premier-vendor-on-magic-quadrant-for-process-mining-solutions/"><u>Gartner Recognizes ABBYY as Premier Vendor on Magic Quadrant for Process Mining Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-visual-studio-code-crashing-on-windows-11/"><u>How to Fix Visual Studio Code Crashing on Windows 11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-quantum-hdr-101-a-complete-breakdown/"><u>In 2024, Quantum HDR 101 A Complete Breakdown</u></a></li>
+<li><a href="https://windows11.techidaily.com/instant-notify-shutdown-in-windows-11/"><u>Instant Notify Shutdown in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalizing-your-workspace-on-pc-themes-from-the-microsoft-store/"><u>Personalizing Your Workspace on PC: Themes From the Microsoft Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/propel-workflow-speed-with-windows-smart-launcher/"><u>Propel Workflow Speed with Windows' Smart Launcher</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-recurring-bugs-in-age-of-wonders-planetfall-for-windows-users/"><u>Troubleshooting Guide: Fixing Recurring Bugs in Age of Wonders: Planetfall for Windows Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-tips-how-to-successfully-update-rndis-usb-networking-drivers-for-windows-users/"><u>Troubleshooting Tips: How to Successfully Update RNDIS USB Networking Drivers for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/tweaking-internet-security-features-for-win-1011/"><u>Tweaking Internet Security Features for Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-potential-extending-your-pin-on-windows-11/"><u>Unlocking the Potential: Extending Your PIN on Windows 11</u></a></li>
 </ul></div>
 

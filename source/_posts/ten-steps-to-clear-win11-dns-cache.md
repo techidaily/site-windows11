@@ -1,7 +1,7 @@
 ---
 title: Ten Steps to Clear Win11 DNS Cache
-date: 2024-09-23T23:17:31.800Z
-updated: 2024-09-26T18:49:35.727Z
+date: 2024-09-24T19:59:42.270Z
+updated: 2024-10-01T21:26:40.174Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 
  There are multiple methods to flush the DNS cache on Windows 11\. You can use the Run command box, Command Prompt, or even PowerShell. In addition, you can use a batch file to clear the DNS cache in a few clicks, any time you want. Here are the four ways to clear DNS on Windows 11:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Using the Run Command Box
 
 To flush the DNS cache using the Run command box, do as follows:
@@ -45,13 +52,6 @@ To flush the DNS cache using the Run command box, do as follows:
 2. Type “**ipconfig /flushdns** ” command.  
 ![Flush DNS Using the Run Command Box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/flush-dns-using-the-run-command-box.jpg)
 3. Press**Ctrl + Shift + Enter** keys at once. The Command Prompt will launch, execute the flush command, and close automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Using CMD
 
@@ -64,10 +64,10 @@ To flush the DNS cache using the Run command box, do as follows:
 4. You will see a “**Successfully flushed the DNS Resolver Cache.** ” message after the command execution.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Using PowerShell
@@ -80,10 +80,17 @@ To flush the DNS cache using the Run command box, do as follows:
 3. You won’t see a message after the command executes successfully. But you can open PowerShell again and view the DNS cache to confirm.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Using a Batch File
@@ -113,13 +120,6 @@ Repeat the following steps to create a DNS-clearing batch file:
 
  The process to clear a browser's DNS cache may differ with other browsers like Safari, Opera, and Mozilla. You will have to locate the DNS settings and then wipe out the DNS cache.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Keep Your DNS Cache Clean on Windows
 
  Flushing the system's DNS cache periodically can reduce the risk of DNS spoofing and website connectivity issues. The simplest method is to use the ipconfig utility with appropriate parameters to flush the DNS cache. Alternatively, you can use the PowerShell method or create a batch file for the same.
@@ -139,22 +139,24 @@ Repeat the following steps to create a DNS-clearing batch file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-filmmaking-for-social-media-imovie-tips-for-crafting-square-content/"><u>[New] In 2024, Filmmaking for Social Media IMovie Tips for Crafting Square Content</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-techniques-for-flawless-live-broadcasting-of-rl-games/"><u>[New] In 2024, Techniques for Flawless Live Broadcasting of RL Games</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-mastering-the-multimedia-split-screen-experience-with-sierra-os/"><u>[Updated] 2024 Approved Mastering the Multimedia Split-Screen Experience with Sierra OS</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-boost-your-videos-impact-with-top-ranking-software-solutions-for-2024/"><u>[Updated] Boost Your Videos' Impact with Top-Ranking Software Solutions for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-powerful-literary-trailer-vids/"><u>2024 Approved Powerful Literary Trailer Vids</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-sound-design-strategies-integrating-youtube-music-into-visual-media/"><u>2024 Approved Sound Design Strategies Integrating YouTube Music Into Visual Media</u></a></li>
-<li><a href="https://windows11.techidaily.com/fast-track-favorites-windows-11-shortcuts-for-uwp-apps/"><u>Fast-Track Favorites: Windows 11 Shortcuts for UWP Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-sharing-errors-with-nvidias-gui/"><u>Fixing Sharing Errors with NVIDIA's GUI</u></a></li>
-<li><a href="https://windows11.techidaily.com/guidelines-for-resolving-missing-drivers-alert-on-windows-setup/"><u>Guidelines for Resolving Missing Drivers Alert on Windows Setup</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-local-security-authority-protection-is-off-security-warning-on-windows/"><u>How to Fix the “Local Security Authority Protection Is Off” Security Warning on Windows</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/leveraging-synergies-how-to-choose-ideal-youtube-duosgroups-for-2024/"><u>Leveraging Synergies How to Choose Ideal YouTube Duos/Groups for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-application-failure-the-notorious-error-the-application-couldnt-start-xc000003e-on-win11-and-11/"><u>Navigating Application Failure: The Notorious Error The Application Couldn’t Start Xc000003e on Win11 & 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedy-microsoft-m365-glitch-with-code-30015-26/"><u>Remedy Microsoft M365 Glitch with Code 30015-26</u></a></li>
-<li><a href="https://common-error.techidaily.com/streamlining-corporate-compliance-with-admin-managed-windows-environment-settings/"><u>Streamlining Corporate Compliance with Admin-Managed Windows Environment Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-office-suites-strict-safe-mode-on-windows-operations/"><u>Troubleshooting Office Suite's Strict Safe Mode on Windows Operations</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-device-control-for-sleep-state-wakefulness/"><u>Unlocking Device Control for Sleep State Wakefulness</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/wireless-methods-to-mirrorapple-iphone-8-plus-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>Wireless Methods to MirrorApple iPhone 8 Plus & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-harmonious-hushes-softening-sounds-with-garageband/"><u>[New] In 2024, Harmonious Hushes Softening Sounds with Garageband</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-pc-hd-video-viewing-and-editing-with-windows-hdr-support/"><u>[New] Mastering PC HD Video Viewing & Editing with Windows HDR Support</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-breakdown-of-leading-free-video-conferencing-services-for-commercial-and-academic-use/"><u>2024 Approved Breakdown of Leading Free Video Conferencing Services for Commercial and Academic Use</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/corrective-actions-to-address-the-absence-of-winhttpdll-file/"><u>Corrective Actions to Address the Absence of Winhttp.dll File</u></a></li>
+<li><a href="https://windows11.techidaily.com/easily-switch-your-windows-11-logon-technique-ditch-pin-embrace-password/"><u>Easily Switch Your Windows 11 Logon Technique: Ditch PIN, Embrace Password</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-strategies-for-cleansing-steam-dns-cache/"><u>Effective Strategies for Cleansing Steam DNS Cache</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-strategies-to-address-directdraw-errors-in-newer-windows-editions/"><u>Efficient Strategies to Address DirectDraw Errors in Newer Windows Editions</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-to-the-top-with-these-key-windows-11-widgets/"><u>Elevate to the Top with These Key Windows 11 Widgets</u></a></li>
+<li><a href="https://windows11.techidaily.com/embrace-the-best-of-both-worlds-windows-11-macos-in-parallels/"><u>Embrace the Best of Both Worlds: Windows 11, MacOS in Parallels</u></a></li>
+<li><a href="https://windows11.techidaily.com/embracing-convenience-using-googles-nearby-share/"><u>Embracing Convenience: Using Google's Nearby Share</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-smooth-remote-play-via-windows-steam/"><u>Enabling Smooth Remote Play via Windows Steam</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-performance-win11-boot-routines/"><u>Enhancing Performance: Win11 Boot Routines</u></a></li>
+<li><a href="https://windows11.techidaily.com/error-2e-prevention-ensure-windows-update-works/"><u>Error 2E Prevention, Ensure Windows Update Works</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-call-of-duty-wwii-error-4103-a-comprehensive-guide/"><u>Fixing Call of Duty: WWII Error 4103 – A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/galactic-grandeur-in-hd-optimal-websites-featuring-the-sky-for-2024/"><u>Galactic Grandeur in HD Optimal Websites Featuring the Sky for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Tecno Spark Go (2024)? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/is-inshot-the-best-video-editing-app-our-in-depth-review/"><u>Is InShot the Best Video Editing App? Our In-Depth Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastermind-mind-games-trivia-channel-hunt-for-24/"><u>Mastermind Mind Games - Trivia Channel Hunt for '24</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Merge Folders and Files in Windows 10 and 11
-date: 2024-09-12T19:17:57.020Z
-updated: 2024-09-15T20:49:11.221Z
+date: 2024-09-25T23:35:56.256Z
+updated: 2024-10-01T19:12:43.178Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/0606343d17aebae3a6ccf71123da10011994b6e06
 
 ![enable powershell to run local scripts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-powershell-to-run-local-scripts.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Press**Win + I** to open the**Settings** app.
 2. Next, open the**Privacy & security** tab in the left pane.
 3. Click on**For Developer** under the**Security section** .
@@ -55,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/0606343d17aebae3a6ccf71123da10011994b6e06
  With the script running on PowerShell enabled, follow these to execute a PowerShell script to merge folders.
 
 ![merge folders powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/merge-folders-powershell.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Press the**Win** key and type**powershell** .
 2. Click on**Windows PowerShell** from the search results.
@@ -88,10 +102,10 @@ foreach($file in $files){
  If you prefer a GUI-based utility over a PowerShell script to merge files, you have a few options to choose from. Third-party merge tools for Windows offer basic merging capabilities and premium offerings catered to software and creative design professionals.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Folder Merger
@@ -99,10 +113,10 @@ foreach($file in $files){
 ![folder merger windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/folder-merger-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Folder Merger is a free utility to merge the contents of different folders into a single folder. You can add multiple source folders to the app and then merge them to a specified destination folder.
@@ -151,5 +165,24 @@ To compare and merge documents using WinMerge:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-save-instagram-videos-on-desktop-devices/"><u>[New] Step-by-Step Save Instagram Videos on Desktop Devices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-break-the-ice-how-to-make-a-hit-youtube-reaction-in-just-15-minutes-or-less/"><u>[Updated] 2024 Approved Break the Ice - How to Make a Hit YouTube Reaction in Just 15 Minutes or Less</u></a></li>
+<li><a href="https://windows11.techidaily.com/15-paths-to-recover-missing-windows-system-time-functionality/"><u>15 Paths to Recover Missing Windows System Time Functionality</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-future-of-youtube-naming-trendsetting-tips-for-video-blogging-and-filmmaking-max-156-characters/"><u>2024 Approved The Future of YouTube Naming Trendsetting Tips for Video Blogging & Filmmaking (Max 156 Characters)</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieve-peak-performance-with-multi-task-proficiency-on-windows-11-pcs/"><u>Achieve Peak Performance with Multi-Task Proficiency on Windows 11 PCs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bypassing-android-wi-fi-login-challenges-effortlessly/"><u>Bypassing Android Wi-Fi Login Challenges Effortlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/clarity-masterclass-fixes-that-bring-life-to-fuzzy-screens/"><u>Clarity Masterclass: Fixes That Bring Life to Fuzzy Screens</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-line-enhancement-for-taskmanager-windows-11/"><u>Command Line Enhancement for TaskManager (Windows 11)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-guide-and-user-reviews-eero-pro-mesh-system-full-home-coverage/"><u>Comprehensive Guide & User Reviews: Eero Pro Mesh System - Full Home Coverage</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-c0000005-on-windows-operating-systems/"><u>Conquering C0000005 on Windows Operating Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-dual-monitor-mishaps-on-your-pc/"><u>Correcting Dual Monitor Mishaps on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-internal-audio-issues-with-audacity-windows-11/"><u>Correcting Internal Audio Issues with Audacity (Windows 11)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/critical-hardware-specification-change-only-d3d11-gpus-will-support-this-updated-engine-version/"><u>Critical Hardware Specification Change: Only D3D11 GPUs Will Support This Updated Engine Version</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969420813-install-the-improved-killer-wireless-1535-drivers-download-today/"><u>Install the Improved Killer Wireless 1535 Drivers – Download Today!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-videobearbeitungstools-fur-pcs-mit-windows-11-8-oder-7-umfassende-bildschirmaufnahmeoptionen/"><u>Top Videobearbeitungstools Für PCs Mit Windows 11, 8 Oder 7: Umfassende Bildschirmaufnahmeoptionen</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-targus-displaylink-drivers-now-compatible-with-windows-1187/"><u>Update Your Targus DisplayLink Drivers Now: Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719293003975-winning-over-window-devices-no-more-naming-clashes/"><u>Winning Over Window Devices: No More Naming Clashes</u></a></li>
+</ul></div>
 

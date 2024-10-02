@@ -1,7 +1,7 @@
 ---
 title: Guide to Correct Oculus App Errors in WinXI/WinXC
-date: 2024-09-21T20:39:19.488Z
-updated: 2024-09-26T16:36:55.779Z
+date: 2024-09-29T00:02:01.891Z
+updated: 2024-10-01T16:40:16.415Z
 tags:
   - windows10
   - windows11
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
  Some users have said they resolved the “we encountered an error” installation issue by disconnecting their VR headsets before running the Oculus installer. So, make sure your Rift or Quest 2 headset isn’t connected to your PC. Then try installing the Oculus software without the VR headset connected to your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Run the Oculus Installer File With Administrative Rights
@@ -54,26 +54,46 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/real-time-protection-option-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you utilize third-party antivirus software, turn off that app’s antivirus shield. Right-click a system tray icon for the antivirus software and select an option that will turn off its real-time antivirus shield (preferably for no longer than 30-60 minutes). Then try installing Oculus with your antivirus protection turned off.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Turn Off the Windows Firewall
 
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-windows-defender-firewall-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Windows firewall can disrupt the Oculus server connection required for the software installation. So, temporarily disable the Microsoft Defender Firewall before installing the Oculus app. Check out this [how-to turn off Microsoft Defender Firewall guide](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) for instructions about how to do so. Then have another go at installing the Oculus software with the firewall disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Install .NET Framework 4.6.1
@@ -84,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 2. Click the **Download** option for .NET Framework 4.6.1.  
 ![The Download button for .NET Framework 4.6.1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/download-button-1.jpg)
 3. Bring up the directory containing the downloaded .NET Framework setup file.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Double-click the **NDP461-KB3102438-Web.exe** file to bring up the setup window.
 5. Select to install .NET Framework 4.6.1 if you need to.
@@ -106,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/a208b6b47f62fc53f6719bf37fb44710d3bca87f0
 3. Right-click any Oculus subfolder in the **Roaming** directory and select **Delete**.  
 ![An Oculus folder and the Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/oculus-folder.jpg)
 4. Repeat the previous step to delete any Oculus subfolders left behind at these folder locations:
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `C:\Users\<User Folder>\AppData\LocalLow  
 C:\Users\<User Folder>\AppData\Local  
@@ -136,17 +142,17 @@ C:\Users\<User Folder>\AppData`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-snap-motion-blur-photos-effortlessly-with-iphone-techniques/"><u>[New] Snap Motion-Blur Photos Effortlessly with iPhone Techniques</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-pro-editors-top-list-best-portable-devices-for-visual-storytelling-for-2024/"><u>[Updated] Pro-Editors' Top List Best Portable Devices for Visual Storytelling for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-authenticating-a-step-by-step-for-youtube-users/"><u>2024 Approved Authenticating A Step-by-Step for Youtube Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-ftdibussys-explaining-its-effect-on-memory-security/"><u>Deciphering ftdibus.sys: Explaining Its Effect on Memory Security</u></a></li>
-<li><a href="https://windows11.techidaily.com/executing-policies-for-a-single-user-target-in-modern-windows-systems/"><u>Executing Policies for a Single-User Target in Modern Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/handling-multi-user-printer-errors-windows-11-guide/"><u>Handling Multi-User Printer Errors: Windows 11 Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-gionee-f3-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Gionee F3 Pro to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-infinix-note-30-vip-racing-edition-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Infinix Note 30 VIP Racing Edition Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/make-your-windows-life-easier-with-proper-installation-steps/"><u>Make Your Windows Life Easier with Proper Installation Steps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-the-failed-to-log-into-palworld-on-eos-a-guide-to-six-effective-fixes/"><u>Overcome the 'Failed to Log Into Palworld on EOS': A Guide to Six Effective Fixes</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-ultimate-fcp-voice-over-guide-tips-tricks-and-best-practices/"><u>Updated 2024 Approved The Ultimate FCP Voice Over Guide Tips, Tricks, and Best Practices</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11s-photo-wizardry-made-easy-mastering-slideshow-creation-and-spot-repair/"><u>Windows 11'S Photo Wizardry Made Easy: Mastering Slideshow Creation & Spot Repair</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-meet-mycam-cam-the-home-video-revolution-unfolding/"><u>[Updated] In 2024, Meet MyCam Cam The Home Video Revolution Unfolding</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-essential-guide-to-downloading-and-editing-whatsapp-alerts/"><u>[Updated] The Essential Guide to Downloading & Editing WhatsApp Alerts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-incorporating-melodic-essence-into-your-creative-videos-with-premiere-pro/"><u>2024 Approved Incorporating Melodic Essence Into Your Creative Videos with Premiere Pro</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-photo-editing-basics-unveiled-dive-into-lunapic/"><u>2024 Approved Photo Editing Basics Unveiled Dive Into LunaPic</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Does Airplane Mode Turn off GPS Location On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/easily-reactivate-printing-services/"><u>Easily Reactivate Printing Services</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-window-management-crafting-unique-snapping-patterns/"><u>Elevate Window Management: Crafting Unique Snapping Patterns</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-windows-11-taskbar-chat-implications-unveiled/"><u>Eliminating Window's 11 Taskbar Chat: Implications Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-pc-gaming-with-streamlined-directx-maintenance/"><u>Enhance PC Gaming with Streamlined DirectX Maintenance</u></a></li>
+<li><a href="https://windows11.techidaily.com/enriching-folder-management-custom-move-and-copy-commands-in-windows/"><u>Enriching Folder Management: Custom Move and Copy Commands in Windows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/guided-steps-to-decrease-audio-intensity-using-lumafusion/"><u>Guided Steps to Decrease Audio Intensity Using Lumafusion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-techniques-for-subtle-sound-diminution-in-audacity/"><u>In 2024, Techniques for Subtle Sound Diminution in Audacity</u></a></li>
 </ul></div>
 

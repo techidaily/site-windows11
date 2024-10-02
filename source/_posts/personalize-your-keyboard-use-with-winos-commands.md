@@ -1,7 +1,7 @@
 ---
 title: Personalize Your Keyboard Use with WinOS Commands
-date: 2024-09-13T16:44:31.818Z
-updated: 2024-09-15T18:56:06.307Z
+date: 2024-09-30T00:11:45.885Z
+updated: 2024-10-01T21:49:51.600Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eac
 
 ![Add a keyboard shortcut via the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/01-add-keyboard-shortcut-desktop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Windows shortcuts must take the form:
 
 * Ctrl + Alt + \[key\]
@@ -42,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eac
 * Ctrl + Shift + Alt + \[key\]
 
  Now, when you press the shortcut key combination, the program will be launched.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. How to Assign a Keyboard Shortcut to a Shortcut Link in the Start Menu
 
@@ -52,6 +66,14 @@ thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eac
 3. Right-click it and go to **More > Open file location**.  
 ![Setting up a keyboard shortcut via the Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/02-start-menu-keyboard-shortcut.jpg)
 4. Right-click on the shortcut and select **Properties**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the **Shortcut key** field, type in the keyboard shortcut you want to have assigned to the program.
 
 ## 3\. How to Set up a Keyboard Shortcut for a Shortcut Link on the Taskbar
@@ -62,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eac
 2. Right-click on the program and click on **Properties**.  
 ![Setting up a keyboard shortcut via the Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/03-taskbar-keyboard-shortcut.jpg)
 3. Add a keyboard shortcut to the **Shortcut key** field.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. How to Remove Previously Assigned Keyboard Shortcuts
 
@@ -93,24 +108,25 @@ thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eac
 ![05-powertoys-shortcut-mapping](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/05-powertoys-shortcut-mapping.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Under **Shortcut**, click on the button with the pen icon. Then press the shortcut key combo you want to set.  
 ![Simple way to creating keyboard shortcuts - PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/06-set-up-keyboard-shortcut.jpg)
 2. Under **Action**, click on the drop-down and select **Run Program**.  
-![Microsoft PowerToys keyboard shortcut setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/07-powertoys-shortcut-action.jpg)
-3. Under **App**, either enter the path of the program you want to add to this shortcut, or click the **Select program** button to browse and select an application.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Microsoft PowerToys keyboard shortcut setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/07-powertoys-shortcut-action.jpg)
+3. Under **App**, either enter the path of the program you want to add to this shortcut, or click the **Select program** button to browse and select an application.  
 
 ![PowerToys shortcut program path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/08-powertoys-shortcut-program-path.jpg)
 4. If you leave the **Start in** field blank, the shortcut will work throughout the Windows environment. If you select a path here, the shortcut will only work when you are in that environment or program.
@@ -129,5 +145,26 @@ thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eac
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/op-asmr-content-creators-on-youtube-for-2024/"><u>[New] Top ASMR Content Creators on YouTube for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-free-premium-visual-aids-for-business-professionals/"><u>2024 Approved FREE Premium Visual Aids for Business Professionals</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-final-say-on-ricohs-theta-s-vision-system/"><u>2024 Approved The Final Say on Ricoh's Theta S Vision System</u></a></li>
+<li><a href="https://windows11.techidaily.com/banishing-0x800700e9-glitches-in-xbox-game-pass-on-windows-11-devices/"><u>Banishing 0X800700E9 Glitches in Xbox Game Pass on Windows 11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/banishing-desktop-colors-8-fixes-when-windows-turns-rare-hues/"><u>Banishing Desktop Colors: 8 Fixes When Windows Turns Rare Hues</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-memory-write-error-windows-fixes/"><u>Disabling 'Memory Write' Error: Windows Fixes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-free-up-iphone-se-2020-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up iPhone SE (2020) Space | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-install-android-apks-with-a-double-click-in-windows-11/"><u>How to Install Android APKs With a Double-Click in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-prevent-in-use-errors-on-windows-11-pcs/"><u>How to Prevent 'In Use' Errors on Windows 11 PCs</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-honor-70-lite-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-tecno-spark-10c-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Tecno Spark 10C Face Lock?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-motorola-moto-g13-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Motorola Moto G13 Device</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-mobile-video-editing-alternatives-to-powerdirector-top-picks/"><u>New In 2024, Mobile Video Editing Alternatives to PowerDirector Top Picks</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-grow-your-computers-storage-for-free/"><u>The Ultimate Guide to Grow Your Computer's Storage, For Free</u></a></li>
+<li><a href="https://facebook.techidaily.com/transform-your-discontentment-into-dollars-fb-refund-method/"><u>Transform Your Discontentment Into Dollars - FB Refund Method</u></a></li>
+<li><a href="https://windows11.techidaily.com/unnoticeable-disk-usage-for-ws1110-users/"><u>Unnoticeable Disk Usage for WS11/10 Users</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-pinnacle-mac-sound-segregation-technology-new-2024-improvements/"><u>Updated Pinnacle Mac Sound Segregation Technology – New 2024 Improvements</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-guide-unique-monitors-wallpapers-tips/"><u>Windows 11 Guide: Unique Monitors Wallpapers Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/zero-tolerance-to-error-e84-steam-fix-guide/"><u>Zero Tolerance to Error E84: Steam Fix Guide</u></a></li>
+</ul></div>
 

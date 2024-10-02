@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Process for Distro & Catroot2 Fixes in WS11
-date: 2024-09-08T17:19:59.172Z
-updated: 2024-09-15T16:48:39.287Z
+date: 2024-09-25T23:27:51.981Z
+updated: 2024-10-02T00:05:56.208Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,14 @@ net stop msiserver`
 8. Right-click and select **Delete** (the trash can button) to eradicate selected content.  
 ![The SoftwareDistribution folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/softwaredistribution-folder.jpg)
 9. Bring up the catroot2 folder by entering this path in Explorer’s address bar:  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `C:\Windows\System32\catroot2`
 10. Repeat steps seven and eight above to erase everything in that folder.  
 ![The catroot2 folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/catroot2folder.jpg)
@@ -63,6 +71,13 @@ net start cryptSvc
 net start msiserver`
 12. Restart the PC and check for updates after clearing those folders.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Reset the SoftwareDistribution and Catroot2 Folders by Renaming Them
 
  Renaming the SoftwareDistribution and Catroot2 directories is an alternative method for resetting those folders. Windows will recreate those folders after you’ve renamed them. You can rename the SoftwareDistribution and catroot2 folders with the Command Prompt like this:
@@ -74,11 +89,26 @@ net start msiserver`
 `ren %systemroot%\softwaredistribution softwaredistribution.bak`  
 ![The rename SoftwareDistribution folder command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-softwaredistribution-command.jpg)
 4. Enter and execute this rename command for the catroot2 folder:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `ren %systemroot%\system32\catroot2 catroot2.bak`  
 ![The ren catroot2 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ren-catroot2-folder.jpg)
 5. Repeat step 11 of the preceding method by executing the four commands for restarting the disabled services.  
 ![The net start command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/net-start-commands.jpg)
 6. Exit Command Prompt and select to restart your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Reset the SoftwareDistribution and Catroot2 Folders With FixWin 11
 
@@ -92,25 +122,11 @@ net start msiserver`
 ![The Extract Compressed ZIP archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/extract-compressed-window.jpg)
 6. Double-click the **FixWin 11.1.exe** file in the extracted folder for FixWin.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Click **Additional Fixes** on the left of the FixWin window.
 8. Select the **Quick Fixes** tab.
 9. Press the **Reset Software Distribution folder** button.  
 ![The Quick Fixes tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/quick-fixes-tab.jpg)
 10. Click the **Reset catroo2 Folder** option.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 11. Exit FixWin and reboot your PC after selecting those options.
 
@@ -127,5 +143,19 @@ net start msiserver`
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-producers-roadmap-pioneering-high-quality-asmr-content/"><u>[New] 2024 Approved A Producer's Roadmap Pioneering High-Quality ASMR Content</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/treamline-visual-marking-in-youtube-posts-with-watermarks-and-logos-for-2024/"><u>[New] Streamline Visual Marking in Youtube Posts with Watermarks & Logos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/curate-your-own-win11-screen-saver/"><u>Curate Your Own Win11 Screen Saver</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1723807927915-easy-methods-for-directx-update-in-windows-1110-step-by-step-instructions/"><u>Easy Methods for DirectX Update in Windows 11/10 – Step-by-Step Instructions!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-cost-effective-lg-49-um7300-a-comprehensive-budget-4k-tv-review/"><u>Evaluating the Cost-Effective LG 49 UM7300: A Comprehensive Budget 4K TV Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/future-screens-innovating-beyond-windows-11/"><u>Future Screens: Innovating Beyond Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-solving-win-1011-ad-ds-printer-problems-efficiently/"><u>Guide to Solving Win 10/11 AD DS Printer Problems Efficiently</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-m14-4g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-5-best-vob-video-editors-that-wont-break-the-bank-for-2024/"><u>New 5 Best VOB Video Editors That Wont Break the Bank for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-steps-for-online-printer-on-windows/"><u>Quick Steps for Online Printer on Windows</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-guide-uninstalling-applications-from-your-iphone-or-android-device/"><u>Ultimate Guide: Uninstalling Applications From Your iPhone or Android Device</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/l-snips-tool/"><u>Visual Snips Tool</u></a></li>
+</ul></div>
 

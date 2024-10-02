@@ -1,7 +1,7 @@
 ---
 title: "Time Traveling Your Data: Modifying Windows File Dates"
-date: 2024-09-24T21:34:06.990Z
-updated: 2024-09-26T22:10:59.882Z
+date: 2024-09-24T18:01:11.728Z
+updated: 2024-10-01T22:22:53.827Z
 tags:
   - windows10
   - windows11
@@ -74,13 +74,6 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 
  Windows makes real-time changes to attributes. Therefore, don't modify or access the file after making changes since it will change the modified and accessed dates again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Modify the Date Created, Date Accessed, and Date Modified Using Attribute Changer
 
  The Attribute Changer app is one of the [third-party attribute changer apps](https://www.makeuseof.com/apps-change-created-modified-date-windows/) that lets users change file attributes, including when a file was created, modified, or accessed. If changing the file attributes using PowerShell is challenging for you, here are the steps to modify them using this third-party app:
@@ -97,18 +90,19 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 3. Change the date and time when a file was first created and the last time you accessed or modified it according to your preference.  
 ![changing the attributes of a file from the atribute changer app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/changing-the-attributes-of-a-file-from-the-atribute-changer-app.jpg)
 4. Once you've made your changes, click **Apply** to make them permanent.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click **Yes** in the confirmation pop-up, and the file attributes will be changed successfully.
 
  In the same way that we changed the attributes of a file, you can also change the attributes of a folder using Attribute Changer.
 
  Using third-party tools to modify attributes requires you to grant apps permission to access the file. Therefore, if the documents you want to modify the dates for are confidential, don't use third-party apps to change the attributes; instead, use the official methods offered by Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Remove Other File Attributes Using File Explorer
 
@@ -120,27 +114,35 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 4. Click the **Remove Properties and Personal Information** link.  
 ![Opening the Window to Remove the Personal Information of Text Document in the Details Tab of Document Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/1-Removing-the-Personal-Information-of-Text-Document-in-the-Details-Tab-of-Document-Properties.jpg)
 5. To remove all possible properties automatically, check the circle beside **Create a copy with all possible properties removed**. This will create a duplicate of the file at the exact location after deleting all possible attributes.  
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Removing possible file attributes in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/removing-possible-file-attributes-in-file-explorer.jpg)
 6. To remove selected properties, check the circle beside **Remove the following properties from this file**, select the attributes you want to remove, and click **OK**.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Modify Your File's Attributes With Ease
@@ -163,19 +165,22 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-secret-sauce-for-successful-youtubers-channel-featuring-techniques-for-2024/"><u>[Updated] The Secret Sauce for Successful YouTubers Channel Featuring Techniques for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-understanding-vlcs-screen-recording-features-for-2024/"><u>[Updated] Understanding VLC's Screen Recording Features for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficient-routes-to-printer-control-in-windows-11-max-50-chars/"><u>Efficient Routes to Printer Control in Windows 11 (Max 50 Chars)</u></a></li>
-<li><a href="https://windows11.techidaily.com/escape-without-errors-tips-for-a-well-functioning-key-on-windows/"><u>Escape Without Errors: Tips for a Well-Functioning Key on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-open-the-internet-options-in-windows-11/"><u>How to Open the Internet Options in Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-x-video-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone X Video to Computer? | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-how-to-avoid-and-reverse-strikes-on-your-youtube-account/"><u>In 2024, How to Avoid and Reverse Strikes on Your YouTube Account</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-top-rated-green-screen-software-for-mobile-devices-free-and-updated/"><u>New In 2024, Top-Rated Green Screen Software for Mobile Devices Free & Updated</u></a></li>
-<li><a href="https://windows11.techidaily.com/removing-geforce-graphical-overlay-feature/"><u>Removing GeForce Graphical Overlay Feature</u></a></li>
-<li><a href="https://windows11.techidaily.com/sling-verification-sluggishness-top-strategies-for-speedy-updates/"><u>Sling Verification Sluggishness: Top Strategies for Speedy Updates</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-eliminating-nvidias-visual-boost/"><u>Step-by-Step: Eliminating NVIDIA's Visual Boost</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-errors-when-microsoft-visual-c-runtime-library-is-missing/"><u>Troubleshooting Errors When Microsoft Visual C Runtime Library Is Missing</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/why-the-acer-aspire-e-15-is-a-must-have-for-savvy-shoppers-on-a-budget/"><u>Why the Acer Aspire E 15 Is a Must-Have for Savvy Shoppers on a Budget</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-cursor-awakening-screen-brightness-restored/"><u>Win11 Cursor Awakening, Screen Brightness Restored</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-step-by-step-integrating-songs-in-microsofts-presentation-maker/"><u>[Updated] 2024 Approved Step-by-Step Integrating Songs in Microsoft's Presentation Maker</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-yi-in-focus-the-future-of-4k-filmmaking/"><u>[Updated] In 2024, Yi in Focus The Future of 4K Filmmaking</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-radial-blur-effect-on-images/"><u>2024 Approved Step-by-Step Guide to Radial Blur Effect on Images</u></a></li>
+<li><a href="https://windows11.techidaily.com/downloading-woes-fixing-file-transfer-issues-in-windows-11/"><u>Downloading Woes: Fixing File Transfer Issues in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-techniques-for-deactivating-win11s-hyper-v/"><u>Easy Techniques for Deactivating Win11's Hyper-V</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-desktop-organization-fixing-gmails-taskbar-spot/"><u>Effective Desktop Organization: Fixing Gmail's Taskbar Spot</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-methods-to-restore-functioning-asana-on-windows-machines/"><u>Effective Methods to Restore Functioning Asana on Windows Machines</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-faulty-printer-response-in-ad-ds-win-10-and-11/"><u>Eliminating Faulty Printer Response in AD DS, WIN 10 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-icon-grouping-in-windows-11/"><u>Eliminating Icon Grouping in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-computer-experience-with-worldwide-mouse-expertise-in-powertoys/"><u>Enhance Your Computer Experience with Worldwide Mouse Expertise in PowerToys</u></a></li>
+<li><a href="https://fox-access.techidaily.com/enhancing-creativity-with-filmoras-best-tools-for-2024/"><u>Enhancing Creativity with Filmora's Best Tools for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicating-overload-in-win-based-software-with-ease/"><u>Eradicating Overload in Win-Based Software with Ease</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-gt-5-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Realme GT 5 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transform-your-online-presence-using-manycams-powerful-live-video-solutions/"><u>Transform Your Online Presence Using ManyCam's Powerful Live Video Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-print-driver-host-issues-in-32-bit-systems/"><u>Troubleshooting Guide: Fixing 'Print Driver Host' Issues in 32-Bit Systems</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/l-vlogger-success-key-youtube-seo-tech/"><u>Unveil Vlogger Success Key YouTube SEO Tech</u></a></li>
 </ul></div>
 

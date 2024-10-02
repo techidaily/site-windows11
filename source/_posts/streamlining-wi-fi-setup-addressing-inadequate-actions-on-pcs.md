@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Wi-Fi Setup: Addressing Inadequate Actions on PCs"
-date: 2024-09-21T22:21:15.565Z
-updated: 2024-09-26T21:35:21.936Z
+date: 2024-09-30T01:05:45.614Z
+updated: 2024-10-01T23:15:14.784Z
 tags:
   - windows10
   - windows11
@@ -56,13 +56,6 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 8. Click **OK** to save the changes and exit the Registry Editor.
 9. Finally, restart your computer and upon reboot, check if the problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Disable the NCSI Probe From GPE
 
  If using the Windows Registry did not work, you can also make the same changes using the Group Policy Editor.
@@ -78,13 +71,6 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 ![Network connectivity test policy in GPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/network-connectivity-test-policy.jpg)
 6. Checkmark the box with **Enabled** and click **Apply** \> **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Next, head over to the following location:  
 ​​​​​​​​​​​​​​Computer Configuration\Administrative Templates\Network
 8. Select **Network Connectivity Status Indicator** \> **Specify passive polling**.  
@@ -93,6 +79,13 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 10. Close the Group Policy Editor and restart your computer.
 
  Hopefully, upon reboot, the issue will no longer appear.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Run the Internet Connection Troubleshooter
 
@@ -106,7 +99,34 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 4. You should now be able to see a list of troubleshooters offered by Windows. Locate the Internet connection troubleshooter and click on the **Run** button for it.  
 ![Internet Connection Troubleshooter in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/internet-connection-troubleshooter.jpg)
 5. Wait for the troubleshooter to complete its scan and once done, check if a problem is identified. If it is, click on the **Apply this fix** option. You can also apply a solution manually.
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. In case the troubleshooter fails to identify the culprit, click on **Close the troubleshooter** option and move to the next method below.
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable Fast Startup
 
@@ -121,28 +141,15 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 ![Choose what the power button does option of Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/choose-what-the-power-button-does.jpg)
 5. Choose **Change settings that are currently unavailable** and navigate to the Shutdown settings option.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Uncheck the box associated with **Turn on fast startup (recommended)**.  
 ![Disable Fast Startup on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-fast-startup-on-windows.jpg)
 7. Click on the **Save changes** button and exit Control Panel. Check if the issue is now resolved.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Try These Additional Generic Fixes
@@ -169,21 +176,15 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-6-proven-techniques-to-elevate-your-youtube-engagement-and-reduce-churn/"><u>[New] 2024 Approved 6 Proven Techniques to Elevate Your YouTube Engagement and Reduce Churn</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-samsung-ubd-k8500-refreshed-2023-overview/"><u>[Updated] 2024 Approved Samsung UBD-K8500 Refreshed - 2023 Overview</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-hidden-methods-for-dodging-digital-study-vids-for-2024/"><u>[Updated] Hidden Methods for Dodging Digital Study Vids for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-paths-blocked-by-shared-printers/"><u>Clearing Paths Blocked by Shared Printers</u></a></li>
-<li><a href="https://windows11.techidaily.com/combat-window-settings-malfunctions-now/"><u>Combat Window Settings Malfunctions Now</u></a></li>
-<li><a href="https://windows11.techidaily.com/enable-word-to-always-present-email-attachments-in-reading-view-format/"><u>Enable Word to Always Present Email Attachments in Reading View Format</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-counteract-install-net-core-now-on-pc/"><u>How to Counteract Install .NET Core Now on PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-11-official-method-to-unlock-your-iphone-11-by-drfone-ios/"><u>How To Unlock iPhone 11 Official Method to Unlock Your iPhone 11</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Xiaomi Redmi 13C | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/podcast-perfection-editing-techniques-in-garageband-for-2024/"><u>Podcast Perfection Editing Techniques in GarageBand for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/protect-your-passwords-in-windows-files-easily/"><u>Protect Your Passwords in Windows Files Easily</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/screen-recording-101-using-filmora-scrn-to-capture-your-desktop-for-2024/"><u>Screen Recording 101 Using Filmora Scrn to Capture Your Desktop for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/tapping-into-your-true-essence-guide-for-accessing-windows-silent-personal-analyzer/"><u>Tapping Into Your True Essence: Guide for Accessing Windows' Silent Personal Analyzer</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-poco-m6-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Poco M6 5G for Parents | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-10-windows-diagnostics-powerhouses/"><u>Top 10 Windows Diagnostics Powerhouses</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-methods-to-project-epoch-shifts/"><u>[New] Methods to Project Epoch Shifts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-premier-online-videography-tools-to-eye/"><u>2024 Approved Premier Online Videography Tools to Eye</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-history-securely-saving-old-printed-images-for-2024/"><u>Capturing History Securely Saving Old Printed Images for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/does-the-print-screen-key-open-the-snipping-tool-in-windows-11-heres-how-to-stop-it/"><u>Does the Print Screen Key Open the Snipping Tool in Windows 11? Here’s How to Stop It</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortlessly-jump-to-handheneld-hits-win-11-and-android-via-google-play-access/"><u>Effortlessly Jump to Handheneld Hits: Win 11 & Android via Google Play Access</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-ads-from-win-11s-start-interface/"><u>Eliminating Ads From Win 11'S Start Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-samsung-dex-a-step-by-step-pc-control/"><u>Enabling Samsung DeX: A Step-by-Step PC Control</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-latest-in-tech-with-toms-gadget-reviews/"><u>Explore the Latest in Tech with Tom’s Gadget Reviews</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-propel-your-youtube-journey-breakthroughs-at-the-500-subscriber-mark/"><u>In 2024, Propel Your YouTube Journey Breakthroughs at the 500-Subscriber Mark</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-xiaomi-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Xiaomi Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating Complex Projects Using GitHub Desktop in Win 11
-date: 2024-09-10T23:03:12.525Z
-updated: 2024-09-15T22:17:17.811Z
+date: 2024-09-26T18:38:56.932Z
+updated: 2024-10-01T18:49:06.726Z
 tags:
   - windows10
   - windows11
@@ -62,16 +62,10 @@ To add an existing GitHub account to GitHub Desktop:
  Now that you’ve configured GitHub Desktop on your Windows PC, you can use it in your daily workflow.
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Clone a Repository Using GitHub Desktop on Windows
@@ -87,6 +81,13 @@ To add an existing GitHub account to GitHub Desktop:
 
 The project should then be accessible within the saved directory.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Create a Branch in GitHub Desktop
 
  Branches are essential in the git workflow and allow you to work on a copy of the main codebase. It ensures experimental and unreliable code does not affect the production version of the codebase. Developers can freely play around in their isolated branch and push code once it’s tested.
@@ -97,17 +98,18 @@ To create a branch in GitHub desktop:
 2. Select the**Current repository** dropdown and choose the project you want to work on.  
 ![create branch github desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-branch-1.jpg)
 3. Next, select the**Current branch** dropdown and click on**New branch** .
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Enter a name for the branch and select**Create branch** to confirm your selection.
 5. To move your current working changes to the new branch, select the**Bring my changes to** button.
 
  Similarly, if you want to switch to a different branch, select the**Current branch** dropdown and select the branch name you want to change to.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Commit Using GitHub Desktop on Windows
 
@@ -122,16 +124,10 @@ To create a branch in GitHub desktop:
 6. Select the**Commit to** button to confirm your changes and commit code into your branch.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Push Code Using GitHub Desktop on Windows
@@ -157,5 +153,24 @@ To create a branch in GitHub desktop:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-social-media-savvy-how-to-download-status-vids-on-fb/"><u>[New] 2024 Approved Social Media Savvy How to Download Status Vids on FB</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-guide-to-converting-xmlssattml-into-srt/"><u>[New] Expert Guide to Converting XML/SSA/TTML Into SRT</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-step-by-step-guide-to-instagram-livestreaming-using-obs/"><u>[Updated] 2024 Approved Step-by-Step Guide to Instagram Livestreaming Using OBS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-finding-the-facebook-in-niche-driven-instagram-realms-for-2024/"><u>[Updated] Finding the Face(book) in Niche-Driven Instagram Realms for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-most-popular-oculus-rift-experiences-for-gamers/"><u>[Updated] In 2024, Most Popular Oculus Rift Experiences for Gamers</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1-ultimate-guide-how-to-convert-and-save-your-favorite-pornhub-videos-as-high-quality-mp4-mov-or-avi-files/"><u>1. Ultimate Guide: How to Convert and Save Your Favorite PornHub Videos as High-Quality MP4, MOV or AVI Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/end-the-ebb-and-flow-top-strategies-for-smooth-windows-streaming/"><u>End the Ebb and Flow: Top Strategies for Smooth Windows Streaming</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-asus-smartmouse-pad-driver-on-windows-free-and-easy-installation-guide/"><u>Get Your ASUS SmartMouse Pad Driver on Windows - Free & Easy Installation Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-fresh-epson-gt-s50-printer-drivers-on-windows-7-8-or-10-download-here/"><u>Install Fresh Epson GT-S50 Printer Drivers on Windows 7, 8 or 10 – Download Here!</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-11-zoom-malfunction-1132/"><u>Overcoming Windows 11 Zoom Malfunction #1132</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-pc-performance-hurdles-with-intel-graphics-updates/"><u>Remedying PC Performance Hurdles with Intel Graphics Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-storing-error-during-new-app-installation/"><u>Solutions for Storing Error During New App Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-stopping-auto-recommended-game-suggestion/"><u>Steps for Stopping Auto-Recommended Game Suggestion</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-separate-bunched-system-icons/"><u>Strategies to Separate Bunched System Icons</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-keyboard-magic-custom-shortcuts-w11-style/"><u>Tailored Keyboard Magic: Custom Shortcuts W11 Style</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-blueprint-entering-itunes-and-google-play-listings/"><u>The Blueprint Entering iTunes and Google Play Listings</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-ftdibussys-the-impact-on-windows-memory-standards-and-safety/"><u>Unraveling ftdibus.sys: The Impact on Windows' Memory Standards and Safety</u></a></li>
+</ul></div>
 

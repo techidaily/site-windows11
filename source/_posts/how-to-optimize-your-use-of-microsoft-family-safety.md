@@ -1,7 +1,7 @@
 ---
 title: How to Optimize Your Use of Microsoft Family Safety
-date: 2024-09-13T20:41:50.758Z
-updated: 2024-09-15T16:23:05.208Z
+date: 2024-09-28T01:44:43.237Z
+updated: 2024-10-01T21:21:34.037Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/04b5de1b8632b8069ff9f587e17e0dbf1c9f260b0
  It's a unique tool available for all Microsoft users which works by limiting your online or offline interaction on all your Microsoft devices, helping plan shared tasks, and all the more. Best of all, you can get started for free on the[Microsoft Family Safety website](https://www.microsoft.com/en-us/microsoft-365/family-safety) .
 
  Let's look at the features that make Microsoft Family Safety possible, one by one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Content Filters
 
@@ -69,14 +76,14 @@ Here's how you can enable Screen Time:
 
 ![edit time limit windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-time-limit-windows.jpg)
 
- You will get a new dialog box to choose a new day and time from there. Set your new screen time limit by clicking on**Done** . That's it; the screen time feature will be enabled on your PC from here on.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You will get a new dialog box to choose a new day and time from there. Set your new screen time limit by clicking on**Done** . That's it; the screen time feature will be enabled on your PC from here on.
 
 ## 3\. Find Your Family
 
@@ -116,13 +123,6 @@ Firstly, make sure you have checked all your location permissions:
 * Select the member account you'd like to enable reporting.
 * Click on**Settings** and toggle on the**Activity reporting** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Spending
 
  Do your family members splurge your money on vanity purchases? While buying a few things here and there is not a big deal, however, if your kids are used to spending money online irresponsibly, a more restricted approach to spending might be more suited.
@@ -138,6 +138,13 @@ Here's how you can add money to your account:
 
 ![spending](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/spending.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As soon as you do this, your account will receive a new payment. From hereon, your family members are free to make purchases under the pre-set budget set by you.
 
  Of course, if there's a deeper financial problem causing bad spending habits, this will be a band-aid over a bigger issue. As such, check out[how to break bad online shopping habits](https://www.makeuseof.com/ways-break-bad-online-shopping-habits/) for more tips on toning the spending down.
@@ -145,6 +152,13 @@ Here's how you can add money to your account:
 ## 5\. Family Notebook
 
 ![family notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/family-notebook.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can plan and manage all your task or activities for days (or even weeks) from a single, personal app on your smartphone. However, if you're already a die-hard Microsoft user, why not make the most out of Family Notebook and its handy features?
 
@@ -155,10 +169,10 @@ Here's how you can add money to your account:
 ![microsoft family notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-family-notebook.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To get a full overview of Family Notebook, check out[Microsoft's short blog on Family Notebook](https://blogs.windows.com/windowsexperience/2018/05/14/windows-10-tip-organize-your-busy-lives-with-a-family-notebook-in-onenote/) .
@@ -180,5 +194,16 @@ Here's how you can add money to your account:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mini-magnate-ryan-kajis-staggering-income-from-video-platform/"><u>[Updated] Mini Magnate Ryan Kaji’s Staggering Income From Video Platform</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-visual-impact-techniques-for-warped-image-content-for-2024/"><u>[Updated] Visual Impact Techniques for Warped Image Content for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-for-accessing-windows-11s-policy-editor/"><u>Easy Steps for Accessing Windows 11'S Policy Editor</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-nokia-c02-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Nokia C02 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-resolve-file-size-exceeds-drive-capacity-on-your-external-memory-device/"><u>How to Resolve 'File Size Exceeds Drive Capacity' On Your External Memory Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-samsung-galaxy-a25-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfecting-user-interaction-essential-modifications-for-windows-11s-taskbar/"><u>Perfecting User Interaction: Essential Modifications for Windows 11'S Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-internal-errors-during-remote-connections-in-windows-11/"><u>Solving Internal Errors During Remote Connections in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-resolving-zero-x-error-in-windows-email-app/"><u>Steps for Resolving Zero X Error in Windows Email App</u></a></li>
+</ul></div>
 

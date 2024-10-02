@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Memory Diagnostic Failures
-date: 2024-09-23T17:16:55.232Z
-updated: 2024-09-26T18:44:29.600Z
+date: 2024-09-25T19:01:51.066Z
+updated: 2024-10-01T18:42:20.548Z
 tags:
   - windows10
   - windows11
@@ -50,23 +50,16 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 ![run windows hardware troubleshooter command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-windows-hardware-troubleshooter-command-prompt.jpg)
 3. In the Command Prompt window, type the following command and press **Enter**:  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `msdt.exe -id DeviceDiagnostic`
 4. In the **Hardware and Devices** dialog, click **Next**. By default, the troubleshooter is set to apply any repairs available. To disable automatic repair, click **Advanced** and uncheck the **Apply repairs automatically** option.  
 ![hardware and devices troubleshooter windows 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hardware-and-devices-troubleshooter-windows-1.jpg)
 5. It will scan your computer for issues, which may take a few minutes. If an issue is detected, select to automatically apply the repair.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. If the suggested problem is unrelated to memory, you can skip it to see the next problem. The troubleshooter will detect additional issues. If an issue is found, apply the fixes and check for any improvements.
@@ -100,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 4. Click **Next** and wait for the installer to create a bootable drive.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Next, if you haven’t already, [disable Secure Boot on your Windows computer](https://www.makeuseof.com/tag/disable-secure-uefi-dual-boot/).
@@ -112,10 +105,16 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 7. Next, plug the Memtest86+ bootable USB drive into your computer and turn it on.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Boot into the Boot Menu and select the bootable USB drive as the boot device. The hotkey key to enter the Boot Menu may vary depending on your computer manufacturer. You can press **F9** on an **HP** computer, **F12** on a **Dell** computer and so on to access the **Boot Menu**.
@@ -130,6 +129,13 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
  If the Windows Memory Diagnostic tool continues to show the hardware problem was detected error, even after the Memtest86+ passed the test, check if the problem is due to issues with the Windows operating system.
 
  To fix critical issues with your Windows image, you can perform a [repair reinstall of Windows 11 without deleting apps](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/). If that does not work, perform a clean install. This will reinstall the operating system but delete all your apps and data from the computer. So, backup any data you need before attempting a clean install.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing the Memory Diagnostic Tool "Hardware Problem Detected" Error
 
@@ -149,19 +155,22 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-tailored-gaming-experience-without-cross-play-in-apex/"><u>[New] 2024 Approved Tailored Gaming Experience without Cross-Play in Apex</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-superb-online-stores-where-to-find-and-purchase-youtube-ringtones/"><u>[Updated] Superb Online Stores Where to Find & Purchase YouTube Ringtones?</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-strategies-for-resolving-the-no-support-windows-error/"><u>5 Strategies for Resolving the No-Support Windows Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-missing-sign-in-screens-in-windows-11/"><u>Bypassing Missing Sign-In Screens in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/confronting-windows-search-failure-a-fixers-manual/"><u>Confronting Windows Search Failure: A Fixer's Manual</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/from-standard-win10-to-high-end-64-bit-system/"><u>From Standard Win10 to High-End 64-Bit System</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-samsung-galaxy-xcover-7-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Samsung Galaxy XCover 7</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/iphone-users-ultimate-podcast-download-techniques/"><u>IPhone Users' Ultimate Podcast Download Techniques</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ring-youtube-the-ultimate-guide-to-video-trimming/"><u>Mastering YouTube The Ultimate Guide to Video Trimming</u></a></li>
-<li><a href="https://windows11.techidaily.com/premium-collection-winning-windows-dsswitch-emulators-list/"><u>Premium Collection: Winning Windows DS/Switch Emulators List</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/review-of-lightzone-pro-top-quality-photo-editing-suite-for-pcs-and-macs/"><u>Review of LightZone Pro: Top-Quality Photo Editing Suite for PCs and Macs</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sculpt-your-memories-with-iphone-burst-shots/"><u>Sculpt Your Memories with iPhone Burst Shots</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-ensure-optimal-functionality-of-add-ons-in-windows-os/"><u>Strategies to Ensure Optimal Functionality of Add-Ons in Windows OS</u></a></li>
-<li><a href="https://fox-access.techidaily.com/visual-clarity-conundrum-ultrawide-vs-uhd-4k-monitors-decision/"><u>Visual Clarity Conundrum UltraWide vs UHD 4K Monitors Decision</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-master-quick-red-eye-correction-in-iphone-photos-for-free-for-2024/"><u>[New] Master Quick Red-Eye Correction in iPhone Photos for FREE for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snappy-business-tactics-on-snapchat/"><u>[Updated] In 2024, Snappy Business Tactics on Snapchat</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-five-full-frame-cameras-for-uhd-capture/"><u>2024 Approved Best Five Full Frame Cameras for UHD Capture</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-marvels-spider-man-the-impactful-journey-of-miles-morales/"><u>Comprehensive Review of Marvel's Spider-Man: The Impactful Journey of Miles Morales</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/dont-miss-out-score-amazing-deals-on-roku-devices-during-prime-day-sale-events/"><u>Don't Miss Out! Score Amazing Deals on Roku Devices During Prime Day Sale Events</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/get-the-scoop-on-apples-latest-release-dates-speculated-pricing-and-potential-highlights-for-the-new-ring-device/"><u>Get the Scoop on Apple's Latest: Release Dates, Speculated Pricing & Potential Highlights for the New Ring Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-for-a-constant-windows-printer/"><u>Guidelines for a Constant Windows Printer</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-record-audio-while-screen-recording-in-the-windows-11-snipping-tool/"><u>How to Record Audio While Screen Recording in the Windows 11 Snipping Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-windows-11-like-a-pro-essential-search-hacks-revealed/"><u>Navigate Windows 11 Like a Pro: Essential Search Hacks Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/propel-your-workspace-ahead-with-w11s-auto-organization-magic/"><u>Propel Your Workspace Ahead with W11's Auto-Organization Magic</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/start-streaming-with-ease-instagram-live-tips-for-2024/"><u>Start Streaming with Ease Instagram Live Tips for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-user-experience-with-these-5-tips/"><u>Streamline Your User Experience with These 5 Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-halo-infinite-tackling-the-games-framerate-stutters/"><u>Troubleshooting Halo Infinite - Tackling the Game's Framerate Stutters</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-win-rpc-errors-a-5-step-guide/"><u>Troubleshooting Win RPC Errors - A 5-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/validate-your-gpus-mettle-using-these-6-tools-on-pc/"><u>Validate Your GPU's Mettle Using These 6 Tools on PC</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/when-advanced-video-repair-gone-wrong/"><u>When Advanced Video Repair Gone Wrong?</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-mastery-how-to-install-and-uninstall-optional-add-ons-successfully/"><u>Windows Mastery: How to Install and Uninstall Optional Add-Ons Successfully</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Potential of Disks on Win 10/11 Systems
-date: 2024-09-11T16:20:32.369Z
-updated: 2024-09-15T20:18:15.060Z
+date: 2024-09-27T19:55:40.751Z
+updated: 2024-10-01T17:29:40.481Z
 tags:
   - windows10
   - windows11
@@ -49,10 +49,16 @@ thumbnail: https://thmb.techidaily.com/c7fb1a1a59ed51b20bad7caf096cb0b1673edc9a7
  Both search keywords do the same thing. Although you don't see "Disk Management" as a result, the best match will still launch the program you need to initialize or manage your storage drives.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Launch Disk Management From the Quick Access Menu
@@ -66,16 +72,10 @@ thumbnail: https://thmb.techidaily.com/c7fb1a1a59ed51b20bad7caf096cb0b1673edc9a7
  When the program opens, you'll be able to see your connected drives and start managing their partitions.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Use the Run Dialog to Open Disk Management
@@ -87,13 +87,20 @@ thumbnail: https://thmb.techidaily.com/c7fb1a1a59ed51b20bad7caf096cb0b1673edc9a7
 ![Run dialog box with diskmgmt command in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/run-dialog-box-with-diskmgmt-command-in-windows-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This way to open Disk Management is preferable if you're busy on the keyboard and don't want to reach for your mouse.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Open Disk Management From the Control Panel
 
@@ -123,5 +130,20 @@ thumbnail: https://thmb.techidaily.com/c7fb1a1a59ed51b20bad7caf096cb0b1673edc9a7
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-audio-aesthetics-high-quality-dj-template-videos-downloaded/"><u>[New] In 2024, Audio Aesthetics High-Quality DJ Template Videos Downloaded</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-online-meetings-with-these-budget-friendly-video-conferencing-services/"><u>[Updated] 2024 Approved Mastering Online Meetings with These Budget-Friendly Video Conferencing Services</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-streamline-your-social-media-find-facebook-watched-videos-easily/"><u>[Updated] 2024 Approved Streamline Your Social Media Find Facebook Watched Videos Easily</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-elite-car-beat-merging-software-for-mac-platforms/"><u>2024 Approved Elite Car Beat Merging Software for Mac Platforms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-online-meetings-zoom-tips-for-chromebooks/"><u>2024 Approved Mastering Online Meetings Zoom Tips for Chromebooks</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-anarchy-how-to-heal-fractured-win11-registry-elements/"><u>Avoiding Anarchy: How to Heal Fractured Win11 Registry Elements</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-asus-motherboard-driver-updates-for-windows-systems-fresh-download-guide/"><u>Effortless ASUS Motherboard Driver Updates for Windows Systems: Fresh Download Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-handheneld-to-hardware-android-titles-on-windows-via-google-service/"><u>From Handheneld to Hardware: Android Titles on Windows via Google Service</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-complete-guide-on-how-to-create-a-video-slideshow-with-final-cut-pro/"><u>In 2024, Complete Guide on How to Create a Video Slideshow with Final Cut Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/software-selection-showdown-on-windows-choc-vs-wm/"><u>Software Selection Showdown on Windows: Choc vs WM</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-tasks-in-windows-11-with-a-customized-run-command-setup/"><u>Streamline Tasks in Windows 11 with a Customized Run Command Setup</u></a></li>
+<li><a href="https://solve-help.techidaily.com/transforming-vob-files-into-mp4-format-a-step-by-step-guide-for-windows-11-and-macos/"><u>Transforming VOB Files Into MP4 Format: A Step-by-Step Guide for Windows 11 and macOS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/tutorial-transformez-un-fichier-mxf-en-format-video-wmv-gratuitement-sur-la-toile-avec-movavi/"><u>Tutorial: Transformez Un Fichier MXF en Format Vidéo WMV Gratuitement Sur La Toile Avec Movavi</u></a></li>
+</ul></div>
 

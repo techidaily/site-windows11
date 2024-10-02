@@ -1,7 +1,7 @@
 ---
 title: Revolutionize Windows with Key Optimization Tools
-date: 2024-09-11T23:48:25.931Z
-updated: 2024-09-15T16:01:30.952Z
+date: 2024-09-28T17:29:34.164Z
+updated: 2024-10-02T03:20:21.030Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 
 ![Manage installed apps with Wintoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manage-apps-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the **Apps** tab, all of your installed software is color-coded, and you can tell which one is a Microsoft or third-party app. Additionally, you can have Wintoys display only one category or sort them alphabetically, or by size, among other options.
 
 ## 3\. Tweak Your System for Better Performance
@@ -47,6 +54,19 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
  For example, if you have a lot of apps set to launch at system startup, your boot time will slow down. To disable unnecessary apps from running when your system starts, open the **Startup Apps** menu. There, turn off the toggle for the apps that you don’t need as quickly as you start your system.
 
 ![Control startup apps with Wintoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/startup-wintoys-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Also, in the same tab, you can find settings to [improve your Windows computer performance during gaming](https://www.makeuseof.com/tag/optimize-windows-10-gaming/). For instance, you could turn on the toggle next to **Ultimate performance plan**.
 
@@ -67,21 +87,28 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 ![Declutter storage space on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/declutter-wintoys-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Also, in the same tab, you’ll find the **Declutter** drop-down menu. Using it, you can delete all junk files, clear Microsoft Store cache, flush the DNS cache, or even delete all restore points to save space.
 
  If you decide to delete all restore points, make sure to [create a new restore point](https://www.makeuseof.com/windows-11-create-restore-point/), in case something goes wrong, and you need to revert your system to a previous state.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Change Desktop Design
 
@@ -91,27 +118,20 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 
 ![Change destkop design with Wintoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/desktop-wintoys-1.jpg)
 
- These are just a few of the available tweaks that can change how Windows looks and feel.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ These are just a few of the available tweaks that can change how Windows looks and feel.
 
 ## 6\. Run Repair Tools Without Command Prompt
 
  There are plenty of things on a Windows computer that can go wrong without much of a warning. You might encounter frequent program crashes, data loss, or the inability to access your files. Now, the most efficient way to fix these problems is to run the SFC, CHKDSK, and DISM scans. Instead of opening Command Prompt and searching online for the correct lines, you can use Wintoys.
 
 ![Run repair tools without Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-wintoys-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the **Health** tab, click on **Repair**. There, you can select the tool to fix your problem. On Command Prompt, you’d have to run the lines one at a time. However, on Wintoys, you can select all tools and Wintoys will run them for you. This way, you don’t have to monitor the process and can even step away from your computer as the issue is getting fixed.
 
@@ -122,10 +142,16 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 ![Stop Windows from showing you ads](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wintoys-ads-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Protect Your Privacy
@@ -135,13 +161,6 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
  Of course, you can control how much data you share with Microsoft, but some of the settings are buried deep into your system. Instead of going through the Setting menu, launch Wintoys and go to **Tweaks > Privacy**.
 
 ![Protect your privacy with Wintoys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/privacy-wintoys-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There, you can control which data Microsoft collects about your usage patterns. However, Wintoys doesn’t allow full control over Windows Privacy settings, so you might want to manually [check Privacy settings on Windows](https://www.makeuseof.com/windows-11-privacy-options-explained/).
 
@@ -170,5 +189,23 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-maximizing-your-sound-the-best-microphones-for-podcasting/"><u>[New] 2024 Approved Maximizing Your Sound The Best Microphones for Podcasting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-flip-to-fun-converting-youtube-videos-to-playful-download-free-gifs-for-2024/"><u>[Updated] Flip to Fun Converting YouTube Videos to Playful, Download-Free GIFs for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-agile-approaches-storing-ppt-speeches/"><u>[Updated] In 2024, Agile Approaches Storing PPT Speeches</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-innovative-pathways-select-7-tools-for-artwork-conversion-to-nfts/"><u>[Updated] In 2024, Innovative Pathways Select 7 Tools for Artwork Conversion to NFTs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-future-of-cosmetics-youtube-gurus-on-the-rise/"><u>2024 Approved Future of Cosmetics YouTube Gurus on the Rise</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/comprehensive-tutorial-on-app-deletion-and-clearing-system-comments-efficiently/"><u>Comprehensive Tutorial on App Deletion & Clearing System Comments Efficiently</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/delivering-premium-tv-reception-at-a-great-value-in-depth-review-of-the-30-mohu-leaf-antenna/"><u>Delivering Premium TV Reception at a Great Value - In-Depth Review of the 30 Mohu Leaf Antenna</u></a></li>
+<li><a href="https://windows11.techidaily.com/gain-control-of-costs-windows-11-pro-key-advantages/"><u>Gain Control of Costs: Windows 11 Pro Key Advantages</u></a></li>
+<li><a href="https://windows11.techidaily.com/improve-notepad-on-win11-via-ingenious-sage/"><u>Improve Notepad on Win11 via Ingenious Sage</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-9-techniques-to-modify-windows-audio-interface/"><u>Master 9 Techniques to Modify Windows Audio Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixed-top-10-windows-glitch-solvers/"><u>Quick Fixed: Top 10 Windows Glitch Solvers</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-path-not-found-issue-in-windows-xp7/"><u>Resolving Path Not Found Issue in Windows XP/7</u></a></li>
+<li><a href="https://windows11.techidaily.com/secret-menu-additions-a-step-by-step-guide-in-win-10/"><u>Secret Menu Additions: A Step-by-Step Guide in Win 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-security-refreshing-windows-group-policies/"><u>Streamlining Security: Refreshing Windows Group Policies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-creativity-with-ai-idea-generation-through-mindmaps-and-chatgpt/"><u>Unleash Creativity with AI: Idea Generation Through Mindmaps & ChatGPT</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/1725289747019-windows-mac-ai-10/"><u>Windows과 Mac에 가장 좋은 무료 AI 비디오 리소스를 사용하는 10가지 최고 인핸서</u></a></li>
+</ul></div>
 

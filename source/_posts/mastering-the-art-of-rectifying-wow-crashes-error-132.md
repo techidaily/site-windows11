@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Rectifying WoW Crashes: Error 132"
-date: 2024-09-20T17:14:31.900Z
-updated: 2024-09-26T19:21:47.799Z
+date: 2024-09-27T02:03:13.245Z
+updated: 2024-10-02T00:25:59.471Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 
  The Windows 11 Settings app doesn’t include that option. However, you can access the same option within the Game Bar app. Press the **Windows** key + **G** and select **Settings** \> **Capturing** in the Game Bar. Then deselect the **Record in the background while I’m playing a game** checkbox.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Rename World of Warcraft’s Cache, WTF, and Interface Folders
 
  Renaming World of Warcraft’s **Cache**, **Interface**, and **WTF** folders will reset the game’s UI. This troubleshooting method can fix a variety of WoW issues and could also fix error 132\. This is how you can rename World of Warcraft’s **Cache**, **Interface**, and **WTF** folders:
@@ -52,6 +45,14 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 3. Click on the **Show in Explorer** option to bring up a World of Warcraft installation folder.  
 ![A screenshot of the Show In Explorer option for World of Warcraft in Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/show-in-file-explorer.jpg)
 4. Next, open either the **\_retail\_** or **\_classic\_** subfolder. For example, open the **\_classic\_** folder if you play World of Warcraft Classic or **\_retail\_** for the current version.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![A screenshot of the Retail folder in the system files for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/retail-folder.jpg)
 5. Then right-click on the **Interface** subfolder, select **Rename**, and input **InterfaceOld** for the new name.
 6. Repeat the previous step for the **Classic** and **WTF** folders. Rename those folders to **ClassicOld** and **WTFOld**.  
@@ -64,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
  If error 132 still affects your game, even after renaming folders, you may want to try other ways to [fix World of Warcraft not launching in Windows 10/11](https://www.makeuseof.com/windows-11-10-world-of-warcraft-not-launching/). Some potential fixes associated with launching WoW may also fix error 132\.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Enable DirectX Legacy Mode
@@ -84,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 6. Press **Done** to set World of Warcraft’s command line argument.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart the Blizzard software after setting this new command line argument for World of Warcraft. Then start WoW to see if this possible resolution makes a difference.
@@ -103,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
  If adding World of Warcraft to your Windows Defender Exclusion List doesn’t fix error 132, you may want to [run the System File Checker for Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/) instead. This could repair any corrupted files causing the error.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Enjoy World of Warcraft Again
@@ -125,20 +126,21 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-screensnappers-journey-navigating-the-latest-recorders/"><u>[New] ScreenSnapper's Journey Navigating the Latest Recorders</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-camera-accessories-for-travel-cinematography/"><u>[Updated] Camera Accessories for Travel Cinematography</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-master-the-art-of-podcast-writing-with-expert-guidance/"><u>[Updated] Master the Art of Podcast Writing with Expert Guidance</u></a></li>
-<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-secure-your-wi-fi-network-windows-11-7-81-quickly-and-easily/"><u>How to Secure Your Wi-Fi Network | Windows 11, 7, 8.1 | Quickly & Easily</u></a></li>
-<li><a href="https://windows11.techidaily.com/illuminate-with-joy-magical-holiday-window-decor/"><u>Illuminate with Joy: Magical Holiday Window Decor</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-nullnone-value-dilemmas-on-windows/"><u>Overcoming Null/None Value Dilemmas on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-tip-addressing-winscomrsvc-system-crashes/"><u>Quick Tip: Addressing WinscomrsVc System Crashes</u></a></li>
-<li><a href="https://windows11.techidaily.com/stop-frozen-pages-and-scrolling-issues-in-excel/"><u>Stop Frozen Pages and Scrolling Issues in Excel</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/rt-of-youtube-channels-crafting-brands-that-attract-viewers/"><u>The Art of YouTube Channels Crafting Brands That Attract Viewers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-definitive-guide-to-tech-specifications-wisdom-from-toms-computer-corner/"><u>The Definitive Guide to Tech Specifications - Wisdom From Tom's Computer Corner</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleashing-text-selection-power-in-windows-pdf-files/"><u>Unleashing Text Selection Power in Windows PDF Files</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/vmix-mover-for-apple-and-pcs/"><u>VMix Mover for Apple and PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-11-revolution-essential-replacement-tools-to-consider/"><u>Win 11 Revolution: Essential Replacement Tools to Consider</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11s-guide-to-stable-background-fixes/"><u>Win11's Guide to Stable Background Fixes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-essential-guide-to-choosing-top-skype-recorder-hats/"><u>[New] In 2024, Essential Guide to Choosing Top Skype Recorder Hats</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-becoming-professionally-active-registering-a-business-on-ig-for-2024/"><u>[Updated] Becoming Professionally Active Registering a Business on IG for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unveiling-the-blueprint-best-practices-for-social-media-video-publishing-for-2024/"><u>[Updated] Unveiling the Blueprint Best Practices for Social Media Video Publishing for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-turn-off-youtube-previews-on-all-devices/"><u>2024 Approved Turn Off YouTube Previews on All Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/facebook-favoritism-at-your-fingertips-the-top-8-app-list-for-2024/"><u>Facebook Favoritism at Your Fingertips The Top 8 App List for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-constant-crashes-in-the-beat-saber-game/"><u>How to Resolve Constant Crashes in the Beat Saber Game</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-for-reviving-your-windows-11-password/"><u>Methods for Reviving Your Windows 11 Password</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-common-pin-hurdles-in-modern-windows-os-win10win11/"><u>Navigating Common PIN Hurdles in Modern Windows OS (Win10/Win11)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-removing-nvidia-graphics-card-drivers-from-your-pc/"><u>Step-by-Step Guide: Removing Nvidia Graphics Card Drivers From Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-not-found-gpeditmsc-in-windows-errors/"><u>Tackling the Not Found: Gpedit.msc in Windows Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-old-drives-step-by-step-for-windows-rejuvenation/"><u>Transforming Old Drives: Step-by-Step for Windows Rejuvenation</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-error-code-9999-in-win-based-audacity/"><u>Unraveling the Mystery of Error Code 9999 in Win-Based Audacity</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-windows-11s-elevation-failures/"><u>Unraveling the Mystery of Windows 11’S Elevation Failures</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/vignette-perfection-discover-the-best-apps-for-ios-and-android-for-2024/"><u>Vignette Perfection Discover the Best Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-watchlist-7-tasks-to-inspect-for-hidden-viruses/"><u>Windows Watchlist: 7 Tasks to Inspect for Hidden Viruses</u></a></li>
 </ul></div>
 

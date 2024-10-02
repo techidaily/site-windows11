@@ -1,7 +1,7 @@
 ---
 title: Navigating the Resolution of Windows Store Error 0X80073D26
-date: 2024-09-23T16:48:52.425Z
-updated: 2024-09-26T19:34:10.445Z
+date: 2024-09-30T17:57:21.180Z
+updated: 2024-10-01T21:30:41.965Z
 tags:
   - windows10
   - windows11
@@ -45,20 +45,6 @@ thumbnail: https://thmb.techidaily.com/e0fa0d67e26442f6514904daf3cc23134382c2cc5
 
 ![The Reset button for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Edit the Registry
 
  One of the most widely confirmed fixes for error 0x80073D26 is to enter the Registry and delete the GamingServices and GamingServicesNet Registry keys. Although confirmed to work, we still recommend users [back up the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before deleting keys. Then follow these steps for editing the registry:
@@ -70,14 +56,15 @@ thumbnail: https://thmb.techidaily.com/e0fa0d67e26442f6514904daf3cc23134382c2cc5
 4. Right-click the **GamingServices** subkey within the Services key to select **Delete** \> **Yes**.  
 ![The Delete registry key option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-option-1.jpg)
 5. Click the **GamingServicesNet** key with the mouse’s right button and select the **Delete** \> **Yes** options.
-6. Exit Registry Editor and restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+6. Exit Registry Editor and restart your PC.
 
 ## 5\. Reinstall the Microsoft Gaming Service
 
@@ -96,6 +83,14 @@ thumbnail: https://thmb.techidaily.com/e0fa0d67e26442f6514904daf3cc23134382c2cc5
 Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -recurse` 
 ![The remove-app package command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-app-package-command.jpg)
 6. Close out of PowerShell to restart Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Reopen Powershell and execute the following command:  
 `start ms-windows-store://pdp/?productid=9MWPM2CQNLHN`
 8. Then click the **Get** button for installing Gaming Service.
@@ -104,28 +99,21 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
  Windows is by no means impervious to errors. Fortunately, there are some tricks you can apply to almost every error, including this one.
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Repair System Files
 
 ![The Reset button for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To begin with, try repairing system files to see if there are any issues. You can do that by executing a System File Checker scan within the Command Prompt. That tool will check for and repair corrupted system files detected when you run its command. To apply this potential fix, follow the instructions in our [how to run the System File Checker tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) guide.
@@ -133,6 +121,19 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 ### Set Windows to Clean Boot
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-services-tab.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Another possibility is that a software conflict might be causing error 0x80073D26 to occur on your PC. Setting Windows to clean boot by disabling third-party startup items will likely eliminate such a potential cause. That will stop third-party apps and services that could be conflicting with the Microsoft Store from automatically starting.
 
@@ -142,16 +143,16 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
 ![The remove Microsoft Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-microsoft-store-command.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Some users might need to reinstall the Microsoft Store to fix error 0x80073D26\. Such a resolution might be necessary for fixing wider issues with the Microsoft Store app other potential solutions don’t address.
 
  There isn’t a standard uninstall option available for Microsoft Store. So, you’ll have to reinstall that app with two PowerShell commands. Our guide about [how to reinstall the Microsoft Store](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) tells you how to apply this potential fix.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Perform an In-Place Windows Upgrade
 
@@ -162,6 +163,13 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
  Performing a Windows 11 in-place upgrade is relatively straightforward. All you need to do is download the latest Windows 11 ISO file, open it up, and launch the setup wizard from there. Our article about [performing an in-place upgrade of Windows 11](https://www.makeuseof.com/in-place-upgrade-windows-11/) includes full guidelines for how to do this.
 
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-setup-window2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also perform a Windows 10 in-place upgrade much the same. One difference is that you’ll need to download a Windows 10 Setup file by clicking **Download tool** on the [Microsoft Windows 10 download webpage](https://www.microsoft.com/en-gb/software-download/windows10). Then select **Upgrade this PC** now in the Windows 10 Setup wizard to install the latest version of the OS.
 
@@ -181,22 +189,21 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oneplus-12r-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/combating-steams-inability-to-synch-with-windows-folders/"><u>Combating Steam's Inability to Synch with Windows Folders</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-the-ultimate-selection-of-5-acapella-sites-for-free-tunes-perfect-for-dj-playlists/"><u>Discover the Ultimate Selection of 5 Acapella Sites for Free Tunes Perfect for DJ Playlists</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-steps-for-altering-terminal-preference/"><u>Essential Steps for Altering Terminal Preference</u></a></li>
-<li><a href="https://windows11.techidaily.com/fast-startup-mastery-in-windows-11-a-comprehensible-guide/"><u>Fast Startup Mastery in Windows 11 - A Comprehensible Guide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fish-out-the-frame-underwater-shooting-secrets-with-a-gopro/"><u>In 2024, Fish Out the Frame Underwater Shooting Secrets with a GoPro</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-itel-p55plus-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Itel P55+ FRP</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/master-screen-grabber-list-1-8-for-2024/"><u>Master Screen Grabber List #1-8 for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/mastering-the-art-of-twilight-portraits/"><u>Mastering the Art of Twilight Portraits</u></a></li>
-<li><a href="https://windows11.techidaily.com/modifying-failed-login-lockout-timer-in-windows-1011/"><u>Modifying Failed Login Lockout Timer in Windows 10/11</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-top-gaming-destinations-best-sites-to-download-pc-games/"><u>New 2024 Approved The Top Gaming Destinations Best Sites to Download PC Games</u></a></li>
-<li><a href="https://win-answers.techidaily.com/phasmophobia-downloads-with-improved-stability-latest-fixes-and-patch-notes-releases/"><u>Phasmophobia Downloads with Improved Stability: Latest Fixes & Patch Notes Releases</u></a></li>
-<li><a href="https://windows11.techidaily.com/speedy-boot-ups-in-windows-11-discover-the-best-practices/"><u>Speedy Boot-Ups in Windows 11 – Discover the Best Practices</u></a></li>
-<li><a href="https://windows11.techidaily.com/strike-balance-not-conflict-choose-one-antivirus-on-your-windows-pc/"><u>Strike Balance, Not Conflict: Choose One Antivirus on Your Windows PC</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/ultimate-video-streaming-channel-lists-films-and-series/"><u>Ultimate Video Streaming Channel Lists Films & Series</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-your-windows-10-past-insights-on-activity-logs/"><u>Unlocking Your Windows 10 Past: Insights on Activity Logs</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-personalize-with-direct-drawing/"><u>Windows 11: Personalize with Direct Drawing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-final-cut-pros-best-combo-of-10-vfx-plug-ins/"><u>[New] 2024 Approved Final Cut Pro's Best Combo of 10 VFX Plug-Ins</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-harvest-mastery-discovering-valheims-optimal-flora/"><u>[New] Harvest Mastery Discovering Valheim's Optimal Flora</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-to-activatedeactivate-secure-boot-and-tpm-in-virtualbox/"><u>Easy Steps to Activate/Deactivate Secure Boot & TPM in VirtualBox</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortlessly-syncing-files-in-windows-1011/"><u>Effortlessly Syncing Files in Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-virtual-battles-why-windows-reigns-supreme/"><u>Elevating Virtual Battles: Why Windows Reigns Supreme</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-chrome-aw-snap-glitch-on-windows/"><u>Eliminate Chrome “Aw, Snap!” Glitch on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-steam-hurdles-to-play-your-favorite-game-on-win-11/"><u>Eliminating Steam Hurdles to Play Your Favorite Game on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enforcing-controlled-directory-access-on-modern-windows-os/"><u>Enforcing Controlled Directory Access on Modern Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-user-experience-with-automatic-updates-toolbar-in-windows-11plus11/"><u>Enhancing User Experience with Automatic Updates Toolbar in Windows 11+11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-samsung-galaxy-a24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gradual-diminishment-of-sound-tips-from-logic-pro-experts/"><u>In 2024, Gradual Diminishment of Sound Tips From Logic Pro Experts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-honor-90-lite-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Honor 90 Lite Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-surge-in-online-income-the-revelation-of-500plus-subscribers-power/"><u>In 2024, Surge in Online Income The Revelation of 500+ Subscribers' Power</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-complete-guide-to-hand-tracking-and-its-types/"><u>The Complete Guide To Hand Tracking And Its Types</u></a></li>
 </ul></div>
 

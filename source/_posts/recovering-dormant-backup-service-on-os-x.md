@@ -1,7 +1,7 @@
 ---
 title: Recovering Dormant Backup Service on OS X
-date: 2024-09-22T18:42:19.199Z
-updated: 2024-09-26T17:55:57.644Z
+date: 2024-09-30T01:07:22.018Z
+updated: 2024-10-01T19:32:28.636Z
 tags:
   - windows10
   - windows11
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![The sfc scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/sfc-scannow-error.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Run the Check Disk Utility
@@ -59,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
 ![The CHKDSK command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chkdsk-scan-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Disable Antivirus Shields
 
  Sometimes third-party antivirus software can interfere with and prevent Volume Shadow Copy from functioning correctly. So, try disabling third-party antivirus shields before attempting to back up or restore Windows. The usual way to do that is to right-click on an antivirus app’s system tray icon and select a disable/turn off shield protection option from there.
@@ -73,31 +66,19 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don’t leave your antivirus shield permanently disabled. If possible, select to disable it for a few hours before attempting the backup or system restoration operation again. Or manually re-enable your antivirus if you can’t select a temporary option.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Any Active Firewalls
@@ -107,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
  Try turning off the Windows firewall if you haven’t installed a third-party antivirus utility or firewall software. Check out this guide to [disabling Microsoft Defender Firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) for instructions for turning off that security component.
 
 ![The Turn off Windows Defender Firewall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/turn-off-firewall-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Set Windows to Perform a Clean Boot
 
@@ -132,17 +120,19 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-discovering-the-best-10-online-tools-for-vimeo-videos/"><u>[New] In 2024, Discovering the Best 10 Online Tools for Vimeo Videos</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-feature-a-podcast-in-one-quick-snap/"><u>[Updated] Feature a Podcast in One Quick Snap</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-stream-like-a-pro-3-key-strategies-for-lol-gamers/"><u>[Updated] In 2024, Stream Like a Pro 3 Key Strategies for LOL Gamers</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-exploration-of-windows-narrators-legacy-keys/"><u>Comprehensive Exploration of Windows Narrator's Legacy Keys</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/due-metodi-essenziali-per-comprimere-video-grandiosi-e-condividere-tramite-e-mail-top-6-strategie/"><u>Due Metodi Essenziali per Comprimere Video Grandiosi E Condividere Tramite E-Mail: Top 6 Strategie</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-reveal-hidden-sd-card-in-file-explorer/"><u>How to Reveal Hidden SD Card in File Explorer?</u></a></li>
-<li><a href="https://windows11.techidaily.com/interpreting-launch-identifiers-for-applications/"><u>Interpreting Launch Identifiers for Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-remote-work-how-chatgpt-can-transform-your-freelancing-efficiency/"><u>Mastering Remote Work: How ChatGPT Can Transform Your Freelancing Efficiency</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-chromes-erroneous-threat-detection-a-guide/"><u>Navigating Chrome's Erroneous Threat Detection: A Guide</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-setup-wireless-usb-adapter-netgear/"><u>Quick Setup: Wireless USB Adapter NETGEAR</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/secure-success-in-win11-meetings-with-advanced-zooming-techniques-for-2024/"><u>Secure Success in Win11 Meetings with Advanced Zooming Techniques for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-systems-peak-performance-limits/"><u>Unveiling System's Peak Performance Limits</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ccess-10-free-thumbnail-downloader-apps-for-2024/"><u>[New] Access 10 Free Thumbnail Downloader Apps for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-practical-guide-to-creating-and-managing-a-win-11-hotspot/"><u>A Practical Guide to Creating and Managing a Win 11 Hotspot</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-alcatel-joy-tab-2-with-lte-expert-review-and-comparison/"><u>Affordable Alcatel Joy Tab 2 with LTE – Expert Review & Comparison</u></a></li>
+<li><a href="https://windows11.techidaily.com/audio-system-refreshment-navigating-the-windows-driver-update-process/"><u>Audio System Refreshment: Navigating the Windows Driver Update Process</u></a></li>
+<li><a href="https://windows11.techidaily.com/build-your-windows-own-text-to-speech-converter-with-whisper-and-autohotkey/"><u>Build Your Window's Own Text-To-Speech Converter with Whisper and AutoHotkey</u></a></li>
+<li><a href="https://windows11.techidaily.com/camouflage-linguistic-separator-on-win11-status-bar/"><u>Camouflage Linguistic Separator on Win11 Status Bar</u></a></li>
+<li><a href="https://windows11.techidaily.com/disclosing-windows-11s-elusive-icons/"><u>Disclosing Windows 11'S Elusive Icons</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719338165732-exploring-phonelinkexe-its-role-and-risks-in-windows-98/"><u>Exploring PhoneLink.exe: Its Role and Risks in Windows 9/8</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-apple-iphone-14-pro-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the Apple iPhone 14 Pro iCloud Lock</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-15-pro-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone 15 Pro?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-multilingual-conversations-tips-for-leveraging-chatgpts-language-abilities/"><u>Navigating Multilingual Conversations: Tips for Leveraging ChatGPT's Language Abilities</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-fcpx-lower-thirds-101-a-beginners-guide-to-success/"><u>New FCPX Lower Thirds 101 A Beginners Guide to Success</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/simple-guide-to-converting-your-dvds-to-mkv-format-in-windows-11-and-10/"><u>Simple Guide to Converting Your DVDs to MKV Format in Windows 11 & 10</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-travelers-guide-to-portable-reading-unveiling-the-kobo-clara-hd-features-and-benefits/"><u>The Traveler’s Guide to Portable Reading: Unveiling the Kobo Clara HD Features & Benefits</u></a></li>
 </ul></div>
 

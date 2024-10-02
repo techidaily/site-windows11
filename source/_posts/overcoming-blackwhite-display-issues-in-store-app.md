@@ -1,7 +1,7 @@
 ---
 title: Overcoming Black/White Display Issues in Store App
-date: 2024-09-14T18:10:32.468Z
-updated: 2024-09-15T16:40:10.521Z
+date: 2024-09-28T19:27:35.727Z
+updated: 2024-10-01T16:09:40.846Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,13 @@ Open Microsoft Store again and check if it’s now working.
 
  If possible, access the store from a different device. If everything works as usual, the problem is limited to your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Run the Microsoft Store Troubleshooter
 
  Every time you run into an issue on your Windows computer, try running the corresponding troubleshooter. These tools are designed to fix any generic issues that you may encounter.
@@ -55,6 +62,13 @@ Open Microsoft Store again and check if it’s now working.
 
  Windows will search for any issues and fix them automatically. Once the process is complete, try to launch Microsoft Store again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Delete the Microsoft Store Cache
 
  Like most apps, Microsoft Store uses cache to improve performance. But if the app’s cache somehow gets corrupted, you’ll run into all sorts of issues, including Microsoft Store displaying a black or white background every time you open the app. In this case, deleting the cache should fix the problem.
@@ -62,19 +76,6 @@ Open Microsoft Store again and check if it’s now working.
  Press**Win + R** to bring up a Run dialog. Then, type**wsreset.exe** , and press**Shift + Enter** to run the command with administrative rights.
 
  This should open a blank Command Prompt window for several seconds. Once it deletes the cache, Windows will close Command Prompt and launch the Microsoft Store app.
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Run the SFC Tool
 
@@ -87,10 +88,10 @@ Open Microsoft Store again and check if it’s now working.
 ![Run SFC scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/sfc-scan-1-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Check Your System's Set Time and Region
@@ -110,10 +111,10 @@ Go through the below steps to change the Windows region:
  Also, you can[manually change Windows date and time settings](https://www.makeuseof.com/windows-11-change-date-time/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Re-register the Microsoft Store
@@ -147,5 +148,26 @@ Go through the below steps to change the Windows region:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-access-unlimited-12-stream-livestream-content/"><u>[New] Access Unlimited 12-Stream Livestream Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-decode-and-listen-srt-files-in-winosx/"><u>[New] In 2024, Decode and Listen SRT Files in Win/OSX</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-stop-frames-dropping-obs-troubleshooting-guide-for-2024/"><u>[New] Stop Frames Dropping OBS Troubleshooting Guide for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-10-drones-for-high-quality-cinematography/"><u>[Updated] Best 10 Drones for High-Quality Cinematography</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-best-time-to-post-on-ig-for-maximum-reach/"><u>[Updated] In 2024, The Best Time to Post on IG for Maximum Reach</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-seamless-cuts-with-m1-the-future-of-video-editing-unveiled/"><u>[Updated] Seamless Cuts with M1 The Future of Video Editing Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-essential-steps-to-resolve-chrome-profile-errors/"><u>7 Essential Steps to Resolve Chrome Profile Errors</u></a></li>
+<li><a href="https://article-tips.techidaily.com/astronomys-best-showcase-10-prime-hd-sky-archives/"><u>Astronomy's Best Showcase - 10 Prime HD Sky Archives</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-lenovos-touchpad-not-working-fixed/"><u>Fixing Lenovo's Touchpad Not Working [Fixed]</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enable-driver-verification-on-windows-11-pcs/"><u>How to Enable Driver Verification on Windows 11 PCs</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-city-planning-for-climate-action-a-comprehensive-guide/"><u>In 2024, City Planning for Climate Action A Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-apple-iphone-13-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Apple iPhone 13 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-based-itunes-freeze-problems/"><u>Overcoming Windows-Based iTunes Freeze Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/preserving-torrent-performance-post-transfer-to-a-new-machine/"><u>Preserving Torrent Performance Post-Transfer to a New Machine</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-unable-to-connect-error-with-malwarebytes-in-windows/"><u>Resolving Unable to Connect Error with Malwarebytes in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-erase-no-server-errors-in-pc-apex-legends-(156-chars/"><u>Strategies To Erase No-Server Errors in PC Apex Legends (<156 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-your-touch-to-the-world-of-win11-keybindings/"><u>Tailoring Your Touch to the World of Win11 Keybindings</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-high-cpu-in-your-host-system/"><u>Taming High CPU in Your Host System</u></a></li>
+<li><a href="https://windows11.techidaily.com/which-browser-takes-up-less-memory-and-cpu-on-windows-macos/"><u>Which Browser Takes Up Less Memory and CPU On Windows, macOS?</u></a></li>
+</ul></div>
 

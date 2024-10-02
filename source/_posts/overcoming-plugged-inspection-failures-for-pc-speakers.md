@@ -1,7 +1,7 @@
 ---
 title: Overcoming Plugged Inspection Failures for PC Speakers
-date: 2024-09-14T23:37:16.981Z
-updated: 2024-09-15T16:05:09.679Z
+date: 2024-09-25T02:17:09.506Z
+updated: 2024-10-02T02:41:35.740Z
 tags:
   - windows10
   - windows11
@@ -63,11 +63,40 @@ To run the troubleshooter:
 5. Select and right-click on the**Administrators** account and select**Properties** .  
 ![administrator properties local users and groups](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/administrator-properties-local-users-and-groups.jpg)
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Click the**Add** button in the**Administrator Properties** dialog.
 2. ![administrator properties local users and groups](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/administrator-properties-local-users-and-groups.jpg)
 3. Next, type**network service** and click**Check Names** . It should change the object name to**NETWORK SERVICE.**  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![add network service local administrator group](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-network-service-local-administrator-group.jpg)
 4. Click**OK** to add network service to the local user group.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the**Administrator Properties** dialog, you'll see**NT Authority\\Network Service added as the member.**
 6. Click the**Add** button again and repeat the steps to add**Local Services** to the group as well.
 7. Once done, click**Apply** and**OK** to save the changes.
@@ -84,13 +113,6 @@ To run the troubleshooter:
 `net localgroup Administrators /add networkservice`
 5. If both the commands are executed successfully, type**exit** and press**Enter** to close Command Prompt.
 6. Restart your PC and check if the error is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Uninstall the Audio Device and Driver
 
@@ -111,10 +133,10 @@ To uninstall an audio device:
  If the issue persists, manually reinstall the audio device driver from the manufacturer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Manually Reinstall the Audio Device Driver
@@ -126,6 +148,13 @@ To uninstall an audio device:
  If the issue persists, change the device installation settings and then reinstall the driver. To change device installation settings:
 
 ![device installation settings windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/device-installation-settings-windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Press the**Win** key, and type**device installation settings.**
 2. Next, click on**Change device installation settings** from the search result.
@@ -151,5 +180,23 @@ To uninstall an audio device:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-creating-impressive-slideshows-with-video-delays-in-snapchat/"><u>[New] Creating Impressive Slideshows with Video Delays in Snapchat</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-the-windows-lsa-disablement-warning/"><u>Bypassing the Windows LSA Disablement Warning</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-pathways-to-successful-office-activation/"><u>Clearing Pathways to Successful Office Activation</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-user-experience-through-cookiebot-integration/"><u>Elevate User Experience Through Cookiebot Integration</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-message-0x80071ac3-decoded-steps-for-reparing-your-storage-device/"><u>Error Message 0X80071AC3 Decoded: Steps for Reparing Your Storage Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-tips-to-revive-winget-in-windows-profiles/"><u>Expert Tips to Revive Winget in Windows Profiles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-cutting-edge-tech-insights-with-toms-hardware-guides/"><u>Exploring Cutting-Edge Tech Insights with Tom's Hardware Guides</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/fb-live-lite-minute-videos-for-you/"><u>FB Live Lite Minute Videos for You</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-germanic-origins-to-contemporary-dutch/"><u>From Germanic Origins to Contemporary Dutch</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-chilly-celebrations-beijings-olympic-ice-showcase-2022/"><u>In 2024, Chilly Celebrations Beijing's Olympic Ice Showcase, 2022</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedy-the-already-in-use-local-device-name-mistake-on-pcs/"><u>Remedy the 'Already in Use' Local Device Name Mistake on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-access-to-greyed-out-pin-unlock-option/"><u>Restoring Access to Greyed-Out Pin Unlock Option</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-essential-guide-to-connecting-gear-with-drivers/"><u>The Essential Guide to Connecting Gear with Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-potential-of-painting-with-microsoft-paint-on-windows-11/"><u>Unlock the Potential of Painting with Microsoft Paint on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-makeover-evolving-file-explorer-here-are-the-changes/"><u>Windows 11 Makeover: Evolving File Explorer, Here Are the Changes</u></a></li>
+</ul></div>
 

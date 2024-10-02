@@ -1,7 +1,7 @@
 ---
 title: "Windows Wizards: Infuse UI with Divine Duties"
-date: 2024-09-08T21:56:06.538Z
-updated: 2024-09-15T20:57:05.378Z
+date: 2024-09-29T00:43:50.567Z
+updated: 2024-10-01T21:19:36.519Z
 tags:
   - windows10
   - windows11
@@ -63,7 +63,21 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 ![The Right-Click Extender v2 window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-all-tasks-setting.jpg)
 8. Press the green **Apply** button.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now you’ll see a new **God Mode** option on Windows 11’s classic context menu. This option will also have an icon by it. Click on **God Mode** to view the list of Control Panel applets.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Create Control Panel Shortcuts From God Mode's All Tasks Window
 
@@ -74,16 +88,17 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 ![The All Tasks (God Mode) window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-all-tasks-window.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make the Most of God Mode on Windows
@@ -99,5 +114,22 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-enhancing-content-discovery-via-thumbnails-for-2024/"><u>[New] Enhancing Content Discovery via Thumbnails for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-straightening-drone-shake-a-video-guide-for-2024/"><u>[New] Straightening Drone Shake A Video Guide for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-fascinating-world-of-stock-pictures-and-meme-lore/"><u>[New] The Fascinating World of Stock Pictures & Meme Lore</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-sonic-selections-fine-tuning-your-instagram-video-soundtrack/"><u>[Updated] In 2024, Sonic Selections Fine-Tuning Your Instagram Video Soundtrack</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/5bplusz44gx44ge5lq65zcr44gr77yb6ycf44ke44gl44gr5lu75osp44gu55kw5akd44gn44gp44kt44gq44ov44kh44kk44or44kc5asj5oplusb5yplusv6io977ya5yuv55s757eo6zug5ywl6zaa/"><u>忙しい人向け！速やかに任意の環境でどんなファイルも変換可能：動画編集入門</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-when-nvidia-graphics-card-isnt-recognized-or-connected-effective-solutions/"><u>How to Resolve When Nvidia Graphics Card Isn't Recognized or Connected: Effective Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-on-the-horizon-learning-classic-diablo/"><u>Mastery on the Horizon: Learning Classic Diablo</u></a></li>
+<li><a href="https://windows11.techidaily.com/method-rectifying-disks-not-available-on-windows-pcs/"><u>Method: Rectifying Disks Not Available on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/procedures-to-disregard-the-your-license-will-end-alert/"><u>Procedures to Disregard the Your License Will End Alert</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/stay-in-touch-on-the-go-mondly-for-huawei/"><u>Stay in Touch on the Go: Mondly for Huawei</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-discords-auto-activation-at-pc-boot-sequence/"><u>Stop Discord's Auto-Activation at PC Boot Sequence</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-solutions-for-dotnet-health-in-pcs-max-156/"><u>Swift Solutions for DotNet Health in PCs (Max 156)</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-fine-tuning-windows-11-alerts/"><u>The Art of Fine-Tuning Windows 11 Alerts</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-insiders-guide-to-bluescreenview-execution/"><u>The Insider’s Guide to BlueScreenView Execution</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-se-2020-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone SE (2020) i Do? Get Answers here | Dr.fone</u></a></li>
+</ul></div>
 

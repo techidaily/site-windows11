@@ -1,7 +1,7 @@
 ---
 title: Solutions for Unwanted Chrome Tab Autopilot in Windows
-date: 2024-09-20T18:48:28.840Z
-updated: 2024-09-26T22:10:04.241Z
+date: 2024-09-27T23:10:22.443Z
+updated: 2024-10-02T02:38:02.248Z
 tags:
   - windows10
   - windows11
@@ -45,7 +45,27 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 ![Check if the Shortcut Keys to Open New Tabs in Chrome Aren’t Pressed on the On-Screen Keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-check-if-the-shortcut-keys-to-open-new-tabs-in-chrome-aren-t-pressed-on-the-on-screen-keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this is the case, unplug or [temporarily turn off your keyboard](https://www.makeuseof.com/windows-disable-laptop-keyboard/) and have it inspected. However, if no keys appear to be pressed, move on to the next step.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Stop Chrome From Opening Links in New Tabs
 
@@ -59,18 +79,31 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 3. Navigate to the **Where results open** section and uncheck the box beside **Open each selected result in a new browser window**.  
 ![Uncheck the Box Beside Open Each Selected Result in a New Browser Window Option in See All Search Settings in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-uncheck-the-box-beside-open-each-selected-result-in-a-new-browser-window-option-in-see-all-search-settings-in-chrome.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Stop Chrome From Opening New Tabs on PC Startup or Browser Launch
 
  If Chrome automatically launches and opens new tabs when your Windows device boots up, you probably granted it permission to do so. To turn off this permission, open Task Manager, navigate to the **Startup apps** tab, locate **Chrome** in the list of applications, right-click on it, and choose **Disable**.
 
 ![Disable Chrome From Startup Apps in the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-chrome-from-startup-apps-in-the-task-manager-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If new tabs open up at browser startup, you've probably configured the browser to open a set of new tabs at its launch or to open the tabs you left open when you last used the browser. Follow these steps to remove these permissions:
 
@@ -78,20 +111,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 2. Click the **three vertical dots** in the top-right corner and select **Settings**.
 3. Navigate to the **On startup** tab and check the circle besides **Open the New Tab page**.  
 ![Select Open the New Tab Option in the On Startup Tab of Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/6-select-open-the-new-tab-option-in-the-on-startup-tab-of-chrome-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Ensure That the Website You Are on Isn’t Malicious
 
@@ -105,13 +124,6 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
  If the problem persists despite removing the hijacker, you may have a malware infection on your device, forcing Chrome to open unwanted websites on its own. To rule out this possibility, [run a full malware scan using a Microsoft Security scanner](https://www.makeuseof.com/microsoft-safety-scanner-guide/) to get rid of any possible infections.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Reset and Reinstall Chrome
 
  If you find that your browser doesn't have any infections and the virus scan does not detect any malware on your device, you should reset it. By resetting a browser, its settings are restored to their defaults, so you can confirm that misconfigured settings aren't the cause of your problem.
@@ -120,14 +132,14 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 ![Click Restore Settings to their Original Defaults Option to Reset Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/7-click-restore-settings-to-their-original-defaults-option-to-reset-chrome-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If resetting the browser also doesn't work, you can reinstall the browser from scratch, which is the least desirable solution. Before you begin the new installation, ensure you properly remove the old installation using our guide on [uninstalling apps on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Stop Chrome From Opening New Tabs on Windows
 
@@ -151,17 +163,19 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-25-ultimate-android-and-ios-downloading-tools-reviewed/"><u>[New] In 2024, 25 Ultimate Android & iOS Downloading Tools Reviewed</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-ringtones-on-ios-a-comprehensible-process/"><u>[New] Mastering Ringtones on iOS A Comprehensible Process</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-metaverse-vs-multi-meva-understanding-their-core-differences/"><u>[Updated] Metaverse Vs. Multi-Meva Understanding Their Core Differences</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-music-making-magic-selecting-background-beats-for-vids/"><u>[Updated] Music Making Magic Selecting Background Beats for Vids</u></a></li>
-<li><a href="https://windows11.techidaily.com/clandestine-control-center-hidepower-command-of-windows-11/"><u>Clandestine Control Center: Hidepower Command of Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-radeon-rx-470-drivers-simplified-steps/"><u>Download and Update Radeon RX 470 Drivers - Simplified Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-productivity-hotkey-tricks-to-reconfigure-windows/"><u>Enhance Productivity: Hotkey Tricks to Reconfigure Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-tips-for-correcting-windows-update-problems-0x30017/"><u>Expert Tips for Correcting Windows Update Problems (0X30017)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-4-open-for-everyone-plus-still-boasts-6-exclusive-features/"><u>GPT-4: Open for Everyone! Plus Still Boasts 6 Exclusive Features.</u></a></li>
-<li><a href="https://windows11.techidaily.com/re-establish-steam-offline-status-via-win-tricks/"><u>Re-Establish Steam Offline Status via Win Tricks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streamline-your-writing-process-transcribing-with-microsoft-word-for-2024/"><u>Streamline Your Writing Process Transcribing with Microsoft Word for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-power-saving-paradox-modern-standbys-dilemni/"><u>Windows' Power-Saving Paradox: Modern Standby's Dilemni</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-engaging-youtube-videos-using-finalcut-pro-expertise/"><u>[New] 2024 Approved Crafting Engaging YouTube Videos Using FinalCut Pro Expertise</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-eyes-in-the-sky-full-review-of-djis-phantom-4-pro/"><u>[New] 2024 Approved Eyes in the Sky Full Review of DJI's Phantom 4 Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-innovative-approaches-to-iptv-video-logging/"><u>[Updated] 2024 Approved Innovative Approaches to IPTV Video Logging</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/a-deep-dive-into-metaverse-gear-top-8-recommendations/"><u>A Deep Dive Into Metaverse Gear Top 8 Recommendations</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-tips-for-secure-nddrive-configuration-win11/"><u>Expert Tips for Secure NDDrive Configuration (Win11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-non-detection-of-devices-on-windows-11-system/"><u>Fixing Non-Detection of Devices on Windows 11 System</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Honor 90 GT? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-f14-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy F14 5G Phones</u></a></li>
+<li><a href="https://video-capture.techidaily.com/introduction-mastering-zoom-sessions-split/"><u>Introduction Mastering Zoom Sessions Split</u></a></li>
+<li><a href="https://windows11.techidaily.com/pinnacle-of-windows-portability-top-laptop-selections/"><u>Pinnacle of Windows Portability: Top Laptop Selections</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-ultimate-caption-creation-process-for-compelling-facebook-media-for-2024/"><u>The Ultimate Caption Creation Process for Compelling Facebook Media for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-avoid-demanded-assets-alerts-on-windows-10and11/"><u>Troubleshooting: Avoid Demanded Assets Alerts on Windows 10&11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-knowledge-finding-software-install-spots/"><u>Unlocking Windows Knowledge: Finding Software Install Spots</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-10w11-mastery-quick-paste-snippet-techniques/"><u>Win 10/W11 Mastery: Quick Paste Snippet Techniques</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Modifying Webcam Activity Alert Settings for Win11
-date: 2024-09-19T19:44:23.295Z
-updated: 2024-09-20T20:14:22.382Z
+date: 2024-09-30T03:21:05.609Z
+updated: 2024-10-02T02:56:03.430Z
 tags:
   - windows10
   - windows11
@@ -46,11 +46,25 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
 
  Once your computer boots up access the camera and test if Windows is showing the camera notification.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Check Camera History
 
  If you missed the notification, Windows 11 allows you to check which apps have accessed your camera. Launch Windows Settings and go to**Privacy & security > Camera** . There, check the**Recent activity** section.
 
  Also, it might be worth it to take a look at your Privacy settings and[check which apps can access your camera](https://www.makeuseof.com/how-to-change-app-permissions-in-windows-10/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Know When Your Camera Starts on Windows
 
@@ -69,12 +83,26 @@ thumbnail: https://thmb.techidaily.com/83bd7ea4746fef983e9856e6043e48be8dfdd87c4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/xploring-biggest-fifa-footage-trends-in-graphics-for-2024/"><u>[New] Exploring Biggest FIFA Footage Trends in Graphics for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/on-tripod-techniques-for-still-cameras-for-2024/"><u>[New] Non-Tripod Techniques for Still Cameras for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-digital-media-hacks-top-5-online-techniques-for-video-trimming-on-vimeo-for-2024/"><u>[Updated] Digital Media Hacks Top 5 Online Techniques for Video Trimming on Vimeo for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/dealing-with-misentered-characters-in-windows-os/"><u>Dealing with Misentered Characters in Windows OS</u></a></li>
+<li><a href="https://fox-info.techidaily.com/draw-eyes-to-your-subject-iphone-photo-tips-with-leading-lines/"><u>Draw Eyes to Your Subject IPhone Photo Tips with Leading Lines</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-reliability-of-your-windows-interface/"><u>Enhancing Reliability of Your Windows Interface</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-itel-p55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-incorporating-secondary-footage-a-filmmakers-guide/"><u>In 2024, Incorporating Secondary Footage A Filmmaker's Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-xs-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone XS Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsofts-surface-studio-2-a-step-towards-perfection/"><u>Microsoft's Surface Studio 2 - A Step Towards Perfection?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-privacy-in-the-age-of-conversational-ais-can-chatgpt-be-trusted-to-keep-secrets/"><u>Navigating Privacy in the Age of Conversational AIs: Can ChatGPT Be Trusted to Keep Secrets?</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11s-s-mode-is-it-worth-considering/"><u>Navigating Windows 11'S 'S Mode': Is It Worth Considering?</u></a></li>
+<li><a href="https://windows11.techidaily.com/prtscn-and-snipping-tool-link-in-windows-11-prevent-connection/"><u>PrtScn & Snipping Tool Link in Windows 11: Prevent Connection</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-could-not-create-vm-problems-in-microsoft-os/"><u>Remedying 'Could Not Create VM' Problems in Microsoft OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/resuscitate-stalled-excel-performance-in-windows-environment/"><u>Resuscitate Stalled Excel Performance in Windows Environment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/snd-wav-omzetten-zonder-risicos-eenvoudig-en-gratis-online-door-movavi/"><u>SND-WAV Omzetten Zonder Risico's: Eenvoudig en Gratis Online Door Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-print-guide-to-making-your-powerpoint-shine-on-a-windows-system/"><u>The Ultimate Print Guide to Making Your PowerPoint Shine on a Windows System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-solving-problems-with-the-realtek-rtl8811au-network-adapter-driver/"><u>Troubleshooting and Solving Problems with the Realtek RTL8811AU Network Adapter Driver</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-battlenet-accessibility-on-1011-systems/"><u>Unlocking Battle.net Accessibility on 10/11 Systems</u></a></li>
+</ul></div>
 

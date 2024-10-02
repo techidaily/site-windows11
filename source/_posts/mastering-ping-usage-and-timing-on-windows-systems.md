@@ -1,7 +1,7 @@
 ---
 title: "Mastering Ping: Usage & Timing on Windows Systems"
-date: 2024-09-21T19:50:03.143Z
-updated: 2024-09-26T21:04:49.567Z
+date: 2024-09-27T17:27:27.146Z
+updated: 2024-10-01T23:47:48.228Z
 tags:
   - windows10
   - windows11
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 * [How to Use the Ping Command on Windows](#how-to-use-the-ping-command-on-windows)
 * [What Can the Ping Command Do for You?](#what-can-the-ping-command-do-for-you)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * The ping command tests the availability of a host by sending data packets and checking for a response from the server.
@@ -50,19 +43,6 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
  Besides checking if a host is reachable, the command keeps track of the round-trip time. This is the time a message takes to go from a source computer to a destination server and then return to the source, along with a response from the destination server. This data can help you analyze how stable your connection to a server is.
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Syntax of the Ping Command
 
  The basic syntax of the ping command looks like this:
@@ -74,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
  Besides this basic parameter required for the Ping test to execute correctly, you can also use other parameters listed on the [Microsoft website](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/ping) to customize the test further.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use the Ping Command on Windows
@@ -89,14 +69,21 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 ![Opening the Windows PowerShell utility from the Run dialogue box in Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/opening-the-windows-powershell-utility-from-the-run-dialogue-box-in-windows.jpg)
 3. Type the following command after entering the IP address or domain name of the server you wish to ping: Ping <targetname>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Press **Enter** and let your device ping the server four times. Then, it will compile the results.  
 ![Running the ping command in Windows PowerShell.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-ping-command-in-windows-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Alternatively, you can perform the test in Command Prompt. Simply press **Win + R,** type **“cmd**,**”** and click **OK**. Then, type the command and press Enter.
@@ -106,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
  If you are an administrator of a locked corporate-owned PC, you might need to run PowerShell or Command Prompt with administrative privileges to run the ping test. To do so, type **"Command Prompt"** or **"PowerShell"** in Windows Search, right-click on the utility, and select **"Run as administrator**.**"**
 
 ![Running the Windows PowerShell as an administrator on Windows.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/running-the-windows-powershell-as-an-administrator-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then, click **"Yes"** in the **UAC (User Account Control)** window.
 
@@ -119,24 +113,18 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
  If the ping doesn't go through correctly in the test, and you see a "request timed out" error, it indicates an issue with your internet connection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How Do You Stop the Ping Command?
 
  The ping command supports a "/t" parameter that specifies that it should continue sending echo requests to the destination server until interrupted. If you use this parameter when running the ping test, your device keeps pinging the specified server until you manually stop the test. To stop an ongoing ping test, you can press **Ctrl + C** or press **Ctrl + Enter** to stop and display the data.
 
 ![Stopping the ping test to analyze results in Windows Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/3-stop-the-ping-test-by-pressing-ctrl-c-keys-in-windows-command-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Can the Ping Command Do for You?
 
@@ -158,14 +146,18 @@ thumbnail: https://thmb.techidaily.com/0c50e9701859daef27aa4fad4bc3c104584c3b31a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-essential-guide-the-best-no-money-recording-software-for-2024/"><u>[Updated] Essential Guide The Best No-Money Recording Software for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-audiovisual-format-fusion-srt-to-ttml-and-ssa-mastery/"><u>2024 Approved Audiovisual Format Fusion SRT to TTML & SSA Mastery</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-looks-like-youre-stranded-xbox-app-error-in-windows-11-and-11/"><u>How to Fix the “Looks Like You’re Stranded” Xbox App Error in Windows 11 & 11</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-enhancing-authenticity-and-connection-via-fb-profile-covers/"><u>In 2024, Enhancing Authenticity and Connection via FB Profile Covers</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-windows-performance-with-extended-display-setup/"><u>Master Window's Performance With Extended Display Setup</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-screenshots-on-xbox-one-a-comprehensive-walkthrough/"><u>Mastering the Art of Screenshots on Xbox One - A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://windows11.techidaily.com/revising-account-lockout-count-after-multiple-login-failures-in-windows-11/"><u>Revising Account Lockout Count After Multiple Login Failures in Windows 11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/step-by-step-fix-for-msi-afterburner-not-recognizing-gpu-error-in-windows-11/"><u>Step-by-Step Fix for 'MSI Afterburner Not Recognizing GPU' Error in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-complete-surface-computing-firmware-upgrade-manual/"><u>The Complete Surface Computing Firmware Upgrade Manual</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-avoiding-content-id-alerts-strategies-on-youtube/"><u>[New] 2024 Approved Avoiding Content ID Alerts Strategies on YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-macbook-webcam-recording-guide/"><u>[Updated] In 2024, MacBook Webcam Recording Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-networking-on-linkedin/"><u>[Updated] Navigating Networking on LinkedIn</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-professional-vision-optimizing-video-lighting-techniques/"><u>2024 Approved Professional Vision Optimizing Video Lighting Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-secrets-to-flawless-game-recording-in-windows-11/"><u>2024 Approved Secrets to Flawless Game Recording in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-closer-look-at-devhome-enhancing-windows-11-performance/"><u>A Closer Look at DevHome: Enhancing Windows 11 Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-decades-old-password-request-on-modern-windows/"><u>Bypassing Decades-Old Password Request on Modern Windows</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/channel-success-across-social-networks-youtube-plus-more-for-2024/"><u>Channel Success Across Social Networks YouTube + More for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/cracked-codekeepers-stay-secure-in-the-now/"><u>Cracked Codekeepers: Stay Secure in the Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/deletion-directive-for-drives-partitioned-areas-in-windows/"><u>Deletion Directive for Drives' Partitioned Areas in Windows</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-oppo-reno-11-pro-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Oppo Reno 11 Pro 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-battery-life-preventing-android-apps-from-running-hiddenly/"><u>Mastering Battery Life - Preventing Android Apps From Running Hiddenly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721421496939-sham-tech-outsmarted-keep-your-data-secure-from-fakes/"><u>Sham Tech Outsmarted: Keep Your Data Secure From Fakes</u></a></li>
 </ul></div>
 

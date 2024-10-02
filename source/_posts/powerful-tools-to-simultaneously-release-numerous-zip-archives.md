@@ -1,7 +1,7 @@
 ---
 title: Powerful Tools to Simultaneously Release Numerous Zip Archives
-date: 2024-09-13T16:49:05.410Z
-updated: 2024-09-20T17:15:09.821Z
+date: 2024-09-29T21:32:27.399Z
+updated: 2024-10-01T16:35:00.834Z
 tags:
   - windows10
   - windows11
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 
  The "**\*\\**" in 7-Zip’s **Extract** window means the archives get extracted to new folders. If you prefer to extract all selected archives to the same subfolder, delete the "**\*\\"** from the text box. Input a new folder name at the end of the chosen path. Then 7-Zip will batch extract all the ZIP files to the new folder added in the **Extract to** box.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Simultaneously Extract Multiple ZIP Archives With ExtractNow
 
  ExtractNow is freeware software more specifically designed for extracting multiple archives all in one go. You can batch extract ZIP and RAR archives, among others, on Windows platforms dating back to 1995 with this software. This is how you can batch-extract your ZIP files with ExtractNow:
@@ -64,14 +71,37 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 ![The ExtractNow Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extractnow-setup-window.jpg)
 6. Click **Close** to open ExtractNow.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now it's time to use the app:
 
 1. Right-click inside the ExtractNow window and select **Add archives**.  
 ![The Add archives option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-archives-option.jpg)
 2. Select multiple ZIP archives by holding the **Ctrl** key and clicking **Open**.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click **Extract** to unzip the ZIP files.  
 ![The Extract option in ExtractNow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-button4.jpg)
 4. Then click **OK** **to All** to extract the selected archives to subfolders with titles that match the ZIP files within the same directory. Alternatively, you can manually select a different destination to extract each file within the Browse for Folder window and click **OK**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Browse for Folder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-for-folder.jpg)
 
  By default, this software will always ask you where to extract files. However, you can change ExtractNow to automatically unzip ZIP files without asking via its settings. To do so, click the **Settings** button and select the **Destination** tab. Then select the **Automatically extract archives to** radio button.
@@ -96,12 +126,19 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
       data-full-width-responsive="true"></ins>
     
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-clipcomposer-critique-thorough-examination-for-2024/"><u>[New] ClipComposer Critique – Thorough Examination for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-vkontakte-profile-picture-info-pixel-count-codec-time/"><u>[New] VKontakte Profile Picture Info Pixel Count, Codec, Time</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-pathway-to-youtube-partnerships-simplifying-the-process-for-small-creators/"><u>[Updated] In 2024, Pathway to YouTube Partnerships Simplifying the Process for Small Creators</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-audio-experience-budget-friendly-asmr-mics-reviewed/"><u>2024 Approved Ultimate Audio Experience Budget-Friendly ASMR Mics Reviewed</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-chains-of-stuck-files-win11-download-guide-2/"><u>Breaking Chains of Stuck Files: WIN11 Download Guide (2)</u></a></li>
+<li><a href="https://windows11.techidaily.com/discovering-the-power-of-wintoys-a-step-by-step-analysis-for-windows-users/"><u>Discovering the Power of WinToys: A Step-by-Step Analysis for Windows Users</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-infinix-smart-8-plus-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Infinix Smart 8 Plus Without PUK Codes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/restoring-internet-connectivity-to-printers/"><u>Restoring Internet Connectivity to Printers</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-active-directory-related-printer-errors-on-w11/"><u>Steps to Resolve Active Directory-Related Printer Errors on W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-and-simplify-game-setup-in-xbox-app/"><u>Streamline and Simplify Game Setup in Xbox App</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-play-8t-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Play 8T</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-of-windows-11s-compatibility-diagnostic/"><u>Unveiling the Secrets of Windows 11’S Compatibility Diagnostic</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows Crashes Due to 0X0000011B Errors
-date: 2024-09-19T22:58:51.700Z
-updated: 2024-09-26T17:09:27.980Z
+date: 2024-09-25T19:25:03.007Z
+updated: 2024-10-01T19:09:40.405Z
 tags:
   - windows10
   - windows11
@@ -59,10 +59,10 @@ To check and install Windows updates:
 5. Once installed, restart your PC and check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Install the Printer Manually via the Local Port
@@ -74,13 +74,6 @@ To check and install Windows updates:
 3. Next, click on**Add a printer or scanner** . Windows will scan for available printers.  
 ![the printer that i want isnt listed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/the-printer-that-i-want-isnt-listed.jpg)
 4. Click on the**The printer that I want isn’t listed** option. If you don't see the option immediately, wait for a few seconds after clicking on the**Add a printer or scanner** option.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. In the**Add Printer** dialog, select **Add a local printer or network printer with manual settings.**  
 ![add local printer network printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/add-local-printer-network-printer.jpg)
@@ -119,28 +112,28 @@ Next, follow these steps to disable CVE-2021-1678 mitigation:
 ![create new dword 32 bit value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-dword-32-bit-value-registry-editor.jpg)
 5. Rename the**DWORD value** as**RpcAuthnLevelPrivacyEnabled.**  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![registry editor modify rpcauthlevelprivacyenabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled.jpg)
 6. Right-click on the**RpcAuthnLevelPrivacyEnabled** value and select**Modify** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7. Type**0** in the**Value data** field and click**OK** to save the changes.  
 ![registry editor modify rpcauthlevelprivacyenabled 0 disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-modify-rpcauthlevelprivacyenabled-0-disabled.jpg)
 8. Close**Registry Editor** and restart your PC to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. After the restart, try to use your shared printer and check if the error is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Uninstall Recently Installed Updates
 
@@ -156,24 +149,32 @@ To uninstall Windows updates:
 3. Next, click on**Programs** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![control panel uninstall programs view installed updatges](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/control-panel-uninstall-programs-view-installed-updatges.jpg)
 4. Click on**View installed updates** under**Programs and Features** . This will open the**Uninstall updates** section in the**Settings** app. Alternatively, go to **Settings > Windows Update > Update history > Uninstall updates** to access the same.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![uninstall windows updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-windows-updates.jpg)
 5. Locate the problematic update (**KB5005565**) and click on**Uninstall** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**Uninstall** again to confirm the action. Wait for the update to uninstall and restart your PC to apply the changes.
 
 ## Fixing the 0x0000011b Printing Error on Windows
@@ -195,17 +196,20 @@ To uninstall Windows updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-igtv-strategies-for-uploading-horizontal-videos/"><u>[New] 2024 Approved Mastering IGTV Strategies for Uploading Horizontal Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-game-capture-made-simple-top-free-tools-listing/"><u>2024 Approved Game Capture Made Simple Top Free Tools Listing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/demystifying-the-use-of-luts-in-professional-photoshop-workflows/"><u>Demystifying the Use of LUTs in Professional Photoshop Workflows</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-windows-display-by-removing-overscan-effects/"><u>Enhance Windows Display by Removing Overscan Effects</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-components-to-creativity-designing-your-own-4k-editor-pc-for-2024/"><u>From Components to Creativity Designing Your Own 4K Editor PC for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-leveraging-the-power-of-images-in-your-instagram-video-plans/"><u>In 2024, Leveraging the Power of Images in Your Instagram Video Plans</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-podcast-feature-listen-and-share-with-friends/"><u>In 2024, Podcast Feature Listen and Share with Friends</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-tips-disable-win-11-mobility-hub/"><u>Quick Tips: Disable Win 11 Mobility Hub</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/reactivating-scanner-in-upgraded-windows-10-version/"><u>Reactivating Scanner in Upgraded Windows 10 Version</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-to-repair-keyboard-issues-with-windows-snipper/"><u>Tips to Repair Keyboard Issues with Windows Snipper</u></a></li>
-<li><a href="https://windows11.techidaily.com/transitioning-from-iphones-calendar-to-windows-smoothly/"><u>Transitioning From iPhone's Calendar to Windows Smoothly</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshoot-bcm2045a0-drivers-for-immediate-performance-boost/"><u>Troubleshoot BCM2045A0 Drivers for Immediate Performance Boost</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-capture-studio-ultimate-professional-record-for-2024/"><u>[New] Capture Studio Ultimate Professional Record for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-the-full-potential-of-vr-on-your-android-device/"><u>[New] Unlock the Full Potential of VR on Your Android Device</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-achieving-profitability-at-half-a-million-viewers/"><u>[Updated] 2024 Approved Achieving Profitability at Half a Million Viewers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-connecting-tv-audiences-to-facebook-live-shows-for-2024/"><u>[Updated] Connecting TV Audiences to Facebook Live Shows for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-essential-skills-for-effective-phone-note-taking/"><u>2024 Approved Essential Skills for Effective Phone Note-Taking</u></a></li>
+<li><a href="https://windows11.techidaily.com/hide-or-show-clock-secrets-of-the-taskbar/"><u>Hide or Show Clock - Secrets of the Taskbar</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-minecraft-masterpieces-creative-buildings-guide/"><u>In 2024, Minecraft Masterpieces Creative Buildings Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-xiaomi-14-pro-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Xiaomi 14 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/leap-ahead-in-workflow-management-embrace-flow-launcher-advantage/"><u>Leap Ahead in Workflow Management: Embrace Flow Launcher Advantage</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-inter-system-file-transfer-with-nearby-share-protocols/"><u>Mastering Inter-System File Transfer with Nearby Share Protocols</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-windows-x709-problems/"><u>Mending Windows X709 Problems</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/microsoft-rolls-out-custom-made-network-devices-tailored-for-artificnial-intelligence-data-centers-insights/"><u>Microsoft Rolls Out Custom-Made Network Devices Tailored for Artificnial Intelligence Data Centers - Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-the-windows-and-wsl-harmony-in-post-update-phase/"><u>Navigating Through The Windows & WSL Harmony in Post-Update Phase</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/sharing-photos-and-videos-between-android-and-iphone/"><u>Sharing Photos & Videos Between Android & iPhone</u></a></li>
+<li><a href="https://windows11.techidaily.com/unmasking-windows-not-found-top-fixes-and-strategies/"><u>Unmasking Windows 'Not Found': Top Fixes and Strategies</u></a></li>
 </ul></div>
 

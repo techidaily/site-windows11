@@ -1,7 +1,7 @@
 ---
 title: Streamline the Prime Viewing Experience on Windows 11 Devices
-date: 2024-09-19T21:56:25.760Z
-updated: 2024-09-26T23:36:14.329Z
+date: 2024-10-01T03:21:34.812Z
+updated: 2024-10-01T19:34:41.497Z
 tags:
   - windows10
   - windows11
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 
 ![Sign in option of Prime Video](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sign-in-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Eliminate Browser Issues
 
  If you access Prime Video via the web, your browser's corrupt cache data is probably causing the problem. You'll have to manually[clear your browser's cache data](https://www.makeuseof.com/how-to-clear-cookies-cache-in-chrome/) to fix the issue.
@@ -60,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
  The problem can also occur due to an issue in the current version of your browser. In this case, you can[update your browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to fix the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Repair and Reset the Prime Video App
@@ -76,9 +69,23 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 4. Click the**Repair** button.  
 ![Repair option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait till Windows repairs the app. You will see a checkmark next to the repair button when it's done.
 
  If repairing the app wasn't helpful, you can use the reset option, which will clear all its data. Doing this will be helpful if corrupt Prime Video files are causing the issue. To reset the Prime Video app, click the**Reset** button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Reinstall the Prime Video App
 
@@ -87,20 +94,13 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 ![Prime Video for Windows in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prime-video-for-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After the download is complete, log in with your credentials, and you'll see that you are no longer facing the subtitles not working issue.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing the Prime Video Subtitles on Windows 11
 
@@ -121,22 +121,21 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-quickening-vimeo-media-load-times/"><u>[New] Quickening Vimeo Media Load Times</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-smart-zooms-on-snapchat-enhance-photo-and-video-quality/"><u>[New] Smart Zooms on Snapchat Enhance Photo & Video Quality</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-enhance-your-cinematic-experience-camera-upgrade-tips/"><u>[Updated] 2024 Approved Enhance Your Cinematic Experience - Camera Upgrade Tips</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-prime-moments-celebrations-beyond-vidcon/"><u>2024 Approved Youtube's Prime Moments Celebrations Beyond VidCon</u></a></li>
-<li><a href="https://windows11.techidaily.com/are-file-thumbnails-not-showing-up-in-windows-11-heres-how-to-fix-it/"><u>Are File Thumbnails Not Showing Up in Windows 11? Here's How to Fix It</u></a></li>
-<li><a href="https://windows11.techidaily.com/baffling-backup-concealed-control-center-settings/"><u>Baffling Backup: Concealed Control Center Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquering-outlooks-glitch-the-path-to-fixed-error-0x80072746/"><u>Conquering Outlook's Glitch: The Path to Fixed Error 0X80072746</u></a></li>
-<li><a href="https://windows11.techidaily.com/dealing-with-nvidias-geforce-x0001-error-on-w10w11/"><u>Dealing with Nvidia's GeForce X0001 Error on W10/W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/digital-front-doors-windows-desktop-sites/"><u>Digital Front Doors: Windows Desktop Sites</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-y100i-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo Y100i?</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-tweak-the-mouse-pointer-accessibility-settings-on-windows-11/"><u>How to Tweak the Mouse Pointer Accessibility Settings on Windows 11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Motorola Moto E13? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/in-depth-guide-unveiling-the-leading-data-retrieval-application-recuva-pro/"><u>In-Depth Guide: Unveiling the Leading Data Retrieval Application - Recuva Pro</u></a></li>
-<li><a href="https://windows11.techidaily.com/keyboard-and-mouse-failure-windows-11-sleep-troubleshoot/"><u>Keyboard & Mouse Failure: Windows 11 Sleep Troubleshoot</u></a></li>
-<li><a href="https://windows11.techidaily.com/masterful-methods-to-overcome-security-errors-in-windows-11/"><u>Masterful Methods to Overcome Security Errors in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-15-convertidores-de-sonido-libres-mas-efectivos-para-el-ano-2024-movavi/"><u>Top 15 Convertidores De Sonido Libres Más Efectivos Para El Año 2024 - Movavi</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-made-simple-forcing-your-iphone-into-recovery-mode-step-by-step/"><u>Troubleshooting Made Simple: Forcing Your iPhone Into Recovery Mode Step by Step</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ideal-6-innovative-minecraft-dwellings/"><u>[New] Ideal 6 Innovative Minecraft Dwellings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-strategies-for-correcting-quietened-video-sounds-on-fb/"><u>[New] In 2024, Strategies for Correcting Quietened Video Sounds on Fb</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-proven-techniques-for-identifying-professional-video-artists/"><u>[Updated] Proven Techniques for Identifying Professional Video Artists</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-secrets-to-profitable-brands-partnerships-on-youtube/"><u>2024 Approved Unveiling the Secrets to Profitable Brands Partnerships on YouTube</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-enhancing-clarity-in-low-quality-facebook-streams/"><u>In 2024, Enhancing Clarity in Low-Quality Facebook Streams</u></a></li>
+<li><a href="https://windows11.techidaily.com/mapmyride-reviewed-a-detailed-breakdown/"><u>MapMyRide Reviewed: A Detailed Breakdown</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-awaits-conquering-windows-11-with-group-software-updates-via-winstall/"><u>Mastery Awaits: Conquering Windows 11 with Group Software Updates via Winstall</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastery-made-easy-10-best-mac-drawing-programs-complimentary/"><u>Mastery Made Easy 10 Best Mac Drawing Programs (Complimentary)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-moto-g73-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto G73 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-expert-approved-video-editing-tools-and-apps/"><u>New 2024 Approved Expert-Approved Video Editing Tools and Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/precision-setup-integrating-latest-network-drivers-from-intel-in-fedora/"><u>Precision Setup: Integrating Latest Network Drivers From Intel in Fedora</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-wsl-the-4294967295-error-explained/"><u>Resolving WSL: The 4294967295 Error Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailor-windows-11-task-manager-interface-elements/"><u>Tailor Windows 11 Task Manager Interface Elements</u></a></li>
+<li><a href="https://windows11.techidaily.com/title-tweaking-desktop-icons-separation-in-winxiplus10/"><u>Title: Tweaking Desktop Icons' Separation in WinXI+10</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-power-of-taskbar-icon-size-in-w11/"><u>Unlock the Power of Taskbar Icon Size in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-steps-to-alleviate-server-stumble-on-windows-store/"><u>Unveiling Steps to Alleviate Server Stumble on Windows Store</u></a></li>
 </ul></div>
 

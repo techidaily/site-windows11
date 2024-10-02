@@ -1,7 +1,7 @@
 ---
 title: "Secure Access: Learning How to Lock and Unlock (Fn) Key"
-date: 2024-09-20T23:31:55.409Z
-updated: 2024-09-26T20:02:48.639Z
+date: 2024-09-29T03:26:29.070Z
+updated: 2024-10-01T16:21:25.556Z
 tags:
   - windows10
   - windows11
@@ -31,9 +31,23 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
  When you want to use the default functions again, you can simply unlock the Fn key again
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Lock and Unlock the Function Key in Windows
 
  Below, we have listed different ways of locking and unlocking the Fn key in Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Use the Keyboard
 
@@ -50,15 +64,15 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 ![Advanced options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/win10-troubleshoot-advanced-options-1.jpg)
 3. Click on**UEFI Firmware Settings** and hit**Restart** .  
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Windows 10 Troubleshoot Advanced Options UEFI Firmware Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/05/uefi-screenshot.jpg)
 4. Once the computer restarts, the BIOS will launch.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Head over to the System Configuration section and choose the**Action Key Mode** .
 6. Disable**Action Key Mode** .
@@ -68,17 +82,10 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 9. Click F10 to save the changes, and then click**Yes** in the User Account Control prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Use the Windows Mobility Center
@@ -91,13 +98,6 @@ Follow these steps to proceed:
 2. Locate the**Function Key Row** section and expand the dropdown under it.  
 ![Function key row section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/function-key-row.jpg)
 3. Choose the**Function key** option from the dropdown to lock the key. To unlock, choose the**Multimedia key** option.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This should allow you to use the function keys without pressing the Fn key. In case you no longer want to use the Fn key and think that you will be better off disabling it, you can use the KeyTweak app to perform this action. Check out our guide on[how to disable specific keys on your keyboard in Windows](https://www.makeuseof.com/tag/disable-specific-keys-keyboard-windows-10/) for more information about KeyTweak.
 
@@ -120,24 +120,18 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-boost-viewership-mastering-vimeo-distribution/"><u>[Updated] 2024 Approved Boost Viewership Mastering Vimeo Distribution</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-a-journey-through-creativity-using-movie-maker-to-make-animated-dreams/"><u>2024 Approved A Journey Through Creativity Using Movie Maker to Make Animated Dreams</u></a></li>
-<li><a href="https://windows11.techidaily.com/breath-of-fresh-air-for-windows-13-revival-techniques/"><u>Breath of Fresh Air for Windows: 13 Revival Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficient-performance-gauges-for-pcs/"><u>Efficient Performance Gauges for PCs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-additional-views-in-win-11s-context-menu/"><u>Eliminating Additional Views in Win 11'S Context Menu</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/thing-you-need-to-know-about-youtube-shorts/"><u>Everything You Need to Know About YouTube Shorts</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-enjoy-desktop-wallpapers-in-their-best-quality-on-windows-11/"><u>How to Enjoy Desktop Wallpapers in Their Best Quality on Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/in-2024-feast-your-eyes-on-9-whole-film-winter-wonders-no-charge/"><u>In 2024, Feast Your Eyes on 9 Whole-Film Winter Wonders No Charge!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-kickstarting-with-gopro-the-top-10-list-of-perks/"><u>In 2024, Kickstarting with GoPro The Top 10 List of Perks</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/integracion-de-ia-en-animaciones-fluidas-como-la-interpolacion-de-fotogramas-aumenta-los-fps/"><u>Integración De IA en Animaciones Fluídas: Cómo La Interpolación De Fotogramas Aumenta Los FPS</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/iphone-hdr-a-step-by-step-journey-to-perfect-shots/"><u>IPhone HDR A Step-by-Step Journey to Perfect Shots</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-the-obstacle-of-error-code-0x0000004e/"><u>Overcoming the Obstacle of Error Code 0X0000004E</u></a></li>
-<li><a href="https://windows11.techidaily.com/six-secrets-to-spinning-pictures-in-w11-os/"><u>Six Secrets to Spinning Pictures in W11 OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-installer-package-fails-on-windows-11/"><u>Troubleshooting Installer Package Fails on Windows 11</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ate-list-10-costless-video-caption-extractors/"><u>Ultimate List 10 Costless Video Caption Extractors</u></a></li>
-<li><a href="https://windows11.techidaily.com/uncomplicated-superiority-persistent-high-privilege-terminal/"><u>Uncomplicated Superiority: Persistent High-Privilege Terminal</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleashing-creativity-in-calendar-design-a-windows-outlook-method/"><u>Unleashing Creativity in Calendar Design - A Windows Outlook Method</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-cost-effective-windows-11-keys/"><u>Unveiling Cost-Effective Windows 11 Keys</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instaboomers-hook-your-audience-with-circular-content/"><u>[Updated] InstaBoomers Hook Your Audience with Circular Content</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-solution-enhancing-your-wifi-with-updated-broadcom-gigabit-ethernet-driver-for-windows-11-systems/"><u>Comprehensive Solution: Enhancing Your WiFi with Updated Broadcom Gigabit Ethernet Driver for Windows 11 Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-track-installation-download-the-pioneer-dj-ddj-sx2-driver-seamlessly/"><u>Fast Track Installation: Download the Pioneer DJ DDJ-SX2 Driver Seamlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-activating-the-group-policy-editor-on-windows-home-computers/"><u>Guide: Activating the Group Policy Editor on Windows Home Computers</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-windows-cannot-access-the-specified-device-path-or-file-error/"><u>How to Fix the Windows Cannot Access the Specified Device, Path or File Error</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-how-to-convert-youtube-to-mp3-without-compromising-security-3-tips/"><u>In 2024, How to Convert YouTube to MP3 Without Compromising Security - 3 Tips</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-5-budget-friendly-chromebook-recorders/"><u>In 2024, Top 5 Budget-Friendly Chromebook Recorders</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-videopad-video-editor-review-features-pricing-and-verdict/"><u>New 2024 Approved Videopad Video Editor Review Features, Pricing, and Verdict</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-single-user-policy-settings-in-the-latest-windows-11/"><u>Optimizing Single-User Policy Settings in the Latest Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-steps-to-enhance-laptop-efficiency-on-two-displays/"><u>Quick Steps to Enhance Laptop Efficiency on Two Displays</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-pick-in-low-cost-tablets-the-alcatel-joy-tab-2s-lte-feature-breakdown-and-user-experience-insights/"><u>Top Pick in Low Cost Tablets: The Alcatel Joy Tab 2'S LTE Feature Breakdown and User Experience Insights</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unveiling-the-top-5-facebook-video-downloaders-today/"><u>Unveiling the Top 5 Facebook Video Downloaders Today</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-mastery-unveiling-the-best-techniques-for-credential-management/"><u>Win11 Mastery: Unveiling the Best Techniques for Credential Management</u></a></li>
 </ul></div>
 

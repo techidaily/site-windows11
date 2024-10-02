@@ -1,7 +1,7 @@
 ---
 title: "Mastering PowerShell: Clearing Blocked Files in Windows"
-date: 2024-09-21T21:03:47.458Z
-updated: 2024-09-26T17:03:50.091Z
+date: 2024-09-29T18:17:24.513Z
+updated: 2024-10-01T22:26:16.502Z
 tags:
   - windows10
   - windows11
@@ -49,10 +49,16 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
  There’s a way you can tell Windows to always trust files you download from the internet. To do that, please read our guide on[how to stop Windows 10 from blocking your downloaded files](https://www.makeuseof.com/stop-windows-10-from-blocking-your-downloaded-files/) . The instructions in the tutorial use the Registry Editor and Local Group Policy Editor, so they should also work on Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Now You Know How to Unblock Files You Know Are Safe
@@ -74,18 +80,24 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-connectivity-at-its-peak-strategies-for-broadcasting-videos-to-friends/"><u>[New] In 2024, Connectivity at Its Peak Strategies for Broadcasting Videos to Friends</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-windows-desktop-recording-techniques-no-cost-for-2024/"><u>[New] Windows Desktop Recording Techniques - No Cost for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-tactics-optimizing-freefire-video-content/"><u>[Updated] Expert Tactics Optimizing FreeFire Video Content</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-poco-c51-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-tech-tips-how-to-get-fcp-without-money/"><u>2024 Approved Tech Tips How to Get FCP Without Money</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-pin-count-on-the-w11-start-screen/"><u>Boosting Pin Count on the W11 Start Screen</u></a></li>
-<li><a href="https://windows11.techidaily.com/breaking-down-the-barrier-of-windows-11-updates/"><u>Breaking Down the Barrier of Windows 11 Updates</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-oneplus-ace-2-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your OnePlus Ace 2 is off? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/perfect-6-apps-for-private-android-video-capturing-for-2024/"><u>Perfect 6 Apps for Private Android Video Capturing for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/resurrect-your-pcs-absent-controllers/"><u>Resurrect Your PC's Absent Controllers</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-the-challenge-of-non-working-win-plus-printer-feature-in-windows/"><u>Tackling the Challenge of Non-Working Win + Printer Feature in Windows.</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-audio-equipment-for-crystal-clear-4k-video-capture-for-2024/"><u>Top Audio Equipment for Crystal Clear 4K Video Capture for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-novice-to-vlogger-the-top-10-editing-techniques-for-2024/"><u>[New] From Novice to Vlogger The Top 10 Editing Techniques for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-unlock-the-full-potential-of-your-gadgets-to-record-youtube-live/"><u>[Updated] 2024 Approved Unlock the Full Potential of Your Gadgets to Record YouTube Live</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-boosting-income-smart-strategies-for-profit-from-youtube-mobile-content/"><u>[Updated] In 2024, Boosting Income Smart Strategies for Profit From YouTube Mobile Content</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-virtual-meetups-made-simple-setting-up-video-calls-with-whatsapp-on-your-laptop/"><u>[Updated] Virtual Meetups Made Simple Setting up Video Calls with WhatsApp on Your Laptop</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-financial-flourishing-yielding-higher-returns-with-mobile-youtube-content/"><u>2024 Approved Financial Flourishing Yielding Higher Returns with Mobile YouTube Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/amplify-windows-efficiency-with-innovative-layouts/"><u>Amplify Windows Efficiency with Innovative Layouts</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-up-your-pc-set-auto-update-plus-modify-amd-video/"><u>Boost Up Your PC: Set Auto Update + Modify AMD Video</u></a></li>
+<li><a href="https://windows11.techidaily.com/bridging-gaps-quick-fixes-for-microsoft-to-do-discrepancies/"><u>Bridging Gaps: Quick Fixes for Microsoft To Do Discrepancies</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-scripts-not-active-top-4-fixes-to-powershell-load-issue/"><u>Bypassing 'Scripts Not Active': Top 4 Fixes to PowerShell Load Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-overview-how-to-optimize-w11s-auto-hdr/"><u>Comprehensive Overview: How to Optimize W11's Auto HDR</u></a></li>
+<li><a href="https://windows11.techidaily.com/construct-ai-driven-artistry-with-win11-and-paint-tool-sai-your-ultimate-guide-to-image-creation/"><u>Construct AI-Driven Artistry with Win11 & Paint Tool SAI: Your Ultimate Guide to Image Creation</u></a></li>
+<li><a href="https://windows11.techidaily.com/cybersecurity-commandments-winning-access-prevention-on-windows/"><u>Cybersecurity Commandments: Winning Access Prevention on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-high-cpu-demands-the-case-for-vanguards-ums-optimization/"><u>Deciphering High CPU Demands: The Case for Vanguard's UMS Optimization</u></a></li>
+<li><a href="https://windows11.techidaily.com/demystifying-windows-allocation-strategy-for-reserve-memory/"><u>Demystifying Windows' Allocation Strategy for Reserve Memory</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-audio-craftsmanship-weaving-voiceovers-into-visual-tapestries/"><u>In 2024, Audio Craftsmanship Weaving Voiceovers Into Visual Tapestries</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-avi-video-rotators-compared-top-5-choices/"><u>In 2024, Free AVI Video Rotators Compared Top 5 Choices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-monitor-list-for-an-immersive-xbox-series-x-experience/"><u>The Ultimate Monitor List for an Immersive Xbox Series X Experience</u></a></li>
 </ul></div>
 

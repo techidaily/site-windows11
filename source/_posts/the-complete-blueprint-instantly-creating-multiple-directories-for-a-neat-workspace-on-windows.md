@@ -1,7 +1,7 @@
 ---
 title: "The Complete Blueprint: Instantly Creating Multiple Directories for a Neat Workspace on Windows"
-date: 2024-09-25T21:05:39.287Z
-updated: 2024-09-26T18:33:02.555Z
+date: 2024-09-27T16:55:27.342Z
+updated: 2024-10-01T23:56:21.966Z
 tags:
   - windows10
   - windows11
@@ -67,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/7e377b50c4e513bd18b3a4caf17d4fa401f54e28d
 
  Finally, close the Powershell window and check if the folders have been created.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Use the Notepad to Create Multiple Folders at Once
 
  Though it may come as a surprise, the Windows Notepad can perform more advanced technical operations than just writing to-do lists.
@@ -93,25 +86,26 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 5. Give your file a name followed by **.bat**. For instance, we named our file as makeuseof.bat.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Notepad file name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-file-name.jpg)
 6. Expand the dropdown for Save as type and choose **All files**.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click **OK** and close the Notepad.
 8. Now, navigate to the location of the folder and open the bat file. Opening it should create the folders and their subfolders for you.
 
  Now that you have created multiple files and folders, [organizing these files on Windows](https://www.makeuseof.com/tag/automatically-organize-files-windows/) is also worth considering if you do not want to spend a lot of time looking for information in them. Additionally, Windows also allows you to [rename multiple folders at once](https://www.makeuseof.com/cool-folder-tips-windows/), which can be helpful when organizing them.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Use a Third-Party Application
 
@@ -132,22 +126,30 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 3. Click **Yes** in the confirmation prompt.  
 ![Clicking Yes in the UAC prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-agreement.jpg)
 4. Once the Folder Frenzy dialog launches, type the names of the folders you want to create and click on the **Create Folder** button. These folders will be created in the Folder Frenzy file.  
-![Create folder in Folder Frenzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-create-folder.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![Create folder in Folder Frenzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-create-folder.jpg)
+
  From here, you can even take a step further and learn [how to launch multiple programs with one shortcut on Windows](https://www.makeuseof.com/tag/launch-multiple-programs-single-shortcut-using-batch-file/) to increase your productivity at work or school. In case you no longer need the tool after creating bulk folders, you can uninstall it. This won't automatically delete the folders you have created using the tool, unless the uninstallation process explicitly offers to do so and you confirm that action.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Create Multiple Folders in a Few Clicks on Windows
 
@@ -167,20 +169,24 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-boost-views-via-strategic-tagging-tactics/"><u>[Updated] 2024 Approved Boost Views via Strategic Tagging Tactics</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-essential-fixes-for-hypervisor-blue-screen-on-win-os/"><u>5 Essential Fixes for Hypervisor Blue Screen on WIN OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/access-hurdles-rejoin-your-shared-windows-zone/"><u>Access Hurdles: Rejoin Your Shared Windows Zone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/boosting-obs-streams-direct-to-facebook-feed/"><u>Boosting OBS Streams Direct to Facebook Feed</u></a></li>
-<li><a href="https://win-able.techidaily.com/boosting-your-gaming-experience-fixing-gtfos-performance-issues-drops-and-stuttering/"><u>Boosting Your Gaming Experience: Fixing GTFO's Performance Issues, Drops & Stuttering</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/demonstrate-deep-knowledge-of-product-features-and-benefits-while-offering-clear-explanations-guidance-on-how-to-access-those-features-and-helping-customers416/"><u>Demonstrate Deep Knowledge of Product Features and Benefits While Offering Clear Explanations, Guidance on How to Access Those Features, and Helping Customers Leverage Them for Their Specific Needs.</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-honor-magic-5-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Honor Magic 5 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oppo-reno-10-pro-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Oppo Reno 10 Pro 5G?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-to-prepare-effectively-for-job-interviews-a-step-by-step-guide/"><u>Leveraging ChatGPT to Prepare Effectively for Job Interviews - A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-synthesis-how-meditation-transforms-cognition-and-emotion/"><u>Seamless Synthesis: How Meditation Transforms Cognition & Emotion</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-10-uses-for-windows-powertoys-tools/"><u>Top 10 Uses for Windows PowerToys Tools</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/understanding-youtube-shorts-revenue-strategy-for-2024/"><u>Understanding YouTube Shorts Revenue Strategy for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-the-power-of-search-implementing-it-in-win11s-task-monitor/"><u>Unlock the Power of Search: Implementing It in Win11's Task Monitor</u></a></li>
-<li><a href="https://windows11.techidaily.com/unmasking-profit-making-mechanisms-for-w11-at-microsoft/"><u>Unmasking Profit Making Mechanisms for W11 at Microsoft</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-times-ticking-off-align-it-back/"><u>Windows Time's Ticking Off? Align It Back!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-screenflow-for-mac-full-review-for-2024/"><u>[New] ScreenFlow for Mac Full Review for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/camrecorder-essential-techniques-for-gaming-pros/"><u>CamRecorder Essential Techniques for Gaming Pros</u></a></li>
+<li><a href="https://windows11.techidaily.com/drive-letter-dilemma-in-windows-understanding-the-issues-fixes-presented/"><u>Drive Letter Dilemma in Windows - Understanding The Issues, Fixes Presented</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-methods-to-cut-edges-background-activity/"><u>Effective Methods to Cut Edge's Background Activity</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-workflow-choosing-the-best-6-to-do-list-apps-on-windows-11/"><u>Elevate Your Workflow: Choosing the Best 6 To-Do List Apps on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-gaming-experience-fixing-valorant-lags/"><u>Elevating Gaming Experience: Fixing Valorant Lags</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-cursor-blanking-on-win11-instantly/"><u>Eliminate Cursor Blanking on Win11 Instantly</u></a></li>
+<li><a href="https://windows11.techidaily.com/enablingdisabling-windows-software-configuration-service/"><u>Enabling/Disabling Windows Software Configuration Service</u></a></li>
+<li><a href="https://windows11.techidaily.com/entering-quake-modes-through-windows-terminal/"><u>Entering Quake Modes Through Windows Terminal</u></a></li>
+<li><a href="https://windows11.techidaily.com/epic-launcher-insights-best-practices-for-saving-your-playtime/"><u>Epic Launcher Insights: Best Practices for Saving Your Playtime</u></a></li>
+<li><a href="https://windows11.techidaily.com/escalate-emulation-faster-yuzu-win-users/"><u>Escalate Emulation: Faster Yuzu, WIN Users</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Honor Magic 6 Lite? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-elevate-video-production-excellence-with-kinemasters-green-screen-guide/"><u>In 2024, Elevate Video Production Excellence with Kinemaster's Green Screen Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-vids-effortless-mp4-extraction-at-your-fingertips/"><u>In 2024, FB Vids Effortless MP4 Extraction at Your Fingertips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-iphone-photography-breakthroughs-with-lifelike-motion/"><u>In 2024, IPhone Photography Breakthroughs with Lifelike Motion</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-smartphones-coming-soon-built-in-chatgpt-clones-without-needing-a-cloud-connection/"><u>Innovative Smartphones Coming Soon: Built-In ChatGPT Clones Without Needing a Cloud Connection</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/spandexs-progeny-countries-listed-here/"><u>Spandex's Progeny Countries Listed Here</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-infinix-note-30-vip-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Infinix Note 30 VIP Location | Dr.fone</u></a></li>
 </ul></div>
 

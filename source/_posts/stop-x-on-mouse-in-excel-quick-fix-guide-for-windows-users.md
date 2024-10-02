@@ -1,7 +1,7 @@
 ---
 title: "Stop X on Mouse in Excel: Quick Fix Guide for Windows Users"
-date: 2024-09-13T20:32:18.526Z
-updated: 2024-09-15T16:34:31.952Z
+date: 2024-09-30T18:44:48.388Z
+updated: 2024-10-02T00:06:18.154Z
 tags:
   - windows10
   - windows11
@@ -59,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
 ![Disable Zoom on Roll With IntelliMouse in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disable-zoom-on-roll-with-intellimouse-in-excel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Enable Scroll Bars
@@ -76,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
 5. Click **OK** to save the changes.  
 ![Enable Scroll Bar in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-scroll-bar-in-excel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. AutoFit Row Height in Excel
 
  Several Excel users reported fixing the scrolling issue by formatting all the cells in the sheet with the AutoFit Row Height feature. You can also give this method a shot.
@@ -93,6 +86,20 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
 4. Select **Format > AutoFit Row Height**.  
 ![AutoFit Row Height in Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/autofit-row-height-in-excel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Update Microsoft Excel
 
  By default, Microsoft Office tends to install newer updates automatically on your Windows computer. However, if you have previously [disabled automatic Office updates on Windows](https://www.makeuseof.com/windows-stop-automatic-office-updates/), you may be running an outdated version of Excel. This can result in all kinds of issues, including the one discussed here. Hence, it’s a good idea to update Microsoft Excel on your PC.
@@ -101,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
 2. Select **Account** from the left sidebar.
 3. Click **Update Options > Update Now**.  
 ![Update Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft-excel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for Microsoft Office to update Excel as well as other Office apps and check if that fixes the problem.
 
@@ -126,10 +126,10 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
  Allow the repair tool to fix any issues with the Office apps. If the problem persists, Microsoft recommends that you repeat the above steps and conduct an **Online Repair** instead. This will allow the tool to perform a more comprehensive repair. It's important to note that this process requires your PC to have an active internet connection.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Apply Some Generic Fixes
@@ -139,6 +139,19 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
 * **Restart Your PC:** Scrolling issues in Microsoft Excel can occasionally arise due to temporary glitches in Windows. You can try [restarting your Windows PC](https://www.makeuseof.com/windows-restart-methods/) to see if that helps.
 * **Repair Excel Workbook:** If you are unable to scroll in Excel only while working on a specific workbook, there may be an issue with the file itself. In that case, you can try [repairing the Excel workbook](https://www.makeuseof.com/repair-courrpted-excel-workbook/) to solve the problem.
 * **Check if the Shift Key Is Stuck:** Another reason why you might not be able to scroll in Excel is if the Shift key is stuck on your Windows computer. Carefully examine the Shift key on your keyboard for any dirt or damage, and take the appropriate actions to resolve the problem.
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing Scrolling Issues in Microsoft Excel
 
@@ -157,5 +170,22 @@ thumbnail: https://thmb.techidaily.com/7ba25f196f1fd36b2bff5ba5871f3da3d2f6d1191
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-xiaomi-redmi-note-13-pro-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Xiaomi Redmi Note 13 Pro 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-oppo-a79-5g-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Oppo A79 5G System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/9-steps-to-resolve-windows-hello-fingerprint-lockout/"><u>9 Steps to Resolve Windows Hello Fingerprint Lockout</u></a></li>
+<li><a href="https://windows11.techidaily.com/ceasing-chrome-notifications-on-windows-desktop/"><u>Ceasing Chrome Notifications on Windows Desktop</u></a></li>
+<li><a href="https://extra-information.techidaily.com/charming-calls-verify-if-vocal-alteration-apps-are-real-then-find-others-for-2024/"><u>Charming Calls Verify if Vocal Alteration Apps Are Real, Then Find Others for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/discover-the-leading-iphone-data-restoration-applications-for-ios-1n-ranked-a-comprehensive-review-of-2024s-best-software/"><u>Discover the Leading iPhone Data Restoration Applications for iOS 1N, Ranked: A Comprehensive Review of 2024'S Best Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-retrieval-of-wacom-tablet-drivers-for-immediate-use/"><u>Effortless Retrieval of Wacom Tablet Drivers for Immediate Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-an-uninstall-shortcut-to-the-context-menu-in-windows-1110/"><u>How to Add an Uninstall Shortcut to the Context Menu in Windows 11/10</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-3-ways-to-track-apple-iphone-xr-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Track Apple iPhone XR without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-unmatched-portable-experience-with-top-gba-simulators-android/"><u>In 2024, Unmatched Portable Experience with Top GBA Simulators, Android</u></a></li>
+<li><a href="https://network-issues.techidaily.com/purging-unwanted-windows-screen-flashes/"><u>Purging Unwanted Windows Screen Flashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-for-frozen-downloads-restart-tracker-resume-progress/"><u>Quick-Fix for Frozen Downloads: Restart Tracker, Resume Progress</u></a></li>
+<li><a href="https://windows11.techidaily.com/slowing-down-windows-11-shutdown-tips-for-live-tasks/"><u>Slowing Down Windows 11 Shutdown: Tips for Live Tasks</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-6-best-to-do-list-apps-for-windows-10-and-11/"><u>The 6 Best To-Do List Apps for Windows 10 & 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unlocking-viewership-growth-on-twitch-top-4-strategies/"><u>Unlocking Viewership Growth on Twitch Top 4 Strategies</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastery of Windows Display Settings
-date: 2024-09-21T18:00:14.905Z
-updated: 2024-09-26T19:01:38.223Z
+date: 2024-09-30T19:31:04.689Z
+updated: 2024-10-01T23:51:49.274Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
  Let’s first take a look at how you can configure the Windows 10 lock screen timeout settings.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use the Windows System Settings
@@ -53,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 ![Using Windows System Settings to Change the Lock Screen Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-Windows-System-Settings-to-Change-the-Lock-Screen-Timeout-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Apply the same settings for the **When plugged** in option on the right-hand side pane. From there, close the **system settings** and restart your device to save these changes.
@@ -77,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 6. Finally, click the **Save changes** button.
 
 ![Using the Edit Plan Settings to Change the Lock Screen Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-Edit-Plan-Settings-to-Change-the-Lock-Screen-Timeout-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Use the Advanced Power Options (via the Control Panel)
 
@@ -125,19 +132,6 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 ![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Here's how to change the duration of the screen saver using the system settings:
 
 1. Press **Win + I** to open the system settings.
@@ -147,19 +141,6 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 ![Enabling the screensaver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Enabling-the-screensaver-option.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From there, follow these steps to configure the screen saver timeout settings:
 
 1. Navigate to the **Wait** option on the Screen Saver Settings window.
@@ -168,16 +149,10 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 ![Using the System Settings to Change the Screen Saver Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-System-Settings-to-Change-the-Screen-Saver-Timeout-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Finally, press **Apply** and then press **OK** to save these changes.
@@ -193,6 +168,13 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 ![Using the LGPE to Change the Screen Saver Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-LGPE-to-Change-the-Screen-Saver-Timeout-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the next window, select the **Enabled** option. From there, use the **arrow buttons** next to the **Seconds** box to select the duration of the screen saver.
 
  Press **Apply**, press **OK**, and then close the **LGPE**. Finally, restart your device to save these changes.
@@ -206,10 +188,10 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
  Still looking for more tips on how to increase screen time on your laptop? We've got one more solution for you!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use the Registry Editor
@@ -257,24 +239,21 @@ HKEY_USERS\.DEFAULT\Control Panel\Desktop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-enhancing-chrome-performance-for-hd-facebook-content/"><u>[Updated] In 2024, Enhancing Chrome Performance for HD Facebook Content</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-gopro-fixing-fish-eye-effects-in-video/"><u>[Updated] Mastering GoPro Fixing Fish Eye Effects in Video</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-recording-your-world-how-camstudio-redefined/"><u>[Updated] Recording Your World - How CamStudio Redefined</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-simplify-information-storage-via-mematic/"><u>2024 Approved Simplify Information Storage via Mematic</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/chromebook-soundscaping-guide-selecting-the-best-text-to-speech-apps-online/"><u>Chromebook Soundscaping Guide Selecting the Best Text-to-Speech Apps Online</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficient-reminders-in-every-window-of-your-pc/"><u>Efficient Reminders in Every Window of Your PC</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/elevate-business-excellence-by-mastering-process-mapping-assessment-and-simulation-tactics/"><u>Elevate Business Excellence by Mastering Process Mapping, Assessment & Simulation Tactics</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-steam-login-errors-on-windows-via-rust-coding/"><u>Eliminating Steam Login Errors on Windows via Rust Coding</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/enhance-tiktok-velocity-with-these-hacks/"><u>Enhance TikTok Velocity with These Hacks</u></a></li>
-<li><a href="https://windows11.techidaily.com/identifying-legitimate-and-false-positive-login-attempts-on-pcs/"><u>Identifying Legitimate and False-Positive Login Attempts on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-the-labyrinth-of-updater-0x800f080a-on-windows/"><u>Navigating Through the Labyrinth of Updater 0X800F080A on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-recurrent-enter-to-bios-in-windows-boot-cycle/"><u>Overcoming Recurrent Enter To BIOS in Windows Boot Cycle</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-credentials-error-loop/"><u>Overcoming Windows Credentials Error Loop</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-directx-download-problems-in-os/"><u>Remedying DirectX Download Problems in OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/revolutionize-how-you-use-the-mouse-worldwide-through-powertoys/"><u>Revolutionize How You Use the Mouse Worldwide Through PowerToys</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-motorola-defy-2-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Motorola Defy 2 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-xiaomi-13t-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Xiaomi 13T Phone Pattern Lock</u></a></li>
-<li><a href="https://windows11.techidaily.com/transform-your-word-docs-seamlessly-into-pdfs-using-windows-11/"><u>Transform Your Word Docs Seamlessly Into PDFs Using Windows 11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/why-does-valorant-keep-closing-unexpectedly-on-pc-comprehensive-fixes-inside/"><u>Why Does Valorant Keep Closing Unexpectedly on PC? Comprehensive Fixes Inside!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-generate-interest-making-your-own-youtube-intros/"><u>[New] Generate Interest Making Your Own YouTube Intros</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-strategic-insights-into-making-emotional-connection-with-customer-success-videos/"><u>[New] Strategic Insights Into Making Emotional Connection with Customer Success Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-future-is-virtual-making-and-sharing-immersive-footage-for-fb/"><u>2024 Approved The Future Is Virtual Making and Sharing Immersive Footage for FB</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-techniques-for-reviving-a-stuck-dark-screen-mode/"><u>7 Techniques for Reviving a Stuck Dark Screen Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieving-perfect-boot-strategies-to-configure-startup-services-in-win11/"><u>Achieving Perfect Boot: Strategies to Configure Startup Services in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/adjusting-time-display-in-the-taskbar-of-window-11/"><u>Adjusting Time Display in the Taskbar of Window 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/contrasting-the-workflow-of-cloud-based-and-disk-installed-windows-oses/"><u>Contrasting the Workflow of Cloud-Based & Disk Installed Windows OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/cost-saving-strategies-for-new-windows-11-users/"><u>Cost-Saving Strategies for New Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/decode-and-dissolve-rectifying-win11-webcam-issue-error-a00f4289/"><u>Decode & Dissolve: Rectifying Win11 Webcam Issue - Error A00F4289</u></a></li>
+<li><a href="https://windows11.techidaily.com/diagnosing-and-fixing-printmanagement-error-on-windows-os/"><u>Diagnosing and Fixing 'PrintManagement' Error on Windows OS</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-ultimate-selection-5-free-antivirus-cleaners/"><u>Discover the Ultimate Selection: 5 Free Antivirus Cleaners</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/explore-the-latest-in-pc-components-with-toms-hardware-insights/"><u>Explore the Latest in PC Components with Tom's Hardware Insights</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-charting-a-path-to-monthly-earnings-from-youtube/"><u>In 2024, Charting a Path to Monthly Earnings From YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721922963127-the-era-of-individual-ai-openais-personalized-gpt-shops/"><u>The Era of Individual AI: OpenAI's Personalized GPT Shops!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-unleash-your-creativity-top-3d-video-makers-for-all-budgets/"><u>Updated In 2024, Unleash Your Creativity Top 3D Video Makers for All Budgets</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-unlock-mp4-10-best-webm-to-mp4-conversion-software-for-2024/"><u>Updated Unlock MP4 10 Best WebM to MP4 Conversion Software for 2024</u></a></li>
 </ul></div>
 

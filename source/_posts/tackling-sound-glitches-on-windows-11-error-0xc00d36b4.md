@@ -1,7 +1,7 @@
 ---
 title: "Tackling Sound Glitches on Windows 11: Error 0XC00D36B4"
-date: 2024-09-22T21:33:26.858Z
-updated: 2024-09-26T18:05:20.453Z
+date: 2024-09-26T20:12:46.472Z
+updated: 2024-10-01T22:17:30.487Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 
  Below, we have listed different troubleshooting methods that can help you fix the problem in no time, regardless of the cause. Choose the solution that is most appropriate for your situation.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check the File Format of the File You're Playing
 
  Different media players and codecs support different file formats, and if the file you are trying to play is in an unsupported format, the player will fail to play it, leading to the problem at hand.
@@ -55,16 +62,10 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
  We covered how to use this handy tool in our guide on[fixing no audio on Windows](https://www.makeuseof.com/tag/no-sound-7-tips-fix-audio-issues-windows-10/) , so check that out for further details.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Re-enable Windows Media Player
@@ -83,22 +84,8 @@ Here is how you can do that:
 ![Disable Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-windows-media-player.jpg)
 7. Confirm your action in the User Account Control prompt and restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Upon reboot, restart the service by following the same steps mentioned above.
 9. Finally, restart your computer again and check if the issue is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Uninstall Nero Codecs
 
@@ -112,6 +99,20 @@ Here is how you can do that:
 4. Choose**Uninstall** and follow the on-screen instructions to complete the process.  
 ![Uninstall the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/win11-uninstall-program.jpg)
 5. Once done, restart your computer and check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Disable Copy Protection
 
@@ -127,21 +128,14 @@ Here is how you can do that:
 3. Head over to the**Rip Music** tab and uncheck the box associated with**Copy protect music** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Uncheck the Copy protect music option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/copy-protect-music.jpg)
 4. Click**Apply** \>**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Update Audio Drivers
 
@@ -176,16 +170,24 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-ipad-screen-capture-techniques-for-2024/"><u>[New] Mastering iPad Screen Capture Techniques for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-boxing-battlegrounds-live-vs-virtual-warriors/"><u>2024 Approved Boxing Battlegrounds Live VS Virtual Warriors</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-whats-new-with-bandicam-the-2023-expert-analysis/"><u>2024 Approved What's New with Bandicam – The 2023 Expert Analysis</u></a></li>
-<li><a href="https://windows11.techidaily.com/enabledarkinterfacefornotepad/"><u>EnableDarkInterfaceForNotepad</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-steps-for-activating-windows-11s-system-restore-feature/"><u>Essential Steps for Activating Windows 11'S System Restore Feature</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-overcome-windows-software-initiation-failures/"><u>How to Overcome Windows Software Initiation Failures</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-content-delivery-uploading-and-sharing-videos-on-instagram-desktop/"><u>In 2024, Mastering Content Delivery Uploading and Sharing Videos on Instagram Desktop</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-compatible-hp-laserjet-pro-mfp-m428fdw-driver-version-for-windows-7-10-and-windows-11/"><u>Latest Compatible HP LaserJet Pro MFP M428fdw Driver Version for Windows 7, 10 and Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-1011-printer-uninstallation-a-quick-and-direct-guide/"><u>Win 10/11 Printer Uninstallation: A Quick & Direct Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-reimagined-analyzing-the-core-upgrades-of-windows-11/"><u>Windows Reimagined: Analyzing the Core Upgrades of Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722889637101-xiaomis-anticipated-nothing-phone-3-unlocking-the-secrets-of-price-launch-date-and-cutting-edge-features/"><u>Xiaomi's Anticipated Nothing Phone 3 - Unlocking the Secrets of Price, Launch Date, and Cutting-Edge Features</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-boosting-traffic-with-smart-youtube-title-and-tag-use/"><u>[New] Boosting Traffic with Smart YouTube Title & Tag Use</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-high-definition-vision-recorder-devices/"><u>[New] High Definition Vision Recorder Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-streamers-blueprint-achieving-peak-performance-on-macos/"><u>[New] The Streamer's Blueprint Achieving Peak Performance on macOS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-pixel-capture-reimagined/"><u>[Updated] In 2024, Pixel Capture Reimagined</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-simple-way-to-inspect-and-erase-window-logs/"><u>A Simple Way to Inspect & Erase Window Logs</u></a></li>
+<li><a href="https://windows11.techidaily.com/apexs-windows-woes-strategies-to-clear-no-server-error-(156-chars/"><u>Apex's Windows Woes: Strategies to Clear No-Server Error (<156 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/banish-file-explorer-errors-essential-fixes-for-win11-users/"><u>Banish File Explorer Errors: Essential Fixes for Win11 Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bridging-language-barriers-masterful-grammar-insights-from-a-pro-esl-communicator/"><u>Bridging Language Barriers: Masterful Grammar Insights From a Pro ESL Communicator</u></a></li>
+<li><a href="https://windows11.techidaily.com/cant-insert-new-cells-in-microsoft-excel-for-windows-try-these-fixes/"><u>Can’t Insert New Cells in Microsoft Excel for Windows? Try These Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/curbing-resource-conflicts-on-pcs-running-windows-1011-153-chars/"><u>Curbing Resource Conflicts on PCs Running Windows 10/11 (153 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-tweaks-for-your-pc-explore-alomwares-capabilities/"><u>Cutting-Edge Tweaks for Your PC: Explore AlomWare's Capabilities</u></a></li>
+<li><a href="https://windows11.techidaily.com/dealing-with-access-issues-fixing-the-no-write-allowed-error/"><u>Dealing with Access Issues: Fixing the No Write Allowed Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/diagnosing-and-fixing-microsoft-windows-nearby-share-malfunction/"><u>Diagnosing and Fixing Microsoft Windows Nearby Share Malfunction</u></a></li>
+<li><a href="https://windows11.techidaily.com/discovering-new-horizons-for-galaxy-users-on-pc/"><u>Discovering New Horizons for Galaxy Users on PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/epson-xp-310-printer-support-how-to-download-and-update-your-driver/"><u>Epson XP-310 Printer Support: How to Download & Update Your Driver</u></a></li>
+<li><a href="https://discover-community.techidaily.com/how-to-safely-buy-movavi-video-suite-at-a-steep-discount-a-complete-tutorial/"><u>How to Safely Buy Movavi Video Suite at a Steep Discount: A Complete Tutorial</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-essential-steps-to-upload-tiktok-content-on-chrome-os/"><u>In 2024, Essential Steps to Upload TikTok Content on Chrome OS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/optimize-zoom-audio-in-2-steps-to-enhance-hearing-experience/"><u>Optimize Zoom Audio in 2 Steps to Enhance Hearing Experience</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamline-multitasking-switch-between-pip-and-normal-screen-mode-ios-for-2024/"><u>Streamline Multitasking Switch Between PIP and Normal Screen Mode (iOS) for 2024</u></a></li>
 </ul></div>
 

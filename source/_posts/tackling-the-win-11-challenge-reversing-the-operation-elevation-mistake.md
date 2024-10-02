@@ -1,7 +1,7 @@
 ---
 title: "Tackling the Win 11 Challenge: Reversing the Operation Elevation Mistake"
-date: 2024-09-24T18:40:57.620Z
-updated: 2024-09-26T23:34:00.047Z
+date: 2024-09-28T21:23:46.950Z
+updated: 2024-10-02T00:03:41.074Z
 tags:
   - windows10
   - windows11
@@ -31,19 +31,6 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 
 ![The Run this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-this-program-as-an-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Set Programs to Run in Compatibility Mode
 
  It’s also recommended to set older programs to run in compatibility mode. Doing so might address a compatibility issue causing error 740\. You can set an affected program to run in compatibility mode like this:
@@ -54,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![The Run this program in compatibility mode drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-this-program-in-compatibility-mode.jpg)
 4. Press the **Apply** \> **OK** buttons to set the compatibility mode setting.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Turn Off the User Account Control Feature
 
  User Account Control is the security feature that throws up notifications when programs try to make changes. UAC could be a potential cause of error 740 when it’s set very high. So, try turning off UAC before running affected apps. Our [guide to disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) tells you how to turn off that feature.
@@ -61,17 +55,10 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![The User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/user-account-control-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Adjust Folder Permission Settings
@@ -90,15 +77,15 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![The Replace all child object permission entries checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/replace-all-child-objects-option.jpg)
 7. Click **Apply** on the Advanced Security Settings window.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Select **Yes** when asked to continue.
 9. Exit the folder’s properties window and restart your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Modify the Behavior of the UAC Elevation Prompt
 
@@ -114,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 5. Double-click the **User Account Control: Behavior of the elevation prompt for administrators in Admin Approval Mode** policy.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Select the **Elevate without prompting** option on the drop-down menu.  
@@ -125,10 +112,10 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 7. Click **Apply** to set the **Elevate without prompting policy**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Select **OK** to close the policy setting’s window.
@@ -146,6 +133,13 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 4. Select **Apply** to turn off Admin Approval Mode.
 
 5. To close the policy window, select the **OK** option.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Disable Third-Party Antivirus Software Packages
 
@@ -181,14 +175,22 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-professional-insight-into-accurate-and-clear-vr-recording-for-2024/"><u>[New] Professional Insight Into Accurate and Clear VR Recording for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-how-to-change-your-voice-on-instagram-for-2024/"><u>[Updated] How to Change Your Voice on Instagram for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-macs-secret-shortcuts-to-instantaneous-screen-recording-for-2024/"><u>[Updated] Mac's Secret Shortcuts to Instantaneous Screen Recording for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-beginners-guide-to-managing-windows-11-wins/"><u>A Beginner's Guide to Managing Windows 11 Wins</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-guide-to-understanding-windows-program-files-format/"><u>A Guide to Understanding Windows' Program Files Format</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-ultimate-guide-to-installing-usb-c-drivers-on-windows-10/"><u>Free Download: Ultimate Guide to Installing USB-C Drivers on Windows 10</u></a></li>
-<li><a href="https://techtrends.techidaily.com/gratis-umwandlung-von-mov-filmen-in-mp4-auf-allen-plattformen-mac-windows/"><u>Gratis Umwandlung Von MOV-Filmen in MP4 Auf Allen Plattformen (Mac, Windows)</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-bypass-windows-defenders-exclusive-software-lockdown/"><u>How to Bypass Windows Defender's Exclusive Software Lockdown</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-invalid-temp-paths-on-w11-systems/"><u>Troubleshooting Invalid Temp Paths on W11 Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-8-collaborative-video-collage-apps-for-android-users-freepaid/"><u>[New] Top 8 Collaborative Video Collage Apps for Android Users (Free/Paid)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-art-of-amplification-a-comprehensive-guide-to-sharing-videos-on-facebook/"><u>[Updated] In 2024, The Art of Amplification A Comprehensive Guide to Sharing Videos on Facebook</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/a-comprehensive-guide-to-climbing-the-facebook-rankings-ladder-for-2024/"><u>A Comprehensive Guide to Climbing the Facebook Rankings Ladder for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/accelerated-content-acquisition-with-funimate/"><u>Accelerated Content Acquisition with Funimate</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-highlight-the-mouse-cursor-in-windows-10-and-11/"><u>How to Highlight the Mouse Cursor in Windows 10 & 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-rescue-hidden-fb-watch-icon/"><u>In 2024, Rescue Hidden FB Watch Icon</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-your-files-automatically-accessible-in-win11/"><u>Making Your Files Automatically Accessible in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-disabled-trash-can-symbol-on-win11-os/"><u>Mending Disabled Trash Can Symbol on Win11 OS</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-troubleshooting-tips-preventing-granblue-fantasy-relinks-from-crashing/"><u>PC Troubleshooting Tips: Preventing Granblue Fantasy Relinks From Crashing</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-stop-vmware-blue-screen-in-win11/"><u>Strategies to Stop VMware Blue Screen in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-prolong-windows-10-closure-with-ongoing-processes/"><u>Techniques to Prolong Windows 10 Closure with Ongoing Processes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-art-of-finding-classic-facebook-content/"><u>The Art of Finding Classic Facebook Content</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/transform-your-standard-pdf-into-an-engaging-flipbook-style-ebook-with-flipbuilder/"><u>Transform Your Standard PDF Into an Engaging, Flipbook-Style eBook with FlipBuilder!</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-required-items-not-met-in-win11win11/"><u>Troubleshooting Required Items Not Met in Win11/Win11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unveiling-the-truth-football-manager-2022-holds-off-onto-the-pitch-problems-fixed/"><u>Unveiling the Truth: Football Manager 2022 Holds Off Onto The Pitch – Problems Fixed</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-meets-virtual-box-70-a-detailed-guide-for-the-tech-savvy/"><u>Windows 11 Meets Virtual Box 7.0: A Detailed Guide for the Tech-Savvy</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-reclaiming-precise-search-functionality/"><u>Windows 11: Reclaiming Precise Search Functionality</u></a></li>
 </ul></div>
 

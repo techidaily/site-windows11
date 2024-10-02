@@ -1,7 +1,7 @@
 ---
 title: "Hidden Impact: Unassuming Apps Draining Windows 11 Power"
-date: 2024-09-09T22:42:26.158Z
-updated: 2024-09-15T17:09:28.234Z
+date: 2024-09-27T19:31:28.990Z
+updated: 2024-10-01T16:19:11.709Z
 tags:
   - windows10
   - windows11
@@ -32,21 +32,35 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 
  The article claims that the processes take up a few hundred megabytes of RAM, but the real proof comes from [Out of Office Hours](https://oofhours.com/2022/01/30/the-overhead-of-widgets-and-teams-in-windows-11/), which posted a screenshot showing several WebView2 processes each taking their slice of the RAM pie.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Disable the Chat and Widget App and Save Your Ram
 
  As the report claims, just hiding or removing these icons from the taskbar is enough to prevent them from launching the process by themselves. Right-click on the taskbar and select Taskbar settings. From there, toggle off the buttons for Widgets and Chat.
 
  And that’s it—the Widget and Chat icons will be removed from the desktop and won’t occupy any RAM unnecessarily.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Find and Disable Other Apps
 
  It's not uncommon to get your PC memory drained by apps or background processes that aren't actually doing anything. To prevent this from happening, you have a [drove of tools for finding and disabling these apps](https://www.makeuseof.com/windows-pc-too-many-background-processes/). Everything from Task Manager, System Configuration, and the Settings App will help you in this. So make sure you check out and disable these apps as well.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## An Unideal Welcome Party for Windows 11 Users
@@ -58,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
  At the same time, it's not a true Windows launch unless things go a bit awry at the start. Hopefully, these little annoyances will end up being teething issues for Windows 11, and not the norm moving forward.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Out of Sight, Out of Mind (and Memory)
@@ -75,5 +89,19 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/ai-driven-evolution-in-windows-software-design/"><u>AI-Driven Evolution in Windows Software Design</u></a></li>
+<li><a href="https://games-able.techidaily.com/decoding-steam-how-to-find-a-specific-gamer/"><u>Decoding Steam: How to Find a Specific Gamer</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixes-for-stumbling-windows-discord-search-bar/"><u>Fixes for Stumbling Windows Discord Search Bar</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-mend-the-pairing-glitch-fixing-connection-issues-in-win-11/"><u>How to Mend the Pairing Glitch: Fixing Connection Issues in Win 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-cinematic-capture-a-device-friendly-movie-guidebook/"><u>In 2024, Cinematic Capture A Device-Friendly Movie Guidebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-stuck-context-menus-a-quick-guide-to-solutions/"><u>Overcoming Stuck Context Menus: A Quick Guide to Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/smart-task-management-microsofts-ai-copilot-for-windows-11-enhances-workflow/"><u>Smart Task Management: Microsoft's AI Copilot for Windows 11 Enhances Workflow</u></a></li>
+<li><a href="https://extra-support.techidaily.com/soundtrack-your-life-a-complete-guide-to-adding-personalized-ringtones-and-sounds-for-2024/"><u>Soundtrack Your Life A Complete Guide to Adding Personalized Ringtones & Sounds for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-fixing-the-code-0xc0000098-issue-in-windows/"><u>Step-by-Step Solutions for Fixing the 'Code 0xC0000098' Issue in Windows</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-ultimate-metrics-guide-to-monetize-and-mobilize-youtube-audiences/"><u>The Ultimate Metrics Guide to Monetize and Mobilize YouTube Audiences</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-comprehensive-guide-and-reviews/"><u>Tom's Tech Insights: Comprehensive Guide and Reviews</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transition-tactics-in-audio-leveraging-adobes-fading-effects/"><u>Transition Tactics in Audio Leveraging Adobe’s Fading Effects</u></a></li>
+</ul></div>
 

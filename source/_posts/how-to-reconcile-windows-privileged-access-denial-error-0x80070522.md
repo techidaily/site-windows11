@@ -1,7 +1,7 @@
 ---
 title: How To Reconcile Windows' Privileged Access Denial (Error 0X80070522)
-date: 2024-09-23T19:52:23.509Z
-updated: 2024-09-26T23:04:02.882Z
+date: 2024-09-29T22:50:20.051Z
+updated: 2024-10-01T23:29:26.807Z
 tags:
   - windows10
   - windows11
@@ -40,17 +40,23 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 ![The Administrator radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-administrator-radio-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Turn Off User Account Control (in Three Different Ways)
@@ -58,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
  User Account Control is a Windows security feature that restricts software privileges. That feature is the most regular cause of error 0x80070522\. Follow the steps in our[g](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) uide to[disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) to set UAC to the lowest**Never notify** option.
 
  It’s not recommended to leave UAC off. Do what you must with the files when User Account Control is disabled. Then turn UAC back on after you’ve saved, moved, or copied the files as needed.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Modify the Drive’s Sharing Permissions
 
@@ -71,27 +84,26 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 5. Select the**Share this folder** checkbox.  
 ![The Share this folder checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-this-folder-checkbox.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Click the**Permissions** button.
 2. Select the**Full control** option’s**Allow checkbox for the Everyone** group.  
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-full-control-checkbox.jpg)
 3. Click the**Apply** and**OK** on the Permissions and Advanced Sharing windows.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select**Close** to exit the properties window.
 5. Then click**Power** and select**Restart** within your Start menu.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Perform the Required File or Folder Actions on Windows
 
@@ -114,24 +126,20 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-acoustic-data-recording-sounds-and-speech-for-2024/"><u>[Updated] Acoustic Data Recording Sounds & Speech for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-combining-youtube-and-imovie-for-professional-results/"><u>[Updated] In 2024, Combining YouTube and iMovie for Professional Results</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-pros-and-cons-free2webcam-software-analysis/"><u>2024 Approved Pros & Cons Free2WebCam Software Analysis</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-comprehensive-guide-to-fixing-0xc00000f-error/"><u>A Comprehensive Guide to Fixing 0xC00000F Error</u></a></li>
-<li><a href="https://win-data.techidaily.com/boost-engagement-by-allowing-readers-to-share-your-digital-brochures-flipbooks-across-facebook-twitter-and-googleplus/"><u>Boost Engagement by Allowing Readers to Share Your Digital Brochures (Flipbooks) Across Facebook, Twitter & Google+</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/eero-pro-mesh-wi-fi-system-review-a-router-to-cover-your-entire-home/"><u>Eero Pro Mesh Wi-Fi System Review: A Router to Cover Your Entire Home</u></a></li>
-<li><a href="https://video-capture.techidaily.com/essential-tools-for-clear-images-for-2024/"><u>Essential Tools for Clear Images for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/fine-tuning-fn-keys-windows-10-and-11-techniques/"><u>Fine-Tuning FN Keys: Windows 10 and 11 Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/howtodarkennotepadwindesktop/"><u>HowToDarkenNotepadWinDesktop</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-vivo-s18-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Vivo S18</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/optimal-video-recording-best-fullscreen-tools-for-pcmac-for-2024/"><u>Optimal Video Recording Best Fullscreen Tools for PC/Mac for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-the-call-issue-fixed-runtime-errors-in-malwarebytes-for-win10win11/"><u>Overcoming the Call Issue: Fixed Runtime Errors in Malwarebytes for Win10/Win11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/overwatch-error-correction-required-graphics-card-met/"><u>Overwatch Error Correction: Required Graphics Card Met</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-gl-driver-error-3-on-windows-11-a-step-by-step-guide/"><u>Resolving GL Driver Error 3 on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/restore-and-revitalize-13-ways-to-rejuvenate-windows-systems/"><u>Restore & Revitalize: 13 Ways to Rejuvenate Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/restore-full-size-to-your-windows-11-icons/"><u>Restore Full Size to Your Windows 11 Icons</u></a></li>
-<li><a href="https://windows11.techidaily.com/securing-your-system-without-relying-on-bitlocker/"><u>Securing Your System without Relying on Bitlocker</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-huawei-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Huawei? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-correct-sound-hiccup-in-audacity-on-windows-11/"><u>Strategies to Correct Sound Hiccup in Audacity on Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-best-4-choices-unhackable-video-meetings-for-small-firms/"><u>[New] 2024 Approved Best 4 Choices Unhackable Video Meetings for Small Firms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-guide-to-channel-description-perfection/"><u>[New] The Ultimate Guide to Channel Description Perfection</u></a></li>
+<li><a href="https://windows11.techidaily.com/drive-discretion-in-windows-1011/"><u>Drive Discretion in Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-task-management-on-windows-11/"><u>Efficient Task Management on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-error-unknown-value-in-windows-systems/"><u>Eliminating Error: Unknown Value in Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabledisable-tpm-support-within-virtualbox-70-settings/"><u>Enable/Disable TPM Support Within VirtualBox 7.0 Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-discord-performance-on-windows-systems/"><u>Enhancing Discord Performance on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicating-service-did-not-respond-error-in-windows-os/"><u>Eradicating Service Did Not Respond Error in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/erase-webp-images-from-your-chrome-saved-collection-on-windows/"><u>Erase WebP Images From Your Chrome Saved Collection on Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/humor-hub-for-apple-devices-for-2024/"><u>Humor Hub for Apple Devices for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/icloud-not-updating-easy-fixes-to-solve-your-sync-issues/"><u>ICloud Not Updating? Easy Fixes to Solve Your Sync Issues</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Pause Life360 Location Sharing For Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-where-can-i-find-brush-sound-effect/"><u>New 2024 Approved Where Can I Find Brush Sound Effect?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-crashes-in-total-war-three-kingdoms-a-comprehensive-guide/"><u>Resolved: Fixing Crashes in Total War: Three Kingdoms - A Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-huawei-nova-y91-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Huawei Nova Y91? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Privileges: A Guide to Modifying Standard Users' Access in Windows"
-date: 2024-09-14T22:23:38.166Z
-updated: 2024-09-15T22:22:24.844Z
+date: 2024-09-26T22:24:10.705Z
+updated: 2024-10-01T21:59:19.444Z
 tags:
   - windows10
   - windows11
@@ -43,7 +43,21 @@ thumbnail: https://thmb.techidaily.com/5a6b81e19407a604be22bf69df443b0f8b7b5bc4d
 ![editing the policy for UAC behavior in Local Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/editing-policy-for-uac-behavior-in-local-group-policy-editor.jpg)
 4. Click **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Keep in mind that only administrators can change the behavior of the UAC. If a standard user tried to change it using the Local Group Policy Editor, for example, they'd probably get an **Access denied** error message.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Change the UAC Behavior for Standard Users in the Registry Editor
 
@@ -57,17 +71,25 @@ thumbnail: https://thmb.techidaily.com/5a6b81e19407a604be22bf69df443b0f8b7b5bc4d
 3. Right-click the **ConsentPromptBehaviorUser** value in the right panel and select **Modify**.  
 ![modifying the ConsentPromptBehaviorUser value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modifying-consentpromptbehavioruser-in-registry-editor.jpg)
 4. In the **Value data** text box, enter **0** for **Automatically deny elevation requests**, **1** for **Prompt for credentials on the secure desktop**, or **3** for **Prompt for credentials**.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![setting Value data for ConsentPromptbehavior Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/setting-value-data-for-consentpromptbehavior-registry-editor.jpg)
 5. Click **OK**.
 
- Now restart your computer to allow the changes to take effect.
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Now restart your computer to allow the changes to take effect.
 
 ## Control UAC's Behavior for Standard Users on Windows
 
@@ -82,5 +104,19 @@ thumbnail: https://thmb.techidaily.com/5a6b81e19407a604be22bf69df443b0f8b7b5bc4d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-slick-quick-fades-in-premiere/"><u>[New] In 2024, Slick Quick Fades in Premiere</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-innovative-approaches-to-background-blanketing-in-affinity-photo/"><u>[Updated] 2024 Approved Innovative Approaches to Background Blanketing in Affinity Photo</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sculpting-soundscapes-advanced-techniques-for-flawless-transition-sequences-audacity/"><u>2024 Approved Sculpting Soundscapes Advanced Techniques for Flawless Transition Sequences (Audacity)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-s18-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo S18 to Roku | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/easy-window-recorder-w10-edition/"><u>Easy Window Recorder - W10 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-system-performance-essential-tips-for-installing-optional-windows-components/"><u>Elevate Your System Performance: Essential Tips for Installing Optional Windows Components</u></a></li>
+<li><a href="https://windows11.techidaily.com/esd-to-iso-converting-esd-files-in-windows/"><u>ESD to ISO: Converting ESD Files in Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-setup-how-to-download-and-update-epson-printer-software-on-windows/"><u>Hassle-Free Setup: How to Download & Update Epson Printer Software on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-create-custom-snap-layouts-in-windows-with-powertoys/"><u>How to Create Custom Snap Layouts in Windows With PowerToys</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-oppo-a78-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Oppo A78 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-quiet-browser-alerts-chrome-guide-for-windows/"><u>How to Quiet Browser Alerts: Chrome Guide for Windows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/things-you-must-know-for-screen-mirroring-apple-iphone-8-drfone-by-drfone-ios/"><u>Things You Must Know for Screen Mirroring Apple iPhone 8 | Dr.fone</u></a></li>
+</ul></div>
 

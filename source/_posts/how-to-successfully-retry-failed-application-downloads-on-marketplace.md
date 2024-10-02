@@ -1,7 +1,7 @@
 ---
 title: How To Successfully Retry Failed Application Downloads on Marketplace
-date: 2024-09-23T16:48:07.704Z
-updated: 2024-09-26T18:06:19.812Z
+date: 2024-09-28T19:45:30.219Z
+updated: 2024-10-01T20:29:42.536Z
 tags:
   - windows10
   - windows11
@@ -38,16 +38,16 @@ To run the Windows Store Apps troubleshooter:
 3. Next, click on**Other troubleshooters.**
 4. Scroll down and click on the**Run** button for Windows Store Apps. The troubleshooter will perform a scan and recommend fixed. Apply any recommended fixes and check for improvements.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Clear and Reset the Windows Store Cache Using WSReset
 
 ![wsreset clear microsoft store cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wsreset-clear-microsoft-store-cache.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  WSReset or Windows Store Reset is a built-in utility to reset or clear Windows Store Cache. Resetting the store cache can help you fix temporary glitches preventing you from installing apps from Microsoft Store.
 
@@ -74,13 +74,6 @@ To restart Microsoft Store Install Service:
 ![microsoft store install service manual startup type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-store-install-service-manual-startup-type.jpg)
 6. If yes, click the**Startup type** drop-down and select**Manual** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![microsoft store install service restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-store-install-service-restart.jpg)
 7. Click**Apply** and**OK** to save the changes.
 8. Next, right-click on**Microsoft Store Install Services** and select**Restart** .
@@ -88,10 +81,10 @@ To restart Microsoft Store Install Service:
  Close the Services snap-in and launch Microsoft Store. Then, try to install the app and check if the error is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Perform a Microsoft Store Repair
@@ -114,10 +107,10 @@ To restart Microsoft Store Install Service:
 ![reset microsoft store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-microsoft-store.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can manually reset the Microsoft Store app from the Settings app. The Reset option will delete all the app data, and you may need to log in to use Microsoft Store again.
@@ -138,13 +131,6 @@ To reset Microsoft Store:
 ## 6\. Re-register the Microsoft Store App
 
 ![powershell re_register microsoft store app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/powershell-re_register-microsoft-store-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Another way to fix the "this app couldn’t be installed" error is to re-register the Microsoft Store using PowerShell. Here’s how to do it.
 
@@ -169,6 +155,14 @@ To reinstall Microsoft Store:
 2. Right-click on Windows PowerShell and select**Run as administrator.**  
 ![remove microsoft store powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/remove-microsoft-store-powershell.jpg)
 3. Next, in the PowerShell Windows, type the following command and press Enter:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `get-appxpackage *store |remove-appxpackage`
 4. Once the app is removed, use the following command to reinstall Microsoft Store:  
 `Get-AppxPackage -AllUsers Microsoft.WindowsStore* | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}  
@@ -179,10 +173,17 @@ To reinstall Microsoft Store:
 6. Press**Win** key and type**Microsoft Store** to launch the app.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing the "This App Couldn’t Be Installed" Error on Windows
@@ -206,15 +207,20 @@ To reinstall Microsoft Store:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/he-ultimate-guide-to-digital-green-magic-comprecipate-free-lessons-from-4-masterful-channels-for-2024/"><u>[New] The Ultimate Guide to Digital Green Magic Comprecipate Free Lessons From 4 Masterful Channels for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-demystifying-instagram-selfies-a-comprehensive-guide-for-2024/"><u>[Updated] Demystifying Instagram Selfies A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/10-tips-to-restore-bluetooth-functionality-on-windows-11/"><u>10 Tips to Restore Bluetooth Functionality on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-tips-to-eradicate-mmc-snap-in-anomalies/"><u>Expert Tips to Eradicate MMC Snap-In Anomalies</u></a></li>
-<li><a href="https://windows11.techidaily.com/guaranteeing-gaming-glory-resolve-full-screen-woes-in-sonic-on-windows-11/"><u>Guaranteeing Gaming Glory: Resolve Full-Screen Woes in Sonic on Windows 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-intova-x-changes-action-camera-game/"><u>How Intova X Changes Action Camera Game</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-meme-world-for-iphone-enthusiasts/"><u>In 2024, Meme World for iPhone Enthusiasts</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ative-templates-for-stellar-youtube-video-decks-for-2024/"><u>Innovative Templates for Stellar YouTube Video Decks for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-restore-error-0x80042306-quickly/"><u>Overcoming Windows Restore Error 0X80042306 Quickly</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-hassle-free-way-to-link-your-wireless-printer-to-any-device/"><u>The Hassle-Free Way to Link Your Wireless Printer to Any Device</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-achieve-professional-results-podcast-editing-made-simple-in-garageband/"><u>[New] Achieve Professional Results Podcast Editing Made Simple in GarageBand</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-optimal-viewing-verticalhorizontal-in-fb-videos-in-2024/"><u>[New] Optimal Viewing - Vertical/Horizontal in FB Videos, In 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-expert-tips-for-instagram-green-screen-shoots/"><u>[Updated] In 2024, Expert Tips for Instagram Green Screen Shoots</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-webcamsecure-silk-screen-sticker-for-2024/"><u>[Updated] WebCamSecure Silk Screen Sticker for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/9-ways-to-fix-blurry-screen-issues-on-windows-11/"><u>9 Ways to Fix Blurry Screen Issues on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-unveils-zen-5-over-83-billion-transistors-on-each-compute-die-with-28-more-efficiency/"><u>AMD Unveils Zen 5: Over 8.3 Billion Transistors on Each Compute Die with 28% More Efficiency</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-limited-it-admin-power-in-security-warning/"><u>Bypassing 'Limited IT Admin Power' In Security Warning</u></a></li>
+<li><a href="https://windows11.techidaily.com/calculate-and-track-power-consumption-for-your-pc-windows-edition/"><u>Calculate and Track Power Consumption for Your PC: Windows Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-resource-unavailable-situations-on-windows-149-chars/"><u>Correcting 'Resource Unavailable' Situations on Windows (149 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-windows-file-explorer-path-settings/"><u>Customizing Windows File Explorer Path Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/direct-console-connection-joining-win-to-ps3-controller/"><u>Direct Console Connection: Joining Win to PS3 Controller</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/free-online-converter-transform-jpeg-2000-images-into-jpg-format-with-ease/"><u>Free Online Converter: Transform JPEG-2000 Images Into JPG Format with Ease</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-webm-and-flv-converter-online-movavi/"><u>Free Webm and Flv Converter Online - Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-poco-c51-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Poco C51</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Motorola Edge 2023 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tick the Box: Quick Windows Fixes to Modify File Dates"
-date: 2024-09-10T21:54:57.309Z
-updated: 2024-09-15T22:01:12.899Z
+date: 2024-09-26T17:45:42.063Z
+updated: 2024-10-01T22:11:50.858Z
 tags:
   - windows10
   - windows11
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 
 **Download** : BulkFileChanger for[Windows](https://www.nirsoft.net/utils/bulk%5Ffile%5Fchanger.html) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Attribute Changer
 
 ![Attribute Changer App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/attribute-changer-app.jpg)
@@ -60,9 +67,23 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 
 **Download** : Attribute Changer for[Windows](https://www.petges.lu/download/) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. NewFileTime
 
 ![NewFileTime App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/newfiletime-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  NewFile Time is an easy-to-use tool that comes with incredible features, like the "drag-and-drop" functionality and more.
 
@@ -73,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
  Want your files to be a certain number of days older or younger than their current created/modified date? Click the**be older** or**be younger** tabs and then enter the relevant numbers in the**Days** boxes.
 
 **Download** : NewFileTime for[Windows](https://www.softwareok.com/?seite=Microsoft/NewFileTime) (Free)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. AttributeMagic
 
@@ -86,29 +114,9 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 
 **Download** : AttributeMagic for[Windows](https://www.elwinsoft.com/attributemagic-free.html) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. File & Folder Tools
 
 ![File & Folder Tools App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/file-folder-tools-app.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  File & Folder Tools is an app comprising a set of tools that can help you change file attributes, tweak your files' timestamps,[locate duplicate files on Windows](https://www.makeuseof.com/tag/save-hard-drive-space-by-finding-and-removing-duplicate-files/) , and more.
 
@@ -119,22 +127,15 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 **Download** : File & Folder Tools for[Windows](https://www.softpedia.com/get/File-managers/File-and-Folder-Tools.shtml) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Bulk Rename Utility
 
 ![The Change File Timestamps Window from the Bulk Rename Utility Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-change-file-timestamps-window-from-the-bulk-rename-utility-tool.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Bulk Rename Utility, as the name suggests, is a batch file renaming tool. But this app also offers a feature that allows you to change the created/modified dates for your files. Although its main interface is quite cluttered, we’ll show you how to use the tool in a few quick steps.
 
@@ -177,5 +178,26 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-comprehensive-analysis-free2x-cam-recording-apps/"><u>[Updated] 2024 Approved Comprehensive Analysis Free2X Cam Recording Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-from-standard-screen-to-vr-world-smartphone-conversion-guide-for-2024/"><u>[Updated] From Standard Screen to VR World Smartphone Conversion Guide for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatbot-comparison-should-freelancers-trust-bing-chat-over-chatgpt-eight-essential-points-you-must-know/"><u>Chatbot Comparison: Should Freelancers Trust Bing Chat Over ChatGPT? Eight Essential Points You Must Know</u></a></li>
+<li><a href="https://windows11.techidaily.com/cut-the-cord-joining-dualshock-to-pc/"><u>Cut the Cord: Joining DualShock to PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Fake the Location to Get Around the MLB Blackouts on Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/guaranteeing-a-peaceful-sleep-for-w11-devices-at-rest/"><u>Guaranteeing a Peaceful Sleep for W11 Devices at Rest</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-subduing-file-explorers-default-views/"><u>Guide to Subduing File Explorer's Default Views</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-v-purse-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor V Purse? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-iphone-12-pro-maxipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled iPhone 12 Pro Max/iPad Without Computer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphones-visual-upgrades-in-ios-11-explored-for-2024/"><u>IPhone's Visual Upgrades in iOS 11 Explored for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-menu-erase-show-more-options/"><u>Mastering Windows 11 Menu: Erase Show More Options</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfect-your-pc-settings-unlock-potential-using-alomware-suite/"><u>Perfect Your PC Settings: Unlock Potential Using AlomWare Suite</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-excel-files-from-virus-infected-pen-drives-for-free-stellar-by-stellar-guide/"><u>Recover Excel Files from Virus-Infected Pen Drives for Free | Stellar</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-repair-windows-event-viewer-in-windows-11/"><u>Steps to Repair Windows Event Viewer in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-aesthetics-for-windows-terminal/"><u>Tailoring Aesthetics for Windows Terminal</u></a></li>
+<li><a href="https://windows11.techidaily.com/tutorial-enabling-or-disabling-wi-fi-cost-meter-in-windows-11/"><u>Tutorial: Enabling or Disabling Wi-Fi Cost Meter in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-access-your-outlook-preview/"><u>Unlocking Windows: Access Your Outlook Preview</u></a></li>
+</ul></div>
 

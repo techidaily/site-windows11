@@ -1,7 +1,7 @@
 ---
 title: Is Split Screen Not Working on Windows? Here's What to Do
-date: 2024-09-19T21:00:01.954Z
-updated: 2024-09-20T17:59:50.960Z
+date: 2024-09-26T17:57:02.209Z
+updated: 2024-10-01T21:46:22.957Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
  Now that you know the potential causes of the split screen not working, let’s look at how to resolve it.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Try Some Generic Fixes
 
  Before we jump into more complicated fixes, it's worth trying out some basic ones that typically fix Windows errors like this.
@@ -57,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
  After making these changes, close the Settings window and check if it solves the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Check Your Display Settings
@@ -70,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
  To get started, [open Windows Settings](https://www.makeuseof.com/windows-ways-to-open-system-settings/) and navigate to **System** \> **Display**. In the right pane, scroll down to the **Scale & layout** section.
 
 ![Display Resolution in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/display-resolution-in-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now click the **Display resolution** drop-down menu and adjust the resolution to fit your connected display. Once you've done that, try using split screen again.
 
@@ -97,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
  After restarting Windows Explorer, try split screen again and see if it works now.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Uninstall Third-Party Software
 
  If you have any third-party software or applications that manage Windows or screen layouts, uninstall them temporarily. Sometimes these programs interfere with Windows split-screen functionality and cause the issue.
@@ -119,6 +112,19 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
  Once you're done, try to use split screen to check if the issue is resolved.
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Use the Built-In Shortcut Keys for Split Screen
 
  Windows has built-in keyboard shortcuts to launch split screens quickly. This method is useful if the issue occurs due to a minor bug or glitch.
@@ -126,6 +132,13 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
  To use split screen, press **Win + Left Arrow** on your keyboard. This makes one window dominate the left side of your screen. The same applies to **Win + Right Arrow**, which makes one window take up the right side of your screen.
 
  Similarly, press **Win + Up Arrow** or **Down Arrow** to snap windows into a quarter-screen size, allowing you to have four windows open simultaneously.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Manage Apps and Tasks Simultaneously to Enhance Your Productivity on Windows
 
@@ -139,5 +152,23 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-impactful-video-campaigns-for-startups/"><u>[Updated] In 2024, Crafting Impactful Video Campaigns for Startups</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-race-through-the-olympics-top-sections-2022/"><u>[Updated] Race Through the Olympics Top Sections, 2022</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-reasons-to-steer-clear-from-inexpensive-windows-keys/"><u>5 Reasons to Steer Clear From Inexpensive Windows Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-non-functional-shortcuts-with-windows-snips/"><u>Avoiding Non-Functional Shortcuts with Windows Snips</u></a></li>
+<li><a href="https://facebook.techidaily.com/content-commerce-leveraging-metas-tools-for-profit-making-video-content/"><u>Content Commerce: Leveraging Meta's Tools for Profit-Making Video Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-troubleshooting-for-winscombsvc-error/"><u>Essential Troubleshooting for WinScombSvc Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-silent-mode-glitches-on-windows-word-reading-feature/"><u>Fix Silent Mode Glitches on Windows' Word Reading Feature</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-a15-5g-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy A15 5G?</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-win11-outshines-macos-on-key-fronts/"><u>How Win11 Outshines MacOS on Key Fronts</u></a></li>
+<li><a href="https://windows11.techidaily.com/image-integration-insights-securely-stashing-files-on-windows-11/"><u>Image Integration Insights: Securely Stashing Files on Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capturing-adventures-a-close-look-at-panasonics-hx-a1/"><u>In 2024, Capturing Adventures A Close Look at Panasonic's HX-A1</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-honor-100-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Honor 100 Phone Screen?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-xr-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone XR Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-balance-of-cost-and-performance-expert-review-on-the-zte-blade-a3-y-model/"><u>The Balance of Cost and Performance: Expert Review on the ZTE Blade A3 Y Model</u></a></li>
+<li><a href="https://windows11.techidaily.com/turbocharging-your-battlenet-downloads-on-windows-pcs/"><u>Turbocharging Your Battle.net Downloads on Windows PCs</u></a></li>
+<li><a href="https://driver-error.techidaily.com/visual-exploration-of-ms-bdas-graphics-impact/"><u>Visual Exploration of MS BDA's Graphics Impact</u></a></li>
+</ul></div>
 

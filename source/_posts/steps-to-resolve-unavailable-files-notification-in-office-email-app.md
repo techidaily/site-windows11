@@ -1,7 +1,7 @@
 ---
 title: Steps to Resolve 'Unavailable' Files Notification in Office Email App
-date: 2024-09-22T23:13:18.229Z
-updated: 2024-09-26T19:45:18.699Z
+date: 2024-10-01T02:40:53.913Z
+updated: 2024-10-01T16:42:55.139Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 3. Under the**Preview Pane** section, disable the toggle next to**Portable Document Format** .  
 ![Disable Preview Handlers in PowerToys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disable-preview-handlers-in-powertoys.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Enable Attachment Preview in Outlook
 
  It's possible that Outlook is failing to preview attachments because the file previewer feature is disabled in the app. To overrule this possibility, you need to check the attachment handling settings in Outlook.
@@ -56,10 +63,23 @@ thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c653
 ![Attachment Handling in Outlook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/attachment-handling-in-outlook.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Change Outlook User Interface Settings
@@ -87,10 +107,10 @@ To delete Outlook cache data on Windows, use these steps:
 ![Delete Outlook Cache Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/delete-outlook-cache-data.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Enable Windows Firewall
@@ -107,10 +127,10 @@ To delete Outlook cache data on Windows, use these steps:
 ![Enable Microsoft Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enable-microsoft-defender-firewall.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Modify Registry Files
@@ -132,25 +152,11 @@ To delete Outlook cache data on Windows, use these steps:
 ![Preview Handlers in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/preview-handlers-in-registry.jpg)
 6. If any of the above-mentioned values are missing, right-click on an empty spot and select**New > String Value** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Double-click on the newly created string value.
 8. Enter the name of the application handler in the**Value data** field and click**OK** .
 9. Right-click on the string value, select**Rename** and type the value associated with the application handler.
 10. Exit the Registry Editor window and restart your PC.  
 ![Edit String in Registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-string-in-registry.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Run the Microsoft Office Repair Tool
 
@@ -162,14 +168,14 @@ To delete Outlook cache data on Windows, use these steps:
 4. Select**Quick Repair** and then click**Repair** .  
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
 
- Wait for the process to finish and check if you can preview files. If you can't, repeat the above steps to perform an**Online Repair** . As suggestive of its name, this process does necessitate an active internet connection on your computer.
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Wait for the process to finish and check if you can preview files. If you can't, repeat the above steps to perform an**Online Repair** . As suggestive of its name, this process does necessitate an active internet connection on your computer.
 
 ## Preview Your Outlook Attachments Again on Windows
 
@@ -192,24 +198,22 @@ To delete Outlook cache data on Windows, use these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-increasing-youtube-shorts-views-effective-tactics/"><u>[New] Increasing YouTube Shorts Views Effective Tactics</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-enhancing-instagram-stories-by-including-youtube-tracks-for-2024/"><u>[Updated] Enhancing Instagram Stories by Including YouTube Tracks for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-masterclass-splitting-your-screen-for-maximum-impact-on-facebook-live-for-2024/"><u>[Updated] Masterclass Splitting Your Screen for Maximum Impact on Facebook Live for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-your-ultimate-guide-to-erasing-backgrounds-in-picsart/"><u>[Updated] Your Ultimate Guide to Erasing Backgrounds in Picsart</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-captivating-vlog-narratives/"><u>2024 Approved Crafting Captivating Vlog Narratives</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-detailed-insights-into-youtubes-monthly-income-model/"><u>2024 Approved Detailed Insights Into YouTube's Monthly Income Model</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-guide-to-shopping-for-ideal-laptops-at-these-6-best-stores/"><u>A Guide to Shopping for Ideal Laptops at These 6 Best Stores</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehending-the-safeguarded-state-of-windows-11/"><u>Comprehending the Safeguarded State of Windows 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/editors-essential-17-tools-to-seamlessly-sharpen-images/"><u>Editor's Essential 17 Tools to Seamlessly Sharpen Images</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-windows-11-performance-tweak-ntfs-file-compression/"><u>Enhance Windows 11 Performance: Tweak NTFS File Compression</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-adjust-lockout-frequency-after-incorrect-user-credentials-for-windows-11/"><u>How to Adjust Lockout Frequency After Incorrect User Credentials for Windows 11</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-htc-u23-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On HTC U23? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-the-convergence-the-best-6-compatible-android-apps-on-windows-11/"><u>Master the Convergence: The Best 6 Compatible Android Apps on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-windows-np-setting-detection-mishap/"><u>Resolving Windows NP Setting Detection Mishap</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-for-correcting-failed-java-setup-in-windows/"><u>Techniques for Correcting Failed Java Setup in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-defaults-permissions-restoration-guide/"><u>Unlocking Defaults: Permissions Restoration Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/visual-disk-management-in-context-menus-for-win-11/"><u>Visual Disk Management in Context Menus for Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/what-to-do-when-the-audio-services-are-not-responding-on-windows/"><u>What to Do When the Audio Services Are Not Responding on Windows</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/why-apple-discontinued-final-cut-express-for-2024-what-are-the-major-differences-between-final-cut-express-and-final-cut-pro/"><u>Why Apple Discontinued Final Cut Express for 2024 What Are the Major Differences Between Final Cut Express and Final Cut Pro?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-ultimate-instagram-captioning-hack-for-reels-and-stories/"><u>[New] 2024 Approved The Ultimate Instagram Captioning Hack for Reels and Stories</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/treaming-success-starts-here-8-tips-for-beginners-for-2024/"><u>[New] Streaming Success Starts Here - 8 Tips for Beginners for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-ultimate-list-of-cost-free-androidios-live-streamers/"><u>[Updated] In 2024, Ultimate List of Cost-Free Android/iOS Live Streamers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-navigating-vrs-negative-aspects/"><u>[Updated] Navigating VR's Negative Aspects</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-effective-ways-to-reopen-a-hidden-windows-terminal/"><u>7 Effective Ways to Reopen a Hidden Windows Terminal</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719266282483-combatting-common-windows-11-mail-errors-get-your-email-back-now/"><u>Combatting Common Windows 11 Mail Errors - Get Your Email Back Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-guide-rectifying-delayed-folder-upload-in-onedrive-without-hitches/"><u>Comprehensive Guide: Rectifying Delayed Folder Upload in OneDrive without Hitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-zoom-anomalies-addressing-error-1132-in-windows-11/"><u>Correcting Zoom Anomalies: Addressing Error 1132 in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-your-pcs-idle-lock-time/"><u>Customize Your PC's Idle Lock Time</u></a></li>
+<li><a href="https://windows11.techidaily.com/dealing-with-windows-update-error-code-0x8024800c/"><u>Dealing with Windows Update: Error Code 0X8024800C</u></a></li>
+<li><a href="https://windows11.techidaily.com/defeating-inadequate-pcs-fixing-game-bar-errors/"><u>Defeating Inadequate PCs: Fixing Game Bar Errors</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-poco-m6-pro-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Poco M6 Pro 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://blog-min.techidaily.com/quick-solutions-to-install-the-necessary-dvd-decoder-for-windows-media-player-and-avoid-error-4-issues/"><u>Quick Solutions to Install the Necessary DVD Decoder for Windows Media Player and Avoid Error 4 Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719241276591-team-chat-freezing-heres-a-fix/"><u>Team Chat Freezing? Here’s a Fix!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/techniques-in-producing-accelerated-video-narratives/"><u>Techniques in Producing Accelerated Video Narratives</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/thorough-review-easy-approach-to-hdr-enhancement/"><u>Thorough Review Easy Approach to HDR Enhancement</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tiktok-downloading-the-blueprint-for-mass-media-capture/"><u>TikTok Downloading The Blueprint for Mass Media Capture</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Expert's Technique for Age Estimation
-date: 2024-09-23T20:19:33.717Z
-updated: 2024-09-26T22:48:04.319Z
+date: 2024-09-26T22:18:36.917Z
+updated: 2024-10-01T16:05:48.219Z
 tags:
   - windows10
   - windows11
@@ -48,6 +48,19 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 
 ![command prompt serial number laptop 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/command-prompt-serial-number-laptop-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the serial number is not visible or the sticker is removed, you can use Windows Management Instrumentation command-line utility to recover your computer's serial number.
 
  To view the Windows laptop's serial number using Command Prompt:
@@ -58,23 +71,9 @@ thumbnail: https://thmb.techidaily.com/83810aeb2f4e9067a8450e307f943cc7eb4a02a55
 wmic bios get serial number
 4. The output will display your device's serial number. Use the same to check your device's warranty status and more using the steps in the first method.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Check the BIOS Version Using the System Information Utility
 
 ![system information bios version details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-information-bios-version-details.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need to know the manufacturing date, check the BIOS version. You can [use the System Information utility on Windows to check the BOS version](https://www.makeuseof.com/windows-11-check-system-information/), including the date it was installed.
 
@@ -86,6 +85,13 @@ wmic bios get serial number
 
 ![command prompt check bios version](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/command-prompt-check-bios-version.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also view the BIOS version using Command Prompt. [Open Command Prompt](https://www.makeuseof.com/windows-11-open-command-prompt/) and type the following command. Press Enter to execute.
 
 systeminfo.exe
@@ -93,6 +99,13 @@ systeminfo.exe
  The above command will execute the system information command-line version and show all the essential details of your computer. Locate the BIOS Version entry and check the date.
 
  Important to note that if your system has received a BIOS update, the date will reflect the latest update date and not the manufacturer date.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Check the Windows Installation Method Using the Command Prompt
 
@@ -106,22 +119,15 @@ systeminfo | find /I "install date"
 
  The command will filter and only display the original install date from the System Information summary page.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Check Your CPU Details
 
 ![task manager cpu details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/task-managar-cpu-details.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Another way to get a rough idea about your laptop's age is to check the CPU's make. Some laptops have a CPU and GPU sticker near the trackpad. If no sticker is found, you can use the Task Manager utility to check the CPU model.
@@ -132,16 +138,16 @@ systeminfo | find /I "install date"
 
 ![Hp support assistant battery health](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-support-assistant-battery-health.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Laptop manufacturers like HP, Dell, Lenovo, and Asus offer free applications to maintain your devices. For example, HP's Support Assistant lets you access your product information, including model name, product ID, serial number, and Warranty Status.
 
  Battery status is another critical bit of information that you may find useful. It displays the battery's health and age to help you gauge how old your system is. Especially when you want to buy a second-hand laptop, knowing battery health can help you bargain the right price.
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Tell Your Desktop Computer Age
 
@@ -170,17 +176,24 @@ systeminfo | find /I "install date"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-covert-composition-of-private-recordings/"><u>[Updated] 2024 Approved Covert Composition of Private Recordings</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-how-to-turn-on-and-use-automatic-hdr-high-dynamic-range-in-windows-11/"><u>2024 Approved How to Turn On and Use Automatic HDR (High Dynamic Range) in Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discover-the-small-stuff-zooming-into-roblox-pixels/"><u>Discover the Small Stuff Zooming Into Roblox Pixels</u></a></li>
-<li><a href="https://windows11.techidaily.com/easy-techniques-for-altering-credentials-on-windows-11/"><u>Easy Techniques for Altering Credentials on Windows 11</u></a></li>
-<li><a href="https://fox-http.techidaily.com/exquisite-series-for-animating-fonts/"><u>Exquisite Series for Animating Fonts</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-unresponsive-f-keys-troubleshooting-in-windows-11-os/"><u>Fix: Unresponsive F Keys - Troubleshooting in Windows 11 OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-correct-hardware-detection-errors-in-win/"><u>How To Correct Hardware Detection Errors in Win</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-tecno-spark-10-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Tecno Spark 10 5G Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-this-file-is-alone-error-on-pcs/"><u>Overcoming This File Is Alone Error on PCs</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/reviewing-the-lihan-lhfm1039-fm-bluetooth-linker-seamlessly-integrating-tech-with-your-auto-sound-system/"><u>Reviewing the Lihan LHFM1039 FM Bluetooth Linker: Seamlessly Integrating Tech with Your Auto Sound System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-troubleshooting-common-errors-on-apple-tv-streaming-from-ios-devices/"><u>Step-by-Step Tutorial: Troubleshooting Common Errors on Apple TV Streaming From iOS Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/visualize-resource-consumption-windows-tray-update-guide/"><u>Visualize Resource Consumption: Windows Tray Update Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-shifting-gender-identity-in-online-profile-pictures/"><u>[New] In 2024, Shifting Gender Identity in Online Profile Pictures</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-brief-but-impactful-which-social-platform-leads-for-short-video-content-for-2024/"><u>[Updated] Brief but Impactful Which Social Platform Leads for Short Video Content for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-exploring-and-utilizing-your-twitter-archive/"><u>[Updated] Exploring and Utilizing Your Twitter Archive</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-effortless-zooming-on-snapchat/"><u>[Updated] The Ultimate Guide to Effortless Zooming on Snapchat</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/practices-in-extracting-youtube-media/"><u>Best Practices in Extracting YouTube Media</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/boost-engagement-advanced-youtube-tag-strategies-revealed-for-2024/"><u>Boost Engagement Advanced YouTube Tag Strategies Revealed for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-for-activating-outlook-preview-in-windows-11-os/"><u>Easy Steps for Activating Outlook Preview in Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-run-windows-11-news-and-video-sites-without-strain/"><u>Efficiently Run Windows 11 News & Video Sites without Strain</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-telnet-configuration-for-win11-users/"><u>Effortless Telnet Configuration for Win11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-application-display-enable-windows-11s-autocolor/"><u>Elevate Your Application Display - Enable Windows 11'S AutoColor</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-your-app-setup-game-with-winstall-on-windows-11/"><u>Elevating Your App Setup Game with Winstall on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-unexpected-closure-notifications-from-roblox-games/"><u>Eliminating Unexpected Closure Notifications From Roblox Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/elusive-archive-tucked-away-zip-and-images-on-windows-11/"><u>Elusive Archive Tucked Away: ZIP & Images on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-epic-launcher-performance-a-how-to/"><u>Enhancing Epic Launcher Performance: A How-To</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-windows-event-viewer-functionality/"><u>Enhancing Windows Event Viewer Functionality</u></a></li>
+<li><a href="https://driver-install.techidaily.com/epson-et-2650-printing-essentials-usb-drivers-download/"><u>Epson ET-2650 Printing Essentials: USB Drivers Download</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721479687725-top-6-strategies-to-overcome-autocorrect-errors-on-iphone-learn-correct-spelling-now/"><u>Top 6 Strategies to Overcome Autocorrect Errors on iPhone - Learn Correct Spelling Now</u></a></li>
 </ul></div>
 

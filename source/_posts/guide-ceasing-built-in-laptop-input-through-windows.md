@@ -1,7 +1,7 @@
 ---
 title: "Guide: Ceasing Built-In Laptop Input Through Windows"
-date: 2024-09-10T19:52:43.207Z
-updated: 2024-09-15T16:22:16.133Z
+date: 2024-09-30T17:26:21.230Z
+updated: 2024-10-01T19:12:18.717Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 
  If you don't find your keyboard listed, make sure you have [set Device Manager to show hidden devices.](https://www.makeuseof.com/view-hidden-devices-in-windows/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Disable the Laptop Keyboard Temporarily
 
  To disable your laptop’s keyboard temporarily:
@@ -45,6 +52,14 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 1. Right-click on all the **HID** and **PS/2 Keyboard** entries with the **Properties Location** set to **Location 1** or **Plugged into keyboard.**  
 ![uninstall keyboard device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/uninstall-keyboard-device-device-manager.jpg)
 2. Next, select **Uninstall Device** from the context menu.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click **Yes** to confirm the action.
 4. That’s it. You have disabled your laptop’s internal keyboard successfully.
 
@@ -72,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 
  Once you see the success message, restart your PC to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Disable the Built-in Keyboard Using an Incompatible Driver
 
  Another quirky solution to disable a built-in keyboard is to install an incompatible driver for the input device. Here's how to do it.
@@ -96,16 +104,10 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 7. Click **Next**. Click **Yes** if an **Update Driver Warning** dialog appears.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Once installed, close Device Manager and reboot your computer.
@@ -121,10 +123,10 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
  Wait for the driver to install. Once done, reboot your computer, and the keyboard will start working again.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disable Your Laptop Keyboard Permanently on Windows
@@ -144,5 +146,19 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-accelerate-how-to-swiftly-broadcast-playlists/"><u>[New] 2024 Approved Accelerate How To Swiftly Broadcast Playlists</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-easy-ways-to-record-google-voice-calls/"><u>[Updated] Easy Ways to Record Google Voice Calls</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-master-the-art-of-steadiness-in-imaging/"><u>[Updated] In 2024, Master the Art of Steadiness in Imaging</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-innovative-video-sharing-best-practices-for-live-monitor-display/"><u>2024 Approved Innovative Video Sharing Best Practices for Live Monitor Display</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-distracting-notifications-messages-on-windows-11/"><u>Avoid Distracting Notifications, Messages on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-quickly-fix-keyboard-issues-in-windows-snipper/"><u>How to Quickly Fix Keyboard Issues in Window's Snipper</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-motorola-lock-screen-password-by-drfone-android/"><u>How to Reset your Motorola Lock Screen Password</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-batch-file-transformation-executable-edition/"><u>Mastering Batch File Transformation: Executable Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-reference-guide-to-overcoming-winscombvc-issues/"><u>Quick Reference Guide to Overcoming WinScombVc Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-unlock-your-computers-windows-license/"><u>Techniques to Unlock Your Computer's Windows License</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-a-reasonable-processor-speed-for-modern-day-use/"><u>What's a Reasonable Processor Speed for Modern-Day Use?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ogv-mp3-mp3/"><u>무료 솔루션: OGV 파일을 MP3로 변환하는 간단한 방법 – 모바이비 - MP3 변환기</u></a></li>
+</ul></div>
 

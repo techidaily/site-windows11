@@ -1,7 +1,7 @@
 ---
 title: Preserving Default Time on Windows PCs
-date: 2024-09-12T20:52:29.172Z
-updated: 2024-09-15T18:28:52.958Z
+date: 2024-09-29T17:09:02.306Z
+updated: 2024-10-01T20:19:34.058Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
 
  For both methods, you need administrative access to the computer to change it. Once you’ve made the changes, nobody can alter the date and time settings. Let’s look at each method in more detail.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Use the Group Policy Editor
 
  If your computer is part of an organization and users often change the date and time, use Group Policy Editor to stop it. This will prevent those with limited access to the computer from altering the date and time. However, this method only works for Windows Pro, Enterprise, or Education Editions.
@@ -39,11 +46,26 @@ Computer Configuration > Administrative Templates > System > Locale Services
 4. In the right-side pane, double-click on **Disallow user override of locale settings**.  
 ![Disallow user override of locale settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disallow-user-override-of-locale-settings.jpg)
 5. In the pop-up window, check the **Enabled** radio button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Then click **Apply** \> **OK** to save the changes.
 
  This will block anyone from changing the date and time settings on your computer. However, if you have administrative access to the computer, you can still alter the settings.
 
  If you want to revert to the default settings later, open Group Policy Editor again and change the value of Disallow user override of locale settings back to Not Configured or Disabled. This way, users can change the time and date again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Tweak the Registry Editor
 
@@ -69,10 +91,10 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Control Panel\International\
  To undo this restriction, delete the **PreventUserOverrides** DWORD value from the registry or change the value to **0**. Doing so will enable users to change the time and date again.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stop Windows Time and Date Changes
@@ -86,5 +108,19 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Control Panel\International\
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-elevate-your-engagement-with-real-time-tweets/"><u>[Updated] 2024 Approved Elevate Your Engagement with Real-Time Tweets</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-premier-12-screen-recording-solutions-uncapped-recording/"><u>[Updated] 2024 Approved Premier 12 Screen Recording Solutions - Uncapped Recording</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-springs-screen-recorder-unveiled-a-users-perspective/"><u>[Updated] Spring's Screen Recorder Unveiled A User's Perspective</u></a></li>
+<li><a href="https://windows11.techidaily.com/an-intuitive-guide-to-performing-a-windows-rollback-via-system-restore/"><u>An Intuitive Guide to Performing a Windows Rollback via System Restore</u></a></li>
+<li><a href="https://windows11.techidaily.com/decluttering-your-win11-desktop-wallpaper-symbol/"><u>Decluttering Your Win11 Desktop Wallpaper Symbol</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-snipping-tool-keyboard-failures-on-pc/"><u>Fixing Snipping Tool Keyboard Failures on PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y77t-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y77t? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-v27-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo V27 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-best-fast-photo-viewer-for-windows-10/"><u>In 2024, Top Best Fast Photo Viewer for Windows 10?</u></a></li>
+<li><a href="https://windows11.techidaily.com/precision-installation-microsoft-works-for-modern-windows/"><u>Precision Installation: Microsoft Works for Modern Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-wild-waters-of-xbox-errors-in-win11/"><u>Taming the Wild Waters of Xbox Errors in Win11</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/verizon-takes-the-lead-in-enhancing-5g-connectivity-current-insights-revealed/"><u>Verizon Takes the Lead in Enhancing 5G Connectivity: Current Insights Revealed</u></a></li>
+</ul></div>
 

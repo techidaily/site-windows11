@@ -1,7 +1,7 @@
 ---
 title: "Mastering Desktop Aesthetics: Integrate Portable Apps"
-date: 2024-09-25T21:19:22.614Z
-updated: 2024-09-26T16:27:50.479Z
+date: 2024-09-24T17:56:42.400Z
+updated: 2024-10-01T17:06:45.772Z
 tags:
   - windows10
   - windows11
@@ -49,32 +49,39 @@ Now it's time to get SyMenu up and running:
 5. Finally, select an**Advanced** menu structure option and click**Next** .  
 ![The menu structure options for SyMenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-menu-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use SyMenu on Windows
 
  Now you should see a floating "Sy drive" icon on the desktop area. Click that drive icon to view the portable software menu. That menu will include**Search items** ,**My Computer** , and**Tools** submenus.
 
 ![The SyMenu desktop icon and menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-symenu-icon.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To add portable software to the menu, click the**Tools** submenu >**Configuration** ; click the**Item Manager** tab and select**Add Program** from there. Click the ellipses button for the**Path** box, choose a portable app on your USB stick, and select**Open** . Press the**Save** button to apply.
 
 ![The Item Manager tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-item-manager.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then you can launch the added software from the app menu. To view more options for an app, right-click its entry on the menu. You can select**Run elevated** ,**Open folder** , and**Delete item** options from a program’s submenu.
 
 ![An app submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/program-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or you can add new apps to the menu from the**SyMenu** program suite. To do so, select the**Get new apps** option on the menu. Choose portable software in the**SyMenu Suite** tab, and select the**Download** option.
@@ -86,10 +93,10 @@ Now it's time to get SyMenu up and running:
 ![The Theme tab for SyMenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-theme-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The SyMenu options window also includes a**Structure** tab. You can restructure the menu by dragging items up and down the**Menu structure** box. To add more separators, drag**<Separator>** from available elements onto a menu position. Select**Apply** to save all changes made in the SyMenu options window.
@@ -105,13 +112,6 @@ Now it's time to get SyMenu up and running:
 3. Select the**Download LiberKey 5.8** option.  
 ![The Download LiberKey option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/download-liberkay-option.jpg)
 4. Double-click**LiberKey\_5.8.1129.exe** to open a setup wizard for the software.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**Next** to select the**I accept software license agreement** option.
 
@@ -138,13 +138,6 @@ Now it's time to get SyMenu up and running:
 
 ![The New shortcut option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-new-shortcut-submenu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also add categories for grouping software to menu tabs. Right-click a menu tab to select the**New Category** option. Input a title in the name box and select**OK** . Then you can drag app shortcuts on LiberKey into category submenus.
 
  LiberKeys, like SyMenu, has portable apps you can download and add to the menu. Open the LiberKeys website, and select a program to add to the menu from there. Click the**Install on my LiberKey** option to add the portable software to the menu. You’ll see a new tab on the menu that includes all apps added to the menu from the software’s website.
@@ -159,13 +152,20 @@ Now it's time to get SyMenu up and running:
 
 ![The User interface settings for LiberKey](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-user-interface-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're a student on the go, be sure to check out the[best free portable apps for students you can take anywhere](https://www.makeuseof.com/free-portable-apps-for-students/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make Your Portable Apps More Accessible on Windows
@@ -187,19 +187,22 @@ Now it's time to get SyMenu up and running:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-minimal-time-maximum-effect/"><u>[New] Minimal Time, Maximum Effect</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-best-youtube-shorts-video-editor-tools-for-ios-and-android-devices/"><u>[Updated] 2024 Approved Best YouTube Shorts Video Editor Tools for iOS & Android Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-comprehensible-approach-to-fixing-notepad-non-openness-in-windows/"><u>A Comprehensible Approach to Fixing Notepad Non-Openness in Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-effortlessly-reduce-video-file-size-a-ranking-of-the-best-techniques-for-secure-email-attachments/"><u>How to Effortlessly Reduce Video File Size: A Ranking of the Best Techniques for Secure Email Attachments</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-lava-storm-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Lava Storm 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-efficiency-how-copilot-key-shapes-your-windows-11-experience/"><u>Mastering Efficiency: How Copilot Key Shapes Your Windows 11 Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-unstoppable-methods-to-turn-off-ms-defender/"><u>Mastering Unstoppable Methods to Turn Off MS Defender</u></a></li>
-<li><a href="https://windows11.techidaily.com/redoing-power-schemes-with-lost-settings-win-11/"><u>Redoing Power Schemes with Lost Settings (Win 11)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simplified-microsoft-driver-update-process-for-windows-1187-users/"><u>Simplified Microsoft Driver Update Process for Windows 11/8/7 Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-how-to-erase-all-content-on-your-ipod-before-selling/"><u>Step-by-Step Guide: How to Erase All Content on Your iPod Before Selling</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-infinix-note-30-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Infinix Note 30? Here is How | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719293285605-windows-11-woes-re-opening-chrome-made-simple/"><u>Windows 11 Woes: Re-Opening Chrome Made Simple.</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-effortless-video-editing-on-windows-10-no-advanced-software-required/"><u>[New] Effortless Video Editing on Windows 10 No Advanced Software Required</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-digital-dominance-top-youtube-watch-count-chronicles/"><u>[New] In 2024, Digital Dominance Top YouTube Watch Count Chronicles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transforming-videos-through-skillful-narration-techniques/"><u>[New] Transforming Videos Through Skillful Narration Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/dual-display-designs-selective-screen-splendor-in-win-1011/"><u>Dual-Display Designs: Selective Screen Splendor in Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-data-management-controlling-ntfs-compression/"><u>Efficient Data Management: Controlling NTFS Compression</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-managing-frame-rates-to-reduce-delay/"><u>Efficiently Managing Frame Rates to Reduce Delay</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-multisystem-video-processing-on-a-single-windows-setup-with-tdarr/"><u>Elevate Multisystem Video Processing on a Single Windows Setup with Tdarr</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-user-not-valid-error-on-windows-11-and-11/"><u>Eliminating 'User Not Valid' Error on Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhanced-docker-functionality-via-optimized-wsl-2-use/"><u>Enhanced Docker Functionality via Optimized WSL 2 Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/enlighten-your-way-to-printer-success-on-windows-11/"><u>Enlighten Your Way to Printer Success on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-advice-for-resolving-cc-problems-in-the-latest-os/"><u>Essential Advice for Resolving CC Problems in the Latest OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-and-techniques-for-overcoming-kernel32dll-malfunctions-in-windows/"><u>Expert Tips & Techniques for Overcoming Kernel32.dll Malfunctions in Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-poco-c55-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Poco C55?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-colorists-companion-top-11-tools-for-hue-harmony/"><u>The Colorist's Companion Top 11 Tools for Hue Harmony</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-a-single-faulty-airpod-easy-fixes-inside/"><u>Troubleshooting a Single Faulty AirPod - Easy Fixes Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-gzw-pc-issues-a-comprehensive-guide/"><u>Troubleshooting GZW PC Issues: A Comprehensive Guide</u></a></li>
 </ul></div>
 

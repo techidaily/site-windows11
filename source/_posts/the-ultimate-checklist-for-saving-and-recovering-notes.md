@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Checklist for Saving and Recovering Notes
-date: 2024-09-24T20:52:14.789Z
-updated: 2024-09-26T20:46:24.364Z
+date: 2024-09-27T16:26:07.854Z
+updated: 2024-10-01T17:49:57.664Z
 tags:
   - windows10
   - windows11
@@ -45,10 +45,16 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
  To restore the notes on another computer, open the Sticky Notes app (make sure the PC is connected to the internet) and sign in with your Microsoft account. Once signed in, the app will load all the notes you previously synced. Furthermore, every time you finish writing a Sticky Note or edit one, the app will automatically back it up to the cloud.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Manually Back Up and Restore Your Sticky Notes
@@ -63,20 +69,20 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 3. In the **LocalState** folder, copy the **plum.sqlite** file.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![the plum database for Sticky Notes on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/07/the-plum-database-for-sticky-notes-on-windows.jpg)
 4. Paste the **plum.sqlite** file to an external drive, such as a flash drive or external SDD, or upload it to cloud storage, such as OneDrive or Google Drive, for safekeeping.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To manually restore your sticky notes on another Windows computer, follow the steps below:
@@ -90,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
  Now when you open Sticky Notes, it will load the **plum.sqlite** file, and you should see all your notes appear in the app.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Never Lose Your Sticky Notes Again
@@ -112,24 +118,22 @@ thumbnail: https://thmb.techidaily.com/4a1fd1f32e402d9cdb76f6617f2af3bb610c32d54
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-elevating-your-videos-visual-impact-youtubthumbnail-design-on-macos/"><u>[New] 2024 Approved Elevating Your Video's Visual Impact YoutubThumbnail Design on macOS</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-synergy-between-humans-and-computers-through-gestures/"><u>[New] In 2024, Synergy Between Humans & Computers Through Gestures</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-capturecrafter-your-ultimate-guide-to-screen-recording/"><u>[Updated] 2024 Approved CaptureCrafter Your Ultimate Guide to Screen Recording</u></a></li>
-<li><a href="https://windows11.techidaily.com/disable-automatic-snipping-tool-activation-by-prtscn-keypress-in-windows-11/"><u>Disable Automatic Snipping Tool Activation by PrtScn Keypress in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-system-interaction-in-command-prompt/"><u>Elevate Your System Interaction in Command Prompt</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-ai-copilot-enriches-windows-11-for-everyday-users/"><u>How AI Copilot Enriches Windows 11 for Everyday Users</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Nokia C12 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-specified-user-does-not-have-a-valid-profile-app-error-in-windows-10-and-11/"><u>How to Fix the Specified User Does Not Have a Valid Profile App Error in Windows 10 & 11</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-epic-browser-recording-tools-for-the-ultimate-surfers-dream/"><u>In 2024, Epic Browser Recording Tools for the Ultimate Surfer's Dream</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-infinix-hot-40-pro-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Infinix Hot 40 Pro FRP Without Computer</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-superior-lineup-elite-webcam-mounts/"><u>In 2024, Superior Lineup Elite Webcam Mounts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-f14-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy F14 5G Device</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/instagrams-edge-transforming-your-videography-with-precision-cropping-for-2024/"><u>Instagram's Edge Transforming Your Videography with Precision Cropping for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/maximizing-performance-monitoring-pcs-ram-gpu-and-cpu/"><u>Maximizing Performance: Monitoring PC's RAM, GPU & CPU</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-app-crashes-in-windows-dealing-with-unhandled-exceptions/"><u>Overcoming App Crashes in Windows: Dealing with Unhandled Exceptions</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-resolving-cant-connect-issues-in-windows-11/"><u>Quick Guide: Resolving 'Can't Connect' Issues in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-secure-logins-with-5-tips-against-key-conflicts-in-win11/"><u>Streamlining Secure Logins with 5 Tips Against Key Conflicts in Win11</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-common-initialization-problems-in-riot-games-valorant/"><u>Troubleshooting Common Initialization Problems in Riot Games' Valorant</u></a></li>
-<li><a href="https://windows11.techidaily.com/winerror-correction-bypassing-the-perplexing-0x80072746-mail-issue/"><u>WinError Correction: Bypassing the Perplexing 0X80072746 Mail Issue</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-capturing-essence-photos-meet-music-videos-for-2024/"><u>[New] Capturing Essence Photos Meet Music Videos for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-quick-fixes-enhancing-your-snaps-with-snapchat-edits-for-2024/"><u>[Updated] Quick Fixes Enhancing Your Snaps with Snapchat Edits for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/dimming-the-distraction-how-to-fix-a-flickering-display/"><u>Dimming the Distraction: How to Fix a Flickering Display</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-xr-5-ways-to-get-into-a-locked-iphone-xr-by-drfone-ios/"><u>In 2024, Locked Out of iPhone XR? 5 Ways to get into a Locked iPhone XR</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-honor-magic-6-lite-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Honor Magic 6 Lite to Gmail | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-analysis-of-the-shure-mv7-microphone-the-ultimate-choice-for-podcasters-and-streamers-revealed-by-zdnet/"><u>In-Depth Analysis of the Shure MV7 Microphone: The Ultimate Choice for Podcasters and Streamers Revealed by ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-fixes-for-hardware-detection-faults/"><u>Mastering Fixes for Hardware Detection Faults</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-for-resolving-process-termination-failure-on-pcs/"><u>Methods for Resolving 'Process Termination Failure' On PCs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ating-the-digital-realm-uploading-with-premiere-and-youtube/"><u>Navigating the Digital Realm Uploading with Premiere & YouTube</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/premier-gamers-choice-the-new-amd-assortment-with-ryzen-cpus-and-radeon-gpus-series-earn-two-free-titles-doesnt-support-upcoming-ryzen-9000/"><u>Premier Gamer's Choice: The New AMD Assortment with Ryzen CPUs and Radeon GPUs Series – Earn Two Free Titles! (Doesn’t Support Upcoming Ryzen 9000)</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-issues-for-microsoft-store-access-on-windows-11/"><u>Resolving Issues for Microsoft Store Access on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-unresizable-gif-error-tips-for-discord-on-windows-11/"><u>Resolving Unresizable GIF Error: Tips for Discord on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/systematic-steps-for-nullifying-your-windows-drive-partitions/"><u>Systematic Steps for Nullifying Your Windows Drive Partitions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-list-of-microsoft-office-replacements-to-watch/"><u>The Ultimate List of Microsoft Office Replacements to Watch</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-winservicesexe-on-your-pc/"><u>Troubleshooting Winservices.exe on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-microsoft-family-safety-potential/"><u>Unlocking Microsoft Family Safety Potential</u></a></li>
+<li><a href="https://windows11.techidaily.com/win10win11-diagnostics-tackling-0x0000004e-faults/"><u>Win10/Win11 Diagnostics: Tackling 0X0000004E Faults</u></a></li>
 </ul></div>
 

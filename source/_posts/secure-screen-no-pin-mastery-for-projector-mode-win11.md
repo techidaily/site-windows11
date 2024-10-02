@@ -1,7 +1,7 @@
 ---
 title: Secure Screen, No-Pin Mastery for Projector Mode Win11
-date: 2024-09-14T17:00:32.948Z
-updated: 2024-09-15T16:28:26.815Z
+date: 2024-09-27T16:39:28.868Z
+updated: 2024-10-02T01:52:46.541Z
 tags:
   - windows10
   - windows11
@@ -64,7 +64,21 @@ thumbnail: https://thmb.techidaily.com/d3d14caf519c1def322723a3dc59c24a3c8f8aede
 ![Never Require Pin For Pairing in GPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/never-require-pin-for-pairing-in-gpe.jpg)
 6. Click **Apply** \> **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After that, exit out of the window. When projecting your computer onto another screen, you won’t need a PIN anymore.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Using the Registry Editor
 
@@ -84,15 +98,28 @@ thumbnail: https://thmb.techidaily.com/d3d14caf519c1def322723a3dc59c24a3c8f8aede
 ![Tweak Registry to Disable Require PIN for Pairing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/tweak-registry-to-disable-require-pin-for-pairing.jpg)
 9. Set the **Value data** to **0** and click **OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you've done that, exit the Registry Editor window and restart your computer. After restart, you won't need a PIN when projecting your computer onto another screen.
 
  To turn the feature back on, follow the same steps but set the **Value data** to **1**. This will enable the required PIN for pairing settings when projecting to a Windows 11 PC​​​​​.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Using a REG File
@@ -111,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/d3d14caf519c1def322723a3dc59c24a3c8f8aede
 6. Name the file **DisableRequirePin.reg** and select **Desktop** from the left sidebar.  
 ![Disable the Required PIN for Pairing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disable-the-required-pin-for-pairing.jpg)
 7. Now click **Save** and exit Notepad. You'll find the REG file on your desktop.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Double-click on it and select **Yes** when prompted. This will edit the registry on your behalf.
 
@@ -147,5 +167,23 @@ thumbnail: https://thmb.techidaily.com/d3d14caf519c1def322723a3dc59c24a3c8f8aede
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-elevating-audio-rates-on-youtube-dual-device-approach/"><u>[New] In 2024, Elevating Audio Rates on YouTube Dual Device Approach</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-screen-space-enlargement-on-youtube/"><u>[New] Navigating Screen Space Enlargement on YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-the-high-demand-of-ntoskrnlexe-processes/"><u>Addressing the High Demand of Ntoskrnl.exe Processes</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-realme-11x-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme 11X 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/bestow-magical-menus-on-your-pc/"><u>Bestow Magical Menus on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-black-backgrounds-on-your-windows-pc/"><u>Bypassing Black Backgrounds on Your Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/cant-choose-a-drive-to-install-games-on-the-xbox-app-for-windows-try-these-fixes/"><u>Can't Choose a Drive to Install Games on the Xbox App for Windows? Try These Fixes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/clean-slate-creations-guide-to-the-psx-eraser-tool/"><u>Clean Slate Creations Guide to the PSX Eraser Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/clear-the-way-to-privacy-with-simple-steps-for-ms-defender/"><u>Clear the Way to Privacy with Simple Steps for MS Defender</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/creating-a-tranquil-auditory-space-with-tech-for-2024/"><u>Creating a Tranquil Auditory Space with Tech for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/delving-into-windows-11s-data-preservation-capabilities/"><u>Delving Into Windows 11'S Data Preservation Capabilities</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/dont-miss-out-huge-savings-on-select-samsung-devices-during-prime-day/"><u>Don't Miss Out! Huge Savings on Select Samsung Devices During Prime Day</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-intel-z270-chipset-graphics-drivers-gamers-edition/"><u>Free Download: Intel Z270 Chipset Graphics Drivers - Gamers Edition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p55plus-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Itel P55+ PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719366391353-keyboards-on-the-ropes-reclaim-your-arrows/"><u>Keyboards on the Ropes? Reclaim Your Arrows!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/mysterious-video-issue-with-sony-a6400-for-2024/"><u>Mysterious Video Issue with Sony A6400 for 2024</u></a></li>
+</ul></div>
 

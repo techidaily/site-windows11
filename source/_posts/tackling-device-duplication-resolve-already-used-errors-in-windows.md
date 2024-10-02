@@ -1,7 +1,7 @@
 ---
 title: "Tackling Device Duplication: Resolve Already Used Errors in Windows"
-date: 2024-09-10T21:11:20.066Z
-updated: 2024-09-15T23:14:46.747Z
+date: 2024-09-25T00:54:17.688Z
+updated: 2024-10-02T01:58:21.197Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
 
  If the network server has ample space, you can move on to trying the methods below to solve the problem on your local device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 Enable File and Printer Sharing
 
 [You should always keep your firewall enabled](https://www.makeuseof.com/tag/5-reasons-use-firewall/) , but it can sometimes interfere with file and printer sharing. This can lead to seeing the Local device name is already in use error. Luckily you can enable file and printer sharing easily in the firewall settings.
@@ -42,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
 5. Click**Ok** and restart your computer to apply the change.
 
  Occasionally, the file and printer sharing settings for the firewall can get reset after a major update. Just because you know you have enabled it in the past, it is worth checking again.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2 Remap the Network Drive With Command Prompt
 
@@ -69,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
  Learn more about[why drive letters usually start with C on Windows](https://www.makeuseof.com/why-local-drives-windows-start-from-c/) .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Reinitialize the Computer Browser
@@ -100,22 +114,15 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
 4. Look for the**MountPoints2** key in the right-hand panel, right-click on it and select**Delete** .
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Close the Registry Editor and restart your computer.
 
  The MountPoint registry key will be regenerated after deleting and restarting. You can then check to see if this fixed the Local Device name is already in use error.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing Local Device Name Errors on Windows
 
@@ -134,5 +141,21 @@ thumbnail: https://thmb.techidaily.com/44b8e2a77a17fe4113b1c8cef6e112b2db098718a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-listenguide-review/"><u>[New] ListenGuide Review</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-become-a-9gag-meme-connoisseur-with-these-simple-steps/"><u>2024 Approved Become a 9GAG Meme Connoisseur with These Simple Steps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-viewsense-capture-report-summary/"><u>2024 Approved ViewSense Capture Report Summary</u></a></li>
+<li><a href="https://windows11.techidaily.com/automated-file-handling-via-task-scheduler/"><u>Automated File Handling via Task Scheduler</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-operation-elevation-woes-on-windows-11-and-11/"><u>Breaking Down Operation Elevation Woes on Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-key-hunting-for-windows-1110-enthusiasts/"><u>Master Key Hunting for Windows 11/10 Enthusiasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-directx-update-issues-on-windows/"><u>Overcoming DirectX Update Issues on Windows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/premium-fb-videograbber-tools-secure-fast-file-grab/"><u>Premium FB Videograbber Tools Secure, Fast File Grab</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinforce-internet-ties-for-your-windows-devices-amid-sluggishness/"><u>Reinforce Internet Ties for Your Windows Devices Amid Sluggishness</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-to-fix-response-time-on-logitech-input-devices/"><u>Step-by-Step Tutorial to Fix Response Time on Logitech Input Devices</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-top-20-social-media-apps-and-sites/"><u>The Top 20 Social Media Apps and Sites</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tiktok-sensation-round-up-twitters-buzzing-top-ten/"><u>TikTok Sensation Round-Up Twitter's Buzzing Top Ten</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-eliminating-enter-usernamepassword-alerts-in-windows/"><u>Troubleshooting: Eliminating 'Enter Username/Password' Alerts in Windows</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-winxvideos-ai-capabilities-in-depth-qanda-insights-for-enthusiasts/"><u>Unveiling WinXvideo's AI Capabilities: In-Depth Q&A Insights for Enthusiasts</u></a></li>
+</ul></div>
 

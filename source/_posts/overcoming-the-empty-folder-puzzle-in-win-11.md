@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Empty Folder Puzzle in Win 11
-date: 2024-09-23T16:54:13.694Z
-updated: 2024-09-26T20:05:35.561Z
+date: 2024-09-24T19:27:07.769Z
+updated: 2024-10-01T16:29:00.867Z
 tags:
   - windows10
   - windows11
@@ -29,18 +29,18 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
  First, we recommend running a System File Checker scan to check your system's file integrity. This scan can fix corrupted system files affecting how Windows functions. Look at our guide to [running the SFC tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) for further instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Run a Check Disk Repair Scan
 
  The “there are no more files” error isn't commonly known to be a hard drive issue, but don’t rule out such a possibility. An error related to saving files could feasibly have something to do with the health of your PC’s hard drive.
 
  As such, you should run a Check Disk (CHKDSK) scan to check for and address hard disk drive file system errors detected. To do so, follow the guidelines within our [how-to run a CHKDSK scan](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10) article.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Uninstall the ASUS Data Security Manager Software
 
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 ![The MSConfig app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-system-configuration-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The ASUS Data Security Manager is not the only third-party security tool that can trigger the “there are no more files” error. So, try clean-booting Windows to disable all third-party apps and services. A clean boot will stop other background apps or services from automatically starting, which may fix the error.
@@ -72,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
  This article about [how to clean boot Windows](https://www.makeuseof.com/clean-boot-windows-11/) covers how you can disable startup items and services with the System Configuration and Task Manager system tools. After changing the boot settings, restart your computer for the resolution to take effect. Then try saving document and image files to see if the “there are no more files” error continues.
 
  If it doesn't, it means there is another third-party app on your system causing this error. Try deleting any recent apps you've installed and see if that fixes the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Roll Back Windows With a System Restore
 
@@ -90,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-restore-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Perform a Windows Factory Reset
 
  This reset solution will restore your Windows PC to its original factory state. If none of the potential solutions suggested above work for you, resetting Windows is the last thing you should try. Users confirm applying a factory reset fixes the “there are no more files” error.
@@ -104,6 +90,20 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
  You will need to reinstall all third-party packages that weren’t pre-installed on your Windows PC after a reset. However, you need not back up any user files as you can select to keep them within the Reset this PC tool. Our [how to factory reset your Windows PC](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) guide provides full details on applying this last resort resolution.
 
 ![The Keep my files option in the Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-keep-my-files-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Save Your Files Again on Windows
 
@@ -121,20 +121,15 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-streamline-control-switch-pro-in-steam-play/"><u>[New] In 2024, Streamline Control Switch Pro in Steam Play</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-guide-to-sharing-on-instagram-videos-and-more/"><u>[Updated] 2024 Approved Guide to Sharing on Instagram Videos & More</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-discovering-streamer-favorite-live-cam-technology-for-2024/"><u>[Updated] Discovering Streamer-Favorite Live Cam Technology for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-new-era-top-tier-vr-exercise-machines/"><u>[Updated] Navigating the New Era Top-Tier VR Exercise Machines</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-keeping-your-views-private-top-5-insta-tools/"><u>2024 Approved Keeping Your Views Private - Top 5 Insta Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/cutting-edge-methods-to-convert-word-documents-to-pdf-on-windows-11/"><u>Cutting-Edge Methods to Convert Word Documents to PDF on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/finding-out-your-internets-public-ip-with-win-cli/"><u>Finding Out Your Internet's Public IP with Win CLI</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/how-to-stream-local-video-to-chromecast-on-windowsmacandroidios-for-2024/"><u>How to Stream Local Video to Chromecast on Windows/Mac/Android/iOS for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/infuse-personalized-style-in-windows-email-calendar/"><u>Infuse Personalized Style in Windows Email, Calendar</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/leading-key-locators-ranked-best/"><u>Leading Key Locators Ranked Best</u></a></li>
-<li><a href="https://windows11.techidaily.com/minimizing-power-drain-addressing-vanguard-ums-overuse-on-pcs/"><u>Minimizing Power Drain: Addressing Vanguard UMS Overuse on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-eliminate-startup-disruption-due-to-winscombsvc-errors/"><u>Quick Fix: Eliminate Startup Disruption Due to WinScombSvc Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/sharpening-performance-with-optimized-news-and-video-consumption/"><u>Sharpening Performance with Optimized News & Video Consumption</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-making-the-cursor-more-noticeable-in-windows/"><u>Step-by-Step: Making the Cursor More Noticeable in Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-issues-with-assassins-creed-mirage-failure-to-start/"><u>Troubleshooting Guide: Resolving Issues with Assassin's Creed Mirage Failure to Start</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-rapid-relay-youtube-playlists-to-the-public/"><u>[New] 2024 Approved Rapid Relay Youtube Playlists to the Public</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-elevate-stories-vibrancy-via-thoughtful-interactive-qandas/"><u>[Updated] 2024 Approved Elevate Stories' Vibrancy via Thoughtful Interactive Q&As</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/efficient-techniques-to-improve-windows-10-photos-app-functionality/"><u>Efficient Techniques to Improve Windows 10 Photos App Functionality</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhance-gameplay-fluidity-fixing-frame-rate-lapses-in-rainbow-six-extraction/"><u>Enhance Gameplay Fluidity: Fixing Frame Rate Lapses in Rainbow Six Extraction</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-create-a-digital-signature-online-for-wps-file-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Create a Digital Signature Online for .wps file document</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reestablish-windows-steam-connections/"><u>How to Reestablish Windows-Steam Connections</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-x-flip-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo X Flip to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/picking-between-google-and-windows-file-sharing-technologies/"><u>Picking Between Google and Windows File Sharing Technologies</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-leaderboard-game-lol/"><u>Unlocking Windows Leaderboard Game (LOL)</u></a></li>
+<li><a href="https://windows11.techidaily.com/upgrade-windows-11-notebook-using-ai-expert/"><u>Upgrade Windows 11 Notebook Using AI Expert</u></a></li>
 </ul></div>
 

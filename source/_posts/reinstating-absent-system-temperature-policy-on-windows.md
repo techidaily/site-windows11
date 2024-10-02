@@ -1,7 +1,7 @@
 ---
 title: Reinstating Absent System Temperature Policy on Windows
-date: 2024-09-22T17:02:55.032Z
-updated: 2024-09-26T18:13:45.432Z
+date: 2024-09-29T18:51:05.521Z
+updated: 2024-10-01T19:32:54.045Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,10 @@ Here’s how to do that.
  If you go back to the Power Options menu, you’ll find that it’s gone.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Fix a Missing System Cooling Policy Using the Windows Registry
@@ -59,10 +59,16 @@ Here’s how to do that.
 ![creating a text document on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creating-text-doc-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In the text document, enter the following code:
@@ -74,10 +80,10 @@ In the text document, enter the following code:
 ![message to continue merging a registry file with the windows registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/message-continue-merge-reg-gile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You should now see the system cooling policy in the Power Options menu.
@@ -89,16 +95,10 @@ In the text document, enter the following code:
  Once you run this file, the system cooling policy will be hidden again in the Power Options menu.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bringing Back the System Cooling Policy on Windows
@@ -120,14 +120,24 @@ In the text document, enter the following code:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-learn-the-mechanics-behind-self-playing-videos-in-fb-for-2024/"><u>[Updated] Learn the Mechanics Behind Self-Playing Videos in Fb for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-complete-guide-to-crafting-youtube-masterpieces-for-2024/"><u>[Updated] The Complete Guide to Crafting YouTube Masterpieces for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-google-powered-success-in-podcast-submissions/"><u>2024 Approved Google-Powered Success in Podcast Submissions</u></a></li>
-<li><a href="https://windows11.techidaily.com/4-ways-to-flush-the-dns-cache-on-windows-11/"><u>4 Ways to Flush the DNS Cache on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-in-use-device-naming-5-fixes-for-windows-errors/"><u>Avoiding In-Use Device Naming: 5 Fixes for Windows Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-common-errors-in-microsoft-office-activation/"><u>Overcoming Common Errors in Microsoft Office Activation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gaming-help-saints-row-wont-start-heres-what-you-can-do/"><u>PC Gaming Help - Saints Row Won't Start? Here’s What You Can Do!</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-screen-notebook-techniques-for-win-1011/"><u>Top-Screen Notebook Techniques for Win 10/11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-top-hidden-features-in-whatsapp-that-will-change-how-you-message/"><u>[New] Top Hidden Features in WhatsApp That Will Change How You Message</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-jotunheims-gambit-warriors-of-ragnarok-for-2024/"><u>[Updated] Jotunheim's Gambit Warriors of Ragnarok for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-gain-on-ig-unveiling-high-payoff-content-strategies/"><u>2024 Approved Gain on IG Unveiling High-Payoff Content Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/an-easy-nft-creation-pathway-for-starters/"><u>An Easy NFT Creation Pathway For Starters</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-iphone-12-pro-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On iPhone 12 Pro Max</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-file-management-winpcs-most-valuable-fileshare-apps/"><u>Effortless File Management: WinPC's Most Valuable Fileshare Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-error-0x80072efd-a-windows-store-solution/"><u>Eliminating Error 0X80072EFD: A Windows Store Solution</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-windows-11-zoom-problem-code-1132/"><u>Eliminating Windows 11 Zoom Problem: Code 1132</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-hyper-v-a-quick-win11-guide/"><u>Enabling Hyper-V: A Quick Win11 Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-onedrive-for-direct-file-explorer-opens/"><u>Enabling OneDrive for Direct File Explorer Opens</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-and-streamlining-windows-based-discord-searches/"><u>Enhancing and Streamlining Windows-Based Discord Searches</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-visual-quality-setting-sizes-on-win11/"><u>Enhancing Visual Quality: Setting Sizes on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicate-the-current-password-needed-issue-on-windows-11/"><u>Eradicate the ‘Current Password Needed’ Issue on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicating-empty-directory-warning-code-0x80070091-in-windows-11-os/"><u>Eradicating Empty Directory Warning Code 0X80070091 in Windows 11 OS</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-iphone-6s-plus-password-here-are-the-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Forgot iPhone 6s Plus Password? – Here are the Best Solutions | Stellar</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y77t-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-choosing-the-perfect-screen-recording-tool-for-windows-11-ranked/"><u>Ultimate Guide to Choosing the Perfect Screen Recording Tool for Windows 11 - Ranked!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-6s-plus-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 6s Plus i Do? Get Answers here | Dr.fone</u></a></li>
 </ul></div>
 

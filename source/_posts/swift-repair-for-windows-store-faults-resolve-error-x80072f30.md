@@ -1,7 +1,7 @@
 ---
 title: "Swift Repair for Windows Store Faults: Resolve Error X80072F30"
-date: 2024-09-09T12:09:57.474Z
-updated: 2024-09-10T12:09:57.474Z
+date: 2024-09-29T16:20:13.828Z
+updated: 2024-10-01T22:31:35.909Z
 tags:
   - windows10
   - windows11
@@ -28,27 +28,9 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 2. Next, click Settings'**Troubleshoot** navigation option in the**System** tab.  
 ![The Run button for the Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-run-button-for-the-app-troubleshooter.jpg)
 3. Click**Other-troubleshooters** to access Windows 11’s troubleshooting tools.
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Press Windows Store App’s**Run** button to see if that troubleshooter detects any issues.  
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/windows-store-apps-troubleshooter.jpg)
 5. Apply any possible manual fixes the troubleshooter suggests.
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Opening the same troubleshooting tools in Windows 10 is a little different. You’ll need to select**Update & Security** \>**Troubleshoot** in Windows 10’s Settings app. Then click the**Additional troubleshooters** navigation link to reach the troubleshooting tools.
 
@@ -62,18 +44,14 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 2. Type**wsreset.exe** inside the text box to find that run command.  
 ![A wsreset.exe search command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/a-wsreset-search.jpg)
 3. Select**wsreset.exe** to initiate the command.
+
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Restart Windows after resetting MS Store’s cache.
 
 ## 3\. Check the Windows Update Service
@@ -90,12 +68,6 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 6. Remember to select**Apply** .
 7. Select**OK** to close the Windows Update Properties window.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Check the Date & Time Settings on Your PC
 
  MS Store is an app for which correct time and date settings on your PC are important. Issues often occur when the MS Store app’s time is not in sync with that of your PC. You can check your PC’s date and time by glancing at its system tray clock. Follow these steps if it looks like you might need to readjust your PC’s time settings:
@@ -105,12 +77,6 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 3. Turn off the**Set the time automatically** option if enabled.  
 ![The Set the time automatically option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-set-time-automatically-option.jpg)
 4. Select the**Change** option for manually setting the date and time.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Input the correct time and date for the region your PC is set to. You can check the right time and date for your PC’s set region at the[World Clock](https://www.timeanddate.com/worldclock/) website.  
 ![The Change the date & time window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-change-date-time-window.jpg)
 6. Then select**Change** to set the new time.
@@ -118,11 +84,12 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 8. Then select to restart Windows after correcting the time settings.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Turn Off Any Active Proxy Server Settings
 
  A[proxy server](https://www.makeuseof.com/tag/what-is-a-proxy-server/) is an intermediary server through which data traffic flows when enabled on your PC. That can cause MS Store connection issues that only disabling a proxy will resolve. So, it could be the case a proxy server is causing error 0x80072F30 on your PC.
@@ -139,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 ![The Use a proxy server option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-use-proxy-server-option.jpg)
 7. Click**OK** on the Local Area Network window.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Select the Automatic DNS Server and IP Address Options
 
  If you manually configured an IP address or DNS server, try switching to automatic IP and DNS settings. Some users who’ve resolved error 0x80072F30 have confirmed selecting options for automatically obtaining IP and DNS server addresses worked for them. This is how you can select those automatic address options in Windows 11/10:
@@ -148,31 +122,37 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 3. Right-click your internet connection there and select its**Properties** option.  
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-properties-option.jpg)
 4. Select**Internet Protocol Version 4** , and click the**Properties** button.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![The Networking tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-networking-tab.jpg)
 5. Then click the**Obtain an IP address automatically** radio button to select that option.
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. Select the**Obtain DNS server address automatically** setting.  
 ![The obtain DNS and IP address options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-automatic-dns-and-ip-address-options.jpg)
 7. Click**OK** on the Internet Protocol window.
-8. Select**Close** to exit the**Networking** tab.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+8. Select**Close** to exit the**Networking** tab.
+
 ## 7\. Reinstall the Microsoft Store App
 
  The final solution for error 0x80072F30 is to reinstall MS Store. You can’t reinstall Microsoft Store like a standard app. However, you can effectively reinstall Microsoft Store by executing a PowerShell command in the following steps:
@@ -184,18 +164,6 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 `Get-AppxPackage -allusers Microsoft.WindowsStore | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register &ldquo;$($_.InstallLocation)\AppXManifest.xml&rdquo;}`  
 ![The reinstall Microsoft Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/the-reinstall-powershell-command.jpg)
 5. Press**Enter** to reinstall the Microsoft Store.
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Install Apps From the Microsoft Store Again
 
@@ -207,8 +175,6 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +182,26 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-navigating-the-digital-realm-uploading-with-premiere-and-youtube/"><u>[New] 2024 Approved Navigating the Digital Realm Uploading with Premiere & YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-capture-perfection-5-expert-tips-for-games-and-live-footage/"><u>[New] Capture Perfection 5 Expert Tips for Games & Live Footage</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comprehensive-discussion-googles-podcast-uncovered/"><u>[New] Comprehensive Discussion Google's Podcast Uncovered</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-essential-guide-top-10-free-youtube-to-mp3-tools-for-2024/"><u>[Updated] Essential Guide Top 10 Free YouTube-to-MP3 Tools for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-windows-10-picture-and-media-importer/"><u>2024 Approved The Ultimate Guide to Windows 10 Picture & Media Importer</u></a></li>
+<li><a href="https://windows11.techidaily.com/briefly-explain-what-cultural-relativism-means-in-your-own-words/"><u>Briefly Explain What Cultural Relativism Means in Your Own Words.</u></a></li>
+<li><a href="https://windows11.techidaily.com/broken-binkey-bastion-proceed-prudently-not-promptly/"><u>Broken Binkey Bastion: Proceed Prudently, Not Promptly</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-the-path-fixing-windows-11-writable-errors/"><u>Clearing the Path: Fixing Windows 11' Writable Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/coherent-organization-of-windows-files-max-156/"><u>Coherent Organization of Windows Files (Max 156)</u></a></li>
+<li><a href="https://windows11.techidaily.com/compact-guide-best-windows-forecasting-tools/"><u>Compact Guide: Best Windows Forecasting Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafting-a-plan-for-file-explorer-in-windows-11/"><u>Crafting a Plan for File Explorer in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafting-windows-11-shortcuts-a-step-by-step-guide-to-text-snapping/"><u>Crafting Windows 11 Shortcuts: A Step-by-Step Guide to Text Snapping</u></a></li>
+<li><a href="https://windows11.techidaily.com/curtailing-spontaneous-terminal-trigger-activations/"><u>Curtailing Spontaneous Terminal Trigger Activations</u></a></li>
+<li><a href="https://windows11.techidaily.com/dial-down-display-flicker-in-windows-11-devices/"><u>Dial Down Display Flicker in Windows 11 Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-hp-laserjet-p1006-drivers-here-free-download-now/"><u>Get Your HP LaserJet P1006 Drivers Here – Free Download Now</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-change-video-speed-on-instagram-stories-in-2024/"><u>How to Change Video Speed on Instagram Stories, In 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-oneplus-11r-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the OnePlus 11R Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/encing-earnings-through-channel-partnerships/"><u>Influencing Earnings Through Channel Partnerships</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-unveiling-the-latest-in-computer-components-t17239718670261/"><u>Tom's Tech Reviews: Unveiling the Latest in Computer Components</u></a></li>
+</ul></div>
 

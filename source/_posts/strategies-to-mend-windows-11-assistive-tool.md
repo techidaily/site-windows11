@@ -1,7 +1,7 @@
 ---
 title: Strategies to Mend Windows 11 Assistive Tool
-date: 2024-09-14T17:54:51.549Z
-updated: 2024-09-20T21:18:26.920Z
+date: 2024-09-25T01:55:46.753Z
+updated: 2024-10-01T23:23:51.454Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 
  Note that these fixes can't help you if your issue is serious. In that case, try the following troubleshooting methods.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Repair or Reset the Get Help App
 
  In some situations, the Get Help app may be corrupt. For example, if your computer is infected by malware, it may force some Windows apps to malfunction. If this is your case, please first [disinfect your Windows computer](https://www.makeuseof.com/best-malware-removal-tools-pc/).
@@ -62,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 * Connecting to a different network, as specific network configurations might disrupt certain apps.
 * Contacting your Internet Service Provider (ISP) to inquire about potential network maintenance.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Disable VPN or Proxy Temporarily
 
  If you're still facing issues with the Get Help app, it seems to be due to your VPN or proxy configuration. You can disable your connected VPN or proxy for a quick test.
@@ -71,24 +85,25 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 1. Type **VPN settings** in Windows Search and select **Open** next to the search result.  
 ![VPN Settings Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/vpn-settings-search-results.jpg)
 2. Choose the **Disconnect** button to turn off the VPN.
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Similarly, you must [temporarily disable your proxy](https://www.makeuseof.com/windows-11-disable-proxy/) to troubleshoot the cause of your Get Help failing to work.
 
  Remember to re-enable your VPN or proxy once you're done to ensure your online activities remain private and secure.
 
  Now you can open the Get Help app and check whether the content loads correctly. Try the following troubleshooting method if the Get Help app still displays a blank screen.
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Restart Windows Services
 
@@ -100,23 +115,16 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
 ![Services Command On Run App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/services-command-on-run.jpg)
 2. Now press **Enter** to launch the Services app.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. You'll see a list of all the services currently available in your system. Locate the **Diagnostic Policy Service** and right-click on its name.
 4. Select **Restart** from its context menu.  
 ![Diagnostic Policy Service Restart Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/diagnostic-policy-service-restart-option.jpg)
 5. Similarly, repeat the steps to restart the **Windows Management Instrumentation** service.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Install the Microsoft Edge WebView2 Runtime
@@ -147,16 +155,10 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
  A fresh installation should resolve all the issues with the app. And now, you can go back to troubleshooting without any hassle.
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## No More Blank Screen in the Get Help App
@@ -175,5 +177,26 @@ thumbnail: https://thmb.techidaily.com/0171a03fcfaa97ca9a37fd62265ffdf540832c9ac
       data-full-width-responsive="true"></ins>
     
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-harnessing-lightrooms-power-for-spectacular-hdr-results/"><u>[Updated] Harnessing Lightroom's Power for Spectacular HDR Results</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-full-review-for-bublcam-360-camera/"><u>2024 Approved Full Review for Bublcam 360 Camera</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/6-ingenious-applications-of-the-code-interpretation-function-in-chatgpt-technology/"><u>6 Ingenious Applications of the Code Interpretation Function in ChatGPT Technology</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerating-battlenet-game-updates-in-windows/"><u>Accelerating Battle.net Game Updates in Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/direct-download-for-enhanced-windows-graphics/"><u>Direct Download for Enhanced Windows Graphics</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-program-initiation-with-optimal-win11-settings/"><u>Enhance Program Initiation with Optimal Win11 Settings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-insights-into-the-world-of-pc-components-by-toms-technology-hub/"><u>Expert Insights Into the World of PC Components by Tom's Technology Hub</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixes-for-inactive-snapshots-on-pcs/"><u>Fixes for Inactive Snapshots on PCs</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-15-pro-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 15 Pro Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximize-mouse-efficiency-altering-double-click-speed-in-windows/"><u>Maximize Mouse Efficiency: Altering Double-Click Speed in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-malfunctioning-outlook-mail-signals-on-pc/"><u>Mending Malfunctioning Outlook Mail Signals on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-remedy-for-windows-uninitialized-disk-issue/"><u>Quick Remedy for Windows 'Uninitialized' Disk Issue</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/seamless-switching-between-screens-with-chromes-pip/"><u>Seamless Switching Between Screens with Chrome's PIP</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-error-non-compliant-windows-generic-audio-problems/"><u>Stop Error: Non-Compliant Windows Generic Audio Problems</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/streamline-your-content-twitter-video-integration-for-2024/"><u>Streamline Your Content Twitter Video Integration for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-application-could-not-find-qt-plugin/"><u>Unblocking Application Could Not Find Qt Plugin</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unlock-the-secrets-to-starting-overwatch-2-effortlessly-in-202n-top-7-fix-strategies/"><u>Unlock the Secrets to Starting Overwatch 2 Effortlessly in 202N: Top 7 Fix Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-unsupported-drive-issue-in-windows/"><u>Unraveling the 'Unsupported Drive' Issue in Windows</u></a></li>
+</ul></div>
 

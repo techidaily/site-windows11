@@ -1,7 +1,7 @@
 ---
 title: Pinpointing Where Windows Stores New Software
-date: 2024-09-14T20:42:06.743Z
-updated: 2024-09-20T16:07:30.430Z
+date: 2024-09-30T20:10:59.075Z
+updated: 2024-10-01T17:42:46.180Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
 ![shortcut properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/shortcut-target.jpg)
 3. Click on the**Shortcut** tab, and you will find the installation path in the**Target** field.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Locate the Folder Where a Program Is Installed Using Task Manager
 
  The Windows Task Manager is a powerful system monitor utility tool that allows you to manage running processes on your system. Apart from other[conventional uses of the Task Manager](https://www.makeuseof.com/how-to-use-windows-task-manager/) , you can also use it to find the installation folder of a program (you might need to launch the program beforehand).
@@ -55,15 +62,22 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
 1. Launch the**Task Manager** by right-clicking the**Start** menu and selecting**Task Manager** from the context menu.  
 ![task manager details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/task-manager-details.jpg)
 2. Once the Task Manager is up and running, click on the**Details** tab to get a list of all[currently running background processes](https://www.makeuseof.com/windows-pc-too-many-background-processes/) and applications.
-3. After locating the program you need, right-click and then click on**Open file location** .
-4. A new File Explorer window will open up, and you will have found the program's installation directory.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+3. After locating the program you need, right-click and then click on**Open file location** .
+4. A new File Explorer window will open up, and you will have found the program's installation directory.
 
 ## 4\. Access the Installation Folder of a Program Using File Explorer
 
@@ -79,10 +93,23 @@ To find where a program is located using the File Explorer:
 3. Navigate to**Program Files > Program Files (x86)** and then scroll the list of folders until you find one with the program name you’re looking for.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Finding a Program's Install Location Is Easy
@@ -104,5 +131,21 @@ To find where a program is located using the File Explorer:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ultimate-screen-capture-review-obs-vs-fraps/"><u>[New] 2024 Approved Ultimate Screen Capture Review OBS vs Fraps</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-catch-a-wider-net-via-concurrent-streams-to-youtube-plus-twitch/"><u>[New] Catch a Wider Net via Concurrent Streams to Youtube + Twitch</u></a></li>
+<li><a href="https://windows11.techidaily.com/beat-the-blank-screen-blues-faster-input-in-windows-11/"><u>Beat the Blank Screen Blues: Faster Input in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/brighten-control-navigating-windows-11-display-settings/"><u>Brighten Control: Navigating Windows 11 Display Settings</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-worth-of-elite-ai-assistance-costs/"><u>Decoding the Worth of Elite AI Assistance Costs</u></a></li>
+<li><a href="https://article-posts.techidaily.com/echoes-for-every-call-the-ultimate-guide-to-tamil-ringtones/"><u>Echoes for Every Call The Ultimate Guide to Tamil Ringtones</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-chromiums-firewall-connection-within-windows-safeguards/"><u>Enabling Chromium's Firewall Connection Within Windows Safeguards</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-honor-x50-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Honor X50</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-powershell-script-execution-policy-landscape/"><u>Navigating the PowerShell Script Execution Policy Landscape</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-restore-fn-key-brighness-in-windows-11/"><u>Steps to Restore Fn Key Brighness in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-expert-guidance-on-the-latest-hardware/"><u>Tom's Tech Insights: Expert Guidance on the Latest Hardware</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-true-price-of-owning-an-electric-vehicle/"><u>Unveiling the True Price of Owning an Electric Vehicle</u></a></li>
+<li><a href="https://article-helps.techidaily.com/xsplit-library-downloads-and-critical-perspectives/"><u>XSplit Library Downloads and Critical Perspectives</u></a></li>
+</ul></div>
 

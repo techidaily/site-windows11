@@ -1,7 +1,7 @@
 ---
 title: "Simplifying the Networks Menu: Win 11 Wifi Cleanup"
-date: 2024-09-15T18:36:56.177Z
-updated: 2024-09-20T18:22:16.081Z
+date: 2024-09-26T00:03:59.320Z
+updated: 2024-10-01T22:46:33.673Z
 tags:
   - windows10
   - windows11
@@ -41,7 +41,21 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 
 ![Remove Wi-Fi Network From Quick Settings Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Remove-Wi-Fi-Network-From-Quick-Settings-Panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Like using the Quick Settings on Windows? Check out[how to customize the Quick Settings panel on your Windows 11 computer](http://www.makeuseof.com/windows-11-customize-quick-settings-menu/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Remove a Saved Wi-Fi Network via the Settings App
 
@@ -57,13 +71,6 @@ To forget a Wi-Fi network via the Settings app:
 
  And that's about it. Once you click the**Forget** button, Windows will remove the network profile associated with that network.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Remove a Saved Wi-Fi Network With Command Prompt or PowerShell
 
  Another option for removing a saved Wi-Fi network is to use a command-line tool such as Command Prompt or Windows PowerShell. You can easily forget a Wi-Fi network by running a couple of commands in the terminal window. Here’s how you can go about it.
@@ -78,16 +85,16 @@ To forget a Wi-Fi network via the Settings app:
 `netsh wlan delete profile name="WIFIName"`  
 ![Delete a Saved Wi-Fi Profile Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Delete-a-Saved-Wi-Fi-Profile-Using-Command-Prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can repeat the above command to remove as many networks as you want. Conveniently, the command-line tool also lets you remove all the saved Wi-Fi networks at once. To do so, use this command:
 
 `netsh wlan delete profile name=* i=*`
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Remove a Saved Wi-Fi Network Using Registry Editor
 
@@ -108,10 +115,10 @@ To remove a Wi-Fi network using the Registry Editor:
 ![Remove Wi-Fi Network on Windows Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Remove-Wi-Fi-Network-on-Windows-Using-Registry-Editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you complete the above steps, the saved profile will be removed from your system.
@@ -145,5 +152,21 @@ To remove a Wi-Fi network using the Registry Editor:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-the-ultimate-metaverse-advertising-playbook-for-2024/"><u>[New] The Ultimate Metaverse Advertising Playbook for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-overcoming-technical-challenges-with-fb-live-videos/"><u>2024 Approved Overcoming Technical Challenges with FB Live Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/claim-your-potential-in-windows-11-regain-missing-system-upgrades/"><u>Claim Your Potential in Windows 11: Regain Missing System Upgrades</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/complete-dynamics-review-2023-for-2024/"><u>Complete Dynamics Review 2023 for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-elevation-problem-with-error-code-740-on-windows-11/"><u>Fixing Elevation Problem with Error Code 740 on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-display-more-pinned-items-on-the-windows-11-start-menu/"><u>How to Display More Pinned Items on the Windows 11 Start Menu</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-metaverse-passage-premier-vr-equipment-showcase/"><u>In 2024, Metaverse Passage Premier VR Equipment Showcase</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-optimizing-media-experience-best-windows-phone-videos/"><u>In 2024, Optimizing Media Experience Best Windows Phone Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-22h2-windows-woes/"><u>Navigating Through 22H2 Windows Woes</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimal-start-menu-no-commercials-here/"><u>Optimal Start Menu: No Commercials Here!</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-ethernet-signal-in-windows-os/"><u>Securing Ethernet Signal in Windows OS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-free-guide-to-conducting-flawless-google-meet-sessions-for-2024/"><u>The Free Guide to Conducting Flawless Google Meet Sessions for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-picks-ultimate-twitter-applications-and-programs/"><u>Top Picks: Ultimate Twitter Applications & Programs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Oppo A18? | Dr.fone</u></a></li>
+</ul></div>
 

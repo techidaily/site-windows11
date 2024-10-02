@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Snippet Paste: Hotkey Setup Tips for Windows 11 and 11 Users"
-date: 2024-09-15T16:37:11.712Z
-updated: 2024-09-20T17:26:24.369Z
+date: 2024-09-26T17:31:45.346Z
+updated: 2024-10-01T23:47:45.984Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,19 @@ thumbnail: https://thmb.techidaily.com/698acf9899d7549d0c21beb422c9a4efb393d0c10
 
  QuickTextPaste needs to be running in the background for its hotkeys to work. You can set the program to run automatically by clicking**Action** \>**Start** **with Windows** . Select the**Always start minimized (ToTray)** option to set the program to appear only in the system tray area when started.
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set up Hotkeys for Pasting Pre-Defined Text With HotkeyP
 
  HotkeyP is a lightweight app with which you can set up a wide variety of system, display, multimedia, window, and macro hotkeys. As it’s a portable program, you can utilize it on most Windows platforms with no installation necessary. These are the steps for setting up a custom paste hotkey for pre-defined text with HotkeyP:
@@ -65,6 +78,14 @@ thumbnail: https://thmb.techidaily.com/698acf9899d7549d0c21beb422c9a4efb393d0c10
 2. Click**Add** to bring up a Hot Key window.  
 ![The HotkeyP window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hotkeyp.jpg)
 3. Next, press the arrow (**<**) button for the**Command** box.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select**Macro** and the**Paste text** option.  
 ![The Paste text option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/paste-text-option.jpg)
 5. Then input the text to paste within the**Parameters** box. That parameters box doesn’t seem to have any character number restriction for how long your pre-defined text can be.
@@ -73,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/698acf9899d7549d0c21beb422c9a4efb393d0c10
 8. Enter a title for the hotkey in the**Description** box.  
 ![The Hot Key window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hot-key-window.jpg)
 9. Select**OK** to add the new custom paste hotkey.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you’ll see the hotkey you’ve just set listed within the HotkeyP window. Press**Esc** to hide the HotkeyP in the system tray. Then open WordPad, Notepad, or another text editor to try out the hotkey. Press the custom hotkey you’ve set up to paste in its pre-defined text.
 
@@ -93,10 +121,10 @@ thumbnail: https://thmb.techidaily.com/698acf9899d7549d0c21beb422c9a4efb393d0c10
  You can set up a program keyboard shortcut by selecting an app’s path within the Hot Key window. Click the**ellipses (…)** button for the**Command** box to select a program for a keyboard shortcut to open. Then you can also select additional**Process priority** and**Run as administrator** settings for the software the hotkey launches.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create Handy Hotkeys for Pasting Pre-Defined Text in Windows
@@ -116,5 +144,20 @@ thumbnail: https://thmb.techidaily.com/698acf9899d7549d0c21beb422c9a4efb393d0c10
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-unlock-your-potential-designing-captivating-discord-photos/"><u>[New] 2024 Approved Unlock Your Potential Designing Captivating Discord Photos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-boost-your-snaps-techniques-for-enhanced-snapchat-zoom/"><u>[New] Boost Your Snaps Techniques for Enhanced Snapchat Zoom</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-mastering-the-art-of-social-media-videos-for-maximum-reach/"><u>[New] In 2024, Mastering the Art of Social Media Videos for Maximum Reach</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-10-steps-to-youtube-to-mpeg-conversion/"><u>[New] Top 10 Steps to YouTube-to-MPEG Conversion</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-uncovering-potential-through-skilled-interviewing-for-2024/"><u>[New] Uncovering Potential Through Skilled Interviewing for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-revolutionizing-videography-with-the-impressive-nikon-j5/"><u>[Updated] Revolutionizing Videography with the Impressive Nikon J5</u></a></li>
+<li><a href="https://windows11.techidaily.com/3-ways-to-adjust-the-mouse-double-click-speed-on-windows/"><u>3 Ways to Adjust the Mouse Double-Click Speed on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/activatedeactivate-smartscreen-filter-on-windows-11/"><u>Activate/Deactivate SmartScreen Filter on Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discover-the-latest-free-wanderlust-helper-7-ai-chatgpt-tools-for-effortless-journey-organization/"><u>Discover the Latest Free Wanderlust Helper: 7 AI ChatGPT Tools for Effortless Journey Organization</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/inside-look-how-to-reach-windowsstore-folder/"><u>Inside Look: How To Reach WindowsStore Folder</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-error-windows-welcome-cant-read-fingers/"><u>Tackling Error: Windows Welcome Can't Read Fingers</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-best-way-to-setup-games-on-the-windows-xbox-app/"><u>The Best Way to Setup Games on the Windows Xbox App</u></a></li>
+</ul></div>
 

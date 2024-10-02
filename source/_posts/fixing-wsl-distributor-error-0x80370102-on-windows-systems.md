@@ -1,7 +1,7 @@
 ---
 title: Fixing WSL Distributor Error 0X80370102 on Windows Systems
-date: 2024-09-24T21:00:24.461Z
-updated: 2024-09-26T16:42:00.792Z
+date: 2024-09-27T19:12:39.631Z
+updated: 2024-10-01T17:14:15.709Z
 tags:
   - windows10
   - windows11
@@ -49,29 +49,16 @@ Here is how you can enable Hyper-V on your PC:
 3. Click on**Turn Windows Feature on or off** in the left pane.  
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Turn Windows features on or off option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-windows-features-on-or-off.jpg)
 4. In the following dialog, checkmark the box associated with**Hyper-V** and click**OK** .  
 ![Enable Hyper-V in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hyper-v-setting.jpg)
 5. Once done, restart your computer and check if the issue is resolved. While you are at it, we also recommend checking if the Virtual Machine Platform feature is enabled by following the same steps. If it is disabled, enabling it should help you fix the issue as well.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, we will check if Virtualization is enabled on the device. In most devices, it is disabled by default. Follow the steps below to proceed:
 
@@ -81,15 +68,23 @@ Here is how you can enable Hyper-V on your PC:
 3. Head over to the**Performance** tab and click on CPU.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Under the CPU graph on the right side, check the status for**Virtualization** . In case you are not sure if your PC supports virtualization, view the Hyper-V support section in the same window. If it says Yes, then it implies that you can make use of hardware virtualization on your computer.  
 ![Virtualization in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/virtualization-setting.jpg)
 5. Alternatively, open Run by pressing the**Win + R** keys together.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Type cmd in the text field and press**Ctrl + Shift + Enter** to open Command Prompt as admin.
 7. Click**Yes** in the User Account Control Prompt.
 8. Type systeminfo in Command Prompt and hit Enter.
@@ -97,6 +92,13 @@ Here is how you can enable Hyper-V on your PC:
 ![Check Hyper-V requirements in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hyper-v-requirements.jpg)
 
  If the service is disabled,[enabling the Hyper-V technology on Windows](https://www.makeuseof.com/windows-11-enable-hyper-v/) should fix the problem for you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Restart the LxssManager Service
 
@@ -112,13 +114,6 @@ Here is how you can do that:
 4. Choose**Properties** from the context menu.  
 ![LxssManager service properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/lxssmanager-utility.jpg)
 5. Now, click on the**Stop** button, wait for a few seconds, and then hit**Start** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Click on the Start button in the Properties dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/stop-button.jpg)
 6. Once the service is restarted, check if the issue is resolved.
@@ -136,18 +131,18 @@ Set-VMProcessor <VMName> -ExposeVirtualizationExtensions $true
 ![Execute the entered command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/powershell-command-hyperv.jpg)
 4. Now, launch the Hyper-V manager and right-click on the virtual machine.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Choose**Settings** from the context menu.
 6. Click on**Memory** in the left pane.
 7. Now, increase the Startup RAM value by double and uncheck the box for**Enable Dynamic Memory** .  
 ![Modify the memory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/configure-hyper-v-dynamic-memory.jpg)
 8. Click**Apply** \>**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9. Now, right-click on your virtual machine again and choose**Connect** .
 10. Let the system restart and try installing/running Ubuntu again.
@@ -171,16 +166,19 @@ Set-VMProcessor <VMName> -ExposeVirtualizationExtensions $true
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-essential-list-of-preferred-ae-themes-on-ig/"><u>[Updated] In 2024, The Essential List of Preferred AE Themes on IG</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-thors-odyssey-the-last-stand/"><u>[Updated] In 2024, Thor’s Odyssey The Last Stand</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-comprehensive-guide-for-pcs-memory-tool-issues/"><u>A Comprehensive Guide for PC's Memory Tool Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/clipchamp-patch-enable-installation-in-windows-11/"><u>ClipChamp Patch: Enable Installation in Windows 11</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/economic-elders-youtubes-most-knowledgeable-financial-stations-for-2024/"><u>Economic Elders YouTube's Most Knowledgeable Financial Stations for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-change-screen-order-in-pc/"><u>How to Change Screen Order in PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How to Change/Add Location Filters on Snapchat For your Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-prevent-unsolicited-openings-of-search-bar-win11/"><u>How to Prevent Unsolicited Openings of Search Bar, Win11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-sony-xperia-10-v-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Sony Xperia 10 V To Phone | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-your-win-1011-menu-options/"><u>Reviving Your Win 10/11 Menu Options</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-logitech-webcam-microphone-malfunctions-effectively/"><u>Troubleshoot and Repair Logitech Webcam Microphone Malfunctions Effectively</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-crafting-cinematic-audio-in-inshot-videos/"><u>[New] Crafting Cinematic Audio in InShot Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/oes-the-sub4sub-strategy-improve-content-consumption-in-2024/"><u>[New] Does the Sub4Sub Strategy Improve Content Consumption, In 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-innovations-in-balancing-exposures-for-perfect-pictures/"><u>[Updated] In 2024, Innovations in Balancing Exposures for Perfect Pictures</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-obstacles-downloading-icloud-on-windows/"><u>Bypassing Obstacles: Downloading iCloud on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/chrome-files-upload-hurdle-heres-how-to-clear-it-on-windows/"><u>Chrome Files Upload Hurdle? Here's How to Clear It on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/compact-pc-capacity-concealed-by-slowness/"><u>Compact PC, Capacity Concealed by Slowness</u></a></li>
+<li><a href="https://windows11.techidaily.com/confronting-windows-security-blunders-with-ease/"><u>Confronting Windows Security Blunders with Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/converting-oculus-quest-to-function-in-windows-pc-virtual-reality/"><u>Converting Oculus Quest to Function in Windows PC Virtual Reality</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-non-working-night-mode-in-windows-10-and-11-step-by-step-guide/"><u>How To Fix The Non-Working Night Mode in Windows 10 & 11 - Step by Step Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-motorola-g24-power-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Motorola G24 Power</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-g54-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Motorola G54 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hydraulic-radius-r-cross-sectional-area-a-wetted-perimeter-p/"><u>Hydraulic Radius (R) = Cross-Sectional Area (A) / Wetted Perimeter (P).</u></a></li>
+<li><a href="https://discover-able.techidaily.com/kom-gratis-aiff-files-naar-m4a-versie-omzetten-simpelweg-en-efficient-met-movavi-online-konverter/"><u>Kom Gratis AIFF-Files Naar M4a-Versie Omzetten - Simpelweg en Efficiënt Met Movavi Online Konverter</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/um-screen-reporter-the-ultimate-youtubers-friend/"><u>Premium Screen Reporter The Ultimate YouTuber's Friend</u></a></li>
 </ul></div>
 

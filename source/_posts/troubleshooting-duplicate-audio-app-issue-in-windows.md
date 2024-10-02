@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Duplicate Audio App Issue in Windows
-date: 2024-09-24T20:22:57.263Z
-updated: 2024-09-26T16:46:15.279Z
+date: 2024-09-30T19:53:18.910Z
+updated: 2024-10-01T20:38:43.964Z
 tags:
   - windows10
   - windows11
@@ -39,13 +39,6 @@ To run the audio troubleshooter:
 4. Next, click the**Run** button for**Playing Audio** . Wait for the audio troubleshooter to scan for issues. Then select the affected audio device and click**Next** .
 5. Follow the on-screen instructions and check if the error is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Disable Exclusive Mode for the Audio Device
 
  By default, Windows applications can take exclusive control of the audio device. While enabling this option shouldn’t cause any issues, some apps may prevent the device from being used by other audio services. To fix the problem, disable exclusive mode to stop applications from taking exclusive control of the audio device.
@@ -57,19 +50,20 @@ To disable Exclusive Mode for the audio device on Windows:
 3. Scroll down and click on**More sound settings** .  
 ![more sound settings windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/more-sound-settings-windows-11.jpg)
 4. Select the audio device in the**Sound** dialog and click the**Properties** button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Open the**Advanced** tab in the**Properties** dialog.  
 ![disable exclusive mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/disable-exclusive-mode.jpg)
 6. Uncheck the **Allow application to take exclusive control of this device** and**Give exclusive mode application priority** options.
 7. Click**Apply** and**OK** to save the changes.
 
  Restart your computer and check if the error is resolved and if the audio device is working again.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Change Windows Audio Service Startup Type
 
@@ -89,10 +83,10 @@ To change the Windows Audio service Startup type:
 6. If the service is not running, right-click on**Windows Audio** and select**Start** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Close the Services snap-in and restart your PC. After the restart, your audio device should start working again.
@@ -107,6 +101,13 @@ To change the Windows Audio service Startup type:
 
 ![Uninstalling an audio device in Windows 11.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/uninstalling-audio-device-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also troubleshoot your audio problems by uninstalling the audio device and the associated drivers. Reinstalling the audio device can help if the sound problem is due to corrupt audio drivers.
 
 To uninstall your audio device on Windows:
@@ -119,6 +120,13 @@ To uninstall your audio device on Windows:
 
  You may see a yellow exclamation mark on the uninstalled audio device. To reinstall the driver, click on**File** and select**Scan for hardware changes** . This should reinstall the sound device and driver. If not, restart your computer. As the system restarts, Windows will reinstall the missing audio device driver and restore sound on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Perform a Driver Rollback
 
  If you have an external sound card and have installed an update, try a driver rollback. A new driver update can sometimes create more problems than it intends to fix. You can use the device driver rollback feature in Device Manager to undo the changes and reinstall the older version of the driver.
@@ -126,13 +134,6 @@ To uninstall your audio device on Windows:
  You can[roll back a driver using Windows Device Manager](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) . In Device Manager, expand the**Sound, Video, and Game Controllers** section. Next, access your external sound card properties to perform a rollback.
 
  If the Roll Back Driver option is greyed out, it means the option is unavailable for the selected device. In this instance, uninstall the existing audio device driver and download an older version of the driver from your sound card manufacturer's website. Your sound card manufacturer may also have a newer driver version available. If available, install the latest version and check for any improvements.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Install Pending Windows Updates
 
@@ -142,16 +143,16 @@ To uninstall your audio device on Windows:
 
  To install Windows update, go to**Settings > Windows Update** and click**Check for updates** . Windows will populate the screen with all the pending updates. You can install the updates or selectively install any audio device updates.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Check for Third-Party App Conflict
 
 ![volume mixer windows 11 view audio applications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/volume-mixer-windows-11-view-audio-applications.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the issue persists, check if there is a third-party app conflict. You can use Volume Mixer to view applications accessing the audio devices and close the problematic app to fix the problem. Here’s how to do it.
 
@@ -180,19 +181,18 @@ To uninstall your audio device on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-achieve-high-quality-streams-youtube-and-twitch-via-obs/"><u>[New] 2024 Approved Achieve High-Quality Streams YouTube & Twitch via OBS</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-top-10-hidden-functions-to-enhance-your-canva-artistry/"><u>[New] Top 10 Hidden Functions to Enhance Your Canva Artistry</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-virtual-interaction-at-its-peak-facebooks-guide-to-screenshare-success/"><u>[New] Virtual Interaction at Its Peak Facebook's Guide to Screenshare Success</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-strategic-showcasing-10-essential-tips-to-improve-your-instagram-highlights/"><u>[Updated] In 2024, Strategic Showcasing 10 Essential Tips to Improve Your Instagram Highlights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1-solve-silent-playback-restoring-audio-in-reddit-app-for-feeds-gifs-and-video-content/"><u>1. Solve Silent Playback: Restoring Audio in Reddit App for Feeds, GIFs, and Video Content</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-efficient-route-for-vimeo-uploads-from-window-media-tools/"><u>2024 Approved Efficient Route for Vimeo Uploads From Window Media Tools</u></a></li>
-<li><a href="https://blog-min.techidaily.com/movavi-avinsv/"><u>免費網路動畫格式改變工具：Movavi AVI到NSV</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-win1011-system-breakdown-code-0xc0000001/"><u>Addressing Win10/11 System Breakdown: Code 0xC0000001</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-windows-update-failure-error-0x8024800c/"><u>Correcting Windows Update Failure (Error 0X8024800C)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-to-dark-modes-on-win-11-notepad/"><u>Navigate to Dark Modes on Win 11 Notepad</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-continuous-credential-entry-alerts-in-os/"><u>Overcoming Continuous Credential Entry Alerts in OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/unauthorized-ai-assistance-in-generating-win-11-keys/"><u>Unauthorized AI Assistance in Generating Win 11 Keys</u></a></li>
-<li><a href="https://windows11.techidaily.com/why-your-wallet-may-regret-inexpensive-windows-keys/"><u>Why Your Wallet May Regret Inexpensive Windows Keys</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unveiling-the-top-8-instagram-schedulers-for-iphone-and-android-users/"><u>[New] In 2024, Unveiling the Top 8 Instagram Schedulers for iPhone and Android Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-depth-training-adopting-the-best-screen-recording-practices-with-adobe-captivate-for-2024/"><u>[New] In-Depth Training Adopting the Best Screen Recording Practices with Adobe Captivate for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-windows-11-key-inactivity-issues/"><u>Addressing Windows 11 Key Inactivity Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/alienware-command-center-malfunction-heres-how-to-restore-its-functionality/"><u>Alienware Command Center Malfunction? Here's How to Restore Its Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-productivity-with-these-5-essential-windows-folder-practices/"><u>Boost Productivity with These 5 Essential Windows Folder Practices</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-parsing-setback-code-0xc00ce556/"><u>Conquering Parsing Setback: Code 0xC00CE556</u></a></li>
+<li><a href="https://windows11.techidaily.com/custom-menus-on-windows-1111-with-psoft-tools/"><u>Custom Menus on Windows 11/11 with PSoft Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722975899557-get-your-microsoft-surface-pro-going-strong-download-and-install-necessary-windows-drivers-here/"><u>Get Your Microsoft Surface Pro Going Strong – Download and Install Necessary Windows Drivers Here</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-10-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 10 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-transforming-raw-footage-an-in-depth-guide-to-applying-lut-filters-in-obs-studio/"><u>In 2024, Transforming Raw Footage An In-Depth Guide to Applying LUT Filters in OBS Studio</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719265109241-master-google-chromes-filesync-on-your-windows-device-now/"><u>Master Google Chrome's Filesync on Your Windows Device Now</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-asus-rog-phone-7-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Asus ROG Phone 7 Phone</u></a></li>
 </ul></div>
 

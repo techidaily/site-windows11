@@ -1,7 +1,7 @@
 ---
 title: "Reviving BIOS Secure Boot: A Step-by-Step Guide for Windows Users"
-date: 2024-09-23T20:52:11.387Z
-updated: 2024-09-26T20:39:41.830Z
+date: 2024-09-24T21:18:42.682Z
+updated: 2024-10-01T18:47:24.450Z
 tags:
   - windows10
   - windows11
@@ -46,13 +46,6 @@ To set an administrator password in BIOS:
 
  You can remove the administrator password after enabling Secure Boot. To do this, open the**Security** tab in BIOS and select**Administrator Password** . Next, enter your administrator password, but leave the**Enter New Password** and**Confirm New Password** fields blank. Press**Enter** again to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Disable Fast Boot in BIOS
 
  Fast Boot is a UEFI/BIOS feature. When enabled, it skips the check for a USB device, such as a bootable drive to speed up the boot process. However, the same can also prevent you from enabling secure boot in BIOS.
@@ -71,13 +64,6 @@ To disable fast boot in BIOS:
 6. Press**F10** to save the changes and exit.
 7. After the computer restarts, boot into BIOS to see if you can access Secure Boot.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Restore the BIOS Security Settings to Factory Defaults
 
  You can restore BIOS security settings to factory defaults to enable secure boot. If you have made major changes to the BIOS security settings, a reset will remove the custom configuration and restore the factory default security settings. Most BIOS utilities allow you to perform a restore in the BIOS Security tab.
@@ -91,15 +77,23 @@ To restore BIOS Security settings to factory defaults:
 4. Read the description in the**Security Feature Reset Request** dialog. Here you'll need to enter a pass code to complete the reset request.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. So, enter the shown**pass code** and press**Enter** .  
 ![restore bios factory settings default pass code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restore-bios-factory-settings-default-pass-code.jpg)
 6. Press**F10** to save the changes and exit**BIOS** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Boot into BIOS again and check if the greyed-out secure boot problem is resolved.
 
 ## 4\. Update BIOS
@@ -109,13 +103,6 @@ To restore BIOS Security settings to factory defaults:
  If the issue persists, your problem may be due to outdated BIOS firmware. While you don't need to update your system BIOS as frequently, the newer version tends to bring bug fixes, performance improvements, and newer hardware support.
 
  A BIOS update is recommended if your motherboard or laptop manufacturer recommends it. Any updates will be available via the laptop or motherboard manufacturer's websites.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Prepare Your Computer for a BIOS Update
 
@@ -127,11 +114,25 @@ To restore BIOS Security settings to factory defaults:
 
 ![HP download bios firmware update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-download-bios-firmware-update.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alternatively, you can also manually install BIOS from within Windows. For example, on an HP computer, go to the[HP Drivers page](https://support.hp.com/drivers) . Select your device manually or let the website detect the device for you.
 
  Next, check for the pending drivers and BIOS updates. If detected, download the HP Notebook System BIOS Update (Intel / AMD Processors). Make sure to compare the version with the version installed on your PC. If same or older, you don't need to update your BIOS.
 
  To update BIOS, run the firmware file and follow the on-screen instructions. Your computer will restart into the BIOS Update utility. Select**Apply Update Now** and wait for the update to finish installing. Once done, boot into BIOS and check if the Secure Boot option is available. Make sure to enable your antivirus and BitLocker protection again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Load the BIOS Defaults Settings
 
@@ -166,18 +167,16 @@ To load BIOS defaults settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-guide-to-premium-free-mobile-video-calls-ios-and-android-edition/"><u>[New] 2024 Approved Guide to Premium-Free Mobile Video Calls - iOS & Android Edition</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-make-youtube-banners-and-thumbnails-for-2024/"><u>[New] How to Make YouTube Banners and Thumbnails for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-charting-a-course-for-revenue-with-ytp2024-insights/"><u>[Updated] Charting a Course for Revenue with YTP2024 Insights</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-windows-11-video-tools-list/"><u>Essential Windows 11 Video Tools List</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-excellence-visuals-appraisal-pinnacle-studio-current-year/"><u>In 2024, Excellence Visuals Appraisal Pinnacle Studio, Current Year</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-simplify-video-annotation-adding-titles-and-captions-via-photos-win-11/"><u>In 2024, Simplify Video Annotation Adding Titles & Captions via Photos Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/maintaining-constant-calc-display-in-windows/"><u>Maintaining Constant Calc Display in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/preventing-discord-updates-from-triggering-at-system-startup/"><u>Preventing Discord Updates From Triggering at System Startup</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-the-reparse-point-buffer-tag-error-with-onedrive/"><u>Remedying the Reparse Point Buffer Tag Error with OneDrive</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-essence-of-personalization-through-ai-at-ms-store/"><u>The Essence of Personalization Through AI at MS Store</u></a></li>
-<li><a href="https://windows11.techidaily.com/turn-black-windows-back-with-simple-steps/"><u>Turn Black Windows Back with Simple Steps</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/twilight-treasures-iphone-night-photography-secrets-for-2024/"><u>Twilight Treasures IPhone Night Photography Secrets for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/user32dll-not-found-heres-how-to-fix-the-common-system-file-mistake/"><u>User32.dll Not Found? Here's How to Fix the Common System File Mistake</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-build-a-custom-vr-device-diy-google-cardboard-guide/"><u>[Updated] Build a Custom VR Device DIY Google Cardboard Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-polka-dotted-parakeet-party/"><u>2024 Approved Polka-Dotted Parakeet Party</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-installation-tips-for-kodi-software-on-windows-11-systems/"><u>Easy Installation Tips for Kodi Software on Windows 11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-turn-off-hardware-assisted-gpgpus-on-widno/"><u>Essential Guide: Turn Off Hardware-Assisted GPGPUs on WIDNO</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-honor-magic-6-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor Magic 6 phone? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-how-to-use-tiktok-hashtags-to-increase-your-post-reach/"><u>In 2024, How to Use TikTok Hashtags to Increase Your Post Reach</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-recapturing-moments-top-notch-free-cam-screens-and-alternatives/"><u>In 2024, Recapturing Moments Top-Notch Free Cam Screens & Alternatives</u></a></li>
+<li><a href="https://windows11.techidaily.com/method-to-turn-off-geforce-graphic-overlay-on-pc/"><u>Method to Turn Off GeForce Graphic Overlay on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-revive-frozen-windows-terminal-apps/"><u>Strategies to Revive Frozen Windows Terminal Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategizing-onedrives-positioning-within-windows-directory-space/"><u>Strategizing OneDrive's Positioning Within Windows Directory Space</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-resolving-windows-disk-management-crashes/"><u>Tips: Resolving Windows Disk Management Crashes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Illusionist's Toolkit: Drawing on Win 10/11"
-date: 2024-09-11T17:24:03.183Z
-updated: 2024-09-15T20:03:42.955Z
+date: 2024-09-26T03:30:31.201Z
+updated: 2024-10-01T19:37:56.861Z
 tags:
   - windows10
   - windows11
@@ -39,11 +39,25 @@ thumbnail: https://thmb.techidaily.com/75030bd59360efbfc2946329061573b90f37300b7
 
 Now you can get scribbling on the Windows desktop.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Use Epic Pen to Draw on Your Desktop
 
  Click the**pen** button on Epic Pen’s drawing toolbar. To change the pen width, click**pen size** and select smaller or larger options. You can select one of four colors on the toolbar’s palette. Hold down the**left mouse button** and move the cursor around to draw on your desktop.
 
 ![The pen button in Epic Pen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-drawing-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Epic Pen has a transparent highlighter you can use for highlighting on-screen text and details. To access that tool, click the**pen** button and select**highlighter** . Or you can press the**Ctrl** +**Shift** +**F4** hotkey to use it.
 
@@ -61,6 +75,13 @@ Now you can get scribbling on the Windows desktop.
 
 ![The options for enabling Epic Pen Pro features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enable-pro-features-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Draw on the Windows Desktop With gInk
 
  The gInk app is an open-source alternative to Epic Pen you can utilize for on-screen annotations in Windows 11/10 much the same. This is also a portable app for which no installation is needed. However, you’ll still need to download and extract the gInk archive like this:
@@ -74,6 +95,13 @@ Now you can get scribbling on the Windows desktop.
  Now you can try out the gInk on-screen drawing (or annotation) tool in Windows. Click the**Pen 1** option, and scribble on the desktop by holding the**left mouse button** and moving the cursor. You can also select three other pen options for different colors.
 
 ![The qInk toolbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/qink-toolbar.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The fifth pen is a transparent highlighter option. Click**Pen 5** to activate the tool’s highlighter. You can utilize this tool for highlighting things in presentations.
 
@@ -90,13 +118,6 @@ Now you can get scribbling on the Windows desktop.
 ![The Pens tab in qInk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/pens-tab.jpg)
 
  You can also set custom hotkeys for accessing the pens. Click the**Hotkeys** tab to view gInk’s default keyboard shortcuts. Then click inside one of the**Pen** boxes and press an alternative hotkey to set one.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Scribbling on Your Windows Desktop With These Apps
 
@@ -115,5 +136,23 @@ Now you can get scribbling on the Windows desktop.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-analysis-how-galaxy-s8-dominates-in-4k-video/"><u>[New] In-Depth Analysis How Galaxy S8 Dominates in 4K Video</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-larger-than-life-instagram-videos-tips-to-break-the-barrier/"><u>[New] Larger-than-Life Instagram Videos Tips to Break the Barrier</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-professional-tips-sharpen-and-brighten-your-iphones-hdri-in-adobe-premiere-pro/"><u>[New][Professional Tips] Sharpen and Brighten Your iPhone's HDRI in Adobe Premiere Pro</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-revolutionary-gameplay-preservation-with-advanced-fbx-recording-for-2024/"><u>[Updated] Revolutionary Gameplay Preservation with Advanced FBX Recording for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-companion-for-podcast-name-crafting-top-10-tools/"><u>2024 Approved The Ultimate Companion for Podcast Name Crafting Top 10 Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/dive-into-dark-display-settings-for-calc-app/"><u>Dive Into Dark Display Settings for Calc App</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-peak-performance-audio-organizer-android/"><u>In 2024, Peak Performance Audio Organizer, Android</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/master-lightrooms-artistic-control-creating-and-merging-hdr-images/"><u>Master Lightroom's Artistic Control Creating & Merging HDR Images</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-esd-file-conversion-to-iso-on-windows-systems/"><u>Mastering ESD File Conversion to ISO on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-resource-assignment-in-wsl-android-setup/"><u>Mastering Resource Assignment in WSL-Android Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/regain-stability-the-definitive-net-window-repair-guide-max-156/"><u>Regain Stability: The Definitive .NET Window Repair Guide (Max 156)</u></a></li>
+<li><a href="https://windows11.techidaily.com/reprogramming-windows-delete-files-read-lock/"><u>Reprogramming Windows: Delete File's Read Lock</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-fixing-0x8009030e-on-virt-environments/"><u>Step-by-Step Guide: Fixing 0X8009030E on Virt Environments</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/ultimate-guide-mastering-manycam-for-enhanced-livestreams-and-virtual-background-technology/"><u>Ultimate Guide: Mastering ManyCam for Enhanced Livestreams and Virtual Background Technology</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-secrets-to-stable-apex-play-on-windows-11/"><u>Unlocking the Secrets to Stable Apex Play on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-claude-3-trumps-chatgpt-a-breakdown-into-four-points/"><u>Why Claude 3 Trumps ChatGPT: A Breakdown Into Four Points</u></a></li>
+</ul></div>
 

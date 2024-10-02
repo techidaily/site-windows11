@@ -1,7 +1,7 @@
 ---
 title: How to Enable and Utilize the Script Execution Policy in Windows PowerShell
-date: 2024-09-20T21:05:40.308Z
-updated: 2024-09-26T16:58:34.307Z
+date: 2024-09-27T18:25:05.305Z
+updated: 2024-10-01T23:25:55.626Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ To get your current execution policy for the current user:
 
  You’ll need to change the execution policy to RemoteSigned to run local scripts without the error. You can change the execution policy from the Settings app and PowerShell.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Enable PowerShell Execution Policy Using the Settings App
 
  You can change and set the PowerShell execution policy to RemoteSigned using the Settings app. All you have to do is tweak the PowerShell settings in the developers' section to change the execution policy to enable PowerShell script execution.
@@ -58,16 +65,16 @@ To change execution policy using Settings:
 6. Once done, open PowerShell, type get**executionpolicy,** and press**Enter** . The execution policy for the current user is now set to**RemoteSigned.**
 7. If you need to disable the execution policy, toggle the PowerShell switch and set it to**Off** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Allow Scripts to Run in PowerShell using PowerShell
 
 ![Powershell set execcution policy remotesigned](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/powershell-set-execcution-policy-remotesigned.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can use a[PowerShell cmdlet](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) to set the execution policy to RemoteSigned. The command-line interface makes it easy to change execution policy quickly without using the Settings app.
 
@@ -83,16 +90,22 @@ To change the execution policy using PowerShell:
 `Set-ExecutionPolicy RemoteSgined -Scope CurrentUser`
 5. Replace**CurrentUser** in the above command with other users (Scope) as per your requirement.
 
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Remove Script Execution Policy Using PowerShell
 
 ![set-execution-policy-undefined](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-execution-polify-undefined.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to disable script execution, set the execution policy to**Undefined** using th**e Set\_ExecutionPolicy** cmdlet. This is a default state and prevents PowerShell from executing any scripts.
 
@@ -106,10 +119,10 @@ To disable script execution using PowerShell:
 4. The above command will disable script execution for**CurrentUser** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Understanding Execution Policies and Scopes
@@ -127,13 +140,6 @@ To disable script execution using PowerShell:
 | Restricted       | Doesn’t allow script execution, but only individual PowerShell commands.                                       |
 | Undefined        | Sets execution policy to Restricted for Windows clients and RemoteSigned for Windows Server.                   |
 | Unrestricted     | Allow unsigned script execution with a warning for the scripts downloaded from the internet.                   |
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Execution Policy Scope
 
@@ -170,16 +176,14 @@ The below table briefly explains all the execution policy scopes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-unlock-the-full-potential-of-snapkit-in-business-ads/"><u>[Updated] 2024 Approved Unlock the Full Potential of SnapKit in Business Ads</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/briskly-boost-printer-functionality/"><u>Briskly Boost Printer Functionality</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Motorola Moto G13? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-crafting-text-memes-quickly/"><u>In 2024, The Art of Crafting Text Memes Quickly</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-xml-files-demystified-a-beginners-guide-to-fcpx/"><u>In 2024, XML Files Demystified A Beginners Guide to FCPX</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/is-your-content-flourishing-consider-an-mcn-partnership-for-2024/"><u>Is Your Content Flourishing? Consider an MCN Partnership for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/perfect-pixels-for-every-window-11-display/"><u>Perfect Pixels for Every Window 11 Display</u></a></li>
-<li><a href="https://windows11.techidaily.com/purging-protection-logs-on-windows-1011-with-ease/"><u>Purging Protection Logs on Windows 10/11 with Ease</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-essence-of-your-digital-footprint-profiles-vs-unames/"><u>The Essence of Your Digital Footprint: Profiles vs UNAMES</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-over-connection-issues-dissolving-ea-errors/"><u>Winning Over Connection Issues: Dissolving EA Errors</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-curated-lists-of-websites-offering-youtube-tone-purchases/"><u>[New] In 2024, Curated Lists of Websites Offering YouTube Tone Purchases</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-to-correct-nvidia-control-panel-access-problem/"><u>Guidelines to Correct Nvidia Control Panel Access Problem</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correctly-manage-the-0x80070003-updater-error-on-windows/"><u>How to Correctly Manage the 0X80070003 Updater Error on Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-live-stream-the-2024-summer-olympics/"><u>How to Live Stream the 2024 Summer Olympics</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-iphone-13-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On iPhone 13 Pro Max without Password?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-unlocking-language-barriers-select-top-8-free-srt-tools/"><u>In 2024, Unlocking Language Barriers Select Top 8 Free SRT Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-obstacles-essential-tips-for-restoring-your-iphones-chatgpt-functionality/"><u>Overcoming Obstacles: Essential Tips for Restoring Your iPhone's ChatGPT Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-overcoming-onedrive-cloud-operation-issues/"><u>Strategies for Overcoming OneDrive Cloud Operation Issues</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/egal-limits-of-capturing-youtube-video-footage/"><u>The Legal Limits of Capturing YouTube Video Footage</u></a></li>
 </ul></div>
 

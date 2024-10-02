@@ -1,7 +1,7 @@
 ---
 title: "The Controller's Cry: Solutions for Steam's Ignorance in Windows"
-date: 2024-09-23T19:09:22.201Z
-updated: 2024-09-26T17:09:42.825Z
+date: 2024-09-24T20:53:32.465Z
+updated: 2024-10-01T23:58:52.391Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 
  Another thing you can do is test your controller with another PC and see if it works. If it does, it's time for some more complicated fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Make Sure Windows Recognizes Your Controller
 
  Next, you need to ensure that Windows recognizes your controller. This should help rule out any issues caused by improper setup.
@@ -38,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
  Press **Win + R** to [open the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/). Type **joy.cpl** in the text box and hit **Enter**. In the Game Controllers window that appears, check if your controller shows up. If it does, make sure its **Status** reads **OK**.
 
 ![Game Controllers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/game-controllers-on-windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Exit and Re-Enter Steam’s Big Picture Mode
 
@@ -57,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 6. Under **External Gamepad Settings**, use the toggles to enable configuration support for the controller you are using.  
 ![Steam Controller Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/steam-controller-settings-menu-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After completing the above steps, unplug your controller and plug it back in to check if Steam recognizes it.
 
 ## 5\. Enable Steam Overlay
@@ -71,20 +92,13 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 4. Turn on the toggle next to the **Enable Steam Overlay while in-game** option.  
 ![Enable Steam Overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-steam-overlay.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart the Steam client after this and check if the issue is still there.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Run Steam as an Administrator
@@ -113,19 +127,6 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 
  Outdated or malfunctioning drivers on your PC can also hinder Steam's ability to recognize your gaming controller. If that’s the case, updating the controller drivers should help. Fortunately, we have a guide on [how to find and replace outdated Windows drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) if you need help.
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Check for Steam Client Updates
 
  There’s a chance that Steam is unable to detect your controller on Windows due to a bug within the app. Fortunately, Steam regularly receives updates that address such issues and enhance performance. Hence, it's a good idea to ensure you are running the most recent version of Steam on Windows.
@@ -135,23 +136,10 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 ![Check for Steam Updates on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/check-for-steam-updates-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Opt Out of the Steam Beta
@@ -164,14 +152,14 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 4. Click **OK** to save changes.  
 ![Opt out of Steam Beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/steam-beta-1.jpg)
 
- Restart Steam after this, and it should automatically install the necessary updates to switch to the stable version of the app.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Restart Steam after this, and it should automatically install the necessary updates to switch to the stable version of the app.
 
 ## Navigate the Steam Universe With Your Controller Once Again
 
@@ -191,21 +179,17 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-revolutionize-your-virtual-dialogue-the-google-meet-guide/"><u>[New] Revolutionize Your Virtual Dialogue The Google Meet Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-your-pathway-to-mastery-in-youtube-vids-on-twitter/"><u>[Updated] Your Pathway to Mastery in YouTube Vids on Twitter</u></a></li>
-<li><a href="https://windows11.techidaily.com/10-swift-routes-to-the-control-panel-interface/"><u>10 Swift Routes to the Control Panel Interface</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastering-the-art-of-old-facebook-features-step-by-step/"><u>2024 Approved Mastering the Art of Old Facebook Features Step-by-Step</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/benchmarking-the-latest-chromecast-with-google-tv-against-firetv-an-in-depth-review/"><u>Benchmarking the Latest Chromecast with Google TV Against FireTV - An In-Depth Review</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-human-dialogue-enhance-chatgpts-learning-process/"><u>Can Human Dialogue Enhance ChatGPT's Learning Process?</u></a></li>
-<li><a href="https://win11.techidaily.com/clarifying-differences-how-exes-stack-up-against-msis/"><u>Clarifying Differences: How EXEs Stack Up Against MSIs</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-win-1011s-geforce-notaxc0f1103f-error/"><u>Fixing Win 10/11'S GeForce NotaXC0F1103F Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-preventing-google-chromes-autopilot-tabs/"><u>Guide to Preventing Google Chrome's Autopilot Tabs</u></a></li>
-<li><a href="https://windows11.techidaily.com/identify-and-solve-hidden-disk-space-problems-in-windows/"><u>Identify & Solve Hidden Disk Space Problems in Windows</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-oneplus-ace-2-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror OnePlus Ace 2 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-spotify-link-reset-strategies/"><u>Mastering Windows Spotify Link Reset Strategies</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-browsing-security-with-win-11-ms-defender-guard/"><u>Optimize Browsing Security with Win 11 MS Defender Guard</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-glances-to-your-favorites-windows-shortcuts-uwp-apps/"><u>Quick Glances to Your Favorites: Windows Shortcuts (UWP Apps)</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/top-rated-retro-bluetooth-fm-transmitter-unveiled-a-complete-guide-to-the-nulaxy-km18-model/"><u>Top-Rated Retro Bluetooth FM Transmitter Unveiled: A Complete Guide to the Nulaxy KM18 Model</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/understanding-and-resolving-tdr-failures-the-nvlddmkmsys-crash-explained-windows/"><u>Understanding and Resolving TDR Failures: The nvlddmkm.sys Crash Explained (Windows)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-first-steps-in-telegram-marketing-an-initiation-handbook-for-2024/"><u>[New] First Steps in Telegram Marketing An Initiation Handbook for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-2d-to-spatial-the-evolution-of-cinematic-videos/"><u>[Updated] From 2D to Spatial The Evolution of Cinematic Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-things-to-try-when-the-epic-games-launcher-fails-to-send-a-security-code-on-windows/"><u>7 Things to Try When the Epic Games Launcher Fails to Send a Security Code on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-guide-to-completely-erase-drives-partitioning-in-windows/"><u>A Guide to Completely Erase Drive's Partitioning in Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/achieve-optimal-gaming-speed-tricks-to-overcome-lag-and-amplify-fps-on-watch-dogs-legion/"><u>Achieve Optimal Gaming Speed: Tricks to Overcome Lag and Amplify FPS on Watch Dogs: Legion</u></a></li>
+<li><a href="https://windows11.techidaily.com/altering-windows-service-for-installation-controls/"><u>Altering Windows Service for Installation Controls</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/from-tweets-to-device-storage-android-and-iphone-gif-steps-for-2024/"><u>From Tweets to Device Storage Android & iPhone GIF Steps for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-pixel-perfection-top-tools-for-preserving-tweets-videos/"><u>In 2024, Pixel Perfection Top Tools for Preserving Tweets' Videos</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-free-security-camera-software-reviews-top-10-options-for-2024/"><u>New Free Security Camera Software Reviews Top 10 Options for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-and-simple-microsoft-driver-update-process-for-windows-users/"><u>Quick and Simple Microsoft Driver Update Process for Windows Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-galaxy-s24-ultra-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Galaxy S24 Ultra has been deleted.</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719311224382-tackle-snip-and-sketch-obstacles-to-perfectly-capture-entire-screen/"><u>Tackle Snip & Sketch Obstacles to Perfectly Capture Entire Screen.</u></a></li>
 </ul></div>
 

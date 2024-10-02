@@ -1,7 +1,7 @@
 ---
 title: Navigating Non-Responsive Power Controls in Win11
-date: 2024-09-14T17:31:12.878Z
-updated: 2024-09-15T18:23:29.604Z
+date: 2024-09-29T17:18:32.775Z
+updated: 2024-10-01T22:51:54.374Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/0c8f696950ea736c2174f2d7e8a74906124afdbd8
 
  Now that we know what can cause the problem, let's look at what you can do to solve it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Change the Power Plan
 
  The first thing we recommend you do is switch to a different power plan, especially if you are using a custom power plan. We suggest shifting to the Balanced plan and checking if that fixes the issue. This plan optimizes the performance automatically. This means it will activate the full performance mode when you are actively using the computer and switch to the power-saving mode when you are not.
@@ -46,6 +53,13 @@ Here is how you can proceed:
 ![Create a power plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/create-power-plan-1.jpg)
 6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
 ![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once done, check if you can now change the power mode successfully.
 
@@ -66,10 +80,10 @@ Here is how you can run the troubleshooter:
 5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Reset the Power Settings
@@ -98,15 +112,22 @@ Computer Configuration -> Administrative Templates -> System -> Power Management
 4. Choose**Enabled** and then choose the targeted power plan from the dropdown.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**Apply** \>**OK** to save the changes, and then restart your computer.
 
 Hopefully, this will resolve the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Revert the System to an Older Working State
 
@@ -135,5 +156,21 @@ Hopefully, this will resolve the issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-elevating-visuals-with-luminance-hdr-insight/"><u>[New] In 2024, Elevating Visuals with Luminance-HDR Insight</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-your-starting-guide-to-tiktok-macos-basics/"><u>[New] In 2024, Your Starting Guide to TikTok (macOS) Basics</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-in-a-nutshell-the-video-sharing-experience-for-2024/"><u>[New] Vimeo in a Nutshell The Video Sharing Experience for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-motivate-and-master-your-movements-20-top-rated-workout-tracks/"><u>[Updated] Motivate and Master Your Movements 20 Top-Rated Workout Tracks</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-initiating-the-snip-and-sketch-function-on-win-11/"><u>Efficiently Initiating the Snip and Sketch Function on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/harnessing-the-power-of-microsofts-ai-code-helper/"><u>Harnessing the Power of Microsoft's AI Code Helper</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-mfc71udll-not-found-or-missing-on-windows/"><u>How to Fix Mfc71u.dll Not Found or Missing on Windows</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-your-windows-sound-card-programming-codecs/"><u>How To Update Your Windows Sound Card Programming Codecs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ifying-10-quick-growth-youtube-blogs-that-encourage-for-2024/"><u>Identifying 10 Quick-Growth YouTube Blogs that Encourage for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-s18-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo S18 Phone without PIN</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-msi-magic-cognizant-oled-top-gaming-display-unveiled/"><u>In-Depth Analysis of the MSI Magic Cognizant OLED - Top Gaming Display Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-resource-monitor-stalls-in-windows-11/"><u>Overcoming Resource Monitor Stalls in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-invisibility-of-task-view-on-bar/"><u>Techniques for Invisibility of Task View on Bar</u></a></li>
+</ul></div>
 

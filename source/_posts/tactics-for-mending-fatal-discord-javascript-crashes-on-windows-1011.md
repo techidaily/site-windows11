@@ -1,7 +1,7 @@
 ---
 title: Tactics for Mending Fatal Discord Javascript Crashes on Windows 10/11
-date: 2024-09-19T22:51:35.789Z
-updated: 2024-09-26T19:50:21.685Z
+date: 2024-09-28T00:15:08.916Z
+updated: 2024-10-01T22:12:46.255Z
 tags:
   - windows10
   - windows11
@@ -45,20 +45,13 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 7. Choose a**Discord** version.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Click**Uninstall** to finish.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Delete Discord’s Data Folders
 
@@ -74,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 5. Open Windows Explorer with**Win + E** .
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Type**%appdata%** inside Explorer’s address bar and press**Return** .
@@ -85,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![A discord folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-folder.jpg)
 8. Input**%LocalAppData%** in Explorer’s address bar and press**Enter** .
 9. Next, click the Discord folder with the mouse’s right button and select**Delete** .
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Reinstall Discord
 
@@ -95,18 +95,19 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 3. Then select**Uninstall** when prompted for app removal confirmation.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-option2.jpg)
 4. Delete leftover Discord app data subfolders as outlined for the third resolution.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Reboot your Windows PC before reinstalling the Discord software.
 6. Open up the[download page for Discord](https://discord.com/download) .
 7. Click**Download** **for Windows** to get the Discord setup wizard.  
 ![The Download for Windows option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-for-windows-button.jpg)
 8. Next, double-click**DiscordSet.exe** in whatever file your browser downloaded it in.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9. Go through Discord’s installation wizard to reinstall the software.
 
@@ -127,6 +128,19 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 4. Toggle off the**Real-time protection** option to disable background antivirus scanning.  
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/real-time-protection-option.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Check the Quality Windows Audio Video Experience Service is Enabled
 
  Quality Windows Audio Video Experience is a service for improving audio and video streaming performance. That’s an important service to have enabled and running for Discord. So, check that qWave is turned on and running as follows:
@@ -145,23 +159,16 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/this-account-radio-button.jpg)
 8. Click**Browse** for the**This account** radio button.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. Input your user account within the**Enter** object name box.
 10. Click**OK** to close out of the Select user window.
 11. To save the service’s new settings, select its**Apply** option.
 12. Then exit the window by selecting**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start Chatting in Discord Again on Windows
@@ -183,19 +190,20 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-find-your-perfect-livestream-service-match/"><u>[Updated] How to Find Your Perfect Livestream Service Match</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-streamlining-zoom-a-chromebook-guide/"><u>2024 Approved Streamlining Zoom A Chromebook Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-reveal-on-twelve-souths-compass-pro-gear-for-optimal-balance-and-control/"><u>Expert Reveal on Twelve South's Compass Pro Gear for Optimal Balance & Control</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Asus Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-vivo-y100-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Vivo Y100?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-reno-8t-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Reno 8T 5G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-depth-analysis-of-beyerdynamic-blue-byrd-2-active-noise-cancelling-headphones/"><u>In-Depth Analysis of Beyerdynamic Blue BYRD 2 Active Noise Cancelling Headphones</u></a></li>
-<li><a href="https://windows11.techidaily.com/snap-opera-download-into-action-windows-style/"><u>Snap Opera Download Into Action, Windows Style</u></a></li>
-<li><a href="https://techidaily.com/tecno-data-recovery-recover-lost-data-from-tecno-spark-go-2023-by-fonelab-android-recover-data/"><u>Tecno Data Recovery – recover lost data from Tecno Spark Go (2023)</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-9-best-features-in-the-windows-11-february-2023-update/"><u>The 9 Best Features in the Windows 11 February 2023 Update</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-student-laptop-asus-s15-oled-in-focus/"><u>The Ultimate Student Laptop: ASUS S15 OLED in Focus</u></a></li>
-<li><a href="https://windows11.techidaily.com/three-steps-for-ditching-microsofts-store/"><u>Three Steps for Ditching Microsoft's Store</u></a></li>
-<li><a href="https://windows11.techidaily.com/unfreezing-windows-updates-top-6-strategies-to-resolve-sticking-issues/"><u>Unfreezing Windows Updates: Top 6 Strategies to Resolve Sticking Issues</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-youtube-equipment-for-gaming-channels-best-gaming-gears/"><u>[New] 2024 Approved YouTube Equipment for Gaming Channels - Best Gaming Gears</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-complete-guide-to-proficient-periscope-operation-for-2024/"><u>[Updated] Complete Guide to Proficient Periscope Operation for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-zipping-to-captions-direct-method-for-srt-file-creation/"><u>[Updated] In 2024, Zipping to Captions Direct Method for .Srt File Creation</u></a></li>
+<li><a href="https://windows11.techidaily.com/batch-processing-excellence-using-task-scheduler/"><u>Batch Processing Excellence Using Task Scheduler</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-performance-of-docker-in-wsl-2-on-windows-devices/"><u>Boosting Performance of Docker in WSL 2 on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-wintools-functions-what-makes-chkdsk-different/"><u>Decoding Wintools Functions: What Makes CHKDSK Different?</u></a></li>
+<li><a href="https://windows11.techidaily.com/direct-route-out-of-windows-11s-protective-barrier/"><u>Direct Route Out of Windows 11'S Protective Barrier</u></a></li>
+<li><a href="https://windows11.techidaily.com/directive-for-disabling-onedrive-symbol-in-windows-11s-filesystem-viewer/"><u>Directive for Disabling OneDrive Symbol in Windows 11’S Filesystem Viewer</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-aesthetic-video-upgrade-implement-lc-overlay-and-black-bars-on-facebook/"><u>In 2024, Aesthetic Video Upgrade Implement LC Overlay & Black Bars on Facebook</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-prime-pick-the-top-10-video-capture-tools-for-windows/"><u>In 2024, Prime Pick The Top 10 Video Capture Tools for Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/mastering-mp4-enhancement-the-ultimate-srt-integration/"><u>Mastering MP4 Enhancement The Ultimate SRT Integration</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719256266387-repairing-email-notification-shortcom-written-exercise/"><u>Repairing Email Notification Shortcom Written Exercise</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-oneplus-nord-n30-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track OnePlus Nord N30 5G without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
 

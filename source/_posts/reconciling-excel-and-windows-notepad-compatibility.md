@@ -1,7 +1,7 @@
 ---
 title: "Reconciling: Excel and Windows Notepad Compatibility"
-date: 2024-09-11T22:57:32.117Z
-updated: 2024-09-15T22:25:38.864Z
+date: 2024-09-27T01:56:13.402Z
+updated: 2024-10-02T01:04:49.572Z
 tags:
   - windows10
   - windows11
@@ -45,10 +45,32 @@ thumbnail: https://thmb.techidaily.com/0244557d86d8e1a27dc054dedba4a1385b1696e50
 3. In the following window, type the extension name of the targeted file under "Set a default for a file type or link type".  
 ![Enter the file extension type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/file-extension-type.jpg)
 4. Click **Enter** and choose **Excel** from the list on your screen.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Choose Excel as the default app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/choose-excel.jpg)
 5. Finally, click on the **OK** button and close the Settings app.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Hopefully, you will be able to open the Excel files in Excel successfully.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Check the File Extension Type
 
@@ -75,16 +97,10 @@ thumbnail: https://thmb.techidaily.com/0244557d86d8e1a27dc054dedba4a1385b1696e50
  You can now try opening the file again. Hopefully, it will launch in Excel this time.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Use an Excel Repair Tool (if Applicable)
@@ -101,13 +117,6 @@ thumbnail: https://thmb.techidaily.com/0244557d86d8e1a27dc054dedba4a1385b1696e50
 
  Once the tool has been downloaded, select the corrupted Excel file and click on the repair button. The utility will begin analyzing the file and fixing it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Open and Use Excel Files Properly on Windows
 
  It is not uncommon for users to encounter issues while trying to use Excel but fortunately, most of these problems are easy to fix. Hopefully, the solutions we have listed above will help you access the targeted files with Excel in no time.
@@ -123,5 +132,22 @@ thumbnail: https://thmb.techidaily.com/0244557d86d8e1a27dc054dedba4a1385b1696e50
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-guide-private-yt-content-with-google-login/"><u>[New] Step-by-Step Guide Private YT Content with Google Login</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-repurpose-images-and-videos-for-2024/"><u>[Updated] Instagram Repurpose Images & Videos for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-unveiling-the-best-vr-applications-for-phones/"><u>2024 Approved Unveiling the Best VR Applications for Phones</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieve-personalized-settings-alomwares-pathway-to-customization/"><u>Achieve Personalized Settings - AlomWare's Pathway to Customization</u></a></li>
+<li><a href="https://windows11.techidaily.com/biggest-discounts-black-friday-612-windows-10-forever/"><u>Biggest Discounts: Black Friday - $6.12, Windows 10 Forever</u></a></li>
+<li><a href="https://windows11.techidaily.com/blending-digital-worlds-androidpc-connections-made-simple/"><u>Blending Digital Worlds: Android/PC Connections Made Simple</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-through-windows-tpm-restrictions-with-ease/"><u>Breaking Through Windows TPM Restrictions with Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-0x80070194-fixes-for-windows-onedrive/"><u>Bypassing 0X80070194: Fixes for Windows OneDrive</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-xbox-mic-connectivity-issues-in-windows-11-devices/"><u>Correcting Xbox Mic Connectivity Issues in Windows 11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/distinguishing-characteristics-of-exe-and-msi-files/"><u>Distinguishing Characteristics of EXE and MSI Files</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/exploring-manycams-latest-video-capture-innovations-for-2024/"><u>Exploring ManyCam's Latest Video Capture Innovations for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009181263-revive-the-villainy-fix-noise-failures-in-evil-genius-2-easily/"><u>Revive the Villainy – Fix Noise Failures in 'Evil Genius 2' Easily!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-you-need-to-make-the-switch-explore-the-top-9-benefits-of-choosing-chatgpt-plus-today/"><u>Why You Need to Make the Switch: Explore the Top 9 Benefits of Choosing ChatGPT Plus Today</u></a></li>
+</ul></div>
 

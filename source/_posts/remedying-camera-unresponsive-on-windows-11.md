@@ -1,7 +1,7 @@
 ---
 title: Remedying Camera Unresponsive on Windows 11
-date: 2024-09-21T23:29:03.473Z
-updated: 2024-09-26T17:19:02.025Z
+date: 2024-09-27T01:58:13.263Z
+updated: 2024-10-02T00:07:35.344Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
 ![Logitech webcam on monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/logitech-webcam-on-monitor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
   If you encounter the **"We can't find your camera"** error on your PC, where you have an external webcam, ensure it is properly connected. Check that both ends of the cable connecting the webcam to your device are plugged in correctly, and ensure the cable is in good condition.
 
  Also, you can unplug the cable from the port the camera is currently connected to and connect it to another port to eliminate issues with its port. Likewise, you should disconnect and reconnect the camera from your device to ensure it's not a temporary glitch causing the error under discussion.
@@ -61,29 +68,9 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 4. If the primary camera is disabled here, click the **Enable** button to enable it again.  
 ![Enable the Camera in the Bluetooth and Devices Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/2-enable-the-camera-in-the-bluetooth-and-devices-tab-of-the-windows-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In case the camera is already enabled, continue to the next step.
 
  If no camera is listed under **Connected cameras**, the system has failed to detect any camera on your device. If that is the case, recheck the camera connection.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Run the Camera and Microsoft Store Apps Troubleshooters
 
@@ -91,18 +78,24 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
 ![The Camera troubleshooting window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/camera-troubleshooter-window.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Windows also offers another troubleshooter called Windows Store Apps, which helps scan and fix problems with Microsoft Store apps (formerly known as Windows Store). Since the Camera app is a Microsoft Store app, running this troubleshooter might also help resolve issues with it.
 
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-store-apps-troubleshooter.jpg)
 
  Therefore, follow our guide on [how to run any troubleshooter in Windows 10 and 11](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) to run the Camera and Windows Store Apps troubleshooter.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Check Your Camera Permissions
 
@@ -113,10 +106,10 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 ![Enable the Camera Access in the Privacy and Security Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/3-enable-the-camera-access-in-the-privacy-and-security-tab-of-the-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Update, Reinstall, or Rollback the Camera Drivers
@@ -131,15 +124,22 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
 ![Uninstall the Camera Driver From Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-uninstall-the-camera-driver-from-windows-device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Roll back the driver update if you have encountered the issue under discussion after updating the driver. To do so, right-click the driver and select **Properties**. Navigate to the **Driver** tab and click **Roll Back Driver**.
 
 ![properties camera device device manager roll back driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/properties-camera-device-device-manager-roll-back-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Repair and Reset the App
@@ -149,10 +149,10 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
  If that's the case, you should repair the app, which will resolve minor issues. If that doesn't work, reset the app, which may fix underlying issues but will also remove all customizations you've made. If you are unfamiliar with the process, refer to our guides on [how to reset an app](https://www.makeuseof.com/windows-reset-app/) (or [repair the app](https://www.makeuseof.com/windows-repair-apps-programs/)).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Your Camera Back to Work
@@ -175,17 +175,19 @@ thumbnail: https://thmb.techidaily.com/98bd5c521103adb9f2f398b8ea114e1ff33040cec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-analyzing-t-series-revenue-generation-on-youtube-channels/"><u>[New] 2024 Approved Analyzing T-Series' Revenue Generation on Youtube Channels</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-diving-deep-into-your-twitter-archive/"><u>[New] 2024 Approved Diving Deep Into Your Twitter Archive</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-how-to-create-amazing-mosaic-photo-collage/"><u>[Updated] In 2024, How to Create Amazing Mosaic Photo Collage</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-craftsmanship-in-focus-leading-android-collage-tools/"><u>2024 Approved Craftsmanship in Focus – Leading Android Collage Tools</u></a></li>
-<li><a href="https://games-able.techidaily.com/beyond-the-giants-exploring-superior-alternatives-to-sony-and-samsung-for-ultimate-gaming-performance-zdnet-insights/"><u>Beyond the Giants: Exploring Superior Alternatives to Sony & Samsung for Ultimate Gaming Performance | ZDNET Insights</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/crafting-professionalism-the-best-practices-for-post-upload-editing/"><u>Crafting Professionalism The Best Practices for Post-Upload Editing</u></a></li>
-<li><a href="https://windows11.techidaily.com/customizing-windows-tray-for-numeric-lock-signifiers/"><u>Customizing Windows Tray for Numeric Lock Signifiers</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-x-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On iPhone X</u></a></li>
-<li><a href="https://windows11.techidaily.com/revival-rituals-for-lost-windows-unlocking-off-screen-restoration-in-win-1011-6-essentials/"><u>Revival Rituals for Lost Windows: Unlocking Off-Screen Restoration in Win 10/11 (6 Essentials)</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-your-win11-upgrades-eradicate-error-0xc1900101/"><u>Streamline Your Win11 Upgrades, Eradicate Error 0xC1900101</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-easy-way-opening-sticky-notes-on-win11/"><u>The Easy Way: Opening Sticky Notes on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/using-ports-without-built-in-pc-graphics-hardware/"><u>Using Ports Without Built-In PC Graphics Hardware</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-filters-to-feeds-optimizing-your-360-video-for-youtube-publishing/"><u>[New] In 2024, From Filters to Feeds Optimizing Your 360 Video for YouTube Publishing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-100-killer-facebook-bios-to-make-profile-attractive2/"><u>[Updated] In 2024, 100 Killer Facebook Bios to Make Profile Attractive2</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-humorous-vines-the-ultimate-10-list/"><u>[Updated] In 2024, Humorous Vines The Ultimate 10 List</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-step-by-step-for-placing-antique-games-into-photos-folder/"><u>A Step-by-Step for Placing Antique Games Into Photos Folder</u></a></li>
+<li><a href="https://windows11.techidaily.com/academic-excellence-with-these-top-8-study-tips-for-windows-users/"><u>Academic Excellence with These Top 8 Study Tips for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-the-windows-device-abandonment-issue/"><u>Correcting the Windows Device Abandonment Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/defeating-wows-catastrophic-crashes-eradicate-error-132/"><u>Defeating WOW's Catastrophic Crashes: Eradicate Error 132</u></a></li>
+<li><a href="https://windows11.techidaily.com/disable-windows-tracked-application-usage/"><u>Disable Windows' Tracked Application Usage</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-camera-glitch-solve-error-a00f4289-on-pcs/"><u>Disabling Camera Glitch: Solve Error A00F4289 on PCs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/meet-fistn-balumbu-your-go-to-midmarket-sales-strategist-at-leading-software-giant-abbyy/"><u>Meet Fistn Balumbu - Your Go-To Midmarket Sales Strategist at Leading Software Giant, ABBYY</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-ultimate-list-15-best-apps-to-create-cartoon-avatars-on-mobile/"><u>New In 2024, The Ultimate List 15 Best Apps to Create Cartoon Avatars on Mobile</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s24-ultra-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S24 Ultra Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/watch-hgtv-free-complete-shows-and-extras-in-video-format-on-your-computer-or-laptop/"><u>Watch HGTV FREE – Complete Shows & Extras in Video Format on Your Computer or Laptop</u></a></li>
 </ul></div>
 

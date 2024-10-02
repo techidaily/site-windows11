@@ -1,7 +1,7 @@
 ---
 title: "How to Maximize Security: Longer PIN Length for Win11/11 Users"
-date: 2024-09-21T16:33:55.999Z
-updated: 2024-09-26T20:52:47.447Z
+date: 2024-09-29T16:01:17.180Z
+updated: 2024-10-01T21:43:28.026Z
 tags:
   - windows10
   - windows11
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
  If you’ve not set a Windows Hello PIN before, you can do so via Settings. Our guide to [setting a PIN in Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) includes instructions for how to do so. Your PIN must have the minimum number of characters set with the **PINComplexity** registry key.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Extend the PIN Length With Group Policy Editor
@@ -80,36 +80,36 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 ![Administrative Templates in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/administrative-templates.jpg)
 5. Then click the arrow by **System** and select **PIN Complexity**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Double-click on the **Minimum PIN Length** policy.  
 ![The PIN Complexity policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-complexity.jpg)
 2. Click the **Enabled** radio button to activate a **Minimum PIN Length** box.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Then input a higher value in the **Minimum PIN Length** box.  
 ![The Minimum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/minimum-pin-length-policy.jpg)
 4. Select **Apply** and **OK** to set the new PIN length policy.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. You can also set a max PIN length much the same by clicking the **Maximum PIN Length** policy, selecting **Enabled**, and inputting a new value. Then click on **Apply** and **OK** within the Maximum PIN length window.  
 ![The Maximum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-policy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Extend Your Windows PIN to Make It More Secure
@@ -130,17 +130,22 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-revealing-instagram-lurkers-the-exit-list-for-2024/"><u>[New] Revealing Instagram Lurkers The Exit List for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-net-booster-fb-stories-repository-app/"><u>[Updated] In 2024, Net Booster FB Stories Repository App</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-securely-growing-your-channels-popularity-a-one-million-goal-guide/"><u>[Updated] Securely Growing Your Channel's Popularity A One-Million Goal Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-moto-z2-masterclass-smartphone-smarts-explored/"><u>2024 Approved Moto Z2 Masterclass Smartphone Smarts Explored</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-webcam-buying-simplified-the-best-10-options/"><u>2024 Approved Webcam Buying Simplified The Best 10 Options</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-fixes-for-common-windows-os-office-problems/"><u>Essential Fixes for Common Windows OS Office Problems</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-missing-msvcr110dll-in-windows-environment/"><u>Overcoming Missing msvcr110.dll in Windows Environment</u></a></li>
-<li><a href="https://extra-support.techidaily.com/quick-and-easy-the-top-ten-for-youtube-mpeg-transformation-for-2024/"><u>Quick and Easy The Top Ten for YouTube MPEG Transformation for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlined-graphics-the-key-to-optimal-radeon-performance-in-windows-11/"><u>Streamlined Graphics: The Key to Optimal Radeon Performance in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleash-the-potential-of-task-scheduler-in-windows/"><u>Unleash the Potential of Task Scheduler in Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-components-with-toms-hardware-guide/"><u>Unlocking Components with Tom's Hardware Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-process-windows-11-ms-work-installation/"><u>Unveiling the Process: Windows 11 MS Work Installation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-advanced-techniques-for-capturing-high-quality-skype-calls-for-2024/"><u>[Updated] Advanced Techniques for Capturing High-Quality Skype Calls for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-updated-samsung-ubd-k8500-analysis-for-2024/"><u>[Updated] Updated Samsung UBD-K8500 Analysis for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-power-of-pink-tims-innovative-caulk-gun-style-thermal-paste-revolutionizes-component-heat-management/"><u>Discover the Power of Pink: TIM's Innovative 'Caulk Gun' Style Thermal Paste Revolutionizes Component Heat Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-use-of-notes-on-modern-windows-systems/"><u>Efficient Use of Notes on Modern Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-entry-to-sticky-notes-in-windows-11/"><u>Effortless Entry to Sticky Notes in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortlessly-experience-multiple-languages-on-windows-os/"><u>Effortlessly Experience Multiple Languages on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-chromes-grey-screen-hurdle/"><u>Eliminating Chrome's Grey Screen Hurdle</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-images-on-windows-11-six-proven-scaling-strategies/"><u>Enhance Images on Windows 11: Six Proven Scaling Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-productivity-setting-up-windows-to-delete-files-automatically/"><u>Enhance Productivity: Setting Up Windows to Delete Files Automatically</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-underperforming-systems-with-intel-gpu-fixes/"><u>Enhancing Underperforming Systems with Intel GPU Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enjoy-a-glitch-free-play-death-stranding-pc-stability-achieved-and-improved-fixes-explained/"><u>Enjoy a Glitch-Free Play: Death Stranding PC Stability Achieved and Improved Fixes Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/escape-into-blissful-functionality-with-these-windows-fixes/"><u>Escape Into Blissful Functionality with These Windows Fixes</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-v30-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo V30 FRP Bypass</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-itel-p55-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-a78-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo A78 FRP Bypass</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-vivo-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Vivo ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://win-able.techidaily.com/microsoft-flight-simulator-2020-update-issue-problem-solved/"><u>Microsoft Flight Simulator 2020 Update Issue: Problem Solved</u></a></li>
 </ul></div>
 

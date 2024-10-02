@@ -1,7 +1,7 @@
 ---
 title: How to Automatically Shut Down a Windows 11 and 11 PC When It's Idle
-date: 2024-09-10T20:57:53.214Z
-updated: 2024-09-15T16:37:24.695Z
+date: 2024-09-28T18:15:22.236Z
+updated: 2024-10-01T16:15:35.197Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 5. Click **Next**.  
 ![daily trigger set date time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/daily-trigger-set-date-time.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Next, select a trigger point. You can choose from **Daily, Weekly, Monthly, One Time,** etc. For this guide, we will select the **Daily** trigger to schedule a daily shut down at a specific time.
 2. So, select **Daily** and click **Next**.
 3. Next, set the **Start date** and **time** for the recurring shut down and click **Next**.  
@@ -74,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 ![disable active tasks task scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/disable-active-tasks-task-scheduler.png)
 
  To stop automatic Windows shutdown, you'll need to delete or [disable the scheduled task in Windows Task Scheduler](https://www.makeuseof.com/disable-scheduled-tasks-windows-10/). Disabling it is best if you only want to stop it for a temporary amount of time, but if you're tired of your PC turning off by itself, it's best to delete it instead.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Schedule a Windows 11 Shutdown Using Command Prompt or PowerShell
 
@@ -163,6 +177,14 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 4. In the **Action** tab, select **Start a program** and click **Next**.  
 ![start a program task command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/start-a-program-task-command.png)
 5. Type **shutdown.exe** in the **Program/Script** field and click **Next**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Review the changes and click **Finish** to create and add the new task to your Windows schedule.
 
  That’s it. The Task Scheduler will trigger the shutdown action daily at your specified time and power off your PC.
@@ -181,13 +203,6 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 4. Select **Start** **the task only if the computer is idle for the** option.
 5. In both the **time** **fields**, enter the same time. For example, if you enter 10 minutes, the Task Scheduler will wait for the system to be idle for 10 minutes before triggering the Shut down task. You can choose anywhere from a few minutes to two hours.
 6. Click **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Stop an Automatic Shutdown via Task Scheduler
 
@@ -208,16 +223,10 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 2. Click on **Windows Terminal (Admin)** to open the elevated terminal.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. In the Windows Terminal window, type the following command and press Enter:  
@@ -260,13 +269,6 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 3. In the shortcut tab, click on the **Change** icon.  
 ![shutdowntimer desktop shortcut icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/shutdowntimer-desktop-shortcut-icon.png)
 4. Select an icon that represents the shortcut best. For this guide, we will select the **Power** icon.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click **OK** to make a selection.
 6. Then, click **Apply** and **OK** to save changes.
@@ -351,6 +353,14 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 7. In the above command, replace **Nseconds** with the number of seconds to set a timer for a restart.  
 ![automated shut down windows 11 command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/automated-shut-down-windows-11-command-prompt.png)
 8. If you want to define a specific shutdown time instead, use the **at time shutdown /s** command. For example, to schedule a shutdown at 12:30 AM, use the following command:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `at 00:30 shutdown /s`
 9. To cancel the shutdown or restart the timer, type the following command and press Enter:  
 `Shutdown -a`
@@ -359,13 +369,6 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 ![shutdown command parameters command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/shutdown-command-parameters-command-prompt.jpg)
 
  You can further customize the shutdown task by using the shutdown parameters. For example, use the **\-f** parameter to force close the running application without warning. Additionally, type **shutdown** and press Enter to view all the available parameters for the shutdown command.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Schedule Auto Shut Down Using a Desktop Shortcut
 
@@ -400,13 +403,6 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
  By default, Windows is configured to put your computer to sleep after a few minutes of inactivity. But if you prefer to shut down your computer every day or when idle for a long time, you can use the Task Scheduler to schedule an automatic system shutdown instead.
 
  Here we show you how to schedule a shutdown in Windows 11 and 10 computers.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Schedule a Windows 11 Shutdown Using Task Scheduler
 
@@ -455,6 +451,13 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 
 ![disable active tasks task scheduler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/disable-active-tasks-task-scheduler.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To stop automatic Windows shutdown, you'll need to delete or [disable the scheduled task in Windows Task Scheduler](https://www.makeuseof.com/disable-scheduled-tasks-windows-10/). Disabling it is best if you only want to stop it for a temporary amount of time, but if you're tired of your PC turning off by itself, it's best to delete it instead.
 
 ## How to Schedule a Windows 11 Shutdown Using Command Prompt or PowerShell
@@ -496,10 +499,26 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 1. Right-click on your Windows desktop and select **New > Shortcut.**  
 ![create new desktop shortct](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/create-new-desktop-shortct.png)
 2. In the shortcut wizard, type the following command in the **Type the location of the item** field:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `Shutdown -s -t 300`
 3. In the above command, **300 seconds (5 minutes)** represents the number of seconds for the timer. You can change the seconds as per your need.  
 ![automated shut down shortcut command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/automated-shut-down-shortcut-command.png)
 4. Click **Next**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Next, type a name for your shortcut. For example, type **ShutDownTimer.**  
 ![shutdown timer shortcut name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/shutdown-timer-shortcut-name.png)
 
@@ -530,5 +549,26 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-televisual-enhancements-through-engaging-fb-livestreams/"><u>[New] Televisual Enhancements Through Engaging FB Livestreams</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-your-youtube-monetization-potential-essential-view-numbers/"><u>[New] Unlocking Your YouTube Monetization Potential Essential View Numbers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-analyzing-tseries-earnings-via-youtube-engagement/"><u>[Updated] In 2024, Analyzing TSeries Earnings via YouTube Engagement</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-interactive-photography-sharing-immersive-360-photos-via-mobile-devices/"><u>[Updated] In 2024, Interactive Photography Sharing Immersive 360 Photos via Mobile Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-unopened-sharing-errors-with-geforce-experience/"><u>Correcting Unopened Sharing Errors with GeForce Experience</u></a></li>
+<li><a href="https://facebook.techidaily.com/cryptocurrencys-expansion-a-future-headline/"><u>Cryptocurrency's Expansion: A Future Headline?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/tial-7-dslrs-to-elevate-virtual-presentations-and-broadcasts-for-2024/"><u>Essential 7 DSLRs to Elevate Virtual Presentations & Broadcasts for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-double-clicking-not-opening-folders-on-windows-1110/"><u>How to Fix Double-Clicking Not Opening Folders on Windows 11/10</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-creating-seamless-connections-spotify-to-youtube-music-conversion/"><u>In 2024, Creating Seamless Connections Spotify to YouTube Music Conversion</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-epic-martial-arts-arcade-classics-revisited/"><u>In 2024, Epic Martial Arts Arcade Classics Revisited</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-hype-booster-maker/"><u>In 2024, Premier Hype Booster Maker</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-to-performance-enhancement-with-windows-lav-filters-use/"><u>Key to Performance Enhancement with Window's LAV Filters Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-the-malfunction-of-defrag-in-windows-os/"><u>Mending the Malfunction of Defrag in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-1011-a-workshop-for-custom-pattern-crafting/"><u>Navigating Windows 10/11: A Workshop for Custom Pattern Crafting</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigational-aid-embracing-apple-maps-in-windows-systems/"><u>Navigational Aid: Embracing Apple Maps in Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-error-1-secure-your-minecraft-adventures/"><u>Overcome Error 1: Secure Your Minecraft Adventures</u></a></li>
+<li><a href="https://windows11.techidaily.com/process-of-disabling-laptops-internal-keys-in-os/"><u>Process of Disabling Laptop's Internal Keys in OS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-understanding-garmins-forerunner-265-features-and-performance/"><u>The Ultimate Guide to Understanding Garmin's Forerunner 265 Features & Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-your-ctrl-commands-full-potential-on-windows-11/"><u>Unlocking Your Ctrl Command's Full Potential on Windows 11</u></a></li>
+</ul></div>
 

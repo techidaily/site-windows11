@@ -1,7 +1,7 @@
 ---
 title: "Optimize Storage Management: 4 Keyways Into Windows 11 Disk Settings"
-date: 2024-09-08T17:12:36.337Z
-updated: 2024-09-15T16:20:38.047Z
+date: 2024-09-26T23:30:45.902Z
+updated: 2024-10-01T22:55:25.704Z
 tags:
   - windows10
   - windows11
@@ -39,19 +39,6 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 
 ![Disk Management app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/6-ways-to-open-disk-management-windows-10-0.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Search for Disk Management in Windows
 
 [The search feature in Windows 10 and 11](https://www.makeuseof.com/windows-search-use-guide/) lets you open any app on your computer, no matter where it's stored. You can use it to launch a built-in utility like Disk Management too. However, the search results may confuse you since Disk Management doesn't directly show up here. Let's clarify this:
@@ -62,16 +49,10 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
  Both search keywords do the same thing. Although you don't see "Disk Management" as a result, the best match will still launch the program you need to initialize or manage your storage drives.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Launch Disk Management From the Quick Access Menu
@@ -84,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 
  When the program opens, you'll be able to see your connected drives and start managing their partitions.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Use the Run Dialog to Open Disk Management
 
  As the name suggests, the Run dialog lets you run or open any program on your Windows PC, provided you know the full file path. You can also run any executable stored in the **C:\\Windows** directory by typing the file name. It can be a great productivity tool if you know exactly [which Windows Run commands to use](https://www.makeuseof.com/tag/windows-run-commands-cheat-sheet/).
@@ -92,19 +80,20 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 
 ![Run dialog box with diskmgmt command in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/run-dialog-box-with-diskmgmt-command-in-windows-11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This way to open Disk Management is preferable if you're busy on the keyboard and don't want to reach for your mouse.
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Open Disk Management From the Control Panel
@@ -135,5 +124,24 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-how-to-react-if-your-live-video-is-quashed-on-facebook/"><u>[New] In 2024, How to React if Your Live Video Is Quashed on Facebook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-popcorn-predictions-apples-no1-free-and-paid-film-watchers-guide/"><u>[Updated] Popcorn Predictions Apple's No.1, Free & Paid Film Watchers Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/an-insight-into-windows-audio-channel-separation/"><u>An Insight Into Windows' Audio Channel Separation</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-sticky-note-opening-on-windows-11/"><u>Breaking Down Sticky Note Opening on Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/budget-friendly-sky-vault-optimal-large-file-haven-for-2024/"><u>Budget-Friendly Sky Vault Optimal Large File Haven for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-up-chromes-dark-window/"><u>Clearing Up Chrome's Dark Window</u></a></li>
+<li><a href="https://windows11.techidaily.com/crystal-clear-in-minutes-mastering-fuzzy-window-fixes/"><u>Crystal Clear in Minutes: Mastering Fuzzy Window Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-windows-11-editions-home-or-pro-advantage/"><u>Deciphering Windows 11 Editions: Home or Pro Advantage</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-command-prompt-tactics-for-registry-optimization/"><u>Expert Command Prompt Tactics for Registry Optimization</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/experts-guide-to-minecraft-3d-shapes-crafting-for-2024/"><u>Expert's Guide to Minecraft 3D Shapes Crafting for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/illustrating-maximum-and-minimum-cpu-stages-on-windows/"><u>Illustrating Maximum & Minimum CPU Stages on Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-iphone-13-mini-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing iPhone 13 mini iCloud Activation Lock</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-iphone-13-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From iPhone 13</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-meme-mastery-top-ten-template-treasures/"><u>In 2024, Meme Mastery Top Ten Template Treasures</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-storage-effortlessly-quick-pathways-into-windows-disk-manager/"><u>Optimize Storage Effortlessly: Quick Pathways Into Windows Disk Manager</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-cutting-edge-mkv-editing-tools-for-mac/"><u>Updated Cutting-Edge MKV Editing Tools for Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722162597152-worried-about-your-privacy-with-chatgpt-discover-the-steps-to-opt-out-safely/"><u>Worried About Your Privacy with ChatGPT? Discover the Steps to Opt-Out Safely.</u></a></li>
+</ul></div>
 

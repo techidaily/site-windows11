@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Routine: NirCmd's Command Shortcuts Expertise"
-date: 2024-09-10T17:42:41.290Z
-updated: 2024-09-15T16:01:42.082Z
+date: 2024-10-01T02:31:04.946Z
+updated: 2024-10-02T00:08:11.449Z
 tags:
   - windows10
   - windows11
@@ -69,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
  Now you can set up NirCmd desktop and keyboard command shortcuts that do all kinds of things. Here are eight handy NirCmd commands to create shortcuts for.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Empty the Recycle Bin
 
  A keyboard shortcut for emptying the Recycle Bin would undoubtedly be handy, but Windows doesn’t have one. You can create a desktop shortcut or hotkey for emptying the Recycle Bin with this NirCmd command:
@@ -80,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
  This NirCmd command will centrally align all restored down windows. It’s a useful command for organizing windows on the desktop. The command for centrally aligning windows is:
 
 `nircmd.exe win center alltop`
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Log Out of Windows
 
@@ -114,6 +114,13 @@ keywords: Routine Simplification,Command Shortcuts Guide,NirCmd Tips,Efficiency 
 thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453eb6e04c1cfde40ef70bbce3.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Activate Your Windows 11/10 Screensaver
 
  Do you have a screensaver set that you love viewing? If so, set up a NirCmd command shortcut that enables you to immediately activate that screensaver. You can create a desktop and keyboard shortcut for activating the screensaver with this NirCmd command:
@@ -126,18 +133,18 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
 `nircmd.exe win close class CabinetWClass`
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Keep the Calculator on Top of All Windows
 
  The pre-installed Calculator app is one many users no doubt need when browsing the web or utilizing other software packages. You can create a NirCmd command shortcut that always keeps Calculator on top of other windows when you’re utilizing that app. To do so, you’ll need to input this command within a desktop shortcut’s item location box:
 
 `nircmd.exe win settopmost title "Calculator" 1`
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 8\. Set the Brightness Level
 
@@ -146,10 +153,10 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 `nircmd.exe setbrightness 60 3`
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create Handy Windows Task Shortcuts With NirCmd
@@ -165,5 +172,24 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-streamlined-techniques-to-capture-webinars-efficiently-windows-mac-for-2024/"><u>[New] Streamlined Techniques to Capture Webinars Efficiently (Windows, Mac) for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harmonious-hues-the-top-10-sites-to-download-styleful-wallpapers/"><u>[Updated] Harmonious Hues The Top 10 Sites to Download Styleful Wallpapers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-tips-on-how-skip-edgenuity-videos-for-2024/"><u>[Updated] Tips on How Skip Edgenuity Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-secrets-to-iphone-stellar-images/"><u>[Updated] Unlocking the Secrets to iPhone Stellar Images</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-windows-watcher-functionality/"><u>Disabling Windows Watcher Functionality</u></a></li>
+<li><a href="https://blog-min.techidaily.com/electric-vehicle-charging-prices-whats-the-average-cost-today/"><u>Electric Vehicle Charging Prices: What's the Average Cost Today?</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-aggregatorhostexe-in-windows-how-it-works-and-safety-aspects/"><u>Exploring AggregatorHost.exe in Windows: How It Works and Safety Aspects</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-ghost-recon-breakpoints-crash-problems-a-fast-and-simple-guide/"><u>Fixing Ghost Recon Breakpoint's Crash Problems - A Fast and Simple Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-captivating-photo-based-video-content-using-pixizs-features/"><u>In 2024, Crafting Captivating Photo-Based Video Content Using Pixiz's Features</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/incognito-tips-stay-anonymous-on-chrome-edge-firefox-safari-and-opera-online/"><u>Incognito Tips: Stay Anonymous on Chrome, Edge, Firefox, Safari & Opera Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/lock-it-down-steps-to-activate-windows-controlled-access/"><u>Lock It Down: Steps to Activate Window’s Controlled Access</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-error-0x80300024-in-windows-xp/"><u>Overcoming Error 0X80300024 in Windows XP</u></a></li>
+<li><a href="https://windows11.techidaily.com/pro-level-text-workflow-unleash-the-power-of-snipping-tool-on-win-11/"><u>Pro-Level Text Workflow: Unleash the Power of Snipping Tool on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-windows-update-issues-0xca00a009/"><u>Streamlining Windows Update Issues: 0XCA00A009</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-net-requirement-issue-in-windows-apps/"><u>Tackling the .NET Requirement Issue in Windows Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-hidden-language-of-windows-update-identifiers/"><u>The Hidden Language of Windows Update Identifiers</u></a></li>
+</ul></div>
 

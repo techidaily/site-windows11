@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 at Your Fingertips: Crafting Unique Shortcuts"
-date: 2024-09-20T22:35:35.505Z
-updated: 2024-09-26T21:51:47.715Z
+date: 2024-09-27T23:20:29.555Z
+updated: 2024-10-02T01:57:56.549Z
 tags:
   - windows10
   - windows11
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 8. Select the **Next** option to install the software.
 9. After installing, select the option to set up a WinHotKey desktop shortcut. Then you can click that shortcut to launch the software.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Set Up Software Hotkeys
 
  The WinHotKey Configuration includes a list of [default Windows hotkeys](https://www.makeuseof.com/tag/windows-shortcuts-101-ultimate-keyboard-shortcut-guide/). However, you can’t edit those default keyboard shortcuts in any way. What you can do is add new custom hotkeys for opening software to that list. You can set up new custom keyboard shortcuts for launching software like this.
@@ -55,6 +48,14 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 1. Press the **New Hotkey** button at the top left of the WinHotKey Configuration window.  
 ![The WinHotKey Configuration window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/winhotkey-configuration-window.png)
 2. Type an optional description for the hotkey in the text box on the **General** tab if you wish.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Select the **Launch an application** option on the drop-down menu.
 4. Press the **Browse** button to bring up a new application window.  
 ![The Browse for application window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/browse-for-application-window.png)
@@ -66,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 3. You can also select additional keys for the hotkey by clicking the **Alt**, **Shift**, and **Ctrl** checkboxes. The Windows checkbox is selected by default, but you can deselect that option.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. To further configure the keyboard shortcut, click the **Advanced** button. You can enter additional parameters and change how the software window opens on the Launch: Advanced window.  
@@ -77,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 5. Click the **OK** button to exit the Launch: Advanced window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Then press the **OK** button on the New Hotkey window to add the keyboard shortcut.
@@ -101,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 * Event Viewer: eventvwr
 * Services Windows: services.msc
 * Optimize Drives: dfrgui
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Set Up Folder, Document, and Window Control Hotkeys
 
@@ -138,6 +132,13 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 ![The Hot Key window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-hot-key-window.jpg)
 6. Select **OK** to add the new custom hotkey.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Now you’ll see the new hotkey you’ve created included within the all and programs categories on the HotkeyP window. Press the new hotkey you just set up to launch the selected program.
 
  There are extra options you can select to configure how the hotkey launches the program. For example, select **Run as administrator** to set the program to open with elevated privileges. Or set the software to run at a higher priority by selecting a high or above normal option on the **Process** priority drop-down menu.
@@ -148,16 +149,16 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
 ![The Shutdown option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-shutdown-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can change general software settings for HotkeyP by clicking the **Options** button. That will bring up an Options window that includes numerous miscellaneous software. Make sure the **Start automatically at Windows startup** checkbox is selected on the **General** tab. Then HotKeyP will automatically start in the background.
 
 ![The Start automatically checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-start-automatically-checkbox.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Set Up All the Windows Software HotKeys You Need With WinHotKey
 
@@ -175,21 +176,24 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-resolving-social-media-puzzle-zippy-fb-videos-not-in-view/"><u>[New] In 2024, Resolving Social Media Puzzle Zippy FB Videos Not in View</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-essential-guide-to-mobile-horizon-photos/"><u>[New] In 2024, The Essential Guide to Mobile Horizon Photos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-find-your-comments-on-youtube/"><u>[Updated] How to Find Your Comments on YouTube?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-master-digital-design-integrating-text-with-visuals-for-improved-clarity/"><u>[Updated] Master Digital Design Integrating Text with Visuals for Improved Clarity</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-narrative-nexus-honor-roll-hindsight/"><u>[Updated] Narrative Nexus – Honor Roll Hindsight</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-becoming-an-smm-virtuoso-the-ultimate-pathway-of-10-strategic-steps/"><u>2024 Approved Becoming an SMM Virtuoso The Ultimate Pathway of 10 Strategic Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-causes-of-pc-disk-issues/"><u>Addressing Causes of PC Disk Issues</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/guia-basica-declarar-la-hora-en-espanol/"><u>Guía Básica: Declarar La Hora en Español</u></a></li>
-<li><a href="https://facebook.techidaily.com/maximizing-impact-or-plateauing-at-facebook/"><u>Maximizing Impact or Plateauing at Facebook?</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-auto-detection-errors/"><u>Overcoming Windows Auto Detection Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/overhauling-write-operations-failure-fixes-on-windows/"><u>Overhauling Write Operations Failure Fixes on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/re-establishing-printer-linkage-in-windows-11-setup/"><u>Re-Establishing Printer Linkage in Windows 11 Setup</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-correcting-incompatible-software-with-windows-operations/"><u>Strategies for Correcting Incompatible Software with Windows Operations</u></a></li>
-<li><a href="https://windows11.techidaily.com/turning-on-hyper-v-simplified-your-win11-how-to/"><u>Turning On Hyper-V Simplified - Your Win11 How-To</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-strategies-for-pokemon-unite-newbies/"><u>Ultimate Strategies for Pokémon Unite Newbies</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-caption-troubleshooting-made-simple/"><u>Win11 Caption Troubleshooting Made Simple</u></a></li>
+<li><a href="https://win-blog.techidaily.com/new-worlds-recurring-freeze-problem-the-solution-unveiled/"><u>'New World's' Recurring Freeze Problem: The Solution Unveiled!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-crafting-a-standout-solo-podcast-experience/"><u>[New] 2024 Approved Crafting a Standout Solo Podcast Experience</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-invalid-temp-path-on-w11-pc/"><u>Correcting Invalid Temp Path on W11 PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/distinguishing-between-echo-pop-and-echo-dot-a-comprehensive-guide/"><u>Distinguishing Between Echo Pop and Echo Dot - A Comprehensive Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-lava-blaze-2-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Lava Blaze 2 5G Device SIM</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-microsoft-copilot-ai-driven-coding-assistant-explained/"><u>Exploring Microsoft Copilot: AI-Driven Coding Assistant Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixed-low-frame-rate-issue-with-asus-usb-cam-in-win11/"><u>Fixed Low Frame Rate Issue with Asus USB Cam in Win11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-y200e-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo Y200e 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-set-or-reset-the-default-terminal-app-on-windows/"><u>How to Set or Reset the Default Terminal App on Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-note-30-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Note 30 To Phone | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/instructional-insights-into-activating-windows-11s-wireless-feature/"><u>Instructional Insights Into Activating Windows 11'S Wireless Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/make-your-file-explorer-reliable-fixes-that-work-in-windows-11/"><u>Make Your File Explorer Reliable: Fixes That Work in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-startup-fixes-for-frozen-windows-obs-studio/"><u>Mastering Startup Fixes for Frozen Windows OBS Studio</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-smartly-minimizing-applications-using-ctrlplustab/"><u>Navigate Smartly: Minimizing Applications Using Ctrl+Tab</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigating-the-digital-page-with-kobo-clara-colour-an-insiders-review/"><u>Navigating the Digital Page with Kobo Clara Colour: An Insider's Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-window-cookie-expiry-post-login-errors/"><u>Setting Window' Cookie Expiry Post-Login Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-windows-10s-caption-error-correction/"><u>Streamlining Windows 10'S Caption Error Correction</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows: 5 Steps for Non-Functional Backlit Keys"
-date: 2024-09-11T19:13:35.654Z
-updated: 2024-09-15T19:23:41.475Z
+date: 2024-09-30T00:39:35.092Z
+updated: 2024-10-01T22:35:30.592Z
 tags:
   - windows10
   - windows11
@@ -54,6 +54,19 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 
 ![Backlit keyboard app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/keyboard-app-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Update Your Keyboard Drivers
 
  If your keyboard backlight is sensor-activated, and it doesn’t work anymore, there’s a chance an outdated or corrupt driver is causing the problem. To fix it, you should update your keyboard driver. Here is how you can do it:
@@ -67,16 +80,10 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
  If this didn't fix the problem, there are [more ways to fix a corrupt driver](http://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/).
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Run the Keyboard Troubleshooter
@@ -88,19 +95,6 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 3. From **Find and fix other problems**, select **Keyboard > Run the troubleshooter**.
 
 ![Running the keyboard troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/keyboard-troubleshooter-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In Windows 11, go to **Settings > System >Troubleshoot > Other trouble-shooters** to access the Keyboard troubleshooter.
 
@@ -116,15 +110,22 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
 ![Running the device troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/device-troubleshooter-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Perform a Clean Boot
 
  If nothing worked until now, you should [perform a clean boot](https://www.makeuseof.com/how-perform-clean-boot-windows-10/)on your computer. This way, your system will start without any third-party app that might influence your backlit keyboard functionality. If your keyboard lights up, open Control Panel and take a look at the apps that you’ve installed lately since one of them is causing your problem.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Backlit Keyboard Problems Resolved
 
@@ -141,5 +142,23 @@ thumbnail: https://thmb.techidaily.com/bab37a5357094e09dd42f37d3cc78e25fe907bbcf
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-comparing-youtube-video-downloader-apps-on-android-for-2024/"><u>[New] Comparing YouTube Video Downloader Apps on Android for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-pioneering-techniques-to-improve-your-fb-video-ad-effectiveness-for-2024/"><u>[Updated] Pioneering Techniques to Improve Your FB Video Ad Effectiveness for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/activation-indicators-for-windows-11-systems/"><u>Activation Indicators for Windows 11 Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-visuals-download-gtx-1050-ti-driver-updates/"><u>Elevate Visuals: Download GTX 1050 Ti Driver Updates</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/enhance-your-videos-with-dynamic-camera-movements-camtasa-guide/"><u>Enhance Your Videos with Dynamic Camera Movements - Camtasa Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-mistakes-to-dodge-on-windows-11-upgrade/"><u>Essential Mistakes to Dodge on Windows 11 Upgrade</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-windows-signing-you-in-with-a-temporary-profile/"><u>How to Fix Windows Signing You In With a Temporary Profile</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-video-crafting-for-the-modern-youtube-creator/"><u>In 2024, Video Crafting for the Modern YouTube Creator</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/melody-on-calls-the-complete-guide-to-downloading-and-editing-tamil-tracks-for-2024/"><u>Melody on Calls The Complete Guide to Downloading & Editing Tamil Tracks for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-non-signed-file-blockade-on-w10w11/"><u>Overcoming Non-Signed File Blockade on W10/W11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-and-easy-solutions-resolving-the-steam-corrupted-disk-issue/"><u>Quick & Easy Solutions: Resolving the Steam Corrupted Disk Issue</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/saber-ajuda-com-expressoes-portuguesas-tudo-que-pensa/"><u>Saber Ajuda Com Expressões Portuguesas: Tudo Que Pensa</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-the-sleepy-slumber-of-hibernation-woes/"><u>Stop the Sleepy Slumber of Hibernation Woes</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-non-operational-windows-defrag-tool/"><u>Troubleshooting Non-Operational Windows Defrag Tool</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unveiling-potential-issues-with-iphone-14s-battery-life-and-performance/"><u>Unveiling Potential Issues with iPhone 14'S Battery Life and Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-11s-hidden-error-code-0xc1900101/"><u>Unveiling Windows 11'S Hidden Error Code #0xC1900101</u></a></li>
+</ul></div>
 

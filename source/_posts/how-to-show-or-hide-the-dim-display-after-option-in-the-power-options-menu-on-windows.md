@@ -1,7 +1,7 @@
 ---
 title: How to Show or Hide the “Dim Display After” Option in the Power Options Menu on Windows
-date: 2024-09-25T21:09:58.135Z
-updated: 2024-09-26T16:03:21.105Z
+date: 2024-09-28T19:53:14.056Z
+updated: 2024-10-02T03:27:50.564Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ powercfg -attributes SUB_VIDEO 17aaa29b-8b43-4b94-aafe-35f64daaf1ee +ATTRIB_HIDE
  After entering the command you want, hit the **Enter** key on your keyboard for PowerShell to execute it. Afterward, the **Dim display after** option should appear or disappear accordingly in the Power Options menu.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Show or Hide the “Dim display after” Option Using the Registry Editor
@@ -53,6 +53,13 @@ powercfg -attributes SUB_VIDEO 17aaa29b-8b43-4b94-aafe-35f64daaf1ee +ATTRIB_HIDE
  Considering how vital the [Windows Registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) is for the smooth operation of Windows, you might want to [back up the registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before you edit it. Afterward, open the Registry Editor by pressing **Win + R**, typing **regedit** in the text box, and clicking **OK**.
 
 ![regedit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/regedit.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Click **Yes** to bypass the UAC prompt.
 
@@ -65,10 +72,10 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\7516b95f
 ![the attributes entry in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/regedit-dim-display-after-attributes-entry.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, in the **Value data** text box, enter **1** to hide **Dim display after** in the Power Options menu or **2** to show it.
@@ -76,20 +83,13 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\7516b95f
 ![modifying the attributes dword in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/win-attributes-dword.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you can open the Power Options menu (see [how to open the power options on Windows 10](https://www.makeuseof.com/windows-10-open-power-options/)) and check under **Display** to see if the **Dim display after** option is there or not.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Controlling the “Dim Display After” Option in the Power Options Menu
 
@@ -110,22 +110,24 @@ HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\7516b95f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-digital-dynamos-8-youtube-channels-surging-forward/"><u>[Updated] 2024 Approved Digital Dynamos 8 YouTube Channels Surging Forward</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-guide-to-using-vlc-from-mpeg-4-to-all-media-types/"><u>2024 Approved The Ultimate Guide to Using VLC From MPEG-4 to All Media Types</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-successful-srt-shipping-out-of-premiere/"><u>2024 Approved Unlocking Successful SRT Shipping Out of Premiere</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/advanced-tips-for-efficient-toolbar-usage-in-microsoft-win11-pcm/"><u>Advanced Tips for Efficient Toolbar Usage in Microsoft Win11 PCM</u></a></li>
-<li><a href="https://windows11.techidaily.com/disabling-windows-11-camera-app-error-0xa00f425d-fixes/"><u>Disabling Windows 11 Camera App Error 0xA00F425D Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/discover-vivetool-your-ticket-to-access-latest-windows-innovations/"><u>Discover ViVeTool: Your Ticket to Access Latest Windows Innovations</u></a></li>
-<li><a href="https://windows11.techidaily.com/easy-integration-portable-software-menus-for-w11plus/"><u>Easy Integration: Portable Software Menus for W11+</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-infinix-note-30-vip-racing-edition-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Infinix Note 30 VIP Racing Edition to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-slippery-slope-of-simulated-support-instagram-style/"><u>In 2024, The Slippery Slope of Simulated Support, Instagram Style</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unleashing-radiance-skincare-and-haircare-secrets/"><u>In 2024, Unleashing Radiance Skincare and Haircare Secrets</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/inside-out-how-to-react-on-twitter-vids/"><u>Inside Out How to React on Twitter Vids</u></a></li>
-<li><a href="https://windows11.techidaily.com/meeting-prep-101-test-your-windows-webcam-microphone/"><u>Meeting Prep 101: Test Your Windows Webcam, Microphone</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-to-become-a-win-11-insider/"><u>Step-by-Step to Become a Win 11 Insider</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-resolving-installation-issues-with-microsoft-store-apps/"><u>Steps for Resolving Installation Issues with Microsoft Store Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-pinpointing-device-serial-numbers-on-windows/"><u>The Ultimate Guide to Pinpointing Device Serial Numbers on Windows</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-macbook-videoleap-download-a-quick-and-simple-process/"><u>Updated In 2024, MacBook Videoleap Download A Quick and Simple Process</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-sneak-peeks-stealthy-video-capture-techniques/"><u>[New] 2024 Approved Sneak Peeks Stealthy Video Capture Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-how-to-elevate-your-characters-audio-presence-in-free-fire-naturally-for-2024/"><u>[New] How to Elevate Your Character's Audio Presence in Free Fire, Naturally for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-leveraging-brand-partnerships-for-youtube-content-creators/"><u>[New] Leveraging Brand Partnerships for YouTube Content Creators</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-building-a-broad-spectrum-audience-with-multichannel-strategy/"><u>[Updated] In 2024, Building a Broad-Spectrum Audience with Multichannel Strategy</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-the-upcoming-oxygenos-nothing-phone-3-price-release-and-features/"><u>All You Need to Know About the Upcoming OxygenOS Nothing Phone 3 - Price, Release & Features.</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-for-win11-defender-firewall-control/"><u>Essential Tips for Win11 Defender Firewall Control</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-print-server-not-responding-issue/"><u>Fixing Print Server Not Responding Issue</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-online-converter-change-bmp-images-into-jpeg-format-with-ease/"><u>Free Online Converter: Change BMP Images Into JPEG Format with Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/gauge-your-windows-workhorse-power-efficiency-explored/"><u>Gauge Your Window's Workhorse - Power Efficiency Explored</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-abnormal-character-output-windows-wise/"><u>Handling Abnormal Character Output Windows-Wise</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-and-install-dell-tb16-thunderbolt-hub-software-update/"><u>How to Get and Install Dell TB16 Thunderbolt Hub Software Update</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-m34withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy M34with/without a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-zte-blade-a73-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From ZTE Blade A73 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unmasking-the-scope-of-non-google-augmented-reality-accessories/"><u>In 2024, Unmasking the Scope of Non-Google Augmented Reality Accessories</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-hardware-space-exploring-disks-in-w10-and-w11/"><u>Mastering Hardware Space: Exploring Disks in W10 & W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-showhide-system-directories/"><u>Mastering Windows 11: Show/Hide System Directories</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-non-detected-proxy-setup/"><u>Navigating Windows Non-Detected Proxy Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-address-non-successful-disco-update-windows-errors/"><u>Steps to Address Non-Successful Disco Update Windows Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-chaos-organizing-with-windows-11-calendar/"><u>Transforming Chaos: Organizing with Windows 11 Calendar</u></a></li>
 </ul></div>
 

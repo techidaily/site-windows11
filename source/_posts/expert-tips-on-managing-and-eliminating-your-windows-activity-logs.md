@@ -1,7 +1,7 @@
 ---
 title: Expert Tips on Managing & Eliminating Your Windows Activity Logs
-date: 2024-09-09T23:11:25.356Z
-updated: 2024-09-15T19:46:59.201Z
+date: 2024-09-25T01:39:15.676Z
+updated: 2024-10-01T20:35:14.495Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
 
  There are two ways you can clear your recent activity on Windows: from your computer's settings, or via your Microsoft account settings. The steps for the latter will vary depending on if you're on Windows 10 or 11\.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Delete Your Windows Activity History via Settings on Windows 10
 
  If you're on Windows 10, perform the following:
@@ -54,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
 ![Windows 10 clear activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-clear.png)
 
  This will clear the activity history for the account you're currently using.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Delete Your Windows Activity History via Settings on Windows 11
 
@@ -70,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
 
 ![deleting activity history from the cloud](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/delete-ms-activity-history.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Disable Activity Tracking on the Windows 10 Timeline
 
  Back in 2018, Microsoft added a new **Timeline** feature that tracks all your recent activities on Windows 10\. You can view it by pressing the **ALT + Win** keys. You'll see all the windows you currently have open, as well as all the files you've opened in the past.
@@ -83,17 +104,10 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
 ![Checking the options in Windows 10's activity history](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-checkboxes.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to View All Windows 10 Activity History
@@ -105,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
 ### The Windows 10 Activity History Categories
 
 ![The categories on the activity history website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/07/windows-10-activity-history-categories.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Browsing history** handles the data you've stored via browsing Microsoft's browser, Edge. As such, if you only use Edge to download Firefox or Chrome, you probably won't find much data here. If Edge is your primary browser, take a look to see what browsing habits are stored here.
 
@@ -127,6 +134,13 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
 
  You can also click on the **Activity History** tab to view a complete list of all data types: voice, search, browsing history, and location information. Microsoft also makes it easy to filter down to each category by clicking on it.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use Windows 10 and Maintain Your Privacy
 
  Microsoft is eager to get everyone using Windows 10 as quickly as possible, resorting to offering free upgrades to encourage migration. However, users have never considered Windows 10 as a bastion of privacy. Ever since its release, users have discovered ways that the operating system tracks what you do.
@@ -136,10 +150,10 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
  Unfortunately, there is no silver bullet for Windows 10 privacy. Recommended steps range from setting options during the initial OS setup to installing third-party tools to keep tabs on everything.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Keeping Your Data Safe in Windows 10
@@ -157,5 +171,23 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-blending-sound-with-moving-pictures-hub/"><u>[New] Blending Sound with Moving Pictures Hub</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-techniques-to-achieve-consistent-frame-rates-in-obs-studio/"><u>[Updated] 2024 Approved Techniques to Achieve Consistent Frame Rates in OBS Studio</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-a-guide-to-navigating-vimeos-free-premium-and-pro-membership-levels-for-2024/"><u>[Updated] A Guide to Navigating Vimeo’s Free, Premium & Pro Membership Levels for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-first-steps-in-learning-av1-compression/"><u>2024 Approved First Steps in Learning AV1 Compression</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-creative-routes-to-activate-windows-utilities/"><u>5 Creative Routes to Activate Windows Utilities</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-guide-to-all-the-windows-photos-keyboard-shortcuts/"><u>A Guide to All the Windows Photos Keyboard Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-harmonious-symphony-taming-your-computers-audio-irqs/"><u>A Harmonious Symphony: Taming Your Computer’s Audio IRQs</u></a></li>
+<li><a href="https://windows11.techidaily.com/adding-disk-usage-viewers-to-windows-menu-bar/"><u>Adding Disk Usage Viewers to Windows Menu Bar</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-absence-of-ubisoft-launcher-in-windows/"><u>Addressing Absence of Ubisoft Launcher in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/balancing-system-resources-with-microsoft-edge/"><u>Balancing System Resources with Microsoft Edge</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-poco-c55-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Poco C55? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/combining-audioscapes-and-visuals-snipping-tool-guide-max-156/"><u>Combining Audioscapes & Visuals: Snipping Tool Guide (Max 156)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comprehensive-guide-recording-your-zoom-sessions-tips-for-hosts-and-participants/"><u>Comprehensive Guide: Recording Your Zoom Sessions - Tips for Hosts and Participants</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-reliable-is-chatgpt-ensuring-truthfulness-in-ai-conversations/"><u>How Reliable Is ChatGPT: Ensuring Truthfulness in AI Conversations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/methods-to-prevent-steam-file-sync-failures-in-windows/"><u>Methods to Prevent Steam File Sync Failures in Windows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/top-10-secure-ways-to-erase-every-bit-of-data-from-your-iphone-using-ios-apps/"><u>Top 10 Secure Ways to Erase Every Bit of Data From Your iPhone Using iOS Apps</u></a></li>
+</ul></div>
 

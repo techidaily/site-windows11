@@ -1,7 +1,7 @@
 ---
 title: Guidelines for Fixing Windows 11 Support Tool
-date: 2024-09-19T20:39:23.350Z
-updated: 2024-09-26T16:01:44.461Z
+date: 2024-09-29T17:03:25.390Z
+updated: 2024-10-01T22:28:35.809Z
 tags:
   - windows10
   - windows11
@@ -48,22 +48,15 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 3. Search for **Get Help** in the list of apps and click on the three-dot menu. Then click on **Advanced options**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Get Help In Installed Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-installed-apps.jpg)
 4. Now, scroll to the bottom and click **Repair**. If the repair fails, you can use the **Reset** option.  
 ![Get Help Repair Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-repair-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Here's the best part: This process isn't exclusive to the Get Help app. So, you can also apply the above steps to other malfunctioning Windows apps
 
@@ -77,6 +70,19 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 * Connecting to a different network, as specific network configurations might disrupt certain apps.
 * Contacting your Internet Service Provider (ISP) to inquire about potential network maintenance.
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Disable VPN or Proxy Temporarily
 
  If you're still facing issues with the Get Help app, it seems to be due to your VPN or proxy configuration. You can disable your connected VPN or proxy for a quick test.
@@ -88,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 2. Choose the **Disconnect** button to turn off the VPN.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Similarly, you must [temporarily disable your proxy](https://www.makeuseof.com/windows-11-disable-proxy/) to troubleshoot the cause of your Get Help failing to work.
@@ -109,6 +115,14 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 1. You can use the Services app to manage all the Windows services. To open that, press **Win + R** and type **services.msc**.  
 ![Services Command On Run App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/services-command-on-run.jpg)
 2. Now press **Enter** to launch the Services app.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. You'll see a list of all the services currently available in your system. Locate the **Diagnostic Policy Service** and right-click on its name.
 4. Select **Restart** from its context menu.  
 ![Diagnostic Policy Service Restart Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/diagnostic-policy-service-restart-option.jpg)
@@ -131,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 
  If you see an error saying "**Setup failed**," "please re-download the correct version again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Uninstall and Reinstall the Get Help App
 
  If you've tried all other solutions, we recommend uninstalling and reinstalling the Get Help app.
@@ -147,10 +154,10 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 ![Get Help In Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-store.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A fresh installation should resolve all the issues with the app. And now, you can go back to troubleshooting without any hassle.
@@ -173,18 +180,18 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-the-guide-to-capturing-web-radio-frequencies-flawlessly/"><u>[Updated] In 2024, The Guide to Capturing Web Radio Frequencies Flawlessly</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-transform-your-images-with-freepaid-lut-bundles-for-canon/"><u>[Updated] Transform Your Images with Free/Paid LUT Bundles for Canon</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-elevating-zoom-picture-quality-practical-suggestions/"><u>2024 Approved Elevating Zoom Picture Quality Practical Suggestions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/appleiphoneipad-dvd-digiarty/"><u>Apple專用iPhone、iPad DVD轉移工具精選: Digiarty軟體列表</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-elevate-pre-windows-upgrade-machines-into-win11/"><u>How to Elevate Pre-Windows Upgrade Machines Into Win11</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-magic-vs-2-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor Magic Vs 2</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-to-windows-app-install-areas-quickly/"><u>Navigating to Windows App Install Areas Quickly</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/official-installation-guide-downloading-the-hp-laserjet-grower-1018-drivers/"><u>Official Installation Guide: Downloading the HP LaserJet Grower 1018 Drivers</u></a></li>
-<li><a href="https://windows11.techidaily.com/reactivating-hidden-remove-option-for-pin-access-control/"><u>Reactivating Hidden 'Remove' Option for PIN Access Control</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-regain-lost-connection-on-pcs-running-windows/"><u>Strategies to Regain Lost Connection on PCs Running Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/surviving-windows-11-blue-screen-adopting-11-key-approaches/"><u>Surviving Windows 11 Blue Screen: Adopting 11 Key Approaches</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-preventing-windows-autolock-timed-out/"><u>Tips for Preventing Windows Autolock Timed Out</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-banish-youtube-shorts-forever-with-ease/"><u>[New] 2024 Approved Banish YouTube Shorts Forever with Ease</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-sharp-as-day-the-top10-clearer-photo-editors-list/"><u>[New] Sharp as Day The #Top10 Clearer Photo Editors List</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-effortless-tricks-for-capturing-instagram-stories/"><u>[Updated] Effortless Tricks for Capturing Instagram Stories</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-software-guide-for-tempo-alteration/"><u>[Updated] Ultimate Software Guide for Tempo Alteration</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-superior-scrutinizer-of-top-8-rankings-tracker/"><u>In 2024, Superior Scrutinizer of Top 8 Rankings Tracker</u></a></li>
+<li><a href="https://windows11.techidaily.com/managing-windows-modules-installer-resource-demand/"><u>Managing Windows Modules Installer Resource Demand</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-note-taking-on-win11-easy-as-pie/"><u>Master Note-Taking on Win11, Easy as Pie</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-grayscale-windows-backdrops-tips-for-enhancement/"><u>Overcoming Grayscale Windows Backdrops: Tips for Enhancement</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-lsa-errors-on-windows-pcs/"><u>Quick Fixes for LSA Errors on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-ax201-wi-fi-6-error-on-windows/"><u>Steps to Resolve AX201 Wi-Fi 6 Error on Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/troubleshooting-your-video-shorts-invisible-thumbnail-for-2024/"><u>Troubleshooting Your Video Short's Invisible Thumbnail for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-vivetool-enable-unseen-features-on-windows-pcs/"><u>Unraveling ViVeTool: Enable Unseen Features on Windows PCs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-clips-to-masterpiece-essential-video-editing-tips-for-home-movie-makers/"><u>Updated From Clips to Masterpiece Essential Video Editing Tips for Home Movie Makers</u></a></li>
 </ul></div>
 

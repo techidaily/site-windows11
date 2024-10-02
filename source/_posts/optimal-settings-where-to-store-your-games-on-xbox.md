@@ -1,7 +1,7 @@
 ---
 title: "Optimal Settings: Where to Store Your Games on Xbox"
-date: 2024-09-20T19:05:55.319Z
-updated: 2024-09-26T19:20:01.064Z
+date: 2024-09-24T20:10:09.463Z
+updated: 2024-10-01T22:12:24.567Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
  To restart, press the**Alt + F4** hotkeys to open the Shut Down Windows prompt, click the drop-down icon, choose**Restart** from the context menu, and then click**OK.** After restart, launch the Xbox app and check if you can choose a different drive to install games. If not, then it's time to dive into the advanced troubleshooting methods.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Change the Installation Directory in the Xbox App Settings
@@ -53,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
 4. Choose the location where you want to install the game and then click the**Select Folder** option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Customize the System Settings
@@ -70,13 +70,20 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
 4. Click the drop-down icon under the**New** **apps** **will save to** section, choose the drive where you want to install the game, and then click**Apply.**  
 ![New apps will save to section in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/new-apps-will-save-to-section.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That's it! Restart your computer and check if the problem continues.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Restart Important Xbox Services
@@ -118,10 +125,10 @@ Xbox Live Networking Service`
 ![Remove Gaming Services command in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-gaming-services.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After uninstalling the Gaming Services app, restart your computer. Then, open the Microsoft Store, search for and[download the Gaming Services](https://apps.microsoft.com/store/detail/gaming-services/9MWPM2CQNLHN?hl=en-us&gl=us) app again.
@@ -131,19 +138,6 @@ Xbox Live Networking Service`
  It's very common for the Xbox app to get corrupt and throw various issues. The best way to remove corruption from the UWP apps like the Xbox app is to use the Windows repair feature.
 
  Check out[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) for information on how to do this.
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Update the Xbox App
 
@@ -179,22 +173,16 @@ To update the Xbox app, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-instagram-tutorial-upload-and-share-video/"><u>[New] In 2024, Instagram Tutorial Upload and Share Video</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-unleash-your-fun-with-todays-favorite-tiktoks/"><u>[New] Unleash Your Fun with Today's Favorite TikToks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-essential-path-to-prodigious-smm-results-delivered-in-10-steps/"><u>[Updated] The Essential Path to Prodigious SMM Results, Delivered in 10 Steps</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/4-ways-to-mirror-apple-iphone-se-2022-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>4 Ways to Mirror Apple iPhone SE (2022) to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-camera-app-malfunction-in-windows-11/"><u>Addressing Camera App Malfunction in Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/elevate-your-videos-with-winxvideo-ai-seamless-recording-and-enhancement-tools-including-image-upgrading-editing-and-stabilization/"><u>Elevate Your Videos with Winxvideo AI - Seamless Recording & Enhancement Tools Including Image Upgrading, Editing, & Stabilization</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-key-contrasts-between-natural-language-processing-nlp-and-machine-learning-ml/"><u>Exploring Key Contrasts Between Natural Language Processing (NLP) & Machine Learning (ML)</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-stabilize-an-unstable-printer-on-windows/"><u>How to Stabilize an Unstable Printer on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/playnite-extension-virtual-games-collection/"><u>Playnite Extension: Virtual Games Collection</u></a></li>
-<li><a href="https://windows11.techidaily.com/prying-into-hidden-taskbar-analysis-tool-in-windows-11/"><u>Prying Into Hidden Taskbar Analysis Tool in Windows 11</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-xiaomi-redmi-k70-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Xiaomi Redmi K70 Pro</u></a></li>
-<li><a href="https://windows11.techidaily.com/reversal-of-extra-privileges-win11-standardization-tutorial/"><u>Reversal of Extra Privileges: Win11 Standardization Tutorial</u></a></li>
-<li><a href="https://windows11.techidaily.com/revive-the-disappearing-link-top-9-methods-for-win-11s-bluetooth-woes/"><u>Revive the Disappearing Link: Top 9 Methods for Win 11'S Bluetooth Woes</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-addressing-undetectable-disks/"><u>Strategies for Addressing Undetectable Disks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-essential-guide-to-choosing-between-ipad-mini-and-ipad-air/"><u>The Essential Guide to Choosing Between iPad Mini and iPad Air</u></a></li>
-<li><a href="https://discover-help.techidaily.com/top-asf-to-mp4-converters-quick-guide-on-efficient-transformation-of-files/"><u>Top ASF to MP4 Converters: Quick Guide on Efficient Transformation of Files</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-desktop-from-chaotic-to-customized-in-minutes/"><u>Win11 Desktop: From Chaotic to Customized, in Minutes</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-poco-x5-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Poco X5 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/how-to-fix-windows-7-screen-flickering/"><u>How to Fix Windows 7 Screen Flickering</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-through-9-ways-to-access-sound-configuration-in-windows-11/"><u>Navigate Through 9 Ways to Access Sound Configuration in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-missing-d3dx939-dll-in-windows-11-pcs/"><u>Rectifying Missing D3DX9_39 DLL in Windows 11 PCs</u></a></li>
+<li><a href="https://techidaily.com/tecno-spark-20-pro-video-recovery-recover-deleted-videos-from-tecno-spark-20-pro-by-fonelab-android-recover-video/"><u>Tecno Spark 20 Pro Video Recovery - Recover Deleted Videos from Tecno Spark 20 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-significance-of-bsod-in-hardware-troubleshooting/"><u>The Significance of BSoD in Hardware Troubleshooting</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-profiles-in-windows-1111-amidst-errors/"><u>Unlocking Profiles in Windows 11/11 Amidst Errors</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-samsung-galaxy-a15-4g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-20-bandwidth-boosters-cutting-edge-solutions-to-fix-lag-issues-and-enhance-your-gaming-experience-2024-edition/"><u>Warzone 2.0 Bandwidth Boosters: Cutting-Edge Solutions to Fix Lag Issues and Enhance Your Gaming Experience - 2024 Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-nokia-c22-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Nokia C22 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/wordsmithing-wonders-selective-windows-aid/"><u>Wordsmithing Wonders: Selective Windows Aid</u></a></li>
 </ul></div>
 

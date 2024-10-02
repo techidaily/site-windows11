@@ -1,7 +1,7 @@
 ---
 title: Reviving Disconnected Steam Friends List (Wins11)
-date: 2024-09-23T19:03:38.580Z
-updated: 2024-09-26T19:45:12.486Z
+date: 2024-09-28T19:03:14.614Z
+updated: 2024-10-01T22:14:14.227Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
  Restart Steam and check if the issue is now fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Check Steam Friends & Chat Settings
@@ -53,6 +53,20 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 5. Restart Steam and check if you can connect to the network.
 
 ![Steam friends and chat settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/friends-chat-settings-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Opt Out of Steam’s Beta Participation
 
@@ -80,21 +94,7 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
 ![Deleting the IconCache File by Right-clicking on the File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-deleting-the-iconcache-file-by-right-clicking-on-the-file-in-windows-file-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you can’t find it, you should change File Explorer settings, so you can [view hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Delete Steam's Web Data
 
@@ -111,16 +111,10 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 ![Delete Steam web cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-steam-cache-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Back to Playing With Your Friends
@@ -139,16 +133,20 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-conquer-youtubes-realms-a-step-by-step-video-uploading-guidebook-for-2024/"><u>[Updated] Conquer YouTube's Realms A Step-by-Step Video Uploading Guidebook for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-clash-of-legends-5-iconic-fist-fighters-in-virtual-world/"><u>[Updated] In 2024, Clash of Legends 5 Iconic Fist-Fighters in Virtual World</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-beginner-pro-marketing-playbook-secrets-of-facebook-success/"><u>[Updated] In 2024, The Beginner-Pro Marketing Playbook Secrets of Facebook Success</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-battlenet-speed-a-win-pc-strategy-guide/"><u>Boosting Battle.net Speed: A Win-PC Strategy Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/building-a-brand-with-captivating-haul-videos-and-edits/"><u>Building a Brand with Captivating Haul Videos and Edits</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-find-the-top-25-online-hubs-for-affordable-video-effectiveness/"><u>In 2024, Find the Top 25 Online Hubs for Affordable Video Effectiveness</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-quick-click-compilation-top-10-fastest-phone-and-pc-apps/"><u>In 2024, Quick Click Compilation Top 10 Fastest Phone & PC Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-subsystem-best-practices-for-wsl-2-users/"><u>Optimizing Subsystem: Best Practices for WSL 2 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/transitioning-from-ios-to-a-pc-a-complete-guide-to-imessage/"><u>Transitioning From iOS to a PC: A Complete Guide to iMessage</u></a></li>
-<li><a href="https://windows11.techidaily.com/unified-app-closure-master-the-multiplex-task-management/"><u>Unified App Closure: Master the Multiplex Task Management</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-macavs-editor/"><u>Updated 2024 Approved MacAVS Editor</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-enhancing-your-presence-on-tiktok-from-mac-and-windows-pcs/"><u>[New] 2024 Approved Enhancing Your Presence on TikTok From Mac and Windows PCs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-best-practices-for-uploading-windows-media-content-to-vimeo/"><u>2024 Approved Best Practices for Uploading Windows Media Content to Vimeo</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-gaming-experience-fixing-world-of-tanks-blitzs-persistent-crashes/"><u>Enhance Your Gaming Experience: Fixing World of Tanks Blitz's Persistent Crashes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-gpt-powered-projects-as-money-makers/"><u>Evaluating GPT-Powered Projects as Money Makers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-htc-u23-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-when-call-of-duty-black-ops-4-wont-load-solutions-uncovered/"><u>How to Troubleshoot When Call of Duty: Black Ops 4 Won't Load - Solutions Uncovered!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g-stylus-5g-2023-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G Stylus 5G (2023) Phone with Broken Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/jumpstart-your-outdated-machine-with-windows-11-using-to-go-and-rufus-guide/"><u>Jumpstart Your Outdated Machine with Windows 11, Using To Go & Rufus Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/live-or-recorded-twitch-versus-youtube-face-off-for-2024/"><u>Live or Recorded Twitch versus YouTube Face Off for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-xbox-live-service-recovery-steps/"><u>Mastering Xbox Live Service Recovery Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-account-associations-between-win-and-microsoft/"><u>Streamlining Account Associations Between WIN and MICROSOFT</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-calls-using-intel-unison-with-windows-11-pcs/"><u>Streamlining Calls: Using Intel Unison with Windows 11 PCs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-7-usb-powered-external-dvd-drives-of-2024-the-ultimate-guide/"><u>Top 7 USB-Powered External DVD Drives of 2024: The Ultimate Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-file-system-visibility-on-modern-windows-pcs/"><u>Transforming File System Visibility on Modern Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-overcoming-key-issues-on-win11/"><u>Understanding and Overcoming Key Issues on Win11</u></a></li>
 </ul></div>
 

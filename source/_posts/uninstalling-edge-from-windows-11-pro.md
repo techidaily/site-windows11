@@ -1,7 +1,7 @@
 ---
 title: Uninstalling Edge From Windows 11 Pro
-date: 2024-09-13T19:08:44.944Z
-updated: 2024-09-15T18:51:21.983Z
+date: 2024-09-24T17:22:30.003Z
+updated: 2024-10-02T00:15:26.344Z
 tags:
   - windows10
   - windows11
@@ -54,6 +54,14 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 `get-appxpackage *edge*`  
 ![Uninstall Microsoft Edge With Windows PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Uninstall-Microsoft-Edge-Using-Windows-PowerShell-1.jpg)
 4. Highlight the text next to**PackageFullName** and press**Ctrl + C** to copy it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Run the following command to uninstall Microsoft Edge.  
 `Remove-appxpackage <PackageFullName>`  
  Replace**<PackageFullName>** in the above command with the package name copied earlier.
@@ -71,7 +79,21 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 5. Select**Uninstall** again when the confirmation pop-up appears.  
 ![Uninstall Microsoft Edge Beta From Windows 11 Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Uninstall-Microsoft-Edge-Beta-From-Windows-11-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Aside from the Settings app, you can uninstall the browser from the Start menu or the Control Panel. See our guide to learn different[ways to uninstall built-in apps on Windows 11](https://www.makeuseof.com/ways-to-uninstall-apps-windows-11/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Stop Microsoft Edge From Reinstalling on Windows 11
 
@@ -87,20 +109,13 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 ![Edit DWORD in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-dword-in-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you complete the above steps, Windows will not reinstall Microsoft Edge with future updates.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Rid of Microsoft Edge
 
@@ -121,5 +136,22 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-a-look-at-earnings-understanding-your-monthly-income-from-youtubes-adsense/"><u>[Updated] 2024 Approved A Look at Earnings Understanding Your Monthly Income From YouTube's AdSense</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-innovative-strategies-for-capturing-live-lectures-a-mac-centric-approach/"><u>[Updated] 2024 Approved Innovative Strategies for Capturing Live Lectures A Mac-Centric Approach</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-the-art-of-capturing-spoken-words-digitally/"><u>2024 Approved Perfecting the Art of Capturing Spoken Words Digitally</u></a></li>
+<li><a href="https://windows11.techidaily.com/analyzing-how-windows-11-fuels-microsofts-earnings/"><u>Analyzing How Windows 11 Fuels Microsoft's Earnings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-way-to-copy-trades-of-equal-lot-size-for-all-accounts-by-mt4copier-guide/"><u>Easy Way to Copy Trades of Equal Lot Size for All Accounts</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-digital-experience-process-control-and-thematic-aesthetics-in-w11/"><u>Elevate Your Digital Experience: Process Control & Thematic Aesthetics in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-optimize-your-browsing-experience-use-defender-aguard-in-win-11-edge/"><u>How to Optimize Your Browsing Experience: Use Defender Aguard in Win 11 Edge</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-tecno-phantom-v-fold-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Tecno Phantom V Fold Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Reasons why Pokémon GPS does not Work On Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/multiversus-wont-open-expert-tips-for-getting-the-game-up-and-running-again/"><u>MultiVersus Won't Open? Expert Tips for Getting the Game Up and Running Again</u></a></li>
+<li><a href="https://windows11.techidaily.com/reduce-clutter-increase-efficiency-one-antivirus-rule/"><u>Reduce Clutter, Increase Efficiency: One Antivirus Rule!</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionizing-ui-adding-cli-functionality-to-taskmgr-in-win11/"><u>Revolutionizing UI: Adding CLI Functionality to TaskMgr in Win11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-extracting-and-downloading-mp3-from-your-dvd-collection/"><u>Step-by-Step Guide: Extracting and Downloading MP3 From Your DVD Collection</u></a></li>
+<li><a href="https://windows11.techidaily.com/taskbar-timeline-microsofts-ui-evolution/"><u>Taskbar Timeline: Microsoft's UI Evolution</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-sound-accessories-for-switch-players/"><u>Top Sound Accessories For Switch Players</u></a></li>
+</ul></div>
 

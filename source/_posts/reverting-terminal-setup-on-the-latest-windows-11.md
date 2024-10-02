@@ -1,7 +1,7 @@
 ---
 title: Reverting Terminal Setup on the Latest Windows 11
-date: 2024-09-22T18:41:23.873Z
-updated: 2024-09-26T18:09:17.764Z
+date: 2024-09-30T03:24:33.861Z
+updated: 2024-10-01T18:38:47.389Z
 tags:
   - windows10
   - windows11
@@ -47,6 +47,13 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 
  Next time you open the app, a new configuration with all the default settings will be created automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Reset Windows Terminal Settings Using Command Prompt
 
  The Command Prompt is a command line tool that can help you accomplish a number of tasks on your computer. It lets you run programs, manage files, and even troubleshoot problems with the operating system. We covered a lot of its functionality in our[beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) , but for now, we'll just explore resetting the Windows Terminal settings.
@@ -57,15 +64,16 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 2. In the Command Prompt window, copy and paste the following command:  
 ![Reset Windows Terminal Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-terminal-using-command-prompt.jpg)  
 del /f /s /q /a "%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json"
-3. Now press the**Enter** key to delete the settings.json file.
-4. You can now exit the command prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+3. Now press the**Enter** key to delete the settings.json file.
+4. You can now exit the command prompt.
 
 ## How to Reset Windows Terminal Settings Using Windows PowerShell
 
@@ -78,13 +86,6 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 
 3. Press**Enter** to execute the command.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Reset Windows Terminal Settings From File Explorer
 
  If you don't prefer the command line process, you can use Windows File Explorer to reset the settings. In this way, the Terminal will be reset to its default settings, and you can continue using it. Here's how to do it:
@@ -95,10 +96,10 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 %LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. On the next page, right-click on**settings.json** and select**Delete** from the context menu.
@@ -106,10 +107,10 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
  Once you perform the above steps, Settings.json will automatically be created with the default settings.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Resetting the Windows Terminal, Made Easy
@@ -131,20 +132,24 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-unveiling-the-best-practices-in-recording-games-on-steam/"><u>[Updated] Unveiling the Best Practices in Recording Games on Steam</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-universe-of-gesture-technology/"><u>2024 Approved Exploring the Universe of Gesture Technology</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-y56-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Y56 5G</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-blocked-windows-guard-functions/"><u>Bypassing Blocked Windows Guard Functions</u></a></li>
-<li><a href="https://windows11.techidaily.com/dive-into-ms-store-app-selection-2023-edition/"><u>Dive Into MS Store App Selection: 2023 Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-webp-images-top-4-viewer-tools-on-windows-os/"><u>Elevate WebP Images: Top 4 Viewer Tools on Windows OS</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/find-and-download-compatible-drivers-for-hp-laserjet-pro-m126dn-printers/"><u>Find and Download Compatible Drivers for HP Laserjet Pro M126DN Printers</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-disconnection-problem-for-malwarebytes-in-windows-11/"><u>Fixing the Disconnection Problem for Malwarebytes in Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-apple-iphone-14-pro-max-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix Apple iPhone 14 Pro Max Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://windows11.techidaily.com/identifying-programs-by-their-launch-shorthand-labels/"><u>Identifying Programs by Their Launch Shorthand Labels</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-lava-yuva-3-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Lava Yuva 3 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-desktop-tips-for-effortless-video-posts-for-2024/"><u>Instagram Desktop Tips for Effortless Video Posts for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-of-vanishing-mouse-pointer-in-windows-11/"><u>Resolving the Issue of Vanishing Mouse Pointer in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-lost-wi-fi-links-top-strategies-to-regain-internet-connection-on-windows-10/"><u>Reviving Lost Wi-Fi Links: Top Strategies to Regain Internet Connection on Windows 10</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-console-capturer-pro-report/"><u>[New] 2024 Approved Console Capturer Pro Report</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-elevate-your-gaming-experience-discovering-kinemasters-potential/"><u>[New] Elevate Your Gaming Experience - Discovering KineMaster's Potential</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-an-intro-to-digital-realms-vr-simplified/"><u>2024 Approved An Intro to Digital Realms VR Simplified</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-spectrum-of-immersive-tech-vr-vs-ar-and-more/"><u>2024 Approved The Spectrum of Immersive Tech VR Vs. AR and More</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/comprehensive-instructions-wiping-out-personal-information-from-your-iphone-device/"><u>Comprehensive Instructions: Wiping Out Personal Information From Your iPhone Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-to-the-essentials-6-methods-of-boot-safe-mode-in-windows-11/"><u>Get to the Essentials: 6 Methods of Boot Safe Mode in Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-legally-unlock-copyrighted-dvds-for-personal-use-discover-5-no-cost-techniques/"><u>How to Legally Unlock Copyrighted DVDs for Personal Use: Discover 5 No-Cost Techniques</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unveiling-secrets-for-instagram-chat-success/"><u>In 2024, Unveiling Secrets for Instagram Chat Success</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-unlock-your-creativity-best-video-editing-apps-with-music-for-mobile/"><u>New 2024 Approved Unlock Your Creativity Best Video Editing Apps with Music for Mobile</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-unwanted-audio-app-utilization-issue-on-windows/"><u>Overcoming Unwanted Audio App Utilization Issue on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-windows-appearance-with-popular-photographs/"><u>Personalize Windows' Appearance with Popular Photographs</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-guide-for-degraded-windows-based-excel-performance/"><u>Quick-Fix Guide for Degraded Windows-Based Excel Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-discovering-contact-information-on-the-internet/"><u>Step-by-Step Guide: Discovering Contact Information on the Internet</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-accurate-interpretation-of-task-manager-writings/"><u>Strategies for Accurate Interpretation of Task Manager' Writings</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharge-steam-downloads-overcoming-frustrating-lulls/"><u>Supercharge Steam Downloads: Overcoming Frustrating Lulls</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-normalizdll-not-found-error-on-your-pc/"><u>Troubleshooting the 'Normaliz.dll Not Found' Error on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/unclogging-peak-time-gpt-service-in-windows/"><u>Unclogging Peak-Time GPT Service in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-gpu-driver-issues-in-win1011/"><u>Unraveling GPU Driver Issues in WIN10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-upgraded-the-future-of-using-sudo/"><u>Windows Upgraded: The Future of Using Sudo</u></a></li>
 </ul></div>
 

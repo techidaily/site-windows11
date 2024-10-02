@@ -1,7 +1,7 @@
 ---
 title: How to Defrag a Hard Disk Drive in Windows 11
-date: 2024-09-12T20:00:37.460Z
-updated: 2024-09-15T20:46:09.220Z
+date: 2024-09-26T16:17:21.501Z
+updated: 2024-10-01T16:40:10.014Z
 tags:
   - windows10
   - windows11
@@ -57,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 `defrag c:`  
 ![The defrag c command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/defrag-c-command.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As mentioned, this command-line tool has numerous parameters for configuring the defragment operation. Those parameters give you extra optimization options and enable you to tweak the defragging more. You can view the parameter switches by inputting and executing this command:
 
 `defrag /?`
@@ -64,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
  Entering that command displays a list of all parameters with explanations for them. You can input additional parameters to perform boot optimization, slab consolidation, retrim, and space consolidation operations. Look at the examples shown at the bottom of the list to see how to input defrag commands with parameters included.
 
 ![The defrag help command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/defrag-parameter-command.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Defrag a Hard Drive With Defraggler
 
@@ -80,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 ![The Defraggler tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-defraggler-tool.jpg)
 8. Press the**Defrag** button. Or you click that button’s arrow to select**Quick defrag** if preferred.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Defraggler will then do its stuff and displays an active status for the defrag operation. The drive map shows different color squares for fragmented and non-fragmented blocks. While in operation, you’ll also see yellow and green squares for files read and written. Click the**Drive map** tab to view Defraggler’s color code index.
 
 ![The Drive Map tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/drive-map-tab.jpg)
@@ -93,10 +114,10 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 ![The Schedule window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-schedule-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can I Defrag a Solid-State Drive?
@@ -104,13 +125,6 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
  You can defrag an SSD drive with the tools in this guide, but it’s rather pointless. Solid-state drives are a different type of non-mechanical storage that’s faster than hard drives. Defragging such drives offers little to no performance benefit.
 
  Check out our article about[why you shouldn’t defrag SSDs](https://www.makeuseof.com/should-you-optimize-ssd/) for further details.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enhance Your PC’s HDD Efficiency in Windows 11
 
@@ -129,5 +143,24 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/fix-needed-blank-display-on-mouse-input-device/"><u>[Fix Needed]: Blank Display on Mouse Input Device</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-navigating-legal-boundaries-in-whatsapp-call-recordings-for-2024/"><u>[New] Navigating Legal Boundaries in WhatsApp Call Recordings for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-shaping-public-perception-5-essentials-for-instagram-marketing-mavericks-for-2024/"><u>[Updated] Shaping Public Perception 5 Essentials for Instagram Marketing Mavericks for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-top-rated-asmr-gear-high-quality-priced-right/"><u>[Updated] Top-Rated ASMR Gear High Quality, Priced Right</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-editors-full-breakdown-of-editsphere-suite-updated/"><u>2024 Approved Editor's Full Breakdown of EditSphere Suite - Updated</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-top-notch-mac-visual-archiver/"><u>2024 Approved Top-Notch Mac Visual Archiver</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-solutions-exclusive-windows-systems-for-dsswitch-players/"><u>Cutting-Edge Solutions: Exclusive Windows Systems for DS/Switch Players</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-unauthorized-geforce-setting-error-on-modern-windows-versions/"><u>Fixing Unauthorized GeForce Setting Error on Modern Windows Versions</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-winxps-notorious-error-0x80300024/"><u>Fixing WinXP's Notorious Error 0X80300024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-activate-hyper-v-in-the-latest-windows-os/"><u>How To Activate Hyper-V in the Latest Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-overcome-java-vm-not-found-on-pc/"><u>How to Overcome Java VM Not Found On PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-stubborn-windows-terminals-a-step-by-step-guide/"><u>Overcome Stubborn Windows Terminals: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/secretive-startup-strategies-conceal-the-shutdown-command/"><u>Secretive Startup Strategies: Conceal the Shutdown Command</u></a></li>
+<li><a href="https://win-net.techidaily.com/spotizr-down-heres-how-to-fix-it-and-a-top-notch-free-substitute-you-can-download-today/"><u>Spotizr Down? Here's How to Fix It and a Top-Notch Free Substitute You Can Download Today!</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-decrease-high-cpu-usage-from-dropbox-on-windows-pcs/"><u>Strategies to Decrease High CPU Usage From Dropbox on Windows PCs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-on-connecting-ps4-dualshock-wireless-controllers/"><u>Ultimate Tutorial on Connecting PS4 DualShock Wireless Controllers</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-changes-netflixs-shift-away-from-the-standard-subscription-option/"><u>Unveiling Changes: Netflix's Shift Away From the Standard Subscription Option</u></a></li>
+</ul></div>
 

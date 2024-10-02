@@ -1,7 +1,7 @@
 ---
 title: Tips for Restricting Removable Storage via Windows Settings
-date: 2024-09-24T22:53:50.447Z
-updated: 2024-09-26T18:06:19.601Z
+date: 2024-09-26T19:36:52.426Z
+updated: 2024-10-01T23:42:46.764Z
 tags:
   - windows10
   - windows11
@@ -29,15 +29,22 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 
  Let's start by checking out how you can prevent others from installing any removable storage device into your PC. You can do this using either the Local Group Policy Editor or the Registry Editor.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Using the Local Group Policy Editor
 
 ![Using a Windows laptop on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Using-a-Windows-laptop-on-a-brown-desk.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Local Group Policy Editor (LGPE) is a reliable tool for troubleshooting system errors. Interestingly, you can also use it for other tasks such as [preventing others from changing your Windows desktop background](https://www.makeuseof.com/stop-others-change-windows-desktop-background/).
@@ -51,29 +58,22 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 
 ![Clicking the prevent installation of removable devices option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-prevent-installation-of-removable-devices-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select **Enabled** on the next screen to prevent others from installing removable storage devices into your PC. Alternatively, select **Disabled** or **Not Configured** to restore the default settings.
 
  Finally, press **Apply** and then press **OK** to save these changes.
 
  Struggling to access the LGPE on Windows Home? There are a few tricks you can apply to [access the LGPE on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/). But if that sounds complicated to you, then skip to the Registry Editor method.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Using the Registry Editor
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Registry Editor is another reliable tool you can use for tweaking system settings and troubleshooting PC issues.
 
@@ -102,10 +102,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
 3. Close the Registry Editor and restart your device to save these changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Prevent Others From Installing Specific Removable Storage Devices
@@ -127,21 +127,15 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-stellar-storytelling-elevating-posts-with-3-insta-highlight-ways/"><u>[Updated] 2024 Approved Stellar Storytelling Elevating Posts with 3 Insta Highlight Ways</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-sony-unveils-excellence-the-4k-smartphone-breakthrough-with-xperia-xz/"><u>[Updated] Sony Unveils Excellence The 4K Smartphone Breakthrough with Xperia XZ</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-essential-guide-to-preserving-screen-chats/"><u>2024 Approved Essential Guide to Preserving Screen Chats</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-essential-list-critical-6-fb-lite-downloads/"><u>2024 Approved Essential List Critical 6 FB Lite Downloads</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-organization-controlled-errors-in-windows-11-systems/"><u>Addressing Organization-Controlled Errors in Windows 11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/combat-apex-crashes-effective-solutions-for-windows-11-users/"><u>Combat Apex Crashes: Effective Solutions for Windows 11 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/controlling-winoss-priority-setting-for-hardware-acceleration/"><u>Controlling WinOS's Priority Setting for Hardware Acceleration</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/deconstructing-the-limits-to-longer-instagram-videos/"><u>Deconstructing the Limits to Longer Instagram Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/enabling-visibility-on-windows-11-discreet-features/"><u>Enabling Visibility on Windows 11 Discreet Features</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/imageslice-editor-for-2024/"><u>ImageSlice Editor for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/innovative-solutions-for-fixing-sound-adjustment-shortcomings-on-windows-11-devices/"><u>Innovative Solutions for Fixing Sound Adjustment Shortcomings on Windows 11 Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-solve-no-device-camera-error-in-win11/"><u>Steps to Solve No Device: Camera Error in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailoring-user-accounts-to-local-groups-policy-in-windows-11-and-11/"><u>Tailoring User Accounts to Local Groups Policy in Windows 11 & 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723012296040-the-truth-revealed-assassins-creed-valhalla-release-update/"><u>The Truth Revealed: Assassin's Creed Valhalla Release Update!</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-unresponsive-spotify-on-windows-11/"><u>Troubleshooting Unresponsive Spotify on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719346558796-why-your-pc-needs-only-one-guardian-antivirus-software/"><u>Why Your PC Needs Only One Guardian - Antivirus Software!</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-methods-to-rename-microsoft-account-on-win11-systems/"><u>Effective Methods to Rename Microsoft Account on Win11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-ways-to-handle-lunar-client-not-starting-on-pc/"><u>Efficient Ways To Handle Lunar Client Not Starting on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-tailor-dns-settings-for-your-win11-system/"><u>Efficiently Tailor DNS Settings for Your Win11 System</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-overscan-maximizing-screen-real-estate-in-windows/"><u>Eliminate Overscan: Maximizing Screen Real Estate in Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-infinix-hot-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-phased-opening-visuals/"><u>In 2024, Phased Opening Visuals</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/sony-xperia-1-v-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Sony Xperia 1 V Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-cable-modem-and-router-combinations/"><u>Top-Rated Cable Modem and Router Combinations</u></a></li>
+<li><a href="https://article-helps.techidaily.com/ultimate-converters-handbook-from-srt-to-multiple-formats-for-2024/"><u>Ultimate Converter's Handbook From SRT to Multiple Formats for 2024</u></a></li>
 </ul></div>
 

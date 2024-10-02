@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unsuccessful Files Download on Windows 11
-date: 2024-09-20T19:40:54.374Z
-updated: 2024-09-26T21:08:28.763Z
+date: 2024-09-30T01:34:44.958Z
+updated: 2024-10-01T18:45:46.561Z
 tags:
   - windows10
   - windows11
@@ -34,15 +34,22 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 ![The Disk Clean-up window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disk-clean-up-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Run the SFC and DISM Command-Line Tools
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sfc-scannow.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Another possibility is that something has gone wrong with Windows' system files. So, try [repairing corrupted Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/), specifically the System File Checker and the Deployment Image Servicing and Management command-line tools.
 
@@ -56,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 ![The Downloads location setting in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-location-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Change the Current Location in the Website Data Settings
 
  This downloading issue can occur because the current location in Internet Properties isn’t set to a local C: drive. You can check and change that current location within Internet Properties as follows:
@@ -66,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 4. Next, click **Settings** on the **General** tab.  
 ![The General tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/general-tab.jpg)
 5. If the current location is not set to your local C: drive, click on the **Move folder** button.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![The Website Data Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/current-location.jpg)
 6. Select a folder on your PC’s C: drive and click **OK**.
@@ -89,16 +96,17 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 2. Click **Scan options** on the View & threat protection tab.  
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scan-options.jpg)
 3. Select **Full scan** for the most thorough antivirus scanning.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click **Scan now** to start the scanning.  
 ![full-scan-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-scan-options.jpg)
 5. Select **Start actions** to eradicate detected malware.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Disable Any Active Third-Party Antivirus Utilities
 
@@ -114,20 +122,13 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 ![The Turn off Windows Defender Firewall (not recommended) radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-firewall-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If disabling Windows Defender Firewall works, it’s not a good idea to leave it off. Resetting that firewall to its default configuration will likely disable the rules causing the issue. To do that, click the **Restore defaults** in the Windows Defender Firewall Control Panel applet. Then click the **Restore defaults** button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Reset Your Browser Software
@@ -146,10 +147,16 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 4. Click **Reset** inside the confirmation prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Factory Reset Window
@@ -161,16 +168,10 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 ![The Reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-this-pc.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Download Files Again on Your Windows PC
@@ -191,22 +192,24 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-art-of-imitation-crafting-parody-videos-for-2024/"><u>[Updated] The Art of Imitation Crafting Parody Videos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-essence-of-chuckles-in-single-photos/"><u>2024 Approved The Essence of Chuckles in Single Photos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-ultimate-guide-to-choosing-a-tunefab-recorder/"><u>2024 Approved The Ultimate Guide to Choosing a Tunefab Recorder</u></a></li>
-<li><a href="https://windows11.techidaily.com/combatting-installer-glitches-on-latest-windows-versions/"><u>Combatting Installer Glitches on Latest Windows Versions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-twitch-account-security-with-2fa-tips-and-tricks-for-easy-configuration/"><u>Enhance Your Twitch Account Security with 2FA: Tips & Tricks for Easy Configuration</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-xiaomi-civi-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/keep-your-windows-control-panel-running-smoothly/"><u>Keep Your Windows Control Panel Running Smoothly</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-to-resolve-code-0x0001-glitch-in-w10w11-setup/"><u>Methods to Resolve Code 0X0001 Glitch in W10/W11 Setup</u></a></li>
-<li><a href="https://extra-information.techidaily.com/navigating-the-world-of-file-conversion-in-vlc-starting-with-mp4/"><u>Navigating the World of File Conversion in VLC, Starting with MP4</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/perfecting-your-personal-palette-a-guide-to-whatsapp-alerts-on-phones-for-2024/"><u>Perfecting Your Personal Palette A Guide to WhatsApp Alerts on Phones for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revitalizing-your-scanner-update-s1500-drivers-effectively/"><u>Revitalizing Your Scanner: Update S1500 Drivers Effectively</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-non-attached-usb-device-dilemma-in-virtualbox-environment/"><u>Tackling Non-Attached USB Device Dilemma in VirtualBox Environment</u></a></li>
-<li><a href="https://windows11.techidaily.com/take-control-of-your-workflow-learn-these-essential-cmd-commands/"><u>Take Control of Your Workflow: Learn These Essential CMD Commands</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/transforming-recording-into-stunning-podcast-edits-for-2024/"><u>Transforming Recording Into Stunning Podcast Edits for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-image-precision-with-windows-11s-blurring-feature-in-photos-app/"><u>Unlocking Image Precision with Windows 11'S Blurring Feature in Photos App</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-and-fixing-windows-11s-error-1132-in-zoom-app/"><u>Unraveling and Fixing Windows 11'S Error 1132 in Zoom App</u></a></li>
-<li><a href="https://windows11.techidaily.com/win10s-method-for-onedrive-placement-shift/"><u>Win10's Method for OneDrive Placement Shift</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-leveraging-consumer-reviews-for-youtube-wealth-creation/"><u>[New] 2024 Approved Leveraging Consumer Reviews for YouTube Wealth Creation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-boosting-sales-the-top-20-words-and-phrases-in-marketing/"><u>[New] Boosting Sales The Top 20 Words and Phrases in Marketing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715859981435-new-quick-guide-to-incor-written-as-a-python-list-which-represents-the-30-titles-above-the-elements-of-this-list-should-be-strings-that-are-already-complete/"><u>[New] Quick Guide to Incor Written as a Python List, Which Represents the 30 Titles Above. The Elements of This List Should Be Strings that Are Already Complete Sentences and Adhere to the Given Constraints. Ensure No Title Exceeds 156 Characters.</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-tidy-up-your-pictures-top-10-online-unblur-tools/"><u>[New] Tidy Up Your Pictures Top 10 Online Unblur Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-navigating-video-editor-landscape-choose-filmora-or-democracy-creator/"><u>[Updated] In 2024, Navigating Video Editor Landscape Choose Filmora or Democracy Creator?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-top-open-source-video-tools-for-every-desktop-environment/"><u>[Updated] In 2024, Top Open Source Video Tools for Every Desktop Environment</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-bike-racing-games-that-you-should-play/"><u>Best Bike Racing Games That You Should Play</u></a></li>
+<li><a href="https://windows11.techidaily.com/gaming-past-present-atlasos-enablement/"><u>Gaming Past, Present: AtlasOS Enablement</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-resolve-offline-printer-problems-in-os/"><u>How To Resolve Offline Printer Problems in OS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oppo-a59-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Oppo A59 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-envy-4500-series-printer-drivers-download-and-update-on-windows/"><u>HP Envy 4500 Series Printer Drivers Download & Update on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/isolating-and-resolving-unilateral-sound-issue-on-win-os/"><u>Isolating and Resolving Unilateral Sound Issue on WIN OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-calculators-dark-scheme/"><u>Mastering Windows Calculator's Dark Scheme</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/melodies-of-the-night-king-recommended-sites-for-tts-downloads/"><u>Melodies of the Night King Recommended Sites for TTS Downloads</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-battlenet-being-inaccessible-in-windows-1011/"><u>Quick Fixes for Battle.net Being Inaccessible in Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-tackle-stranded-error-on-xbox-app-windows-devices/"><u>Steps to Tackle 'Stranded' Error on Xbox App Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-collection-of-task-management-tools-for-windows-11-users/"><u>The Ultimate Collection of Task Management Tools for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-file-download-issues-on-windows-11-6/"><u>Troubleshooting File Download Issues on Windows 11 (6)</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-are-windows-bsod-memory-dumps-and-how-can-they-help-you/"><u>What Are Windows BSoD Memory Dumps, and How Can They Help You?</u></a></li>
 </ul></div>
 

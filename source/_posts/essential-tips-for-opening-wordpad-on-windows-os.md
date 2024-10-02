@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Opening WordPad on Windows OS
-date: 2024-09-09T12:09:44.104Z
-updated: 2024-09-10T12:09:44.104Z
+date: 2024-09-25T02:12:12.028Z
+updated: 2024-10-01T23:36:10.730Z
 tags:
   - windows10
   - windows11
@@ -20,18 +20,6 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
  If you're new to Windows, you may not know how to open WordPad. Here are some quick and easy ways to launch WordPad on your Windows PC.
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. How to Open WordPad Using the Windows Search Tool
 
  If you're not sure how to open WordPad on your Windows PC, don't worry! You can easily find and launch the program using the Windows Search tool.
@@ -41,12 +29,6 @@ To open WordPad using the search tool, follow these steps:
 1. Head to the Start menu and search for "WordPad."  
 ![Open WordPad Using Search Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Search-Tool.jpg)
 2. You should see the WordPad program pop up in the results. Simply click on it to launch the program.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you open WordPad, you can start typing or pasting text and use the ribbon interface to access formatting options.
 
@@ -67,14 +49,15 @@ The WordPad application will open on your computer.
 1. Press**Win + R** on your keyboard to open the Run dialog.  
 ![Open WordPad Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Run-Command.jpg)
 2. In the dialog box, type "WordPad" and hit**Enter** . You can also type "write" instead of WordPad.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The WordPad application will now launch.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. How to Open WordPad Using the Task Manager
 
@@ -88,26 +71,8 @@ The WordPad application will now launch.
 2. On the top bar, click**Run new task** in the "Processes" tab.  
 ![Open WordPad Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Task-Manager.jpg)
 3. When a pop-up window appears, type "wordpad" in its search box.
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Now click**OK** to launch the WordPad application.
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. How to Open WordPad Using the Control Panel
 
  If you're a Windows user, you likely already know what the Control Panel is. This tool allows you to view and manipulate basic system settings, but it isn't just limited to that; you can also launch various applications by using it.
@@ -120,6 +85,13 @@ To open WordPad using the Control Panel, follow these steps:
 4. Now click**Windows Tools** at the bottom of the screen.  
 ![Open WordPad Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Control-Panel.jpg)
 5. Next, you will find WordPad in the right pane. Double-click on it to open the WordPad application.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. How to Open WordPad Using Command Prompt or PowerShell
 
@@ -134,11 +106,12 @@ To do this, follow these steps:
 5. Type "write.exe" in the Command Prompt or PowerShell window.  
 ![Open WordPad Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Command-Prompt.jpg)
 6. Press the**Enter** key now. You will see the WordPad application on your computer screen.
+
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. How to Open WordPad Via Start Menu
@@ -152,27 +125,16 @@ To open WordPad using the Start menu, follow these steps:
 3. Scroll down to the bottom and click**Windows Tools** .  
 ![Open WordPad Using Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Start-Menu.jpg)
 4. The next screen shows a list of Windows tools for you to choose from.
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Double-click on**WordPad** to open it.  
 ![Open WordPad Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-WordPad-Using-Control-Panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. How to Open WordPad by Creating a Desktop Shortcut
 
  If you would like to access WordPad right from your desktop, you can create a desktop shortcut. To do this, follow these steps:
@@ -183,21 +145,16 @@ To open WordPad using the Start menu, follow these steps:
 3. Now right-click on**wordpad** , and select**Show more options > Create shortcut** .  
 ![Create Desktop Shortcut of WordPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-of-WordPad.jpg)
 4. If Windows asks for your confirmation, click**Yes** to create it.
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You will find a shortcut to WordPad on your desktop; double-click the shortcut to open it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 9\. Pin WordPad to the Start menu or Taskbar
 
  You can also pin your favorite apps and programs to the Start Menu or Taskbar, so you can find and launch them easily. Here's how:
@@ -208,18 +165,22 @@ To open WordPad using the Start menu, follow these steps:
 
  That's all there is to it. By following these simple steps, you'll be able to open WordPad in no time.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Easily Access WordPad on Windows
 
  WordPad is a simple yet powerful text editor that is available on all versions of Windows. However, if you're new to Windows, following the instructions above will give you multiple ways to open WordPad.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -228,4 +189,22 @@ To open WordPad using the Start menu, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/astering-youtubes-aesthetics-enhancing-your-videos-for-2024/"><u>[New] Mastering YouTube's Aesthetics Enhancing Your Videos for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-easy-media-sharing-on-twitter-no-retweets-required-for-2024/"><u>[Updated] Easy Media Sharing on Twitter - No Retweets Required for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/10-ways-to-clean-up-your-firewall-rules/"><u>10 Ways to Clean Up Your Firewall Rules</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-unable-to-start-application-error-xc000003e-in-windows-11/"><u>Avoiding Unable to Start Application Error Xc000003e in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/become-a-windows-wizard-learn-essential-shortcut-commands/"><u>Become a Windows Wizard: Learn Essential Shortcut Commands</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/circumventing-office-activation-barriers-on-desktops/"><u>Circumventing Office Activation Barriers on Desktops</u></a></li>
+<li><a href="https://windows11.techidaily.com/configuring-advanced-windows-index-features/"><u>Configuring Advanced Windows Index Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/dissecting-windows-11s-user-identity-framework/"><u>Dissecting Windows 11'S User Identity Framework</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719299682478-enhancing-productivity-with-cloud-services-dropboxgoogle-on-c/"><u>Enhancing Productivity with Cloud Services: Dropbox/Google on C</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-to-effortlessly-rotate-videos-on-your-iphone-with-the-powerful-movavi-app/"><u>How to Effortlessly Rotate Videos on Your iPhone with the Powerful Movavi App</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/hunt-for-the-best-apple-watch-offers-this-months-picks/"><u>Hunt for the Best Apple Watch Offers – This Month's Picks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-vivo-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Vivo</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tp-link-driver-update-compatible-with-windows-10-8-and-7-download-now/"><u>TP-Link Driver Update | Compatible with Windows 10, 8 and 7 - Download Now</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigating with Assistance: Essential Keybindings in Windows 11"
-date: 2024-09-20T22:45:51.697Z
-updated: 2024-09-26T19:49:57.692Z
+date: 2024-09-30T00:40:47.656Z
+updated: 2024-10-01T19:43:34.493Z
 tags:
   - windows10
   - windows11
@@ -181,10 +181,10 @@ Here are all the Narrator shortcuts available to you:
 | Narrator + Ctrl + Enter                         | Toggle search mode                                    |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Windows Narrator Can Do More
@@ -206,20 +206,18 @@ Here are all the Narrator shortcuts available to you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-trendsetters-on-twitternet-top-10-threads-ranking/"><u>[New] 2024 Approved Trendsetters on Twitternet Top 10 Threads Ranking</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-essential-techniques-for-vimeo-video-submission-from-mmc/"><u>[New] In 2024, Essential Techniques for Vimeo Video Submission From MMC</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-obs-vs-modern-broadcasting-tools-a-comparison/"><u>[New] OBS Vs. Modern Broadcasting Tools A Comparison</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-next-level-cinema-selection-youtube-edition/"><u>[Updated] Next-Level Cinema Selection - YouTube Edition</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/1726226511073-pgm-jpg-movavi/"><u>移動 PGM 畫面到 JPG 以上，無成本解決方案 - 利用 Movavi 的功能</u></a></li>
-<li><a href="https://windows11.techidaily.com/amp-up-your-vehicles-performance-with-these-top-windows-upgraders/"><u>Amp up Your Vehicle's Performance with These Top Windows Upgraders</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/craft-images-with-orbital-soft-edge-psx-tech-for-2024/"><u>Craft Images with Orbital Soft Edge PSX Tech for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-reactivate-muted-system-sound-output-quickly/"><u>How to Reactivate Muted System Sound Output Quickly</u></a></li>
-<li><a href="https://windows11.techidaily.com/immediate-actions-for-windows-interface-crashing/"><u>Immediate Actions for Windows Interface Crashing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/launching-windows-file-explorer-directly-via-onedrive/"><u>Launching Windows File Explorer Directly via OneDrive</u></a></li>
-<li><a href="https://windows11.techidaily.com/purify-your-setup-tiny11s-no-fuss-features/"><u>Purify Your Setup: Tiny11's No-Fuss Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-circumvent-no-more-files-alert/"><u>Strategies to Circumvent No More Files Alert</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-windows-11-safe-mode-an-easy-six-step-plan/"><u>Unlocking Windows 11 Safe Mode: An Easy Six-Step Plan</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-a-step-by-step-approach-for-flawless-instagrams/"><u>[New] 2024 Approved A Step-by-Step Approach for Flawless Instagrams</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-quiet-quick-clean-auditory-connections/"><u>[Updated] Quiet, Quick, Clean Auditory Connections</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-swapping-sequence-a-simple-guide-to-reversed-playlists/"><u>[Updated] Swapping Sequence A Simple Guide to Reversed Playlists</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-lists-premium-bdr-software-on-windows-macos/"><u>2024 Approved Leading Lists Premium BDR Software on Windows, macOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-different-view-unique-changes-to-windows-11s-file-explorer/"><u>A Different View: Unique Changes to Windows 11'S File Explorer</u></a></li>
+<li><a href="https://windows11.techidaily.com/accessing-and-running-verifier-manager-in-windows-11/"><u>Accessing and Running Verifier Manager in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/activating-rgb-customization-in-win11/"><u>Activating RGB Customization in Win11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/best-free-non-intrusive-android-screen-recorders-for-2024/"><u>Best Free Non-Intrusive Android Screen Recorders for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719351366052-breathe-new-life-into-your-win11-printer-with-these-tips/"><u>Breathe New Life Into Your Win11 Printer with These Tips!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-amateurs-to-pros-learning-audio-recording-in-audacity/"><u>From Amateurs to Pros Learning Audio Recording in Audacity</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-ace-2v-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Ace 2V</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y78plus-t1-edition-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y78+ (T1) Edition to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-snapping-success-how-to-choose-the-best-camera-views-on-iphone/"><u>In 2024, Snapping Success How to Choose the Best Camera Views on iPhone</u></a></li>
 </ul></div>
 

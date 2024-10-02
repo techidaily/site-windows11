@@ -1,7 +1,7 @@
 ---
 title: How to Fix Word’s Read Aloud Feature When It Stops Working in Windows
-date: 2024-09-11T23:39:16.336Z
-updated: 2024-09-15T20:20:13.999Z
+date: 2024-09-24T21:42:17.880Z
+updated: 2024-10-02T01:37:37.390Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
 
  Open Word and check if the problem is now solved.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Enable the Read Aloud Feature
 
  You can also have Word read the document for you by pressing **Ctrl + Alt + Space**. If nothing happens when using this keyboard shortcut and Read Aloud seems to be missing from the Ribbon menu, you should enable the feature. Here’s how you can do it:
@@ -44,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
 8. Click **OK** to save the new Word settings.
 
 ![Enable Word's read aloud feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enable-read-aloud-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, the Read Aloud feature should be available in the **Review** tab, within the **Speech** menu.
 
@@ -66,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
 ![How to update Microsoft 365](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft365-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Repair the Word Doc
@@ -83,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
 3. Extend the **Tools** menu and select **Open and Repair**.
 
 ![How to repair a Word document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-doc-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Microsoft Word will now search and automatically fix any detected issues.
 
@@ -116,23 +137,10 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
 ![Manage word add-ins](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/word-addins-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Word Reading Your Docs Aloud
@@ -150,5 +158,26 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-maximizing-youtube-earning-potential-insights-from-sourav-joshi/"><u>[New] 2024 Approved Maximizing YouTube Earning Potential Insights From Sourav Joshi</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-rise-of-a-monetary-maestro-ajeys-youtube-earnings-story/"><u>[New] 2024 Approved The Rise of a Monetary Maestro Ajey's YouTube Earnings Story</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-christian-tunes-customization-and-downloading/"><u>[New] Step-by-Step Christian Tunes Customization & Downloading</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-stay-up-to-date-with-facebooks-latest-watched-content/"><u>[Updated] In 2024, Stay Up-to-Date with Facebook's Latest Watched Content</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-close-up-mastery-in-film-production/"><u>2024 Approved Close-Up Mastery in Film Production</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-rhythmic-reinvention-the-art-of-voice-in-free-fire/"><u>2024 Approved Rhythmic Reinvention The Art of Voice in Free Fire</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-top-10-most-immersive-youtube-vr-films/"><u>2024 Approved Top 10 Most Immersive YouTube VR Films</u></a></li>
+<li><a href="https://windows11.techidaily.com/accessing-windows-11-homespace-options/"><u>Accessing Windows 11 Homespace Options</u></a></li>
+<li><a href="https://article-posts.techidaily.com/achieving-audiovisual-excellence-with-srt-and-mp4-the-ultimate-guide-for-2024/"><u>Achieving Audiovisual Excellence with SRT and MP4 - The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-epochal-passphrase-problem-in-windows-os/"><u>Deciphering “Epochal Passphrase Problem in Windows OS”</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unstuck-video-streams-from-photobooth-screens/"><u>In 2024, Unstuck Video Streams From Photobooth Screens</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-the-absence-of-dxgidll-in-new-os-windows-11/"><u>Mending the Absence of Dxgi.dll in New OS, Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11-multi-display-setup/"><u>Navigating Windows 11 Multi-Display Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/power-preservation-pitfalls-the-reality-of-modern-standby/"><u>Power Preservation Pitfalls: The Reality of Modern Standby</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-dual-device-names-on-your-windows-network/"><u>Preventing Dual Device Names on Your Windows Network</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-absence-of-windows-1011-search-outcomes/"><u>Solving Absence of Windows 10/11 Search Outcomes</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-list-of-windows-11-navshortcuts/"><u>The Ultimate List of Windows 11 NavShortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-zoom-error-1132-on-windows-11/"><u>Troubleshooting Zoom Error 1132 on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-the-ultimate-gamepad-my-unwavering-passion-despite-new-releases/"><u>Unveiling the Ultimate Gamepad: My Unwavering Passion Despite New Releases</u></a></li>
+</ul></div>
 

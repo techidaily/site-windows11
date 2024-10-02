@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Cannot Reach Server Error in Win 10 & 11 for MB
-date: 2024-09-24T20:08:58.397Z
-updated: 2024-09-26T20:33:47.133Z
+date: 2024-09-25T02:27:59.791Z
+updated: 2024-10-01T17:49:17.502Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 
 ![The Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-this-program-as-an-administrator-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check That the Malwarebytes Service Is Enabled and Running
 
  The Malwarebytes Service is needed for the Malwarebytes software to run properly. The "unable to connect the service" error message may occur if this service isn't running. So, check that the Malwarebytes Service is enabled and running as follows:
@@ -42,23 +49,17 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 3. Double-click**Malwarebytes Services** to access that service’s properties window.  
 ![The Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/malwarebytes-service.jpg)
 4. Then click on the**Startup type** drop-down menu to open it and select**Automatic** from there.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select**Start** to run the Malwarebytes Services.  
 ![The Malwarebytes Service window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/malwarebytes-service-window.jpg)
 6. Click the service’s**Apply** and**OK** options.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Check That the Windows Management Instrumentation Is Enabled and Running
 
@@ -69,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353
 ![The Windows Management Instrumentation service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-management-instrumentation-service.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Repair Malwarebytes With Its Dedicated Support Tool
@@ -89,14 +90,22 @@ Here is how you can repair Malwarebytes with its support tool:
 6. Click the**Advanced** tab.  
 ![The Repair System button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-system-option.jpg)
 7. Select all four checkboxes for the**Repair System** option.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Press the**Repair System** button.
 9. Restart your PC when prompted.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Run a Malware Scan With Windows Security
@@ -119,19 +128,6 @@ Here is how you can repair Malwarebytes with its support tool:
 3. Click**Clean** and**Yes** to confirm the removal.  
 ![The Malwarebytes Cleanup dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/malwarebytes-cleanup-dialog.jpg)
 4. Select**OK** to restart the PC.
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**Yes** in the window that pops up after the restart.
 6. Select**Yes** in the Reinstall Malwarebytes for Windows popup dialog box that opens.
@@ -159,17 +155,18 @@ Here is how you can repair Malwarebytes with its support tool:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-xiaomi-redmi-note-13-pro-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Xiaomi Redmi Note 13 Pro 5G PC | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/8-superior-windows-video-call-apps-ranked-for-2024/"><u>8 Superior Windows Video Call Apps Ranked for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-cybersecurity-unveiling-the-hidden-dangers-to-bank-data/"><u>ChatGPT and Cybersecurity: Unveiling the Hidden Dangers to Bank Data</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/conversione-libera-da-mp3-a-flv-online-usare-movavi-per-cambiare-file-gratis/"><u>Conversione Libera Da MP3 a FLV Online - Usare Movavi per Cambiare File Gratis</u></a></li>
-<li><a href="https://blog-min.techidaily.com/guide-to-viewing-high-definition-youtube-media-in-4k-resolution-on-apple-devices/"><u>Guide to Viewing High-Definition YouTube Media in 4K Resolution on Apple Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-infinix-note-30-promirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Infinix Note 30 ProMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-the-elusive-gpeditmsc-error-in-windows/"><u>Remedying the Elusive Gpedit.msc Error in Windows</u></a></li>
-<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-oppo-reno-11-pro-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Oppo Reno 11 Pro 5G Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-non-functional-inbox-alerts-on-windows-os/"><u>Tackling Non-Functional Inbox Alerts on Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-importance-of-keeping-active-wins-11-notification-sounds/"><u>The Importance of Keeping Active Wins 11 Notification Sounds</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-and-tricks-solving-the-try-connecting-bluetooth-issue/"><u>Tips and Tricks: Solving the 'Try Connecting' Bluetooth Issue</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-role-of-ai-in-windows-11-updates/"><u>Unveiling the Role of AI in Windows 11 Updates</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-best-facebook-lite-video-downloading-software-of-2023/"><u>[New] 2024 Approved Best Facebook Lite Video Downloading Software of 2023</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-entertainment-a-thousand-gaming-channels-for-2024/"><u>[Updated] Elevate Entertainment A Thousand Gaming Channels for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-graphic-design-journeys-from-passion-to-profession/"><u>2024 Approved Graphic Design Journeys From Passion to Profession</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/artificial-intelligence-for-seamless-frame-interpolation-boosting-fps-and-ensuring-fluid-motion-in-videos/"><u>Artificial Intelligence for Seamless Frame Interpolation - Boosting FPS & Ensuring Fluid Motion in Videos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/auf-den-ersten-blick-1-100-in-deutscher-zahlweise/"><u>Auf Den Ersten Blick: 1-100 in Deutscher Zählweise</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-diagnosing-and-repairing-504-network-issues-efficiently/"><u>Comprehensive Guide: Diagnosing and Repairing 504 Network Issues Efficiently</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-windows-pathways-to-filefolder-secrets/"><u>Expert Windows Pathways to File/Folder Secrets</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-unlocking-your-steam-game-files-successfully/"><u>Fixing the Issue: Unlocking Your Steam Game Files Successfully</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-sefx-windows-11-sfx-creation/"><u>Mastering SEFX: Windows 11 SFX Creation</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/speedy-solutions-how-to-tackle-the-hidclasssys-issue-effortlessly/"><u>Speedy Solutions - How to Tackle the HIDCLASS.SYS Issue Effortlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-deal-with-missing-values-on-pcs-running-winos/"><u>Techniques to Deal with Missing Values on PCs Running WinOS</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722995715565-the-moderating-role-of-raceethnicity-in-the-association-between-socioeconomic-status-and-health-outcomes/"><u>The Moderating Role of Race/Ethnicity in the Association Between Socioeconomic Status and Health Outcomes</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-hidden-potential-in-vintage-video-gaming-titles-using-retroarch/"><u>Unlocking Hidden Potential in Vintage Video Gaming Titles Using Retroarch</u></a></li>
 </ul></div>
 

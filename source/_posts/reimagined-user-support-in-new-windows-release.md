@@ -1,7 +1,7 @@
 ---
 title: Reimagined User Support in New Windows Release
-date: 2024-09-20T17:27:36.071Z
-updated: 2024-09-26T16:03:47.631Z
+date: 2024-09-28T20:46:14.539Z
+updated: 2024-10-01T22:46:13.272Z
 tags:
   - windows10
   - windows11
@@ -29,23 +29,9 @@ thumbnail: https://thmb.techidaily.com/f0dbd5a21adf0257efb4cfc535a5b1745bbe68be5
 
  Microsoft has been getting ready to slash Cortana for a couple of years as it already [discontinued Cortana for Android and iOS devices](https://www.makeuseof.com/microsoft-silences-cortana-android-ios/) back in 2021\. The decision also reflects on Windows 11, where Cortana isn’t enabled by default.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Cortana Gone for Good?
 
 ![Ask Cortana in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/cortana-1-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re a Cortana enthusiast who integrated the virtual assistant into your productivity routine, we have good news.
 
@@ -61,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/f0dbd5a21adf0257efb4cfc535a5b1745bbe68be5
 
  So, if you’re still using Windows 10, you’ll have to upgrade to Windows 11 to access the feature.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Microsoft Bing With AI-Powered Search
 
 ![New Bing Chat Interface showing Conversation Style options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-chat-interface.jpg)
@@ -75,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/f0dbd5a21adf0257efb4cfc535a5b1745bbe68be5
  One of Cortana’s best features is that you can easily search the web. Now, Microsoft takes it to the next level by adding AI to its browser. The new AI-powered Bing can answer complex questions by accessing reliable sources across the web.
 
  While you may not be a fan of Microsoft’s search engine, Bing AI has plenty of tools to replace Cortana. While accessing your Cortana chats might be difficult, you can easily [save and export your Bing AI chat history](https://www.makeuseof.com/export-bing-ai-chat-history/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Windows Copilot
 
@@ -86,15 +72,22 @@ Image Credit: [Microsoft](https://blogs.windows.com/windowsdeveloper/2023/05/23/
 
  You can have an AI-powered conversation and ask Copilot to change your keyboard layout, turn off Bluetooth, increase the screen brightness, and so on. This way, you can focus on your work instead of going through the Settings menu for every minor system tweak.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Microsoft 365 Copilot
 
 ![A Copilot dialog box in Microsoft Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/copilot-dialog-in-word.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Image Credit: Microsoft/[M](https://www.shutterstock.com/image-photo/bangkokthailandapril92020-nintendo-switch-consoles-gaming-controller-1699898014)[icrosoft 365 Copilot](https://news.microsoft.com/reinventing-productivity/)
@@ -102,6 +95,13 @@ Image Credit: Microsoft/[M](https://www.shutterstock.com/image-photo/bangkokthai
  Microsoft 365 Copilot is an AI assistant feature for Microsoft 365 apps and services. Integrating it into your workflow allows you to create a document draft using a prompt, make Excel graphs, or put together PowerPoint slides.
 
  If you want to learn more, check out our guide on [what Microsoft 365 can do](https://www.makeuseof.com/what-is-microsoft-365-copilot/) to simplify your work.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What About Third-Party Alternatives to Cortana?
 
@@ -123,15 +123,18 @@ Image Credit: Microsoft/[M](https://www.shutterstock.com/image-photo/bangkokthai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-videos-youtube-tools-and-more/"><u>[New] 2024 Approved Crafting Videos YouTube Tools and More</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-automated-mac-lecture-recording/"><u>[New] In 2024, The Ultimate Guide to Automated Mac Lecture Recording</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-soloists-guide-making-your-podcast-stand-out/"><u>[New] The Soloist's Guide Making Your Podcast Stand Out</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-elevate-views-the-power-of-synergistic-youtube-content-partnerships/"><u>[Updated] In 2024, Elevate Views The Power of Synergistic YouTube Content Partnerships</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-prime-chrome-drawing-programs-the-ultimate-list-for-2024/"><u>[Updated] Prime Chrome Drawing Programs The Ultimate List for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/choosing-a-fresh-pdf-file-reader-for-os-use/"><u>Choosing a Fresh PDF File Reader for OS Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/demystifying-access-to-windows-print-services-dashboard/"><u>Demystifying Access to Windows Print Services Dashboard</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-efficiently-managing-windows-11-features/"><u>Mastering the Art of Efficiently Managing Windows 11 Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-your-workspace-incorrante-folders-into-context-menu/"><u>Streamline Your Workspace: Incorrante Folders Into Context Menu</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unlock-the-sounds-of-valheim-essential-fix-guide-for-no-audio-issues-on-pc/"><u>Unlock the Sounds of Valheim: Essential Fix Guide for No-Audio Issues on PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-precision-recording-perfecting-video-captures-on-your-android-phone/"><u>2024 Approved Precision Recording Perfecting Video Captures on Your Android Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-practical-manual-for-windowss-pink-flash-dilemnas/"><u>A Practical Manual for Windows's Pink Flash Dilemnas</u></a></li>
+<li><a href="https://windows11.techidaily.com/create-efficiency-in-windows-unique-snapping-layouts-with-powertoys/"><u>Create Efficiency in Windows: Unique Snapping Layouts with PowerToys</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-minimummax-cpu-in-power-preferences/"><u>Deciphering Minimum/Max CPU in Power Preferences</u></a></li>
+<li><a href="https://windows11.techidaily.com/disable-windows-11s-covert-surveillance/"><u>Disable Windows 11'S Covert Surveillance</u></a></li>
+<li><a href="https://windows11.techidaily.com/dissecting-the-runtime-broker-its-job-in-computing-architecture/"><u>Dissecting the Runtime Broker: Its Job in Computing Architecture</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-poco-x6-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Poco X6 Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-t2-pro-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo T2 Pro 5G PC | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-visual-narratives-instagram-carousel/"><u>In 2024, Visual Narratives Instagram Carousel</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-zero-5g-2023-turbo-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Zero 5G 2023 Turbo Device</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-final-cut-pro-essentials-designing-and-editing-a-professional-slideshow/"><u>Updated In 2024, Final Cut Pro Essentials Designing and Editing a Professional Slideshow</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/upgrading-made-simple-your-step-by-step-guide-for-moving-to-windows-10-from-win-781-os/"><u>Upgrading Made Simple: Your Step-by-Step Guide for Moving to Windows 10 From Win 7/8.1 OS</u></a></li>
 </ul></div>
 

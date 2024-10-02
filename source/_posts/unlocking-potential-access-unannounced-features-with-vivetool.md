@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Potential: Access Unannounced Features with ViVeTool"
-date: 2024-09-20T18:03:04.450Z
-updated: 2024-09-26T23:10:26.398Z
+date: 2024-09-25T03:06:47.026Z
+updated: 2024-10-01T20:14:25.959Z
 tags:
   - windows10
   - windows11
@@ -53,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 ![download vivetool gui zip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-vivetool-gui-zip.jpg)
 2. Download the latest version of the **Setup.exe file** available. You can also download a portable version if you prefer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Run the setup file and keep the default settings. Follow the on-screen instructions to install the app.
 
 ## How to Install Unreleased Features Using ViVeTool on Windows
@@ -71,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 2. Click the **Select Build** drop-down in the top-left corner and select your **Windows build.** You can [check Windows 11 build and version](https://www.makeuseof.com/check-build-and-version-windows-11/) using the **Settings app**. ViVeTool GUI will now start looking for all the available features for the selected build. This may take a few minutes, so wait till the list is populated.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. ViVeTool GUI categorizes the available features into different categories, including **Always Disabled**, **Always Enabled**, **Disabled by Default**, **Enabled by Default**, and **Modifiable**. You can expand the category and select the feature to install.
@@ -90,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 ![deactivate feature vivetool gui](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/deactivate-feature-vivetool-gui.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Launch **ViVeTool GUI.**
@@ -125,23 +118,16 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 5. Right-click on the **Zip** file and select **Extract** **all**. Select a destination and click **Extract**. Take note of the extraction folder.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Next, press the **Win** key and type **cmd**.
 2. Right-click on **Command Prompt** and select **Run as administrator.**  
 ![command prompt vivetool change directory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/command-prompt-vivetool-change-directory.jpg)
 3. In the Command Prompt, change the directory to ViVeTool extracted folder. So, type the following command and press **Enter** to change the directory:  
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `cd /d [ViVeToolFolderPath]`
 4. For example, if I have the ViVeTool folder saved in C:\\Users\\username\\Downloads\\ViVeTool-v0.3.2, then the full command will look this:  
@@ -154,10 +140,10 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 2. For example, to enable the tab feature in File Explorer, the feature ID is id:37634385\. So, the full command will look like this:  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `ViVeTool.exe /enable /id:37634385`
@@ -166,11 +152,25 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 4. Once the command is executed, type exit and press Enter to close the Command Prompt.
 5. Restart your PC to apply the changes. After the PC restarts, the changes should be visible.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Does Enabling a Feature in ViVeTool Not Do Anything?
 
  You may not be able to enable all the features present in ViVeTool. Almost all the hidden features are OS build-dependent. This means if you enable a feature using ViVeTool, but the changes don’t take effect, it is likely because the feature is not supported by the Windows OS build version you are running.
 
  In other instances, it may be due to the feature state being set to **Always Disabled** or **Enabled** during compilation. In this instance, even if ViVeTool successfully processes your request, you are unlikely to see any real changes, as the feature is hard-coded to remain on or off.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ViVeTool's Supported Commands
 
@@ -209,15 +209,20 @@ thumbnail: https://thmb.techidaily.com/b8cf7f364a0eb33deca5de4b670b31137b8637ef9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-digital-content-filming-talents-release-for-2024/"><u>[New] Digital Content Filming Talents Release for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-pioneering-video-player-apps-for-tiktok-and-vimeo-for-2024/"><u>[New] Pioneering Video Player Apps for TikTok & Vimeo for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-why-no-sound-the-twitter-video-amplification-guide/"><u>[Updated] Why No Sound? The Twitter Video Amplification Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-edge-40-pro-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 40 Pro Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-apple-iphone-11-pro-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your Apple iPhone 11 Pro in Minutes with ICCID Code Everything You Need to Know</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-non-active-thermal-management-on-pcs/"><u>Reviving Non-Active Thermal Management on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-error-0x8024a205-in-winupdate/"><u>Troubleshooting Error 0X8024a205 in WinUpdate</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-frozen-netflix-on-windows/"><u>Troubleshooting Frozen Netflix on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/why-bypass-automated-systems-for-win-11-key-generation-safety/"><u>Why Bypass Automated Systems for Win 11 Key Generation Safety?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-unlocking-telegram-web-potentials-a-practical-guide/"><u>[New] 2024 Approved Unlocking Telegram Web Potentials A Practical Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-essential-guide-to-capturing-vr-gaming-sessions/"><u>[Updated] In 2024, Essential Guide to Capturing VR Gaming Sessions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-pros-and-cons-of-hero-series-vs-polaroids-video-editors-for-2024/"><u>[Updated] Pros & Cons of Hero Series Vs. Polaroid's Video Editors for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-simplify-streaming-with-obs-studio-techniques-android-for-2024/"><u>[Updated] Simplify Streaming with OBS Studio Techniques (Android) for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-fixes-for-stuck-instagram-videos/"><u>2024 Approved Mastering Fixes for Stuck Instagram Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-techniques-overcoming-wwe-2k23-crash-issues-in-windows/"><u>Efficient Techniques: Overcoming WWE 2K23 Crash Issues in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-altering-windows-group-policies/"><u>Efficiently Altering Windows Group Policies</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-windows-experience-with-tpm-and-secure-boot-setup/"><u>Elevate Your Windows Experience with TPM & Secure Boot Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-hexadecimal-errors-the-zeroxc000003e-guide/"><u>Eliminating Hexadecimal Errors: The ZeroXC000003E Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-end-task-feature-for-optimized-window-management-in-windows-11-ui/"><u>Enabling End Task Feature for Optimized Window Management in Windows 11 UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-virtual-machine-speed-in-windows-a-6-step-guide/"><u>Enhance Virtual Machine Speed in Windows - A 6-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/error-rectified-fix-installation-of-mspm/"><u>Error Rectified: Fix Installation of MSPM</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-live-streaming-console-gaming-secrets-on-a-computer/"><u>In 2024, Live-Streaming Console Gaming Secrets on a Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-crashing-problems-in-yakuza-6-the-song-of-life-on-windowspc/"><u>Resolving Crashing Problems in Yakuza 6: The Song of Life on Windows/PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/step-by-step-securely-attach-a-link-to-your-tiktok-profile-for-2024/"><u>Step-by-Step Securely Attach a Link to Your TikTok Profile for 2024</u></a></li>
 </ul></div>
 

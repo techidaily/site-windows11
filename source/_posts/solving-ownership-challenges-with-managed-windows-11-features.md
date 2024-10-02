@@ -1,7 +1,7 @@
 ---
 title: Solving Ownership Challenges with Managed Windows 11 Features
-date: 2024-09-09T23:32:50.709Z
-updated: 2024-09-15T20:24:19.697Z
+date: 2024-09-28T23:38:05.817Z
+updated: 2024-10-01T19:02:23.029Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/3e134df3d1e30ff21305cf90a72d9a508b70a320e
 3. You have installed third-party programs that interfere with Windows settings.
 
 Let's now see how to fix this problem.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. Restart Your Computer
 
@@ -62,20 +69,14 @@ Let's now see how to fix this problem.
 ![Send optional diagnostic data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/send-optional-diagnostic-data.jpg)
 4. If the "Send optional diagnostic data" switch is off, make sure you toggle it to**On** .
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you complete the above steps, close the Settings window and restart your system. See if that resolves the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Edit the Local Group Policy Editor
 
@@ -92,27 +93,34 @@ Computer Configuration > Administrative Templates > Windows Components > Data Co
 4. Now move to the right pane, right-click on**Allow Diagnostic Data** , and select**Edit** from the context menu.  
 ![Allow Diagnostic Data Using Group Policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/allow-diagnostic-data-using-group-policy.jpg)  
  If your system runs Windows 10 or an earlier version, you will see**Allow Telemetry** instead of**Allow Diagnostic Data** .
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. On the next pop-up page, check the**Enabled** radio button.  
 ![Enabled Allow Diagnostic Data](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enabled-allow-diagnostic-data.jpg)
 6. Under the**Options** section, click the drop-down menu and select**Send optionally diagnostics data** .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Finally, click**Apply > OK** to save the changes.
 
  After you have followed all these steps, restart your computer and check if it solves the problem. If not, continue to the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Tweak the Registry Editor
 
@@ -146,5 +154,24 @@ HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\WindowsUpdate
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-digital-artisans-exclusive-summit/"><u>[Updated] 2024 Approved Digital Artisans' Exclusive Summit</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-navigating-your-way-in-graphic-design-careers/"><u>2024 Approved Navigating Your Way in Graphic Design Careers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/adobe-photoshop-shake-reduction-is-it-really-useful-for-2024/"><u>Adobe Photoshop Shake Reduction | Is It Really Useful for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-apple-iphone-6-plus-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On Apple iPhone 6 Plus How to Bypass?</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-installation-issues-fixing-zero-error-on-win11/"><u>Avoid Installation Issues: Fixing Zero Error on Win11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/face-to-face-factor-dissecting-apples-x-and-samsungs-identification-methods-for-2024/"><u>Face-to-Face Factor Dissecting Apple’s X and Samsung’s Identification Methods for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-flawed-setups-a-guide-to-windows-package-woes/"><u>Fixing Flawed Setups: A Guide to Windows Package Woes</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-enabling-or-disabling-wi-fi-cost-tracking-in-windows-11/"><u>Guide: Enabling or Disabling Wi-Fi Cost Tracking in Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/insights-on-how-to-utilize-execution-nicknames/"><u>Insights on How to Utilize Execution Nicknames</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-for-lowering-tiworkerexe-process-resource-use/"><u>Methods for Lowering TiWorker.exe Process Resource Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-multi-screen-brightness-best-tools-to-light-up-your-windows-monitors/"><u>Navigating Multi-Screen Brightness: Best Tools to Light Up Your Windows Monitors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/navigating-the-world-of-pokemon-go-in-tandem-a-guide-to-shared-quests-and-battles/"><u>Navigating the World of 'Pokémon Go' In Tandem: A Guide to Shared Quests and Battles</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-reaction-video-maker-top-picks-for-iphone-and-android/"><u>New Reaction Video Maker Top Picks for iPhone and Android</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-solution-to-cease-iomap64-syscall-freezes-on-windows/"><u>Step-by-Step Solution to Cease IOMap64 Syscall Freezes on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-security-beyond-bitlocker-top-4-choices/"><u>Windows Security Beyond BitLocker: Top 4 Choices</u></a></li>
+</ul></div>
 

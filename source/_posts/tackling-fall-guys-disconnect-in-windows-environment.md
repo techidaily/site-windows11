@@ -1,7 +1,7 @@
 ---
 title: Tackling Fall Guys Disconnect in Windows Environment
-date: 2024-09-19T21:45:21.340Z
-updated: 2024-09-26T21:33:06.825Z
+date: 2024-09-29T20:10:47.515Z
+updated: 2024-10-01T21:23:57.224Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
  Now that we know all the possible culprits behind the issue, let's jump into the fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Check Your Connection
@@ -60,13 +60,20 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 
 ![End high network apps in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-high-network-apps.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, right-click on all such applications, and choose**End task.** After that, restart Fall Guys and check if the problem persists.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Temporarily Disable the Windows Firewall
@@ -82,10 +89,10 @@ Here's how you can do that:
 ![Turn off firewall option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/turn-off-firewall.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, check if the problem continues. If not, enable the Windows Defender Firewall and then add Fall Guys to the Windows Firewall exception list. Here's how:
@@ -96,36 +103,10 @@ Here's how you can do that:
 ![Browse option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/browse-option.jpg)
 4. Go to the Fall Guys installation folder. It'd be**C:\\Program Files\\Epic Games\\FallGuys** if you kept the same target location during installation.
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Select**FallGuys\_client.exe** and click**Add.**  
 ![FallGuys file in browse option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/fallguys-file.jpg)
 
  That's it! Fall Guys has now been added to the Windows Firewall exception list.
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Disable Any Active Proxy Servers
 
@@ -136,16 +117,10 @@ Here's how you can do that:
 ![Disabling proxy command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disabling-proxy.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Connect to a Different DNS Server
@@ -165,6 +140,13 @@ Follow the below steps to change to Google DNS:
 7. If you're on IPv6, type**2001:4860:4860::8888** in the**Preferred DNS server** and**2001:4860:4860::8844** in the**Alternate DNS** server.  
 ![Editing IPv6 properties in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/editing-ipv6-properties.jpg)
 8. Click**OK.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Edit the Fall Guys Engine.ini File
 
@@ -220,21 +202,17 @@ Now, restart your computer and check if the problem is fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-kickstart-your-zoom-webinar-journey-for-2024/"><u>[New] How to Kickstart Your Zoom Webinar Journey for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-ideal-mac-screenshot-guide-5-streamlined-and-effective-methods-for-2024/"><u>[New] Ideal Mac Screenshot Guide 5 Streamlined and Effective Methods for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-ultimate-deck-to-deck-users-manual-for-durecorder/"><u>[Updated] In 2024, The Ultimate Deck-to-Deck User's Manual for DuRecorder</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficiently-manage-windows-deletion-prompt-actions/"><u>Efficiently Manage Windows' Deletion Prompt Actions</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-system-stability-automatic-windows-and-amd-driver-shift/"><u>Elevate System Stability: Automatic Windows & AMD Driver Shift</u></a></li>
-<li><a href="https://fox-info.techidaily.com/exploring-gpt-vs-bert-a-comprehensive-guide-to-their-key-distinctions/"><u>Exploring GPT Vs. BERT: A Comprehensive Guide to Their Key Distinctions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722996909879-fix-your-fortnite-login-issues-fast-and-easy-step-by-step-guide/"><u>Fix Your Fortnite Login Issues Fast and Easy – Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/guiding-users-through-fixing-nvidias-unreachable-error/"><u>Guiding Users Through Fixing NVIDIA's 'Unreachable' Error</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-se-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-notepad-abrupt-closures/"><u>Overcoming Windows Notepad Abrupt Closures</u></a></li>
-<li><a href="https://video-capture.techidaily.com/perfecting-live-broadcasts-with-streamlabs-obs-tips/"><u>Perfecting Live Broadcasts with Streamlabs OBS Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719329285690-resolve-programming-discrepancies-with-no-troubleshoot-tool/"><u>Resolve Programming Discrepancies with No Troubleshoot Tool.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steps-to-fix-the-issue-when-you-cant-access-destiny-2-servers-anymore/"><u>Steps to Fix the Issue When You Can't Access Destiny 2 Servers Anymore</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-windows-taskbar-recovery/"><u>Strategies for Windows Taskbar Recovery</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-12-catalysts-of-covid-19-misinformation/"><u>The 12 Catalysts of Covid-19 Misinformation</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-essential-guide-to-brightening-the-windows-11-pointer/"><u>The Essential Guide to Brightening the Windows 11 Pointer</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-elevate-your-facebook-chronicles-with-gratuitous-upgrades/"><u>[New] Elevate Your Facebook Chronicles with Gratuitous Upgrades</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-blend-soundscape-into-ppt-narratives/"><u>[Updated] In 2024, Blend Soundscape Into PPT Narratives</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-climbing-to-youtube-zenith-a-step-by-step-guide-to-creative-studio-mastery/"><u>2024 Approved Climbing to YouTube Zenith A Step-by-Step Guide to Creative Studio Mastery</u></a></li>
+<li><a href="https://windows11.techidaily.com/6-different-ways-to-open-programs-on-windows/"><u>6 Different Ways to Open Programs on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/6-precise-ways-to-determine-your-windows-hardware-identity/"><u>6 Precise Ways to Determine Your Window's Hardware Identity</u></a></li>
+<li><a href="https://windows11.techidaily.com/ace-your-development-setup-with-top-wsl-2-tricks/"><u>Ace Your Development Setup with Top WSL 2 Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/backup-your-cortana-data-for-future-reference-windows/"><u>Backup Your Cortana Data for Future Reference (Windows)</u></a></li>
+<li><a href="https://windows11.techidaily.com/bygone-brilliance-reviving-retro-gameplay-with-dosbox-x/"><u>Bygone Brilliance: Reviving Retro Gameplay with DOSBox-X</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-accelerating-sound-on-phones-best-free-apps/"><u>In 2024, Accelerating Sound on Phones Best Free Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/infusing-your-charm-astrology-inspired-whatsapp-biographies/"><u>Infusing Your Charm – Astrology-Inspired WhatsApp Biographies</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/local-printer-spooler-service-down-action-required/"><u>Local Printer Spooler Service Down, Action Required</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-the-issue-of-a-misplaced-network-adapter-driver-on-windows-10-a-comprehensive-guide/"><u>Resolving the Issue of a Misplaced Network Adapter Driver on Windows 10: A Comprehensive Guide</u></a></li>
 </ul></div>
 
