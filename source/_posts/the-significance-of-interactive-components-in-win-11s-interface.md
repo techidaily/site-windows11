@@ -1,7 +1,7 @@
 ---
 title: The Significance of Interactive Components in Win 11'S Interface
-date: 2024-09-09T12:00:16.205Z
-updated: 2024-09-10T12:00:16.205Z
+date: 2024-09-29T22:53:21.004Z
+updated: 2024-10-07T03:28:18.175Z
 tags:
   - windows10
   - windows11
@@ -20,46 +20,23 @@ thumbnail: https://thmb.techidaily.com/5101a256be44324944567b3cdefbcb470dad072a3
 
  Now, in Windows 11, they've brought back a similar concept with the Widgets panel, aiming to boost user productivity. Keep reading as we delve into what widgets are and share our thoughts on their comeback.
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Are Widgets on Windows 11?
 
  In Windows 11, we were treated to a dedicated Widgets panel displaying multiple cards, each featuring real-time data to reflect your interests. Thanks to the handy widget board, you can easily [personalize cards or widgets](https://www.makeuseof.com/windows-11-how-to-use-widgets/) according to what you want to see.
 
 ![Windows 11 widgets sliding-in from the left of the screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/Windows-11-Widgets-Screen.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Widgets are essentially a minified version of apps and services that are already set up on your Windows 11 system. They allow you to quickly glance over things that matter to you, like stocks, news, weather, and sports, without opening each app or website individually.
 
  The weather widget you use will be an extension of Microsoft Weather. Similarly, the news widget will be powered by various news feeds globally.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Which Widgets Can I Add to Windows 11?
 
  There are lots of widgets you can add to the Widgets panel of Windows 11\. Some of my favorite widgets on Windows 11 that I find help most on the daily are:
@@ -72,11 +49,12 @@ thumbnail: https://thmb.techidaily.com/5101a256be44324944567b3cdefbcb470dad072a3
  Of course, everyone's use cases are different, so the widgets you may find interesting may be different from the ones I listed here and vice versa.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## The Pros and Cons of Using Widgets on Windows
 
  Fortunately, you don’t need special skills to set up widgets on Windows 11\. It’s a simple point-and-click exercise, and you can start by checking out [how to add widgets to the Windows 11 desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/).
@@ -86,17 +64,12 @@ thumbnail: https://thmb.techidaily.com/5101a256be44324944567b3cdefbcb470dad072a3
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  More importantly, the widgets panel isn’t very convenient. It has a clunky design, and I personally would find widgets more helpful if I could pin them to my desktop. Fortunately, you can use a [third-party app to pin widgets to the desktop](https://www.makeuseof.com/windows-11-add-widgets-desktop/).
 
  You should also bear in mind that since widgets run in the background, you should keep an eye on the amount of CPU they use. Fortunately, you can [fix a high CPU usage from Windows widgets](https://www.makeuseof.com/windows-widgets-high-cpu-fix/) if things get a little too much. Also, their network usage can make a dent in a metered network connection's usage.
@@ -104,18 +77,17 @@ thumbnail: https://thmb.techidaily.com/5101a256be44324944567b3cdefbcb470dad072a3
  Widgets are certainly a step in the right direction, but [Microsoft can improve upon Windows 11's widgets](https://www.makeuseof.com/ways-microsoft-improve-windows-11-widgets/) to make them more accessible and useful for us all.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Our Verdict: Are Windows 11's Widgets Worth It?
 
  Widgets are an incredible addition to Windows 11, and while we can’t pin them to the desktop directly, they are still a fantastic feature. I highly recommend you start using the widgets panel on Windows to stay looped in on the latest news events, sports, weather updates, and stock market developments.
 
  Now, in Windows 11, they've brought back a similar concept with the Widgets panel, aiming to boost user productivity. Keep reading as we delve into what widgets are and share our thoughts on their comeback.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -123,3 +95,21 @@ thumbnail: https://thmb.techidaily.com/5101a256be44324944567b3cdefbcb470dad072a3
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-facetime-call-recording-securing-your-conversations/"><u>[New] FaceTime Call Recording Securing Your Conversations</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-bypassing-channels-tweets-on-whatsapp/"><u>[Updated] 2024 Approved Bypassing Channels Tweets on WhatsApp</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-review-of-top-tier-free-video-editing-tools-find-your-perfect-match-on-desktop-or-web/"><u>A Review of Top-Tier Free Video Editing Tools - Find Your Perfect Match on Desktop or Web!</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/efficient-techniques-for-reducing-mp4-video-size-on-the-internet/"><u>Efficient Techniques for Reducing MP4 Video Size on the Internet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-your-code-with-microsoft-copilot-on-a-mac/"><u>Enhancing Your Code with Microsoft Copilot on a Mac</u></a></li>
+<li><a href="https://win-tips.techidaily.com/guide-capturing-your-zoom-sessions-with-ease-pc-and-mobile-device-tutorial/"><u>Guide: Capturing Your Zoom Sessions with Ease - PC & Mobile Device Tutorial</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-stories-incorporating-natural-bokeh-effects-for-2024/"><u>Instagram Stories Incorporating Natural Bokeh Effects for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-system-performance-metrics/"><u>Navigating Through System Performance Metrics</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-if-windows-ignores-or-cannot-find-powershell-command/"><u>Steps if Windows Ignores or Cannot Find PowerShell Command</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-insiders-guide-to-duckduckgo-is-your-privacy-protected-here/"><u>The Insider's Guide to DuckDuckGo: Is Your Privacy Protected Here?</u></a></li>
+<li><a href="https://windows11.techidaily.com/triumph-over-trapped-windows-update-5-effective-fixes/"><u>Triumph Over Trapped Windows Update: 5 Effective Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/xbox-crash-reset-and-restart-to-fix-it/"><u>Xbox Crash? Reset and Restart to Fix It</u></a></li>
+</ul></div>
+

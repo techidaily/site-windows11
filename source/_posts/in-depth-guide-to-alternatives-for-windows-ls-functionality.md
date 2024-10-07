@@ -1,7 +1,7 @@
 ---
 title: In-Depth Guide to Alternatives for Windows' LS Functionality
-date: 2024-09-30T22:17:14.173Z
-updated: 2024-10-01T19:34:14.625Z
+date: 2024-10-05T08:47:10.459Z
+updated: 2024-10-07T02:17:12.282Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,19 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 
  By using the “ls” command, users can list the contents of the current working directory, similarly, you can also [switch directories using Command Prompt](http://www.makeuseof.com/how-to-change-directory-in-cmd/). On Windows, the usage of "ls" in Command Prompt is slightly different compared to Linux, but it can accomplish the same task.
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use the “ls” Command in Command Prompt on Windows 10 and 11
 
  Windows is an entirely different ecosystem when compared to Linux. As a result, many Linux CLI commands are not supported by the Windows Command Prompt tool.
@@ -42,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 ![Use dir command to list files in Windows CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/dir-command-cmd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To list files and directories using the equivalent of "ls" in Command Prompt on Windows 10 and 11:
@@ -55,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 3. Command Prompt will now list all of the files in the current working directory, along with their sizes and last modified date.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use "ls" Command in Windows PowerShell
@@ -69,19 +82,6 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 
 ![powershell-ls](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/powershell-ls-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Follow these steps to view a file directory using the "**ls**" command on Windows using Windows PowerShell:
 
 1. [Launch Windows PowerShell](https://www.makeuseof.com/windows-open-command-prompt-powershell/) using the **Start** menu and select the Best match.
@@ -90,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 4. Similarly, you can even use the **dir** or **gci** command to view the contents of a folder.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A Handy Tool for Both Linux and Windows Users
@@ -114,22 +114,17 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-pixelated-persistence-selecting-the-ultimate-cam-for-extended-shots/"><u>[New] Pixelated Persistence Selecting the Ultimate Cam for Extended Shots</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-vivo-s18e-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Vivo S18e? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoid-errors-manage-deps-for-virtualbox-on-windows/"><u>Avoid Errors: Manage Deps for VirtualBox on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/awakening-windows-11s-digital-storyteller/"><u>Awakening Windows 11'S Digital Storyteller</u></a></li>
-<li><a href="https://windows11.techidaily.com/baffling-boot-concealing-power-buttons-on-windows-11/"><u>Baffling Boot: Concealing Power Buttons on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/classify-your-hdd-or-ssd-with-ease/"><u>Classify Your HDD or SSD with Ease</u></a></li>
-<li><a href="https://windows11.techidaily.com/combatting-filesystem-crashes-in-win11/"><u>Combatting FileSystem Crashes in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-share-problems-in-geforce-software-windows/"><u>Correcting Share Problems in GeForce Software (Windows)</u></a></li>
-<li><a href="https://windows11.techidaily.com/cutting-edge-clearance-top-techniques-for-latency-free-video-on-pc/"><u>Cutting-Edge Clearance: Top Techniques for Latency-Free Video on PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-downloads-epson-xp-330-printer-drivers-ready/"><u>Easy Downloads: Epson XP-330 Printer Drivers Ready</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/error-message-resolution-224003-fix/"><u>Error Message Resolution: 224003 Fix</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-nokia-xr21-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Nokia XR21 online without jailbreak</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-v29e-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo V29e Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/secrets-of-seamless-video-editing-using-windows-11-tools/"><u>Secrets of Seamless Video Editing Using Windows 11 Tools</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-nokia-c110-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Nokia C110 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719252317464-understanding-and-fixing-the-common-problem-of-wwinplusp-not-working/"><u>Understanding and Fixing the Common Problem of WWin+P Not Working</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-smile-worthy-edits-ranked-funny-photo-enhancers/"><u>[Updated] 2024 Approved Smile-Worthy Edits Ranked Funny Photo Enhancers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-mastering-the-download-of-your-youtube-playlist-today-for-2024/"><u>[Updated] Mastering the Download of Your YouTube Playlist Today for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-comprehensive-guide-to-vr-travel-adventures/"><u>A Comprehensive Guide to VR Travel Adventures</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-common-video-and-audio-file-types-compatible-with-android/"><u>Comprehensive Guide: Common Video & Audio File Types Compatible with Android</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-fixes-for-a-frozen-windows-11-search-box-within-settings-app/"><u>Essential Fixes for a Frozen Windows 11 Search Box Within Settings App</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-pulse-pounding-perfection-create-compelling-tiktok-videos-with-templates/"><u>In 2024, Pulse-Pounding Perfection Create Compelling TikTok Videos with Templates</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ely-verifying-your-youtube-access-details-for-2024/"><u>Securely Verifying Your YouTube Access Details for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-complete-guide-to-enthralling-boomers-on-snapchat-for-2024/"><u>The Complete Guide to Enthralling Boomers on Snapchat for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-access-denied-message-in-microsoft-office-for-pc/"><u>Troubleshooting 'Access Denied' Message in Microsoft Office for PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-professional-quality-images-with-pss-3d-lut-techniques-for-2024/"><u>Unlocking Professional Quality Images with PS's 3D LUT Techniques for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unshackling-from-the-internet-localized-onedrive-usage/"><u>Unshackling From the Internet: Localized OneDrive Usage</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-11-shortcut-wizardry-for-efficient-control/"><u>Unveiling Windows 11 Shortcut Wizardry for Efficient Control</u></a></li>
 </ul></div>
 

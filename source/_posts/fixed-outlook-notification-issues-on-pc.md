@@ -1,7 +1,7 @@
 ---
 title: Fixed Outlook Notification Issues on PC
-date: 2024-09-09T12:04:09.164Z
-updated: 2024-09-10T12:04:09.164Z
+date: 2024-09-30T01:55:22.441Z
+updated: 2024-10-07T10:09:22.753Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Fix Outlook Notify Errors,Outlook Alert Fix,Resolve Outlook Sync Issue
 thumbnail: https://thmb.techidaily.com/3b240b43c93d639302106c546caada2668474e961bc69741ec2bb6713c7a134f.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixed Outlook Notification Issues on PC
 
  Microsoft Outlook, like any other email client, keeps you up to date with your most recent emails by sending you timely notification alerts. However, if these Outlook notifications stop working, you may miss important emails and alerts.
@@ -37,11 +31,12 @@ You can fix this by disabling offline mode in Outlook:
 ![Send / Receive Tab in Outlook App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Disable-Work-Offline-in-Outlook-App-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Check Outlook's In-App Notification Settings
 
  If Outlook fails to send notifications even when it is online, you should check Outlook’s in-app notification settings to make sure email alerts aren't disabled.
@@ -54,26 +49,8 @@ Follow these steps to check Outlook’s notification settings:
 4. Under the**Message arrival** section, enable desktop and sound alerts by checking the corresponding boxes. Then, hit**OK** to save changes.  
 ![Mail tab in Outlook Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Outlook-In-App-Notification-Settings-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you complete the above steps, you should start receiving Outlook notifications on Windows.
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Enable Outlook Notifications in the Windows Settings
 
  Windows allows you to[manage notification preferences](https://www.makeuseof.com/windows-11-customize-notifications/) on a per-app basis. If you’ve previously disabled notifications for the Outlook app, here's what you can do to re-enable them.
@@ -95,6 +72,13 @@ Follow these steps to check Outlook’s notification settings:
 3. Turn off the toggle next to**Do not distrub** .  
 ![Turn Off DND in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-dnd-in-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Further, make sure Do Not Disturb isn't configured to turn on automatically at specific times.
 
 ## 5\. Turn Off Battery Saver
@@ -107,17 +91,12 @@ Follow these steps to check Outlook’s notification settings:
 ![Turn Off Battery Saver in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-battery-saver-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 6\. Check Outlook's Rules
 
  The rules in Outlook allow you to specify how different types of emails should be handled. If you have previously set any notification rules in the Outlook app, this may cause them to not show. If unsure, you can go through Outlook’s rules to disable any rules related to notifications.
@@ -129,24 +108,6 @@ Here's how you can access Outlook's rules:
 3. Under**Email Rules** , you'll see all the rules that you've created for your emails. Find and disable any rule that may be interfering with Outlook notifications. Then, hit**Apply** followed by**OK** .  
 ![Manage Outlook Rules](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/manage-outlook-rules.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Clear the Outlook Cache
 
  Outlook, like most apps, saves cache files on your computer to improve performance and reduce loading times. However, once this cache gets old or corrupted, it hurts more than it helps. Thankfully, you can get rid of the Outlook cache data fairly easily.
@@ -169,12 +130,20 @@ Follow these steps to delete Outlook's cache data on Windows:
 ![Update Outlook App in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/update-outlook-app-in-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Wait for Outlook to find and install the latest updates on your computer. Once updated, check if the notifications are working now.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Repair Your Email Account
 
@@ -188,17 +157,12 @@ Follow these steps to delete Outlook's cache data on Windows:
 ![Repair Outlook Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-outlook-account.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 10\. Repair the Microsoft Office Suite
 
  Microsoft Office comes with a handy repair tool that can prove useful when Office apps fail to work correctly. You can repair the Microsoft Office suite in case the above solutions don't help. Here’s what you’ll need to do.
@@ -209,6 +173,13 @@ Follow these steps to delete Outlook's cache data on Windows:
 4. Select**Quick Repair** and then click**Repair** .  
 ![Repair Microsoft Office Program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Repair-Microsoft-Office.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for the process to finish and check if notifications are working. If the problem persists, repeat the above steps to perform an**Online Repair** . As the name implies, the process does necessitate an active internet connection. So, make sure your PC is connected to the internet.
 
 ## Never Miss an Outlook Notification Again
@@ -217,14 +188,11 @@ Follow these steps to delete Outlook's cache data on Windows:
 
  However, if nothing works, you can consider switching to Microsoft's Mail app for Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -233,4 +201,21 @@ Follow these steps to delete Outlook's cache data on Windows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-integrating-social-networks-discord-tutorial-for-2024/"><u>[New] Integrating Social Networks Discord Tutorial for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-breaking-down-the-finest-liquid-simulation-games/"><u>[Updated] 2024 Approved Breaking Down the Finest Liquid Simulation Games</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-metaverse-odyssey-cutting-edge-vr-headset-lineup/"><u>[Updated] Metaverse Odyssey Cutting-Edge VR Headset Lineup</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-fault-to-functionality-fast-fixed-of-winscript-errors/"><u>From Fault to Functionality: Fast Fixed of WinScript Errors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-samsung-photo-editor-review-pros-con-features-and-guide/"><u>In 2024, Samsung Photo Editor Review - Pros, Con, Features, and Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-already-used-error-on-windows-pcs-153-chars/"><u>Quick Fixes for 'Already Used' Error on Windows PCs (153 Chars)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/resolve-your-youtube-issues-on-windows-nvmessd-11-with-top-notch-fixing-advice/"><u>Resolve Your YouTube Issues on Windows Nvme_ssd 11 with Top-Notch Fixing Advice!</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-elevate-virtual-memory-usage-on-windows-11/"><u>Strategies to Elevate Virtual Memory Usage on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-windows-repairs-setting-up-shortcuts-for-troubleshooters/"><u>Streamlining Windows Repairs: Setting Up Shortcuts for Troubleshooters</u></a></li>
+<li><a href="https://techtrends.techidaily.com/successfully-calling-back-a-hidden-number-a-step-by-step-approach/"><u>Successfully Calling Back a Hidden Number - A Step-by-Step Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/sustaining-windows-11-taskbar-performance/"><u>Sustaining Windows 11 Taskbar Performance</u></a></li>
+<li><a href="https://fox-info.techidaily.com/tiny-tale-telling-framework/"><u>Tiny Tale Telling Framework</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-iphone-11-pro-max-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On iPhone 11 Pro Max</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-purposes-of-vcplusplus-redistributions/"><u>Understanding Purposes of VC++ Redistributions</u></a></li>
+</ul></div>
 

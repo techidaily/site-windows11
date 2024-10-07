@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Internet's Locked-Up Landmarks: Fixes for Window's Browsers"
-date: 2024-09-09T12:01:35.380Z
-updated: 2024-09-10T12:01:35.380Z
+date: 2024-10-03T01:51:30.214Z
+updated: 2024-10-07T02:51:37.012Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Browser Fixes Guide,Web Browsing Errors,Window's Bug Solutions,URL Acc
 thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e55514d7bc0ce5bafaca00aee.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Unlocking the Internet's Locked-Up Landmarks: Fixes for Window's Browsers
 
  If you are unable to access some websites on your device, your device administrator or internet service provider has likely blocked them. If websites are not blocked but still refuse to open, it could be due to IP address blockage, misconfigured proxy settings, delayed DNS response, or some browser-specific problem.
@@ -39,14 +33,22 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
  If the above checks don't work and some websites fail to load, begin applying the remaining fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Use a Different Device
 
 ![two laptops placed side by side on a wooden table](https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00df3f1d4defd5e8c6891f82cb.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you are using a managed device, quite possibly at work or school, and some websites aren't opening, your device administrator may have blocked access to these websites. So, it's essential to rule out this possibility.
 
@@ -54,12 +56,6 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
  In this case, you can ask your administrator to unblock those websites. However, if the same websites don't open on your other device, or if you're experiencing this issue on a personal device, your ISP might have blocked those sites.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Use a Different Internet Connection
 
 ![Wi-Fi Router Symbol With a Good Looking Background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/10/wifi-routers-versus-wireless-access-points-explained-1.jpg)
@@ -72,22 +68,17 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 ##
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable VPN or Windows Proxy Settings
 
 ![a user using vpn on windows laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/vpn-usage.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you use a VPN or proxy server to conceal your online activity, they can also contribute to this problem. The benefit of proxy servers is that they allow you to access websites blocked in your region by skirting around regional blocks.
 
  However, if some websites are blocked in a particular region, and you use a proxy server of that region, the websites won't open on your computer. Therefore, you should[disable the proxy server on Windows](https://www.makeuseof.com/windows-11-disable-proxy/) and/or turn off your VPN to ensure the problem doesn't come from them.
@@ -99,12 +90,6 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 1. Type**"Command Prompt"** in Windows Search and open the**Command Prompt** app.  
 ![Running Command Prompt as an Administrator on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Running-Command-Prompt-as-an-Administrator-on-Windows.jpg)
 2. Enter the following commands one by one, pressing**Enter** after each:  
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 `netsh winsock reset  
 netsh int ip reset  
 ipconfig /release  
@@ -113,16 +98,17 @@ ipconfig /flushdns`
 
  If the problem persists after running the above commands, you should change your DNS server.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Change Your DNS Server
 
 ![DNS Server Cables Connection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/DNS-Server-Cables.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Domain Name System (DNS) translates human-readable domain names into IP addresses. That's how your browser loads web pages. If some domains are blocked by your ISP, your browser won't be able to translate them into the required IP address. Consequently, they won't load.
 
  The best way to exclude this possibility is to[change your DNS server on Windows](https://www.makeuseof.com/change-dns-settings-windows-11/) , especially if you haven't changed it since you got your current device. Changing the DNS bypasses the restrictions imposed by your ISP, so you'll be able to access the blocked websites.
@@ -140,17 +126,12 @@ ipconfig /flushdns`
 5. If you find those websites added here, delete them all.  
 ![Tweaking the Hosts File by Deleting the Address Blocked in Windows 11 Hosts File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Image-3-Tweaking-the-Hosts-File-by-Deleting-the-Address-Blocked-in-Windows-11-Hosts-File.jpeg)
 6. After that, save the document by pressing**CTRL + S.**
+
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Roam Around the Internet Freely Again on Windows
@@ -159,14 +140,11 @@ ipconfig /flushdns`
 
  If the administrator hasn't blocked websites or you are experiencing this problem on a personal device, the above fixes will likely resolve the issue. Consequently, you will be able to access those websites again.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,4 +153,23 @@ ipconfig /flushdns`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-enhancing-engagement-professional-pc-techniques-for-youtube-editors/"><u>[New] In 2024, Enhancing Engagement Professional PC Techniques for YouTube Editors</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-curb-automated-youtube-content-feeds/"><u>[Updated] 2024 Approved Curb Automated YouTube Content Feeds</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beat-hopping-boundaries-linking-service-playlists-together/"><u>[Updated] Beat Hopping Boundaries Linking Service Playlists Together</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-closeup-essential-filmmaking-tips/"><u>2024 Approved Mastering the Art of Closeup Essential Filmmaking Tips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-guide-easy-to-install-vrecorder/"><u>Essential Guide Easy-to-Install VRecorder</u></a></li>
+<li><a href="https://windows11.techidaily.com/financial-success-in-w11-microsofts-blueprint/"><u>Financial Success in W11: Microsoft's Blueprint</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/fixing-cannot-download-https-videos-effective-strategies-and-tips-for-smooth-playback/"><u>Fixing 'Cannot Download HTTPS Videos': Effective Strategies and Tips for Smooth Playback</u></a></li>
+<li><a href="https://windows11.techidaily.com/ftdibussys-dissected-why-it-causes-disturbances-in-windows-memory/"><u>Ftdibus.sys Dissected: Why It Causes Disturbances in Windows Memory</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-jump-start-your-pc-beyond-s-mode-limits/"><u>How to Jump-Start Your PC Beyond S Mode Limits</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-xiaomi-mix-fold-3-phone-by-drfone-android/"><u>How to Reset a Locked Xiaomi Mix Fold 3 Phone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-it-a-microsoft-teams-glitch-or-connection-woes-tips-to-tell-the-difference/"><u>Is It a Microsoft Teams Glitch or Connection Woes? Tips to Tell the Difference</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-cortana-archive-windows-based-steps/"><u>Master Cortana Archive: Windows-Based Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-folder-access-top-techniques-explored/"><u>Mastering Windows 11 Folder Access: Top Techniques Explored</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-wpm-in-windows-11-a-step-by-step-guide/"><u>Mastering WPM in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-of-common-obs-error-fixes-on-windows-11/"><u>Mastery of Common OBS Error Fixes on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-amds-rx-7800-and-7700-tech-specs/"><u>Unveiling AMD's RX 7800 & 7700 Tech Specs</u></a></li>
+</ul></div>
 

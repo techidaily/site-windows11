@@ -1,7 +1,7 @@
 ---
 title: Streamlining Your Code with JDK on Windows 11
-date: 2024-09-09T12:08:36.836Z
-updated: 2024-09-10T12:08:36.836Z
+date: 2024-10-01T07:04:36.055Z
+updated: 2024-10-07T07:23:20.764Z
 tags:
   - windows10
   - windows11
@@ -14,24 +14,12 @@ keywords: JDK for Windows Coding,Java Development Kit (JDK),Streamline JAVA Code
 thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9f6527b07717a27989fe2446.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Streamlining Your Code with JDK on Windows 11
 
  Java is one of the most favored programming languages for back-end development (apart from JavaScript). Java is also a fairly popular choice for mobile and desktop development.
 
  Therefore, it makes sense for anyone interested in programming—and the larger software development world in general—to get their hand dirty with Java. In this article, we’ll look at the exact method to install JDK, or the Java Development Environment, a software development environment necessary for running Java on your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Run a Check for Java JDK on Your PC
 
  Before we move to the installation, though, it’s useful to see if JDK is already present in your system. To do that, go to the **Start menu** search bar, type in ‘cmd,’ and select the Best match.
@@ -44,12 +32,6 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
 
 ![cmd command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cmd-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Alternatively, you can also check for the JDK through the Control Panel as well. Here's how:
 
 1. Head to **Start menu** search bar, type in 'control panel', and select the best match.
@@ -58,11 +40,12 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
  If you cannot find the JDK section through either method, jump to the section below for the installation instructions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Installing Java JDK in Windows 11
 
  To install the JDK installer, we need to head to Oracle’s website first. Here’s how:
@@ -76,26 +59,29 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
 ![downloading the java installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/downloading-the-java-installer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![java development kit installation menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/java-development-kit-installation-menu.JPG)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  By the end of this process the Java development kit will be successfully installed on your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Installing and Running Java in Windows 11
 
@@ -103,11 +89,33 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
 
  Therefore, it makes sense for anyone interested in programming—and the larger software development world in general—to get their hand dirty with Java. In this article, we’ll look at the exact method to install JDK, or the Java Development Environment, a software development environment necessary for running Java on your PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-telescope-truth-expose/"><u>[New] Telescope Truth Exposé</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-behind-the-scenes-guide-to-finding-facebooks-finest-vids/"><u>2024 Approved Behind-the-Scenes Guide to Finding Facebook's Finest Vids</u></a></li>
+<li><a href="https://games-able.techidaily.com/debunking-6-myths-about-intels-latest-processors/"><u>Debunking 6 Myths About Intel's Latest Processors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-for-resident-evil-village-initial-load-errors-solutions-inside/"><u>Fixes for Resident Evil Village Initial Load Errors - Solutions Inside</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-unidentified-component-in-lsass-of-windows-os/"><u>Fixing Unidentified Component in Lsass of Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/improving-nonworking-diagnostics-for-win10win11/"><u>Improving Nonworking Diagnostics for Win10/Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-store-fix-guide-for-error-0x80131500/"><u>Microsoft Store Fix Guide for Error 0X80131500</u></a></li>
+<li><a href="https://discover-great.techidaily.com/mothers-day-special-wonderfox-raises-offer-to-114850-in-heartfelt-campaign/"><u>Mother's Day Special: WonderFox Raises Offer to $114,850 in Heartfelt Campaign</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-and-picker-engaging-checkbox-for-files-in-win11/"><u>Navigate and Picker: Engaging Checkbox for Files in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-rdp-login-hurdles-on-windows-11/"><u>Overcoming RDP Login Hurdles on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-wsl-issues-post-windows-11-upgrade/"><u>Resolving WSL Issues Post-Windows 11 Upgrade</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-restoring-data-flow-from-faulty-usb-on-windows/"><u>Steps for Restoring Data Flow From Faulty USB On Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-making-taskmanager-top-priority-window/"><u>Techniques for Making TaskManager Top-Priority Window</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transforming-twitter-video-links-to-audio/"><u>Transforming Twitter Video Links to Audio</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-error-code-windows-10s-0x0000004e/"><u>Troubleshooting Error Code: Windows 10'S 0X0000004E</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-errors-during-game-installation-on-origin/"><u>Troubleshooting Errors During Game Installation on Origin</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723201119149-troubleshooting-tips-for-an-unresponsive-xbox-one-contoller-quick-fixes/"><u>Troubleshooting Tips for an Unresponsive Xbox One Contoller - Quick Fixes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862780792-unbeatable-deal-39-inch-lg-ultragear-gaming-monitor-with-wqhd-curved-display-now-999-on-amazon/"><u>Unbeatable Deal: 39-Inch LG Ultragear Gaming Monitor with WQHD Curved Display, Now $999 on Amazon</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Honor Magic 6? | Dr.fone</u></a></li>
+</ul></div>
+

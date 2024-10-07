@@ -1,7 +1,7 @@
 ---
 title: "Secure Access: Learning How to Lock and Unlock (Fn) Key"
-date: 2024-09-29T03:26:29.070Z
-updated: 2024-10-01T16:21:25.556Z
+date: 2024-10-01T06:25:29.768Z
+updated: 2024-10-06T17:44:21.095Z
 tags:
   - windows10
   - windows11
@@ -31,22 +31,15 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
  When you want to use the default functions again, you can simply unlock the Fn key again
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Lock and Unlock the Function Key in Windows
 
  Below, we have listed different ways of locking and unlocking the Fn key in Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Use the Keyboard
@@ -65,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 3. Click on**UEFI Firmware Settings** and hit**Restart** .  
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Windows 10 Troubleshoot Advanced Options UEFI Firmware Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/05/uefi-screenshot.jpg)
@@ -82,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 9. Click F10 to save the changes, and then click**Yes** in the User Account Control prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Use the Windows Mobility Center
@@ -98,6 +91,13 @@ Follow these steps to proceed:
 2. Locate the**Function Key Row** section and expand the dropdown under it.  
 ![Function key row section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/function-key-row.jpg)
 3. Choose the**Function key** option from the dropdown to lock the key. To unlock, choose the**Multimedia key** option.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This should allow you to use the function keys without pressing the Fn key. In case you no longer want to use the Fn key and think that you will be better off disabling it, you can use the KeyTweak app to perform this action. Check out our guide on[how to disable specific keys on your keyboard in Windows](https://www.makeuseof.com/tag/disable-specific-keys-keyboard-windows-10/) for more information about KeyTweak.
 
@@ -120,18 +120,16 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-instaboomers-hook-your-audience-with-circular-content/"><u>[Updated] InstaBoomers Hook Your Audience with Circular Content</u></a></li>
-<li><a href="https://win-dash.techidaily.com/comprehensive-solution-enhancing-your-wifi-with-updated-broadcom-gigabit-ethernet-driver-for-windows-11-systems/"><u>Comprehensive Solution: Enhancing Your WiFi with Updated Broadcom Gigabit Ethernet Driver for Windows 11 Systems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/fast-track-installation-download-the-pioneer-dj-ddj-sx2-driver-seamlessly/"><u>Fast Track Installation: Download the Pioneer DJ DDJ-SX2 Driver Seamlessly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-activating-the-group-policy-editor-on-windows-home-computers/"><u>Guide: Activating the Group Policy Editor on Windows Home Computers</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-windows-cannot-access-the-specified-device-path-or-file-error/"><u>How to Fix the Windows Cannot Access the Specified Device, Path or File Error</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-how-to-convert-youtube-to-mp3-without-compromising-security-3-tips/"><u>In 2024, How to Convert YouTube to MP3 Without Compromising Security - 3 Tips</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-5-budget-friendly-chromebook-recorders/"><u>In 2024, Top 5 Budget-Friendly Chromebook Recorders</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-videopad-video-editor-review-features-pricing-and-verdict/"><u>New 2024 Approved Videopad Video Editor Review Features, Pricing, and Verdict</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-single-user-policy-settings-in-the-latest-windows-11/"><u>Optimizing Single-User Policy Settings in the Latest Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-steps-to-enhance-laptop-efficiency-on-two-displays/"><u>Quick Steps to Enhance Laptop Efficiency on Two Displays</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-pick-in-low-cost-tablets-the-alcatel-joy-tab-2s-lte-feature-breakdown-and-user-experience-insights/"><u>Top Pick in Low Cost Tablets: The Alcatel Joy Tab 2'S LTE Feature Breakdown and User Experience Insights</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/unveiling-the-top-5-facebook-video-downloaders-today/"><u>Unveiling the Top 5 Facebook Video Downloaders Today</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-mastery-unveiling-the-best-techniques-for-credential-management/"><u>Win11 Mastery: Unveiling the Best Techniques for Credential Management</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-vivo-y77t-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Vivo Y77t via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/friendly-fun-step-by-step-guide-for-gaming-shares-on-the-xbox-one/"><u>Friendly Fun: Step-by-Step Guide for Gaming Shares on the Xbox One</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-automatically-shut-down-a-windows-11-and-11-pc-when-its-idle/"><u>How to Automatically Shut Down a Windows 11 and 11 PC When It's Idle</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-resolve-faulty-narration-function-on-word-windows/"><u>How To Resolve Faulty Narration Function on Word (Windows)</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-and-resolving-windows-search-startup-woes/"><u>Identifying & Resolving Windows Search Startup Woes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-x-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone X</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/insiders-guide-to-the-vr-lexicon-essentials-for-2024/"><u>Insider's Guide to the VR Lexicon Essentials for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-12-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 12</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfecting-file-management-engage-checkboxes-in-win11-files/"><u>Perfecting File Management: Engage Checkboxes in Win11 Files</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/should-you-buy-a-blu-ray-player/"><u>Should You Buy a Blu-Ray Player?</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-inability-to-add-columns-in-ms-excel-windows/"><u>Troubleshooting: Inability to Add Columns in MS Excel (Windows)</u></a></li>
 </ul></div>
 

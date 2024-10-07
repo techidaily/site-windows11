@@ -1,7 +1,7 @@
 ---
 title: How to Enable and Utilize the Script Execution Policy in Windows PowerShell
-date: 2024-09-27T18:25:05.305Z
-updated: 2024-10-01T23:25:55.626Z
+date: 2024-10-04T21:13:56.330Z
+updated: 2024-10-06T20:28:48.094Z
 tags:
   - windows10
   - windows11
@@ -42,13 +42,6 @@ To get your current execution policy for the current user:
 
  You’ll need to change the execution policy to RemoteSigned to run local scripts without the error. You can change the execution policy from the Settings app and PowerShell.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable PowerShell Execution Policy Using the Settings App
 
  You can change and set the PowerShell execution policy to RemoteSigned using the Settings app. All you have to do is tweak the PowerShell settings in the developers' section to change the execution policy to enable PowerShell script execution.
@@ -60,17 +53,26 @@ To change execution policy using Settings:
 3. Next, click on**For developers.**  
 ![windows 11 for developers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-for-developers.jpg)
 4. Click to expand the**PowerShell** section.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Toggle the switch to **change the execution policy to allow local PowerShell scripts to run without signing - Require signing for remote scripts** .  
 ![enable powershell script execution windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-powershell-script-execution-windows-11-settings.jpg)
 6. Once done, open PowerShell, type get**executionpolicy,** and press**Enter** . The execution policy for the current user is now set to**RemoteSigned.**
-7. If you need to disable the execution policy, toggle the PowerShell switch and set it to**Off** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+7. If you need to disable the execution policy, toggle the PowerShell switch and set it to**Off** .
 
 ## How to Allow Scripts to Run in PowerShell using PowerShell
 
@@ -91,16 +93,10 @@ To change the execution policy using PowerShell:
 5. Replace**CurrentUser** in the above command with other users (Scope) as per your requirement.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Remove Script Execution Policy Using PowerShell
@@ -117,13 +113,6 @@ To disable script execution using PowerShell:
 3. The above command will set the execution policy default (undefined) for all the users. If you want to disable script execution for a specific scope, use the following command:  
 `Set-ExecutionPolicy undefined -Scope CurrentUser`
 4. The above command will disable script execution for**CurrentUser** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Understanding Execution Policies and Scopes
 
@@ -155,6 +144,13 @@ The below table briefly explains all the execution policy scopes:
 | LocalMachine           | Configured for all users and stored in HKEY\_CURRENT\_MACHINE registry subkey.           |
 | Process                | Affects current PowerShell session and automatically deleted when the session is closed. |
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Add or Remove PowerShell Script Execution Policy on Windows
 
  Script execution on PowerShell is disabled by default for Windows clients and set to RemoteSigned for Windows server. Power users, however, can change execution policies to run local, signed, and unsigned PowerShell scripts.
@@ -176,14 +172,21 @@ The below table briefly explains all the execution policy scopes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-curated-lists-of-websites-offering-youtube-tone-purchases/"><u>[New] In 2024, Curated Lists of Websites Offering YouTube Tone Purchases</u></a></li>
-<li><a href="https://windows11.techidaily.com/guidelines-to-correct-nvidia-control-panel-access-problem/"><u>Guidelines to Correct Nvidia Control Panel Access Problem</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-correctly-manage-the-0x80070003-updater-error-on-windows/"><u>How to Correctly Manage the 0X80070003 Updater Error on Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-live-stream-the-2024-summer-olympics/"><u>How to Live Stream the 2024 Summer Olympics</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-iphone-13-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On iPhone 13 Pro Max without Password?</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-unlocking-language-barriers-select-top-8-free-srt-tools/"><u>In 2024, Unlocking Language Barriers Select Top 8 Free SRT Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-obstacles-essential-tips-for-restoring-your-iphones-chatgpt-functionality/"><u>Overcoming Obstacles: Essential Tips for Restoring Your iPhone's ChatGPT Functionality</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-overcoming-onedrive-cloud-operation-issues/"><u>Strategies for Overcoming OneDrive Cloud Operation Issues</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/egal-limits-of-capturing-youtube-video-footage/"><u>The Legal Limits of Capturing YouTube Video Footage</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-ultimate-toolbox-for-unraveling-instagrams-hidden-data/"><u>[New] In 2024, The Ultimate Toolbox for Unraveling Instagram's Hidden Data</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-how-to-edit-youtube-videos-in-finalcut-pro/"><u>2024 Approved How to Edit YouTube Videos in Finalcut Pro</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-voyage-to-greatness-youtubes-best-travel-vids/"><u>2024 Approved Voyage to Greatness YouTube's Best Travel Vids</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-mail-applications-reviewed-for-iphones-our-top-selections-of-2n4/"><u>Best Mail Applications Reviewed for iPhones - Our Top Selections of 2N4</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-itel-p55t-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhance-your-viewing-experience-fix-streaming-problems/"><u>Enhance Your Viewing Experience: Fix Streaming Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013870246-escape-from-tarkov-server-problems-fixing-your-connection-lost-glitch-now/"><u>Escape From Tarkov Server Problems? Fixing Your Connection Lost Glitch Now!</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-for-stable-windows-volume-mixer-operation/"><u>Guidelines for Stable Windows Volume Mixer Operation</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/instructional-path-to-windows-11-safe-hardware-dialog/"><u>Instructional Path to Windows 11 Safe Hardware Dialog</u></a></li>
+<li><a href="https://windows11.techidaily.com/introducing-cli-to-taskmanager-for-enhanced-computing-experience/"><u>Introducing CLI to TaskManager for Enhanced Computing Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-asking-too-many-hands-on-windows-systems/"><u>Overcome Asking Too Many Hands on Windows Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-z50-ultra-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Z50 Ultra has been deleted.</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-address-write-access-failure-on-windows-11/"><u>Strategies to Address Write Access Failure on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-bypass-winos-gpu-scheduler-features/"><u>Techniques to Bypass WinOS GPU Scheduler Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-tackling-printer-error-xfffee/"><u>The Ultimate Guide to Tackling Printer Error XFFFEE</u></a></li>
 </ul></div>
 
