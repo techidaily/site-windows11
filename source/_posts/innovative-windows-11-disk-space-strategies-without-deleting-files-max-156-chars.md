@@ -1,7 +1,7 @@
 ---
 title: Innovative Windows 11 Disk Space Strategies Without Deleting Files (Max 156 Chars)
-date: 2024-09-25T16:04:56.283Z
-updated: 2024-10-01T21:18:44.562Z
+date: 2024-10-09T03:50:57.990Z
+updated: 2024-10-13T00:02:42.073Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
  Exactly how much drive space NTFS compression will free up can be variable. If you have many uncompressed user document files on your drive, then NTFS will likely free up at least a few gigabytes of storage space. However, this compression won’t free up so much space if there aren’t many user files on your PC’s drive. The only way to find out is to try it on at least one large folder.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Disable System Restore
@@ -56,6 +56,19 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
  If you prefer to keep **System Restore** on, you can still at least reduce that utility’s disk usage. To do so, drag the **Max Usage** bar’s slider left on the System Protection window.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Convert Your Saved Video Files Into the MP4 Format
 
  Video files can take up lots of hard drive space, especially for longer clips. If you have lots of AVI and MOV files saved, converting them to the MP4 format will free up some storage space on your hard drive. MP4 is a compressed video format that preserves a good degree of picture quality.
@@ -66,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 2. Then click the **Convert** drop-down menu to select **Video**.  
 ![The video format selection options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-video-selection-option.jpg)
 3. Select the format of your current video files.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Click **Choose File** \> **From Device** to select one or more videos to convert.  
 ![The Choose File button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/from-a-device-option.jpg)
@@ -90,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 ![The image format conversion web app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/image-format-conversion-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Reduce the Recycle Bin’s Size
 
  Windows 11’s Recycle Bin stores deleted files until emptied. You can reduce the maximum amount of space allocated to the Recycle Bin for storing files. This will mean your Recycle Bin will reach max size sooner rather than later, and you’ll need to empty it more often.
@@ -109,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![The Custom size radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-custom-size-option.jpg)
 4. Click **Apply** and **OK** in the Recycle Bin Properties window.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Create ZIP Archives for Storing Files
 
  ZIP is an archive format that compresses files included in it. ZIP archives are like compressed folders from which you can easily access their contents when needed. Archiving lots of user files lying around on your hard drive within ZIPs will free up drive space. Creating ZIP archives with many videos and images in them could free up lots of drive space.
@@ -118,17 +124,16 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![The Compress to ZIP file option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/compress-to-zip-file-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Save Files to a Cloud Storage Service
@@ -140,10 +145,10 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 ![Google Drive cloud storage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-drive-storage.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Utilize Third-Party Web Apps and Portable Programs
@@ -157,6 +162,13 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
  Utilizing portable apps is another good way to save drive space, because you don't need to install them. You can even run the portable apps from a USB stick instead of your PC’s local drive. To do so, download the files for portable app versions to your USB stick from their websites.
 
  You can also [add a portable app menu to Windows 11](https://www.makeuseof.com/windows-add-portable-software-menu/#) with software like LiberKey and SyMenu. The [PortableApps](https://portableapps.com/) program also enables you to install and access many portable apps from a dedicated menu.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Free Up Your Windows Drive Space Without Deleting a Thing
 
@@ -176,24 +188,19 @@ thumbnail: https://thmb.techidaily.com/a33821f7d1add97134f0556ceb5947dead1c89e2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-convert-talk-to-text-the-costless-alternative/"><u>[New] 2024 Approved Convert Talk to Text The Costless Alternative</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-viral-visualization-top-story-filter-guide/"><u>[New] Viral Visualization Top Story Filter Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-beyond-youtube-3-pioneering-online-video-platforms/"><u>[Updated] 2024 Approved Beyond YouTube 3 Pioneering Online Video Platforms</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ultimate-gecata-analyzer-report/"><u>2024 Approved Ultimate GECATA Analyzer Report</u></a></li>
-<li><a href="https://win-answers.techidaily.com/free-tools-for-splitting-gif-images-into-individual-frames-best-picks/"><u>Free Tools for Splitting GIF Images Into Individual Frames - Best Picks</u></a></li>
-<li><a href="https://windows11.techidaily.com/graphics-correction-in-windows-11-and-11-systems/"><u>Graphics Correction in Windows 11 & 11 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/guide-to-correcting-binkw32dll-file-missing-problem-on-your-computer/"><u>Guide to Correcting binkw32.dll File Missing Problem on Your Computer</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-disable-windows-inbuilt-display-hardware/"><u>How To Disable Window's Inbuilt Display Hardware</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-infinix-note-30-pro-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Infinix Note 30 Pro</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/intel-thunderbolt-usb-c-card-drivers-instant-download-links/"><u>Intel Thunderbolt USB-C Card Drivers - Instant Download Links</u></a></li>
-<li><a href="https://windows11.techidaily.com/prevent-chromium-from-creating-spontaneous-tabs-on-pc/"><u>Prevent Chromium From Creating Spontaneous Tabs on PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-apple-iphone-13-pro-max-and-browser-drfone-by-drfone-virtual-ios/"><u>Prevent Cross-Site Tracking on Apple iPhone 13 Pro Max and Browser | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/reconciling-winrars-file-sums-a-guide-with-6-fixes/"><u>Reconciling WinRAR's File Sums: A Guide with 6 Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-ai-integration-in-the-web-sphere/"><u>Seamless AI Integration in the Web Sphere</u></a></li>
-<li><a href="https://windows11.techidaily.com/securing-calc-spotlighting-in-windows-environment/"><u>Securing Calc Spotlighting in Windows Environment</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategic-approach-to-dispatch-microsoft-store-failure-code-0x0/"><u>Strategic Approach to Dispatch Microsoft Store Failure: Code 0X0</u></a></li>
-<li><a href="https://windows11.techidaily.com/swiftly-syncing-spotify-on-your-windows-11-device/"><u>Swiftly Syncing Spotify on Your Windows 11 Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-at-preservation-moving-old-games-into-windows-11-folder/"><u>Winning at Preservation: Moving Old Games Into Windows 11 Folder</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-from-still-screens-to-mp3-beats-insta-video-tips/"><u>[New] From Still Screens to MP3 Beats - Insta Video Tips</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-flash-share-sharing-playlists-in-a-snap/"><u>[New] In 2024, Flash-Share Sharing Playlists in a Snap</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-add-timestamps-on-youtube-video-link/"><u>[Updated] 2024 Approved How to Add Timestamps on YouTube Video Link?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-masterful-moments-made-simple-the-snapchat-lens-guide/"><u>[Updated] 2024 Approved Masterful Moments Made Simple The Snapchat Lens Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-unlock-the-secrets-of-youtube-monetization-key-viewer-numbers/"><u>2024 Approved Unlock the Secrets of YouTube Monetization Key Viewer Numbers</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieve-personalized-settings-alomwares-pathway-to-customization/"><u>Achieve Personalized Settings - AlomWare's Pathway to Customization</u></a></li>
+<li><a href="https://windows11.techidaily.com/biggest-discounts-black-friday-612-windows-10-forever/"><u>Biggest Discounts: Black Friday - $6.12, Windows 10 Forever</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-oculus-install-error-on-wincx-a-helpful-guide/"><u>Conquering Oculus Install Error on WinCX: A Helpful Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-error-mcuicntexe-not-found-in-win-8xp/"><u>Correcting Error: McUICnt.exe Not Found in Win 8/XP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-repairing-the-bad-image-problem-in-microsofts-latest-operating-systems/"><u>Diagnosing and Repairing the 'Bad Image' Problem in Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/revel-in-photo-excellence-with-this-guide-to-mastering-the-background-erase-tool/"><u>Revel in Photo Excellence with This Guide to Mastering the Background Erase Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-your-windows-11-9-solutions-for-lost-bluetooth/"><u>Reviving Your Windows 11: 9 Solutions for Lost Bluetooth</u></a></li>
+<li><a href="https://driver-download.techidaily.com/speedy-installation-guide-for-intel-irisplus-graphics-640-drivers-hassle-free-and-quick-setup-tips/"><u>Speedy Installation Guide for Intel Iris+ Graphics 640 Drivers – Hassle-Free and Quick Setup Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-computers-clock-display-with-animated-screensaver-apps/"><u>Transform Your Computer's Clock Display with Animated Screensaver Apps</u></a></li>
 </ul></div>
 

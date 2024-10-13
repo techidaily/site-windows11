@@ -1,7 +1,7 @@
 ---
 title: How to Enable and Utilize the Script Execution Policy in Windows PowerShell
-date: 2024-10-04T21:13:56.330Z
-updated: 2024-10-06T20:28:48.094Z
+date: 2024-10-10T19:34:11.938Z
+updated: 2024-10-12T18:59:52.986Z
 tags:
   - windows10
   - windows11
@@ -54,25 +54,25 @@ To change execution policy using Settings:
 ![windows 11 for developers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-for-developers.jpg)
 4. Click to expand the**PowerShell** section.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Toggle the switch to **change the execution policy to allow local PowerShell scripts to run without signing - Require signing for remote scripts** .  
 ![enable powershell script execution windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-powershell-script-execution-windows-11-settings.jpg)
 6. Once done, open PowerShell, type get**executionpolicy,** and press**Enter** . The execution policy for the current user is now set to**RemoteSigned.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. If you need to disable the execution policy, toggle the PowerShell switch and set it to**Off** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Allow Scripts to Run in PowerShell using PowerShell
 
@@ -91,13 +91,6 @@ To change the execution policy using PowerShell:
 4. For example, to set the**RemoteSigned** execution policy for**CurrentUser** , use the following command:  
 `Set-ExecutionPolicy RemoteSgined -Scope CurrentUser`
 5. Replace**CurrentUser** in the above command with other users (Scope) as per your requirement.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Remove Script Execution Policy Using PowerShell
 
@@ -130,6 +123,13 @@ To disable script execution using PowerShell:
 | Undefined        | Sets execution policy to Restricted for Windows clients and RemoteSigned for Windows Server.                   |
 | Unrestricted     | Allow unsigned script execution with a warning for the scripts downloaded from the internet.                   |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Execution Policy Scope
 
  You can set execution policy for a particular scope in PowerShell. The five execution policy scopes are**MachinePolicy, UserPolicy, Process, CurrentUser,** and**LocalMachine** .
@@ -145,10 +145,10 @@ The below table briefly explains all the execution policy scopes:
 | Process                | Affects current PowerShell session and automatically deleted when the session is closed. |
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add or Remove PowerShell Script Execution Policy on Windows
@@ -172,21 +172,20 @@ The below table briefly explains all the execution policy scopes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-ultimate-toolbox-for-unraveling-instagrams-hidden-data/"><u>[New] In 2024, The Ultimate Toolbox for Unraveling Instagram's Hidden Data</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-how-to-edit-youtube-videos-in-finalcut-pro/"><u>2024 Approved How to Edit YouTube Videos in Finalcut Pro</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-voyage-to-greatness-youtubes-best-travel-vids/"><u>2024 Approved Voyage to Greatness YouTube's Best Travel Vids</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-mail-applications-reviewed-for-iphones-our-top-selections-of-2n4/"><u>Best Mail Applications Reviewed for iPhones - Our Top Selections of 2N4</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-itel-p55t-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/enhance-your-viewing-experience-fix-streaming-problems/"><u>Enhance Your Viewing Experience: Fix Streaming Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013870246-escape-from-tarkov-server-problems-fixing-your-connection-lost-glitch-now/"><u>Escape From Tarkov Server Problems? Fixing Your Connection Lost Glitch Now!</u></a></li>
-<li><a href="https://windows11.techidaily.com/guidelines-for-stable-windows-volume-mixer-operation/"><u>Guidelines for Stable Windows Volume Mixer Operation</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/instructional-path-to-windows-11-safe-hardware-dialog/"><u>Instructional Path to Windows 11 Safe Hardware Dialog</u></a></li>
-<li><a href="https://windows11.techidaily.com/introducing-cli-to-taskmanager-for-enhanced-computing-experience/"><u>Introducing CLI to TaskManager for Enhanced Computing Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcome-asking-too-many-hands-on-windows-systems/"><u>Overcome Asking Too Many Hands on Windows Systems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-z50-ultra-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Z50 Ultra has been deleted.</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-address-write-access-failure-on-windows-11/"><u>Strategies to Address Write Access Failure on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-to-bypass-winos-gpu-scheduler-features/"><u>Techniques to Bypass WinOS GPU Scheduler Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-tackling-printer-error-xfffee/"><u>The Ultimate Guide to Tackling Printer Error XFFFEE</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-capturing-views-connecting-users-social-media-for-360-degree-photos-for-2024/"><u>[New] Capturing Views, Connecting Users Social Media for 360-Degree Photos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-ways-to-fix-the-windows-family-safety-feature-not-working/"><u>5 Ways to Fix the Windows Family Safety Feature Not Working</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-deep-dive-into-windows-hd-color-and-hdr-editing-excellence-for-2024/"><u>A Deep Dive Into Windows HD Color and HDR Editing Excellence for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazon-fire-tv-cube-review-a-blazing-fast-streaming-device/"><u>Amazon Fire TV Cube Review: A Blazing Fast Streaming Device</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-your-hp-officejet-pro-8610-works-flawlessly-with-the-latest-driver-downloads-for-windows-operating-systems/"><u>Ensure Your HP Officejet Pro 8610 Works Flawlessly with the Latest Driver Downloads for Windows Operating Systems!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-oneplus-nord-ce-3-5g-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of OnePlus Nord CE 3 5G using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-mastering-closer-video-in-google-meet-sessions/"><u>In 2024, Mastering Closer Video in Google Meet Sessions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-golden-rule-for-profit-partnership/"><u>In 2024, YouTube's Golden Rule for Profit Partnership</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-through-windows-sound-settings-9-easy-methods-quickly/"><u>Navigate Through Windows' Sound Settings: 9 Easy Methods, Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-connectivity-hurdles-spotify-and-windows-11/"><u>Overcoming Connectivity Hurdles: Spotify & Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/revive-slow-windows-apps-ensure-robust-web-linkage/"><u>Revive Slow Windows Apps: Ensure Robust Web Linkage</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-integration-how-to-get-and-run-msibundle-and-appxappxbundles/"><u>Seamless Integration: How to Get & Run MsiBundle & Appx/Appxbundles</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-win11-screensaver-personalization/"><u>Step-by-Step Guide to Win11 Screensaver Personalization</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/ultimate-tutorial-for-viewing-movie-file-contents-from-videots-folders-across-windows-11-macos-ios-and-android-platforms/"><u>Ultimate Tutorial for Viewing Movie File Contents From Video_TS Folders Across Windows 11, macOS, iOS, and Android Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-the-windows-11-taskbar/"><u>Unlock the Full Potential of the Windows 11 Taskbar</u></a></li>
 </ul></div>
 

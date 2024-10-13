@@ -1,7 +1,7 @@
 ---
 title: Reinstating Absent System Temperature Policy on Windows
-date: 2024-10-05T00:18:58.430Z
-updated: 2024-10-06T22:22:13.901Z
+date: 2024-10-12T01:37:27.513Z
+updated: 2024-10-12T18:13:25.573Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,10 @@ Here’s how to do that.
  If you go back to the Power Options menu, you’ll find that it’s gone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Fix a Missing System Cooling Policy Using the Windows Registry
@@ -59,10 +59,10 @@ Here’s how to do that.
 ![creating a text document on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creating-text-doc-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In the text document, enter the following code:
@@ -74,10 +74,10 @@ In the text document, enter the following code:
 ![message to continue merging a registry file with the windows registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/message-continue-merge-reg-gile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You should now see the system cooling policy in the Power Options menu.
@@ -89,10 +89,10 @@ In the text document, enter the following code:
  Once you run this file, the system cooling policy will be hidden again in the Power Options menu.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bringing Back the System Cooling Policy on Windows
@@ -114,15 +114,14 @@ In the text document, enter the following code:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/023s-must-watch-alternatives-to-top-films/"><u>[New] 2023'S Must-Watch Alternatives to Top Films</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-10-proven-techniques-for-skyrocketing-social-media-supporters-for-2024/"><u>[Updated] 10 Proven Techniques for Skyrocketing Social Media Supporters for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-windows-1011-error-0xa00f425d-with-camera-app/"><u>Fixing Windows 10/11 Error 0xA00F425D with Camera App</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-epson-wf-3520-software-drivers-compatible-with-windows-pcs/"><u>Get the Newest Epson WF-3520 Software Drivers Compatible with Windows PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-reestablish-disconnected-network-on-windows-pcs/"><u>How to Reestablish Disconnected Network on Windows PCs</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-resolution-adjustments-a-step-by-step-ffmpeg-walkthrough/"><u>Mastering Resolution Adjustments: A Step-by-Step FFmpeg Walkthrough</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/polaroid-camplus-pro-a-complete-action-recorder-review-for-2024/"><u>Polaroid Cam+ Pro A Complete Action Recorder Review for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-cannot-open-for-writing-error-in-win-11-os/"><u>Resolving Cannot Open For Writing Error in Win 11 OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-windows-11-app-accessibility-tips/"><u>Swift Windows 11 App Accessibility Tips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-quick-tips-capturing-screen-on-a-dell-notebook-pc/"><u>[New] 2024 Approved Quick Tips Capturing Screen on a Dell Notebook PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/global-mouse-mastery-using-powertoys-innovative-features/"><u>Global Mouse Mastery Using PowerToys' Innovative Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-windows-11-experience-for-mac-using-parallels/"><u>Seamless Windows 11 Experience for Mac, Using Parallels</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-iphone-and-ipad-widget-problems-with-these-speedy-10-fixes/"><u>Solve iPhone and iPad Widget Problems with These Speedy 10 Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solution-fixing-qualcomm-atheros-bluetooth-connectivity-on-windows-11/"><u>Step-by-Step Solution: Fixing Qualcomm Atheros Bluetooth Connectivity on Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/steps-to-handle-maxed-out-windows-chatgpt/"><u>Steps to Handle Maxed-Out Windows ChatGPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-wired-keyboard-interaction-for-windows-system/"><u>Stop Wired Keyboard Interaction for Windows System</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshoot-asking-too-many-hands-at-once-errors/"><u>Troubleshoot Asking Too Many Hands at Once Errors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/zoom-quality-issues-identifying-if-connectivity-woes-are-user-based/"><u>Zoom Quality Issues: Identifying If Connectivity Woes Are User-Based</u></a></li>
 </ul></div>
 

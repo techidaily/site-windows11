@@ -1,7 +1,7 @@
 ---
 title: "Unfreezing WoW Update: Windows Troubleshooting Guide"
-date: 2024-09-09T11:58:18.753Z
-updated: 2024-09-10T11:58:18.753Z
+date: 2024-10-11T02:01:18.391Z
+updated: 2024-10-12T18:21:00.755Z
 tags:
   - windows10
   - windows11
@@ -20,24 +20,12 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
 
  Why does this happen? In this article, we'll explain why WoW updates get stuck on initializing and fixes you can apply to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Why Is WoW Update Stuck on Initializing, and How Can You Fix It?
 
  The WoW update doesn't initialize when there is a problem with the Battle.net desktop client. Besides that, issues with your internet connection, intrusions from your ISP, and conflicts with your antivirus, Windows Defender, or apps running in parallel with Battle.net may also cause the problem. Furthermore, the app's cache may also be to blame.
 
  When the WoW update gets stuck on initializing, you must disable other apps and processes, update the Battle.net client, rule out internet problems, clean the Battle.net cache, whitelist the Battle.net desktop client from Windows Defender, update the drivers, and rebuild the corrupt and outdated game files.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## First, Perform the Preliminary Checks
 
  Before moving on to the major fixes, perform the following preliminary checks:
@@ -49,12 +37,6 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
 * Set up the Battle.net desktop client to run as an administrator. As a result, the client will gain elevated system rights, allowing it to access even restricted system files. If you aren't familiar with the process, check out our guide on[how to always run an app as an administrator on Windows](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) .
 * Ensure that your device meets the minimum gaming requirements. Also, check if your video card is on[Blizzard's list of supported video cards](https://eu.battle.net/support/en/article/31372) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Ensure It's Not a Visual Glitch
 
  The Battle.net desktop client can sometimes appear stuck on initializing due to a visual glitch. This means the update may still be downloading, but the client may show the update progress bar as stuck at initializing. Therefore, it's imperative to confirm that first:
@@ -63,18 +45,20 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
 2. See if the Battle.net desktop client is consuming any network resources in the Task Manager.  
 ![Checking Battle.net's Network Resource Consumption in Task Manager on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/1-checking-battle-net-s-network-resource-consumption-in-task-manager-on-windows.jpg)
 3. Then, open the folder where the game was installed.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Check the overall size of the WoW folder after ten minutes and note down the size of the game files.
 
  The growing folder size and consumption of network resources in Task Manager indicate the client is downloading the update. So, the update stuck on initializing in the Battle.net desktop client is just a visual glitch.
 
  However, if the progress bar is really stuck on initializing, it's time to perform some fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Delete the Battle.net Client Cache
 
  The Battle.net desktop client also caches some data for the quick execution of processes, just like any other software. Occasionally, these files and folders can pile up, become corrupt, or go missing, causing problems with either the client or installed games.
@@ -88,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
 4. Delete the**Cache** folder.  
 ![Deleting Battle.net Cache on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/deleting-battle-net-cache-on-windows.jpg)
 5. Restart your device and try downloading the update again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Rule Out Internet Issues
 
@@ -103,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
 
  If the internet is not the cause of the problem, move on to the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Put an End to Other Processes
 
  Have you got any resource-hogging programs running on your computer that might be eating your network resources or bogging down your bandwidth? If so, they may be causing the WoW update to hang when it attempts to initialize.
@@ -111,12 +109,6 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
 
  Once you have disabled them, run the update again to see if it succeeds.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Whitelist Battle.net in Your Firewall
 
 ![disable enable defender firewall smartscreen](https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0d4d3a83638bfcc50c7ba407.jpg)
@@ -126,11 +118,12 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
  To ensure the Battle.net connection isn't halted for the same reason, you should whitelist the client in Microsoft Defender. Have you never done that before? We have a guide on[how to whitelist apps in Windows Defender](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) . Additionally, if you're running an antivirus program, turn it off.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Enjoy Playing World of Warcraft Again
 
  A stuck update can really ruin your plans for a chill gaming night. Hopefully, with the fixes mentioned in this article, you can successfully fix and complete the stuck update. If none of the fixes work, you'll have to reinstall the Battle.net desktop client from scratch and reinstall World of Warcraft.
@@ -141,8 +134,6 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +141,20 @@ thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-quick-fixes-how-to-shorten-youtube-videos-easily/"><u>[Updated] In 2024, Quick Fixes How to Shorten YouTube Videos Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-windows-display-by-removing-overscan-effects/"><u>Enhance Windows Display by Removing Overscan Effects</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-narzo-n55-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Realme Narzo N55 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-microsoft-edge-application-errors-on-windows-systems/"><u>How to Resolve Microsoft Edge Application Errors on Windows Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-trim-video-in-windows-11-photos-easily-for-2024/"><u>How to Trim Video in Windows 11 Photos Easily for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mac-trick-tutorial-customizing-folder-colors-with-ease/"><u>Mac Trick Tutorial: Customizing Folder Colors with Ease</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-in-2024-how-to-add-and-custom-slack-emoji-wondershare-filmora/"><u>New In 2024, How to Add and Custom Slack Emoji-Wondershare Filmora</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-subsystem-best-practices-for-wsl-2-users/"><u>Optimizing Subsystem: Best Practices for WSL 2 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-tips-disable-win-11-mobility-hub/"><u>Quick Tips: Disable Win 11 Mobility Hub</u></a></li>
+<li><a href="https://windows11.techidaily.com/transitioning-from-ios-to-a-pc-a-complete-guide-to-imessage/"><u>Transitioning From iOS to a PC: A Complete Guide to iMessage</u></a></li>
+<li><a href="https://windows11.techidaily.com/transitioning-from-iphones-calendar-to-windows-smoothly/"><u>Transitioning From iPhone's Calendar to Windows Smoothly</u></a></li>
+<li><a href="https://windows11.techidaily.com/unified-app-closure-master-the-multiplex-task-management/"><u>Unified App Closure: Master the Multiplex Task Management</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/hed-vids-rediscovered-the-ultimate-guide-to-old-youtube-videos/"><u>Vanished Vids Rediscovered The Ultimate Guide to Old YouTube Videos</u></a></li>
+</ul></div>
 

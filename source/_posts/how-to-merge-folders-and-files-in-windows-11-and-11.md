@@ -1,7 +1,7 @@
 ---
 title: How to Merge Folders and Files in Windows 11 and 11
-date: 2024-09-09T11:58:17.930Z
-updated: 2024-09-10T11:58:17.930Z
+date: 2024-10-06T19:44:20.231Z
+updated: 2024-10-13T02:59:47.368Z
 tags:
   - windows10
   - windows11
@@ -14,18 +14,6 @@ keywords: Merging Windows Folders,File & Folder Integration W11,Windows 11 Merge
 thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050db781f6bcdf9e50e7619aa67.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Merge Folders and Files in Windows 11 and 11
 
  Folder merging in Windows is an excellent file management idea to organize folders with similar files into one big folder. This helps avoid clutter and offers everything in one place, thus making it easier to find what you are looking for.
@@ -34,28 +22,10 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
  Here we show you the best ways to merge folders on a Windows 10 and 11 system. It includes the convenient File Explorer merge option, a PowerShell script hack and third-party tools to merge folders.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Merge Folders Using File Explorer
 
 ![confirm folder replace merge folder file explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/confirm-folder-replace-merge-folder-file-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  File Explorer will detect and prompt you to merge the folder when you try to move a folder with a name identical to an existing folder at the same level.
 
  For example, if you have an**XYZ** folder in**D:\\Folders** and want to merge the**XYX** folder in the same level, all you have to do is rename the**XYX** folder as**XYZ** . When the**Confirm Folder Replace** prompt appears, click**Yes** .
@@ -64,12 +34,6 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
  Conversely, this can be a time-consuming process when you have to work with hundreds of folders at a time. A more efficient way to overcome this limitation is to use a PowerShell script hack to merge folders on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Merge Folders Using a PowerShell Script
 
  PowerShell is a powerful automation shell utility. You can learn the[essential PowerShell cmdlets](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) to automate everyday tasks with a script.
@@ -82,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 
 ![enable powershell to run local scripts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-powershell-to-run-local-scripts.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Press**Win + I** to open the**Settings** app.
 2. Next, open the**Privacy & security** tab in the left pane.
 3. Click on**For Developer** under the**Security section** .
@@ -93,17 +64,12 @@ thumbnail: https://thmb.techidaily.com/8dc40963abf93641fc12fb3ff0b8fa0a43902050d
 ![merge folders powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/merge-folders-powershell.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 1. Press the**Win** key and type**powershell** .
 2. Click on**Windows PowerShell** from the search results.
 3. Copy and paste the following script in the PowerShell window:  
@@ -149,15 +115,16 @@ foreach($file in $files){
 
 **Download** :[Folder Merger](https://2xdsoft.de.tl/Folder-Merger.htm) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. WinMerge
 
 ![winmerge file difference comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/winmerge-file-difference-comparison.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  WinMerge serves a different purpose than Folder Merger with a clean user interface. It is an open-source differencing and merger utility for Windows. A handy tool if you want to compare multiple text documents to find the differences. It can compare text-based documents, images, web pages, and more from a folder for differences and then perform a merge.
 
@@ -174,18 +141,22 @@ To compare and merge documents using WinMerge:
 
 **Download** :[WinMerge](https://winmerge.org/) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Best Apps to Merge Files and Folders on Windows
 
  Windows 11 can detect and prompt copied folders in the same level to be merged. However, if you need to work with multiple folders frequently, a PowerShell script or a GUI-based tool like Folder Merger makes the task much easier.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -194,4 +165,24 @@ To compare and merge documents using WinMerge:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-leading-audio-to-text-online-solutions/"><u>[Updated] In 2024, Leading Audio-to-Text Online Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-y27-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo Y27 4G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-clearer-path-to-organization-compact-explorer-setup/"><u>A Clearer Path to Organization: Compact Explorer Setup</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-latency-and-silence-in-valorants-voice-communication-windows/"><u>Fixing Latency and Silence in Valorant's Voice Communication (Windows)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-uncovering-personal-email-contact-details-with-ease/"><u>Guide: Uncovering Personal Email Contact Details with Ease</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-recording-to-broadcast-masterful-podcast-editing-with-garageband/"><u>In 2024, From Recording to Broadcast Masterful Podcast Editing with GarageBand</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-batch-filename-changes-with-powertoys/"><u>Mastering Batch-Filename Changes with PowerToys</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-a-stuck-discord-interface-element-on-your-system/"><u>Mending a Stuck Discord Interface Element on Your System</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-could-not-initialize-vm-error-on-pc/"><u>Overcome 'Could Not Initialize VM' Error on PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/realtek-80211bgn-wireless-network-card-driver-fresh-installation-file-windows/"><u>Realtek 802.11B/G/N Wireless Network Card Driver - Fresh Installation File (Windows)</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagining-taskbar-functionality-essential-upgrades-to-improve-microsofts-user-interface/"><u>Reimagining Taskbar Functionality: Essential Upgrades to Improve Microsoft's User Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-and-streamlined-drive-access-via-new-os-win11/"><u>Secure & Streamlined Drive Access via New OS (Win11)</u></a></li>
+<li><a href="https://solve-info.techidaily.com/simple-steps-transforming-dv-videos-into-avi-format-on-your-pc/"><u>Simple Steps: Transforming DV Videos Into AVI Format on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/sparkle-up-windows-11-for-the-festive-season/"><u>Sparkle Up Windows 11 for the Festive Season</u></a></li>
+<li><a href="https://windows11.techidaily.com/triggering-the-verification-toolset-for-win11-systems/"><u>Triggering the Verification Toolset for Win11 Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-logitech-m325-mouse-easy-downloads-available-here/"><u>Update Your Logitech M325 Mouse: Easy Downloads Available Here!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Ways to trade pokemon go from far away On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+</ul></div>
 

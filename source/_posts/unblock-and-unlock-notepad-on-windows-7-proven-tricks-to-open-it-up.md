@@ -1,7 +1,7 @@
 ---
 title: "Unblock and Unlock Notepad on Windows: 7 Proven Tricks to Open It Up"
-date: 2024-10-04T03:03:42.102Z
-updated: 2024-10-06T23:43:59.567Z
+date: 2024-10-10T03:08:43.080Z
+updated: 2024-10-13T00:10:47.666Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/2527931ff4c659441e41ccebfbfcddf054977d94a
 
  You could also ask Cortana to open Notepad. However, if none of these methods work, proceed to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Set Notepad as the Default Text Editor
 
  If Notepad is not set as the default text editor app on Windows, your text files may open in a different app. If you don't want that, use these steps to set Notepad as the default text editor app.
@@ -56,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/2527931ff4c659441e41ccebfbfcddf054977d94a
 ![Set Notepad as Default Text Editor App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/set-notepad-as-default-text-editor-app-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Try opening a few text files and see if they open in Notepad.
@@ -87,6 +80,13 @@ To repair the Notepad app on Windows:
 
  Windows will reset the Notepad app to its default version, which should resolve any issues with it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Reinstall the Notepad App
 
  You can also try uninstalling and reinstalling the Notepad app on your computer. To do so, you’ll need to access the[optional features on Windows](https://www.makeuseof.com/tag/windows-10-optional-features-guide/) . Here’s how you can go about it.
@@ -104,13 +104,20 @@ To repair the Notepad app on Windows:
 9. Click**Install** .  
 ![Install Notepad App on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/install-notepad-app-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for Windows to install Notepad on your computer and then try to open it using the search menu.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Run the SFC and DISM Scans
@@ -132,10 +139,10 @@ To run the SFC scan on Windows:
 ![DISM Scan in Windows Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/dism-scan-in-windows-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After the scan is complete, restart your PC and see if you can access Notepad.
@@ -162,13 +169,6 @@ To create a new user account on Windows:
 
  Once you sign in with your newly created account, Notepad should open without problems.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Start Using Notepad Again
 
  Hopefully, the solutions provided above have helped, and you’re able to use Notepad again. However, if none of the above solutions work, you can perform a system restore to undo any recent changes that may have caused the problem.
@@ -188,24 +188,20 @@ To create a new user account on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-step-by-step-guide-to-mastering-slug-line-crafting/"><u>[New] 2024 Approved Step-by-Step Guide to Mastering Slug Line Crafting</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-rapid-revision-windows-protocol-uncovered/"><u>[Updated] Rapid Revision Windows Protocol Uncovered</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-unlock-the-secret-to-insta-cash-with-our-guidebook/"><u>2024 Approved Unlock the Secret to Insta Cash with Our Guidebook</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversion-en-ligne-gratuite-convertir-un-mp3-en-fichier-3g2-avec-movavi/"><u>Conversion en Ligne Gratuite: Convertir Un MP3 en Fichier 3G2 Avec Movavi</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/harness-the-cooling-power-of-silverstones-newest-creation-the-aio-genius-dual-cpu-edition-xe360-dual/"><u>Harness the Cooling Power of SilverStone’s Newest Creation, The AIO Genius: Dual-CPU Edition - XE360-Dual</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-financial-projections-producing-a-music-video/"><u>In 2024, Financial Projections Producing a Music Video</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pure-serenity-in-the-air-top-asmr-microphones-at-low-costs/"><u>In 2024, Pure Serenity in the Air - Top ASMR Microphones at Low Costs</u></a></li>
-<li><a href="https://windows11.techidaily.com/managing-excessive-cpu-consumption-by-dropbox-on-windows/"><u>Managing Excessive CPU Consumption by Dropbox on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-in-game-network-links-in-windows-mc/"><u>Mastering In-Game Network Links in Windows MC</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-zero-cost-video-watermarking-top-5-software-choices/"><u>New 2024 Approved Zero-Cost Video Watermarking Top 5 Software Choices</u></a></li>
-<li><a href="https://windows11.techidaily.com/prioritize-your-pcs-protection-with-these-downloads/"><u>Prioritize Your PC's Protection with These Downloads</u></a></li>
-<li><a href="https://windows11.techidaily.com/reimagine-windows-interface-a-journey-to-larger-icons/"><u>Reimagine Windows Interface: A Journey to Larger Icons</u></a></li>
-<li><a href="https://windows11.techidaily.com/showing-d-drive-directories-in-explorer-view/"><u>Showing D: Drive Directories in Explorer View</u></a></li>
-<li><a href="https://extra-information.techidaily.com/speedy-insights-modifying-videos-in-instagram-stories/"><u>Speedy Insights Modifying Videos in Instagram Stories</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-enabling-dark-display-on-calc-app/"><u>Step by Step: Enabling Dark Display on Calc App</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-fixing-driver-not-responding-in-windows-11/"><u>Steps for Fixing 'Driver Not Responding' In Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-overcome-java-virtual-machine-error-on-pcs/"><u>Steps to Overcome Java Virtual Machine Error on PCs</u></a></li>
-<li><a href="https://app-tips.techidaily.com/top-no-cost-ios-radio-application-best-choice-for-iphone-ipad-and-ipod-touch/"><u>Top No-Cost iOS Radio Application: Best Choice for iPhone, iPad & iPod Touch</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-and-tailoring-your-systems-startups-in-windows-11/"><u>Understanding and Tailoring Your System's Startups in Windows 11</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-cut-to-impact-in-depth-youtube-video-editing-mastery/"><u>[New] In 2024, Cut to Impact In-Depth Youtube Video Editing Mastery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unleash-the-power-of-subtitling-an-online-tool-compendium-for-2024/"><u>[New] Unleash the Power of Subtitling An Online Tool Compendium for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-ballot-bonanza-5-best-political-game-line-ups/"><u>[Updated] 2024 Approved Ballot Bonanza 5 Best Political Game Line-Ups</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-cutting-edge-studio-lights-for-online-filmmakers/"><u>[Updated] Cutting-Edge Studio Lights for Online Filmmakers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-on-air-innovations-code-or-circuitry-prevails/"><u>2024 Approved On-Air Innovations Code or Circuitry Prevails?</u></a></li>
+<li><a href="https://windows11.techidaily.com/6-ways-to-recover-an-off-screen-window-in-windows-10-and-11/"><u>6 Ways to Recover an Off-Screen Window in Windows 10 and 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/download-adobe-reader-seamlessly-with-microsoft-store/"><u>Download Adobe Reader Seamlessly with Microsoft Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-video-lag-during-steam-livestreams/"><u>Overcoming Video Lag During Steam Livestreams</u></a></li>
+<li><a href="https://win-special.techidaily.com/premier-selection-of-greeting-cards-perfect-for-honoring-your-mom-on-her-special-day/"><u>Premier Selection of Greeting Cards Perfect for Honoring Your Mom on Her Special Day</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-8-different-ways-to-restart-your-windows-computer/"><u>The 8 Different Ways to Restart Your Windows Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-silent-sounds-on-windows-devices/"><u>Troubleshooting Silent Sounds on Windows Devices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-canon-mp560-drivers-step-by-step-tutorial-for-a-smooth-process/"><u>Update Your Canon MP560 Drivers - Step-by-Step Tutorial for a Smooth Process</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-right-click-customization-compatibility-tool-inclusion/"><u>Windows Right-Click Customization: Compatibility Tool Inclusion</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/essentials-top-ten-web-channels-for-exercise/"><u>Yogi Essentials Top Ten Web Channels for Exercise</u></a></li>
 </ul></div>
 

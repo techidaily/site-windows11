@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Uninstalling and Reinstalling on Windows 11
-date: 2024-10-05T03:38:10.226Z
-updated: 2024-10-07T10:21:32.440Z
+date: 2024-10-12T02:07:08.196Z
+updated: 2024-10-13T01:43:55.192Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
  Confirm you want to reset the app by clicking**Reset** again in the pop-up.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Reset an App on Windows 10
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 ![the apps and features screen in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/apps-features-windows-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Find the app you want to reset from the list of installed apps and click on it. Then, click the**Advanced options** link that appears below the name of the app.
@@ -68,19 +68,19 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 ![the alarm clock advanced options in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/alarm-clock-windows-10-advanced-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You will find the button to reset the app in the**Reset** section of its advanced settings, and you should click it. Finally, confirm that this is what you want to do by clicking**Reset** in the pop-up as well.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Windows Apps Just Need a Reset Sometimes
@@ -104,21 +104,24 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-making-a-statement-standout-content-via-fb-slideshows/"><u>[New] 2024 Approved Making a Statement Standout Content via FB Slideshows</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-wholesale-sky-shelves-economic-bulk-data-holder/"><u>[New] 2024 Approved Wholesale Sky Shelves Economic Bulk Data Holder</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-from-zero-to-hero-establishing-a-new-social-media-presence-facebook/"><u>[Updated] From Zero to Hero Establishing a New Social Media Presence (Facebook)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-simplified-techniques-for-using-the-io-screener/"><u>[Updated] Simplified Techniques for Using the IO Screener</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoiding-winerror-740-easy-to-follow-tips-for-windows-users/"><u>Avoiding WinError 740: Easy-to-Follow Tips for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-hp-laserjet-pro-mfp-m127fn-printer-drivers-free-and-easy/"><u>Download HP LaserJet Pro MFP M127FN Printer Drivers - Free and Easy</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-maximize-your-zoom-experience-with-top-three-strategies/"><u>In 2024, Maximize Your Zoom Experience with Top Three Strategies</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-auto-delete-for-windows-11-files-a-step-by-step-guide/"><u>Mastering Auto-Delete for Windows 11 Files: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-windows-11-interface-for-personalized-faxes/"><u>Mastering the Windows 11 Interface for Personalized Faxes</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-store-faults-error-x80072f17-guidance/"><u>Navigating Windows Store Faults: Error X80072F17 Guidance</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-security-adjusting-lockout-count-after-failed-attempts/"><u>Optimizing Security: Adjusting Lockout Count After Failed Attempts</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-effective-reversion-with-windows-system-restore/"><u>Steps for Effective Reversion with Windows' System Restore</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/transformar-archivo-audiovideo-desde-mp4-a-wav-directamente-en-tu-pc-herramienta-libre-de-movavi/"><u>Transformar Archivo Audio/Video Desde MP4 a WAV Directamente en Tu PC: Herramienta Libre De Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-windows-xp-potential-without-the-compatibility-tool/"><u>Unlock Windows XP Potential Without the Compatibility Tool</u></a></li>
-<li><a href="https://windows11.techidaily.com/winget-a-guide-to-managing-packages-in-windows-11/"><u>Winget: A Guide to Managing Packages in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/vhsdvdblu-ray/"><u>ヤマダ電機の変換サービス：VHSやDVDを高画質Blu-Rayに簡単に移行する方法と価格？（手順、料金、お得なヒント）</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-bridging-the-gap-understanding-and-using-slug-lines/"><u>2024 Approved Bridging the Gap Understanding & Using Slug Lines</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-guide-capturing-time-lapses-on-samsung-devices/"><u>2024 Approved Quick Guide Capturing Time-Lapses on Samsung Devices</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-quick-skill-enhancing-images-in-windows-11/"><u>2024 Approved Quick Skill Enhancing Images in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-up-blank-login-issues-on-win1011-pcs/"><u>Clearing Up Blank Login Issues on WIN10/11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-strategies-for-effortless-integration-of-directories-win-11/"><u>Expert Strategies for Effortless Integration of Directories, Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fast-factor-essential-steps-for-assessing-lan-router-speed/"><u>Fast Factor: Essential Steps for Assessing LAN Router Speed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-11-pro-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 11 Pro When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-terminal-personalize-colors-and-style/"><u>Mastering Terminal: Personalize Colors & Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximize-your-taskbar-attaching-items-in-windows-11/"><u>Maximize Your Taskbar: Attaching Items in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-system-shutdown-alerts-due-to-roblox-glitches/"><u>Overcoming System Shutdown Alerts Due to Roblox Glitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-non-existent-device-alerts-on-windows-1011/"><u>Resolving Non-Existent Device Alerts on Windows 10/11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-printing-upgrade-to-the-latest-hp-drivers-for-win10/"><u>Streamlined Printing: Upgrade to the Latest HP Drivers for WIN10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transforma-gratis-archivos-mpeg-en-mjpeg-en-linea-usando-herramientas-de-movavi/"><u>Transforma Gratis Archivos MPEG en MJPEG en Línea Usando Herramientas De Movavi</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/unleash-your-inner-videographer-with-these-4-methods-on-xbox-for-2024/"><u>Unleash Your Inner Videographer with These 4 Methods on Xbox for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-mac-users-learn-how-to-download-and-install-kinemaster/"><u>Updated 2024 Approved Mac Users Learn How to Download and Install KineMaster</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/why-cant-i-open-photos-following-repair/"><u>Why Can't I Open Photos Following Repair?</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-upcoming-moment-anticipated-new-features/"><u>Windows 11'S Upcoming Moment: Anticipated New Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/winrars-corrected-compression-overcoming-sum-errors/"><u>WinRAR's Corrected Compression: Overcoming Sum Errors</u></a></li>
 </ul></div>
 

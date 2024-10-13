@@ -1,7 +1,7 @@
 ---
 title: "Windows Writers' Choice: Best Sticky Note Software Alternatives"
-date: 2024-09-30T22:16:38.218Z
-updated: 2024-10-06T23:08:19.455Z
+date: 2024-10-05T22:13:47.936Z
+updated: 2024-10-12T16:10:21.335Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 
 ![stickies app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/stickies-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The goal of a note-taking app is to simplify and not clutter. As such, an app with a clean, minimalist design is a perfect fit for the job, which will help you stay focused on your tasks.
 
  The Stickies app fits this bill perfectly. The app is compact, doesn't take up much space, and neatly organizes your important tasks or ideas for later reflection. Best of all, it's available for free on the creator's website.
@@ -46,15 +53,22 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 ![sticky notes for windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/sticky-notes-for-windows.PNG)
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  No list of note-taking apps will be complete without the original Sticky Notes. The app has been going strong since its release back in 2002, with its last update on August 7, 2019\. If nothing else, you won't have to worry about stability, that's for sure.
 
 ![sticky notes app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/sticky-notes-app.png)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Some apps are designed with a specific use case in mind. There are, for example, [special note-taking apps intended specifically for programmers](https://www.makeuseof.com/tag/best-note-taking-tools-programmers/). Similarly, Sticky Notes is your go-to option for a note-taking app if you're more of a creative person.
 
@@ -98,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 
 **Download:**[7 Sticky Notes](http://www.7stickynotes.com/download.php) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Hott Notes
 
  This is probably the best all-around sticky note app for the desktop. It's simpler to set up than 7 Sticky Notes, while offering humorous commentary as you install it.
@@ -114,13 +121,6 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
  It also has global hotkeys that allow you to start a note from anywhere, and it allows you to customize what double-clicking the icon in the notification tray will do. That's a small tweak, but super helpful.
 
 ![hott notes set up](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/09/hott-notes--set-up-1.PNG)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once it's all set up, the layout is similar to 7 Sticky Notes, with a small editing box that appears next to each note when you want to customize it. Similarly, you can edit the font, the color of the note, and set an alarm. Not as full-featured as 7 Sticky Notes, but presented in a less cluttered way.
 
@@ -135,10 +135,10 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 **Download:**[Hott Notes](http://www.hottnotes.com/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 6\. Sticky Notes 8
@@ -147,22 +147,29 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 
 ![sticky-notes-8-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/sticky-notes-8-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Ads are displayed within this free app (that is what the gray note above is), but they can be removed for $1.50\. Since ads can be moved out of the way, and you can even place other notes over top of them, they're not such a big deal.
 
  The Live Tiles that display a given note come in three sizes: small, medium, and wide. The wide view is shown below, while the medium is about half that and really can't show much text. The small view is even worse, not displaying any text at all. You'll definitely want to go for the wide, and even then, keep your notes brief.
 
 ![sticky-notes-8-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/sticky-notes-8-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The biggest standout feature here is built-in syncing with OneDrive (which is a fantastic app for backing up everything on Windows 8). If you want to ensure that your sticky notes are backed up, this is the solution for you.
 
 **Download:**[Sticky Notes 8](http://www.microsoft.com/en-gb/p/sticky-notes-8/9wzdncrfhww9) (Free)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. Sticky Tiles
 
@@ -171,10 +178,10 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 ![sticky-tiles-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/sticky-tiles-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you open the app, you're immediately prompted to give a title and information for the Live Tile, choose the color, choose the style, and then pin it. It has the same three sizes as the others—small, medium, and wide—and you'll run into the same problem of limited space for text here.
@@ -186,10 +193,16 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 ![sticky-tiles-3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/09/sticky-tiles-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It's not great for those who want to juggle dozens of notes, but for keeping a single pertinent note on your Start Screen, it's probably your best bet for a sticky notes app.
@@ -199,13 +212,6 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 ## 8\. StickyPad
 
 ![sticky notes interface on stickypad app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/stickypad-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  StickyPad is one of the [best lightweight note-taking apps](https://www.makeuseof.com/note-taking-apps-link-ideas-together/) for Windows users looking for something minimal yet powerful enough to get their note-taking activities out of the way.
 
@@ -233,22 +239,20 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-how-to-react-if-your-live-video-is-quashed-on-facebook/"><u>[New] In 2024, How to React if Your Live Video Is Quashed on Facebook</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-free-professional-youtuber-backgrounds-for-2024/"><u>[Updated] Free Professional YouTuber Backgrounds for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-best-mac-screen-clips-roundup-under-156-chars/"><u>[Updated] In 2024, Best Mac Screen Clips Roundup (Under 156 Chars)</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-ultimate-review-updated-lg-360-camera-specs-and-usage/"><u>[Updated] In 2024, The Ultimate Review Updated LG 360 Camera Specs & Usage</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-ultimate-guide-to-quality-captures/"><u>[Updated] In 2024, Ultimate Guide to Quality Captures</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-honor-80-pro-straight-screen-edition-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Honor 80 Pro Straight Screen Edition Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/iently-downloading-youtube-sections-in-minutes/"><u>Efficiently Downloading YouTube Sections in Minutes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evolve-your-career-with-these-6-techniques-in-an-ai-enhanced-work-environment/"><u>Evolve Your Career with These 6 Techniques in an AI-Enhanced Work Environment</u></a></li>
-<li><a href="https://windows11.techidaily.com/file-location-enthusiasts-guide-unlocking-win11s-best-practices-6-techniques/"><u>File Location Enthusiast's Guide: Unlocking Win11's Best Practices (6 Techniques)</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-audio-failures-in-windows-11-and-11-error-code-0xc00d36b4/"><u>Fixing Audio Failures in Windows 11 & 11 Error Code 0xC00D36B4</u></a></li>
-<li><a href="https://windows11.techidaily.com/improve-visual-quality-with-enhanced-scaling-on-windows-11/"><u>Improve Visual Quality with Enhanced Scaling on Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-integrating-timestamps-into-your-images/"><u>In 2024, Integrating Timestamps Into Your Images</u></a></li>
-<li><a href="https://windows11.techidaily.com/jumpstart-your-pc-activate-classic-windows-photo-viewer-on-win11/"><u>Jumpstart Your PC: Activate Classic Windows Photo Viewer on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/key-solutions-to-unlock-windows-firewall-access/"><u>Key Solutions to Unlock Windows Firewall Access</u></a></li>
-<li><a href="https://windows11.techidaily.com/mending-nvidia-display-settings-unavailability-issue/"><u>Mending Nvidia Display Settings Unavailability Issue</u></a></li>
-<li><a href="https://windows11.techidaily.com/secure-savings-on-windows-11-pro-upgrade-offers/"><u>Secure Savings on Windows 11 Pro Upgrade Offers</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-for-stalled-file-downloads-on-windows-11-and-11/"><u>Solutions for Stalled File Downloads on Windows 11 & 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mov-storage-solutions-maximizing-capacity-on-windows-for-2024/"><u>[Updated] .mov Storage Solutions Maximizing Capacity on Windows for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-turn-the-clock-back-reverse-video-mastery-in-instagram/"><u>[Updated] 2024 Approved Turn the Clock Back Reverse Video Mastery in Instagram</u></a></li>
+<li><a href="https://windows11.techidaily.com/activate-virtualization-your-step-by-step-guide-for-win-11-homes/"><u>Activate Virtualization: Your Step by Step Guide for Win 11 Homes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-amazonbasics-television-aerial-assessment-cost-effective-channel-access/"><u>Affordable AmazonBasics Television Aerial Assessment - Cost-Effective Channel Access</u></a></li>
+<li><a href="https://windows11.techidaily.com/brushstrokes-begin-accessing-microsoft-paint-in-windows-11/"><u>Brushstrokes Begin: Accessing Microsoft Paint in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/decreasing-cpu-and-ram-usage-tackling-unrealcefsubprocess-issues/"><u>Decreasing CPU and RAM Usage: Tackling UnrealCEFSubprocess Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensure-smooth-os-operation-autoupdate-and-change-amd-drivers/"><u>Ensure Smooth OS Operation: Autoupdate & Change AMD Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-strategies-for-overcoming-windows-error-code-0x80040610/"><u>Essential Strategies for Overcoming Windows Error Code 0X80040610</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-technology-gadgets-all-students-must-have-for-academic-success/"><u>Essential Technology Gadgets All Students Must Have for Academic Success</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-muted-audio-recordings-in-obs-studio-on-windows-11-pcs/"><u>How to Fix Muted Audio Recordings in OBS Studio on Windows 11 PCs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/ideal-choice-best-free-reliable-mac-screenshot-tools/"><u>Ideal Choice Best Free, Reliable Mac Screenshot Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-simplified-mac-solution-audioplusscreen-capture/"><u>In 2024, Simplified Mac Solution Audio+Screen Capture</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/protect-dont-obstruct-one-antivirus-is-enough-in-windows/"><u>Protect, Don’t Obstruct: One Antivirus Is Enough in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-failed-jvm-launch-windows-guide/"><u>Remedying Failed JVM Launch: Windows Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oppo-reno-10-pro-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Oppo Reno 10 Pro 5G</u></a></li>
 </ul></div>
 

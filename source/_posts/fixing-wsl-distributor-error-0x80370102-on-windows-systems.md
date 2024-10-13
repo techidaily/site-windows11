@@ -1,7 +1,7 @@
 ---
 title: Fixing WSL Distributor Error 0X80370102 on Windows Systems
-date: 2024-10-02T23:04:49.946Z
-updated: 2024-10-07T05:03:55.762Z
+date: 2024-10-06T00:45:57.827Z
+updated: 2024-10-12T20:26:20.305Z
 tags:
   - windows10
   - windows11
@@ -48,6 +48,13 @@ Here is how you can enable Hyper-V on your PC:
 ![Choose Programs and Features in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/program-and-features.jpg)
 3. Click on**Turn Windows Feature on or off** in the left pane.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn Windows features on or off option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-windows-features-on-or-off.jpg)
 4. In the following dialog, checkmark the box associated with**Hyper-V** and click**OK** .  
 ![Enable Hyper-V in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hyper-v-setting.jpg)
@@ -60,23 +67,9 @@ Here is how you can enable Hyper-V on your PC:
 ![More details option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/task-manager-more-details.jpg)
 3. Head over to the**Performance** tab and click on CPU.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Under the CPU graph on the right side, check the status for**Virtualization** . In case you are not sure if your PC supports virtualization, view the Hyper-V support section in the same window. If it says Yes, then it implies that you can make use of hardware virtualization on your computer.  
 ![Virtualization in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/virtualization-setting.jpg)
 5. Alternatively, open Run by pressing the**Win + R** keys together.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Type cmd in the text field and press**Ctrl + Shift + Enter** to open Command Prompt as admin.
 7. Click**Yes** in the User Account Control Prompt.
@@ -84,26 +77,13 @@ Here is how you can enable Hyper-V on your PC:
 9. Wait for the command to execute, and then head over to the**Hyper-V requirements** section. You should be able to see if the Virtualization is enabled from there.  
 ![Check Hyper-V requirements in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hyper-v-requirements.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the service is disabled,[enabling the Hyper-V technology on Windows](https://www.makeuseof.com/windows-11-enable-hyper-v/) should fix the problem for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Restart the LxssManager Service
@@ -122,14 +102,27 @@ Here is how you can do that:
 5. Now, click on the**Stop** button, wait for a few seconds, and then hit**Start** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Click on the Start button in the Properties dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/stop-button.jpg)
 6. Once the service is restarted, check if the issue is resolved.
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Enable Nested Virtualization and Change the RAM Settings
 
@@ -149,6 +142,13 @@ Set-VMProcessor <VMName> -ExposeVirtualizationExtensions $true
 7. Now, increase the Startup RAM value by double and uncheck the box for**Enable Dynamic Memory** .  
 ![Modify the memory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/configure-hyper-v-dynamic-memory.jpg)
 8. Click**Apply** \>**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 9. Now, right-click on your virtual machine again and choose**Connect** .
 10. Let the system restart and try installing/running Ubuntu again.
@@ -172,18 +172,20 @@ Set-VMProcessor <VMName> -ExposeVirtualizationExtensions $true
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-top-10-youtube-seo-strategies-for-enhanced-video-popularity/"><u>[New] In 2024, Top 10 YouTube SEO Strategies for Enhanced Video Popularity</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/1715860016781-updated-essential-offline-ios-game-list-unplugged-fun-awaits/"><u>[Updated] Essential Offline iOS Game List - Unplugged Fun Awaits!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-analysis-of-powerdirector-2024-full-review-and-tutorial/"><u>[Updated] Expert Analysis of PowerDirector 2024 - Full Review & Tutorial</u></a></li>
-<li><a href="https://win-blog.techidaily.com/convert-aac-files-to-mpeg-for-free-using-our-web-based-tool-movavi/"><u>Convert AAC Files to MPEG for Free Using Our Web-Based Tool - Movavi</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-boosting-productivity-with-zoom-and-a-chromebook/"><u>In 2024, Boosting Productivity with Zoom and a Chromebook</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-cutting-down-the-wait-quick-time-lapse-on-iphone/"><u>In 2024, Cutting Down the Wait Quick Time-Lapse on iPhone</u></a></li>
-<li><a href="https://windows11.techidaily.com/masterclass-combating-the-winscomrssvc-error-in-windows/"><u>Masterclass: Combating the WinscomrsSvc Error in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-portable-internet-access-via-windows-11/"><u>Mastering the Art of Portable Internet Access via Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-disk-space-clear-temporary-windows-files-now/"><u>Optimize Disk Space: Clear Temporary Windows Files Now</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-out-of-space-on-windows/"><u>Overcoming Out Of Space On Windows</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unleash-your-apple-tvs-hidden-gaming-potential-transform-it-into-a-classic-game-machine/"><u>Unleash Your Apple TV's Hidden Gaming Potential: Transform It Into a Classic Game Machine!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-13-pro-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking Apple iPhone 13 Pro Passcode without a Computer</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-the-core-of-computer-configurations/"><u>Unlocking the Core of Computer Configurations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-deep-dive-into-the-core-functionalities-of-zdsoft-for-2024/"><u>[New] Deep Dive Into the Core Functionalities of ZDSoft for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-beyond-popularity-metrics-understanding-trillers-distinct-features/"><u>2024 Approved Beyond Popularity Metrics Understanding Triller's Distinct Features</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-how-to-remove-red-eye-from-photos-on-iphone-free/"><u>2024 Approved How to Remove Red Eye From Photos on iPhone [Free]</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/archival-artwork-creative-commons-haven/"><u>Archival Artwork Creative Commons Haven</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-fixing-high-resource-usage-by-service-host-on-win10-pcs/"><u>Comprehensive Guide to Fixing High Resource Usage by Service Host on Win10 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-windows-extract-error-1152-quickly/"><u>Eliminating Windows Extract Error 1152 Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/fast-track-installation-of-ms-office-works-on-w11/"><u>Fast-Track Installation of MS Office Works on W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correct-ipadiphone-images-not-displaying-in-windows-11-environment/"><u>How to Correct iPad/iPhone Images Not Displaying in Windows 11 Environment</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-a-lost-apple-iphone-13-mini-for-free-drfone-by-drfone-virtual-ios/"><u>How to Track a Lost Apple iPhone 13 mini for Free? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/initiating-printer-commands-via-edge-defender-smartscreen/"><u>Initiating Printer Commands via Edge Defender SmartScreen</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-directx-12-without-onboard-graphics/"><u>Navigating Through DirectX 12 Without Onboard Graphics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/realize-creative-possibilities-with-openais-api-excellence/"><u>Realize Creative Possibilities with OpenAI's API Excellence</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-inserting-animated-gifs-into-instagram-replies/"><u>Step-by-Step Tutorial: Inserting Animated GIFs Into Instagram Replies</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-overcome-run-as-command-issues/"><u>Strategies to Overcome 'Run As' Command Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/wsappx-overview-strategies-for-minimizing-system-resource-drainage-on-your-computer/"><u>WSAPPX Overview: Strategies for Minimizing System Resource Drainage on Your Computer</u></a></li>
 </ul></div>
 

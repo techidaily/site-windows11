@@ -1,7 +1,7 @@
 ---
 title: Navigating Without PowerShell on Windows System
-date: 2024-09-24T16:59:04.665Z
-updated: 2024-10-01T17:40:53.542Z
+date: 2024-10-07T02:19:04.437Z
+updated: 2024-10-13T02:38:16.071Z
 tags:
   - windows10
   - windows11
@@ -47,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 
 ![Open PowerShell via Run Command on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Open-PowerShell-via-Run-Command-on-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also open PowerShell from the File Explorer address bar. To do so, press**Win + E** to open File Explorer. Type**PowerShell** in the address bar and press**Enter** .
 
 ## 3\. Create a Desktop Shortcut for PowerShell
@@ -70,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
  You can then use the newly created desktop shortcut to launch PowerShell. For added convenience, you can assign a keyboard shortcut to PowerShell. To learn more about this, check our guide on[how to assign keyboard shortcuts to programs in Windows](https://www.makeuseof.com/windows-keyboard-shortcuts-programs/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Scan Your Computer for Corrupted System Files
@@ -98,16 +91,10 @@ To run the SFC scan on Windows:
 ![DISM Scan Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/DISM-Scan-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for the command to execute successfully, and then restart your PC. Following that, see if Windows can find PowerShell on your computer.
@@ -142,13 +129,20 @@ To create a new user account on Windows, use these steps.
 5. Click on **I don't have this person's sign-in information** and follow the on-screen prompts to create a new user account.  
 ![Microsoft Account Sign-In](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Microsoft-Account-Sign-In.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Sign in with your newly created account, and see if Windows can find PowerShell now.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Access Windows PowerShell Again
@@ -172,24 +166,18 @@ To create a new user account on Windows, use these steps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elite-recording-tools-for-gamers/"><u>[New] 2024 Approved Elite Recording Tools for Gamers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-2023-insights-into-snipping-those-facebook-live-moments/"><u>[New] In 2024, 2023 Insights Into Snipping Those Facebook Live Moments</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-windows-11-a-features-showcase/"><u>[Updated] Windows 11 A Features Showcase</u></a></li>
-<li><a href="https://windows11.techidaily.com/1720600438278-windowsstellar-data-recovery/"><u>「Windowsで失われたファイルを取り戻せる無料ソフトStellar Data Recovery」</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-poco-x5-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Poco X5 Pro by Name | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-razer-device-absence-in-win-1011-via-synapse/"><u>Addressing Razer Device Absence in Win 10/11 via Synapse</u></a></li>
-<li><a href="https://techidaily.com/diagnosing-lag-problems-understanding-the-reason-behind-fps-drops-and-stutters-during-your-diablo-4-adventure/"><u>Diagnosing Lag Problems - Understanding the Reason Behind FPS Drops and Stutters During Your Diablo 4 Adventure</u></a></li>
-<li><a href="https://windows11.techidaily.com/discovering-the-path-into-windows-11-insider-group/"><u>Discovering the Path Into Windows 11 Insider Group</u></a></li>
-<li><a href="https://windows11.techidaily.com/ftdibussys-and-windows-exploring-the-memory-integrity-dilemshift/"><u>Ftdibus.sys and Windows: Exploring the Memory Integrity Dilemshift</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-asana-not-working-on-windows/"><u>How to Fix Asana Not Working on Windows</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-best-macpc-screenshot-toolkit-for-desktops/"><u>In 2024, Best MacPC Screenshot Toolkit for Desktops</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-infinix-hot-40-pro-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Infinix Hot 40 Pro</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/nullify-specification-shortfalls-alerts-in-win11/"><u>Nullify Specification Shortfalls Alerts in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-failed-capture-issue-in-win11-photoapp/"><u>Overcoming 'Failed Capture' Issue in Win11 PhotoApp</u></a></li>
-<li><a href="https://extra-support.techidaily.com/stealthy-techniques-to-skip-online-classroom-vids-for-2024/"><u>Stealthy Techniques to Skip Online Classroom Vids for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-guide-folder-menu-enhancement-with-new-commands-win-11/"><u>Step-by-Step Guide: Folder Menu Enhancement with New Commands (Win 11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-your-screen-without-pin-in-windows-11/"><u>Unlock Your Screen Without PIN in Window's 11</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unlocking-comfort-in-gaming-the-complete-breakdown-of-mavix-m9-chair-experience/"><u>Unlocking Comfort in Gaming: The Complete Breakdown of Mavix M9 Chair Experience</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-hassle-free-techniques-for-igtv-on-stories/"><u>[New] Hassle-Free Techniques for IGTV on Stories</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-flash-flick-narrative-template-for-2024/"><u>[Updated] Flash Flick Narrative Template for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypass-windows-folder-permission-snags-swiftly/"><u>Bypass Windows Folder Permission Snags Swiftly</u></a></li>
+<li><a href="https://windows11.techidaily.com/calendar-setup-made-simple-windows-11-edition/"><u>Calendar Setup Made Simple: Windows 11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-idle-computing-with-auto-sleep-in-w10w11/"><u>Conquering Idle Computing with Auto Sleep in W10/W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/curbing-high-cpu-utilization-by-tiworkerexe-programs/"><u>Curbing High CPU Utilization by TiWorker.exe Programs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-iphone-6-plus-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on iPhone 6 Plus online without jailbreak</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-achieving-youtube-apex-with-smart-management-tools/"><u>In 2024, Achieving YouTube Apex with Smart Management Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-realme-narzo-n53-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Realme Narzo N53?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-tips-for-clearer-audio-in-home-based-podcasts/"><u>In 2024, Tips for Clearer Audio in Home-Based Podcasts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stop-screen-tremors-solving-acer-display-issues/"><u>Stop Screen Tremors: Solving Acer Display Issues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-ranked-video-grabber-apps-for-hd-movie-downloads-on-mobile-devices/"><u>Top-Ranked Video Grabber Apps for HD Movie Downloads on Mobile Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-secret-mac-folders-with-terminal-commands/"><u>Unlocking Secret Mac Folders with Terminal Commands</u></a></li>
 </ul></div>
 

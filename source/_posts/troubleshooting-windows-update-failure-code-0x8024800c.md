@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Windows Update Failure: Code 0X8024800C"
-date: 2024-09-09T11:58:18.316Z
-updated: 2024-09-10T11:58:18.316Z
+date: 2024-10-06T03:49:14.441Z
+updated: 2024-10-12T23:06:14.695Z
 tags:
   - windows10
   - windows11
@@ -32,12 +32,6 @@ thumbnail: https://thmb.techidaily.com/9e326dc97d7b2a04840d4bac29152fee0a09ec2e5
 
  Having explored the causes, let's now see how to fix this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Check Your Internet Connection
 
  If you aren't able to download Windows updates, check your internet connection first. Chances are that a slow or unstable internet connection is causing this error. To test your connection, try accessing other websites in your browser. If you have a fine internet connection, but it's very slow, you just need to [troubleshoot your network](https://www.makeuseof.com/things-slowing-down-home-wifi-network/).
@@ -56,16 +50,25 @@ thumbnail: https://thmb.techidaily.com/9e326dc97d7b2a04840d4bac29152fee0a09ec2e5
 4. Now move to the right pane and click **Troubleshoot > Other troubleshooters**.  
 ![Other trouble-shooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/other-trouble-shooters.jpg)
 5. Click the **Run** button next to Windows Update.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Run Windows Update Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-windows-update-troubleshooter.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After following the above steps, the troubleshooter will scan your system for errors. When it’s done, the troubleshooter will present you with any solutions it finds. Follow the on-screen instructions and apply any recommendations to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Clear the SoftwareDistribution Folder
 
  The Software Distribution folder is where Windows stores data related to updates. It includes temporary files and download logs. Corrupted or missing system files in this folder can cause the 0x8024800C issue. To fix it, you must delete these files from your system. Here’s how:
@@ -88,28 +91,10 @@ net start bits`
 
  This will restart the Windows Update service and the Background Intelligent Transfer Service. Now try downloading updates for your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Disable Third-Party Antivirus Software Temporarily
 
  If you're experiencing problems updating Windows, your antivirus might be the culprit. These programs can sometimes interfere with Windows Update components, causing errors like 0x8024800C. To be sure, we recommend [disabling your antivirus temporarily](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and checking if this solves the issue.
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Reset Windows Update Components
 
  It seems that Windows Update components are corrupted or damaged, leading to this issue. To resolve it, you will have to reset them and fix any broken files.
@@ -179,22 +164,17 @@ net start cryptsvc`
 7. Name your file **WUReset.bat** and save it on your desktop.  
 ![Reset Windows Update Components](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-windows-update-components.jpg)
 8. Once you have created the file, right-click on it and choose **Run as administrator**.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9. If you see a UAC prompt, click **Yes** to confirm.
 
  This will reset the Windows Update components and fix the 0x8024800C error. After that, you can try updating Windows again.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Perform Some Generic Fixes
 
  After trying all of the above solutions, you should also try some generic fixes. This includes [running System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) to repair corrupted system files and running Disk Cleanup to [remove unnecessary junk files](https://www.makeuseof.com/windows-10-remove-junk-files/). You may also want to use the Deployment Image Servicing and Management tool to repair corrupt system images.
@@ -202,22 +182,15 @@ net start cryptsvc`
  If the problem isn't fixed, you can [try either system restore](https://www.makeuseof.com/windows-11-create-restore-point/) or reinstalling Windows. These options will reset your computer to its original settings, which will most likely resolve any software-related problems. And remember to [back up your Windows data](https://www.makeuseof.com/tag/backup-windows-computer-cloud/) before trying these solutions so you have something to fall back on if something goes wrong.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fixing Windows Update Error 0x8024800C
 
  Having trouble downloading and installing Windows updates? You might be facing Windows Update Error 0x8024800C, which prevents your PC from accessing the latest updates and security patches. Thankfully we have some easy solutions that may help you fix this error code on your Windows PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -225,3 +198,19 @@ net start cryptsvc`
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-premier-youtube-unboxers-who-to-follow/"><u>[New] Premier YouTube Unboxers Who to Follow</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-foundational-framework-engaging-in-instagram-video-talk/"><u>2024 Approved Foundational Framework Engaging in Instagram Video Talk</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-three-key-strategies-to-record-and-review-education-talks-on-macbooks/"><u>2024 Approved Three Key Strategies to Record and Review Education Talks on MacBooks</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-honor-magic-vs-2-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Honor Magic Vs 2</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-print-service-stopped-issue-on-windows-pc/"><u>Addressing Print Service Stopped Issue on Windows PC</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-honor-70-lite-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Honor 70 Lite 5G? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/applications-and-their-unique-run-notations-explored/"><u>Applications & Their Unique Run Notations Explored</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-reinstalling-favorite-apps-on-new-windows-11-devices/"><u>Guide to Reinstalling Favorite Apps on New Windows 11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/revealing-windows-11s-disguised-taskbar-investigation-tool/"><u>Revealing Windows 11'S Disguised Taskbar Investigation Tool</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-10-professional-video-editing-software-free-download/"><u>Top 10 Professional Video Editing Software Free Download</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-cream-of-the-crop-2024s-top-4k8k-video-editing-software/"><u>Updated The Cream of the Crop 2024S Top 4K/8K Video Editing Software</u></a></li>
+</ul></div>
+

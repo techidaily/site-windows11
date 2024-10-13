@@ -1,7 +1,7 @@
 ---
 title: Resolving DirectX Install Failures on PCs
-date: 2024-09-09T11:58:15.760Z
-updated: 2024-09-10T11:58:15.760Z
+date: 2024-10-12T01:27:11.000Z
+updated: 2024-10-13T01:51:56.836Z
 tags:
   - windows10
   - windows11
@@ -26,18 +26,19 @@ thumbnail: https://thmb.techidaily.com/e3528d506823cb6dca25eee03d51754fbb17fe96f
 
  However, some users have reported experiencing the error under discussion when installing DirectX on a standard account, despite granting administrative rights. So, before applying further fixes, please switch to your administrator account if you are signed in with a standard user account.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Ensure You're Connected to the Internet
 
  Since the error message suggests checking your internet connection, make sure your device is connected to the internet and that it is functioning properly. To confirm that, go to your preferred web browser and search for anything. If the search process goes successfully and search results appear, your device is connected to the internet.
 
  However, if you encounter an error while searching on a browser, there could be a problem with your internet connection. In that case, refer to our guide for[Windows 11 Wi-Fi problems](https://www.makeuseof.com/tag/fix-windows-10-wi-fi-problems/) , assess which problem is relevant to your situation, and apply the appropriate fixes. If the error was caused due to an unstable or inaccessible internet, restoring your connectivity will resolve it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Disable and Re-enable Your Network Connection
 
  If your internet is already connected, disable it once and then enable it again. Follow these steps to do that:
@@ -47,24 +48,20 @@ thumbnail: https://thmb.techidaily.com/e3528d506823cb6dca25eee03d51754fbb17fe96f
 3. Then, go to**Advanced network settings** .  
 ![Go to Advanced Network Settings in Network and Internet Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/1-go-to-advanced-network-settings-in-network-and-internet-tab-of-windows-settings-app.jpg)
 4. Click the**Disable** button next to the internet connection you are using.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Click Disable Next to Your Internet Connection in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-click-disable-next-to-your-internet-connection-in-windows-settings-app.jpg)
 5. Once you have disabled it, let it sit for 30 seconds, and then click**Enable** to enable the internet connection again.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Click Enable Next to Your Internet Connection in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-click-enable-next-to-your-internet-connection-in-windows-settings-app.jpg)
 
  Even though it isn't necessary, some users have recommended rebooting the router or disconnecting and reconnecting the Ethernet cable to resolve this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Flush the DNS Cache and Reset the Network Settings
 
  Your next step should be to flush the DNS cache and reset the network settings. Performing a DNS cache flush clears the old records in the cache. Similarly, resetting the network connection eliminates the likelihood of a misconfigured network setting causing the issue. Follow these steps to perform both fixes:
@@ -79,12 +76,6 @@ netsh winsock reset`
 
 ##
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Temporarily Disable the Microsoft Defender Firewall
 
  Provided that you grant the DirectX setup file administrative rights, the installation should run smoothly without any problems. If the error persists despite that, Microsoft Defender could be interfering with the installation process—-it's common for the security suite to become overprotective when operating system changes are made.
@@ -93,12 +84,6 @@ netsh winsock reset`
 
  Remember to re-enable both settings after following the rest of the steps, as keeping them enabled is essential for the security of your device.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Ensure the .NET Framework Is Properly Installed and Functional
 
  The .NET framework must be fully functional for DirectX to be installed successfully. If it isn't installed (which is highly unlikely) or has gone corrupted, you will encounter unforeseen issues installing new Windows components and running existing applications.
@@ -108,11 +93,12 @@ netsh winsock reset`
  If the framework is already installed, you should repair it once. This step will prevent corrupted framework files from causing problems when installing DirectX. Need help repairing it? Check out our guide on[how to repair the .NET framework on Windows](https://www.makeuseof.com/windows-repair-net-framework/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Install DirectX Using DXSetup
 
  If you employ the above fixes properly, your DirectX setup should install successfully without any problems. If you encounter the same error again, try this simple trick:
@@ -121,18 +107,14 @@ netsh winsock reset`
 2. After that, create a new folder on your Windows desktop and name it whatever you want.  
 ![Create and Rename the New Folder on Windows Desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/5-create-and-rename-the-new-folder-on-windows-desktop.jpg)
 3. Then, go to the folder where you downloaded DirectX.
+
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Run the setup file and accept the agreement by clicking**Yes** .
 5. Click**Browse** and select the location of the folder on your desktop. Click**OK** after selecting it.  
 ![Click OK After Selecting the Location of the Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-click-ok-after-selecting-the-location-of-the-folder.jpg)
@@ -145,23 +127,21 @@ netsh winsock reset`
  Creating a desktop folder and extracting DirectX files within it has proven effective for many users. Therefore, we recommend you pay close attention and carefully follow each step.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Successfully Install DirectX on Your Windows Machine
 
  Running a game and getting an error message about missing DirectX can be frustrating. And, when you get another error when installing DirectX, the situation gets even worse. If you follow the above steps correctly, you will hopefully be able to resolve the error and successfully install DirectX. Consequently, you will be able to play your favorite games again.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -170,4 +150,21 @@ netsh winsock reset`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-mastering-premiere-pro-fullscreen-mode-essentials/"><u>[New] In 2024, Mastering Premiere Pro Fullscreen Mode Essentials</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-science-behind-whatsapp-voice-talks/"><u>[Updated] The Science Behind WhatsApp Voice Talks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-top-action-cam-battle-max-360-vs-hero-11-review/"><u>[Updated] Top Action Cam Battle Max 360 vs Hero 11 Review</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-what-is-vimeo-a-peek-at-innovative-content-sharing/"><u>[Updated] What Is Vimeo? A Peek at Innovative Content Sharing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-best-asmr-apps-for-android-and-ios-you-should-know/"><u>2024 Approved Best ASMR Apps for Android and iOS You Should Know</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-forth-the-lost-frames-off-screen-recovery-in-edge-os/"><u>Bring Forth the Lost Frames: Off-Screen Recovery in Edge OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/dispatch-dull-drums-resetting-spacebar-audio-feature/"><u>Dispatch Dull Drums: Resetting Spacebar Audio Feature</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/excellence-in-voice-modification-tools-featuring-magic-for-2024/"><u>Excellence in Voice Modification Tools, Featuring Magic for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-problem-of-unrecognized-drivers-during-windows-startup/"><u>Fixing the Problem of Unrecognized Drivers During Windows Startup</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-task-manager-not-working-in-windows/"><u>How to Fix the Task Manager Not Working in Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-realm-of-melodies-where-to-get-hearing-heroes-ringtones/"><u>In 2024, The Realm of Melodies Where to Get Hearing Heroes' Ringtones</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-security-change-account-password-for-win-11/"><u>Transforming Security: Change Account Password for Win 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/uncovering-every-detail-ai-innovations-showcased-at-the-latest-wwdc/"><u>Uncovering Every Detail: AI Innovations Showcased at the Latest WWDC</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-and-isnt-allowed-in-windows-11-s-mode/"><u>What Is and Isn’t Allowed in Windows 11 S Mode</u></a></li>
+</ul></div>
 

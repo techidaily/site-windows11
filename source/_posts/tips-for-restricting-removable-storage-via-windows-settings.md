@@ -1,7 +1,7 @@
 ---
 title: Tips for Restricting Removable Storage via Windows Settings
-date: 2024-10-04T17:19:30.001Z
-updated: 2024-10-07T06:43:27.809Z
+date: 2024-10-05T17:57:29.173Z
+updated: 2024-10-12T18:03:18.625Z
 tags:
   - windows10
   - windows11
@@ -30,16 +30,10 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
  Let's start by checking out how you can prevent others from installing any removable storage device into your PC. You can do this using either the Local Group Policy Editor or the Registry Editor.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Using the Local Group Policy Editor
@@ -63,16 +57,22 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 
  Struggling to access the LGPE on Windows Home? There are a few tricks you can apply to [access the LGPE on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/). But if that sounds complicated to you, then skip to the Registry Editor method.
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Using the Registry Editor
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Registry Editor is another reliable tool you can use for tweaking system settings and troubleshooting PC issues.
 
@@ -95,10 +95,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
 ![Clicking the DenyRemovableDevices value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-DenyRemovableDevices-value.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, follow these steps:
@@ -108,10 +108,16 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
 3. Close the Registry Editor and restart your device to save these changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Prevent Others From Installing Specific Removable Storage Devices
@@ -133,16 +139,18 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-effortless-facebook-video-streaming-with-fire-browser-plugins-firefox-edition-2023/"><u>[Updated] In 2024, Effortless Facebook Video Streaming with Fire-Browser Plugins, Firefox Edition 2023</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-synthesizing-soundscapes-the-revamped-magic-of-magix-music-maker-2024/"><u>[Updated] Synthesizing Soundscapes The Revamped Magic of Magix Music Maker 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/descargar-y-convertir-archivo-tga-a-imagen-de-formato-jpg-sin-coste-soluciones-en-linea-con-movavi/"><u>Descargar Y Convertir Archivo TGA a Imagen De Formato JPG Sin Coste: Soluciones en Línea Con Movavi</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-honor-x9b-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Honor X9b</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/jump-into-the-moment-with-these-8-trendy-videos-on-fb/"><u>Jump Into the Moment with These 8 Trendy Videos on FB</u></a></li>
-<li><a href="https://windows11.techidaily.com/keeping-taskmanager-visible-above-others/"><u>Keeping TaskManager Visible Above Others</u></a></li>
-<li><a href="https://fox-http.techidaily.com/mixer-connectivity-seamless-live-broadcast-on-macos-for-2024/"><u>Mixer Connectivity Seamless Live Broadcast on macOS for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/reclaiming-defaults-in-win11-command-prompt/"><u>Reclaiming Defaults in Win11 Command Prompt</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-false-alarms-in-chrome-security-alert/"><u>Troubleshooting False Alarms in Chrome Security Alert</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-and-resolving-win10win11-security-faults/"><u>Understanding & Resolving Win10/Win11 Security Faults</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-windows-sign-in-option-post-fail/"><u>Unlocking Windows Sign-In Option Post-Fail</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-abletons-techniques-for-diminishing-sound-intensity/"><u>[New] Ableton's Techniques for Diminishing Sound Intensity</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-balancing-frequency-and-quality-in-youtube-video-uploads/"><u>[New] Balancing Frequency & Quality in YouTube Video Uploads</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/earing-up-for-a-leisurely-view-three-methods-to-tame-video-speed-on-youtube-60-chars-minor-exception-due-to-title-length-but-offers-comprehensive-insig/"><u>[New] Gearing Up for a Leisurely View Three Methods to Tame Video Speed on YouTube (60 Chars, Minor Exception Due to Title Length but Offers Comprehensive Insight) for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-grasping-the-functionality-of-airborne-robotics/"><u>2024 Approved Grasping the Functionality of Airborne Robotics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-channels-discovering-gpodc-gold-for-2024/"><u>Best Channels Discovering GPodC Gold for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-location-on-facebook-dating-for-your-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-realme-gt-neo-5-se-by-drfone-android/"><u>In 2024, How to Bypass FRP from Realme GT Neo 5 SE?</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-simplified-steps-to-effortlessly-capture-your-ideas-in-a-podcast-format/"><u>In 2024, Simplified Steps to Effortlessly Capture Your Ideas in a Podcast Format</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/mic-marvels-affordable-sound-for-youtube-creators/"><u>Mini-Mic Marvels Affordable Sound for YouTube Creators</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-recovery-restoring-the-lost-enhancement-tab-in-windows-11/"><u>Quick Recovery: Restoring the Lost Enhancement Tab in Window's 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/securely-shifting-your-streaming-application-across-hardware/"><u>Securely Shifting Your Streaming Application Across Hardware</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-not-a-valid-profile-warning-in-win1011/"><u>Troubleshooting 'Not a Valid Profile' Warning in Win10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-user-mastery-group-and-admin-essentials-guide/"><u>Windows 11 User Mastery: Group & Admin Essentials Guide</u></a></li>
 </ul></div>
 

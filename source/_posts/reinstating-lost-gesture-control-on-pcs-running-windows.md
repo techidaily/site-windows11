@@ -1,7 +1,7 @@
 ---
 title: Reinstating Lost Gesture Control on PCs Running Windows
-date: 2024-09-09T11:58:15.488Z
-updated: 2024-09-10T11:58:15.488Z
+date: 2024-10-07T02:56:47.707Z
+updated: 2024-10-12T18:32:33.538Z
 tags:
   - windows10
   - windows11
@@ -37,11 +37,12 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
  For this, press **Win + X** on your keyboard. Then press **U** and select **Restart**. This closes all open programs and restarts your device. Once it starts up, check if your touchpad gestures work again.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Enable Touchpad Gestures
 
  If your touchpad gestures are disabled, you can't execute multi-finger commands. To enable gestures, access your touchpad settings and adjust accordingly. Here's how to do it.
@@ -55,20 +56,16 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 6. To configure three-finger or four-finger gestures, click **Advanced gestures** under Related settings.  
 ![Advanced gestures in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/advanced-gestures-in-settings.jpg)
 7. On this page, you will see various configuration options for multi-finger gestures. Click on the drop-down menu and select the action you want for each gesture.  
-![Touchpad in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/touchpad-in-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Touchpad in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/touchpad-in-settings.jpg)
+
  Once you configure the settings, your touchpad is ready for three-finger and four-finger commands. Now close the Settings window and test the gestures.
 
 ## 3\. Update Touchpad Drivers
@@ -80,23 +77,18 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 3. Scroll down and expand **Mice and other pointing devices**.  
 ![Update Touch driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-touch-driver.jpg)
 4. Right-click on your touchpad device and select **Update driver**.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Search automatically for drivers for Mouse](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/search-automatically-for-drivers-for-mouse.jpg)
 5. On the next page, choose **Search automatically for drivers**.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This allows Windows to find and install the latest available drivers for your touchpad. If this doesn't work, search for the touchpad manufacturer's drivers online and install them that way.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Reinstall Touchpad Drivers
 
  If updating the drivers didn’t help, try reinstalling them. This removes the current touchpad drivers from your system and installs them again from scratch.
@@ -111,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 
  Now wait for the process to finish. Once it does, restart your computer. Windows will automatically reinstall new touchpad drivers for your device at startup.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Run Hardware and Devices troubleshooter
 
  Sometimes technical glitches make touchpad gestures unresponsive. In that case, run the hardware and devices troubleshooter to diagnose and resolve the issue.
@@ -124,12 +123,6 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 
  Now click **Next** and let the troubleshooter find and fix any hardware-related problems. Once it completes, restart your computer and try using the touchpad again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Check for Third-Party Software Interference
 
  Sometimes third-party applications can interfere with Windows touchpad gestures. So, if you’ve recently installed any new software or apps on your computer, try uninstalling them and see if it solves the problem.
@@ -140,20 +133,15 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 
 ![Turn Windows features on or off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/turn-windows-features-on-or-off.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This stops these programs from interfering with Windows processes. Once you’ve made the changes, restart your computer and check if the touchpad gestures are working again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Reset Touchpad Gestures Settings
 
  If the touchpad gesture settings are not configured correctly, it will interfere with gesture recognition. In that case, reset touchpad settings and gestures to default. This removes personalized preferences and restores original settings.
@@ -166,25 +154,18 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
 4. Now click the **Reset** button next to **Reset touchpad settings and gestures to default**.  
 ![Reset touchpad settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/reset-touchpad-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once the settings are reset, restart your computer and see if your touchpad gestures have become responsive.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Get Into Your Touchpad Gestures Again
 
  Though touchpad gestures make navigating Windows easier, sometimes glitches happen. If you’re having trouble with touchpad gestures on your Windows computer, try the solutions mentioned above. To avoid such problems in the future, keep your Windows and device drivers up to date. Make sure to install genuine software from secure sources.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -192,3 +173,20 @@ thumbnail: https://thmb.techidaily.com/c2a5d8a295d9ad4098701941bf7b844bb3d03e72b
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-minimca-manorettes-simple-and-sleek-homes-in-mc-world-for-2024/"><u>[New] MiniMCA Manorettes Simple & Sleek Homes in MC World for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-top-tier-image-manipulations/"><u>2024 Approved Top-Tier Image Manipulations</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-7-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 7</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-capturing-still-shots-from-video-using-photos-app/"><u>In 2024, Capturing Still Shots From Video Using Photos App</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nubia-red-magic-9-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nubia Red Magic 9 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-valorants-perpetual-launch-loop-essential-tips-and-tricks/"><u>Overcome Valorant's Perpetual Launch Loop - Essential Tips and Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-greyed-out-remove-pin-feature-on-windows-11/"><u>Overcoming Greyed-Out Remove PIN Feature on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/pushing-boundaries-windows-beyond-the-status-quo/"><u>Pushing Boundaries: Windows Beyond the Status Quo</u></a></li>
+<li><a href="https://extra-information.techidaily.com/step-by-step-guide-to-crafting-stunning-tiktok-edits/"><u>Step-by-Step Guide to Crafting Stunning TikTok Edits</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-essential-meme-blueprint-building-impactful-gifs-for-2024/"><u>The Essential Meme Blueprint Building Impactful GIFs for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-error-code-0x80073cf3-on-microsoft-store/"><u>Troubleshooting Error Code 0X80073CF3 on Microsoft Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/using-icloud-keychain-for-iosandroid-network-access/"><u>Using iCloud Keychain for iOS/Android Network Access</u></a></li>
+</ul></div>
+

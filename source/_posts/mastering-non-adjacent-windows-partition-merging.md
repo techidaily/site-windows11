@@ -1,7 +1,7 @@
 ---
 title: Mastering Non-Adjacent Windows Partition Merging
-date: 2024-10-01T10:30:29.242Z
-updated: 2024-10-06T21:01:58.424Z
+date: 2024-10-05T19:20:51.740Z
+updated: 2024-10-12T19:15:11.176Z
 tags:
   - windows10
   - windows11
@@ -46,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 2. Right-click the volume (the drive you want to merge into another) and select **Delete Volume**.  
 ![Delete Volume D From Windows Disk Management Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/2-delete-volume-d-from-windows-disk-management-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you've got enough unallocated space available, follow these steps to merge it into your preferred drive:
 
 1. Right-click the drive you want to extend and select **Extend Volume**.  
@@ -60,21 +53,14 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 2. Click **Next**, then select the amount of space you want to merge in the box next to **Select the amount of space in MB**. Following that, click **Next** a second time.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Click Next After Selecting the Amount of Space in MB You Want to Extend the Volume By in Windows Disk Management Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/4-click-next-after-selecting-the-amount-of-space-in-mb-you-want-to-extend-the-volume-by-in-windows-disk-management-tool.jpg)
 3. Then, click **Finish** to merge the unallocated space into your destination drive.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Merge Non-Adjacent Partitions With Disk Management
 
@@ -86,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 
  Because deleting a volume also deletes its data, you have to [create a backup of all drives](https://www.makeuseof.com/windows-11-create-complete-backup/) en route to your destination and unallocated space before deleting them. Because of this, merging nonadjacent partitions using Device Management is considered ineffective and time-consuming. An easy way to avoid this hassle is to use third-party tools.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Merge Two Non-Adjacent Partitions Using NIUBI Partition Editor
 
  NIUBI Partition Editor makes merging nonadjacent partitions easy and doesn't require you to delete partitions between the unallocated space and destination partition. Here's how you can merge two non-adjacent partitions, say C and E, using NIUBI:
@@ -96,25 +89,18 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 ![Delete Volume E in NIUBI Partition Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/8-delete-volume-e-in-niubi-partition-editor.jpg)
 4. Now, right-click on partition **D,** which is between partition **C** and unallocated space, and click **Resize/Move volume**.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Click on ResizeMode to Relocate the Partition D in NIUBI Partition Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/9-click-on-resizemode-to-relocate-the-partition-d-in-niubi-partition-editor.jpg)
 5. Then, move the whole volume (don't extend the volume) to the unallocated space right next to it, which will move drive **D** to where the unallocated space was, making the unallocated space adjacent to drive **C**.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Drag the Drive D towards the Unallocated Space to Make the Free Space Adjacent to the Drive C](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/10-drag-the-drive-d-towards-the-unallocated-space-to-make-the-free-space-adjacent-to-the-drive-c.jpg)
 6. Once adjacent, right-click the **C** drive, click **Resize/Move Volume**, then expand the **C** drive's space to cover the unallocated space. It will merge the unallocated space into the **C** drive.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Extend the C Drive to Merge the Unallocated Space into It in the NUIBI Partition Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/11-extend-the-c-drive-to-merge-the-unallocated-space-into-it-in-the-nuibi-partition-editor.jpg)
 
@@ -130,7 +116,21 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 2. Turn the toggle next to **Device encryption** off.  
 ![Turn the Device Encryption Off in Windows Device Encryption Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/12-turn-the-device-encryption-off-in-windows-device-encryption-settings-in-windows-settings-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Turning off encryption can take a long time, so be patient while the process finishes, and you see the toggle next to **Device encryption** turned off. Once that's done, you can resize and move all the drives without restrictions. Once you're done merging the partitions, re-enable the device encryption.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Merge Partitions With Ease on Windows
 
@@ -150,17 +150,24 @@ thumbnail: https://thmb.techidaily.com/298f3a51b5ad96cf99ca78528e1cf7576a8f7bf91
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-to-embrace-or-not-the-itop-screen-recorder-dilemran/"><u>[New] 2024 Approved To Embrace or Not The ITop Screen Recorder Dilemran</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-compre-written-by-jane-doe-phd-in-cognitive-psychology-and-behavioral-science/"><u>[New] The Compre Written By Jane Doe, PhD in Cognitive Psychology and Behavioral Science</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-animation-styles-pack/"><u>2024 Approved Ultimate Animation Styles Pack</u></a></li>
-<li><a href="https://discover-best.techidaily.com/cookiebot-enhanced-site-performance-enhancing-user-experience-with-personalization/"><u>Cookiebot-Enhanced Site Performance: Enhancing User Experience with Personalization</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-canon-inkjet-printer-driver-dr-c225-for-windows-11-10-and-8/"><u>Download Canon Inkjet Printer Driver (DR-C225) for Windows 11, 10 & 8</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-technology-with-toms-hardware/"><u>Navigating the World of Technology with Tom's Hardware</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-fps-in-csgo-on-windows-platforms/"><u>Optimize FPS in CS:GO on Windows Platforms</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-barriers-to-installing-games-from-the-microsoft-hub/"><u>Overcoming Barriers to Installing Games From the Microsoft Hub</u></a></li>
-<li><a href="https://win-dash.techidaily.com/resolving-compatibility-the-ultimate-guide-to-solve-logitech-f710-drivers-for-windows-11-10-8-and-7/"><u>Resolving Compatibility: The Ultimate Guide to Solve Logitech F710 Drivers for Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-artisans-guide-enteringleaving-focus-state-in-the-window-terminal/"><u>The Artisan's Guide: Entering/Leaving Focus State in the Window Terminal</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-fix-remedy-for-invalid-file-history-error/"><u>Windows Fix: Remedy for Invalid File History Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-strategy-eliminating-a-disks-segmented-blocks/"><u>Winning Strategy: Eliminating a Disk's Segmented Blocks</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-how-to-share-igtv-video-on-instagram-story-with-ease-for-2024/"><u>[New] How to Share IGTV Video on Instagram Story with Ease for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-laughing-lane-the-no-10-guide-to-memelore/"><u>[New] Laughing Lane - The No. 10 Guide to Memelore</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-mastering-the-art-of-greenscreen-in-kinemaster-for-2024/"><u>[New] Mastering the Art of Greenscreen in KineMaster for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-pathway-to-royalty-free-images/"><u>[New] Navigating the Pathway to Royalty-Free Images</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-leading-5-hd-cameras-to-enhance-your-twitch-experience/"><u>2024 Approved Leading 5 HD Cameras to Enhance Your Twitch Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/ai-driven-evolution-in-windows-software-design/"><u>AI-Driven Evolution in Windows Software Design</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-solutions-for-an-unresponsive-proximity-sensor-on-your-ios-device/"><u>DIY Solutions for an Unresponsive Proximity Sensor on Your iOS Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-your-pcs-virtual-machine-game-strong-with-hyper-v/"><u>Get Your PC's Virtual Machine Game Strong with Hyper-V</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-mend-the-pairing-glitch-fixing-connection-issues-in-win-11/"><u>How to Mend the Pairing Glitch: Fixing Connection Issues in Win 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-realme-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Realme .</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-se-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unseen-video-on-sony-a6400-whats-going-wrong/"><u>In 2024, Unseen Video on Sony A6400 What's Going Wrong?</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-windows-steam-streams-stopping-zero-rate-issues/"><u>Optimize Windows Steam Streams: Stopping Zero-Rate Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-stuck-context-menus-a-quick-guide-to-solutions/"><u>Overcoming Stuck Context Menus: A Quick Guide to Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-code-0x0001-failures-for-nvidia-ge-in-w10w11/"><u>Rectifying Code 0X0001 Failures for Nvidia GE in W10/W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/redirect-to-file-explorer-using-the-onedrive-shortcut/"><u>Redirect to File Explorer Using the OneDrive Shortcut</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/through-the-lens-through-the-mind-advanced-photo-editing-mastery/"><u>Through the Lens, Through the Mind Advanced Photo Editing Mastery</u></a></li>
+<li><a href="https://windows11.techidaily.com/whats-wrong-with-windows-modern-standby/"><u>What's Wrong with Windows Modern Standby?</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-selective-deactivation-for-better-efficiency/"><u>Windows 11: Selective Deactivation for Better Efficiency</u></a></li>
 </ul></div>
 

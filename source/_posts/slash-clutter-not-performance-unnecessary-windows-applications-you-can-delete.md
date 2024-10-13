@@ -1,7 +1,7 @@
 ---
 title: "Slash Clutter, Not Performance: Unnecessary Windows Applications You Can Delete"
-date: 2024-09-09T11:58:19.445Z
-updated: 2024-09-10T11:58:19.445Z
+date: 2024-10-06T00:47:59.721Z
+updated: 2024-10-13T02:57:57.477Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: Slash Clutter,Remove Junk,Free Windows,Cut Down Apps,Speed Up PC,Elimi
 thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fbffe0068ce8a47124a8a8199.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Slash Clutter, Not Performance: Unnecessary Windows Applications You Can Delete
 
  Out of all the software on your computer, how many programs do you actually use regularly? Most people keep a fair amount of unnecessary software installed on their systems. While some of these apps are just outdated, others are Windows bloatware, malicious software, or junk you can remove from your computer.
@@ -40,12 +34,6 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
 
  Now, let's look at what apps you should uninstall from Windows—remove any of the below if they're on your system!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. QuickTime
 
  QuickTime is Apple's video player. While it's still a current program on macOS, the company hasn't supported the Windows version since 2016.
@@ -63,17 +51,12 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
  When[we looked at CCleaner in 2020](https://www.makeuseof.com/tag/time-trust-ccleaner/) , we found that it had cleaned up its act but was still largely unnecessary. You'll find suitable cleaning tools elsewhere, including those built into Windows itself. Follow[our step-by-step guide to cleaning your PC](https://www.makeuseof.com/tag/best-way-clean-windows-10-step-step-guide/) and you can say goodbye to CCleaner.
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Crappy PC Cleaners
 
  Many people have installed (or accidentally installed) a PC-cleaning app at some point. The majority of these products range from useless to harmful, as[registry cleaners don't improve the performance of Windows at all](https://www.makeuseof.com/tag/registry-cleaner-difference/) . If you find garbage like MyCleanPC or PC Optimizer Pro in the list of your installed apps, you should remove them.
@@ -98,32 +81,41 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
 
  You should thus remove both Shockwave Player and Flash Player. They're both relics of an era gone by and unnecessary today. However, it's still possible to[enjoy Flash games offline](https://www.makeuseof.com/tag/download-run-flash-games/) .
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Java
 
  Java is another media runtime, and it includes two components: Java on the desktop, and the Java plugin for browsers (which is notorious for having security problems). Though it was once fairly common, very few websites use it nowadays. At the time of writing,[W3Techs](https://w3techs.com/technologies/details/cp-javaruntime/all/all) shows that a fraction of one percent of websites use Java.
 
  Modern versions of Chrome and Firefox don't support it, which means that[Java is less of a security problem than it once was](https://www.makeuseof.com/tag/java-security-risk/) . Unless you're an Android developer or use some specialized software that relies on Java, you should uninstall it. You'll probably never notice a difference.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Microsoft Silverlight
 
 ![Silverlight Not Supported](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Silverlight-Not-Supported.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Silverlight is a web framework, similar to Adobe Flash, that once enabled rich media content in your browser. Years ago, these plugins were necessary on a lot of websites. But now they're deprecated and no longer useful. Looking at[W3Techs](https://w3techs.com/technologies/details/cp-silverlight/all/all) again, we see that around 0.02 percent of websites use Silverlight as of this writing.
 
  Modern browsers don't even work with Silverlight; Chrome and Firefox haven't supported it for years, and it was never compatible with Edge. Silverlight is only officially supported in[Internet Explorer, which Microsoft retired](https://www.makeuseof.com/internet-explorer-11-end-meaning/) in mid-2022\. You won't lose anything by uninstalling Silverlight.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. All Toolbars and Junk Browser Extensions
 
  When you're wondering what else to uninstall from Windows 10 or 11, another obvious candidate is junk in your browser. While toolbars were once a far more prevalent problem, modern versions of Chrome and other browsers have thankfully fought back and mostly eradicated them. However,[spammy extensions are still in the wild](http://www.makeuseof.com/tag/chrome-extensions-uninstall-right-now/) .
@@ -131,23 +123,18 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
  Have a look in your programs list for toolbars like the Bing Bar, Google Toolbar, Ask Toolbar, Yahoo! Toolbar, or the Babylon Toolbar. If you find any of them, uninstall them. After that, review the installed add-ons or extensions in your browsers. Make sure you recognize and review everything there, as even trustworthy extensions can be sold to shady companies.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 9\. Coupon Printer for Windows
 
  The purpose of Coupon Printer for Windows is to provide access to deals from Coupons.com. However, since this software is typically found bundled in with other programs, chances are that you didn't want to install it in the first place.
 
  If you're a diehard Coupons.com user, you can leave this one installed so you can access its discounts. Everyone else should uninstall this program and use another coupon site that doesn't require installing anything.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Manufacturer Bloatware
 
  Unless you're running a premium device like the Surface Pro, or you installed Windows from scratch on a new desktop, chances are your computer came with lots of preinstalled junk from the manufacturer. Laptops from HP, Dell, Toshiba, Lenovo, and more are prone to this issue.
@@ -162,60 +149,34 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
 
 ![Windows Uninstall Start Menu Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/Windows-Uninstall-Start-Menu-Apps.png)
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Having to remove manufacturer bloatware is annoying enough, but Microsoft includes a fair bit of its own in modern versions of Windows in the form of Store apps. Thankfully, you can uninstall most of these unnecessary programs without much hassle.
 
  Some of the default Modern apps, like Xbox and Weather, are useful to some people but not others. Others, like Candy Crush Saga, are junk you should remove. See how to get rid of this junk in our[Windows 10 bloatware removal guide](https://www.makeuseof.com/tag/easily-remove-bloatware-windows-10/) , or our[overview of uninstalling bloatware in Windows 11](https://www.makeuseof.com/how-to-quickly-remove-bloatware-from-windows-11/) .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 12\. WinRAR
 
  While having a file extraction and compression tool around is certainly useful, WinRAR is not the best choice for the job. The app has become a bit of a punchline due to its old-school "shareware" license. You can download a "trial" of WinRAR for free, which asks you to pay after using it for some time. However, the app never locks you out, even if you don't pay, so you can use it indefinitely.
 
  Despite this, there's really no reason to use WinRAR anyway.[7-Zip](https://www.7-zip.org/) is a free and simple tool that covers most people's needs. Whatever you do, please don't waste money on WinRAR.
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Uninstall These Programs From Windows
 
  The above programs are unnecessary because they no longer serve any useful function. If you uninstall something and later find that you need it again, you can always reinstall it. Just be sure to install it without any bundled junk when you do.
 
  It's a good idea to do regular cleaning on your system to remove old or junky Windows programs. Some might be "zombie apps" that pose a security risk.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -224,4 +185,26 @@ thumbnail: https://thmb.techidaily.com/6ac471d87db668dcc4b6f87c6982a3ef4bb37e3fb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-easyvidwin11-the-simplest-way-to-record-your-pc-screen/"><u>[New] 2024 Approved EasyVidWin11 The Simplest Way to Record Your PC Screen</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-navigating-steam-with-your-switch-pro-device-for-2024/"><u>[New] Navigating Steam with Your Switch Pro Device for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-efficient-techniques-for-youtube-shorts-revenue-for-2024/"><u>[Updated] Efficient Techniques for YouTube Shorts Revenue for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-creative-climb-steps-towards-thriving-in-graphic-design/"><u>[Updated] The Creative Climb Steps Towards Thriving in Graphic Design</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-inverting-motion-on-snapchat-a-complete-breakdown/"><u>2024 Approved Inverting Motion on Snapchat A Complete Breakdown</u></a></li>
+<li><a href="https://windows11.techidaily.com/4-ways-to-find-a-programs-install-location-on-windows/"><u>4 Ways to Find a Program's Install Location on Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/activating-gpu-acceleration-with-hardware-scheduler-on-windows-11-a-step-by-step-guide/"><u>Activating GPU Acceleration with Hardware Scheduler on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/curated-listings-top-20plus-immersive-vr-games-on-cardboard/"><u>Curated Listings Top 20+ Immersive VR Games on Cardboard</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-accidental-windows-11-search-menu-trigger/"><u>Disabling Accidental Windows 11 Search Menu Trigger</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/download-gratis-fuhrbare-systemsoftware-fur-windows-11-8-und-7-uber-usb-stick/"><u>Download Gratis: Führbare Systemsoftware Für Windows 11, 8, Und 7 Über USB-Stick</u></a></li>
+<li><a href="https://windows11.techidaily.com/faster-apps-better-internet-fixes-for-windows-devices/"><u>Faster Apps, Better Internet: Fixes for Windows Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-overcome-write-failures-on-0x-addressed-memories-a-comprehensive-guide/"><u>How to Overcome Write Failures on 0X Addressed Memories: A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-domain-user-biometric-control-in-windows-11/"><u>Mastering Domain User Biometric Control in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-mspcm-bar-with-finesse-in-windows-11-environment/"><u>Navigating MSPCM Bar with Finesse in Windows 11 Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/outperforming-understanding-why-pcs-triumph-over-macs-9/"><u>Outperforming: Understanding Why PCs Triumph over Macs (#9)</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-discord-from-launching-with-every-system-boots/"><u>Preventing Discord From Launching with Every System Boots</u></a></li>
+<li><a href="https://windows11.techidaily.com/prove-your-prowess-top-7-zero-cost-pc-password-apps/"><u>Prove Your Prowess: Top 7 Zero-Cost PC Password Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-package-registration-failures-on-windows-devices/"><u>Resolving Package Registration Failures on Windows Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-to-correct-the-not-found-error-of-msvcr80dll/"><u>Troubleshooting Steps to Correct the Not Found Error of msvcr80.dll</u></a></li>
+</ul></div>
 

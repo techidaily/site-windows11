@@ -1,7 +1,7 @@
 ---
 title: "Optimal Settings: Where to Store Your Games on Xbox"
-date: 2024-10-01T00:34:20.695Z
-updated: 2024-10-07T09:29:47.827Z
+date: 2024-10-09T03:42:22.476Z
+updated: 2024-10-12T19:28:04.271Z
 tags:
   - windows10
   - windows11
@@ -33,19 +33,6 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
 
  To restart, press the**Alt + F4** hotkeys to open the Shut Down Windows prompt, click the drop-down icon, choose**Restart** from the context menu, and then click**OK.** After restart, launch the Xbox app and check if you can choose a different drive to install games. If not, then it's time to dive into the advanced troubleshooting methods.
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Change the Installation Directory in the Xbox App Settings
 
  There are two places from where you can change the installation drive on the Xbox app. One is while installing the game, whereas the other is the Xbox settings menu.
@@ -59,10 +46,17 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
 4. Choose the location where you want to install the game and then click the**Select Folder** option.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Customize the System Settings
@@ -74,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
 3. Click the drop-down icon next to**Advanced storage settings** and choose**Where new content** **is saved** option from the context menu.  
 ![Where new content is saved option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/where-new-content-is-saved.png)
 4. Click the drop-down icon under the**New** **apps** **will save to** section, choose the drive where you want to install the game, and then click**Apply.**  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![New apps will save to section in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/new-apps-will-save-to-section.jpg)
 
@@ -103,10 +90,10 @@ Xbox Live Auth Manager
 Xbox Live Networking Service`
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Reinstall the Gaming Services App
@@ -123,6 +110,14 @@ Xbox Live Networking Service`
 3. Right-click on the**GamingServices** folder in the left sidebar and choose**Delete** from the context menu.  
 ![Delete option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-option.jpg)
 4. Click**Yes** to confirm your selection.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Next, delete the**GamingServicesNet** folder as well in the left sidebar.
 
  Now, open the elevated PowerShell window (see how to[open Windows PowerShell as an administrator](https://www.makeuseof.com/windows-powershell-always-open-as-administrator/) ), type the following command, and press**Enter** .
@@ -132,13 +127,6 @@ Xbox Live Networking Service`
 ![Remove Gaming Services command in PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/remove-gaming-services.jpg)
 
  After uninstalling the Gaming Services app, restart your computer. Then, open the Microsoft Store, search for and[download the Gaming Services](https://apps.microsoft.com/store/detail/gaming-services/9MWPM2CQNLHN?hl=en-us&gl=us) app again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Repair the Xbox App
 
@@ -158,6 +146,13 @@ To update the Xbox app, follow the below steps:
  The Microsoft Store will now automatically download updates for installed apps, including the Xbox app.
 
  While you're at installing updates, we'd also recommend[downloading any available Windows updates](https://www.makeuseof.com/tag/update-windows-software-guide/) . To do so, launch the Settings app, choose**Windows Update** from the left sidebar, and then click the**Check for Updates** button to install any available update on your computer. Following this, you will be able to choose a drive to install games on the Xbox app.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Change the Download Location of the Xbox App
 
@@ -180,22 +175,20 @@ To update the Xbox app, follow the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-the-ultimate-5-gaming-monitors-for-playstation-and-xbox-for-2024/"><u>[New] The Ultimate 5 Gaming Monitors for PlayStation & Xbox for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-assemble-comic-memes-with-giphy/"><u>[Updated] 2024 Approved Assemble Comic Memes with Giphy</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-perfect-livestream-match-10-top-tier-platform-recommendations/"><u>[Updated] Perfect Livestream Match 10 Top-Tier Platform Recommendations</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/deciding-on-your-next-console-compare-the-nintendo-switch-lite-to-the-oled-model/"><u>Deciding on Your Next Console? Compare the Nintendo Switch Lite to the OLED Model</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-puzzling-problem-of-error-code-c0000005-in-win-os/"><u>Fixing the Puzzling Problem of Error Code C0000005 in Win-OS</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/s-guide-to-video-recording-for-2024/"><u>Gamer's Guide to Video Recording for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-on-your-apple-iphone-13-pro-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock on your Apple iPhone 13 Pro and iPad?</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-over-misbehaving-mouse-travel-on-windows/"><u>Mastery Over Misbehaving Mouse Travel on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/maximizing-room-acoustics-with-windows-11/"><u>Maximizing Room Acoustics with Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/migrate-onedrive-to-a-desired-folder-on-win-11/"><u>Migrate OneDrive to a Desired Folder on Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/next-level-smartwatch-experience-how-the-samsung-galaxy-watch-active-2-elevates-from-the-original/"><u>Next Level Smartwatch Experience: How the Samsung Galaxy Watch Active 2 Elevates From the Original</u></a></li>
-<li><a href="https://windows11.techidaily.com/repairing-windows-11s-isdonedll-file-failure/"><u>Repairing Windows 11'S ISDone.dll File Failure</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-remedies-for-fixing-microsoft-store-crash-code-0x80072efd/"><u>Swift Remedies for Fixing Microsoft Store Crash Code 0X80072EFD</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactics-to-mute-hidden-windows-11-processes/"><u>Tactics to Mute Hidden Windows 11 Processes</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-ultimate-guide-to-capturing-life-in-full-hd-with-yi/"><u>The Ultimate Guide to Capturing Life in Full HD with Yi</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-wrp-error-solutions-for-windows-resource-protection-failed-issues/"><u>Troubleshooting WRP Error: Solutions for 'Windows Resource Protection Failed' Issues</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tweettracker-monitor-and-grab-visuals-from-social-feeds-for-2024/"><u>TweetTracker Monitor & Grab Visuals From Social Feeds for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-flipping-the-script-in-photography-how-angles-can-make-or-break-your-insta-posts/"><u>[New] 2024 Approved Flipping the Script in Photography How Angles Can Make or Break Your Insta Posts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-instant-video-playback-on-fb-enabling-auto-play-of-youtube-videos/"><u>[New] 2024 Approved Instant Video Playback on FB Enabling Auto-Play of Youtube Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-advanced-tips-for-capturing-gaming-moments-in-overwatch/"><u>[Updated] Advanced Tips for Capturing Gaming Moments in Overwatch</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-is-itops-feature-set-enough-to-justify-usage-for-2024/"><u>[Updated] Is ITop's Feature Set Enough to Justify Usage for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-driving-engagement-for-social-media-stardom/"><u>2024 Approved Driving Engagement for Social Media Stardom</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-incorporating-live-streaming-your-ultimate-website-guide/"><u>2024 Approved Incorporating Live Streaming Your Ultimate Website Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-absence-of-files-alert-in-windows-11/"><u>Addressing Absence of Files Alert in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/automating-network-drives-on-win11/"><u>Automating Network Drives on Win11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/become-a-facetime-pro-skype-call-basics-for-mobile-users/"><u>Become a Facetime Pro Skype Call Basics for Mobile Users</u></a></li>
+<li><a href="https://win-unique.techidaily.com/guia-paso-a-paso-para-restaurar-una-copia-de-seguridad-en-windows-7/"><u>Guía Paso a Paso Para Restaurar Una Copia De Seguridad en Windows 7</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-the-application-encountered-an-unrecoverable-error-in-roblox-on-windows/"><u>How to Fix the “The Application Encountered an Unrecoverable Error in Roblox on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-fixing-exit-code-errors/"><u>Mastering Windows: Fixing Exit Code Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/realign-your-windows-clock-through-chrome-settings/"><u>Realign Your Windows Clock Through Chrome Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-overcome-audio-glitch-in-win1011/"><u>Strategies to Overcome Audio Glitch in Win10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-uncontrollable-scroll-troubleshooting-steps/"><u>Windows Uncontrollable Scroll: Troubleshooting Steps</u></a></li>
 </ul></div>
 

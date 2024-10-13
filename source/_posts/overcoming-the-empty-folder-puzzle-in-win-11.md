@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Empty Folder Puzzle in Win 11
-date: 2024-10-01T05:59:31.227Z
-updated: 2024-10-06T20:25:22.328Z
+date: 2024-10-06T16:22:11.556Z
+updated: 2024-10-12T18:12:16.900Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
  First, we recommend running a System File Checker scan to check your system's file integrity. This scan can fix corrupted system files affecting how Windows functions. Look at our guide to [running the SFC tool](https://www.makeuseof.com/system-file-checker-sfc-windows/) for further instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Run a Check Disk Repair Scan
 
  The “there are no more files” error isn't commonly known to be a hard drive issue, but don’t rule out such a possibility. An error related to saving files could feasibly have something to do with the health of your PC’s hard drive.
@@ -43,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
  As such, you should run a Check Disk (CHKDSK) scan to check for and address hard disk drive file system errors detected. To do so, follow the guidelines within our [how-to run a CHKDSK scan](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10) article.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Uninstall the ASUS Data Security Manager Software
@@ -64,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-windows-uninstaller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Perform a Clean Boot
@@ -90,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
 ![The System Restore window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-restore-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Perform a Windows Factory Reset
 
  This reset solution will restore your Windows PC to its original factory state. If none of the potential solutions suggested above work for you, resetting Windows is the last thing you should try. Users confirm applying a factory reset fixes the “there are no more files” error.
@@ -99,10 +99,10 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 ![The Keep my files option in the Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-keep-my-files-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Save Your Files Again on Windows
@@ -121,18 +121,20 @@ thumbnail: https://thmb.techidaily.com/0f034b01e896bfeb1b76fcb002ff3f08bf8065e80
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-guide-to-streamlining-console-game-recording/"><u>[Updated] 2024 Approved Guide to Streamlining Console Game Recording</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-create-compelling-content-for-facebook-reels/"><u>[Updated] In 2024, How to Create Compelling Content for Facebook Reels</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-complete-powerdirector-2024-guide/"><u>[Updated] The Complete PowerDirector 2024 Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/gamers-guide-cooling-down-the-heat-of-laptop-games/"><u>Gamer's Guide: Cooling Down the Heat of Laptop Games</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/insta-tones-101-learn-to-design-and-download-on-your-own-for-2024/"><u>Insta Tones 101 Learn to Design and Download on Your Own for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-repair-of-file-corruption-error-code-0x80070570-in-windows-11/"><u>Mastering Repair of File Corruption (Error Code 0X80070570) in Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/optimize-your-pc-effortlessly-with-these-26-free-registry-tools/"><u>Optimize Your PC Effortlessly with These 26 Free Registry Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fixes-to-unblock-your-windows-pin-entry/"><u>Quick Fixes to Unblock Your Windows Pin Entry</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/step-by-step-fixes-for-dvds-that-wont-play-in-your-kodi-or-xbmc-setup-on-tv-and-pc/"><u>Step-by-Step Fixes for DVDs That Won't Play in Your Kodi or XBMC Setup on TV and PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-process-for-distro-and-catroot2-fixes-in-ws11/"><u>The Ultimate Process for Distro & Catroot2 Fixes in WS11</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-routes-for-steam-connection-failures/"><u>Troubleshooting Routes for Steam Connection Failures</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-11-proxies-a-practical-guide-to-enhanced-privacy/"><u>Win 11 Proxies: A Practical Guide to Enhanced Privacy</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-bandicam-screen-recorder-review/"><u>[New] 2024 Approved Bandicam Screen Recorder Review</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-transitioning-playlists-from-spotify-to-a-tailored-youtube-music-list/"><u>[New] 2024 Approved Transitioning Playlists From Spotify to a Tailored YouTube Music List</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-transforming-your-imagery-a-thorough-analysis-of-the-background-erase-tool-in-photoshop-for-2024/"><u>[New] Transforming Your Imagery A Thorough Analysis of the Background Erase Tool in Photoshop for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-revenue-verification-confirming-pro-rated-earnings-for-2024/"><u>[Updated] YouTube Revenue Verification Confirming Pro-Rated Earnings for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/harnessing-ai-for-text-whisper-transcription-guide-for-windows-users/"><u>Harnessing AI for Text: Whisper Transcription Guide for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/manual-inspections-to-detect-malicious-programs/"><u>Manual Inspections to Detect Malicious Programs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-solutions-for-resolving-game-crashes-in-ghost-recon-breakpoint/"><u>Quick Solutions for Resolving Game Crashes in Ghost Recon Breakpoint</u></a></li>
+<li><a href="https://windows11.techidaily.com/rebuilding-dotnet-windows-fixes-to-remember-max-156/"><u>Rebuilding DotNet: Windows Fixes to Remember (Max 156)</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-ea-server-connection-failure-in-windows/"><u>Resolving EA Server Connection Failure in Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-mfc71dll-file-missing-or-cannot-be-located-issues/"><u>Resolving MFC71.DLL File Missing or Cannot Be Located Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-an-old-pc-heres-why-you-might-want-to-ditch-windows/"><u>Reviving an Old PC? Here's Why You Might Want to Ditch Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-code-workflows-with-windows-11s-developer-environment/"><u>Streamlining Code Workflows with Windows 11'S Developer Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-ideas-to-art-the-leading-7-drawing-apps-for-win10-users/"><u>Transforming Ideas to Art: The Leading 7 Drawing Apps for Win10 Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-for-iphone-usb-device-connection-error-successful-solutions/"><u>Troubleshooting Guide for iPhone USB Device Connection Error - Successful Solutions!</u></a></li>
+<li><a href="https://games-able.techidaily.com/upgrade-your-gaming-rig-not-just-the-graphics/"><u>Upgrade Your Gaming Rig, Not Just the Graphics</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How To Locate Missing Gateway: Ubisoft's Launcher"
-date: 2024-09-09T11:58:15.602Z
-updated: 2024-09-10T11:58:15.602Z
+date: 2024-10-10T20:42:24.667Z
+updated: 2024-10-12T23:09:15.510Z
 tags:
   - windows10
   - windows11
@@ -20,12 +20,6 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 
  Many players have reported this error message pops up when trying to start Assassin’s Creed titles. However, it can also arise for other Ubisoft games. This is how you can fix the “Unable to find the Ubisoft Game Launcher” error in Windows 11/10.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Don’t Use Game Shortcuts
 
  If you’re trying to start a Ubisoft game with a desktop shortcut, there could be an issue with the shortcut. So, try launching the same game from within Ubisoft Connect instead. Recreate the game’s shortcut if that potential fix works.
@@ -36,20 +30,8 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 
 ![Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-this-program-as-administrator-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  So, make sure you’re running Ubisoft Connect with admin rights. It’s better to permanently set the Ubisoft client to run with elevated rights instead of selecting the**Run as administrator** context menu option for that software. Our[how-to always run Windows apps as an administrator guide](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) tells you how to set programs to run with elevated permissions.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Run the Affected Game in Compatibility Mode
 
  If the “Unable to find the Ubisoft Game Launcher” error occurs for an older game that predates Windows 10, try running the game in compatibility mode as well. You can do that by selecting a**Run this program in compatibility** mode setting on the same tab that includes the**Run this program as administrator** option. Then select the Windows platform the game was originally designed for in the drop-down menu.
@@ -70,15 +52,24 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 4. Next, click the cache folder with the mouse’s right button to select**Rename** .  
 ![The Rename option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/rename-option.jpg)
 5. Change the folder’s name to cache\_backup and press**Return** .
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. Then launch the Ubisoft Connect software.
 
  In addition, select to delete game installer files within a cache subfolder. You can do that by clicking the menu button in the top-left corner of Ubisoft Connect to select**Settings** and**Downloads** . Press the**Download** tab’s**Delete all game installers** button.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Disable Antivirus Shields
 
@@ -88,28 +79,17 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 
 ![Windows Security settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-security-settings.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Users who’ve installed third-party security software packages will need to disable their protection features. To do that, right-click an antivirus icon inside the Windows system tray to view its context menu. Then select an option for temporarily disabling the antivirus on that menu.
 
  When you’ve disabled antivirus shields, start the affected game again. It’s not recommended to leave antivirus shields permanently turned off if this potential solution works. Instead, add the game’s installation folder to your antivirus tool’s exceptions list.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Reinstall the Game
 
  Reinstalling an affected game will replace all its files, which can resolve many potential issues. Even the “Unable to find the Ubisoft Game Launcher” error message suggests reinstalling the game. So, applying such a potential solution could resolve this issue in some cases. You can reinstall an affected game within Ubisoft Connect like this:
@@ -124,11 +104,12 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
  If the game uses cloud backup, you won’t lose any saved data when reinstalling it. You can back up saved games for other titles that don’t support cloud saves, as instructed on this Ubisoft support page.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Reinstall Ubisoft Connect
 
  Reinstalling Ubisoft Connect is a widely confirmed solution for the “Unable to Find the Ubisoft Game Launcher” error. To reinstall that gaming client, uninstall it via the Control Panel as instructed within this[guide about uninstalling Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) . You’re given the option to keep or preserve games installed with the client when uninstalling Ubisoft Connect.
@@ -140,17 +121,12 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
  It’s also recommended to disable antivirus software while reinstalling Ubisoft Connect. So, temporarily turn off the Windows Security or third-party antivirus protection, as discussed in resolution six, before opening the Ubisoft Connect installer. Then restore the antivirus shield after reinstalling.
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Enjoy Your Ubisoft Games Again
 
  The “Unable to find the Ubisoft Game Launcher” error is an old issue that has blighted Ubisoft’s gaming client for many years. You’ll probably be able to get that error resolved by applying the potential fixes above. Then you can enjoy your favorite Ubisoft Windows games again.
@@ -161,8 +137,6 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +144,17 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-battery-packs-and-charger-systems-for-hero5/"><u>2024 Approved Superior Battery Packs and Charger Systems for Hero5</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-realme-12plus-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Realme 12+ 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-increase-disk-size-in-windows-carefully/"><u>How to Increase Disk Size in Windows Carefully</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-deskjet-driver-setup-and-download-compatible-with-all-windows-versions/"><u>HP DeskJet Driver Setup & Download: Compatible with All Windows Versions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-convenient-hp-recording-strategies-for-seamless-productivity/"><u>In 2024, Convenient HP Recording Strategies for Seamless Productivity</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-your-security-crafting-unique-lock-patterns-for-windows-11/"><u>Revolutionize Your Security: Crafting Unique Lock Patterns for Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-stanley-j5c09-big-on-capabilities/"><u>The Ultimate Guide to the Stanley J5C09 - Big on Capabilities</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-list-of-6-performance-monitor-apps-for-pcs/"><u>The Ultimate List of 6 Performance Monitor Apps For PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/tricks-save-and-access-onedrive-around-clients/"><u>Tricks: Save & Access OneDrive Around Clients</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-masterclass-carving-out-your-digital-self-for-2024/"><u>YouTube Masterclass Carving Out Your Digital Self for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "From 4 to 16GB: The Evolution in Windows Computing Power"
-date: 2024-10-02T16:08:13.741Z
-updated: 2024-10-06T19:34:47.765Z
+date: 2024-10-06T17:03:20.436Z
+updated: 2024-10-12T17:13:43.729Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 * [Why Is Microsoft Setting a Baseline of 16GB of RAM?](#why-is-microsoft-setting-a-baseline-of-16gb-of-ram)
 * [Is Setting 16GB RAM as the New Standard Good News for You?](#is-setting-16gb-ram-as-the-new-standard-good-news-for-you)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Microsoft is pushing for 16GB of RAM as the minimum for new devices, possibly to support AI-based processes.
@@ -37,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
  As operating systems become more complex, the minimum specifications for new PCs rise to meet them. Recent reports claim that Microsoft is pushing to have 16GB of RAM become the minimum amount of memory for new devices. But why would it make that change, and is this good for you?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is RAM?
@@ -62,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
  Right now, you can purchase a new PC with 8GB of RAM minimum. If this report is accurate, these models will eventually be phased out, and 16GB computers will take their place as the baseline.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Is Microsoft Setting a Baseline of 16GB of RAM?
@@ -73,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 ![The Microsoft Copilot logo](https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f48662a5ae5f051ec41bdae27.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Unsplash](https://unsplash.com/photos/blue-and-pink-light-illustration-LeG68PrXA6Y)
@@ -99,19 +106,6 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
  Windows 12 is currently believed to have a 2025 release date, which gives Microsoft a lot of time to work on implementing artificial intelligence into its operating system. And for people to make the most of Windows 12, Microsoft needs new PCs to have enough RAM to support it; hence the 16GB suggestion.
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is Setting 16GB RAM as the New Standard Good News for You?
 
  While Microsoft has reasons for upping the minimum amount of RAM, it's easy to be skeptical about its claims. Who's to say this isn't just a move to raise the demand for RAM and force hardware prices up? Is 16GB of RAM really necessary?
@@ -132,22 +126,22 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/mov-file-saving-techniques-for-windows-11-users-for-2024/"><u>.MOV File Saving Techniques for Windows 11 Users for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-pulsating-performance-audio-addition-to-videos-on-win11/"><u>[New] Pulsating Performance Audio Addition to Videos on Win11</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-instagram-success-harness-the-power-of-ig-data-for-2024/"><u>[Updated] Mastering Instagram Success Harness the Power of IG Data for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expertly-assembled-computers-mastering-high-end-performance-demands/"><u>Expertly Assembled Computers: Mastering High-End Performance Demands</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-download-interruptions-for-xbox-software/"><u>Fixing Download Interruptions for Xbox Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/guidelines-for-restoring-defective-discord-game-detection-on-pcs/"><u>Guidelines for Restoring Defective Discord Game Detection on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/pinpointing-and-fixing-sound-issues-in-windows/"><u>Pinpointing and Fixing Sound Issues in Windows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/present-day-drones-and-their-upcoming-role-evolution-for-2024/"><u>Present-Day Drones and Their Upcoming Role Evolution for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-stagnant-utorrent-transfers-on-windows/"><u>Remedying Stagnant uTorrent Transfers on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/revolutionize-windows-with-key-optimization-tools/"><u>Revolutionize Windows with Key Optimization Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/switching-up-task-managers-launch-screen-in-windows-11/"><u>Switching up Task Manager's Launch Screen in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/track-down-the-file-where-your-desktop-image-stores/"><u>Track Down the File Where Your Desktop Image Stores</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-disconnected-steam-in-windows/"><u>Troubleshooting Disconnected Steam in Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-an-unresponsive-xbox-one-contoller-quick-fixes/"><u>Troubleshooting Tips for an Unresponsive Xbox One Contoller - Quick Fixes!</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/tunemaster-pro-how-to-download-and-assess/"><u>TuneMaster Pro How to Download & Assess</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-creative-and-catchy-ringtone-selections-for-modern-phones-for-2024/"><u>Updated Creative and Catchy Ringtone Selections for Modern Phones for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/zte-blade-a73-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>ZTE Blade A73 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-compile-list-of-cost-efficient-vecto-art-sites/"><u>[New] Compile List of Cost-Efficient Vecto Art Sites</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-helmet-to-high-definition-top-5-cams-for-riders-23-edition/"><u>[New] In 2024, Helmet to High Definition Top 5 Cams for Riders, '23 Edition</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-secure-recording-methods-for-sensitive-whatsapp-discussions/"><u>[New] In 2024, Secure Recording Methods for Sensitive WhatsApp Discussions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-mastering-object-extraction-in-iphone-photography-with-top-6-apps/"><u>[New] Mastering Object Extraction in iPhone Photography with Top 6 Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-sea-of-thieves-wont-launch/"><u>[Solved] Sea of Thieves Won't Launch</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-youtube-clip-maker/"><u>2024 Approved Youtube Clip Maker</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-display-glitch-geforce-experience-x0001/"><u>Fixing Display Glitch: GeForce Experience X0001</u></a></li>
+<li><a href="https://windows11.techidaily.com/innovative-ways-to-initiate-windows-based-software/"><u>Innovative Ways to Initiate Windows-Based Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/minimize-high-usage-windows-11-news-and-media-feats/"><u>Minimize High Usage Windows 11 News & Media Feats</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-intel-unison-app-for-seamless-windows-phone-calls/"><u>Navigating Intel Unison App for Seamless Windows Phone Calls</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-update-pitfalls-0x30017/"><u>Navigating Through Windows Update Pitfalls (0X30017)</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-your-workflow-keep-gmail-pinned-for-easy-viewing/"><u>Optimize Your Workflow: Keep Gmail Pinned for Easy Viewing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/poco-c65-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Poco C65 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://windows11.techidaily.com/speed-up-taskbar-interaction-enabledisable-ai-on-win-11/"><u>Speed Up Taskbar Interaction: Enable/Disable AI on Win 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-blueprint-to-surge-in-youtubers-popularity/"><u>The Blueprint to Surge in Youtubers' Popularity</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-fixing-a-non-functional-samsung-blu-ray-player/"><u>Troubleshooting: Fixing a Non-Functional Samsung Blu-Ray Player</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-sleep-mode-anomalies-why-it-frustrates-users/"><u>Windows' Sleep Mode Anomalies: Why It Frustrates Users</u></a></li>
 </ul></div>
 

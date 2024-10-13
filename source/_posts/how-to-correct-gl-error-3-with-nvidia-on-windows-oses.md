@@ -1,7 +1,7 @@
 ---
 title: How to Correct GL Error 3 with Nvidia on WIndows OSes
-date: 2024-09-09T11:58:19.986Z
-updated: 2024-09-10T11:58:19.986Z
+date: 2024-10-11T23:10:54.210Z
+updated: 2024-10-13T02:14:15.253Z
 tags:
   - windows10
   - windows11
@@ -33,18 +33,6 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 6. Select the**Prefer maximum performance** option.  
 ![The Prefer maximum performance option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/prefer-maximum-performance-option.jpg)
 7. Press the NVIDIA Control Panel’s**Apply** button.
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Then click**Start** ,**Power** , and the**Restart** option.
 
  Alternatively, you can set maximum performance specifically for an affected app instead. To do so, click the**Programs Settings** tab in NVIDIA Control Panel. Select the software for which error code 3 arises within the**Select a program to customize** drop-down menu. Then select**Prefer maximum performance** in the program settings and click**Apply** .
@@ -59,17 +47,12 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 4. Select the**3D App – Visual Simulation** setting on the menu.  
 ![The Visual Simulation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/visual-simulation-setting-1.jpg)
 5. Click**Apply** to set the selected preset option.
+
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Roll Back an NVIDIA Graphics Driver Update
@@ -83,11 +66,12 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
  Select**Yes** to roll back the driver, then restart the PC before you try opening affected apps and games again.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Select the Repair and Reset Options for the Affected App
 
  If error code 3 occurs for a Universal Windows Platform app or game, try fixing it with the**Repair** or**Reset** options. Each UWP app has options for repairing and resetting you can select within Settings. Check out our article about[resetting apps in Windows 11](https://www.makeuseof.com/windows-reset-app/) to clear the app’s data.
@@ -96,41 +80,31 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 
 ![The Repair and Reset options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-repair-and-reset-options.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Reinstall the Affected Software
 
  The software for which error code 3 occurs might have corrupted DLL files. Reinstalling the affected software will repair corrupted files by replacing them with fresh new ones. You can remove desktop software or UWP apps via Settings or the Control Panel (Programs and Features) as outlined in our[article about uninstalling programs within Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) .
 
 ![The Programs and Features Control Panel applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/programs-and-features3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then reinstall the uninstalled program in Windows. First, download the latest software version, preferably from the publisher’s website. Open the folder containing the downloaded installer and double-click that setup wizard to reinstall its software.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Cleanly Reinstall the NVIDIA Graphics Driver
 
  The OpenGL error code 3 message suggests an issue with your PC’s graphics (GPU) driver. Reinstalling the NVIDIA display driver could fix such an issue. We recommend that you cleanly reinstall your graphics card’s driver as covered in our guide to[cleanly reinstalling GPU drivers on Windows](https://www.makeuseof.com/how-to-cleanly-install-and-reinstall-gpu-drivers-on-windows/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Reset Windows
 
@@ -140,12 +114,6 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
 
  Therefore, resetting Windows is a drastic troubleshooting method, but it's also one that often works. Our guide on[how to reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=If%20you're%20on%20Windows,Windows%2011%20and%20Windows%2010.) tells you how to apply this potential resolution with the Reset this PC tool. You can at least select to preserve all your user files by resetting your PC with that utility.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stop Error Code 3 Crashing Your Software on Windows
 
  Those potential fixes will probably stop error code 3 crashing software packages on most Windows 10 and 11 PCs. The most widely confirmed solutions for that OpenGL issue are to select the maximum performance and 3D App Visual Simulation settings in NVIDIA Control Panel. However, some users might need to reinstall affected apps and NVIDIA drivers or even reset Windows to get this issue fixed.
@@ -156,8 +124,6 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +131,20 @@ thumbnail: https://thmb.techidaily.com/888d11958fd59cee20dd0880994e49d2be7569646
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-real-time-screen-replay-on-chrome-pcs/"><u>2024 Approved Real-Time Screen Replay on Chrome PCs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/descargar-y-convertir-archivos-aif-a-formato-mp3-de-forma-gratuita-con-herramientas-en-linea-guia-completa/"><u>Descargar Y Convertir Archivos AIF a Formato MP3 De Forma Gratuita Con Herramientas en Línea: Guía Completa</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-to-windows-arp-cache-and-its-clearance-136-chars-exceeds-limit-adjusted-to-fit-better-clearing-windows-arp/"><u>Essential Guide to Windows ARP Cache and Its Clearance (136 Chars, Exceeds Limit, Adjusted to Fit Better: Clearing Windows ARP</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-lgs-ultra-clear-4k-screen-capabilities/"><u>Exploring LG's Ultra-Clear 4K Screen Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-premier-ranking-of-outstanding-stop-motion-films/"><u>In 2024, The Premier Ranking of Outstanding Stop-Motion Films</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oneplus-nord-n30-se-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change OnePlus Nord N30 SE IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ios-users-check-this-out-chatgpt-app/"><u>IOS Users, Check This Out: ChatGPT App</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-network-failure-0x800704b3-in-windows-1011/"><u>Overcoming Network Failure 0X800704B3 in Windows 10/11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/personalized-chatbots-crafting-with-advanced-gpt-tools/"><u>Personalized ChatBots: Crafting with Advanced GPT Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/process-to-undo-system-image-fault-0x80780119/"><u>Process to Undo System Image Fault: 0X80780119</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-common-issues-with-youtube-connectivity-problems-explained/"><u>Understanding Common Issues with YouTube Connectivity Problems Explained</u></a></li>
+<li><a href="https://network-issues.techidaily.com/unmasking-the-non-detection-of-pc-gpu-issue/"><u>Unmasking the Non-Detection of PC GPU Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-prints-back-on-fixing-an-offline-printer/"><u>Win-Prints Back On! Fixing an Offline Printer</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating the 'Not Written' Memory Crisis in Win
-date: 2024-10-06T01:18:10.602Z
-updated: 2024-10-07T04:43:57.028Z
+date: 2024-10-11T21:30:24.891Z
+updated: 2024-10-12T16:24:50.794Z
 tags:
   - windows10
   - windows11
@@ -41,14 +41,14 @@ Here are a few solutions to fix this annoying problem.
 
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
 
- Refer to our[guide on running the SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) if you aren't familiar with using it and analyzing its results.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Refer to our[guide on running the SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) if you aren't familiar with using it and analyzing its results.
 
 ## 3\. Perform a Clean Boot to Disable Third-Party Services
 
@@ -56,14 +56,14 @@ Here are a few solutions to fix this annoying problem.
 
 ![hide all microsoft services clean boot windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hide-all-microsoft-services-clean-boot-windows-11.jpg)
 
- It's easy to clean boot your PC. If you're unfamiliar with it, refer to our guide on performing a clean boot on[Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) or[Windows 10](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) .
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ It's easy to clean boot your PC. If you're unfamiliar with it, refer to our guide on performing a clean boot on[Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) or[Windows 10](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) .
 
 ## 4\. Run a Memory Diagnostic Check
 
@@ -72,13 +72,20 @@ Here are a few solutions to fix this annoying problem.
 ![Windows memory diagnostic tool restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tool-restart.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the system detects any problems with your RAM, get it checked as soon as possible. If a severe technical issue affects your PC's memory, it could fail at the most inopportune moment. If you keep using it without having it at least checked, your memory modules might break while you're in the middle of catching a deadline. Avoid this trouble by installing reliable RAM sticks on your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Increase the Virtual Memory
 
@@ -89,10 +96,10 @@ Here are a few solutions to fix this annoying problem.
  If you've never changed the virtual memory before, refer to our guide about[increasing the virtual memory in Windows 11](https://www.makeuseof.com/how-increase-virtual-memory-windows-11/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Repair Corrupted App or Game Files
@@ -112,13 +119,6 @@ Here are a few solutions to fix this annoying problem.
 ## 8\. Repair the .Net Framework on Windows
 
  The .Net framework a necessary for running many apps on your PC. If it's corrupted, it can cause memory issues and more. To fix this issue, you can run the SFC scan we mentioned in step two. You can also check out the other ways to[repair the .Net framework on Windows](https://www.makeuseof.com/windows-repair-net-framework/) to get it running again.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Configure the Problem App to Use a Different GPU
 
@@ -145,22 +145,16 @@ Here are a few solutions to fix this annoying problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-essential-guide-to-tracking-igtv-viewership-metrics/"><u>[New] 2024 Approved The Essential Guide to Tracking IGTV Viewership Metrics</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-influencer-innovation-the-top-5-instagram-tactics-for-maximum-impact-for-2024/"><u>[New] Influencer Innovation The Top 5 Instagram Tactics for Maximum Impact for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-building-brands-earning-dollars-a-comprehensive-guide-to-insta-sponsorships/"><u>[Updated] Building Brands, Earning Dollars A Comprehensive Guide to Insta-Sponsorships</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/exclusive-look-at-microsofts-breakthrough-homemade-network-gear-optimized-for-machine-learning-hubs-update/"><u>Exclusive Look at Microsoft’s Breakthrough: Homemade Network Gear Optimized for Machine Learning Hubs - Update</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-hp-universal-print-driver-for-windows-computers-here/"><u>Get the Latest HP Universal Print Driver for Windows Computers Here</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-master-windows-odbc-connection-management/"><u>How to Master Windows ODBC Connection Management</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-optimize-your-windows-11-pc-for-maximum-efficiency/"><u>How to Optimize Your Windows 11 PC for Maximum Efficiency</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-8-plus-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 8 Plus From Your Apple ID</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-comprehensive-guide-record-webcam-in-hd-via-vlc/"><u>In 2024, Comprehensive Guide Record Webcam in HD via VLC</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-to-reduceeliminate-laptop-screen-yellow-hue/"><u>Methods to Reduce/Eliminate Laptop Screen Yellow Hue</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/motorola-edge-2023-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Edge 2023 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-tips-for-efficient-text-editing-in-win-11s-snipt/"><u>Quick Tips for Efficient Text Editing in Win 11'S Snipt</u></a></li>
-<li><a href="https://windows11.techidaily.com/synchronized-shutdown-a-windows-user-written-guide/"><u>Synchronized Shutdown: A Windows User' Written Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/turn-your-favorite-websites-into-windows-tools/"><u>Turn Your Favorite Websites Into Windows Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleash-your-inner-explorer-optimal-classic-gaming-in-hd-on-pcs-via-scummvm/"><u>Unleash Your Inner Explorer: Optimal Classic Gaming in HD on PCs via ScummVM</u></a></li>
-<li><a href="https://windows11.techidaily.com/utilizing-microsoft-copilot-for-enhanced-software-design/"><u>Utilizing Microsoft Copilot for Enhanced Software Design</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-evolution-the-significant-changes-from-w10-to-w11/"><u>Windows Evolution: The Significant Changes From W10 to W11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-voice-transformation-top-7-innovative-mobile-apps/"><u>[New] 2024 Approved Voice Transformation Top 7 Innovative Mobile Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-pixel-to-perfection-hardware-or-code-for-streamers/"><u>[New] Pixel to Perfection Hardware or Code for Streamers?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-sizing-up-how-to-make-videos-work-in-instagram-bests-for-2024/"><u>[New] Sizing Up How to Make Videos Work in Instagram Bests for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-pathway-autoplay-youtube-videos-within-fb-networks/"><u>[New] The Ultimate Pathway Autoplay YouTube Videos Within FB Networks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-comprehensive-assessment-of-frozen-treats-on-display/"><u>2024 Approved Comprehensive Assessment of Frozen Treats on Display</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-innovation-best-windows-devices-for-24/"><u>Exploring Innovation - Best Windows Devices for '24</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enable-the-home-section-in-the-settings-app-in-windows-11/"><u>How to Enable the Home Section in the Settings App in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-package-control-with-winget-on-win11/"><u>Navigating Package Control with Winget on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reset-your-screen-quickly-when-black-hits/"><u>Reset Your Screen Quickly When Black Hits</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-new-wave-in-smart-displays-2nd-generation-google-nest-hub-review-and-its-potential-with-a-camera-upgrade/"><u>The New Wave in Smart Displays: 2Nd Generation Google Nest Hub Review and Its Potential With A Camera Upgrade</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719268966849-windows-users-save-your-keys-from-failure/"><u>Windows Users: Save Your Keys From Failure!</u></a></li>
 </ul></div>
 

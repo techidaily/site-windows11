@@ -1,7 +1,7 @@
 ---
 title: Understanding and Tackling the 'USB Disconnected' Error in VirtulBox
-date: 2024-09-27T17:45:14.842Z
-updated: 2024-10-01T19:10:45.606Z
+date: 2024-10-09T22:12:14.813Z
+updated: 2024-10-12T21:46:55.051Z
 tags:
   - windows10
   - windows11
@@ -40,13 +40,6 @@ Here are some possible reasons for the VirtualBox USB devices error.
 
  Now that we know what's potentially causing the issue, let's explore the fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Restart VirtualBox
 
  Before you move on to other advanced fixes, restart the VirtualBox application. If restarting the app doesn’t work, restart Windows. It will restart all the processes and services including the ones VirtualBox needs to function properly. Now, connect a USB device and try to attach it to a virtual machine in VirtualBox. If it still doesn’t show up, move to the next fix.
@@ -59,15 +52,22 @@ Here are some possible reasons for the VirtualBox USB devices error.
 ![Check the USB Device on the Host System](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Check-the-USB-Device-on-the-Host-System.jpg)
 2. Navigate to the**Disk Drives** option and click the**arrow** icon to expand the section.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Find the USB drive you connected to the host system. If it is not present in the list, pull it out and reconnect it to another USB port on your system.
 
  If the USB port on your system malfunctions, the USB drive won’t show up in Device Manager or File Explorer. But if the USB drive doesn’t appear in the device manager even after changing the port, it could have a hardware malfunction. In that case, try connecting another USB drive to VirtualBox virtual machine.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Install the VirtualBox Extension Pack
@@ -85,10 +85,10 @@ Here are some possible reasons for the VirtualBox USB devices error.
 8. Run the virtual machine and try to connect the USB device to it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Update VirtualBox
@@ -101,13 +101,6 @@ Here are some possible reasons for the VirtualBox USB devices error.
 4. Close the VirtualBox app and end all associated processes using Task Manager.
 5. Run the downloaded executable file and follow the on-screen instructions to install it on your system. Also, install the extension pack as illustrated in Method 3 above.
 6. Now, try to connect the USB device to the virtual machine using the settings menu.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Configure the USB Controller in Virtual Machine Settings
 
@@ -134,10 +127,10 @@ Here are some possible reasons for the VirtualBox USB devices error.
 6. Close Virtual Box and restart your system. Connect the USB device to the virtual machine and check whether the error code pops up.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. Reinstall VirtualBox
@@ -153,6 +146,13 @@ Here are some possible reasons for the VirtualBox USB devices error.
 5. Now visit the[official VirtualBox website](https://www.virtualbox.org/wiki/Downloads) and download the app and the corresponding extension pack.
 6. Open the download location and run the setup file. Follow the on-screen prompts to install and then install the extension pack as described in method 3.
 7. Now, attach a USB device and start the virtual machine to check if the error code occurs or not.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Easily Connect USB Devices to Your Virtual Machine Once More
 
@@ -173,22 +173,22 @@ Here are some possible reasons for the VirtualBox USB devices error.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-discreetly-discovering-stories-with-these-apps/"><u>[New] Discreetly Discovering Stories with These Apps</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-techniques-for-transforming-facespace-lives-into-tv-content/"><u>[New] Techniques for Transforming Facespace Lives Into TV Content</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-unlock-creative-potential-advanced-zooming-on-snapchat-for-2024/"><u>[New] Unlock Creative Potential Advanced Zooming on Snapchat for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-team-videography-methods-for-channel-expansion/"><u>[Updated] Team Videography Methods for Channel Expansion</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-elevate-live-streaming-on-mac-a-guide-to-1-5-tools/"><u>2024 Approved Elevate Live Streaming on Mac A Guide to #1-5 Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-error-messages-post-installed-application-failure/"><u>Deciphering Error Messages Post Installed Application Failure</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-open-wordpad-in-windows/"><u>How to Open WordPad in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-overcome-mb-service-connections-problem-on-win11-pc/"><u>How to Overcome MB Service Connections Problem on Win11 PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-y200-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo Y200 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-official-4-best-ways-to-get-filmora-discount-codes-for-2024/"><u>New Official 4 Best Ways to Get Filmora Discount Codes for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/revisiting-microsofts-phone-tethering-for-windows-11-users/"><u>Revisiting Microsoft's Phone Tethering for Windows 11 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-prevent-and-fix-windows-error-code-0xc00000f/"><u>Strategies to Prevent & Fix Windows Error Code 0Xc00000f</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/the-best-places-for-finding-attractive-free-tiktok-bg-videos-for-2024/"><u>The Best Places for Finding Attractive Free TikTok BG Videos for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-the-drm-removal-process-a-step-by-step-guide/"><u>Understanding the DRM Removal Process: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-powertoys-worldwide-mouse-capabilities/"><u>Unlock PowerToy's Worldwide Mouse Capabilities</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-11-tackle-icons-not-aligned/"><u>Win 11: Tackle Icons Not Aligned</u></a></li>
-<li><a href="https://windows11.techidaily.com/your-missing-flight-tech-copilot-in-new-os/"><u>Your Missing Flight Tech (Copilot) in New OS?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-decades-leading-guide-to-budget-friendly-recorders/"><u>[New] Decade's Leading Guide to Budget-Friendly Recorders</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfect-your-subtitle-skills-with-this-complete-guide-and-tips/"><u>[New] Perfect Your Subtitle Skills with This Complete Guide & Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-shot-matchmaking-optimal-gimbals-for-dslr-quality-vids/"><u>[Updated] Best Shot Matchmaking Optimal Gimbals for DSLR-Quality Vids</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-reasons-to-choose-windows-10-over-windows-11/"><u>7 Reasons to Choose Windows 10 Over Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-comprehensive-overview-using-bluescreenview/"><u>A Comprehensive Overview: Using BlueScreenView</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-step-by-step-approach-for-cleaning-up-ms-audit-records/"><u>A Step-by-Step Approach for Cleaning Up MS Audit Records</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-unavailable-display-settings-in-nvidia-software/"><u>Addressing Unavailable Display Settings in Nvidia Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/alter-ip-settings-with-confidence-windows-11/"><u>Alter IP Settings with Confidence (Windows 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/analyzing-space-efficiency-of-windows-software/"><u>Analyzing Space Efficiency of Windows Software</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-companions-for-podcast-lovers-activities-and-tasks/"><u>Best Companions for Podcast Lovers Activities and Tasks</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-up-steam-cloud-errors/"><u>Clearing Up Steam Cloud Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-windows-11-shortcut-personalization-techniques/"><u>Cutting-Edge Windows 11 Shortcut Personalization Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-5-best-racing-simulator-games/"><u>In 2024, 5 Best Racing Simulator Games</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/polishing-your-presentations-expert-video-editing-for-instagram-for-2024/"><u>Polishing Your Presentations Expert Video Editing for Instagram for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/reclaiming-microsoft-store-functionality-on-windows-devices/"><u>Reclaiming Microsoft Store Functionality on Windows Devices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-tiers-exploring-the-structure-of-royal-match/"><u>Unveiling the Tiers: Exploring the Structure of 'Royal Match'</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-your-devices-identity-locating-the-windows-10-build-version/"><u>Unveiling Your Device's Identity: Locating the Windows 10 Build Version</u></a></li>
 </ul></div>
 

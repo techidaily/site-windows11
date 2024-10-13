@@ -1,7 +1,7 @@
 ---
 title: Rectifying 'Device Not Initialized' Warning in Win 11
-date: 2024-10-05T17:21:34.674Z
-updated: 2024-10-07T01:16:19.556Z
+date: 2024-10-11T19:47:02.367Z
+updated: 2024-10-12T23:35:46.568Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 
  Knowing the reasons behind the error message, let's get into all the working fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Try the Basic Repairs
 
  The first thing you must do whenever you come across the Unknown USB Device, Port Reset Failed error is to[restart your device](https://www.makeuseof.com/windows-restart-methods/) . Restarting the computer will fix the issue if a temporary glitch is the reason behind it.
@@ -55,16 +62,16 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 
  That's it. Now, wait until the scan is complete. Once done, check if the issue continues.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Use the Hardware and Devices Troubleshooter
 
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Hardware-and-Devices-Troubleshooter-on-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Windows offers various troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/) that you can use to get rid of different kinds of system issues. One of these troubleshooters is the Hardware and Devices troubleshooter, which you can use to eliminate most hardware-related issues.
 
@@ -105,19 +112,19 @@ Next, restart your computer and check for the problem.
 4. In the new window that crops up, select the**Search automatically for drivers** option.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, wait until Windows searches for any available driver update online and install it on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Reinstall All the USB Controllers
@@ -130,10 +137,10 @@ Next, restart your computer and check for the problem.
  Next, restart your computer and plug in the USB device again. Check if you still see the error message. If yes, continue with the guide.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Disable the USB Selective Suspend Setting
@@ -146,13 +153,6 @@ Next, restart your computer and check for the problem.
 4. Choose**Disabled** for both**On battery** and**Plugged in** options.  
 ![Disable USB Selective Setting in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-usb-selective-setting.jpg)
 5. Click**Apply** \>**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Update Your BIOS
 
@@ -181,21 +181,24 @@ Next, restart your computer and check for the problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-androidios-the-ultimate-free-image-editing-tool-guide-top-10/"><u>[New] Android/iOS The Ultimate Free Image Editing Tool Guide (Top 10)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-exclusive-guide-to-audio-alchemy-sites-for-2024/"><u>[Updated] Exclusive Guide to Audio Alchemy Sites for 2024</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/discover-the-best-no-cost-mp3-file-sharing-platforms-for-your-audio-collection/"><u>Discover the Best No-Cost MP3 File Sharing Platforms for Your Audio Collection</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor 90? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-lava-yuva-3-pro-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Lava Yuva 3 Pro FRP Without Computer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/modernize-your-tablet-interface-with-the-latest-wacom-cintiq-driver-upgrade/"><u>Modernize Your Tablet Interface with the Latest Wacom Cintiq Driver Upgrade</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-and-rectifying-steam-installation-issues-win11-edition/"><u>Navigating and Rectifying Steam Installation Issues, Win11 Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-issues-with-touchpad-gestures-in-windows-systems/"><u>Overcoming Issues with Touchpad Gestures in Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-the-net-runtime-issue-on-your-system/"><u>Overcoming the .NET Runtime Issue on Your System</u></a></li>
-<li><a href="https://windows11.techidaily.com/pathway-to-correcting-windows-backup-settings/"><u>Pathway to Correcting Windows Backup Settings</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-how-to-fix-couldnt-retrieve-directory-information-on-kodi/"><u>Resolved! How to Fix 'Couldn’t Retrieve Directory Information' On Kodi</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamlessly-integrate-windows-11-into-your-routine/"><u>Seamlessly Integrate Windows 11 Into Your Routine</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-for-a-shaky-cursor-on-windows-pcs/"><u>Solutions for a Shaky Cursor on Windows PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-troubleshoot-processes-in-win10win11/"><u>Streamlining Troubleshoot Processes in Win10/Win11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-vivo-v27-by-drfone-android/"><u>Three Ways to Sim Unlock Vivo V27</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-poco-m6-pro-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Poco M6 Pro 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-things-that-you-should-know-about-youtube-keyword-research/"><u>[New] 2024 Approved Things That You Should Know About YouTube Keyword Research</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-hubsan-x4-quadcopter-examination-an-in-depth-guide-for-2024/"><u>[New] Hubsan X4 Quadcopter Examination An In-Depth Guide for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-network-security/"><u>[Updated] Network Security</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-your-ultimate-companion-a-stepwise-approach-to-filming-with-logitech/"><u>[Updated] Your Ultimate Companion A Stepwise Approach to Filming with Logitech</u></a></li>
+<li><a href="https://windows11.techidaily.com/activatingdeactivating-windows-setup-service-on-pcs/"><u>Activating/Deactivating Windows Setup Service on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-hardware-utilization-four-ways-to-open-the-disk-manager-in-windows-11/"><u>Boost Hardware Utilization: Four Ways to Open the Disk Manager in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypass-windows-11-lock-screen-swiftly/"><u>Bypass Windows 11 Lock Screen Swiftly</u></a></li>
+<li><a href="https://windows11.techidaily.com/decorating-windows-11-with-a-christmas-twist/"><u>Decorating Windows 11 with a Christmas Twist</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-microsoft-store-app-on-win11-pcs/"><u>Enabling Microsoft Store App on Win11 PCs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-vivo-v30-lite-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Vivo V30 Lite 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maximize-your-safety-on-the-road-with-the-advanced-escort-max-360-gps-enabled-radar-detector/"><u>Maximize Your Safety on the Road with the Advanced Escort Max 360 GPS-Enabled Radar Detector</u></a></li>
+<li><a href="https://windows11.techidaily.com/paramount-procedures-for-wiping-your-windows-installation/"><u>Paramount Procedures for Wiping Your Windows Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinvigorating-a-non-functional-windows-taskbar/"><u>Reinvigorating a Non-Functional Windows Taskbar</u></a></li>
+<li><a href="https://win-hot.techidaily.com/schnell-und-einfach-methoden-zur-wiederherstellung-von-speicherkartendaten-cf-cards/"><u>Schnell Und Einfach - Methoden Zur Wiederherstellung Von Speicherkartendaten (CF Cards)</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-comprehensive-guide-to-getting-most-out-of-windows-11s-startup-screen/"><u>The Comprehensive Guide to Getting Most Out of Windows 11'S Startup Screen</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/total-expense-outline-the-economics-of-starting-a-podcast/"><u>Total Expense Outline The Economics of Starting a Podcast</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-mystery-of-yourphoneexe-in-w10/"><u>Unveiling the Mystery of YourPhoneExe in W10</u></a></li>
 </ul></div>
 

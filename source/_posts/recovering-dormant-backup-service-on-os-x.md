@@ -1,7 +1,7 @@
 ---
 title: Recovering Dormant Backup Service on OS X
-date: 2024-10-04T00:49:52.919Z
-updated: 2024-10-07T08:24:17.668Z
+date: 2024-10-09T20:04:14.918Z
+updated: 2024-10-12T20:58:29.766Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,16 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
  Restart those shadow copy services if they’re already set as required. You can do that by right-clicking on those services and selecting the Restart context menu options for them.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Repair Your System Files With the SFC and DISM Commands
@@ -54,17 +60,17 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![The sfc scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/sfc-scannow-error.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Run the Check Disk Utility
@@ -72,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
  Drive issues can cause Windows system backup VSS errors to occur, with codes like 0x807800A1 or 0x80042315\. In this case, running the Check Disk utility to scan for and address hard drive issues, such as bad sectors, is a potential fix for the Volume Shadow Copy Service not working. Check out this [guide to running the CHKDSK utility](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) for further details about how you can apply this potential resolution.
 
 ![The CHKDSK command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chkdsk-scan-command.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Disable Antivirus Shields
 
@@ -100,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
 ![The Startup type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/startup-tab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Conflicting background apps or services are another potential cause of Volume Shadow Copy errors. Third-party backup utilities with snapshot managers are the most likely software packages to conflict with the Volume Shadow Copy Service. If you know you’ve installed a third-party backup manager, uninstalling it could be the best way to ensure it doesn’t cause any conflicts.
 
  However, you can [perform a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) to stop third-party apps and services from starting with Windows to prevent conflicts from arising. This involves disabling startup items and services with Task Manager and MSConfig and restarting Windows. Then try utilizing the Windows Backup and Restore or System Restore tools after clean booting your PC to see if the VSS error persists.
@@ -120,20 +126,24 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-16-innovative-ways-to-archive-web-based-podcasts/"><u>[New] 16 Innovative Ways to Archive Web-Based Podcasts</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-navigating-the-nuances-of-inshot-video-segments-for-2024/"><u>[New] Navigating the Nuances of Inshot Video Segments for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-pace-upplayers-swift-sharing-of-youtube-plays/"><u>[New] Pace Upplayers Swift Sharing of YouTube Plays</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/banish-windows-11-highlighted-icons-for-tidy-desktop/"><u>Banish Windows 11 Highlighted Icons for Tidy Desktop</u></a></li>
-<li><a href="https://windows11.techidaily.com/exposing-limits-the-cpu-performance-spectrum/"><u>Exposing Limits: The CPU Performance Spectrum</u></a></li>
-<li><a href="https://windows11.techidaily.com/guidelines-to-selectively-turn-off-windows-11-services/"><u>Guidelines to Selectively Turn Off Windows 11 Services</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-vivo-v30-lite-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Vivo V30 Lite 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-nintendo-switchs-ultimate-hd-gameplay/"><u>In 2024, Nintendo Switch's Ultimate HD Gameplay</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-presentation-mastery-8-top-screen-record-comparisons/"><u>In 2024, Presentation Mastery 8 Top Screen Record Comparisons</u></a></li>
-<li><a href="https://windows11.techidaily.com/is-error-code-2e-blocking-windows-updates/"><u>Is Error Code 2E Blocking Windows Updates?</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-pin-lock-problems-in-11-edition/"><u>Overcoming Windows PIN Lock Problems in 11 Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-phantom-device-error-in-windows-11/"><u>Remedying Phantom Device Error in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-windows-services-command-prompt-tool-a-list-of-7-remedies/"><u>Reviving Windows Services Command Prompt Tool: A List of 7 Remedies</u></a></li>
-<li><a href="https://extra-information.techidaily.com/secrets-to-mastering-photosvideos-in-windows-11/"><u>Secrets to Mastering Photos/Videos in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-family-safety-rescue-quick-corrections-listed-here/"><u>Windows Family Safety Rescue: Quick Corrections Listed Here</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-from-concept-to-platform-crafting-engaging-fb-content/"><u>[New] 2024 Approved From Concept to Platform Crafting Engaging FB Content</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-evolution-of-drones-present-impact-and-future-prospects-for-2024/"><u>[New] The Evolution of Drones Present Impact and Future Prospects for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/automated-file-handling-via-task-scheduler/"><u>Automated File Handling via Task Scheduler</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-operation-elevation-woes-on-windows-11-and-11/"><u>Breaking Down Operation Elevation Woes on Windows 11 & 11</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/creative-tims-finest-ultra-user-friendly-advanced-pro-dashboard-with-tailwindcss-integration/"><u>Creative Tim's Finest: Ultra-User-Friendly, Advanced Pro Dashboard with TailwindCSS Integration</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-linksys-ae2500-drivers-fast-simple-steps-inside/"><u>Download Linksys AE2500 Drivers Fast: Simple Steps Inside</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-updated-m-audio-fast-track-driver-supports-win10-7-8-and-81-systems/"><u>Download the Updated M-Audio FAST Track Driver – Supports Win10, 7, 8 & 8.1 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/fuse-windows-and-tdarr-for-unrivaled-scalable-video-conversion-efficiency/"><u>Fuse Windows and Tdarr for Unrivaled, Scalable Video Conversion Efficiency</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-essential-fb-video-loader-apps-ranked-5/"><u>In 2024, Essential FB Video Loader Apps Ranked #5</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-unveiling-vrecorder-download-and-install-made-simple/"><u>In 2024, Unveiling VRecorder Download & Install Made Simple</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-applications-that-bridge-the-mac-and-windows-divide/"><u>Key Applications that Bridge the Mac and Windows Divide</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-key-hunting-for-windows-1110-enthusiasts/"><u>Master Key Hunting for Windows 11/10 Enthusiasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-visual-quality-dpi-settings-guide-for-windows-11/"><u>Optimize Visual Quality: DPI Settings Guide for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-directx-update-issues-on-windows/"><u>Overcoming DirectX Update Issues on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinforce-internet-ties-for-your-windows-devices-amid-sluggishness/"><u>Reinforce Internet Ties for Your Windows Devices Amid Sluggishness</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-eliminating-enter-usernamepassword-alerts-in-windows/"><u>Troubleshooting: Eliminating 'Enter Username/Password' Alerts in Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unlock-the-full-potential-of-your-videos-on-instagram-platform/"><u>Unlock the Full Potential of Your Videos on Instagram Platform</u></a></li>
+<li><a href="https://techtrends.techidaily.com/xbox-virtual-reality-setup-anticipated-launch-details-pricing-info-and-latest-leaks-unveiled/"><u>Xbox Virtual Reality Setup: Anticipated Launch Details, Pricing Info & Latest Leaks Unveiled</u></a></li>
 </ul></div>
 

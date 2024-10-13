@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Workspace: Dragging Tabs, Window Explorer Ways"
-date: 2024-10-02T05:37:02.712Z
-updated: 2024-10-06T19:10:20.802Z
+date: 2024-10-12T03:20:46.512Z
+updated: 2024-10-13T01:59:28.111Z
 tags:
   - windows10
   - windows11
@@ -36,28 +36,34 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
  Thankfully, the latest Insider build 25290 has a hidden feature that makes it possible to drag out tabs.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Enable the Drag-Out Feature in File Explorer
 
  This feature is exclusive to Windows 11 Insider builds and is in the testing phase. So, you will have to download and install the build version 25290 and then use the ViveTool to enable the feature.
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Update to the Latest Insider Build
 
  To update to the latest insider build, head over to the Settings page and[check for Windows updates](https://www.makeuseof.com/tag/update-windows-software-guide/) . After that, install the latest 25920 build or newer on your system. You will have to restart your system for the changes to take effect.
 
  If you haven’t enrolled in the Windows Insider program and still want to try out this new feature, take the help of UUP Dump. You can easily[download the latest Windows Insider builds using UUP Dump](https://www.makeuseof.com/windows-11-download-insider-iso-without-insider-program/) . Install the build and then proceed to the next step.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Enable the Feature Using ViveTool
 
@@ -72,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 6. **Exit** the command prompt window after the ViveTool command executes successfully.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Restart your system to apply the changes.
@@ -83,24 +89,18 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 ![Tabs Dragging Feature in Action in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tabs-dragging-feature-in-action-in-file-explorer.jpg)
 9. Try to drag the tabs out of File Explorer. It will open in a second window. You can stack them on each side if you like.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can You Restore the Tab to the File Explorer Window?
 
  Yes, you can indeed restore the dragged tab back to a File Explorer window. But the process is very clunky. You have to drag and hold the tab onto another open tab in a different File Explorer window.
 
  If you aren’t able to accurately position the tab, it will not merge with the File Explorer tab bar. In Chrome browser, dragging out and restoring them to the same window is pretty easy. You can even hover the tab and position it between two open tabs.
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Drag Tabs Out Like a Pro in File Explorer
 
@@ -121,16 +121,22 @@ thumbnail: https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521fee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-navigating-the-maze-choosing-the-right-vimeo-membership-plan/"><u>[New] Navigating the Maze Choosing the Right Vimeo Membership Plan</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-unveil-facebook-friends-8-seamless-downloads/"><u>[Updated] 2024 Approved Unveil Facebook Friends 8 Seamless Downloads</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/comprehensive-guide-to-movavicoms-acceptable-usage-policy-and-conditions/"><u>Comprehensive Guide to MOVAVI.COM's Acceptable Usage Policy and Conditions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722994887783-effortless-fixes-for-common-problems-in-madden-22-fast-track-to-victory/"><u>Effortless Fixes for Common Problems in Madden 22 – Fast Track to Victory</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Life360 Circle Everything You Need to Know On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcome-hypervisor-crashes-on-winxose-with-ease/"><u>Overcome HYPERVISOR Crashes on WINXOSE with Ease</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-error-code-0x80004004-on-windows-defender-a-guide/"><u>Solving Error Code 0X80004004 on Windows Defender: A Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-lowering-cpu-usage-by-wmi-service/"><u>Tips for Lowering Cpu Usage by WMI Service</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-your-presentations-true-potential-mastering-prints-from-powerpoint-in-windows/"><u>Unlocking Your Presentation's True Potential: Mastering Prints From PowerPoint in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/update-subnet-mask-step-by-step-in-win11/"><u>Update Subnet Mask: Step-by-Step in Win11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/zdnets-ultimate-guide-to-the-most-outstanding-tablets-of-202/"><u>ZDNet's Ultimate Guide to the Most Outstanding Tablets of 202</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-transform-brainstorms-into-youtube-channel-names/"><u>[New] 2024 Approved How To Transform Brainstorms Into YouTube Channel Names</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-10-games-like-ghost-of-tsushima-you-must-try/"><u>[New] Top 10 Games Like Ghost of Tsushima You Must Try</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-unleash-creativity-pro-guide-for-youtube-studio-editing/"><u>[Updated] Unleash Creativity Pro Guide for YouTube Studio Editing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-exquisite-quintet-of-precision-engineered-cameras/"><u>2024 Approved Exquisite Quintet of Precision-Engineered Cameras</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-tips-for-turning-around-a-frozen-windows-hello-system/"><u>5 Tips for Turning Around a Frozen Windows Hello System</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-what-sets-echo-pop-aside-from-echo-dot-a-side-by-side-comparison/"><u>Discovering What Sets Echo Pop Aside From Echo Dot - A Side-by-Side Comparison</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-a-faulty-windows-11-temporary-storage/"><u>Fixing a Faulty Windows 11 Temporary Storage</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratiskonverter-von-h265hevc-in-h2h64-codec-optimiert-fur-windows-10-and-mac-os-x/"><u>Gratiskonverter Von H.265/HEVC in H.2^[H6]4-Codec, Optimiert Für Windows 10 & Mac OS X</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-download-fonts-for-all-languages-on-windows/"><u>How to Download Fonts for All Languages on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-something-went-wrong-office-error-on-windows/"><u>How to Fix the “Something Went Wrong” Office Error on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-most-common-blue-screen-errors-on-windows/"><u>How to Fix the Most Common Blue Screen Errors on Windows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-engage-with-creativity-top-9-websites-catering-to-artistic-3d-typography-needs/"><u>In 2024, Engage with Creativity Top 9 Websites Catering to Artistic 3D Typography Needs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-giggles-in-a-box-iphone-fun/"><u>In 2024, Giggles in a Box (iPhone Fun)</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-work-around-microsoft-verified-app-restrictions/"><u>Methods to Work Around Microsoft-Verified App Restrictions</u></a></li>
+<li><a href="https://windows11.techidaily.com/sync-software-unlocking-the-fourfold-compatibility-troubleshooter/"><u>Sync Software: Unlocking the Fourfold Compatibility Troubleshooter</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-artisans-approach-to-high-dynamic-range-mastery-on-windows-11/"><u>The Artisan’s Approach to High Dynamic Range Mastery on Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exposing the Wacatac.B!ml Trojan - Your Ultimate Windows Protection Plan
-date: 2024-09-09T11:58:19.936Z
-updated: 2024-09-10T11:58:19.936Z
+date: 2024-10-07T16:35:16.772Z
+updated: 2024-10-12T21:26:24.112Z
 tags:
   - windows10
   - windows11
@@ -52,11 +52,12 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 ![Uploading the infected file on the VirusTotal official website.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uploading-the-infected-file-on-the-virus-total-official-website.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If the scan turns up clean, it's probably a false alarm. However, whether the file is clean or the scan detects Trojans or malware, it's best to scan and remove them.
 
 ## How to Remove the Wacatac.B!ml Trojan From Your Device
@@ -69,15 +70,16 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
 ![Deleting the Infected File after Locating It by Navigating to the Path in the File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-3-Deleting-the-Infected-File-after-Locating-It-by-Navigating-to-the-Path-in-the-File-Explorer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After deleting the file, run a security check on your computer again. If the Trojan continues to appear on your system, move on to the next fix.
 
  If the file in which Windows Defender finds a threat is a Windows operating system file, you should be cautious before deleting it. Otherwise, it could make your computer unbootable.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Remove the Threat Manually
 
@@ -91,35 +93,26 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 5. Then click**Protection history** .  
 ![Clicking on Protection History Option Under Virus & Threat Protection in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-5-Clicking-on-Protection-History-Option-Under-Virus--Threat-Protection-in-Windows-Settings-App.jpg)
 6. Click on the Wacatac's threat.
+
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 7. Open the**Actions** dropdown and select**Remove** .  
 ![Removing the Wacatac’s Threat by Clicking on Remove Button in the Actions Dropdown in Protection History](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Image-6-Removing-the-Wacatac’s-Threat-by-Clicking-on-Remove-Button-in-the-Actions-Dropdown-in-Protection-History.jpg)
 
  Run the scan again. If it doesn't remove the threat, follow the same steps and choose**Quarantine** from the**Actions** dropdown. This will prevent further virus spread. Next, move on to the next step.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Run a Malware Scan in Safe Mode
 
  Often, the presence of malware prevents Windows Defender from removing infected files. To prevent this from happening, you should first[boot your Windows 10 device into Safe mode](https://www.makeuseof.com/tag/boot-windows-10-safe-mode/) (or[Windows 11)](https://www.makeuseof.com/windows-11-boot-safe-mode/) . By doing so, the malware won't interfere with removing infected files.
@@ -129,21 +122,16 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
  There are times when Windows Defender does not completely remove malware or keeps raising false flags despite removing the virus. Third-party software can help you determine whether the threat is present and, if it is, eradicate it. If that fails as well, reset your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Reset Your Operating System
 
  When none of the fixes work, you can reset Windows as a last resort. During the reset process, Windows will remove all installed apps and restore all customizations to default, but your files will remain intact (if you choose to do so). We have a[guide on factory resetting your Windows device](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) if you aren't familiar with it.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Does the Wacatac Trojan Alert Appear When You Download a File?
 
  Have you encountered the Wacatac Trojan alert when downloading a particular file from the internet? If so, temporarily disconnect your device from the internet. Taking your PC off the internet will stop a Trojan from infecting your system if it tries to get in.
@@ -157,40 +145,26 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 3. Enter the URL in the URL scanner.  
 ![Entering the URL of the file to be downloaded in the URL scanner on the VirusTotal website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/entering-the-url-of-the-file-to-be-downloaded-in-the-url-scanner-on-the-virus-total-website.jpg)
 4. Hit**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Showing the results of the scanned file on the VirusTotal website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/showing-the-results-of-the-scanned-file-on-the-virus-total-website.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If the VirusTotal scanner returns a clean result, you can download the file without worry. Just[whitelist the file in Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) to exclude this file, and you're done. If the scanner detects a malware, it's best not to download it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Protect Your Privacy From the Wacatac Trojan
 
  You should now have a better understanding of the Wacatac Trojan. If your device has been infected, getting rid of it should now be more straightforward. Ignore it if it turns out to be a false flag. Also, use a third-party antivirus with Windows Defender to ensure your security is foolproof.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -199,4 +173,22 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-enlist-easy-to-use-templates-for-bold-business-identity/"><u>[New] Enlist Easy-to-Use Templates for Bold Business Identity</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-strategic-planning-of-podcast-drop-times/"><u>[New] In 2024, Strategic Planning of Podcast Drop Times</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-dimensions-for-impressive-videography/"><u>[New] Instagram Dimensions for Impressive Videography</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-unveiling-the-best-for-screens-a-deep-dive-into-obs-studio-and-fraps/"><u>[Updated] 2024 Approved Unveiling the Best for Screens A Deep Dive Into OBS Studio & Fraps</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaching-windows-denied-logins-with-smart-fixes/"><u>Breaching Windows' Denied Logins with Smart Fixes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bringing-ai-conversations-to-your-phone-chatgpt-for-android-users/"><u>Bringing AI Conversations to Your Phone: ChatGPT for Android Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-clutter-best-windows-apps-to-disable/"><u>Cutting Clutter: Best Windows Apps to Disable</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-resolving-windows-service-response-errors/"><u>Guide to Resolving Windows Service Response Errors</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-overcoming-the-challenge-of-a-missingfilebinkw32dll-error/"><u>Guide: Overcoming the Challenge of a MISSING_FILE_binkw32.dll Error</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-oneplus-nord-ce-3-lite-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the OnePlus Nord CE 3 Lite 5G Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-wallet-friendly-mirrorless-choices/"><u>In 2024, Wallet-Friendly Mirrorless Choices</u></a></li>
+<li><a href="https://windows11.techidaily.com/overriding-default-no-notify-camera-behavior-in-ws11/"><u>Overriding Default No-Notify Camera Behavior in WS11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-win1011-network-failure-code-0x800704b3/"><u>Resolving Win10/11 Network Failure: Code 0X800704B3</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-your-pc-clear-tpm-from-windows-11/"><u>Revolutionize Your PC: Clear TPM From Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-shadowrunners-speed-up-your-bf2-experience/"><u>Seamless Shadowrunners: Speed up Your BF2 Experience</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Guide to Preventing Invalid File Paths on W11 PC
-date: 2024-09-30T03:26:40.613Z
-updated: 2024-10-07T10:54:02.311Z
+date: 2024-10-09T17:49:43.771Z
+updated: 2024-10-12T23:34:51.150Z
 tags:
   - windows10
   - windows11
@@ -47,19 +47,19 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 7. Click**Apply > OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Restart your computer and check if the problem is now solved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Compress the EXE File You're Trying to Run
@@ -68,16 +68,22 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
  Right-click the EXE file and select**Send to > Compressed (Zipped)** . Windows will create a zipped folder with the same name. Open the folder and launch the installer.
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Run the Windows Memory Diagnostic Tool
 
  The inability to install new software on your Windows 11 computer, might be caused by memory-related issues. If you try to install an app and Windows keeps freezing, you should[run the Windows Memory Diagnostic tool](https://www.makeuseof.com/windows-memory-diagnostic-tool-guide/) to fix the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Clean Boot Your System
 
@@ -91,18 +97,18 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
  If you think your PC is infected, be sure to[perform an offline scan with Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) to ensure nothing is lurking in your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Reset Your Computer
 
  If nothing worked until now, and you can’t install anything on your computer, you should[reset your computer](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) . Fortunately, Windows allows you to use the**Cloud download** option, so you can keep your files while it removes all third-party apps on your computer.
 
 ![Reset Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-windows-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix Windows 11's Temp Files With These Tips
 
@@ -125,19 +131,20 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-streamline-your-podcasts-effective-editing-tips-for-garageband-users/"><u>[New] 2024 Approved Streamline Your Podcasts Effective Editing Tips for GarageBand Users</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-from-lurkers-to-leaders-elevate-your-facebook-game-for-2024/"><u>[New] From Lurkers to Leaders Elevate Your Facebook Game for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-hundreds-to-millions-a-youtube-growth-journey/"><u>[Updated] 2024 Approved From Hundreds to Millions A YouTube Growth Journey</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-professional-strategies-converting-xmlssattml-to-dynamic-srts/"><u>[Updated] 2024 Approved Professional Strategies Converting XML/SSA/TTML to Dynamic SRTs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-top-5-mac-cam-alternatives-to-elevate-your-digital-screens/"><u>[Updated] Top 5 Mac Cam Alternatives to Elevate Your Digital Screens</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cross-platform-synergy-creating-youtube-and-brand-alliances/"><u>Cross-Platform Synergy Creating YouTube and Brand Alliances</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/e-more-dissuade-less-top-6-ways-to-increase-watch-time-and-stayers/"><u>Engage More, Dissuade Less Top 6 Ways to Increase Watch Time and Stayers</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-missing-drivers-on-windows-11-start-up-process/"><u>Fixing Missing Drivers on Windows 11 Start-Up Process</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-oppo-f25-pro-5g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Oppo F25 Pro 5G Pattern Lock Screen</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-a-guide-to-reading-qr-codes/"><u>Mastering Windows: A Guide to Reading QR Codes</u></a></li>
-<li><a href="https://windows11.techidaily.com/mute-unwanted-tips-and-hints-in-windows-notification-hub/"><u>Mute Unwanted Tips and Hints in Windows Notification Hub</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/real-time-streaming-with-manycam-top-live-video-editing-software-and-digital-camera-simulation/"><u>Real-Time Streaming with ManyCam: Top Live Video Editing Software and Digital Camera Simulation</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-defective-xbox-mic-in-windows-1011/"><u>Troubleshooting Defective Xbox Mic in Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-windows-11-taskbar-towards-invisibility/"><u>Unveiling the Windows 11 Taskbar: Towards Invisibility</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-elevate-content-discovery-the-tubebuddy-way/"><u>[New] 2024 Approved Elevate Content Discovery The TubeBuddy Way</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-are-you-prepared-for-the-changed-facebook-algorithm/"><u>[New] In 2024, Are You Prepared for the Changed Facebook Algorithm?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-augmented-realms-cinemas-evolution/"><u>[New] In 2024, Augmented Realms Cinema's Evolution</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-distracting-notifications-messages-on-windows-11/"><u>Avoid Distracting Notifications, Messages on Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-practices-for-live-streaming-services-and-local-channels-for-2024/"><u>Best Practices for Live Streaming Services & Local Channels for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-repeatedly-spotted-edge-buttons/"><u>Fixing Repeatedly Spotted Edge Buttons</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-definition-magic-cutting-edge-camcorders-reviewed-for-2024/"><u>High-Definition Magic Cutting-Edge Camcorders Reviewed for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-quickly-fix-keyboard-issues-in-windows-snipper/"><u>How to Quickly Fix Keyboard Issues in Window's Snipper</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-pros-picks-the-best-11-soundstreamers-reviewed/"><u>In 2024, Pro's Picks The Best 11 Soundstreamers Reviewed</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-the-fundamentals-of-assembling-photos-into-art/"><u>In 2024, The Fundamentals of Assembling Photos Into Art</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/integrating-obs-streams-with-the-worlds-largest-social-network-fb-for-2024/"><u>Integrating OBS Streams with the World's Largest Social Network, FB for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-batch-file-transformation-executable-edition/"><u>Mastering Batch File Transformation: Executable Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-manual-methods-for-malware-detection-on-desktops/"><u>Mastering Manual Methods for Malware Detection on Desktops</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-reference-guide-to-overcoming-winscombvc-issues/"><u>Quick Reference Guide to Overcoming WinScombVc Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-unlock-your-computers-windows-license/"><u>Techniques to Unlock Your Computer's Windows License</u></a></li>
 </ul></div>
 

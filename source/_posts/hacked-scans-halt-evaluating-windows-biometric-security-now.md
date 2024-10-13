@@ -1,7 +1,7 @@
 ---
 title: "Hacked Scans Halt: Evaluating Window's Biometric Security Now"
-date: 2024-10-01T02:19:00.254Z
-updated: 2024-10-06T16:26:30.598Z
+date: 2024-10-09T22:23:34.145Z
+updated: 2024-10-12T16:53:59.526Z
 tags:
   - windows10
   - windows11
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
  Once done, the hackers could force the fingerprint database to accept their fingerprint as the user's. Then, all they had to do was scan their fingerprint to access the Lenovo ThinkPad.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How the Hackers Breached Windows Hello on the Microsoft Surface Pro Type Cover
@@ -61,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 ## What Do These Hacks Mean for You?
 
 ![Professional Thinking With Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/professional-thinking-with-laptop.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  These hacks may sound pretty scary if you use fingerprints to log into your laptop. However, it's essential to remember some crucial things before you forgo fingerprint scans entirely.
 
@@ -79,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 
  The hackers must have physical contact with the device to perform the above hacks. In the report, the hackers stated they might be able to create USB devices that can perform the attack once plugged in, but that means a potential attacker needs to plug something into your PC to hack it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. The Attacks Only Work on Specific Devices
 
  You'll notice that each attack had to take a different path to achieve the same goal. Every device is unique, and a hack that works on one device may not work on another. As such, you shouldn't believe that Windows Hello has now been blown wide open on every device; it's just these three that failed.
@@ -89,27 +89,27 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 
 ![The face of a man wearing a hoodie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hacher-hat.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As stated above, the discovered hacks are complicated to perform and may require the hacker to remove the device to hack into it physically. As such, there's an extremely low chance that these attacks will personally target you.
 
  However, if you're still not satisfied, there are some ways to protect yourself from fingerprint scanner hacks:
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Do Not Leave Devices Unattended and Unprotected
 
  Because a hacker will need to interact with your device physically, you should ensure it doesn't fall into the wrong hands. For computers, you can [take steps to stop it from being stolen](https://www.makeuseof.com/tag/stop-entire-desktop-pc-home-office-stolen/). If you're using a laptop, never leave it alone in a public space, and use an [anti-theft laptop bag](https://www.makeuseof.com/tag/anti-theft-laptop-bags/) to stop people from tearing your bag open.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Use a Different Login Method
 
@@ -129,24 +129,14 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-the-trap-of-tricksy-traffic-instagrams-hidden-hazard/"><u>[New] The Trap of Tricksy Traffic Instagram's Hidden Hazard</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-global-viewership-kings-youtubes-viral-royalty/"><u>[Updated] In 2024, Global Viewership Kings YouTube's Viral Royalty</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-prime-action-cameras-with-superior-mics-for-2024/"><u>[Updated] Prime Action Cameras with Superior Mics for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-complete-pacera-free-audio-liberation-handbook/"><u>[Updated] The Complete Pacera Free Audio Liberation Handbook</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-guide-to-fixing-webcam-error-codes-on-w1011/"><u>Expert Guide to Fixing Webcam Error Codes on W10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixed-your-input-not-recognized-windows-vlc-error/"><u>Fixed: Your Input Not Recognized – Windows VLC Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/guiding-users-through-printer-access-errors/"><u>Guiding Users Through Printer Access Errors</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-strategic-trailer-planning-for-increased-channels-profitability/"><u>In 2024, Strategic Trailer Planning for Increased Channels' Profitability</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-boomerang-edge-captivating-your-instagram-audience/"><u>In 2024, The Boomerang Edge Captivating Your Instagram Audience</u></a></li>
-<li><a href="https://windows11.techidaily.com/leverage-full-power-of-windows-11-today/"><u>Leverage Full Power of Windows 11 Today</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/olyx-zones-the-creme-de-la-snowspeedcross/"><u>OlyX-Zones The Crème De La Snowspeedcross</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pro-gopro-filming-techniques-unveiled/"><u>Pro-Gopro Filming Techniques Unveiled</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-non-active-windows-volume-snapshot/"><u>Reviving Non-Active Windows Volume Snapshot</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-integration-of-google-play-store-in-win11/"><u>Seamless Integration of Google Play Store in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/secure-your-connection-top-fixes-for-hidden-wireless-networks-in-windows/"><u>Secure Your Connection: Top Fixes for Hidden Wireless Networks in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-your-windows-11-experience/"><u>Streamlining Your Windows 11 Experience</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unique-outro-music-files-at-your-fingertips-free-for-2024/"><u>Unique Outro Music Files at Your Fingertips - Free for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-at-wifi-less-windows-11-setup/"><u>Winning at Wifi-Less Windows 11 Setup</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-quick-tips-for-navigating-discord-message-interaction/"><u>[New] In 2024, Quick Tips for Navigating Discord Message Interaction</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-step-by-step-to-stellar-custom-shorts-thumbnails/"><u>[Updated] In 2024, Step-by-Step to Stellar Custom Shorts Thumbnails</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-ultimate-io-scanner-insiders-handbook/"><u>[Updated] In 2024, The Ultimate IO Scanner Insider's Handbook</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-simplified-guide-to-saving-instagrams-dynamic-content/"><u>[Updated] Simplified Guide to Saving Instagram's Dynamic Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/graphics-driver-restart-procedure-in-windows-11/"><u>Graphics Driver Restart Procedure in Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-nokia-xr21-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Nokia XR21 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/saving-screen-time-by-hushing-file-explorer-tabs/"><u>Saving Screen Time by Hushing File Explorer Tabs</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-typhoon-of-erratic-windows-mouse-wheel/"><u>Taming the Typhoon of Erratic Windows Mouse Wheel</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooters-guide-unlocking-photoshop-on-windows-1011/"><u>Troubleshooters' Guide: Unlocking Photoshop on Windows 10/11</u></a></li>
 </ul></div>
 
