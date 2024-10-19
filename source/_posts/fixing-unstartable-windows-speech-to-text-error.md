@@ -1,7 +1,7 @@
 ---
 title: Fixing Unstartable Windows Speech-to-Text Error
-date: 2024-10-11T03:50:12.894Z
-updated: 2024-10-13T01:58:39.274Z
+date: 2024-10-11T21:38:49.839Z
+updated: 2024-10-18T16:34:34.132Z
 tags:
   - windows10
   - windows11
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
  If the issue persists after this quick troubleshooting, try the more advanced fixes outlined below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Troubleshoot Your Microphone
 
  One of the most common causes of the "speech recognition could not start" error is a faulty or improperly set up microphone. To fix this, check your microphone for any physical damage and ensure it is selected as the default device.
@@ -75,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 ![Speech Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/speech-properties-window.jpg)
 4. Under **Recognition Profiles**, click the **New** button and then **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Follow the steps to create a new profile and restart your computer.
 
  Once you're back on the desktop, you should be able to use all the speech recognition features.
@@ -99,13 +85,26 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 ![Windows 11 Services App Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-services-app-overview.jpg)
 5. Finally, restart your computer once and again check for the speech recognition problem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you're using a Bluetooth microphone, please restart the **Bluetooth Support Service** and **Bluetooth Audio Gateway Service** with the mentioned services.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Set Up Speech Recognition
@@ -117,15 +116,28 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 ![Windows Speech Recognition Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-speech-recognition-search.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Follow the setup prompts one after the other, and once done, reconnect your microphone. This should quickly fix your speech recognition-related issues. If you cannot open the setup, access it from **Control Panel > Ease of Access > Speech Recognition > Set up microphone**.
 
  We've also covered other similar topics, such as the [Speech Diagnostic Calibrate error](https://www.makeuseof.com/fix-speech-diagnostic-calibrate-error-windows-11/), that may provide additional help.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## All Set to Use Speech Recognition on Windows Again
 
@@ -145,18 +157,16 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-key-to-effective-instagram-chats-a-comprehensive-guide/"><u>[New] 2024 Approved The Key to Effective Instagram Chats A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-liveaudiovideocasting-network-for-2024/"><u>[New] LiveAudioVideocasting Network for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-list-of-20-powerful-chatgpt-triggers-from-github-repositories/"><u>Discover the Ultimate List of 20 Powerful ChatGPT Triggers From GitHub Repositories</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevating-your-typing-speed-top-7-fixes-on-win-os/"><u>Elevating Your Typing Speed: Top 7 Fixes on WIN OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-visual-coherence-integrating-this-pc-icon/"><u>Enhance Visual Coherence: Integrating 'This PC' Icon</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-13-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For Apple iPhone 13?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-tecno-spark-go-2024-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Tecno Spark Go (2024) FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://driver-install.techidaily.com/installation-intel-hd-graphics-520/"><u>Installation: Intel HD Graphics 520</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/new-release-geforce-rtx-3080-ti-drivers-for-windows-11-8-and-7-get-your-free-download-here/"><u>New Release: GeForce RTX 3080 Ti Drivers for Windows 11, 8 & 7 – Get Your Free Download Here</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-powershell-access-control-settings/"><u>Optimizing PowerShell Access Control Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-configure-time-zones-on-windows-manually/"><u>Quick Guide: Configure Time Zones on Windows Manually</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-features-and-capabilities-of-the-garmin-gpsmap-64s/"><u>Unveiling the Features and Capabilities of the Garmin GPSMAP 64S</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-streamlining-your-audio-setup-efficiently-manage-m4a-files-on-android/"><u>Updated 2024 Approved Streamlining Your Audio Setup Efficiently Manage M4A Files on Android</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-a-comprehensive-look-at-youtube-shorts-template-design/"><u>[Updated] A Comprehensive Look at YouTube Shorts Template Design</u></a></li>
+<li><a href="https://win-able.techidaily.com/1-optimal-video-formats-and-integration-techniques-for-enhanced-presentations-in-google-slides/"><u>1. Optimal Video Formats and Integration Techniques for Enhanced Presentations in Google Slides</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-vivo-x-fold-2-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Vivo X Fold 2 Phone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/amour-en-vues-cinematic-language-lessons/"><u>Amour en Vues: Cinematic Language Lessons</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-cmd-commands-every-user-should-master/"><u>Essential CMD Commands Every User Should Master</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-guide-to-eliminate-error-0x80070570-in-windows-xp-sky/"><u>Expert Guide to Eliminate Error 0X80070570 in Windows XP-Sky</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-picks-the-ultimate-guide-to-free-dvd-playback-apps-compatible-with-win10win11/"><u>Expert Picks: The Ultimate Guide to Free DVD Playback Apps Compatible with Win10/Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-use-dev-drive-for-developers-on-windows-11/"><u>How to Use Dev Drive for Developers on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-for-rectifying-media-error-0xc10100bf/"><u>Methods for Rectifying Media Error 0XC10100BF</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-guide-to-recognizing-hard-drive-and-ssd-on-windows-pcs/"><u>Seamless Guide to Recognizing Hard Drive and SSD on Windows PCs</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/secure-your-data-on-windows-11-encrypt-content-with-grise/"><u>Secure Your Data on Windows 11 - Encrypt Content with GRISÉ</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixes for PhotoCapture Error on Windows OS
-date: 2024-09-28T19:13:26.348Z
-updated: 2024-10-01T22:39:07.265Z
+date: 2024-10-16T16:12:20.100Z
+updated: 2024-10-18T20:37:00.171Z
 tags:
   - windows10
   - windows11
@@ -32,16 +32,16 @@ thumbnail: https://thmb.techidaily.com/c2bd6ba622504fadfbcb07e0ff1b2943eed89d4f1
 ![The Let apps access your camera setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/let-apps-access-your-camera.jpg)
 5. Turn on the switch for the **Camera** app setting.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Reset the Windows Camera
 
 ![The Reset button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-button.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Windows has a **Reset** troubleshooting option for fixing apps that aren’t working right. Resetting the Windows Camera app will clear its data. That’s worth a try since it’s a straightforward potential fix to apply.
 
@@ -58,7 +58,21 @@ thumbnail: https://thmb.techidaily.com/c2bd6ba622504fadfbcb07e0ff1b2943eed89d4f1
 ![The New > Folder options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-folder-options.jpg)
 4. Input **Camera Roll** to be the new folder’s name and press **Enter**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Also, check if the Camera Roll folder has been moved out of the Pictures folder to another directory. If it has, moving Camera Roll back into the default Pictures location could also resolve this issue.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Set a Different Camera Roll Library Location
 
@@ -82,16 +96,16 @@ thumbnail: https://thmb.techidaily.com/c2bd6ba622504fadfbcb07e0ff1b2943eed89d4f1
 ![The Set save location button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/set-save-location-button.jpg)
 6. Select **Apply** to set the new save location.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Click on **OK** to exit the **Camera Roll Properties** window.
 
  Some users also say that restoring default locations in the **Library** tab worked for them. To do that, click the **Restore Defaults** button in the Camera Roll Properties window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Change Where Your Photos and Videos Get Saved
 
@@ -108,6 +122,13 @@ thumbnail: https://thmb.techidaily.com/c2bd6ba622504fadfbcb07e0ff1b2943eed89d4f1
 
  If you don’t have any alternative place for saving photos, you could [set up a new drive partition with Disk Management](https://www.makeuseof.com/how-to-partition-hard-drive/). Then select to save photos to the new drive partition within Settings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Update Your Webcam’s Driver
 
  Camera app issues can occur if your webcam’s driver is outdated. Updating your webcam's driver will ensure the camera works better with software.
@@ -115,10 +136,10 @@ thumbnail: https://thmb.techidaily.com/c2bd6ba622504fadfbcb07e0ff1b2943eed89d4f1
  Our guide to [replacing and finding Windows drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) explains how you can manually update your device drivers.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reinstall the Windows Camera
@@ -136,13 +157,6 @@ thumbnail: https://thmb.techidaily.com/c2bd6ba622504fadfbcb07e0ff1b2943eed89d4f1
 ![PowerShell's find tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-find-search-tool.jpg)
 2. Then copy the app’s PackageFullName ID by selecting its text and pressing **Ctrl** \+ **C**. The PackageFullName will be something like Microsoft.WindowsCamera\_2023.2305.4.0\_x64\_\_8wekyb3d8bbwe, but it can vary depending on the app version.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Input and execute this command with the PackageFullName included:  
 `Remove-AppxPackage PackageFullName`  
 ![The Remove-AppxPackage command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/remove-apppackage-command.jpg)
@@ -151,23 +165,9 @@ thumbnail: https://thmb.techidaily.com/c2bd6ba622504fadfbcb07e0ff1b2943eed89d4f1
 ![The Windows Camera app page on MS Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-windows-camera-app.jpg)
 6. Press **Get** to reinstall Windows Camera.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You will need to replace **PackageFullName** in the command specified above with the actual package name. So, the PowerShell command should look more like this:
 
 `Remove-AppxPackage Microsoft.WindowsCamera_2023.2305.4.0_x64__8wekyb3d8bbwe`
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Snapping With the Windows Camera App Again
 
@@ -184,16 +184,16 @@ thumbnail: https://thmb.techidaily.com/c2bd6ba622504fadfbcb07e0ff1b2943eed89d4f1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://windows11.techidaily.com/a-comprerant-users-resourceful-approach-to-processes-and-themes-in-windows-11/"><u>A Compreran't User's Resourceful Approach to Processes and Themes in Windows 11</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/t-list-of-websites-ease-up-on-youtube-videos-and-templates-for-2024/"><u>Expert List of Websites Ease Up on Youtube Videos and Templates for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/friendly-frenzy-vrs-most-social-games/"><u>Friendly Frenzy VR's Most Social Games</u></a></li>
-<li><a href="https://windows11.techidaily.com/harmonious-hardware-connections-android-pc-junctions/"><u>Harmonious Hardware Connections: Android-PC Junctions</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/increasing-video-popularity-persisting-with-cc-on-youtube-for-2024/"><u>Increasing Video Popularity Persisting with CC on YouTube for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/mending-the-gap-enabling-smooth-steam-connection/"><u>Mending the Gap: Enabling Smooth Steam Connection</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-comprehensive-manual-for-component-settings-in-w11/"><u>The Comprehensive Manual for Component Settings in W11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-10-wireless-tech-for-lifelike-tv-sound-experience/"><u>Top 10 Wireless Tech for Lifelike TV Sound Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-pc-speakers-fixing-audio-issues-in-windows-11/"><u>Troubleshooting Silent PC Speakers: Fixing Audio Issues in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-layers-impact-on-linux-dominance/"><u>Windows Layer's Impact on Linux Dominance</u></a></li>
-<li><a href="https://win11.techidaily.com/year-end-splurge-612-on-lifetime-windows-10-bf-day/"><u>Year-End Splurge: $6.12 on Lifetime Windows 10 BF Day</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-affordable-android-chat-top-free-app-alternatives/"><u>[New] Affordable Android Chat Top Free App Alternatives</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-comprehensive-app-insights-with-az-recorders/"><u>[New] In 2024, Comprehensive App Insights with AZ Recorders</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-live-stream-on-youtube-without-1000-subscribers-on-a-mobile/"><u>[New] Live Stream on YouTube without 1000 Subscribers on a Mobile</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-vivo-x-fold-2-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Vivo X Fold 2 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-clean-up-and-customize-your-windows-11-desktop/"><u>How to Clean Up and Customize Your Windows 11 Desktop</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-personalizing-your-whatsapp-ringtone-iphonesandroids-included/"><u>In 2024, The Ultimate Guide to Personalizing Your WhatsApp Ringtone - iPhones/Androids Included</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-the-secrets-of-striking-youtube-live-images/"><u>In 2024, Unveiling the Secrets of Striking YouTube Live Images</u></a></li>
+<li><a href="https://windows11.techidaily.com/resetting-lost-web-interfaces-of-router-on-windows/"><u>Resetting Lost Web Interfaces of Router on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-audio-communication-via-xbox-mic-and-windows-11/"><u>Restoring Audio Communication via Xbox Mic & Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-realme-note-50-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Realme Note 50 Phone</u></a></li>
+<li><a href="https://windows11.techidaily.com/tutorial-reverting-the-search-bar-design-of-windows-11/"><u>Tutorial: Reverting the Search Bar Design of Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Creating Secure Window 11 Lock Patterns
-date: 2024-09-05T02:08:18.095Z
-updated: 2024-09-06T02:08:18.095Z
+date: 2024-10-18T02:02:35.838Z
+updated: 2024-10-18T16:49:57.584Z
 tags:
   - windows10
   - windows11
@@ -63,14 +63,15 @@ thumbnail: https://thmb.techidaily.com/77e082dee0c1d3d5334c873749cdc85b7f4282a5c
 
 ![The General settings tab in 9Locker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/general-settings-tab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  9Locker’s pattern lock screen should appear automatically with the **Load 9Locker on Windows startup** checkbox selected on the **General Settings** tab. However, I needed to add 9Locker to the startup folder to get the program to run at startup. If you need to do the same, check out [how to utilize the Windows startup folder](https://www.makeuseof.com/tag/windows-10-startup-folder/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add a Custom Patter Lock With Eusing Maze Lock
 
  Eusing Maze Lock is an alternative to 9Locker that enables you to set a pattern lock on your Windows 11/10 PC much the same. However, this software also enables you to set locks on bigger 4x4 and 5x5 grids. This is how you can set up a pattern lock for your PC with Eusing Maze Lock:
@@ -80,12 +81,6 @@ thumbnail: https://thmb.techidaily.com/77e082dee0c1d3d5334c873749cdc85b7f4282a5c
 3. Click **Next** three times to install Eusing Maze Lock in a default Program Files directory.  
 ![The setup wizard for Eusing Maze Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/eusing-maze-lock-setup-wizard.jpg)
 4. Press the **Finish** button with the Launch Eusing Maze Lock checkbox selected.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. An Eusing Maze Lock prompt for unlocking the preset pattern lock will appear. Click **OK** to close that prompt and bring up a configuration window.
 
 1. Press the **Reset Pattern** button.
@@ -102,6 +97,20 @@ thumbnail: https://thmb.techidaily.com/77e082dee0c1d3d5334c873749cdc85b7f4282a5c
 
 ![The Eusing Maze Lock pattern lock screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/eusing-maze-lock.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Customize Eusing Maze Lock
 
  The Eusing Maze Lock pattern lock screen includes two alternative input options in the bottom right corner. Clicking the middle option will make the pattern lock invisible for more secure input. Or click the right button to input a pattern by pressing the keyboard letter keys for corresponding circles.
@@ -109,17 +118,12 @@ thumbnail: https://thmb.techidaily.com/77e082dee0c1d3d5334c873749cdc85b7f4282a5c
 ![The patter lock input options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/key-pattern-lock.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To access Eusing Maze Lock’s settings, right-click the software’s system tray icon, select **Configure**, input your pattern lock, and click the **General** tab. There you can add Eusing Maze Lock to the startup by selecting **On** from the Autolock at Windows startup drop-down menu.
 
  Select an option on the **Autolock computer after** drop-down menu to set an inactive time for the pattern lock screen to automatically come on.
@@ -127,27 +131,16 @@ thumbnail: https://thmb.techidaily.com/77e082dee0c1d3d5334c873749cdc85b7f4282a5c
 ![The General tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-general-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can also set a custom wallpaper for the pattern lock screen on the **Background** tab. To do so, click the **Change Image** button to bring up a selection window. Select an image file for the background and click **Open**.
 
 ![The Background tab in Eusing Maze Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-background-tab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Lock Your Windows 10 or 11 PC Differently
 
  Both Eusing Maze Lock and 9Locker provide an alternative to the standard Windows 10 OR 11 lock screen.
@@ -156,11 +149,29 @@ thumbnail: https://thmb.techidaily.com/77e082dee0c1d3d5334c873749cdc85b7f4282a5c
 
  Most users secure their Windows PCs with passwords or PINs. However, you can also secure your PC by adding a custom pattern lock with 9Locker or Eusing Maze Lock. This is how you can set up a pattern lock for Windows 10 and 11 with those software packages.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-elite-plot-development-ground/"><u>[New] 2024 Approved Elite Plot Development Ground</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-elevate-your-playthroughs-secrets-of-ps3-video-capture-for-2024/"><u>[New] Elevate Your Playthroughs Secrets of PS3 Video Capture for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1716070280100-updated-2024-approved-securing-perfect-images-on-pc-check-out-these-top-5-tools/"><u>[Updated] 2024 Approved Securing Perfect Images on PC? Check Out These Top 5 Tools!</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/contrato-de-licencia-para-el-software-digiexcelencia-en-su-version-winxdvd/"><u>Contrato De Licencia Para El Software Digiexcelencia en Su Versión WinXDVD</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-development-workflow-navigating-windows-11s-dev-drive/"><u>Elevate Development Workflow: Navigating Windows 11'S Dev Drive</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-faulty-devices-from-system-logs-windows-1011/"><u>Eliminating Faulty Devices From System Logs: Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-read-only-files-a-guide-for-windows-11-users/"><u>Eliminating Read-Only Files: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-touchscreen-accuracy-windows-11-tutorial/"><u>Enhancing Touchscreen Accuracy: Windows 11 Tutorial</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensuring-digital-security-best-windows-cryptography-picks-148-chars/"><u>Ensuring Digital Security: Best Window's Cryptography Picks (148 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-app-list-for-seamless-os-transition-from-apple-to-windows/"><u>Essential App List for Seamless OS Transition From Apple to Windows</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/find-your-perfect-youtube-download-solution-with-our-top-picks-an-excellent-alternative-to-dvdvideosoft-for-pc-and-mac-users/"><u>Find Your Perfect YouTube Download Solution with Our Top Picks, an Excellent Alternative to DVDVideoSoft for PC and MAC Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722978284224-get-your-sound-blaster-audigy-latest-drivers-available-here/"><u>Get Your Sound Blaster Audigy - Latest Drivers Available Here</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-modify-file-permissions-in-windows/"><u>How to Modify File Permissions in Windows</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-iphone-se-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and iPhone SE without Apple Account</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-for-the-resident-evil-village-not-launching-correctly/"><u>Solution Steps for the 'Resident Evil Village Not Launching Correctly'</u></a></li>
+</ul></div>
+

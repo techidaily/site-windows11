@@ -1,7 +1,7 @@
 ---
 title: Ten Steps to Clear Win11 DNS Cache
-date: 2024-10-06T21:39:42.367Z
-updated: 2024-10-12T21:53:33.958Z
+date: 2024-10-12T22:31:12.252Z
+updated: 2024-10-19T00:04:43.514Z
 tags:
   - windows10
   - windows11
@@ -33,15 +33,22 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 
  The DNS resolver cache can become outdated or corrupt over time which can pose connectivity issues. There is also a looming risk of[DNS cache poisoning](https://www.makeuseof.com/tag/what-is-dns-cache-poisoning/) , which is why you should make it a habit to clean the DNS cache periodically.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Flush the DNS Cache on Windows 11
 
  There are multiple methods to flush the DNS cache on Windows 11\. You can use the Run command box, Command Prompt, or even PowerShell. In addition, you can use a batch file to clear the DNS cache in a few clicks, any time you want. Here are the four ways to clear DNS on Windows 11:
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Using the Run Command Box
@@ -54,16 +61,10 @@ To flush the DNS cache using the Run command box, do as follows:
 3. Press**Ctrl + Shift + Enter** keys at once. The Command Prompt will launch, execute the flush command, and close automatically.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Using CMD
@@ -85,13 +86,6 @@ To flush the DNS cache using the Run command box, do as follows:
 ![Flush DNS Using Powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/flush-dns-using-powershell.jpg)
 3. You won’t see a message after the command executes successfully. But you can open PowerShell again and view the DNS cache to confirm.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Using a Batch File
 
  Opening an app is a slightly time-consuming process. You can save time by creating a batch file once and then running it whenever you need to flush DNS. No need to open the CMD or PowerShell app.
@@ -102,17 +96,24 @@ Repeat the following steps to create a DNS-clearing batch file:
 2. Type the following command in Notepad:**cmd.exe /k ipconfig /flushdns**  
 ![Flush DNS Using A Batch File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/flush-dns-using-a-batch-file.jpg)
 3. Press**Ctrl + S** to save the file. Enter the name “**flushDNS.bat** ” and keep the**Save as type** as**All Files** .
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click on the**Save** button.
 5. Now go to the batch file location and double-click on it.
 6. The Command Prompt will launch and execute the "**/** flushdns" command.
 7. Type**exit** and press the**Enter** key to close the command prompt window.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Flush Your Browser's DNS Records
 
@@ -145,24 +146,24 @@ Repeat the following steps to create a DNS-clearing batch file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-fine-tuning-your-obs-live-feeds-for-facebook-audience/"><u>[New] 2024 Approved Fine-Tuning Your OBS Live Feeds for Facebook Audience</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-culinary-mastery-the-top-7-tips-to-elevate-your-kitchen-filmography-for-2024/"><u>[New] Culinary Mastery The Top 7 Tips to Elevate Your Kitchen Filmography for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-editors-path-to-seamless-inshot-joins/"><u>[Updated] The Editor's Path to Seamless Inshot Joins</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-elevate-your-watchlist-experience-with-youtubes-av1-settings/"><u>2024 Approved Elevate Your Watchlist Experience with YouTube's AV1 Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-error-0x887a0006-on-windows-devices/"><u>Addressing Error 0X887A0006 on Windows Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficient-strategies-for-engagingdisengaging-focus-mode-in-terminal/"><u>Efficient Strategies for Engaging/Disengaging Focus Mode in Terminal</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-gameplay-with-a-crystal-clear-innocn-27-240hz-gaming-monitor-limited-offer-only-1amonth/"><u>Elevate Your Gameplay with a Crystal-Clear Innocn 27 240Hz Gaming Monitor - Limited Offer: Only $1Amonth</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-it-task-management-windows-11-troubleshooter-buttons-guide/"><u>Enhancing IT Task Management: Windows 11 Troubleshooter Buttons Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/harnessing-instagram-video-power-strategizing-for-impact/"><u>Harnessing Instagram Video Power Strategizing for Impact</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-phantom-3-duel-mirage-4s-debut/"><u>In 2024, Phantom 3 Duel Mirage 4'S Debut</u></a></li>
-<li><a href="https://windows11.techidaily.com/insight-into-application-usage-on-windows-pc/"><u>Insight Into Application Usage on Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-over-malfunctioning-windows-easy-fixes-at-hand/"><u>Mastery Over Malfunctioning Windows: Easy Fixes at Hand!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/online-vob-to-wav-transformation-with-no-fee-available-at-movavi/"><u>Online VOB-to-WAV Transformation with No Fee Available at Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/preventing-locked-status-tips-for-windows-users-153-chars/"><u>Preventing Locked Status: Tips for Windows Users (153 Chars)</u></a></li>
-<li><a href="https://windows11.techidaily.com/recovering-faulty-tab-key-on-your-pc/"><u>Recovering Faulty Tab Key on Your PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/remote-server-files-via-nas-sharing/"><u>Remote Server Files via NAS Sharing</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/streaming-moba-fun-how-to-broadcast-mobile-legends-on-your-computer/"><u>Streaming MOBA Fun: How to Broadcast Mobile Legends on Your Computer</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-file-management-through-explores-sidebar/"><u>Streamlining File Management Through Explore's Sidebar</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-pros-guide-to-best-ever-360-degree-cams-2023-for-2024/"><u>The Pro’s Guide to Best-Ever 360-Degree Cams, 2023 for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-easy-to-use-free-instagram-to-mp4-converters-for-all-oss/"><u>[New] 2024 Approved Easy-to-Use Free Instagram to MP4 Converters for All OSs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-harnessing-youtubes-power-for-personal-image-amplification-for-2024/"><u>[New] Harnessing YouTube's Power for Personal Image Amplification for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-cloud-prices-your-guide-to-cheapest/"><u>[Updated] Navigating Cloud Prices - Your Guide to Cheapest</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-inshot-a-guide-to-video-transition-techniques/"><u>2024 Approved Mastering Inshot A Guide to Video Transition Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/circle-construction-techniques-for-the-aspiring-minecraft-artist-for-2024/"><u>Circle Construction Techniques for the Aspiring Minecraft Artist for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-iphones-mobile-network-connection-top-10-solutions/"><u>How to Repair iPhone's Mobile Network Connection: Top 10 Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/illuminating-your-way-with-a-clearer-cursor-in-win-11/"><u>Illuminating Your Way with a Clearer Cursor in Win 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-behind-the-scenes-10-underrated-aspects-of-reels-on-instagram/"><u>In 2024, Behind the Scenes 10 Underrated Aspects of Reels on Instagram</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-steam-permission-hurdles-in-windows-11-environment/"><u>Overcoming Steam Permission Hurdles in Windows 11 Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfect-window-placement-with-sticknotes/"><u>Perfect Window Placement with StickNotes</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-your-workspace-adding-an-indicator-of-the-current-weather-on-windows-11-taskbar/"><u>Personalize Your Workspace: Adding an Indicator of the Current Weather on Windows 11 Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/photography-made-hassle-free-troubleshooting-windows-camera/"><u>Photography Made Hassle-Free: Troubleshooting Windows Camera</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/poco-m6-pro-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco M6 Pro 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconnect-the-unreachable-your-guide-to-fixing-usb-wi-fi-in-windows/"><u>Reconnect the Unreachable: Your Guide to Fixing USB Wi-Fi in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/reignite-windows-update-success-with-this-guide/"><u>Reignite Windows Update Success With This Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-workflow-top-7-methods-for-windows-11-excellence-42/"><u>Transform Your Workflow: Top 7 Methods for Windows 11 Excellence (42)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/understanding-igs-evolution-reels-vs-stories-for-2024/"><u>Understanding IG's Evolution Reels vs Stories for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-techniques-for-launching-repair-tools/"><u>Unveiling Techniques for Launching Repair Tools</u></a></li>
 </ul></div>
 

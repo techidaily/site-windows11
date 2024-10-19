@@ -1,7 +1,7 @@
 ---
 title: Powerful Tools to Simultaneously Release Numerous Zip Archives
-date: 2024-10-09T02:48:01.370Z
-updated: 2024-10-13T01:57:33.139Z
+date: 2024-10-11T23:14:35.461Z
+updated: 2024-10-18T21:27:55.284Z
 tags:
   - windows10
   - windows11
@@ -64,53 +64,53 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 ![The ExtractNow Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extractnow-setup-window.jpg)
 6. Click **Close** to open ExtractNow.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now it's time to use the app:
 
 1. Right-click inside the ExtractNow window and select **Add archives**.  
 ![The Add archives option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-archives-option.jpg)
 2. Select multiple ZIP archives by holding the **Ctrl** key and clicking **Open**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click **Extract** to unzip the ZIP files.  
 ![The Extract option in ExtractNow](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-button4.jpg)
 4. Then click **OK** **to All** to extract the selected archives to subfolders with titles that match the ZIP files within the same directory. Alternatively, you can manually select a different destination to extract each file within the Browse for Folder window and click **OK**.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Browse for Folder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-for-folder.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  By default, this software will always ask you where to extract files. However, you can change ExtractNow to automatically unzip ZIP files without asking via its settings. To do so, click the **Settings** button and select the **Destination** tab. Then select the **Automatically extract archives to** radio button.
 
 ![The Destination tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/destination-tab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to set a location to always extract selected ZIPs, click the **Browse for Folder** button; select a directory within the Browse for Folder window and click **OK**. Then select **OK** on the Settings window to save options.
 
  ExtractNow also has lots of other settings you can configure. Check out the [ExtractNow manual](https://extractnow.com/#/documentation) for details about what all those settings do.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Batch Extract ZIP Files Quicker in Windows
 
@@ -128,20 +128,18 @@ thumbnail: https://thmb.techidaily.com/0838ac8f5f2d8f067138531cc9f4dfd905cfa9adb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-omega-series-high-definition-full-touch-workstations/"><u>[Updated] Omega Series High Definition Full Touch Workstations</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-top-5-fpv-monitors-to-dominate-the-skies-for-2024/"><u>[Updated] Top 5 FPV Monitors to Dominate the Skies for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-transformative-zooms-for-snapchat-photos-and-videos/"><u>[Updated] Transformative Zooms for Snapchat Photos & Videos</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/1725285311223-winx-dvd-ripper/"><u>「リッピングのスペシャリストが選ぶ！WinX DVD Ripper 使い方と無料ダウンロード詳細」</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-top-10-historical-youtube-hubs-essential-viewing-for-students-and-enthusiasts/"><u>2024 Approved Top 10 Historical YouTube Hubs Essential Viewing For Students & Enthusiasts</u></a></li>
-<li><a href="https://windows11.techidaily.com/8-ways-to-fix-the-windows-pin-not-working-in-windows-11-and-11/"><u>8 Ways to Fix the Windows PIN Not Working in Windows 11 & 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/bridging-the-gap-for-stuck-files-in-windows-11-ecosystems/"><u>Bridging the Gap for Stuck Files in Windows 11 Ecosystems</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-black-backgrounds-on-your-windows-pc/"><u>Bypassing Black Backgrounds on Your Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/compreeable-approach-to-tackle-type-troubles-in-windows-11-error-0x80049dd3/"><u>Compreeable Approach to Tackle Type Troubles in Windows 11 (Error: 0X80049DD3)</u></a></li>
-<li><a href="https://windows11.techidaily.com/configuring-win11-remote-storage-paths/"><u>Configuring Win11 Remote Storage Paths</u></a></li>
-<li><a href="https://windows11.techidaily.com/de-cluttering-notifications-tips-for-windows-11-users/"><u>De-Cluttering Notifications: Tips for Windows 11 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/defunct-windows-characteristics-youll-miss/"><u>Defunct Windows Characteristics You'll Miss</u></a></li>
-<li><a href="https://article-helps.techidaily.com/fastest-phone-apps-for-faster-audio-streaming/"><u>Fastest Phone Apps for Faster Audio Streaming</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Change Location On Facebook Dating for your Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-simplified-cross-platform-listening-top-5-playlist-conversion-resources/"><u>[New] In 2024, Simplified Cross-Platform Listening Top 5 Playlist Conversion Resources</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-innovative-approaches-to-online-collaboration-4-for-2024/"><u>[New] Innovative Approaches to Online Collaboration (#4) for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-boost-engagement-by-personalizing-your-twitter-videos-with-new-thumbnails-for-2024/"><u>[Updated] Boost Engagement by Personalizing Your Twitter Videos with New Thumbnails for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-8-most-reliable-and-free-open-source-video-chat-options/"><u>[Updated] In 2024, The 8 Most Reliable and Free Open Source Video Chat Options</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/einfaches-deutsch-fur-anfanger-zahlen-1-100-erklaren/"><u>Einfaches Deutsch Für Anfänger: Zahlen 1-100 Erklären</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/getting-started-accessing-and-installing-your-nvidias-3d-vision-drivers-for-free-on-windows-systems/"><u>Getting Started: Accessing and Installing Your Nvidia's 3D Vision Drivers for Free on Windows Systems</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-home-cinematographers-review-best-video-recorders/"><u>In 2024, Home Cinematographer's Review Best Video Recorders</u></a></li>
+<li><a href="https://windows11.techidaily.com/notepaddarkmodetoggleprocedurewinos/"><u>NotepadDarkModeToggleProcedureWinOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/revitalizing-the-file-explorer-ui/"><u>Revitalizing the File Explorer UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-win11-overcoming-errors-in-team-communication-app/"><u>Streamlining Win11: Overcoming Errors in Team Communication App</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-7-decisions-to-make-before-acquiring-a-windows-model/"><u>Top 7 Decisions to Make Before Acquiring a WIndows Model</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-to-use-emojis-on-windows-10-and-windows-11-for-2024/"><u>Updated How to Use Emojis on Windows 10 and Windows 11 for 2024</u></a></li>
 </ul></div>
 

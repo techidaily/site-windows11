@@ -1,7 +1,7 @@
 ---
 title: "The Nostalgic Pathway: Transform Windows 11 to '98"
-date: 2024-10-09T22:42:57.413Z
-updated: 2024-10-13T02:09:06.839Z
+date: 2024-10-13T21:43:40.997Z
+updated: 2024-10-19T04:11:29.645Z
 tags:
   - windows10
   - windows11
@@ -37,16 +37,16 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
  Head over to the[WindowBlinds 11 product page](https://www.stardock.com/products/windowblinds/) to download the first program. You'll also need a user-made skin pack to go with it, which can be found at the[WinCustomize website](https://www.wincustomize.com/explore/windowblinds/9233/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Winaero Tweaker
 
  Winaero Tweaker is an important program, and we'll be using it to do quite a lot. Head over to the[Winaero Tweaker download page](https://winaerotweaker.com) , and then over to[this DeviantArt page](https://www.deviantart.com/vovan29/art/Windows-95-ALL-ICONS-805656804) for a Windows 95 icon set to go along with it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Open-Shell-Menu
 
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
  RetroBar is pretty self-explanatory. It's going to be crucial to get our taskbar looking just right, as well as restore classic functionality. This is another program that you might find useful aside from its classic look. Find it on[the RetroBar GitHub page](https://github.com/dremin/RetroBar) and download it.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Desktop Sidebar
 
  This one might be optional if you don't care for the mostly forgotten Channel Bar, but if you do, head over to[the download page for Desktop Sidebar](http://www.oldversion.com/windows/desktop-sidebar-1-03-build-42) to add it to the collection.
@@ -64,16 +71,16 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
  Last, but very important, is the sound pack. We can import this directly as a sound scheme, although it's going to require some work later on. Download[this sound pack on Blockland Glass](https://blocklandglass.com/addons/addon.php?id=524) and we can finally begin.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Install WindowBlinds 11 and Skin Pack
 
 ![screenshot of windowblinds 11 selecting the classic theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_windowblinds11_classic_theme.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Install WindowBlinds 11 using its .exe file, and after it has finished installing, simply double-click the**Windows 98 Classic.wba** file that you downloaded earlier. This will load the skin into WindowBlinds 11.
 
@@ -103,29 +110,22 @@ This gives us a fairly authentic-looking Start Menu and icon.
 
 ![screenshot of the retrobar settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_retrobar_settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  RetroBar will make an immediate difference, as soon as you run it. You'll notice that it automatically changes your taskbar to a classic style, with individual tabs for programs.
 
  To make changes in this program, you have to right-click your new taskbar and hit**Properties.**
 
  From here you can make some changes if you'd like, however, it launches with a Windows 98 theme applied out of the box, so there's not too much you'll need to do here.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Install Classic Sounds
 
 ![screenshot of changing system sounds in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_change_system_sounds_windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We're starting to get somewhere now. Next up is the classic sounds, which can be a little bit tedious to install.
 
@@ -142,10 +142,10 @@ This gives us a fairly authentic-looking Start Menu and icon.
  Do this for the remaining items, or until you're satisfied. There are 15 classic sounds all up, and they add a lot to the nostalgic experience.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Desktop Sidebar
@@ -153,16 +153,10 @@ This gives us a fairly authentic-looking Start Menu and icon.
 ![screenshot of the windows sidebar with options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_windows_side_bar_options.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Let's recreate something a bit more obscure. Using Desktop Sidebar, we're able to imitate the Windows 98 Channel Bar. Run the .exe for Desktop Sidebar to install it.
@@ -171,23 +165,9 @@ This gives us a fairly authentic-looking Start Menu and icon.
 
  Set the**Skin** to**Old Win Style by szaoservices.** Now it should look a lot more like the image above, and fit right in with the rest of your system.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Winaero Tweaker
 
 ![screenshot of winaero tweaker configuring icon settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_winaero_tweaker_icons_page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With WinAero Tweaker, we'll be doing some finishing touches. Install this program using the .exe and then use the search bar within the program to seek out the following options.
 
@@ -204,9 +184,29 @@ However, there is one icon you can only change using Winaero Tweaker.
 
  Search for the term libraries and open**Customize Libraries Item.** From here you can hit**Browse** and replace the Libraries icon with a Windows 98 equivalent. This icon appears frequently throughout Windows, so setting it to a classic look goes far in keeping up the classic theme.
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Performance Tweaks for Authenticity
 
 ![screenshot of the power settings in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_of_power_settings_in_windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This last step is optional and entirely impractical, but if you are after a truly authentic experience, you might want to drop some performance settings.
 
@@ -241,14 +241,17 @@ However, there is one icon you can only change using Winaero Tweaker.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-perfect-pair-merging-your-youtube-video-library/"><u>[Updated] 2024 Approved Perfect Pair Merging Your YouTube Video Library</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-circulating-content-the-art-of-playlist-sharing/"><u>2024 Approved Circulating Content The Art of Playlist Sharing</u></a></li>
-<li><a href="https://windows11.techidaily.com/becoming-an-admin-in-pc-command-console/"><u>Becoming an Admin in PC Command Console</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-up-storage-alerts-and-errors-on-windows/"><u>Clearing Up Storage Alerts & Errors on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/compulsory-uninstall-guide-for-windows-11-printers/"><u>Compulsory Uninstall Guide for Windows 11 Printers</u></a></li>
-<li><a href="https://windows11.techidaily.com/cursor-on-display-redeeming-darkened-win1011-screens/"><u>Cursor on Display: Redeeming Darkened Win10/11 Screens</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-poco-c65-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Poco C65</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/linksys-wusb6300-driver-installation-instructions-quick-and-easy-guide-for-seamless-connectivity/"><u>Linksys WUSB6300 Driver Installation Instructions: Quick and Easy Guide for Seamless Connectivity</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-beyond-virtualdub-exploring-other-video-editing-software-options/"><u>Updated 2024 Approved Beyond VirtualDub Exploring Other Video Editing Software Options</u></a></li>
+<li><a href="https://windows11.techidaily.com/2-seamless-integration-how-wsl-is-becoming-more-user-friendly-on-windows-pcs/"><u>2. Seamless Integration: How WSL Is Becoming More User-Friendly on Windows PCs</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-commanding-attention-best-in-class-tiktok-caption-ideas-for-audiene-engagement/"><u>2024 Approved Commanding Attention Best-in-Class TikTok Caption Ideas for Audiene Engagement</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oneplus-nord-3-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting OnePlus Nord 3 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-recipe-to-concoct-a-clumsy-brew-in-the-world-of-minecraft/"><u>Effortless Recipe to Concoct a Clumsy Brew in the World of Minecraft</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-superior-performance-for-windows-apps-on-macoslinux-with-crossover-24-at-promo-rates/"><u>Get Superior Performance for Windows Apps on macOS/Linux with CrossOver 24 at Promo Rates!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Stop My Spouse from Spying on My Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-12-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 12 Pro Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-motorola-moto-e13-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Motorola Moto E13 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-innovative-enhancements-stardew-valleys-top-7-choices/"><u>In 2024, Innovative Enhancements Stardew Valley's Top 7 Choices</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveraging-microsoft-code-companion-for-programmers/"><u>Leveraging Microsoft Code Companion for Programmers</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-major-windows-11-webcam-glitches-a-comprehensive-guide/"><u>Resolving Major Windows 11 Webcam Glitches: A Comprehensive Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-14-pro-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 14 Pro</u></a></li>
 </ul></div>
 

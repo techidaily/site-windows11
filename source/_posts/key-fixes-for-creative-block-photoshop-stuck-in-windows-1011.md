@@ -1,7 +1,7 @@
 ---
 title: "Key Fixes for Creative Block: Photoshop Stuck in Windows 10/11"
-date: 2024-10-06T21:48:19.837Z
-updated: 2024-10-13T03:06:51.580Z
+date: 2024-10-15T20:29:56.185Z
+updated: 2024-10-18T18:11:46.464Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
 ![The Run this program as an administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-this-program-as-administrator3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Start Photoshop Without Plugins
 
  Third-party plugins can generate Photoshop startup issues. If you utilize Photoshop with plugins, try disabling them. To do so, hold the **Shift** when you click to run Photoshop. Then select **Yes** to skip the loading of optional plugins.
@@ -53,15 +46,15 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 ![The End task option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/end-task-context-menu-option.png)
 3. Then scroll down through the **Background processes** section to see if there are any Adobe Photoshop processes there.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Adobe Photoshop processes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/adobe-photoshop-processes.jpg)
 4. Select Adobe Photoshop background processes and click **End task** to terminate them. Disable all Photoshop processes you can find.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Turn Off Controlled Folder Access
 
@@ -70,18 +63,39 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 1. Double-click on the Windows Security shield icon inside the system tray area of the taskbar. If you can’t see it, click the small **Show hidden icons** arrow.  
 ![The Windows Security icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/windows-security-icon.jpg)
 2. Select the **Virus & threat** (shield) tab on Windows Security’s sidebar.
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Next, click **Manage ransomware protection** to reach Windows Security’s Controlled folder access setting.  
 ![The Manage ransomware protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/manage-ransomware-option.jpg)
 4. Click the switch for the **Controlled folder access** option to disable that setting if it’s turned on.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![The Controlled Folder Access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/controlled-folder-access-option.jpg)
 5. Then try launching Adobe Photoshop with controlled folder access disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Your PC’s Display Adapter
@@ -95,29 +109,9 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 ![The Disable device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-device-option.jpg)
 5. Select **Yes** to disable the device.
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Launch Photoshop with the graphics adapter disabled.
 
  You can always re-enable the graphics adapter when you’re not utilizing Photoshop. To do so, right-click your graphics card in Device Manager and select Enable device.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Clear Photoshop’s Font Cache
 
@@ -127,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 2. Then type **%AppData%** into Run and press **Enter** to open a Roaming directory.  
 ![The Roaming subfolder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-roaming-subfolder.jpg)
 3. Open the Adobe > Photoshop subfolders from the Roaming directory.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Right-click the CT Font Cache subfolder and select **Delete** (the trash can on Windows 11's context menu).  
 ![The Delete option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-delete-option4.jpg)
@@ -139,10 +140,10 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/uninstall-option-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you’ve uninstalled Photoshop, restart your PC. Then open the Adobe Creative Cloud app. Install Adobe Photoshop from the Creative Cloud app.
@@ -163,17 +164,18 @@ thumbnail: https://thmb.techidaily.com/0177669a9f7e47198243a9fecb2a2f8d7897c9576
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-laughters-launchpad-7-funny-video-frameworks-for-comedians/"><u>[New] 2024 Approved Laughter's Launchpad 7 Funny Video Frameworks for Comedians</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-easy-iphonesideways-capturing-the-moment-for-2024/"><u>[Updated] Easy iPhonesideways Capturing the Moment for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-navigating-to-platforms-for-youtube-influencer-partnerships/"><u>[Updated] Navigating to Platforms for YouTube Influencer Partnerships</u></a></li>
-<li><a href="https://windows11.techidaily.com/accessing-windows-11-homespace-options/"><u>Accessing Windows 11 Homespace Options</u></a></li>
-<li><a href="https://windows11.techidaily.com/effortlessly-upgrading-windows-11-in-place/"><u>Effortlessly Upgrading Windows 11 in Place</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-windows-steam-performance-preventing-zero-speed-slowdowns/"><u>Elevate Windows Steam Performance: Preventing Zero-Speed Slowdowns</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-exit-dfu-mode-on-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-mastering-facebook-live-with-dji-drones-a-step-by-step-guide/"><u>In 2024, Mastering Facebook Live with DJI Drones A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/in-depth-techniques-for-rectifying-your-xbox-gamepad-malfunctions-full-manual/"><u>In-Depth Techniques for Rectifying Your Xbox Gamepad Malfunctions (Full Manual)</u></a></li>
-<li><a href="https://windows11.techidaily.com/power-preservation-pitfalls-the-reality-of-modern-standby/"><u>Power Preservation Pitfalls: The Reality of Modern Standby</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/resolved-reducing-excessive-cpu-consumption-in-google-chrome/"><u>Resolved: Reducing Excessive CPU Consumption in Google Chrome</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailoring-group-policies-focusing-on-one-user-at-a-time/"><u>Tailoring Group Policies: Focusing on One User at a Time</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-first-time-filmmaker-guide-setting-up-logitech-cam/"><u>[Updated] First-Time Filmmaker Guide Setting up Logitech Cam</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-make-your-youtube-animated-subscribe-button-easily-with-filmora/"><u>[Updated] How to Make Your YouTube Animated Subscribe Button Easily With Filmora</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/"><u>2024 Approved Unveiling the Secret Sauce for Massive TikTok Content Grabs</u></a></li>
+<li><a href="https://win-special.techidaily.com/1728508665476-windows/"><u>解決方法：謎之Windows系統分割區消失</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-w10-to-w11-unveiling-major-operating-system-upgrades/"><u>From W10 to W11: Unveiling Major Operating System Upgrades</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guide-mastering-keyboard-shortcuts-for-accessing-system-information-on-windows-11/"><u>Guide: Mastering Keyboard Shortcuts for Accessing System Information on Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-infinix-hot-40i-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Infinix Hot 40i Phone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-pvr-uno-customizable-media-solution/"><u>In 2024, PVR Uno Customizable Media Solution</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-nvidia-opengl-error-on-windows-11-quick-guide/"><u>Overcoming NVIDIA OpenGL Error on Windows 11 - Quick Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/paving-the-way-for-youtube-wealth-reaching-a-threshold-of-500-subs-for-2024/"><u>Paving the Way for YouTube Wealth Reaching a Threshold of 500 Subs for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconnecting-to-wi-fi-on-windows-system/"><u>Reconnecting to Wi-Fi on Windows System</u></a></li>
+<li><a href="https://windows11.techidaily.com/recover-lost-icons-steam-on-windows-edition/"><u>Recover Lost Icons: Steam on Windows Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-implementing-task-management-features-for-windows-11-enthusiasts/"><u>Step-by-Step: Implementing Task Management Features for Windows 11 Enthusiasts</u></a></li>
 </ul></div>
 

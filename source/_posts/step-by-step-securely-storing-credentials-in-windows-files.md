@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Securely Storing Credentials in Windows Files"
-date: 2024-09-05T02:10:17.727Z
-updated: 2024-09-06T02:10:17.727Z
+date: 2024-10-13T01:46:43.940Z
+updated: 2024-10-18T20:12:51.650Z
 tags:
   - windows10
   - windows11
@@ -73,9 +73,31 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
 2. Click Secure Edit's **File** menu.  
 ![The Save as option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/save-as-option.jpg)
 3. Select the **Save as** option.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Choose the **Encrypted Files** format on the **Save as** type menu.  
 ![The Save as type option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/save-as-type-drop-down-menu.jpg)
 5. Fill out the **File name** box.
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Select somewhere to save your file.
 7. Click **Save**.
 
@@ -94,17 +116,12 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
 ![Secure Edit's Font window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/font-options-in-secure-edit.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Apply Passwords to Notepad Text Files With PeaZip
 
  PeaZip is a freeware archive utility with which you can [set up password-protected archives](https://www.makeuseof.com/windows-password-protect-zip-file/). You can apply a password to multiple Notepad text files by adding them to a password-protected archive with PeaZip.
@@ -121,18 +138,14 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
 2. Press the PeaZip setup window's **Install** button.  
 ![The Install option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-option.jpg)
 3. Click **Finish** to exit the PeaZip setup window.
+
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Double-click the PeaZip desktop shortcut.
 5. Select a folder that includes some text documents within PeaZip's navigation sidebar.
 
@@ -140,27 +153,9 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
 2. Press the **Add** button.  
 ![The Add button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/add-button.jpg)
 3. Choose **ZIP** in the **Type** drop-down menu.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click the **Set password / keyfile** option.  
 ![Archive settings in PeaZip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/archive-settings-in-peazip.jpg)
 5. Enter your desired password in the **Password** box.
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Re-enter the same password in the **Confirm** box.  
 ![The set password for PeaZip window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-password-box-in-peazip.jpg)
 7. Select **OK** in the **Password** window.
@@ -174,23 +169,12 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
 ![The password box for a PeaZip ZIP archive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/password-box-for-archive.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Secure Your Text Files in Windows 11/10
 
  If you share a Windows PC with other users, you should set passwords for text files containing private notes and confidential details. Even if you don't, securing your personal notes is a good idea by applying a password. So, check out LockNote, Secure Edit, or PeaZip to protect your most confidential text files in Windows.
@@ -201,11 +185,31 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
 
  This is how you can use these three apps to protect the information you save on text files in Windows 11/10\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-composing-the-unseen-background-sounds-for-movie-teasers/"><u>[New] Composing the Unseen Background Sounds for Movie Teasers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-front-runners-in-4k-gaming-graphics/"><u>[Updated] Front-Runners in 4K Gaming Graphics</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-slicing-sequences-smoothly-effective-ways-to-trim-vimeo-video-lengths/"><u>[Updated] Slicing Sequences Smoothly Effective Ways to Trim Vimeo Video Lengths</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/alternative-browser-installation-on-samsung-televisions-a-comprehensive-tutorial/"><u>Alternative Browser Installation on Samsung Televisions - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-up-the-blocked-app-notification-issue/"><u>Clearing Up the Blocked App Notification Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-center-changing-your-onedrive-storage-territory-on-windows-10/"><u>Command Center: Changing Your OneDrive Storage Territory on Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-guide-windows-screensaver-tactics/"><u>Comprehensive Guide: Windows Screensaver Tactics</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-complexity-adding-ease-to-uninstall-in-windows/"><u>Conquering Complexity: Adding Ease to Uninstall in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-your-clock-region-on-windows-avoiding-automatic-changes/"><u>Customize Your Clock Region on Windows, Avoiding Automatic Changes</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-and-correcting-not-found-on-windows/"><u>Deciphering and Correcting 'Not Found' On Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-the-disruption-in-skyrims-scripting/"><u>Deciphering the Disruption in Skyrim's Scripting</u></a></li>
+<li><a href="https://windows11.techidaily.com/direct-route-to-dialing-system-in-win-11/"><u>Direct Route to Dialing System in Win 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-vivo-y100i-power-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo Y100i Power 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-blueprint-for-your-mobile-youtube-businesspersonal-platform/"><u>In 2024, The Ultimate Blueprint for Your Mobile YouTube Business/Personal Platform</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/script-for-setting-up-ms-word-opening-email-attachments-without-edit-options/"><u>Script for Setting Up MS Word: Opening Email Attachments Without Edit Options</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-guide-to-installing-and-leveraging-chatgpt-additional-tools/"><u>The Ultimate Guide to Installing and Leveraging ChatGPT Additional Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fix-unsupported-operating-system-warning-and-prevent-exit-during-installation/"><u>Troubleshooting Guide: Fix Unsupported Operating System Warning & Prevent Exit During Installation</u></a></li>
+</ul></div>
+

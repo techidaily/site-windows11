@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Secrets: Optimizing RDC in W11"
-date: 2024-09-05T02:09:39.282Z
-updated: 2024-09-06T02:09:39.282Z
+date: 2024-10-16T21:02:39.669Z
+updated: 2024-10-19T01:28:24.156Z
 tags:
   - windows10
   - windows11
@@ -54,12 +54,6 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 ![The Run accessory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/the-run-accessory.png)
 4. Click the **OK** button to open Remote Desktop Connection.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Open Remote Desktop Connection With the Windows Terminal
 
  You can open Remote Desktop Connection with both the Command Prompt and PowerShell command-line tools. The Windows Terminal brings both those command-line tools together in Microsoft’s latest desktop platform. You can open RDC with the Windows Terminal as follows.
@@ -69,27 +63,16 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 3. Click the **Open a new tab** option shown directly below to select either Command Prompt or Windows PowerShell.  
 ![The Open new tab option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/open-new-tab-option.png)
 4. Input this command within your **Command Prompt** or **PowerShell** tab:  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 `mtsc`
 5. Press **Enter** to open Remote Desktop Connection.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Open Remote Desktop Connection Within Its Folder
 
  Remote Desktop Connection is included within the Windows Accessories folder. You can open the accessory from its Windows Accessories folder in File Explorer. To do that, follow the steps below.
@@ -109,11 +92,12 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 3. Input **mstsc.exe** inside File Explorer’s empty address bar.  
 ![The mstsc.exe process entered in File Explorer's address bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/mstsc-exe-command.jpg)
 4. Press **Enter** to open Remote Desktop Connection.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Open Remote Desktop Connection With the Start Menu
@@ -124,29 +108,18 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 2. Select the **All apps** option to view all program and folder shortcuts on the Start menu.  
 ![The Windows Tools folder shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-tools-folder-on-start-menu.jpg)
 3. Scroll down the menu and double-click **Windows Tools**.  
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Remote Desktop Connection app in the Windows Tools folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/remote-desktop-connection-app.jpg)
 4. Double-click **Remote Desktop Connection** within the Windows Tools folder.
 
  Windows Tools is also accessible within the Control Panel. [Open the Control Panel](https://www.makeuseof.com/windows-open-control-panel/) and change its view by selecting **Small icons**. Then you can click **Windows Tools** and select to open Remote Desktop Connection from there.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Open Remote Desktop Connection With Task Manager
 
  Task Manager is a utility with which you can both terminate and run processes. This is how you can open Remote Desktop Connection by running its process with Task Manager’s Create new task tool:
@@ -158,17 +131,12 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 4. Input the **mstsc** process command into the **Open** box.  
 ![The Create new task window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-create-new-task-tool.jpg)
 5. Select **OK** to run the Remote Desktop Connection process.
+
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Open Remote Desktop Connection With a Desktop Shortcut
@@ -183,6 +151,13 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 ![A Remote Desktop Connection shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/remote-desktop-connection-shortcut.png)
 5. Now you can click the new desktop shortcut to open Remote Desktop Connection.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That shortcut will simply open the RDC window. You can also set up a Remote Desktop Connection shortcut for a specific PC. To do that, enter **mstsc.exe /v:PC-name** in the Create Shortcut window’s item location text box. Replace **PC-name** in that item location with the actual name of a PC to connect with.
 
  If you prefer, you can have a taskbar shortcut for Remote Desktop Connection instead. Right-click the Remote Desktop Connection shortcut and select **Show more options** \> **Pin to taskbar**. Selecting that option will add an RDC shortcut to the taskbar as shown in the snapshot below. You can remove the desktop one by right-clicking it and selecting **Delete**.
@@ -190,23 +165,12 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 ![A Remote Desktop Connection taskbar shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/remote-desktop-connection-taskbar-shortcut.png)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 9\. Open Remote Desktop Connection With a Keyboard Shortcut
 
  You can add a hotkey to an RDC desktop shortcut. By doing so, you’ll be able to open Remote Desktop Connection with a keyboard shortcut. First, [set up a desktop shortcut](https://www.makeuseof.com/what-is-desktop-shortcut-how-work/) as outlined for method five. Then you can add a hotkey to that shortcut as follows.
@@ -219,18 +183,6 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 
  Now you can press **Ctrl + Alt + R** to bring up Remote Desktop Connection whenever you need it. However, don’t delete the desktop shortcut for it. That shortcut must remain in place for its hotkey to work.
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Open Remote Desktop Connection With the Context Menu
 
  The context menu is the right-click menu you can open from the desktop. That menu doesn’t include Remote Desktop Connection by default. However, you can add a shortcut for opening Remote Desktop Connection to the context menu with a relatively straightforward registry tweak as follows:
@@ -248,37 +200,32 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 9. Right-click the **(Default)** string inside the new command subkey and select **Modify**.  
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-modify-option.jpg)
 10. Input **"C:\\Windows\\System32\\mstsc"** inside the **Value data** box and select **OK**.  
-![The Edit String window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/edit-string-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Edit String window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/edit-string-window.jpg)
+
  Now you can open the Remote Desktop Connection app from your desktop’s context menu. Right-click any empty area of the Windows 11 desktop to select **Show more options** for viewing the classic context menu. You’ll see a new **Remote Desktop Connection** shortcut on the classic context menu. Click that shortcut to access the Remote Desktop Connection app.
 
  You can remove the **Remote Desktop Connection** context menu shortcut any time you wish. To do so, return to the shell registry location specified in step three above. Right-click the **Remote Desktop Connection** key you added and select **Delete** \> **Yes**.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Open Remote Desktop Connection With Your Favorite Method
 
  So, there are various ways you can open Remote Desktop Connection in Windows 11\. The quickest and most direct methods are to open it from the desktop or with a hotkey, which you’ll need shortcuts for. Or you can open it via Run, the search tool, File Explorer, and Windows Terminal. Choose whatever method you prefer for opening Remote Desktop Connection.
 
  To connect to a remote PC, you’ll need to open the Remote Desktop Connection tool. Once done, you can then enter the login credentials for the remote PC to connect to it through the Remote Desktop Connection window. As such, let's explore how to enable the Remote Desktop Connection tool on Windows 11
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -286,3 +233,21 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-depth-look-at-facetune-a-photographers-best-friend/"><u>[New] In-Depth Look at Facetune A Photographer’s Best Friend</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoiding-insufficient-access-errors-during-software-removal/"><u>Avoiding Insufficient Access Errors During Software Removal</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensible-guide-to-counteracting-winerror-0x80071a90/"><u>Comprehensible Guide to Counteracting WinError 0X80071a90</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-the-secret-to-smoothly-controlling-your-touchpad-in-windows-11/"><u>Discover the Secret to Smoothly Controlling Your Touchpad in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-blackout-phenomenon-in-windows-titles/"><u>Eliminating Blackout Phenomenon in Windows Titles</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-genuineness-errors-in-adobe-windows/"><u>Eliminating Genuineness Errors in Adobe Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-subnet-configuration-in-win11/"><u>Enhance Your Subnet Configuration in Win11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/guide-to-completely-erase-data-on-iphone-15-pro-to-avoid-privacy-leak-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Guide to Completely Erase Data on iPhone 15 Pro to Avoid Privacy Leak | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-oneplus-nord-n30-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from OnePlus Nord N30 5G</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-how-to-capture-and-save-your-beloved-hulu-seasons-quickly-and-conveniently/"><u>In 2024, How To Capture & Save Your Beloved Hulu Seasons Quickly & Conveniently</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-tablet-stylus-problems-with-windows-os/"><u>Overcoming Tablet Stylus Problems with Windows OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-path-of-exile-lag-issues-a-step-by-step-guide/"><u>Resolve Path of Exile Lag Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-oneplus-ace-2v-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On OnePlus Ace 2V? Fixed | Dr.fone</u></a></li>
+</ul></div>
+

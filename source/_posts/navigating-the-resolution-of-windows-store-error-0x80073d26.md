@@ -1,7 +1,7 @@
 ---
 title: Navigating the Resolution of Windows Store Error 0X80073D26
-date: 2024-10-09T00:31:43.137Z
-updated: 2024-10-12T22:40:32.955Z
+date: 2024-10-17T20:32:08.893Z
+updated: 2024-10-18T21:06:21.542Z
 tags:
   - windows10
   - windows11
@@ -46,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/e0fa0d67e26442f6514904daf3cc23134382c2cc5
 ![The Reset button for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-button-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Edit the Registry
@@ -64,14 +64,14 @@ thumbnail: https://thmb.techidaily.com/e0fa0d67e26442f6514904daf3cc23134382c2cc5
 ![The Delete registry key option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/delete-option-1.jpg)
 5. Click the **GamingServicesNet** key with the mouse’s right button and select the **Delete** \> **Yes** options.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Exit Registry Editor and restart your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Reinstall the Microsoft Gaming Service
 
@@ -85,6 +85,13 @@ thumbnail: https://thmb.techidaily.com/e0fa0d67e26442f6514904daf3cc23134382c2cc5
 ![The remove-app package command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-app-package-command.jpg)
 5. Then input these separate commands, pressing **Return** after each:  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServices" -recurse  
 
 Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -recurse` 
@@ -94,13 +101,6 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 7. Reopen Powershell and execute the following command:  
 `start ms-windows-store://pdp/?productid=9MWPM2CQNLHN`
 8. Then click the **Get** button for installing Gaming Service.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Perform Some Generic Windows Fixes for Errors
 
@@ -117,26 +117,26 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-services-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Another possibility is that a software conflict might be causing error 0x80073D26 to occur on your PC. Setting Windows to clean boot by disabling third-party startup items will likely eliminate such a potential cause. That will stop third-party apps and services that could be conflicting with the Microsoft Store from automatically starting.
 
  To apply this fix, check out this guide about [clean-booting Windows 10 or 11](https://www.makeuseof.com/clean-boot-windows-11/). Disable startup programs in Task Manager and services in MS Config as covered within that guide; then restart your PC and try installing Microsoft Store games again to see if the issue persists.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Reinstall the Microsoft Store
 
 ![The remove Microsoft Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/remove-microsoft-store-command.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Some users might need to reinstall the Microsoft Store to fix error 0x80073D26\. Such a resolution might be necessary for fixing wider issues with the Microsoft Store app other potential solutions don’t address.
 
@@ -152,14 +152,14 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-11-setup-window2.jpg)
 
- You can also perform a Windows 10 in-place upgrade much the same. One difference is that you’ll need to download a Windows 10 Setup file by clicking **Download tool** on the [Microsoft Windows 10 download webpage](https://www.microsoft.com/en-gb/software-download/windows10). Then select **Upgrade this PC** now in the Windows 10 Setup wizard to install the latest version of the OS.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ You can also perform a Windows 10 in-place upgrade much the same. One difference is that you’ll need to download a Windows 10 Setup file by clicking **Download tool** on the [Microsoft Windows 10 download webpage](https://www.microsoft.com/en-gb/software-download/windows10). Then select **Upgrade this PC** now in the Windows 10 Setup wizard to install the latest version of the OS.
 
 ## Enjoy the Best Xbox Game Pass Games Available on the Microsoft Store
 
@@ -177,18 +177,24 @@ Remove-Item -Path "HKLM:\System\CurrentControlSet\Services\GamingServicesNet" -r
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-samsung-gear-360-vs-lg-360-cam-which-360-degree-camera-is-better/"><u>[Updated] Samsung Gear 360 vs LG 360 Cam Which 360 Degree Camera Is Better</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-step-by-step-modify-username-in-google-meet/"><u>2024 Approved Step-by-Step Modify Username in Google Meet</u></a></li>
-<li><a href="https://windows11.techidaily.com/balancing-audio-dynamics-for-bluetooth-devices/"><u>Balancing Audio Dynamics for Bluetooth Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-hacks-for-identifying-windows-age/"><u>Expert Hacks for Identifying Windows Age</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-poco-m6-pro-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Poco M6 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-audio-excellence-premium-recording-mics-ranked/"><u>In 2024, Audio Excellence Premium Recording Mics Ranked</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g13-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G13 Phone without Any Data Loss</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719579969714-jumpstart-your-urdu-learning-now/"><u>Jumpstart Your Urdu Learning Now!</u></a></li>
-<li><a href="https://ai-video.techidaily.com/new-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>New Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-influencers-playbook-5-tips-for-building-brand-authority-through-reddit-partnerships-for-2024/"><u>The Influencer's Playbook 5 Tips for Building Brand Authority Through Reddit Partnerships for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-for-finding-ev-charging-stations-on-google-maps/"><u>The Ultimate Tutorial for Finding EV Charging Stations on Google Maps</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-resolving-unresponsiveness-in-your-windows-downloads-hub/"><u>Tips for Resolving Unresponsiveness in Your Windows Downloads Hub</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-strategy-enhancing-hard-drive-performance/"><u>Win11 Strategy: Enhancing Hard Drive Performance</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gaming-galore-top-10-virtual-reality-for-phones/"><u>[New] Gaming Galore Top 10 Virtual Reality for Phones</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-leveraging-wirecast-for-high-impact-engaging-social-media-streams-for-2024/"><u>[Updated] Leveraging Wirecast for High Impact, Engaging Social Media Streams for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-troubleshoot-common-anydesk-errors-on-windows/"><u>How to Troubleshoot Common AnyDesk Errors on Windows</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-8-picks-for-excellent-free-srt-translation-tools/"><u>In 2024, Top 8 Picks for Excellent Free SRT Translation Tools</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-realme-c67-4g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Realme C67 4G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/installation-woes-practical-solutions-for-optional-features-on-windows-11-and-11-pro/"><u>Installation Woes: Practical Solutions for Optional Features on Windows 11 & 11 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-printer-fixes-on-windows-11-with-ease/"><u>Mastering Printer Fixes on Windows 11 with Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-cc-settings-and-fixes/"><u>Mastering Windows 11 CC Settings & Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/proactive-methods-to-uncover-system-vulnerabilities/"><u>Proactive Methods to Uncover System Vulnerabilities</u></a></li>
+<li><a href="https://windows11.techidaily.com/safe-navigation-in-windows-11-the-top-8-to-steer-clear-of/"><u>Safe Navigation in Windows 11: The Top 8 To Steer Clear Of</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-editor-writes-critical-cut-list-explained/"><u>The Editor’ Writes Critical Cut List Explained</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/tiktop-to-mp4-prime-video-conversion-tools-for-2024/"><u>TikTop to MP4 Prime Video Conversion Tools for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-11s-latest-driver-compatibility/"><u>Unlocking Windows 11'S Latest Driver Compatibility</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-loop-your-gifs-for-free-top-maker-tools/"><u>Updated Loop Your GIFs for Free Top Maker Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-display-reclaiming-optimal-performance/"><u>Windows 11 Display: Reclaiming Optimal Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-immediate-rescue-for-non-visible-sign-ins/"><u>Windows 11: Immediate Rescue for Non-Visible Sign-Ins</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-arp-cache-insights-and-clearing-methods/"><u>Windows ARP Cache Insights & Clearing Methods</u></a></li>
 </ul></div>
 

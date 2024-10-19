@@ -1,7 +1,7 @@
 ---
 title: "Overhauling Windows 11 Camera Glitch: Fix for Error Code A00F425D"
-date: 2024-09-05T02:08:03.144Z
-updated: 2024-09-06T02:08:03.144Z
+date: 2024-10-14T22:33:32.886Z
+updated: 2024-10-18T17:09:28.948Z
 tags:
   - windows10
   - windows11
@@ -55,15 +55,16 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 ![The Microphone access option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microphone-access-option.jpg)
 7. Then toggle on the**Camera** option to enable microphone access for that app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Plug an External Webcam Into an Alternative USB Port
 
  This potential error 0xA00F425D fix is for users who utilize external webcams with the Camera app. Some people have said they resolved error 0xA00F425D by plugging their external webcams into an alternative USB 2.0 port on their PCs. It's worth a try if you use an external camera for recording.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Edit the Registry’s Platform Keys
 
@@ -79,26 +80,37 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 1. Select**DWORD (32-bit) Value** option and input**EnableFrameServerMode** for the name.  
 ![The DWORD (32-bit) Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dword-option.jpg)
 2. Double-click the**EnableFrameServerMode** DWORD you’ve just added.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. The**EnableFrameServerMode’s** value might be set to**0** by default. If it isn’t, however, input**0** in the data box to set that value.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-dword-option.jpg)
 4. Exit the Edit DWORD window by clicking**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Erase the current registry location in the address bar, and input the following alternative path there:  
 `HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows Media Foundation\Platform`  
 ![A Platform key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/enableframeserver-dword.jpg)
 6. Repeat steps six to 10 for the second**Platform** key.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Update Your Webcam’s Driver
 
  Another possible reason for error 0xA00F425D occurring is that your webcam’s driver is outmoded or faulty. You can check if your webcam’s driver is outdated or corrupted by running a scan with Driver Booster or alternatives. Our guide on[how to update your drivers using Driver Booster](https://www.makeuseof.com/update-windows-drivers-driver-booster-8/) tells you how to utilize that utility, or you can utilize alternatives included in our[best free driver updater for Windows](https://www.makeuseof.com/windows-best-free-driver-updaters/) guide.
@@ -107,44 +119,14 @@ This is how you can run those troubleshooters in Windows 10 and 11:
 
 ![Driver Booster software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/driver-booster.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Alternatively, you can find and replace an outdated camera driver without third-party software. The other way to do it is to manually download the latest driver for your camera from the manufacturer’s website and install it.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Clean Boot Your PC
 
  To prevent software conflicts that could potentially cause error 0xA00F425D, try setting Windows 11/10 to clean boot. Doing so will disable third-party apps and services from starting with Windows. Check out our guide about[clean booting on Windows](https://www.makeuseof.com/clean-boot-windows-11/) for details about how to apply this potential solution by disabling such startup items with Task Manager and MSConfig.
 
 ![The Services tab in MSConfig](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/services-tab.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Delete Your PC’s Most Recent Windows Patch Update
 
  Sometimes error 0xA00F425D can be triggered by a newly installed Windows patch update. Such updates have introduced bugs that have broken webcams on Windows 10 in the past. The KB4601319 cumulative update is a recent example. If your PC has recently received an update, there’s a slight possibility that could have caused 0xA00F425D.
@@ -152,6 +134,20 @@ This is how you can run those troubleshooters in Windows 10 and 11:
  Deleting your PC’s most recent Windows update would fix the error if that’s the case. You can apply such a potential resolution by manually uninstalling the latest update listed in the Control Panel’s Programs and Features applet. Our guide to[uninstalling Windows updates](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) includes step-by-step instructions for how to do that.
 
 ![Install updates in the Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/installed-updates.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Record Videos With the Camera App Again
 
@@ -163,8 +159,6 @@ This is how you can run those troubleshooters in Windows 10 and 11:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +166,20 @@ This is how you can run those troubleshooters in Windows 10 and 11:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ourav-joshis-financial-acumen-in-the-world-of-youtube-earnings/"><u>[New] Sourav Joshi's Financial Acumen in the World of YouTube Earnings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-revolutionary-methods-for-breaking-barriers-in-gif-making/"><u>[Updated] 2024 Approved Revolutionary Methods for Breaking Barriers in GIF Making</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-blandness-optimize-your-thumbnail-with-20-fonts-for-2024/"><u>Avoid Blandness - Optimize Your Thumbnail with 20 Fonts for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/craft-captivating-facebook-coverage-for-2024/"><u>Craft Captivating Facebook Coverage for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-magic-6-pro-frp-by-drfone-android/"><u>Full Guide to Bypass Honor Magic 6 Pro FRP</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-halt-windows-desktop-keys-effectively/"><u>How to Halt Windows Desktop Keys Effectively</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-repair-unable-to-fetch-error-in-nvidia-geforce-experience/"><u>How To Repair 'Unable To Fetch' Error in NVIDIA GeForce Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-oneplus-ace-3-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror OnePlus Ace 3 to Roku | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-creators-revolutionizing-virtual-environments/"><u>In 2024, Top Creators Revolutionizing Virtual Environments</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/raphic-forecast-the-2023-social-landscape-for-2024/"><u>Infographic Forecast The 2023 Social Landscape for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-repairing-windows-email-failures-error-code-0x800713f/"><u>Mastering the Art of Repairing Windows' Email Failures (Error Code 0X800713F)</u></a></li>
+<li><a href="https://windows11.techidaily.com/proven-tactics-for-heic-to-jpeg-conversion-process-on-windows-11-systems/"><u>Proven Tactics for Heic to JPEG Conversion Process on Windows 11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-transition-phasing-out-old-traits/"><u>Windows Transition: Phasing Out Old Traits</u></a></li>
+</ul></div>
 

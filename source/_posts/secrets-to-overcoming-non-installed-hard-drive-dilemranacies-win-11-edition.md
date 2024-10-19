@@ -1,7 +1,7 @@
 ---
 title: Secrets to Overcoming Non-Installed Hard Drive Dilemranacies, Win 11 Edition
-date: 2024-09-05T02:08:19.330Z
-updated: 2024-09-06T02:08:19.330Z
+date: 2024-10-15T17:03:19.224Z
+updated: 2024-10-18T19:31:00.664Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,23 @@ thumbnail: https://thmb.techidaily.com/76af2589a0e801a6b3434a05625504e9a24382860
 
  After that, carefully inspect the hard drive for any physical damage. Check for cracks, dents, or any other signs of wear. Additionally, check for any indications of liquid damage or unusual noises emanating from the hard drive. If you detect any of these issues, unfortunately, the only option is to replace your hard drive.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Perform a Hard PC Reset
 
 ![Laptop Bottom Cover Removed Exposing Internal Fans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Laptop-Bottom-Cover-Removed-Exposing-Internal-Fans.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Image Credit: Tina Sieber
 
@@ -49,18 +63,6 @@ Image Credit: Tina Sieber
 
  If the issue persists, you can try the next solution.
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Change the Boot Priority Order
 
  You might face the "hard drive not installed" issue if your computer is trying to boot from a connected external device. To confirm this, unplug all external devices from your computer, including your USB mouse, keyboard, and external backup hard drive.
@@ -76,21 +78,16 @@ Image Credit: Tina Sieber
 3. If **UEFI** is selected and then select **Legacy External Devices**. Or, if **Legacy External Devices** is selected and then select **UEFI**.  
 ![Boot_Sequence option in BIOS menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/boot_sequence.jpg)
 4. Click **Apply**.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then, restart your computer and check for the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Change Your System Date and Time
 
  An [incorrect date and time](https://www.makeuseof.com/tag/3-reasons-windows-computer-loses-time-date/) can impact how your computer boots up or prevent it from booting at all. So, make sure your computer is showing the current date and time. You can change the date and time by following the instructions below.
@@ -98,21 +95,16 @@ Image Credit: Tina Sieber
 1. Open the BIOS menu and choose **Date /Time** from the left sidebar.  
 ![Date_and_Time option in BIOS menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/date_and_time.jpg)
 2. Set the correct Date and Time. Then, click **Apply**.
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After that, restart your computer and check if the issue is resolved. If the problem is gone, but you need to set the date and time every time you boot your computer, it is likely that your computer's CMOS battery is failing. The only way to fix this is to [replace the CMOS battery](https://www.makeuseof.com/computer-battery-dead-how-fix-replace-cmos/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing the Hard Drive Not Installed Issue on Windows 11
 
  It's frustrating when you can't use your computer because of a hardware problem. Most of the time, you can fix these problems by restarting your device. But if restarting doesn't help and you see the "Hard drive not installed" error, then try the above solutions to troubleshoot the issue.
@@ -121,11 +113,26 @@ Image Credit: Tina Sieber
 
  Fortunately, you can quickly fix this problem and continue using your device using the solutions below.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-4-ways-to-record-facebook-live-stream/"><u>[New] 2024 Approved 4 Ways to Record Facebook Live Stream</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-mastering-the-art-of-moving-twitter-videos-into-whatsapp/"><u>[New] 2024 Approved Mastering the Art of Moving Twitter Videos Into WhatsApp</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-high-quality-sound-capture-top-10-for-spotify-lovers-for-2024/"><u>[New] High-Quality Sound Capture Top 10 for Spotify Lovers for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-affordable-customizable-templates-to-elevate-your-biz-talks/"><u>[Updated] Affordable, Customizable Templates to Elevate Your Biz Talks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/advanced-strategies-to-enhance-inbox-efficiency-using-gmails-filter-system-and-additional-email-handles/"><u>Advanced Strategies to Enhance Inbox Efficiency Using Gmail's Filter System and Additional Email Handles</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-energy-use-with-windows-pcs/"><u>Efficient Energy Use with Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-drag-fixes-for-your-win11-desktop/"><u>Effortless Drag Fixes for Your Win11 Desktop</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/einfache-und-schnelle-verschiebung-von-windows-10-onto-ssd-keine-neuinstallation-erforderlich/"><u>Einfache Und Schnelle Verschiebung Von Windows 지구 10 Onto SSD - Keine Neuinstallation Erforderlich</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-driver-enforcement-loading-unsigned-on-windows-108/"><u>Eliminating Driver Enforcement: Loading Unsigned On Windows 10/8</u></a></li>
+<li><a href="https://windows11.techidaily.com/embrace-world-typography-on-windows-font-guide/"><u>Embrace World Typography on Windows - Font Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/erase-system-misses-message-on-windows-os/"><u>Erase System Misses Message on Windows OS</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-the-latest-lenovo-ideapad-er-sorters-100-drivers-in-windows-11-step-by-step/"><u>Installing the Latest Lenovo IdeaPad Er-Sorters 100 Drivers in Windows 11 - Step by Step</u></a></li>
+</ul></div>
+

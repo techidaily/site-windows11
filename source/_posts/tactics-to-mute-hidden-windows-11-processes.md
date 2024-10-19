@@ -1,7 +1,7 @@
 ---
 title: Tactics to Mute Hidden Windows 11 Processes
-date: 2024-10-10T20:37:58.348Z
-updated: 2024-10-12T16:59:12.847Z
+date: 2024-10-16T17:27:33.203Z
+updated: 2024-10-18T22:29:17.894Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
  By default, the background permission for the app is set to **Power optimized(recommended)**. This means Windows will decide when the app can run in the background to save more power. If you set it to **Always**, the app will continuously run in the background irrespective of your power status.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Disable Background Apps via Power & Battery Settings
 
  The Power & battery page in Windows 11 Settings provides data on the battery usage of installed apps. This is really useful If you want to disable background apps based on battery usage to save some juice.
@@ -52,27 +59,20 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 ![power and battery usage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/power-and-batter-usage.png)
 4. Click the drop-down for **Battery levels** and select **Last 7 days.** Windows will load all the apps using the battery power in the last seven days.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![manage background activity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/manage-background-activity.png)
 5. To change the background app permission, click the **three-dots menu** beside the app name, and click on **Manage background productivity**. This option is only available for Microsoft Store apps.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Click the **drop-down** (**Power optimized**) under the **Background apps permissions** section and select **Never**. This will disable the app from running in the background.
 7. Repeat the steps for all the apps that can drain your battery or affect system performance.
 
  In addition to disabling background apps, try to create and use [custom Windows power plans to extend your laptop battery life](https://www.makeuseof.com/tag/save-energy-extend-battery-life-custom-windows-power-plans/). With custom power plans, you can tweak your processor and other components to configure low-power modes to achieve an improved battery life.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. How to Disable Background Apps for the Current User
 
@@ -86,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 2. Type **notepad** and click **OK** to open the text editor app.  
 ![disable background apps windows 11 registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-background-apps-windows-11-registry-editor.jpg)
 3. In the Notepad file, copy and paste the following content:  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `Windows Registry Editor Version 5.00  
 
@@ -121,6 +114,13 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Search]  
 "BackgroundAppGlobalToggle"=-`
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. How to Disable Background Apps for All Users Using Registry Editor
 
  If you want to disable background apps for all the user accounts, you can manually create and modify the registry values in the Registry Editor.
@@ -135,19 +135,26 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 ![registry editor create new key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/registry-editor-create-new-key.png)
 5. Right-click on the **Windows** key and select **New > Key.** Rename the key as **AppPrivacy.**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Right-click on the **AppPrivacy** key and select **New > DWORD (32-bit) Value**. Rename the value as **LetAppsRunInBackground.**  
 ![registry editor create new value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/registry-editor-create-new-value.png)
 7. Right-click on the **LetAppsRunInBackground** value and select **Modify**.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![registry editor data 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/registry-editor-data-2.png)
 8. Type **2** in the **Value data** field and click **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 9. Close the Registry Editor and restart your PC to apply the changes.
 
@@ -167,13 +174,6 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 3. In the right pane, locate and double-click on **Let Windows apps run in the background** policy.  
 ![disable background app group policy editor policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/disable-background-app-group-policy-editor-policy.png)
 4. In the new window that appears, select **Enabled**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Next, under the **Options** section, click the drop-down for **Default for all apps** and select **Force Deny**.  
 ![disable background app group policy editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/disable-background-app-group-policy-editor.png)
@@ -201,20 +201,16 @@ thumbnail: https://thmb.techidaily.com/89f58c00fabb0b3ac26622205cb1b82f67ddb2d73
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-from-live-demos-to-replays-tapping-into-aiseesoft-screencast-potential/"><u>[Updated] 2024 Approved From Live Demos to Replays Tapping Into Aiseesoft Screencast Potential</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-windows-tool-for-managing-system-components/"><u>Exploring Windows Tool for Managing System Components</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-0x80072efd-microsoft-store-error-in-windows-11-and-windows-10/"><u>How to Fix the 0X80072EFD Microsoft Store Error in Windows 11 and Windows 10</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-honor-90-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Honor 90 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-flash-share-sharing-playlists-in-a-snap/"><u>In 2024, Flash-Share Sharing Playlists in a Snap</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-infinix-note-30-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Infinix Note 30 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/industry-leading-ups-solutions-to-watch-in-2-best-uninterruptible-power-supplies-ups-for-continuous-protection/"><u>Industry-Leading UPS Solutions to Watch in 2# - Best Uninterruptible Power Supplies (UPS) for Continuous Protection</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-precision-best-keyboard-cars-for-windows/"><u>Quick Precision: Best Keyboard Cars for Windows</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/safekeeping-your-login-details-with-google-heres-what-you-need-to-know/"><u>Safekeeping Your Login Details with Google? Here's What You Need to Know</u></a></li>
-<li><a href="https://windows11.techidaily.com/secretive-startup-strategies-conceal-the-shutdown-command/"><u>Secretive Startup Strategies: Conceal the Shutdown Command</u></a></li>
-<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-system-updates-for-compatibility-with-intel-graphics/"><u>Streamlining System Updates for Compatibility with Intel Graphics</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-to-rectify-unresponsive-windows-key/"><u>Techniques to Rectify Unresponsive Windows Key</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/winservicesexe-what-it-is-and-fixing-errors/"><u>Winservices.exe: What It Is and Fixing Errors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-contrast-in-colors-crafting-cinematic-moods/"><u>[New] Contrast in Colors Crafting Cinematic Moods</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-solutions-for-enabling-audio-in-obs-broadcasts-for-2024/"><u>[New] Solutions for Enabling Audio in OBS Broadcasts for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-deciding-the-top-iphone-video-editor-cameo-or-filmorago/"><u>[Updated] 2024 Approved Deciding the Top iPhone Video Editor Cameo or FilmoraGo?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-key-methods-to-customize-song-speed-on-spotify-for-2024/"><u>[Updated] Key Methods to Customize Song Speed on Spotify for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-and-features-breakdown-why-the-garmin-forerunner-e-is-a-top-pick-for-fitness-enthusiasts/"><u>In-Depth Analysis and Features Breakdown: Why the Garmin Forerunner E Is a Top Pick for Fitness Enthusiasts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/recording-your-display-essential-tips-for-effective-screen-capture/"><u>Recording Your Display Essential Tips for Effective Screen Capture</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-and-protect-win-11-edge-instalment-of-microsofts-aguard-feature/"><u>Secure and Protect Win 11 Edge: Instalment of Microsoft's Aguard Feature</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/spotify-how-to-halt-default-podcast-additions-for-2024/"><u>Spotify How to Halt Default Podcast Additions for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-tackling-windows-disk-errors/"><u>The Ultimate Guide to Tackling Windows Disk Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/title-perfecting-space-between-windows-widgets/"><u>Title: Perfecting Space Between Windows Widgets</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-gif-size-limits-a-guide-to-fixed-errors-in-discord-win11/"><u>Unraveling GIF Size Limits: A Guide to Fixed Errors in Discord (Win11)</u></a></li>
 </ul></div>
 

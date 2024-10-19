@@ -1,7 +1,7 @@
 ---
 title: "Websites as Apps: Step-by-Step Windows Installation"
-date: 2024-09-09T11:58:21.052Z
-updated: 2024-09-10T11:58:21.052Z
+date: 2024-10-14T00:43:15.970Z
+updated: 2024-10-18T20:51:48.377Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: WebApp Installation,UI/UX for Sites,Site Migration Steps,Mobile Websit
 thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1916f6c8fc284b58583f1b79.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Websites as Apps: Step-by-Step Windows Installation
 
  A native desktop is preferable to visiting a web page frequently. However, not all web apps are available as standalone desktop apps. If you use a web service frequently, you can turn the websites into desktop apps on Windows.
@@ -33,11 +27,12 @@ thumbnail: https://thmb.techidaily.com/2fd2af990894cf11cb2087adc0179e8a43be6adf1
  These apps are also often free of all the clutter that web browsers bring, including bookmarks, menus, and more. Then there is a full-screen benefit that allows you to use all the real estate for a distraction-free experience.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 1\. Install a Website as an App Using Microsoft Edge
 
  Microsoft Edge has a handy feature to turn a website into an app. This is by far the easiest way to install a website as an app on Windows.
@@ -51,12 +46,6 @@ To install a website and app using Microsoft Edge:
 4. In the**Install app** dialog, enter a name for the app. It is important to enter a custom name as Edge by default will use the web page name and not the website name.  
 ![install chatgpt app windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/install-chatgpt-app-windows.jpg)
 5. To change the app icon, click the**Edit** button and select an icon from your local drive.
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click**Install** and wait for the app to be installed.
 
  Once installed, the app will auto-start with a few options to customize. The app will now run safely in its own window. You can launch it from the Start menu, Windows taskbar, or your desktop.
@@ -65,12 +54,6 @@ To install a website and app using Microsoft Edge:
 
  You can open the installed apps from the Start menu. Use the three-dots menu in the app's top right corner to access print, zoom, casting, and share options.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Uninstall An App in Microsoft Edge
 
 ![edge manage web apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edge-manage-web-apps.jpg)
@@ -89,10 +72,25 @@ To add a shortcut to a website as an app in Chrome:
 3. Next, go to**More Tools** and select**Create a shortcut** .  
 ![chatgpt create chrome shortcut create](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut-create.jpg)
 4. In the**Create a shortcut** pop-up, type a name for the app. Again, if you leave it default, Chrome will use the default web page name for the app.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Next, select the**Open as window** option.
 6. Finally, click**Create to create** the website shortcut as an app.
 
  Your new app will automatically start in a new window. You can launch the app from the Start menu, taskbar, and Windows search. Furthermore, open the three-dots menu within the app to access essential features such as zoom, print, and more.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Assign an Icon to a Website App
 
@@ -104,23 +102,11 @@ To change the app icon:
 2. In the**Properties** dialog, open the**Shortcut** tab.  
 ![website app properties shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/website-app-properties-shortcut.jpg)
 3. Click the**Change icon** button at the bottom.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![website-app-properties-shortcut-change-icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/website-app-properties-shortcut-change-icon.jpg)
 4. Click**Browse** and select a custom icon from your local drive. To use an existing icon from Windows's library, paste the following path in the**Change icon** dialog and click**Browse** .  
 C:\Windows\System32\imageres.dll
 5. The**Imageres.dll** file consists of the default icons pack for Windows. Select an icon from the library and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Turn Websites Into Desktop Apps With WebCatalog
 
  WebCataglog is a platform for desktop web apps. It comes with a library of web apps that you can install with a click. You can also create custom apps using the website URL.
@@ -133,26 +119,23 @@ To install a website as an app using WebCatalog:
 2. Once installed, launch the app.  
 ![webcatalog windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/webcatalog-windows.jpg)
 3. To install an app, search for its existing library. If an app doesn't exist, you create a custom app.
+
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Click the**Create custom app** option.  
 ![wev catalog create custom app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/wev-catalog-create-custom-app.jpg)
 5. Enter a name for the app and then add the URL to the website.
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Next, click**Select Local Image** and select an icon for the app.
@@ -188,25 +171,29 @@ To create a desktop app using Web2Desk:
  Apps Created using the service feature a Web2Desk splash screen. You can remove it for a premium of $45.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Install Websites as Desktop Apps on Windows
 
  Microsoft Edge and Chrome make it easy to install websites as desktop apps on Windows. You can also add them to Start, taskbar, or create a shortcut for quicker access.
 
  That said, if you need to work with several web apps with multiple accounts and sessions, WebCatalog is a good choice. You can choose from the app's library or create your custom app and organize them into different spaces.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -215,4 +202,24 @@ To create a desktop app using Web2Desk:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-digital-rehearsal-mastery-in-recording-streaming-audio/"><u>[New] 2024 Approved Digital Rehearsal Mastery in Recording Streaming Audio</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-cloud-based-seminar-snapshots/"><u>[New] In 2024, Cloud-Based Seminar Snapshots</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-uniting-choreography-with-crafted-audio-in-instagram-for-2024/"><u>[New] Uniting Choreography with Crafted Audio in Instagram for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/6-routines-to-reclaim-your-desktops-daytime-look/"><u>6 Routines To Reclaim Your Desktop's Daytime Look</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-solutions-when-apps-arent-working-properly-on-windows/"><u>7 Solutions When Apps Aren't Working Properly on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/arrow-keys-in-distress-heres-what-you-can-do/"><u>Arrow Keys in Distress? Here's What You Can Do</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-productivity-and-grades-essential-study-methods-on-a-windows-pc/"><u>Boost Productivity and Grades: Essential Study Methods on a Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/combatting-procedure-call-failures-in-malwarebytes-for-windows-os/"><u>Combatting Procedure Call Failures in Malwarebytes for Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/create-a-gratis-local-gptclone-with-gpt4all-for-windows/"><u>Create a Gratis, Local GPTClone with GPT4All for Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/dealing-with-filehistoryfaults-in-windows-os/"><u>Dealing with FileHistoryFaults in Windows OS</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/deciphering-the-value-of-photoshop-sway-control-for-2024/"><u>Deciphering the Value of Photoshop Sway Control for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-x80070091-error-in-windows-steps-for-empty-directory-problem-solving/"><u>Deciphering X80070091 Error in Windows - Steps for 'Empty Directory' Problem Solving</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-obtain-and-update-your-sas-drivers-for-windows-operating-systems-windows-7811/"><u>How to Obtain and Update Your SAS Drivers for Windows Operating Systems (Windows 7/8/11)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-oppo-a18-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Oppo A18 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-12-pro-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Realme 12 Pro 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/laugh-out-loud-a-step-by-step-meme-building-for-2024/"><u>Laugh Out Loud A Step-by-Step Meme Building for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-motorola-edge-40-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Motorola Edge 40 Pro with and without jailbreak | Dr.fone</u></a></li>
+</ul></div>
 

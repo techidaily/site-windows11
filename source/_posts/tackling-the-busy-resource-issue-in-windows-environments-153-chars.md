@@ -1,7 +1,7 @@
 ---
 title: Tackling the Busy Resource Issue in Windows Environments (153 Chars)
-date: 2024-10-10T17:26:14.233Z
-updated: 2024-10-13T01:01:27.203Z
+date: 2024-10-11T22:43:38.903Z
+updated: 2024-10-19T00:12:57.381Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
  If that doesn’t work, go into Task Manager and close superfluous third-party app background processes. Our guide to [fixing too many background processes on Windows](https://www.makeuseof.com/windows-pc-too-many-background-processes/) provides further instructions for how you can do that.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Disable File Explorer’s Preview Pane
 
  Many users have fixed the “requested resource is in use” error by disabling File Explorer’s preview pane. That preview pane can hinder the file copy operation. You can disable File Explorer’s preview pane in Windows 11 as follows:
@@ -53,16 +46,16 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![The Preview pane option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/preview-pane-option.jpg)
 5. Then try moving or copying your files again.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The layout in Windows 10 File Explorer is a little different. To disable preview panes in that file manager, you’ll need to click the **View** tab. Then click **Preview pane** to deselect that option.
 
 ![The View tab in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-view-tab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note that just disabling the preview pane might not always be enough. If that doesn’t work, try turning off the icon file view. To do so in Windows 11 File Explorer, click **View** and select the **List** or **Details view** option. You can select the same options on the **View** tab in Windows 10 File Explorer.
 
@@ -84,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
 ![windows 11 startup settings safe mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-startup-settings-safe-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Disable Any Unknown Programs in Task Manager
 
  You might be able to disable a SmartService trojan from starting with Windows via Task Manager’s Startup tab. Look for and disable any suspicious programs listed on the **Startup** tab as follows:
@@ -103,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 5. Then restart your PC to see if the issue persists.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall Any Suspicious-Looking Programs
@@ -120,9 +106,23 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![The Uninstall option in Programs and Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-option4.jpg)
 3. Right-click on the suspected SmartService malware and select **Uninstall**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. If you can’t uninstall the suspicious software, restart Windows in safe mode. Then try removing the same suspicious item via Programs and Features in safe mode.
 
  Also, clear temporary data after uninstalling SmartService to ensure the malware can’t re-emerge. To do so, you’ll need to clear out the Temp folder. This article about [deleting temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/) includes alternative methods for clearing data in the Temp folder.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Perform a Factory Reset
 
@@ -133,10 +133,10 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-keep-my-files-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get the “Requested Resource Is in Use” Error Sorted on Windows
@@ -155,22 +155,16 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/fficient-video-cutting-techniques-to-boost-your-content-for-2024/"><u>[New] Efficient Video Cutting Techniques to Boost Your Content for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-explore-top-8-zero-cost-3d-vids-plugins-for-windows-and-mac-os-for-2024/"><u>[Updated] Explore Top 8 Zero-Cost 3D Vids Plugins For Windows & Mac OS for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-systematic-approach-to-fixing-the-zeroxc000003e-issue/"><u>A Systematic Approach to Fixing the ZeroXc000003e Issue</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-oppo-a59-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Oppo A59 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/directive-for-digging-up-and-docking-minecraft-maps/"><u>Directive for Digging Up & Docking Minecraft Maps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-for-addressing-screen-discoloration-and-image-deformation-issues/"><u>Effective Strategies for Addressing Screen Discoloration and Image Deformation Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhanced-user-experience-through-cookiebot-technology-integration/"><u>Enhanced User Experience Through Cookiebot Technology Integration</u></a></li>
-<li><a href="https://windows11.techidaily.com/flipping-a-non-working-search-bar-in-windows-11s-settings/"><u>Flipping a Non-Working Search Bar in Windows 11’S Settings</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-windows-11s-latest-traits-unveiled/"><u>In 2024, Windows 11'S Latest Traits Unveiled</u></a></li>
-<li><a href="https://windows11.techidaily.com/leveraging-labels-for-efficient-file-management-on-windows-11/"><u>Leveraging Labels for Efficient File Management on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/reactivate-quieted-slack-feedback-in-win-11-systems/"><u>Reactivate Quieted Slack Feedback in Win 11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/reboot-to-reconnect-reviving-ethernet-net-access/"><u>Reboot to Reconnect: Reviving Ethernet Net Access</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-hidden-dangers-in-bot-made-win-11-codes/"><u>The Hidden Dangers in Bot-Made Win 11 Codes</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-for-no-sound-when-screencasting-with-powerpoint/"><u>Troubleshooting for No Sound when Screencasting with PowerPoint</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/troubleshooting-handbrake-issues-how-to-successfully-convert-videos-despite-refusal-errors/"><u>Troubleshooting Handbrake Issues: How to Successfully Convert Videos Despite Refusal Errors</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-design-your-dream-face-free-online-tools/"><u>Updated Design Your Dream Face Free Online Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/upgrade-your-win11s-connectivity-with-these-high-priority-solutions/"><u>Upgrade Your Win11's Connectivity with These High-Priority Solutions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-free-video-conferencing-software-showcase-best-10-picks-for-commercial-use-and-learning-environments/"><u>[New] 2024 Approved Free Video Conferencing Software Showcase Best 10 Picks for Commercial Use & Learning Environments</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-from-beef-to-brilliance-jake-pauls-youtube-transformation/"><u>[New] In 2024, From Beef to Brilliance Jake Paul’s Youtube Transformation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-step-by-step-guide-embedding-company-imagery-in-video-posts/"><u>[Updated] In 2024, Step-by-Step Guide Embedding Company Imagery in Video Posts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-secret-tips-to-better-use-canva-photo-editor/"><u>2024 Approved 10 Secret Tips to Better Use Canva Photo Editor</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-enhance-media-creation-the-ultimate-list-of-top-8-montage-apps/"><u>2024 Approved Enhance Media Creation The Ultimate List of Top 8 Montage Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-realm-of-windows-tech-mastery/"><u>Navigating the Realm of Windows Tech Mastery</u></a></li>
+<li><a href="https://windows11.techidaily.com/steady-the-shaky-xbox-experience-in-windows/"><u>Steady the Shaky Xbox Experience in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-computer-experience-enabledisable-windows-key/"><u>Streamline Your Computer Experience: Enable/Disable Windows Key</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-necessity-of-vcplusplus-redistribution-packages/"><u>The Necessity of VC++ Redistribution Packages</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/top-9-android-app-permissions-you-should-never-grant/"><u>Top 9 Android App Permissions You Should Never Grant</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-are-ai-computers-distinct-an-exploration/"><u>Why Are AI Computers Distinct? An Exploration</u></a></li>
 </ul></div>
 

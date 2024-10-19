@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Mastery: Constructing Clutter-Free Directories"
-date: 2024-09-05T02:08:03.276Z
-updated: 2024-09-06T02:08:03.276Z
+date: 2024-10-15T02:14:40.008Z
+updated: 2024-10-19T03:38:11.344Z
 tags:
   - windows10
   - windows11
@@ -43,11 +43,31 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using File Explorer Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-file-explorer-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Create a New Folder With a Keyboard Shortcut
 
  If you prefer to work with the keyboard rather than a mouse, or if you simply want to create a new folder faster, you can use the**Ctrl + Shift + N** keyboard shortcut on Windows.
@@ -57,19 +77,14 @@ To create a new folder using File Explorer's menu:
 ![Create New Folder in Windows 11 Using Keyboard Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-keyboard-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  For more such useful shortcuts, why not check our[ultimate guide on Windows 11 keyboard shortcuts](https://www.makeuseof.com/windows-11-keyboard-shortcuts/) ?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Create a New Folder With Command Prompt or PowerShell
 
  Another way to create folders on Windows is via a command-line utility. While it may not be as quick as the other methods mentioned above, it can certainly come in handy if you need to[create multiple folders at once](https://www.makeuseof.com/windows-10-11-create-multiple-folders/) .
@@ -85,45 +100,25 @@ To create a new folder using File Explorer's menu:
 `mkdir Work`  
 ![Create New Folder in Windows 11 Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-new-folder-in-windows-11-using-command-prompt.jpg)
 6. Likewise, if you want to create multiple folders, type**mkdir** followed by the names of your folders. For instance, if you wanted to create three folders named**Android** ,**iPhone** , and**Windows** , you'd enter this command:  
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 `mkdir Android iPhone Windows`  
 ![Create Multiple Folders in Windows Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-multiple-folders-in-windows-using-command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Creating Folders in Windows 11 Quickly
 
  Whether you use the keyboard shortcut or the command line method, creating folders in Windows 11 is pretty easy. Now that you've created your folders, it might be a good idea to customize them so that you can tell them apart quickly.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -132,4 +127,18 @@ To create a new folder using File Explorer's menu:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-charm-with-charisma-animate-your-instagram-story-texts-for-2024/"><u>[Updated] Charm with Charisma Animate Your Instagram Story Texts for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-imageintensifymax7-boosting-pixels-magnificently/"><u>[Updated] ImageIntensifyMax7 Boosting Pixels Magnificently</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-embarking-on-a-youtube-venture-user-setup-essentials/"><u>[Updated] In 2024, Embarking on a YouTube Venture User Setup Essentials</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-infinix-zero-30-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Infinix Zero 30 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-nvidia-share-service-issues-a-complete-guide/"><u>Fix Nvidia Share Service Issues: A Complete Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-11-ignore-or-prevent-expiry-errors/"><u>Fixing Windows 11: Ignore or Prevent 'Expiry' Errors?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/innovative-pc-building-discover-asrocks-z890-taichi-aqua-equipped-with-10x-usb-type-c-and-2x-thunderbolt-ports/"><u>Innovative PC Building: Discover ASRock's Z890 Taichi Aqua, Equipped with 10X USB Type-C & 2X Thunderbolt Ports</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/logitech-c615-camera-analysis-balancing-quality-and-cost/"><u>Logitech C615 Camera Analysis - Balancing Quality & Cost</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblock-onedrive-windows-methods-to-reclaim-file-storage/"><u>Unblock OneDrive: Windows Methods to Reclaim File Storage</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-component-services-in-windows-11/"><u>Unlocking the Power of Component Services in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-adjusting-your-personalized-fn-keys/"><u>Windows 11: Adjusting Your Personalized FN Keys</u></a></li>
+</ul></div>
 

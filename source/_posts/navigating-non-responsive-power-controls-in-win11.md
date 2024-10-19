@@ -1,7 +1,7 @@
 ---
 title: Navigating Non-Responsive Power Controls in Win11
-date: 2024-09-29T17:18:32.775Z
-updated: 2024-10-01T22:51:54.374Z
+date: 2024-10-18T02:45:44.936Z
+updated: 2024-10-18T20:59:35.604Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/0c8f696950ea736c2174f2d7e8a74906124afdbd8
  Now that we know what can cause the problem, let's look at what you can do to solve it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Change the Power Plan
@@ -54,13 +54,6 @@ Here is how you can proceed:
 6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
 ![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once done, check if you can now change the power mode successfully.
 
 ## 2\. Run the Power Troubleshooter
@@ -76,15 +69,16 @@ Here is how you can run the troubleshooter:
 3. Click on**Other troubleshooters** .  
 ![Click on Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-win11.jpg)
 4. Now, look for the Power troubleshooter and click on the**Run** button for it.  
-![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
-5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
+5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
 
 ## 3\. Reset the Power Settings
 
@@ -100,6 +94,13 @@ powercfg –restoredefaultscheme
 ![Restore the default power theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powercfg-restoredefaultschemes.jpg)
 5. Once the command is executed, check if you can change the power mode successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In case the power plan changes again after a short while of executing this method, you will need to make changes as an administrator in the Group Policy Editor.
 
 Here is how you can do that:
@@ -112,22 +113,15 @@ Computer Configuration -> Administrative Templates -> System -> Power Management
 4. Choose**Enabled** and then choose the targeted power plan from the dropdown.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**Apply** \>**OK** to save the changes, and then restart your computer.
 
 Hopefully, this will resolve the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Revert the System to an Older Working State
 
@@ -136,6 +130,19 @@ Hopefully, this will resolve the issue.
  The restore points represent a point in time when the system was in a certain state, and by choosing one, you can return the system to that point in time.
 
  In this case, you can choose a state where the current issue is not present.
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Switch Power Modes Easily
 
@@ -158,19 +165,24 @@ Hopefully, this will resolve the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-elevating-visuals-with-luminance-hdr-insight/"><u>[New] In 2024, Elevating Visuals with Luminance-HDR Insight</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-your-starting-guide-to-tiktok-macos-basics/"><u>[New] In 2024, Your Starting Guide to TikTok (macOS) Basics</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-in-a-nutshell-the-video-sharing-experience-for-2024/"><u>[New] Vimeo in a Nutshell The Video Sharing Experience for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-motivate-and-master-your-movements-20-top-rated-workout-tracks/"><u>[Updated] Motivate and Master Your Movements 20 Top-Rated Workout Tracks</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficiently-initiating-the-snip-and-sketch-function-on-win-11/"><u>Efficiently Initiating the Snip and Sketch Function on Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/harnessing-the-power-of-microsofts-ai-code-helper/"><u>Harnessing the Power of Microsoft's AI Code Helper</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-mfc71udll-not-found-or-missing-on-windows/"><u>How to Fix Mfc71u.dll Not Found or Missing on Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-update-your-windows-sound-card-programming-codecs/"><u>How To Update Your Windows Sound Card Programming Codecs</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ifying-10-quick-growth-youtube-blogs-that-encourage-for-2024/"><u>Identifying 10 Quick-Growth YouTube Blogs that Encourage for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-s18-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Vivo S18 Phone without PIN</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-msi-magic-cognizant-oled-top-gaming-display-unveiled/"><u>In-Depth Analysis of the MSI Magic Cognizant OLED - Top Gaming Display Unveiled</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-resource-monitor-stalls-in-windows-11/"><u>Overcoming Resource Monitor Stalls in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-for-invisibility-of-task-view-on-bar/"><u>Techniques for Invisibility of Task View on Bar</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-movies-that-spark-inner-strength-and-determination/"><u>[New] Movies That Spark Inner Strength & Determination</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-converting-youtube-to-gif-a-comprehensive-online-process/"><u>[Updated] 2024 Approved Converting YouTube to GIF A Comprehensive Online Process</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-essentials-of-structuring-your-podcasts-rss-feed/"><u>[Updated] 2024 Approved The Essentials of Structuring Your Podcast's RSS Feed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-create-english-subtitles-from-any-video-without-cost/"><u>1. Create English Subtitles From Any Video Without Cost</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-sound-choices-essential-downloads-guide/"><u>2024 Approved Best Sound Choices Essential Downloads Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-procedure-of-ending-linkedin-services-and-deletion-process/"><u>2024 Approved Procedure of Ending LinkedIn Services and Deletion Process</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-selecting-prime-apps-for-iphoneandroid-intro-videos/"><u>2024 Approved Selecting Prime Apps for iPhone/Android Intro Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-updater-faulty-error-0xca00a009/"><u>Fixing Windows Updater Faulty Error 0xCA00A009</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-started-with-hyper-v-windows-11-homes-edition-setup-guide/"><u>Get Started with Hyper-V: Windows 11 Homes Edition Setup Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-resolve-the-no-hardware-detected-error-in-windows/"><u>How to Resolve the ‘No Hardware Detected’ Error in Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-20-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 20 Phone without Google Account?</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-through-the-maze-of-windows-temporary-folder-issues/"><u>Navigate Through the Maze of Windows Temporary Folder Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/restore-control-over-highlighted-text-in-windows-pdf-files/"><u>Restore Control Over Highlighted Text in Windows PDF Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-functionality-to-a-malfunctioning-win11-media-player/"><u>Restoring Functionality to a Malfunctioning Win11 Media Player</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-directly-modifying-windows-installer-controls/"><u>Steps for Directly Modifying Windows Installer Controls</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-browser-skills-with-gesture-controls-in-microsoft-edge-windows-11/"><u>Transform Your Browser Skills with Gesture Controls in Microsoft Edge (Windows 11)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/transformative-media-tools-best-online-video-to-text-systems/"><u>Transformative Media Tools Best Online Video to Text Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/turn-back-time-transforming-windows-11s-search-icon-style/"><u>Turn Back Time: Transforming Windows 11'S Search Icon Style</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dvd-apple/"><u>スマホまたはタブレットで遊びやすい無料DVD変換ソフトを手に入れる方法 - Appleデバイス対応</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigational Aid for Windows' Component Services Utility
-date: 2024-09-05T02:08:03.496Z
-updated: 2024-09-06T02:08:03.496Z
+date: 2024-10-11T16:05:02.052Z
+updated: 2024-10-19T02:49:55.745Z
 tags:
   - windows10
   - windows11
@@ -44,18 +44,6 @@ thumbnail: https://thmb.techidaily.com/102ab1b6aae4e1817df5a3836c10cfedb2eea5b3c
 
 ![Opening the Component Services Tool Using the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-component-services-tool-using-the-run-command-dialog-box.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Open the Component Services Tool Using the File Explorer Address Bar
 
  The File Explorer address bar can help you locate your file and folder paths with ease. In addition to that, you can use File Explorer’s address bar to open various apps.
@@ -67,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/102ab1b6aae4e1817df5a3836c10cfedb2eea5b3c
 
 ![Opening the Component Services Tool Using the File Explorer Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-component-services-tool-using-the-file-explorer-address-bar.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Open the Component Services Tool Using the Start Menu
 
  Most of your apps and tools are located on the Windows Start menu. So, let’s check out how you can access the Component Services tool from this menu:
@@ -77,12 +72,6 @@ thumbnail: https://thmb.techidaily.com/102ab1b6aae4e1817df5a3836c10cfedb2eea5b3c
 
 ![Opening the Component Services tool using the Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-component-services-tool-using-the-start-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Open the Component Services Tool Using the Control Panel
 
  In most cases, the Control Panel is used for[troubleshooting a faulty Windows PC](https://www.makeuseof.com/how-to-troubleshoot-faulty-windows-pc/) or configuring PC settings. Well, the good news is that you can also use this tool to open various apps on your Windows device.
@@ -98,29 +87,12 @@ thumbnail: https://thmb.techidaily.com/102ab1b6aae4e1817df5a3836c10cfedb2eea5b3c
 ![Opening the Component Services tool using the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-component-services-tool-using-the-control-panel.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 6\. Open the Component Services Tool Using the Task Manager
 
  The Task Manager can also help you access most of the apps on your device.
@@ -135,12 +107,6 @@ thumbnail: https://thmb.techidaily.com/102ab1b6aae4e1817df5a3836c10cfedb2eea5b3c
 
 ![Opening the Component Services Tool Using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/opening-the-component-services-tool-using-the-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Open the Component Services Tool From the Windows System32 Directory
 
  You can also access the Component Services tool by double-clicking on its relevant file in the Windows System32 folder. Here are the steps you should apply:
@@ -155,11 +121,12 @@ thumbnail: https://thmb.techidaily.com/102ab1b6aae4e1817df5a3836c10cfedb2eea5b3c
  If you want to make the Component Services tool easily accessible, you should consider pinning it to the taskbar. To do that, right-click on the**comexp** option in the System32 folder and select**Pin to taskbar** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Open the Component Services Tool Using PowerShell or the Command Prompt
 
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
@@ -187,17 +154,12 @@ thumbnail: https://thmb.techidaily.com/102ab1b6aae4e1817df5a3836c10cfedb2eea5b3c
 ![Person using a Windows PC while placing it on a lap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Person-using-a-Windows-PC-while-placing-it-on-a-lap.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can easily access your apps by clicking on the relevant desktop shortcuts. But bear in mind that you first need to create desktop shortcuts before you can use them.
 
  Let’s check out the steps for creating a desktop shortcut for the Component Services tool:
@@ -210,14 +172,22 @@ thumbnail: https://thmb.techidaily.com/102ab1b6aae4e1817df5a3836c10cfedb2eea5b3c
 ![Creating the Component Services Tool desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-the-component-services-tool-desktop-shortcut.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Type**Component Services Tool** in the "Name" box and then click the**Finish** button. From there, you can start using your desktop shortcut by simply clicking on it.
 
  And if you want to make things easier, consider pinning the desktop shortcut to your taskbar to make it easily accessible.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Access the Component Services Tool Using Your Favorite Method
 
@@ -225,14 +195,11 @@ thumbnail: https://thmb.techidaily.com/102ab1b6aae4e1817df5a3836c10cfedb2eea5b3c
 
  And if you want to explore other incredible apps, you can check out some of the best IDE (integrated development environment) tools for programming on Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -241,4 +208,23 @@ thumbnail: https://thmb.techidaily.com/102ab1b6aae4e1817df5a3836c10cfedb2eea5b3c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-nailing-the-desktopmobile-youtube-speed-control/"><u>[New] 2024 Approved Nailing the Desktop/Mobile YouTube Speed Control</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-razer-kiyo-webcam-detailed-review/"><u>[New] In 2024, Razer Kiyo Webcam - Detailed Review</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-videographers-choice-high-quality-camera-lenses-reviewed/"><u>[New] Videographers’ Choice High-Quality Camera Lenses Reviewed</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-infinix-hot-30i-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Infinix Hot 30i Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/block-spontaneous-youtube-video-triggers-for-2024/"><u>Block Spontaneous YouTube Video Triggers for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How to Stop Google Chrome from Tracking Your Location On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-a-step-by-step-guide-to-dominating-the-youtube-viewership-game/"><u>In 2024, A Step-by-Step Guide to Dominating the YouTube Viewership Game</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Samsung Galaxy M34? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/locating-open-tcp-ports-in-windows-os/"><u>Locating Open TCP Ports in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-how-to-correct-windows-11s-keyboard-type-trouble-code-0x80049dd3/"><u>Quick Guide: How to Correct Windows 11'S Keyboard Type Trouble (Code: 0X80049DD3)</u></a></li>
+<li><a href="https://common-error.techidaily.com/reviving-the-audio-on-netflix-effective-troubleshooting-tips/"><u>Reviving the Audio on Netflix: Effective Troubleshooting Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resurrect-your-disconnected-controller/"><u>Steps to Resurrect Your Disconnected Controller</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-overcoming-windows-terminal-access-issues/"><u>Troubleshooting: Overcoming Windows Terminal Access Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-fixing-windows-roblox-code-403-issue/"><u>Understanding & Fixing Windows Roblox Code 403 Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/visual-illusion-blending-image-and-archive-data-without-notice-win1011/"><u>Visual Illusion: Blending Image and Archive Data without Notice WIN10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-offline-the-essential-manual/"><u>Win11 Offline: The Essential Manual</u></a></li>
+</ul></div>
 

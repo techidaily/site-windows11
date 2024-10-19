@@ -1,7 +1,7 @@
 ---
 title: Getting Acquainted with Windows 11 Controls
-date: 2024-10-11T04:00:31.428Z
-updated: 2024-10-12T16:03:35.626Z
+date: 2024-10-16T20:18:24.508Z
+updated: 2024-10-18T18:06:27.724Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
  Additionally, you can manage your Microsoft 365 account settings and even analyze OneDrive usage with a glance. The cards are grouped into different categories: recommended settings, cloud storage, Microsoft 365, and more. We can expect Microsoft to gradually add more cards to the homepage.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is It Easier to Manage Windows 11's Settings?
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
  Moreover, the cards or the features aren’t static; they’ll change and update based on how you interact with your device settings. This means the homepage will automatically adjust to your preferences and usage, so it's always relevant to your needs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Get the Windows 11 Enhanced Settings Update
@@ -74,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
  Head over to [how to enable the home section in the Settings app in Windows 11](https://www.makeuseof.com/enable-home-section-settings-app-windows-11/) for more information.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Device Management Made Easy With Windows 11
@@ -96,14 +96,24 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-elevate-engagement-posting-youtube-video-on-fb/"><u>[New] In 2024, Elevate Engagement Posting YouTube Video on FB</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-saturate-scenes-with-circular-edge-dilution-photosuite-for-2024/"><u>[New] Saturate Scenes with Circular Edge Dilution PhotoSuite for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-covert-chronicles-of-viewing-instagram-stories-pc-android-and-iphone-edition/"><u>2024 Approved The Covert Chronicles of Viewing Instagram Stories - PC, Android & iPhone Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-up-the-confusion-of-microsoft-store-error-0x80072efd/"><u>Clearing Up the Confusion of Microsoft Store Error 0X80072EFD</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-windows-arp-caches-made-simple/"><u>Clearing Windows ARP Caches Made Simple</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/demystifying-chatgpt-enterprise-key-features-exclusive-offers-and-differentiating-factors/"><u>Demystifying ChatGPT Enterprise: Key Features, Exclusive Offers, and Differentiating Factors</u></a></li>
-<li><a href="https://windows11.techidaily.com/discovering-surface-laptop-studio-2-near-flawless-for-makers/"><u>Discovering Surface Laptop Studio 2: Near-Flawless for Makers</u></a></li>
-<li><a href="https://windows11.techidaily.com/display-number-and-caps-lock-status-in-taskbar-tray-win11/"><u>Display Number and Caps Lock Status in Taskbar Tray Win11</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Phone FRP Lock</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-harnessing-the-power-of-gratuitous-text-animations/"><u>[New] 2024 Approved Harnessing the Power of Gratuitous Text Animations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhance-your-pc-with-these-26-premier-free-registry-cleaning-utilities/"><u>Enhance Your PC with These 26 Premier Free Registry Cleaning Utilities</u></a></li>
+<li><a href="https://windows11.techidaily.com/fine-tune-taskbar-length-on-windows-11/"><u>Fine-Tune Taskbar Length on Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gifs-to-glam-a-complete-guide-to-creating-emojis-on-telegram-and-whatsapp/"><u>GIFs-to-Glam A Complete Guide to Creating Emojis on Telegram & WhatsApp</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-y56-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-resolve-code-0x0001-issue-with-nvidia-experience/"><u>How to Resolve Code 0X0001 Issue with Nvidia Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-essential-tips-for-incorporating-dynamic-cards-in-youtube-videos/"><u>In 2024, Essential Tips for Incorporating Dynamic Cards in YouTube Videos</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oneplus-nord-3-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on OnePlus Nord 3 5G Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-expertly-snip-tamil-ringtones-a-complete-walkthrough/"><u>In 2024, How to Expertly Snip Tamil Ringtones A Complete Walkthrough</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-s17e-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-13-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone 13</u></a></li>
+<li><a href="https://windows11.techidaily.com/non-procreate-windows-drawers-the-top-five/"><u>Non-Procreate Windows Drawers: The Top Five</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-common-windows-key-problems-including-the-enter-key/"><u>Overcoming Common Windows Key Problems, Including the Enter Key</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-app-malfunctions-7-effective-strategies/"><u>Overcoming Windows App Malfunctions: 7 Effective Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/propel-system-performance-quickly-enter-disk-editor-settings-on-windows-11/"><u>Propel System Performance: Quickly Enter Disk Editor Settings on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/return-to-simplicity-using-icons-for-the-windows-11-search-bar/"><u>Return to Simplicity: Using Icons for the Windows 11 Search Bar</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-beginners-guide-to-old-championship-manager/"><u>The Ultimate Beginner's Guide to Old Championship Manager</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-three-column-widgets-in-win11/"><u>Unlocking the Power of Three-Column Widgets in Win11</u></a></li>
 </ul></div>
 

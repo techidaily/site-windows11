@@ -1,7 +1,7 @@
 ---
 title: Fixing Steam's Read-Only Mode for Library Folders in Win 11
-date: 2024-10-09T02:27:53.094Z
-updated: 2024-10-12T20:34:21.931Z
+date: 2024-10-12T01:18:18.984Z
+updated: 2024-10-18T19:11:35.013Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 6. Closethe File Explorer window and reopenthe Steam client.
 7. Try to install the game and check if the error appears or not.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Run the Steam App With Administrator Privileges
 
  Missing privileges can cause issues with some features in Steam. So, you must close and restart the Steam app with admin rights. Here’s how:
@@ -49,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 4. The User Account Control window will launch. Click on the **Yes** button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Grant Full Ownership of the Steam Folder
@@ -72,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 9. Lastly, click on the **OK** button and then close the Properties window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Repair the Steam Library Folder
@@ -89,21 +96,7 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 ![Repair the Steam Library Folder-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/repair-the-steam-library-folder-1.jpg)
 5. The User Account Control window will pop up. Click on the **Yes** button.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. After the repair completes, click on the **Close** button.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Re-Add the Steam Library Folder
 
@@ -115,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 4. Select a Steam library folder and then click on the **horizontal ellipsis** (three dots) button. Select the **Remove Drive** option.
 5. Now, click on the **plus** icon. Select the folder location and click on the **Add** button.
 6. Close and relaunch Steam.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Flush the Steam Download Cache
 
@@ -144,6 +144,20 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 ![Reinstall the Game on Another Drive-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reinstall-the-game-on-another-drive-1.jpg)
 5. Now, click on the **Add** button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Format the Disk and Try Again
 
  Many users want to install games on a newly added disk drive but face the “Steam library folder not writable” error in the process. It is mainly because the newly added disk drive bears the same letter as the old drive with a Steam Library folder.
@@ -156,24 +170,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 ![Format the Disk And Try Again-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/format-the-disk-and-try-again-1.jpg)
 4. Expand the drop-down list and select a new drive letter. Click on the **OK** button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Now, right-click on the disk drive and select the **Format** option.
 6. Keep the **File System** as **NTFS** and click on the **OK** button.  
 ![Format the Disk And Try Again 2-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/format-the-disk-and-try-again-2-1.jpg)
 7. Lastly, click on the **OK** button once again.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. **Close** the Disk Management utility.
 
@@ -193,21 +193,20 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ecoding-the-visual-language-of-live-videos-on-youtube-for-2024/"><u>[New] Decoding the Visual Language of Live Videos on YouTube for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-mastering-business-on-instagram-a-step-by-step-guide/"><u>[New] Mastering Business on Instagram A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-correcting-iphone-camera-focusing-errors-effectively/"><u>[Updated] Correcting iPhone Camera Focusing Errors Effectively</u></a></li>
-<li><a href="https://windows11.techidaily.com/7-essential-steps-to-resolve-chrome-profile-errors/"><u>7 Essential Steps to Resolve Chrome Profile Errors</u></a></li>
-<li><a href="https://fox-that.techidaily.com/discover-the-7-key-culprits-behind-poor-wi-fi-performance-on-smartphones/"><u>Discover the 7 Key Culprits Behind Poor Wi-Fi Performance on Smartphones</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/google-pixel-8-pro-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Google Pixel 8 Pro Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-fixing-non-working-display-driver-on-windows-11/"><u>Guide to Fixing Non-Working Display Driver on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-enable-driver-verification-on-windows-11-pcs/"><u>How to Enable Driver Verification on Windows 11 PCs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-see-someones-location-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to See Someones Location on Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-sims-chronicles-unplugged-innovative-techniques-to-recording-without-reliance-on-video/"><u>In 2024, Sims Chronicles Unplugged Innovative Techniques to Recording Without Reliance on Video</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-based-itunes-freeze-problems/"><u>Overcoming Windows-Based iTunes Freeze Problems</u></a></li>
-<li><a href="https://windows11.techidaily.com/regain-usb-connectivity-in-windows-os-amidst-issues/"><u>Regain USB Connectivity in Windows OS Amidst Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/stepwise-guide-to-deploying-themes-from-microsoft-store/"><u>Stepwise Guide to Deploying Themes From Microsoft Store</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/turning-tape-backwards-instagrams-video-trickery/"><u>Turning Tape Backwards Instagram's Video Trickery</u></a></li>
-<li><a href="https://windows11.techidaily.com/which-browser-takes-up-less-memory-and-cpu-on-windows-macos/"><u>Which Browser Takes Up Less Memory and CPU On Windows, macOS?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-tapping-into-instagrams-video-power-formulating-a-winning-strategy/"><u>[New] 2024 Approved Tapping Into Instagram's Video Power Formulating a Winning Strategy</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-92-chuckle-fest-an-analyzed-goofy-film-vhs/"><u>[Updated] '92 Chuckle Fest' An Analyzed Goofy Film VHS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-how-much-does-pewdiepie-make/"><u>2024 Approved How Much Does PewDiePie Make</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-solutions-for-recurrent-crashing-in-the-rust-language-environment/"><u>Expert Solutions for Recurrent Crashing in the Rust Language Environment</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-gps-location-on-infinix-smart-7-hd-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Infinix Smart 7 HD Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-11-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone 11 Activity | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/keep-your-file-explorer-running-smoothly-in-windows-11/"><u>Keep Your File Explorer Running Smoothly in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-file-access-toggling-windows-11-filters/"><u>Mastering File Access: Toggling Windows 11 Filters</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-fixes-for-constant-ms-teams-sign-in-pages/"><u>Mastering Fixes for Constant MS Teams Sign-In Pages</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-paste-feature-efficacy-in-win-11/"><u>Restoring Paste Feature Efficacy in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-adding-outlook-preview-to-windows-devices/"><u>Step-by-Step: Adding Outlook Preview to Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-unstartable-speech-to-text-on-windows-systems/"><u>Tackling Unstartable Speech to Text on Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/top-iphones-ranked-by-gaming-performance-find-your-perfect-choice/"><u>Top iPhones Ranked by Gaming Performance: Find Your Perfect Choice</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-nvidia-cp-non-saving-on-win11/"><u>Troubleshooting Nvidia CP Non-Saving on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-sound-service-lag/"><u>Troubleshooting Windows Sound Service Lag</u></a></li>
 </ul></div>
 

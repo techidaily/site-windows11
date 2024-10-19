@@ -1,7 +1,7 @@
 ---
 title: "Revitalize Your Clockwork: Restore Missing Windows Server Time"
-date: 2024-10-11T21:50:33.080Z
-updated: 2024-10-12T18:27:06.154Z
+date: 2024-10-14T17:34:24.128Z
+updated: 2024-10-18T18:16:00.977Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501
 
  Once the computer restarts, check if Windows Time Service is available. If it's still missing, move on to the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Change the Time Server
 
  If restarting the computer does not work, you must change the time server. Changing the time server synchronizes your system clock with an online one, displaying your computer's correct date and time.
@@ -48,16 +55,16 @@ thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501
 ![Change the Time Server](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/change-the-time-server.jpg)
 6. Click the **Update now** button to synchronize your computer with the time server.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Once completed, click **OK** to save the changes and exit.
 
  After these steps, you should see the Windows Time Service running on your system. Check the time to ensure it is correct and make further adjustments.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Add More Time Servers
 
@@ -76,6 +83,14 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DateTime\Servers
 5. From the left navigation panel, right-click the Servers folder and select **New** \> **String Value**.  
 ![Add More Time Servers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-more-time-servers.jpg)
 6. Name the new value **Server N**, and replace **N** with a number starting from 1.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can't have the same number twice. That means if there are already 3 values named _Server 1_, _Server 2_, and _Server 3_, you must call the new one as **Server 4**.
 7. Double-click the newly created value and add a time server address in the Value data field.
 8. Here are some time server addresses:  
@@ -90,13 +105,6 @@ time-c-wwv.nist.gov
 ntp-wwv.nist.gov`
 
  After adding the time server, click **OK** and close the Registry Editor window. Now restart your computer to apply the changes and check if Windows Time Service is available.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Re-register the Windows Time Service
 
@@ -118,6 +126,13 @@ net start w32time
 
  After performing these steps, close the Command Prompt window and restart your system. You should see that the Windows Time Service is running, and your clock syncs with the time server.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Repair Corrupted System Files
 
 ![SFC Command Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-command-preview.jpg)
@@ -128,25 +143,11 @@ net start w32time
 
  If you're not sure how to run either of these tools, check out how to repair corrupt Windows files with its built-in tools for instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Scan for Malware
 
  Sometimes, malware is to blame for Windows services acting a little odd. As such, it's worth [running a full system scan](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/) and removing all detected threats.
 
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you feel your PC isn't as secure as it could be, you could try downloading one of the [best antivirus apps for Windows](http://www.makeuseof.com/windows-11-antivirus-apps/). These will both actively block malicious program from installing themselves on your PC, and remove any that are currently infesting your computer.
 
@@ -168,20 +169,21 @@ net start w32time
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-innovative-methods-blurring-the-line-between-work-and-distractions/"><u>[New] Innovative Methods Blurring the Line Between Work and Distractions</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-enhancing-visual-aesthetics-adding-black-bar-and-box-to-videos/"><u>[Updated] Enhancing Visual Aesthetics Adding Black Bar & Box to Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-perfect-method-for-saving-camera-images-on-snapchat/"><u>2024 Approved The Perfect Method for Saving Camera Images on Snapchat</u></a></li>
-<li><a href="https://windows11.techidaily.com/accelerating-file-download-rates-in-utorrent-win-os-style/"><u>Accelerating File Download Rates in uTorrent, WIN OS Style</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-access-issues-enabling-windows-logins-post-fail/"><u>Clearing Access Issues: Enabling Windows Logins Post-Fail</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-guide-to-using-bluescreenview-tools/"><u>Comprehensive Guide to Using BlueScreenView Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/customize-your-workspace-pinning-techniques-for-w11/"><u>Customize Your Workspace: Pinning Techniques for W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/disabling-auto-triggered-console-crashes-on-windows/"><u>Disabling Auto-Triggered Console Crashes on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/discovering-surface-laptop-studio-2-the-near-perfect-companion/"><u>Discovering Surface Laptop Studio 2 - The Near-Perfect Companion</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-bambuser-intro-video-summary-width-x-height-encoding-seconds/"><u>In 2024, Bambuser Intro Video Summary Width X Height, Encoding, Seconds</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-is-sns-hdr-pro-worth-your-investment-a-critical-look/"><u>In 2024, Is SNS HDR Pro Worth Your Investment A Critical Look</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-switch-strike-force-your-top-10-game-lineup/"><u>In 2024, Switch Strike Force Your Top 10 Game Lineup</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/seamlessly-backup-your-camera-roll-exporting-to-snapchat-made-easy-for-2024/"><u>Seamlessly Backup Your Camera Roll Exporting to Snapchat Made Easy for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/top-10-tiktok-viral-videos-on-twitter/"><u>Top 10 TikTok Viral Videos on Twitter</u></a></li>
-<li><a href="https://techidaily.com/vivo-data-recovery-recover-lost-data-from-vivo-t2-pro-5g-by-fonelab-android-recover-data/"><u>Vivo Data Recovery – recover lost data from Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-the-ultimate-pathway-for-storytellers-mastery-over-facebook-live-feature/"><u>[Updated] 2024 Approved The Ultimate Pathway for Storytellers Mastery Over Facebook Live Feature</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-synthesize-and-add-videos-to-your-listing/"><u>2024 Approved Synthesize and Add Videos to Your Listing</u></a></li>
+<li><a href="https://common-error.techidaily.com/boost-your-league-of-legends-gameplay-with-improved-faster-download-speeds/"><u>Boost Your League of Legends Gameplay with Improved Faster Download Speeds</u></a></li>
+<li><a href="https://driver-download.techidaily.com/guide-to-repairing-startech-peripheral-driver-conflicts-on-various-windows-os-versions/"><u>Guide to Repairing StarTech Peripheral Driver Conflicts on Various Windows OS Versions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/juxtaposing-flight-with-flair-a-bebop-parrot-analysis-for-2024/"><u>Juxtaposing Flight with Flair – A Bebop Parrot Analysis for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-microsoft-excel-a-comprehensive-guide-with-12-tricks-for-correcting-faulty-formulas/"><u>Master Microsoft Excel: A Comprehensive Guide with 12 Tricks for Correcting Faulty Formulas</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-excel-a-step-by-step-guide-to-searching-and-substituting-text-and-numbers/"><u>Mastering Excel: A Step-by-Step Guide to Searching and Substituting Text & Numbers</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-unit-conversions-a-step-by-step-guide-using-microsoft-excel/"><u>Mastering Unit Conversions: A Step-by-Step Guide Using Microsoft Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-adding-images-to-your-microsoft-excel-spreadsheet/"><u>Step-by-Step Guide: Adding Images to Your Microsoft Excel Spreadsheet</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-properly-formatting-telephone-digits-in-excel-spreadsheets/"><u>Step-by-Step Guide: Properly Formatting Telephone Digits in Excel Spreadsheets</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-removing-a-pivottable-from-your-microsoft-excel-spreadsheet/"><u>Step-by-Step Guide: Removing a PivotTable From Your Microsoft Excel Spreadsheet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-zte-axon-40-lite-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with ZTE Axon 40 Lite? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-quest-for-the-best-framerate-balancing-speed-and-clarity/"><u>The Quest for the Best Framerate - Balancing Speed & Clarity</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016477759-trouble-with-discord-voice-here-are-the-fixes-you-need/"><u>Trouble with Discord Voice? Here Are the Fixes You Need</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-of-locating-data-positions-with-excel-match-function-a-comprehensive-guide/"><u>Unveiling the Secrets of Locating Data Positions with Excel MATCH Function: A Comprehensive Guide</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unveiling-the-top-10-photographic-rescue-experts-a-thorough-evaluation-of-pros-and-cons/"><u>Unveiling the Top 10 Photographic Rescue Experts : A Thorough Evaluation of Pros & Cons</u></a></li>
 </ul></div>
 

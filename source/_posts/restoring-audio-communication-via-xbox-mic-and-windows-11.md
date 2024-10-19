@@ -1,7 +1,7 @@
 ---
 title: Restoring Audio Communication via Xbox Mic & Windows 11
-date: 2024-09-05T02:09:00.490Z
-updated: 2024-09-06T02:09:00.490Z
+date: 2024-10-12T17:09:22.850Z
+updated: 2024-10-18T20:58:17.594Z
 tags:
   - windows10
   - windows11
@@ -41,18 +41,6 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
 
  To ensure a headset microphone or other mic device is connected properly, try plugging it into an alternative port. Are you using a headset microphone that supports USB and jack connections? If so, connect it with your PC’s jack port instead of the USB alternative.
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Check the Microphone Permission Settings for the Xbox App
 
  Windows has microphone permission settings that need to be enabled for the Xbox app to pick up sound. So, make sure microphone access is allowed for the Xbox app. This is how you can enable microphone access for the Xbox app on Windows:
@@ -62,29 +50,19 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
 3. Select**Microphone** to view mic app options.  
 ![The Microphone navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microphone-navigation-option.jpg)
 4. Turn on the**Microphone access** setting if necessary.
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. If**Let apps access your microphone is** disabled, turn on that setting.  
 ![The Let apps access your microphone setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/let-apps-access-microphone-setting.jpg)
 6. Then scroll down and click the toggle switch for the Xbox app to turn on its mic access.  
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![The microphone permission setting for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/xbox-app.jpg)
 7. Restart Windows before opening the Xbox app to check if the issue persists.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Change the Default Format Output Option
 
@@ -97,21 +75,25 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
 5. Right-click the input microphone you try to utilize with the Xbox app and select**Properties** .  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/device-manager-window.jpg)
 6. Click**Advanced** in the properties window.
+
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 7. Then select the**2-channel, 16-bit, 48000 Hz (DVD Quality)** option in the drop-down menu.  
 ![The Default Format setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/default-format-setting.jpg)
 8. Press**Apply** to save the new default format output setting.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Click**OK** to exit the**Advanced** tab and properties window.
 
 ## 5\. Select the Right Audio Input Device in the Xbox App
@@ -125,21 +107,16 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
 4. Click**Audio** on the left of the Settings window.  
 ![The Audio tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-audio-tab.jpg)
 5. Then select the microphone you want to use with the Xbox app in the Input device menu.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you set the**Default** input option, you’ll need to make sure you’re using your PC’s default microphone. To do that, go to the**Recording** tab as instructed in steps one to four of the previous resolution. Then select the microphone to utilize with the Xbox app there and click**Set Default** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Reset the Xbox App
 
  The Xbox app, like others, has a**Reset** troubleshooting option you can select in Settings. That option clears the app’s data to fix issues. You can select that option to apply this potential solution by following the instructions in our[how to reset apps on Windows](https://www.makeuseof.com/windows-reset-app/) article.
@@ -155,18 +132,6 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
 3. Right-click the microphone you need to utilize with the Xbox app and select**Uninstall** **device** .  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/device-manager-window.jpg)
 4. Click**Uninstall** to confirm and remove the device.
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Then reboot your Windows 11/10 PC for automatic driver reinstallation.
 
 ## 8\. Reinstall the Xbox App
@@ -175,7 +140,27 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
 
 ![The Uninstall option for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-uninstall-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After uninstalling the Xbox app, open its[Microsoft Store page](https://apps.microsoft.com/store/detail/xbox/9MV0B5HZVK9Z) ; select the**Get in Store** **app** option to bring up the Microsoft Store; then click**Get** on the Xbox app page.
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Utilize Your Microphone in the Xbox App Again
 
@@ -187,8 +172,6 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +179,23 @@ thumbnail: https://thmb.techidaily.com/6e2f3010b64553c858c441b2aa0463f3e8a124b61
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-precious-playtimes-kids-fun-and-games-anthology/"><u>[New] In 2024, Precious Playtimes Kids' Fun & Games Anthology</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-free-and-legal-youtube-downloader-tools-recommendations/"><u>[Updated] In 2024, Free & Legal YouTube Downloader Tools - Recommendations</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-top-8-social-tools-to-skyrocket-your-likes-on-facebook-for-2024/"><u>[Updated] Top 8 Social Tools to Skyrocket Your Likes on Facebook for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/curbing-msmpengexe-cpu-hog-effective-techniques-to-enhance-system-efficiency-in-windows-11-solved/"><u>Curbing MsMpEng.exe CPU Hog: Effective Techniques to Enhance System Efficiency in Windows 11 [SOLVED]</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/decoding-the-best-features-in-gaming-setups/"><u>Decoding the Best Features in Gaming Setups</u></a></li>
+<li><a href="https://windows11.techidaily.com/dodgy-deals-understanding-the-threats-of-low-price-windows-licenses/"><u>Dodgy Deals: Understanding the Threats of Low-Price Windows Licenses</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-windows-partition-integration-strategies/"><u>Efficient Windows Partition Integration Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-device-safety-with-custom-lock-patterns-in-windows-11/"><u>Elevating Device Safety with Custom Lock Patterns in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/emergency-printer-deletion-in-windows-os-a-step-by-step-approach/"><u>Emergency Printer Deletion in Windows OS: A Step-by-Step Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/enriching-macos-with-windows-powered-innovations/"><u>Enriching macOS with Windows-Powered Innovations</u></a></li>
+<li><a href="https://windows11.techidaily.com/enriching-windows-taskmanager-with-cli-tab-feature/"><u>Enriching Windows TaskManager with CLI Tab Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicating-glitch-windows-edition-geforce-x0001/"><u>Eradicating Glitch: Windows Edition, GeForce X0001</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-realme-c51-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Realme C51 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-fix-elite-dangerous-crashing-issues-on-your-computer/"><u>Troubleshooting Steps to Fix Elite Dangerous Crashing Issues on Your Computer</u></a></li>
+</ul></div>
 

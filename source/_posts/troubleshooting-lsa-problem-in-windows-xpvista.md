@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting LSA Problem in Windows XP/Vista
-date: 2024-10-07T21:28:41.988Z
-updated: 2024-10-12T19:06:29.188Z
+date: 2024-10-12T20:40:33.641Z
+updated: 2024-10-19T03:17:38.386Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
 
  Now wait for the scan to finish. If malicious programs are detected, Windows Security will remove them from your system automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Change the Group Policy Settings
 
  If the above steps don't help, you might need to configure LSA manually. It involves editing the Local Group Policy Editor and setting some specific settings. However, this tool only works with Windows 11 Professional and Enterprise editions.
@@ -65,25 +72,18 @@ Administrative Templates > System > Local Security Authority
 ![Change the Group Policy Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-the-group-policy-settings.jpg)
 6. Now, in the window that appears, alter the settings from **Not Configured** to **Enabled**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Under the Options section, click the drop-down menu for **Configure LSASS to run as a protected process** and select **Enabled with UEFI Lock**.  
 ![Set as Enabled with UEFI Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-as-enabled-with-uefi-lock.jpg)
 8. Now click **Apply > OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After making the above changes, restart your computer and check if the error is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Tweak the Registry Editor
 
@@ -104,13 +104,6 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
  Once you're done, close the Registry Editor and restart your computer. This should fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Reset the Windows Security App
 
  Windows Security is an integrated antivirus program built into the Windows OS. It's responsible for scanning your system and removing malicious content. If there's something wrong with the Windows Security app, it might trigger this error. To fix the issue, reset the app and see if it helps. Here's how to do it:
@@ -124,20 +117,27 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 ![Reset Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-windows-security.jpg)
 7. If the confirmation window pops up, click **Reset** to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for the reset process to finish and restart your computer. After restarting, check if the error is still present.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Perform Some Generic Fixes
 
  There are also some generic fixes to resolve the issue. First, [run the System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) command to repair incorrect or damaged system files. You may also want to use the Deployment Image Servicing and Management tool to diagnose issues with local system images. If the problem persists, try [updating Windows to the latest version](https://www.makeuseof.com/update-windows-manually/) to resolve any glitches or bugs.
 
  Some antivirus and security programs can be too aggressive in protecting your system. They could prevent access to the LSA feature, leading to this problem. To be sure, you can [temporarily disable your security software](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and check if it solves the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing the LSA Protection Error on Windows
 
@@ -155,19 +155,22 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-a-compreeved-look-at-sharex-opinions-and-alternatives-for-2024/"><u>[New] A Compreeved Look at ShareX Opinions & Alternatives for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-3-step-financial-forecasting-assessing-revenue-from-googles-platform-youtube/"><u>[New] In 2024, 3-Step Financial Forecasting Assessing Revenue From Google's Platform, YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-framed-fantasies-expert-recommendations-on-software-and-sites/"><u>[Updated] Framed Fantasies Expert Recommendations on Software & Sites</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-monetization-timeline-for-successful-youtubers/"><u>2024 Approved Monetization Timeline for Successful YouTubers</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-epochal-passphrase-problem-in-windows-os/"><u>Deciphering “Epochal Passphrase Problem in Windows OS”</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-rhythm-discoverers-toolkit-all-free-and-online/"><u>In 2024, Rhythm Discoverer’s Toolkit – All FREE & Online</u></a></li>
-<li><a href="https://windows11.techidaily.com/mending-the-absence-of-dxgidll-in-new-os-windows-11/"><u>Mending the Absence of Dxgi.dll in New OS, Windows 11</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/mirror-your-gameplay-today/"><u>Mirror Your Gameplay Today</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-11-multi-display-setup/"><u>Navigating Windows 11 Multi-Display Setup</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-absence-of-windows-1011-search-outcomes/"><u>Solving Absence of Windows 10/11 Search Outcomes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-path-to-reinstating-default-windows-backups/"><u>The Path to Reinstating Default Windows Backups</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-list-of-windows-11-navshortcuts/"><u>The Ultimate List of Windows 11 NavShortcuts</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-zoom-error-1132-on-windows-11/"><u>Troubleshooting Zoom Error 1132 on Windows 11</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/windows-stellar-standard-file-wiping-tool-with-automated-schedule-settings/"><u>Windows Stellar Standard File Wiping Tool with Automated Schedule Settings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficient-strategies-for-clearing-your-gpt-history/"><u>Efficient Strategies for Clearing Your GPT History</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/expert-approved-free-vob-video-editing-solutions/"><u>Expert-Approved Free VOB Video Editing Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-realme-12-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Realme 12 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-effortlessly-incorrante-windows-apps-with-menus/"><u>How to Effortlessly Incorrante Windows Apps With Menus</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-utilize-the-windows-odbc-tools/"><u>How to Utilize the Windows ODBC Tools?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-breakdown-of-adobe-cloud-plus-alternative-methods/"><u>In 2024, Expert Breakdown of Adobe Cloud, Plus Alternative Methods</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-overcome-the-invisibility-of-short-videos/"><u>In 2024, Overcome The Invisibility of Short Videos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-linksys-ea9500-router-advanced-tech-for-seamless-connectivity/"><u>In-Depth Look at the Linksys EA9500 Router: Advanced Tech for Seamless Connectivity</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-file-management-integrating-cloud-drives-in-windows/"><u>Optimizing File Management: Integrating Cloud Drives in Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-for-r-type-final-2-on-pc-no-more-crashes/"><u>Optimizing Performance for R-Type Final 2 on PC: No More Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/overwhelmed-by-choosing-a-drive-easy-xbox-solutions/"><u>Overwhelmed by Choosing a Drive? Easy Xbox Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/smarter-charging-notifications-on-windows-devices/"><u>Smarter Charging Notifications on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/smooth-play-ahead-mastering-windows-11s-full-screen-gaming-with-sonic/"><u>Smooth Play Ahead! Mastering Windows 11'S Full Screen Gaming with Sonic</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-seasoned-guide-to-windows-pc-ages/"><u>The Seasoned Guide to Windows PC Ages</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unlock-and-save-your-favorite-fb-videos-for-2024/"><u>Unlock and Save Your Favorite FB Videos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-access-to-steam-libraries-on-windows-11-devices/"><u>Unlocking Access to Steam Libraries on Windows 11 Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-podcast-startup-financials/"><u>Unveiling the Podcast Startup Financials</u></a></li>
 </ul></div>
 

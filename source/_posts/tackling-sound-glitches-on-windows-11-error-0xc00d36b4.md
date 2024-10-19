@@ -1,7 +1,7 @@
 ---
 title: "Tackling Sound Glitches on Windows 11: Error 0XC00D36B4"
-date: 2024-10-06T22:55:05.246Z
-updated: 2024-10-12T23:52:39.419Z
+date: 2024-10-16T00:08:43.860Z
+updated: 2024-10-18T17:12:38.735Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 
  Below, we have listed different troubleshooting methods that can help you fix the problem in no time, regardless of the cause. Choose the solution that is most appropriate for your situation.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check the File Format of the File You're Playing
 
  Different media players and codecs support different file formats, and if the file you are trying to play is in an unsupported format, the player will fail to play it, leading to the problem at hand.
@@ -52,13 +45,20 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
 ![Check the file type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/check-file-type.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If it is not, you can use a third-party application to convert it into a compatible format. Alternatively, you can try using another application that supports the format of your audio file.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Run the Audio Troubleshooter
 
@@ -67,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/724743278e3cc8c3d6bd3e09a36a5228f2284123f
  It works by checking your audio settings and hardware for potential issues. If any problems are identified, the troubleshooter will suggest fixes that you can apply by using the**Apply this fix** button in the utility.
 
  We covered how to use this handy tool in our guide on[fixing no audio on Windows](https://www.makeuseof.com/tag/no-sound-7-tips-fix-audio-issues-windows-10/) , so check that out for further details.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Re-enable Windows Media Player
 
@@ -81,23 +88,9 @@ Here is how you can do that:
 ![Turn Windows features on or off option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-windows-features-on-or-off.jpg)
 5. Now, scroll down and expand the**Media Features** option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Uncheck the box associated with Windows Media Player and click**OK** to save the changes.  
 ![Disable Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-windows-media-player.jpg)
 7. Confirm your action in the User Account Control prompt and restart your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Upon reboot, restart the service by following the same steps mentioned above.
 9. Finally, restart your computer again and check if the issue is resolved.
@@ -128,6 +121,13 @@ Here is how you can do that:
 ![Choose Options in Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/media-player-options.jpg)
 3. Head over to the**Rip Music** tab and uncheck the box associated with**Copy protect music** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Uncheck the Copy protect music option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/copy-protect-music.jpg)
 4. Click**Apply** \>**OK** to save the changes.
 
@@ -137,18 +137,18 @@ Here is how you can do that:
 
  This typically happens when the drivers are either corrupt or outdated. Fortunately, both of these issues can be fixed by[updating the audio drivers on Windows](https://www.makeuseof.com/update-audio-drivers-windows/) . The easiest way of doing this is by using the Device Manager utility that comes with Windows by default.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Reinstall Windows Media Player
 
  Finally, you can try reinstalling the Windows Media Player which will clear out any issues within the media player itself that may be contributing to the issue.
 
  Alternatively, you can also consider switching to a third-party media player that offers a similar functionality until Microsoft releases an official fix for this issue. We have discussed some of the[best free media players for Windows](https://www.makeuseof.com/tag/top-5-free-media-players-for-windows/) in our previous guide which you can head over to, to make an informed decision.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Audio Issues in Windows, Resolved
 
@@ -171,15 +171,16 @@ Here is how you can do that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-next-gen-gaming-the-best-oculus-players-uncovered/"><u>[New] Next-Gen Gaming The Best Oculus Players Uncovered</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-excellent-storage-upgrade-for-sony-a7s-ii-cameras-for-2024/"><u>[Updated] Excellent Storage Upgrade for Sony A7S II Cameras for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-how-to-add-customized-ringtones-and-sounds-on-your-android-phone-in-a/"><u>2024 Approved How to Add Customized Ringtones and Sounds on Your Android Phone in A</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-a1x-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/achieve-peak-productivity-essential-windows-11-and-cmd-commands/"><u>Achieve Peak Productivity: Essential Windows 11 & Cmd Commands</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/cut-trim-and-enhance-leading-apps-for-android-and-pc-editing-for-2024/"><u>Cut, Trim & Enhance Leading Apps for Android and PC Editing for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dont-panic-how-to-get-back-deleted-chats-from-any-mobile-phone/"><u>Don't Panic! How to Get Back Deleted Chats From Any Mobile Phone</u></a></li>
-<li><a href="https://windows11.techidaily.com/illuminating-windows-11-tray-and-secret-icons/"><u>Illuminating Windows 11 Tray & Secret Icons</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-sluggishness-in-windows-discord-app/"><u>Overcoming Sluggishness in Windows Discord App</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-the-process-termination-failure-error-window/"><u>Remedying the 'Process Termination Failure' Error Window</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unlocking-sierra-icloud-drive-integrations-and-usage/"><u>[Updated] In 2024, Unlocking Sierra iCloud Drive Integrations & Usage</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unique-concepts-for-enhancing-fb-video-marketing-impact/"><u>2024 Approved Unique Concepts for Enhancing Fb Video Marketing Impact</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/complete-solutions-for-rectifying-mic-trouble-in-windows-11-systems/"><u>Complete Solutions for Rectifying Mic Trouble in Windows 11 Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-guide-to-sierras-cloud-storage-navigation/"><u>Comprehensive Guide to Sierra’s Cloud Storage Navigation</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixes-for-common-issues-encountered-during-steam-game-setup-or-update-process/"><u>Fixes for Common Issues Encountered During Steam Game Setup or Update Process</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-fix-bluetooth-absence-in-device-mgr/"><u>Guide to Fix Bluetooth Absence in Device Mgr</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-s17-by-fonelab-android-recover-data/"><u>How to recover lost data from S17?</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-measures-for-repairing-post-windows-upgrade-failures/"><u>Immediate Measures for Repairing Post-Windows Upgrade Failures</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-file-access-harness-the-power-of-win11s-checkboxes/"><u>Optimize File Access: Harness the Power of Win11's Checkboxes</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-frozen-grammarly-on-your-computer-system/"><u>Solving Frozen Grammarly on Your Computer System</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-recover-from-a-blank-login-display-window/"><u>Steps to Recover From a Blank Login Display Window</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Removing Block by System Admins From Windows
-date: 2024-10-10T16:45:33.282Z
-updated: 2024-10-12T20:04:31.692Z
+date: 2024-10-17T21:52:28.533Z
+updated: 2024-10-18T18:43:40.534Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,13 @@ To unblock an app on Windows:
 4. Click**Apply** and**OK** to save the changes.
 5. Launch the app again to see if the error is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Run the App Using the Command Prompt
 
  You can run and launch apps using Command Prompt on Windows. All you need is a file path followed by the file name. Command Prompt offers a faster way to open apps on Windows; however, you can also use it if you can't open an app from File Explorer.
@@ -59,27 +66,20 @@ To open Windows apps using Command Prompt:
 ![run program using command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-program-using-command-prompt.jpg)
 6. Next, press the**Win** key and type**cmd** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Right-click on**Command Prompt** , and select**Run as administrator.**
 8. Next, press**Ctrl + V** to paste the copied file path in Command Prompt. Make sure to add the .exe file name at the end of the file path.
 9. Press**Enter** to launch the app.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Run the Apps as an Administrator
 
 ![run minecraft as administrator windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-minecraft-as-administrator-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Some Windows apps may need administrator privileges to work correctly. To fix the error, run the app as an administrator. If it works, you can configure the app properties to always run as administrator.
 
@@ -90,6 +90,13 @@ To run an app as an administrator:
 
  Check if the app launches ad administrator without the error. If yes, you can[set the app to always run as administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) to fix the issue. That said, do this only if you trust the publisher for security reasons.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Repair or Reset the Microsoft Store Apps
 
  If the error is triggered when opening a Microsoft Store app, try to perform a repair. You can repair Microsoft Store apps from the Settings panel. This should fix temporary glitches with the app and resolve the error.
@@ -97,13 +104,6 @@ To run an app as an administrator:
 To repair a Microsoft Store app:
 
 ![repair photos app windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/repair-photos-app-windows-11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Press**Win + I** to open**Settings** .
 2. Open the**Apps** tab and click on**Installed Apps** .
@@ -124,18 +124,18 @@ Reset the Microsoft Store app:
 3. Click the**three-dots menu** near the app name and select**Advanced options** .
 4. Scroll down and click the**Reset** button. Click**Reset** again to confirm the action. Similar to Repair, you'll see a checkmark when the reset process is complete.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Disable Microsoft Defender SmartScreen
 
  Microsoft Defender's SmartScreen scans programs and files during the launch for potential threats and can block them from running. You can disable the SmartScreen feature temporarily to determine if your app is blocked by it.
 
  You can[disable Microsoft SmartScreen Filter on Windows](https://www.makeuseof.com/windows-smartscreen-filter-enable-disable/) using the Windows Security app. Once disabled, relaunch the app and check if the error is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Turn Off Your Antivirus Program
 
@@ -144,6 +144,13 @@ Reset the Microsoft Store app:
  You can[temporarily disable Microsoft Defender](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) using the Windows Security app. To turn off third-party antivirus, right-click the app icon in the system tray and select the appropriate options.
 
  If the error is resolved, add the app to your security program's allowed list. You can also[allowlist files and apps on Windows Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/) if you use it as the primary security application.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Modify the Windows Registry to Remove Admin Block
 
@@ -161,13 +168,6 @@ To remove the admin block using Registry Editor:
 5. In the right pane, locate**EnableLUA** .  
 ![enable lua modify registry editor windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-lua-modify-registry-editor-windows.jpg)
 6. Right-click on the**EnableLUA** value and select**Modify** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Type**0** in the**Value data** field and click**OK** to save the changes.  
 ![enable lua modify registry editor value 0 windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-lua-modify-registry-editor-value-0-windows.jpg)
@@ -196,24 +196,24 @@ To remove the admin block using Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-how-to-set-up-and-use-the-grid-layout-for-zoom/"><u>[New] 2024 Approved How to Set Up and Use the Grid Layout for Zoom</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-mac-audio-tools-for-effective-classroom-capture/"><u>[Updated] 2024 Approved Mac Audio Tools for Effective Classroom Capture</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-essential-illumination-strategies-for-filming/"><u>[Updated] Essential Illumination Strategies for Filming</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tread-lightly-in-the-digital-jungle-vr-fitness-machines-examined/"><u>[Updated] Tread Lightly in the Digital Jungle VR Fitness Machines Examined</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-etiquette-ceasing-connections/"><u>2024 Approved Instagram Etiquette Ceasing Connections</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-social-media-magic-techniques-to-share-your-computer-screen-online/"><u>2024 Approved Social Media Magic Techniques to Share Your Computer Screen Online</u></a></li>
-<li><a href="https://windows11.techidaily.com/7-tricks-for-rejuvenating-non-responsive-windows-service-explorer/"><u>7 Tricks for Rejuvenating Non-Responsive Windows Service Explorer</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-se-2022-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone SE (2022) Without a Passcode</u></a></li>
-<li><a href="https://windows11.techidaily.com/circumventing-windows-security-controlled-by-domain-admins/"><u>Circumventing Windows Security Controlled by Domain Admins</u></a></li>
-<li><a href="https://windows11.techidaily.com/correction-of-inaccessible-device-path-issue-in-win/"><u>Correction of Inaccessible Device Path Issue in Win</u></a></li>
-<li><a href="https://windows11.techidaily.com/discover-the-power-of-background-blur-a-windows-11-photo-guide/"><u>Discover the Power of Background Blur: A Windows 11 Photo Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-guidance-manual-time-zone-setup-for-windows-users/"><u>Expert Guidance: Manual Time Zone Setup for Windows Users</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/how-to-get-thousands-of-youtube-views-in-30-days/"><u>How To Get Thousands of YouTube Views in 30 Days</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/macx-pro-premium-video-transcoding-software-purchase-and-enhance-your-multimedia-projects/"><u>MacX Pro: Premium Video Transcoding Software – Purchase and Enhance Your Multimedia Projects</u></a></li>
-<li><a href="https://windows11.techidaily.com/redefining-virtual-meetings-a-lightweight-approach/"><u>Redefining Virtual Meetings: A Lightweight Approach</u></a></li>
-<li><a href="https://windows11.techidaily.com/smoothening-playback-speed-in-vlc-for-windows/"><u>Smoothening Playback Speed in VLC for Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/triumph-over-outdated-updates-winning-strategies-revealed/"><u>Triumph Over Outdated Updates: Winning Strategies Revealed</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11s-evolution-unveiling-the-latest-system-updates/"><u>Windows 11'S Evolution: Unveiling the Latest System Updates</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-fixing-unintended-you-mistakes-while-chatting-online/"><u>[New] Fixing Unintended 'You' Mistakes While Chatting Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-easy-path-to-engaging-animation-in-your-videos/"><u>[New] The Easy Path to Engaging Animation in Your Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-top-5-best-lightweight-action-cameras-for-backpacking-or-hiking/"><u>[New] Top 5 Best Lightweight Action Cameras For Backpacking Or Hiking</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tracking-your-channels-ad-revenue-accrual/"><u>[New] Tracking Your Channel's Ad Revenue Accrual</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-rapid-route-learning-the-ins-and-outs-of-insta-talks/"><u>[Updated] In 2024, Rapid Route Learning the Ins and Outs of Insta Talks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-friendship-in-folded-space-top-vr-games/"><u>2024 Approved Friendship in Folded Space Top VR Games</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortlessly-overcoming-asus-pce-ac56-compatibility-hurdles-in-windows-1187-environments/"><u>Effortlessly Overcoming ASUS PCE-AC56 Compatibility Hurdles in Windows 11/8/7 Environments</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/embarking-on-twitter-steps-for-newbies/"><u>Embarking on Twitter Steps for Newbies</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixes-for-corrupted-files-in-windows-10-and-11/"><u>Fixes for Corrupted Files in Windows 10 and 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-macbook-airs-hidden-potential-expertise-in-screen-capturing/"><u>In 2024, MacBook Air's Hidden Potential Expertise in Screen Capturing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-reno-10-proplus-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Reno 10 Pro+ 5G Phone FRP Lock</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveraging-powershell-to-gauge-file-sizes-in-os/"><u>Leveraging PowerShell to Gauge File Sizes in OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-functionality-in-windows-services-explorer-with-these-7-steps/"><u>Restoring Functionality in Windows Services Explorer with These 7 Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-play-eradicating-xbox-service-block/"><u>Seamless Play: Eradicating Xbox Service Block</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-correcting-windows-backup-defaults/"><u>Steps for Correcting Windows Backup Defaults</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-enable-user-sign-in-following-windows-setback/"><u>Steps to Enable User Sign-In Following Windows Setback</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-rectifying-c0000005-on-windows-7vista/"><u>Strategies for Rectifying C0000005 on Windows 7/Vista</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-windows-security-hurdles-with-precision-and-care/"><u>Tackling Windows Security Hurdles with Precision & Care</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-ways-to-resolve-black-screens-in-win1111-pro/"><u>Top Ways to Resolve Black Screens in Win11/11 Pro</u></a></li>
 </ul></div>
 

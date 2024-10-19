@@ -1,7 +1,7 @@
 ---
 title: Fixing Frozen Resource Monitor Applications on Win11
-date: 2024-10-06T16:16:52.850Z
-updated: 2024-10-13T02:35:04.008Z
+date: 2024-10-17T02:57:28.420Z
+updated: 2024-10-18T22:33:10.419Z
 tags:
   - windows10
   - windows11
@@ -43,13 +43,6 @@ So, let's move on to the solution and fix this problem.
 
  In most cases, this can get things back up and running without requiring extra effort. Plus, this solution is usually quick and easy since you only need to shut down your PC and wait for it to boot back up again. If you're having trouble restarting your PC, you can check out our guide on the[different ways you can restart Windows](https://www.makeuseof.com/windows-restart-methods/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Change the DPI Settings
 
  Another possible fix for Resource Monitor not working on Windows is to change your DPI settings. Changing the scaling from 100% to 125% or higher on some computers can cause issues with Resource Monitor. Therefore, try adjusting it back to its original setting and check if the tool works again.
@@ -78,10 +71,10 @@ To do this, follow these steps:
 4. Now in the elevated Command Prompt window, type in the command below and press Enter:  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 sfc /scannow
@@ -99,10 +92,10 @@ sfc /scannow
 ![Check for Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/check-for-updates.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If there are any updates available, it will download and install them automatically. After the download completes, install the updates and restart your computer. After that, check to see if Resource Monitor is working.
@@ -118,10 +111,10 @@ sfc /scannow
 4. Scroll down to Related settings and click**Uninstall updates** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Uninstall the latest Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-the-latest-windows-update.jpg)
@@ -140,13 +133,20 @@ sfc /scannow
 5. On the Microsoft account page, click **I don't have this person's sign-in information** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then follow the instructions to add a new user account and then sign in with that account. Now open Resource Monitor and see if it's working properly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Troubleshoot in Clean Boot State
 
@@ -160,6 +160,13 @@ In such a case, you need to perform a clean boot as instructed below:
 ![Perform-a-Clean-Boot-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Perform-a-Clean-Boot-1.jpg)
 4. Uncheck the**Load startup items** box.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Switch to the**Services** tab and check the**Hide all Microsoft services** box.  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 6. Then click**Disable All** .
@@ -167,13 +174,6 @@ In such a case, you need to perform a clean boot as instructed below:
 8. Disable any services or programs that are active in Startup apps.
 
  Once you have done this, close Task Manager, then click**OK** on the MSConfig window to save these changes. Now restart your computer for them to take effect, then try using Resource Monitor to see if they work now.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Resolve Resource Monitor Issues in Windows 11
 
@@ -194,20 +194,15 @@ In such a case, you need to perform a clean boot as instructed below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-turbocharge-your-tiktok-videos-for-instant-viewing/"><u>[New] 2024 Approved Turbocharge Your TikTok Videos for Instant Viewing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-artisans-approach-to-hdr-creation-in-photoshop/"><u>[New] The Artisan's Approach to HDR Creation in Photoshop</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-capture-screen-decoder/"><u>[Updated] 2024 Approved Capture Screen Decoder</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-contrast-in-colors-crafting-cinematic-moods/"><u>[Updated] Contrast in Colors Crafting Cinematic Moods</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-expert-advice-seamless-srt-file-sharing-across-all-social-networks/"><u>[Updated] Expert Advice Seamless SRT File Sharing Across All Social Networks</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-midgard-alliance-defenders-of-ragnarok/"><u>[Updated] In 2024, Midgard Alliance Defenders of Ragnarok</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-transformative-visuals-unleash-the-power-of-6-video-types/"><u>2024 Approved Transformative Visuals Unleash the Power of 6 Video Types</u></a></li>
-<li><a href="https://windows11.techidaily.com/accelerate-your-typing-on-win-1011-top-7-tricks-revealed/"><u>Accelerate Your Typing on WIN 10/11: Top 7 Tricks Revealed</u></a></li>
-<li><a href="https://windows11.techidaily.com/audible-improvements-for-windows-users-stepwise-audio-driver-revamp/"><u>Audible Improvements for Windows Users: Stepwise Audio Driver Revamp</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/audio-layers-for-professional-videography-premiere-pro-edition/"><u>Audio Layers for Professional Videography Premiere Pro Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-blue-screen-blues-fixing-error-740-on-winos/"><u>Avoiding Blue Screen Blues: Fixing Error 740 on WINOS</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-windows-update-four-techniques/"><u>Bypassing Windows Update: Four Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquer-the-unseen-scroll-phenomenon-in-windows/"><u>Conquer the Unseen Scroll Phenomenon in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/dive-into-windows-powertoys-the-ultimate-guide-to-its-best-uses/"><u>Dive Into Windows PowerToys: The Ultimate Guide to Its Best Uses</u></a></li>
-<li><a href="https://windows11.techidaily.com/diving-into-windows-n-types-benefits-and-downfalls/"><u>Diving Into Windows N Types: Benefits and Downfalls</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-excellent-webcams-for-clear-podcast-broadcasts/"><u>[New] 2024 Approved Excellent Webcams for Clear Podcast Broadcasts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-step-by-step-obs-configuration-for-smooth-broadcasting/"><u>[New] 2024 Approved Step-By-Step OBS Configuration for Smooth Broadcasting</u></a></li>
+<li><a href="https://win-superb.techidaily.com/6yen54plusplus5asx5y6755qe6yg654plusg77ya5l255so5lul5lil5ywn6lk75oml5rov5pc25pwr5qc85byp5yyw56gs56kf5lit55qe54wn54mh/"><u>重現失去的遺珠：使用以下免費手法搶救格式化硬碟中的照片</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-lava-blaze-pro-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Lava Blaze Pro 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-failed-to-launch-lunar-client-error-on-windows/"><u>How to Fix the “Failed to Launch Lunar Client” Error on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/inside-look-7-windows-activities-harboring-risks/"><u>Inside Look: 7 Windows Activities Harboring Risks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/latest-tricks-for-resolving-division-2-not-starting-up-problem/"><u>Latest Tricks for Resolving 'Division 2 Not Starting Up' Problem</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-customization-in-windows-11s-settings/"><u>Mastering Customization in Windows 11'S Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-guide-for-flaky-windows-scheduled-jobs/"><u>Quick-Fix Guide for Flaky Windows Scheduled Jobs</u></a></li>
 </ul></div>
 

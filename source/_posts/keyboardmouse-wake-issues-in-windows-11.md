@@ -1,7 +1,7 @@
 ---
 title: Keyboard/Mouse Wake Issues in Windows 11
-date: 2024-09-26T19:08:20.369Z
-updated: 2024-10-01T21:34:55.469Z
+date: 2024-10-15T04:04:11.013Z
+updated: 2024-10-19T03:28:55.288Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/6d5e434613938dd2124246188e50460e550f0af6d
 
  For safety, you should put your laptop to sleep before putting it in a bag only if it will be there for a short time. For longer durations, shut down or hibernate for safety.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Other Fixes if a Keyboard and Mouse Don't Wake Your PC
 
  The above steps should allow your PC to wake from sleep in most cases. But in case you still have trouble, there are a few other points to check.
@@ -47,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/6d5e434613938dd2124246188e50460e550f0af6d
  Also, it might sound obvious, but make sure that your keyboard and mouse are working properly overall. If they suddenly don't do anything, they of course won't wake your PC from sleep. We've shown[how to fix an unresponsive laptop keyboard](https://www.makeuseof.com/tag/laptop-keyboard-not-working/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Stop Your PC From Shutting Off USB Ports
@@ -66,31 +73,30 @@ thumbnail: https://thmb.techidaily.com/6d5e434613938dd2124246188e50460e550f0af6d
 ![Windows 10 USB Suspend Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Windows-10-USB-Suspend-Power-Options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will keep your system from shutting off USB ports to save power, which should help it wake from sleep with a keyboard and mouse more reliably.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### For Bluetooth Mice and Keyboards
 
  If you use a Bluetooth mouse and keyboard, your computer might not receive Bluetooth signals while it's asleep. You can't tweak this in the Device Manager, so your best bets are to update your Bluetooth driver or consider getting a newer Bluetooth adapter with better power management. Run through our list of[steps to fix Bluetooth in Windows](https://www.makeuseof.com/tag/bluetooth-not-working-windows-10/) , as well, to rule out any deeper problems.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Wake Your Computer From Sleep the Easy Way
 
@@ -113,18 +119,24 @@ thumbnail: https://thmb.techidaily.com/6d5e434613938dd2124246188e50460e550f0af6d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-innovation-unveiled-the-complete-moto-z2-review/"><u>[New] Innovation Unveiled The Complete Moto Z2 Review</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-tutorial-extracting-audio-from-vimeo-video/"><u>[Updated] 2024 Approved Tutorial Extracting Audio From Vimeo Video</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-spectacular-screen-showdown-sj6-vs-the-4k-innovators-of-xiaomi/"><u>2024 Approved Spectacular Screen Showdown SJ6 Vs. The 4K Innovators of Xiaomi</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-xiaomi-civi-3-disney-100th-anniversary-edition-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Xiaomi Civi 3 Disney 100th Anniversary Edition Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-windows-update-issue-the-0x800736cc-method/"><u>Bypassing Windows Update Issue: The 0X800736CC Method</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-system-appearance-with-custom-pointer-design/"><u>Enhancing System Appearance with Custom Pointer Design</u></a></li>
-<li><a href="https://windows11.techidaily.com/harnessing-power-using-lav-filters-on-microsoft-windows/"><u>Harnessing Power: Using LAV Filters on Microsoft Windows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-mobile-artistry-top-android-collage-apps/"><u>In 2024, Mastering Mobile Artistry - Top Android Collage Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/journey-to-mastery-original-diablo-basics-explained/"><u>Journey to Mastery: Original Diablo Basics Explained</u></a></li>
-<li><a href="https://windows11.techidaily.com/securely-accessing-power-user-terminal/"><u>Securely Accessing Power-User Terminal</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactics-for-installing-unverified-windows-drivers/"><u>Tactics for Installing Unverified Windows Drivers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-virtual-journey-past-to-present/"><u>The Virtual Journey Past to Present</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-free-psp-video-conversion-software-how-to-easily-transform-your-movies-into-psp-format/"><u>Top Free PSP Video Conversion Software: How to Easily Transform Your Movies Into PSP Format</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-no-money-no-problem-your-guide-to-free-youtube-ads/"><u>[New] No Money, No Problem! Your Guide to Free YouTube Ads</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-preventing-unwanted-filming-in-quicktime/"><u>[New] Preventing Unwanted Filming in QuickTime</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebook-live-streaming-techniques-on-mobile-for-2024/"><u>[Updated] Facebook Live Streaming Techniques on Mobile for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/7-leading-budget-4k-mirrorless-cameras-(1k/"><u>7 Leading Budget 4K Mirrorless Cameras (<$1K)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/discover-keyword-power-30-must-use-hashtags-for-freegame-content-for-2024/"><u>Discover Keyword Power 30 Must-Use Hashtags for FreeGame Content for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/dvdfab-dvd1121/"><u>DVDFab DVD圧縮手順：11版で2枚ディスクから1枚ディスクへのコンプレッション方法</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-erroneous-dual-camera-access-error-code-a00f4243/"><u>Fixing Erroneous Dual-Camera Access (Error Code: A00F4243)</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-isdonedll-malfunction-a-guide-for-w10w11/"><u>Handling ISDone.dll Malfunction: A Guide for W10/W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-rectify-windows-unsuccessful-auto-detect-of-network-proxy/"><u>How to Rectify Windows' Unsuccessful Auto Detect of Network Proxy</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-resuscitate-flaky-slack-notifications/"><u>Methods to Resuscitate Flaky Slack Notifications</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-steams-content-conflux-on-mac/"><u>Overcoming Steam's Content Conflux on Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-yellow-screen-distortion-on-laptops/"><u>Overcoming Yellow Screen Distortion on Laptops</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/remedy-for-exceeded-chatgpt-limit-error-win/"><u>Remedy for Exceeded ChatGPT Limit Error (Win)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-and-easy-upgrade-of-lenovo-bluetooth-drivers-on-your-pc-windows-710/"><u>Secure and Easy Upgrade of Lenovo Bluetooth Drivers on Your PC (Windows 7/10)</u></a></li>
+<li><a href="https://windows11.techidaily.com/standby-tech-in-windows-os-a-comprehensive-analysis/"><u>Standby Tech in Windows OS: A Comprehensive Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategic-fixes-to-lower-wlanextexe-consumption/"><u>Strategic Fixes to Lower Wlanext.EXE Consumption</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-8-prompts-for-limiting-social-media-interruptions-via-gpt/"><u>Top 8 Prompts for Limiting Social Media Interruptions via GPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-update-failure-code-0x8024800c/"><u>Troubleshooting Windows Update Failure: Code 0X8024800C</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-startup-a-quick-route-walkthrough/"><u>Windows Startup: A Quick Route Walkthrough</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigate to File Explorer Through OneDrive in Windows
-date: 2024-09-25T16:11:48.627Z
-updated: 2024-10-02T02:15:11.923Z
+date: 2024-10-14T22:31:20.200Z
+updated: 2024-10-18T21:28:53.737Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
  From now on, opening File Explorer will automatically launch OneDrive rather than Quick Access.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Using the Registry Editor
@@ -56,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
 6. Double-click on this newly created value and set its value to **4**.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Click **OK** and close the registry window.
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
  After that, restart your computer for the changes to take effect. Once your PC restarts, launch File Explorer. With this method, you will launch File Explorer directly to your cloud storage without navigating through Quick Access.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Using a Reg File
@@ -96,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
  After your system restarts, launch File Explorer. You'll see OneDrive as the main view instead of Quick Access.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Set File Explorer to Open OneDrive Instead of Quick Access
@@ -117,22 +117,21 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-premier-perks-for-your-gopro-camera/"><u>[New] 2024 Approved Premier Perks for Your GoPro Camera</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-cutting-edge-editing-a-roadmap-for-high-quality-youtube-sounds/"><u>[New] In 2024, Cutting-Edge Editing A Roadmap for High-Quality YouTube Sounds</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-secret-sauce-to-outstanding-online-identity-creation/"><u>[Updated] 2024 Approved The Secret Sauce to Outstanding Online Identity Creation</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-navigating-the-best-webinars-for-business/"><u>[Updated] In 2024, Navigating the Best Webinars for Business</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-unmatched-collection-10-excellent-platforms-for-vimeo-video-downloaders/"><u>[Updated] In 2024, Unmatched Collection 10 Excellent Platforms for Vimeo Video Downloaders</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-speed-with-wordpad-embedding-keyboard-macros-into-windows-menu/"><u>Boosting Speed with WordPad: Embedding Keyboard Macros Into Windows Menu</u></a></li>
-<li><a href="https://windows11.techidaily.com/combat-plan-against-windows-error-0xc00ce556/"><u>Combat Plan Against Window's Error 0xC00CE556</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-the-dilemma-of-windows-code-crashes/"><u>Decoding the Dilemma of Windows Code Crashes</u></a></li>
-<li><a href="https://windows11.techidaily.com/embracing-the-future-revolutionary-changes-to-file-explorer/"><u>Embracing the Future: Revolutionary Changes to File Explorer</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fix-guide-resolving-cs2-pc-crashes/"><u>Fix Guide: Resolving CS2 PC Crashes</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-se-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone SE</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-integrating-aesthetic-enhancements-into-windows-photos-audio-plus-visuals/"><u>In 2024, Integrating Aesthetic Enhancements Into Windows Photos Audio + Visuals</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-microsofts-bluetooth-linked-application/"><u>Navigating Microsoft's Bluetooth-Linked Application</u></a></li>
-<li><a href="https://windows11.techidaily.com/proven-file-sync-software-the-most-trusted-windows-picks/"><u>Proven File Sync Software: The Most Trusted Windows Picks</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-tips-for-syncing-two-windows-displays/"><u>Quick Tips for Syncing Two Windows Displays</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-transform-your-videos-best-time-lapse-editing-apps-for-mobile/"><u>Updated In 2024, Transform Your Videos Best Time-Lapse Editing Apps for Mobile</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-fast-access-to-textual-explanations/"><u>Windows 11: Fast Access to Textual Explanations</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-get-unlimited-echoes-for-online-content-makers/"><u>[New] Get Unlimited Echoes for Online Content Makers!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-securesave-specialists-judgment/"><u>[Updated] 2024 Approved SecureSave Specialists Judgment</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-game-on-and-store-more-top-5-ssd-reviews-for-xbox/"><u>[Updated] Game On & Store More Top 5 SSD Reviews for Xbox</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertly-edited-entries-anywhere-at-the-tap-of-a-finger-in-2e23/"><u>2024 Approved Expertly Edited Entries, Anywhere at the Tap of a Finger in 2E23</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experiencing-the-speed-with-asus-zenbook-s16-and-its-integrated-amd-ryzen-ai9-hx-370-processor-reviewed-here/"><u>Experiencing the Speed with ASUS Zenbook S16 and Its Integrated AMD Ryzen AI9 HX-370 Processor Reviewed Here</u></a></li>
+<li><a href="https://windows11.techidaily.com/note-taking-evolution-embracing-obsidian-canvas/"><u>Note-Taking Evolution: Embracing Obsidian Canvas</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-unfreezing-stuck-spotify-app-in-win11-pcs/"><u>Quick Guide: Unfreezing Stuck Spotify App in Win11 PCs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/screen-recording-pros-bandicam-or-camtasia-for-2024/"><u>Screen Recording Pros Bandicam or Camtasia for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-adjusting-your-fax-covers-on-w11/"><u>Step-by-Step Guide: Adjusting Your Fax Covers on W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-boost-utorrent-downloads-in-windows/"><u>Strategies to Boost uTorrent Downloads in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/streamlining-ps5-game-library-management/"><u>Streamlining PS5 Game Library Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-nostalgia-unleashed-windows-11-to-the-past/"><u>Tech Nostalgia Unleashed: Windows 11 to the Past</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-5-best-fixes-for-hiberatus-computers/"><u>The 5 Best Fixes for Hiberatus Computers</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-writing-helpers-to-transform-your-windows-experience/"><u>Top Writing Helpers to Transform Your Windows Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/tweaking-windows-lockscreensaver-timer/"><u>Tweaking Windows Lock/Screensaver Timer</u></a></li>
+<li><a href="https://techidaily.com/vivo-data-recovery-recover-lost-data-from-vivo-v29-by-fonelab-android-recover-data/"><u>Vivo Data Recovery – recover lost data from Vivo V29</u></a></li>
 </ul></div>
 

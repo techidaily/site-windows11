@@ -1,7 +1,7 @@
 ---
 title: "Simplifying the Networks Menu: Win 11 Wifi Cleanup"
-date: 2024-10-07T22:20:50.579Z
-updated: 2024-10-13T03:37:50.485Z
+date: 2024-10-14T17:29:23.265Z
+updated: 2024-10-18T19:04:39.416Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 
  Over time, your PC may accumulate a long list of Wi-Fi networks that you won't be connecting to. In such cases, it makes sense to remove old and unused Wi-Fi networks from your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Remove a Saved Wi-Fi Network Using the Quick Settings Panel
 
  The Quick Settings panel on Windows provides access to some commonly used settings. It also makes it simple to remove a saved Wi-Fi network from Windows 11.
@@ -42,13 +49,20 @@ thumbnail: https://thmb.techidaily.com/34898e0ebb1abca68099d2acba8fac3a4c33b8787
 ![Remove Wi-Fi Network From Quick Settings Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Remove-Wi-Fi-Network-From-Quick-Settings-Panel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Like using the Quick Settings on Windows? Check out[how to customize the Quick Settings panel on your Windows 11 computer](http://www.makeuseof.com/windows-11-customize-quick-settings-menu/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Remove a Saved Wi-Fi Network via the Settings App
 
@@ -64,13 +78,6 @@ To forget a Wi-Fi network via the Settings app:
 
  And that's about it. Once you click the**Forget** button, Windows will remove the network profile associated with that network.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Remove a Saved Wi-Fi Network With Command Prompt or PowerShell
 
  Another option for removing a saved Wi-Fi network is to use a command-line tool such as Command Prompt or Windows PowerShell. You can easily forget a Wi-Fi network by running a couple of commands in the terminal window. Here’s how you can go about it.
@@ -84,6 +91,13 @@ To forget a Wi-Fi network via the Settings app:
 6. Paste the following command, replace**WIFIName** with the network name, and press**Enter** .  
 `netsh wlan delete profile name="WIFIName"`  
 ![Delete a Saved Wi-Fi Profile Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Delete-a-Saved-Wi-Fi-Profile-Using-Command-Prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can repeat the above command to remove as many networks as you want. Conveniently, the command-line tool also lets you remove all the saved Wi-Fi networks at once. To do so, use this command:
 
@@ -107,13 +121,6 @@ To remove a Wi-Fi network using the Registry Editor:
 8. Select**Yes** to confirm.  
 ![Remove Wi-Fi Network on Windows Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Remove-Wi-Fi-Network-on-Windows-Using-Registry-Editor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you complete the above steps, the saved profile will be removed from your system.
 
 ## How to Reconnect to a Forgotten Wi-Fi Network on Windows 11
@@ -123,13 +130,6 @@ To remove a Wi-Fi network using the Registry Editor:
  To connect to a Wi-Fi network on Windows 11, press**Win + A** to open the Quick Settings panel. Click the arrow next to the Wi-Fi button to view a list of nearby networks. Select the network you want to connect to and click the**Connect** button. Enter the password for that network and you should be good.
 
 ![Connect to a Wi-Fi Network Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Connect-to-a-Wi-Fi-Network-Windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Of course, this isn't the only way to connect to a Wi-Fi network on Windows. Refer to our guide on[different ways to connect to Wi-Fi on Windows](https://www.makeuseof.com/windows-ways-to-connect-to-wifi/) to learn more.
 
@@ -154,14 +154,18 @@ To remove a Wi-Fi network using the Registry Editor:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-prime-mkv-software-pc-and-android-for-2024/"><u>[New] Prime MKV Software PC & Android for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-lost-messages-how-to-fix-notifications-that-fail/"><u>Avoiding Lost Messages: How to Fix Notifications That Fail</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-the-discrepancy-c-drive-vs-d-drive/"><u>Decoding the Discrepancy: C: Drive Vs. D: Drive</u></a></li>
-<li><a href="https://windows11.techidaily.com/discover-where-windows-keeps-snaps/"><u>Discover Where Windows Keeps Snaps</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-opinion-on-the-google-pixel-5-affordable-elite-experience-unveiled/"><u>Expert Opinion on the Google Pixel 5: Affordable Elite Experience Unveiled</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719327539921-master-the-art-of-microsoft-support-for-problems/"><u>Master the Art of Microsoft Support for Problems</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/master-wmp-techniques-for-efficient-cd-handling-and-recordings/"><u>Master WMP Techniques for Efficient CD Handling and Recordings</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-s-best-stop-motion-creators-free-paid-and-everything-in-between-for-2024/"><u>New S Best Stop Motion Creators Free, Paid, and Everything in Between for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/transformez-un-fichier-video-3g2-en-wma-gratuitement-online-services-de-conversion-rapides-par-movavi/"><u>Transformez Un Fichier Vidéo 3G2 en WMA Gratuitement Online - Services De Conversion Rapides Par Movavi</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ideo-sharing-platform-showdown-which-is-ideal-for-your-individual-usage-in-2024/"><u>[New] Video Sharing Platform Showdown Which Is Ideal for Your Individual Usage, In 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-forge-partnerships-from-initial-contact-to-final-deal-on-youtube/"><u>[Updated] Forge Partnerships From Initial Contact to Final Deal on Youtube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-must-see-top-5-youtube-link-share-extensions-for-2024/"><u>[Updated] Must-See Top 5 YouTube Link Share Extensions for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-preventing-unseen-frames-in-video-captures/"><u>2024 Approved Preventing Unseen Frames in Video Captures</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-addressing-non-charging-issues-on-a-connected-surface-unit/"><u>Expert Tips for Addressing Non-Charging Issues on a Connected Surface Unit</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-keyboard-interface-with-personalized-fn-keys-in-windows-11/"><u>Optimizing Keyboard Interface with Personalized FN Keys in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/regain-your-control-restoring-synapse-on-w10-and-w11/"><u>Regain Your Control: Restoring Synapse on W10 & W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reigniting-frozen-discord-overlay-a-stepwise-guide-for-windows-users/"><u>Reigniting Frozen Discord Overlay: A Stepwise Guide for Windows Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-audio-problems-a-step-by-step-guide-for-repairing-airpods-mic-on-windows-10-systems/"><u>Solving Audio Problems: A Step-by-Step Guide for Repairing AirPods Mic on Windows 10 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-picture-previews-in-windows-11-ui/"><u>Tailoring Picture Previews in Windows 11 UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/ultimate-list-wins-premier-video-trimming-tools/"><u>Ultimate List: Win's Premier Video Trimming Tools</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/yakuza-like-a-dragon-review/"><u>Yakuza: Like A Dragon Review</u></a></li>
 </ul></div>
 

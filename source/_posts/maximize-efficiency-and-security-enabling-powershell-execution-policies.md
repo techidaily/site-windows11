@@ -1,7 +1,7 @@
 ---
 title: "Maximize Efficiency and Security: Enabling PowerShell Execution Policies"
-date: 2024-10-07T02:20:46.639Z
-updated: 2024-10-12T21:31:09.275Z
+date: 2024-10-14T21:09:00.100Z
+updated: 2024-10-19T03:25:22.994Z
 tags:
   - windows10
   - windows11
@@ -42,13 +42,6 @@ To get your current execution policy for the current user:
 
  You’ll need to change the execution policy to RemoteSigned to run local scripts without the error. You can change the execution policy from the Settings app and PowerShell.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Enable PowerShell Execution Policy Using the Settings App
 
  You can change and set the PowerShell execution policy to RemoteSigned using the Settings app. All you have to do is tweak the PowerShell settings in the developers' section to change the execution policy to enable PowerShell script execution.
@@ -61,28 +54,35 @@ To change execution policy using Settings:
 ![windows 11 for developers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-for-developers.jpg)
 4. Click to expand the**PowerShell** section.
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Toggle the switch to **change the execution policy to allow local PowerShell scripts to run without signing - Require signing for remote scripts** .  
 ![enable powershell script execution windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-powershell-script-execution-windows-11-settings.jpg)
 6. Once done, open PowerShell, type get**executionpolicy,** and press**Enter** . The execution policy for the current user is now set to**RemoteSigned.**
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7. If you need to disable the execution policy, toggle the PowerShell switch and set it to**Off** .
 
 ## How to Allow Scripts to Run in PowerShell using PowerShell
 
 ![Powershell set execcution policy remotesigned](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/powershell-set-execcution-policy-remotesigned.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can use a[PowerShell cmdlet](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) to set the execution policy to RemoteSigned. The command-line interface makes it easy to change execution policy quickly without using the Settings app.
 
@@ -98,6 +98,13 @@ To change the execution policy using PowerShell:
 `Set-ExecutionPolicy RemoteSgined -Scope CurrentUser`
 5. Replace**CurrentUser** in the above command with other users (Scope) as per your requirement.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Remove Script Execution Policy Using PowerShell
 
 ![set-execution-policy-undefined](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-execution-polify-undefined.jpg)
@@ -112,13 +119,6 @@ To disable script execution using PowerShell:
 3. The above command will set the execution policy default (undefined) for all the users. If you want to disable script execution for a specific scope, use the following command:  
 `Set-ExecutionPolicy undefined -Scope CurrentUser`
 4. The above command will disable script execution for**CurrentUser** .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Understanding Execution Policies and Scopes
 
@@ -136,13 +136,6 @@ To disable script execution using PowerShell:
 | Undefined        | Sets execution policy to Restricted for Windows clients and RemoteSigned for Windows Server.                   |
 | Unrestricted     | Allow unsigned script execution with a warning for the scripts downloaded from the internet.                   |
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Execution Policy Scope
 
  You can set execution policy for a particular scope in PowerShell. The five execution policy scopes are**MachinePolicy, UserPolicy, Process, CurrentUser,** and**LocalMachine** .
@@ -156,6 +149,13 @@ The below table briefly explains all the execution policy scopes:
 | CurrenUser             | Configured for the current user and stored in HKEY\_CURRENT\_MACHINE registry subkey.    |
 | LocalMachine           | Configured for all users and stored in HKEY\_CURRENT\_MACHINE registry subkey.           |
 | Process                | Affects current PowerShell session and automatically deleted when the session is closed. |
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Add or Remove PowerShell Script Execution Policy on Windows
 
@@ -178,22 +178,24 @@ The below table briefly explains all the execution policy scopes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mirrored-worldviews-on-insta-discover-100-reflective-captions/"><u>[Updated] 2024 Approved Mirrored Worldviews on Insta - Discover 100 Reflective Captions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44cm44ot44oh44kq5yaf5a6544ks6zqg6js944gz44kl44gf44kb44gu44oi44k244kk44kv5yem55cg44o744g844gl44gx5oml5rov44cn/"><u>「ビデオ内容を隠蔽するためのモザイク処理・ぼかし手法」</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-comprehensive-guide-to-using-w11s-auto-hdr/"><u>A Comprehensive Guide to Using W11's Auto HDR</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-vivo-y02t-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo Y02T Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensive-exploration-of-vsco-image-processing-for-2024/"><u>Comprehensive Exploration of VSCO Image Processing for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquering-access-denial-during-system-installation/"><u>Conquering Access Denial During System Installation</u></a></li>
-<li><a href="https://windows11.techidaily.com/dont-relininas-chatbots-for-secure-authenticated-win-11-keys/"><u>Don't Relininas Chatbots for Secure, Authenticated Win 11 Keys</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/easy-to-understand-copywriting-tactics-for-fb-campaigns-for-2024/"><u>Easy-to-Understand Copywriting Tactics for FB Campaigns for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-stop-the-mouse-from-freezing-in-excel/"><u>How to Stop the Mouse From Freezing in Excel</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-through-fingertip-writing-options-in-windows-system/"><u>Navigate Through Fingertip Writing Options in Windows System</u></a></li>
-<li><a href="https://windows11.techidaily.com/personalized-pixel-panorama-themed-displays-for-each-window-of-win-1011/"><u>Personalized Pixel Panorama: Themed Displays for Each Window of WIN 10/11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/podcast-prelude-platter-crafting-the-perfect-opening-tune-for-2024/"><u>Podcast Prelude Platter Crafting the Perfect Opening Tune for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/set-your-desktops-mood-with-spotlight-controls/"><u>Set Your Desktop's Mood with Spotlight Controls</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/top-18-methods-to-transform-mp4-files-into-dvd-formats-on-windows-mac-and-online/"><u>Top 18 Methods to Transform MP4 Files Into DVD Formats on Windows, Mac, and Online</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-fixes-for-frequent-shutdowns-solving-pc-stability-issues-with-the-latest-racing-game/"><u>Ultimate Fixes for Frequent Shutdowns: Solving PC Stability Issues with the Latest Racing Game</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleash-potential-in-vintage-gear-installation-of-22h2-win11/"><u>Unleash Potential in Vintage Gear: Installation of 22H2 Win11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-giggles-guidebook-planning-7-funny-video-frameworks/"><u>[New] 2024 Approved Giggles Guidebook Planning 7 Funny Video Frameworks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-ace-your-adventures-with-gopro-tips/"><u>[New] Ace Your Adventures with GoPro Tips</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-elevating-engagement-strategic-use-of-youtube-titles/"><u>[Updated] Elevating Engagement Strategic Use of Youtube Titles</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2023-how-to-check-tiktok-video-copyright-before-uploading-for-2024/"><u>2023 | How to Check Tiktok Video Copyright Before Uploading for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/captivating-creations-utilizing-motion-blur-effects-in-ai-for-2024/"><u>Captivating Creations Utilizing Motion Blur Effects in AI for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/eliminate-pesky-latency-how-to-get-crystal-clear-audio-on-bluetooth-devices/"><u>Eliminate Pesky Latency: How to Get Crystal Clear Audio on Bluetooth Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-semaphore-timeout-period-has-expired-error-0x80070079-in-windows-1110/"><u>How to Fix the “Semaphore Timeout Period Has Expired” Error 0X80070079 in Windows 11/10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-15-pro-using-macos-finder-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 15 Pro using macOS finder</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-ios-calendar-with-windows-a-practical-guide/"><u>Integrating iOS Calendar with Windows: A Practical Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/link-films-for-organized-youtube-display-for-2024/"><u>Link Films for Organized YouTube Display for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-sharing-your-privacy-guarded-yt-clip-via-gmail-pro-for-2024/"><u>Mastering Sharing Your Privacy-Guarded YT Clip via Gmail Pro for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/offline-browsing-of-onedrive-files-on-windows-pc/"><u>Offline Browsing of OneDrive Files on Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-access-to-command-prompt-easily-set-up-shortcuts/"><u>Quick Access to Command Prompt: Easily Set Up Shortcuts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-lenovo-t450-driver-downloads-for-a-smooth-computing-experience/"><u>Quick Lenovo T450 Driver Downloads for a Smooth Computing Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-integration-outlook-preview-for-windows-11-users/"><u>Seamless Integration: Outlook Preview for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-secure-offline-window-improvement-process/"><u>The Secure, Offline Window Improvement Process</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-secrets-of-winservicesexe/"><u>Unlocking the Secrets of Winservices.exe</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-mechanics-of-windows-11s-efficient-file-safety-measures/"><u>Unveiling the Mechanics of Windows 11'S Efficient File Safety Measures</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-to-do-when-your-recent-discord-updates-breakdown-on-windows/"><u>What to Do When Your Recent Discord Updates Breakdown on Windows</u></a></li>
 </ul></div>
 

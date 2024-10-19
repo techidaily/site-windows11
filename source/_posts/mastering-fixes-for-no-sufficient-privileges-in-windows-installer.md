@@ -1,7 +1,7 @@
 ---
 title: Mastering Fixes for No Sufficient Privileges in Windows Installer
-date: 2024-10-12T03:34:06.447Z
-updated: 2024-10-13T02:20:53.905Z
+date: 2024-10-15T21:42:08.888Z
+updated: 2024-10-18T16:06:49.699Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 
 ![The Run as administrator option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/run-as-administrator-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Unblock the Setup File
 
  In addition, check if the installer file is blocked before running it. To do that, right-click the program’s setup file and select **Properties**.
@@ -58,19 +51,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 
 ![The Take Ownership option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/take-ownership-option.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Try Installing it in a Different Folder
 
  You might be able to bypass the “installer has insufficient privileges” error by selecting to install the software in a different directory. Many users install software packages in the Program Files folder. So, try selecting to install a program at a completely different folder path from the one specified in the error message.
@@ -84,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 ![windows installer option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-installer-option.jpg)
 3. If Windows Installer is running, select its **Restart** context menu option.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Alternatively, you can double-click the **Windows Installer** service to view its properties window and restart it from there. Click **Start** if the service is already stopped, or, select **Stop > Start** to restart.
 
 ## 6\. Disable UAC Before Installing
@@ -98,6 +71,20 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
  User Account Control is one of the security features that can generate installation issues when set to its higher levels. Turn off UAC before attempting to install affected software to see if that resolves the “installer has insufficient privileges” error. Check out this guide about [disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) for details about how to turn off UAC.
 
 ![The Never notify option in UAC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/never-notify-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Disable All User Account Control Policy Settings
 
@@ -117,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
  Once done, repeat steps three to five above for all the User Account Control policy settings. Exit Group Policy Editor and restart your PC after disabling all UAC policy settings.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Turn Off Third-Party Security Apps
@@ -135,6 +122,19 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Try Installing Software After Clean Booting
 
  Clean booting means disabling all third-party apps and services that start with Windows. This troubleshooting method can prevent software conflicts by eliminating unneeded apps and services running in the background. In this case, a clean boot might disable an app or service that’s hindering the software installation process.
@@ -144,10 +144,10 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-services-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Uninstall Older Software Versions
@@ -159,10 +159,10 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-uninstall-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Your Windows 11/10 Software Installed
@@ -183,22 +183,18 @@ thumbnail: https://thmb.techidaily.com/9c542d2b3f1e08468e3f2c145797e8585ab197016
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-five-star-duo-of-picture-taking-and-musical-integration/"><u>[Updated] Five-Star Duo of Picture Taking & Musical Integration</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-feast-on-a-gallery-ios-top-10-free-stunning-photo-collage-apps/"><u>2024 Approved Feast on a Gallery IOS’ Top 10 FREE, Stunning Photo Collage Apps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-preserve-your-display-win-os-snapshots-explained/"><u>2024 Approved Preserve Your Display Win OS Snapshots Explained</u></a></li>
-<li><a href="https://windows11.techidaily.com/cease-windows-system-notification-for-upgrades/"><u>Cease Windows System Notification for Upgrades</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/compreranimal-webcam-tutorial-achieve-excellent-video-quality-for-2024/"><u>Compreranimal Webcam Tutorial Achieve Excellent Video Quality for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effective-strategies-for-removing-memory-dump-logs-in-windows-11/"><u>Effective Strategies for Removing Memory Dump Logs in Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-se-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/harnessing-the-power-of-microsofts-ai-code-helper/"><u>Harnessing the Power of Microsoft's AI Code Helper</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/legally-spying-on-mobile-phones-your-step-by-step-guide/"><u>Legally Spying on Mobile Phones - Your Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-hello-fingerprint-setup-on-11/"><u>Mastering Windows Hello Fingerprint Setup on 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/no-more-fbm-hurdles-top-windows-troubleshooting-tips/"><u>No More FBM Hurdles: Top Windows Troubleshooting Tips</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/optimize-clarity-mastering-close-up-techniques-in-videoleap/"><u>Optimize Clarity Mastering Close-Up Techniques in Videoleap</u></a></li>
-<li><a href="https://windows11.techidaily.com/precision-tools-for-crafting-custom-windows-filename-dates/"><u>Precision Tools for Crafting Custom Windows Filename Dates</u></a></li>
-<li><a href="https://windows11.techidaily.com/procedures-for-upholding-true-windows-time-values/"><u>Procedures for Upholding True Windows Time Values</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-to-resolving-pin-check-errors-on-windows-devices/"><u>Quick Guide to Resolving Pin Check Errors on Windows Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-clarity-compass-directing-you-through-a-fuzzy-screen-fix-up/"><u>The Clarity Compass: Directing You Through a Fuzzy Screen Fix-Up</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-honor-x9a-frp-by-drfone-android/"><u>The Updated Method to Bypass Honor X9a FRP</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-premier-12-screen-recording-solutions-uncapped-recording/"><u>[New] 2024 Approved Premier 12 Screen Recording Solutions - Uncapped Recording</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-top-8-choices-affordable-open-source-videoconferencing-apps/"><u>[New] 2024 Approved Top 8 Choices Affordable, Open Source Videoconferencing Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-discovering-top-10-sites-where-pristine-images-are-abundant-and-free-for-2024/"><u>[New] Discovering Top 10 Sites Where Pristine Images Are Abundant and Free for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-direct-linkage-bridging-youtube-and-imovie-with-music/"><u>[Updated] 2024 Approved Direct Linkage Bridging YouTube and iMovie with Music</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-x9a-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor X9a Location Settings | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/explaining-and-fixing-blue-screen-errors-in-win1011/"><u>Explaining and Fixing Blue Screen Errors in Win10/11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/y-high-stakes-views-yts-1-to-10-rankings-for-2024/"><u>Hourly High-Stakes Views YT's #1 to #10 Rankings for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-titles-and-sizes-maximizing-click-through-rates-for-2024/"><u>Ideal Titles & Sizes Maximizing Click Through Rates for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-peak-business-sky-storage-for-firms/"><u>In 2024, Peak Business Sky-Storage for Firms</u></a></li>
+<li><a href="https://windows11.techidaily.com/recover-missing-bluetooth-entries-on-windows-system/"><u>Recover Missing Bluetooth Entries on Windows System</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-windows-11-sign-ins-with-blank-screen-fixes/"><u>Reviving Windows 11 Sign-Ins with Blank Screen Fixes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-files-a-deep-dive-into-date-customization/"><u>Windows Files: A Deep Dive Into Date Customization</u></a></li>
 </ul></div>
 

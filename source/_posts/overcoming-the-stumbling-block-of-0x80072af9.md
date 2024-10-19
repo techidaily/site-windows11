@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Stumbling Block of 0X80072AF9
-date: 2024-09-27T23:18:46.148Z
-updated: 2024-10-01T22:00:15.192Z
+date: 2024-10-13T17:47:51.717Z
+updated: 2024-10-19T03:06:30.493Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
  When this error code pops up, check your network stability and internet speed first. If you use a Wi-Fi connection, try switching to a wired connection or ethernet. You could also try resetting your router for better connectivity.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Update Windows
@@ -63,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
  Alternatively, open the **Settings** app by pressing **Win + I.** Select **Update and Security > Troubleshoot** and run the troubleshooter.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Check And Update Microsoft Defender
 
  If you encounter this error and the program does not update automatically, [manually updating Windows Defender](https://www.makeuseof.com/microsoft-defender-manually-update/#:~:text=Launch%20Windows%20Security%20through%20the,the%20latest%20updates%20from%20Microsoft.) is worth a shot. You can either do this via the web page or by using PowerShell.
@@ -78,13 +71,20 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
 ![Screenshot of Windows Security Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-windows-security-settings-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After this, search for the latest security intelligence updates for Microsoft Defender on the [official Defender website](https://www.microsoft.com/en-us/wdsi/defenderupdates). This page gives you information that you can compare with what you received previously. If the versions do not match, proceed with the manual updates.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall Any External Antivirus Software
@@ -98,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
  Running the command prompt as an administrator allows you to resolve many system issues, including the 0x80072AF9 error. You can use it to run the System File Checker (SFC), which helps you check for corrupt system files and attempts to repair them.
 
  If you don't know how to do this, check out [how to run the System File Checker on Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/) for a full list of instructions.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Clear Cache and Junk Files
 
@@ -126,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
  The refresh duration depends on your computer’s speed and how much data the computer retains. When the refresh completes, you can reinstall all previous applications, including the latest version of Microsoft Defender.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fixing the 0x80072AF9 Error Code Made Easy
 
  These solutions offer a range of options, from simple troubleshooting steps to more advanced techniques like refreshing your computer. In any case, selecting the most suitable approach depends on if there are any underlying issues that the simple techniques cannot bypass.
@@ -143,21 +143,18 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-integrating-luts-into-film-colorwork/"><u>[New] 2024 Approved Integrating Luts Into Film Colorwork</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-color-consistency-comparing-srgb-and-rgb-formats/"><u>[Updated] Color Consistency Comparing Srgb and Rgb Formats</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-navigating-zoom-settings-for-top-notch-audio-capture-for-2024/"><u>[Updated] Navigating ZOOM Settings for Top-Notch Audio Capture for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-profitable-video-content-starting-and-scaling-up/"><u>[Updated] Profitable Video Content Starting and Scaling Up</u></a></li>
-<li><a href="https://windows11.techidaily.com/brighten-up-a-step-by-step-guide-to-an-eye-catching-cursor/"><u>Brighten Up: A Step-by-Step Guide to an Eye-Catching Cursor</u></a></li>
-<li><a href="https://windows11.techidaily.com/choosing-wisely-windows-terminal-as-your-primary-cli/"><u>Choosing Wisely: Windows Terminal as Your Primary CLI</u></a></li>
-<li><a href="https://windows11.techidaily.com/decrypt-the-mystery-of-win11-blue-screen-with-11-hacks/"><u>Decrypt the Mystery of Win11 Blue Screen with 11 Hacks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expertise-in-capturing-high-quality-verbal-notes/"><u>Expertise in Capturing High-Quality Verbal Notes</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-grayed-out-memory-protection-in-win11-update/"><u>Fixing Grayed-Out Memory Protection in Win11 Update</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-poco-x5-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/global-mouse-mastery-using-powertoys-innovative-features/"><u>Global Mouse Mastery Using PowerToys' Innovative Features</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagram-innovations-enhancers-that-excite/"><u>In 2024, Instagram Innovations Enhancers that Excite</u></a></li>
-<li><a href="https://facebook.techidaily.com/scheduling-success-uncover-the-best-5-free-facebook-timing-methods/"><u>Scheduling Success: Uncover the Best 5 Free Facebook Timing Methods</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-windows-11-experience-for-mac-using-parallels/"><u>Seamless Windows 11 Experience for Mac, Using Parallels</u></a></li>
-<li><a href="https://windows11.techidaily.com/stop-wired-keyboard-interaction-for-windows-system/"><u>Stop Wired Keyboard Interaction for Windows System</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elevating-your-ig-aesthetics-with-top-10-grid-builders/"><u>[New] In 2024, Elevating Your IG Aesthetics with Top 10 Grid Builders</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-how-to-effortlessly-record-movies-on-win10/"><u>[New] In 2024, How to Effortlessly Record Movies on Win10</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-embrace-the-thrill-how-to-engage-in-tiktok-livestreams/"><u>[Updated] 2024 Approved Embrace the Thrill How to Engage in TikTok Livestreams</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-top-camera-brands-for-future-musical-video-production/"><u>2024 Approved Top Camera Brands for Future Musical Video Production</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easy-installation-tutorial-for-handbrake-libdvdcss-compatibility-on-mac-osx-big-surwindows-10-illustrated-steps-to-get-started/"><u>Easy Installation Tutorial for HandBrake Libdvdcss Compatibility on Mac OSX Big Sur/Windows 10 – Illustrated Steps to Get Started</u></a></li>
+<li><a href="https://win-answers.techidaily.com/navigating-through-palworlds-session-search-errors-strategies-for-immediate-fixes-and-prevention/"><u>Navigating Through Palworld's Session Search Errors: Strategies for Immediate Fixes and Prevention</u></a></li>
+<li><a href="https://windows11.techidaily.com/prolonging-windows-space-without-deletion-risks/"><u>Prolonging Windows Space, Without Deletion Risks</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-microsoft-store-apps-windows-11s-guide-to-fixes/"><u>Reinstating Microsoft Store Apps: Windows 11'S Guide to Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-invalid-profiles-on-microsoft-oses-win1011-fix/"><u>Resolving Invalid Profiles on Microsoft OSes: Win10/11 Fix</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-load-error-in-windows-store-application/"><u>Reversing 'Load Error' In Windows Store Application</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-how-to-connect-your-bose-soundlink-devices-seamlessly/"><u>Ultimate Guide: How To Connect Your Bose SoundLink Devices Seamlessly</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unveiling-the-hidden-recovering-exclusive-snap-content-for-2024/"><u>Unveiling the Hidden Recovering Exclusive Snap Content for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/wintoys-decoded-an-introduction-to-a-pivotal-windows-app/"><u>WinToys Decoded: An Introduction to a Pivotal Windows App</u></a></li>
 </ul></div>
 

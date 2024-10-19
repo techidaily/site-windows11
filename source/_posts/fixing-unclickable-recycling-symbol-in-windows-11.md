@@ -1,7 +1,7 @@
 ---
 title: Fixing Unclickable Recycling Symbol in Windows 11
-date: 2024-10-11T18:00:36.916Z
-updated: 2024-10-12T19:15:13.789Z
+date: 2024-10-17T20:45:18.173Z
+updated: 2024-10-18T16:59:36.909Z
 tags:
   - windows10
   - windows11
@@ -60,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
  If you can’t access Group Policy Editor or if the issue persists, you can use the Registry Editor to fix this problem.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Modify the Recycle Bin Registry Settings
@@ -83,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 5. If it does not exist, you’ll need to create a new value. To do this, right-click on the **NonEnum** subkey folder in the left pane and select **New > DWORD (32-bit) Value**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Rename the value as **{645FF040-5081-101B-9F08-00AA002F954E}**.
@@ -95,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 8. Type **0** in the Value data field and click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9. Close Registry Editor and restart your computer. Sometimes, you’ll need to restart your computer for the new registry modifications to work.
@@ -106,10 +106,10 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
  If the issue persists, try to [create a new user account with administrative rights](https://www.makeuseof.com/windows-11-create-local-user-account/), [perform a system restore](https://www.makeuseof.com/use-system-restore-windows/), or [repair corrupted Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/).
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Access to the Recycle Bin Desktop Icon Setting Again
@@ -128,20 +128,19 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-setting-up-video-size-on-youtube-complete-tutorial/"><u>[New] In 2024, Setting Up Video Size on YouTube Complete Tutorial</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-crafting-a-pathway-to-instagram-affordability-through-partnerships-for-2024/"><u>[Updated] Crafting a Pathway to Instagram Affordability Through Partnerships for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-premiered-top-8-crowd-pleasing-ae-setups/"><u>[Updated] Premiered Top 8 Crowd-Pleasing AE Setups</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-key-fixes-to-stop-rpc-failures-in-windows/"><u>5 Key Fixes to Stop RPC Failures in Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/capacity-limit-how-many-vids-in-128gb/"><u>Capacity Limit How Many Vids in 128GB?</u></a></li>
-<li><a href="https://windows11.techidaily.com/defining-windows-corners-straighten-them-out/"><u>Defining Windows' Corners: Straighten Them Out</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/enable-vlcs-webcam-recording-for-high-quality-footage-for-2024/"><u>Enable VLC's Webcam Recording for High-Quality Footage for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/expanding-linux-horizons-through-windows-apps/"><u>Expanding Linux Horizons Through Windows Apps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-depth-vita-video-editing-analysis-and-step-by-step-guide-for-2024/"><u>In-Depth Vita Video Editing Analysis & Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transformation-en-noir-et-blanc-techniques-de-retouche-dimage/"><u>Transformation en Noir Et Blanc : Techniques De Retouche D'Image</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-xiaomi-redmi-note-12-proplus-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Xiaomi Redmi Note 12 Pro+ 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-the-red-x-on-your-pcs-file-system/"><u>Understanding the Red X on Your PC's File System</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-speed-tackling-torrent-stagnation-in-windows/"><u>Unlocking Speed: Tackling Torrent Stagnation in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-the-cause-of-unregistered-packages-in-windows/"><u>Unraveling the Cause of Unregistered Packages in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-tips-implementing-scheduled-file-purging/"><u>Win11 Tips: Implementing Scheduled File Purging</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-discover-the-best-photo-frame-software/"><u>[New] 2024 Approved Discover the Best Photo Frame Software</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/oosting-youtube-rankings-with-top-seo-practices-1-11/"><u>[New] Boosting YouTube Rankings with Top SEO Practices (1-11)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-clean-up-your-figma-compositions-effectively/"><u>[New] How To Clean Up Your Figma Compositions Effectively</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-yt-masterpieces-for-igtv-showcase/"><u>Crafting YT Masterpieces for IGTV Showcase</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-tips-for-erasing-with-photoshop/"><u>Essential Tips for Erasing with Photoshop</u></a></li>
+<li><a href="https://windows11.techidaily.com/expose-the-invisible-uncover-windows-11s-concealed-settings/"><u>Expose the Invisible: Uncover Windows 11'S Concealed Settings</u></a></li>
+<li><a href="https://app-tips.techidaily.com/harnessing-artificer-networks-for-business-success-the-rise-of-ai-powered-agents/"><u>Harnessing Artificer Networks for Business Success - The Rise of AI-Powered Agents</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-hide-the-language-bar-from-the-windows-11-taskbar/"><u>How to Hide the Language Bar From the Windows 11 Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reactivate-a-frozen-qbittorrent-tracker/"><u>How to Reactivate a Frozen qBittorrent Tracker</u></a></li>
+<li><a href="https://windows11.techidaily.com/running-the-troubleshooter-in-windows-settings/"><u>Running the Troubleshooter in Windows Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-up-safe-browsing-for-kids-on-windows-11/"><u>Setting Up Safe Browsing for Kids on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-your-files-using-powerrename-in-powertoys/"><u>Streamline Your Files: Using PowerRename in PowerToys</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-seamless-interweaving-of-folders-and-files/"><u>The Seamless Interweaving of Folders & Files</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/transform-your-bedtime-routine-with-advanced-gadgets-designed-for-unmatched-relaxation/"><u>Transform Your Bedtime Routine With Advanced Gadgets Designed for Unmatched Relaxation</u></a></li>
 </ul></div>
 

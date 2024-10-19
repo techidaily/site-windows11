@@ -1,7 +1,7 @@
 ---
 title: Tackling Fall Guys Disconnect in Windows Environment
-date: 2024-10-05T20:58:03.887Z
-updated: 2024-10-12T22:58:40.040Z
+date: 2024-10-15T16:53:17.936Z
+updated: 2024-10-18T22:55:33.624Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
  f manual troubleshooting makes no difference, consider contacting your ISP.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Close Network Hogging Applications from Background
@@ -60,13 +60,20 @@ thumbnail: https://thmb.techidaily.com/010139d6077f90333f3025af8c182332c9900266f
 
 ![End high network apps in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/end-high-network-apps.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, right-click on all such applications, and choose**End task.** After that, restart Fall Guys and check if the problem persists.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Temporarily Disable the Windows Firewall
@@ -82,6 +89,13 @@ Here's how you can do that:
 
 ![Turn off firewall option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/turn-off-firewall.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, check if the problem continues. If not, enable the Windows Defender Firewall and then add Fall Guys to the Windows Firewall exception list. Here's how:
 
 1. In the Windows Search, type**Allow an app through Windows Firewall** and press**Enter** .
@@ -89,13 +103,6 @@ Here's how you can do that:
 3. Click**Browse** from the window that crops up.  
 ![Browse option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/browse-option.jpg)
 4. Go to the Fall Guys installation folder. It'd be**C:\\Program Files\\Epic Games\\FallGuys** if you kept the same target location during installation.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Select**FallGuys\_client.exe** and click**Add.**  
 ![FallGuys file in browse option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/fallguys-file.jpg)
@@ -111,10 +118,10 @@ Here's how you can do that:
 ![Disabling proxy command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/disabling-proxy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Connect to a Different DNS Server
@@ -134,6 +141,13 @@ Follow the below steps to change to Google DNS:
 7. If you're on IPv6, type**2001:4860:4860::8888** in the**Preferred DNS server** and**2001:4860:4860::8844** in the**Alternate DNS** server.  
 ![Editing IPv6 properties in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/editing-ipv6-properties.jpg)
 8. Click**OK.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Edit the Fall Guys Engine.ini File
 
@@ -168,21 +182,7 @@ Launch Fall Guys and check if the problem persists.
 2. Type**netsh winsock reset** and press**Enter** .  
 ![Reset Winsock command in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/reset-winsock-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now, restart your computer and check if the problem is fixed.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Your Fall Guys Connection Errors, Fixed
 
@@ -203,19 +203,20 @@ Now, restart your computer and check if the problem is fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-unveiling-potential-pro-guide-to-crafting-youtube-videos/"><u>[New] 2024 Approved Unveiling Potential Pro Guide to Crafting YouTube Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-quick-start-installing-vrecorder-effortlessly/"><u>[New] Quick Start Installing VRecorder Effortlessly</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-fix-guide-adding-a-flip-tone-to-your-pcs-vocal-array/"><u>[New] Quick-Fix Guide Adding a Flip Tone to Your PC's Vocal Array</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-ultimate-gaming-lineup-bike-titles/"><u>[Updated] 2024 Approved Ultimate Gaming Lineup Bike Titles</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-flaunt-your-funny-side-the-art-of-using-cartoon-snaps-on-snapchat/"><u>[Updated] Flaunt Your Funny Side The Art of Using Cartoon Snaps on Snapchat</u></a></li>
-<li><a href="https://windows11.techidaily.com/7-festive-tweaks-to-personalize-your-windows-11/"><u>7 Festive Tweaks to Personalize Your Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-abrupt-game-closure-in-roblox-fix-tips-for-pc-users/"><u>Avoiding Abrupt Game Closure in Roblox: Fix Tips for PC Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-productivity-expert-guide-to-using-toolbar-on-w11-winpcm/"><u>Elevate Your Productivity: Expert Guide to Using Toolbar on W11 WinPCM</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-13-pro-max-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and Apple iPhone 13 Pro Max without Apple Account</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Realme 10T 5G? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-skies-with-style-a-microsoft-flight-simulator-x-gold-version-breakdown-is-it-worth-your-investment/"><u>Navigating Skies with Style: A Microsoft Flight Simulator X Gold Version Breakdown - Is It Worth Your Investment?</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-common-errors-in-office-app-activation-on-pc/"><u>Resolving Common Errors in Office App Activation on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-virtual-potential-hyper-v-for-windows-11-users/"><u>Unlocking Virtual Potential: Hyper-V for Windows 11 Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-lgs-gaming-monitor-review-the-future-of-4k-freesync/"><u>[Updated] In 2024, LG’s Gaming Monitor Review - The Future of 4K FreeSync</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oneplus-open-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/ai-integration-for-vr-marketplaces-for-2024/"><u>AI Integration for VR Marketplaces for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/oth-sides-right-expert-tips-on-crafting-compelling-pov-based-youtube-reaction-videos-2-pov-perspective/"><u>Get Both Sides Right – Expert Tips on Crafting Compelling POV-Based YouTube Reaction Videos (2 POV Perspective)</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-avoid-auto-snip-from-prtscreen-keypress-in-11-windows/"><u>How to Avoid Auto-Snip From PrtScreen Keypress in 11 Windows</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/proactive-battery-status-enabling-full-charge-alerts-in-windows-11/"><u>Proactive Battery Status: Enabling Full Charge Alerts in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/sidestep-denied-login-issues-in-windows-with-easy-fixes/"><u>Sidestep Denied Login Issues in Windows with Easy Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/strengthening-windows-11-enhanced-mobile-accessibility/"><u>Strengthening Windows 11: Enhanced Mobile Accessibility</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-usb-non-attachment-problems-in-virtualbox-on-your-pc/"><u>Tackling USB Non-Attachment Problems in VirtualBox on Your PC</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-how-to-play-video-in-reverse-using-final-cut-pro-2023-update/"><u>Updated In 2024, How to Play Video in Reverse Using Final Cut Pro 2023 Update</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-tivo-vs-comcast-who-wins-the-dvr-battle/"><u>Updated TiVo vs Comcast, Who Wins the DVR Battle?</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11-guide-nullify-local-account-security-prompts/"><u>Win 11 Guide: Nullify Local Account Security Prompts</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-and-10-home-enabling-administrator-access/"><u>Win11 & 10 Home: Enabling Administrator Access</u></a></li>
 </ul></div>
 

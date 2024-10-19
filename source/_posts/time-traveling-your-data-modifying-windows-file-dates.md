@@ -1,7 +1,7 @@
 ---
 title: "Time Traveling Your Data: Modifying Windows File Dates"
-date: 2024-10-09T02:40:56.569Z
-updated: 2024-10-13T00:02:20.528Z
+date: 2024-10-17T16:56:48.017Z
+updated: 2024-10-19T00:46:15.096Z
 tags:
   - windows10
   - windows11
@@ -74,6 +74,13 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 
  Windows makes real-time changes to attributes. Therefore, don't modify or access the file after making changes since it will change the modified and accessed dates again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Modify the Date Created, Date Accessed, and Date Modified Using Attribute Changer
 
  The Attribute Changer app is one of the [third-party attribute changer apps](https://www.makeuseof.com/apps-change-created-modified-date-windows/) that lets users change file attributes, including when a file was created, modified, or accessed. If changing the file attributes using PowerShell is challenging for you, here are the steps to modify them using this third-party app:
@@ -88,6 +95,13 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 ![opening the attribute changer app from context menu of a file in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/opening-the-attribute-changer-app-from-context-menu-of-a-file-in-windows.jpg)
 2. Once the application opens, check the box beside **Modify date and time stamps** to make the date field editable.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Change the date and time when a file was first created and the last time you accessed or modified it according to your preference.  
 ![changing the attributes of a file from the atribute changer app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/changing-the-attributes-of-a-file-from-the-atribute-changer-app.jpg)
 4. Once you've made your changes, click **Apply** to make them permanent.
@@ -99,16 +113,10 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
  Using third-party tools to modify attributes requires you to grant apps permission to access the file. Therefore, if the documents you want to modify the dates for are confidential, don't use third-party apps to change the attributes; instead, use the official methods offered by Windows.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Remove Other File Attributes Using File Explorer
@@ -122,34 +130,14 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 ![Opening the Window to Remove the Personal Information of Text Document in the Details Tab of Document Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/1-Removing-the-Personal-Information-of-Text-Document-in-the-Details-Tab-of-Document-Properties.jpg)
 5. To remove all possible properties automatically, check the circle beside **Create a copy with all possible properties removed**. This will create a duplicate of the file at the exact location after deleting all possible attributes.  
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Removing possible file attributes in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/removing-possible-file-attributes-in-file-explorer.jpg)
 6. To remove selected properties, check the circle beside **Remove the following properties from this file**, select the attributes you want to remove, and click **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Modify Your File's Attributes With Ease
@@ -172,16 +160,20 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-perfecting-slow-motion-cinematography-for-social-media-engagement-on-instagram/"><u>[New] 2024 Approved Perfecting Slow Motion Cinematography for Social Media Engagement on Instagram</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-precision-game-recording-in-apex-legends-2023-edition/"><u>[Updated] Precision Game Recording in Apex Legends, 2023 Edition</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/aerial-vistas-at-their-best-xiaomi-drone-4k-analysis/"><u>Aerial Vistas at Their Best – Xiaomi Drone 4K Analysis</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-honor-100-pro-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Honor 100 Pro Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722877701830-iphone-2023-what-you-need-to-know-about-the-expected-pricing-launch-date-and-specs-updates/"><u>IPhone 2023 - What You Need to Know About the Expected Pricing, Launch Date, and Specs Updates!</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailoring-your-pcs-protection-the-firewall-guide/"><u>Tailoring Your PC's Protection: The Firewall Guide</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/tips-for-perfecting-your-talking-face-content-a-complete-guide-for-2024/"><u>Tips for Perfecting Your Talking Face Content A Complete Guide for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-reviews-mastering-lost-files-with-recuvas-powerful-undelete-features/"><u>Ultimate Reviews: Mastering Lost Files with Recuva's Powerful Undelete Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-to-overcome-directdraw-challenges-in-11-series-windows/"><u>Unveiling the Secrets to Overcome DirectDraw Challenges in 11-Series Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/window-brightness-prodigies-a-list-of-premier-tools-for-multiscreeners/"><u>Window Brightness Prodigies: A List of Premier Tools for Multiscreeners</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-at-workplace-presentations-fixing-powerpoints-print-problems-in-windows/"><u>Winning at Workplace Presentations: Fixing PowerPoint's Print Problems in Windows</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-how-vr-revolutionizes-movie-watching/"><u>[New] In 2024, How VR Revolutionizes Movie-Watching</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-skyrocketing-up-the-rankings-hit-10k-views-to-unlock-partnership/"><u>[New] Skyrocketing Up the Rankings - Hit 10K Views to Unlock Partnership</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-step-by-step-backdrop-be-gone-guide-for-images/"><u>[New] Step-by-Step Backdrop Be Gone Guide for Images</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-efficiency-hotkeys-for-instantaneous-windows-redos/"><u>Boost Efficiency: Hotkeys for Instantaneous Windows Redos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/capture-king-review-the-screen-recorder-showdown/"><u>Capture King Review The Screen Recorder Showdown</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/enhancing-your-ig-presence-the-ultimate-tool-list-for-2024/"><u>Enhancing Your IG Presence The Ultimate Tool List for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/hidden-window-11-customization-marvels/"><u>Hidden Window 11 Customization Marvels</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correctly-evaluate-processor-load-using-task-manager/"><u>How to Correctly Evaluate Processor Load Using Task Manager</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-switch-off-mobility-features-on-win-11/"><u>How To Switch Off Mobility Features on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-heic-jpeg-conversions-on-windows/"><u>Mastering HEIC-JPEG Conversions on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/reactivating-defenders-a-step-by-step-guide-for-five-common-issues/"><u>Reactivating Defenders: A Step-by-Step Guide for Five Common Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-realign-file-history-configurations-in-windows/"><u>Steps to Realign File History Configurations in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-switch-multi-streamers/"><u>The Ultimate Guide to Switch Multi-Streamers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/uncover-the-essentials-of-blurring-faces-using-picscanner/"><u>Uncover the Essentials of Blurring Faces Using PicScanner</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-install-kinemaster-on-mac-a-comprehensive-guide/"><u>Updated 2024 Approved Install KineMaster on Mac A Comprehensive Guide</u></a></li>
 </ul></div>
 

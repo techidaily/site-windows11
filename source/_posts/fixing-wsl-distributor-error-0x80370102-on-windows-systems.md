@@ -1,7 +1,7 @@
 ---
 title: Fixing WSL Distributor Error 0X80370102 on Windows Systems
-date: 2024-10-06T00:45:57.827Z
-updated: 2024-10-12T20:26:20.305Z
+date: 2024-10-17T18:32:37.055Z
+updated: 2024-10-18T16:32:37.830Z
 tags:
   - windows10
   - windows11
@@ -49,10 +49,10 @@ Here is how you can enable Hyper-V on your PC:
 3. Click on**Turn Windows Feature on or off** in the left pane.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Turn Windows features on or off option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-windows-features-on-or-off.jpg)
@@ -77,13 +77,20 @@ Here is how you can enable Hyper-V on your PC:
 9. Wait for the command to execute, and then head over to the**Hyper-V requirements** section. You should be able to see if the Virtualization is enabled from there.  
 ![Check Hyper-V requirements in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hyper-v-requirements.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the service is disabled,[enabling the Hyper-V technology on Windows](https://www.makeuseof.com/windows-11-enable-hyper-v/) should fix the problem for you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Restart the LxssManager Service
@@ -102,26 +109,20 @@ Here is how you can do that:
 5. Now, click on the**Stop** button, wait for a few seconds, and then hit**Start** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Click on the Start button in the Properties dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/stop-button.jpg)
 6. Once the service is restarted, check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Enable Nested Virtualization and Change the RAM Settings
@@ -142,13 +143,6 @@ Set-VMProcessor <VMName> -ExposeVirtualizationExtensions $true
 7. Now, increase the Startup RAM value by double and uncheck the box for**Enable Dynamic Memory** .  
 ![Modify the memory](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/configure-hyper-v-dynamic-memory.jpg)
 8. Click**Apply** \>**OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9. Now, right-click on your virtual machine again and choose**Connect** .
 10. Let the system restart and try installing/running Ubuntu again.
@@ -172,20 +166,22 @@ Set-VMProcessor <VMName> -ExposeVirtualizationExtensions $true
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-deep-dive-into-the-core-functionalities-of-zdsoft-for-2024/"><u>[New] Deep Dive Into the Core Functionalities of ZDSoft for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-beyond-popularity-metrics-understanding-trillers-distinct-features/"><u>2024 Approved Beyond Popularity Metrics Understanding Triller's Distinct Features</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-how-to-remove-red-eye-from-photos-on-iphone-free/"><u>2024 Approved How to Remove Red Eye From Photos on iPhone [Free]</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/archival-artwork-creative-commons-haven/"><u>Archival Artwork Creative Commons Haven</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-fixing-high-resource-usage-by-service-host-on-win10-pcs/"><u>Comprehensive Guide to Fixing High Resource Usage by Service Host on Win10 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-windows-extract-error-1152-quickly/"><u>Eliminating Windows Extract Error 1152 Quickly</u></a></li>
-<li><a href="https://windows11.techidaily.com/fast-track-installation-of-ms-office-works-on-w11/"><u>Fast-Track Installation of MS Office Works on W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-correct-ipadiphone-images-not-displaying-in-windows-11-environment/"><u>How to Correct iPad/iPhone Images Not Displaying in Windows 11 Environment</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-a-lost-apple-iphone-13-mini-for-free-drfone-by-drfone-virtual-ios/"><u>How to Track a Lost Apple iPhone 13 mini for Free? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/initiating-printer-commands-via-edge-defender-smartscreen/"><u>Initiating Printer Commands via Edge Defender SmartScreen</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-directx-12-without-onboard-graphics/"><u>Navigating Through DirectX 12 Without Onboard Graphics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/realize-creative-possibilities-with-openais-api-excellence/"><u>Realize Creative Possibilities with OpenAI's API Excellence</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-inserting-animated-gifs-into-instagram-replies/"><u>Step-by-Step Tutorial: Inserting Animated GIFs Into Instagram Replies</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-overcome-run-as-command-issues/"><u>Strategies to Overcome 'Run As' Command Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/wsappx-overview-strategies-for-minimizing-system-resource-drainage-on-your-computer/"><u>WSAPPX Overview: Strategies for Minimizing System Resource Drainage on Your Computer</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-deciphering-the-art-of-personalized-playlist-curation-for-youtube/"><u>[New] In 2024, Deciphering the Art of Personalized Playlist Curation for YouTube</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-audience-expansion-masterclass-skyrocketing-your-youtube-numbers/"><u>[Updated] Audience Expansion Masterclass Skyrocketing Your Youtube Numbers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-basics-of-aspect-ratio-compliance-on-twitter/"><u>[Updated] In 2024, The Basics of Aspect Ratio Compliance on Twitter</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enable-mouse-clicklock-to-work-easier-on-windows/"><u>How to Enable Mouse ClickLock to Work Easier on Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-mastering-essential-ad-copy-frameworks-on-facebook/"><u>In 2024, Mastering Essential Ad Copy Frameworks on Facebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-impressive-hdr-photography-for-portraits/"><u>In 2024, Unveiling Impressive HDR Photography for Portraits</u></a></li>
+<li><a href="https://windows11.techidaily.com/jump-over-compatibility-obstacles-with-these-simple-fixes/"><u>Jump Over Compatibility Obstacles with These Simple Fixes.</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-free-mov-video-rotation-software-top-picks/"><u>New 2024 Approved Free MOV Video Rotation Software Top Picks</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-start-windows-os-on-your-playstation-steam-device/"><u>Quick Start: Windows OS on Your PlayStation Steam Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-any-conflicts-between-wsl-subsystem-and-win-11-upgrade/"><u>Resolving Any Conflicts Between WSL Subsystem and Win 11 Upgrade</u></a></li>
+<li><a href="https://windows11.techidaily.com/say-no-more-to-failed-uploads-in-google-chrome-for-your-pc-win/"><u>Say No More to Failed Uploads in Google Chrome for Your PC, WIN</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-0x80072af9-error-on-windows-pcs/"><u>Troubleshooting 0X80072AF9 Error on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-administrative-potential-with-advanced-task-management-in-win11/"><u>Unleash Administrative Potential with Advanced Task Management in Win11</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-animation-made-easy-top-software-for-beginners-intermediate-and-advanced-users/"><u>Updated Animation Made Easy Top Software for Beginners, Intermediate, and Advanced Users</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11-hd-driver-harmony-achieved/"><u>Win11 HD Driver Harmony Achieved</u></a></li>
+<li><a href="https://windows11.techidaily.com/workaround-for-automatic-network-proxy-failure-in-windows/"><u>Workaround for Automatic Network Proxy Failure in Windows</u></a></li>
 </ul></div>
 

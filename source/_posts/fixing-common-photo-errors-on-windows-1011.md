@@ -1,7 +1,7 @@
 ---
 title: Fixing Common Photo Errors on Windows 10/11
-date: 2024-09-05T02:10:10.615Z
-updated: 2024-09-06T02:10:10.615Z
+date: 2024-10-17T21:14:22.653Z
+updated: 2024-10-18T19:13:34.280Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/8fb2d0d577922e31978350cb180e7bc0e8d3ea4b5
 
  Our guide on [how to reset a Window app](https://www.makeuseof.com/windows-reset-app/) includes instructions for applying this potential fix in Windows 11 and 10\.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Create a New Camera Roll Folder
 
  The “photo capture file creation failed” error can occur because the Camera Roll folder has been deleted. Users confirm creating a new Camera Roll folder can fix this issue when the old one has been deleted. You can create a new Camera Roll folder like this:
@@ -51,7 +58,21 @@ thumbnail: https://thmb.techidaily.com/8fb2d0d577922e31978350cb180e7bc0e8d3ea4b5
 ![The New > Folder options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/new-folder-options.jpg)
 4. Input **Camera Roll** to be the new folder’s name and press **Enter**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Also, check if the Camera Roll folder has been moved out of the Pictures folder to another directory. If it has, moving Camera Roll back into the default Pictures location could also resolve this issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Set a Different Camera Roll Library Location
 
@@ -70,36 +91,27 @@ thumbnail: https://thmb.techidaily.com/8fb2d0d577922e31978350cb180e7bc0e8d3ea4b5
 3. Click the **Include folder** button.  
 ![The Include folder button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/include-folder-button.jpg)
 4. Select the Photo folder in the **Library locations** box.
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click **Save set** **location**.  
 ![The Set save location button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/set-save-location-button.jpg)
 6. Select **Apply** to set the new save location.
+
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 7. Click on **OK** to exit the **Camera Roll Properties** window.
 
  Some users also say that restoring default locations in the **Library** tab worked for them. To do that, click the **Restore Defaults** button in the Camera Roll Properties window.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Change Where Your Photos and Videos Get Saved
 
@@ -111,12 +123,6 @@ thumbnail: https://thmb.techidaily.com/8fb2d0d577922e31978350cb180e7bc0e8d3ea4b5
 4. Then click the **New** **photos and videos will be saved** to option.  
 ![The default save location settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/default-save-location-settings.jpg)
 5. Select a different drive or partition to save images to.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click **Apply** to set the new location.
 
  If you don’t have any alternative place for saving photos, you could [set up a new drive partition with Disk Management](https://www.makeuseof.com/how-to-partition-hard-drive/). Then select to save photos to the new drive partition within Settings.
@@ -141,49 +147,30 @@ thumbnail: https://thmb.techidaily.com/8fb2d0d577922e31978350cb180e7bc0e8d3ea4b5
 1. Click **Find Next** to highlight the Camera app in the list.  
 ![PowerShell's find tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-find-search-tool.jpg)
 2. Then copy the app’s PackageFullName ID by selecting its text and pressing **Ctrl** \+ **C**. The PackageFullName will be something like Microsoft.WindowsCamera\_2023.2305.4.0\_x64\_\_8wekyb3d8bbwe, but it can vary depending on the app version.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Input and execute this command with the PackageFullName included:  
 `Remove-AppxPackage PackageFullName`  
 ![The Remove-AppxPackage command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/remove-apppackage-command.jpg)
 4. Exit PowerShell and open this [Windows Camera page](https://apps.microsoft.com/store/detail/windows-camera/9WZDNCRFJBBG) on the Microsoft Store.
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click **Get in Store app** and **Open in Microsoft Store** app to access an installation option.  
 ![The Windows Camera app page on MS Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-windows-camera-app.jpg)
 6. Press **Get** to reinstall Windows Camera.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You will need to replace **PackageFullName** in the command specified above with the actual package name. So, the PowerShell command should look more like this:
 
 `Remove-AppxPackage Microsoft.WindowsCamera_2023.2305.4.0_x64__8wekyb3d8bbwe`
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Get Snapping With the Windows Camera App Again
 
  The “photo capture file creation failed” error is quite a common Windows Camera app file-saving error. Lots of users have remedied that Camera error with the potential fixes outlined in this guide.
 
  The code’s error message says, “Sorry, we weren’t able to save the photo.” As you might expect, the Camera app won't save any new photos when this error appears. As such, this is how you can fix the “photo capture file creation failed” error on Windows.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -191,3 +178,25 @@ thumbnail: https://thmb.techidaily.com/8fb2d0d577922e31978350cb180e7bc0e8d3ea4b5
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-transform-the-mundane-into-stunning-create-with-our-video-templates/"><u>[New] 2024 Approved Transform the Mundane Into Stunning Create with Our Video Templates</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-create-impactful-valorant-thumbnails-a-compreayers-guide/"><u>[Updated] 2024 Approved How to Create Impactful Valorant Thumbnails A Compreayer's Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-compre-written-in-the-stars-mastering-your-laptops-touchscreen-precision/"><u>A Compre Written in the Stars: Mastering Your Laptop’s Touchscreen Precision</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-fresh-window-on-computers-after-windows-11/"><u>A Fresh Window on Computers: After Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-complications-resetting-terminal-on-win11/"><u>Avoid Complications: Resetting Terminal on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-performance-with-windows-11-power-options/"><u>Boost Performance with Windows 11 Power Options</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-productivity-with-permanent-windows-terminal-admin-entry/"><u>Boost Productivity with Permanent Windows Terminal Admin Entry</u></a></li>
+<li><a href="https://windows11.techidaily.com/cleanse-your-screen-history-3-strategies/"><u>Cleanse Your Screen History - 3 Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/compatible-drawing-tools-for-windows-not-procreate/"><u>Compatible Drawing Tools for Windows, Not Procreate</u></a></li>
+<li><a href="https://windows11.techidaily.com/determining-public-ip-with-system-commands-windows/"><u>Determining Public IP with System Commands, Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-solutions-why-is-my-genshin-impact-game-not-starting/"><u>Easy Solutions: Why Is My Genshin Impact Game Not Starting?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/embrace-a-healthier-lifestyle-why-fitbit-sense-excels-over-apple-watch/"><u>Embrace a Healthier Lifestyle: Why Fitbit Sense Excels Over Apple Watch</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-novice-to-expert-a-journey-with-chatgpt-api/"><u>From Novice to Expert: A Journey with ChatGPT API</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-realme-10t-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Realme 10T 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-3-easy-ways-to-boosterincrease-volume-on-windows-for-free/"><u>New In 2024, 3 Easy Ways to Booster/Increase Volume on Windows for Free</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-razer-firefly-v2-pro-elevate-your-gameplay-with-high-quality-led-illuminated-gaming-mouse-pad/"><u>Review of Razer Firefly V2 Pro: Elevate Your Gameplay with High-Quality LED-Illuminated Gaming Mouse Pad</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-realme-narzo-n55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Realme Narzo N55 | Dr.fone</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Error Code 0X80073CF3 on Microsoft Store
-date: 2024-10-10T00:05:35.812Z
-updated: 2024-10-12T21:27:34.048Z
+date: 2024-10-11T23:08:04.350Z
+updated: 2024-10-19T01:56:53.245Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 ![Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-store-apps.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Clear the Microsoft Store’s Cache
@@ -53,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 
 ![The wsreset Run command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/wsreset-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Reset the Microsoft Store App
 
  Windows Settings also includes a **Reset** option for the Microsoft Store. Selecting **Reset** is a similar fix to running the wsreset command, but it’s a more general option for clearing all Microsoft Store’s data. As such, if the wsreset command is ineffective, try performing a reset instead. You can apply this solution by following the instructions within our guide on [how to reset apps in Windows](https://www.makeuseof.com/windows-reset-app/).
@@ -67,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 ![The Repair and Reset buttons for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-reset-and-repair-buttons.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Repair the Gaming Services App
@@ -80,6 +73,19 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
  If you don’t have the Gaming Services app, you may need it to download and install certain games from the Microsoft Store without issues. So, try downloading and installing Gaming Services from the Microsoft Store to fix error 0x80073CF3\. Open this Gaming Services Microsoft Store page and click **Get in Store app** \> **Open Microsoft Store**. Select **Get** to install the app.
 
 ![The Gaming Services app page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-gaming-services-app-page.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Turn Off Any Active Antivirus Apps
 
@@ -91,18 +97,18 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 
 ![The real-time protection setting for Microsoft Defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/real-time-protection-setting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Set Windows to Perform a Clean Boot
 
  The description for error 0x80073CF3 hints that a software (or app) conflict can cause this issue to arise. Setting Windows to clean boot could eliminate such a potential software conflict. Applying that potential fix will disable all unnecessary third-party startup items from running automatically.
 
 ![The System Configuration window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-configuration-window.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can configure a clean boot by selecting to disable third-party startup programs and services with Task Manager and System Configuration. Our guide to [performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) includes full guidelines for how to disable startup items with those tools. Then restart your PC and try downloading the required Microsoft Store apps again to see if error 0x80073CF3 continues.
 
@@ -112,13 +118,6 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 
 ![The Apps & features uninstaller tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/apps-features-uninstaller.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Reinstall the Microsoft Store App
 
  Reinstalling the Microsoft Store app is another error 0x80073CF3 fix that’s worked for some users. Those users fixed the issue by removing and reinstalling the Microsoft Store with several PowerShell commands. Our guide about [reinstalling the Microsoft Store](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) includes the PowerShell commands you need to execute for this potential fix.
@@ -126,16 +125,10 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 ![The remove MS Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-remove-app-package-command.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Perform a Windows In-Place Upgrade
@@ -145,6 +138,13 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
  You can apply this potential fix by downloading the latest Windows 11 ISO file or media creation tool for Windows 10\. Our guide on [how to apply an in-place Windows upgrade](https://www.makeuseof.com/in-place-upgrade-windows-11/) includes instructions for upgrading Windows 11\. To perform the same fix for Windows 10, click **Download tool now** on this [Microsoft page](https://www.microsoft.com/en-gb/software-download/windows10) and select **Upgrade this PC now** within the downloaded media creation utility.
 
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-11-setup-window2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get the Microsoft Store Error 0x80073CF3 Sorted
 
@@ -162,24 +162,22 @@ thumbnail: https://thmb.techidaily.com/4bfb6726743e0e9796541acae362817f2192de4cf
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-top-3-strategies-for-capturing-real-time-sports-events-online/"><u>[New] 2024 Approved Top 3 Strategies for Capturing Real-Time Sports Events Online</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-boost-your-bank-account-quickly-with-these-13-ways-to-profit-on-reddit/"><u>[Updated] Boost Your Bank Account Quickly With These 13 Ways to Profit on Reddit</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-top-15-windows-10-recording-applications-reviewed-for-2024/"><u>[Updated] Top 15 Windows 10 Recording Applications Reviewed for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-the-endless-void-fixing-xbox-app-errors-in-win11/"><u>Avoiding the Endless Void: Fixing Xbox App Errors in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-solution-for-inaccessible-administrative-mode/"><u>Comprehensive Solution for Inaccessible Administrative Mode</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-productivity-choosing-terminal-as-primary-command-line-interface/"><u>Enhancing Productivity: Choosing Terminal as Primary Command Line Interface</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-fixes-for-paladins-stability-avoid-crashes-and-play-smoothly/"><u>Expert Fixes for Paladins Stability: Avoid Crashes and Play Smoothly</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-bypass-ms-defenders-blockage-on-third-party-av/"><u>How to Bypass MS Defender's Blockage on Third-Party AV</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-honor-90-lite-phone-by-drfone-android/"><u>How to Reset a Locked Honor 90 Lite Phone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/make-instagram-videos-with-music-for-2024/"><u>Make Instagram Videos With Music for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-constant-calculator-positioning-on-pcs/"><u>Optimizing Constant Calculator Positioning on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/quickfix-sniping-tool-problems-top-tips-revealed/"><u>QuickFix Sniping Tool Problems: Top Tips Revealed</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-empty-folder-notifications/"><u>Remedying Empty Folder Notifications</u></a></li>
-<li><a href="https://windows11.techidaily.com/revive-your-pc-steps-to-uncover-and-use-lost-features-in-windows-11/"><u>Revive Your PC: Steps to Uncover and Use Lost Features in Windows 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/simplify-a-surplus-of-saves-mastering-edits-for-less-clutter-for-2024/"><u>Simplify a Surplus of Saves Mastering Edits for Less Clutter for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-tecno-phantom-v-flip-by-drfone-android/"><u>Top 10 Password Cracking Tools For Tecno Phantom V Flip</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-to-overcome-the-preparations-screen-problem-in-granblue-fantasy/"><u>Troubleshooting Tips to Overcome the Preparations Screen Problem in Granblue Fantasy</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-samsung-galaxy-s24-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Samsung Galaxy S24 FRP Bypass</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-tab-issue-solutions-for-non-responsive-keys/"><u>Windows Tab Issue: Solutions for Non-Responsive Keys</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-adjust-netflix-video-pace-pc-and-mobile-edition/"><u>[New] Adjust Netflix Video Pace PC & Mobile Edition</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-sdr-to-hd-now-hdr-the-next-leap-in-editing-workflows/"><u>[New] SDR to HD, Now HDR The Next Leap in Editing Workflows</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-stepwise-insta-story-image-integration-techniques-for-maximum-impact/"><u>[New] Stepwise Insta Story Image Integration Techniques for Maximum Impact</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-guidelines-to-frame-your-youtube-creation-flow-for-2024/"><u>[Updated] Guidelines to Frame Your YouTube Creation Flow for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-effective-strategies-for-ppt-screen-recordings/"><u>[Updated] In 2024, Effective Strategies for PPT Screen Recordings</u></a></li>
+<li><a href="https://windows11.techidaily.com/apples-next-gen-marvel-iphone-15-pro-vs-pro-max-showdown/"><u>Apple's Next-Gen Marvel: IPhone 15 Pro Vs. Pro Max Showdown</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/clarifying-the-role-and-mechanics-of-black-boxes-in-artificebiased-systems/"><u>Clarifying the Role and Mechanics of 'Black Boxes' In Artificebiased Systems</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-discover-your-rhythm-assembling-tailored-youtube-playlists-for-the-digital-age-webmobile/"><u>In 2024, Discover Your Rhythm Assembling Tailored YouTube Playlists for the Digital Age (Web/Mobile)</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/keep-your-mobile-number-off-public-repositories-a-step-by-step-guide-for-android-users/"><u>Keep Your Mobile Number Off Public Repositories: A Step-by-Step Guide for Android Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-booting-windows-11-3-key-usb-methods/"><u>Mastering Booting Windows 11: 3 Key USB Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-of-windows-11-text-illumination-control/"><u>Mastery of Windows 11 Text Illumination Control</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-user-interface-manage-filter-key-options-in-windows/"><u>Optimize User Interface: Manage Filter Key Options in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaiming-off-screen-windows-in-win11-6-step-guide/"><u>Reclaiming Off-Screen Windows in Win11: 6 Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-input-devices-after-sleep-on-win11/"><u>Reviving Input Devices After Sleep on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/system-resuscitation-modernizing-windows-driver-technology/"><u>System Resuscitation: Modernizing Windows Driver Technology</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-power-top-10-must-have-msistore-picks/"><u>Unleash Power: Top 10 Must-Have MSIStore Picks</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/unlocking-advanced-tracking-with-cookiebot-integration-for-improved-seo-results/"><u>Unlocking Advanced Tracking with Cookiebot Integration for Improved SEO Results</u></a></li>
 </ul></div>
 

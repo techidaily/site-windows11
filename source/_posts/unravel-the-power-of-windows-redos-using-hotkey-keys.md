@@ -1,7 +1,7 @@
 ---
 title: Unravel the Power of Windows Redos Using Hotkey Keys
-date: 2024-09-05T02:08:02.537Z
-updated: 2024-09-06T02:08:02.537Z
+date: 2024-10-18T01:55:01.341Z
+updated: 2024-10-19T02:09:26.733Z
 tags:
   - windows10
   - windows11
@@ -42,24 +42,26 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 
 ![Word Document Showing Undoing Several Actions Together](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-several-actions-together-on-word.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can even undo changes after saving and then save again. However, you can't undo some actions, such as clicking commands on the**File** tab or saving a file.
 
 ![Undo Command Changed to Can't Undo on Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/undo-changed-to-can-t-undo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you can't undo an action, the**Undo** command changes to**Can't Undo** , and the arrow icon dims out.
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Redo in a Snap With Redo Hotkeys
 
  You can save time and quickly redo an action by pressing the**Ctrl+Y** or**F4** redo hotkeys. If F4 doesn't work, first press the**F-Lock** key or**Fn** key, then**F4** .
@@ -69,41 +71,34 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
 ![Redo Command Highlighted on Word Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/redo-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can also use the same redo shortcut**Ctrl+Y** or**F4** to repeat something. It can be pasting the same text multiple times or using the same color to highlight different lines of text.
 
 ![Color of Text Changed Using Repeat Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repeat-on-windows-using-hotkey-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you like using your keyboard to perform actions, be sure to check out[how to use KeyTips in Microsoft Office](https://www.makeuseof.com/keytips-microsoft-office-how-to-use/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use Undo and Redo Hotkeys for a Speedier Windows Experience
 
  One of the most invaluable things we can't recover is lost time. So start using undo and redo hotkeys on Windows to save some time and a few clicks. And if you like, you can also check out all of Windows 11's keyboard shortcuts to work smarter and faster.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -112,4 +107,20 @@ thumbnail: https://thmb.techidaily.com/57a4dd5881ee89a7ccb05cda2bbc7d01f9c197463
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-rapid-learning-from-images-to-effective-youtube-thumbnails/"><u>[New] 2024 Approved Rapid Learning From Images To Effective YouTube Thumbnails</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-renewal-of-photo-viewing-capabilities-in-windows-10-guide/"><u>[New] Renewal of Photo Viewing Capabilities in Windows 10 - Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-fcps-ultimate-editing-aid-best-10-plug-ins/"><u>[Updated] 2024 Approved FCP's Ultimate Editing Aid Best 10 Plug-Ins</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-polarr-editor-essentials-unlocking-the-potential-of-images/"><u>[Updated] Polarr Editor Essentials Unlocking the Potential of Images</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-screenstreamer-breaking-down-the-newest-recorder/"><u>2024 Approved ScreenStreamer Breaking Down the Newest Recorder</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-art-of-producing-attention-grabbing-podcast-openers/"><u>2024 Approved The Art of Producing Attention-Grabbing Podcast Openers</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-xbox-game-pass-0x800700e9-error-in-windows-11-os/"><u>Fixing Xbox Game Pass 0X800700E9 Error in Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/resetting-the-system-how-to-reinitialize-windows-11-programs/"><u>Resetting the System: How to Reinitialize Windows 11 Programs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722868174752-resolving-noise-issues-in-your-stereo-system-restore-the-sound/"><u>Resolving Noise Issues in Your Stereo System - Restore the Sound</u></a></li>
+<li><a href="https://windows11.techidaily.com/speeding-up-android-studio-tasks-on-windows-os/"><u>Speeding Up Android Studio Tasks on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-windows-media-player-launch/"><u>Step-by-Step Guide to Windows Media Player Launch</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-blocked-functionality-of-ccleaner-on-win11/"><u>Unblocking Blocked Functionality of CCleaner on Win11</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-cut-edit-share-the-top-10-vlog-editor-apps-for-ios-and-android/"><u>Updated In 2024, Cut, Edit, Share The Top 10 Vlog Editor Apps for iOS and Android</u></a></li>
+</ul></div>
 

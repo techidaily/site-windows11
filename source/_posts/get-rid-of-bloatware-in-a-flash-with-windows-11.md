@@ -1,7 +1,7 @@
 ---
 title: Get Rid of Bloatware in a Flash with Windows 11
-date: 2024-09-05T02:10:11.897Z
-updated: 2024-09-06T02:10:11.897Z
+date: 2024-10-16T21:02:29.629Z
+updated: 2024-10-19T02:09:00.978Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 * [Remove Bloatware Using Win11Debloat](#remove-bloatware-using-win11debloat)
 * [Try a Clean Install of Windows 11](#try-a-clean-install-of-windows-11)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Bloatware apps on Windows 11 can include Mail and Calendar, OneNote, Microsoft Teams, Candy Crush, and various third-party apps.
@@ -32,12 +39,6 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 
  When you buy a new PC—whether a high-end gaming device or an entry-level laptop—you expect it to be clean from the start. However, Windows 11 typically comes with at least a few unwanted pre-installed apps, called bloatware. How should you remove bloatware from your PC?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is Bloatware, and Which Apps Should You Uninstall?
 
 ![Windows 11 Start Menu apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-start-menu-apps.jpg)
@@ -48,12 +49,6 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 
  The apps we mentioned are not necessarily bad for your computer; you may even prefer them over available alternatives. For example, I [use OneNote as my to-do list](https://www.makeuseof.com/tag/x-ways-super-charge-list-onenote/) and [switched to Microsoft Edge from Google Chrome](https://www.makeuseof.com/microsoft-edge-vs-google-chrome-reasons-to-switch/) in 2021\. Because of this, I didn’t remove those when I bought a new Windows laptop. But if you don’t use the pre-installed apps on your Windows PC, you have the option to uninstall them.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Uninstall Bloatware Using Windows 11 Settings
 
  The easiest way to remove bloatware is [through the Windows 11 Settings app](https://www.makeuseof.com/windows-ways-to-open-system-settings/). As long as you know where to go, uninstalling bloatware (or any app, for that matter) on Windows 11 is quick and simple:
@@ -62,30 +57,27 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 2. In the sidebar, click **Apps,** then choose **Installed apps**.  
 ![Windows 11 Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-menu.jpg)
 3. Under the **Installed apps** window, find the app you want to remove.
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Once you’ve found the app you want to remove, click on the **three-dot menu** and choose **Uninstall**.  
 ![Uninstalling an app using the Windows 11 Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/uninstalling-an-app-using-the-windows-11-settings-menu.jpg)
 5. A small pop-up window will appear after you press **Uninstall**; click on **Uninstall** again to confirm your choice.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With this, you can manually remove pre-installed apps quickly, as the Settings window does not close after uninstalling one app. Note that you cannot remove some apps, like Photos and the Microsoft Store, with this method.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Remove Pre-Installed Windows 11 Apps From the Start Menu
 
  Another way to remove unwanted apps is to remove them straight from the Start menu. While tedious if you plan to remove several programs, it's quick if you only need to uninstall one or two apps:
@@ -95,21 +87,16 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 3. Right-click on the app and choose **Uninstall**.  
 ![Uninstall an app from the Windows 11 Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/uninstall-an-app-from-the-windows-11-start-menu.jpg)
 4. You will then see a pop-up box asking you to confirm app uninstallation; click **Uninstall** once again, and the app will be removed.
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This is great if you notice an app you don’t use while scrolling through the Start menu, as you don’t have to dive into the Settings app to uninstall it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Remove Bloatware Using Win11Debloat
 
  Manually choosing and uninstalling bloatware is easy for those familiar with such apps. However, if you’re unsure which apps to remove or want to automate removing bloatware, the Win11Debloat app will help you:
@@ -123,11 +110,12 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 6. **Win11Debloat – Setup** will then open in a new Windows PowerShell window. Type either **1** or **2** to choose the method of removing bloatware, then hit **Enter**.  
 ![Win11Debloat Powershell Setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/win11debloat-powershell-setup.jpg)
 7. Once you’ve chosen, remember to follow the on-screen instructions to run the uninstallation process successfully.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030395/7443" target="_top" id="2030395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Win11Debloat is a third-party script that automates the process of clearing up your PC, making it handy if you want to remove several apps or if you’re setting up multiple PCs.
@@ -144,6 +132,14 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 2. In the sidebar, click on **System**, then choose **Recovery**.  
 ![Windows 11 Recovery option in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/windows-11-recovery-option-in-settings.jpg)
 3. Click on **Reset PC**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Reset this PC option in Windows settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/reset-this-pc-option.jpg)
 4. In the Reset this PC window, choose **Remove everything**.
 5. To ensure you get the latest version of Windows, choose **Cloud download** in the next window. If you don’t have a reliable internet connection, pick **Local reinstall** instead.
@@ -159,11 +155,23 @@ thumbnail: https://thmb.techidaily.com/31fd63ab910fdd0bfef9c588934b4c990590f2025
 
  Although bloatware isn’t typically dangerous, these apps are annoying as they could slow your PC down, especially if they all launch when you turn your computer on. So by removing these apps—and quickly doing so—you’re reducing your PC’s workload, allowing it to run better.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-fast-track-to-facebooks-latest-viewing-history-2e23/"><u>[New] Fast Track to Facebook’s Latest Viewing History (2E23)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-compilation-of-phone-apps-altering-sound/"><u>[New] In 2024, The Ultimate Compilation of Phone Apps Altering Sound</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-audiotrack-evaluation/"><u>[Updated] In 2024, AudioTrack Evaluation</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-ways-to-fix-the-application-made-too-many-requests-error-0x80860010-on-windows/"><u>7 Ways to Fix the Application Made Too Many Requests Error (0X80860010) on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-gray-out-issue-with-volume-extend-in-win/"><u>Correcting Gray Out Issue with Volume Extend in Win</u></a></li>
+<li><a href="https://windows11.techidaily.com/cracking-the-code-unlocking-mac-locations-in-windows-11/"><u>Cracking the Code: Unlocking MAC Locations in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/display-windows-notes-prominently-and-consistently/"><u>Display Windows Notes Prominently and Consistently</u></a></li>
+<li><a href="https://win-community.techidaily.com/fehlersuche-und-losungen-fur-die-funktion-auf-ios-bewege-bei-fonebackup-migrationen-mobilgeratehilfe/"><u>Fehlersuche Und Lösungen Für Die Funktion 'Auf iOS Bewege' Bei FoneBackup-Migrationen - Mobilgerätehilfe</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-technical-hurdles-with-these-tips-to-prevent-tower-of-fantasy-from-crashing-on-pc/"><u>Overcome Technical Hurdles with These Tips to Prevent 'Tower of Fantasy' From Crashing on PC</u></a></li>
+</ul></div>
+

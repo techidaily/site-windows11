@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Windows 10/11: Old Login Logon Error"
-date: 2024-09-05T02:10:46.230Z
-updated: 2024-09-06T02:10:46.230Z
+date: 2024-10-14T17:01:26.272Z
+updated: 2024-10-18T21:28:56.841Z
 tags:
   - windows10
   - windows11
@@ -36,46 +36,30 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 
 ![A padlock standing on the keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-pc-keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you encounter this error, you should first try all of the commonly used passwords you’ve used with the device. It’s possible that once upon a time, you changed the password to the default local administrator account. However, this only applies if you’re experiencing this error as a result of a system reset.
 
  Try your Microsoft account password, any pin you’ve used with the device, and your commonly used passwords.
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Press Enter While the Password Field Is Blank
 
 ![Enter Key on Laptop Keyboard in Red](https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6d231984ceb0349e3e717f14.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Some people who have encountered this error claim that you can resolve it by pressing the Enter key with the password field empty. This should work if you've never set up a password for the local admin account, and it works for some people.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Reset Your Windows Password
 
  If you recall from earlier, you can set the Windows password to something you'll remember later on. As such, the final and most effective fix is to set up or reset your local admin account password and use it as the current Windows password.
@@ -86,35 +70,26 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 2. On the Settings page, select the **Accounts** option. You should [check that your Windows account has admin rights](https://www.makeuseof.com/check-windows-account-admin-rights/) before continuing.  
 ![Accounts Page in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/accounts-page-in-windows-11.jpg)
 3. Then, select **Sign-In Options** \> **Passwords**. You’ll find **Add** if you’re creating a password for the first time. Otherwise, you’ll find **Change**, meaning you’ll need to [reset your local admin account password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Password Option under Sign-In Options in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-option-under-sign-in-options-in-windows-11.jpg)
-4. If you click **Add**, you’ll be directed to a page where you can set up a password.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Create New Password for Local Admin Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-new-password-for-local-admin-account.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Password Option under Sign-In Options in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-option-under-sign-in-options-in-windows-11.jpg)
+4. If you click **Add**, you’ll be directed to a page where you can set up a password.  
+![Create New Password for Local Admin Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-new-password-for-local-admin-account.jpg)
+
  Once you have created or reset your Windows password, you can proceed to sign into your Microsoft account. Once you’re asked to insert your “current Windows password,” swiftly input your newly minted password.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Don’t Let the “We’ll Need Your Current Windows Password One Last Time” Error Stop You
 
@@ -122,11 +97,31 @@ thumbnail: https://thmb.techidaily.com/950d846f8fcee250021d944b4596b6aafb3f396fb
 
  However, this error can be easily resolved. Here’s everything you need to know.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-enhance-your-presence-how-to-change-voice-effectively-on-ig/"><u>[Updated] Enhance Your Presence How to Change Voice Effectively on IG</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-enhancing-clarity-in-low-quality-facebook-streams/"><u>[Updated] Enhancing Clarity in Low-Quality Facebook Streams</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-no-followers-to-a-million-top-15-tricks-to-become-an-instagram-phenomenon-for-2024/"><u>[Updated] From No Followers to a Million Top 15 Tricks to Become an Instagram Phenomenon for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-comprehensive-list-securing-monetized-youtube-content/"><u>2024 Approved Comprehensive List Securing Monetized YouTube Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/6-precise-ways-to-determine-your-windows-hardware-identity/"><u>6 Precise Ways to Determine Your Window's Hardware Identity</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-parsing-misstep-code-0xc00ce556/"><u>Addressing Parsing Misstep: Code 0xC00CE556</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-screen-flickers-on-microsoft-os/"><u>Addressing Screen Flickers on Microsoft OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-scanning-issues-with-your-geforce-experience-on-windows/"><u>Avoid Scanning Issues with Your GeForce Experience on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-alerts-instant-battery-charged-notifications-in-win11/"><u>Boosting Alerts: Instant Battery Charged Notifications in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-the-clutter-fixing-windows-error-0x80072014/"><u>Clearing the Clutter: Fixing Windows Error 0X80072014</u></a></li>
+<li><a href="https://windows11.techidaily.com/configuring-terminal-in-win11-start-fresh/"><u>Configuring Terminal in Win11: Start Fresh</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-the-code-of-high-quality-visuals-with-windows-11-hdr/"><u>Deciphering the Code of High-Quality Visuals with Windows 11 HDR</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-z-fold-5-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy Z Fold 5 FRP Locks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-xiaomi-mix-fold-3-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Xiaomi Mix Fold 3? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/pristine-story-conception-in-eight-genre-divisions/"><u>Pristine Story Conception in Eight Genre Divisions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/transform-your-igtv-backgrounds-with-style/"><u>Transform Your IGTV Backgrounds with Style</u></a></li>
+</ul></div>
+

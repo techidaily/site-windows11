@@ -1,7 +1,7 @@
 ---
 title: How to Fix the “Active Directory Domain Services” Printer Error in Windows 10 & 11
-date: 2024-09-05T02:10:48.745Z
-updated: 2024-09-06T02:10:48.745Z
+date: 2024-10-13T19:09:16.374Z
+updated: 2024-10-18T18:20:09.740Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
 
  If Print Spooler is already running, restart that service. To do so, right-click **Print Spooler** in the Services window and select **Restart**. Or select the **Stop** and **Start** options within that service’s properties window.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Uninstall and Reinstall Your Printer’s Driver
 
  A faulty printer driver is a possible cause for the “Active Directory Domain Services” error on your PC. To address such a potential cause, try reinstalling your printer’s driver like this:
@@ -57,21 +64,16 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
 4. Select **Uninstall** on the confirmation window.  
 ![The Remove device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/remove-device-option.jpg)
 5. To reinstall a driver, right-click the printer in Device Manager and select **Search automatically for updated driver software** option. Windows will detect a printer driver available on your PC and install it.
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also reinstall a driver by downloading it from the device manufacturer’s website. Open the driver download page on your printer manufacturer’s website. Then select your printer model there and download the latest driver for it. Double-click the printer driver package you downloaded to bring up a setup wizard and select to install it from there.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Manually Add a Printer
 
  The Control Panel includes a Devices and Printers applet from which you can manually add printers. You can remove a printer and then manually add it from there to see if that fixes the “Active Directory Domain Services” error. Doing so will effectively reinstall the printer on your PC. Follow these steps to manually add the affected printer:
@@ -81,29 +83,26 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
 3. If you can see it listed, right-click the printer you can't print with and select **Remove device**.  
 ![The Remove device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/remove-device-option.jpg)
 4. Click **Yes** to remove the printer.
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Make sure the printer you want to add is connected to the PC.
 6. Press the **Add a printer** button in the Devices and Printers applet.  
 ![The Add a printer option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-a-printer.jpg)
 7. Select the printer you just removed and click **Next**.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Add a device window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-a-device.jpg)
 8. If the printer you need isn’t available for selection within the wizard, click the printer that I want isn’t listed. Then select a suitable option for finding the printer.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Edit Three Registry Keys' Permissions
@@ -116,27 +115,9 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
 3. Right-click the **Devices** registry key to select **Permissions**.  
 ![The Permissions option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/permissions-option.jpg)
 4. Next, select the user profile in which the error occurs within the **Group** box.
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Then select the **Full Control** checkbox within the **Allow** column.  
 ![The Full Control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/full-control-checkbox.jpg)
 6. Repeat step five for all groups and user names shown within the **Security** tab.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Click **Apply** to save the key’s new permission settings.
 8. Repeat the previous five steps for the **PrinterPorts** and **Windows** registry keys.
 9. Close out of Registry Editor and restart your computer.
@@ -151,9 +132,31 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
 4. Then click **File** on Notepad’s menu bar.  
 ![The Print option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/print-option.jpg)
 5. Select **Print** to bring up the **General** tab.
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click the **Find Printer** button.  
 ![The Find Printer button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/print-window.jpg)
 7. If you can find the printer with Notepad, print the text you entered with that app.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Then return to the software in which the “Active Directory Domain Services” error occurs to see if it can now find your printer.
 
 ## Get Printing Again on Windows
@@ -162,11 +165,31 @@ thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a5006254
 
  This error means that the software can’t detect a connected printer. It’s a widely reported issue to occur for MS Office applications but can affect a wide range of apps. These are the best ways to fix the “Active Directory Domain Services” error in Windows 10 and 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-refine-your-recordings-the-art-of-sound-reduction/"><u>[New] 2024 Approved Refine Your Recordings The Art of Sound Reduction</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-mastering-the-social-maze-avoiding-the-ban-on-fb/"><u>[New] Mastering the Social Maze Avoiding the Ban on FB</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-step-by-step-solution-for-spotify-connectivity-fails/"><u>A Step-by-Step Solution for Spotify Connectivity Fails</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-windows-11-key-inactivity-issues/"><u>Addressing Windows 11 Key Inactivity Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/arcade-mode-for-window-users-key-fixes-ahead/"><u>Arcade Mode for Window Users: Key Fixes Ahead!</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-productivity-with-these-5-essential-windows-folder-practices/"><u>Boost Productivity with These 5 Essential Windows Folder Practices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-parsing-setback-code-0xc00ce556/"><u>Conquering Parsing Setback: Code 0xC00CE556</u></a></li>
+<li><a href="https://windows11.techidaily.com/custom-menus-on-windows-1111-with-psoft-tools/"><u>Custom Menus on Windows 11/11 with PSoft Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/demystifying-the-meaning-behind-windows-folders-x-marks/"><u>Demystifying: The Meaning Behind Windows' Folders X-Marks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-fixing-nonfunctional-microphones-in-turtle-beach-audio-gear/"><u>Expert Advice: Fixing Nonfunctional Microphones in Turtle Beach Audio Gear</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-11-pro-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 11 Pro Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-13t-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi 13T to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719265109241-master-google-chromes-filesync-on-your-windows-device-now/"><u>Master Google Chrome's Filesync on Your Windows Device Now</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/transform-your-team-sessions-masterful-use-of-slack-and-filmora-tools/"><u>Transform Your Team Sessions Masterful Use of Slack & Filmora Tools</u></a></li>
+</ul></div>
+

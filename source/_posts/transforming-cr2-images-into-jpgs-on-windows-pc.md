@@ -1,7 +1,7 @@
 ---
 title: Transforming CR2 Images Into JPGs on Windows PC
-date: 2024-09-05T02:08:02.170Z
-updated: 2024-09-06T02:08:02.170Z
+date: 2024-10-15T18:16:21.583Z
+updated: 2024-10-19T00:07:24.707Z
 tags:
   - windows10
   - windows11
@@ -51,6 +51,14 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 2. Click **Get in Store** app to bring up a prompt for [opening the Microsoft Store app](https://www.makeuseof.com/windows-open-microsoft-store/).  
 ![The Get in Store app button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-get-in-store-app-option.jpg)
 3. Select Open Microsoft Store to access a **Download** option for Image Converter.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click Image Converter’s **Install** option.
 5. Select **Open** to bring up Image Converter.
 
@@ -65,12 +73,6 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 7. Wait for the conversion tool to finish.
 8. Then open the converted JPG image from the folder you selected to save it in.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Convert CR2 Images to JPG With the FreeConvert Web App
 
  If you prefer not to install software, you can always utilize one of the numerous CR2 to JPG image conversion web apps. FreeConvert is one such web app with which you can convert CR2 files to JPG and eight other formats. That app also includes compression settings for converted files. These are the steps for converting CR2 images to JPG with FreeConvert:
@@ -79,6 +81,20 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 2. Click the **Choose Files** button.  
 ![The Choose Files button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/choose-files-button.jpg)
 3. Select a CR2 file and click **Open**.
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Then select the **JPG** option on the **Output** drop-down menu.
 5. Click on the **Convert** button.  
 ![The Convert option in FreeConvert](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/convert-option.jpg)
@@ -87,11 +103,12 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 7. Then open the folder your browser usually downloads files in to find that converted JPG image.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Convert CR2 Images to JPG With IrfanView
 
  IrfanView is one of the best image viewers for Windows that includes a file conversion tool with which you can convert image formats. That software doesn’t support the CR2 format by default. However, installing an additional plugin can extend IrfanView’s file support to include CR2\. This is how you can download and install IrfanView and its required plugin for CR2 support:
@@ -101,18 +118,14 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 3. Then click the **IrfanView All Plugins – 64-bit Windows Installer** download link.  
 ![The IrfanView download options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/irfanview-download-options.jpg)
 4. Next, click the library folder icon on the taskbar to [bring up the Windows Explorer file manager](https://www.makeuseof.com/windows-open-file-explorer/).
+
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Go to the directory that the IrfanView files were downloaded to.
 
 1. Double-click on the **iview462\_x64\_setup.exe** file to open the IrfanView setup window.  
@@ -123,18 +136,6 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 5. Then click **Next** to install the plugin.  
 ![The Plugins setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-plugins-window.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now go ahead and open the IrfanView software. Having installed its plugin, you can now open CR2 images within the software without converting them. Click **File** \> **Open** to select a CR2 file. Then click **Open** again to view it within the image viewer.
 
 ![A CR2 image open in IrfanView](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/a-cr2-image.jpg)
@@ -147,12 +148,14 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 3. Click the **Look in** drop-down menu to select the folder that includes your CR2 image.  
 ![The Look in option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/look-in-menu.jpg)
 4. Next, click on the **Files of type** drop-down menu and select the **CRW/CR2/CR3** option.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Select your CR2 file and click **Add**.
 6. Click on the **Output format** drop-down menu to select JPG.  
 ![The Output format options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/output-format-option.jpg)
@@ -160,21 +163,22 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 8. Press the **Start Batch** option.  
 ![The Start Batch button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/start-batch-option.jpg)
 9. Click **Exit** in the "Batch Conversion done" window.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Go to the folder you selected to include the converted JPG file. There you’ll see its file size is smaller than the original CR2 image. You can erase the original CR2 photo by right-clicking its file and selecting **Delete**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Convert Your CR2 Photos to JPG Images
 
  The advantages of converting your CR2 photos to JPG images on a Windows PC are clear. Your converted JPG files will be much smaller, which will save lots of drive space if you have many CR2 photographs.
@@ -183,11 +187,29 @@ thumbnail: https://thmb.techidaily.com/69d60ad1b0674fb9a6dcacd9cfd5c9b2973dbd0d0
 
  Instead of trying to find software with which to open CR2 images, you can convert them to the JPG file format. JPG is a universal file format you can open with many image viewers and editors. This is how you can convert CR2 images to the JPG format on Windows 11/10\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-become-an-expert-at-capturing-every-detail-on-xiaomi-mi-11-for-2024/"><u>[New] Become an Expert at Capturing Every Detail on Xiaomi Mi 11 for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-leading-workspace-high-flying-space-for-2024/"><u>[New] Leading Workspace High-Flying Space for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/2024s-most-outstanding-television-models-reviewed-find-the-perfect-set-for-you/"><u>2024'S Most Outstanding Television Models Reviewed: Find the Perfect Set for You</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-vivo-y78plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-non-terminatable-processes-on-windows-systems/"><u>Fixing Non-Terminatable Processes on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-stop-hyper-v-service-in-windows-11/"><u>Guide: Stop Hyper-V Service in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-a-move-and-copy-to-folder-context-menu-options-in-windows-10-and-11/"><u>How to Add a Move and Copy to Folder Context Menu Options in Windows 10 & 11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-exploring-todays-top-tier-vr-headsets/"><u>In 2024, Exploring Today's Top-Tier VR Headsets</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-oneplus-nord-ce-3-lite-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your OnePlus Nord CE 3 Lite 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://windows11.techidaily.com/inside-out-mastering-windows-error-resolution-version-22h2/"><u>Inside Out: Mastering Windows Error Resolution, Version 22H2</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-itel-s23plus-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Itel S23+ to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-workspace-sketches-for-win-1011-users/"><u>Transform Your Workspace: Sketches for Win 10/11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/unrelated-processes-under-microsoft-edge-in-tasks/"><u>Unrelated Processes Under Microsoft Edge in Tasks</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-whimsy-fixing-fuchsia-and-fern-like-colors-on-your-screen/"><u>Windows Whimsy? Fixing Fuchsia & Fern-Like Colors on Your Screen</u></a></li>
+</ul></div>
+

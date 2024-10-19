@@ -1,7 +1,7 @@
 ---
 title: "Resolve the Enigma: How to Solve No Mail on Windows 11 Apps"
-date: 2024-10-07T18:38:10.041Z
-updated: 2024-10-12T18:05:38.139Z
+date: 2024-10-11T16:38:55.486Z
+updated: 2024-10-18T21:28:05.128Z
 tags:
   - windows10
   - windows11
@@ -35,22 +35,15 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 
 ![Delete account from this device option in the Mail app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/delete-account-from-this-device-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, restart the Mail app and click the**Gear icon** at the bottom right corner of the left sidebar. In the Settings window that crops up, choose**Manage accounts** and then**Add account.** Then, enter the credentials to log in with your account.
 
 ![Add account option in the Mail app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/add-account.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Check the Date and Time on Windows
@@ -68,17 +61,16 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 ![Check for Updates option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/check-for-updates-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use the Windows Update Troubleshooter
@@ -92,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
  Next, go through the troubleshooter and apply all suggestions to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Change the Mail App Privacy Settings
@@ -113,6 +105,13 @@ thumbnail: https://thmb.techidaily.com/237f968e1f2378d2ca8f58711b34f30634497fa9b
 
 Now, restart your system and check for the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Repair and Reset the Mail App
 
  Are you still getting the error message? If yes, you'll have to repair the Mail app to fix the issue. You can do that by following these steps:
@@ -121,20 +120,34 @@ Now, restart your system and check for the issue.
 2. Click the**three dots** next to**Mail and Calendar** app and choose**Advanced options.**  
 ![Advanced options in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/advanced-options.jpg)
 3. Click the**Repair** button.  
-![Repair option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Repair option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/repair-option.jpg)
 
  Once the repair process is complete, you'll see a checkmark next to the Repair button. Next, restart your system and check for the issue. If it continues, reset the Mail app as a last resort.
 
  To do that, open the Advanced options of the Mail and Calendar app, and click the**Reset** button.
 
 ![Reset option in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use the Mail App to Access Your Emails Again on Windows
 
@@ -157,22 +170,24 @@ Now, restart your system and check for the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-visionedit-pro/"><u>[New] In 2024, VisionEdit Pro</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-step-by-step-fixes-for-youtube-short-failures/"><u>[New] Step-by-Step Fixes for YouTube Short Failures</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-high-definition-recording-reigns-supreme-top-picks-listed/"><u>[Updated] High Definition Recording Reigns Supreme Top Picks Listed</u></a></li>
-<li><a href="https://windows11.techidaily.com/10-easy-steps-for-a-working-windows-mouse/"><u>10 Easy Steps for a Working Windows Mouse</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-simple-guide-to-activating-windows-hello-on-pc/"><u>A Simple Guide to Activating Windows Hello on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-low-vram-issues-for-hogwarts-educational-virtual-adventure/"><u>Addressing Low VRAM Issues for Hogwarts Educational Virtual Adventure</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-the-incorrect-identifier-message-in-windows-11/"><u>Addressing the 'Incorrect Identifier' Message in Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-date-coach-chatgpt-for-romance/"><u>AI Date Coach: ChatGPT for Romance</u></a></li>
-<li><a href="https://windows11.techidaily.com/covert-communication-techniques-secure-file-exchanges-on-windows/"><u>Covert Communication Techniques: Secure File Exchanges on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-windows-audio-graph-isolation/"><u>Decoding Windows Audio Graph Isolation</u></a></li>
-<li><a href="https://windows11.techidaily.com/dial-up-the-velocity-fixing-your-stuttery-pc/"><u>Dial Up the Velocity: Fixing Your Stuttery PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/direct-methods-to-remove-a-peevous-print-spooler/"><u>Direct Methods to Remove a Peevous Print Spooler</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Infinix Note 30i? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/uncovering-and-retrieving-eliminated-data-in-your-computers-recycle-bin/"><u>Uncovering and Retrieving Eliminated Data in Your Computer's Recycle Bin</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-s-most-popular-free-m4a-editor-programs-for-2024/"><u>Updated S Most Popular Free M4A Editor Programs for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-real-reviews-real-results-in-branding/"><u>[New] Real Reviews, Real Results in Branding</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-techniques-for-merging-transforming-and-scaling-down-data-tables-in-microsoft-excel/"><u>Efficient Techniques for Merging, Transforming, and Scaling Down Data Tables in Microsoft Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-14-features-why-google-sheets-outshines-microsoft-excel/"><u>Essential 14 Features: Why Google Sheets Outshines Microsoft Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/excel-strategies-decoded-leveraging-pivot-tables-to-compute-percent-change-easily/"><u>Excel Strategies Decoded: Leveraging Pivot Tables to Compute Percent Change Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-on-isolating-month-and-year-values-from-date-entries-in-ms-excel-efficiently/"><u>Guide on Isolating Month and Year Values From Date Entries in MS Excel Efficiently</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-altering-your-spreadsheets-cell-address-style-in-microsoft-excel/"><u>Guide: Altering Your Spreadsheet's Cell Address Style in Microsoft Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-creating-cross-sheet-references-within-your-microsoft-excel-workbooks/"><u>Guide: Creating Cross-Sheet References Within Your Microsoft Excel Workbooks</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-demonstrating-data-alterations-using-microsoft-excel-on-your-pc/"><u>Guide: Demonstrating Data Alterations Using Microsoft Excel on Your PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-17-background-eradication-software-reviews/"><u>In 2024, Prime 17 Background Eradication Software Reviews</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-power-of-time-lapse-with-samsung-smartphones/"><u>In 2024, Unlocking the Power of Time Lapse with Samsung Smartphones</u></a></li>
+<li><a href="https://windows11.techidaily.com/massive-microsoft-excel-online-edition-update-transforms-functionality/"><u>Massive Microsoft Excel Online Edition Update Transforms Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-conditional-logic-a-step-by-step-guide-to-microsoft-excels-if-statement/"><u>Mastering Conditional Logic: A Step-by-Step Guide to Microsoft Excel's IF Statement</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-best-video-trailer-design-software-for-mac-and-pc-2023-update/"><u>New 2024 Approved The Best Video Trailer Design Software for Mac and PC (2023 Update)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/oculus-rift-htc-vive-and-ps-vr-which-is-the-best-for-gaming-for-2024/"><u>Oculus Rift, HTC Vive, and PS VR Which Is the Best for Gaming for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-beginners-blueprint-steering-clear-of-the-8-most-regrettable-youtubing-mistakes-for-2024/"><u>The Beginner's Blueprint Steering Clear of the 8 Most Regrettable YouTubing Mistakes for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-samsung-galaxy-a23-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Samsung Galaxy A23 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unlock-the-secrets-to-effective-floodlight-surveillnace-with-our-detailed-guide-for-the-blink-outdoor-camera-model-4-wireless-user-friendly-and-ultra-reliab84/"><u>Unlock the Secrets to Effective Floodlight Surveillnace with Our Detailed Guide for the Blink Outdoor Camera Model 4 - Wireless, User-Friendly & Ultra Reliable!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Add Gmail Accounts to the Outlook App on Windows
-date: 2024-09-26T03:10:01.874Z
-updated: 2024-10-02T02:45:09.134Z
+date: 2024-10-11T22:33:10.050Z
+updated: 2024-10-18T17:46:04.742Z
 tags:
   - windows10
   - windows11
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
  Alternatively, you can try Outlook for Windows Preview through the**Mail** and**Calendar** apps on Windows 10 and 11\. Simply launch the apps via the**Start** menu and enable the**Try the new Outlook** toggle button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Add a Gmail Account to Outlook
 
  Now that you're using the preview version of Outlook, you can now make use of its Gmail integration. Once enabled, users can access their Google calendar and contacts right through the Outlook for Windows app, so you can say goodbye to using a browser to access your email and calendar.
@@ -54,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 5. If you can’t find that option, navigate to**Accounts > Email accounts > Settings** instead.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Enter your Gmail account and press**Continue.**  
@@ -65,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 2. When asked for confirmation to sync your Gmail account, press**Continue** once again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. You will then be redirected to your web browser to complete the Gmail sign-in.
@@ -77,10 +70,17 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 5. Finally, press**Done** within the Outlook for Windows preview app to access your Google email, contacts, and calendar.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The New Outlook App Is Getting Better
@@ -102,22 +102,24 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-acid-pro-critique-and-comparable-software/"><u>[New] ACID Pro Critique and Comparable Software</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-instagram-stories-tempo-tactics-speeding-up-or-slowing-down/"><u>[Updated] 2024 Approved Instagram Stories Tempo Tactics – Speeding Up or Slowing Down</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-best-unplugged-android-gaming-apps-no-internet-required-for-2024/"><u>[Updated] Best Unplugged Android Gaming Apps (No Internet Required) for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/biometric-betrayal-how-secure-is-your-windows-hello-lock/"><u>Biometric Betrayal: How Secure Is Your Windows Hello Lock?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/breaking-barriers-dialogue-with-ai-chatgpt/"><u>Breaking Barriers: Dialogue With AI ChatGPT</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-tasks-initiating-administrative-powershell-on-win11/"><u>Elevate Your Tasks: Initiating Administrative PowerShell on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-glitch-windows-steam-play-links/"><u>Fixing the Glitch: Windows Steam Play Links</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-address-not-starting-speech-recognition-in-windows/"><u>How To Address Not Starting Speech Recognition in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-dampen-explore-tabs-in-windows-11-os/"><u>How to Dampen Explore Tabs in Windows 11 OS</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-star-wars-battlefront-2s-persistent-black-screen-error-fixes-and-solutions/"><u>How to Resolve Star Wars Battlefront 2'S Persistent Black Screen Error - Fixes & Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-troubleshoot-and-correct-coredll-not-found-problems-in-windows/"><u>How To Troubleshoot and Correct Core.dll Not Found Problems in Windows</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-androids-picture-in-picture-mode-a-step-by-step-guide/"><u>Mastering Android's Picture-in-Picture Mode: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-guide-for-disabling-steam-lag-in-your-windows-11-gaming-setup/"><u>Quick Guide for Disabling Steam Lag in Your Windows 11 Gaming Setup</u></a></li>
-<li><a href="https://windows11.techidaily.com/shining-spotlight-on-cursors-with-windows-1011/"><u>Shining Spotlight on Cursors with Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/taskbar-transformation-minimizing-apps-with-ease-and-speed/"><u>Taskbar Transformation: Minimizing Apps with Ease and Speed</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshoot-asking-too-many-hands-at-once-errors/"><u>Troubleshoot Asking Too Many Hands at Once Errors</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-oppo-reno-10-pro-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Oppo Reno 10 Pro 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-digital-mastery-top-10-instagram-enhancers/"><u>[Updated] 2024 Approved Digital Mastery Top 10 Instagram Enhancers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagrams-video-length-limit-a-compre-written-for-you/"><u>[Updated] 2024 Approved Instagram’s Video Length Limit - A Compre Written for You</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-picture-perfect-presentation-software-for-impeccable-photo-framing/"><u>[Updated] Picture Perfect Presentation Software for Impeccable Photo Framing</u></a></li>
+<li><a href="https://games-able.techidaily.com/combat-driver-not-starting-frustration-windows-11-guide/"><u>Combat Driver Not Starting Frustration: Windows 11 Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-the-history-your-ultimate-guide-to-current-and-past-mac-operating-systems/"><u>Decoding the History: Your Ultimate Guide to Current and Past Mac Operating Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/education-on-demand-a-list-of-9-crucial-tech-tools-every-learner-needs/"><u>Education on Demand: A List of 9 Crucial Tech Tools Every Learner Needs</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-through-the-signature-verification-failure-of-windows-1011/"><u>Guide Through the Signature Verification Failure of Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/hide-your-wireless-signal-windows-techniques/"><u>Hide Your Wireless Signal: Windows Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-navigating-advanced-color-grading-techniques-using-luts/"><u>In 2024, Navigating Advanced Color Grading Techniques Using LUTs</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-y200e-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo Y200e 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-psycho-stress-keeping-your-ps4-controller-tethered-to-windows/"><u>Preventing Psycho-Stress: Keeping Your PS4 Controller Tethered to Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/retrace-to-original-directory-view-in-windows-11/"><u>Retrace to Original Directory View in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-your-system-save-big-keys-fans-black-friday-treat-for-windows-11/"><u>Secure Your System, Save Big - Keys Fan's Black Friday Treat for Windows 11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/speedy-spread-of-youtube-playlists-techniques-for-2024/"><u>Speedy Spread of Youtube Playlists Techniques for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-cooling-computers-running-hot-w11/"><u>Steps for Cooling Computers Running Hot W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-a-shimmering-window-title-bar-in-win11/"><u>Tips for A Shimmering Window Title Bar in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-a-non-operational-media-player-in-windows-11/"><u>Troubleshooting a Non-Operational Media Player in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-disappearing-windows-screen/"><u>Troubleshooting Disappearing Windows Screen</u></a></li>
 </ul></div>
 

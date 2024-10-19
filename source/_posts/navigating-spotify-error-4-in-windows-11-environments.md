@@ -1,7 +1,7 @@
 ---
 title: Navigating Spotify Error 4 in Windows 11 Environments
-date: 2024-10-09T18:18:24.369Z
-updated: 2024-10-12T22:40:03.781Z
+date: 2024-10-14T01:11:06.382Z
+updated: 2024-10-18T17:23:51.477Z
 tags:
   - windows10
   - windows11
@@ -47,17 +47,10 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 5. Then select**Restart App** to apply.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Change DNS Server Settings
@@ -67,19 +60,6 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
  Our guide to[changing the DNS server in Windows](https://www.makeuseof.com/windows-11-alternate-ways-change-dns-server-settings/) post includes step-by-step guidelines for how to apply this solution via the Control Panel and Settings among other methods. You’ll need to set the preferred and alternative DNS server settings to Google addresses. Input**8.8.8.8** for the preferred DNS server and**8.8.4.4** for the alternative DNS setting.
 
 ![DNS server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dns-server-settings.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Tweak the Registry
 
@@ -95,15 +75,28 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 ![The Modify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/modify-option.jpg)
 7. If**EnableActiveProbing** is set to**0** , clear the**Value data** box. Then input**1** inside that data box.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Edit DWORD window for the EnableActiveProbing DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-dword-window.jpg)
 8. Select**OK** to save the new**EnableActiveProbing** value.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Exclude Spotify From Your Antivirus Software
 
@@ -111,14 +104,14 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 
 ![Windows Security's app exclusion settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-security-s-exclusion-list-settings.jpg)
 
- Our article about[setting Windows Security exclusions](https://www.makeuseof.com/windows-11-security-exclusions/) includes instructions for adding software to that app’s exception list. If you’re utilizing a third-party antivirus tool, look for an exclusion list within its settings tab. The antivirus software’s website will also likely include guidelines for how to use its exclusion list.
-
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Our article about[setting Windows Security exclusions](https://www.makeuseof.com/windows-11-security-exclusions/) includes instructions for adding software to that app’s exception list. If you’re utilizing a third-party antivirus tool, look for an exclusion list within its settings tab. The antivirus software’s website will also likely include guidelines for how to use its exclusion list.
 
 ## 6\. Turn Off the Windows Defender Firewall
 
@@ -142,21 +135,28 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 ![Spotify's Uninstall option on the Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-start-menu-s-uninstall-option.jpg)
 4. If you’ve installed the desktop Spotify app, Programs and Features will open from which you can select the software and click**Uninstall** . Users who’ve installed the UWP Spotify app can select**Uninstall** on a confirmation prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Then open the[Spotify Windows](https://www.spotify.com/us/download/windows/) download page.
 6. Click**Download** to get the installer for the desktop Spotify app.  
 ![The Download Spotify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-option.jpg)
 7. Open the Explorer file manager along with the folder in which Spotify downloaded.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Double-click the**SpotifySetup.exe** file to bring up the setup wizard and install Spotify.
 
  Another option is to install the Spotify UWP (Universal Windows Platform) app on Microsoft Store. Click the**Get it From Microsoft Store** button on the linked Spotify download page to bring up that app’s MS store page. Then click the**Get in Store app** \>**Open Microsoft Store** options and select**Get** to install the UWP app.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enjoy Spotify Music Online Again
 
@@ -177,22 +177,24 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-retailing-revelations-and-methods-for-2024/"><u>[New] Retailing Revelations and Methods for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-detailed-deconstruction-a-full-evaluation-of-bublcam-360-technology/"><u>[Updated] 2024 Approved Detailed Deconstruction A Full Evaluation of Bublcam 360 Technology</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-color-perfection-interface/"><u>[Updated] In 2024, Color Perfection Interface</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-gradual-audio-reduction-in-digital-studios/"><u>[Updated] Navigating Gradual Audio Reduction in Digital Studios</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-avoiding-pitfalls-tiktok-video-copyright-verification-guide/"><u>2024 Approved Avoiding Pitfalls TikTok Video Copyright Verification Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/advanced-techniques-finding-out-charge-status-win-1011/"><u>Advanced Techniques: Finding Out Charge Status (Win 10/11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/battle-of-the-packagers-chocolatey-or-wm-on-windows-pcs/"><u>Battle of the Packagers: Chocolatey or WM on Windows PCs</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/covert-snapmotion-concealing-your-picture-taking-on-the-app/"><u>Covert SnapMotion Concealing Your Picture Taking on the App</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-get-the-newest-realtek-bluetooth-drivers-on-windows-1110-systems/"><u>How to Get the Newest Realtek Bluetooth Drivers on Windows 11/10 Systems</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-essential-list-11-streamers-go-to-audio-devices/"><u>In 2024, Essential List 11 Streamers' Go-To Audio Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/muting-windows-update-notifications/"><u>Muting Windows Update Notifications</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-best-stop-motion-apps-for-ios-and-android-devices-for-2024/"><u>New Best Stop Motion Apps for iOS and Android Devices for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-your-computer-no-need-for-windows-11-upgrades/"><u>Optimize Your Computer: No Need for Windows 11 Upgrades</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcome-chromes-file-uploading-frustrations-on-a-pc/"><u>Overcome Chrome's File Uploading Frustrations on a PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/preventing-and-fixing-lost-steam-games-symbols/"><u>Preventing and Fixing Lost Steam Games Symbols</u></a></li>
-<li><a href="https://windows11.techidaily.com/stealth-mode-disabling-windows-wi-fi-broadcast/"><u>Stealth Mode: Disabling Windows Wi-Fi Broadcast</u></a></li>
-<li><a href="https://windows11.techidaily.com/unmasking-windows-hidden-chronicle-view-clean-up/"><u>Unmasking Windows' Hidden Chronicle - View, Clean Up!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-getting-it-just-right-the-art-of-social-media-video-dimensions/"><u>[New] 2024 Approved Getting It Just Right The Art of Social Media Video Dimensions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-key-approaches-to-compelling-client-endorsements-on-film/"><u>[New] 2024 Approved Key Approaches to Compelling Client Endorsements on Film</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/hannel-success-story-optimal-themes-and-ideas-to-boost-content-for-2024/"><u>[New] Channel Success Story Optimal Themes and Ideas to Boost Content for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-cutting-edge-techniques-recording-in-adobe-presenter-for-2024/"><u>[New] Cutting Edge Techniques Recording in Adobe Presenter for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-crafting-engaging-video-teasers-for-youtube-success/"><u>[New] In 2024, Crafting Engaging Video Teasers for YouTube Success</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-enrich-your-images-best-10-screenshot-enhancing-apps-for-smartphones-for-2024/"><u>[Updated] Enrich Your Images Best 10 Screenshot-Enhancing Apps for Smartphones for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-online-audio-video-fusion-platform/"><u>2024 Approved Online Audio Video Fusion Platform</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-errors-with-amd-195-setup/"><u>Mastering Windows Errors with AMD 195 Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-maintaining-your-note-apps-data/"><u>Mastery Over Maintaining Your Note App's Data</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-family-safety-your-complete-reference/"><u>Microsoft Family Safety: Your Complete Reference</u></a></li>
+<li><a href="https://windows11.techidaily.com/minmax-cpu-states-navigating-windows-power-control/"><u>Min/Max CPU States: Navigating Windows Power Control</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/cting-your-vids-a-comprehensive-youtube-studio-tutorial/"><u>Perfecting Your Vids A Comprehensive YouTube Studio Tutorial</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-unsupported-boots-a-5-step-windows-guide/"><u>Resolving Unsupported Boots: A 5-Step Windows Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solutions-for-overcoming-packet-loss-on-discord/"><u>Solutions for Overcoming Packet Loss on Discord</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlined-method-for-enabling-windows-11-calculator/"><u>Streamlined Method for Enabling Windows 11 Calculator</u></a></li>
+<li><a href="https://windows11.techidaily.com/unearthing-bsod-traces-within-windows-vista2008/"><u>Unearthing BSOD Traces Within Windows Vista/2008</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-windows-11s-tabbed-views/"><u>Unlock the Full Potential of Windows 11'S Tabbed Views</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-10-product-key-our-guide-to-the-top-deals/"><u>Windows 10 Product Key: Our Guide to the Top Deals</u></a></li>
 </ul></div>
 

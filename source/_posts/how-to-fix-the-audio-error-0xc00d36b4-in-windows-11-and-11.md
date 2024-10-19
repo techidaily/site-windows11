@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Audio Error 0Xc00d36b4 in Windows 11 & 11
-date: 2024-09-05T02:08:01.758Z
-updated: 2024-09-06T02:08:01.758Z
+date: 2024-10-11T20:43:32.229Z
+updated: 2024-10-18T21:54:36.691Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
 
  Below, we have listed different troubleshooting methods that can help you fix the problem in no time, regardless of the cause. Choose the solution that is most appropriate for your situation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check the File Format of the File You're Playing
 
  Different media players and codecs support different file formats, and if the file you are trying to play is in an unsupported format, the player will fail to play it, leading to the problem at hand.
@@ -41,18 +48,6 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
 
  If it is not, you can use a third-party application to convert it into a compatible format. Alternatively, you can try using another application that supports the format of your audio file.
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Run the Audio Troubleshooter
 
  Another easy way of fixing audio-related issues in Windows is by running the audio troubleshooter.
@@ -61,12 +56,6 @@ thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc9
 
  We covered how to use this handy tool in our guide on[fixing no audio on Windows](https://www.makeuseof.com/tag/no-sound-7-tips-fix-audio-issues-windows-10/) , so check that out for further details.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Re-enable Windows Media Player
 
  In some cases, while the Media Player is waiting for a missing codec or a corrupt file to load, it may become unresponsive, triggering the error code 0xc00d36b4\. If this happens, it is best to force close the media player and re-enable it to fix the problem.
@@ -79,30 +68,20 @@ Here is how you can do that:
 4. In the following window, click on the**Turn Windows features on or off** hyperlink in the left pane.  
 ![Turn Windows features on or off option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/turn-windows-features-on-or-off.jpg)
 5. Now, scroll down and expand the**Media Features** option.
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Uncheck the box associated with Windows Media Player and click**OK** to save the changes.  
 ![Disable Windows Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-windows-media-player.jpg)
 7. Confirm your action in the User Account Control prompt and restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Upon reboot, restart the service by following the same steps mentioned above.
 9. Finally, restart your computer again and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Uninstall Nero Codecs
 
  As we mentioned above, if you have Nero Codecs installed on your computer, then there is a chance that it is interfering with the processes of Groove Music or the Windows Media Player.
@@ -115,17 +94,12 @@ Here is how you can do that:
 4. Choose**Uninstall** and follow the on-screen instructions to complete the process.  
 ![Uninstall the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/win11-uninstall-program.jpg)
 5. Once done, restart your computer and check if the issue is resolved.
+
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Copy Protection
@@ -140,13 +114,22 @@ Here is how you can do that:
 2. Choose**Options** from the context menu.  
 ![Choose Options in Media Player](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/media-player-options.jpg)
 3. Head over to the**Rip Music** tab and uncheck the box associated with**Copy protect music** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Uncheck the Copy protect music option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/copy-protect-music.jpg)
 4. Click**Apply** \>**OK** to save the changes.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Update Audio Drivers
@@ -167,14 +150,11 @@ Here is how you can do that:
 
  However, if the problem persists, you can always reach out to the official Microsoft support team for further assistance. They will be able to investigate the issue and provide you with a relevant solution.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -183,4 +163,22 @@ Here is how you can do that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-innovative-typesetting-in-adobe-ae/"><u>[New] Innovative Typesetting in Adobe AE</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-optimize-your-play-streaming-in-obs-studio/"><u>[New] Optimize Your Play Streaming in OBS Studio</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stop-windows-from-automatically-locking-itself/"><u>How to Stop Windows From Automatically Locking Itself</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-flying-into-photography-discovering-the-dji-spark-advantage/"><u>In 2024, Flying Into Photography Discovering the DJI Spark Advantage</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-dialogues-the-key-to-listener-retention-for-2024/"><u>Innovative Dialogues The Key to Listener Retention for 2024</u></a></li>
+<li><a href="https://fox-place.techidaily.com/instrucciones-faciles-de-seguir-para-limpiar-y-reparar-tu-pc-en-windows-11-sin-coste-gratis/"><u>Instrucciones Fáciles De Seguir Para Limpiar Y Reparar Tu PC en Windows 11 Sin Coste (GRATIS)</u></a></li>
+<li><a href="https://windows11.techidaily.com/leading-the-pack-best-windows-11-for-fps-tracking/"><u>Leading the Pack: Best Windows 11 for FPS Tracking</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-directdraw-repair-techniques-on-the-latest-version-of-windows/"><u>Mastering DirectDraw Repair Techniques on the Latest Version of Windows</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-flip-it-how-to-reverse-video-in-final-cut-pro-2023-update/"><u>New 2024 Approved Flip It! How to Reverse Video in Final Cut Pro 2023 Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-resetting-and-restoring-search-on-windows-11-settings-ui/"><u>Quick Fixes: Resetting and Restoring Search on Windows 11 Settings UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactical-plan-to-vanquish-wows-deadly-error-132-in-osxwin/"><u>Tactical Plan to Vanquish WoW's Deadly Error #132 in OSX/Win</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-guide-to-windows-11-personalization/"><u>The Complete Guide to Windows 11 Personalization</u></a></li>
+<li><a href="https://windows11.techidaily.com/update-user-folder-names-with-ease-on-win11/"><u>Update User Folder Names with Ease on Win11</u></a></li>
+</ul></div>
 

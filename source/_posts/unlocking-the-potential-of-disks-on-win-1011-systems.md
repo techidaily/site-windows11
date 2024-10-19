@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Potential of Disks on Win 10/11 Systems
-date: 2024-09-27T19:55:40.751Z
-updated: 2024-10-01T17:29:40.481Z
+date: 2024-10-11T19:02:36.931Z
+updated: 2024-10-18T22:16:14.686Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/c7fb1a1a59ed51b20bad7caf096cb0b1673edc9a7
 
 ![Disk Management app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/6-ways-to-open-disk-management-windows-10-0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Search for Disk Management in Windows
 
 [The search feature in Windows 10 and 11](https://www.makeuseof.com/windows-search-use-guide/) lets you open any app on your computer, no matter where it's stored. You can use it to launch a built-in utility like Disk Management too. However, the search results may confuse you since Disk Management doesn't directly show up here. Let's clarify this:
@@ -49,16 +56,10 @@ thumbnail: https://thmb.techidaily.com/c7fb1a1a59ed51b20bad7caf096cb0b1673edc9a7
  Both search keywords do the same thing. Although you don't see "Disk Management" as a result, the best match will still launch the program you need to initialize or manage your storage drives.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Launch Disk Management From the Quick Access Menu
@@ -69,13 +70,20 @@ thumbnail: https://thmb.techidaily.com/c7fb1a1a59ed51b20bad7caf096cb0b1673edc9a7
 
 ![Opening Disk Management from Quick Access menu on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/opening-disk-management-from-quick-access-menu-on-windows-11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When the program opens, you'll be able to see your connected drives and start managing their partitions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Use the Run Dialog to Open Disk Management
@@ -86,21 +94,7 @@ thumbnail: https://thmb.techidaily.com/c7fb1a1a59ed51b20bad7caf096cb0b1673edc9a7
 
 ![Run dialog box with diskmgmt command in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/run-dialog-box-with-diskmgmt-command-in-windows-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This way to open Disk Management is preferable if you're busy on the keyboard and don't want to reach for your mouse.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Open Disk Management From the Control Panel
 
@@ -132,18 +126,22 @@ thumbnail: https://thmb.techidaily.com/c7fb1a1a59ed51b20bad7caf096cb0b1673edc9a7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-audio-aesthetics-high-quality-dj-template-videos-downloaded/"><u>[New] In 2024, Audio Aesthetics High-Quality DJ Template Videos Downloaded</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-online-meetings-with-these-budget-friendly-video-conferencing-services/"><u>[Updated] 2024 Approved Mastering Online Meetings with These Budget-Friendly Video Conferencing Services</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-streamline-your-social-media-find-facebook-watched-videos-easily/"><u>[Updated] 2024 Approved Streamline Your Social Media Find Facebook Watched Videos Easily</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/2024-approved-elite-car-beat-merging-software-for-mac-platforms/"><u>2024 Approved Elite Car Beat Merging Software for Mac Platforms</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-online-meetings-zoom-tips-for-chromebooks/"><u>2024 Approved Mastering Online Meetings Zoom Tips for Chromebooks</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-anarchy-how-to-heal-fractured-win11-registry-elements/"><u>Avoiding Anarchy: How to Heal Fractured Win11 Registry Elements</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-asus-motherboard-driver-updates-for-windows-systems-fresh-download-guide/"><u>Effortless ASUS Motherboard Driver Updates for Windows Systems: Fresh Download Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/from-handheneld-to-hardware-android-titles-on-windows-via-google-service/"><u>From Handheneld to Hardware: Android Titles on Windows via Google Service</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-complete-guide-on-how-to-create-a-video-slideshow-with-final-cut-pro/"><u>In 2024, Complete Guide on How to Create a Video Slideshow with Final Cut Pro</u></a></li>
-<li><a href="https://windows11.techidaily.com/software-selection-showdown-on-windows-choc-vs-wm/"><u>Software Selection Showdown on Windows: Choc vs WM</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-tasks-in-windows-11-with-a-customized-run-command-setup/"><u>Streamline Tasks in Windows 11 with a Customized Run Command Setup</u></a></li>
-<li><a href="https://solve-help.techidaily.com/transforming-vob-files-into-mp4-format-a-step-by-step-guide-for-windows-11-and-macos/"><u>Transforming VOB Files Into MP4 Format: A Step-by-Step Guide for Windows 11 and macOS</u></a></li>
-<li><a href="https://blog-min.techidaily.com/tutorial-transformez-un-fichier-mxf-en-format-video-wmv-gratuitement-sur-la-toile-avec-movavi/"><u>Tutorial: Transformez Un Fichier MXF en Format Vidéo WMV Gratuitement Sur La Toile Avec Movavi</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-last-to-first-deconstructing-your-video-watch-list/"><u>[New] From Last to First Deconstructing Your Video Watch List</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-completely-remove-your-instagram-footprint-forever/"><u>[Updated] How to Completely Remove Your Instagram Footprint Forever</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/enhance-your-training-routine-with-garmin-vivoactive-3s-music-feature-for-athletes/"><u>Enhance Your Training Routine with Garmin Vivoactive 3'S Music Feature for Athletes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-innovation-in-computers-and-gaming-dive-into-toms-hardware-insights/"><u>Exploring Innovation in Computers and Gaming - Dive Into Tom's Hardware Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-move-from-a-convenient-pin-to-robust-password-login-on-windows-11/"><u>How to Move From a Convenient PIN to Robust Password Login on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-resolve-system-call-failure-in-windows-os/"><u>How to Resolve 'System Call Failure' In Windows OS</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-xiaomi-13-ultra-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Xiaomi 13 Ultra to iPhone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-xiaomi-redmi-12-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Xiaomi Redmi 12 5G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-brings-ai-to-windows-11-revolutionizing-the-taskbar-experience/"><u>Microsoft Brings AI to Windows 11, Revolutionizing the Taskbar Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-through-10-steps-for-win-11s-display-settings/"><u>Navigate Through 10 Steps for Win 11'S Display Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/sleepy-systems-unlocked-keyboard-and-mouse-fixes-for-winos/"><u>Sleepy Systems Unlocked: Keyboard & Mouse Fixes for WinOS</u></a></li>
+<li><a href="https://facebook.techidaily.com/strategic-approach-to-personalized-fb-navigation-tools/"><u>Strategic Approach to Personalized Fb Navigation Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-essential-guide-to-vector-databases-and-their-influence-on-ai-development/"><u>The Essential Guide to Vector Databases and Their Influence on AI Development</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-rejuvenation-routine-top-13-methods-for-restoring-windows/"><u>The Rejuvenation Routine: Top 13 Methods for Restoring Windows</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-vivo-y100-frp-by-drfone-android/"><u>The Updated Method to Bypass Vivo Y100 FRP</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-file-unpreviews-in-windows-based-outlook/"><u>Troubleshooting File Unpreviews in Windows-Based Outlook</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-hour-hand-healed-harmonize-system-time/"><u>Windows Hour Hand Healed: Harmonize System Time</u></a></li>
 </ul></div>
 

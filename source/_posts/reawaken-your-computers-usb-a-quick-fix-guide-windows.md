@@ -1,7 +1,7 @@
 ---
 title: "Reawaken Your Computer's USB: A Quick Fix Guide, Windows"
-date: 2024-10-06T20:53:30.364Z
-updated: 2024-10-13T02:30:18.723Z
+date: 2024-10-18T03:15:08.879Z
+updated: 2024-10-18T18:38:22.261Z
 tags:
   - windows10
   - windows11
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
  Finally, grab a USB cable (or flash drive) and gently wiggle it around. If the drive is moving and feels loose---typically this will be up and down---then you have a problem.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Fix a Broken USB Port on PC and Laptop
@@ -65,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
  Of course, you could take this to an expert for repair, but there will be associated costs with this. If you want to do it yourself, make sure you [learn how to solder](http://www.makeuseof.com/tag/learn-solder-simple-tips-projects/). If you're not sure, check out the software fixes first.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can Restarting a Computer Fix Broken USB Ports?
 
  "Have you tried turning it off and back on again?"
@@ -79,19 +72,6 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
  This old tech support standby is well-known for a reason: it works!
 
  With your unrecognized USB device correctly inserted into the suspect USB port, restart your computer. Once the operating system has rebooted, it should detect the USB device. If not, it's worth looking at the device in the Windows device manager.
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Check USB Ports on Windows 10 With Device Manager
 
@@ -108,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 4. Right-click USB Host Controller (and any duplicates) and select **Uninstall**  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Uninstall USB Host Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr-host-controller-uninstall.png)
@@ -141,9 +121,36 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 6. Change the drop-down menu to **Disabled**  
 ![Alter USB power settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/muo-windows-dead-usb-suspend-bg-2022.jpg)
 7. Click **Apply** and **OK** to confirm
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Finally, reboot your PC to ensure this change is applied
 
  You should find that any USB ports that were not working have now been fixed.
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## USB Port Still Not Working? Reset the BIOS/UEFI Settings
 
@@ -169,19 +176,18 @@ thumbnail: https://thmb.techidaily.com/da9934bcfc52017f09c9dd8ece522ceaa1a0b2552
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-friendly-reminder-how-to-chill-at-someones-tiktok-party-for-2024/"><u>[New] Friendly Reminder How To Chill at Someone's TikTok Party for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-streamlining-online-meetings-zoom-and-gmail-sync-strategies/"><u>[New] In 2024, Streamlining Online Meetings Zoom & Gmail Sync Strategies</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-leading-sound-transformation-tools-magic-edition-included/"><u>[New] Leading Sound Transformation Tools, Magic Edition Included</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-tailored-video-experience-creating-a-structured-watch-later-list-on-youtube/"><u>[New] Tailored Video Experience Creating a Structured 'Watch Later' List on YouTube</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-five-key-approaches-to-youtube-livestream-capture/"><u>[Updated] Five Key Approaches to Youtube Livestream Capture</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-step-by-step-guide-maximizing-spotify-ad-reach/"><u>2024 Approved Step-by-Step Guide Maximizing Spotify Ad Reach</u></a></li>
-<li><a href="https://windows11.techidaily.com/6-underestimated-downsides-of-saving-on-activation-keys/"><u>6 Underestimated Downsides of Saving on Activation Keys</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoid-panic-recover-lost-data-with-these-steps/"><u>Avoid Panic, Recover Lost Data with These Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/cut-through-the-frustration-swift-solutions-for-ms-teams-error-80080300-in-win11/"><u>Cut Through the Frustration: Swift Solutions for MS Teams Error 80080300 in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/decreasing-cpu-load-in-setup-hosts/"><u>Decreasing CPU Load in Setup Hosts</u></a></li>
-<li><a href="https://windows11.techidaily.com/delving-into-the-spiritual-command-center-of-windows-11/"><u>Delving Into the Spiritual Command Center of Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/empower-android-devices-incor-cookie-dough-ratio/"><u>Empower Android Devices: Incor Cookie Dough Ratio</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-live-video-showdown-which-is-superior-virusmixwirecast/"><u>In 2024, Live Video Showdown Which Is Superior, VirusMix/WireCast?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/is-your-video-being-compressed-on-google-drive/"><u>Is Your Video Being Compressed on Google Drive?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-avoiding-pitfalls-understanding-youtube-standards/"><u>[New] 2024 Approved Avoiding Pitfalls Understanding YouTube Standards</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-sony-a6400-screen-blackout-mystery-for-2024/"><u>[Updated] Sony A6400 Screen Blackout Mystery for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-video-dimensionssize-guide-for-upload-settings/"><u>2024 Approved YouTube Video Dimensions/Size [Guide for Upload Settings]</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/captivating-your-network-streamlining-content-via-wirecast-to-facebook/"><u>Captivating Your Network Streamlining Content via Wirecast to Facebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-the-benefits-of-arm-based-copilotplus-computers-why-theyre-perfect-for-me/"><u>Exploring the Benefits of ARM-Based Copilot+ Computers: Why They're Perfect for Me</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-infinix-hot-30-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Infinix Hot 30 5G Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-honor-x7b-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Honor X7b PC | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/infrastructure-adaptation-studies/"><u>Infrastructure Adaptation Studies</u></a></li>
+<li><a href="https://facebook.techidaily.com/keep-your-fb-profile-private-strangers-not/"><u>Keep Your FB Profile Private, Strangers' Not</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-7-linux-qualities-deserving-a-spot-in-the-next-windows-update/"><u>Top 7 Linux Qualities Deserving a Spot in the Next Windows Update</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-free-flv-video-editing-software-top-picks/"><u>Updated In 2024, Free FLV Video Editing Software Top Picks</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-lifespan-extension-continuity-and-microsoft/"><u>Windows 11, Lifespan Extension, Continuity, and Microsoft.</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-at-gaming-on-windows-11-a-step-by-step-performance-optimization-tutorial/"><u>Winning at Gaming on Windows 11: A Step-by-Step Performance Optimization Tutorial</u></a></li>
 </ul></div>
 

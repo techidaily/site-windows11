@@ -1,7 +1,7 @@
 ---
 title: "Jumpstart Joy: Eliminate Windows 11'S Sluggishness"
-date: 2024-10-07T20:54:29.350Z
-updated: 2024-10-12T22:07:56.354Z
+date: 2024-10-11T23:37:51.067Z
+updated: 2024-10-18T21:10:13.838Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/860b3898b4af7e1c1dc6c593b5d2eb5997c8c8e6a
 
  If you suspect that having insufficient storage space could be degrading the performance of your device, turn on Storage Sense to boost your device's performance. If you're unfamiliar with this process, see our guide on[using Storage Sense on Windows 11](https://www.makeuseof.com/windows-11-storage-sense-guide/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Set the Power Plan to Best Performance
 
  Windows users can choose between two power plans: high performance and balanced. Although the balanced power plan can help lower power consumption (particularly on laptops), it limits the device's performance. Since the balanced power plan is often selected by default, you are likely using the same if you have not changed the power plan before.
@@ -46,19 +53,6 @@ To turn off these services, follow these steps:
 1. Type**"System Configuration"** into Windows Search and open the**System Configuration** window.  
 ![Open System Configuration Window From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-system-configuration-window-from-windows-search.jpg)
 2. Go to the**Services** tab and check the box beside**Hide all Microsoft services** .
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Check the boxes beside the services you don't use much from the remaining services.
 4. Click**Disable all** \>**Apply** \>**OK** .  
@@ -80,16 +74,17 @@ To turn off these notifications, follow the below steps:
 ![Disable the Toggle Next to Specific Apps in the Notifications From Apps and Other Senders Section in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-the-toggle-next-to-specific-apps-in-the-notifications-from-apps-and-other-senders-section-in-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Some Windows Permissions
@@ -102,17 +97,10 @@ To turn off these notifications, follow the below steps:
 ![Windows Permissions Settings in the Privacy and Security Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-permissions-settings-in-the-privacy-and-security-tab-of-the-windows-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Don't Let Windows Updates Hamper Your Device's Performance
@@ -128,6 +116,13 @@ To pause updates, follow these steps:
 3. Expand the dropdown next to**Pause updates** and select the desired timeframe.  
 ![Paused Windows Updates in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-2-Resuming-the-Paused-Windows-Updates-in-Windows-Settings-App.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Besides this, Windows updates are sometimes buggy and can slow down your computer's performance. If the symptoms started after this, you could[fix Windows slowing down after an update](https://www.makeuseof.com/windows-10-slow-after-update-fix/) in several ways.
 
 ## 7\. Check Which Apps Burden Your CPU, Memory, and Storage
@@ -141,10 +136,10 @@ To pause updates, follow these steps:
 ![high cpu usage service task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/high-cpu-usage-service-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Some Other Ways to Improve Performance
@@ -152,13 +147,6 @@ To pause updates, follow these steps:
  Besides the above tips, removing unwanted programs, defragmenting storage drives, debloating your Windows operating system, and disabling visual effects are other ways to speed up your device. Our[guide on speeding up Windows 11](https://www.makeuseof.com/windows-11-speed-up-tricks/) includes more detailed instructions on how to make these tweaks.
 
 So, try them out to boost your system's performance.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Speed Up Your Slow and Laggy Windows 11 PC
 
@@ -181,22 +169,15 @@ So, try them out to boost your system's performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-integrating-slack-and-filmora-for-smooth-meeting-operations/"><u>[New] 2024 Approved Integrating Slack & Filmora for Smooth Meeting Operations</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-7-apps-for-high-quality-youtube-live-streaming-on-iphones-and-android/"><u>[New] In 2024, Essential 7 Apps for High-Quality YouTube Live Streaming on iPhones & Android</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-4-proven-methods-to-perfect-instagram-video-loops/"><u>[Updated] In 2024, 4 Proven Methods to Perfect Instagram Video Loops</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-comprehensive-guide-to-downloading-standardized-youtube-images/"><u>[Updated] In 2024, Comprehensive Guide to Downloading Standardized YouTube Images</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-deciphering-whatsapp-talk-mechanics/"><u>2024 Approved Deciphering WhatsApp Talk Mechanics</u></a></li>
-<li><a href="https://windows11.techidaily.com/best-non-procreate-sketch-tools-for-windows-pc/"><u>Best Non-Procreate Sketch Tools for Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/cease-windows-logging-each-app-opener/"><u>Cease Windows Logging Each App Opener</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-offline-microsoft-onedrive-file-management/"><u>Guide to Offline Microsoft OneDrive File Management</u></a></li>
-<li><a href="https://blog-min.techidaily.com/guide-to-streaming-yt-music-in-the-background-during-xbox-gaming-sessions/"><u>Guide to Streaming YT Music in the Background During Xbox Gaming Sessions</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-non-existent-printmanagement-in-settings/"><u>Navigating Through Non-Existent 'PrintManagement' In Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/reclaim-your-desktop-win-11-icon-recovery-tips/"><u>Reclaim Your Desktop: Win 11 Icon Recovery Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/reset-windows-strategies-8-techniques-unveiled/"><u>Reset Windows Strategies: 8 Techniques Unveiled</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-windows-sluggish-discord-overlay-performance/"><u>Reviving Windows' Sluggish Discord Overlay Performance</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-login-audit-success-or-no-go-indicators/"><u>Windows Login Audit: Success or No-Go Indicators</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revitalize-your-photos-bringing-back-photo-viewer-in-win-11/"><u>[New] Revitalize Your Photos Bringing Back Photo Viewer in Win 11</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-how-to-make-your-fb-messages-go-global-solve-video-send-issues-iosandroid/"><u>[Updated] In 2024, How to Make Your FB Messages Go Global Solve Video Send Issues iOS/Android</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-you-trust-the-privacy-of-chatgpt-unveiling-the-facts/"><u>Can You Trust the Privacy of ChatGPT? Unveiling the Facts</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-your-slow-internet-matching-mobile-and-desktop-speeds/"><u>Fix Your Slow Internet: Matching Mobile and Desktop Speeds</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-6-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone 6 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-lockout-due-to-failed-sign-in-attempts/"><u>Resolving Windows Lockout Due to Failed Sign-In Attempts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-methods-to-quickly-refresh-your-acer-sound-device-software/"><u>Simple Methods to Quickly Refresh Your Acer Sound Device Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-case-for-high-dynamic-range-in-modern-videography/"><u>The Case for High Dynamic Range in Modern Videography</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-fix-guide-stabilizing-ps4-input-link-on-pc/"><u>The Ultimate Fix Guide: Stabilizing PS4 Input Link on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-how-to-fix-older-user-credential-message/"><u>Unlocking: How to Fix Older User Credential Message</u></a></li>
 </ul></div>
 

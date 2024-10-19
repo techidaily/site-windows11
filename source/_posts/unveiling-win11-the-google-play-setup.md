@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Win11: The Google Play Setup"
-date: 2024-09-25T02:10:57.902Z
-updated: 2024-10-01T17:58:16.626Z
+date: 2024-10-13T19:37:50.784Z
+updated: 2024-10-18T22:19:05.230Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/526587f9f9083224ba90b469fae9f684a8ef66dad
 ![uninstall windows subsystem for android](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/uninstall-windows-subsystem-for-android.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you have Windows Subsystem for Android installed, you can uninstall it from the Apps & features section.
@@ -55,16 +55,16 @@ To uninstall WSA:
 4. Locate and click on**Windows Subsystem for Android** under**App list** .
 5. Click the**three dots** and select**Uninstall** . Click**Uninstall** again to confirm the action.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Step 2: Enable Developer Mode in Windows 11
 
 ![enable-developer-mode-windows-11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/enable-developer-mode-windows-11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Developer Mode allows you to sideload apps and access other developer features, including remote installation apps via SSH services.
 
@@ -75,15 +75,28 @@ To enable Developer Mode:
 3. In the right pane, click on**For Developers.**
 4. Toggle the switch for**Developer Mode** and set it to**On** . Click**Yes** to confirm the action.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 3: Enable Virtual Machine to Run Android Apps
 
 ![enable windows hypervisor platform windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/enable-windows-hypervisor-platform-windows-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You need to[enable and configure Virtual Machine Platform and Windows Hypervisor Platform](https://www.makeuseof.com/windows-11-enable-hyper-v/) to run Windows Subsystem for Android on Windows 11\. Skip this step if you have installed WSA previously.
@@ -108,19 +121,6 @@ To install WSL and a Linux distro on Windows 11:
 ![windows subsystem for linux](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-subsystem-for-linus-1.jpg)
 3. Next, search for a Linux distro. We’ll use Ubuntu. So, search for**Ubuntu** and install the distro. If you have a Linux distro installed, you can skip to the next step  
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Ubuntu distro windows 11 install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/ubuntu-distro-windows-11-install-1.jpg)
 4. Once installed, press the**Win** key and type**Ubuntu** . Right-click on**Ubuntu** and select**Run as administrator** .
 
@@ -137,26 +137,12 @@ To install WSL and a Linux distro on Windows 11:
 ![copy github url magiskonwsa](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/copy-github-url-magiskonwsa.jpg)
 3. Copy the**GitHub URL** under the**HTTPS** tab.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![download install magiskonWSA github command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/download-install-magiskonwsa-github-command-prompt.jpg)
 4. Open the Ubuntu terminal and type the following command followed by the GitHub URL:  
 `git clone https://github.com/LSPosed/MagiskOnWSALocal.git`
 5. Press**Enter** to close the GitHub repository to the Linux user account on your computer.  
 ![run script magiskonwsa local install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/run-script-magiskonwsa-local-install.jpg)
 6. Next, type the following command to move to the scripts folder. This will change the directory to the specified folder.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `cd MagiskOnWSALocal  
 cd scripts`
@@ -174,22 +160,30 @@ cd scripts`
 3. Next, for**WSA release** type, select**Retail Stable Channel** .  
 ![WSA retail type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/wsa-retail-type.jpg)
 4. Select**No** in the**Do you want to** **Root WSA dialog** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select**Yes** in the**Do you want to install GApps** dialog.  
 ![which GApps you want to install](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/which-gapps-you-want-to-install.jpg)
 6. Select**OpenGApps** in the**Which GApps do you want to install** dialog.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Next, in the**Do you want to keep Amazon Appstore** dialog, select**Yes** or**No** , depending on your requirement.
 8. Select**No** in the**Do you want to compress the output** dialog.
 9. MagiskOnWSALocal will start generating custom Windows subsystem for the Android image.
 
  This process may take some time to complete. So, wait for the process to complete.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 7: Install Windows Subsystem for Android
 
@@ -217,10 +211,10 @@ or
 4. In the Command Prompt window, type the following command to change the directory to the WSA folder:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `cd C:\WSA`
@@ -232,6 +226,13 @@ or
 To enable Developer mode on Windows Subsystem for Android:
 
 ![Windows subsystem for android enable developer mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-subsystem-for-android-enable-developer-mode.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Press the**Win** key, type**Windows Subsystem for Android** , and open the app from the search results.
 2. Next, open the**Developer** tab in the left pane.
@@ -263,21 +264,18 @@ To enable Developer mode on Windows Subsystem for Android:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-capturing-clarity-ranking-5-excellent-live-stream-devices/"><u>[Updated] In 2024, Capturing Clarity Ranking 5 Excellent Live Stream Devices</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-funniest-face-changes-in-photography-tools-for-2024/"><u>[Updated] The Funniest Face Changes in Photography Tools for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-the-secrets-of-slow-motion-video-production-for-instagram-impact/"><u>[Updated] Unveiling the Secrets of Slow Motion Video Production for Instagram Impact</u></a></li>
-<li><a href="https://windows11.techidaily.com/combat-the-frustration-7-methods-for-restoring-windows-notepad/"><u>Combat the Frustration: 7 Methods for Restoring Window's Notepad</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/custom-whisper-of-your-electric-car-denied-by-american-laws/"><u>Custom Whisper of Your Electric Car Denied by American Laws</u></a></li>
-<li><a href="https://windows11.techidaily.com/dive-into-dark-mode-for-notepad-in-windows-11-os/"><u>Dive Into Dark Mode for Notepad in Windows 11 OS</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-android-flips-video-frames-for-the-ages/"><u>How Android Flips Video Frames for the Ages</u></a></li>
-<li><a href="https://windows11.techidaily.com/improving-startup-order-in-windows-11/"><u>Improving Startup Order in Windows 11</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-tech-review-showdown-comparing-gopros-hero5-and-garmin-virb-2e/"><u>In 2024, Tech Review Showdown Comparing GoPro's Hero5 and Garmin VIRB (2E)</u></a></li>
-<li><a href="https://windows11.techidaily.com/leveraging-powershell-for-user-account-control/"><u>Leveraging PowerShell for User Account Control</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-oneplus-open-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your OnePlus Open Phone Now with These Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-for-genuine-adobe-error-message/"><u>Quick Fix for Genuine Adobe Error Message</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-to-correct-the-nospinlockavailable-system-error-code/"><u>Step-by-Step Tutorial to Correct the NO_SPIN_LOCK_AVAILABLE System Error Code</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-xiaomi-redmi-note-13-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Xiaomi Redmi Note 13 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719348778059-troubleshooting-wwinplusp-glitch-on-pc-solutions-included/"><u>Troubleshooting: WWin+P Glitch on PC, Solutions Included!</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-secrets-for-mastering-volume-control-in-windows-11/"><u>Unlock Secrets for Mastering Volume Control in Windows 11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fix-facebook-videos-not-playing-on-androidiphonechrome/"><u>[New] In 2024, Fix Facebook Videos Not Playing on Android/iPhone/Chrome</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-decoding-instagrams-max-video-length-policy/"><u>2024 Approved Decoding Instagram's Max Video Length Policy</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-vr-shopping-experience-optimization/"><u>2024 Approved VR Shopping Experience Optimization</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-download-updated-amd-radeon-hd-drivers-for-windows/"><u>Find and Download Updated AMD Radeon HD Drivers for Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-11-pro-max-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 11 Pro Max using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-smartwatch-selection-for-2e24-in-depth-analysis-by-tech-specialists/"><u>Leading Smartwatch Selection for 2E24: In-Depth Analysis by Tech Specialists</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-downloads-weighing-choco-against-wm/"><u>Mastering Windows Downloads: Weighing Choco Against WM</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-delete-temp-files-easily/"><u>Mastering Windows: Delete Temp Files Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-services-woes-a-guide-to-fixing-the-non-operational-tool/"><u>Overcoming Windows Services Woes: A Guide to Fixing the Non-Operational Tool</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/resolving-technical-hiccups-during-your-gotomeetings-expert-tips-and-solutions/"><u>Resolving Technical Hiccups During Your GotoMeetings: Expert Tips and Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/reverse-webp-images-in-chrome-for-windows-users/"><u>Reverse WebP Images in Chrome for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/unclutter-your-windows-desktop-space/"><u>Unclutter Your Windows Desktop Space</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-your-wi-fi-mouse-isnt-working-quick-fixes-for-windows/"><u>Why Your Wi-Fi Mouse Isn't Working? Quick Fixes for Windows</u></a></li>
 </ul></div>
 

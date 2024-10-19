@@ -1,7 +1,7 @@
 ---
 title: Pinpointing Where Windows Stores New Software
-date: 2024-10-07T00:52:38.311Z
-updated: 2024-10-12T21:27:25.850Z
+date: 2024-10-16T16:05:13.774Z
+updated: 2024-10-19T00:07:55.763Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
 3. In the folder that opens, right-click the required program’s icon and click on**Open file location** one final time.
 4. You should now be in the installation folder of the program.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Find the Installation Folder of a Program Using Its Desktop Shortcuts
 
  Another quick way to find the installation directory of a program or application is to utilize the program’s[desktop shortcut](https://www.makeuseof.com/what-is-desktop-shortcut-how-work/) . This method will only work if you have an existing shortcut to the program on your desktop.
@@ -54,17 +47,10 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
 3. Click on the**Shortcut** tab, and you will find the installation path in the**Target** field.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Locate the Folder Where a Program Is Installed Using Task Manager
@@ -78,14 +64,21 @@ thumbnail: https://thmb.techidaily.com/2dc71f07a766ca604beda3fe20bd5fd81321c87e0
 2. Once the Task Manager is up and running, click on the**Details** tab to get a list of all[currently running background processes](https://www.makeuseof.com/windows-pc-too-many-background-processes/) and applications.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. After locating the program you need, right-click and then click on**Open file location** .
 4. A new File Explorer window will open up, and you will have found the program's installation directory.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Access the Installation Folder of a Program Using File Explorer
 
@@ -99,6 +92,19 @@ To find where a program is located using the File Explorer:
 2. Navigate to**This PC** and click on the drive where Windows is installed (typically the C Drive).  
 ![program files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/program-files-explorer.jpg)
 3. Navigate to**Program Files > Program Files (x86)** and then scroll the list of folders until you find one with the program name you’re looking for.
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Finding a Program's Install Location Is Easy
 
@@ -121,20 +127,22 @@ To find where a program is located using the File Explorer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-the-artists-toolbox-essential-video-tips-for-musicians-on-youtube/"><u>[New] 2024 Approved The Artist's Toolbox Essential Video Tips for Musicians on YouTube</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solved-8-fixes-for-firefox-not-responding-issues/"><u>[SOLVED] 8 Fixes for Firefox Not Responding Issues</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-simplified-image-management-in-google-photos/"><u>[Updated] Simplified Image Management in Google Photos</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-failed-rpc-calls-top-tips-for-windows-users/"><u>Addressing Failed RPC Calls: Top Tips for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-unnoticed-use-of-your-pcs-cam-on-windows-11/"><u>Avoiding Unnoticed Use of Your PC's Cam on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-another-program-uses-device-in-windows-sound-system/"><u>Correcting 'Another Program Uses Device' In Windows Sound System</u></a></li>
-<li><a href="https://windows11.techidaily.com/cutting-edge-tips-for-individualized-pattern-security-on-windows/"><u>Cutting-Edge Tips for Individualized Pattern Security on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/dazzling-holiday-windows-a-celebration-of-joy-and-light/"><u>Dazzling Holiday Windows: A Celebration of Joy & Light</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-and-fixing-error-0x80040610-in-microsoft-office-suite/"><u>Decoding and Fixing Error 0X80040610 in Microsoft Office Suite</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-asus-rog-phone-8-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Asus ROG Phone 8 Pro to Outlook | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-honor-magic-5-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Honor Magic 5 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oppo-find-x7-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Oppo Find X7 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-xp-workspace-your-next-creative-filmmaker/"><u>In 2024, XP Workspace Your Next Creative Filmmaker</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719340671976-run-a-zero-cost-locally-accessible-gpt-on-your-pc-use-gpt4all/"><u>Run a Zero-Cost, Locally Accessible GPT on Your PC – Use GPT4All</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-mobilize-your-marketing-easy-youtube-channel-launch-tips-for-entrepreneurs/"><u>[New] 2024 Approved Mobilize Your Marketing Easy YouTube Channel Launch Tips for Entrepreneurs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-elevating-your-live-experience-with-recorded-content/"><u>[New] Elevating Your Live Experience with Recorded Content</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-collaborative-sing-along-tiktok-feature/"><u>[Updated] Collaborative Sing-Along TikTok Feature</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-cutting-edge-game-recording-for-league-of-legends-lol-players/"><u>2024 Approved Cutting-Edge Game Recording for League of Legends LoL Players</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-on-perfecting-zoom-video-conferencing-for-youtube/"><u>2024 Approved Expert Tips on Perfecting Zoom Video Conferencing for YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/adding-visual-disk-space-analyzer-to-windows-explorer-menu/"><u>Adding Visual Disk Space Analyzer to Windows Explorer Menu</u></a></li>
+<li><a href="https://facebook.techidaily.com/boost-interaction-engage-friends-with-messengers-query-games/"><u>Boost Interaction: Engage Friends with Messenger's Query Games</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fixing-gpus-fixedcode-22-issue/"><u>Fixing GPU's FixedCode #22 Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-fixing-inaccessible-click-areas-in-windows-11/"><u>Guide to Fixing Inaccessible Click Areas in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-maximize-your-windows-11-understanding-copilot-key-benefits/"><u>How to Maximize Your Windows 11: Understanding Copilot Key Benefits</u></a></li>
+<li><a href="https://windows11.techidaily.com/interpreting-complex-group-policies-on-windows-in-three-phases/"><u>Interpreting Complex Group Policies on Windows in Three Phases</u></a></li>
+<li><a href="https://windows11.techidaily.com/non-edge-processes-and-their-role-in-tasking/"><u>Non-Edge Processes and Their Role in Tasking</u></a></li>
+<li><a href="https://windows11.techidaily.com/overriding-read-only-protection-for-windows-files/"><u>Overriding Read-Only Protection for Windows Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/overturning-modern-windows-11-search-for-classic-icons/"><u>Overturning Modern Windows 11 Search for Classic Icons</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/razer-portal-unveiled-top-wireless-gaming-headset-for-pro-players/"><u>Razer Portal Unveiled: Top Wireless Gaming Headset for Pro Players</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-the-error-roblox-inaccessible-due-to-user-configuration/"><u>Resolving the Error: Roblox Inaccessible Due to User Configuration</u></a></li>
+<li><a href="https://windows11.techidaily.com/unexpected-guests-unrelated-processes-with-edge/"><u>Unexpected Guests: Unrelated Processes with Edge</u></a></li>
 </ul></div>
 

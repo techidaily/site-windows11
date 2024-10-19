@@ -1,7 +1,7 @@
 ---
 title: How to Activate the Forgotten Windows Patcher
-date: 2024-09-05T02:08:04.215Z
-updated: 2024-09-06T02:08:04.215Z
+date: 2024-10-14T17:50:24.553Z
+updated: 2024-10-18T19:12:07.221Z
 tags:
   - windows10
   - windows11
@@ -60,14 +60,22 @@ To run the Windows Update troubleshooter:
 5. Click the**Scan now** button.  
 ![Scan for Malware on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/scan-for-malware-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for Windows to finish scanning the computer and, if threats are found, apply the recommended fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Restore the Windows Update Service Manually via the Registry Editor
 
  It's possible that a recent update or system change has messed up some of the registry files, causing the Windows Update service to go missing. If that's the case, you can try restoring the Windows Update service manually by editing the[Windows Registry](https://www.makeuseof.com/tag/what-is-the-windows-registry-editor-and-how-do-i-use-it-makeuseof-explains/) . However, you should only do this if you're comfortable editing registry files.
@@ -84,12 +92,6 @@ To run the Windows Update troubleshooter:
 6. Right-click the**wuauserv** , select**Export** , and save the key on your computer.  
 ![Registry Editor Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/registry-editor-window.jpg)
 7. Right-click the**wuauserv** again and select**Delete** .
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Select**Yes** to confirm.
 9. Exit the Registry Editor.
 10. Right-click anywhere on an empty spot on the desktop and select**New > Text Document** . This will open a blank Notepad document.
@@ -168,22 +170,18 @@ To run the Windows Update troubleshooter:
 12. Click the**File** menu in the top left corner and select**Save as** .  
 ![Saving Notepad Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/saving-notepad-document.jpg)
 13. Save the file with**.reg** extension.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 14. Double-click the reg file to run it. Select**Yes** if the User Account Control prompt appears.
 
  Restart your computer after this and see if the Windows Update service appears in the Services app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Factory Reset Windows
 
  Lastly, if none of the above solutions work, you can consider resetting Windows to its default settings. This will revert your computer to factory settings and remove any third-party software packages.
@@ -198,21 +196,16 @@ To reset your Windows computer:
 ![Reset Windows Computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/reset-windows-computer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  From there, follow the on-screen prompts to complete the process. After that, the Windows Update service should appear as before.
 
  Using the Settings app isn't the only way to reset Windows. If you want to take a different approach, check out these[various methods to factory reset your Windows computer](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) .
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Restoring the Missing Windows Update Service
 
  It is vital to keep your Windows computer updated to the most recent version. However, you might have trouble doing so if the Windows Update service vanishes from your computer. Hopefully, one or more fixes in this guide have helped restore the missing Windows Update service, and you are able to install updates as before.
@@ -223,8 +216,6 @@ To reset your Windows computer:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -232,4 +223,20 @@ To reset your Windows computer:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-transforming-education-with-instructional-videos/"><u>[New] 2024 Approved Transforming Education with Instructional Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-elevate-your-online-presence-step-by-step-reddit-tips/"><u>[New] Elevate Your Online Presence Step-By-Step Reddit Tips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-nintendos-best-hd-recorders-for-enthusiasts/"><u>[New] Nintendo's Best HD Recorders for Enthusiasts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-top-13-effortless-revenue-strategies-for-newbies-on-reddit/"><u>[New] Top 13 Effortless Revenue Strategies for Newbies on Reddit</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-shine-and-share-the-art-of-crafting-instagram-spotlights-3-ways/"><u>[Updated] Shine and Share The Art of Crafting Instagram Spotlights (3 Ways)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-no-expense-required-remove-coffee-stains-from-iphone-photos/"><u>2024 Approved No Expense Required Remove Coffee Stains From iPhone Photos</u></a></li>
+<li><a href="https://windows11.techidaily.com/expanding-external-devices-in-explorers-side/"><u>Expanding External Devices in Explorer's Side</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/eyepoint-expertise-essay/"><u>Eyepoint Expertise Essay</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enable-or-disable-in-hand-typing-windows-10/"><u>How to Enable or Disable In-Hand Typing Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-projection-failure-issue/"><u>Overcoming Windows Projection Failure Issue</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/step-by-step-guide-to-protected-youtube-to-mp3-conversions/"><u>Step-by-Step Guide to Protected YouTube-to-MP3 Conversions</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-swiftly-eradicating-windows-steams-e84-error/"><u>Strategies for Swiftly Eradicating Windows Steam's E84 Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-8-personalization-hacks-for-windows-1011-via-bubbleui/"><u>Top 8 Personalization Hacks for Windows 10/11 via BubbleUI</u></a></li>
+</ul></div>
 

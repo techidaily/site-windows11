@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Resolving Windows Errors in Windows 11
-date: 2024-09-24T16:06:00.895Z
-updated: 2024-10-01T23:44:44.662Z
+date: 2024-10-13T00:16:34.884Z
+updated: 2024-10-18T18:20:32.399Z
 tags:
   - windows10
   - windows11
@@ -32,29 +32,22 @@ thumbnail: https://thmb.techidaily.com/fe488ca615edc9308d7ef5f18a2de9eeeab475c2b
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-sfc-scannow-command.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It’s also recommended to run a Deployment Image Servicing and Management scan, which can resolve Windows system image issues. The System File Checker tool doesn’t work when there are issues with the system image. So, try executing this command before the SFC scan as well:
 
 `Dism /Online /Cleanup-Image /RestoreHealth`
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Remove Third-Party Antivirus Software
 
  Do you have an alternative third-party antivirus tool installed on your PC? If so, then there’s a possibility that antivirus software is causing the issue by conflicting with Microsoft Defender. At least try turning off the third-party AV utility by right-clicking the system tray icon for the app and selecting a disable context menu setting.
 
  If disabling the third-party antivirus software works, you have two options. You can re-enable that antivirus software and utilize the alternative antivirus scanner it provides. Or you can completely uninstall the third-party antivirus software if you prefer Microsoft Defender. Our guide to removing Windows software includes numerous methods for uninstalling programs.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Modify the Windows Defender Registry Key
 
@@ -72,17 +65,10 @@ thumbnail: https://thmb.techidaily.com/fe488ca615edc9308d7ef5f18a2de9eeeab475c2b
 7. Select**OK** to confirm the value for the DWORD.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Reset the Windows Security App
@@ -90,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/fe488ca615edc9308d7ef5f18a2de9eeeab475c2b
  Resetting Windows Security is worth trying whenever that app isn’t working right. In this case, something is up with the antivirus component of that app. You can reset that app within Settings or by executing a PowerShell command. Our article about[resetting Windows Security](https://www.makeuseof.com/windows-11-reset-windows-security/) tells you how to apply this potential resolution in three different ways.
 
 ![The Reset option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Run a Malwarebytes Scan
 
@@ -104,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/fe488ca615edc9308d7ef5f18a2de9eeeab475c2b
 ![The Install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/install-button-for-malwarebytes.jpg)
 7. Select**Me or my family** (for personal use) at the production selection step and click**Next** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Click**Skip this for now** if you prefer not to install the additional Malwarebytes Browser Guard software.  
 ![The Skip this for now option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/skip-this-for-now-option.jpg)
 9. Select**Done** to finish.
@@ -115,10 +115,10 @@ thumbnail: https://thmb.techidaily.com/fe488ca615edc9308d7ef5f18a2de9eeeab475c2b
 13. Press the**Quarantine** button after the scan.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this potential resolution works, you can keep Malwarebytes installed for manual scanning. It’s a 14-day trial of the Premium version, and the real-time protection will only last a couple of weeks. However, you can disable the Malwarebytes protection to ensure it doesn’t conflict with Microsoft Defender by right-clicking the utility’s system tray icon and deselecting the**Malware** ,**Ransomware** ,**Exploit** , and**Web Protection** options.
@@ -137,10 +137,10 @@ thumbnail: https://thmb.techidaily.com/fe488ca615edc9308d7ef5f18a2de9eeeab475c2b
 4. Click**Not Configured** if that policy is set to**Enabled** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Turn Off Microsoft Defender Antivirus policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-microsoft-defender-antivirus.jpg)
@@ -177,24 +177,15 @@ thumbnail: https://thmb.techidaily.com/fe488ca615edc9308d7ef5f18a2de9eeeab475c2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-dividing-drama-a-step-by-step-chapters-integration-on-vimeo/"><u>[New] Dividing Drama A Step-by-Step Chapters Integration on Vimeo</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-first-footsteps-in-youtube-landscape-setting-up-shop-and-earning-profitably-for-2024/"><u>[Updated] First Footsteps in YouTube Landscape Setting Up Shop and Earning Profitably for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-sharpen-your-videoleap-videos-from-afar/"><u>2024 Approved Sharpen Your Videoleap Videos From Afar</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-the-mobile-marketers-blueprint-simple-pathway-to-youtube-success/"><u>2024 Approved The Mobile Marketer's Blueprint Simple Pathway to YouTube Success</u></a></li>
-<li><a href="https://win-able.techidaily.com/achieving-smooth-play-in-fall-guys-techniques-for-increasing-frames-per-second-fps-and-decreasing-lag/"><u>Achieving Smooth Play in Fall Guys: Techniques for Increasing Frames Per Second (FPS) and Decreasing Lag</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-inaccessible-page-errors-for-windows-store-apps/"><u>Addressing Inaccessible Page Errors for Windows Store Apps</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/building-bridges-through-effective-business-communication/"><u>Building Bridges Through Effective Business Communication</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-leading-6-large-scale-language-ais-revolutionizing-communication/"><u>Discover the Leading 6 Large-Scale Language AIs Revolutionizing Communication</u></a></li>
-<li><a href="https://windows11.techidaily.com/disentangling-compact-icons-on-desktop-shelf/"><u>Disentangling Compact Icons on Desktop Shelf</u></a></li>
-<li><a href="https://windows11.techidaily.com/enabling-sound-for-windows-screencasts-with-powerpoint/"><u>Enabling Sound for Windows Screencasts with PowerPoint</u></a></li>
-<li><a href="https://windows11.techidaily.com/from-separate-to-shared-android-pc-harmony-guide/"><u>From Separate to Shared: Android-PC Harmony Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-speed-up-and-conclude-your-puzzled-updates/"><u>How to Speed Up and Conclude Your Puzzled Updates</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-amateurs-to-artists-the-complete-polarr-editor-journey/"><u>In 2024, From Amateurs to Artists The Complete Polarr Editor Journey</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-m14-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy M14 5G Phone FRP Lock</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/navigating-the-world-of-instagram-story-highlights-for-2024/"><u>Navigating the World of Instagram Story Highlights for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-11-calendar-easily/"><u>Navigating Windows 11 Calendar Easily</u></a></li>
-<li><a href="https://windows11.techidaily.com/personalize-your-pc-a-guide-to-alomwares-control-options/"><u>Personalize Your PC: A Guide to AlomWare's Control Options</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-turning-onoff-windows-10s-smartscreen/"><u>Tips for Turning On/Off Windows 10'S SmartScreen</u></a></li>
-<li><a href="https://windows11.techidaily.com/winstorage-revival-guide-with-altwindirstat-insights/"><u>WinStorage Revival Guide with AltWinDirStat Insights</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-delving-into-quantum-hdr-a-complete-overview/"><u>[Updated] Delving Into Quantum HDR A Complete Overview</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-skip-past-fb-video-ads-effectively/"><u>2024 Approved Skip Past FB Video Ads Effectively</u></a></li>
+<li><a href="https://discover-great.techidaily.com/effortless-conversion-techniques-for-vob-to-mp4-on-windows-and-macos-devices/"><u>Effortless Conversion Techniques for VOB to MP4 on Windows and macOS Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-15-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 15 Plus When You Forget the Passcode?</u></a></li>
+<li><a href="https://games-able.techidaily.com/productivity-pcs-vs-performance-play-stations/"><u>Productivity PCs Vs. Performance Play Stations</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-guide-to-webinar-archiving-for-2024/"><u>The Ultimate Guide to Webinar Archiving for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-and-personalize-your-pc-with-alomwares-mastery/"><u>Transform and Personalize Your PC With AlomWare's Mastery</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-silent-keys-troubleshooting-tactics-for-windows-pcs/"><u>Unlock Silent Keys: Troubleshooting Tactics for Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/whats-next-after-0x800f0845-error/"><u>What's Next After 0X800f0845 Error?</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-mastery-constructing-clutter-free-directories/"><u>Windows 11 Mastery: Constructing Clutter-Free Directories</u></a></li>
 </ul></div>
 

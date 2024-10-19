@@ -1,7 +1,7 @@
 ---
 title: Resolving “Need Old Password” Warning on Win11/Win11 OS
-date: 2024-10-10T22:07:13.388Z
-updated: 2024-10-12T23:58:15.873Z
+date: 2024-10-12T03:40:28.843Z
+updated: 2024-10-19T00:46:10.009Z
 tags:
   - windows10
   - windows11
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
 ![A padlock standing on the keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-pc-keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you encounter this error, you should first try all of the commonly used passwords you’ve used with the device. It’s possible that once upon a time, you changed the password to the default local administrator account. However, this only applies if you’re experiencing this error as a result of a system reset.
 
  Try your Microsoft account password, any pin you’ve used with the device, and your commonly used passwords.
@@ -56,14 +63,14 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
 ![Enter Key on Laptop Keyboard in Red](https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6d231984ceb0349e3e717f14.jpg)
 
- Some people who have encountered this error claim that you can resolve it by pressing the Enter key with the password field empty. This should work if you've never set up a password for the local admin account, and it works for some people.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Some people who have encountered this error claim that you can resolve it by pressing the Enter key with the password field empty. This should work if you've never set up a password for the local admin account, and it works for some people.
 
 ## 3\. Reset Your Windows Password
 
@@ -76,24 +83,17 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 ![Accounts Page in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/accounts-page-in-windows-11.jpg)
 3. Then, select **Sign-In Options** \> **Passwords**. You’ll find **Add** if you’re creating a password for the first time. Otherwise, you’ll find **Change**, meaning you’ll need to [reset your local admin account password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Password Option under Sign-In Options in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-option-under-sign-in-options-in-windows-11.jpg)
 4. If you click **Add**, you’ll be directed to a page where you can set up a password.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Create New Password for Local Admin Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-new-password-for-local-admin-account.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you have created or reset your Windows password, you can proceed to sign into your Microsoft account. Once you’re asked to insert your “current Windows password,” swiftly input your newly minted password.
 
@@ -113,22 +113,22 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-transforming-rookie-marketers-into-pros-with-these-five-hacks/"><u>[Updated] 2024 Approved Transforming Rookie Marketers Into Pros with These Five Hacks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-vivo-v27e-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Vivo V27e Phone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/best-android-app-integration-on-windows-11-systems/"><u>Best Android App Integration on Windows 11 Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-most-enjoyable-british-shows-on-netflix-this-week/"><u>Discover the Most Enjoyable British Shows on Netflix This Week</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-gaming-experience-mastering-dandd-with-chatgpts-sixest-strategies/"><u>Elevate Gaming Experience: Mastering D&D with ChatGPT's Sixest Strategies</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-deadly-c0000022-breakdown-in-windows-10/"><u>Fixing the Deadly C0000022 Breakdown in Windows 10</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-on-iphone-se-2020-5-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover deleted pictures on iPhone SE (2020)? 5 Best Solutions | Stellar</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-turn-off-desktop-input-on-your-win-device/"><u>How to Turn Off Desktop Input on Your Win Device</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-content-creation-showdown-twitch-versus-youtube-explored/"><u>In 2024, Content Creation Showdown Twitch Versus YouTube Explored</u></a></li>
-<li><a href="https://extra-support.techidaily.com/metaverse-vs-multiverse-what-are-the-differences-complete-guide-for-2024/"><u>Metaverse Vs. Multiverse What Are the Differences [Complete Guide] for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-network-nuances-7-fixes-for-connectivity-in-obs-studio/"><u>Navigating Network Nuances: 7 Fixes for Connectivity in OBS Studio</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-openers-dive-into-windows-performance-data/"><u>Quick Openers: Dive Into Windows Performance Data</u></a></li>
-<li><a href="https://windows11.techidaily.com/setting-new-reset-limit-on-account-lockouts-in-windows-1011/"><u>Setting New Reset Limit on Account Lockouts in Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/smart-scheduling-for-improved-resource-allocation-on-android-wsl/"><u>Smart Scheduling for Improved Resource Allocation on Android WSL</u></a></li>
-<li><a href="https://windows11.techidaily.com/uncharted-territory-innovations-to-windows-11s-explorer-interface/"><u>Uncharted Territory: Innovations to Windows 11'S Explorer Interface</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-two-less-known-yet-crucial-windows-tools/"><u>Unveiling Two Less-Known, Yet Crucial Windows Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-transform-videos-to-tweets-best-converters-revealed/"><u>2024 Approved Transform Videos to Tweets Best Converters Revealed</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-website-performance-with-advanced-tracking-tools-by-cookiebot/"><u>Elevate Website Performance with Advanced Tracking Tools by Cookiebot</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/guia-paso-a-paso-para-realizar-una-copia-de-seguridad-de-la-foto-de-recuperacion-en-windows-11/"><u>Guía Paso a Paso Para Realizar Una Copia De Seguridad De La Foto De Recuperación en Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-make-your-edge-faster-and-sleeker-win10-w11/"><u>How to Make Your Edge Faster & Sleeker (Win10, W11)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-battle-for-yggdrasil-ragnarok-begins/"><u>In 2024, Battle for Yggdrasil Ragnarok Begins</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-adjusting-netflix-pace-settings/"><u>In 2024, Mastering the Art of Adjusting Netflix Pace Settings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-real-time-engagement-strategies-for-online-streamers/"><u>In 2024, Real-Time Engagement Strategies for Online Streamers</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-new-drivers-for-u-are-u-readfinger-v45/"><u>Install New Drivers for U-Are-U ReadFinger V4.5</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-disabling-lock-screen-on-modern-windows-11/"><u>Methods: Disabling Lock Screen on Modern Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mirth-and-machines-the-evolution-of-portable-tech-and-secure-surfing/"><u>Mirth and Machines: The Evolution of Portable Tech & Secure Surfing</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-your-windows-environment-for-seamless-vbox-use/"><u>Optimizing Your Windows Environment for Seamless VBox Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-sounds-a-look-at-windows-11-mixer-usage/"><u>Streamlining Sounds: A Look at Windows 11 Mixer Usage</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-setup-failures-a-windows-10-and-11-approach/"><u>Tackling Setup Failures: A Windows 10 & 11 Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/transform-your-workflow-the-best-6-apps-for-to-do-list-management-on-win-11/"><u>Transform Your Workflow: The Best 6 Apps for To-Do List Management on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-strategies-unlocking-your-gaming-directory/"><u>Win Strategies: Unlocking Your Gaming Directory</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-ready-embrace-google-chrome-now/"><u>Windows 11 Ready? Embrace Google Chrome Now!</u></a></li>
 </ul></div>
 

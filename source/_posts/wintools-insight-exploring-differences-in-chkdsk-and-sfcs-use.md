@@ -1,7 +1,7 @@
 ---
 title: "WinTools Insight: Exploring Differences in CHKDSK and SFC's Use"
-date: 2024-09-05T02:08:03.965Z
-updated: 2024-09-06T02:08:03.965Z
+date: 2024-10-16T19:10:42.397Z
+updated: 2024-10-18T20:04:58.281Z
 tags:
   - windows10
   - windows11
@@ -33,12 +33,6 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
  CHKDSK, SFC, and DISM are system tools, and you can run all three. However, this can be time-consuming and unnecessary for your specific problem, so it's best to know when and how to use this trio of troubleshooting tools.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is CHKDSK and When Should You Use It?
 
  CHKDSK (Check Disk) is the first Windows diagnostic tool you should try if your PC starts acting strangely. For example, if it hangs while shutting down or becomes frustratingly slow.
@@ -50,17 +44,12 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
  To prevent future errors and potential data loss, it's worth running CHKDSK manually as part of your PC maintenance routine. You can use one of the following methods:
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Run CHKDSK Through File Explorer
 
  You can run CHKDSK from the command prompt. If you're uncomfortable using the Command Prompt, open **File Explorer**, click **This PC**, right-click the drive you want to check and select **Properties**.
@@ -69,22 +58,10 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
 ![Launch the Check Disk tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/check-error-checking.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If Windows determines that everything is running smoothly, it will suggest that you don't need to scan the drive. To run CHKDSK anyway, select **Scan drive**.
 
  The scan may take anywhere from a few minutes to half an hour, depending on the size and state of your drive. Once complete, CHKDSK will either tell you that no errors were found, or if it does find any, it will suggest you fix them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Run CHKDSK From the Command Prompt
 
  For greater control over the disk-checking process, you should run CHKDSK from an elevated Command Prompt. Follow these steps to continue:
@@ -96,12 +73,26 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 ![CHKDSK scan in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chkdsk-scan.jpg)
 5. Press **Enter** to scan for errors in read-only mode, which means no changes will be made.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To make changes, you can use parameters with the CHKDSK command. Here are two you can use to fix problems:
 
 * To make CHKDSK fix the problems it finds, type **chkdsk /f c:** (for your C: drive).
 * To scan for bad sectors and errors, type **chkdsk /r c:**
 
  If you cannot run these commands because "the volume is in use by another process," Command Prompt will offer to schedule the scan for when your PC restarts. This should, however, only happen once. If the tool pops up whenever you boot your PC, you can [stop CHKDSK from running at every startup](https://www.makeuseof.com/tag/stuck-chkdsk-use-fix-right-way/) manually.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is SFC Scannow and When Should You Use It?
 
@@ -127,12 +118,6 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
 ![Screenshot of complete sfc scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-complete-sfc-scan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is DISM and When Should You Use It?
 
 **DISM (Deployment Image Servicing and Management)** is the most powerful of the three Windows diagnostic tools. Although you shouldn't usually need to use the tools, it's the one to turn to when you're experiencing frequent crashes, freezes, and errors, but SFC either can't repair your system files or is unable to run at all.
@@ -147,6 +132,13 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
 ![windows dism check in command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/windows-dism-check-in-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The scan should only take a few seconds. If no corruption is detected, you can run a more advanced scan to determine if the component store is healthy and repairable, again without making any changes, by typing:
 
 `Dism /Online /Cleanup-Image /ScanHealth`
@@ -158,12 +150,6 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
 ![dism scan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dism-scan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once the scan and repairs are complete, restart your PC and run SFC again to replace your corrupt or missing system files.
 
 ## What Order Should You Run CHKDSK, SFC, and DISM In?
@@ -176,11 +162,27 @@ thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157e
 
  If you're still having trouble, perform a System Restore. This will restore your system files, settings, and programs to a time when they worked properly. If your system wasn't damaged when the restore point was created, it may solve your corruption problems.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-backstage-pass-creating-content-that-works/"><u>[New] In 2024, The Backstage Pass Creating Content That Works</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-seamless-mac-screen-record-with-audio-device/"><u>2024 Approved Seamless Mac Screen Record with Audio Device</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-best-tecno-frp-bypass-guide-by-drfone-android/"><u>In 2024, Best Tecno FRP Bypass Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/love-for-filmora-top-10-editing-highlights-revealed/"><u>Love for Filmora Top 10 Editing Highlights Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-windows-for-productivity-add-software-actions/"><u>Optimizing Windows for Productivity: Add Software Actions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/polishing-your-youtube-projects-the-premiere-pro-way/"><u>Polishing Your YouTube Projects The Premiere Pro Way</u></a></li>
+<li><a href="https://windows11.techidaily.com/purpose-behind-visual-cplusplus-distributable/"><u>Purpose Behind Visual C++ Distributable</u></a></li>
+<li><a href="https://windows11.techidaily.com/restarting-windows-security-fix-for-flawed-functions/"><u>Restarting Windows Security: Fix for Flawed Functions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-vivo-y36-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Vivo Y36</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-troubleshooting-overcoming-the-darkness-a-solution-for-rainbow-six-siege-pc-problems/"><u>Step-by-Step Troubleshooting: Overcoming the Darkness – A Solution for Rainbow Six Siege PC Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-windows-install-9-methods-to-bypass-verification-lag/"><u>Streamlining Windows Install: 9 Methods to Bypass Verification Lag</u></a></li>
+</ul></div>
+

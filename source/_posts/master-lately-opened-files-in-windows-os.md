@@ -1,7 +1,7 @@
 ---
 title: Master Lately Opened Files in Windows OS
-date: 2024-09-05T02:08:01.525Z
-updated: 2024-09-06T02:08:01.525Z
+date: 2024-10-12T22:03:23.078Z
+updated: 2024-10-18T16:21:24.112Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 
  If you cannot fix the Quick Access to show recently opened files or want to do a deeper analysis of recently opened items, you can check recently opened items in the Recent Items folder.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to View Recently Opened Items in the Recent Items Folder
 
  Follow these steps to view recently opened items in the Recent Items folder:
@@ -60,20 +67,29 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 4. If you cannot find the parameter you want to sort the items by, click on the**More...** button in the**Sort by** menu, check the box for the detail you wish to sort the data by, and click**Ok** .  
 ![Sorting Data by Checking the Box for Author Field by Clicking on the More button in the Sort By Dropdown Menu in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/4-Sorting-Data-by-Checking-the-Box-for-Author-Field-by-Clicking-on-the-More-button-in-the-Sort-By-Dropdown-Menu-in-File-Explorer.jpg)
 5. After that, the parameter will appear in the**Sort by** menu, where you can select it to sort the recently opened items.  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Sorting the Files or Folder by Author by Clicking on the Sort By Option in the Recent Items Folder in File Explorer in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/5-Sorting-the-Files-or-Folder-by-Author-by-Clicking-on-the-Sort-By-Option-in-the-Recent-Items-Folder-in-File-Explorer-in-Windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to View Recently Opened Files for Specific Apps on Windows
 
  Although most apps allow users to view recently opened files within the app, Windows also keeps track of recently opened files in most cases.
@@ -84,22 +100,10 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 
 ![Viewing Recently Opened Files for Specific Apps by Navigating to Recent File Section in Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/6-Viewing-Recently-Opened-Files-for-Specific-Apps-by-Navigating-to-Recent-File-Section-in-Windows-Search.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to See Recently Opened Files Removed From Quick Access
 
  Quick Access is an access point that lets you access recently closed files quickly. Therefore, even if you or someone you share the computer with removes the files from Quick Access, they don't get deleted from their original location. You can still access the recently closed files in the main Recent Items folder using the same steps we explained earlier.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to See Recently Opened Files Deleted From the Recent Items Folder
 
  When you clear the File Explorer history or delete recently opened files from the Recent Items folder, they are permanently removed from Windows. Restoring this data is complex, and your chances of doing so are slim. However, some workarounds may allow you to access the recently opened files again.
@@ -110,34 +114,32 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
 
 ![Restoring Previous Version of Windows Folder in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Restoring-Previous-Version-of-Windows-Folder-in-Windows-File-Explorer.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If neither of these folders has a previous version, your only recourse should be to[use third-party recovery software to recover the data](https://www.makeuseof.com/windows-best-data-recovery-tools-guides/) in the Recent Items folder, albeit with low chances of success.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Access Recently Opened Files With Ease
 
  Recently opened files give us a quick overview of which files have been worked on by you or someone else recently. We hope our guide made it easy for you to access recently opened files in Quick Access and the Recent Items folder.
 
  If someone deletes files from the Recent Items folder after using them, you can try restoring them with our solution. If you succeed, you're all set; otherwise, you'll have to resort to third-party recovery software.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -146,4 +148,21 @@ thumbnail: https://thmb.techidaily.com/8efb02d1ad78746fe7e04d066e97a30754c0040bd
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-elevating-your-instagram-conversations-an-in-depth-guide/"><u>[New] Elevating Your Instagram Conversations An In-Depth Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-enchant-your-e-images-with-electronic-soundtracks/"><u>[Updated] 2024 Approved Enchant Your E-Images with Electronic Soundtracks</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-faulty-venintanddev33a0-acpi-driver/"><u>Addressing Faulty VEN_INT&DEV_33A0 Acpi Driver</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/de-gouden-regels-voor-het-exporteren-van-de-gebruikers-historie-van-wechat-vanaf-iphone-of-android/"><u>De Gouden Regels Voor Het Exporteren Van De Gebruikers Historie Van WeChat Vanaf iPhone of Android</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-task-management-customize-keyboard-shortcuts-by-power-in-win11/"><u>Quick Task Management: Customize Keyboard Shortcuts by Power in Win11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-how-to-fix-the-destiny-2-launch-issue-on-your-computer/"><u>Solved: How to Fix the Destiny 2 Launch Issue on Your Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-solve-memory-failure-in-windows/"><u>Strategies to Solve Memory Failure in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-desktop-thumbnails-size-on-pc/"><u>Tailoring Desktop Thumbnails Size on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/tutorial-adding-dolby-atmos-to-windows-11/"><u>Tutorial: Adding Dolby Atmos to Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-itel-p40plus-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Itel P40+ without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-administrator-status-in-windows/"><u>Unlocking Administrator Status in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/window-wizardry-redesigning-cursor-sets/"><u>Window Wizardry: Redesigning Cursor Sets</u></a></li>
+</ul></div>
 

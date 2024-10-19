@@ -1,7 +1,7 @@
 ---
 title: Migrate OneDrive to a Desired Folder on Win 11
-date: 2024-10-06T18:26:05.262Z
-updated: 2024-10-12T23:34:36.162Z
+date: 2024-10-14T20:14:40.353Z
+updated: 2024-10-18T17:01:45.599Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
  If you’re new to the concept, check out our articles on[what OneDrive is](https://www.makeuseof.com/what-is-onedrive/) and[why you should use it](https://www.makeuseof.com/microsoft-onedrive-personal-benefits/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Unlinking OneDrive
 
  The first thing to do is to[unlink your OneDrive folder from your Microsoft account](https://www.makeuseof.com/unlink-onedrive-microsoft-account-windows/) so that files on the cloud no longer sync to their current location.
@@ -45,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
  Once you’ve done this, you will be presented with a window to set up OneDrive. Leave this open for the moment. You will need to revisit it once you’ve moved your OneDrive folder to a different location on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Moving Your OneDrive Folder
@@ -61,8 +54,22 @@ With that done, you can now relocate your OneDrive folder.
 ![Moving Your OneDrive folder on your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/01-move-onedrive-folder.jpg)
 4. From the drop-down that appears, click on the**Choose location** option.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Move your OneDrive folder to new location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/02-move-onedrive-folder-to-location.jpg)
 5. A pop-up will appear. Browse to the location you want your new OneDrive folder to reside, and click on the**Move** button on the bottom of the pop-up.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Move OneDrive folder to a new location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/03-choose-new-local-onedrive-location.jpg)
 6. Windows will start to move your OneDrive folder and all of its contents to the new location you’ve selected. This may take a while depending on the size of the folder.
@@ -79,29 +86,22 @@ With that done, you can now relocate your OneDrive folder.
 ![Change where OneDrive syncs your files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/04-change-onedrive-location.jpg)
 4. Then browse to the new location where you moved your OneDrive folder on your PC, and click on the**Select Folder** button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. You’ll be presented with a warning screen, telling you that files already exist in this folder. Click on the**Use this folder** button.  
 ![Choose where OneDrive saves files on your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/07-choose-onedrive-location.jpg)
 6. Verify that the location you’ve selected is the correct one, and click on**Next** .
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7. You’ll be presented with a welcome screen. Scroll through it and close the setup window.
 
  Your OneDrive folder has been moved, and any files you add, or existing ones you modify, will be synced to the cloud from this new OneDrive location on your PC.
 
  Additionally, there are many[ways to control how OneDrive syncs files on your PC](https://www.makeuseof.com/ways-to-control-onedrive-sync-pc/) , from pausing automatic sync on metered networks to stopping specific folders from syncing.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Free Up PC Storage by Moving Your OneDrive Folder
 
@@ -122,20 +122,24 @@ With that done, you can now relocate your OneDrive folder.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-best-frame-rate-selection-for-effective-slow-motion-capture-for-2024/"><u>[Updated] Best Frame Rate Selection for Effective Slow Motion Capture for 2024</u></a></li>
-<li><a href="https://ai-video.techidaily.com/2024-approved-best-video-translator-app-for-pc-you-cannot-miss/"><u>2024 Approved Best Video Translator App for PC You Cannot Miss</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-mirthful-melodies-smart-picks-for-funny-phone-tones/"><u>2024 Approved Mirthful Melodies Smart Picks for Funny Phone Tones</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-user-interface-learn-window-tweaks-via-alomware/"><u>Enhance User Interface: Learn Window Tweaks via AlomWare</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-on-steroids-keychron-and-lemokey-reviewed/"><u>Gaming on Steroids: Keychron & Lemokey Reviewed</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-prevent-in-use-errors-on-windows-11-pcs/"><u>How to Prevent 'In Use' Errors on Windows 11 PCs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-infinix-note-30-vip-racing-edition-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Infinix Note 30 VIP Racing Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/independent-windows-version-boosting-guide-147-chars/"><u>Independent Windows Version Boosting Guide (147 Chars)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723013778226-maplestory-game-launch-fixed-enjoy-uninterrupted-playtime/"><u>MapleStory Game Launch Fixed - Enjoy Uninterrupted Playtime!</u></a></li>
-<li><a href="https://windows11.techidaily.com/nircmds-guide-to-streamlining-your-task-execution/"><u>NirCmd's Guide to Streamlining Your Task Execution</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-linux-on-windows-top-wsl-2-tips-and-tricks/"><u>Optimize Linux on Windows: Top WSL 2 Tips and Tricks</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-dispelling-net-core-error-messages-windows/"><u>Steps for Dispelling '.NET Core' Error Messages Windows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-comprehensive-guide-to-editing-tiktok-account-numbers/"><u>The Comprehensive Guide to Editing TikTok Account Numbers</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-grow-your-computers-storage-for-free/"><u>The Ultimate Guide to Grow Your Computer's Storage, For Free</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-exploring-premium-voice-alteration-software-without-pay-mastering-sound-changes-in-filmora-videos/"><u>Updated 2024 Approved Exploring Premium Voice Alteration Software Without Pay Mastering Sound Changes in Filmora Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-bridge-the-gap-youtube-tweet-functionality-for-2024/"><u>[New] Bridge the Gap YouTube Tweet Functionality for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-formulating-attractive-instagram-story-captions/"><u>[New] Formulating Attractive Instagram Story Captions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-from-beginners-to-pros-choosing-webcams-for-youtube-live/"><u>[Updated] From Beginners to Pros Choosing Webcams for YouTube Live</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/audience-appeal-the-ultimate-guide-to-youtube-video-formats/"><u>Audience Appeal The Ultimate Guide to YouTube Video Formats</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-8-plus-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-civi-3-disney-100th-anniversary-edition-phone-without-google-account-by-drfone-android/"><u>How to Unlock Xiaomi Civi 3 Disney 100th Anniversary Edition Phone without Google Account?</u></a></li>
+<li><a href="https://windows11.techidaily.com/initiating-playback-with-windows-media-player-guide/"><u>Initiating Playback with Windows Media Player Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveraging-bluescreenview-an-in-depth-analysis/"><u>Leveraging BlueScreenView - An In-Depth Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/modifying-metadata-in-windows-files-timestamp-tweaks-guide/"><u>Modifying Metadata in Windows Files: Timestamp Tweaks Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-error-code-0xc00ce556-in-windows/"><u>Navigating the Error Code 0xC00CE556 in WINDOWS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-installing-and-updating-sata-drivers-on-your-windows-pc/"><u>Step-by-Step Guide: Installing and Updating SATA Drivers on Your Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-seamless-slideshow-creation-and-image-spot-repair-in-win11-photos/"><u>Tips for Seamless Slideshow Creation and Image Spot Repair in Win11 Photos</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshoot-unresponsive-inputs-when-waking-up-win11/"><u>Troubleshoot Unresponsive Inputs When Waking up Win11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-and-testing-the-audio-input-in-windows-11-easy-tutorial/"><u>Troubleshooting & Testing the Audio Input in Windows 11 - Easy Tutorial</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-steam-friendship-disconnect-on-pc/"><u>Troubleshooting Steam Friendship Disconnect on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-potential-top-winning-apps-from-ms-store-2023/"><u>Unleash Potential: Top Winning Apps From MS Store, 2023</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-12-excellent-animation-software-options-that-wont-break-the-bank/"><u>Updated In 2024, 12 Excellent Animation Software Options That Wont Break the Bank</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-top-6-celebrity-text-to-speech-ai-voice-generators-you-may-like/"><u>Updated In 2024, Top 6 Celebrity Text to Speech AI Voice Generators You May Like</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-expertise-required-for-successfully-repairing-directdraw-faults/"><u>Win11: Expertise Required for Successfully Repairing DirectDraw Faults</u></a></li>
 </ul></div>
 

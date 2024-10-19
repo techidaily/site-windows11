@@ -1,7 +1,7 @@
 ---
 title: "Win 11'S Blanked Outspots: How to Replace Them"
-date: 2024-10-11T19:50:47.440Z
-updated: 2024-10-12T20:28:40.186Z
+date: 2024-10-12T02:24:52.787Z
+updated: 2024-10-19T02:14:05.480Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 ![Show Desktop Icons on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Show-Desktop-Icons-on-Windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Check Desktop Icon Settings
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 ![Restart Windows Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Restart-Windows-Explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Your taskbar will disappear for a brief moment and then reappear. Following this, your desktop icons should be visible.
@@ -94,6 +94,13 @@ To rebuild icon cache on Windows 11:
 
  Once you complete the above steps, restart your PC and see if the desktop icons appear.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Update Your PC’s Graphics Driver
 
  An outdated graphics driver on Windows can also lead to such anomalies. You can try updating the faulty driver using Device Manager to see if that helps. Here's how to do it.
@@ -106,6 +113,13 @@ To rebuild icon cache on Windows 11:
 ![Update Graphics Driver on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-Graphics-Driver-on-Windows.jpg)
 
  If the issue persists even after updating the driver, your graphics driver may be corrupt. In that case, you'll need to reinstall the graphics driver on your PC. Refer to our guide on[how to fix corrupt drivers on Windows](https://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/) for more instructions on how to fix this.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Check the Group Policy Settings
 
@@ -121,6 +135,19 @@ To rebuild icon cache on Windows 11:
 6. Click**Apply** followed by**OK** .  
 ![Enable Desktop Icons on Windows 11 via Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Enable-Deskop-Icons-on-Windows-11-via-Group-Policy-Editor-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Perform a System Restore
 
  There's a chance that a recent system change is to blame for the missing desktop icons in Windows 11\. If you can't figure out what it is, you can use System Restore to restore Windows to a previous state.
@@ -135,21 +162,7 @@ Follow these steps to perform a system restore on Windows:
 6. Click on**Finish** .  
 ![System Restore Dialog](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/System-Restore-Dialog.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for Windows to reboot and revert to the specified restore point. Following that, your desktop icons should appear.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Manually Restore the Desktop Shortcut Icons
 
@@ -158,13 +171,6 @@ Follow these steps to perform a system restore on Windows:
  To add an icon to the desktop in Windows 11, open the**Start menu** and click on**All apps** . Scroll down to the app you want to add to the desktop. Finally, drag the app shortcut to your desktop.
 
 ![Create Desktop Shortcut From Start Menu in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Create-Desktop-Shortcut-From-Start-Menu-in-Windows.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Alternatively, you can create a shortcut on your desktop by using the Create Shortcut wizard. To do so, right-click anywhere on the desktop and select**New > Shortcut** . Then, click the**Browse** button to locate the file, folder, or app you want to add to your desktop. Then, click**Next** followed by**Finish** .
 
@@ -189,19 +195,19 @@ Follow these steps to perform a system restore on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-adding-visuals-on-instagram-quickly-for-2024/"><u>[Updated] Adding Visuals on Instagram Quickly for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/9-steps-to-resolve-windows-hello-fingerprint-lockout/"><u>9 Steps to Resolve Windows Hello Fingerprint Lockout</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-role-in-cybersecurity-five-facilitators-for-fraudsters/"><u>AI's Role in Cybersecurity: Five Facilitators for Fraudsters</u></a></li>
-<li><a href="https://windows11.techidaily.com/ceasing-chrome-notifications-on-windows-desktop/"><u>Ceasing Chrome Notifications on Windows Desktop</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/download-c-spans-historical-recordings-without-cost/"><u>Download C-Span's Historical Recordings Without Cost</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-basic-to-advanced-understanding-dynamic-range-imaging/"><u>From Basic to Advanced Understanding Dynamic Range Imaging</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-add-an-uninstall-shortcut-to-the-context-menu-in-windows-1110/"><u>How to Add an Uninstall Shortcut to the Context Menu in Windows 11/10</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-iphone-14-plus-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For iPhone 14 Plus</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-iphone-xr-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The iPhone XR SIM Lock 4 Easy Methods</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-for-frozen-downloads-restart-tracker-resume-progress/"><u>Quick-Fix for Frozen Downloads: Restart Tracker, Resume Progress</u></a></li>
-<li><a href="https://windows11.techidaily.com/slowing-down-windows-11-shutdown-tips-for-live-tasks/"><u>Slowing Down Windows 11 Shutdown: Tips for Live Tasks</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-6-best-to-do-list-apps-for-windows-10-and-11/"><u>The 6 Best To-Do List Apps for Windows 10 & 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/why-the-samsung-galaxy-s21-ultra-reigns-supreme-in-androids-elite-lineup-a-thorough-appraisal/"><u>Why the Samsung Galaxy S21 Ultra Reigns Supreme in Android's Elite Lineup: A Thorough Appraisal</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-captivate-with-voice-intros-that-intrigue/"><u>[New] In 2024, Captivate with Voice Intros That Intrigue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-a-different-way-to-naming-your-channel-with-filmora/"><u>[Updated] 2024 Approved Finding a Different Way to Naming Your Channel with Filmora</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-maximize-networking-with-fb-link-downloader-tools/"><u>2024 Approved Maximize Networking with FB Link Downloader Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/disabling-recording-privacy-focused-tips-for-chatgpt-users/"><u>Disabling Recording: Privacy-Focused Tips for ChatGPT Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-innovation-in-smartphones-the-latest-galaxy-z-fold-5-by-samsung-boasts-a-refined-hinge-mechanism-and-enhanced-brightness-for-unmatched-viewing-pl2/"><u>Experience Innovation in Smartphones: The Latest Galaxy Z Fold 지빌드 5 by Samsung Boasts a Refined Hinge Mechanism and Enhanced Brightness for Unmatched Viewing Pleasure</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-implemented-for-voltage-peak-at-hub-station/"><u>Fix Implemented for Voltage Peak at Hub Station</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/gaming-without-the-heat-wave-tips-for-laptop-users/"><u>Gaming Without the Heat Wave: Tips for Laptop Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-to-battery-saving-feature-in-windows/"><u>Navigating to Battery Saving Feature in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-guide-for-corrupted-zip-files-on-windows-11/"><u>Quick-Fix Guide for Corrupted ZIP Files on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/regain-control-of-non-scrolling-mouse-wheels-on-pcs/"><u>Regain Control of Non-Scrolling Mouse Wheels on PCs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamlined-sharing-the-best-shortened-link-apps-for-youtubers-for-2024/"><u>Streamlined Sharing The Best Shortened Link Apps for Youtubers for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-for-troubleshooting-the-most-elusive-win10-blues/"><u>Tactics for Troubleshooting the Most Elusive Win10 Blues</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-admins-impact-on-windows-defenses/"><u>Troubleshooting Admins' Impact on Windows Defenses</u></a></li>
 </ul></div>
 

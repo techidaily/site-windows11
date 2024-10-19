@@ -1,7 +1,7 @@
 ---
 title: Solutions for Fixing Roblox Application Fails
-date: 2024-09-29T23:05:06.105Z
-updated: 2024-10-02T00:17:23.029Z
+date: 2024-10-16T02:26:10.445Z
+updated: 2024-10-19T03:28:49.589Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 
  If none of the above checks resolve the error, apply the remaining fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Use the Microsoft Store App Until the Issue Is Resolved
 
 ![Roblox Microsoft Store App Listing on Windows](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/roblox-microsoft-store-app-listing-on-windows.jpg)
@@ -46,29 +39,22 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 
  Until the issue isn't fixed, continue using the Microsoft Store app to play Roblox experiences.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Don't Run Roblox on a Virtual Machine
 
  Roblox doesn't permit playing Roblox experiences on a virtual machine, as a Roblox staff member reported on [Roblox's developer forum](https://devforum.roblox.com/t/the-application-encountered-an-unrecoverable-error/2419033/2). When someone attempts to access Roblox experiences this way, Hyperion abruptly crashes the process.
 
 ![An open laptop sitting on a windowsill with a residential view in the background.](https://thmb.techidaily.com/4a4364521475bc98d43a49b1c82e26ef445f3c795924721c63fb3c06810bfd5f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Do you also want to run Roblox Player on a virtual machine, but the client crashes? If so, that could be the cause of the error. Close the virtual machine and run Roblox by installing the client on your OS; hopefully, nothing will go wrong this way.
 
  If you don't use a virtual machine and still get the **"the application encountered an unrecoverable error"** error, virtualization could be enabled in the BIOS settings.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable Virtualization From the BIOS
 
@@ -87,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
  If you're using a device from another manufacturer, visit its official website for steps on disabling virtualization.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Check for Browser Interference
@@ -114,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 4. Right-click on the **Roblox** folder and click **Delete**.  
 ![Delete Roblox Temporary Folder in the Windows Temp Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-roblox-temporary-folder-in-the-windows-temp-folder.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Report the Problem to the Roblox Support Team
 
  If none of the above fixes resolve the issue, you should follow the instructions in the error message: get a crash dump, and send it to Roblox. Follow these steps to do that:
@@ -131,6 +124,13 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 `%UserProfile%\AppData\Local\Roblox\logs  
 %UserProfile%\AppData\Local\Roblox\logs\crashes`
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Reinstall the Roblox Client
 
  If the Roblox installation gets corrupt, it can also crash and present the **"the application encountered an unrecoverable error"** error. To ensure that's not the case, uninstall the previous installation and reinstall Roblox from scratch. If you do not know how to do this, refer to our guide on [how to uninstall any software on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/).
@@ -138,10 +138,10 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
  Once the Roblox client has been uninstalled, navigate to the **C:\\Users\\<your username>\\AppData\\Local** and delete the Roblox folders. Then, go to Roblox's official website and reinstall the Roblox client. You should avoid downloading the Roblox client from third-party sources since unsigned third-party applications are prone to causing issues.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Don't Let Roblox Crash on Windows
@@ -161,22 +161,21 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-mycamadventure-discovering-new-camera-worlds/"><u>[New] 2024 Approved MyCamAdventure Discovering New Camera Worlds</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-journey-to-perfect-audio-ultimate-iphone-podcast-downloading-techniques-for-2024/"><u>[Updated] Journey to Perfect Audio Ultimate iPhone Podcast Downloading Techniques for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/achieve-flawless-gameplay-a-guide-to-installing-newest-drivers-for-your-geforce-1660-ti-gpu/"><u>Achieve Flawless Gameplay: A Guide to Installing Newest Drivers for Your GeForce 1660 Ti GPU</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/backtracking-your-pc-with-ease-using-system-restore/"><u>Backtracking Your PC with Ease Using System Restore</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-video-segmenting-scout-splitcam-analysis/"><u>In 2024, Video Segmenting Scout SplitCam Analysis</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-portable-88p-air-compressor-by-viair-powerful-yet-not-without-shortcomings/"><u>In-Depth Analysis of the Portable 88P Air Compressor by Viair: Powerful Yet Not Without Shortcomings</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-windows-fn-key-management-basics/"><u>Navigating Through Windows: Fn Key Management Basics</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-cut-color-and-create-top-iphone-video-editing-apps/"><u>New 2024 Approved Cut, Color, and Create Top iPhone Video Editing Apps</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-the-ultimate-level-pc-launch-dilemma-with-our-latest-fixes-of-2024/"><u>Overcome the Ultimate Level PC Launch Dilemma with Our Latest Fixes of 202^4</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-visuals-how-to-fix-an-invisible-login-window-in-win1011/"><u>Restoring Visuals: How to Fix an Invisible Login Window in WIN10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/revamping-your-win8-black-screen-effects/"><u>Revamping Your Win8 Black Screen Effects</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactics-for-finding-hidden-regedit-command/"><u>Tactics for Finding Hidden Regedit Command</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-problematic-shortcomings-of-artificial-intelligence-in-content-verification-processes/"><u>The Problematic Shortcomings of Artificial Intelligence in Content Verification Processes</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719327094876-top-4-solutions-for-troubleshooting-full-screen-capture-issues-in-windows-snipping-tool/"><u>Top 4 Solutions for Troubleshooting Full-Screen Capture Issues in Windows Snipping Tool.</u></a></li>
-<li><a href="https://windows11.techidaily.com/what-actions-can-you-take-if-windows-ignores-powershell/"><u>What Actions Can You Take if Windows Ignores PowerShell?</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-a-guide-to-copying-file-and-folder-navigational-trails-via-6-steps/"><u>Windows 11: A Guide to Copying File and Folder Navigational Trails, via 6 Steps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-cut-the-cord-with-youtube-mp3-conversion-tools-for-2024/"><u>[New] Cut the Cord with YouTube-MP3 Conversion Tools for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-step-into-the-shoes-of-a-pro-screen-capture-techniques-for-mac-enthusiasts/"><u>2024 Approved Step Into the Shoes of a Pro Screen Capture Techniques for Mac Enthusiasts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-ultimate-uniting-upskill-utopia/"><u>2024 Approved Ultimate Uniting Upskill Utopia</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-zoom-utilization-for-team-conferencing-on-msteams/"><u>Advanced Zoom Utilization for Team Conferencing on MSTEAMS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advancements-in-generative-models-unveiling-future-potentials-past-chatgpt/"><u>Advancements in Generative Models: Unveiling Future Potentials Past ChatGPT</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-logitech-m525-download-pack-driver-utilities-and-tutorials-included/"><u>Complete Logitech M525 Download Pack: Driver, Utilities, and Tutorials Included</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-steps-to-download-your-wacom-drivers/"><u>Hassle-Free Steps to Download Your Wacom Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/mute-non-met-requirement-notifications-on-windows/"><u>Mute Non-Met Requirement Notifications on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/reactivating-devices-in-sleep-mode-step-by-step-guide-for-windows-11/"><u>Reactivating Devices in Sleep Mode: Step-by-Step Guide for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/sidestep-do-not-have-sufficient-privileges-uninstall-on-windows/"><u>Sidestep 'Do Not Have Sufficient Privileges': Uninstall on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-five-fold-windows-11-data-collection/"><u>The Five-Fold Windows 11 Data Collection</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-role-and-risks-involved-with-deleting-pagefilesys-files/"><u>The Role & Risks Involved with Deleting Pagefile.sys Files</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-s18-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo S18 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-steams-access-issue-for-games-on-win11/"><u>Unblocking Steam's Access Issue for Games on Win11</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-mp4-video-trimming-made-easy-top-free-tools/"><u>Updated 2024 Approved MP4 Video Trimming Made Easy Top Free Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11win10s-unidentified-device-fix-guide/"><u>Win11/Win10's 'Unidentified Device' Fix Guide</u></a></li>
 </ul></div>
 

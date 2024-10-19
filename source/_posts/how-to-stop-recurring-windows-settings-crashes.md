@@ -1,7 +1,7 @@
 ---
 title: How to Stop Recurring Windows Settings Crashes
-date: 2024-10-11T16:58:40.636Z
-updated: 2024-10-13T02:56:38.608Z
+date: 2024-10-17T21:22:39.430Z
+updated: 2024-10-18T19:12:10.263Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8
 
  Now that we know about the potential causes behind the issue, let’s have a look at the troubleshooting methods you can try to fix the problem once and for all.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Restart Your PC
 
  This might seem too simple to work, but resetting the computer at times can eliminate any temporary bugs or corruption issues, resolving the error in the process.
@@ -63,26 +56,13 @@ Here is all that you need to do:
 ![Click on the Download & install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/settings-windows-update-download-and-install.jpg)
 4. After the updates are installed, restart your system and check if the issue is resolved.
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In some rare cases, the issue can also start occurring after installing an update. This typically happens when the update itself was corrupt. If this scenario applies to you, you can[uninstall the installed Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) and then check if that makes any difference.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Update Your Drivers
@@ -99,6 +79,13 @@ Follow these steps to proceed:
 4. Choose**Update driver** \>**Search automatically for drivers** . The Device Manager utility will now begin scanning the system for an updated driver version.  
 ![Search automatically for drivers option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/display-adapter-search-automatically-for-drivers.jpg)
 5. Once found, follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Finally, restart your computer to implement the changes.
 
@@ -121,6 +108,13 @@ Here is all that you need to do:
 5. If not, click on**Reset** and follow the on-screen instructions to proceed.  
 ![Repair or reset the application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/app-settings-reset-and-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To re-register the app, follow these steps:
 
 1. Type Powershell in Windows Search and click on**Run as administrator** .
@@ -130,14 +124,14 @@ Get-AppxPackage *windows.immersivecontrolpanel* | Reset-AppxPackage
 ![Execute the entered command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/get-appxpackage-windows-immersivecontrolpanel.jpg)
 4. Finally, close the Powershell window and reboot.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Hopefully, this should fix the problem once and for all.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Windows Settings App Crash Issue, Now Resolved
 
@@ -158,24 +152,16 @@ Hopefully, this should fix the problem once and for all.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-freebox-your-map-to-fantastic-costless-tiktok-bgs/"><u>2024 Approved FREEBOX Your Map to Fantastic, Costless TikTok BGs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-xiaomi-redmi-a2plus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Xiaomi Redmi A2+ without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/achieve-flawless-network-livestream-mastering-vlc-techniques-for-2024/"><u>Achieve Flawless Network Livestream Mastering VLC Techniques for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/cut-the-cord-joining-dualshock-to-pc/"><u>Cut the Cord: Joining DualShock to PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/guaranteeing-a-peaceful-sleep-for-w11-devices-at-rest/"><u>Guaranteeing a Peaceful Sleep for W11 Devices at Rest</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-subduing-file-explorers-default-views/"><u>Guide to Subduing File Explorer's Default Views</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-motorola-moto-g73-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Motorola Moto G73 5G</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-v30-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo V30 Phones? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-optimal-team-chats-secrets-to-success-4-steps/"><u>In 2024, Optimal Team Chats Secrets to Success, #4 Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windows-11-menu-erase-show-more-options/"><u>Mastering Windows 11 Menu: Erase Show More Options</u></a></li>
-<li><a href="https://windows11.techidaily.com/perfect-your-pc-settings-unlock-potential-using-alomware-suite/"><u>Perfect Your PC Settings: Unlock Potential Using AlomWare Suite</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-repair-windows-event-viewer-in-windows-11/"><u>Steps to Repair Windows Event Viewer in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailoring-aesthetics-for-windows-terminal/"><u>Tailoring Aesthetics for Windows Terminal</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-the-hottest-meme-accounts-for-emotional-rollerscoasters/"><u>The Ultimate Guide The Hottest Meme Accounts for Emotional Rollerscoasters</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-recording-playbook-your-roblox-adventures-transformed/"><u>The Ultimate Recording Playbook Your Roblox Adventures, Transformed</u></a></li>
-<li><a href="https://windows11.techidaily.com/tutorial-enabling-or-disabling-wi-fi-cost-meter-in-windows-11/"><u>Tutorial: Enabling or Disabling Wi-Fi Cost Meter in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-windows-access-your-outlook-preview/"><u>Unlocking Windows: Access Your Outlook Preview</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-audiovisual-alchemy-expert-tips-for-incorinasiting-and-modifying-audio-timestamps-for-cinematic-effects-in-final-cut-pro-x-for-2024/"><u>Updated Audiovisual Alchemy Expert Tips for Incorinasiting and Modifying Audio Timestamps for Cinematic Effects in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-vivid-chromatic-tweaker-for-2024/"><u>[New] Vivid Chromatic Tweaker for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-techniques-for-incorporating-soundtracks-in-youtube-creations-for-2024/"><u>[Updated] Cutting-Edge Techniques for Incorporating Soundtracks in YouTube Creations for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-indoor-natural-lighting-tips/"><u>[Updated] Indoor Natural Lighting Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-irq-problems-with-your-soundcard-on-windows/"><u>How to Fix IRQ Problems With Your Soundcard on Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-pure-portrayals-on-platforms-your-guide-to-authentic-snapshots/"><u>In 2024, Pure Portrayals on Platforms Your Guide to Authentic Snapshots</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-windows-11-registry-for-obscured-themes/"><u>Navigating the Windows 11 Registry for Obscured Themes</u></a></li>
+<li><a href="https://windows11.techidaily.com/recover-lost-audio-output-in-non-responsive-os/"><u>Recover Lost Audio Output in Non-Responsive OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-browsing-at-fingertips-activating-gestures-in-microsoft-edge-win-11-edition/"><u>Seamless Browsing at Fingertips: Activating Gestures in Microsoft Edge, Win 11 Edition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solving-mirror-effect-displays-in-windows-11-pro/"><u>Solving Mirror Effect Displays in Windows 11 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-winning-package-tool-for-you-a-choco-vs-wm-quest/"><u>The Winning Package Tool for You: A Choco VS. WM Quest</u></a></li>
 </ul></div>
 

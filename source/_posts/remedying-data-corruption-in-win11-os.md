@@ -1,7 +1,7 @@
 ---
 title: Remedying Data Corruption in Win11 OS
-date: 2024-10-10T17:43:11.850Z
-updated: 2024-10-12T20:41:11.660Z
+date: 2024-10-18T01:16:55.347Z
+updated: 2024-10-18T16:08:04.737Z
 tags:
   - windows10
   - windows11
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Scan Your Hard Drive
 
  Hard drive integrity issues such as bad sectors also cause file system errors to occur in Windows 11/10\. For that reason, scanning your hard drive with the Check Disk tool is a recommended troubleshooting method for file system errors. The Check Disk utility (otherwise CHKDSK) scans for and repairs bad drive sectors detected. This is how you can run CHKDSK in the Command Prompt:
@@ -51,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 4. You’ll need to press**Y** to schedule the scan for a restart.  
 ![The chkdsk command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chkdsk.jpg)
 5. Exit the Command Prompt window.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Click**Start > Power** to select**Restart** . The CHKDSK scan will start after the restart.
 
@@ -73,13 +59,20 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 5. Apply any suggestions the troubleshooter provides.  
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Windows Store Apps troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-store-app-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Check That the Windows License Manager Service Is Running
 
@@ -92,20 +85,20 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 4. Click on the**Startup type** menu to open it and select**Automatic** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Windows License Manager server window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windows-license-service-manager.jpg)
 5. If the service isn’t running, press**Start** within the properties window.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Select**Apply** to save settings for the Windows License Manager Service.
@@ -119,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
 ![Apps & features in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/apps-features-window.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you’ve uninstalled the app, reinstall it from the MS Store. Bring up the Microsoft Store, and input the app’s title in its search box. Then select the app to reinstall in the search results, and click the**Get** button for it.
 
 ## 6\. Set Up a New Local User Account on Windows
@@ -129,13 +129,6 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-account-button.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Restore Windows to an Earlier Date
 
  System Restore is a troubleshooting tool that can potentially address various causes for file system errors, be it system file corruption, app conflicts, or recent Windows updates. It fixes many things by restoring Windows to an earlier date (system snapshot). However, restoring Windows to an earlier time will only likely work if you can select a restore point that predates the file system error on your PC.
@@ -143,6 +136,13 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
  To apply this potential solution, read through our guide to[utilizing System Restore and creating restore points](https://www.makeuseof.com/windows-11-create-restore-point/) . Select a restoration date that will take your PC back to a time when there wasn’t a system file error on it. The oldest restore point available is the most likely one to do that.
 
 ![The System Restore tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/system-restore-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  However, restoring Windows to a previous time removes software not installed on the restoration point’s date. So, it’s likely you’ll have to reinstall some apps after rolling back Windows. Clicking**Scan for affected programs** in System Restore provides an overview of software that will be removed for a restore point.
 
@@ -171,15 +171,15 @@ thumbnail: https://thmb.techidaily.com/a7fa63ce234167f10d2e30f61413bb6b349d75128
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-capture-cumulative-chronicles-for-2024/"><u>[New] Capture Cumulative Chronicles for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-listing-from-the-tail-reordering-videos-in-a-reverse-sequence/"><u>[Updated] 2024 Approved Listing From the Tail Reordering Videos in a Reverse Sequence</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-laying-down-the-law-vegas-pro-21-edition-reviewed/"><u>2024 Approved Laying Down the Law VEGAS Pro '21 Edition Reviewed</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-delayed-auditory-feedback-on-pcs/"><u>Addressing Delayed Auditory Feedback on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/adjusting-photo-snapshots-in-windows-11/"><u>Adjusting Photo Snapshots in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/clandestine-data-storage-zip-archives-in-image-files-for-windows-enthusiasts/"><u>Clandestine Data Storage: ZIP Archives in Image Files for Windows Enthusiasts</u></a></li>
-<li><a href="https://windows11.techidaily.com/conveniently-embedding-passwords-into-windows-text-archives/"><u>Conveniently Embedding Passwords Into Windows Text Archives</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6-plus-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 Plus Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/ideal-choices-priority-6-fb-lite-vids/"><u>Ideal Choices Priority 6 FB Lite Vids</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-speaking-to-tomorrow-iphone-voice-memo/"><u>In 2024, Speaking to Tomorrow - iPhone Voice Memo</u></a></li>
+<li><a href="https://windows11.techidaily.com/arm-powered-windows-computers-get-official-chrome-support/"><u>ARM-Powered Windows Computers Get Official Chrome Support</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-unveiling-the-excellence-of-samsung-galaxy-watch-design/"><u>Comprehensive Review: Unveiling the Excellence of Samsung Galaxy Watch Design</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/exploring-the-influence-of-luts-on-digital-imagery-quality/"><u>Exploring the Influence of LUTs on Digital Imagery Quality</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock iPhone 6s Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/seamless-media-transfer-expert-insights-on-using-macx-dvd-ripper-pro-to-safely-rip-protected-discs-onto-apple-gadgets/"><u>Seamless Media Transfer: Expert Insights on Using MacX DVD Ripper Pro to Safely Rip Protected Discs Onto Apple Gadgets</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-on-setting-fixed-columns-and-rows-in-microsoft-excel/"><u>Step-by-Step Tutorial on Setting Fixed Columns & Rows in Microsoft Excel</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-xiaomi-14-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Xiaomi 14 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-7-critical-microsoft-excel-tools-you-need-for-effective-budget-management/"><u>Top 7 Critical Microsoft Excel Tools You Need for Effective Budget Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/transitioning-from-hours-to-fractions-a-step-by-step-guide-on-converting-time-to-decimal-format-in-excel/"><u>Transitioning From Hours to Fractions: A Step-by-Step Guide on Converting Time to Decimal Format in Excel</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-tecno-camon-20-pro-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Tecno Camon 20 Pro 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

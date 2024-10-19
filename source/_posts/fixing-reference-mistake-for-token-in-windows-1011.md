@@ -1,7 +1,7 @@
 ---
 title: Fixing Reference Mistake for Token in Windows 10/11
-date: 2024-10-11T21:51:43.209Z
-updated: 2024-10-12T23:17:10.695Z
+date: 2024-10-17T22:54:33.265Z
+updated: 2024-10-18T20:59:19.583Z
 tags:
   - windows10
   - windows11
@@ -53,24 +53,24 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 ![The reregister DLL command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/reregister-dll-commands.jpg)
 5. Wait for the command to finish reregistering DLLs.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Close your Command Prompt app, bring up the Start menu, and select **Restart**.
 
 ## 3\. Try Some More Generic Windows Fixes
 
  If nothing has worked, try these Windows fixes that can fix a wide variety of errors, including this one.
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Scan and Repair System Files With SFC
 
@@ -79,16 +79,16 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 ![The sfc /scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-scannow-command5.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Go Back to a Previous Windows Build Version
@@ -101,20 +101,13 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 ![The Get started button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/get-started-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If that option is grayed out, you can also try restoring the previous Windows build from the **Advanced options** menu. Open recovery options in Settings as outlined in steps one and two above and click **Restart** **now**. Then select **Troubleshoot** \> **Advanced** options and the **Go back** **to previous build** option if available.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Go Back to a Previous Restore Point
 
@@ -127,6 +120,13 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 ### Reset Windows
 
  Resetting Windows 11/10 is a last resort for fixing the “reference a token” error that will probably work. It’s best to save this probable resolution until last because you’ll need to reinstall all third-party UWP and desktop apps installed before the reset. You can apply this possible resolution as instructed within method one of our [how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/#:~:text=To%20run%20a%20Windows%20factory,%3E%20Update%20%26%20Security%20%3E%20Recovery.) guide.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get the “Reference a Token” Error Sorted Out
 
@@ -144,18 +144,15 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-delve-into-all-shared-visuals-within-a-chat-on-messenger-for-2024/"><u>[New] Delve Into All Shared Visuals Within a Chat on Messenger for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-essential-guide-to-custom-voices-how-to-alter-game-character-sounds-in-free-fire-no-cost-for-2024/"><u>[New] The Essential Guide to Custom Voices How to Alter Game Character Sounds in Free Fire (No Cost!) For 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-crafting-visual-harmony-with-bokeh-techniques-in-storytelling-for-2024/"><u>[Updated] Crafting Visual Harmony with Bokeh Techniques in Storytelling for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-iphone-and-ipad-screen-recording-top-methods-of-2023-for-2024/"><u>[Updated] IPhone & iPad Screen Recording Top Methods of 2023 for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/7-methods-for-correcting-unreachable-display-responses-in-windows/"><u>7 Methods for Correcting Unreachable Display Responses in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-faulty-alerts-from-windows-10s-shield/"><u>Addressing Faulty Alerts From Windows 10'S Shield</u></a></li>
-<li><a href="https://windows11.techidaily.com/converting-your-notepad-to-nighttime-mode-with-ease-on-windows-11/"><u>Converting Your Notepad to Nighttime Mode with Ease on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/decrease-resource-load-managing-news-app-consumption/"><u>Decrease Resource Load: Managing News App Consumption</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-logo-blueprints-to-refine-and-personalize-your-symbol/"><u>In 2024, Free Logo Blueprints to Refine and Personalize Your Symbol</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721476007641-instagram-sluggish-here-are-six-proven-tips-to-speed-up-on-any-device/"><u>Instagram Sluggish? Here Are Six Proven Tips to Speed Up on Any Device!</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-resolving-the-hp-touchpad-malfunction-on-your-laptop/"><u>Step-by-Step Guide: Resolving the HP Touchpad Malfunction on Your Laptop</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-list-of-top-tier-cameras-for-2024/"><u>The Ultimate List of Top-Tier Cameras for 2024</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-how-to-pick-the-perfect-android-video-editing-app/"><u>Updated In 2024, How to Pick the Perfect Android Video Editing App</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-leading-sites-that-outshine-traditional-twitter-usage/"><u>[Updated] Leading Sites That Outshine Traditional Twitter Usage</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-keep-your-linkedin-videos-at-the-fingertips-top-6-professional-downloader-apps/"><u>2024 Approved Keep Your LinkedIn Videos at the Fingertips Top 6 Professional Downloader Apps</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamline-your-content-conversion-top-5-online-gif-to-video-hubs/"><u>In 2024, Streamline Your Content Conversion Top 5 Online GIF-to-Video Hubs</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-vboxs-security-settings-secure-boot-and-tpm-management/"><u>Mastering VBox's Security Settings: Secure Boot & TPM Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-common-winx-update-error-0x80246007/"><u>Quick Fixes for Common WinX Update Error: 0X80246007</u></a></li>
+<li><a href="https://windows11.techidaily.com/regaining-composure-post-high-living-days-for-windows-users/"><u>Regaining Composure Post-High Living Days, for Windows Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solutions-for-nvidia-g-sync-hdrray-tracing-overlay-malfunctioning/"><u>Solutions for Nvidia G-Sync HDR/Ray-Tracing Overlay Malfunctioning</u></a></li>
+<li><a href="https://windows11.techidaily.com/strengthen-your-safe-space-top-5-corrections-in-windows-features/"><u>Strengthen Your Safe Space: Top 5 Corrections in Windows Features</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-now-download-the-newest-sound-blaster-audigy-graphics-card-driver-pack/"><u>Upgrade Now! Download the Newest Sound Blaster Audigy Graphics Card Driver Pack</u></a></li>
 </ul></div>
 

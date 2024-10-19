@@ -1,7 +1,7 @@
 ---
 title: How To Reconcile Windows' Privileged Access Denial (Error 0X80070522)
-date: 2024-10-07T18:26:55.497Z
-updated: 2024-10-12T18:19:34.505Z
+date: 2024-10-17T21:54:49.423Z
+updated: 2024-10-19T01:50:10.153Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,16 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-run-as-administrator-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Set an Admin Account on Windows
@@ -47,10 +53,17 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 ![The Administrator radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-administrator-radio-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Turn Off User Account Control (in Three Different Ways)
@@ -68,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-properties-option.jpg)
 3. Click the**Sharing** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Press the**Advanced Sharing** button.
 5. Select the**Share this folder** checkbox.  
 ![The Share this folder checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-this-folder-checkbox.jpg)
@@ -84,15 +90,15 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-full-control-checkbox.jpg)
 3. Click the**Apply** and**OK** on the Permissions and Advanced Sharing windows.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select**Close** to exit the properties window.
 5. Then click**Power** and select**Restart** within your Start menu.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Perform the Required File or Folder Actions on Windows
 
@@ -115,20 +121,16 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-spotting-gone-from-your-friend-list/"><u>[New] In 2024, Spotting Gone From Your Friend List</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-storytellers-supreme-curated-yt-channels-for-2024/"><u>[New] Storytellers Supreme Curated YT Channels for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-heartstrings-harmony-best-music-to-accompany-your-engagement-for-2024/"><u>[Updated] Heartstrings Harmony Best Music to Accompany Your Engagement for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/breach-ethernet-speed-barriers-past-windows-100mbps-ceiling/"><u>Breach Ethernet Speed Barriers: Past Windows' 100Mbps Ceiling</u></a></li>
-<li><a href="https://windows11.techidaily.com/changing-home-screen-settings-without-start-menu/"><u>Changing Home Screen Settings Without Start Menu</u></a></li>
-<li><a href="https://windows11.techidaily.com/from-oops-to-on-point-8-fixes-for-pink-desktop-displays/"><u>From Oops to On Point: 8 Fixes for Pink Desktop Displays</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/guide-to-reactivating-gpu-fan-spin/"><u>Guide to Reactivating GPU Fan Spin</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-nokia-g310-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Nokia G310 Without PUK Codes</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-how-to-detach-audio-in-premiere-pro-step-by-step-guide/"><u>New 2024 Approved How to Detach Audio in Premiere Pro? Step by Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/redefining-user-experience-the-changing-landsinas-of-w10-and-w11/"><u>Redefining User Experience: The Changing Landsinas of W10 & W11</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/resolve-to-speak-diverse-tongues-in-24/"><u>Resolve to Speak Diverse Tongues in '24</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-overcome-windows-memory-errors/"><u>Steps to Overcome Windows Memory Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-eliminate-windows-unknown-value-warning/"><u>Strategies to Eliminate Windows Unknown Value Warning</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-the-unreachable-error-with-spotify-in-windows-1011/"><u>Tackling the Unreachable Error with Spotify in Windows 10/11</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-bridging-the-gap-youtube-editing-mastered-in-imovie-workflows-for-2024/"><u>[New] Bridging the Gap YouTube Editing Mastered in iMovie Workflows for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ransformative-techniques-to-mute-background-noise/"><u>[New] Transformative Techniques to Mute Background Noise</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtubes-beauty-titans-whos-leading/"><u>[Updated] YouTube's Beauty Titans Who's Leading ?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gigglegraphics-suite/"><u>2024 Approved GiggleGraphics Suite</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-youtube-integration-a-beginners-guide-to-google-meet/"><u>2024 Approved YouTube Integration A Beginner's Guide to Google Meet</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-no-audio-output-device-is-installed-error-on-windows/"><u>How to Fix the No Audio Output Device Is Installed Error on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/ifas-premier-laptop-showcase-the-ultimate-finds/"><u>IFA's Premier Laptop Showcase - The Ultimate Finds</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-fine-tuning-your-approach-to-360-videos-on-facebook/"><u>In 2024, Fine-Tuning Your Approach to 360 Videos on Facebook</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-xiaomi-redmi-note-12-pro-4g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Xiaomi Redmi Note 12 Pro 4G Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-charge-readiness-notification-tips-for-win11-users/"><u>Maximizing Charge Readiness: Notification Tips for Win11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-1110-stop-pin-connection-hurdle/"><u>Troubleshooting Windows 11/10: Stop PIN Connection Hurdle</u></a></li>
 </ul></div>
 

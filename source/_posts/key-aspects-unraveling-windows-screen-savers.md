@@ -1,7 +1,7 @@
 ---
 title: "Key Aspects: Unraveling Windows Screen Savers"
-date: 2024-09-30T19:57:30.082Z
-updated: 2024-10-01T23:02:00.733Z
+date: 2024-10-17T17:35:30.267Z
+updated: 2024-10-19T01:52:07.319Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,10 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
  Screen savers came to the rescue by displaying moving elements on the screen whenever the system was left idle for a specific duration. But it was all back in the day and now, [most of us don't even need screen savers](https://www.makeuseof.com/tag/screensavers-2015-need-dont/) to save the day, due to the fast boot times and technological advancements in the display industry.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up a Screen Saver on Windows 11
@@ -53,13 +53,6 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
 ![lock screen settings in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lock-screen-settings-in-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Under the **Related settings** header, choose **Screen saver**. Alternatively, just search for "**Change screen saver settings**" in the Start menu and select the first result.
 
  With the Screen saver dialog box opened, click on the dropdown menu and select any screen saver option other than **(None)**. In Windows 11, the following options are available: 3D Text, Blank, Bubbles, Mystify, Photos, and Ribbons.
@@ -69,26 +62,13 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 ![set a screen saver on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-a-screen-saver-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you've decided on the screen saver, select a duration (in minutes) the system will wait for before triggering the screen saver. Also, check off the box next to **On resume, display logon screen** if you want. Finally, click **Apply > Ok**.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Customize Screen Savers on Windows 11
 
@@ -106,6 +86,13 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
  You can also [make your own screen saver for Windows](https://www.makeuseof.com/tag/5-ways-to-make-your-own-screensavers-windows/) if you like.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Have Screen Savers Changed?
 
  The first ever screen saver was developed by a programmer named John Socha-Leialoha and it was a simple program that displayed a blank screen whenever a computer was left idle for three minutes.
@@ -115,6 +102,13 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
  After the 90s, LCDs rendered screen savers obsolete, but computer users still found them exciting, even though they were of no practical use.
 
  Fast forward to today, screen savers have "almost" vanished, with Microsoft hiding them deep inside Windows settings. But still, people use them as they prefer watching visually appealing animations fill up their screen rather than glaring at a static, dead desktop.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bringing Back the Old Days With Windows Screen Savers
 
@@ -137,21 +131,16 @@ Image Credits: [Wikimedia](https://commons.wikimedia.org/wiki/File:ScreenBurn%5F
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/solved-system-interrupts-high-cpu-usage-on-windows-11/"><u>[Solved] System Interrupts High CPU Usage on Windows 11</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-advanced-steps-to-record-silent-videos/"><u>2024 Approved Advanced Steps to Record Silent Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719382132283-boost-your-windows-screenshot-game-4-key-solutions/"><u>Boost Your Windows Screenshot Game: 4 Key Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-user-interface-learn-window-tweaks-via-alomware/"><u>Enhance User Interface: Learn Window Tweaks via AlomWare</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-xiaomi-14-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-expert-picks-top-9-video-chat-and-conference-apps-iosandroid/"><u>In 2024, Expert Picks Top 9 Video Chat & Conference Apps iOS/Android</u></a></li>
-<li><a href="https://windows11.techidaily.com/independent-windows-version-boosting-guide-147-chars/"><u>Independent Windows Version Boosting Guide (147 Chars)</u></a></li>
-<li><a href="https://windows11.techidaily.com/nircmds-guide-to-streamlining-your-task-execution/"><u>NirCmd's Guide to Streamlining Your Task Execution</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-linux-on-windows-top-wsl-2-tips-and-tricks/"><u>Optimize Linux on Windows: Top WSL 2 Tips and Tricks</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-to-resolve-error-a00f425d-on-windows-device/"><u>Quick Guide to Resolve Error A00F425D on Windows Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/regain-missing-dxgidll-with-easy-windows-11-fixes/"><u>Regain Missing Dxgi.dll with Easy Windows 11 Fixes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/samsungs-latest-duel-a-head-to-head-look-at-the-galaxy-s24-ultra-and-s23-ultra-specs/"><u>Samsung's Latest Duel: A Head-to-Head Look at the Galaxy S24 Ultra and S23 Ultra Specs</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-dispelling-net-core-error-messages-windows/"><u>Steps for Dispelling '.NET Core' Error Messages Windows</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Honor 90 GT? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-ms-store-error-code-0x0-on-win-1011/"><u>Troubleshooting: MS Store Error Code 0X0 on Win 10/11</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/youtube-content-management-for-instagram-profiles-for-2024/"><u>YouTube Content Management for Instagram Profiles for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/etermining-view-counts-direct-effect-on-creator-revenue-for-2024/"><u>[New] Determining View Count's Direct Effect on Creator Revenue for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-device-footage-to-youtube-shorts-your-streamlined-approach/"><u>[Updated] 2024 Approved From Device Footage to YouTube Shorts - Your Streamlined Approach</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-much-money-can-you-make-via-youtube-ad-revenue-and-cpm-rates/"><u>[Updated] 2024 Approved How Much Money Can You Make via YouTube Ad Revenue and CPM Rates?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-orientation-overhaul-instagrams-video-rotation-secret-for-2024/"><u>[Updated] Orientation Overhaul Instagram's Video Rotation Secret for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-lock-down-your-pcs-external-hard-drive-access/"><u>How To Lock Down Your PC's External Hard Drive Access</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-itel-p55t-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Itel P55T Location by Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-reign-in-the-views-youtube-thumbnail-size-and-ratios/"><u>In 2024, Reign in the Views Youtube Thumbnail Size & Ratios</u></a></li>
+<li><a href="https://windows11.techidaily.com/modernize-your-tech-consider-alternatives-to-windows/"><u>Modernize Your Tech: Consider Alternatives to Windows</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/top-8-android-platforms-revolutionizing-large-calls/"><u>Top 8 Android Platforms Revolutionizing Large Calls</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-ios-calendar-in-your-windows-environment/"><u>Unlocking iOS Calendar in Your Windows Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/unravel-the-power-of-windows-redos-using-hotkey-keys/"><u>Unravel the Power of Windows Redos Using Hotkey Keys</u></a></li>
 </ul></div>
 

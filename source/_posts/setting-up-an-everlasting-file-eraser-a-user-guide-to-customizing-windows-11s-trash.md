@@ -1,7 +1,7 @@
 ---
 title: "Setting up an Everlasting File Eraser: A User Guide to Customizing Windows 11'S Trash"
-date: 2024-10-12T00:07:59.652Z
-updated: 2024-10-12T17:37:55.654Z
+date: 2024-10-17T20:18:33.792Z
+updated: 2024-10-19T03:37:22.766Z
 tags:
   - windows10
   - windows11
@@ -51,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 ![The Extract Compressed (Zipped) Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/extract-compressed-file-tool.jpg)
 6. Double-click**Free\_File\_Wiper.exe** in its extracted directory to run the app.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. You’ll see a help window for the app when you first start it. Deselect the**Show this help at startup** checkbox if you don’t want the info to appear again.  
 ![The Free File Wiper window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-window.jpg)
 8. Click the**X** close button on the "Free File Wiper – Help" window.
@@ -67,6 +60,19 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 ![The Free File Wiper bin icon on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/free-file-wiper-bin-icon.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can change the wipe method for that bin via its context menu. Right-click the**Free File Wiper** system tray icon and select the**Wipe method** submenu. Then choose one of the five options available there.**Maniacal erase** is the most thorough shredding option with several passes.
 
  Free File Wiper's context menu also includes other options. There you can select alternative transparency levels for the bin icon. Click**Autostart with Windows** to add Free File Wiper to the startup items.
@@ -74,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 ![The Wipe method option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/wipe-method-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You’ll also notice that the menu includes an**Integrate in explorer “Send to” menu** selected by default. That option adds Free File Wiper menu to the**Send to** submenu on the classic context menu when selected. It enables you to right-click a file and select**Show more options** \>**Send to** \>**Free File Wiper** .
@@ -96,33 +102,33 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 ![The Add gadget option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/add-gadget-option.jpg)
 8. Double-click the Multi Trash gadget, which will probably be on page two of that window, to add it to the desktop.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![The Multi Trash gadget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-button.jpg)
 
  Multi Trash is set to its Recycle Bin by default. However, you can change its function by clicking the arrows on that gadget. Click that gadget’s**left arrow** to turn it into a Shred bin.
 
 ![The Multi Trash Recycle bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-multi-trash-recycle-bin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Shred bin will permanently erase files dragged onto it. So, go ahead and drag some files from Explorer’s window onto the Shred bin. A confirmation prompt will open that asks if you’re sure about permanently deleting the file. Click**Yes** to confirm as such.
 
 ![The Shred bin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-shred-bin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This gadget has a few customization settings. Click its**Options** button to view them on the Multi Trash window. You can change the bin’s color by clicking the**Shredder Glass Color** option on the**Appearance** tab and selecting an alternative one on the palette. To change the bin’s size, select the**Large** or**Small** options on the**Size of bin** drop-down menus within the**Function** tab. Click**OK** to apply new gadget settings.
 
 ![The Multi Trash window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/multi-trash-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Of course, the biggest beauty of Multi Trash is that it’s a 3-in-1 file deletion tool. You can also set it to be a recycle or standard deletion bin for different files. However, only the Shred bin securely erases files beyond recovery. So, use the Shred bin to erase files that include more confidential info.
 
@@ -147,18 +153,24 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-20-word-formula-to-skyrocket-your-business-reach/"><u>[New] 2024 Approved The 20-Word Formula to Skyrocket Your Business Reach</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-unearthing-springs-full-potential-for-desktop-recorders/"><u>[Updated] Unearthing Spring's Full Potential for Desktop Recorders</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-visual-perfection-select-the-best-monitors-for-creative-work-for-2024/"><u>[Updated] Visual Perfection Select the Best Monitors for Creative Work for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-application-support-limitations-on-windows-7/"><u>Addressing Application Support Limitations on Windows 7</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-windows-steam-login-errors/"><u>Addressing Windows Steam Login Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/adjusting-metric-monitoring-of-wifi-networks-via-win11-settings/"><u>Adjusting Metric Monitoring of Wifi Networks via Win11 Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/big-byte-in-mini-pcs-but-barely-booming/"><u>Big Byte in Mini PCs, But Barely Booming</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-blunders-fix-windows-color-management-fiascos/"><u>Bypassing Blunders: Fix Windows Color Management Fiascos</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-guide-to-fixing-device-path-errors/"><u>Comprehensive Guide to Fixing Device Path Errors</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/enhanced-site-traffic-with-cookiebot-technology/"><u>Enhanced Site Traffic with Cookiebot Technology</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-11-update-issues-how-to-unstick-a-frozen-system/"><u>Fixing Windows 11 Update Issues: How to Unstick a Frozen System</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/repaired-amd-directx-error/"><u>Repaired AMD DirectX Error</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-cross-platform-content-transfer-youtube-meets-facebook/"><u>[New] Cross-Platform Content Transfer YouTube Meets Facebook</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-launch-live-fb-broadcast-from-any-device-with-obs-guide-for-2024/"><u>[Updated] Launch Live FB Broadcast From Any Device with OBS Guide for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-transforming-views-into-audience-with-effective-fb-videos/"><u>[Updated] Transforming Views Into Audience with Effective FB Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-typing-pace-in-windows-11-overcome-keyboard-latency/"><u>Boost Your Typing Pace in Windows 11: Overcome Keyboard Latency</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dvacet-vehlasych-metu-pokusu-konverzovat-dat-na-mp4-kompletni-navod-s-movavi-konvertorem/"><u>Dvacet Věhlasých Métů Pokusu Konverzovat DAT Na MP4 - Kompletní Návod S Movavi Konvertorem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-battlefield-restoring-modern-warfares-voice-chat-functionality/"><u>Fixing the Silent Battlefield: Restoring Modern Warfare's Voice Chat Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fourfold-check-on-ai-learning-an-educators-primer/"><u>Fourfold Check on AI Learning: An Educator's Primer</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-ios-to-windows-mastering-the-use-of-imessage/"><u>From iOS to Windows: Mastering the Use of iMessage</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-itel-a70-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Itel A70 to PC? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-use-of-windows-11-desktop-widgets/"><u>Mastering the Use of Windows 11 Desktop Widgets</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/neue-ipad-version-warum-e-mail-kontakte-beim-migrationsprozess-verloren-gehen-konnen/"><u>Neue iPad Version: Warum E-Mail-Kontakte Beim Migrationsprozess Verloren Gehen Können</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-your-routine-nircmds-win-commands-for-speed/"><u>Optimize Your Routine: NirCmd's Win Commands for Speed</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-deadly-windows-error-c0000022-breakdown/"><u>Overcoming the Deadly Window's Error C0000022 Breakdown</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-failed-attachment-of-usb-device-to-virtualbox/"><u>Quick Fixes for Failed Attachment of USB Device to VirtualBox</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-sync-immediate-notebook-access-after-boot-up/"><u>Seamless Sync: Immediate Notebook Access After Boot-Up</u></a></li>
+<li><a href="https://windows11.techidaily.com/start-with-style-not-sponsorship-in-w11/"><u>Start with Style, Not Sponsorship in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-stop-windows-task-moving-apps/"><u>Strategies to Stop Windows Task Moving Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-a-trouble-free-win11-with-ccleaner/"><u>Tips for a Trouble-Free Win11 with CCleaner</u></a></li>
 </ul></div>
 

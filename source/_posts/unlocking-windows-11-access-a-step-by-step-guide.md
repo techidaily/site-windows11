@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Windows 11 Access: A Step-by-Step Guide"
-date: 2024-09-05T02:10:35.494Z
-updated: 2024-09-06T02:10:35.494Z
+date: 2024-10-15T16:01:38.107Z
+updated: 2024-10-19T02:33:36.660Z
 tags:
   - windows10
   - windows11
@@ -58,27 +58,23 @@ thumbnail: https://thmb.techidaily.com/b0e0b3709f1348652118c2459af9389796059e0f6
  If the issue is resolved, you’ll need to set your computer back to start in normal mode. To do this, search and open**System Configuration** in Windows search, click the**General** tab, and select**Normal Startup** . Click**Apply** and**OK** to save the changes and restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Change Microsoft Account Password
 
 ![microsoft account online password security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-account-online-password-security.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you use a Microsoft account to log in, try changing the account password using a different device. Once done, you can use the new password to log in. This method will not work for local user accounts.
 
 To change your Microsoft Account password:
@@ -90,30 +86,25 @@ To change your Microsoft Account password:
 5. Click**Save** .
 6. Use the new password to log in to your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Fix a Blank Login Screen Issue
 
  A blank login screen on Windows 11 can happen due to several reasons. Common causes often include bad Windows updates, incorrectly configured sign-in options, and issues with fast startup.
 
  Many a time, you can[fix the missing sign-in screen problem](https://www.makeuseof.com/blank-login-screen-windows-fix/) by disabling the Secure Sign-in (Ctrl + Alt + Delete) option. Alternatively, boot into safe mode, install Windows updates, perform a system restore, or run a startup repair to fix the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Reset the Forgotten Admin Password
 
  If you have forgotten your password, you can change the account password without a reset. There are two ways to[reset a forgotten administrator account password on Windows](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/) .
 
  You can use an installation media and lock screen hack to change the account password. If that doesn’t work, you can create a bootable Linux USB drive and reset the password using chntpw and Linux Terminal.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030370/7443" target="_top" id="2030370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Factory Reset Windows 11
 
 ![factory reset Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/factory-reset-windows-11.jpg)
@@ -125,11 +116,12 @@ To change your Microsoft Account password:
  Alternatively, consider performing a repair reinstallation. It is similar to performing an upgrade when you receive a major Windows update. The process[reinstalls Windows 11 without deleting your apps and personal files](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/) .
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Clean Install Windows 11
 
  A[Windows 11 clean install](https://www.makeuseof.com/how-to-clean-install-windows-11/) is always recommended over an upgrade. It helps you get rid of old issues, remove viruses, bloatware, and old configuration, and often results in improved system performance.
@@ -138,24 +130,15 @@ To change your Microsoft Account password:
 
  That said, a clean install removes both your third-party apps and personal files. So, make sure to create a backup before you get ready to install a fresh copy of Windows on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Your Windows 11 Login Problems
 
  If Windows 11 can’t log in with a password, you can fix the issue by starting your computer in safe mode and then in normal mode. Additionally, if you have forgotten your password, try to reset your Windows administrator password.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +147,18 @@ To change your Microsoft Account password:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-leading-tech-in-snap-capture/"><u>[New] Leading Tech in Snap Capture</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-key-to-successful-large-scale-instagram-videos/"><u>2024 Approved The Key to Successful Large-Scale Instagram Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-different-view-unique-changes-to-windows-11s-file-explorer/"><u>A Different View: Unique Changes to Windows 11'S File Explorer</u></a></li>
+<li><a href="https://windows11.techidaily.com/accessing-and-running-verifier-manager-in-windows-11/"><u>Accessing and Running Verifier Manager in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/bridging-the-gap-reconnecting-legrl-after-drops/"><u>Bridging the Gap: Reconnecting LeGRL After Drops</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-windows-1011-bluetooth-connect-failure/"><u>Bypassing Windows 10/11 Bluetooth Connect Failure</u></a></li>
+<li><a href="https://windows11.techidaily.com/detecting-7-critical-windows-steps-for-cyber-threats/"><u>Detecting 7 Critical Windows Steps for Cyber Threats</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-no-compatible-hardware-error-in-rainbow-six-extraction/"><u>Resolving 'No Compatible Hardware' Error in Rainbow Six Extraction</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-correcting-missing-user32dll-mistakes-on-your-pc/"><u>Step-by-Step Solutions: Correcting Missing User32.dll Mistakes on Your PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-comprehen-word-limit-reached-continuation-in-the-next-step/"><u>The Comprehen... (Word Limit Reached, Continuation in the Next Step)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-correcting-unable-to-qualify-in-teredo-networking-scenarios/"><u>Understanding and Correcting 'Unable to Qualify' In Teredo Networking Scenarios</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Rectifying 'Device Not Initialized' Warning in Win 11
-date: 2024-10-11T19:47:02.367Z
-updated: 2024-10-12T23:35:46.568Z
+date: 2024-10-12T21:30:46.312Z
+updated: 2024-10-19T02:28:27.107Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 
  Knowing the reasons behind the error message, let's get into all the working fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Try the Basic Repairs
 
  The first thing you must do whenever you come across the Unknown USB Device, Port Reset Failed error is to[restart your device](https://www.makeuseof.com/windows-restart-methods/) . Restarting the computer will fix the issue if a temporary glitch is the reason behind it.
@@ -50,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
  If restarting the computer wasn't helpful, try plugging the USB device into a different USB port. Doing this will be especially helpful if a broken USB port is causing the problem.
 
  Sometimes, the message can appear due to corruption in the OS version installed on your computer. The solution, in this case, is to download the latest Windows update. To do this,[open the Settings menu](https://www.makeuseof.com/windows-ways-to-open-system-settings/) , and select**Windows Update** from the left panel. Click the**Check for updates** button and wait until Windows checks for and download any available updates.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Look for Hardware Changes
 
@@ -62,16 +62,16 @@ thumbnail: https://thmb.techidaily.com/857cad2a82232e03f92aad9809b4a548e4964a8c9
 
  That's it. Now, wait until the scan is complete. Once done, check if the issue continues.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Use the Hardware and Devices Troubleshooter
 
 ![Hardware and Devices Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Hardware-and-Devices-Troubleshooter-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Windows offers various troubleshooters](https://www.makeuseof.com/windows-11-troubleshooters/) that you can use to get rid of different kinds of system issues. One of these troubleshooters is the Hardware and Devices troubleshooter, which you can use to eliminate most hardware-related issues.
 
@@ -112,19 +112,19 @@ Next, restart your computer and check for the problem.
 4. In the new window that crops up, select the**Search automatically for drivers** option.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, wait until Windows searches for any available driver update online and install it on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Reinstall All the USB Controllers
@@ -136,13 +136,6 @@ Next, restart your computer and check for the problem.
 
  Next, restart your computer and plug in the USB device again. Check if you still see the error message. If yes, continue with the guide.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Disable the USB Selective Suspend Setting
 
  Disabling the USB Selective Suspend setting is another thing you can do to get rid of the problem at hand. Here's how to do it:
@@ -153,6 +146,13 @@ Next, restart your computer and check for the problem.
 4. Choose**Disabled** for both**On battery** and**Plugged in** options.  
 ![Disable USB Selective Setting in the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disable-usb-selective-setting.jpg)
 5. Click**Apply** \>**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Update Your BIOS
 
@@ -181,24 +181,14 @@ Next, restart your computer and check for the problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-things-that-you-should-know-about-youtube-keyword-research/"><u>[New] 2024 Approved Things That You Should Know About YouTube Keyword Research</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-hubsan-x4-quadcopter-examination-an-in-depth-guide-for-2024/"><u>[New] Hubsan X4 Quadcopter Examination An In-Depth Guide for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-network-security/"><u>[Updated] Network Security</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-your-ultimate-companion-a-stepwise-approach-to-filming-with-logitech/"><u>[Updated] Your Ultimate Companion A Stepwise Approach to Filming with Logitech</u></a></li>
-<li><a href="https://windows11.techidaily.com/activatingdeactivating-windows-setup-service-on-pcs/"><u>Activating/Deactivating Windows Setup Service on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-hardware-utilization-four-ways-to-open-the-disk-manager-in-windows-11/"><u>Boost Hardware Utilization: Four Ways to Open the Disk Manager in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypass-windows-11-lock-screen-swiftly/"><u>Bypass Windows 11 Lock Screen Swiftly</u></a></li>
-<li><a href="https://windows11.techidaily.com/decorating-windows-11-with-a-christmas-twist/"><u>Decorating Windows 11 with a Christmas Twist</u></a></li>
-<li><a href="https://windows11.techidaily.com/enabling-microsoft-store-app-on-win11-pcs/"><u>Enabling Microsoft Store App on Win11 PCs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-vivo-v30-lite-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Vivo V30 Lite 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/maximize-your-safety-on-the-road-with-the-advanced-escort-max-360-gps-enabled-radar-detector/"><u>Maximize Your Safety on the Road with the Advanced Escort Max 360 GPS-Enabled Radar Detector</u></a></li>
-<li><a href="https://windows11.techidaily.com/paramount-procedures-for-wiping-your-windows-installation/"><u>Paramount Procedures for Wiping Your Windows Installation</u></a></li>
-<li><a href="https://windows11.techidaily.com/reinvigorating-a-non-functional-windows-taskbar/"><u>Reinvigorating a Non-Functional Windows Taskbar</u></a></li>
-<li><a href="https://win-hot.techidaily.com/schnell-und-einfach-methoden-zur-wiederherstellung-von-speicherkartendaten-cf-cards/"><u>Schnell Und Einfach - Methoden Zur Wiederherstellung Von Speicherkartendaten (CF Cards)</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-comprehensive-guide-to-getting-most-out-of-windows-11s-startup-screen/"><u>The Comprehensive Guide to Getting Most Out of Windows 11'S Startup Screen</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/total-expense-outline-the-economics-of-starting-a-podcast/"><u>Total Expense Outline The Economics of Starting a Podcast</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-mystery-of-yourphoneexe-in-w10/"><u>Unveiling the Mystery of YourPhoneExe in W10</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimal-quick-glance-windows-photo-app/"><u>[Updated] Optimal Quick Glance Window's Photo App</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rank-the-best-gopro-cases-with-our-guide/"><u>[Updated] Rank the Best GoPro Cases with Our Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-overcoming-outlook-crashing-issues/"><u>Essential Guide: Overcoming Outlook Crashing Issues</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-powered-therapy-ensuring-client-safety/"><u>GPT-Powered Therapy: Ensuring Client Safety</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-get-past-a-non-starting-battlenet-interface/"><u>How to Get Past a Non-Starting Battle.net Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-regaining-win-folder-entry/"><u>Master the Art of Regaining Win Folder Entry</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstate-audio-preferences-winvolume-issue-resolution/"><u>Reinstate Audio Preferences: WinVolume Issue Resolution</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-repair-guide-getting-your-xbox-one-controller-xp-back-online/"><u>Ultimate Repair Guide: Getting Your Xbox One Controller (XP) Back Online</u></a></li>
 </ul></div>
 

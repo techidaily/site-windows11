@@ -1,7 +1,7 @@
 ---
 title: "Strategic Steps: Launching Your Admin Privileged PowerShell Console"
-date: 2024-09-05T02:08:02.620Z
-updated: 2024-09-06T02:08:02.620Z
+date: 2024-10-13T23:09:31.818Z
+updated: 2024-10-18T17:58:06.012Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 ![Open Windows PowerShell Using Power User Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-power-user-menu.jpg)
 3. If UAC appears on the screen, click**Yes** to grant permission.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Open Windows PowerShell as an Administrator From the Windows Search Tool
 
  Alternatively, you can open Windows PowerShell as an administrator using the Windows Search tool. This process is relatively simple and only takes a few steps. Here is how to do it:
@@ -41,6 +48,19 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 
  PowerShell will now open with administrative privileges. Here you can type any PowerShell command you want to execute. To exit PowerShell, type "Exit" and press**Enter** .
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. How to Open Windows PowerShell as an Administrator Through the Run Command
 
  There is a powerful tool in Windows 11 called Run Command that lets you access files, launch programs, and adjust many system settings. You can also use it to launch Windows PowerShell as an administrator. Here's how:
@@ -49,11 +69,19 @@ thumbnail: https://thmb.techidaily.com/dc048da36d4f74b4d171bfb2845fad3bf8d729c04
 2. From here, type in "PowerShell" and press**Ctrl + Shift + Enter** key combination.  
 ![Open Windows PowerShell Using Run Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-run-command.jpg)
 3. If a confirmation prompt pops up, click**Yes** to continue. This will launch PowerShell as an administrator.
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. How to Open Windows PowerShell as an Administrator From Windows File Explorer
@@ -67,11 +95,12 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 4. Right-click on the PowerShell executable file and select**Run as administrator** .  
 ![Open Windows PowerShell Using File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-file-explorer.jpg)
 5. When UAC appears, click**Yes** to grant admin rights.
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. How to Open Windows PowerShell as an Administrator Using Command Prompt
@@ -81,34 +110,10 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 1. Run Command Prompt as an Administrator (see[how to open the Command Prompt as an administrator](https://www.makeuseof.com/windows-run-command-prompt-admin/) for instructions).  
 ![Open Windows PowerShell Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-command-prompt.jpg)
 2. In the elevated command prompt, copy and paste the given command line:  
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 `powershell Start-Process powershell -Verb runAs`
 
  As soon as you type the above command line in the elevated command prompt window, Windows PowerShell will start running as an administrator.
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. How to Open Windows PowerShell as an Administrator From the Start Menu
 
  The Start Menu contains a wide range of software programs and files that provide a central place for launching applications and other tasks. Start Windows PowerShell with these steps:
@@ -132,6 +137,13 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 ![Open Windows PowerShell Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-task-manager.jpg)
 4. Click**OK** and Windows PowerShell will start as an administrator.
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. How to Open Windows PowerShell as an Administrator Using the Control Panel
 
  Windows Control Panel is a software program that contains many tools for managing settings on Windows. With this tool, you can launch almost any application installed on your computer. Follow these steps to open Windows PowerShell as an administrator:
@@ -143,14 +155,15 @@ C:\Windows\System32\WindowsPowerShell\v1.0\
 ![Open Windows PowerShell Using Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-using-control-panel.jpg)
 5. A User Account Control pop-up window will appear asking if you want to allow this app to make changes to your PC; click**Yes** to continue.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  PowerShell will now launch as an administrator, and you can run commands with full privileges. If you need to exit PowerShell, type Exit and press Enter.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. How to Open Windows PowerShell as an Administrator With a Desktop Shortcut
 
  If you often run commands that require administrative privileges, consider creating a desktop shortcut. Here's how to do it with Windows PowerShell.
@@ -161,27 +174,9 @@ C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
 3. Then click**Next** to continue.  
 ![Open Windows PowerShell With Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/open-windows-powershell-with-desktop-shortcut.jpg)
 4. Type in a name for the shortcut and click Finish.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, whenever you want to open PowerShell as an administrator, simply double-click on the shortcut.
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. How to Open Windows PowerShell as an Administrator Using a Batch File
 
  This method involves creating a batch file to open Windows PowerShell as an administrator. Here's how to do it:
@@ -196,24 +191,15 @@ Powershell.exe -Command "& {Start-Process Powershell.exe -Verb RunAs}"
 
  This will create the Windows PowerShell batch file. To open Windows PowerShell with administrator access, double-click the batch file. When the UAC prompt appears, click**Yes** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get an Elevated Windows PowerShell Running
 
  When you are working with files or folders that need elevated permissions, you may need to open PowerShell as an administrator. This is because some tasks require elevation in order to complete them successfully. As shown above, there are several ways to open Windows PowerShell as an administrator.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -222,4 +208,24 @@ Powershell.exe -Command "& {Start-Process Powershell.exe -Verb RunAs}"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-ultimate-guide-to-utilizing-instagrams-inquiry-icon/"><u>[New] 2024 Approved The Ultimate Guide to Utilizing Instagram's Inquiry Icon</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-discovering-top-5-fluids-in-virtual-playgrounds-for-2024/"><u>[New] Discovering Top 5 Fluids in Virtual Playgrounds for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-instant-video-playback-on-fb-enabling-auto-play-of-youtube-videos-for-2024/"><u>[Updated] Instant Video Playback on FB Enabling Auto-Play of Youtube Videos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-meme-madness-the-iphone-edition/"><u>[Updated] Meme Madness The iPhone Edition</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723002904247-fix-the-crashing-problem-in-gta-5-step-by-step-tutorial-provided/"><u>Fix the Crashing Problem in GTA 5 – Step-by-Step Tutorial Provided</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-address-the-loadlibrary-error-code-87-on-pcs/"><u>How to Address the LoadLibrary Error Code 87 on PCs</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-realme-11-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Realme 11 5G?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-11-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 11 Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-bottleneck-detection-in-windows/"><u>Mastering Bottleneck Detection in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-through-9-ways-to-access-sound-configuration-in-windows-11/"><u>Navigate Through 9 Ways to Access Sound Configuration in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-honor-x50-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Honor X50</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-missing-d3dx939-dll-in-windows-11-pcs/"><u>Rectifying Missing D3DX9_39 DLL in Windows 11 PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-unlock-a-locked-out-windows-11-with-error-22/"><u>Strategies to Unlock a Locked Out Windows 11 with Error 22</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-significance-of-bsod-in-hardware-troubleshooting/"><u>The Significance of BSoD in Hardware Troubleshooting</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-profiles-in-windows-1111-amidst-errors/"><u>Unlocking Profiles in Windows 11/11 Amidst Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/unseen-steps-eliminating-security-qanda-for-windows-11-admin/"><u>Unseen Steps: Eliminating Security Q&A for Windows 11 Admin</u></a></li>
+<li><a href="https://windows11.techidaily.com/wordsmithing-wonders-selective-windows-aid/"><u>Wordsmithing Wonders: Selective Windows Aid</u></a></li>
+</ul></div>
 

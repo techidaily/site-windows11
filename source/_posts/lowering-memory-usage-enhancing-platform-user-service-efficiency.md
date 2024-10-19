@@ -1,7 +1,7 @@
 ---
 title: "Lowering Memory Usage: Enhancing Platform User Service Efficiency"
-date: 2024-10-10T04:05:21.801Z
-updated: 2024-10-13T00:57:15.154Z
+date: 2024-10-14T16:38:30.615Z
+updated: 2024-10-19T02:20:59.482Z
 tags:
   - windows10
   - windows11
@@ -53,28 +53,15 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 ![navigating-to-the-connecteddevicesplatform-folder-in-windows-run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/navigating-to-the-connecteddevicesplatform-folder-in-windows-run.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will open the **ConnectedDevicesPlatform** folder. You'll see several files and folders in there, so open each of the folders and delete the **ActivitiesCache.db** file in all of them.
 
 ![the-activitiescab-file-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/the-activitiescab-file-on-windows.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you do, restart your computer and see if Connected Devices Platform User Service is still causing RAM consumption issues.
 
@@ -84,22 +71,29 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
 ![devmgmt.msc in Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/devmgmt-msc.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In Device Manager, double-click the device you suspect is causing issues. This will open its properties window.
 
  In the **General** tab of the Properties window, make sure it says **This device is working properly** under **Device status**.
 
 ![the-properties-window-of-a-device-on-windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/the-properties-window-of-a-device-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If it doesn't, you will see an error message and a code. Take note of both so you can start troubleshooting the problem. You can start by using [one of the troubleshooters on Windows](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) to check for and fix the hardware problem you're seeing.
 
  If all the steps above don't work then you might need to [use a system restore point](https://www.makeuseof.com/use-system-restore-windows/) that you created before it started using too much RAM. And if that doesn't work as well, you might have to reset your Windows computer
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Free Your RAM From Connected Devices Platform User Service
 
@@ -117,17 +111,22 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-craft-movies-on-windows-11-using-the-free-movie-maker-app/"><u>[New] Craft Movies on Windows 11 Using the Free Movie Maker App</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-inside-look-at-youtubes-digital-media-oasis/"><u>[Updated] 2024 Approved Inside Look at YouTube's Digital Media Oasis</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-address-webview-compatibility-for-fb-streaming/"><u>[Updated] Address WebView Compatibility for FB Streaming</u></a></li>
-<li><a href="https://windows11.techidaily.com/activate-dialer-in-microsoft-windows-11/"><u>Activate Dialer in Microsoft Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/combatting-sound-malfunction-fixing-error-code-xc00d36b4/"><u>Combatting Sound Malfunction: Fixing Error Code Xc00d36b4</u></a></li>
-<li><a href="https://windows11.techidaily.com/command-the-past-mastering-file-history-navigation/"><u>Command the Past: Mastering File History Navigation</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/comment-localisez-votre-jeux-dachat-steam-perdu/"><u>Comment Localisez Votre Jeux D'achat Steam Perdu?</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-the-differences-windows-10-meets-windows-11/"><u>Deciphering the Differences: Windows 10 Meets Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/digital-dominance-your-must-have-msistore-picks/"><u>Digital Dominance: Your Must-Have MSIStore Picks</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-poco-x5-pro-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Poco X5 Pro FRP Locks</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-ultimate-checklist-for-logitech-webcam-setup/"><u>The Ultimate Checklist for Logitech Webcam Setup</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-audio-adventures-begin-top-10-melodies-for-podcast-intros/"><u>[New] Audio Adventures Begin Top 10 Melodies for Podcast Intros</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-eizos-masterpiece-delving-into-the-world-of-4k-cg318-4k/"><u>[New] EIZO's Masterpiece Delving Into the World of 4K CG318-4K</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-elite-choices-a-guide-to-hdr-cameras/"><u>[New] Unveiling Elite Choices A Guide to HDR Cameras</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-mastering-zoom-for-effective-fb-live-broadcasts/"><u>[Updated] In 2024, Mastering Zoom for Effective FB Live Broadcasts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-oppo-find-x6-pro-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Oppo Find X6 Pro.</u></a></li>
+<li><a href="https://win-guides.techidaily.com/boost-your-text-editing-experience-the-latest-update-for-emeditors-search-toolbar-feature/"><u>Boost Your Text Editing Experience - The Latest Update for EmEditor's Search Toolbar Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/financial-success-in-w11-microsofts-blueprint/"><u>Financial Success in W11: Microsoft's Blueprint</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-jump-start-your-pc-beyond-s-mode-limits/"><u>How to Jump-Start Your PC Beyond S Mode Limits</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-google-pixel-8-pro-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Google Pixel 8 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-cortana-archive-windows-based-steps/"><u>Master Cortana Archive: Windows-Based Steps</u></a></li>
+<li><a href="https://win-webster.techidaily.com/mastering-solutions-for-inaccessible-sd-media-how-to-fix-non-reading-memory-cards-on-computers/"><u>Mastering Solutions for Inaccessible SD Media: How to Fix Non-Reading Memory Cards on Computers</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-folder-access-top-techniques-explored/"><u>Mastering Windows 11 Folder Access: Top Techniques Explored</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-wpm-in-windows-11-a-step-by-step-guide/"><u>Mastering WPM in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-of-common-obs-error-fixes-on-windows-11/"><u>Mastery of Common OBS Error Fixes on Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/oppo-find-x6-pro-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Oppo Find X6 Pro support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://windows11.techidaily.com/stepwise-method-to-activate-dark-mode-in-notepad-on-windows-11-pcs/"><u>Stepwise Method to Activate Dark Mode in Notepad on Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-remedying-windows-11-logins/"><u>Understanding & Remedying Windows 11 Logins</u></a></li>
 </ul></div>
 

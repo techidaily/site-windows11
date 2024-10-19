@@ -1,7 +1,7 @@
 ---
 title: Techniques to Conquer WindowsStore Folder Lockdown
-date: 2024-09-05T02:09:53.904Z
-updated: 2024-09-06T02:09:53.904Z
+date: 2024-10-12T17:46:30.730Z
+updated: 2024-10-18T19:35:03.116Z
 tags:
   - windows10
   - windows11
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
 3. Click or hover over the **Show** button and select the **Hidden items** option to enable it.  
 ![File Explorer View Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/file-explorer-view-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  That's it. Now, you can see theWindowsApps folder in the same directory.
 
  If you try to open it, you'll see an information popup saying, "You have been denied permission." So, to actually access that folder and gain exclusive read and write rights—you've got to do a bit more.
@@ -64,23 +71,27 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
 3. Now, under the **Properties** window. Click the **Security** tab and then the **Advanced** option locatedright at the bottom.  
 ![WindowsApps Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Security-Properties.jpg)
 4. Once you've opened the Advanced Security Settings window, click the **Change** text next to Owner.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Now, click **Advanced > Find Now > Administrator on the following screen**.  
 ![Advanced Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-security-properties.jpg)
 6. Finally, click **OK** to select the Administrator as the owner and again **OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![User Group Selection Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/User-Group-Selection-Window.jpg)
 7. Then, tick the checkbox before the **Replace owner on sub containers and objects** text.
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 8. Now, click the **Apply** button, followed by the **OK** button, to initiate the process of transferring ownership.  
 ![WindowsApps Advanced Security Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Advanced-Security-Settings.jpg)
 9. Once done, click the **OK** button on the next pop-up.
@@ -92,11 +103,12 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
  Moreover, you can also check out some [free tools for taking control of files and folders](https://www.makeuseof.com/take-ownership-of-windows-files-and-folders-with-these-tools/) on Windows. Such tools allow you to take full ownership of all your files and folders with a single click.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 2\. How to Access WindowsApps via a PowerShell Command
 
  The File Explorer-based method is pretty complicated for a newbie. Use PowerShell to complete your job if you're looking for an easy-to-go method. Using Windows PowerShell is a pretty straightforward and automated way of doing the same thing.
@@ -109,18 +121,6 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
 
 ![PowerShell In Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/PowerShell-In-Windows-Search.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4\. In Powershell, run the following command and press the Enter key:
 
 `takeown /f &ldquo;C:\Program Files\WindowsApps&rdquo; /r`
@@ -134,11 +134,12 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
  If you're facing crashes while executing the file, make sure to check out some [effective ways to fix PowerShell crash errors](http://www.makeuseof.com/windows-powershell-has-stopped-working-error-fix/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. How to Access WindowsApps via a Registry Hack
 
  There's another quick way to do the same thing with just a few steps. If you cannot use the PowerShell method stated above, you can use a simple registry hack to access the files in one go.
@@ -154,14 +155,15 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
 6. From the context menu, click the **Take Ownership** option.  
 ![Take Ownership Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Take-Ownership-Context-Menu.jpg)
 7. In the Command Prompt, you must [give User Account Control Administrator rights](https://www.makeuseof.com/tag/user-account-control-windows-10/) for the registry hack to work. After that, please wait a few minutes for the window to close. Soon, it will display success messages constantly in the Command Prompt.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once finished, you'll no longer face the "You've been denied permission" error on clicking the WindowsApps folder.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enjoy Unrestricted Access to the WindowsApps Folder
 
@@ -173,11 +175,33 @@ thumbnail: https://thmb.techidaily.com/6391f80929a44e71d1cec19d1806bcb918554d022
 
  Thankfully, you can remove unnecessary files from the WindowsApps folder to free up some space. But it's a little hard to get to this folder because it's protected and hidden in Windows File Explorer. Here are some ways to access the WindowsApps Folder on Windows and make necessary changes to it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-8-most-effective-authentic-promotion-techniques/"><u>[New] The 8 Most Effective, Authentic Promotion Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-breaking-into-livestreaming-your-pathway-to-youtube-and-twitch-via-obs/"><u>[Updated] 2024 Approved Breaking Into Livestreaming Your Pathway to YouTube & Twitch via OBS</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-50plus-cool-discord-names-to-attract-attention-in-no-time-for-2024/"><u>[Updated] 50+ Cool Discord Names to Attract Attention in No Time for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-masterclass-15-color-grading-look-ups-for-camcorder/"><u>[Updated] Masterclass 15 Color Grading Look-Ups for Camcorder</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-top-five-hd-recording-cards-switch-edition-for-2024/"><u>[Updated] Top Five HD Recording Cards, Switch Edition for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-great-free-podcast-editing-programs-for-windows/"><u>5 Great Free Podcast Editing Programs for Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieve-a-clean-desktop-with-automatic-trash-emptying-in-windows/"><u>Achieve a Clean Desktop with Automatic Trash Emptying in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-code-0x887a0006-for-gpu-stalls-windows/"><u>Addressing Code 0X887A0006 for GPU Stalls Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/becoming-an-expert-learner-with-these-7-windowing-strategies/"><u>Becoming an Expert Learner with These 7 Windowing Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/clarifying-the-concept-of-windows-ram-caching/"><u>Clarifying the Concept of Window's RAM Caching</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-windows-11s-obstacle-overcoming-error-code-22/"><u>Clearing Windows 11'S Obstacle: Overcoming Error Code 22</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafting-a-user-friendly-guide-for-shortcut-placement-on-desktop/"><u>Crafting a User-Friendly Guide for Shortcut Placement on Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-ftdibussys-a-windows-memory-security-paradox/"><u>Decoding ftdibus.sys: A Windows Memory Security Paradox</u></a></li>
+<li><a href="https://windows11.techidaily.com/dive-into-windows-11-auditory-setup-and-use/"><u>Dive Into Windows 11 Auditory Setup and Use</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-online-video-creation-made-simple-wevideos-easy-editor/"><u>In 2024, Online Video Creation Made Simple WeVideos Easy Editor</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-spectacular-8-cameras-for-professional-live-viewers/"><u>In 2024, Spectacular 8 Cameras for Professional Live Viewers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/restoring-functionality-in-obs-capture-device-for-2024/"><u>Restoring Functionality in OBS Capture Device for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/sailing-societies-turn-off-digital-masts/"><u>Sailing Societies Turn Off Digital Masts</u></a></li>
+</ul></div>
+

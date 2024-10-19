@@ -1,7 +1,7 @@
 ---
 title: Navigating Without PowerShell on Windows System
-date: 2024-10-07T02:19:04.437Z
-updated: 2024-10-13T02:38:16.071Z
+date: 2024-10-11T20:31:41.917Z
+updated: 2024-10-18T22:51:50.447Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,19 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
 
  Restart your computer after this (see[how to restart a Windows computer](https://www.makeuseof.com/windows-restart-methods/) ) and then try to launch PowerShell using the search menu.
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Launch PowerShell Using Run Command or File Explorer
 
  If you are unable to open PowerShell via the search menu, you can try using the Run dialog box. Press**Win + R** to open the Run dialog. Type**powershell** in the box and press**Enter** . If you want to launch PowerShell with admin rights, press**Ctrl + Shift + Enter** instead.
@@ -63,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/6fd0cef62e823c305fb86e64196b6559e3c33c787
  You can then use the newly created desktop shortcut to launch PowerShell. For added convenience, you can assign a keyboard shortcut to PowerShell. To learn more about this, check our guide on[how to assign keyboard shortcuts to programs in Windows](https://www.makeuseof.com/windows-keyboard-shortcuts-programs/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Scan Your Computer for Corrupted System Files
@@ -90,13 +103,6 @@ To run the SFC scan on Windows:
 
 ![DISM Scan Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/DISM-Scan-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for the command to execute successfully, and then restart your PC. Following that, see if Windows can find PowerShell on your computer.
 
 ## 5\. Update Windows PowerShell
@@ -111,6 +117,13 @@ To update PowerShell on Windows:
 4. Type the following command and press**Enter** .  
 `winget install --id Microsoft.Powershell --source winget`  
 ![Update PowerShell on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Update-PowerShell-on-Windows.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Windows will download and install the most recent version of PowerShell. Following that, you should be able to access PowerShell.
 
@@ -129,20 +142,13 @@ To create a new user account on Windows, use these steps.
 5. Click on **I don't have this person's sign-in information** and follow the on-screen prompts to create a new user account.  
 ![Microsoft Account Sign-In](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Microsoft-Account-Sign-In.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Sign in with your newly created account, and see if Windows can find PowerShell now.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Access Windows PowerShell Again
@@ -166,18 +172,18 @@ To create a new user account on Windows, use these steps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-hassle-free-techniques-for-igtv-on-stories/"><u>[New] Hassle-Free Techniques for IGTV on Stories</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-flash-flick-narrative-template-for-2024/"><u>[Updated] Flash Flick Narrative Template for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypass-windows-folder-permission-snags-swiftly/"><u>Bypass Windows Folder Permission Snags Swiftly</u></a></li>
-<li><a href="https://windows11.techidaily.com/calendar-setup-made-simple-windows-11-edition/"><u>Calendar Setup Made Simple: Windows 11 Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquering-idle-computing-with-auto-sleep-in-w10w11/"><u>Conquering Idle Computing with Auto Sleep in W10/W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/curbing-high-cpu-utilization-by-tiworkerexe-programs/"><u>Curbing High CPU Utilization by TiWorker.exe Programs</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-iphone-6-plus-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on iPhone 6 Plus online without jailbreak</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-achieving-youtube-apex-with-smart-management-tools/"><u>In 2024, Achieving YouTube Apex with Smart Management Tools</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-realme-narzo-n53-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Realme Narzo N53?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-tips-for-clearer-audio-in-home-based-podcasts/"><u>In 2024, Tips for Clearer Audio in Home-Based Podcasts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/stop-screen-tremors-solving-acer-display-issues/"><u>Stop Screen Tremors: Solving Acer Display Issues</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-ranked-video-grabber-apps-for-hd-movie-downloads-on-mobile-devices/"><u>Top-Ranked Video Grabber Apps for HD Movie Downloads on Mobile Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-secret-mac-folders-with-terminal-commands/"><u>Unlocking Secret Mac Folders with Terminal Commands</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-master-screen-integration-into-real-time-streaming/"><u>[New] In 2024, Master Screen Integration Into Real-Time Streaming</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-illuminating-origins-a-comprehensible-guide-to-inverted-images-in-instagram/"><u>[Updated] 2024 Approved Illuminating Origins A Comprehensible Guide to Inverted Images in Instagram</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-snap-away-the-best-cams-for-novice-photographers/"><u>[Updated] Snap Away The Best Cams for Novice Photographers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-infinix-note-30-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Infinix Note 30 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-of-logitech-devices-on-windows-with-driver-updates/"><u>Effortless Installation of Logitech Devices on Windows with Driver Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-shutdown-box-opening-by-itself-in-windows-11/"><u>How to Fix the Shutdown Box Opening By Itself in Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-13-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 13 i Do? Get Answers here</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-a59-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo A59 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/speed-up-windows-apps-implement-effective-web-linking-strategies/"><u>Speed Up Windows Apps: Implement Effective Web Linking Strategies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-ultimate-list-of-instagram-video-converters-windowsos-x-for-2024/"><u>The Ultimate List of Instagram Video Converters (Windows/OS X) for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-bluescreen-woes-here-are-11-quick-fix-tips-to-try/"><u>Win11 Bluescreen Woes? Here Are 11 Quick Fix Tips to Try</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-decision-guide-home-features-vs-pro-benefits/"><u>Windows 11 Decision Guide: Home Features Vs. Pro Benefits</u></a></li>
 </ul></div>
 

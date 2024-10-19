@@ -1,7 +1,7 @@
 ---
 title: Tips for Fixing Non-Responsive PC Gamepad Issues
-date: 2024-09-05T02:08:54.282Z
-updated: 2024-09-06T02:08:54.282Z
+date: 2024-10-17T16:14:24.570Z
+updated: 2024-10-18T18:11:50.712Z
 tags:
   - windows10
   - windows11
@@ -37,12 +37,6 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 
  If it is a wired controller, try connecting it to a different USB port. For a wireless controller, you need to make sure it has enough battery. If it does, try unpairing and pairing it again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Scan for Hardware Changes
 
  If unplugging and plugging the controller proves ineffective, you can scan your system for hardware changes using Device Manager. To do so, follow these steps:
@@ -54,17 +48,12 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
  Following that, your controller should appear in the Device Manager window and work as expected.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Run the Relevant Window Troubleshooters
 
  If your gaming controller is recognized by Windows but refuses to work, you can run the Hardware and Devices troubleshooter. This tool will try to fix any common problems and get your gaming controller to work on Windows.
@@ -78,11 +67,12 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 ![Hardware and Devices Troubleshooter Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Hardware-and-Devices-Troubleshooter-Window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Allow the troubleshooter to find and fix any issues. After that, your controller should work fine on Windows.
 
  If you're experiencing problems with a wireless controller on Windows, you should also run the Bluetooth troubleshooter using the steps below.
@@ -95,11 +85,18 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
  After running the above troubleshooter, try using your controller again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Update or Reinstall the Controller's Driver
 
  Another reason why your controller may not work on Windows is if the drivers are outdated. If that's the case, updating the problematic driver should help fix the issue. Here's how to do that.
@@ -115,27 +112,16 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
  If the controller still does not work after that, the controller driver may be corrupted. In that case, you will need to [uninstall the faulty driver from your Windows PC](https://www.makeuseof.com/windows-11-uninstall-drivers/). Once removed, restart your PC and Windows will automatically reinstall the driver during startup.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Update Your Controller’s Firmware
 
 ![Update Controller Firmware](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-controller-firmware.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Keeping your controller updated with the latest software can help you avoid any compatibility issues. So, if none of the above tips help, open your controller manufacturer’s app or program and install any available updates.
 
  This step will vary depending on what controller model you own and which company made it. As such, refer to your manufacturer's manual or online help service for more information.
@@ -146,11 +132,29 @@ thumbnail: https://thmb.techidaily.com/f4c650853e8507f493dd5a4da625f53ce5ecb8f26
 
  Don’t worry, there's no need to purchase a new controller just yet. Here are some fixes that should get your controller working again on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://graphic-issues.techidaily.com/fixed-dx12-hindrance-in-halos-successful-launch/"><u>[FIXED] DX12 Hindrance in Halo's Successful Launch</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-speaking-through-slides-total-ppt-tutorial/"><u>[New] In 2024, Speaking Through Slides Total PPT Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-novice-to-connoisseur-transform-your-sub4sub-experience-now/"><u>[Updated] 2024 Approved From Novice to Connoisseur Transform Your Sub4sub Experience Now</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comparing-ipad-pro-and-macbook-pro-understanding-key-distinctions/"><u>Comparing iPad Pro and MacBook Pro: Understanding Key Distinctions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-lava-yuva-3-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Lava Yuva 3</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-strategies-to-address-directdraw-errors-in-newer-windows-editions/"><u>Efficient Strategies to Address DirectDraw Errors in Newer Windows Editions</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-altering-windows-account-pin-code/"><u>Efficiently Altering Windows Account Pin Code</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-to-the-top-with-these-key-windows-11-widgets/"><u>Elevate to the Top with These Key Windows 11 Widgets</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-workflow-with-god-mode-add-on/"><u>Elevate Your Workflow with God Mode Add-On</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-workflow-on-windows-11-for-professionals/"><u>Elevating Workflow on Windows 11 for Professionals</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-valheims-pc-crashing-problem-expert-tips-and-tweaks-to-try/"><u>End Valheim's PC Crashing Problem: Expert Tips and Tweaks to Try</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-mouse-cursor-prominence-in-windows-os/"><u>Enhancing Mouse Cursor Prominence in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-performance-win11-boot-routines/"><u>Enhancing Performance: Win11 Boot Routines</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-poco-m6-pro-4g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Poco M6 Pro 4G Phone that is Locked?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-science-of-social-media-optimizing-post-performance-on-instagram-for-2024/"><u>The Science of Social Media Optimizing Post Performance on Instagram for 2024</u></a></li>
+</ul></div>
+

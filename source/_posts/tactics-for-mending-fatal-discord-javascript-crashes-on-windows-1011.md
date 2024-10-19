@@ -1,7 +1,7 @@
 ---
 title: Tactics for Mending Fatal Discord Javascript Crashes on Windows 10/11
-date: 2024-10-07T23:01:24.160Z
-updated: 2024-10-12T17:54:17.573Z
+date: 2024-10-17T02:49:07.156Z
+updated: 2024-10-18T18:53:24.808Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/run-this-program-as-administrator-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Uninstall BetterDiscord
 
  BetterDiscord is an extension for customizing the Discord app. However, some BetterDiscord custom scripts can cause Discord issues like the fatal JavaScript error. Furthermore, using that app doesn’t fall within Discord’s terms of service. If you have installed BetterDiscord, try removing that app as follows:
@@ -52,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 7. Choose a**Discord** version.
 
 8. Click**Uninstall** to finish.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Delete Discord’s Data Folders
 
@@ -78,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![A discord folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/discord-folder.jpg)
 8. Input**%LocalAppData%** in Explorer’s address bar and press**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Next, click the Discord folder with the mouse’s right button and select**Delete** .
 
 ## 4\. Reinstall Discord
@@ -91,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 4. Delete leftover Discord app data subfolders as outlined for the third resolution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Reboot your Windows PC before reinstalling the Discord software.
@@ -102,6 +95,19 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 7. Click**Download** **for Windows** to get the Discord setup wizard.  
 ![The Download for Windows option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-for-windows-button.jpg)
 8. Next, double-click**DiscordSet.exe** in whatever file your browser downloaded it in.
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 9. Go through Discord’s installation wizard to reinstall the software.
 
@@ -120,21 +126,21 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![The Virus & threat protection tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/virus-threat-protection.jpg)
 3. Click**Manage Settings** to view the options.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Toggle off the**Real-time protection** option to disable background antivirus scanning.  
 ![The Real-time protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/real-time-protection-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Check the Quality Windows Audio Video Experience Service is Enabled
@@ -151,22 +157,22 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ![The Startup type drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-startup-type-drop-down-menu.jpg)
 6. Press the service’s**Start** button.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Select**Log On** at the top of the service’s properties window.  
 ![The Log On tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/this-account-radio-button.jpg)
 8. Click**Browse** for the**This account** radio button.
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 9. Input your user account within the**Enter** object name box.
 10. Click**OK** to close out of the Select user window.
@@ -192,16 +198,19 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-enhancing-content-creation-10-must-have-ig-editing-software-for-2024/"><u>[Updated] Enhancing Content Creation 10 Must-Have IG Editing Software for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-premium-serene-pc-games-catalog/"><u>2024 Approved Premium Serene PC Games Catalog</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-speed-with-wordpad-embedding-keyboard-macros-into-windows-menu/"><u>Boosting Speed with WordPad: Embedding Keyboard Macros Into Windows Menu</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/bypass-too-many-redirects-error-swiftly-and-effectively/"><u>Bypass Too Many Redirects Error Swiftly & Effectively</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/changing-your-protonvpn-login-details-steps-and-security-tips/"><u>Changing Your ProtonVPN Login Details: Steps & Security Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-the-dilemma-of-windows-code-crashes/"><u>Decoding the Dilemma of Windows Code Crashes</u></a></li>
-<li><a href="https://windows11.techidaily.com/embracing-the-future-revolutionary-changes-to-file-explorer/"><u>Embracing the Future: Revolutionary Changes to File Explorer</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-free-drivers-windows-best-five-boosters/"><u>Essential Free Drivers: Windows' Best Five Boosters</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722977237685-get-latest-drivers-for-your-msi-gs65-on-windows-download-now/"><u>Get Latest Drivers for Your MSI GS65 on Windows - Download Now</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-fast-access-to-textual-explanations/"><u>Windows 11: Fast Access to Textual Explanations</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-elevating-your-igtv-visuals-cover-photos-update/"><u>[Updated] 2024 Approved Elevating Your IGTV Visuals Cover Photos Update</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-streamlinedwebcamtechniqueinstruction/"><u>[Updated] 2024 Approved StreamlinedWebCamTechniqueInstruction</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-amplifying-impact-youtube-visibility-techniques-for-2024/"><u>[Updated] Amplifying Impact YouTube Visibility Techniques for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-choosing-hdr-over-sdr-elevating-your-video-creation-process/"><u>[Updated] In 2024, Choosing HDR over SDR Elevating Your Video Creation Process</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-how-to-activating-hyper-v-for-win11-users/"><u>Essential How-To: Activating Hyper-V for Win11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-blackouts-during-win-based-gameplay/"><u>How to Fix Blackouts During Win-Based Gameplay</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-dive-into-audacity-simple-steps-to-record-on-mac-devices/"><u>In 2024, Dive Into Audacity Simple Steps to Record on Mac Devices</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-best-green-screen-software-for-mac/"><u>New In 2024, Best Green Screen Software for Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/regain-access-to-hidden-5ghz-networks-on-your-windows-pc/"><u>Regain Access to Hidden 5GHz Networks on Your Windows PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-zoom-crash-code-1132-in-windows-os/"><u>Resolving Zoom Crash Code: 1132 in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-tools-that-makes-your-laptops-os-change-more-manageable/"><u>Top Tools that Makes Your Laptop's OS Change More Manageable</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-full-potential-of-your-systems-ram-with-windows/"><u>Unlocking the Full Potential of Your System's RAM with Windows</u></a></li>
 </ul></div>
 

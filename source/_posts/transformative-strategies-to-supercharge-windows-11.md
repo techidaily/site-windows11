@@ -1,7 +1,7 @@
 ---
 title: Transformative Strategies to Supercharge Windows 11
-date: 2024-09-26T00:47:08.675Z
-updated: 2024-10-01T23:20:50.204Z
+date: 2024-10-16T17:04:57.251Z
+updated: 2024-10-19T00:33:22.515Z
 tags:
   - windows10
   - windows11
@@ -30,9 +30,29 @@ thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70c
 
  You can snap up to four windows on your Windows 11 PC. If you have a large screen and want to arrange more windows, you can get the PowerToys app from Microsoft.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Open Files Directly From Start
 
 ![The Windows 11 Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-start-menu-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Files app is there on your taskbar unless you unpin from there. That said, there are other ways to open files that are important to you more quickly. You can use the search functionality in Windows 11 Start Menu to open the files quickly. All you have to do is type the name of your file and then click or tap on it.
 
@@ -40,16 +60,16 @@ thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70c
 
  There is more fun. You can also make Windows 11 open files at startup, meaning you do not have to click or touch anywhere to open files. To make it happen, you need to create and shortcut to the file you want to open at startup and then copy or paste it into the Startup folder. The Startup folder can be accessed by going to "C:\\Users\\YourUserName\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup".
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Comprehensive Stats on Battery Usage
 
 ![Screenshot showing Windows 11 Battery stats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/battery-stats.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It's critical to have a comprehensive understanding of what's draining your laptop battery the most. Thanks to Windows 11's detailed report on battery usage, you get a clear picture of which apps consume more power and which consume less.
 
@@ -57,34 +77,13 @@ thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70c
 
  You can also sort by to see the battery stats of apps currently in use and the ones running in the background. Overall, the **Power & battery** page in the Settings app provides you with all kinds of information required to understand your laptop's battery usage.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Customize the Quick Settings Panel
 
 ![Enable or Disable Battery Saver in via Quick Settings Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-or-disable-battery-saver-in-via-quick-settings-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You get quick access to commonly used settings like WiFi, Bluetooth, battery saver, and Airplane mode via the Quick Settings panel in Windows 11\. You can click the WiFi, speaker, and battery to open the panel. You can customize the panel to add or remove menu items like mobile hotspot, night light, WiFi, battery saver, and more.
 
  The option to customize the Quick Settings panel is in the bottom-right corner of the Quick Settings panel.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Run Android Apps in Windows 11
 
@@ -100,26 +99,27 @@ thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70c
 
 ![Microsoft Teams integration in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/top-windows-11-features-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Microsoft Teams is available across all major platforms, but for Windows 11 users, getting access to Teams is a bit easier. Windows 11 taskbar has the Teams icon, clicking on which will open a small chat window for you to connect with people through text or video. You can also pop out chat windows, meaning you can chat with multiple people simultaneously. In other words, you can be a pro at multitasking while chatting on Teams.
 
  However, it is worth pointing out that what you see on the Windows 11 taskbar is not the full-fledged Teams experience with all the features and benefits. If that is what you want, you need to get the Teams app and remove the chat icon from the taskbar.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Use Widgets to Stay Updated With Topics
 
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Widgets help you stay updated with the latest information from your favorite apps and services without opening them. The Widgets experience in Windows 11 is not perfect, but it has the basics covered. Besides Microsoft's stock apps, you can find widgets from third-party apps, including Facebook, Spotify, and more.
 
@@ -140,21 +140,24 @@ thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-audio-engineering-basics-embrace-adobes-fading-techniques/"><u>[New] Audio Engineering Basics Embrace Adobe’s Fading Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-enhancing-your-iphones-screen-recording-skills/"><u>[Updated] 2024 Approved Enhancing Your Iphone's Screen Recording Skills</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-investigating-new-horizons-past-manycams-realm/"><u>[Updated] In 2024, Investigating New Horizons Past ManyCam's Realm</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-professionals-choice-ranking-the-top-9-microphone-apps/"><u>2024 Approved Professional's Choice Ranking the Top 9 Microphone Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/fuse-windows-and-tdarr-for-unrivaled-scalable-video-conversion-efficiency/"><u>Fuse Windows and Tdarr for Unrivaled, Scalable Video Conversion Efficiency</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-oppo-reno-11f-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Oppo Reno 11F 5G Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/key-applications-that-bridge-the-mac-and-windows-divide/"><u>Key Applications that Bridge the Mac and Windows Divide</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-visual-quality-dpi-settings-guide-for-windows-11/"><u>Optimize Visual Quality: DPI Settings Guide for Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/phasmophobia-troubleshooting-guide-fixing-crashes-in-the-latest-update/"><u>Phasmophobia Troubleshooting Guide: Fixing Crashes in the Latest Update</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-honor-x50-gt-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Honor X50 GT.</u></a></li>
-<li><a href="https://windows11.techidaily.com/say-goodbye-to-lag-how-to-fix-warhammer-40k-delays-on-your-pc/"><u>Say Goodbye to Lag: How to Fix Warhammer 40K Delays on Your PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/simplifying-app-installations-in-windows-11-using-winstall/"><u>Simplifying App Installations in Windows 11 Using Winstall</u></a></li>
-<li><a href="https://windows11.techidaily.com/swiftly-overcoming-windows-access-denied-blunders/"><u>Swiftly Overcoming Windows Access Denied Blunders</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/syncopated-social-media-adding-melodies-to-reels/"><u>Syncopated Social Media Adding Melodies to Reels</u></a></li>
-<li><a href="https://windows11.techidaily.com/unseen-windows-firewall-protection-sectors-demystified/"><u>Unseen Windows Firewall Protection Sectors Demystified</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-the-ultimate-selection-of-bargains-holiday-sale-hotspots-for-gaming-pcs-zdnet/"><u>Unveiling the Ultimate Selection of Bargains: Holiday Sale Hotspots for Gaming PCs | ZDNET</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-voice-over-strategies-for-powerpoint-success-stories/"><u>[New] 2024 Approved Voice-Over Strategies for PowerPoint Success Stories</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-find-the-disappeared-watch-tile-for-2024/"><u>[New] Find the Disappeared Watch Tile for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-live-streaming-on-mac-os-costless-option/"><u>[New] In 2024, Live Streaming on Mac OS - Costless Option</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-injecting-external-urls-into-instagram-content/"><u>[Updated] Injecting External URLs Into Instagram Content</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-unraveling-friends-pixels-speed-up-searches/"><u>2024 Approved Unraveling Friends' Pixels Speed Up Searches</u></a></li>
+<li><a href="https://video-capture.techidaily.com/firecapture-pro-for-ff/"><u>FireCapture Pro for FF</u></a></li>
+<li><a href="https://windows11.techidaily.com/hacks-to-control-your-time-zone-in-windows-manually/"><u>Hacks to Control Your Time Zone in Windows Manually</u></a></li>
+<li><a href="https://windows11.techidaily.com/hidden-heroes-mastering-disappearing-controls/"><u>Hidden Heroes: Mastering Disappearing Controls</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-file-security-with-automated-password-integration/"><u>Mastering File Security with Automated Password Integration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-pc-components-expert-advice-from-toms-hardware/"><u>Mastering PC Components: Expert Advice From Tom's Hardware</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-maze-of-unacceptable-connections-on-windows/"><u>Navigating the Maze of Unacceptable Connections on Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/necromunda-hired-gun-game-continually-fails-to-load-on-windows-pc/"><u>Necromunda: Hired Gun Game Continually Fails to Load on Windows PC</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-pova-6-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Pova 6 Pro 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/sidestepping-windows-update-error-code-0x80242016/"><u>Sidestepping Windows Update Error Code 0X80242016</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/starting-strong-key-equipment-for-youtube-success/"><u>Starting Strong Key Equipment for YouTube Success</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-fix-error-code-0x0001-in-geforce-experience/"><u>Strategies to Fix Error Code 0X0001 in GeForce Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-data-files-in-windows-11-using-ntfs-options/"><u>Streamline Your Data Files in Windows 11 Using NTFS Options</u></a></li>
+<li><a href="https://windows11.techidaily.com/unplugging-troubles-stay-aware-of-power-save-mode/"><u>Unplugging Troubles: Stay Aware of Power Save Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-voice-logging-a-comprehensive-walkthrough/"><u>Windows Voice Logging: A Comprehensive Walkthrough</u></a></li>
 </ul></div>
 

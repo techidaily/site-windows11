@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Bypassing Endless Logon Prompts
-date: 2024-09-05T02:09:20.235Z
-updated: 2024-09-06T02:09:20.235Z
+date: 2024-10-17T18:00:14.061Z
+updated: 2024-10-18T18:32:10.270Z
 tags:
   - windows10
   - windows11
@@ -57,12 +57,6 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
 2. Select **Windows Credential** and click on **Add a Windows Credential**.  
 ![Windows credentials](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-credentials-1.jpg)
 3. Now, add the username, computer name, and password of the computer you are trying to access. Check if you can now share files with the other device successfully.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Create a New User Account on Both Devices
 
@@ -73,11 +67,12 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
  If the root of your issue was a corrupt user account, this should be enough to fix the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Restart the Credential Manager Service
 
  The issue might also be with the Credential Manager service itself instead of the targeted computer or the network settings of your device. In this method, we will first enable the Credential Manager service if the service is disabled.
@@ -94,23 +89,33 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
 6. In case it is working already, click on the **Stop button**, wait for a few seconds, and then hit the **Start button**.
 7. ![Credential Manager properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/credential-manager-properties.jpg)  
  Make sure that the Startup type is set to **Automatic**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Credential Manager service properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/credential-manager-service.jpg)
 8. Click **Apply** \> **OK** to save the changes.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now try connecting to the targeted computer and see if you can do so without any problems.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Make Changes to the Local Security Policy
 
  Several users also managed to fix the problem by modifying the settings of the "Accounts: Limit local account use of blank passwords to console logon only" policy. Here is how you can give it a try too:
@@ -142,34 +147,14 @@ Local Policies > Security Options > Accounts: Limit local account use of blank p
 5. In the following window, press the **F5 key** on your keyboard to boot into Safe Mode with Networking.  
 ![Pick safe mode with Networking option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Tweak-Startup-Settings-1.jpg)
 6. Once you are logged into Safe Mode, try connecting to the device you were previously trying to connect to. If the error does not appear in Safe Mode, then you might want to report this issue to Microsoft’s official support team and wait for a fix from their side.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In case you cannot access this Windows state using the steps outlined above, you can try [other ways of booting into Safe Mode](https://www.makeuseof.com/windows-11-boot-safe-mode/).
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Share Data Over Network Without Issues
 
  Windows has made it simpler to share your files and other data across networks, but there are times when you run into unexpected errors. Hopefully, one of the methods mentioned above did the trick for you in fixing the issue under consideration.
 
  A common problem is when the network credential manager keeps displaying the "Enter network credentials" dialog, even when you enter the correct credentials. In this guide, we will walk you through some troubleshooting methods you can try to fix this issue for good.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -177,3 +162,25 @@ Local Policies > Security Options > Accounts: Limit local account use of blank p
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-how-to-add-logowatermark-to-youtube-video/"><u>[New] In 2024, How to Add Logo/Watermark to YouTube Video</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-ideal-tools-for-secure-vimeo-downloads/"><u>[New] In 2024, Ideal Tools for Secure Vimeo Downloads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-soft-shots-with-top-blur-mobile-tools/"><u>[New] Master Soft Shots with Top Blur Mobile Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-starter-guide-to-motion-graphics-mastery/"><u>[New] Starter Guide to Motion Graphics Mastery</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725287300747-dvd/"><u>完全なDVD捨て方と注意事項：環境に配慮した処分手段</u></a></li>
+<li><a href="https://windows11.techidaily.com/easily-enlarge-or-decrease-taskbar-in-win11/"><u>Easily Enlarge or Decrease Taskbar in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-desktop-organization-fixing-gmails-taskbar-spot/"><u>Effective Desktop Organization: Fixing Gmail's Taskbar Spot</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortlessly-accessing-windows-mixer-settings/"><u>Effortlessly Accessing Window's Mixer Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-chrome-profiles-errors-on-your-workstation/"><u>Eliminating Chrome Profiles Errors on Your Workstation</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-icon-grouping-in-windows-11/"><u>Eliminating Icon Grouping in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-windows-notepad-system-breakdowns/"><u>Eliminating Windows Notepad System Breakdowns</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-device-detection-for-razer-gear-in-windows-11/"><u>Enabling Device Detection for Razer Gear in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicate-performance-hiccups-a-guide-to-optimizing-warhammer-on-windows/"><u>Eradicate Performance Hiccups: A Guide to Optimizing Warhammer on Windows</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ess-offline-viewing-your-guide-to-mobile-video-downloads-for-idevices-for-2024/"><u>Flawless Offline Viewing Your Guide to Mobile Video Downloads for iDevices for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-xs-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone XS? How to Fix it?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-google-upload-mastery-a-step-by-step-guide/"><u>In 2024, Google Upload Mastery - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/media-streaming-technology-simplified-an-overview-of-streaming-devices/"><u>Media Streaming Technology Simplified: An Overview of Streaming Devices</u></a></li>
+</ul></div>
+

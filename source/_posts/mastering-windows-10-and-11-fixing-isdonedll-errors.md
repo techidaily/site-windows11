@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows 10 & 11: Fixing ISDone.dll Errors"
-date: 2024-09-26T03:03:39.319Z
-updated: 2024-10-01T21:36:34.297Z
+date: 2024-10-17T03:04:02.272Z
+updated: 2024-10-18T20:04:07.981Z
 tags:
   - windows10
   - windows11
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 ![The Run as administrator context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-run-as-administrator-context-menu-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Run the Game’s Installer in Compatibility Mode
@@ -46,27 +46,20 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 ![The Run this program in compatibility mode for option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-run-this-program-in-compatibility-mode-setting.jpg)
 7. Click**Apply** to save the compatibility settings.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Select**OK** to close the setup properties window.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Set the Game’s Setup Wizard at High Priority
 
  Increasing the priority for a game’s setup wizard will raise the system resources allocated to its process. Our article about[setting a priority level for a program](https://www.makeuseof.com/windows-11-set-program-priority/) includes step-by-step instructions for how to apply this potential fix. Open the game’s setup wizard and set its priority level to High in Task Manager as outlined within that guide.
 
 ![The Set priority option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-set-priority-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run System File and Image Scans
 
@@ -86,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 
 ![The Virtual Memory window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/custom-radio-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For example, a PC with four GB RAM would have 4096 megabytes of memory. Then you would need to multiply 1.5 by 4096 to input a value of 6144 in the**Initial** box. Three times 4096 amounts to 12288, which would be the value to enter the**Maximum size** box.
 
 ## 6\. Install Any Missing Visual C++ Redistributables
@@ -96,6 +96,14 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 2. Then click the X64 link for the Visual Studio 2015-2022 package.  
 ![The X64 download link for Visual Studio 2015-2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-download-link-for-visual-c.jpg)
 3. Double-click the**VC\_redist.x64.exe** file to open an installer window.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select the checkbox for agreeing to the license terms.  
 ![The Microsoft Visual C++ 2015-2022 runtime installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-visual-c-installer-window.jpg)
 5. Click the Visual C++**Install** option.
@@ -113,26 +121,6 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 `regsvr32 isdone.dll`  
 ![The regsvr32 command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-regsvr-command.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Temporarily Switch Off Your PC’s Antivirus Shield
 
  It’s not entirely unusual for antivirus apps to cause installation issues like the ISDone.dll error. You can ensure your antivirus tool isn’t interfering with the installation process by temporarily disabling its shield before attempting to install the game. Our[guide to disabling Microsoft Defender](https://www.makeuseof.com/how-to-turn-off-microsoft-defender-windows-11/) explains how to turn off the antivirus shield for the default Windows Security app.
@@ -143,20 +131,27 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 
  However, don’t leave your antivirus software disabled. Instead, turn it off and then try to install whatever game the ISDone.dll error occurs for. Then make sure you re-enable the antivirus shield afterward.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Clean Boot the Windows PC
 
  To minimize potential conflicting processes, try clean booting your PC. Setting a clean boot involves disabling all third-party startup apps and services. That will reduce the number of background services and apps that start with Windows, which could eliminate a process causing the ISDone.dll error.
 
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-services-tab.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Our guide to[configuring a clean boot](https://www.makeuseof.com/clean-boot-windows-11/) tells you how to disable third-party startup apps and services with Task Manager and MSConfig. When you’ve set the clean boot and restarted Windows, try installing the game the ISDone.dll error occurs for. Then you can restore the original boot configuration afterward.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enjoy Your Windows Games Again
 
@@ -177,24 +172,24 @@ thumbnail: https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-bridal-bliss-filmed-alike-high-quality-8-marriage-videos-online-for-2024/"><u>[New] Bridal Bliss Filmed Alike High-Quality 8 Marriage Videos Online for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-expert-advice-for-aspiring-youtube-stars-the-art-of-reaction-videos-3-essential-steps/"><u>[Updated] In 2024, Expert Advice for Aspiring YouTube Stars - The Art of Reaction Videos (3 Essential Steps)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-meme-masterpiece-wave/"><u>[Updated] Meme Masterpiece Wave</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-magix-pixel-mastery-review/"><u>2024 Approved Exploring MAGIX Pixel Mastery Review</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-spectacular-8-cameras-for-professional-live-viewers/"><u>2024 Approved Spectacular 8 Cameras for Professional Live Viewers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/divine-warriors-convergence-ragnarok-epoch/"><u>Divine Warriors Convergence Ragnarok Epoch</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/dominate-views-smarter-youtube-timing-strategies-for-2024/"><u>Dominate Views Smarter Youtube Timing Strategies for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficient-data-handling-in-modern-windows-file-deletion-automation/"><u>Efficient Data Handling in Modern Windows: File Deletion Automation</u></a></li>
-<li><a href="https://windows11.techidaily.com/effortless-guide-establishing-your-safe-sandbox-environment/"><u>Effortless Guide: Establishing Your Safe Sandbox Environment</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-task-execution-speed-with-customized-windows-cmds/"><u>Elevate Task Execution Speed with Customized Windows Cmds</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-soft-dependency-management-in-win-environments/"><u>Exploring Soft Dependency Management in Win Environments</u></a></li>
-<li><a href="https://techidaily.com/factory-reset-apple-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-chatgpt-an-indispnidable-companion-when-lost-in-natures-embrace/"><u>Is ChatGPT an Indispnidable Companion When Lost in Nature's Embrace?</u></a></li>
-<li><a href="https://discover-great.techidaily.com/mac-ottimo-downloadatore-di-video-in-risoluzione-4khd-strumenti-gratuiti-per-raccolta-e-trasferimento-multimedia/"><u>Mac Ottimo Downloadatore Di Video in Risoluzione 4K/HD: Strumenti Gratuiti per Raccolta E Trasferimento Multimedia</u></a></li>
-<li><a href="https://windows11.techidaily.com/maintaining-taskbars-presence-in-maxed-browser-views/"><u>Maintaining Taskbar's Presence in Maxed Browser Views</u></a></li>
-<li><a href="https://windows11.techidaily.com/secure-your-sign-in-overcoming-access-restrictions-in-win/"><u>Secure Your Sign-In: Overcoming Access Restrictions in Win</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-achieve-stable-gameplay-and-fps-boost-in-roblox/"><u>Strategies to Achieve Stable Gameplay & FPS Boost in Roblox</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-deactivated-sliders-for-volume-control/"><u>Troubleshooting Deactivated Sliders for Volume Control</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-personalization-transforming-ordinary-into-extraordinary/"><u>Windows 11 Personalization: Transforming Ordinary Into Extraordinary</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-effective-practices-for-device-video-capture/"><u>[New] In 2024, Effective Practices for Device Video Capture</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-ensure-flawless-playback-how-to-set-youtube-video-size-right/"><u>[New] In 2024, Ensure Flawless Playback How to Set YouTube Video Size Right</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-from-live-to-digital-preserving-your-skype-talks/"><u>[Updated] From Live to Digital Preserving Your Skype Talks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-art-of-audio-alteration-for-stories-and-reels-on-ig/"><u>2024 Approved The Art of Audio Alteration For Stories and Reels on IG</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-unlocking-potential-the-ultimate-guide-to-whatsapp-hacks/"><u>2024 Approved Unlocking Potential The Ultimate Guide to WhatsApp Hacks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-source-integrity-how-does-chatgpt-avoid-plagiarism/"><u>Exploring Source Integrity: How Does ChatGPT Avoid Plagiarism?</u></a></li>
+<li><a href="https://windows11.techidaily.com/harness-the-power-of-folder-and-file-unification-in-windows-11/"><u>Harness the Power of Folder & File Unification in Windows 11</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-huawei-nova-y91-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-building-a-powerful-community-of-insta-followers/"><u>In 2024, Building a Powerful Community of Insta-Followers</u></a></li>
+<li><a href="https://windows11.techidaily.com/insider-tips-for-manual-windows-security-scanning/"><u>Insider Tips for Manual Windows Security Scanning</u></a></li>
+<li><a href="https://common-error.techidaily.com/keyboard-malfunction-get-your-numeric-buttons-working-smoothly-in-no-time/"><u>Keyboard Malfunction? Get Your Numeric Buttons Working Smoothly in No Time!</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimal-6-tracking-applications-to-enhance-pc-productivity/"><u>Optimal 6 Tracking Applications to Enhance PC Productivity</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-0x80246007-update-obstacle-on-windows-1011/"><u>Overcoming 0X80246007 Update Obstacle on Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/recovering-lost-access-to-windows-command-center/"><u>Recovering Lost Access to Windows Command Center</u></a></li>
+<li><a href="https://windows11.techidaily.com/removing-aw-snap-from-your-chrome-browser-on-windows/"><u>Removing “Aw, Snap!” From Your Chrome Browser on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplifying-the-windows-search-interface-no-graphics/"><u>Simplifying the Windows Search Interface: No Graphics</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-rated-mpeg-4-to-avi-transcoder-on-windows-updated/"><u>Top Rated MPEG-4 to AVI Transcoder on Windows - Updated</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-ftdibussys-the-enigma-of-memory-standards-violation/"><u>Unveiling ftdibus.sys: The Enigma of Memory Standards Violation</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-of-microsoft-family-safety/"><u>Unveiling the Secrets of Microsoft Family Safety</u></a></li>
 </ul></div>
 

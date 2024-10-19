@@ -1,7 +1,7 @@
 ---
 title: "Tailored W11 Tuning: Lessen Resource Usage for Users"
-date: 2024-09-05T02:08:04.295Z
-updated: 2024-09-06T02:08:04.295Z
+date: 2024-10-12T20:27:09.269Z
+updated: 2024-10-18T18:39:15.928Z
 tags:
   - windows10
   - windows11
@@ -38,12 +38,6 @@ To install a Windows 11 update:
 
  If you don't really use the News and Interests feature, you're better off turning it off. That way, you can save on hardware resources and help your computer run faster.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Turn Off News and Interests on Windows 10
 
  If you don't use News and Interests, you can turn off the feature from the Taskbar on Windows 10\. To turn off News and Interests on Windows 10:
@@ -65,11 +59,12 @@ To install a Windows 11 update:
  If the issue persists even after disabling News and Interest, try to[perform a Windows 11 repair reinstall](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/) . During a repair reinstall, Windows will reinstall the operating system without removing your personal files and apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Disable News and Interests Using the Group Policy Editor
 
  On Windows 11, you can configure News and Interests on the taskbar policy to disable the feature and prevent high memory usage. Group Policy Editor (GPEdit) is a Windows component and is not only available on the OS's Pro, Enterprise, and Education editions.
@@ -85,21 +80,9 @@ To install a Windows 11 update:
 5. Select**Disabled** and click**Apply** and**OK** to save the changes.  
 ![turn off news and interest disabled](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-news-and-interest-disabled.jpg)
 6. Close Group Policy Editor and restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After restarting your computer, the News and Interests feature should no longer appear. Launch the task manager and check for improvements in your PC's CPU and memory usage.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable News and Interests Using the Registry Editor on Windows 10
 
  You can disable the feed feature using the Windows Registry if you don't have Group Policy Editor. For this, you'll need to create an EnableFeeds value and set it to 0 to disable it.
@@ -112,12 +95,14 @@ To disable the news feed feature using Windows Registry:
 2. Type**regedit** and click**OK** to open**Registry Editor** .  
 ![registry editor new key Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/registry-editor-new-key-windows.jpg)
 3. In Registry Editor, navigate to the following location. You can copy and paste the registry path for quicker navigation:  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows`
 4. Right-click on the**Windows** key in the left pane.
 5. Select**New > Key** . Rename the key as**Windows Feeds** .  
@@ -128,17 +113,33 @@ To disable the news feed feature using Windows Registry:
 3. Double-click on the**EnableFeeds** value to edit it.  
 ![registry editor new key Windows new DWORd value 0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/registry-editor-new-key-windows-new-dword-value-0.jpg)
 4. Type**0** in the**Value data** field and click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Close the Registry Editor and restart your computer to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Add and Disable EnableFeeds Using PowerShell
 
 ![powershell add registry key value Windows feeds Enable feeds](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/powershell-add-registry-key-value-windows-feeds-enable-feeds.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also add and modify the EnableFeeds value in the Windows Registry using PowerShell. To do this:
 
@@ -149,24 +150,15 @@ To disable the news feed feature using Windows Registry:
 4. The above command will create a new**Windows Feeds** subkey and contain the value**EnableFeeds** set to disabled.
 5. If there are no errors, type**exit** and press**Enter** to close PowerShell. Restart your Computer and check for any improvements.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix the News and Interests Feature's High Memory Usage on Windows
 
  Memory leakage is a common cause for the News and Interests high memory usage issue. While a hotfix is available, you'll need to disable the News and Interests widget item to resolve the problem if the issue persists.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,4 +167,20 @@ To disable the news feed feature using Windows Registry:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-top-6-youtube-shorts-downloaders-free-and-online/"><u>[New] 2024 Approved Top 6 YouTube Shorts Downloaders [Free & Online]</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-fixed-most-effective-4-solutions-for-iphone-hdr-video-washed-out-in-premiere-pro/"><u>[New] In 2024, [Fixed] Most-Effective 4 Solutions for iPhone HDR Video Washed-Out in Premiere Pro</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-enhancing-vimeo-video-performance/"><u>[Updated] In 2024, Enhancing Vimeo Video Performance</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-videos-that-vibe-a-novices-roadmap-on-a-mac-and-youtube-for-2024/"><u>[Updated] Videos That Vibe A Novice's Roadmap on a Mac and YouTube for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-error-code-0xc00000f-with-ease-on-pcs/"><u>Handling Error Code 0xC00000F with Ease on PCs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-review-of-samsung-galaxy-tab-a-2020-spotlight-on-missing-key-specification/"><u>In-Depth Review of Samsung Galaxy Tab A (2020) - Spotlight on Missing Key Specification</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/intuitive-steps-for-photo-integration-in-instagram-for-2024/"><u>Intuitive Steps for Photo Integration in Instagram for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-collectors-rejoice-get-the-perfect-pair-of-keys-and-essential-windows-11-612lifetime/"><u>Key Collectors Rejoice – Get the Perfect Pair of Keys & Essential Windows 11, $6.12/Lifetime!</u></a></li>
+<li><a href="https://common-error.techidaily.com/nvidia-web-helper-no-disk-issue-comprehensive-solutions-and-fixes/"><u>Nvidia Web Helper 'No Disk' Issue: Comprehensive Solutions and Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-discords-loading-failures-in-windows/"><u>Resolving Discord's Loading Failures in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-non-functional-activation-in-os-11/"><u>Resolving Non-Functional Activation in OS 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-7-key-windows-11-widgets-for-enhanced-productivity/"><u>Unveiling 7 Key Windows 11 Widgets for Enhanced Productivity</u></a></li>
+<li><a href="https://windows11.techidaily.com/visualizing-disks-wisely-the-windows-methodology/"><u>Visualizing Disks Wisely: The Windows Methodology</u></a></li>
+</ul></div>
 

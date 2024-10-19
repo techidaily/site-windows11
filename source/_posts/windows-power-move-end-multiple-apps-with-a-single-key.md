@@ -1,7 +1,7 @@
 ---
 title: "Windows Power Move: End Multiple Apps with a Single Key"
-date: 2024-09-05T02:08:02.221Z
-updated: 2024-09-06T02:08:02.221Z
+date: 2024-10-17T16:59:54.375Z
+updated: 2024-10-19T02:16:34.990Z
 tags:
   - windows10
   - windows11
@@ -60,18 +60,6 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
 
 ![Person using a Windows PC while placing it on a lap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Person-using-a-Windows-PC-while-placing-it-on-a-lap.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Command Prompt can help you troubleshoot PC issues, configure some system settings, and run your Windows apps.
 
  Interestingly, this tool can also help you simultaneously close multiple windows of the same app. However, the Command Prompt might not be the best option if you want to close different apps simultaneously.
@@ -89,34 +77,17 @@ taskkill /f /im explorer.exe
 
  The “taskkill /f /im” command is the one that closes the program, and the “explorer.exe” command is the name of the app. To close multiple windows of your other apps, replace the “explorer.exe” part with the relevant command.
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Create a Batch Script for Closing Multiple Apps Simultaneously
 
 ![A person using a Windows device on a desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-person-using-a-Windows-device-on-a-desk.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  We’ve already discovered that the Command Prompt can only help you close multiple windows of the same app.
 
  But if you apply a few tricks, you can close multiple apps using some commands. However, you’d need to [create a batch script](https://www.makeuseof.com/tag/write-simple-batch-bat-file/) for that.
@@ -139,12 +110,6 @@ taskkill /f /im paintdotnet.exe /T > nul
 
 ![Creating a Batch Script for Closing Multiple Apps Simultaneously](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/creating-a-batch-script-for-closing-multiple-apps-simultaneously.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  From there, follow these steps:
 
 1. Press the **File** tab in the top-left corner of the text file.
@@ -160,20 +125,34 @@ taskkill /f /im paintdotnet.exe /T > nul
 
 ![Clicking a batch script on the desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/clicking-a-batch-script-on-the-desktop.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can add as many apps as you want to your batch script.
 
  And when using the batch script, ensure that it doesn’t end up closing some important apps by mistake. This means it might be worth regularly checking what’s on the script first before running it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Use the Close All Windows Tool
 
 ![The Close All Windows Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/the-close-all-windows-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also quickly close your multiple active apps using a third-party program like the [Close All Windows tool](https://www.softpedia.com/get/System/System-Miscellaneous/AA-Close-All-Windows.shtml). The tool is lightweight, which means it won’t take up much of your disk space.
 
  This app works almost like the Windows built-in Resource Monitor. However, it comes with a basic and easy-to-understand interface. When you open the tool, it immediately displays all your active apps. All you need to do is tick the relevant boxes and then click the **OK** button to close those apps.
@@ -187,25 +166,23 @@ taskkill /f /im paintdotnet.exe /T > nul
 **Download**: Close All Windows for [Windows](https://www.softpedia.com/get/System/System-Miscellaneous/AA-Close-All-Windows.shtml) (Free, subscription available)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Close Your Multiple Apps Simultaneously With Just a Few Clicks
 
  It’s always frustrating when your Windows device suddenly becomes slow or buggy. In most cases, such issues are caused by running tons of apps simultaneously.
 
  Want a quick way to speed up your device? Close your multiple active programs simultaneously using the tips we’ve covered. And if you end up closing some apps by mistake, you can apply some quick tricks to restore them again.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -214,4 +191,26 @@ taskkill /f /im paintdotnet.exe /T > nul
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-action-cams-that-keep-moving-steady/"><u>2024 Approved Leading Action Cams That Keep Moving Steady</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-and-exploiting-law-filters-in-window-environments/"><u>Exploring and Exploiting LAW Filters in Window Environments</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-for-rectifying-error-code-0x8007045d-on-windows-11/"><u>Guidelines for Rectifying Error Code 0X8007045d on Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-go-incognito-with-instagram-live-streaming-tips/"><u>In 2024, Go Incognito with Instagram Live Streaming Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-apple-iphone-7-to-chromecast-drfone-by-drfone-ios/"><u>In 2024, How to Cast Apple iPhone 7 to Chromecast? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-c67-4g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Realme C67 4G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-y200e-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y200e 5G Bootloader Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-lava-yuva-3-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Lava Yuva 3 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/linking-win-pink-keys-with-ms-account/"><u>Linking WIN PINK KEYS with MS ACCOUNT</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-most-dangerous-javascript-crash-in-windows-10plusdiscord-users/"><u>Overcoming the Most Dangerous Javascript Crash in Windows 10+Discord Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/photoshop-quick-keys-a-windows-guide/"><u>Photoshop Quick Keys: A Windows Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/relax-high-contrast-aesthetics-in-window-os/"><u>Relax High Contrast Aesthetics in Window OS</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/score-a-deal-on-macx-hd-video-converter-pro-exclusive-discounts-for-windows-users/"><u>Score a Deal on MacX HD Video Converter Pro - Exclusive Discounts for Windows Users!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-troubleshooting-and-fixing-maplestory-startup-problems/"><u>Solving the Issue: Troubleshooting and Fixing MapleStory Startup Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-windows-camera-app-0xa00f429f-glitches/"><u>Solving Windows' Camera App 0xA00F429F Glitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-files-overcoming-common-onedrive-glitches-in-windows-11/"><u>Streamlining Your Files: Overcoming Common OneDrive Glitches in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/successful-steps-to-fix-silent-audio-in-obs-w11-system/"><u>Successful Steps to Fix Silent Audio in OBS, W11 System</u></a></li>
+<li><a href="https://windows11.techidaily.com/tutorial-enabling-the-revamped-toolset-for-selecting-widgets/"><u>Tutorial: Enabling the Revamped Toolset for Selecting Widgets</u></a></li>
+</ul></div>
 

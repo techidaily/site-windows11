@@ -1,7 +1,7 @@
 ---
 title: Fixing Crashed Epic Games Launcher on Windows Systems
-date: 2024-09-05T02:10:56.352Z
-updated: 2024-09-06T02:10:56.352Z
+date: 2024-10-15T22:19:59.786Z
+updated: 2024-10-18T18:14:52.435Z
 tags:
   - windows10
   - windows11
@@ -39,23 +39,24 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 
  If this method gets Epic Games Launcher to operate smoothly, you can configure it to [always run as an administrator on Windows](https://www.makeuseof.com/tag/ways-to-run-a-program-as-administrator-in-windows/).
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Check the Epic Games Server Status
 
  Issues with Epic Games servers can also cause its launcher to misbehave on your Windows PC. You should [check Epic Games server status](https://status.epicgames.com/) to ensure they are operating smoothly.
 
  If there’s an issue with the servers, you have no option but to wait for the company to resolve the problem on its end. Following that, you should be able to use Epic Games Launcher as before.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Check for App Updates
 
@@ -67,11 +68,19 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 ![Restart & Update option in Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Disable Fullscreen Optimizations
 
  Enabling full-screen optimizations for an app on Windows can boost its performance in full-screen mode. However, this feature can sometimes cause compatibility issues, leading to abrupt app crashes. You can try disabling full-screen optimizations for the Epic Games Launcher to see if that restores normalcy.
@@ -98,17 +107,12 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 ![Delete Epic Games Launcher Cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-epic-games-launcher-cache.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 7\. Fix the D3DCOMPILER\_43.dll File
 
  Do you see the D3DCOMPILER\_43.dll error when Epic Games Launcher crashes on Windows? If so, the D3DCOMPILER\_43.dll file on your PC may be corrupt or missing. Here's what you can do to fix it.
@@ -119,26 +123,8 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 4. Head to [Microsoft’s website](https://www.microsoft.com/en-us/download/details.aspx?id=35) and download the DirectX End-User Runtime Web Installer.  
 ![Delete the D3DCOMPILER_43.dll File](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-the-d3dcompiler_43-dll-file.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Run the installer file and follow the on-screen prompts to finish the process. After that, try using Epic Games Launcher again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Repair the Epic Games Launcher
 
  Your Windows PC includes an app repair feature that can help you fix such issues with the Epic Games Launcher without affecting its data. You can try using this feature to see if that gets the Epic Games Launcher to run smoothly.
@@ -152,17 +138,12 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 ![Repair Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-epic-games-launcher.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Follow the on-screen instructions to repair the launcher and try using it again.
 
 ## 9\. Reinstall the Epic Games Launcher
@@ -178,13 +159,18 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
 * **Update Graphics Driver:** Outdated or defective graphics drivers can also be the cause of such problems. Try [updating the graphics driver on your PC](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) to see if that resolves the issue.
 * **Scan for Malware:** If you are experiencing similar issues with other apps and programs as well, your PC may be infected with malware. To check for this possibility, [scan your Windows PC for malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) and take the necessary steps to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fixing Epic Games Launcher Crashes on Windows
 
  Problems with the Epic Games Launcher can be annoying as they prevent you from playing your favorite games. In most cases, these issues are caused by a lack of permissions or a corrupted app cache. In any case, one of the tips above should help you fix the underlying issue for good.
 
  If you are facing a similar issue, this guide contains some troubleshooting tips that will help.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -192,3 +178,20 @@ thumbnail: https://thmb.techidaily.com/1b6d7be592f2912a27c2919b7274dc65400897b1c
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-compelling-choices-macs-excellent-snipping-tools/"><u>[New] Compelling Choices Mac's Excellent Snipping Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-video-to-music-selecting-the-cheapest-online-converters/"><u>[New] In 2024, From Video to Music Selecting the Cheapest Online Converters</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-leading-tips-to-record-videos-in-silence/"><u>[New] In 2024, Leading Tips to Record Videos in Silence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/naver-seo/"><u>簡単ガイド: NAVER動画ダウンロード＆録画方法 - お気軽で学ぶSEO</u></a></li>
+<li><a href="https://windows11.techidaily.com/balance-usage-and-energy-efficiency-with-automatic-rest-mode/"><u>Balance Usage & Energy Efficiency with Automatic Rest Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-data-shields-on-windows-encryption-apps-analysis-150-chars/"><u>Best Data Shields on Windows: Encryption Apps Analysis (150 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-windows-troublesome-dism-error-0x800f082f/"><u>Bypassing Windows' Troublesome DISM: Error 0X800F082F</u></a></li>
+<li><a href="https://windows11.techidaily.com/convenient-tips-for-changing-filter-key-options-in-windows/"><u>Convenient Tips for Changing Filter Key Options in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-camera-access-overlap-in-windows-apps/"><u>Correcting Camera Access Overlap in Windows Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/explore-our-top-5-affordable-keyboards-to-boost-your-gameplay-for-2024/"><u>Explore Our Top 5 Affordable Keyboards to Boost Your Gameplay for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratis-online-webm-converter-para-mp4-mov-e-wmv-pelo-movavi/"><u>Grátis Online Webm Converter Para Mp4, Mov E Wmv Pelo Movavi</u></a></li>
+<li><a href="https://fox-access.techidaily.com/leveraging-color-grading-using-luts-in-ae-for-2024/"><u>Leveraging Color Grading Using LUTs in AE for 2024</u></a></li>
+</ul></div>
+

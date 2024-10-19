@@ -1,7 +1,7 @@
 ---
 title: Resolving Responsiveness Issues with Resource Monitor Apps on Win11
-date: 2024-10-07T19:48:38.224Z
-updated: 2024-10-12T16:41:38.218Z
+date: 2024-10-11T18:52:07.869Z
+updated: 2024-10-18T23:39:44.879Z
 tags:
   - windows10
   - windows11
@@ -35,16 +35,22 @@ thumbnail: https://thmb.techidaily.com/b5d7a060863d8900073e79dab85dc7e851c9bee60
 
 So, let's move on to the solution and fix this problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Restart the Computer
 
 ![windows restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/windows-restart.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When troubleshooting software-related issues, a computer restart can often resolve them without resorting to complex solutions. Doing so refreshes all running programs and services while also clearing out any temporary files that might be causing problems.
 
@@ -81,10 +87,10 @@ sfc /scannow
 5. Wait for the process to complete, then restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Check for Windows Updates
@@ -101,10 +107,10 @@ sfc /scannow
  If there are any updates available, it will download and install them automatically. After the download completes, install the updates and restart your computer. After that, check to see if Resource Monitor is working.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall the Latest Windows Updates
@@ -117,15 +123,28 @@ sfc /scannow
 ![Update history in Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/update-history-in-windows-update.jpg)
 4. Scroll down to Related settings and click**Uninstall updates** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Uninstall the latest Windows Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/uninstall-the-latest-windows-update.jpg)
 
  Then select any recent updates that you want to uninstall. After that, restart your computer and check if Resource Monitor is now working properly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Create a New User Account
@@ -139,21 +158,7 @@ sfc /scannow
 ![Create a New User Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/create-a-new-user-account.jpg)
 5. On the Microsoft account page, click **I don't have this person's sign-in information** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then follow the instructions to add a new user account and then sign in with that account. Now open Resource Monitor and see if it's working properly.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Troubleshoot in Clean Boot State
 
@@ -170,6 +175,13 @@ In such a case, you need to perform a clean boot as instructed below:
 5. Switch to the**Services** tab and check the**Hide all Microsoft services** box.  
 ![Hide all Microsoft services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Hide-all-Microsoft-services.jpg)
 6. Then click**Disable All** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7. Go to the Startup tab and click the**Open Task Manager** link
 8. Disable any services or programs that are active in Startup apps.
@@ -195,19 +207,19 @@ In such a case, you need to perform a clean boot as instructed below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-speedy-switching-spree-from-srt-to-txt-files-done-quickly/"><u>[New] Speedy Switching Spree From SRT to TXT Files Done Quickly</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-smart-technique-for-iphone-videos-reduction-and-scaling/"><u>2024 Approved The Smart Technique for iPhone Videos Reduction & Scaling</u></a></li>
-<li><a href="https://windows11.techidaily.com/discovering-distinctive-decor-for-each-monitor-in-windows-11/"><u>Discovering Distinctive Decor for Each Monitor in Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-for-launching-problematic-applications-on-administrator-logins/"><u>Expert Tips for Launching Problematic Applications on Administrator Logins</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/fixes-and-solutions-resolving-hell-let-loose-stability-issues-on-pc/"><u>Fixes and Solutions: Resolving 'Hell Let Loose' Stability Issues on PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-secrets-of-stretching-seconds-creating-spectaculous-slow-mo-videos-with-photos-and-web-tools/"><u>In 2024, Unveiling the Secrets of Stretching Seconds Creating Spectaculous Slow-Mo Videos with Photos & Web Tools</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/most-liked-prime-videos-amongst-twittersphere/"><u>Most Liked Prime Videos Amongst Twittersphere</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-deactivated-system-cooler-protocol-on-pcs/"><u>Overcoming Deactivated System Cooler Protocol on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-geforce-x0001-error-on-w10w11-systems/"><u>Overcoming GeForce X0001 Error on W10/W11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/perfect-notetaking-companions-the-7-finest-for-pen-tech/"><u>Perfect Notetaking Companions: The 7 Finest for Pen Tech</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/taking-video-action-with-gopro-burst-technology/"><u>Taking Video Action with GoPro Burst Technology</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-to-turn-on-or-off-windows-installation-service/"><u>Tips to Turn On or Off Windows Installation Service</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-7-tabs-notes-that-complement-pen-tech/"><u>Top 7 Tabs: Notes That Complement Pen Tech</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-creating-masterpiece-canon-sequence-captures/"><u>[New] 2024 Approved Creating Masterpiece Canon Sequence Captures</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-slash-and-save-how-to-edit-youtube-videos-quickly/"><u>[Updated] Slash and Save How to Edit YouTube Videos Quickly</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-stepwise-instructions-for-enhancing-youtube-clips-in-wmm/"><u>[Updated] Stepwise Instructions for Enhancing YouTube Clips in WMM</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-3-ways-to-record-switch-gameplay/"><u>2024 Approved 3 Ways to Record Switch Gameplay</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beginners-tutorial-activating-your-psn-user-account/"><u>Beginner's Tutorial: Activating Your PSN User Account</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-hide-the-power-button-from-the-start-menu-on-windows-10-and-11/"><u>How to Hide the Power Button From the Start Menu on Windows 10 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/idea-integration-with-obsidians-creative-canvas/"><u>Idea Integration with Obsidian's Creative Canvas</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/los-mejores-programas-convertidores-de-dvd-en-2023-guia-comparativa-para-windows-and-mac/"><u>Los Mejores Programas Convertidores De DVD en 2023: Guía Comparativa Para Windows & Mac</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-resolving-sluggish-startup-on-your-windows-7-pc/"><u>Quick Fixes: Resolving Sluggish Startup on Your Windows 7 PC</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/solucion-efectiva-para-la-falta-de-instalacion-del-software-de-migracion-de-datos-de-samsung-en-windows/"><u>Solución Efectiva Para La Falta De Instalación Del Software De Migración De Datos De Samsung en Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-solve-error-code-1132-in-microsofts-zoom-app/"><u>Swiftly Solve Error Code 1132 in Microsoft's Zoom App</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-11s-veiled-bar-search-feature/"><u>Unlocking Windows 11'S Veiled Bar Search Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-bar-through-time-1985-2023-retrospective/"><u>Windows Bar Through Time: 1985-2023 Retrospective</u></a></li>
 </ul></div>
 

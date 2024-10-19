@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 at Your Fingertips: Crafting Unique Shortcuts"
-date: 2024-10-10T18:39:03.847Z
-updated: 2024-10-12T16:48:14.212Z
+date: 2024-10-16T00:16:46.731Z
+updated: 2024-10-18T16:23:40.281Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 9. After installing, select the option to set up a WinHotKey desktop shortcut. Then you can click that shortcut to launch the software.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set Up Software Hotkeys
@@ -57,29 +57,16 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 2. Type an optional description for the hotkey in the text box on the **General** tab if you wish.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Select the **Launch an application** option on the drop-down menu.
 4. Press the **Browse** button to bring up a new application window.  
 ![The Browse for application window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/browse-for-application-window.png)
 5. Select an app for the hotkey to launch.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Click the **OK** button.
 2. Now select a keyboard key for the shortcut on the **Along with the key** drop-down menu.  
@@ -118,10 +105,16 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 ![Make the Current Windows drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/make-the-current-window-drop-down-menu.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Create Custom Keyboard Shortcuts With HotkeyP
@@ -134,11 +127,26 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 ![The Extract Compressed tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/extract-compressed-zip-folder.jpg)
 4. Double-click **HotkeyP.exe** file inside the extracted **hotkeyp\_64bit** directory.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now you’ll see an empty HotkeyP window. You can fill that window by adding some new custom hotkeys. First, try setting up a hotkey that opens software on your PC like this:
 
 1. Click the **Add** button.  
 ![The HotkeyP window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/hotkeyp-window.jpg)
 2. Press the **…** (ellipses) button for the **Command** box.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Select a program’s EXE (application) file for the hotkey to open.
 4. Then click inside the empty box beside those checkboxes and press a key on your keyboard to include it within the hotkey.
 5. Next, select one of the **Ctrl**, **Shift**, **Alt**, and **Win** checkboxes to set a modifier key for the hotkey.  
@@ -159,13 +167,6 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
 ![The Start automatically checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-start-automatically-checkbox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Set Up All the Windows Software HotKeys You Need With WinHotKey
 
  So, you won’t need Windows 11 desktop, Start menu, and taskbar shortcuts anymore when you’ve got WinHotKey or HotKey P. They're easy-to-utilize programs with which you can set up a wide variety of software, folders, and document keyboard shortcuts without cluttering the Windows desktop. Their only notable shortcoming is that you can’t set up website hotkeys with them, but they're still very handy apps nonetheless.
@@ -182,19 +183,19 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-cutting-edge-computers-optimal-machines-for-media-creation/"><u>[New] Cutting-Edge Computers Optimal Machines for Media Creation</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-facebook-vault-convert-videos-to-mp4-in-seconds/"><u>[New] In 2024, Facebook Vault Convert Videos to MP4 in Seconds</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-precision-in-volume-decrease-lumafusions-methodology/"><u>[New] Precision in Volume Decrease Lumafusion's Methodology</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208817323-resolved-end-excessive-heat-and-reduce-cpu-pressure-the-complete-guide-on-dealing-with-high-load-due-to-shell-infrastructures/"><u>[Resolved] End Excessive Heat & Reduce CPU Pressure - The Complete Guide on Dealing with High Load Due To Shell Infrastructures</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-x-mix-master-pro-for-computer-users/"><u>[Updated] In 2024, X-Mix Master Pro for Computer Users</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-luminalabs-exploring-affordable-video-editors/"><u>[Updated] LuminaLabs Exploring Affordable Video Editors</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-honor-magic-6-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Honor Magic 6 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/ace-windows-with-key-based-configuration-tweaks/"><u>Ace Windows with Key-Based Configuration Tweaks</u></a></li>
-<li><a href="https://windows11.techidaily.com/curbing-the-constant-appearance-of-edge-icons/"><u>Curbing the Constant Appearance of Edge Icons</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-something-went-wrong-with-outlook-on-pcs/"><u>Decoding Something Went Wrong with Outlook on PCs</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-vivo-v30-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo V30 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-intellij-unison-not-working-a-guide-for-users-of-windows-11/"><u>Fixing IntelliJ Unison Not Working: A Guide for Users of Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-recovering-battlenet-login-on-pcs/"><u>Mastering the Art of Recovering Battle.net Login on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-the-door-with-elongated-pin-strategies-for-windows-1011/"><u>Unlock the Door with Elongated Pin Strategies for Windows 10/11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-how-tos-selecting-free-powerful-iphoneipad-edits/"><u>[New] 2024 Approved How-To's Selecting Free, Powerful iPhone/iPad Edits</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-gain-control-over-yt-calls-start-gs-focused/"><u>[New] Gain Control Over YT Calls, Start GS-Focused</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-greatest-stop-motion-animations-ranked-1-15/"><u>[Updated] Greatest Stop-Motion Animations Ranked #1-15</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/uide-screen-capture-and-sound-from-youtube/"><u>DIY Guide Screen Capture & Sound From YouTube</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-new-horizons-most-effective-ms-office-replacements/"><u>Exploring New Horizons: Most Effective MS Office Replacements</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722970461798-get-your-canon-mg3620-drivers-now-quick-safe-and-trouble-free/"><u>Get Your Canon MG3620 Drivers Now - Quick, Safe, and Trouble-Free</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-win11-screensaver-failures-effectively/"><u>Handling WIN11 Screensaver Failures Effectively</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reset-audio-driver-error-unresponsive-device-issue/"><u>How To Reset Audio Driver Error: Unresponsive Device Issue</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-quick-and-easy-embedding-online-video-into-microsoft-presentations/"><u>In 2024, Quick & Easy Embedding Online Video Into Microsoft Presentations</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-runtime-issues-with-malwarebytes-in-modern-windows-systems/"><u>Overcoming Runtime Issues with Malwarebytes in Modern Windows Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-unregistered-program-components-in-windows-11-a-step-by-step-tutorial/"><u>Solve Unregistered Program Components in Windows 11: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-installing-and-setting-up-win11/"><u>Steps for Installing and Setting Up Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-vintage-films-with-a-windows-based-madvr-approach/"><u>Transforming Vintage Films with a Windows-Based MadVR Approach</u></a></li>
+<li><a href="https://network-issues.techidaily.com/update-screen-setup-no-issues-now/"><u>Update Screen Setup, No Issues Now</u></a></li>
 </ul></div>
 

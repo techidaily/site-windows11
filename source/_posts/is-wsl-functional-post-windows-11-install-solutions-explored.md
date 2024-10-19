@@ -1,7 +1,7 @@
 ---
 title: Is WSL Functional Post-Windows 11 Install? Solutions Explored
-date: 2024-09-05T02:08:03.800Z
-updated: 2024-09-06T02:08:03.800Z
+date: 2024-10-14T01:28:23.196Z
+updated: 2024-10-18T19:51:27.421Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
 
  Learn more about the[things you can do with WSL and Linux](https://www.makeuseof.com/pros-cons-windows-subsystem-for-linux/) on your Windows computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Enable Hyper-V and Virtual Machine Platform
 
  If you want to use a subsystem such as WSL in Windows, you'll also need to enable the virtualization tools. These include Hyper-V and the Virtual Machine Platform.
@@ -53,11 +60,12 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
 4. You will need to restart your computer to complete the installation of these tools.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Repair the Linux Distribution App
 
  Your Linux distribution app, such as Ubuntu, Kali, or Debian, could be corrupted or require updating. This can cause WSL to appear to be broken. Repairing Windows apps is very easy.
@@ -67,27 +75,16 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
 3. Click the**three dots** to the right of the app name, and select**Advanced options** .  
 ![Advanced app options in Windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-wsl.jpg)
 4. Click the**Repair** button and follow the on-screen instructions if repairs are necessary.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![repairing an app in Windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/repair-wsl-app.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Check if WSL is working. If not, try uninstalling and reinstalling the Linux distribution app.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Force WSL to Open Using the Microsoft Store
 
@@ -101,12 +98,6 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
 
  If forcing WSL to open doesn't work, try the same with the Linux distro app you are using. Open the Store, search for your distro, and click the**Open** button.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Uninstall Recent Updates to Fix WSL
 
  If WSL stopped working after installing an update, the update could be the cause. You can uninstall the most recent update to see if that fixes the problem.
@@ -115,12 +106,6 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
 
  If, after uninstalling the update, WSL still does not work, it is a good idea to reinstall it. Updates can often include security and performance tweaks, so it is generally recommended to keep Windows updated.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Check That Malware Isn't Blocking WSL
 
  The final thing to try to get WSL working is scanning for malware. The potential for malware to prevent Windows Subsystem for Linux from working is low but not unheard of.
@@ -128,23 +113,21 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
  Run a[full scan in Microsoft Defender](https://www.makeuseof.com/easy-ways-boost-security-microsoft-defender-and-windows-10/) or whichever third-party antivirus software you use. Quarantine or remove any malware your antivirus scan finds. Then restart your computer and try using WSL to see if that was the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fixing WSL After Upgrading to Windows 11
 
  Upgrading to Windows 11 usually goes smoothly, but apps and features can occasionally break. If you find that WSL is no longer working after upgrading to the newest Windows OS, don't worry, there is usually an easy fix. You might only need to re-enable the feature in the Windows system settings, but if not, running through the other fixes here will usually solve the problem.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -153,4 +136,26 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-diving-deep-into-whatsapps-vocal-messaging-experience/"><u>[New] Diving Deep Into WhatsApp's Vocal Messaging Experience</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mobile-markup-mastery-iosandroid-leaders/"><u>[Updated] 2024 Approved Mobile Markup Mastery IOS/Android Leaders</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-elevating-your-gameplay-on-youtube-with-these-essential-tags/"><u>[Updated] Elevating Your Gameplay on YouTube with These Essential Tags</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-expert-advice-enhancing-your-screen-capture-game-with-mobizen-tools/"><u>[Updated] In 2024, Expert Advice Enhancing Your Screen Capture Game with Mobizen Tools</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-rookie-riches-economical-channels-for-monetization/"><u>[Updated] In 2024, Rookie Riches Economical Channels for Monetization</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-steps-for-precise-clip-slicing-and-reshaping-in-adobe-after-effects-beginners-guide-to-efficient-video-editing/"><u>Easy Steps for Precise Clip Slicing and Reshaping in Adobe After Effects - Beginner's Guide to Efficient Video Editing</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/iently-engaging-with-numerous-youtube-lectures/"><u>Efficiently Engaging with Numerous YouTube Lectures</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-for-windows-0x80780119-error-in-image/"><u>Fix for Windows' 0X80780119 Error in Image</u></a></li>
+<li><a href="https://windows11.techidaily.com/fortify-your-pc-with-these-7-leading-gratis-password-apps/"><u>Fortify Your PC with These 7 Leading, Gratis Password Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/funimate-pro-unboxed-your-essential-apk-guide-for-2024/"><u>Funimate Pro Unboxed Your Essential APK Guide for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-how-to-generate-a-copernic-software-offline-license/"><u>Guide: How to Generate a Copernic Software Offline License</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-quick-finds-in-illustrator-a-complete-guide-using-copernic/"><u>Mastering Quick Finds in Illustrator: A Complete Guide Using Copernic</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-flawless-file-handling-discover-copernics-software-secrets-for-maximum-efficiency/"><u>Navigating Flawless File Handling: Discover Copernic's Software Secrets for Maximum Efficiency</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/on-the-spot-screen-savers-facebook-edition/"><u>On-the-Spot Screen Savers - Facebook Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionizing-business-data-retrieval-with-advanced-copernic-search-tech-explained/"><u>Revolutionizing Business Data Retrieval with Advanced Copernic Search Tech Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-up-triple-column-tiles-on-windows-11-a-quick-guide/"><u>Setting Up Triple Column Tiles on Windows 11 – A Quick Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-media-experience-with-wmp/"><u>Streamlining Your Media Experience with WMP</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-strategies-for-resolving-windows-11-onedrive-disconnects/"><u>Top Strategies for Resolving Windows 11 OneDrive Disconnects</u></a></li>
+</ul></div>
 

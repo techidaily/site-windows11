@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Fix for Error AFC: Windows 11 Camera App Crash"
-date: 2024-09-28T01:12:28.987Z
-updated: 2024-10-01T21:52:44.532Z
+date: 2024-10-16T17:54:36.748Z
+updated: 2024-10-18T20:32:06.889Z
 tags:
   - windows10
   - windows11
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c
 ![The Automatic startup type option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/automatic-option-1.jpg)
 4. Click**Start** (in the properties window) if the Windows Camera Frame Server service isn’t running.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Select the**Log on** tab for the service.  
 ![The Local System account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/local-system-account-option.jpg)
 6. Click the**Local System account** checkbox if that option isn’t selected.
@@ -58,10 +51,16 @@ thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c
 8. Click**OK** to exit.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Edit the Platform Registry Key
@@ -75,29 +74,16 @@ thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c
 ![The DWORD (32-bit) Value option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/enableframeservermode-dword.jpg)
 4. Then input**EnableFrameServerMode** in the DWORD’s name box.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Double-click the**EnableFrameServerMode** DWORD.
 6. Set the**EnableFrameServerMode** value to**0** and click**OK** .  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/edit-dword-value-window.jpg)
 7. Restart Windows before opening Windows Camera again.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reset the Camera App
@@ -108,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c
 
 ![The Reset option for the Camera app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/camera-reset-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Allow the Camera App Through Windows Defender Firewall
 
  Another possible reason for error 0xA00F429F is the Windows DefenderfFirewall, which could be blocking the Camera app’s connectivity. So, check your firewall’s settings to make sure that the Windows Camera app is allowed through it.
@@ -116,7 +109,27 @@ thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c
 
 ![The Allowed apps through firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allowed-firewall-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The same also applies to users who’ve installed third-party firewalls or antivirus software packages that include them. Check the app permission list for any third-party firewall, and select to permit Windows Camera through it.
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Disable the Camera Shields in Third-Party Antivirus Software Packages
 
@@ -130,13 +143,6 @@ thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c
 
  The easiest way to check for outdated device drivers and update them on your PC is to utilize driver updater software. Such apps will scan your PC and tell you if your camera driver needs updating. Our[Driver Booster guide](https://www.makeuseof.com/update-windows-drivers-driver-booster-8/) includes instructions for updating drivers with that software. Or you can utilize any of the free alternatives in our[best free driver updaters post](https://www.makeuseof.com/windows-best-free-driver-updaters/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Reinstall Windows Camera App
 
  If there’s something wrong with the Camera app, reinstalling it will likely fix the issue. The option for uninstalling Camera in Settings is grayed out. Nevertheless, you can still uninstall that app via PowerShell and reinstall it like this:
@@ -147,18 +153,18 @@ thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c
 ![The remove Camera app PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/remove-camera-command.jpg)
 3. Select**Restart** on the**Power** button.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Open the[Windows Camera Microsoft Store](https://apps.microsoft.com/store/detail/windows-camera/9WZDNCRFJBBG) page in a web browser.
 5. Click Windows Camera’s**Get** in Store app button.
 6. Select**Open in Microsoft Store** inside the little dialog box that appears.  
 ![The Windows Camera app page in MS Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-camera-app-page.jpg)
 7. Click**Get in the MS Store** app to reinstall the Camera app.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Record With Your Camera App Again on Windows
 
@@ -179,24 +185,22 @@ thumbnail: https://thmb.techidaily.com/733caf2abbd8fb995bf457552e00ba90aafeaec9c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-proven-picks-leading-capture-cards-for-enthusiast-streamers/"><u>[Updated] In 2024, Proven Picks Leading Capture Cards for Enthusiast Streamers</u></a></li>
-<li><a href="https://windows11.techidaily.com/future-proof-computing-with-top-windows-laptop-choices/"><u>Future-Proof Computing with Top Windows Laptop Choices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/getting-started-with-langchain-llm-the-essential-starters-manual/"><u>Getting Started with LangChain LLM: The Essential Starter's Manual</u></a></li>
-<li><a href="https://windows11.techidaily.com/guiding-pathway-merging-emulated-game-titles-with-playnite-software/"><u>Guiding Pathway: Merging Emulated Game Titles with Playnite Software</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-realme-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-honor-magic-6-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Honor Magic 6 Pro Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-reno-9a-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Reno 9A Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from Apple iPhone 15 Pro Max</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-honor-100-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Honor 100</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/insights-on-the-cancelled-two-faced-journey-a-comprehensive-review/"><u>Insights on the Cancelled 'Two Faced Journey': A Comprehensive Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/keys-fail-randomly/"><u>Keys Fail Randomly</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-to-bypass-enforced-driver-signatures-loading-unverified-drivers/"><u>Methods to Bypass Enforced Driver Signatures, Loading Unverified Drivers</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/photoshops-powerful-tool-image-curving-techniques-for-2024/"><u>Photoshop's Powerful Tool Image Curving Techniques for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/re-establish-missing-5ghz-connection-easily-in-windows-11/"><u>Re-Establish Missing 5GHz Connection Easily in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/rectifying-grayed-out-bin-status-in-win11/"><u>Rectifying Grayed Out Bin Status in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-cutting-back-cpu-overuse-in-windows-systems/"><u>Strategies for Cutting Back CPU Overuse in Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactics-to-mask-dimming-functionality-in-system-preferences/"><u>Tactics to Mask Dimming Functionality in System Preferences</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-premier-lineup-of-zero-cost-must-haves-for-windows-11/"><u>The Premier Lineup of Zero-Cost Must-Haves for Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-alomware-resource-for-windows-tweakers/"><u>The Ultimate AlomWare Resource for Windows Tweakers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-eliminate-cacophony-perfecting-sound-quality-for-youtube/"><u>[New] 2024 Approved Eliminate Cacophony Perfecting Sound Quality for YouTube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-musical-milestones-celebrate-your-growth-with-these-15-vids/"><u>[New] 2024 Approved Musical Milestones Celebrate Your Growth with These 15 Vids</u></a></li>
+<li><a href="https://extra-information.techidaily.com/end-unwanted-movement-in-iphone-videography/"><u>End Unwanted Movement in iPhone Videography</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-review-the-versatile-and-affordable-dell-g5-5090-your-gateway-to-high-performance-gaming/"><u>Expert Review: The Versatile and Affordable Dell G5 5090, Your Gateway to High-Performance Gaming</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/harnessing-ai-to-foster-your-personal-health-journey/"><u>Harnessing AI to Foster Your Personal Health Journey</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-mdm-on-iphone-13-mini-with-ease-via-third-tools-by-drfone-ios-unlock-ios-unlock/"><u>How to Bypass MDM on iPhone 13 mini with Ease Via third Tools?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-craft-nfts-with-minimal-exertion/"><u>How to Craft NFTs with Minimal Exertion</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-requested-operation-requires-elevation-error-740-on-windows-11-and-11/"><u>How to Fix the “Requested Operation Requires Elevation” Error 740 on Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/instant-relief-guaranteed-solution-to-boot-time-sound-service-fix/"><u>Instant Relief: Guaranteed Solution to Boot-Time Sound Service Fix</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-your-window-experience-essential-product-key-insights/"><u>Optimize Your Window Experience: Essential Product Key Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/priority-toolkit-best-free-resources-for-win11-power/"><u>Priority Toolkit: Best Free Resources for Win11 Power</u></a></li>
+<li><a href="https://windows11.techidaily.com/redefining-initial-web-portal-for-new-windows-user/"><u>Redefining Initial Web Portal for New Windows User</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-directx-install-failures-on-pcs/"><u>Resolving DirectX Install Failures on PCs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-5-premium-free-video-compressors-how-to-reduce-size-without-a-watermark/"><u>Top 5 Premium-Free Video Compressors : How to Reduce Size Without a Watermark</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-the-pathway-for-fixing-virtualboxs-efail-error/"><u>Unblocking the Pathway for Fixing Virtualbox's E_FAIL Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/uninstalling-epic-launcher-on-w11-solutions-present/"><u>Uninstalling Epic Launcher on W11 - Solutions Present</u></a></li>
 </ul></div>
 

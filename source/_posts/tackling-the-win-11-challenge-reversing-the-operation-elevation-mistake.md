@@ -1,7 +1,7 @@
 ---
 title: "Tackling the Win 11 Challenge: Reversing the Operation Elevation Mistake"
-date: 2024-10-06T18:15:01.689Z
-updated: 2024-10-13T02:38:22.285Z
+date: 2024-10-16T22:17:20.881Z
+updated: 2024-10-18T16:16:07.951Z
 tags:
   - windows10
   - windows11
@@ -41,25 +41,11 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![The Run this program in compatibility mode drop-down menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-this-program-in-compatibility-mode.jpg)
 4. Press the **Apply** \> **OK** buttons to set the compatibility mode setting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Turn Off the User Account Control Feature
 
  User Account Control is the security feature that throws up notifications when programs try to make changes. UAC could be a potential cause of error 740 when it’s set very high. So, try turning off UAC before running affected apps. Our [guide to disabling User Account Control](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) tells you how to turn off that feature.
 
 ![The User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/user-account-control-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Adjust Folder Permission Settings
 
@@ -75,14 +61,21 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![The Security tab and Advanced button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-security-tab3.jpg)
 6. Select the **Replace all child object permissions entries with inheritable permission entries from this object** checkbox.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Replace all child object permission entries checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/replace-all-child-objects-option.jpg)
 7. Click **Apply** on the Advanced Security Settings window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Select **Yes** when asked to continue.
@@ -108,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 8. Select **OK** to close the policy setting’s window.
 9. Then reboot Windows after closing Group Policy Editor.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Disable Admin Approval Mode
 
  Admin Approval Mode prompts administrative users for task permissions when enabled. It’s a strict Group Policy Editor security policy that can potentially cause elevation issues. Follow these steps to turn off Admin Approval Mode.
@@ -118,10 +118,16 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 3. Click the **Disabled** radio button if this policy is enabled.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![the-enabled-radio-button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-enabled-radio-button.jpg)
@@ -137,14 +143,14 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If disabling the security software works, you don’t necessarily have to turn the security software off whenever you want to run the application file. Your antivirus software will probably include an exclusion list to which you can add trustworthy program file exceptions. Add the affected EXE file there to exclude it from the antivirus protection.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Migrate to a New Admin User Account
 
@@ -155,10 +161,16 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
  To apply this troubleshooting method for the “requested operation requires elevation” error, follow the instructions within this article about [how to fix Windows issues by creating new user accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/). First, you’ll need to set up and sign in to the new admin account to see if the error occurs there. If not, transfer user files into the new account as covered there.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get Error 740 Sorted on Windows
@@ -177,22 +189,24 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-cutting-edge-tech-for-screen-capture-an-itop-review-for-2024/"><u>[Updated] Cutting-Edge Tech for Screen Capture An ITop Review for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-xbox-screencast-capture-techniques-for-2024/"><u>[Updated] Mastering Xbox Screencast Capture Techniques for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-pricing-guide-youtube-marketing-expenses/"><u>2024 Approved Pricing Guide YouTube Marketing Expenses</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-selecting-sacred-sounds-for-smartphone-ringtones/"><u>2024 Approved Selecting Sacred Sounds for Smartphone Ringtones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-speed-meets-strategy-key-moments-at-the-games/"><u>2024 Approved Speed Meets Strategy Key Moments at the Games</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-productivity-on-windows-by-adjusting-with-alomware/"><u>Boost Productivity on Windows by Adjusting with AlomWare</u></a></li>
-<li><a href="https://windows11.techidaily.com/detailed-guide-to-installing-ms-work-on-windows-11/"><u>Detailed Guide to Installing MS Work on Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/essential-info-processing-refunds-from-xbox-games/"><u>Essential Info: Processing Refunds From Xbox Games</u></a></li>
-<li><a href="https://network-issues.techidaily.com/guides-on-fixing-acer-led-displays/"><u>Guides on Fixing Acer LED Displays</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-resolve-windows-11s-update-error-0x800f0922/"><u>How to Resolve Windows 11'S Update Error 0X800f0922</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-successfully-upgrade-to-virtualbox-70-on-windows-11-pcs/"><u>How to Successfully Upgrade to VirtualBox 7.0 on Windows 11 PCs</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-sharing-knowledge-via-instagrams-hyperlink-haven/"><u>In 2024, Sharing Knowledge via Instagram's Hyperlink Haven</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-hidden-potential-top-10-enhancing-plug-ins/"><u>In 2024, Unlock Hidden Potential Top 10 Enhancing Plug-Ins</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-microphone-errors-in-xbox-app-on-windows-11-systems/"><u>Navigating Microphone Errors in Xbox App on Windows 11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-android-usage-a-windows-11-webcam-setup/"><u>Optimizing Android Usage: A Windows 11 Webcam Setup</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-strategy-become-system-admin-now/"><u>Swift Strategy: Become System Admin Now</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactics-to-bypass-admin-access-denied-message-on-pc/"><u>Tactics to Bypass 'Admin Access Denied' Message on PC</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-mastering-igtv-with-a-phone-or-dslr-camera-the-ultimate-guide/"><u>[New] In 2024, Mastering IGTV with a Phone or DSLR Camera The Ultimate Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-unlocking-the-power-of-screencastify-recorder/"><u>[New] In 2024, Unlocking the Power of Screencastify Recorder</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-quick-and-easy-channels-personalize-your-youtube-url-now/"><u>[New] Quick and Easy Channels Personalize Your YouTube URL Now</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-innovative-ideas-the-best-12-websites-to-access-no-cost-photographic-treasures/"><u>[Updated] Innovative Ideas The Best 12 Websites to Access No-Cost Photographic Treasures</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/adopting-powerpoints-advanced-speech-to-text-functionality-for-dynamic-slide-shows-for-2024/"><u>Adopting PowerPoint’s Advanced Speech-to-Text Functionality for Dynamic Slide Shows for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Infinix Note 30 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://windows11.techidaily.com/learn-to-record-dual-track-screenshots-with-windows-11s-snipping-tool-max-156/"><u>Learn to Record Dual-Track Screenshots with Windows 11'S Snipping Tool (Max 156)</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-network-discovery-secrets-to-mac-address-on-windows-11/"><u>Mastering Network Discovery: Secrets to Mac Address on Windows 11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-shrink-your-webm-videos-best-online-compression-services/"><u>New 2024 Approved Shrink Your WebM Videos Best Online Compression Services</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-best-free-mod-video-editing-software-a-beginners-guide-for-2024/"><u>New The Best Free MOD Video Editing Software A Beginners Guide for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-text-entry-embedding-keyboard-triggers-into-context-menus/"><u>Optimize Text Entry: Embedding Keyboard Triggers Into Context Menus</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-no-sound-device-error-in-windows-os/"><u>Rectifying No Sound Device Error in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/seven-key-benefits-of-continuing-with-your-oldie-but-goodie-windows-10/"><u>Seven Key Benefits of Continuing with Your Oldie but Goodie - Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-personalized-windows-11-lock-patterns/"><u>Step-by-Step Guide to Personalized Windows 11 Lock Patterns</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlined-multitasking-experience-microsofts-new-ai-taskbar-helper-in-windows-11/"><u>Streamlined Multitasking: Experience Microsoft’s New AI Taskbar Helper in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-update-glitches-the-case-of-error-codes-0xc1900101/"><u>Tackling Update Glitches: The Case of Error Codes 0xC1900101</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-fixing-frontier-game-crashes-on-windows/"><u>Troubleshooting Tips - Fixing Frontier Game Crashes on Windows</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oppo-reno-10-proplus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Oppo Reno 10 Pro+ 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-lockscreen-customization-switching-spotlight-on-and-off/"><u>Windows Lockscreen Customization: Switching Spotlight On and Off</u></a></li>
 </ul></div>
 

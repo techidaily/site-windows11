@@ -1,7 +1,7 @@
 ---
 title: Redefining Privileges for Non-Administrative Windows Users
-date: 2024-09-27T01:09:02.907Z
-updated: 2024-10-01T20:56:13.424Z
+date: 2024-10-15T01:27:43.873Z
+updated: 2024-10-18T22:42:22.605Z
 tags:
   - windows10
   - windows11
@@ -44,19 +44,19 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
 4. Click **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Keep in mind that only administrators can change the behavior of the UAC. If a standard user tried to change it using the Local Group Policy Editor, for example, they'd probably get an **Access denied** error message.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change the UAC Behavior for Standard Users in the Registry Editor
@@ -68,16 +68,17 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
 1. Copy **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Policies\\System** and paste it into the address bar at the top of the Registry Editor.  
 ![the System key in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-key-registry-editor.jpg)
 2. Press **Enter** on your keyboard to go to the **System** key.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Right-click the **ConsentPromptBehaviorUser** value in the right panel and select **Modify**.  
 ![modifying the ConsentPromptBehaviorUser value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modifying-consentpromptbehavioruser-in-registry-editor.jpg)
 4. In the **Value data** text box, enter **0** for **Automatically deny elevation requests**, **1** for **Prompt for credentials on the secure desktop**, or **3** for **Prompt for credentials**.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![setting Value data for ConsentPromptbehavior Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/setting-value-data-for-consentpromptbehavior-registry-editor.jpg)
 5. Click **OK**.
@@ -85,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
  Now restart your computer to allow the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Control UAC's Behavior for Standard Users on Windows
@@ -106,19 +107,20 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-complete-tiktok-termination-protocol-unveiled/"><u>[Updated] 2024 Approved Complete TikTok Termination Protocol Unveiled</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unleash-your-seo-potential-explore-the-most-effective-7-free-video-tags-extractors/"><u>[Updated] 2024 Approved Unleash Your SEO Potential Explore the Most Effective 7 Free Video Tags Extractors</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-infinix-gt-10-pro-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Infinix GT 10 Pro Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-comprehensive-guide-to-using-w11s-auto-hdr/"><u>A Comprehensive Guide to Using W11's Auto HDR</u></a></li>
-<li><a href="https://windows11.techidaily.com/dont-relininas-chatbots-for-secure-authenticated-win-11-keys/"><u>Don't Relininas Chatbots for Secure, Authenticated Win 11 Keys</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oneplus-ace-2-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked OnePlus Ace 2 Pro in Minutes | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-stop-the-mouse-from-freezing-in-excel/"><u>How to Stop the Mouse From Freezing in Excel</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-y02t-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo Y02T Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-xiaomi-redmi-note-12r-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Xiaomi Redmi Note 12R Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://fox-info.techidaily.com/optimal-charger-solutions-for-gopro-hero5-genuine-and-imitative-companies-for-2024/"><u>Optimal Charger Solutions for GoPro Hero5 Genuine & Imitative Companies for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/overcoming-x3daudiodll-errors-on-your-pc-essential-troubleshooting-techniques/"><u>Overcoming x3daudio.dll Errors on Your PC: Essential Troubleshooting Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/personalized-pixel-panorama-themed-displays-for-each-window-of-win-1011/"><u>Personalized Pixel Panorama: Themed Displays for Each Window of WIN 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/set-your-desktops-mood-with-spotlight-controls/"><u>Set Your Desktop's Mood with Spotlight Controls</u></a></li>
-<li><a href="https://windows11.techidaily.com/unleash-potential-in-vintage-gear-installation-of-22h2-win11/"><u>Unleash Potential in Vintage Gear: Installation of 22H2 Win11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-top-action-capturing-software-guide/"><u>[New] In 2024, Top Action-Capturing Software Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pivot-past-moments-an-android-video-reversal-tutorial/"><u>[New] Pivot Past Moments An Android Video Reversal Tutorial</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deal-makers-delight-windows-10-612-lifetime-bf-discount/"><u>Deal-Makers' Delight: Windows 10, $6.12 Lifetime BF Discount</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-the-newest-quadro-graphics-drivers-on-windows-11/"><u>Download and Install the Newest Quadro Graphics Drivers on Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-championship-caliber-play-in-nba-2k19-the-definitive-virtual-basketball-challenge/"><u>Experience Championship-Caliber Play in NBA 2K19 – The Definitive Virtual Basketball Challenge</u></a></li>
+<li><a href="https://windows11.techidaily.com/linux-desktops-analyzing-wsl-role/"><u>Linux Desktops: Analyzing WSL Role?</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-for-alleviating-power-management-issues-on-windows-devices/"><u>Methods for Alleviating Power Management Issues on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-remove-access-error-in-windows-file-explorer/"><u>Methods to Remove Access Error in Windows File Explorer</u></a></li>
+<li><a href="https://windows11.techidaily.com/muting-windows-update-alerts-and-reminders/"><u>Muting Windows Update Alerts and Reminders</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-updating-problem-error-x8019/"><u>Overcoming Updating Problem: Error X8019</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/pro-moviemakers-manual-for-pc-mac-and-mobile-systems/"><u>Pro Moviemaker's Manual for PC, Mac & Mobile Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-organization-owned-chromeedge-issues-on-desktops/"><u>Resolving Organization-Owned Chrome/Edge Issues on Desktops</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-personalizing-your-whatsapp-ringtone-iphonesandroids-included/"><u>The Ultimate Guide to Personalizing Your WhatsApp Ringtone - iPhones/Androids Included</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/watch-educational-video-lessons-on-spotifys-latest-learning-platform/"><u>Watch Educational Video Lessons on Spotify's Latest Learning Platform!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Lava Yuva 2 | Dr.fone</u></a></li>
 </ul></div>
 

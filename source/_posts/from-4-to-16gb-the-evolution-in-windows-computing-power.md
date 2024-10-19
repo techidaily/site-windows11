@@ -1,7 +1,7 @@
 ---
 title: "From 4 to 16GB: The Evolution in Windows Computing Power"
-date: 2024-10-06T17:03:20.436Z
-updated: 2024-10-12T17:13:43.729Z
+date: 2024-10-15T02:46:53.572Z
+updated: 2024-10-18T21:03:51.384Z
 tags:
   - windows10
   - windows11
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 * [Why Is Microsoft Setting a Baseline of 16GB of RAM?](#why-is-microsoft-setting-a-baseline-of-16gb-of-ram)
 * [Is Setting 16GB RAM as the New Standard Good News for You?](#is-setting-16gb-ram-as-the-new-standard-good-news-for-you)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Microsoft is pushing for 16GB of RAM as the minimum for new devices, possibly to support AI-based processes.
@@ -44,21 +37,35 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
  As operating systems become more complex, the minimum specifications for new PCs rise to meet them. Recent reports claim that Microsoft is pushing to have 16GB of RAM become the minimum amount of memory for new devices. But why would it make that change, and is this good for you?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is RAM?
 
 ![Inside of computer with ram sticks and cpu cooler](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/inside-of-computer-with-ram-sticks-and-cpu-cooler.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Pexels](https://www.pexels.com/photo/interior-of-computer-15109653/)
 
  For anyone unsure what RAM is: it's short for "random access memory." You can imagine it like the size of your computer's work table; the more room it has to work with, the more programs it can run simultaneously without encountering any problems.
 
  Be sure to check out our [explainer on RAM](https://www.makeuseof.com/tag/quick-dirty-guide-ram-need-know/) that everyone can understand.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is Happening With RAM in Windows Computers?
 
@@ -68,23 +75,9 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
  Right now, you can purchase a new PC with 8GB of RAM minimum. If this report is accurate, these models will eventually be phased out, and 16GB computers will take their place as the baseline.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Is Microsoft Setting a Baseline of 16GB of RAM?
 
 ![The Microsoft Copilot logo](https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f48662a5ae5f051ec41bdae27.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Unsplash](https://unsplash.com/photos/blue-and-pink-light-illustration-LeG68PrXA6Y)
 
@@ -93,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
  At the time of writing, we don't know exactly what an "AI PC" is. We know that many companies are developing them, and as you would expect, they will feature artificial intelligence in some form.
 
  An "AI PC" could be a machine where AI powers the operating system itself. It might also be a flashy marketing term for a regular PC with some simple AI tools pre-installed. Regardless of how AI PCs go, those special processing tools will need more memory to run properly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The Potential Set Up for Windows 12
 
@@ -126,22 +126,16 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-compile-list-of-cost-efficient-vecto-art-sites/"><u>[New] Compile List of Cost-Efficient Vecto Art Sites</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-helmet-to-high-definition-top-5-cams-for-riders-23-edition/"><u>[New] In 2024, Helmet to High Definition Top 5 Cams for Riders, '23 Edition</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-secure-recording-methods-for-sensitive-whatsapp-discussions/"><u>[New] In 2024, Secure Recording Methods for Sensitive WhatsApp Discussions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-mastering-object-extraction-in-iphone-photography-with-top-6-apps/"><u>[New] Mastering Object Extraction in iPhone Photography with Top 6 Apps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-sea-of-thieves-wont-launch/"><u>[Solved] Sea of Thieves Won't Launch</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-youtube-clip-maker/"><u>2024 Approved Youtube Clip Maker</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-display-glitch-geforce-experience-x0001/"><u>Fixing Display Glitch: GeForce Experience X0001</u></a></li>
-<li><a href="https://windows11.techidaily.com/innovative-ways-to-initiate-windows-based-software/"><u>Innovative Ways to Initiate Windows-Based Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/minimize-high-usage-windows-11-news-and-media-feats/"><u>Minimize High Usage Windows 11 News & Media Feats</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-intel-unison-app-for-seamless-windows-phone-calls/"><u>Navigating Intel Unison App for Seamless Windows Phone Calls</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-windows-update-pitfalls-0x30017/"><u>Navigating Through Windows Update Pitfalls (0X30017)</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimize-your-workflow-keep-gmail-pinned-for-easy-viewing/"><u>Optimize Your Workflow: Keep Gmail Pinned for Easy Viewing</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/poco-c65-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Poco C65 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://windows11.techidaily.com/speed-up-taskbar-interaction-enabledisable-ai-on-win-11/"><u>Speed Up Taskbar Interaction: Enable/Disable AI on Win 11</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-blueprint-to-surge-in-youtubers-popularity/"><u>The Blueprint to Surge in Youtubers' Popularity</u></a></li>
-<li><a href="https://driver-download.techidaily.com/troubleshooting-fixing-a-non-functional-samsung-blu-ray-player/"><u>Troubleshooting: Fixing a Non-Functional Samsung Blu-Ray Player</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-sleep-mode-anomalies-why-it-frustrates-users/"><u>Windows' Sleep Mode Anomalies: Why It Frustrates Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-ultimate-guide-to-audio-selection-in-video-unboxing-for-2024/"><u>[New] The Ultimate Guide to Audio Selection in Video Unboxing for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-to-economical-high-performance-asmr-microphones/"><u>[New] Ultimate Guide to Economical, High-Performance ASMR Microphones</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-install-the-latest-zebra-printer-drivers-for-windows-pcs-how-to-guide/"><u>Find & Install the Latest Zebra Printer Drivers for Windows PCs - How to Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oneplus-11r-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-swiftrecorder-plus-soundtrack-guided-screen-recording/"><u>In 2024, SwiftRecorder Plus - Soundtrack Guided Screen Recording</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-based-qbittorrent-halt-problems/"><u>Overcoming Windows-Based qBittorrent Halt Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/pinpointing-powerful-policies-in-windows-systems/"><u>Pinpointing Powerful Policies in Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/restore-windows-teams-screen-sharing/"><u>Restore Windows Teams Screen Sharing</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-original-touchscreen-layout-on-windows-11/"><u>Restoring Original Touchscreen Layout on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-updating-your-ch340g-serial-device-drivers-on-windows-11/"><u>Step-by-Step Guide: Updating Your CH340G Serial Device Drivers on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-oppo-a1-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Oppo A1 5G</u></a></li>
 </ul></div>
 

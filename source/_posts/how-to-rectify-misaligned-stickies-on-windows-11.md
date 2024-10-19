@@ -1,7 +1,7 @@
 ---
 title: How to Rectify Misaligned Stickies on Windows 11
-date: 2024-09-05T02:08:11.803Z
-updated: 2024-09-06T02:08:11.803Z
+date: 2024-10-11T16:53:51.964Z
+updated: 2024-10-19T01:28:30.533Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 ![Terminate and Restart Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/terminate-and-restart-sticky-notes.jpg)
 5. Press **Win + S** to open Windows Search. Type Sticky Notes and press the **Enter** key to relaunch the app.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Perform a Complete Shutdown
 
  Modern versions of Windows OS use [Fast Startup](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/) which hibernates kernel-level processes and aids the PC to boot up quickly. But if these processes glitch, you can face issues with apps and services.
@@ -50,22 +57,18 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 3. Now, type the following command and press the **Enter** key to execute it: **shutdown /s /f /t 0**  
 ![Completely Shutdown your PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/completely-shutdown-your-pc.jpg)
 4. Your PC will take slightly longer than usual to shut down.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Power on your PC and log in. Check if the Sticky Notes app and its sync feature work properly or not.
 
  If the app now works fine, check out [what Fast Startup is and how to disable it](https://www.makeuseof.com/what-is-windows-fast-startup-why-disable-it/) so you can turn it off.
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Sign Out and Back Into Sticky Notes
 
  If Sticky Notes does not sync automatically, you can try signing out of the app and signing in again. Here’s how to do that:
@@ -75,24 +78,19 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 3. Now, click on the **Sign out** button. The Sticky Notes app will close automatically.  
 ![Sign Out and Sign In Again](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sign-out-and-sign-in-again.jpg)
 4. Relaunch the Sticky Notes app and open its Settings section.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Click on the **Sign in** button.
 6. Select the Microsoft account you use on your PC and click on the **Continue** button.  
 ![Sign Out and Sign In Again 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sign-out-and-sign-in-again-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, make changes to any note in the app and check if the sync issues persist or not.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Allow Sticky Notes Through the Windows Firewall
 
  If the Sticky Notes app cannot bypass the Windows Firewall, it won’t be able to sync notes with other devices and the web. So, here's how to let it through:
@@ -103,12 +101,14 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 4. Locate the Microsoft Sticky Notes entry in the list. **Click** on both the **checkboxes** under the **Public** and Private columns.  
 ![Allow Sticky Notes in the Windows Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/allow-sticky-notes-in-the-windows-firewall.jpg)
 5. Lastly, click on the **OK** button to apply the changes.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. **Close** the Control Panel window.
 
 ## 6\. Manually Sync Your Sticky Notes
@@ -121,12 +121,6 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 ![Manually Sync the Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manually-sync-the-notes.jpg)
 4. Check if the notes sync and are available on another device or by opening the Outlook account in the web browser.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Update Sticky Notes
 
  You cannot directly check for updates or update the Sticky Notes app using its settings section. Since it is a Microsoft app, you must use the Microsoft Store to check for updates and download and install them. Here’s how to do it:
@@ -139,11 +133,18 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 5. Close the Microsoft Store.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Run the Windows Store Apps Troubleshooter
 
  Windows contains inbuilt troubleshooters to fix issues with Apps, Networks, and other system components. Repeat the following steps to use the Windows Store Apps troubleshooter:
@@ -155,11 +156,12 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 4. Wait for the troubleshooter to find and fix issues with installed apps.  
 ![Run the Microsoft Store Apps Troubleshooter 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-the-microsoft-store-apps-troubleshooter-2.jpg)
 5. Close the troubleshooter window.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Repair or Reset Sticky Notes
@@ -174,11 +176,18 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 ![Repair or Reset Sticky Notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-or-reset-sticky-notes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 10\. Reinstall Sticky Notes
 
  The last resort is to remove and reinstall Sticky Notes on your PC. Repeat the following steps:
@@ -189,25 +198,11 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 ![Reinstall sticky notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reinstall-sticky-notes.jpg)
 4. Visit the [Microsoft Sticky Notes page on the Microsoft Store](https://apps.microsoft.com/store/detail/microsoft-sticky-notes/9NBLGGH4QGHW). Download and install it on your PC and then sign in to your account.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Make the Sticky Notes Sync Feature Functional Again
 
  These were the best methods to resolve the sync issues with Sticky Notes. Start with preliminary fixes and rule out network and firewall issues. Manually sync your data and update the app. Lastly, try out the advanced options and reinstall the app.
 
  But some users face an issue with the app, and their notes do not automatically sync in Windows 11\. The potential reasons for this issue can be internet issues, misconfigured app settings, or a corrupt or outdated app version. Try these methods to make the Sticky Notes sync feature functional again.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -215,3 +210,19 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-mac-users-path-to-professional-audio-with-audacity/"><u>[New] Mac Users' Path to Professional Audio with Audacity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-strategies-for-downloading-twitter-video-content-to-mp3/"><u>[Updated] Strategies for Downloading Twitter Video Content to MP3</u></a></li>
+<li><a href="https://windows11.techidaily.com/harmonizing-windows-and-wsl-after-a-major-update/"><u>Harmonizing Windows and WSL After a Major Update</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-x-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and iPhone X The Right Way</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/lenovo-t430-driver-downloads-compatibility-with-windows-11-8-and-7-a-simple-walkthrough/"><u>Lenovo T430 Driver Downloads: Compatibility with Windows 11, 8 & 7 - A Simple Walkthrough</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolving-errors-troubleshooting-vlcs-inability-to-access-youtube-mrl-links/"><u>Resolving Errors: Troubleshooting VLC's Inability to Access YouTube MRL Links</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-audio-recorder-crash-9999-on-windows-platforms/"><u>Solving Audio Recorder Crash 9999 on Windows Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-windows-files-delete-confirmations/"><u>Tailoring Windows Files' Delete Confirmations</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-experts-guide-to-navigating-with-windows-narrator/"><u>The Expert's Guide to Navigating with Windows Narrator</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-issues-resolving-outriders-freezing-and-stuttering/"><u>Troubleshooting PC Issues: Resolving Outriders' Freezing and Stuttering</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncovering-development-power-with-windows-11s-dev-drive-insights/"><u>Uncovering Development Power with Windows 11’S Dev Drive Insights</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Solving Missing Sound Issue From Devices, Microsoft Windows
-date: 2024-09-05T02:08:04.732Z
-updated: 2024-09-06T02:08:04.732Z
+date: 2024-10-15T01:59:07.771Z
+updated: 2024-10-18T18:30:47.859Z
 tags:
   - windows10
   - windows11
@@ -59,27 +59,38 @@ To run the troubleshooter:
 3. In**Computer Management** , click on**Local User and Groups.**  
 ![computer management windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/computer-management-windows-11.jpg)
 4. In the right pane, double-click on**Groups** to view all the local accounts.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![local users and groups administrator properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/local-users-and-groups-administrator-properties.jpg)
 5. Select and right-click on the**Administrators** account and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![administrator properties local users and groups](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/administrator-properties-local-users-and-groups.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 1. Click the**Add** button in the**Administrator Properties** dialog.
 2. ![administrator properties local users and groups](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/administrator-properties-local-users-and-groups.jpg)
 3. Next, type**network service** and click**Check Names** . It should change the object name to**NETWORK SERVICE.**  
 ![add network service local administrator group](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-network-service-local-administrator-group.jpg)
 4. Click**OK** to add network service to the local user group.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the**Administrator Properties** dialog, you'll see**NT Authority\\Network Service added as the member.**
 6. Click the**Add** button again and repeat the steps to add**Local Services** to the group as well.
 7. Once done, click**Apply** and**OK** to save the changes.
@@ -88,18 +99,6 @@ To run the troubleshooter:
 
 ![add network service local administrator group command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-network-service-local-administrator-group-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Press the**Win** key and type**cmd** .
 2. Right-click on**Command Prompt** and select**Run as administrator.**
 3. In the Command Prompt window, type the following to add "local service" to the Local Group Administrator:  
@@ -121,26 +120,16 @@ To uninstall an audio device:
 4. Right-click on your audio device, like**Realtek** **Audio** .  
 ![uninstall audio device device manager 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-audio-device-device-manager-1.jpg)
 5. Select**Attempt to remove the driver for this device** option in the**Uninstall Device** dialog.  
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![uninstall audio device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-audio-device-device-manager.jpg)
 6. Click**Uninstall** to remove the device.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 7. Once uninstalled, restart your PC. Windows will automatically install the necessary drivers for your audio device.
 
  If the issue persists, manually reinstall the audio device driver from the manufacturer.
@@ -155,18 +144,6 @@ To uninstall an audio device:
 
 ![device installation settings windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/device-installation-settings-windows.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Press the**Win** key, and type**device installation settings.**
 2. Next, click on**Change device installation settings** from the search result.
 3. Select the**No (your device might not work as expected)** option in the**Device installation settings** dialog.
@@ -174,18 +151,22 @@ To uninstall an audio device:
 
  With the automatic driver download disabled, reinstall the existing driver to fix the no audio issue.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fixing the "No Speaker or Headphones Are Plugged In" Error
 
  The error often occurs due to a bad driver update. To fix it, you can perform a rollback or manually reinstall the audio device driver. In addition, try to update the audio device driver from the manufacturer's website.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -194,4 +175,24 @@ To uninstall an audio device:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-smartphone-tools-for-crafting-your-ideal-vocal-sound/"><u>[New] Smartphone Tools for Crafting Your Ideal Vocal Sound</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-google-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Google .</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-nubia-red-magic-9-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Nubia Red Magic 9 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-sunset-mastering-the-art-of-permanent-deletion-on-facebook/"><u>Digital Sunset: Mastering the Art of Permanent Deletion on Facebook</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-the-significance-of-versions-in-windows-updates/"><u>Exploring the Significance of Versions in Windows Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/flipping-the-script-revisiting-timeless-pc-games/"><u>Flipping the Script: Revisiting Timeless PC Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-rectify-file-history-fault-in-windows/"><u>Guide to Rectify “File History Fault” In Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-remedy-mbs-service-disconnection-issue-on-windows-11/"><u>How to Remedy MB's Service Disconnection Issue on Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pro-level-insights-enhancing-your-interview-recordings-on-ios-devices/"><u>In 2024, Pro-Level Insights Enhancing Your Interview Recordings on iOS Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mastering-instagram-fcpxs-guide-to-vertical-video-editing/"><u>Mastering Instagram FCPX's Guide to Vertical Video Editing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-hurdles-how-to-get-davinci-resolve-working-again-on-your-pc-with-windows/"><u>Overcoming Hurdles: How to Get DaVinci Resolve Working Again on Your PC with Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-razer-devices-not-detected-by-synapse-on-windows/"><u>Steps to Resolve Razer Devices Not Detected by Synapse on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-fix-unresponsive-usb-cases-win-xpvista7810/"><u>Strategies to Fix Unresponsive USB Cases: Win XP/Vista/7/8/10</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-embellishing-system-tray-with-a-favorite-weather-symbol-in-windows-11/"><u>The Ultimate Guide to Embellishing System Tray With a Favorite Weather Symbol in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-windows-11-explorer-guide-pinpointing-your-machines-mac/"><u>The Windows 11 Explorer Guide: Pinpointing Your Machine's MAC</u></a></li>
+<li><a href="https://discover-able.techidaily.com/troubleshooting-tips-for-hassle-free-video-posting-on-imgur/"><u>Troubleshooting Tips for Hassle-Free Video Posting on Imgur</u></a></li>
+</ul></div>
 

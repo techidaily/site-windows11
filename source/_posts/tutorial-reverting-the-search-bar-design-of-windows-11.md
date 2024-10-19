@@ -1,7 +1,7 @@
 ---
 title: "Tutorial: Reverting the Search Bar Design of Windows 11"
-date: 2024-09-05T02:08:59.278Z
-updated: 2024-09-06T02:08:59.278Z
+date: 2024-10-13T19:08:30.819Z
+updated: 2024-10-18T16:17:16.802Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
 
 ![screenshot of ViVeTool in system 32](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/screenshot_of_vivetool_in_system_32.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ViVeTool is what we'll be using to change this feature back, and it can be found on the[GitHub page for ViVeTool](https://github.com/thebookisclosed/ViVe/releases/tag/v0.3.2) . In order to properly use this program, it needs to be extracted into the right location: System32.
 
  Make sure you read up on[System32 and how important it is for your system before you proceed](https://www.makeuseof.com/tag/windows-system32/) . ViVeTool is a safe program, but it's good to know what you're doing before you jump in.
@@ -41,27 +48,23 @@ thumbnail: https://thmb.techidaily.com/e35b3a5c1a462189bf0e7eb85d4007a41df15f6c2
  When you're ready, extract the downloaded ZIP for ViVeTool into your System32 folder.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Restore the Windows 11 Search Bar Icon
 
 ![screenshot of the quick command menu opening windows terminal in admin mode](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/screenshot_of_quick_command_windows_terminal_admin.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Begin by launching an admin-level terminal window. To do this, right-click on the start menu icon, and hit**Windows Terminal - Admin** . Make sure you click**Yes** to the User Account Control window.
 
 Next, input the following code into the terminal window:
@@ -73,25 +76,23 @@ Next, input the following code into the terminal window:
  Then, all you have to do is restart. Your search icon should return to its original style.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Features Change, Even if You Don’t Want Them To
 
  At the end of the day, this might very well be a temporary fix. Microsoft could include a toggle in the future, or add in further changes that break the functionality of this tool.
 
  While that might be annoying, as long as there are people using Windows, there will be people making modifications such as ViVeTool to give control back to the user.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -100,4 +101,26 @@ Next, input the following code into the terminal window:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-optimizing-audio-and-visuals-in-mobile-broadcasting-via-obs/"><u>[New] In 2024, Optimizing Audio & Visuals in Mobile Broadcasting via OBS</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-how-to-optimizing-vlc-for-mac-performance/"><u>[Updated] How-To Optimizing VLC for Mac Performance</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-prime-choices-the-premier-portable-devices-for-editors/"><u>[Updated] Prime Choices The Premier Portable Devices for Editors</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-unlock-video-clarity-adding-captions-on-youtube/"><u>2024 Approved Unlock Video Clarity Adding Captions on YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/drive-dynamics-streamlining-storage-space-in-win11/"><u>Drive Dynamics: Streamlining Storage Space in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-command-line-master-20-key-cmd-commands/"><u>Efficient Command Line: Master 20 Key CMD Commands</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-internet-safety-in-windows-11-trusted-site-listing/"><u>Elevate Internet Safety in Windows 11: Trusted Site Listing</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-usability-and-style-for-windows-1011-in-8-ways/"><u>Elevate Usability and Style for Windows 10/11 in 8 Ways</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-we-encountered-an-error-oculus-w11w10-guide/"><u>Eliminating We Encountered an Error: Oculus W11/W10 Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/embarking-on-a-journey-with-ai-copilot-in-windows-11/"><u>Embarking on a Journey with AI Copilot in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/empowering-windows-11-android-phone-webcam-utilization/"><u>Empowering Windows 11: Android Phone Webcam Utilization</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-qbittorrent-performance-after-a-halt/"><u>Enhancing qBittorrent Performance After a Halt</u></a></li>
+<li><a href="https://windows11.techidaily.com/enriching-folder-management-custom-move-and-copy-commands-in-windows/"><u>Enriching Folder Management: Custom Move and Copy Commands in Windows</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/expert-techniques-for-downloading-vimeo-clips-mp4-for-2024/"><u>Expert Techniques for Downloading Vimeo Clips (MP4) for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-vivo-s17-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Vivo S17 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-14-proipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 14 Pro/iPad Without Computer</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/introducing-the-revolutionary-apple-airpods-pro-now-with-enhanced-tracking-and-usb-c-charging-features-detailed-review-by-zdnet/"><u>Introducing the Revolutionary Apple AirPods Pro: Now with Enhanced Tracking & USB-C Charging Features - Detailed Review by ZDNet</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/passaggio-a-una-nuova-memoria-hddssd-per-lalienware-della-dell-garantendo-la-protezione-dei-tuoi-file-importanti/"><u>Passaggio a Una Nuova Memoria HDD/SSD per L'Alienware Della Dell, Garantendo La Protezione Dei Tuoi File Importanti!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-surge-of-cloud-technology-understanding-the-impetus-for-growth-in-todays-shifting-landscape/"><u>The Surge of Cloud Technology: Understanding the Impetus for Growth in Today's Shifting Landscape</u></a></li>
+</ul></div>
 

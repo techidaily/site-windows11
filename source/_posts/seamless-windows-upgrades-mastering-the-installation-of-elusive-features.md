@@ -1,7 +1,7 @@
 ---
 title: "Seamless Windows Upgrades: Mastering the Installation of Elusive Features"
-date: 2024-10-07T22:40:54.939Z
-updated: 2024-10-12T22:05:50.947Z
+date: 2024-10-12T01:52:35.860Z
+updated: 2024-10-18T18:32:03.609Z
 tags:
   - windows10
   - windows11
@@ -83,13 +83,20 @@ net start msiserver`
 
 ![Update Components Reset In CMD Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/update-components-reset-in-cmd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While the commands may look intimidating, you don't need to worry, as all the commands mentioned above will not cause any harm to your system.​​​​
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Run the Windows Update Troubleshooter
@@ -103,25 +110,25 @@ Follow these steps to run the update troubleshooter on Windows:
 ![Troubleshooter Settings In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/troubleshooter-settings-in-windows.jpg)
 3. Click**Run** next to**Windows Update** to run the troubleshooter.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Other Troubleshooters In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-in-windows.jpg)
 4. Follow the prompts to complete the troubleshooting process.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you're using Windows 10, the Windows Update Troubleshooter is in**Settings > Update & Security >** **Troubleshoot > Windows Update** .
 
  The troubleshooter will begin scanning your system for any issues with the update process and will offer suggestions for how to fix them. So, you just need to follow the prompts, and then try[installing the optional features](https://www.makeuseof.com/how-to-add-remove-optional-features-windows-11/) again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Update Windows to the Latest Version
@@ -135,13 +142,6 @@ Here's how you can update Windows to the latest version:
 1. Press**Win + I** to open the Settings app.
 2. Click on**Windows** **Update > Check for updates** on Windows 11\. For Windows 10, click on **Update & Security > Windows Update > Check for Updates** .  
 ![Windows Update In Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-update-in-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That's it. Now, you can install any update that is available for your computer.
 
@@ -176,17 +176,17 @@ Get-WindowsOptionalFeature -Online
 ![Get Optional Feature Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/get-optional-feature-command.jpg)  
  This command will show you the**FeatureName** and**State** of every optional Windows feature that you can use. Make sure to copy the "**FeatureName** " of the feature that you want to enable on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. To turn on a certain feature, use the following command and replace "**FEATURENAME** " with the feature's name that you copied earlier:  
 Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME  
 ![Enable Optional Feature Command In PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/optional-feature-in-powershell.jpg)
 5. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This will add the feature back to your system and should make it available for you to enable or disable in the features window.
 
@@ -213,24 +213,14 @@ Enable-WindowsOptionalFeature -Online -FeatureName FEATURENAME
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-elevating-snaps-to-animation-the-cartoonists-playbook/"><u>[New] 2024 Approved Elevating Snaps to Animation The Cartoonist’s Playbook</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-5-pioneering-portals-to-streamline-your-text-effects-search/"><u>[New] 5 Pioneering Portals to Streamline Your Text Effects Search</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-outstanding-20-anime-opening-melodies/"><u>[New] Outstanding 20 Anime Opening Melodies</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-strategies-for-time-loop-visual-tricks/"><u>[Updated] 2024 Approved Strategies for Time-Loop Visual Tricks</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-instagram-desktop-tips-for-effortless-video-posts-for-2024/"><u>[Updated] Instagram Desktop Tips for Effortless Video Posts for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/breaking-down-sticky-note-opening-on-windows-11/"><u>Breaking Down Sticky Note Opening on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/crystal-clear-in-minutes-mastering-fuzzy-window-fixes/"><u>Crystal Clear in Minutes: Mastering Fuzzy Window Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-windows-11-ease-of-use-with-improved-run-feature/"><u>Enhancing Windows 11 Ease of Use with Improved Run Feature</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-command-prompt-tactics-for-registry-optimization/"><u>Expert Command Prompt Tactics for Registry Optimization</u></a></li>
-<li><a href="https://discover-great.techidaily.com/free-online-solution-for-transforming-mp4-videos-into-mp3-audio-step-by-step-tutorial/"><u>Free Online Solution for Transforming MP4 Videos Into MP3 Audio : Step-by-Step Tutorial</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-y78-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Vivo Y78 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-instantly-generate-multiple-directories-in-modern-windows-environments/"><u>How to Instantly Generate Multiple Directories in Modern Windows Environments</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-8-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 8 After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-how-to-change-your-voice-on-instagram/"><u>In 2024, How to Change Your Voice on Instagram?</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-jdk-installation-for-windows-11-users/"><u>Mastering JDK Installation for Windows 11 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolve-cannot-open-error-on-closed-folders-in-microsoft-mail-for-pc/"><u>Resolve Cannot Open Error on Closed Folders in Microsoft Mail for PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-frustration-with-non-responsive-photoshop/"><u>Tackling Frustration with Non-Responsive Photoshop</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-the-angle-game-rotate-images-in-6-steps-w11/"><u>Winning the Angle Game: Rotate Images in 6 Steps W11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-analyzing-social-media-reach-for-igtv-videos/"><u>[New] Analyzing Social Media Reach for IGTV Videos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-high-definition-slow-mo-cams/"><u>[Updated] Ultimate High Definition Slow-Mo Cams</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-screen-stumbles-winning-at-full-screen-in-sonic-frontiers-on-windows-11/"><u>Overcoming Screen Stumbles: Winning at Full-Screen in Sonic Frontiers on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/proven-methods-for-mastering-the-mspcm-toolbar-windows-11-edition/"><u>Proven Methods for Mastering the MSPCM Toolbar, Windows 11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essentials-of-seamless-interoperability-via-nearby-share/"><u>The Essentials of Seamless Interoperability via Nearby Share</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-writers-journey-through-podcast-production/"><u>The Writer's Journey Through Podcast Production</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-restoring-windows-dashboard-functionality/"><u>Tips for Restoring Windows Dashboard Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uninterrupted-music-streams-how-to-keep-spotify-running-when-iphone-is-locked/"><u>Uninterrupted Music Streams: How to Keep Spotify Running when iPhone Is Locked</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-the-full-potential-of-your-samsung-smart-tv-through-remote-control-techniques/"><u>Unlock the Full Potential of Your Samsung Smart TV Through Remote Control Techniques</u></a></li>
 </ul></div>
 

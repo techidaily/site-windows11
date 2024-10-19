@@ -1,7 +1,7 @@
 ---
 title: "Nexus Controller Woes Solved: Steam Detection Guide"
-date: 2024-09-30T22:33:50.054Z
-updated: 2024-10-01T22:51:02.135Z
+date: 2024-10-11T22:55:41.171Z
+updated: 2024-10-18T20:32:45.964Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
  Another thing you can do is test your controller with another PC and see if it works. If it does, it's time for some more complicated fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Make Sure Windows Recognizes Your Controller
 
  Next, you need to ensure that Windows recognizes your controller. This should help rule out any issues caused by improper setup.
@@ -35,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 ![Game Controllers on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/game-controllers-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Exit and Re-Enter Steam’s Big Picture Mode
@@ -46,6 +53,19 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
  Another potential solution to consider is to exit [Steam's Big Picture Mode](https://www.makeuseof.com/what-is-steam-big-picture-mode-explained/) and then re-enter it. If the issue is caused by a temporary glitch, this should do the trick and get Steam to detect your controller on Windows.
 
  Simply press **Alt + Enter** to exit the Big Picture Mode in Steam. Then, click the **Big Picture Mode icon** again and see if that gets the controller to work.
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Enable Controller Configuration Support
 
@@ -58,6 +78,19 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 5. Switch to the **Controller** tab.
 6. Under **External Gamepad Settings**, use the toggles to enable configuration support for the controller you are using.  
 ![Steam Controller Settings Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/steam-controller-settings-menu-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After completing the above steps, unplug your controller and plug it back in to check if Steam recognizes it.
 
@@ -72,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 3. Select the **In Game** tab from the left sidebar.
 4. Turn on the toggle next to the **Enable Steam Overlay while in-game** option.  
 ![Enable Steam Overlay](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-steam-overlay.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart the Steam client after this and check if the issue is still there.
 
@@ -105,23 +131,10 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 ![Steam Input Per-Game Setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/steam-input-per-game-setting.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Update Your Controller Drivers
@@ -136,13 +149,6 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
 ![Check for Steam Updates on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/check-for-steam-updates-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 10\. Opt Out of the Steam Beta
 
  Although participating in Steam’s beta program gives you early access to new and upcoming features, it can also lead to issues. If none of the above solutions prove effective, you can consider leaving Steam’s beta program and switching to the stable version of the app. To do so, use these steps:
@@ -154,10 +160,10 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 ![Opt out of Steam Beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/steam-beta-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart Steam after this, and it should automatically install the necessary updates to switch to the stable version of the app.
@@ -179,20 +185,24 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-enhance-call-clarity-choose-from-the-best-10-free-recorders/"><u>[New] Enhance Call Clarity Choose From the Best 10 Free Recorders</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-az-record-app-deep-dive-and-alternatives-guide/"><u>[New] In 2024, AZ Record App Deep Dive & Alternatives Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-reviving-the-past-essential-vhs-visuals-in-todays-edits/"><u>[Updated] 2024 Approved Reviving the Past Essential VHS Visuals in Today's Edits</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-why-no-sound-the-twitter-video-amplification-guide-for-2024/"><u>[Updated] Why No Sound? The Twitter Video Amplification Guide for 2024</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/comment-obtenir-les-videos-twitter-pour-mobile-et-ordinateur-sans-payer/"><u>Comment Obtenir Les Vidéos Twitter Pour Mobile Et Ordinateur Sans Payer?</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevating-your-typing-speed-top-7-fixes-on-win-os/"><u>Elevating Your Typing Speed: Top 7 Fixes on WIN OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-visual-coherence-integrating-this-pc-icon/"><u>Enhance Visual Coherence: Integrating 'This PC' Icon</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-unlock-6-figure-videos-top-hashtag-trends/"><u>In 2024, Unlock 6-Figure Videos Top Hashtag Trends</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-discover-the-best-video-editing-apps-for-kids-a-comprehensive-list-for-2024/"><u>New Discover the Best Video Editing Apps for Kids A Comprehensive List for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-powershell-access-control-settings/"><u>Optimizing PowerShell Access Control Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-to-solving-disk-errors-uninitialized-scenarios/"><u>Quick Guide to Solving Disk Errors: Uninitialized Scenarios</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-configure-time-zones-on-windows-manually/"><u>Quick Guide: Configure Time Zones on Windows Manually</u></a></li>
-<li><a href="https://windows11.techidaily.com/reversing-camera-apps-loss-of-recorded-images/"><u>Reversing Camera App's Loss of Recorded Images</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-reinstate-normal-startup-procedure-in-outlook/"><u>Steps to Reinstate Normal Startup Procedure in Outlook</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-revolutionize-your-snapchat-experience-a-compendium-of-over-120-innovative-story-titles/"><u>[New] Revolutionize Your Snapchat Experience A Compendium of Over 120 Innovative Story Titles</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-ultimate-playbook-navigating-tools-for-vimeo-content-grabs/"><u>[New] The Ultimate Playbook Navigating Tools for Vimeo Content Grabs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-embarking-on-twitter-steps-for-newbies/"><u>[Updated] Embarking on Twitter Steps for Newbies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-lighten-your-sentence-with-satire-ranking-funniest-facebook-detentions/"><u>[Updated] In 2024, Lighten Your Sentence with Satire Ranking Funniest Facebook Detentions</u></a></li>
+<li><a href="https://windows11.techidaily.com/expeditious-windows-11-app-accessibility/"><u>Expeditious Windows 11 App Accessibility</u></a></li>
+<li><a href="https://windows11.techidaily.com/explore-the-full-potential-of-windows-powertoys-with-these-10-tips/"><u>Explore the Full Potential of Windows PowerToys with These 10 Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enable-controlled-folder-access-in-windows-11-and-11/"><u>How to Enable Controlled Folder Access in Windows 11 & 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/insta-share-tips-for-posting-youtube-videos/"><u>Insta-Share Tips for Posting YouTube Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaiming-your-controllers-functionality-in-windows/"><u>Reclaiming Your Controller’s Functionality in Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-deleted-iphone-8-plus-whatsapp-attachments-on-mac-and-windows-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Deleted iPhone 8 Plus WhatsApp Attachments on Mac and Windows | Stellar</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagining-your-windows-profile-a-new-username-approach/"><u>Reimagining Your Windows Profile: A New UserName Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-file-locks-on-windows-os/"><u>Reversing File Locks on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-global-mouse-navigation-made-simple-with-powertoys/"><u>Seamless Global Mouse Navigation Made Simple with PowerToys</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-vivo-g2-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Vivo G2 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-managing-your-windows-devices-via-printer-settings/"><u>The Ultimate Guide to Managing Your Windows Devices via Printer Settings</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028753315-tiktok/"><u>TikTokの音楽編曲テクニック：シェアしてください！</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/transformation-completement-gratuite-de-videos-wmv-avec-movavi-online-pas-un-centime-supplementaire/"><u>Transformation Complètement Gratuite De Vidéos WMV Avec Movavi Online - Pas Un Centime Supplémentaire</u></a></li>
+<li><a href="https://windows11.techidaily.com/unheard-voices-a-guide-to-fixing-windows-microphone-issues-on-meet/"><u>Unheard Voices: A Guide to Fixing Windows Microphone Issues on Meet</u></a></li>
 </ul></div>
 

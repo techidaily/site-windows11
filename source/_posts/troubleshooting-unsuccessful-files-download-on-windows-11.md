@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Unsuccessful Files Download on Windows 11
-date: 2024-10-06T20:56:27.632Z
-updated: 2024-10-12T23:02:13.269Z
+date: 2024-10-14T22:18:03.356Z
+updated: 2024-10-18T20:58:12.915Z
 tags:
   - windows10
   - windows11
@@ -33,23 +33,9 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 ![The Disk Clean-up window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/disk-clean-up-tool.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Run the SFC and DISM Command-Line Tools
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/sfc-scannow.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Another possibility is that something has gone wrong with Windows' system files. So, try [repairing corrupted Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/), specifically the System File Checker and the Deployment Image Servicing and Management command-line tools.
 
@@ -63,6 +49,20 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 ![The Downloads location setting in Chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/download-location-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Change the Current Location in the Website Data Settings
 
  This downloading issue can occur because the current location in Internet Properties isn’t set to a local C: drive. You can check and change that current location within Internet Properties as follows:
@@ -75,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 5. If the current location is not set to your local C: drive, click on the **Move folder** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Website Data Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/current-location.jpg)
@@ -89,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
  We also recommend checking some security settings in Internet Properties. Click **Custom level** on the **Security** tab. Make sure the **File download** and **Font download** options are enabled there. If they’re not, select the **Enable** radio buttons for those settings and click **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Run an Antivirus Scan
@@ -104,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 ![The Scan options navigation option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/scan-options.jpg)
 3. Select **Full scan** for the most thorough antivirus scanning.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click **Scan now** to start the scanning.  
 ![full-scan-options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/full-scan-options.jpg)
 5. Select **Start actions** to eradicate detected malware.
@@ -121,27 +114,20 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 ![Disable Avast antivirus temporarily](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-avast.jpg)
 
- If this works, you can’t risk leaving antivirus protection off for too long. Consider uninstalling your antivirus utility and re-enabling real-time protection in the pre-installed Windows Security app. Or look for some settings in your security software to reduce the level of its antivirus protection.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If this works, you can’t risk leaving antivirus protection off for too long. Consider uninstalling your antivirus utility and re-enabling real-time protection in the pre-installed Windows Security app. Or look for some settings in your security software to reduce the level of its antivirus protection.
 
 ## 7\. Temporarily Turn Off the Windows Firewall Utility
 
  Windows Defender Firewall is a security utility that monitors inbound and outbound network traffic on your PC. This tool can affect file downloads when set to block connections. So, try [turning off Windows Defender Firewall](https://www.makeuseof.com/windows-11-disable-microsoft-defender-firewall/) to see if that makes a difference.
 
 ![The Turn off Windows Defender Firewall (not recommended) radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/windows-firewall-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If disabling Windows Defender Firewall works, it’s not a good idea to leave it off. Resetting that firewall to its default configuration will likely disable the rules causing the issue. To do that, click the **Restore defaults** in the Windows Defender Firewall Control Panel applet. Then click the **Restore defaults** button.
 
@@ -158,6 +144,13 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 ![The Reset settings tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-settings-tab.jpg)
 3. Press the **Restore settings** button.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click **Reset** inside the confirmation prompt.
 
 ## 9\. Factory Reset Window
@@ -167,6 +160,13 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
  However, the "Reset this PC" tool does have an option for keeping user files. So, there’s no need to back up your user files before a reset. Follow the instructions in this [how to factory reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) article to apply this potential fix with the Reset this PC utility.
 
 ![The Reset this PC window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/reset-this-pc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Download Files Again on Your Windows PC
 
@@ -186,24 +186,22 @@ thumbnail: https://thmb.techidaily.com/795e21b2952dac96e4f9316f33c867f4d5e9a26e7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-battlefield-brethren-compiling-the-ultimate-7-fps-collection/"><u>[New] 2024 Approved Battlefield Brethren Compiling the Ultimate 7 FPS Collection</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-revenue-revolution-how-carminatis-youtube-income-model-works/"><u>[New] In 2024, Revenue Revolution How Carminati's YouTube Income Model Works</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-masterful-tantalizing-titles-designer/"><u>[Updated] Masterful Tantalizing Titles Designer</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-high-speed-video-transitions-with-ease/"><u>[Updated] Navigating High-Speed Video Transitions with Ease</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-strategies-to-enhance-testimonial-credibility-and-impact/"><u>2024 Approved Strategies to Enhance Testimonial Credibility and Impact</u></a></li>
-<li><a href="https://windows11.techidaily.com/bring-forth-the-forgotten-floppy-drive-sdds-in-winos/"><u>Bring Forth the Forgotten Floppy Drive, SDDs in WinOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/como-convertir-archivo-mov-a-formato-de-linea-libre-usando-herramienta-online-sin-coste-movavi-explicado-paso-a-paso/"><u>Cómo Convertir Archivo MOV a Formato De Línea Libre Usando Herramienta Online Sin Coste - MOVavi Explicado Paso a Paso</u></a></li>
-<li><a href="https://windows11.techidaily.com/disabling-windows-watcher-functionality/"><u>Disabling Windows Watcher Functionality</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-pdf-v16-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Free electronic signature for PDF v1.6 document</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Oppo A79 5G? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/lock-it-down-steps-to-activate-windows-controlled-access/"><u>Lock It Down: Steps to Activate Window’s Controlled Access</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-error-0x80300024-in-windows-xp/"><u>Overcoming Error 0X80300024 in Windows XP</u></a></li>
-<li><a href="https://windows11.techidaily.com/pro-level-text-workflow-unleash-the-power-of-snipping-tool-on-win-11/"><u>Pro-Level Text Workflow: Unleash the Power of Snipping Tool on Win 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/quick-steps-to-become-a-9gag-meme-genius-for-2024/"><u>Quick Steps to Become a 9GAG Meme Genius for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/reshaping-administration-workflow-in-the-windows-ecosystem/"><u>Reshaping Administration Workflow in the Windows Ecosystem</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-windows-update-issues-0xca00a009/"><u>Streamlining Windows Update Issues: 0XCA00A009</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/switching-from-http-to-https-a-step-by-step-guide-with-nginx/"><u>Switching From HTTP to HTTPS: A Step-by-Step Guide with Nginx</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-the-net-requirement-issue-in-windows-apps/"><u>Tackling the .NET Requirement Issue in Windows Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-hidden-language-of-windows-update-identifiers/"><u>The Hidden Language of Windows Update Identifiers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-elevating-video-experience-best-youtube-to-avi-companions/"><u>[New] 2024 Approved Elevating Video Experience Best YouTube-to-AVI Companions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-ghoul-gags-generator/"><u>[Updated] 2024 Approved Ghoul Gags Generator</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-how-to-force-youtube-cc-to-stay-on-and-get-more-views/"><u>[Updated] 2024 Approved How to Force YouTube CC to Stay On and Get More Views</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-to-the-best-17-image-editing-utilities-for-2024/"><u>Guide to the Best 17 Image Editing Utilities for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/guiding-users-through-privilege-related-setup-hiccups/"><u>Guiding Users Through Privilege-Related Setup Hiccups</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/immediate-ban-understanding-italys-sudden-crackdown-on-chatgpt/"><u>Immediate Ban: Understanding Italy's Sudden Crackdown on ChatGPT</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-zooid-conceptual-models/"><u>Innovative Zooid Conceptual Models</u></a></li>
+<li><a href="https://extra-support.techidaily.com/picsart-guide-adding-motion-blur-to-facial-shots-for-dynamic-images-for-2024/"><u>Picsart Guide Adding Motion Blur to Facial Shots for Dynamic Images for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/razer-synapse-issues-step-by-step-troubleshooting-for-w11w10/"><u>Razer Synapse Issues: Step-by-Step Troubleshooting for W11/W10</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-printer-service-offline-errors/"><u>Resolving Windows Printer Service Offline Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-background-load-a-windows-guide/"><u>Taming the Background Load: A Windows Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-effective-toolbar-navigation-with-mspcm-on-w11/"><u>The Art of Effective Toolbar Navigation with MSPCM on W11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-artisans-path-to-enchanting-collage-compositions-for-2024/"><u>The Artisan's Path to Enchanting Collage Compositions for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-unresponsive-inputs-in-win11s-sleep-mode/"><u>Troubleshooting Unresponsive Inputs in Win11's Sleep Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/w11-pros-best-offers-save-and-elevate-your-spend/"><u>W11 Pro's Best Offers: Save & Elevate Your Spend</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11s-ingenious-techniques-for-gathering-info/"><u>Win11's Ingenious Techniques for Gathering Info</u></a></li>
 </ul></div>
 

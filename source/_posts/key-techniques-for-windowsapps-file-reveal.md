@@ -1,7 +1,7 @@
 ---
 title: Key Techniques for WindowsApps File Reveal
-date: 2024-10-09T19:55:36.993Z
-updated: 2024-10-12T22:54:58.355Z
+date: 2024-10-12T23:58:42.001Z
+updated: 2024-10-19T02:07:49.607Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
  There are many ways to access the WindowsApps folder and bypass the protection to gain access to the necessary files.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 1\. How to Access WindowsApps via File Explorer
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 2. Now, click the **View** options button at the top of the File Explorer.
 3. Click or hover over the **Show** button and select the **Hidden items** option to enable it.  
 ![File Explorer View Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/file-explorer-view-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  That's it. Now, you can see theWindowsApps folder in the same directory.
 
@@ -77,43 +84,44 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 
 ![WindowsApps Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Security-Properties.jpg)
 4. Once you've opened the Advanced Security Settings window, click the **Change** text next to Owner.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Now, click **Advanced > Find Now > Administrator on the following screen**.  
 ![Advanced Security Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-security-properties.jpg)
 6. Finally, click **OK** to select the Administrator as the owner and again **OK** to save the changes.  
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![User Group Selection Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/User-Group-Selection-Window.jpg)
 7. Then, tick the checkbox before the **Replace owner on sub containers and objects** text.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Now, click the **Apply** button, followed by the **OK** button, to initiate the process of transferring ownership.  
 ![WindowsApps Advanced Security Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/WindowsApps-Advanced-Security-Settings.jpg)
 9. Once done, click the **OK** button on the next pop-up.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you followed the steps above to take ownership of the WindowsApps folder, you can now move or delete files from that folder.
 
  When you don't pause automatic software installations from the Microsoft store, the WindowsApps folder occupies a considerable bit of disc space. So, it becomes essential for you to access this folder once and check for the files that you no longer need.
 
  Moreover, you can also check out some [free tools for taking control of files and folders](https://www.makeuseof.com/take-ownership-of-windows-files-and-folders-with-these-tools/) on Windows. Such tools allow you to take full ownership of all your files and folders with a single click.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2\. How to Access WindowsApps via a PowerShell Command
 
@@ -139,6 +147,13 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 
  If you're facing crashes while executing the file, make sure to check out some [effective ways to fix PowerShell crash errors](http://www.makeuseof.com/windows-powershell-has-stopped-working-error-fix/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. How to Access WindowsApps via a Registry Hack
 
  There's another quick way to do the same thing with just a few steps. If you cannot use the PowerShell method stated above, you can use a simple registry hack to access the files in one go.
@@ -150,25 +165,11 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 ![Take Ownership Registry File In Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Take-Ownership-Registry-File.jpg)
 3. On the next screen, click **Yes** to add it to the registry.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Next, exit the popup by clicking **OK** and navigate to the **C:\\Program Files** directory.
 5. Select the **WindowsApps** folder and right-click on it.
 6. From the context menu, click the **Take Ownership** option.  
 ![Take Ownership Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Take-Ownership-Context-Menu.jpg)
 7. In the Command Prompt, you must [give User Account Control Administrator rights](https://www.makeuseof.com/tag/user-account-control-windows-10/) for the registry hack to work. After that, please wait a few minutes for the window to close. Soon, it will display success messages constantly in the Command Prompt.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once finished, you'll no longer face the "You've been denied permission" error on clicking the WindowsApps folder.
 
@@ -192,24 +193,18 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-kinemaster-rises-a-comprehensive-android-game-guide-2023-for-2024/"><u>[New] KineMaster Rises A Comprehensive Android Game Guide 2023 for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-rejuvenate-your-pictures-the-most-powerful-10-online-edits/"><u>[Updated] In 2024, Rejuvenate Your Pictures The Most Powerful 10 Online Edits</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-luxury-levels-screen-brightness-on-android/"><u>[Updated] Luxury Levels Screen Brightness on Android</u></a></li>
-<li><a href="https://windows11.techidaily.com/10-ways-to-fix-onedrive-sync-issues-on-windows-11/"><u>10 Ways to Fix OneDrive Sync Issues on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/activating-automatic-color-tuning-on-win11-devices/"><u>Activating Automatic Color Tuning on Win11 Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/advanced-system-maintenance-locating-and-resolving-win-os-error-codes-via-command-prompt-expertise/"><u>Advanced System Maintenance: Locating and Resolving Win-OS Error Codes via Command Prompt Expertise</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-missed-emojis-activating-the-latest-on-windows-11/"><u>Avoiding Missed Emojis: Activating the Latest on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-performance-pitfalls-high-cpu-usage-with-rm/"><u>Avoiding Performance Pitfalls: High CPU Usage with RM</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-educational-apps-for-students-in-high-school-the-ultimate-list/"><u>Best Educational Apps for Students in High School - The Ultimate List!</u></a></li>
-<li><a href="https://windows11.techidaily.com/command-your-way-through-windows-11-nircmd-tips-and-tricks/"><u>Command Your Way Through Windows 11: NirCmd Tips & Tricks</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquering-frequent-anydesk-windows-complications/"><u>Conquering Frequent AnyDesk Windows Complications</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-and-rectifying-non-functional-batches-in-windows/"><u>Deciphering and Rectifying Non-Functional Batches in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/disentangling-common-errors-in-windows-11-zoom-app/"><u>Disentangling Common Errors in Windows 11 Zoom App</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-seamless-guide-integrating-instagram-with-tiktok/"><u>In 2024, Seamless Guide Integrating Instagram with TikTok</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-tagging-techniques-to-skyrocket-your-game-vids/"><u>In 2024, Tagging Techniques to Skyrocket Your Game Vids</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/mini-marvels-ultimate-game-hunt-for-2024/"><u>Mini Marvels' Ultimate Game Hunt for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protecting-personal-videos-on-youtube-a-step-by-step-guide-to-making-them-private/"><u>Protecting Personal Videos on YouTube: A Step-by-Step Guide to Making Them Private</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamline-ai-tasks-beginning-with-auto-gpt/"><u>Streamline AI Tasks: Beginning with Auto-GPT</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-essential-companion-to-mastering-powerdirector-app-2024/"><u>The Essential Companion to Mastering PowerDirector App 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-teleport-into-virtuality-top-10-mobile-vr-headsets-reviewed/"><u>[New] Teleport Into Virtuality Top 10 Mobile VR Headsets Reviewed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-efficiency-in-conversion-a-compact-list-of-the-top-10-video-transformers-for-2024/"><u>[Updated] Efficiency in Conversion A Compact List of the Top 10 Video Transformers for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-deciphering-trillers-unique-positioning-amidst-social-media-titles/"><u>[Updated] In 2024, Deciphering Triller's Unique Positioning Amidst Social Media Titles</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/discover-the-top-10-igtv-editing-app-wonders/"><u>Discover the Top 10 IGTV Editing App Wonders</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-sign-off-strangers-on-windows-11/"><u>Guide to Sign Off Strangers on Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/harmonize-visual-and-auditory-elements-adding-filters-and-sound-to-windows-photos-app/"><u>Harmonize Visual & Auditory Elements Adding Filters & Sound to Windows Photos App</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-windows-11-update-error-code-0x80240034/"><u>How To Fix The Windows 11 Update Error Code: 0X80240034</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-xiaomi-redmi-note-12-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Xiaomi Redmi Note 12 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/including-d-drive-paths-in-file-explorer-list/"><u>Including D: Drive Paths in File Explorer List</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-update-issue-windows-11-error-code-0x800f0922/"><u>Overcome Update Issue: Windows 11 Error Code 0X800F0922</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/step-by-step-fix-resolve-windows-11-sounds-and-speaker-issues-effortlessly/"><u>Step-by-Step Fix: Resolve Windows 11 Sounds and Speaker Issues Effortlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-securing-computer-against-unauthorized-usb-clip-attacks/"><u>Steps for Securing Computer Against Unauthorized USB Clip Attacks</u></a></li>
+<li><a href="https://windows11.techidaily.com/unjamming-windows-tackling-access-issues-head-on/"><u>Unjamming Windows: Tackling Access Issues Head-On</u></a></li>
 </ul></div>
 

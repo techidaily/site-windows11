@@ -1,7 +1,7 @@
 ---
 title: "Restoring Full Operations: Win10/11 & CCleaner Interaction"
-date: 2024-09-29T23:20:03.653Z
-updated: 2024-10-01T21:51:17.204Z
+date: 2024-10-11T22:27:14.451Z
+updated: 2024-10-18T20:00:50.730Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
  If you can launch CCleaner from the installation directory, there must be an issue with the shortcut for opening that software. In this case, set up a new Windows desktop shortcut by right-clicking the CCleaner EXE file and selecting **Send to (Desktop)**. Then try opening the software with the new CCleaner shortcut.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Run CCleaner With Administrator Rights
 
  It’s not usually an essential requirement to run CCleaner with admin rights for that software to work. However, sometimes CCleaner can fail to start because of permissions issues that running it as an administrator might address. You can quickly see if this potential resolution works by right-clicking CCleaner’s shortcut or the EXE file in the installation directory and selecting **Run as administrator**.
@@ -35,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
  If that works, set CCleaner to always run with elevated privileges. Then you won’t need to manually select to run CCleaner with admin rights every time you need to open it. This guide about [how to always run apps as an administrator](https://www.makeuseof.com/tag/always-run-apps-administrator-windows/) includes instructions for permanently setting programs to start with elevated privileges.
 
 ![The RUn this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/run-this-program-as-adminstrator-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Delete the CCleanerx64 Registry Key
 
@@ -53,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options`  
 ![The Image File Execution Options registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-image-file-executions-key.jpg)
 4. Right-click on the **CCleaner64.exe** key and select **Delete**.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![The Delete context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/delete-ccleaner.jpg)
 5. Select **Yes** on the Confirm Key Delete window prompt.
@@ -74,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 ![The Add an exclusion button in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/add-an-exclusion-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Disable Your Active Firewalls
@@ -88,7 +81,21 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 ![The Turn off Windows Defender Firewall options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/turn-off-windows-defender-firewall3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run CCleaner after turning off the firewall on your PC. The firewall was most likely causing the issue if the CCleaner software works when it's disabled. Add CCleaner to your firewall’s allowed app list to utilize that software with the firewall enabled. Our article about [allowing apps through the Windows firewall](https://www.makeuseof.com/how-to-allow-apps-windows-firewall/) tells you how to add programs to Microsoft Defender Firewall’s allowed list.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Run CCleaner After Clean-Booting Windows
 
@@ -98,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/services-tab4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  What you do then is up to you. You can leave the boot setup as set or try to find out what was conflicting with the CCleaner software. To find what’s causing the issue, re-enable disabled startup items in a one-at-a-time fashion before every reboot until CCleaner stops working again. Then either permanently disable or uninstall the conflicting service or app.
 
 ## 7\. Reinstall CCleaner
@@ -113,22 +113,16 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 ![The Uninstall option for CCleaner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/programs-and-features-applet.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can reinstall a CCleaner UWP or desktop app. To get the desktop app, click **Free Download** on this [CCleaner page](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029956/https://www.ccleaner.com/ccleaner/download?ppc%5Fcode=012&ppc=a&gclsrc=aw.ds&gclid=CjwKCAjwu4WoBhBkEiwAojNdXkgjDRZcy77PTMyhMnePxm%5FBXllDabqSn%5FMd9yAkWVbfhL5dYhBFjBoCYbYQAvD%5FBwE). Double-click the **ccsetup615.exe** file in the folder it downloads to view the setup window. Then you can click **Install** within the setup wizard to reinstall CCleaner.
 
  If you want to try the UWP app instead, open the [CCleaner Microsoft Store page](https://apps.microsoft.com/store/detail/ccleaner/XPFCWP0SQWXM3V), click on the **Get in Store app**, and **Open Microsoft Store** options to access an installation option for CCleaner. Press the **Install** button for the app.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Clean Up Your PC With CCleaner Again
 
@@ -145,20 +139,18 @@ thumbnail: https://thmb.techidaily.com/a41e0de2cfc698ca3c0940c0c485fd915185405a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-average-incomes-in-the-podcasting-industry/"><u>[New] Navigating Average Incomes in the Podcasting Industry</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-premium-eco-conscious-video-recorders-how-to-use/"><u>2024 Approved Premium Eco-Conscious Video Recorders How to Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-systematic-approach-to-undoing-windows-programs-changes/"><u>A Systematic Approach to Undoing Windows Programs Changes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/banish-kurtzpel-downfall-errors-once-and-for-all-effective-troubleshooting-steps-unveiled/"><u>Banish KurtzPel Downfall Errors Once and For All - Effective Troubleshooting Steps Unveiled</u></a></li>
-<li><a href="https://windows11.techidaily.com/configuring-optimal-window-size-on-windows-11/"><u>Configuring Optimal Window Size on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/guidelines-to-address-missing-windows-1011-search-data/"><u>Guidelines to Address Missing Windows 10/11 Search Data</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-5g-phone-without-pin-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12 5G Phone without PIN</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-alternatives-of-pinnacle-studio-on-mac/"><u>In 2024, Best Alternatives of Pinnacle Studio on Mac</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-ultimate-guide-to-banner-and-art-design-for-your-youtube-channel/"><u>In 2024, The Ultimate Guide to Banner & Art Design for Your YouTube Channel</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-high-quality-msi-sound-card-drivers-on-windows-devices/"><u>Install High-Quality MSI Sound Card Drivers on Windows Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-snipeater-glitches-fix-strategies-here/"><u>Navigating SnipEater Glitches: Fix Strategies Here</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-11-for-spatial-aural-enhancement/"><u>Navigating Windows 11 for Spatial Aural Enhancement</u></a></li>
-<li><a href="https://windows11.techidaily.com/reversing-error-0x800704cf-in-winstore/"><u>Reversing Error 0X800704CF in WinStore</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/unveiling-the-process-of-obs-installation-on-apple-devices/"><u>Unveiling the Process of OBS Installation on Apple Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/what-makes-users-grumble-in-windows-11/"><u>What Makes Users Grumble in Windows 11?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-best-microphone-for-youtubers/"><u>[New] 2024 Approved Best Microphone for YouTubers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-audiovisual-anthems-blending-music-into-instagram-videos/"><u>[Updated] Audiovisual Anthems Blending Music Into Instagram Videos</u></a></li>
+<li><a href="https://tools.techidaily.com/albusbit/products/"><u>Albusbit's Products</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-sync-your-android-phone-with-a-windows-pc/"><u>How to Sync Your Android Phone With a Windows PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-top-5-elite-slow-camera-systems/"><u>In 2024, Unveiling the Top 5 Elite Slow Camera Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/link-marvell-acwire-to-surface-slate-os/"><u>Link Marvell ACWIRE to Surface Slate OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-virtual-disk-service-failures-in-windows/"><u>Navigating Through Virtual Disk Service Failures in Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-for-the-ssleay32dll-file-couldnt-be-loaded-troubleshooting-steps/"><u>Solutions for the 'Ssleay32.dll' File Couldn't Be Loaded - Troubleshooting Steps</u></a></li>
+<li><a href="https://extra-information.techidaily.com/step-by-step-guide-to-infectious-internet-memes-gifs/"><u>Step-by-Step Guide to Infectious Internet Memes (GIFs)</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-windows-error-1132-in-zoom/"><u>Steps to Resolve Windows' Error 1132 in Zoom</u></a></li>
+<li><a href="https://windows11.techidaily.com/take-your-vms-speed-to-new-heights-six-techniques-for-windows/"><u>Take Your VM's Speed to New Heights - Six Techniques for Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-definitive-guide-to-nddrive-in-windows-11/"><u>The Definitive Guide to NDDrive in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-windows-key-filter-settings/"><u>The Ultimate Guide to Windows Key Filter Settings</u></a></li>
 </ul></div>
 

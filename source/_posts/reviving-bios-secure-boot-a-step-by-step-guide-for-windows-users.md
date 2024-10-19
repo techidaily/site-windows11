@@ -1,7 +1,7 @@
 ---
 title: "Reviving BIOS Secure Boot: A Step-by-Step Guide for Windows Users"
-date: 2024-10-12T01:59:40.058Z
-updated: 2024-10-12T16:56:59.433Z
+date: 2024-10-16T18:22:12.202Z
+updated: 2024-10-19T02:35:53.041Z
 tags:
   - windows10
   - windows11
@@ -64,6 +64,13 @@ To disable fast boot in BIOS:
 6. Press**F10** to save the changes and exit.
 7. After the computer restarts, boot into BIOS to see if you can access Secure Boot.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Restore the BIOS Security Settings to Factory Defaults
 
  You can restore BIOS security settings to factory defaults to enable secure boot. If you have made major changes to the BIOS security settings, a reset will remove the custom configuration and restore the factory default security settings. Most BIOS utilities allow you to perform a restore in the BIOS Security tab.
@@ -80,14 +87,14 @@ To restore BIOS Security settings to factory defaults:
 ![restore bios factory settings default pass code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restore-bios-factory-settings-default-pass-code.jpg)
 6. Press**F10** to save the changes and exit**BIOS** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Boot into BIOS again and check if the greyed-out secure boot problem is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Update BIOS
 
@@ -108,10 +115,16 @@ To restore BIOS Security settings to factory defaults:
 ![HP download bios firmware update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hp-download-bios-firmware-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Alternatively, you can also manually install BIOS from within Windows. For example, on an HP computer, go to the[HP Drivers page](https://support.hp.com/drivers) . Select your device manually or let the website detect the device for you.
@@ -120,16 +133,16 @@ To restore BIOS Security settings to factory defaults:
 
  To update BIOS, run the firmware file and follow the on-screen instructions. Your computer will restart into the BIOS Update utility. Select**Apply Update Now** and wait for the update to finish installing. Once done, boot into BIOS and check if the Secure Boot option is available. Make sure to enable your antivirus and BitLocker protection again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Load the BIOS Defaults Settings
 
 ![load BIOS default settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/load-bios-default-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can restore your BIOS to its factory default settings to fix issues occurring due to corrupt BIOS configuration. While loading the default settings will not affect your data, we recommend you back up any and all the important data on your computer before proceeding with a BIOS reset.
 
@@ -140,13 +153,6 @@ To load BIOS defaults settings:
 3. Select**Yes** and press**Enter** . This will load setup default values for all SETUP items.
 4. Select**Save Changes** and**Exit** .
 5. Boot into**BIOS** again and check if the secure boot option is restored.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing the Grayed Out Secure Boot Option in BIOS
 
@@ -167,20 +173,22 @@ To load BIOS defaults settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-best-of-mobile-8-ranked-free-and-premium-apps-for-androids-video-tiles/"><u>[New] Best of Mobile #8 Ranked Free & Premium Apps for Android's Video Tiles</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/he-ultimate-blueprint-for-your-mobile-youtube-businesspersonal-platform-for-2024/"><u>[New] The Ultimate Blueprint for Your Mobile YouTube Business/Personal Platform for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/alleviating-overuse-of-wmi-in-windows-installer/"><u>Alleviating Overuse of WMI in Windows Installer</u></a></li>
-<li><a href="https://windows11.techidaily.com/best-approaches-to-regulate-device-connections-in-windows/"><u>Best Approaches to Regulate Device Connections in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/camouflage-computing-integrating-archives-into-digital-image-win/"><u>Camouflage Computing: Integrating Archives Into Digital Image WIN</u></a></li>
-<li><a href="https://windows11.techidaily.com/diagnosing-absent-monitor-display-issue/"><u>Diagnosing Absent Monitor Display Issue</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722056013565-gpt-4-open-for-everyone-plus-still-boasts-6-exclusive-features/"><u>GPT-4: Open for Everyone! Plus Still Boasts 6 Exclusive Features</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-depth-look-at-srt-knowledge-for-all-levels-for-2024/"><u>In-Depth Look at SRT Knowledge for All Levels for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-sony-xperia-10-v-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Sony Xperia 10 V Device</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-honor-magic-6-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Honor Magic 6 on Mac</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-access-to-disabled-windows-apps/"><u>Restoring Access to Disabled Windows Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailoring-visual-comfort-notebook-themes-and-fonts-in-windows-11/"><u>Tailoring Visual Comfort: Notebook Themes and Fonts in Windows 11</u></a></li>
-<li><a href="https://win-dash.techidaily.com/top-ranked-driver-downloads-compatible-bluetooth-drivers-for-windows-systems/"><u>Top-Ranked Driver Downloads: Compatible Bluetooth Drivers for Windows Systems</u></a></li>
-<li><a href="https://facebook.techidaily.com/transforming-social-media-experience-with-smart-photo-descriptions/"><u>Transforming Social Media Experience with Smart Photo Descriptions</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-and-edge-background-runs-how-to-control/"><u>Win11 and Edge Background Runs - How to Control</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-elite-10-drone-fleet-capturing-visuals-in-new-light/"><u>[New] Elite 10-Drone Fleet Capturing Visuals in New Light</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-gamers-guide-to-boosting-pc-speed-controls/"><u>[New] In 2024, The Gamer's Guide to Boosting PC Speed Controls</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-six-common-car-ai-configurations-fails/"><u>Decoding Six Common Car AI Configurations Fails</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/dpj-dpj-num/"><u>Dp[j] |= Dp[j - Num</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elite-livestream-tools-and-solutions/"><u>Elite Livestream Tools & Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-methods-for-flipping-image-colors-for-2024/"><u>Expert Methods for Flipping Image Colors for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/future-proofing-windows-how-to-leverage-vivetool-advantages/"><u>Future-Proofing Windows: How to Leverage ViVeTool Advantages</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-modify-the-visual-cues-in-windows-11-search/"><u>How to Modify the Visual Cues in Windows 11 Search</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-rectify-shaky-cursor-on-modern-windows/"><u>How to Rectify Shaky Cursor on Modern Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-resurrect-a-freeze-fixing-error-code-x-in-windows-11/"><u>How to Resurrect a Freeze: Fixing Error Code X in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-game-overcoming-hell-let-loose-runtime-errors-and-system-crashes/"><u>Master the Game: Overcoming 'Hell Let Loose' Runtime Errors and System Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/masterclass-guide-to-overcoming-opengl-glitch-3/"><u>Masterclass Guide to Overcoming OpenGL Glitch #3</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-keys-best-offers/"><u>Mastering Windows 11 Keys: Best Offers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-konvertor-voor-mp4-naar-3gp-gratis-dienst-moet-aan-movavi-herleiden/"><u>Online Konvertor Voor MP4 Naar 3GP: Gratis Dienst, Moet Aan Movavi Herleiden!</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-knowledge-of-command-line-nicknames/"><u>The Essential Knowledge of Command Line Nicknames</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-cause-of-winmedia-error/"><u>Unveiling the Cause of WinMedia Error</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-the-leap-to-one-million-tokens-marks-a-pivotal-shift-in-gemini-turbocharged-performance/"><u>Why the Leap to One Million Tokens Marks a Pivotal Shift in Gemini Turbocharged Performance</u></a></li>
 </ul></div>
 

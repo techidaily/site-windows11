@@ -1,7 +1,7 @@
 ---
 title: "Pinpoint Win Logins: The Differentiator Between Right & Wrong Entries"
-date: 2024-09-05T02:08:03.194Z
-updated: 2024-09-06T02:08:03.194Z
+date: 2024-10-16T01:58:52.432Z
+updated: 2024-10-19T03:11:41.258Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/efe03172267db8e41dde950b174798601940a2258
 
  Close Group Policy Editor and move to the next set of steps to view login attempts in Event Viewer.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to View Failed and Successful Login Attempts in Event Viewer
 
  The[Event Viewer](https://www.makeuseof.com/windows-event-viewer-guide/) lets you view Windows logs for the application, security, system, and other events. While a useful application to troubleshoot system issues, you can use it to audit login events on your Windows PC.
@@ -57,45 +64,28 @@ thumbnail: https://thmb.techidaily.com/efe03172267db8e41dde950b174798601940a2258
 6. To find failed login attempts, locate**Event ID 2625** entries instead.
 7. Next, select the**Event 4624** entry you want to view, and Event Viewer will display all the related information in the bottom section. Alternatively, right-click on the event entry and select**Properties** to view detailed information in a new window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Decipher the Logon Entries in Event Viewer
 
  While Event ID 4624 is associated with logon events, you will likely find multiple instances of this entry occurring every few minutes in the log. This is due to Event Viewer recording every logon event (whether from the local user account or system services such as Windows Security) with the same event ID**(Event 4624**).
 
 ![event viewer security logon event properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/event-viewer-security-logon-event-properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To identify the source of login, right-click on the event record and select**Properties** . In the**General** tab, scroll down and locate the**Logon information** section. Here, the**Logon Type** field indicates the kind of logon that occurred.
 
  For example,**Logon Type 5** indicates a service-based login, while**Logon Type 2** indicates user-based login. Know more about the different logon types in the table below.
 
 ![event viewer security logon event properties details 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/event-viewer-security-logon-event-properties-details-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, scroll down to the**New Logon** section and locate the**Security ID** . This will show the user account that was affected by the logon.
 
 ![event viewer security logon event failed attemptjpg](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/event-viewer-security-logon-event-failed-attemptjpg.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Similarly, for failed login attempts, review**Event ID 4625** . In the**Properties** dialog, you can find reasons for the failed login attempt and the affected user account. If you find multiple instances of unsuccessful attempts, consider learning[how to limit the number of failed login attempts to protect your Windows PC](https://www.makeuseof.com/how-limit-number-failed-login-attempts-windows-10/) .
 
@@ -114,21 +104,16 @@ thumbnail: https://thmb.techidaily.com/efe03172267db8e41dde950b174798601940a2258
 | Logon Type 11  | CachedInteractive – When the user logged on to the computer via console using the cached credentials when the domain controller is not available. |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to View the Last Logon History Using Command Prompt
 
 ![view specific user last login attempt command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/view-specific-user-last-login-attempt-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can use the Command Prompt to view the last login attempt. It is a handy way to find user-based login attempts without having to go through all the logon events in Event Viewer.
 
 To view the login history of a specific user using Command Prompt:
@@ -141,11 +126,12 @@ To view the login history of a specific user using Command Prompt:
 5. The output will show the last login time and date for the specified user.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Viewing Failed and Successful Login Attempts in Windows
 
  If you suspect someone to have logged in to your PC, the Event Viewer will likely catch and record the attempt. For this to work, you must enable the Logon Auditing policy in Group Policy Editor. You can also use Command Prompt to view a specific user's login history.
@@ -158,8 +144,6 @@ To view the login history of a specific user using Command Prompt:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +151,19 @@ To view the login history of a specific user using Command Prompt:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/aspect-ratios-decoded-youtube-edition-a-quick-reference-guide-for-2024/"><u>Aspect Ratios Decoded YouTube Edition – A Quick Reference Guide for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/aukeys-30-usb-hub-reviewed-sleek-aesthetics-meet-efficient-connectivity/"><u>Aukey's 3.0 USB Hub Reviewed: Sleek Aesthetics Meet Efficient Connectivity</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-zte-nubia-z60-ultra-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your ZTE Nubia Z60 Ultra? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-freeze-troubleshooting-windows-obs-not-starting/"><u>Fixing the Freeze: Troubleshooting Windows OBS Not Starting</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-online-converter-avi-to-wmv-use-movavi/"><u>Free Online Converter AVI to WMV - Use Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/oming-virtual-negativity-a-content-makers-guide/"><u>Overcoming Virtual Negativity A Content Maker's Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-and-handling-file-unreadable-problem-on-windows/"><u>Preventing and Handling ‘File Unreadable’ Problem on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-for-read-from-disk-failed-error/"><u>Quick Fix for Read From Disk Failed Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-html-errors-in-windows-11-mail-app-email-views/"><u>Rectifying HTML Errors in Windows 11 Mail App Email Views</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-tackle-physical-ram-limitations-on-windows-vmware/"><u>Steps to Tackle Physical RAM Limitations on Windows VMware</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-art-of-captivating-6-powerful-video-genres-for-2024/"><u>The Art of Captivating 6 Powerful Video Genres for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reinstating Windows Notification Banners
-date: 2024-09-05T02:08:03.984Z
-updated: 2024-09-06T02:08:03.984Z
+date: 2024-10-13T01:40:12.561Z
+updated: 2024-10-18T22:16:14.865Z
 tags:
   - windows10
   - windows11
@@ -43,18 +43,6 @@ thumbnail: https://thmb.techidaily.com/b9d202f17312addc4751b6c7718b8073b057f0ff7
 4. Scroll down to the**Notifications from apps and other senders** section and ensure that your favorite apps are allowed to display notifications on Windows.  
 ![Enable Notifications for Apps on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-notifications-for-apps-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Allow Apps to Run in the Background
 
  If your apps do not have the necessary permission to run in the background, they will fail to fetch new data and display any notifications. This may lead you to believe that notification badges are not working for the taskbar apps. To avoid this, you should ensure that your apps are allowed to run in the background on Windows by following the steps below.
@@ -68,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/b9d202f17312addc4751b6c7718b8073b057f0ff7
 
  Unable to find the background app permissions option in the Settings app? Check our guide on[how to restore a missing background apps permission option in Windows](https://www.makeuseof.com/windows-11-restore-background-apps-permissions/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Restart the Windows Explorer Process
 
  Temporary issues with the taskbar can also prevent apps from displaying notification badges on Windows. This usually happens when the Windows Explorer process, which is responsible for providing the Graphical User Interface (GUI) for the taskbar, experiences problems.
@@ -77,11 +72,12 @@ thumbnail: https://thmb.techidaily.com/b9d202f17312addc4751b6c7718b8073b057f0ff7
  Note that your taskbar will disappear for a brief moment when you restart the Windows Explorer process. After that, check if notification badges appear on the taskbar apps.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Unpin the Apps From the Taskbar and Pin Them Again
 
  If Windows is failing to display notification badges for only one or two apps, you can try to unpin the affected apps from the taskbar and pin them back again. To do so, use these steps:
@@ -93,41 +89,18 @@ thumbnail: https://thmb.techidaily.com/b9d202f17312addc4751b6c7718b8073b057f0ff7
 ![Unpin App From Windows Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/unpin-app-from-windows-taskbar.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Repeat the above steps for all the apps that are not displaying badges on the taskbar.
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Repair the Problematic App
 
  If the issue remains even after you unpin and re-pin the app, you can try repairing it. This process will allow Windows to identify and resolve any issues with the app without affecting any of the app data. For more information on this, check our guide on[how to repair apps and programs on Windows](https://www.makeuseof.com/windows-repair-apps-programs/) and follow the steps outlined there.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Enable Taskbar Badges Using the Registry Editor
 
  Windows may not show notification badges on taskbar apps if the feature has been disabled via the Registry Editor. In that case, you will need to modify the**TaskbarBadges** DWORD using the Registry Editor to bring back notification badges on Windows.
@@ -146,13 +119,14 @@ thumbnail: https://thmb.techidaily.com/b9d202f17312addc4751b6c7718b8073b057f0ff7
 8. Click**OK** .  
 ![Edit DWORD in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/edit-dword-in-registry-editor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Exit the Registry Editor window and restart your PC to apply the changes. After that, notification badges should appear on taskbar apps.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Stay on Top of App Alerts With Notification Badges
 
@@ -160,14 +134,11 @@ thumbnail: https://thmb.techidaily.com/b9d202f17312addc4751b6c7718b8073b057f0ff7
 
  Finding it hard to notice the taskbar notification badges because of their small size? You can always enlarge the Windows taskbar to make the notification badges more visible.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -176,4 +147,24 @@ thumbnail: https://thmb.techidaily.com/b9d202f17312addc4751b6c7718b8073b057f0ff7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/est-gamers-streaming-tools/"><u>[New] Best Gamers' Streaming Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-nifty-steps-to-generate-timely-captions-and-text-for-fb-video-uploads/"><u>[New] In 2024, Nifty Steps to Generate Timely Captions and Text for FB Video Uploads</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-feast-your-eyes-on-9-whole-film-winter-wonders-no-charge/"><u>[Updated] In 2024, Feast Your Eyes on 9 Whole-Film Winter Wonders No Charge</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unlocking-youtube-secrets-sharing-videos-in-google-wallet/"><u>[Updated] In 2024, Unlocking YouTube Secrets Sharing Videos in Google Wallet</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/1-seamlessly-integrate-a-flipbook-display-with-your-wordpress-site-using-flipbuilder/"><u>1) Seamlessly Integrate a FlipBook Display with Your WordPress Site Using FlipBuilder</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-endurance-elevated-discover-top-long-flight-drones/"><u>2024 Approved Endurance Elevated Discover Top Long-Flight Drones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/avoiding-security-pitfalls-why-chatgpt-may-not-be-trustworthy-for-personal-details/"><u>Avoiding Security Pitfalls: Why ChatGPT May Not Be Trustworthy for Personal Details</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-fixing-winrars-failed-file-sums-and-verifications/"><u>Guide to Fixing WinRAR's Failed File Sums and Verifications</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-itel-p40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-discord-fatal-javascript-error-in-windows-11-and-11/"><u>How to Fix the Discord Fatal Javascript Error in Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-common-windows-error-with-lsassexe/"><u>Overcoming Common Windows Error with lsass.exe</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-missing-apps-icon-issue/"><u>Rectifying Missing Apps Icon Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagining-the-look-of-basic-text-editor-in-windows-11/"><u>Reimagining the Look of Basic Text Editor in Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/troubleshooting-a-non-responsive-windows-start-menu-effective-solutions/"><u>Troubleshooting a Non-Responsive Windows Start Menu: Effective Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-absence-of-files-on-windows-11/"><u>Troubleshooting Absence of Files on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncover-and-fix-hidden-5ghz-connections-in-windows-11-easily/"><u>Uncover & Fix Hidden 5GHz Connections in Windows 11 Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-memory-write-hitches-in-windows/"><u>Unraveling 'Memory Write' Hitches in Windows</u></a></li>
+</ul></div>
 

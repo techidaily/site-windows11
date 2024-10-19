@@ -1,7 +1,7 @@
 ---
 title: "Simplify Your Routine: NirCmd's Command Shortcuts Expertise"
-date: 2024-10-01T02:31:04.946Z
-updated: 2024-10-02T00:08:11.449Z
+date: 2024-10-17T21:11:46.864Z
+updated: 2024-10-19T00:01:16.549Z
 tags:
   - windows10
   - windows11
@@ -59,6 +59,14 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 2. Click in the Shortcut box and press a key combination to set up a **Ctrl** \+ **Alt** or **Ctrl** \+ **Shift** hotkey.  
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/the-shortcut-tab.jpg)
 3. Then select **Apply** to save your hotkey.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click **OK** to exit the shortcut’s properties window.
 
  Now press your keyboard shortcut to activate the NirCmd command desktop shortcut. However, don’t delete the NirCmd desktop shortcuts for which you’ve created hotkeys. The hotkeys won’t work without them.
@@ -69,18 +77,18 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
  Now you can set up NirCmd desktop and keyboard command shortcuts that do all kinds of things. Here are eight handy NirCmd commands to create shortcuts for.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Empty the Recycle Bin
 
  A keyboard shortcut for emptying the Recycle Bin would undoubtedly be handy, but Windows doesn’t have one. You can create a desktop shortcut or hotkey for emptying the Recycle Bin with this NirCmd command:
 
 `nircmd.exe emptybin`
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Center Align All Windows
 
@@ -93,6 +101,13 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
  A hotkey for [signing out of your Windows user account](https://www.makeuseof.com/windows-11-how-to-sign-out/) would be useful. You can create such a keyboard shortcut with this NirCmd command:
 
 `nircmd.exe exitwin logoff`
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Read Out the Copied Clipboard Item
 
@@ -114,13 +129,6 @@ keywords: Routine Simplification,Command Shortcuts Guide,NirCmd Tips,Efficiency 
 thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453eb6e04c1cfde40ef70bbce3.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Activate Your Windows 11/10 Screensaver
 
  Do you have a screensaver set that you love viewing? If so, set up a NirCmd command shortcut that enables you to immediately activate that screensaver. You can create a desktop and keyboard shortcut for activating the screensaver with this NirCmd command:
@@ -140,10 +148,10 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 `nircmd.exe win settopmost title "Calculator" 1`
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 8\. Set the Brightness Level
@@ -151,13 +159,6 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
  This NirCmd command shortcut will enable you to [set a screen brightness level](https://www.makeuseof.com/windows-10-adjust-screen-brightness/) by pressing a hotkey. Activating this command changes the brightness level set within Settings. The command needs to include a brightness value to set. For example, a NirCmd command for setting the brightness level to 60 percent looks like this:
 
 `nircmd.exe setbrightness 60 3`
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Create Handy Windows Task Shortcuts With NirCmd
 
@@ -174,22 +175,18 @@ thumbnail: https://thmb.techidaily.com/3616fb63d3712b98cc05f9583f4211869f6e4c453
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-streamlined-techniques-to-capture-webinars-efficiently-windows-mac-for-2024/"><u>[New] Streamlined Techniques to Capture Webinars Efficiently (Windows, Mac) for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-harmonious-hues-the-top-10-sites-to-download-styleful-wallpapers/"><u>[Updated] Harmonious Hues The Top 10 Sites to Download Styleful Wallpapers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-tips-on-how-skip-edgenuity-videos-for-2024/"><u>[Updated] Tips on How Skip Edgenuity Videos for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-the-secrets-to-iphone-stellar-images/"><u>[Updated] Unlocking the Secrets to iPhone Stellar Images</u></a></li>
-<li><a href="https://windows11.techidaily.com/disabling-windows-watcher-functionality/"><u>Disabling Windows Watcher Functionality</u></a></li>
-<li><a href="https://blog-min.techidaily.com/electric-vehicle-charging-prices-whats-the-average-cost-today/"><u>Electric Vehicle Charging Prices: What's the Average Cost Today?</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-aggregatorhostexe-in-windows-how-it-works-and-safety-aspects/"><u>Exploring AggregatorHost.exe in Windows: How It Works and Safety Aspects</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-ghost-recon-breakpoints-crash-problems-a-fast-and-simple-guide/"><u>Fixing Ghost Recon Breakpoint's Crash Problems - A Fast and Simple Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-captivating-photo-based-video-content-using-pixizs-features/"><u>In 2024, Crafting Captivating Photo-Based Video Content Using Pixiz's Features</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/incognito-tips-stay-anonymous-on-chrome-edge-firefox-safari-and-opera-online/"><u>Incognito Tips: Stay Anonymous on Chrome, Edge, Firefox, Safari & Opera Online</u></a></li>
-<li><a href="https://windows11.techidaily.com/lock-it-down-steps-to-activate-windows-controlled-access/"><u>Lock It Down: Steps to Activate Window’s Controlled Access</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-error-0x80300024-in-windows-xp/"><u>Overcoming Error 0X80300024 in Windows XP</u></a></li>
-<li><a href="https://windows11.techidaily.com/pro-level-text-workflow-unleash-the-power-of-snipping-tool-on-win-11/"><u>Pro-Level Text Workflow: Unleash the Power of Snipping Tool on Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-windows-update-issues-0xca00a009/"><u>Streamlining Windows Update Issues: 0XCA00A009</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-the-net-requirement-issue-in-windows-apps/"><u>Tackling the .NET Requirement Issue in Windows Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-hidden-language-of-windows-update-identifiers/"><u>The Hidden Language of Windows Update Identifiers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/evaluating-live-stream-giants-twitch-and-youtube-for-2024/"><u>Evaluating Live Stream Giants Twitch & YouTube for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/explore-elite-bodycams-our-ultimate-selection-and-reviews/"><u>Explore Elite Bodycams : Our Ultimate Selection and Reviews</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-samsung-galaxy-m54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-13t-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi 13T Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-to-win-11s-insider-program-enrollment/"><u>Navigating to Win 11'S Insider Program Enrollment</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-setback-preserving-saving-functionality-of-nvidia-cp/"><u>Overcoming Setback: Preserving Saving Functionality of Nvidia CP</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-systemsettings-errors-in-windows-11/"><u>Preventing SystemSettings Errors in Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/reinstall-hardware-drivers-with-device-manager-in-windows-10-by-drivereasy-guide/"><u>Reinstall hardware drivers with Device Manager in Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/resetting-error-with-windows-shadow-copy-service/"><u>Resetting Error with Windows' Shadow Copy Service</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-up-a-safe-workspace-windows-sandbox-11/"><u>Setting Up a Safe Workspace: Windows Sandbox 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-for-unresponsive-keys-on-your-keyboard/"><u>Step-by-Step Solution for Unresponsive Keys on Your Keyboard</u></a></li>
+<li><a href="https://windows11.techidaily.com/touching-your-world-better-the-ultimate-guide-to-pc-touch-adjustment/"><u>Touching Your World Better: The Ultimate Guide to PC Touch Adjustment</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/standing-youtubes-view-threshold-for-money-for-2024/"><u>Understanding Youtube’s View Threshold for Money for 2024</u></a></li>
 </ul></div>
 

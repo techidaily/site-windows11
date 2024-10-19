@@ -1,7 +1,7 @@
 ---
 title: Mastering Windows 11'S Multimedia Control Panel
-date: 2024-10-10T01:16:49.592Z
-updated: 2024-10-12T16:45:08.813Z
+date: 2024-10-17T01:56:32.550Z
+updated: 2024-10-18T22:13:46.559Z
 tags:
   - windows10
   - windows11
@@ -49,14 +49,14 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
 ![Volume Mixer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/volume-mixer-in-windows-11.jpg)
 
- In order to change the volume of a specific application, click on its icon and drag the slider. To mute a specific application, click on the speaker icon next to it.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ In order to change the volume of a specific application, click on its icon and drag the slider. To mute a specific application, click on the speaker icon next to it.
 
 ## 4\. Use the Windows File Explorer
 
@@ -69,19 +69,25 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 ![Open Volume Mixer Using Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-volume-mixer-using-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In the Task Manager window, click**Run new task** and type**sndvol.exe** in the Create new task window. Finally, click**OK** to launch Volume Mixer.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Use the Command Prompt
@@ -89,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
  If you prefer using the command line over the graphical user interface, then this method is for you. To open Command prompt, click on Start, type “**cmd** ” in its search box, and select the result from the list.
 
 ![Open Volume Mixer Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-volume-mixer-using-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the Command Prompt window, type**sndvol.exe** , and hit Enter again. This will open Volume Mixer immediately, allowing you to adjust the volume of each application from there.
 
@@ -98,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
  Once the Volume Mixer window opens, you can adjust individual volume levels for applications or change their output devices in order to get your desired sound experience.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Create a Desktop Shortcut
 
 [Creating a desktop shortcut in Windows](https://www.makeuseof.com/tag/create-program-shortcuts-windows-easy-way/) for Volume Mixer can help you quickly access this tool without having to search for it in different places.
@@ -113,18 +119,18 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
 ![Open Volume Mixer By Creating a Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-volume-mixer-by-creating-a-desktop-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the shortcut window, type**sndvol.exe** in the text box, and click**Next** .
 
 ![Create Shortcut to open Volume Mixer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-shortcut-to-open-volume-mixer.jpg)
 
  Then, enter a name for the shortcut and click**Finish** . This will create a shortcut on the desktop, and you can double-click on it to open Volume Mixer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Quick and Easy Access to the Volume Mixer
 
@@ -145,24 +151,20 @@ thumbnail: https://thmb.techidaily.com/43dc38eef47f27063f0ee863ee1d82afec1855627
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-quick-guide-on-recording-gotomeeting-chats-with-ease/"><u>[New] 2024 Approved Quick Guide on Recording GoToMeeting Chats with Ease</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-maximize-views-with-these-14-premier-youtube-gaming-videos/"><u>[New] Maximize Views with These 14 Premier YouTube Gaming Videos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-worlds-hottest-youtube-personalities-by-subscribers/"><u>2024 Approved World's Hottest YouTube Personalities by Subscribers</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-non-existent-files-message-on-windows-11/"><u>Addressing Non-Existent Files Message on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/altering-monitors-sequence-on-laptops/"><u>Altering Monitors' Sequence on Laptops</u></a></li>
-<li><a href="https://windows11.techidaily.com/altering-windows-files-date-creation-and-modification-adjustments/"><u>Altering Windows Files: Date Creation & Modification Adjustments</u></a></li>
-<li><a href="https://windows11.techidaily.com/antiquated-tech-awakened-atlasos-upgrade/"><u>Antiquated Tech Awakened: AtlasOS Upgrade</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/boosting-drive-efficiency-mf4770n-and-windows-systems/"><u>Boosting Drive Efficiency: MF4770n & Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/breaking-free-from-the-frozen-windows-terminal/"><u>Breaking Free From the Frozen Windows Terminal</u></a></li>
-<li><a href="https://windows11.techidaily.com/changing-default-user-directory-labels-windows-11/"><u>Changing Default User Directory Labels (Windows 11)</u></a></li>
-<li><a href="https://windows11.techidaily.com/consistent-experience-migrating-powertoys-on-new-pcs/"><u>Consistent Experience: Migrating PowerToys on New PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-audacitys-internal-portaudio-error-on-w10w11-pcs/"><u>Correcting Audacity's Internal PortAudio Error on W10/W11 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/dealing-with-the-extract-to-temp-directory-glitch-fix-for-error-1152/"><u>Dealing with the 'Extract to Temp Directory' Glitch: Fix for Error 1152</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-canon-ip110-printer-drivers-for-latest-windows-versions-11-10-8-and-7/"><u>Download Canon IP110 Printer Drivers for Latest Windows Versions (11, 10, 8 & 7)</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/navigating-playlist-creation-on-youtube-easily/"><u>Navigating Playlist Creation on YouTube Easily</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/purifying-audio-from-films-and-movies-cost-effective-methods-for-2024/"><u>Purifying Audio From Films and Movies Cost-Effective Methods for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-podcast-versus-visual-media-which-suits-your-content-best/"><u>[Updated] 2024 Approved Podcast versus Visual Media Which Suits Your Content Best?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-idea-infringement-instant-video-ban/"><u>[Updated] Idea Infringement Instant Video Ban</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-androids-expert-choice-for-quick-vid-boosting/"><u>[Updated] In 2024, Android's Expert Choice for Quick Vid Boosting</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-video-editing-virtuosity-mastering-the-fade-inout-for-2024/"><u>[Updated] Video Editing Virtuosity Mastering the Fade-In/Out for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/atheros-drivers-installation-steps-and-tips-for-windows-users/"><u>Atheros Drivers Installation: Steps & Tips for Windows Users</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ring-the-art-of-adding-youtube-playlists-to-your-website-seamlessly/"><u>Mastering the Art of Adding YouTube Playlists to Your Website Seamlessly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-8-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 8 Plus Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-intensifying-excel-grid-lines/"><u>Step-by-Step Guide to Intensifying Excel Grid Lines</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-on-arranging-data-values-within-microsoft-excel/"><u>Step-by-Step Tutorial on Arranging Data Values Within Microsoft Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-13-essential-microsoft-excel-datetime-formulas-every-user-must-master/"><u>Top 13 Essential Microsoft Excel Date/Time Formulas Every User Must Master</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-6-tips-for-creating-simple-and-legible-excel-sheets/"><u>Top 6 Tips for Creating Simple and Legible Excel Sheets</u></a></li>
+<li><a href="https://windows11.techidaily.com/ultimate-guide-to-harnessing-the-power-of-goal-seek-in-excel/"><u>Ultimate Guide to Harnessing the Power of Goal Seek in Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-automatic-data-coloring-tips-for-setting-up-excels-conditional-formatting-rules/"><u>Unlocking the Power of Automatic Data Coloring: Tips for Setting Up Excel's Conditional Formatting Rules</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/windows-1087ospc/"><u>Windows 10/8/7のOSインストールガイド：新しいPCへの移行手順</u></a></li>
 </ul></div>
 

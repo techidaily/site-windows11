@@ -1,7 +1,7 @@
 ---
 title: Solutions for Unlinked Device Errors in Win
-date: 2024-10-08T02:53:02.589Z
-updated: 2024-10-13T01:16:55.027Z
+date: 2024-10-14T22:39:07.345Z
+updated: 2024-10-19T01:09:41.037Z
 tags:
   - windows10
   - windows11
@@ -46,27 +46,14 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
 ![The Reputation-based protection settings option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reputation-based-settings-option.jpg)
 4. Deselect the **Block apps** checkbox if that feature is enabled.  
 
-![The Block apps checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-block-apps-checkbox.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+![The Block apps checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-block-apps-checkbox.jpg)
 
 ## 3\. Deselect the "Unblock File" Setting
 
@@ -78,21 +65,36 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
 ![The File Explorer shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/file-explorer.jpg)
 2. Open a folder that includes a file for which the error occurs.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Right-click the affected file and select **Properties**.  
 ![The Properties option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/properties-option.jpg)
 4. Click **General** if the properties window doesn't open with that tab by default.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Then uncheck the selected **Unblock** checkbox if you can see one.  
 ![The Unblock checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/unblock-checkbox.jpg)
 6. Select **Apply** to save the new file settings.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click **OK** to close the file's properties window.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Edit the File's Permissions
 
@@ -108,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
 ![The Deny checkboxes for file permissions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deny-checkboxes.jpg)
 8. Select **Apply** to set the new permission settings.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 9. Press the **OK** buttons on all windows.
 
 ## 5\. Recreate a Program's Shortcut
@@ -125,6 +120,13 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
 2. Click **Shortcut** to bring up a tool for adding desktop shortcuts.  
 ![The Shortcut option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shortcut-option.jpg)
 3. Then click **Browse** to select an EXE file the error occurs for and press the **OK** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![The Create Shortcut tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-shortcut-window.jpg)
 4. Select **Next** and input a shortcut title in the text box.
@@ -158,20 +160,13 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
 ![The Admin Approval Mode policy setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-admin-approval-mode-policy-settings.jpg)
 6. Click **Apply** to set the policy.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Select **OK** to exit the window for the policy setting and close the Group Policy Manager utility.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Set Up a Windows Security Exclusion Affected Software or File
@@ -191,10 +186,10 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
  Should this potential solution work, you'll know what's causing it. However, don't leave your antivirus software disabled. Add affected files to the security software's exceptions list.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Repair or Reinstall the File
@@ -211,10 +206,10 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
  Depending on the app, you will get an option to either uninstall the app or change its settings. That's it—from there just follow the on-screen instructions, and you will be done in no time. If you installed the app, make sure you get it from a trusted source again and then see if you are facing the same error again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get the "Cannot Access the Specified Device" Error Sorted in Windows 10 and 11
@@ -233,21 +228,15 @@ thumbnail: https://thmb.techidaily.com/5b6554e76aaa2a052eebb5ed360ccf43529d16f47
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-basics-in-the-realm-of-tale-construction/"><u>[New] Basics in the Realm of Tale Construction</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-high-speed-screen-grabber-with-audible-narration/"><u>[New] High-Speed Screen Grabber with Audible Narration</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-screen-recorder-for-youtube/"><u>[New] In 2024, Best Screen Recorder for YouTube</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-subtitle-extraction-top-10-free-apps-rated-for-2024/"><u>[Updated] Subtitle Extraction Top 10 Free Apps Rated for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-first-rate-soundbites-googles-best-talk-series/"><u>2024 Approved First-Rate Soundbites Google's Best Talk Series</u></a></li>
-<li><a href="https://windows11.techidaily.com/automate-your-photo-display-craft-the-ultimate-win11-slideshow/"><u>Automate Your Photo Display - Craft the Ultimate Win11 Slideshow</u></a></li>
-<li><a href="https://windows11.techidaily.com/converting-oculus-q2-to-windows-pc-for-vr/"><u>Converting Oculus Q2 to Windows PC for VR</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-poco-c65-by-drfone-android/"><u>Full Guide to Unlock Your Poco C65</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-infinix-note-30-vip-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Note 30 VIP Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-ready-for-high-res-our-choice-of-best-screenshot-and-recorder-apps/"><u>In 2024, Ready for High-Res Our Choice of Best Screenshot & Recorder Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/method-for-startingstopping-windows-installer/"><u>Method for Starting/Stopping Windows Installer</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-the-obstacle-fixing-windows-system-function-interruption/"><u>Overcoming the Obstacle: Fixing Windows System Function Interruption</u></a></li>
-<li><a href="https://windows11.techidaily.com/reconfiguring-start-menu-and-browser-by-defaults/"><u>Reconfiguring Start Menu and Browser by Defaults</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-microsoft-store-error-code-0x80072f30/"><u>Troubleshooting Microsoft Store: Error Code 0X80072F30</u></a></li>
-<li><a href="https://windows11.techidaily.com/unblocking-microsoft-store-error-0x80072efd/"><u>Unblocking Microsoft Store Error 0X80072EFD</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unleash-creativity-with-the-dynamic-and-educational-dash-toy-from-wonder-workshop/"><u>Unleash Creativity with the Dynamic and Educational Dash Toy From Wonder Workshop</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-from-frame-to-story-vertical-video-editing-guide-for-fcpx-users-on-insta/"><u>[New] From Frame to Story Vertical Video Editing Guide for FCPX Users on Insta</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-comparing-iphones-best-video-editors-cameo-and-filmorago/"><u>2024 Approved Comparing iPhone's Best Video Editors Cameo & FilmoraGo</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximize-your-device-choose-from-the-7-best-android-adblockers/"><u>2024 Approved Maximize Your Device Choose From the 7 Best Android AdBlockers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/enriching-zoom-video-clarity-essential-tips/"><u>Enriching Zoom Video Clarity Essential Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-monitors-choosing-personalized-themes-in-win-1011/"><u>Maximizing Monitors: Choosing Personalized Themes in Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-disconnected-spotify-sessions-in-w10w11/"><u>Mending Disconnected Spotify Sessions in W10/W11</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-and-repairing-microsofts-error-code-0x8024402c-on-your-pc/"><u>Navigating and Repairing Microsoft's Error Code 0X8024402c on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-the-mystery-of-error-0x0000004e-on-windows/"><u>Solving the Mystery of Error 0X0000004E on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-workspace-integrating-directories-into-taskbar-menu/"><u>Streamlining Your Workspace: Integrating Directories Into Taskbar Menu</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-and-installing-huion-printertablet-drivers-in-windows-os/"><u>Troubleshooting and Installing Huion Printer/Tablet Drivers in Windows OS</u></a></li>
 </ul></div>
 

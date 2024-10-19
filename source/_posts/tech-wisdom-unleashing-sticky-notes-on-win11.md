@@ -1,7 +1,7 @@
 ---
 title: "Tech Wisdom: Unleashing Sticky Notes on Win11"
-date: 2024-10-06T17:58:49.991Z
-updated: 2024-10-12T17:29:12.287Z
+date: 2024-10-16T22:13:13.809Z
+updated: 2024-10-18T18:50:46.959Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/5d40c0bfb2b671dade97ca433b00bb587bba5a397
 
  Now that you know what a sticky note is, let's see how to open it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. How to Open Sticky Notes via Windows Search
 
  It's likely that you have used the search function on Windows to find a file or launch an application. But did you know that Sticky Notes can also be opened using Windows Search? Here's how to do this:
@@ -44,16 +51,10 @@ To open Sticky Notes using the Windows Search tool, do the following:
 2. Then type "Sticky Notes" into the search bar.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. The Sticky Notes app should appear as a search result. Click on it to open the app.
@@ -61,6 +62,13 @@ To open Sticky Notes using the Windows Search tool, do the following:
  Once the Sticky Notes app is open, you will be able to see all of your saved notes. You can also start creating new notes by clicking on the "+" sign at the top of the window. To edit an existing note, simply click on it and start typing.
 
  If you're looking for a quick and easy way to create and manage your notes, give Windows Search a try!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. How to Open Sticky Notes Using Start Menu
 
@@ -73,10 +81,16 @@ To open Sticky Notes from the Start Menu, follow these steps:
 2. Scroll down until you see**Sticky Notes** , then click to open it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Open the Sticky Notes With a Desktop Shortcut
@@ -99,27 +113,7 @@ To open Sticky Notes from the Start Menu, follow these steps:
 2. Right-click on Sticky Notes and select**Pin to taskbar** .  
 ![How to Pin Sticky Notes to the Taskbar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/How-to-Pin-Sticky-Notes-to-the-Taskbar.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now you can access your sticky notes right from the taskbar.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Easy Access to Sticky Notes
 
@@ -140,18 +134,18 @@ Now you can access your sticky notes right from the taskbar.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-quick-steps-to-convert-macs-image-file-types-for-2024/"><u>[New] Quick Steps to Convert Mac's Image File Types for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-understanding-drones-their-functionality-explored/"><u>[Updated] Understanding Drones Their Functionality Explored</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoid-spontaneous-windows-11-lockups-and-shuts/"><u>Avoid Spontaneous Windows 11 Lockups & Shuts</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-microsofts-restrictive-security-measures/"><u>Bypassing Microsoft’s Restrictive Security Measures</u></a></li>
-<li><a href="https://windows11.techidaily.com/command-line-carnival-exciting-stunts-for-your-terminal/"><u>Command Line Carnival: Exciting Stunts for Your Terminal</u></a></li>
-<li><a href="https://windows11.techidaily.com/customize-windows-layout-fancywm-power-up/"><u>Customize Windows Layout: FancyWM Power Up</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/effective-fixes-for-overcoming-syntpsys-blue-screens-of-death-on-windows-machines/"><u>Effective Fixes for Overcoming SYNTP.SYS Blue Screens of Death on Windows Machines</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-take-on-linksyss-wrt1900acs-navigating-through-an-open-source-wifi-router-experience/"><u>Expert Take on Linksys's WRT1900ACS: Navigating Through an Open-Source WiFi Router Experience</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gif-mastery-10-key-elements-to-perfect-creation-for-2024/"><u>GIF Mastery 10 Key Elements to Perfect Creation for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-reno-10-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo Reno 10 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-quick-cuts-editing-instagram-videos-on-macos/"><u>In 2024, Quick Cuts Editing Instagram Videos on macOS</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/primetrackings-slim-gps-tracker-the-perfect-fit-for-your-pocket-user-reviews-and-comparison-to-other-brands/"><u>PrimeTracking's Slim GPS Tracker: The Perfect Fit For Your Pocket – User Reviews & Comparison to Other Brands</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/remedies-for-dim-or-flickering-surveillance-video/"><u>Remedies for Dim or Flickering Surveillance Video</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-efficient-audio-extraction-from-youtube-top-picks-for-your-favorite-free-crackers-for-2024/"><u>[Updated] Efficient Audio Extraction From YouTube Top Picks for Your Favorite Free Crackers for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhanced-microsoft-excel-python-interpreter-latest-upgrade-improvements/"><u>Enhanced Microsoft Excel Python Interpreter: Latest Upgrade Improvements</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-clarity-in-ms-excel-visualizations-how-to-title-your-x-and-y-axes-effectively/"><u>Enhancing Clarity in MS Excel Visualizations - How to Title Your X & Y Axes Effectively</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-tips-for-effective-searches-with-vlookup-functionality-in-microsoft-excel-sheets/"><u>Expert Tips for Effective Searches with VLOOKUP Functionality in Microsoft Excel Sheets</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-the-capabilities-of-function-keys-in-microsoft-excel-a-comprehensive-guide/"><u>Exploring the Capabilities of Function Keys in Microsoft Excel: A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-the-versatility-of-hyperlink-in-excel-6-essential-applications/"><u>Exploring the Versatility of Hyperlink in Excel: 6 Essential Applications</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-new-steelseries-engine-for-enhanced-performance-on-windows-11-immediate-download-available/"><u>Get the New SteelSeries Engine for Enhanced Performance on Windows 11 – Immediate Download Available!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-13-pro-max-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 13 Pro Max</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-realme-12-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Realme 12 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/mastering-visibility-after-a-tiktok-blackout/"><u>Mastering Visibility After a TikTok Blackout</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-mastering-filmora-scrn-a-beginners-guide-to-desktop-recording/"><u>New In 2024, Mastering Filmora Scrn A Beginners Guide to Desktop Recording</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-the-best-ai-translator-to-translate-videos-online/"><u>New In 2024, The Best AI Translator to Translate Videos Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-the-battle-against-no-record-solutions-for-shadowplay-on-pcs/"><u>Winning the Battle Against No-Record: Solutions for ShadowPlay on PCs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Secrets of Microsoft Family Safety
-date: 2024-09-09T11:58:20.934Z
-updated: 2024-09-10T11:58:20.934Z
+date: 2024-10-13T02:24:53.020Z
+updated: 2024-10-18T20:04:02.025Z
 tags:
   - windows10
   - windows11
@@ -30,12 +30,6 @@ thumbnail: https://thmb.techidaily.com/98af3c33462a260586336a96ddc2cbdb473875d7a
 
  Let's look at the features that make Microsoft Family Safety possible, one by one.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Content Filters
 
  The first feature of Microsoft's Family Safety, if not the most important one, is Content Filters. As its name suggests, Content Filter blocks inappropriate and user-specified content, thereby limiting your kid's access to websites, apps, games, etc., with the help of a customized filter.
@@ -50,6 +44,13 @@ Here's how you can set up one through Content Filters:
 
 ![content filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/content-filters.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alternatively, you can access your account through the Family Setup app on your smartphone. Here's how:
 
 1. Launch the**Family Safety** app.
@@ -61,11 +62,12 @@ Here's how you can set up one through Content Filters:
  On both the Web and the smartphone app, you will find an additional option,**Apps and games** section. As the name suggest, this will let you limit the user's access to specific apps or games.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Screen Time
 
  Overuse of smartphones, computers, and other digital devices is a key issue for children growing in this day and age. This is exactly where**Screen Time** will help you out.
@@ -84,11 +86,12 @@ Here's how you can enable Screen Time:
  You will get a new dialog box to choose a new day and time from there. Set your new screen time limit by clicking on**Done** . That's it; the screen time feature will be enabled on your PC from here on.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Find Your Family
 
 ![find your family](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/find-your-family.jpg)
@@ -111,12 +114,6 @@ Firstly, make sure you have checked all your location permissions:
 
  That's it; do this, and location sharing will be turned on your Family Safety account from here on.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Activity Reporting
 
  With Activity Reporting enabled on your PC, you get direct access to your family's device usage. Basically, how they use it, what they're spending their time most on, and for how long—Activity Reporting gives you all of this information in a single place. Again, you have two ways to go about this: through the website, or via the Family Safety app.
@@ -148,32 +145,21 @@ Here's how you can add money to your account:
 
 ![spending](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/spending.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As soon as you do this, your account will receive a new payment. From hereon, your family members are free to make purchases under the pre-set budget set by you.
 
  Of course, if there's a deeper financial problem causing bad spending habits, this will be a band-aid over a bigger issue. As such, check out[how to break bad online shopping habits](https://www.makeuseof.com/ways-break-bad-online-shopping-habits/) for more tips on toning the spending down.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Family Notebook
 
 ![family notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/family-notebook.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can plan and manage all your task or activities for days (or even weeks) from a single, personal app on your smartphone. However, if you're already a die-hard Microsoft user, why not make the most out of Family Notebook and its handy features?
 
  Family Notebook works as a repository for all your lists, tasks, notes, and future vacation planning. And, because of its sharing feature, all your family members will have access to your settings menu and the ability to edit. To get started with the Family Notebook, click on the**Create new note** hyperlink, which will then take you straight to OneNote.
@@ -183,25 +169,23 @@ Here's how you can add money to your account:
 ![microsoft family notebook](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/microsoft-family-notebook.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To get a full overview of Family Notebook, check out[Microsoft's short blog on Family Notebook](https://blogs.windows.com/windowsexperience/2018/05/14/windows-10-tip-organize-your-busy-lives-with-a-family-notebook-in-onenote/) .
 
 ## Learning All About Microsoft Family Safety
 
  Family Safety is Microsoft's attempt to help you take back control of how your family enjoys or uses different Microsoft products. With a little effort and understanding, you, too, can limit how you or your family members interact with the internet through their Microsoft products, and use technology in a more healthy, efficient manner.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -210,4 +194,18 @@ Here's how you can add money to your account:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-elevate-visual-impact-with-custom-typography-in-after-effects/"><u>[New] Elevate Visual Impact with Custom Typography in After Effects</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-productive-pastimes-during-your-podcast-engagement/"><u>[Updated] 2024 Approved Productive Pastimes During Your Podcast Engagement</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-exploring-8-superior-youtube-to-avi-software-for-2024/"><u>[Updated] Exploring 8 Superior YouTube-to-AVI Software for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-nba-live-action-your-guide-to-15-effective-livestream-tips-for-2024/"><u>[Updated] NBA Live Action Your Guide to 15 Effective Livestream Tips for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/bouncing-back-deleted-folders-on-your-pc/"><u>Bouncing Back Deleted Folders on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/browser-blackouts-unveiled-7-fixes-to-restore-access-on-your-os/"><u>Browser Blackouts Unveiled: 7 Fixes to Restore Access on Your OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/debunking-top-reasons-win11-beats-macos/"><u>Debunking: Top Reasons Win11 Beats macOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/declutter-data-step-by-step-hdd-defrag-for-win11/"><u>Declutter Data: Step-by-Step HDD Defrag for Win11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-6-plus-to-pc-via-usb-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 6 Plus to PC via USB? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/revolutionary-techniques-to-change-video-borders-in-tiktok-for-2024/"><u>Revolutionary Techniques to Change Video Borders in TikTok for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamlined-communication-with-chatgpt-and-macos/"><u>Streamlined Communication with ChatGPT and macOS</u></a></li>
+</ul></div>
 

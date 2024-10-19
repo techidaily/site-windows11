@@ -1,7 +1,7 @@
 ---
 title: How to Defrag a Hard Disk Drive in Windows 11
-date: 2024-09-26T16:17:21.501Z
-updated: 2024-10-01T16:40:10.014Z
+date: 2024-10-14T21:56:31.041Z
+updated: 2024-10-19T04:02:24.601Z
 tags:
   - windows10
   - windows11
@@ -58,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 ![The defrag c command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/defrag-c-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As mentioned, this command-line tool has numerous parameters for configuring the defragment operation. Those parameters give you extra optimization options and enable you to tweak the defragging more. You can view the parameter switches by inputting and executing this command:
@@ -73,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 ![The defrag help command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/defrag-parameter-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Defrag a Hard Drive With Defraggler
@@ -94,16 +94,16 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 ![The Defraggler tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-defraggler-tool.jpg)
 8. Press the**Defrag** button. Or you click that button’s arrow to select**Quick defrag** if preferred.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Defraggler will then do its stuff and displays an active status for the defrag operation. The drive map shows different color squares for fragmented and non-fragmented blocks. While in operation, you’ll also see yellow and green squares for files read and written. Click the**Drive map** tab to view Defraggler’s color code index.
 
 ![The Drive Map tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/drive-map-tab.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you prefer to defrag a specific folder or file, click the**Actions** menu. Click either the**Defrag Folder** or**Defrag File** option there. Select a directory or file to optimize and click**OK** .
 
@@ -114,10 +114,10 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 ![The Schedule window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-schedule-window.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can I Defrag a Solid-State Drive?
@@ -145,22 +145,22 @@ thumbnail: https://thmb.techidaily.com/8614a77f9e633f7b68cb429db560c3992306d2b5b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fix-needed-blank-display-on-mouse-input-device/"><u>[Fix Needed]: Blank Display on Mouse Input Device</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-navigating-legal-boundaries-in-whatsapp-call-recordings-for-2024/"><u>[New] Navigating Legal Boundaries in WhatsApp Call Recordings for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-shaping-public-perception-5-essentials-for-instagram-marketing-mavericks-for-2024/"><u>[Updated] Shaping Public Perception 5 Essentials for Instagram Marketing Mavericks for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-top-rated-asmr-gear-high-quality-priced-right/"><u>[Updated] Top-Rated ASMR Gear High Quality, Priced Right</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-editors-full-breakdown-of-editsphere-suite-updated/"><u>2024 Approved Editor's Full Breakdown of EditSphere Suite - Updated</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-top-notch-mac-visual-archiver/"><u>2024 Approved Top-Notch Mac Visual Archiver</u></a></li>
-<li><a href="https://windows11.techidaily.com/cutting-edge-solutions-exclusive-windows-systems-for-dsswitch-players/"><u>Cutting-Edge Solutions: Exclusive Windows Systems for DS/Switch Players</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-unauthorized-geforce-setting-error-on-modern-windows-versions/"><u>Fixing Unauthorized GeForce Setting Error on Modern Windows Versions</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-winxps-notorious-error-0x80300024/"><u>Fixing WinXP's Notorious Error 0X80300024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-activate-hyper-v-in-the-latest-windows-os/"><u>How To Activate Hyper-V in the Latest Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-overcome-java-vm-not-found-on-pc/"><u>How to Overcome Java VM Not Found On PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcome-stubborn-windows-terminals-a-step-by-step-guide/"><u>Overcome Stubborn Windows Terminals: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/secretive-startup-strategies-conceal-the-shutdown-command/"><u>Secretive Startup Strategies: Conceal the Shutdown Command</u></a></li>
-<li><a href="https://win-net.techidaily.com/spotizr-down-heres-how-to-fix-it-and-a-top-notch-free-substitute-you-can-download-today/"><u>Spotizr Down? Here's How to Fix It and a Top-Notch Free Substitute You Can Download Today!</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-decrease-high-cpu-usage-from-dropbox-on-windows-pcs/"><u>Strategies to Decrease High CPU Usage From Dropbox on Windows PCs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-tutorial-on-connecting-ps4-dualshock-wireless-controllers/"><u>Ultimate Tutorial on Connecting PS4 DualShock Wireless Controllers</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-changes-netflixs-shift-away-from-the-standard-subscription-option/"><u>Unveiling Changes: Netflix's Shift Away From the Standard Subscription Option</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-guide-to-disable-recommended-podcast-features-in-spotify-for-2024/"><u>[New] Guide to Disable Recommended Podcast Features in Spotify for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ps4-gameplay-to-video-an-in-depth-obs-recording-guide/"><u>[New] PS4 Gameplay to Video - An In-Depth OBS Recording Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-elevate-engagement-with-these-10-premier-youtube-seo-instruments/"><u>[Updated] 2024 Approved Elevate Engagement with These 10 Premier YouTube SEO Instruments</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-illustrators-dream-top-8-ipados-drawers/"><u>[Updated] Illustrator's Dream Top 8 iPadOS Drawers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-pivoting-from-srt-to-subtitle-format-for-2024/"><u>[Updated] Pivoting From SRT to Subtitle Format for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-superior-battery-packs-and-charger-systems-for-hero5/"><u>[Updated] Superior Battery Packs and Charger Systems for Hero5</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-fix-for-unknown-usb-device-and-port-issues-under-windows-11/"><u>Master the Fix for 'Unknown USB Device' And Port Issues Under Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-in-gaming-3-methods-for-directory-unlock/"><u>Mastery in Gaming: 3 Methods for Directory Unlock</u></a></li>
+<li><a href="https://techtrends.techidaily.com/snapchat-secrets-unveiled-the-art-of-crafting-reverse-video-content-easily/"><u>Snapchat Secrets Unveiled: The Art of Crafting Reverse Video Content Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/solve-your-inked-woes-a-guide-to-fixing-windows-pen-devices/"><u>Solve Your Inked Woes: A Guide to Fixing Windows Pen Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-w10w11-interruptexception-bsod-a-comprehensible-guide/"><u>Solving W10/W11 INTERRUPT_EXCEPTION BSOD: A Comprehensible Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-pc-functionality-addressing-11-windows-problems/"><u>Streamlining PC Functionality - Addressing 11 Windows Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-os-metamorphosis-insights-into-w10-and-w11-developments/"><u>The OS Metamorphosis: Insights Into W10 and W11 Developments</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-unseen-consequences-of-cost-saving-windows-activation/"><u>The Unseen Consequences of Cost-Saving Windows Activation</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-samsung-galaxy-f54-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-system-restore-issue-0x80042306-in-win10/"><u>Unraveling System Restore Issue 0X80042306 in Win10</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-ram-cache-basics-and-cleansing-methods/"><u>Windows RAM Cache Basics and Cleansing Methods</u></a></li>
 </ul></div>
 

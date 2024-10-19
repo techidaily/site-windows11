@@ -1,7 +1,7 @@
 ---
 title: "Reactive Keys: Reclaiming Shift on Win."
-date: 2024-09-05T02:08:03.084Z
-updated: 2024-09-06T02:08:03.084Z
+date: 2024-10-11T19:09:47.116Z
+updated: 2024-10-18T22:05:43.171Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
 
  If you need help, see our guide on [how to clean your keyboard and sterilize viruses and bacteria](https://www.makeuseof.com/tag/how-to-clean-keyboard/). Also, check out this [trick for cleaning under keyboard keys](https://www.makeuseof.com/tag/a-simple-trick-for-cleaning-under-your-keyboards-keys/).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Restart Your Computer
 
  If you've confirmed there are no physical connection issues, [restart your computer](https://www.makeuseof.com/windows-restart-methods/). This gives the machine a fresh start and could potentially resolve minor software glitches that might cause the shift key to not work. Remember to save files or applications before shutting down to protect your work.
@@ -33,11 +40,12 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
  This will ensure that none of your work is lost because of the restart. After restarting, open a text document and try typing again. If the shift key remains unresponsive, there may be an issue with your software settings.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Check Your Keyboard Settings
 
  The Filter key is an accessibility feature on Windows that could interfere with your keyboard's normal functioning. It ignores brief or repeated keystrokes, which may fail to process the input entirely. To prevent this from happening, try disabling the Filter key option and see if it solves the issue.
@@ -50,20 +58,8 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
 4. From here, locate the **Filter keys** option and toggle it off.  
 ![Turn Off Filter Keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/turn-off-filter-keys.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once done, close the Settings window and see if the shift key is now working.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Update or Reinstall Keyboard Drivers
 
  If the shift key is still not working, it could be an issue with your keyboard drivers. Outdated or corrupt drivers may cause compatibility issues and prevent hardware from functioning. To fix this issue, update your keyboard drivers using the below instructions.
@@ -87,6 +83,19 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
 
  Now close the Device Manager window and restart your computer. Windows will now automatically install drivers on startup. After that, test the shift key again and see if the problem is solved.
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Run the Hardware and Devices Troubleshooter
 
  Hardware and devices troubleshooter is a Windows program that scans your computer for hardware-related issues. Running this troubleshooter diagnoses and resolves underlying problems that may cause the shift key not to work.
@@ -98,27 +107,16 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
 3. In the Troubleshooting window, click **Advanced** and check the box next to **Apply repairs automatically**.  
 ![Run the Hardware and Devices Troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/run-the-hardware-and-devices-troubleshooter.jpg)
 4. Click **Next** and follow the instructions displayed on your screen.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The troubleshooter will now scan your computer for hardware-related issues. When it's done, restart your computer and check if the shift key now works.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Run the Keyboard Troubleshooter
 
  This tool is similar to the hardware and devices troubleshooter but specifically addresses keyboard-related problems. It detects software conflicts or other issues that may prevent the shift key from functioning. Follow these steps to run this troubleshooter:
@@ -133,18 +131,6 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
 
  Wait until the troubleshooter finishes and restart your computer. After that, check if the shift key functions normally.
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Scan for Malware
 
  Viruses or suspicious programs interfere with keyboard functionality, leading to unresponsive keys. To check if this is the issue, [scan your computer for malicious software](https://www.makeuseof.com/scan-for-viruses-without-buying-antivirus-software/).
@@ -157,26 +143,16 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
 4. On the right side of the page, click on **Scan options**.  
 ![Scan options in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/scan-options-in-windows-security.jpg)
 5. Next, check the **Full scan** box and click **Scan now**.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
+
  Wait for the scan to finish and check if it finds malicious programs. If threats are detected, remove them immediately. After that, restart your computer and see if the shift key is working now.
 
 ## 8\. Try a Different Keyboard
@@ -189,13 +165,18 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
 
  Type **osk** in the text field and hit **Enter**. Now test the shift key on this virtual keyboard. If it works now, you should consider replacing the physical keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Start Using the Shift Key Again on Windows
 
  The Shift key is useful for capitalization, symbols, and navigating Windows menus. However, if it stops working, tasks become tedious and productivity slows down. If other solutions fail, try performing a system restore to return your Windows computer to a previous state where the Shift key worked properly.
 
  If the Shift key stops working, it could disrupt your workflow. This guide explains how to troubleshoot and repair the Shift key not functioning on your computer.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -203,3 +184,22 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-from-lesser-known-to-youtube-star-amassing-an-army-of-admirers/"><u>[New] From Lesser Known to YouTube Star Amassing an Army of Admirers</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-enhancing-photos-allure-expert-color-correction-steps/"><u>[New] In 2024, Enhancing Photos' Allure Expert Color Correction Steps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-harmonic-windows-tunes-hub/"><u>[New] In 2024, Harmonic Windows Tunes Hub</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-accessing-your-curated-music-lists-on-youtube/"><u>2024 Approved Accessing Your Curated Music Lists on Youtube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-parsing-errors-in-your-android-app-top-8-solutions/"><u>Fix Parsing Errors in Your Android App: Top 8 Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-to-correct-err-87-on-windows-loadlib/"><u>Guidelines to Correct Err 87 on Windows LoadLib</u></a></li>
+<li><a href="https://windows11.techidaily.com/harness-full-potential-of-windows-11-task-manager-filters-and-themes-at-your-fingertips/"><u>Harness Full Potential of Windows 11 Task Manager: Filters & Themes at Your Fingertips</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-intervention-for-directdraw-fails-in-windows-1011/"><u>Immediate Intervention for DirectDraw Fails in Windows 10/11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/live-streaming-pro-manycam-powerful-video-editing-and-virtual-camera-app/"><u>Live Streaming Pro: ManyCam - Powerful Video Editing and Virtual Camera App</u></a></li>
+<li><a href="https://win-able.techidaily.com/put-an-end-to-constant-minecraft-crashes-with-these-6-quick-solutions/"><u>Put an End to Constant Minecraft Crashes with These 6 Quick Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/safeguarding-your-os-managing-usb-device-use/"><u>Safeguarding Your OS: Managing USB Device Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-common-disk-errors-on-windows-devices/"><u>Solutions for Common Disk Errors on Windows Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/strategies-to-resolve-xbox-one-joystick-faults/"><u>Strategies to Resolve Xbox One Joystick Faults</u></a></li>
+<li><a href="https://win11.techidaily.com/the-leaders-small-computers-running-windows/"><u>The Leaders: Small Computers Running Windows</u></a></li>
+</ul></div>
+

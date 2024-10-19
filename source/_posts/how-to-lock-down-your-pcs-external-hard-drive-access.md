@@ -1,7 +1,7 @@
 ---
 title: How To Lock Down Your PC's External Hard Drive Access
-date: 2024-09-05T02:08:02.555Z
-updated: 2024-09-06T02:08:02.555Z
+date: 2024-10-12T16:17:58.090Z
+updated: 2024-10-18T23:34:12.124Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,19 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 
 ![Using a Windows laptop on a brown desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/Using-a-Windows-laptop-on-a-brown-desk.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Local Group Policy Editor (LGPE) is a reliable tool for troubleshooting system errors. Interestingly, you can also use it for other tasks such as [preventing others from changing your Windows desktop background](https://www.makeuseof.com/stop-others-change-windows-desktop-background/).
 
  Now, here’s how to use the LGPE to prevent others from installing removable storage devices on Windows:
@@ -39,28 +52,30 @@ thumbnail: https://thmb.techidaily.com/d375bcd96d435c14a3e9a48edfb86d3a2995018c3
 
 ![Clicking the prevent installation of removable devices option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-prevent-installation-of-removable-devices-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select **Enabled** on the next screen to prevent others from installing removable storage devices into your PC. Alternatively, select **Disabled** or **Not Configured** to restore the default settings.
 
  Finally, press **Apply** and then press **OK** to save these changes.
 
  Struggling to access the LGPE on Windows Home? There are a few tricks you can apply to [access the LGPE on Windows Home](https://www.makeuseof.com/tag/access-group-policy-editor-even-windows-home-settings-try/). But if that sounds complicated to you, then skip to the Registry Editor method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Using the Registry Editor
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The Registry Editor is another reliable tool you can use for tweaking system settings and troubleshooting PC issues.
 
  However, this tool is quite sensitive. So, it’s often worth [backing up the Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) first before editing its keys.
@@ -81,12 +96,6 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
 
 ![Clicking the DenyRemovableDevices value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Clicking-the-DenyRemovableDevices-value.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, follow these steps:
 
 1. Double-click on the **DenyRemovableDevices** value.
@@ -94,23 +103,21 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
 3. Close the Registry Editor and restart your device to save these changes.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Prevent Others From Installing Specific Removable Storage Devices
 
  In some instances, you might want to prevent others from installing specific removable storage devices. So, let’s show you how you can do that using either the LGPE or the Registry Editor.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -119,4 +126,24 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-6-high-definition-21-hdmi-models-analyzed/"><u>[New] In 2024, 6 High-Definition 2.1 HDMI Models Analyzed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-incorporate-movies-into-your-youtube-collection-for-2024/"><u>[New] Incorporate Movies Into Your YouTube Collection for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-saving-your-itunes-media-three-simple-steps/"><u>[Updated] Saving Your iTunes Media Three Simple Steps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-rulebook-for-youtube-participants/"><u>[Updated] The Ultimate Rulebook for YouTube Participants</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-ultimate-vsco-photo-workflow-analysis/"><u>2024 Approved The Ultimate VSCO Photo Workflow Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reduce-overhead-from-real-time-scanners/"><u>How to Reduce Overhead From Real-Time Scanners</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-70-lite-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Honor 70 Lite 5G Bootloader Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-use-slideshow-and-spot-fix-in-the-windows-11-photos-app/"><u>How to Use Slideshow and Spot Fix in the Windows 11 Photos App</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-windows-blue-screen-data-assists-diagnosis/"><u>How Windows Blue Screen Data Assists Diagnosis</u></a></li>
+<li><a href="https://windows11.techidaily.com/restore-smooth-operation-to-windows-timer-tasks/"><u>Restore Smooth Operation to Windows Timer Tasks</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-stopping-bsod-events-with-vmware-on-win11/"><u>Solutions for Stopping BSOD Events with VMware on Win11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/speedy-conversion-transforming-vob-files-into-mkv-format-in-minutes/"><u>Speedy Conversion: Transforming VOB Files Into MKV Format in Minutes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-webcam-apps-featuring-manycam-technology-ideal-for-facebuzz/"><u>Top Webcam Apps Featuring ManyCam Technology Ideal for Facebuzz</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshoot-interface-not-recognized-a-win-to-success-guide/"><u>Troubleshoot 'Interface Not Recognized': A Win to Success Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-android-3d-player-showcase/"><u>Ultimate Android 3D Player Showcase</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-at-speedy-epic-games-installations/"><u>Winning at Speedy Epic Games Installations</u></a></li>
+<li><a href="https://windows11.techidaily.com/your-guide-to-developing-an-automatic-voice-to-text-application-for-windows/"><u>Your Guide to Developing an Automatic Voice-to-Text Application for Windows</u></a></li>
+</ul></div>
 

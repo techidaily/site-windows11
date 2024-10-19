@@ -1,7 +1,7 @@
 ---
 title: Unlocking Windows Safeguards Restricted by Admins
-date: 2024-09-28T20:12:18.699Z
-updated: 2024-10-01T21:43:47.685Z
+date: 2024-10-13T19:43:16.598Z
+updated: 2024-10-18T20:05:25.764Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5
  To reset Settings, you must open the Start menu and right-click the app’s shortcut. Select**App settings** to bring up some troubleshooting options for it. Then select the**Reset** troubleshooting option for the app.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Uninstall Third-Party Antivirus Software
@@ -62,29 +62,21 @@ thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5
 5. Clear the**Data value** box, and then input**0** there.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Select**OK** to set the**Enabled** DWORD’s value.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-dword-window.jpg)
 7. Exit Registry Editor and click the**Power** \>**Restart** Start menu options.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Set Group Policy’s Real-time Protection Settings to "Not Configured"
 
@@ -97,15 +89,23 @@ thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5
 5. Next, double-click**Windows Components** \>**Microsoft Defender Antivirus** \>**Real-time Protection** in the navigation sidebar.  
 ![The Real-time Protection policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-real-time-protection-policy-settings.jpg)
 6. Double-click any policy setting that’s with an enabled state.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Then select the**Not configured radio** button.  
 ![The Not Configured radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/not-configured-option.jpg)
 8. Click**Apply** \>**OK** in the window to set the change.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 9. Repeat the previous three steps for all real-time protection policies set to enabled.
@@ -119,6 +119,14 @@ thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5
 `Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}`  
 ![The reinstall app PowerShell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-reinstall-app-command.jpg)
 3. Press**Enter** and wait for the command to finish.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your laptop or desktop from the Start menu.
 
 ## 7\. Reinstall Windows 11 With the Media Creation Tool
@@ -135,14 +143,14 @@ thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5
 ![The Keep personal files and apps radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/keep-personal-files-option.jpg)
 7. Then select**Next** to proceed to the last step.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Click**Install** to reinstall Windows 11.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Change Windows Security’s Settings Again
 
@@ -163,15 +171,22 @@ thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-masterfulaiimageeditor-the-best-of-both-worlds/"><u>[Updated] MasterfulAiImageEditor The Best of Both Worlds</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-windows-11-unable-to-load-driver-errors/"><u>Addressing Windows 11: Unable to Load Driver Errors</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/focuscutout-how-to-blur-your-youtube-videos-background/"><u>ClearFocusCutOut How to Blur Your YouTube Video's Background</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/declutter-your-inbox-effortlessly-learn-the-key-strategy-without-complicated-settings-zdnet/"><u>Declutter Your Inbox Effortlessly - Learn the Key Strategy without Complicated Settings | ZDNET</u></a></li>
-<li><a href="https://facebook.techidaily.com/high-definition-content-for-fb-messenger-a-guide/"><u>High-Definition Content for FB Messenger: A Guide</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/mastering-gaming-realms-with-the-mighty-xbox-one-x-a-comprehensive-review/"><u>Mastering Gaming Realms with the Mighty Xbox One X - A Comprehensive Review</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-effortlessly-switch-between-windows-terminal-focus-and-normal-states/"><u>Steps to Effortlessly Switch Between Windows Terminal Focus and Normal States</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-your-windows-11-program-choices/"><u>Streamlining Your Windows 11 Program Choices</u></a></li>
-<li><a href="https://windows11.techidaily.com/supercharge-performance-conquering-windows-lag-issues/"><u>Supercharge Performance: Conquering Windows Lag Issues</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-complete-cheat-sheet-for-negative-snap-playback/"><u>The Complete Cheat Sheet for Negative Snap Playback</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-best-freebies-winning-windowsmac-video-tools/"><u>[Updated] 2024 Approved Best Freebies Winning Windows/Mac Video Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-professional-screenshot-taker-apowersoft-screen-recorder/"><u>[Updated] 2024 Approved Professional Screenshot Taker Apowersoft Screen Recorder</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-audio-file-alchemy-converting-srt-to-multiple-formats-professionally/"><u>2024 Approved The Audio File Alchemy Converting SRT to Multiple Formats Professionally</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oppo-reno-11-pro-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Oppo Reno 11 Pro 5G Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-gpt-assist-in-finalizing-writings/"><u>Can GPT Assist in Finalizing Writings?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-missing-essentials-issue-on-windows-11-system/"><u>Correcting 'Missing Essentials' Issue on Windows 11 System</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-d3dx939-error-steps-to-recover-dll/"><u>Fixing D3DX9_39 Error: Steps to Recover DLL</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-alt-codes-not-working-on-windows/"><u>How to Fix ALT Codes Not Working on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-internal-error-has-occurred-remote-desktop-connection-error-in-windows-11-and-11/"><u>How to Fix the “Internal Error Has Occurred” Remote Desktop Connection Error in Windows 11 & 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/identifying-the-creators-of-chatgpt-an-in-depth-look/"><u>Identifying the Creators of ChatGPT: An In-Depth Look</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-substitutes-to-moviemaker-in-the-windows-realm/"><u>In 2024, Substitutes to MovieMaker in the Windows Realm</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-meme-gurus-list-of-the-best-designs-10/"><u>In 2024, The Meme Guru's List of the Best Designs #10</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-code-with-microsoft-copilot-on-windows/"><u>Mastering Code with Microsoft Copilot on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/quicken-pace-elevating-gameplay-with-better-frames/"><u>Quicken Pace: Elevating Gameplay with Better Frames</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-resolving-non-functional-windows-alt-keys/"><u>Steps for Resolving Non-Functional Windows Alt Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-mouse-accel-tips-for-win-11-users/"><u>Stop Mouse Accel: Tips for Win 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-woes-alternatives-without-upgrading/"><u>Windows 11 Woes: Alternatives Without Upgrading</u></a></li>
 </ul></div>
 

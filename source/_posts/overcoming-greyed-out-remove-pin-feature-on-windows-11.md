@@ -1,7 +1,7 @@
 ---
 title: Overcoming Greyed-Out Remove PIN Feature on Windows 11
-date: 2024-10-06T01:28:03.547Z
-updated: 2024-10-12T22:14:20.060Z
+date: 2024-10-17T22:19:58.758Z
+updated: 2024-10-18T16:05:09.174Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 6. With the option disabled, you can now remove PIN for Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Remove the PIN Using the I Forgot My PIN Window
@@ -77,25 +77,19 @@ That's it! You have successfully removed the Windows Hello PIN.
 ![windows 11 account manage my accounts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-account-manage-my-accounts.jpg)
 3. Scroll down to the**Related setting** s section and click on**Accounts** (Manage my account). This will open the Microsoft account security page online.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Sign in to your Microsoft account.
 5. Next, open the**Security** tab.
 
 1. Click on**Advanced security options** .  
 ![microsoft account advanced security options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/microsoft-account-advanced-security-options.jpg)
 2. Now scroll down to the**Additional security** section.  
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![additional security turn off passwordless account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/additional-security-turn-off-passwordless-account.jpg)
 3. Click on**Turn Off** for**Passwordless account.**
@@ -108,10 +102,10 @@ That's it! You have successfully removed the Windows Hello PIN.
 ![windows 11 remove pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-remove-pin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the option is restored, follow these steps to remove Windows Hello PIN from the Settings app:
@@ -124,10 +118,10 @@ That's it! You have successfully removed the Windows Hello PIN.
 6. Enter your account password and click OK to remove the PIN.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix the Grayed-Out Remove PIN Option
@@ -149,20 +143,15 @@ That's it! You have successfully removed the Windows Hello PIN.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-short-vid-star-spotlight-check/"><u>[New] 2024 Approved Short Vid Star Spotlight Check</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-the-art-of-engagement-mastering-tiktoks-language-through-5-essential-caption-techniques/"><u>[New] 2024 Approved The Art of Engagement Mastering TikTok's Language Through 5 Essential Caption Techniques</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-vm-management-hosting-linux-on-a-windows-system-with-hyper-v/"><u>Efficient VM Management: Hosting Linux on a Windows System with Hyper-V</u></a></li>
-<li><a href="https://windows11.techidaily.com/experience-true-tech-fusion-windows-android-via-samsung/"><u>Experience True Tech Fusion – Windows, Android via Samsung</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-iphone-alarm-malfunctions-expert-tips-and-solutions/"><u>Fixing iPhone Alarm Malfunctions: Expert Tips & Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/getting-a-sneak-peek-of-windows-new-features-via-vivetool/"><u>Getting a Sneak Peek of Windows' New Features via ViVeTool</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-direct-conversion-convert-and-upload-mp3-songs-on-youtube/"><u>In 2024, Direct Conversion Convert & Upload MP3 Songs on YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-twitch-live-reset-guide/"><u>In 2024, Twitch Live Reset Guide</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/in-2024-what-is-an-ai-art-generator/"><u>In 2024, What Is an AI Art Generator?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/jumpstart-earnings-a-novice-written-guide-for-2024/"><u>Jumpstart Earnings A Novice’ Written Guide for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-for-google-chromes-sudden-closure-on-winos/"><u>Quick Fix for Google Chrome’s Sudden Closure on WinOS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726228218277-raf-movavi/"><u>RAF 線上免費切換服務 - Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/syncing-sound-levels-across-windows-and-bt-audio-gear/"><u>Syncing Sound Levels Across Windows and BT Audio Gear</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-simple-trick-to-finding-your-installed-application-home/"><u>The Simple Trick to Finding Your Installed Application Home</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-restoring-icon-clarity-on-your-pcs-desktop/"><u>Tips for Restoring Icon Clarity on Your PC's Desktop</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-budding-photographers-guide-to-enhanced-gopro-capabilities/"><u>[New] 2024 Approved Budding Photographers' Guide to Enhanced GoPro Capabilities</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/aximize-your-content-interaction-for-2024/"><u>[New] Maximize Your Content Interaction for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-to-transmit-facebook-live-via-televisions/"><u>2024 Approved How to Transmit Facebook Live via Televisions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/effective-temperature-regulation-with-kooteks-laptop-cooler-an-in-depth-product-review/"><u>Effective Temperature Regulation with Kootek's Laptop Cooler - An In-Depth Product Review</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-pursuit-of-perfection-online-tv-capture-made-simple/"><u>In Pursuit of Perfection - Online TV Capture Made Simple</u></a></li>
+<li><a href="https://windows11.techidaily.com/low-cost-high-risks-9-concerns-with-sub-standard-windows-keys/"><u>Low Cost, High Risks: 9 Concerns with Sub-Standard Windows Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-device-access-barriers-in-audacity-windows/"><u>Overcoming Device Access Barriers in Audacity (Windows)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/solution-the-minimum-number-of-days-typically-required-to-cure-concrete-under-normal-temperature-conditions-is-at-least-7-days/"><u>Solution: The Minimum Number of Days Typically Required to Cure Concrete Under Normal Temperature Conditions Is at Least 7 Days</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-mending-the-the-service-did-not-respond-windows-issue/"><u>Strategies for Mending the 'The Service Did Not Respond' Windows Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/unpack-and-deploy-quick-apk-installation-guide-in-windows-11/"><u>Unpack and Deploy: Quick APK Installation Guide in Windows 11</u></a></li>
 </ul></div>
 

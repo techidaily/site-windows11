@@ -1,7 +1,7 @@
 ---
 title: "Mastering Windows Hotkeys: Rapid Text Copy and Paste"
-date: 2024-10-05T23:28:17.928Z
-updated: 2024-10-13T03:56:23.343Z
+date: 2024-10-18T03:27:55.162Z
+updated: 2024-10-19T01:33:55.204Z
 tags:
   - windows10
   - windows11
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
  QuickTextPaste needs to be running in the background for its hotkeys to work. You can set the program to run automatically by clicking**Action** \>**Start** **with Windows** . Select the**Always start minimized (ToTray)** option to set the program to appear only in the system tray area when started.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Set up Hotkeys for Pasting Pre-Defined Text With HotkeyP
 
  HotkeyP is a lightweight app with which you can set up a wide variety of system, display, multimedia, window, and macro hotkeys. As it’s a portable program, you can utilize it on most Windows platforms with no installation necessary. These are the steps for setting up a custom paste hotkey for pre-defined text with HotkeyP:
@@ -68,29 +61,16 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 5. Unzip the**hotkeyp\_64bit.zip** archive by right-clicking it and selecting**Extract All** . Click**Show extracted files** **when complete** \>**Extract** within the extraction tool.  
 ![The Extract All context menu option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/extract-all-option.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Double-click**HotkeyP.exe** within the hotkeyp\_64bit folder.
 2. Click**Add** to bring up a Hot Key window.  
 ![The HotkeyP window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hotkeyp.jpg)
 3. Next, press the arrow (**<**) button for the**Command** box.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Select**Macro** and the**Paste text** option.  
@@ -103,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ![The Hot Key window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hot-key-window.jpg)
 9. Select**OK** to add the new custom paste hotkey.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now you’ll see the hotkey you’ve just set listed within the HotkeyP window. Press**Esc** to hide the HotkeyP in the system tray. Then open WordPad, Notepad, or another text editor to try out the hotkey. Press the custom hotkey you’ve set up to paste in its pre-defined text.
 
  When you need to modify a hotkey or its text, select it in HotkeyP and click**Edit** . Then you can adjust the parameter and key configuration within the Hot Key window again. To remove a hotkey, select a keyboard shortcut and click**Delete** .
@@ -111,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![The General tab in HotkeyP's Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-general-tab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Creating Other Hotkeys With HotkeyP
 
  It’s also worth exploring the other options for creating hotkeys HotkeyP offers beyond pasting pre-defined text. For example, you can set up custom hotkeys for various system functions like shutting down, logging off, emptying the Recycle Bin, and opening the Programs and Features applet among others. To do so, click the**arrow (<)** button and**System** on the Hot Key window to choose one of those hotkey functions.
@@ -118,10 +112,10 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ![The System hotkey options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/system-hotkey-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or you can set up some custom window control hotkeys. Select**Window** on the command menu to view the various window keyboard shortcut options. There you can select**Always on Top** ,**Maximize window** ,**Minimize others** ,**Window snapshot,** **Close window** , and**Opacity** hotkey options, to name a few.
@@ -147,22 +141,20 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://windows11.techidaily.com/adjusting-win11-taskbar-icon-dimensions/"><u>Adjusting Win11 Taskbar Icon Dimensions</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/comment-recuperer-les-elements-effaces-de-la-corbeille-guide-complet-pour-tout-ce-que-vous-avez-perdu/"><u>Comment Récupérer Les Éléments Effacés De La Corbeille ? Guide Complet Pour Tout Ce Que Vous Avez Perdu</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/compreran-list-efficient-platforms-for-downloading-your-favorite-tones/"><u>Compreran List Efficient Platforms for Downloading Your Favorite Tones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722971652934-ensure-your-windows-device-works-seamlessly-with-updated-zebra-printer-drivers-heres-where-to-get-them/"><u>Ensure Your Windows Device Works Seamlessly with Updated Zebra Printer Drivers - Here's Where to Get Them!</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-open-wordpad-in-windows/"><u>How to Open WordPad in Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-itel-p55plus-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Itel P55+</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-solutions-to-spy-on-apple-iphone-7-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>In 2024, Solutions to Spy on Apple iPhone 7 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/perfect-pixels-with-pro-android-tips/"><u>Perfect Pixels with Pro Android Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/revisiting-microsofts-phone-tethering-for-windows-11-users/"><u>Revisiting Microsoft's Phone Tethering for Windows 11 Users</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-seamless-transition-of-images-and-clips-from-iphones-to-computers/"><u>Step-by-Step Guide: Seamless Transition of Images & Clips From iPhones to Computers</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-correcting-malwarebytes-call-failure-in-win11win10/"><u>Steps for Correcting Malwarebytes Call Failure in Win11/Win10</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-prevent-and-fix-windows-error-code-0xc00000f/"><u>Strategies to Prevent & Fix Windows Error Code 0Xc00000f</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-the-setup-of-new-non-operational-store-programs/"><u>Streamlining the Setup of New, Non-Operational Store Programs</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-the-fatal-instruction-violation-in-windows-error-0xc00000e9/"><u>Troubleshooting the Fatal Instruction Violation in Windows (Error 0xC00000E9)</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-nearby-share-for-file-transfers/"><u>Understanding Nearby Share for File Transfers</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-11-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Realme 11 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/your-missing-flight-tech-copilot-in-new-os/"><u>Your Missing Flight Tech (Copilot) in New OS?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-expert-advice-seamless-srt-file-sharing-across-all-social-networks/"><u>[Updated] 2024 Approved Expert Advice Seamless SRT File Sharing Across All Social Networks</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-essential-editing-techniques-for-yt-channel-summaries/"><u>[Updated] Essential Editing Techniques for YT Channel Summaries</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-zombification-extravaganza-8-epic-titles-ranked-in-2024/"><u>[Updated] Zombification Extravaganza - 8 Epic Titles Ranked, In 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-boosting-instagram-visibility-the-ultimate-guide-to-puzzle-feeds/"><u>2024 Approved Boosting Instagram Visibility The Ultimate Guide to Puzzle Feeds</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-insights-selecting-the-right-os-for-gaming-glory/"><u>Expert Insights: Selecting the Right OS for Gaming Glory</u></a></li>
+<li><a href="https://windows11.techidaily.com/festive-glamour-unveiled-in-decorative-windows/"><u>Festive Glamour Unveiled in Decorative Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-error-lost-access-to-ubisoft-game-launcher/"><u>Fixing Windows Error: Lost Access to Ubisoft Game Launcher</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-resolve-d3dx924dll-not-found-errors-effectively/"><u>How to Resolve 'd3dx9_24.dll Not Found' Errors Effectively?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-cutzone-pro-review-unveiled-for-2024/"><u>In-Depth Analysis CutZone Pro Review Unveiled for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/launching-wordpad-windows-users-handbook/"><u>Launching WordPad: Windows User's Handbook</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/no-cost-screen-record-the-ultimate-win11-tools-1-5-listing/"><u>No-Cost Screen Record The Ultimate Win11 Tools #1-5 Listing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/nw-a35-reviews-auditory-excellence/"><u>NW-A35 Reviews: Auditory Excellence</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-glance-at-recent-files-in-windows/"><u>Quick Glance at Recent Files in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-disappearing-results-from-windows-1011-search-tool/"><u>Solving Disappearing Results From Windows 10/11 Search Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-productivity-a-guide-to-making-multiple-directories-at-once-in-windows/"><u>Unleashing Productivity: A Guide to Making Multiple Directories at Once in Windows</u></a></li>
 </ul></div>
 

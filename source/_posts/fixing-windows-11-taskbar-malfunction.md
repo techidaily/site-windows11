@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows 11 Taskbar Malfunction
-date: 2024-10-11T19:11:31.331Z
-updated: 2024-10-12T20:58:22.105Z
+date: 2024-10-11T22:57:06.476Z
+updated: 2024-10-18T21:36:22.661Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,13 @@ To restart a Windows Explorer service:
 
 ![reinstall re_register all Windows 11 apps powershell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-re_register-all-windows-11-apps-powershell.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Windows 11 taskbar can stop working due to issues with the built-in apps and the user account. To fix the problem, you can reinstall and re-register all the built-in apps using a PowerShell cmdlet. Doing so will restore the taskbar to its working state.
 
 To reinstall and register all Windows apps:
@@ -52,17 +59,17 @@ To reinstall and register all Windows apps:
 ![system restore select restore point recommended](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/reinstall-re_register-all-windows-11-apps-powershell-1.jpg)
 3. In the PowerShell window, type the following command and press**Enter** :  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}`
 4. Windows will now try to reinstall and re-register all the built-in Windows apps. You’ll see an error message in red indicating the app already exists and cannot be reinstalled. Ignore the message and wait for the process to complete till you see the following line:  
 `PS C:\Users\Administrator>`
 5. Close PowerShell and restart your computer. If you don’t want to perform a system reboot, restart Windows Explorer in Task Manager.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Uninstall the Recently Installed Windows Update
 
@@ -73,13 +80,6 @@ To reinstall and register all Windows apps:
 ## 4\. Close Conflicting System Services
 
 ![close system services task manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/close-system-services-task-manager.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Issues with some system services, such as searchhost.exe and runtimebroker.exe, can cause the taskbar to stop working. You can restart these services in Task Manager to resolve the issue.
 
@@ -97,13 +97,6 @@ To restart system services in Task Manager:
  RuntimeBroker.exe`
 4. After you restart all the services, close Task Manager and restart your computer. After the computer restarts, check if the taskbar is working.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Enable XAML for Start Menu Using Registry Editor
 
  Another nifty trick to fix the taskbar not working issue is to make the Start menu use XAML and resolve issues that may cause the menu to stop working.
@@ -120,16 +113,17 @@ To make the Start menu use XAML:
 ![registry editor advanced new dword value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/registry-editor-advanced-new-dword-value.jpg)
 5. Rename the value as**EnableXamlStartMenu.**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Next, double-click on the newly created**EnableXamlStartMenu** value to modify it.  
 ![registry editor advanced new dword value data 0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/registry-editor-advanced-new-dword-value-data-0.jpg)
 7. Type**0** in the**Value data** field and click**OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Close Registry Editor and restart your PC.
 
 ## 6\. Run System File Checker and DISM
@@ -151,6 +145,13 @@ To make the Start menu use XAML:
 ![system restore select restore point recommended](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-restore-select-restore-point-recommended.jpg)
 3. In the**System Restore** dialog, you may be prompted to use a recommended restore point. Ensure the restore point was created before the taskbar stopped working, and click**Next** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Alternatively, select**Choose a different restore point** option and click**Next** .  
 ![system restore select restore point](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-restore-select-restore-point.jpg)
 5. Here, select the**Show more restore points option** to view all restore points available.
@@ -159,18 +160,18 @@ To make the Start menu use XAML:
 
  Your system may restart a few times when system restore is in progress. Leave the system idle and wait for the process to complete. When the system restarts, you’ll see a success message. If not, try again with the same or another restore point if available.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Create a New User Account
 
  A corrupt user profile can cause some system functions to stop working. To fix the issue, create a new user account and try to access the taskbar.
 
  You can[create a new user account in Windows 11](https://www.makeuseof.com/windows-11-create-local-user-account/) from the Settings panel, using the User Accounts dialog, Command Prompt, and Local Users and Groups. Next, log in to your new user account and check if the taskbar works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Easy Fixes to Restore the Windows 11 Taskbar
 
@@ -193,16 +194,15 @@ To make the Start menu use XAML:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-checklist-for-fb-cover-video-excellence-for-2024/"><u>[New] The Ultimate Checklist for FB Cover Video Excellence for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-overcoming-virtual-reality-nausea/"><u>[Updated] Overcoming Virtual Reality Nausea</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fusing-visuals-with-acoustic-expressionism/"><u>2024 Approved Fusing Visuals with Acoustic Expressionism</u></a></li>
-<li><a href="https://windows11.techidaily.com/command-center-for-direct-access-to-windows-11s-appsfolders/"><u>Command Center for Direct Access to Windows 11'S AppsFolders</u></a></li>
-<li><a href="https://windows11.techidaily.com/crafting-unique-room-backgrounds-with-windows-spotlight-pics/"><u>Crafting Unique Room Backgrounds with Windows Spotlight Pics</u></a></li>
-<li><a href="https://windows11.techidaily.com/customize-pc-audio-with-windows-11s-volume-mixer-tutorial/"><u>Customize PC Audio with Windows 11'S Volume Mixer Tutorial</u></a></li>
-<li><a href="https://windows11.techidaily.com/decode-and-resolve-uninitialized-disk-message-on-pc/"><u>Decode and Resolve Uninitialized Disk Message on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719271997711-enable-high-contrast-mode-go-to-ease-of-access-settings-and-enable-high-contrast-mode-if-it-improves-visibility/"><u>Enable High Contrast Mode: Go to 'Ease of Access' Settings and Enable High Contrast Mode if It Improves Visibility.</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-review-ricoh-theta-s-unveiled-in-detail-for-2024/"><u>Expert Review Ricoh Theta S Unveiled in Detail for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Samsung Galaxy A15 5G? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-14-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 14 System? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-stop-automated-post-proposals-on-instagram/"><u>[Updated] 2024 Approved Stop Automated Post Proposals on Instagram</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-navigating-tiktoks-virtual-stage-with-zoom-expertise/"><u>[Updated] In 2024, Navigating TikTok's Virtual Stage with Zoom Expertise</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-peak-memes-ranking-the-viral-ones-on-both-platforms/"><u>2024 Approved Peak Memes Ranking the Viral Ones on Both Platforms</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-m34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>A Detailed VPNa Fake GPS Location Free Review On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-overcome-error-403-in-roblox-windows/"><u>How to Overcome Error 403 in Roblox (Windows)</u></a></li>
+<li><a href="https://windows11.techidaily.com/implementing-user-specific-windows-11-volume-keys/"><u>Implementing User-Specific Windows 11 Volume Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/refine-outdated-media-mastering-the-madvr-technique-for-windows/"><u>Refine Outdated Media: Mastering the MadVR Technique for Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-a-stuck-windows-11-taskbar/"><u>Solutions for a Stuck Windows 11 Taskbar</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-10-strategies-for-impactful-spotify-ads/"><u>Top 10 Strategies for Impactful Spotify Ads</u></a></li>
 </ul></div>
 

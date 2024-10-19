@@ -1,7 +1,7 @@
 ---
 title: Understanding & Manipulating Windows Files' Creation Timestamps
-date: 2024-09-05T02:09:43.681Z
-updated: 2024-09-06T02:09:43.681Z
+date: 2024-10-15T01:07:44.082Z
+updated: 2024-10-18T23:17:32.997Z
 tags:
   - windows10
   - windows11
@@ -92,11 +92,12 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
  Using third-party tools to modify attributes requires you to grant apps permission to access the file. Therefore, if the documents you want to modify the dates for are confidential, don't use third-party apps to change the attributes; instead, use the official methods offered by Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Remove Other File Attributes Using File Explorer
 
  While File Explorer does not permit modifying critical attributes such as Date Created, Date Modified, and Date Accessed, it does permit users to remove specific attributes such as the author, copyright information, revision number, etc. To remove attributes that are possibly removable using File Explorer, follow the below steps:
@@ -107,27 +108,31 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 4. Click the **Remove Properties and Personal Information** link.  
 ![Opening the Window to Remove the Personal Information of Text Document in the Details Tab of Document Properties](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/1-Removing-the-Personal-Information-of-Text-Document-in-the-Details-Tab-of-Document-Properties.jpg)
 5. To remove all possible properties automatically, check the circle beside **Create a copy with all possible properties removed**. This will create a duplicate of the file at the exact location after deleting all possible attributes.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Removing possible file attributes in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/removing-possible-file-attributes-in-file-explorer.jpg)
 6. To remove selected properties, check the circle beside **Remove the following properties from this file**, select the attributes you want to remove, and click **OK**.
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Modify Your File's Attributes With Ease
 
  Modifying file attributes is a great way to hide author information, revision numbers, and other details, such as when a file was created, modified, or accessed. Hopefully, you now better understand the different ways to modify file attributes. Using PowerShell is the easiest and most recommended method to change them.
@@ -138,11 +143,29 @@ $(Get-Item File-Name).lastwritetime=$(Get-Date "mm/dd/yyyy")`
 
  If you don't want the receiver to know the actual file attributes, here's how to remove or modify them.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-best-practices-for-streamlining-webinars-on-windowsapple-os/"><u>[New] In 2024, Best Practices for Streamlining Webinars on Windows/Apple OS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-snap-a-different-shot-11-best-instagram-tools/"><u>[New] Snap A Different Shot - 11 Best Instagram Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-android-hacks-counterclockwise-video-stream/"><u>[Updated] In 2024, Android Hacks Counterclockwise Video Stream</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-mastering-twitter-broadcast-alive-tweets-guide/"><u>[Updated] Mastering Twitter Broadcast Alive Tweets Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-clever-cmd-gimmicks-to-spice-up-your-day/"><u>5 Clever CMD Gimmicks to Spice Up Your Day</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-scripts-not-active-top-4-fixes-to-powershell-load-issue/"><u>Bypassing 'Scripts Not Active': Top 4 Fixes to PowerShell Load Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-overview-how-to-optimize-w11s-auto-hdr/"><u>Comprehensive Overview: How to Optimize W11's Auto HDR</u></a></li>
+<li><a href="https://windows11.techidaily.com/construct-ai-driven-artistry-with-win11-and-paint-tool-sai-your-ultimate-guide-to-image-creation/"><u>Construct AI-Driven Artistry with Win11 & Paint Tool SAI: Your Ultimate Guide to Image Creation</u></a></li>
+<li><a href="https://windows11.techidaily.com/cybersecurity-commandments-winning-access-prevention-on-windows/"><u>Cybersecurity Commandments: Winning Access Prevention on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-high-cpu-demands-the-case-for-vanguards-ums-optimization/"><u>Deciphering High CPU Demands: The Case for Vanguard's UMS Optimization</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-the-ultimate-guide-to-free-premium-4k-players-compatible-with-windows-10-11-and-macos/"><u>Discover the Ultimate Guide to FREE Premium 4K Players - Compatible with Windows 10, 11 and macOS</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/evaluating-the-storage-power-of-64128gb-units-for-vids/"><u>Evaluating the Storage Power of 64/128GB Units for Vids</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/speedy-cam-and-commentary-recorder-software-for-2024/"><u>Speedy Cam & Commentary Recorder Software for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-solving-windows-10s-missing-fix-service-registration-problems/"><u>Troubleshooting and Solving Windows 10'S Missing Fix Service Registration Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-the-top-cable-modem-plus-router-bundles-for-2e24/"><u>Ultimate Guide to the Top Cable Modem + Router Bundles for 2E24</u></a></li>
+</ul></div>
+

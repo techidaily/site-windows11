@@ -1,7 +1,7 @@
 ---
 title: Regain Control of Inactive USB Ports with Easy Steps Win
-date: 2024-09-05T02:08:25.655Z
-updated: 2024-09-06T02:08:25.655Z
+date: 2024-10-18T02:19:37.590Z
+updated: 2024-10-18T21:45:31.563Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 
  Finally, grab a USB cable (or flash drive) and gently wiggle it around. If the drive is moving and feels loose---typically this will be up and down---then you have a problem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Fix a Broken USB Port on PC and Laptop
 
  We'll look at some software fixes in a moment, but first, what if the USB port is loose?
@@ -73,30 +80,19 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 3. Expand this and look for the **USB Host Controller**(your device may have a longer title, but it will feature those three words)  
 ![Find the USB Host Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr-host-controller.png)
 4. Right-click USB Host Controller (and any duplicates) and select **Uninstall**  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Uninstall USB Host Controller](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/03/muo-diy-fix-USB-ports-device-mgr-host-controller-uninstall.png)
 5. Restart your computer
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. If no USB Host Controller is listed, click **Scan for hardware changes** on the toolbar
 
  If you're using a USB mouse and keyboard, it will be disabled while the USB Host Controllers are uninstalled.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Have Power Settings Stopped Your USB Ports Working?
 
  If power management settings are overriding your USB controller, this will impact the detection of USB devices. It will appear that USB is not working, but in fact the operating system has put the device to sleep.
@@ -117,34 +113,25 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 6. Change the drop-down menu to **Disabled**  
 ![Alter USB power settings in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/muo-windows-dead-usb-suspend-bg-2022.jpg)
 7. Click **Apply** and **OK** to confirm
+
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 8. Finally, reboot your PC to ensure this change is applied
 
  You should find that any USB ports that were not working have now been fixed.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## USB Port Still Not Working? Reset the BIOS/UEFI Settings
 
  Your BIOS/UEFI exists to help provide a low-level interface between the hardware, software, and firmware on your computer. In other words, it helps all the major components of your PC combine and work together. In terms of specific functions, it helps you carry out the boot-up process, hardware initialization, system configuration, firmware updates, and so on.
@@ -153,19 +140,11 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 
  Check out [how to enter the BIOS settings on Windows](https://www.makeuseof.com/tag/enter-bios-computer/) for instructions. If it was indeed a faulty BIOS/ UEFI stopping your USB port from working properly, then everything will be back to normal after a reset.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## You've Fixed Your Broken USB Port
 
  As you can see, you have several options for repairing an unresponsive USB port. In most cases, it won't be dead, and you'll be able to fix it.
 
  USB ports aren't the only potential weak spots on your computer. Looking after your hardware will reduce potential failures, and you can save a lot of money if you know how to test your PC for failing hardware.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -173,3 +152,23 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-from-sky-to-framing-a-compreenasive-review-of-the-drone-dji-spark/"><u>[New] 2024 Approved From Sky to Framing A Compreenasive Review of the Drone DJI Spark</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-how-to-record-tv-shows-on-windows-pc-with-free-video-recording-software-in-2024/"><u>[New] How to Record TV Shows on Windows PC with Free Video Recording Software, In 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-optimizing-your-video-conferencing-process-with-slack-and-filmora-tools/"><u>[New] Optimizing Your Video Conferencing Process with Slack and Filmora Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-5-beginner-secrets-to-mastering-photoshop-edits/"><u>[Updated] 5 Beginner Secrets to Mastering Photoshop Edits</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/descargue-y-convierte-archivos-ogv-a-formatos-wmv-sin-coste-alguno-con-movavi/"><u>Descargue Y Convierte Archivos OGV a Formatos WMV Sin Coste Alguno Con Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-ways-to-erase-defenders-security-chronicles-in-windows/"><u>Efficient Ways to Erase Defender's Security Chronicles in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-transform-heic-photos-to-jpeg-via-windows-11/"><u>Efficiently Transform HEIC Photos to JPEG via Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-reminder-placement-on-windows-11-and-10/"><u>Effortless Reminder Placement on Windows 11 & 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-internal-failure-on-desktop-connections/"><u>Eliminating Internal Failure on Desktop Connections</u></a></li>
+<li><a href="https://windows11.techidaily.com/embedding-apple-calendar-data-in-windows-desktop-app/"><u>Embedding Apple Calendar Data in Windows Desktop App</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-diagnostics-in-the-latest-windows-versions/"><u>Enhancing Diagnostics in the Latest Windows Versions</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-window-operations-no-more-minimizing/"><u>Enhancing Window Operations: No More Minimizing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/m1-advantages-in-high-quality-video-production-workstations-for-2024/"><u>M1 Advantages in High-Quality Video Production Workstations for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-evolution-continues-iphone-xs-photographic-advancements/"><u>The Evolution Continues IPhone X's Photographic Advancements</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Lava Blaze Curve 5G | Dr.fone</u></a></li>
+</ul></div>
+

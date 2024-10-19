@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Expired Semaphore in Win11/10 Systems
-date: 2024-09-28T00:21:43.101Z
-updated: 2024-10-01T18:49:58.587Z
+date: 2024-10-12T03:24:39.703Z
+updated: 2024-10-18T21:32:01.609Z
 tags:
   - windows10
   - windows11
@@ -40,44 +40,30 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 4. Select **Next** to start the troubleshooting and apply the fixes suggested.  
 ![The Hardware and Devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/hardware-and-devices-troubleshooter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Users who need to fix error 0x80070079 for network drives should consider utilizing the Network Adapter and Internet Connections troubleshooters. You can access both of those troubleshooters in Settings. Check out our [guide about running troubleshooters](https://www.makeuseof.com/run-troubleshooter-windows-10-11/) in Windows for further details about how to open them in Windows 11/10\.
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Perform Generic Windows-Based Fixes for Troubleshooting USB Drives
 
  If you're still struggling with this error, here are some more general Windows-based fixes you can try:
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Run a System File Check Scan
 
  Corrupted or missing system files on your PC’s drive can cause operations to time out. To resolve such an issue, run a System File Checker command. You can repair the system files on an internal hard drive by executing a standard SFC command as outlined in our guide to [running the SFC tool on Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/).
 
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/sfc-scannow-command.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Run the CHKDSK Scan Command
 
@@ -91,9 +77,23 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![Turn off firewall settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/customize-firewall-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Disable Your Antivirus Shields
 
  If you’ve installed a third-party antivirus (security) utility, that might be causing the issue by preventing or restricting data transfer between drives. Temporarily disable your antivirus software’s shield before selecting to move or copy files from one drive to another. To do that, click on the antivirus tool’s system tray icon with the right mouse button and select the disable shield option.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Perform a Clean Boot
 
@@ -103,26 +103,27 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![The Services tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-services-tab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Update the Driver for Your PC’s Network Adapter Driver
 
  Updating a PC’s network adapter driver can be a viable fix when error 0x80070079 occurs for wireless data transfers. An outdated or faulty network driver could be causing network connection issues between devices.
 
 ![The Driver Booster software](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-now-button.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can update your PC’s network adapter by utilizing driver updater software. Such software will tell you if your network adapter’s driver is outdated and enable you to update it if necessary. Check out [how to update Windows, apps, and drivers](https://www.makeuseof.com/tag/update-windows-software-guide/) to give your PC a quick refresh, including your network adapter.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Change Your External Drive to NTFS Format
 
@@ -131,10 +132,10 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 ![The Format window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/format-seagate-drive.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can apply this possible resolution as covered within our guide to [reformatting USB drives in Windows 11](https://www.makeuseof.com/windows-11-format-usb-drive-ntfs/).
@@ -142,10 +143,10 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
  Reformatting a drive will wipe all the data on it. So, make sure you back up the drive’s data before reformatting if you want to keep any files on it.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Reset Your Network
@@ -155,13 +156,6 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 ![The Reset now button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/the-reset-now-button.jpg)
 
  Note that you’ll need to reconnect your PC to the internet after applying this resolution. So, make sure you have your internet connection name and password details before resetting the network. You can usually find such details stuck on the bottom of most routers.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Transfer Data Between Drives Again on Windows
 
@@ -178,22 +172,22 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-behind-the-scenes-insights-deciphering-what-unlisted-means-for-youtube-users/"><u>[New] 2024 Approved Behind-the-Scenes Insights Deciphering What 'Unlisted' Means for YouTube Users</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-initial-step-in-youtube-fame-account-registration/"><u>[New] 2024 Approved The Initial Step in YouTube Fame Account Registration</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-advanced-techniques-in-developing-compelling-customer-success-narratives/"><u>[New] Advanced Techniques in Developing Compelling Customer Success Narratives</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/mbrace-the-season-ideal-winter-backgrounds-for-yt/"><u>[New] Embrace the Season Ideal Winter Backgrounds for YT</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-masterful-mac-capturing-techniques-explored/"><u>[New] In 2024, Masterful Mac Capturing Techniques Explored</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-how-iphoneandroid-users-add-soundtracks-to-their-profile/"><u>[Updated] In 2024, How iPhone/Android Users Add Soundtracks to Their Profile</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-personal-growth-chronicles-for-youtube-audience/"><u>[Updated] Personal Growth Chronicles for YouTube Audience</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-elevate-small-screen-experience-with-these-leading-and-affordable-tools-to-download-youtubes-tiny-videos/"><u>2024 Approved Elevate Small Screen Experience with These Leading & Affordable Tools to Download YouTubes' Tiny Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/6-methods-for-reviving-windows-command-line-interface/"><u>6 Methods for Reviving Windows' Command Line Interface</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/alliance-of-creativity-brands-and-youtubes-fusion/"><u>Alliance of Creativity Brands and YouTube's Fusion</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-error-0xc00000f-by-implementing-proper-fixes/"><u>Avoiding Error 0xC00000F by Implementing Proper Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/ending-system-crashes-fix-for-code-0x0000011b-errors/"><u>Ending System Crashes: Fix for Code 0X0000011B Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-dismantle-spotlight-icons-in-win11/"><u>Guide to Dismantle Spotlight Icons in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-change-the-default-pdf-reader-on-windows/"><u>How to Change the Default PDF Reader on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-reactivating-adobe-on-windows-os/"><u>Mastering the Art of Reactivating Adobe on Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/precision-in-picture-editing-eliminating-backgrounds-effectively/"><u>Precision in Picture Editing: Eliminating Backgrounds Effectively</u></a></li>
-<li><a href="https://windows11.techidaily.com/recover-lost-windows-customizations-on-reboot/"><u>Recover Lost Windows Customizations on Reboot</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-fb-to-mp3-online-tools-for-video-to-music-conversion/"><u>[New] 2024 Approved FB to MP3 Online Tools for Video to Music Conversion</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/reating-compelling-youtube-live-content-with-wirecast/"><u>[New] Creating Compelling Youtube Live Content with WireCast</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-evaluating-superiority-gopros-max-and-hero-11-face-off/"><u>[Updated] 2024 Approved Evaluating Superiority GoPro's Max and Hero 11 Face-Off</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-motorola-moto-g24-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Motorola Moto G24 FRP</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exclusive-2024-headphone-insider-report/"><u>Exclusive 2024 Headphone Insider Report</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-open-windows-media-player-simple-instructions/"><u>How to Open Windows Media Player: Simple Instructions</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-failed-app-verifications-in-windows-os/"><u>Managing Failed App Verifications in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/missing-screen-saviors-how-to-reclaim-windows-10-and-11-panels/"><u>Missing Screen Saviors: How to Reclaim Windows 10 & 11 Panels</u></a></li>
+<li><a href="https://windows11.techidaily.com/overhauling-deactivated-windows-11-keys/"><u>Overhauling Deactivated Windows 11 Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/reimagining-windows-focusing-on-essential-upgrades/"><u>Reimagining Windows: Focusing on Essential Upgrades</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-windows-defenders-threat-barrier-a-top-5-approach-to-restoration/"><u>Reviving Windows Defender’s Threat Barrier: A Top 5 Approach to Restoration</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-system-security-top-5-techniques-to-resolve-keys-mismatches-in-win11/"><u>Seamless System Security: Top 5 Techniques to Resolve Keys Mismatches in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-command-setup-easy-access-shortcuts-next-to-win11-writes/"><u>Tailored Command Setup: Easy Access Shortcuts Next to Win11' Writes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-insiders-look-at-twitter-ad-performance-metrics/"><u>The Insider's Look at Twitter Ad Performance Metrics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-iphone-footage-creating-and-editing-lengthened-visual-narratives-for-2024/"><u>Transform Your iPhone Footage Creating & Editing Lengthened Visual Narratives for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-based-problem-solving-tackling-error-9999-in-audacity/"><u>Win-Based Problem Solving: Tackling Error 9999 in Audacity</u></a></li>
 </ul></div>
 

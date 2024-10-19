@@ -1,7 +1,7 @@
 ---
 title: Reverting Terminal Setup on the Latest Windows 11
-date: 2024-10-10T23:33:16.284Z
-updated: 2024-10-12T16:57:34.613Z
+date: 2024-10-15T23:08:21.354Z
+updated: 2024-10-19T01:04:36.326Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
  Let's now move to the below sections and see how it can be reset.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings by Clearing JSON Files
@@ -55,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 
  Next time you open the app, a new configuration with all the default settings will be created automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Reset Windows Terminal Settings Using Command Prompt
 
  The Command Prompt is a command line tool that can help you accomplish a number of tasks on your computer. It lets you run programs, manage files, and even troubleshoot problems with the operating system. We covered a lot of its functionality in our[beginner's guide to the Command Prompt](https://www.makeuseof.com/tag/a-beginners-guide-to-the-windows-command-line/) , but for now, we'll just explore resetting the Windows Terminal settings.
@@ -69,19 +76,6 @@ del /f /s /q /a "%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe
 3. Now press the**Enter** key to delete the settings.json file.
 4. You can now exit the command prompt.
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Reset Windows Terminal Settings Using Windows PowerShell
 
  Windows PowerShell is another command line application that you can use to restore Windows Terminal Settings to their default state. To figure out how, follow these steps:
@@ -92,20 +86,19 @@ del /f /s /q /a "%LocalAppData%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe
 Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState\settings.json" -Force
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Press**Enter** to execute the command.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Reset Windows Terminal Settings From File Explorer
 
@@ -119,6 +112,13 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 3. On the next page, right-click on**settings.json** and select**Delete** from the context menu.
 
  Once you perform the above steps, Settings.json will automatically be created with the default settings.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Resetting the Windows Terminal, Made Easy
 
@@ -139,21 +139,17 @@ Remove-Item -Path "$env:LOCALAPPDATA\Packages\Microsoft.WindowsTerminal_8wekyb3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-teamwork-made-simple-the-ultimate-guide-to-8-schedulers/"><u>[New] 2024 Approved Teamwork Made Simple The Ultimate Guide to 8 Schedulers</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-cutting-edge-free-audio-for-youtube-visionaries/"><u>[Updated] In 2024, Cutting-Edge Free Audio for YouTube Visionaries</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-swiftly-flip-your-movie-with-vlcs-rotation-feature/"><u>[Updated] In 2024, Swiftly Flip Your Movie with VLC's Rotation Feature</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-overcoming-iphone-lens-focus-discrepancies/"><u>2024 Approved Overcoming iPhone Lens Focus Discrepancies</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/g-deep-into-the-income-of-ajey-carryminati/"><u>Diving Deep Into the Income of Ajey (CarryMinati)</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-non-response-from-printmanagement-msc-errors/"><u>Eliminating Non-Response From 'Printmanagement' MSC Errors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gratis-omzetten-van-bmp-naar-gif-online-speelfriendelijk-en-efficient-met-movavi/"><u>Gratis Omzetten Van BMP Naar GIF Online - Speelfriendelijk en Efficiënt Met Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/guiding-pathway-merging-emulated-game-titles-with-playnite-software/"><u>Guiding Pathway: Merging Emulated Game Titles with Playnite Software</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Sony Xperia 5 V? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-a25-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy A25 5G Lock Screen Password?</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-to-bypass-enforced-driver-signatures-loading-unverified-drivers/"><u>Methods to Bypass Enforced Driver Signatures, Loading Unverified Drivers</u></a></li>
-<li><a href="https://windows11.techidaily.com/re-establish-missing-5ghz-connection-easily-in-windows-11/"><u>Re-Establish Missing 5GHz Connection Easily in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/rectifying-grayed-out-bin-status-in-win11/"><u>Rectifying Grayed Out Bin Status in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-cutting-back-cpu-overuse-in-windows-systems/"><u>Strategies for Cutting Back CPU Overuse in Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactics-to-mask-dimming-functionality-in-system-preferences/"><u>Tactics to Mask Dimming Functionality in System Preferences</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-elevate-your-experience-with-windows-11-games/"><u>[Updated] In 2024, Elevate Your Experience with Windows 11 Games</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/boost-views-through-effective-youtube-thumbnail-selection-for-2024/"><u>Boost Views Through Effective YouTube Thumbnail Selection for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dealing-with-iphones-slow-display-shutdown-here-are-effective-fixes/"><u>Dealing with iPhone's Slow Display Shutdown? Here Are Effective Fixes!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-rectifying-fatal-javascript-glitch-in-win-based-discord/"><u>Mastering the Art of Rectifying Fatal Javascript Glitch in Win-Based Discord</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-infinix-smart-8-pro-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Infinix Smart 8 Pro? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-phone-debut-a-glimpse-into-cutting-edge-technology-and-design/"><u>Samsung Phone Debut: A Glimpse Into Cutting-Edge Technology and Design</u></a></li>
+<li><a href="https://fox-that.techidaily.com/simplify-your-digital-album-by-merging-duplicate-personal-photographs-on-iphonemac/"><u>Simplify Your Digital Album by Merging Duplicate Personal Photographs on iPhone/Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-windows-11-search-issue-unlocking-the-settings-apps-search-bar/"><u>Solving Windows 11 Search Issue: Unlocking the Settings App's Search Bar</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-solutions-overcome-blue-screen-on-win11s-hypervisor/"><u>Swift Solutions: Overcome Blue Screen on Win11's HYPERVISOR</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackle-microsoft-store-login-challenges/"><u>Tackle Microsoft Store Login Challenges</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-apple-iphone-12-mini-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 12 mini Without iTunes in 5 Ways</u></a></li>
 </ul></div>
 

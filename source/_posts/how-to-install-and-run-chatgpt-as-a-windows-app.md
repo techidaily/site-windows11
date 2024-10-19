@@ -1,7 +1,7 @@
 ---
 title: How to Install and Run ChatGPT as a Windows App
-date: 2024-09-24T21:40:41.090Z
-updated: 2024-10-01T18:28:37.519Z
+date: 2024-10-16T04:15:30.054Z
+updated: 2024-10-18T22:29:04.917Z
 tags:
   - windows10
   - windows11
@@ -45,9 +45,23 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
  To pin the ChatGPT app, press the **Win** key and type ChatGPT. Right-click the app icon and select **Pin to Start** or **Taskbar**.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Uninstall the ChatGPT Web App on Edge
 
 ![uninstall chatgpt edge app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chatgpt-edge-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Press the **Win** key and type **ChatGPT**.
 2. Right-click on the app icon and **Uninstall.**
@@ -65,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 ![chatgpt create chrome shortcut create](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut-create.jpg)
 5. Select the **Open as window** option. Without this, the ChatGPT shortcut will open the site in a new Chrome window instead of in its standalone window.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Click **Create** to finish.
 
  You can open the ChatGPT Chrome shortcut from the Start menu. Right-click on the Shortcut to add it to the Start menu and taskbar.
@@ -79,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
  If you want to uninstall the Chrome shortcut for ChatGPT, here’s how to do it:
 
 ![uninstall chrome shortcut chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chrome-shortcut-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Press the **Win** key and type **ChatGPT**.
 2. Right-click on the **ChatGPT** icon and select **Uninstall**.
@@ -91,19 +105,6 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
 ![chat gpt github unofficial project running on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project-running-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A developer on GitHub has posted an unofficial ChatGPT project which runs natively on the Windows computer. To use the app, you need to log in using the ChatGPT credentials. It works similarly to the AI chatbot web app but offers some additional features.
 
  Since it is a third-party project, we recommend you [create a restore point](https://www.makeuseof.com/windows-11-create-restore-point/) to be able to undo the changes in case something goes awry.
@@ -113,6 +114,14 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 1. Go to the [ChatGPT unofficial GitHub page](https://github.com/lencx/ChatGPT).  
 ![chat gpt github unofficial project](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chat-gpt-github-unofficial-project.jpg)
 2. Scroll down to the Windows section and click on the **.msi installer** download link for the **Direct download installer**. On Microsoft Edge, Windows Defender Screen Filter may temporarily block the download and prompt you to confirm whether you trust the file. To allow the download, click on **Show more,** and then the **three-dots** **menu**. Next, select **Keep** to download the installer. To be on the safer side, you can [scan the installer using an online virus scanning tool](https://www.makeuseof.com/check-suspicious-file-malware/) to find any traces of malware.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Next, run the installer and follow the on-screen instructions to complete the installation.
 4. Once installed, launch the app and log in with your ChaptGPT credentials, and you can start generating responses.
 
@@ -126,25 +135,11 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
 ![uninstall chatgpt unofficial client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-chatgpt-unofficial-client.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Press **Win + I** to open **Settings**.
 2. Next, open the **Apps** tab and click **Installed Apps**.
 3. Search for the ChatGPT app, click the **three-dots** menu next to the app name and select **Uninstall**.
 
  Once done, you might also want to delete the setup file from the Downloads folder in File Explorer.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Install ChatGPT as a Windows App
 
@@ -165,19 +160,15 @@ thumbnail: https://thmb.techidaily.com/cb769af3708fc15b594c9ede31a115d7b902d54d4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-quicksnap-pause-and-capture-techniques/"><u>[New] 2024 Approved QuickSnap Pause & Capture Techniques</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-a-comprehensive-introduction-to-color-grading-and-luts-in-pscc/"><u>[New] A Comprehensive Introduction to Color Grading and LUTs in PSCC</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-hidden-shot-snaps-keeping-your-captures-under-wraps/"><u>[New] Hidden Shot Snaps Keeping Your Captures Under Wraps</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-top-10-high-quality-blu-ray-software-variants-pcmac/"><u>[Updated] In 2024, Top 10 High-Quality Blu-Ray Software Variants (PC/Mac)</u></a></li>
-<li><a href="https://windows11.techidaily.com/device-dialogue-diplomacy-android-plus-pc-sync-guide/"><u>Device Dialogue Diplomacy: Android + PC Sync Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevating-output-amplitude-for-external-windows-11-audio/"><u>Elevating Output Amplitude for External Windows 11 Audio</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/facebook-vids-fast-track-to-mp4-conversion-for-2024/"><u>Facebook Vids Fast Track to MP4 Conversion for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gratuit-amv-to-mp4-konvertoren-efficient-online-tool-voor-videokonversie-movavi/"><u>Gratuit AMV-to-MP4 Konvertoren: Efficiënt Online Tool Voor Videokonversie - Movavi</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-samsung-galaxy-a25-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Samsung Galaxy A25 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://windows11.techidaily.com/no-more-erratic-arrows-fixes-for-the-frustrated/"><u>No More Erratic Arrows: Fixes for the Frustrated</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-art-of-unmasking-user-ids-a-guide-to-sids-in-windows-11/"><u>The Art of Unmasking User IDs: A Guide to SIDs in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-comprehensive-guide-to-leveraging-the-openai-api-for-cutting-edge-solutions/"><u>The Comprehensive Guide to Leveraging the OpenAI API for Cutting-Edge Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-list-of-zero-cost-html-editors-for-efficient-coding-in-windows/"><u>Ultimate List of Zero-Cost HTML Editors for Efficient Coding in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-of-a-smoother-click-lock-in-windows/"><u>Unveiling the Secrets of a Smoother Click Lock in Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-9-strategies-for-stunning-insta-unboxing-vids/"><u>[New] 9 Strategies for Stunning Insta Unboxing Vids</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/enhance-igtv-posts-with-best-video-edit-apps-for-2024/"><u>Enhance IGTV Posts with Best Video Edit Apps for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-strategies-for-winning-back-defective-windows-apps/"><u>Essential Strategies for Winning Back Defective Windows Apps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a14-5g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A14 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/stalled-opera-install-windows-fix-guide/"><u>Stalled Opera Install? Windows Fix Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-permanently-start-windows-terminal-as-admin/"><u>Steps to Permanently Start Windows Terminal as Admin</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-chrome-cookie-and-cache-issues-for-download-problems-windows/"><u>Troubleshooting Chrome’ Cookie & Cache Issues for Download Problems, Windows</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-cheat-sheet-for-identifying-and-fixing-all-blue-screen-errors/"><u>Ultimate Cheat Sheet for Identifying and Fixing All Blue Screen Errors</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-guide-to-online-portals-for-text-artistry/"><u>Ultimate Guide to Online Portals for Text Artistry</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/44oa44kk44ok44oi44oz44oi44ot44oh44kq44ks5oiq5yqf6kop44gr44oa44km44oz44ot44o844oj44gz44kl44gf44kb44gu6kej5rg65rov/"><u>ダイヤモントビデオを成功裏にダウンロードするための解決法</u></a></li>
 </ul></div>
 

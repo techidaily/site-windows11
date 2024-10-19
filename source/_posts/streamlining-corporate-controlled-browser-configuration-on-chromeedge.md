@@ -1,7 +1,7 @@
 ---
 title: Streamlining Corporate Controlled Browser Configuration on Chrome/Edge
-date: 2024-10-10T17:12:12.043Z
-updated: 2024-10-12T20:38:00.750Z
+date: 2024-10-12T22:36:54.871Z
+updated: 2024-10-19T03:58:22.580Z
 tags:
   - windows10
   - windows11
@@ -37,15 +37,28 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
 
  To remove the message, first, verify if your antivirus is responsible for the message. If not, search and remove malicious extensions, programs, and policies hijacking your Chrome or Edge browser.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check Your Antivirus Settings
 
 ![avg web shield off](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/avg-web-shield-off.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Third-party antivirus programs come with some web protection features. Sometimes, these features can be intrusive and create issues with your network and the browser. For example, the AVG Antivirus Web Shield feature can trigger the "your browser is managed by your organization" message.
@@ -55,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/d10946fd797c909f3b766507ccc413e54b73231c6
  Next, launch Task Manager (see[how to launch Task Manager](https://www.makeuseof.com/how-to-access-task-manager-on-windows-11/) ) and end services associated with the Chrome or Edge browser. If the message vanishes upon relaunch, it is safe to assume that your antivirus web protection is responsible for the message. You can turn on your antivirus and the web protection feature now.
 
  If the issue persists, it is likely malware or adware triggering the message on your browser. To fix the problem, check the Registry Editor policies for the browser and remove any suspicious policies.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Remove Chrome or Edge Registry Editor Policies
 
@@ -98,10 +118,10 @@ RD /S /Q "%WinDir%\System32\GroupPolicy"
 ![Clicking on the Reset Button to Restore Settings to their Original Defaults in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-reset-button-to-restore-settings-to-their-original-defaults-in-chrome-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A browser reset removes settings and shortcuts, disables extensions, and deletes cookies and other temporary site data. It doesn’t remove your bookmarks or passwords, so it is completely safe to perform.
@@ -128,13 +148,6 @@ To reset Microsoft Edge:
 
 ![malwarebytes adwcleaner windows](https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malwarebytes-adwcleaner-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Malwarebytes AdwCleaner is a free adware scanning and cleaning utility for Windows. Use the tool to scan your computer for PUP and other malware and remove them with a click.
 
 To remove adware using MalwareBytes:
@@ -146,10 +159,10 @@ To remove adware using MalwareBytes:
 5. Close the app and relaunch your browser to check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Perform a Windows Reset
@@ -168,19 +181,6 @@ To perform a Windows system reset:
 4. Next, choose**Keep my Files** to perform a reset without removing your personal files. This will, however, remove apps and settings.
 5. Next, select**Cloud Download** . This option requires an active Internet connection to download and reinstall the latest version of Windows operating system. If not, select**Local** **Reinstall** .
 6. Wait for the reset to complete, and your PC will restart. After the restart, you’ll need to reinstall the browser and other apps to get started.
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Remove the "Your Browser is Managed By Your Organization" Message on Windows
 
@@ -201,20 +201,24 @@ To perform a Windows system reset:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-asuss-proart-pa-329q-a-comprehensive-evaluation-of-a-top-tier-monitoring-solution/"><u>[New] Asus’s ProArt PA 329Q A Comprehensive Evaluation of a Top-Tier Monitoring Solution</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-a-marketers-manual-for-recognizing-fabricated-supporters-for-2024/"><u>[Updated] A Marketer’s Manual for Recognizing Fabricated Supporters for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/advanced-techniques-in-windows-photo-editing/"><u>Advanced Techniques in Windows Photo Editing</u></a></li>
-<li><a href="https://windows11.techidaily.com/conquer-ppt-file-saving-challenges-swift-solutions-in-windows-11/"><u>Conquer PPT File Saving Challenges: Swift Solutions in Windows 11</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/conversione-on-line-senza-costi-trasforma-file-ppm-in-immagini-jpg-usando-movavi/"><u>Conversione On-Line Senza Costi: Trasforma File PPM in Immagini JPG Usando Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/engagingnotabledarkthemefornotepadwin/"><u>EngagingNotableDarkThemeForNotepadWin</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/expert-strategies-for-clear-communication-on-google-meet-for-2024/"><u>Expert Strategies for Clear Communication on Google Meet for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/exploring-auto-and-smart-hdr-advances-in-camera-technology/"><u>Exploring Auto and Smart HDR Advances in Camera Technology</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-lava-blaze-2-pro-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Lava Blaze 2 Pro FRP In 3 Different Ways</u></a></li>
-<li><a href="https://video-capture.techidaily.com/odins-fury-new-wrath-unleashed-for-2024/"><u>Odin's Fury New Wrath Unleashed for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-a78-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A78 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcome-apex-crashes-essential-steps-for-windows-11-gamers/"><u>Overcome Apex Crashes: Essential Steps for Windows 11 Gamers</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-shortcut-pathways-for-windows-starters/"><u>The Shortcut Pathways for Windows Starters</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-list-top-5-flac-file-players-for-windows-10-users/"><u>The Ultimate List: Top 5 FLAC File Players for Windows 10 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-failed-zip-file-extraction-in-windows-11/"><u>Troubleshooting Failed: Zip File Extraction in Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-optimal-7-dslr-recommendations-for-dynamic-video-content/"><u>[New] 2024 Approved Optimal 7 DSLR Recommendations For Dynamic Video Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-imovies-crop-technique-a-guide/"><u>[Updated] IMovie's Crop Technique A Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-which-is-the-ultimate-ios-video-editor-cameo-vs-filmorago/"><u>[Updated] In 2024, Which Is the Ultimate iOS Video Editor? Cameo Vs. FilmoraGo</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-must-know-leaders-in-virtual-reality-realm/"><u>[Updated] Must-Know Leaders in Virtual Reality Realm</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/10-free-youtube-subtitle-extractors-and-downloaders/"><u>Best 10 Free YouTube Subtitle Extractors & Downloaders</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/effortless-facial-obscurity-in-photos/"><u>Effortless Facial Obscurity in Photos</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-commands-in-action-uncovering-windows-error-messages-using-command-line-knowledge/"><u>Expert Commands in Action: Uncovering Windows Error Messages Using Command Line Knowledge</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-revert-the-search-bar-lookup-of-windows-11/"><u>How to Revert the Search Bar Lookup of Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-key-5-photo-editing-tools-iphone-x78-background-swap/"><u>In 2024, Key 5 Photo Editing Tools IPhone X/7/8 Background Swap</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-learning-mode-in-win-11/"><u>Personalize Learning Mode in Win 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/premium-top-11-list-ultimate-recording-gear-for-2024/"><u>Premium Top 11 List - Ultimate Recording Gear for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-infinix-note-30-vip-racing-edition-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Infinix Note 30 VIP Racing Edition to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-search-master-these-top-5-tricks-for-windows-11/"><u>Streamline Your Search: Master These Top 5 Tricks for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-windows-to-unlock-after-hours/"><u>Tailoring Windows To Unlock After Hours</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-virtual-capabilities-with-win-11-hypertuned-for-hyper-v/"><u>Unleash Virtual Capabilities with Win 11 Hypertuned for Hyper-V</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-charmap-issues-a-practical-guide/"><u>Unlocking Windows CharMap Issues: A Practical Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/whats-in-it-for-a-million-youtube-viewers-for-2024/"><u>What’s in It for a Million YouTube Viewers for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/which-browser-saves-system-resources-winmaccros-edition/"><u>Which Browser Saves System Resources? Win/Mac/CrOS Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-against-interfaces-not-supported-by-windows/"><u>Win Against Interfaces Not Supported by Windows</u></a></li>
 </ul></div>
 

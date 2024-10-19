@@ -1,7 +1,7 @@
 ---
 title: Stop Windows Configuration Crashes with Ease
-date: 2024-09-05T02:10:05.353Z
-updated: 2024-09-06T02:10:05.353Z
+date: 2024-10-13T17:48:22.800Z
+updated: 2024-10-19T01:09:16.720Z
 tags:
   - windows10
   - windows11
@@ -40,11 +40,12 @@ thumbnail: https://thmb.techidaily.com/08f2c817ace11f52f69518bb589ba81c382ee3c50
 If the issue persists, move to the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Update Windows
 
  The next thing that you should do is update the operating system to the latest build available. A compatibility issue caused by an outdated system may be causing the problem, which can be fixed by installing the pending updates.
@@ -58,6 +59,13 @@ Here is all that you need to do:
 4. After the updates are installed, restart your system and check if the issue is resolved.
 
  In some rare cases, the issue can also start occurring after installing an update. This typically happens when the update itself was corrupt. If this scenario applies to you, you can[uninstall the installed Windows update](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) and then check if that makes any difference.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Update Your Drivers
 
@@ -73,22 +81,25 @@ Follow these steps to proceed:
 4. Choose**Update driver** \>**Search automatically for drivers** . The Device Manager utility will now begin scanning the system for an updated driver version.  
 ![Search automatically for drivers option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/display-adapter-search-automatically-for-drivers.jpg)
 5. Once found, follow the on-screen instructions to install it.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. Finally, restart your computer to implement the changes.
 
  Alternatively, you can also choose an updated driver manually by choosing the**Browse my computer for drivers** option in the 4th step. If an outdated driver is a culprit, this should resolve the problem in no time.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Reset or Re-Register the Settings App
 
  Another easy way to get rid of the corruption issues within the apps is by resetting them to their default state or by re-registering them.
@@ -101,22 +112,10 @@ Here is all that you need to do:
 2. Choose**App settings** from the context menu.  
 ![Choose App Settings from the context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/taskbar-windows-icon-app-settings.jpg)
 3. In the following window, head over to the**Reset** section. You will have two options here; Repair and Reset.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. First, click on**Repair** and once the process is completed, check if the problem is fixed.
 5. If not, click on**Reset** and follow the on-screen instructions to proceed.  
 ![Repair or reset the application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/app-settings-reset-and-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 To re-register the app, follow these steps:
 
 1. Type Powershell in Windows Search and click on**Run as administrator** .
@@ -128,12 +127,6 @@ Get-AppxPackage *windows.immersivecontrolpanel* | Reset-AppxPackage
 
 Hopefully, this should fix the problem once and for all.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Windows Settings App Crash Issue, Now Resolved
 
  System apps like the Settings app can crash unexpectedly, which is annoying. It's generally a temporary corruption issue that causes them, so fortunately fixing them is quite simple. The solution mentioned above should help you fix the Settings app crashing issue for good. If the error appears again, you can consider reporting the issue to the Microsoft support team. They will help you identify the real cause of the problem and suggest a relevant fix.
@@ -144,8 +137,6 @@ Hopefully, this should fix the problem once and for all.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +144,19 @@ Hopefully, this should fix the problem once and for all.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-elevate-creativity-with-pro-editor-secrets-for-canva/"><u>[New] In 2024, Elevate Creativity with Pro Editor Secrets for Canva</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-right-way-to-close-a-long-term-but-unneeded-linkedin-account/"><u>[New] The Right Way to Close a Long-Term but Unneeded LinkedIn Account</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-ultimate-checklist-for-recording-whatsapp-discussions/"><u>[Updated] 2024 Approved The Ultimate Checklist for Recording WhatsApp Discussions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-insiders-guide-to-mastering-igtv/"><u>[Updated] In 2024, The Insider's Guide to Mastering IGTV</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-tips-for-effective-google-podcast-sharing/"><u>2024 Approved Advanced Tips for Effective Google Podcast Sharing</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-realme-gt-5-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Realme GT 5 Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-the-blank-screen-top-techniques-to-recover-vanished-panes-in-windows-11/"><u>Avoid the Blank Screen: Top Techniques to Recover Vanished Panes in Windows 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bedtime-tales-in-motion-reviews-of-storytelling-videos-for-2024/"><u>Bedtime Tales in Motion Reviews of Storytelling Videos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-limited-it-admin-power-in-security-warning/"><u>Bypassing 'Limited IT Admin Power' In Security Warning</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-line-interface-cli-addition-to-task-manager-in-windows-11/"><u>Command Line Interface (CLI) Addition to Task Manager in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-windows-file-explorer-path-settings/"><u>Customizing Windows File Explorer Path Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/decode-your-digital-identity-how-to-find-out-what-computer-you-have/"><u>Decode Your Digital Identity: How to Find Out What Computer You Have</u></a></li>
+</ul></div>
 

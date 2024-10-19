@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Memory Diagnostic Failures
-date: 2024-10-08T03:44:53.976Z
-updated: 2024-10-13T03:58:28.881Z
+date: 2024-10-15T21:45:38.791Z
+updated: 2024-10-18T16:35:44.043Z
 tags:
   - windows10
   - windows11
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 
  This error is often triggered after a blue screen of death (BSOD) or the system freezing issues. The reason for the error can vary and include faulty memory slots and memory sticks. It can also be a false positive due to a Windows OS glitch.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check for Overclocking Issues
 
  Incorrect overclocking can cause hardware issues. While faster RAM can help you achieve good performance, it is important to consider the hardware limitations before applying the tweaks.
@@ -45,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
  If you are unsure about the default memory frequencies, try to perform a BIOS reset. Load the BIOS default, which should reset the RAM frequencies to its factory default. Refer to your motherboard manufacturer manual for specific instructions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Run the Hardware Troubleshooter
@@ -64,16 +57,23 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 ![run windows hardware troubleshooter command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-windows-hardware-troubleshooter-command-prompt.jpg)
 3. In the Command Prompt window, type the following command and press **Enter**:  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `msdt.exe -id DeviceDiagnostic`
 4. In the **Hardware and Devices** dialog, click **Next**. By default, the troubleshooter is set to apply any repairs available. To disable automatic repair, click **Advanced** and uncheck the **Apply repairs automatically** option.  
 ![hardware and devices troubleshooter windows 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/hardware-and-devices-troubleshooter-windows-1.jpg)
 5. It will scan your computer for issues, which may take a few minutes. If an issue is detected, select to automatically apply the repair.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. If the suggested problem is unrelated to memory, you can skip it to see the next problem. The troubleshooter will detect additional issues. If an issue is found, apply the fixes and check for any improvements.
@@ -112,10 +112,10 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 7. Next, plug the Memtest86+ bootable USB drive into your computer and turn it on.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Boot into the Boot Menu and select the bootable USB drive as the boot device. The hotkey key to enter the Boot Menu may vary depending on your computer manufacturer. You can press **F9** on an **HP** computer, **F12** on a **Dell** computer and so on to access the **Boot Menu**.
@@ -149,18 +149,22 @@ thumbnail: https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-boost-your-virtual-participation-with-increased-zooming/"><u>[New] Boost Your Virtual Participation with Increased Zooming</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-giggle-factor-comparing-humor-in-tiktok-and-snapchat-videos/"><u>[New] In 2024, The Giggle Factor Comparing Humor in TikTok and Snapchat Videos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovating-education-with-virtual-immersion/"><u>[New] Innovating Education with Virtual Immersion</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-unleash-your-brands-potential-on-igtv-with-these-top-10-tactics-for-2024/"><u>[New] Unleash Your Brand’s Potential on IGTV with These Top 10 Tactics for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-x-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone X iOS System Issues? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/integrating-twitter-feed-into-your-whatsapp-conversations/"><u>Integrating Twitter Feed Into Your WhatsApp Conversations</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-rated-free-video-cutting-software-for-divx-files-for-2024/"><u>New Top-Rated Free Video Cutting Software for Divx Files for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-for-blocked-browsers-by-defender-in-win11/"><u>Quick Fix for Blocked Browsers by Defender in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/regain-stability-the-definitive-net-window-repair-guide-max-156/"><u>Regain Stability: The Definitive .NET Window Repair Guide (Max 156)</u></a></li>
-<li><a href="https://windows11.techidaily.com/reprogramming-windows-delete-files-read-lock/"><u>Reprogramming Windows: Delete File's Read Lock</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-guide-fixing-0x8009030e-on-virt-environments/"><u>Step-by-Step Guide: Fixing 0X8009030E on Virt Environments</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-minecrafts-persistent-black-screen-top-fixes-of-2ndryce-2024-edition/"><u>Troubleshoot Minecraft's Persistent Black Screen - Top Fixes of 2nDryce, 2024 Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-the-secrets-to-stable-apex-play-on-windows-11/"><u>Unlocking the Secrets to Stable Apex Play on Windows 11</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unleashing-classic-psp-gaming-best-ios-emulators-ranked-for-2024/"><u>[New] Unleashing Classic PSP Gaming Best iOS Emulators Ranked for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-spectacular-racing-sims-number-one-to-five-for-2024/"><u>[Updated] Spectacular Racing Sims Number One to Five for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-reacting-when-youre-seen-in-a-video-on-fb-messenger/"><u>2024 Approved Reacting When You're Seen In a Video On FB Messenger</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-how-to-seamlessly-transition-to-a-fresh-role-while-remaining-in-your-existing-job/"><u>Discover How to Seamlessly Transition to a Fresh Role While Remaining in Your Existing Job</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-control-on-screen-keyboard-functionality-in-microsofts-latest-operating-system/"><u>How to Control On-Screen Keyboard Functionality in Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://windows11.techidaily.com/ifas-best-laptops-of-2023-now/"><u>IFA's Best Laptops of 2023, Now!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboard-shortcut-wisdom-shrinking-down-software-in-win11/"><u>Keyboard Shortcut Wisdom: Shrinking Down Software in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-zero-error-in-windows-11-with-procedures/"><u>Overcoming Zero-Error in Windows 11 with Procedures</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/quick-and-simple-methods-for-converting-multiple-mp3-files-into-wav-format/"><u>Quick & Simple Methods for Converting Multiple MP3 Files Into WAV Format</u></a></li>
+<li><a href="https://windows11.techidaily.com/revamping-robustness-of-win11s-cleanup-companion-ccleaner/"><u>Revamping Robustness of Win11's Cleanup Companion, CCleaner</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-hypervisorbsod-in-windows-a-top-ten-approach/"><u>Stop HYPERVISOR_BSOD in Windows: A Top-Ten Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-7-best-photo-organizer-apps-for-windows/"><u>The 7 Best Photo Organizer Apps For Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-5-fixes-to-resolve-warzone-20-launch-problems-on-your-pc/"><u>Top 5 Fixes to Resolve Warzone 2.0 Launch Problems on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-directdraw-complexities-in-the-latest-microsoft-oses/"><u>Unraveling DirectDraw Complexities in the Latest Microsoft OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-cs-go-launch-guide/"><u>Windows 11 CS GO Launch Guide</u></a></li>
 </ul></div>
 

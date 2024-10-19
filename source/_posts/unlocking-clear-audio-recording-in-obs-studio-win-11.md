@@ -1,7 +1,7 @@
 ---
 title: Unlocking Clear Audio Recording in OBS Studio - Win 11
-date: 2024-10-07T17:24:02.070Z
-updated: 2024-10-13T00:50:19.210Z
+date: 2024-10-16T16:36:10.378Z
+updated: 2024-10-18T21:22:15.841Z
 tags:
   - windows10
   - windows11
@@ -56,14 +56,20 @@ thumbnail: https://thmb.techidaily.com/4729098ff75053594bc9af7963d84132dd5d779fe
 
 ![Choosing default audio device for OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-default-audio-device.jpg)
 
-Restart OBS Studio and check if the problem persists.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Restart OBS Studio and check if the problem persists.
 
 ## 4\. Use the Correct Recording Device
 
@@ -77,17 +83,10 @@ Restart OBS Studio and check if the problem persists.
 5. Click**Apply** and then**OK.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Allow OBS Studio to Access Microphone
@@ -104,10 +103,10 @@ Restart OBS Studio and check if the problem persists.
 ![Allow desktop apps to access microphone option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-desktop-apps-to-access-microphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Change the OBS Studio Settings
@@ -124,6 +123,20 @@ Restart OBS Studio and check if the problem persists.
 ![Audio settings of OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/audio-settings.jpg)
 6. Choose**Apply** \>**OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7 . Adjust the Audio Mixer Settings
 
  The next solution on the list is to adjust the audio mixer settings of the OBS Studio. Here's how:
@@ -132,13 +145,6 @@ Restart OBS Studio and check if the problem persists.
 2. Under the**Audio Mixer** section, adjust the**Mic/Aux** slider to**\-2.1dB.**  
 ![Adjusting dB in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adjusting-db.jpg)
 3. Click the three dots next to Mic/Aux and choose**Properties.**
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Click the drop-down icon next to**Device,** select your default recording device and click**OK.**  
 ![Choosing correct Mic in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/choosing-correct-mic.jpg)
@@ -150,10 +156,10 @@ Restart OBS Studio and check if the problem persists.
 ![Adjusting Advanced Properties in OBS Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/adjusting-advanced-properties.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Download the Latest Audio Driver Updates
@@ -171,10 +177,10 @@ You can do that by following the below steps:
  Next, allow Windows to search for and download any available driver updates for your recording device.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Reinstall OBS Studio
@@ -202,20 +208,22 @@ You can do that by following the below steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-capture-attention-with-perfectly-cropped-instagram-ready-videos/"><u>[New] Capture Attention with Perfectly Cropped, Instagram-Ready Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-instantly-personalize-your-phones-from-tiktok-sounds-to-ringtones/"><u>[New] Instantly Personalize Your Phones From TikTok Sounds to Ringtones</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-subtract-and-add-quick-srt-to-sub/"><u>[New] Subtract and Add Quick SRT to SUB</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-transforming-images-with-complete-understanding-of-facetune/"><u>[New] Transforming Images with Complete Understanding of Facetune</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-twitter-live-sound-solving-partially-muted-audio-issues/"><u>[New] Twitter Live Sound Solving Partially Muted Audio Issues</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-blueprint-for-effective-metaverse-engagement/"><u>[Updated] Blueprint for Effective Metaverse Engagement</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-quick-guide-to-precision-photo-backdrop-clean-up/"><u>[Updated] Quick Guide to Precision Photo Backdrop Clean-Up</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-desktop-aesthetics-best-pc-time-saver-apps-listed/"><u>Boost Desktop Aesthetics – Best PC Time Saver Apps Listed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/complete-guide-turning-off-pop-up-restrictions-across-chrome-firefox-edge-and-internet-explorer/"><u>Complete Guide: Turning Off Pop-Up Restrictions Across Chrome, Firefox, Edge & Internet Explorer</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ing-emojis-boost-your-videos-appeal-without-payments/"><u>Engaging Emojis Boost Your Video's Appeal Without Payments</u></a></li>
-<li><a href="https://windows11.techidaily.com/hidden-behind-pretense-apps-slowdown-your-modern-windows/"><u>Hidden Behind Pretense: Apps Slowdown Your Modern Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-the-future-ui-design-with-new-folder-integration-in-windows-11/"><u>Navigate the Future UI Design with New Folder Integration in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-windows-activation-error-0x803f700f-fix-guide/"><u>Overcoming Windows Activation Error: 0X803F700F Fix Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-the-windows-application-net-demand-error/"><u>Resolving the Windows Application .NET Demand Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-essential-guide-to-generating-gpo-data-with-gpresult/"><u>The Essential Guide to Generating GPO Data with GPResult</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-swipe-for-success-the-art-of-flipping-videos-on-instagram/"><u>[New] 2024 Approved Swipe for Success The Art of Flipping Videos on Instagram</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-revolutionize-your-branding-50-free-youtube-banners-inside/"><u>[New] In 2024, Revolutionize Your Branding - 50 Free YouTube Banners Inside</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-elevate-your-game-on-instagram-5-key-tactics-for-top-tier-influencers/"><u>[Updated] Elevate Your Game on Instagram 5 Key Tactics for Top-Tier Influencers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-ultimate-checklist-for-ideal-podcast-title-creation-for-2024/"><u>[Updated] The Ultimate Checklist for Ideal Podcast Title Creation for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-system32-windows-11-edition/"><u>Exploring System32: Windows 11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-lost-to-found-reclaiming-windows-storage/"><u>From Lost to Found: Reclaiming Windows Storage</u></a></li>
+<li><a href="https://windows11.techidaily.com/futuristic-meetings-speed-and-efficiency-unleashed/"><u>Futuristic Meetings: Speed & Efficiency Unleashed</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correct-the-audio-device-not-stopped-error-on-win/"><u>How to Correct the 'Audio Device Not Stopped' Error on Win</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-guide-to-correct-age-information-for-tiktok-users/"><u>In 2024, Guide to Correct Age Information for TikTok Users</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/managing-dxgi-error-on-windows-devices/"><u>Managing DXGI Error on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/prevent-unintentional-shutdowns-in-windows-11/"><u>Prevent Unintentional Shutdowns in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resolve-nvidia-opengl-error-3-in-w10w11/"><u>Steps to Resolve NVIDIA OpenGL Error 3 in W10/W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/to-halt-or-not-yourphoneexe-in-windows-xpvista/"><u>To Halt or Not: YourPhone.exe in Windows XP/Vista?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-ipad-air-protectors-2024-comprehensive-review-by-tech-experts-zdnet/"><u>Top Rated iPad Air Protectors 2024 - Comprehensive Review by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-the-great-dvr-debate-tivo-vs-comcasts-features-and-pricing/"><u>Updated In 2024, The Great DVR Debate TiVo vs Comcasts Features and Pricing</u></a></li>
 </ul></div>
 

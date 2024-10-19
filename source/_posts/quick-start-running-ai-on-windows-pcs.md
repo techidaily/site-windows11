@@ -1,7 +1,7 @@
 ---
 title: "Quick Start: Running AI on Windows PCs"
-date: 2024-10-11T17:31:25.809Z
-updated: 2024-10-12T20:30:19.347Z
+date: 2024-10-12T01:17:12.496Z
+updated: 2024-10-18T18:47:54.179Z
 tags:
   - windows10
   - windows11
@@ -54,16 +54,16 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
 ![uninstall chatgpt edge app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chatgpt-edge-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Press the **Win** key and type **ChatGPT**.
 2. Right-click on the app icon and **Uninstall.**
 3. Click **Uninstall** again to confirm the action.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Add ChatGPT as a Windows App Using Chrome
 
@@ -73,6 +73,14 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 2. Click the **three-dots menu** in the top right corner.  
 ![chatgpt create chrome shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut.jpg)
 3. Select **More Tools** and then **Create Shortcut**.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Enter a name in the **Create shortcut** popup.  
 ![chatgpt create chrome shortcut create](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-create-chrome-shortcut-create.jpg)
 5. Select the **Open as window** option. Without this, the ChatGPT shortcut will open the site in a new Chrome window instead of in its standalone window.
@@ -85,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 ![uninstall chrome shortcut chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-chrome-shortcut-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Press the **Win** key and type **ChatGPT**.
@@ -125,13 +133,6 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
 ![uninstall chatgpt unofficial client](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-chatgpt-unofficial-client.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Press **Win + I** to open **Settings**.
 2. Next, open the **Apps** tab and click **Installed Apps**.
 3. Search for the ChatGPT app, click the **three-dots** menu next to the app name and select **Uninstall**.
@@ -139,10 +140,10 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
  Once done, you might also want to delete the setup file from the Downloads folder in File Explorer.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Install ChatGPT as a Windows App
@@ -165,24 +166,17 @@ thumbnail: https://thmb.techidaily.com/cda03445bb5af4617363a25ef0e62c6e1b665fa4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-audio-visual-caption-builder/"><u>[New] 2024 Approved Audio Visual Caption Builder</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-optimal-tools-for-high-quality-zoom-recordings/"><u>[New] In 2024, Optimal Tools for High-Quality Zoom Recordings</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/8-strategies-for-enhancing-windows-11-wi-fi-connectivity/"><u>8 Strategies for Enhancing Windows 11 Wi-Fi Connectivity</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-win-1011s-xc0f1103f-with-geforce-error/"><u>Addressing Win 10/11'S XC0F1103F with GeForce Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-windows-11-notepad-using-ai-mentor/"><u>Boost Windows 11 Notepad Using AI Mentor</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-obstructions-uninstalling-programs-on-win-11/"><u>Clearing Obstructions: Uninstalling Programs on Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-up-dual-users-fixing-their-windows-account-error/"><u>Clearing Up Dual Users: Fixing Their Windows Account Error</u></a></li>
-<li><a href="https://windows11.techidaily.com/concealing-windows-firewall-areas-a-step-by-step-guide/"><u>Concealing Windows Firewall Areas: A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/connectivity-problems-windows-solutions/"><u>Connectivity Problems: Windows Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/curbing-the-noise-quiet-explore-tab-behavior/"><u>Curbing the Noise: Quiet Explore Tab Behavior</u></a></li>
-<li><a href="https://windows11.techidaily.com/customizing-interval-for-automatic-logoff/"><u>Customizing Interval for Automatic Logoff</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-drivers-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to use Device Manager to reinstall drivers on Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-artist-writes-an-ipad-guide-to-time-lapse-photography/"><u>In 2024, The Artist' Writes An iPad Guide to Time-Lapse Photography</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-iphone-as-a-portable-game-hub/"><u>Maximizing iPhone as a Portable Game Hub</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectifying-residual-reductions-in-visual-outputs/"><u>Rectifying Residual Reductions in Visual Outputs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revitalize-disabled-icloud-features-a-step-by-step-guide/"><u>Revitalize Disabled iCloud Features: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-macbook-pro-key-issues-a-comprehensive-fix-it-guide/"><u>Solving MacBook Pro Key Issues: A Comprehensive Fix-It Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steps-to-overcome-crashing-and-hitching-gameplay-smoothness-in-valheim-on-your-computer/"><u>Steps to Overcome Crashing and Hitching Gameplay Smoothness in Valheim on Your Computer</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-adobe-premiere-pro-101-for-youtube-clips-and-edits/"><u>[Updated] 2024 Approved Adobe Premiere Pro 101 for YouTube Clips and Edits</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-securing-brand-deals-with-youtube-personalities/"><u>[Updated] In 2024, Securing Brand Deals with YouTube Personalities</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-ultimate-playbook-for-crafting-engaging-podcast-titles/"><u>[Updated] The Ultimate Playbook for Crafting Engaging Podcast Titles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/helldivers-ii-not-loading-on-steam-discover-quick-solutions/"><u>Helldivers II Not Loading on Steam - Discover Quick Solutions!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-elite-group-chat-and-webcams-the-best-selection/"><u>In 2024, Elite Group Chat & Webcams The Best Selection</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-solving-sound-disconnection-on-live-feeds/"><u>In 2024, Solving Sound Disconnection on Live Feeds</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-launches-advanced-ai-driven-search-tool-comprehensive-guide-and-recall-details/"><u>Microsoft Launches Advanced AI-Driven Search Tool: Comprehensive Guide and Recall Details</u></a></li>
+<li><a href="https://windows11.techidaily.com/my-top-pick-the-understated-notepad-application-for-windows-users/"><u>My Top Pick: The Understated Notepad Application for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/nvidias-leap-into-the-future-my-5-anticipated-benefits-of-their-innovative-arm-chip/"><u>NVIDIA's Leap Into the Future: My 5 Anticipated Benefits of Their Innovative ARM Chip</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-file-explorer-from-windows-10-on-your-new-windows-11-pc/"><u>Reviving File Explorer From Windows 10 on Your New Windows 11 PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-correcting-your-laptopmonitor-displays-persistent-yellow-discoloration/"><u>Step-by-Step Guide: Correcting Your Laptop/Monitor Display's Persistent Yellow Discoloration</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-garmin-vivosmart-4-a-breakdown-of-its-powerful-body-battery-and-effective-stress-monitoring-features/"><u>The Ultimate Guide to Garmin Vivosmart 4: A Breakdown of Its Powerful Body Battery and Effective Stress Monitoring Features</u></a></li>
 </ul></div>
 

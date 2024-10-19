@@ -1,7 +1,7 @@
 ---
 title: "Mastery in Mending Windows Update Failures: 0X712"
-date: 2024-10-09T02:38:33.435Z
-updated: 2024-10-13T01:48:13.909Z
+date: 2024-10-16T17:54:12.956Z
+updated: 2024-10-18T20:07:03.469Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/0a18a6b406ce9f21eda937adac64825b459ee3a87
 7. Close the troubleshooter window and reattempt the Windows update installation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Perform a Complete system shutdown
@@ -68,13 +68,6 @@ Repeat the following steps to start the necessary services:
 3. Double-click on the BITS service to open the**properties** window. Set the**Startup Type** as**Automatic** and click on the**Apply** button.  
 ![Disabling Windows Update Services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disabling-windows-update-services.jpg)
 4. Click on the**OK** button and close the Properties windows. Now, right-click on the service and select the**Start** option from the context menu.
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Similarly, set all the services as automatic and manually start them.
 6. **Close** the Services window and reattempt the Windows update.
@@ -103,6 +96,13 @@ Repeat the following steps:
 ![Rename the SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder.jpg)
 3. Once these services stop running, type**cls** in the command prompt windows. Then enter the following commands:  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ren C:\\Windows\\SoftwareDistribution SoftwareDistribution.old ren C:\\Windows\\System32\\catroot2 Catroot2.old  
 ![Rename the SoftwareDistribution Folder 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-2.jpg)
 4. Both the above commands rename the**SoftwareDistribution** folder and**Catroot2** folder.
@@ -111,6 +111,13 @@ Repeat the following steps:
 net start wuauserv net start cryptSvc net start bits net start msiserver  
 ![Rename the SoftwareDistribution Folder 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-3.jpg)
 6. Lastly,**restart** your system and visit the following folder location:**C:\\Windows** . You will notice that there is a new SoftwareDistribution folder in that location.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7. Open the Windows update in Settings and try to download and install updates.
 
@@ -127,10 +134,10 @@ Retrace the following steps to delete the pending.xml file:
 5. Restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Manually Download Windows Updates
@@ -139,23 +146,16 @@ Retrace the following steps to delete the pending.xml file:
 
 ![Manually Download Windows Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/manually-download-windows-updates.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Reset Windows
 
  Resetting Windows is the last resort you have if none of the above methods work in your favor. However, before learning[how to perform a Windows system reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) , try out general fixes such as[SFC, CHKDSK, and DISM](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) scans on your system. Also,[disable Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and try updating your system before hitting the reset button.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Update Windows Without Hiccups
 
@@ -176,17 +176,22 @@ Retrace the following steps to delete the pending.xml file:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-angled-artistry-a-guide-for-social-media-users-to-spin-their-photos-on-the-fly-for-2024/"><u>[New] Angled Artistry A Guide for Social Media Users to Spin Their Photos on the Fly for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boost-engagement-top-8-youtube-video-trackers-unveiled/"><u>[Updated] In 2024, Boost Engagement - Top 8 YouTube Video Trackers Unveiled</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-and-overcoming-unidentified-obs-recording-issue-on-win-11/"><u>Decoding and Overcoming Unidentified OBS Recording Issue on Win 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-fixes-for-your-elgato-hd60-driver-troubles-step-by-step-solutions/"><u>Easy Fixes for Your Elgato HD60 Driver Troubles - Step-by-Step Solutions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-freedom-with-the-newest-wire-free-headphones-m06/"><u>Experience Freedom with the Newest Wire-Free Headphones - M06</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/forgot-iphone-se-2022-password-here-are-the-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Forgot iPhone SE (2022) Password? – Here are the Best Solutions | Stellar</u></a></li>
-<li><a href="https://windows11.techidaily.com/ideal-mobile-software-for-windows-pc-owners-on-android/"><u>Ideal Mobile Software for Windows PC Owners on Android</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-cross-platform-content-distribution-twitch-and-youtube/"><u>In 2024, Mastering Cross-Platform Content Distribution Twitch & YouTube</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-win10-blue-screen-recovery/"><u>Mastering the Art of Win10 Blue Screen Recovery</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-setup-guide-download-the-latest-realtek-asus-sound-card-driver-on-windows-11/"><u>Quick Setup Guide: Download the Latest Realtek Asus Sound Card Driver on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-win11-with-powertoys-installation/"><u>Streamlining Win11 with PowerToys Installation</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-realme-narzo-n53-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Realme Narzo N53 Device</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unveiling-premium-screen-recorders-in-tech/"><u>[New] Unveiling Premium Screen Recorders in Tech</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-masterclass-constructing-mc-village-houses-for-2024/"><u>[Updated] Masterclass Constructing MC Village Houses for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-silent-scribes-unveiling-the-best-speech-to-text-tools/"><u>[Updated] Silent Scribes Unveiling the Best Speech-to-Text Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-melodic-marketing-instagram-music-tips/"><u>2024 Approved Melodic Marketing Instagram Music Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/excellent-fps-software-for-windows-gamers-the-creme-de-la-creme-list/"><u>Excellent FPS Software For Windows Gamers: The Crème De La Crème List</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-lenovo-thinkphone-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lenovo ThinkPhone in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-10-best-final-cut-pro-x-alternatives-free-and-paid/"><u>In 2024, 10 Best Final Cut Pro X Alternatives Free & Paid</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-realme-11x-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Realme 11X 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/m06-headphones-seamless-wireless-interfacing-unveiled/"><u>M06 Headphones: Seamless Wireless Interfacing Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-camera-fix-up-windows-11s-error-code-a00f4289-demystified/"><u>Mastering Camera Fix-Up: Windows 11'S Error Code A00F4289 Demystified</u></a></li>
+<li><a href="https://windows11.techidaily.com/microphone-woes-troubleshooting-in-google-meet-on-windows/"><u>Microphone Woes: Troubleshooting in Google Meet on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamlessly-navigate-anywhere-the-art-of-cross-border-mouse-usage/"><u>Seamlessly Navigate Anywhere - The Art of Cross-Border Mouse Usage</u></a></li>
+<li><a href="https://windows11.techidaily.com/skyrocketing-yuzu-speeds-on-windows-devices/"><u>Skyrocketing Yuzu Speeds on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/speedy-language-shift-keyboard-shortcuts-for-windows-11-users/"><u>Speedy Language Shift: Keyboard Shortcuts for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-system-performance-with-lav-filters-in-windows/"><u>Streamlining System Performance with LAV Filters in Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-camon-20-premier-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Camon 20 Premier 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-free-video-editing-tools-and-machines-compatible-with-win11win8win7-get-your-list-now/"><u>Top Free Video Editing Tools and Machines Compatible with Win11/Win8/Win7 – Get Your List Now!</u></a></li>
 </ul></div>
 

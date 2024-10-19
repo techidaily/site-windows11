@@ -1,7 +1,7 @@
 ---
 title: Mastery of Windows Display Settings
-date: 2024-10-07T16:01:35.419Z
-updated: 2024-10-13T01:01:22.578Z
+date: 2024-10-17T23:57:39.645Z
+updated: 2024-10-18T17:57:24.133Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 
  Let’s first take a look at how you can configure the Windows 10 lock screen timeout settings.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Use the Windows System Settings
 
  The Windows system settings always come in handy in various situations. Let’s check out how you can use them to change the Windows 10 screen lock timeout settings:
@@ -44,6 +51,13 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 5. Click the **On battery power** drop-down menu on the right-hand side pane and select your preferred option.
 
 ![Using Windows System Settings to Change the Lock Screen Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-Windows-System-Settings-to-Change-the-Lock-Screen-Timeout-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Apply the same settings for the **When plugged** in option on the right-hand side pane. From there, close the **system settings** and restart your device to save these changes.
 
@@ -79,14 +93,14 @@ thumbnail: https://thmb.techidaily.com/214585cc6f04e9f51b09b50240658d386b443c6b6
 
 ![Using the Advanced Power Options to Change the Lock Screen Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-Advanced-Power-Options-to-Change-the-Lock-Screen-Timeout-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When you're done, click **Apply** and then click **OK**. Finally, close the **Control Panel** and then restart your device to save these changes.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Use the Command Prompt
 
@@ -115,10 +129,10 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
  Now, let's explore how you can change the screen saver timeout settings.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use the System Settings
@@ -134,32 +148,12 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 ![Enabling the screensaver option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Enabling-the-screensaver-option.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From there, follow these steps to configure the screen saver timeout settings:
 
 1. Navigate to the **Wait** option on the Screen Saver Settings window.
 2. Click the **arrow buttons** to select the screen saver duration (in minutes).
 
 ![Using the System Settings to Change the Screen Saver Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-System-Settings-to-Change-the-Screen-Saver-Timeout-Settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Finally, press **Apply** and then press **OK** to save these changes.
 
@@ -174,6 +168,13 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 ![Using the LGPE to Change the Screen Saver Timeout Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/Using-the-LGPE-to-Change-the-Screen-Saver-Timeout-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the next window, select the **Enabled** option. From there, use the **arrow buttons** next to the **Seconds** box to select the duration of the screen saver.
 
  Press **Apply**, press **OK**, and then close the **LGPE**. Finally, restart your device to save these changes.
@@ -187,10 +188,10 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
  Still looking for more tips on how to increase screen time on your laptop? We've got one more solution for you!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use the Registry Editor
@@ -215,19 +216,6 @@ HKEY_USERS\.DEFAULT\Control Panel\Desktop
 
 ![Clicking the "ScreenSaveTimeOut" value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/clicking-the-screensavetimeout-value.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, type the screen saver timeout duration (in seconds) in the **Value data** box. The default option is usually **900** seconds (15 minutes), but you can enter your desired value. Finally, click **OK** and then restart your device to save these changes.
 
 ## Tweak Your Lock Screen Timeout Settings Without a Hassle
@@ -251,17 +239,24 @@ HKEY_USERS\.DEFAULT\Control Panel\Desktop
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-essential-10-dynamic-tiktok-filters-for-fresh-looks/"><u>[Updated] 2024 Approved Essential 10 Dynamic TikTok Filters For Fresh Looks</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-elite-slide-to-digital-recorder-for-2024/"><u>[Updated] Elite Slide-to-Digital Recorder for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-ins-and-outs-of-podcasting-with-powerpoint/"><u>2024 Approved The Ins and Outs of Podcasting with PowerPoint</u></a></li>
-<li><a href="https://win-able.techidaily.com/dragons-dogma-2-optimization-guide-addressing-frames-per-second-and-stutters/"><u>Dragon's Dogma 2 Optimization Guide: Addressing Frames Per Second & Stutters</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo V27e? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-on-the-horizon-learning-classic-diablo/"><u>Mastery on the Horizon: Learning Classic Diablo</u></a></li>
-<li><a href="https://windows11.techidaily.com/method-rectifying-disks-not-available-on-windows-pcs/"><u>Method: Rectifying Disks Not Available on Windows PCs</u></a></li>
-<li><a href="https://os-tips.techidaily.com/secure-your-data-with-ease-transferring-galaxy-s-phones-to-the-cloud/"><u>Secure Your Data with Ease: Transferring Galaxy S Phones to the Cloud</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-solutions-for-dotnet-health-in-pcs-max-156/"><u>Swift Solutions for DotNet Health in PCs (Max 156)</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-art-of-fine-tuning-windows-11-alerts/"><u>The Art of Fine-Tuning Windows 11 Alerts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unlocking-av1-encoding-insights/"><u>Unlocking AV1 Encoding Insights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-screenshots-of-success-decoding-post-viewer-demographics/"><u>[New] In 2024, Screenshots of Success Decoding Post Viewer Demographics</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-violating-copyrights-in-video-posting-what-are-the-consequences-in-2024/"><u>[New] Violating Copyrights in Video Posting What Are the Consequences, In 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/cold-climates-hot-wins-beijing-highlights/"><u>Cold Climates, Hot Wins Beijing Highlights</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/how-samsung-galaxy-fit-enhances-your-workout-routine-an-in-depth-review/"><u>How Samsung Galaxy Fit Enhances Your Workout Routine: An In-Depth Review</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-tecno-camon-20-pro-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-properly-utilize-system-restore-on-microsoft-windows/"><u>How to Properly Utilize System Restore on Microsoft Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-vmware-start-issues-on-windows-11plusoses/"><u>Mastering VMware Start Issues on Windows 11+OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-steams-missing-files-hurdle-on-win11-os/"><u>Overcoming Steam's Missing Files Hurdle on Win11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/recovering-from-disrupted-asana-use-a-focused-approach-for-pc-users/"><u>Recovering From Disrupted Asana Use: A Focused Approach for PC Users</u></a></li>
+<li><a href="https://app-tips.techidaily.com/recovering-lost-apple-id-credentials-for-itunes-backups-on-ios-devices/"><u>Recovering Lost Apple ID Credentials for iTunes Backups on iOS Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedy-for-save-failed-error-on-windows-systems/"><u>Remedy for Save Failed Error on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/skirting-microsofts-app-verification-system-on-pc/"><u>Skirting Microsoft's App Verification System on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-fix-xbox-game-download-failures-on-pc/"><u>Steps to Fix Xbox Game Download Failures on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-undoing-changes-to-windows-app-configurations/"><u>Swiftly Undoing Changes to Windows App Configurations</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-guide-to-the-best-7-android-adblock-tools/"><u>The Ultimate Guide to the Best 7 Android AdBlock Tools</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-ultimate-tutorial-for-fb-360-streaming/"><u>The Ultimate Tutorial for FB 360 Streaming</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-windows-improvements-what-to-expect-from-feb23/"><u>Top Windows Improvements: What to Expect From Feb23</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-zte-nubia-flip-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset ZTE Nubia Flip 5G | Dr.fone</u></a></li>
 </ul></div>
 

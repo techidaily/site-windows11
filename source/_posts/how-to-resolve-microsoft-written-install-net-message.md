@@ -1,7 +1,7 @@
 ---
 title: "How to Resolve Microsoft' Written: Install .NET Message"
-date: 2024-09-27T18:35:21.123Z
-updated: 2024-10-02T01:59:46.172Z
+date: 2024-10-14T20:25:25.913Z
+updated: 2024-10-18T17:52:47.915Z
 tags:
   - windows10
   - windows11
@@ -57,19 +57,19 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 ![Enabling the .NET Framework Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enabling-the-net-framework-feature.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click **OK** to save these changes, and then restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Install the Required Version of .NET Core
@@ -82,6 +82,13 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 2. Go to the [.NET Core Installation page](https://dotnet.microsoft.com/en-us/download) and download the right .NET Core installer.
 
 ![The .NET Core Installation page on the Microsoft website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-net-core-installation-page-on-the-microsoft-website.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  From there, run the .NET Core installer executable (EXE) file and then follow the on-screen instructions.
 
@@ -97,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 4. Right-click on the **Microsoft .NET Core Runtime** (or Microsoft .NET Core) and select **Repair** or **Change**.
 
 ![Clicking Change on the Microsoft .NET Core Runtime option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clicking-change-on-the-microsoft-net-core-runtime-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  From there, follow the on-screen instructions to complete the repair process. This should fix any issues with the existing .NET Core installation.
 
@@ -122,6 +122,13 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
 ![Clicking the Environment Variables button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clicking-the-environment-variables-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Navigate to the **System variables** section and then follow these steps:
 
 1. Select the **Path** variable.
@@ -129,13 +136,6 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 3. Check if the path to the ".NET Core installation" folder is present. It should typically be something like "C:\\Program Files\\dotnet."
 
 ![Checking the path to the .NET Core installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/checking-the-path-to-the-net-core-installation.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the path is already present, then the ".NET Core" error likely stems from other system issues. In this case, you'd need to check out the other solutions in this article.
 
@@ -162,10 +162,10 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 ![An illustration of someone configuring settings on a PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/An-illustration-of-someone-configuring-settings-on-a-PC.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As a last resort, try resolving the issue by performing a clean boot or resetting your PC.
@@ -189,22 +189,20 @@ thumbnail: https://thmb.techidaily.com/ad574335e648a7deda4261a3d60c02e5050876ad9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-premier-5-web-video-capture-tech/"><u>[Updated] 2024 Approved Premier 5 Web Video Capture Tech</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-the-ultimate-compilation-offline-ios-games-to-delight-in-for-2024/"><u>[Updated] The Ultimate Compilation Offline iOS Games to Delight In for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-ultimate-visual-preservation-tool-chromebook/"><u>[Updated] Ultimate Visual Preservation Tool Chromebook</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-sonic-pixels-turning-sound-into-visual-storytelling/"><u>2024 Approved Sonic Pixels Turning Sound Into Visual Storytelling</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-voice-modification-gear-top-picks-for-creators/"><u>2024 Approved Voice Modification Gear Top Picks for Creators</u></a></li>
-<li><a href="https://windows11.techidaily.com/decreasing-non-essential-tasks-windows-108/"><u>Decreasing Non-Essential Tasks Windows 10/8</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-chromes-mistaken-malware-detection-errors-in-windows/"><u>Fixing Chrome’s Mistaken Malware Detection Errors in Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/grab-the-official-logitech-g13-game-board-drivers-download-and-install/"><u>Grab the Official Logitech G13 Game Board Drivers - Download & Install</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-updated-canon-imageclass-mf743cdw-drivers-on-a-pc-with-windows/"><u>How to Install Updated Canon ImageCLASS MF743CDW Drivers on a PC with Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-rectify-and-resolve-onedrive-errors-in-os/"><u>How to Rectify and Resolve OneDrive Errors in OS</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-transforming-song-words-into-visual-storytelling-with-lyric-video-maker/"><u>In 2024, Transforming Song Words Into Visual Storytelling with Lyric Video Maker</u></a></li>
-<li><a href="https://windows11.techidaily.com/maximizing-desktop-visibility-placing-this-pc-icon-front-and-center/"><u>Maximizing Desktop Visibility: Placing 'This PC' Icon Front and Center</u></a></li>
-<li><a href="https://windows11.techidaily.com/missing-dxgidll-in-win11-heres-what-to-do-now/"><u>Missing Dxgi.dll in Win11? Here's What to Do Now</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-m54-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy M54 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-to-activate-rgb-settings-in-windows-11/"><u>Step-by-Step to Activate RGB Settings in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/tracing-untapped-functions-within-windows-system-health-tools/"><u>Tracing Untapped Functions Within Windows' System Health Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-windows-control-for-apps-and-browsers/"><u>Unveiling Windows Control for Apps & Browsers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-capturing-slide-decks-via-webcam-a-step-by-step-guide/"><u>[New] 2024 Approved Capturing Slide Decks via Webcam A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-expertly-curated-animated-type-library/"><u>[Updated] 2024 Approved Expertly Curated Animated Type Library</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-optimizing-your-android-experience-with-effective-recordings/"><u>[Updated] 2024 Approved Optimizing Your Android Experience with Effective Recordings</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-mirrorless-evolution-overshadowing-traditional-dslr-videography-for-2024/"><u>[Updated] Mirrorless Evolution Overshadowing Traditional DSLR Videography for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/masterful-strategies-for-resolving-zerox-typing-flaw-in-windows-11/"><u>Masterful Strategies for Resolving Zerox Typing Flaw in Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mp4mp4/"><u>MP4格式转换指导：如何将任何视频和影片文件转换为MP4</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-highlighting-obstacles-in-windows-pdf-files/"><u>Overcome Highlighting Obstacles in Windows' PDF Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/restore-bluetooth-connection-fixing-mice-on-windows-xpvista/"><u>Restore Bluetooth Connection: Fixing Mice on Windows XP/Vista</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-ccleaner-performance-in-win11/"><u>Reviving CCleaner Performance in Win11</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/spectral-revelations-drone-cams-overview-for-2024/"><u>Spectral Revelations Drone Cams Overview for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/speedy-deactivation-of-windows-11-notifications/"><u>Speedy Deactivation of Windows 11 Notifications</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-disabled-lsa-security-signal/"><u>Troubleshooting Windows' Disabled LSA Security Signal</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-hidden-features-in-windows-snipping-tool-for-flawless-screen-shots/"><u>Unlock Hidden Features in Windows Snipping Tool for Flawless Screen Shots.</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-synchro-sound-creation-merging-audio-tracks-into-one-cohesive-file-for-2024/"><u>Updated Synchro-Sound Creation Merging Audio Tracks Into One Cohesive File for 2024</u></a></li>
 </ul></div>
 

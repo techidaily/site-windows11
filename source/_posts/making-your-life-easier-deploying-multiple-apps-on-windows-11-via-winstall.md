@@ -1,7 +1,7 @@
 ---
 title: "Making Your Life Easier: Deploying Multiple Apps on Windows 11 via Winstall"
-date: 2024-09-05T02:08:04.903Z
-updated: 2024-09-06T02:08:04.903Z
+date: 2024-10-16T04:04:29.040Z
+updated: 2024-10-19T02:15:13.922Z
 tags:
   - windows10
   - windows11
@@ -38,12 +38,6 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
 
  Before batch-installing apps on your Windows 11 PC, remember that Winstall is a web portal that provides the complete Winget command to install one or many apps. It cannot directly install apps on your PC. For that, you need to run the generated commands in Command Prompt, PowerShell, as a batch file, or import as a .json file.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. How to Install Multiple Apps Using a Winstall App Pack
 
  Winstall app packs are pre-curated collections of apps you need on Windows 11\. There are essential packs, entertainment packs, browser packs, and more. Here's how to install a Winstall pack on your system:
@@ -52,12 +46,6 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
 2. Click on the app pack label. Alternatively, you can click on the **View Pack** option.  
 ![Install Multiple Apps Using a Winstall App Pack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-winstall-app-pack.jpg)
 3. Now, click on the **Get Pack** button. This will scroll the page to the **Get the Pack** section at the bottom.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Install Multiple Apps Using a Winstall App Pack 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-winstall-app-pack-2.jpg)
 
  Now, you can install the app pack in three ways: Batch, PowerShell, and Winget Import. You can [download and run the batch file](https://www.makeuseof.com/tag/use-windows-batch-file-commands-automate-repetitive-tasks/) with administrator privileges on your system. Or, you can copy the batch file commands and run them in an elevated Command Prompt window.
@@ -71,20 +59,23 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
 3. Click on the **Copy to clipboard** button to copy the generated code.  
 ![Install Multiple Apps Using a Winstall App Pack 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-winstall-app-pack-3.jpg)
 4. Now, press **Win + R** to [launch the Run dialog box](https://www.makeuseof.com/windows-open-run-command-dialog-box/). Type **cmd** and press **Ctrl + Shift + Enter** keys to open the tool with administrator privileges.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Paste the copied code into the Command Prompt window and press the enter key to execute the code.  
 ![Install Multiple Apps Using a Winstall App Pack 4](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-winstall-app-pack-4.jpg)
 6. The commands will execute linearly and download and install the respective apps on your system. You won't have to click a button or interact with an installer window. After all the apps finish installation, close the Command Prompt window.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. How to Install Multiple Apps Using a Custom App List in Winstall
@@ -96,21 +87,24 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
 3. Click on the **Generate Script** button. Like before, you will be redirected to a page with multiple options to install the app packages on your system.  
 ![Install Multiple Apps Using a Custom App List in Winstall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-custom-app-list-in-winstall.jpg)
 4. You can use the **Advanced options** section to enable the **silent installation** command while adding the selected packages. Then, click on the **Copy to Clipboard** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Install Multiple Apps Using a Custom App List in Winstall 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-custom-app-list-in-winstall-2.jpg)
 5. [Open Command Prompt with administrator privileges](https://www.makeuseof.com/windows-run-command-prompt-admin/) on your system. Paste the copied code into it and press Enter to execute the code.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Install Multiple Apps Using a Custom App List in Winstall 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/install-multiple-apps-using-a-custom-app-list-in-winstall-3.jpg)
 6. Wait for Winget to download and install each app and then close the Command Prompt window.
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Things to Remember While Using Winstall
@@ -133,11 +127,25 @@ thumbnail: https://thmb.techidaily.com/a6435a313e4469213bebd5ae38a7530a7b0364be0
 
  With Winstall, you can now easily use Winget to batch-install Windows 10 and 11 apps. Best of all, both tools are free! So, are you wondering how to use this? Let's begin.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-chuckle-inducing-cover-versions-for-2024/"><u>[New] Chuckle-Inducing Cover Versions for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-from-iphone-xs-max-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock from iPhone XS Max</u></a></li>
+<li><a href="https://windows11.techidaily.com/explore-football-fantasyland-how-to-thrive-in-ocm-without-spending-money/"><u>Explore Football Fantasyland: How to Thrive in OCM Without Spending Money</u></a></li>
+<li><a href="https://windows11.techidaily.com/five-free-methods-to-jot-down-on-windows-11/"><u>Five Free Methods to Jot Down on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-overcoming-wrong-character-display/"><u>Guide to Overcoming Wrong Character Display</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/guide-to-resolve-code-24-errors-and-restore-device-connectivity-on-windows-pcs/"><u>Guide to Resolve Code 24 Errors and Restore Device Connectivity on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/hiding-login-details-deactivating-security-questions-on-windows-11/"><u>Hiding Login Details: Deactivating Security Questions on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-your-pc-from-crashing-during-wolcen-lords-of-mayhem/"><u>How to Stop Your PC From Crashing During Wolcen: Lords of Mayhem</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-realms-united-identifying-the-7-best-strategy-rivals/"><u>In 2024, Realms United Identifying the 7 Best Strategy Rivals</u></a></li>
+<li><a href="https://windows11.techidaily.com/reactivating-non-functional-outlook-email-banners/"><u>Reactivating Non-Functional Outlook Email Banners</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-navigating-audio-segmentation-easy-ways-to-split-your-mp3s-and-aacs/"><u>Updated In 2024, Navigating Audio Segmentation Easy Ways to Split Your MP3s and AACs</u></a></li>
+</ul></div>
+

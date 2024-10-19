@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Methods: Deleting Saved Wi-Fi in Win 11"
-date: 2024-09-05T02:10:01.489Z
-updated: 2024-09-06T02:10:01.489Z
+date: 2024-10-15T19:38:48.774Z
+updated: 2024-10-18T23:08:54.170Z
 tags:
   - windows10
   - windows11
@@ -36,14 +36,15 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 
 ![Remove Wi-Fi Network From Quick Settings Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Remove-Wi-Fi-Network-From-Quick-Settings-Panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Like using the Quick Settings on Windows? Check out[how to customize the Quick Settings panel on your Windows 11 computer](http://www.makeuseof.com/windows-11-customize-quick-settings-menu/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Remove a Saved Wi-Fi Network via the Settings App
 
  If the Wi-Fi network you want to remove is not nearby, it will not appear in the Quick Settings panel. In that case, you can use the Windows 11 Settings app to remove it.
@@ -56,26 +57,8 @@ To forget a Wi-Fi network via the Settings app:
 4. Click the**Forget** button next to a network to delete it.  
 ![Remove Wi-Fi Network on Windows From the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Remove-Wi-Fi-Network-on-Windows-From-the-Settings-App.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And that's about it. Once you click the**Forget** button, Windows will remove the network profile associated with that network.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Remove a Saved Wi-Fi Network With Command Prompt or PowerShell
 
  Another option for removing a saved Wi-Fi network is to use a command-line tool such as Command Prompt or Windows PowerShell. You can easily forget a Wi-Fi network by running a couple of commands in the terminal window. Here’s how you can go about it.
@@ -90,16 +73,17 @@ To forget a Wi-Fi network via the Settings app:
 `netsh wlan delete profile name="WIFIName"`  
 ![Delete a Saved Wi-Fi Profile Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Delete-a-Saved-Wi-Fi-Profile-Using-Command-Prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can repeat the above command to remove as many networks as you want. Conveniently, the command-line tool also lets you remove all the saved Wi-Fi networks at once. To do so, use this command:
 
 `netsh wlan delete profile name=* i=*`
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Remove a Saved Wi-Fi Network Using Registry Editor
 
  If you’re feeling adventurous, you can also use the Registry Editor to remove a saved Wi-Fi network from Windows. Since deleting registry files is risky, you should only use this method if the other ones do not work.
@@ -118,14 +102,22 @@ To remove a Wi-Fi network using the Registry Editor:
 8. Select**Yes** to confirm.  
 ![Remove Wi-Fi Network on Windows Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/Remove-Wi-Fi-Network-on-Windows-Using-Registry-Editor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you complete the above steps, the saved profile will be removed from your system.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Reconnect to a Forgotten Wi-Fi Network on Windows 11
 
  You can always reconnect to a Wi-Fi network later after forgetting it. For that, you'll need to manually select the network and enter the password for authentication.
@@ -136,26 +128,17 @@ To remove a Wi-Fi network using the Registry Editor:
 
  Of course, this isn't the only way to connect to a Wi-Fi network on Windows. Refer to our guide on[different ways to connect to Wi-Fi on Windows](https://www.makeuseof.com/windows-ways-to-connect-to-wifi/) to learn more.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Removing Saved Wi-Fi Networks From Windows 11
 
  Although there are no significant disadvantages to keeping old Wi-Fi networks on your PC, you may want to delete some of them just to keep things tidy. Luckily, Windows 11 offers ample ways to remove unused Wi-Fi networks.
 
  Aside from deleting old Wi-Fi networks, you can also manage wireless network profiles on Windows in a few different ways.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +147,23 @@ To remove a Wi-Fi network using the Registry Editor:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://buynow-reviews.techidaily.com/2024s-premier-spoken-language-conversion-apps-reviewed/"><u>2024'S Premier Spoken Language Conversion Apps Reviewed</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-effective-ways-to-reopen-a-hidden-windows-terminal/"><u>7 Effective Ways to Reopen a Hidden Windows Terminal</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726030304182-mp4/"><u>動画ファイルMP4におけるプロパティ設定と修正手順解説</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-steam-interface-dll-failure-on-pc/"><u>Addressing Steam Interface Dll Failure on PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/apex-workplace-data-sphere/"><u>Apex Workplace Data Sphere</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-guide-rectifying-delayed-folder-upload-in-onedrive-without-hitches/"><u>Comprehensive Guide: Rectifying Delayed Folder Upload in OneDrive without Hitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/converting-oculus-quest-to-function-in-windows-pc-virtual-reality/"><u>Converting Oculus Quest to Function in Windows PC Virtual Reality</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-zoom-anomalies-addressing-error-1132-in-windows-11/"><u>Correcting Zoom Anomalies: Addressing Error 1132 in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-your-pcs-idle-lock-time/"><u>Customize Your PC's Idle Lock Time</u></a></li>
+<li><a href="https://windows11.techidaily.com/dealing-with-windows-update-error-code-0x8024800c/"><u>Dealing with Windows Update: Error Code 0X8024800C</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ing-the-marketplace-where-to-invest-in-monetized-channels/"><u>Decoding the Marketplace Where to Invest in Monetized Channels</u></a></li>
+<li><a href="https://windows11.techidaily.com/defeating-inadequate-pcs-fixing-game-bar-errors/"><u>Defeating Inadequate PCs: Fixing Game Bar Errors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-samsung-galaxy-a54-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Samsung Galaxy A54 5G?</u></a></li>
+<li><a href="https://win-able.techidaily.com/lower-new-world-game-cpu-usage-for-smoother-gaming-experience/"><u>Lower New World Game CPU Usage for Smoother Gaming Experience</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-potential-of-nlp-with-hugbing-face-comprehensive-insights-into-its-functionality-and-benefits/"><u>Unlocking the Potential of NLP with Hugbing Face: Comprehensive Insights Into Its Functionality and Benefits</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/veiling-uw-skype-gesprek-efficient-en-gemakkelijk-onderdelen-informatieverwerkende-voertuigen/"><u>Veiling Uw Skype Gesprek - Efficiënt en Gemakkelijk Onderdelen Informatieverwerkende Voertuigen</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering PowerShell: Clearing Blocked Files in Windows"
-date: 2024-10-08T17:48:37.922Z
-updated: 2024-10-13T00:54:04.608Z
+date: 2024-10-14T16:59:16.262Z
+updated: 2024-10-19T02:26:24.679Z
 tags:
   - windows10
   - windows11
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
  There’s a way you can tell Windows to always trust files you download from the internet. To do that, please read our guide on[how to stop Windows 10 from blocking your downloaded files](https://www.makeuseof.com/stop-windows-10-from-blocking-your-downloaded-files/) . The instructions in the tutorial use the Registry Editor and Local Group Policy Editor, so they should also work on Windows 11.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Now You Know How to Unblock Files You Know Are Safe
@@ -74,24 +74,22 @@ thumbnail: https://thmb.techidaily.com/3bbe537e8e6d43ee38a009c5ba9253564dbe37ab4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-covertly-engage-with-fb-live-feeds/"><u>[Updated] In 2024, Covertly Engage with FB Live Feeds</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-rev-up-your-recruiting-strategy-with-hot-tapes/"><u>[Updated] Rev Up Your Recruiting Strategy with Hot Tapes</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-inaccessible-page-errors-for-windows-store-apps/"><u>Addressing Inaccessible Page Errors for Windows Store Apps</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/celebrating-clear-documentation-with-every-page/"><u>Celebrating Clear Documentation with Every Page</u></a></li>
-<li><a href="https://windows11.techidaily.com/disentangling-compact-icons-on-desktop-shelf/"><u>Disentangling Compact Icons on Desktop Shelf</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-canon-pixma-mg3420-printer-drivers-compatible-with-windows-11-8-and-7/"><u>Download Canon PIXMA MG3420 Printer Drivers - Compatible with Windows 11, 8 & 7</u></a></li>
-<li><a href="https://windows11.techidaily.com/enabling-sound-for-windows-screencasts-with-powerpoint/"><u>Enabling Sound for Windows Screencasts with PowerPoint</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/evonik-industries-ag/"><u>Evonik Industries AG</u></a></li>
-<li><a href="https://windows11.techidaily.com/from-separate-to-shared-android-pc-harmony-guide/"><u>From Separate to Shared: Android-PC Harmony Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-speed-up-and-conclude-your-puzzled-updates/"><u>How to Speed Up and Conclude Your Puzzled Updates</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-fb-video-hacks-instant-mp4-downloads/"><u>In 2024, FB Video Hacks Instant MP4 Downloads</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-superfast-fb-downloader-mp4-files-in-minutes/"><u>In 2024, SuperFast FB Downloader MP4 Files in Minutes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-11-calendar-easily/"><u>Navigating Windows 11 Calendar Easily</u></a></li>
-<li><a href="https://techtrends.techidaily.com/online-zettingen-van-3gp-files-met-movavi-kostenloos-en-efficient/"><u>Online Zettingen Van 3GP Files Met Movavi - Kostenloos en Efficiënt!</u></a></li>
-<li><a href="https://windows11.techidaily.com/personalize-your-pc-a-guide-to-alomwares-control-options/"><u>Personalize Your PC: A Guide to AlomWare's Control Options</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-infinix-smart-8-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Infinix Smart 8.</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-turning-onoff-windows-10s-smartscreen/"><u>Tips for Turning On/Off Windows 10'S SmartScreen</u></a></li>
-<li><a href="https://windows11.techidaily.com/winstorage-revival-guide-with-altwindirstat-insights/"><u>WinStorage Revival Guide with AltWinDirStat Insights</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-enhancing-game-experience-with-voice-alteration-on-ps45/"><u>[New] 2024 Approved Enhancing Game Experience with Voice Alteration on PS4/5</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-comprehensively-covering-the-top-tweets-cleanse-apps/"><u>[New] In 2024, Comprehensively Covering the Top Tweets Cleanse Apps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-innovative-activities-for-the-modern-podcaster-for-2024/"><u>[New] Innovative Activities for the Modern Podcaster for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-mastering-mobile-phones-diy-webcam-for-video-recording-for-2024/"><u>[New] Mastering Mobile Phones DIY Webcam for Video Recording for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-streamlined-processes-for-video-recording-on-youtube-for-2024/"><u>[New] Streamlined Processes for Video Recording on YouTube for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-lava-yuva-3-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Lava Yuva 3 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-speed-up-the-yuzu-emulator-on-windows/"><u>How to Speed Up the Yuzu Emulator on Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/inexpensive-sky-explorers-the-least-expensive-drones/"><u>Inexpensive Sky Explorers The Least Expensive Drones</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-enhancement-or-extra-cost-justified-for-win-11s-add-ons/"><u>Is Enhancement or Extra Cost Justified for Win 11'S Add-Ons?</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-email-attachment-handling-in-microsoft-words-read-pane-mode/"><u>Master Email Attachment Handling in Microsoft Word's Read Pane Mode</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-successful-files-transfer-in-windows/"><u>Mastering the Art of Successful Files Transfer in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-keeping-windows-time-unchanged/"><u>Mastery over Keeping Windows Time Unchanged</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-prevent-windows-pc-from-booting-into-bios/"><u>Methods to Prevent Windows PC From Booting Into BIOS</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-mobile-wi-fi-security-issues-a-step-by-step-guide/"><u>Resolving Mobile Wi-Fi Security Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-taskbar-button-image-rendering/"><u>Restoring Taskbar Button Image Rendering</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-operation-failure-0x709-on-pc/"><u>Reversing Operation Failure 0X709 on PC</u></a></li>
 </ul></div>
 

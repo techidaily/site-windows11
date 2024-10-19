@@ -1,7 +1,7 @@
 ---
 title: "The Complete Blueprint: Instantly Creating Multiple Directories for a Neat Workspace on Windows"
-date: 2024-10-06T23:55:35.256Z
-updated: 2024-10-12T17:50:24.500Z
+date: 2024-10-12T02:41:09.749Z
+updated: 2024-10-18T18:29:52.509Z
 tags:
   - windows10
   - windows11
@@ -84,20 +84,20 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 4. After you have typed down the names of all the folders and subfolders that you want to create, navigate to **File** in the top-left corner and choose **Save as**.  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Save as option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-save-as.jpg)
 5. Give your file a name followed by **.bat**. For instance, we named our file as makeuseof.bat.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Notepad file name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-file-name.jpg)
@@ -107,6 +107,13 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 8. Now, navigate to the location of the folder and open the bat file. Opening it should create the folders and their subfolders for you.
 
  Now that you have created multiple files and folders, [organizing these files on Windows](https://www.makeuseof.com/tag/automatically-organize-files-windows/) is also worth considering if you do not want to spend a lot of time looking for information in them. Additionally, Windows also allows you to [rename multiple folders at once](https://www.makeuseof.com/cool-folder-tips-windows/), which can be helpful when organizing them.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use a Third-Party Application
 
@@ -130,20 +137,13 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 
 ![Create folder in Folder Frenzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-create-folder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From here, you can even take a step further and learn [how to launch multiple programs with one shortcut on Windows](https://www.makeuseof.com/tag/launch-multiple-programs-single-shortcut-using-batch-file/) to increase your productivity at work or school. In case you no longer need the tool after creating bulk folders, you can uninstall it. This won't automatically delete the folders you have created using the tool, unless the uninstallation process explicitly offers to do so and you confirm that action.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create Multiple Folders in a Few Clicks on Windows
@@ -164,24 +164,18 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-comprehensive-guide-to-optimizing-facetime-recording-quality-for-2024/"><u>[New] Comprehensive Guide to Optimizing FaceTime Recording Quality for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-3-ways-for-ipad-voice-recording/"><u>[New] In 2024, 3 Ways for iPad Voice Recording</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-maximizing-engagement-youtube-links-as-a-catalyst/"><u>[New] In 2024, Maximizing Engagement YouTube Links as a Catalyst</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-breakthrough-social-media-moves-sharing-youtube-videos-to-fb/"><u>[Updated] Breakthrough Social Media Moves Sharing YouTube Videos to FB</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/dont-miss-out-amazing-discounts-and-offers-for-oneplus-during-prime-day/"><u>Don't Miss Out: Amazing Discounts and Offers for OnePlus During Prime Day!</u></a></li>
-<li><a href="https://win-great.techidaily.com/easily-reset-your-windows-to-default-settings-using-cmd-two-simple-techniques/"><u>Easily Reset Your Windows # to Default Settings Using CMD - Two Simple Techniques</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-to-downloading-and-installing-amd-radeon-rx-590-drivers-on-windows/"><u>Easy Guide to Downloading and Installing AMD Radeon RX 590 Drivers on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-tips-to-retrieve-the-missing-windows-product-patch/"><u>Expert Tips to Retrieve the Missing Windows Product Patch</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-bsod-errors-tackling-interrupt-exceptions-on-windows-11/"><u>Fixing BSOD Errors: Tackling Interrupt Exceptions on Windows 11</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-y100i-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo Y100i to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-capturing-mov-files-effortlessly-in-windows-10/"><u>In 2024, Capturing MOV Files Effortlessly in Windows 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/keyboard-knots-unraveling-win10-functional-issues/"><u>Keyboard Knots: Unraveling WIN10 Functional Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/perfecting-the-art-shrink-or-enlarge-apps-using-shortcut-on-win11/"><u>Perfecting the Art: Shrink or Enlarge Apps Using Shortcut on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/solutions-for-unstartable-windows-vms-with-vmware/"><u>Solutions for Unstartable Windows VMs with VMware</u></a></li>
-<li><a href="https://windows11.techidaily.com/speeding-up-typing-typingaids-expertise/"><u>Speeding Up Typing: TypingAid's Expertise</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-to-disconnect-untrusted-users-from-windows-11/"><u>Techniques to Disconnect Untrusted Users From Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unfolding-wxpxo11-dilemnas-fixes-for-non-openable-folders-after-double-clicks/"><u>Unfolding WXP/XO11 Dilemnas: Fixes for Non-Openable Folders After Double-Clicks</u></a></li>
-<li><a href="https://win-premium.techidaily.com/unlocking-creativity-with-microsofts-free-powertoys-mastering-fancyzones-in-windows-a-must-read-guide/"><u>Unlocking Creativity with Microsoft's Free PowerToys: Mastering FancyZones in Windows - A Must-Read Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/verify-the-validity-three-ways-to-check-windows-11/"><u>Verify the Validity: Three Ways to Check Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-mastering-video-conferencing-at-no-cost-our-picks-from-the-best-10-tools/"><u>[New] 2024 Approved Mastering Video Conferencing at No Cost Our Picks From the Best 10 Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-gopro-hero4-vs-gopro-hero5-showdown-for-2024/"><u>[New] GoPro Hero4 vs GoPro Hero5 Showdown for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-navigating-personal-brand-identity-high-engagement/"><u>[New] Navigating Personal Brand Identity [High Engagement]</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-avoid-unsolicited-podcast-selections-by-spotify/"><u>[Updated] Avoid Unsolicited Podcast Selections by Spotify</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-prime-picks-for-classroom-audio/"><u>[Updated] In 2024, Prime Picks for Classroom Audio</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-vivo-t2-pro-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Vivo T2 Pro 5G FRP Locks</u></a></li>
+<li><a href="https://windows11.techidaily.com/insight-into-windows-maintenance-framework/"><u>Insight Into Windows Maintenance Framework</u></a></li>
+<li><a href="https://windows11.techidaily.com/methodology-to-fix-inactive-thumbnails/"><u>Methodology to Fix Inactive Thumbnails</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-windows-11-hidden-folders-reveal/"><u>Optimizing Windows 11: Hidden Folders Reveal</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/quality-meets-play-in-the-samsung-q60r-series-the-ideal-4k-gamers-television-review/"><u>Quality Meets Play in the Samsung Q60R Series - The Ideal 4K Gamer's Television Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-active-windows-11-taskbar/"><u>Reinstating Active Windows 11 Taskbar</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-secret-scheme-behind-accessing-c-span-files/"><u>The Secret Scheme Behind Accessing C-Span Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-for-clearing-and-refreshing-icons/"><u>The Ultimate Guide for Clearing and Refreshing Icons</u></a></li>
 </ul></div>
 

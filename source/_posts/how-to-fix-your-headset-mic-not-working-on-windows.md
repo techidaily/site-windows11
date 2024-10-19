@@ -1,7 +1,7 @@
 ---
 title: How to Fix Your Headset Mic Not Working on Windows
-date: 2024-10-08T20:32:24.855Z
-updated: 2024-10-12T16:37:27.175Z
+date: 2024-10-18T00:05:41.058Z
+updated: 2024-10-18T19:07:13.851Z
 tags:
   - windows10
   - windows11
@@ -53,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
  If you don't have the Realtek audio console installed on your device, you can download it from the [Microsoft Store](https://apps.microsoft.com/store/detail/realtek-audio-control/9P2B8MCSVPLN?hl=en-us&gl=us).
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Ensure That the Microphone Is Properly Plugged In
 
  If your headset has a 3.5mm audio cable, plug it into the microphone jack. When plugging it in, you may also need to select the microphone and speaker options from the pop-ups on your desktop. So, be careful when you do that.
@@ -68,9 +61,29 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
 **Y**ou may not see any popups when connecting the headset to a laptop; just ensure you have plugged your headset correctly.
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Make Sure Your Headset Microphone Isn't Faulty
 
 ![Green and Black Razer Headset Sitting on Mousepad on Gamer’s Desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/green-and-black-razer-headset-sitting-on-mousepad-on-gamer-s-desk.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Is your headset already unmuted and correctly plugged in? If that is the case, ensure your microphone is not faulty, which could be why it isn't picking up your voice. The easiest way to find that out is to connect your headset to a different device (assuming you have one) and see if it works there.
 
@@ -84,22 +97,15 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
 ![Select the Main Headset Microphone in Sound Settings of the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/select-the-main-headset-microphone-in-sound-settings-of-the-settings-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, test the microphone by clicking the **Start test** button. If your microphone successfully records the sound, the headset is now configured correctly.
 
 ![Test the Headset Microphone in the Sound Properties Windows of the Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/test-the-headset-microphone-in-the-sound-properties-windows-of-the-settings-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Make the Headset Microphone Your Default Audio Input Device
@@ -107,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
  To set your headset microphone as the default audio input device, navigate to **Settings > System > Sound** and click on **More sound settings**.
 
 ![Go to More Sound Settings in the Sound Settings of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/5-go-to-more-sound-settings-in-the-sound-settings-of-the-windows-settings-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the sound settings, go to the **Recording** tab, right-click on your headset microphone, and select **Set as Default Device**.
 
@@ -116,14 +129,14 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
 ![Click on Show Disabled Devices by Right-clicking Within the Recording Tab of More Sound Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/7-click-on-show-disabled-devices-by-right-clicking-within-the-recording-tab-of-more-sound-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, set your headset microphone as the default audio input device.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Change the App Permissions for the Microphone
 
@@ -135,28 +148,21 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 ![Go to the Microphone Option Under App Permissions in the Privacy and Security Tab of the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/8-go-to-the-microphone-option-under-app-permissions-in-the-privacy-and-security-tab-of-the-windows-settings-app.jpg)
 4. Turn on the toggle next to **Microphone access**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. After that, locate the app where the headset microphone isn't working and turn on the toggle next to it.  
 ![Turn On the Toggle Next to App to Enable Microphone Access in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/9-turn-on-the-toggle-next-to-app-to-enable-microphone-access-in-windows-settings-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Select the Correct Microphone in the App's Settings
 
  If the headset microphone still does not work after following the steps above, likely, the app where the microphone does not work doesn't have the correct microphone selected in its settings.
 
  Therefore, ensure the headset microphone is selected as the primary audio input device in the app's settings. Also, check that the microphone isn't muted there and its volume isn't too low.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Your Headset Microphone Working Again
 
@@ -174,22 +180,16 @@ thumbnail: https://thmb.techidaily.com/d02f0d2061399f021d19d9bbfd673d9a86e502373
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-secrets-unveiled-top-five-mac-techniques-for-capturing-gameplay-for-2024/"><u>[New] Secrets Unveiled Top Five Mac Techniques for Capturing Gameplay for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-elevating-your-content-creation-leveraging-vimeo-recorder-for-2024/"><u>[Updated] Elevating Your Content Creation Leveraging Vimeo Recorder for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-effortless-integration-of-xbox-and-facebook-streams/"><u>2024 Approved Effortless Integration of Xbox and Facebook Streams</u></a></li>
-<li><a href="https://windows11.techidaily.com/7-crucial-blunders-every-windows-11-novice-must-avoid/"><u>7 Crucial Blunders Every Windows 11 Novice Must Avoid</u></a></li>
-<li><a href="https://windows11.techidaily.com/changing-network-address-translation-types-simplified-for-wins-oses/"><u>Changing Network Address Translation Types Simplified for Wins OSes</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-windows-11s-insufficient-uninstall-rights/"><u>Fixing Windows 11'S Insufficient Uninstall Rights</u></a></li>
-<li><a href="https://windows11.techidaily.com/get-to-safety-six-steps-to-entering-safe-mode-in-windows-11/"><u>Get to Safety: Six Steps to Entering Safe Mode in Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-reinvigorate-the-essential-wsreset-process/"><u>How to Reinvigorate the Essential WSReset Process</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 13 Pro</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-in-depth-analysis-does-inshot-stand-out-in-editing-software/"><u>In 2024, In-Depth Analysis Does InShot Stand Out in Editing Software?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-parrot-ar-drone-evaluation-elite-edition/"><u>In 2024, Parrot AR Drone Evaluation - Elite Edition</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Vivo Y100t? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/microsoft-words-silent-mode-fix-for-pc-users/"><u>Microsoft Word's Silent Mode Fix for PC Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-overcoming-black-screen-on-store-app/"><u>Tips for Overcoming Black Screen on Store App</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-1011-auto-cleanup-a-step-by-step-guide/"><u>Windows 10/11 Auto-Cleanup: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boost-video-clarity-with-iphone-zoom-tools/"><u>Boost Video Clarity with iPhone Zoom Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chagpts-side-hustle-guide-profitability-in-focus/"><u>ChaGPT's Side Hustle Guide: Profitability in Focus</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/converting-your-pal-dvd-collection-to-compatible-ntsc-format-easily/"><u>Converting Your PAL DVD Collection to Compatible NTSC Format Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/establishing-alternate-view-for-windows-pdfs/"><u>Establishing Alternate View for Windows PDFs</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-unable-to-launch-java-vm-on-windows-systems/"><u>Fixing Unable to Launch Java VM on Windows Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-y55s-5g-2023-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo Y55s 5G (2023) Pattern Lock Screen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-subtle-audio-declines-using-audacity/"><u>In 2024, Crafting Subtle Audio Declines Using Audacity</u></a></li>
+<li><a href="https://windows11.techidaily.com/method-to-detach-onedrive-from-microsoft-id-in-windows/"><u>Method to Detach OneDrive From Microsoft ID in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-maze-fixing-windows-11-access-issues/"><u>Navigating the Maze: Fixing Windows 11 Access Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/overhauling-the-default-administrator-model-for-windows-users/"><u>Overhauling the Default Administrator Model for Windows Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/uninterrupted-health-monitoring-with-fitbit-inspire-hr-full-review-analysis/"><u>Uninterrupted Health Monitoring with Fitbit Inspire HR - Full Review Analysis</u></a></li>
 </ul></div>
 

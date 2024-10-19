@@ -1,7 +1,7 @@
 ---
 title: In-Depth Guide to Alternatives for Windows' LS Functionality
-date: 2024-10-09T16:07:40.044Z
-updated: 2024-10-12T19:56:54.258Z
+date: 2024-10-12T00:16:34.553Z
+updated: 2024-10-18T22:27:04.965Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 ![Use dir command to list files in Windows CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/dir-command-cmd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To list files and directories using the equivalent of "ls" in Command Prompt on Windows 10 and 11:
@@ -55,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 3. Command Prompt will now list all of the files in the current working directory, along with their sizes and last modified date.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use "ls" Command in Windows PowerShell
@@ -70,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 ![powershell-ls](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/powershell-ls-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Follow these steps to view a file directory using the "**ls**" command on Windows using Windows PowerShell:
@@ -84,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 4. Similarly, you can even use the **dir** or **gci** command to view the contents of a folder.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A Handy Tool for Both Linux and Windows Users
@@ -108,22 +108,24 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/framemaker-screen-capturing-mastery-review-2023-edition/"><u>'FrameMaker' Screen Capturing Mastery Review, 2023 Edition</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-a-step-by-step-journey-through-high-impact-youtube-banner-designs/"><u>[Updated] 2024 Approved A Step-by-Step Journey Through High-Impact YouTube Banner Designs</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-iphone-expertise-crafting-time-lapse-photos/"><u>[Updated] In 2024, IPhone Expertise Crafting Time-Lapse Photos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-banner-and-art-design-for-your-youtube-channel/"><u>[Updated] The Ultimate Guide to Banner & Art Design for Your YouTube Channel</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1-seamless-heic-to-png-file-conversion-a-step-by-step-guide-with-movavi/"><u>1. Seamless HEIC to PNG File Conversion: A Step-by-Step Guide with Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-visual-journey-top-7-windows-10-drawing-tools-unveiled/"><u>A Visual Journey: Top 7 Windows 10 Drawing Tools Unveiled</u></a></li>
-<li><a href="https://windows11.techidaily.com/achieve-optimal-performance-self-updating-updated-amd-driver/"><u>Achieve Optimal Performance: Self-Updating, Updated AMD Driver</u></a></li>
-<li><a href="https://windows11.techidaily.com/effortless-data-handling-navigate-4-steps-to-open-disk-management-in-windows-11/"><u>Effortless Data Handling: Navigate 4 Steps to Open Disk Management in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-tips-to-vanquish-your-pcs-win11-blue-screen/"><u>Expert Tips to Vanquish Your PC's Win11 Blue Screen</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-6s-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone 6s iCloud Bypass</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-add-folders-to-the-context-menu-in-windows-11/"><u>How to Add Folders to the Context Menu in Windows 11</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-rapid-response-guide-to-smooth-video-audio-incorporation-with-premiere-pro/"><u>In 2024, Rapid-Response Guide to Smooth Video Audio Incorporation with Premiere Pro</u></a></li>
-<li><a href="https://windows11.techidaily.com/interpretation-of-the-red-x-icon-in-file-management/"><u>Interpretation of the Red “X” Icon in File Management</u></a></li>
-<li><a href="https://windows11.techidaily.com/preventing-automatic-screenshore-changes-in-win11/"><u>Preventing Automatic Screenshore Changes in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-productivity-best-apps-to-turn-your-pcs-clock-into-an-animated-screensaver/"><u>Streamline Productivity: Best Apps to Turn Your PC’s Clock Into an Animated Screensaver</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/water-conservation/"><u>Water Conservation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-10-and-mac-cprm/"><u>Windows 10 & Macにおすすめ! CPRM解除済みの地上デジタル録画ファイル。無料で再生方法を学ぶ！</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-increase-followers-on-instagram-ultimate-guide/"><u>[Updated] 2024 Approved How to Increase Followers on Instagram - Ultimate Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-get-your-video-dimensions-spot-on-for-instagram-sharing/"><u>2024 Approved Get Your Video Dimensions Spot-On for Instagram Sharing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/box-tastic-finds-discover-the-best-sites-for-boxes-at-steals-for-2024/"><u>Box-Tastic Finds! Discover the Best Sites for Boxes at Steals for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversa-gratuita-de-archivos-mpeg-4-3gp-a-linea-web-convertidor-movavi/"><u>Conversa Gratuita De Archivos MPEG-4 (3GP) a Línea Web - Convertidor Movavi</u></a></li>
+<li><a href="https://games-able.techidaily.com/embrace-space-savings-how-to-compress-retro-gaming-discs-with-chdman/"><u>Embrace Space Savings: How to Compress Retro Gaming Discs with ChDMan</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/enhancing-your-drive-an-insightful-overview-of-the-bouncie-connect-gps-tracker/"><u>Enhancing Your Drive: An Insightful Overview of the Bouncie Connect GPS Tracker</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-halt-windows-11-data-harvesting/"><u>Guide to Halt Windows 11 Data Harvesting</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-dominate-youtube-with-these-strategic-freefire-video-hashtags/"><u>In 2024, Dominate YouTube with These Strategic FreeFire Video Hashtags</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ng-your-marketing-journey-on-youtube/"><u>Mapping Your Marketing Journey on YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-time-transferring-classic-titles-to-photos/"><u>Navigating Through Time: Transferring Classic Titles to Photos</u></a></li>
+<li><a href="https://windows11.techidaily.com/reboot-and-reclaim-resetting-ms-store-in-windows-1011/"><u>Reboot and Reclaim: Resetting MS Store in Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-administrative-functionality-in-microsoft-tools/"><u>Restoring Administrative Functionality in Microsoft Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/should-algorithms-be-your-new-investment-advisors/"><u>Should Algorithms Be Your New Investment Advisors?</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-dealing-with-non-downloading-errors-on-windows/"><u>Strategies for Dealing with Non-Downloading Errors on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/systematic-troubleshooting-for-flashing-displays-on-windows/"><u>Systematic Troubleshooting for Flashing Displays on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/transition-to-sudo-windows-next-step/"><u>Transition to Sudo: Windows' Next Step</u></a></li>
+<li><a href="https://windows11.techidaily.com/tweak-right-menu-options-for-optimal-software-use/"><u>Tweak Right-Menu Options for Optimal Software Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/whats-included-in-the-enhanced-windows-11-settings-app/"><u>What's Included in the Enhanced Windows 11 Settings App?</u></a></li>
 </ul></div>
 

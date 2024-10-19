@@ -1,7 +1,7 @@
 ---
 title: "Regaining Lost Plans: Windows 11 Power Reset"
-date: 2024-09-24T20:19:16.690Z
-updated: 2024-10-01T18:17:12.350Z
+date: 2024-10-18T03:04:07.814Z
+updated: 2024-10-19T04:13:34.573Z
 tags:
   - windows10
   - windows11
@@ -37,22 +37,15 @@ thumbnail: https://thmb.techidaily.com/f1a796c007bdb54a5d32d237286b0c583ae30258c
 5. Expand the**Show additional plans** section.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Change Power Mode From the Settings Panel
 
 ![change power mode windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/change-power-mode-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [On Windows 11, you can change the power mode from the Settings app](https://www.makeuseof.com/windows-11-change-power-plan/) . You can choose between the Best power efficiency, Balanced, and Best performance power modes in the Power & battery settings.
 
@@ -80,6 +73,13 @@ To reset Windows default power plans:
 ## 3\. Restore the Missing Power Plan Using the Command Prompt
 
 ![restore default power plan windows 11 command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/restore-default-power-plan-windows-1-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can restore the missing default power plans on Windows using the Command Prompt. We’ll use the**powercfg** command-line feature to duplicate the existing but missing power plans.
 
@@ -114,6 +114,19 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
 
  If the power plans are still missing, check if Modern Standby (S0) is enabled. If yes, you’ll need to disable Modern Standby to restore the missing power plans.
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Disable Modern Standby (S0) to Restore Default Power Plans
 
  If you have a Modern Standby (S0) compatible system, check if this sleep state is enabled. When enabled, the default power plans may be disabled to prevent any conflict when the system is in a low-power idle state.
@@ -121,6 +134,13 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`
  As you may have guessed already, in this situation, you’ll need to[disable Modern Standby (S0) on Windows](https://www.makeuseof.com/windows-disable-modern-standby/) to restore the default power plans on Windows. After you disable Modern Standby (S0), open Power Options to use the default power plans.
 
  Conversely, you may encounter BSOD and other critical errors after disabling Modern Standby (S0). If yes, enable Modern Standby again to fix the issues.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Manually Create the Power Plans
 
@@ -135,36 +155,22 @@ To create a custom Power Plan on Windows:
 ![control panel create power plan windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-windows-11.jpg)
 5. In the left pane, click on**Create a Power Plan.**  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![control panel create power plan power saver windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-power-saver-windows-11.jpg)
 6. Next, select the power plan you want to restore and enter a name for the plan under the**Plan name field.**  
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![control panel create power plan configure](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/control-panel-create-power-plan-configure.jpg)
 7. Next, configure the settings for the new power plan.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. Click**Create** .\`
 
  Your new custom power plan will appear in Power Options. To remove the power plan, unselect the plan and click on**Change plan** settings. Next, click on**Delete this plan** and click**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Restore the Missing Default Power Plans on Windows
 
@@ -187,19 +193,17 @@ To create a custom Power Plan on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-social-snapshots-highest-view-counts/"><u>[New] 2024 Approved Social Snapshots Highest View Counts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-nostalgia-unleashed-a-guide-to-fb-archives-for-2024/"><u>[Updated] Nostalgia Unleashed A Guide to FB Archives for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-streamlined-techniques-for-capturing-stories-on-instagram/"><u>2024 Approved Streamlined Techniques for Capturing Stories on Instagram</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-failed-video-drivers-in-win1110/"><u>Correcting Failed Video Drivers in Win11/10</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-open-the-phone-dialer-in-windows-11/"><u>How to Open the Phone Dialer in Windows 11</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-creating-impactful-youtube-thumbnails-and-ads/"><u>In 2024, Creating Impactful YouTube Thumbnails & Ads</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-installation-of-intel-wi-fi-drivers/"><u>Navigating the Installation of Intel Wi-Fi Drivers</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-1011s-auto-restart-settings/"><u>Navigating Windows 10/11'S Auto-Restart Settings</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-honor-100-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Honor 100</u></a></li>
-<li><a href="https://windows11.techidaily.com/pro-tips-to-locate-windows-10-or-11-keys-efficiently/"><u>Pro Tips to Locate Windows 10 or 11 Keys Efficiently</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-connection-issues-making-your-ipad-compatible-with-your-printer-again/"><u>Solving Connection Issues: Making Your iPad Compatible with Your Printer Again</u></a></li>
-<li><a href="https://windows11.techidaily.com/turbocharge-pc-gaming-with-high-speed-yuzu/"><u>Turbocharge PC Gaming with High-Speed Yuzu</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/webcam-safety-alert-uncover-7-critical-signs-of-hacking-and-essential-measures-to-secure-your-privacy/"><u>Webcam Safety Alert! Uncover 7 Critical Signs of Hacking and Essential Measures to Secure Your Privacy</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-study-of-silliness-the-goofy-narrative-unpacked/"><u>[New] A Study of Silliness The Goofy Narrative Unpacked</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagrams-hidden-gems-tips-for-viral-content-creation-for-2024/"><u>[New] Instagram's Hidden Gems Tips for Viral Content Creation for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-best-beginnings-choosing-valheims-prime-plants-for-2024/"><u>[New] The Best Beginnings Choosing Valheim's Prime Plants for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/amping-up-your-game-with-hps-new-omen-obelisk-powerhouse-specs-meet-affordable-pricing/"><u>Amping Up Your Game with HP's New OMEN Obelisk: Powerhouse Specs Meet Affordable Pricing</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-to-resolve-powerpoint-print-issues-on-windows-os/"><u>Essential Tips to Resolve PowerPoint Print Issues on Windows OS</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-picks-elite-cable-modems-for-the-year-2024/"><u>Expert Picks: Elite Cable Modems for the Year 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-eliminate-call-not-successful-problems-in-windows-malwarebytes/"><u>How to Eliminate Call Not Successful Problems in Windows Malwarebytes</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-youtube-tags-a-guide-to-identifying-top-picks/"><u>In 2024, Mastering YouTube Tags A Guide to Identifying Top Picks</u></a></li>
+<li><a href="https://windows11.techidaily.com/resize-images-in-win11-a-step-by-step/"><u>Resize Images in Win11: A Step-by-Step</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-reversing-fatal-application-crashes/"><u>Techniques for Reversing Fatal Application Crashes</u></a></li>
+<li><a href="https://windows11.techidaily.com/tutorial-initiating-clipboard-operations-within-microsoft-edges-protected-environment-windows-11/"><u>Tutorial: Initiating Clipboard Operations Within Microsoft Edge's Protected Environment, Windows 11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-no-more-jitters-the-top-free-online-video-stabilizers-for-smoother-videos/"><u>Updated 2024 Approved No More Jitters The Top Free Online Video Stabilizers for Smoother Videos</u></a></li>
 </ul></div>
 

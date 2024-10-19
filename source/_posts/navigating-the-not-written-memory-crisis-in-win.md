@@ -1,7 +1,7 @@
 ---
 title: Navigating the 'Not Written' Memory Crisis in Win
-date: 2024-10-11T21:30:24.891Z
-updated: 2024-10-12T16:24:50.794Z
+date: 2024-10-12T01:56:41.572Z
+updated: 2024-10-18T23:50:13.391Z
 tags:
   - windows10
   - windows11
@@ -41,13 +41,6 @@ Here are a few solutions to fix this annoying problem.
 
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Refer to our[guide on running the SFC scan](https://www.makeuseof.com/system-file-checker-sfc-windows/) if you aren't familiar with using it and analyzing its results.
 
 ## 3\. Perform a Clean Boot to Disable Third-Party Services
@@ -55,13 +48,6 @@ Here are a few solutions to fix this annoying problem.
  Another solution suggested by users in the[Microsoft Community thread](https://answers.microsoft.com/en-us/windows/forum/all/the-memory-could-not-be-written/21e2d589-04d7-42bd-9836-d089067edbb2) is to perform a clean boot. Technically, performing a clean boot means starting Windows with minimal drivers and without third-party apps and services. This technique helps identify whether a conflict from another app is responsible for the issue.
 
 ![hide all microsoft services clean boot windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/hide-all-microsoft-services-clean-boot-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It's easy to clean boot your PC. If you're unfamiliar with it, refer to our guide on performing a clean boot on[Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) or[Windows 10](https://www.makeuseof.com/how-perform-clean-boot-windows-10/) .
 
@@ -71,20 +57,13 @@ Here are a few solutions to fix this annoying problem.
 
 ![Windows memory diagnostic tool restart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-memory-diagnostic-tool-restart.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the system detects any problems with your RAM, get it checked as soon as possible. If a severe technical issue affects your PC's memory, it could fail at the most inopportune moment. If you keep using it without having it at least checked, your memory modules might break while you're in the middle of catching a deadline. Avoid this trouble by installing reliable RAM sticks on your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Increase the Virtual Memory
@@ -93,13 +72,20 @@ Here are a few solutions to fix this annoying problem.
 
 ![The Virtual Memory window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/custom-radio-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you've never changed the virtual memory before, refer to our guide about[increasing the virtual memory in Windows 11](https://www.makeuseof.com/how-increase-virtual-memory-windows-11/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Repair Corrupted App or Game Files
@@ -114,6 +100,13 @@ Here are a few solutions to fix this annoying problem.
 
 ![system restore point selection options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/system-restore-point-selection-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you are unfamiliar with the process, see our guide on[creating a restore point in Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/) for instructions on performing a System Restore. However, remember that you can only restore your system if you have already created a restore point. If you haven't made it before, you can skip this step.
 
 ## 8\. Repair the .Net Framework on Windows
@@ -123,6 +116,13 @@ Here are a few solutions to fix this annoying problem.
 ## 9\. Configure the Problem App to Use a Different GPU
 
  If you get the error with a GPU-intensive app, like AAA games, it might use too much RAM on your integrated GPU. To solve this,[configure the problematic app to use your dedicated GPU](https://www.makeuseof.com/windows-10-choose-preferred-gpu/) . That way, you can ensure that it uses the more powerful video card instead of the less powerful integrated GPU on your CPU that shares your system RAM.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Rid of Annoying Memory-Related Errors
 
@@ -145,16 +145,15 @@ Here are a few solutions to fix this annoying problem.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-voice-transformation-top-7-innovative-mobile-apps/"><u>[New] 2024 Approved Voice Transformation Top 7 Innovative Mobile Apps</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-pixel-to-perfection-hardware-or-code-for-streamers/"><u>[New] Pixel to Perfection Hardware or Code for Streamers?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-sizing-up-how-to-make-videos-work-in-instagram-bests-for-2024/"><u>[New] Sizing Up How to Make Videos Work in Instagram Bests for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-pathway-autoplay-youtube-videos-within-fb-networks/"><u>[New] The Ultimate Pathway Autoplay YouTube Videos Within FB Networks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-comprehensive-assessment-of-frozen-treats-on-display/"><u>2024 Approved Comprehensive Assessment of Frozen Treats on Display</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-innovation-best-windows-devices-for-24/"><u>Exploring Innovation - Best Windows Devices for '24</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-enable-the-home-section-in-the-settings-app-in-windows-11/"><u>How to Enable the Home Section in the Settings App in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-package-control-with-winget-on-win11/"><u>Navigating Package Control with Winget on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/reset-your-screen-quickly-when-black-hits/"><u>Reset Your Screen Quickly When Black Hits</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-new-wave-in-smart-displays-2nd-generation-google-nest-hub-review-and-its-potential-with-a-camera-upgrade/"><u>The New Wave in Smart Displays: 2Nd Generation Google Nest Hub Review and Its Potential With A Camera Upgrade</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719268966849-windows-users-save-your-keys-from-failure/"><u>Windows Users: Save Your Keys From Failure!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-decoding-the-secrets-of-masterful-windows-10-use/"><u>[New] Decoding the Secrets of Masterful WINDOWS 10 Use</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-youtube-thumbnail-101-phones-edition/"><u>[Updated] In 2024, YouTube Thumbnail 101 Phones Edition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-triumph-through-battle-the-supreme-selection-of-top-7-total-wars-for-2024/"><u>[Updated] Triumph Through Battle The Supreme Selection of Top 7 Total Wars for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/first-impressions-and-usage-tips-for-the-samsung-galaxy-budsplus/"><u>First Impressions and Usage Tips for the Samsung Galaxy Buds+</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-tecno-spark-20c-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Tecno Spark 20C to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/masterful-cursor-adjustments-on-windows-11-systems/"><u>Masterful Cursor Adjustments on Windows 11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-networks-with-precision-windows-ping-mastery/"><u>Navigating Networks with Precision: Windows' Ping Mastery</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-for-updating-your-thinkpads-thunderbolt-3-port-driver/"><u>Step-by-Step Tutorial for Updating Your ThinkPad's Thunderbolt 3 Port Driver</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-workflow-with-the-ultimate-win-11-guide/"><u>Streamline Your Workflow with the Ultimate Win 11 Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-windows-1011-8-innovative-personalization-techniques/"><u>Unlock Windows 10/11: 8 Innovative Personalization Techniques</u></a></li>
 </ul></div>
 

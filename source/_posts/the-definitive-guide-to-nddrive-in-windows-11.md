@@ -1,7 +1,7 @@
 ---
 title: The Definitive Guide to NDDrive in Windows 11
-date: 2024-09-05T02:08:32.005Z
-updated: 2024-09-06T02:08:32.005Z
+date: 2024-10-12T18:28:08.243Z
+updated: 2024-10-18T16:33:51.183Z
 tags:
   - windows10
   - windows11
@@ -59,6 +59,14 @@ Here's what you need to do to use File Explorer for mapping:
 4. Enter the path to the shared folder you want to map in the**Folder:** field. This can be a local path on the computer, such as**\\\\YourComputer\\SharedFolder** , or a network path, such as**\\\\ServerName\\SharedFolder** .  
 ![Windows Shared Network Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-shared-network-folder.jpg)
 5. If you need a username and password to access the shared folder, check the**Connect using different credentials** box and enter the required information.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**Finish** to complete the mapping process.  
 ![Map Network Drive In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/map-network-drive-in-windows.jpg)
 
@@ -67,11 +75,12 @@ Here's what you need to do to use File Explorer for mapping:
  Want to access the shared folder in milliseconds? You can create a shortcut to the mapped network drive on your desktop for quick access.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Use Windows PowerShell for Mapping
 
  Windows PowerShell is a Windows command-line utility that provides a powerful set of tools and commands. One of the tasks you can perform using PowerShell is to map a network drive.
@@ -84,29 +93,19 @@ Follow these instructions to map a drive using Windows PowerShell:
 New-PSDrive -Name DRIVE -PSProvider FileSystem -Root \\ServerName\SharedFolder  
 ![PowerShell Mapping Command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powershell-mapping-command.jpg)
 4. If the shared folder requires a username and password to access, you can add the -Credential parameter to the command, followed by a username and password in the format username and password. For example:  
+
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 New-PSDrive -Name X -PSProvider FileSystem -Root \\ServerName\SharedFolder -Credential username password
 5. Hit**Enter** to allow PowerShell to map the network drive. You can access the mapped drive from File Explorer now.
 
  Besides mapping, you can do a wide range of things, like managing and automating tasks on Windows. For that, you must know some[useful PowerShell commands](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Use Command Prompt for Mapping
 
  Just like you used PowerShell earlier, you can use the Windows Command Prompt tool to map a network drive.
@@ -120,20 +119,15 @@ net use DRIVE \\ServerName\SharedFolder
 net use DRIVE \\ServerName\SharedFolder /user:username pass  
 ![Mapping In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/mapping-in-command-prompt.jpg)
 4. Once you've made the required changes, hit**Enter** to execute the command.
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That's it. It'll take a few seconds, and then you can access the mapped drive from File Explorer with one click.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Disconnect a Mapped Network Drive
 
@@ -145,35 +139,20 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
 2. Right-click on**Network** in the left pane and choose**Disconnect network drive** from the context menu.  
 ![Disconnect Mapped Drive In Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/disconnect-mapped-drive.jpg)
 3. In the next window, choose the drive letter or name of the network drive you want to disconnect. Click**OK** to disconnect it from your system.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The mapped network drive will now disappear from File Explorer, and you can no longer access it from the drive letter you created earlier.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Map Network Drives Easily in Windows 11
 
  Mapping a network drive in Windows 11 is a great way to access shared folders on other computers or servers. This can save you time and make managing and organizing your files easier.
 
  While mapping is only useful in the case of network drives, there are many other methods to share files without a network setup. For example, you can use external storage, cloud storage services, a data transfer cable, etc.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -182,4 +161,22 @@ net use DRIVE \\ServerName\SharedFolder /user:username pass
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-boost-your-snaps-to-new-heights-with-expert-snapchat-tips-for-2024/"><u>[New] Boost Your Snaps to New Heights with Expert Snapchat Tips for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-10-echo-augmentation-apps-desktopmobile/"><u>[New] In 2024, Best 10 Echo Augmentation Apps Desktop/Mobile</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-elevating-your-imagery-with-advanced-hdr-photography/"><u>[New] In 2024, Elevating Your Imagery with Advanced HDR Photography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-iphone-photography-made-easier-with-these-4-blur-techniques/"><u>[Updated] IPhone Photography Made Easier with These 4 Blur Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-best-mac-speech-loggers-our-curated-5-pick-list/"><u>2024 Approved Best Mac Speech Loggers Our Curated 5-Pick List</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-infinix-smart-7-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/drive-letter-dilemma-in-windows-understanding-the-issues-fixes-presented/"><u>Drive Letter Dilemma in Windows - Understanding The Issues, Fixes Presented</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-workflow-choosing-the-best-6-to-do-list-apps-on-windows-11/"><u>Elevate Your Workflow: Choosing the Best 6 To-Do List Apps on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-gaming-experience-fixing-valorant-lags/"><u>Elevating Gaming Experience: Fixing Valorant Lags</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-cursor-blanking-on-win11-instantly/"><u>Eliminate Cursor Blanking on Win11 Instantly</u></a></li>
+<li><a href="https://windows11.techidaily.com/entering-quake-modes-through-windows-terminal/"><u>Entering Quake Modes Through Windows Terminal</u></a></li>
+<li><a href="https://windows11.techidaily.com/escalate-emulation-faster-yuzu-win-users/"><u>Escalate Emulation: Faster Yuzu, WIN Users</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-mending-swift-steps-for-clear-visual-feed/"><u>Monitor Mending: Swift Steps for Clear Visual Feed</u></a></li>
+<li><a href="https://techtrends.techidaily.com/shrink-your-gifs-with-ease-discover-the-best-movavi-programs-ranked-1-6-for-ultimate-image-slimming-solutions/"><u>Shrink Your GIFs with Ease! Discover the Best Movavi Programs Ranked #1-#6 for Ultimate Image Slimming Solutions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/king-permanent-turn-off-for-youtube-shorts/"><u>Unlocking Permanent Turn-Off for YouTube Shorts</u></a></li>
+</ul></div>
 

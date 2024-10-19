@@ -1,7 +1,7 @@
 ---
 title: "Windows 11: Short-Term Disabling of Its Protection Systems"
-date: 2024-09-27T01:33:46.745Z
-updated: 2024-10-01T20:08:32.630Z
+date: 2024-10-17T18:13:45.546Z
+updated: 2024-10-18T18:35:42.044Z
 tags:
   - windows10
   - windows11
@@ -46,6 +46,19 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 ![Disabling Tamper Protection in Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/tamper-protection.jpg)
 5. Click**Yes** to the UAC that crops up.
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now it's time to open the Registry Editor. Check out[how to open the Registry Editor on Windows 11](https://www.makeuseof.com/windows-11-open-registry-editor/) for steps on how to do this.
 
 1. When the Registry Editor opens, navigate to the following location:  
@@ -55,6 +68,14 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 3. Click the**Advanced** options.  
 ![Advanced option in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/advanced.jpg)
 4. Click**Change** next to the**Owner** option.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the**Select User or Group window** , click the**Advanced** button.  
 ![Advanced option in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/advanced-option.jpg)
 
@@ -62,22 +83,15 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 ![Find Now option in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/find-now.jpg)
 2. Click**OK** \>**OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Check the **Replace all child object permission entries with inheritable permission entries from this object** box.  
 ![Replace all child object permission entries with inheritable permission entries from this object box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/replace-all-child-object-permission-entries-with-inheritable-permission-entries-from-this-object.jpg)
 4. Click**Apply** \>**OK.**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Next, head towards the**Permission for Windows Defender** window, and check the box next to**Full control.**  
@@ -93,13 +107,6 @@ ServiceStartStates`
 
 Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Temporarily Disable Windows Security Using the Local Group Policy Editor
 
  Another quick way to temporarily turn off Windows Security is through the Local Group Policy Editor. Here's what you need to do:
@@ -113,10 +120,10 @@ Restart your computer for the changes to take effect.
 5. Click**Apply** \>**OK.**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once your work is done, you can enable Windows Security by choosing**Disabled** for the Turn off Microsoft Defender Antivirus policy.
@@ -141,19 +148,19 @@ Restart your computer for the changes to take effect.
 ![Disabling WinDefend in Autoruns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/windefend.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, to boot in normal mode, open the**System Configuration** window, select**Normal startup,** and then**OK.**
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stop Windows Security for a Little While on Windows 11
@@ -175,18 +182,18 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-much-does-youtube-pay-for-1-million-views-for-2024/"><u>[New] How Much Does YouTube Pay for 1 Million Views for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-top-9-androidios-video-chat-platforms-ranked/"><u>[Updated] 2024 Approved Top 9 Android/iOS Video Chat Platforms Ranked</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-secure-and-quality-the-top-5-choice-of-recorders/"><u>[Updated] Secure and Quality - The Top 5 Choice of Recorders</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-tips-for-turning-around-a-frozen-windows-hello-system/"><u>5 Tips for Turning Around a Frozen Windows Hello System</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-charge-awareness-customizing-battery-indicators-in-win11/"><u>Boosting Charge Awareness: Customizing Battery Indicators in Win11</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/easy-desktop-screen-capture-method-for-2024/"><u>Easy Desktop Screen Capture Method for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/employing-alternative-antibiotics-such-as-clindamycin-or-penicillins-which-may-still-have-activity-against-metronidazole-resistant-clostridium-perfringens-s189/"><u>Employing Alternative Antibiotics Such as Clindamycin or Penicillins, Which May Still Have Activity Against Metronidazole-Resistant Clostridium Perfringens Strains</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-something-went-wrong-office-error-on-windows/"><u>How to Fix the “Something Went Wrong” Office Error on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-most-common-blue-screen-errors-on-windows/"><u>How to Fix the Most Common Blue Screen Errors on Windows</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-tecno-spark-10-4g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Tecno Spark 10 4G Phone Network-Ready</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-a-guide-on-starting-private-live-streams-on-youtube/"><u>New In 2024, A Guide on Starting Private Live Streams on YouTube</u></a></li>
-<li><a href="https://windows11.techidaily.com/sync-software-unlocking-the-fourfold-compatibility-troubleshooter/"><u>Sync Software: Unlocking the Fourfold Compatibility Troubleshooter</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-artisans-approach-to-high-dynamic-range-mastery-on-windows-11/"><u>The Artisan’s Approach to High Dynamic Range Mastery on Windows 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-selective-software-showcase-photoplusmusic-capture-tools/"><u>[New] 2024 Approved Selective Software Showcase Photo+Music Capture Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-screen-recording-google-meets-on-mobile-devices/"><u>2024 Approved Screen Recording Google Meets on Mobile Devices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/dividing-drama-a-step-by-step-chapters-integration-on-vimeo/"><u>Dividing Drama A Step-by-Step Chapters Integration on Vimeo</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-unresponsive-windows-11-search-engine/"><u>Fixing Unresponsive Windows 11 Search Engine</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-unlock-hidden-bluetooth-clients-in-device-hub/"><u>Guide: Unlock Hidden Bluetooth Clients in Device Hub</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-does-microsoft-make-money-from-windows-11/"><u>How Does Microsoft Make Money From Windows 11?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977325935-igfxem-module-problems-heres-how-they-were-solved/"><u>IgfxEM Module Problems? Here's How They Were Solved</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/reverting-windows-11-enhancements-a-comprehensive-how-to-guide/"><u>Reverting Windows 11 Enhancements: A Comprehensive How-To Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-rectifying-audacitys-audio-access-issue/"><u>Steps for Rectifying Audacity’s Audio Access Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-approach-to-fixing-installer-error-in-win11/"><u>Streamlining Your Approach to Fixing Installer Error in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-peculiar-path-to-a-plain-start-menu/"><u>The Peculiar Path to a Plain Start Menu</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-itunes-guide-mastering-recordings-for-2024/"><u>The Ultimate iTunes Guide Mastering Recordings for 2024</u></a></li>
 </ul></div>
 

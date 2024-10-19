@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes at Hand: Assigning Shortcuts for Win 11 Problem Tools"
-date: 2024-09-05T02:08:03.850Z
-updated: 2024-09-06T02:08:03.850Z
+date: 2024-10-16T03:43:36.851Z
+updated: 2024-10-18T17:13:01.206Z
 tags:
   - windows10
   - windows11
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
 
  The Troubleshooting shortcut will have the same folder library icon as Explorer’s taskbar button. If you would prefer something else, you can change the icon via the shortcut’s properties window. Check out our guide about[how to customize icons on Windows](https://www.makeuseof.com/tag/customize-icon-windows/) for details.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set Up Taskbar and Start Menu Troubleshooting Shortcuts
 
  You can easily convert the Troubleshooting Applet desktop shortcut into a taskbar or Start menu one. To do so in Windows 11, click the Troubleshooting Applet shortcut with the right mouse button and select**Show more options** . Select**Pin to taskbar** on the classic menu to stick the same shortcut on the taskbar. Or click**Pin to Start** to have one for opening the Troubleshooting applet from the pinned area of the Start menu.
@@ -49,12 +56,6 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
 
  Then you may as well remove the desktop shortcut if a taskbar or Start menu one is preferred. Right-click Troubleshooting Applet to select**Delete** (the trash bin icon in Windows 11).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Set Up a Troubleshooting Hotkey
 
  A Troubleshooting desktop shortcut can also become a convenient hotkey in a few quick steps. All you have to do is set a key combination for activating the desktop shortcut. Then you can open the Troubleshooting applet by pressing a**Ctrl** +**Alt** key combo. These are the steps for setting up a hotkey that opens the Troubleshooting applet:
@@ -65,9 +66,30 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
 4. Press**T** (for troubleshooting) to establish a**Ctrl** +**Alt** +**T** key combination.  
 ![The Shortcut key box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/shortcut-key-option.jpg)
 5. Select**Apply** to save your new troubleshooting hotkey.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**OK** or**X** to close the Shortcut tab and window.
 
  Now you can access the Troubleshooting applet with a key combo. Press**Ctrl** +**Alt** +**T** to open that applet and access its troubleshooters. That hotkey depends on the desktop shortcut you set it for. So, you’ve got to leave the shortcut on the desktop.
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Set Up Shortcuts for Opening Specific Troubleshooters
 
@@ -93,28 +115,10 @@ msdt.exe /id AudioPlaybackDiagnostic`
 
 ![The Windows Update troubleshooter command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-command.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Double-clicking that desktop shortcut will open whatever troubleshooter you set it to with the diagnostic ID command. Then you can also pin that desktop shortcut to the taskbar or Start menu just the same as the Troubleshooting applet one. Or set up a hotkey for opening the troubleshooting tool as outlined in this guide’s keyboard shortcut instructions.
 
 ![The Windows Update troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-update-troubleshooter-and-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Add a Troubleshooters Submenu to the Context Menu
 
  The right-click context menu is another place you can add Troubleshooting shortcuts in Windows 11/10\. You can set up a**Troubleshooters** submenu on the Windows 11/10 context menu that includes shortcuts for opening different parts of the Troubleshooting applet. To do that, you only need to download and run a premade registry script like this:
@@ -125,28 +129,18 @@ msdt.exe /id AudioPlaybackDiagnostic`
 4. Go into File Explorer (press**Win** +**E** to open), and bring up the directory containing the registry script’s ZIP archive.  
 ![The Extract Compressed Folders tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/extract-compressed-folder-tool.jpg)
 5. Select to extract the troubleshooters-context-menu.zip archive. Our guide to[unzipping ZIP files on Windows](https://www.makeuseof.com/unzip-files-windows-10/) includes instructions for extracting these archives.
+
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. Open the extracted troubleshooters-context-menu folder.
 7. Double-click the**Add Troubleshooters To Desktop Context Menu.reg** file.  
 ![The troubleshooters-context-menu folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/troubleshooters-context-menu-folder.jpg)
 8. Click**Yes** on the prompt that asks for user confirmation to apply the script.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You will now see a new**Troubleshooters** submenu on your desktop’s context menu. Right-click any space within the desktop wallpaper area and select**Show more options** on Windows 11’s context menu. Move the cursor over the**Troubleshooters** submenu to view its shortcuts.
 
@@ -156,12 +150,6 @@ msdt.exe /id AudioPlaybackDiagnostic`
 
  The troubleshooters-context-menu folder also includes a script for removing the Troubleshooters submenu. Double-click**Remove Troubleshooters From Desktop Context Menu.reg** in that folder to run that script. Then select**Yes** to erase the submenu from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Make Some Shortcuts for Accessing Troubleshooters in Windows
 
  So, now you can create Windows shortcuts for opening the Troubleshooting applet and more specific troubleshooters in various ways. You can create a general Troubleshooting Control Panel desktop, taskbar, keyboard, or context menu shortcut for accessing all troubleshooting tools. Or set up shortcuts that give you more direct access to the specific troubleshooting tools you utilize more regularly.
@@ -172,8 +160,6 @@ msdt.exe /id AudioPlaybackDiagnostic`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +167,23 @@ msdt.exe /id AudioPlaybackDiagnostic`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-streaming-software-spectacle-choosing-between-virusmix-and-castpro/"><u>[New] Streaming Software Spectacle Choosing Between VirusMix and CastPro</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unpacking-features-a-deep-dive-into-free2xs-tools-for-2024/"><u>[New] Unpacking Features A Deep Dive Into Free2X's Tools for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-advice-to-tackle-ms-store-hurdle-win1011s-error-0x0/"><u>Expert Advice to Tackle MS Store Hurdle: Win10/11's Error 0X0</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-thespis-to-twitter-elizabethan-terms-today/"><u>From Thespis to Twitter: Elizabethan Terms Today</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-adjust-smartscreen-settings-for-win11-users/"><u>Guide: Adjust SmartScreen Settings for Win11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/harnessing-windows-powers-for-linux-enhancement/"><u>Harnessing Windows Powers for Linux Enhancement</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-facebook-renamed-itself-to-simplicity/"><u>How Facebook Renamed Itself to Simplicity</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-samsung-galaxy-a23-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Samsung Galaxy A23 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722975063411-humanitarian-considerations-have-gained-prominence-in-the-discourse-on-nuclear-weapons-emphasizing-their-catastrophic-impacts/"><u>Humanitarian Considerations Have Gained Prominence in the Discourse on Nuclear Weapons, Emphasizing Their Catastrophic Impacts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/instantaneous-access-to-the-calculator-in-windows-11-os/"><u>Instantaneous Access to the Calculator in Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-address-failed-boot-up-display-driver/"><u>Methods to Address Failed Boot-Up Display Driver</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-folder-management-selective-move-on-windows-11/"><u>Revolutionize Folder Management: Selective Move on Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-guide-invert-playback-videos-android/"><u>Step-by-Step Guide Invert Playback Videos Android</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-installing-third-party-software-directly-on-oculus-quest/"><u>Step-by-Step Guide: Installing Third-Party Software Directly on Oculus Quest</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-system-potential-mastery-of-win-registry-cli-edits/"><u>Unlocking System Potential: Mastery of Win Registry CLI Edits</u></a></li>
+</ul></div>
 

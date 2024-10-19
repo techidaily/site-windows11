@@ -1,7 +1,7 @@
 ---
 title: Transition to New Background in WinTerminal
-date: 2024-09-26T19:01:47.720Z
-updated: 2024-10-01T21:36:08.004Z
+date: 2024-10-13T21:14:20.259Z
+updated: 2024-10-18T16:17:37.596Z
 tags:
   - windows10
   - windows11
@@ -27,16 +27,10 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
  Using the default option is the simplest way to change your background image while editing the settings.json file provides more control and customization options. Below, we will guide you through each option.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Change Windows Terminal Background Image via Its Options
@@ -52,16 +46,10 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 ![Change Windows Terminal Background Image via Default Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-windows-terminal-background-image-via-default-option.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Scroll down to the**Background image** section, then click the**Background image path** option. Next, click the**Browse** option and select an image you want to use as a background.
@@ -77,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
  If you want to switch to the default image,[reset the Windows Terminal to its default settings](https://www.makeuseof.com/windows-11-reset-terminal-settings/) . This will automatically restore your background to the default image.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Change the Windows Terminal Background Image via Windows File Explorer
@@ -99,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
  This is where you can enter the path of your own image to set as the Windows Terminal background. To do this, first copy the full file path for the image you want to use, including the file name.
 
 ![How to Change Windows Terminal Background Image From Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/how-to-change-windows-terminal-background-image-from-windows-file-explorer.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then paste this path into the**backgroundImage** section of settings.json. Remember to include a comma (**,**) after the path, as shown in the image above.
 
@@ -127,6 +108,14 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 3. This will open the Local State folder containing the settings.json file. Right-click on**Settings** and select**Open with** \>**Notepad** .  
 ![Change Windows Terminal Background Image From Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/change-windows-terminal-background-image-from-windows-file-explorer.jpg)
 4. Scroll down to the**backgroundImage** section and replace the image path with your own.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Then press**Ctrl + S** on your keyboard to save the changes.
 6. Close Notepad, then open Windows Terminal to see your new background image.
 
@@ -151,18 +140,22 @@ thumbnail: https://thmb.techidaily.com/a55de6d667ce151e4f6994d9b6a4777fce149eccc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-video-conference-to-youtube-broadcast-google-meet-explained/"><u>[New] 2024 Approved From Video Conference to Youtube Broadcast Google Meet Explained</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-crafting-captivating-tiktoks-mastering-the-use-of-pre-designed-templates/"><u>[New] Crafting Captivating TikToks Mastering the Use of Pre-Designed Templates</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-behind-the-photo-instagram-selfie-credibility-explored/"><u>[New] In 2024, Behind the Photo Instagram Selfie Credibility Explored</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-leading-macos-sierra-choices-for-file-conversion/"><u>[New] In 2024, Leading MacOS Sierra Choices for File Conversion</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-facebooks-full-spectrum-maximizing-story-linking-for-2024/"><u>[Updated] Facebook's Full Spectrum Maximizing Story Linking for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/ensure-seamless-fullscreen-launch-on-windows-pcs/"><u>Ensure Seamless Fullscreen Launch on Windows PCs</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/from-underscrutinized-to-unforgettable-bio-hacks-for-love-success-for-2024/"><u>From Underscrutinized to Unforgettable Bio Hacks for Love Success for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-fifa-21-from-crashing-on-windows-expert-fixes-and-tips/"><u>How to Stop FIFA 21 From Crashing on Windows - Expert Fixes and Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-windows-11-search-with-custom-settings/"><u>Optimizing Windows 11 Search with Custom Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/skyrocket-your-typing-swift-input-strategies-for-win-1011-users/"><u>Skyrocket Your Typing: Swift Input Strategies for WIN 10/11 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-complete-guide-to-image-spin-on-your-windows-11-pc/"><u>The Complete Guide to Image Spin on Your Windows 11 PC</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/unleash-more-drive-potential-the-definitive-review-of-highpoints-rocket-1608a-usb-expansion-card/"><u>Unleash More Drive Potential: The Definitive Review of HighPoint's Rocket 1608A USB Expansion Card</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-unlocking-windows-high-dynamic-range-potential-for-2024/"><u>[New] Unlocking Windows' High Dynamic Range Potential for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-snap-to-perfection-editing-strategies-that-work-wonders/"><u>[Updated] Snap to Perfection Editing Strategies That Work Wonders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-base-to-brilliance-comparing-gopro-hero5-black-and-hero4-silver/"><u>2024 Approved From Base to Brilliance Comparing GoPro Hero5 Black and Hero4 Silver</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/androids-best-moba-games-roundup-10-edition-for-2024/"><u>Android's Best MOBA Games Roundup - #10 Edition for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-pc-crash-woes-with-these-9-effective-tips-for-stable-gameplay-in-ark-survival-evolved/"><u>Beat PC Crash Woes with These 9 Effective Tips for Stable Gameplay in ARK: Survival Evolved</u></a></li>
+<li><a href="https://techtrends.techidaily.com/error-resolution-guide-restoring-missing-python24dll-component-in-python/"><u>Error Resolution Guide: Restoring Missing python24.dll Component in Python</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-tune-into-trends-integrating-songs-with-reels/"><u>In 2024, Tune Into Trends Integrating Songs with Reels</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-store-troubleshoot-guide-for-error-x80072f30/"><u>Microsoft Store Troubleshoot Guide for Error X80072F30</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-privacy-settings-in-apple-music-discover-4-essential-tips-for-a-confidential-audio-journey/"><u>Navigating Privacy Settings in Apple Music: Discover 4 Essential Tips for a Confidential Audio Journey</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedy-for-inaudible-recordings-while-using-powerpoint/"><u>Remedy for Inaudible Recordings While Using PowerPoint</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-into-flexibility-opening-fax-editor-on-windows-11-pcs/"><u>Step Into Flexibility: Opening Fax Editor on Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-eradicating-installer-problems-on-windows-11/"><u>Strategies for Eradicating Installer Problems on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/sustained-calculator-visibility-on-windows-os/"><u>Sustained Calculator Visibility on Windows OS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-allure-of-gpt-to-malicious-actors/"><u>The Allure of GPT to Malicious Actors</u></a></li>
+<li><a href="https://windows11.techidaily.com/unexplored-avenues-in-windows-11-boost-your-usability/"><u>Unexplored Avenues in Windows 11 - Boost Your Usability</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-and-solving-windows-exit-point-error/"><u>Unraveling and Solving Windows Exit Point Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-tips-for-better-mouseclicklock-implementation/"><u>Unveiling Tips for Better MouseClickLock Implementation</u></a></li>
 </ul></div>
 

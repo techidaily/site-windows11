@@ -1,7 +1,7 @@
 ---
 title: Revamping Your Network's First Line of Defense
-date: 2024-09-05T02:08:02.772Z
-updated: 2024-09-06T02:08:02.772Z
+date: 2024-10-13T17:53:30.984Z
+updated: 2024-10-18T16:10:38.291Z
 tags:
   - windows10
   - windows11
@@ -50,14 +50,22 @@ netsh advfirewall reset
  Wait for the process to complete. From there, restart your device to save these changes.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Use Windows PowerShell
 
 ![A person typing commands on a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/A-person-typing-commands-on-a-laptop.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Struggling to reset the firewall settings using the Command Prompt? If so, then try [Windows PowerShell](https://www.makeuseof.com/what-is-windows-powershell/).
 
@@ -72,17 +80,12 @@ netsh advfirewall reset
  Wait for the process to complete, and then restart your device.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Use the Windows Security App
 
  The Windows Security app is a tool that helps you scan and fix system bugs. Interestingly, you can also use this tool to reset the firewall settings.
@@ -98,17 +101,12 @@ netsh advfirewall reset
 ![Clicking the Restore firewalls to default option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/clicking-the-restore-firewalls-to-default-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 5\. Use the "Firewall with Advanced Security" Tool
 
  Still can’t reset the firewall settings? Try one of the options in the “Windows Firewall with Advanced Security” screen.
@@ -124,12 +122,6 @@ netsh advfirewall reset
 
 ![Selecting the Restore Default Policy option on the Firewall with Advanced Security screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/selecting-the-restore-default-policy-option-on-the-firewall-with-advanced-secutiry-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Can’t access the “Windows Defender Firewall with Advanced Security” screen using the steps we’ve covered? Try these methods:
 
 1. Press **Win + I** to access the system settings.
@@ -140,26 +132,17 @@ netsh advfirewall reset
 
  From there, right-click on the **Windows Defender Firewall with Advanced Security on Local Computer** option and select the **Restore Default Policy** option.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Restoring the Firewall Settings to Their Default Settings
 
  It’s quite frustrating when the firewall settings prevent you from accessing the apps on your PC. But the good news is that you can simply resolve such issues by resetting these settings.
 
  To reset the firewall settings with ease, check out any of the tips we’ve covered. And if you want to reset the Settings app instead, there are solutions for that too!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -168,4 +151,20 @@ netsh advfirewall reset
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-hands-on-approach-to-ios-audio-capture-for-2024/"><u>[New] Hands-On Approach to iOS Audio Capture for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-optimized-recording-software-seamless-every-time/"><u>[Updated] 2024 Approved Optimized Recording Software - Seamless Every Time</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-vivo-s17-pro-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Vivo S17 Pro</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-separation-to-symbiosis-logic-pro-x-audio-blending/"><u>In 2024, From Separation To Symbiosis Logic Pro X Audio Blending</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Plus Without Passcode?</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-awaits-conquering-windows-11-with-group-software-updates-via-winstall/"><u>Mastery Awaits: Conquering Windows 11 with Group Software Updates via Winstall</u></a></li>
+<li><a href="https://extra-information.techidaily.com/reigning-in-your-digital-domain-with-a-precision-plan-for-smm-excellence/"><u>Reigning in Your Digital Domain with a Precision Plan for SMM Excellence</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/star-stellar-solutions-unmatched-in-ms-sql-repairment-says-gary/"><u>Star Stellar Solutions - Unmatched in MS SQL Repairment, Says Gary</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailor-windows-11-task-manager-interface-elements/"><u>Tailor Windows 11 Task Manager Interface Elements</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-power-of-taskbar-icon-size-in-w11/"><u>Unlock the Power of Taskbar Icon Size in W11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719578409266-unveiling-8-engaging-reasons-to-master-hindi-with-mondly-online/"><u>Unveiling 8 Engaging Reasons to Master Hindi with Mondly Online!</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-at-preservation-moving-old-games-into-windows-11-folder/"><u>Winning at Preservation: Moving Old Games Into Windows 11 Folder</u></a></li>
+</ul></div>
 

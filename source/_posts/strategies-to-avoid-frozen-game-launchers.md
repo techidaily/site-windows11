@@ -1,7 +1,7 @@
 ---
 title: Strategies to Avoid Frozen Game Launchers
-date: 2024-10-07T16:09:37.695Z
-updated: 2024-10-12T23:10:57.175Z
+date: 2024-10-15T21:40:12.702Z
+updated: 2024-10-19T01:44:20.423Z
 tags:
   - windows10
   - windows11
@@ -43,26 +43,13 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 ![Run Epic Games Launcher as Admin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-epic-games-launcher-as-admin.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this method gets Epic Games Launcher to operate smoothly, you can configure it to [always run as an administrator on Windows](https://www.makeuseof.com/tag/ways-to-run-a-program-as-administrator-in-windows/).
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Check the Epic Games Server Status
 
@@ -78,6 +65,20 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 2. Click your **profile icon** in the top right corner and choose **Settings** from the list.
 3. If a newer version is available, click the **Restart and Update** button that appears.  
 ![Restart & Update option in Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/restart-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Disable Fullscreen Optimizations
 
@@ -104,13 +105,6 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 6. Click the **trash icon** at the top to delete them.  
 ![Delete Epic Games Launcher Cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/delete-epic-games-launcher-cache.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Fix the D3DCOMPILER\_43.dll File
 
  Do you see the D3DCOMPILER\_43.dll error when Epic Games Launcher crashes on Windows? If so, the D3DCOMPILER\_43.dll file on your PC may be corrupt or missing. Here's what you can do to fix it.
@@ -124,10 +118,16 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
  Run the installer file and follow the on-screen prompts to finish the process. After that, try using Epic Games Launcher again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Repair the Epic Games Launcher
@@ -142,21 +142,7 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 6. Select **Yes** when the User Account Control (UAC) prompt shows up.  
 ![Repair Epic Games Launcher](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/repair-epic-games-launcher.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Follow the on-screen instructions to repair the launcher and try using it again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Reinstall the Epic Games Launcher
 
@@ -164,12 +150,26 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 
  After uninstalling Epic Games Launcher, press **Win + R** to open the Run dialog box. Type **%localappdata%** in the box and press **Enter**. In the File Explorer window that appears, delete the **Epic Games launcher** folder. Once done, go to [Epic Games' official website](https://store.epicgames.com/en-US/download) to download the setup file and run it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 10\. Try Other Common Fixes
 
  If the above fixes don’t help, there may be an issue with your Windows PC. In that case, you can try the following troubleshooting tips to resolve the issue.
 
 * **Update Graphics Driver:** Outdated or defective graphics drivers can also be the cause of such problems. Try [updating the graphics driver on your PC](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) to see if that resolves the issue.
 * **Scan for Malware:** If you are experiencing similar issues with other apps and programs as well, your PC may be infected with malware. To check for this possibility, [scan your Windows PC for malware](https://www.makeuseof.com/how-to-use-powershell-to-scan-windows-10-for-malware/) and take the necessary steps to fix it.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing Epic Games Launcher Crashes on Windows
 
@@ -187,20 +187,18 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-enhancing-youtube-presence-with-strategic-banners-for-2024/"><u>[New] Enhancing YouTube Presence with Strategic Banners for 2024</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1-concevoir-et-implementer-un-logo-personnalise-pour-votre-compagnie-avec-le-bloc-notes-sous-windows-versions-11-10-8-ou-7/"><u>1. Concevoir Et Implémenter Un Logo Personnalisé Pour Votre Compagnie Avec Le Bloc-Notes Sous Windows (Versions 11, 10, 8 Ou 7)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-essential-guide-to-mounting-a-tripod-for-vloggers/"><u>2024 Approved Essential Guide to Mounting a Tripod for Vloggers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-tecno-phantom-v-fold-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Tecno Phantom V Fold to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/activating-telnet-on-windows-3-key-methods/"><u>Activating Telnet on Windows: 3 Key Methods</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-non-operational-state-of-ccleaner-on-win1011-systems/"><u>Addressing Non-Operational State of CCleaner on Win10/11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/bring-back-sound-on-systems-running-low-volume-errors/"><u>Bring Back Sound on Systems Running Low Volume Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/concealing-windows-11s-taskbar-search-function/"><u>Concealing Windows 11'S Taskbar Search Function</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/crafted-by-professionals-best-free-mobile-editors-for-android/"><u>Crafted by Professionals Best Free Mobile Editors for Android</u></a></li>
-<li><a href="https://windows11.techidaily.com/create-your-own-windows-speech-recognition-app-with-autohotkey-and-whisper/"><u>Create Your Own Window's Speech Recognition App with AutoHotkey and Whisper</u></a></li>
-<li><a href="https://windows11.techidaily.com/ditch-default-home-port-on-w11-settings-interface/"><u>Ditch Default Home Port on W11 Settings Interface</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-phone-without-google-account-by-drfone-android/"><u>How to Unlock Oppo Phone without Google Account?</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-beats-now-at-your-fingertips-in-imovie-editing/"><u>In 2024, YouTube Beats, Now at Your Fingertips in iMovie Editing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transformez-votre-fichier-mef-en-une-image-jpeg-de-qualite-superieure-sans-frais-movavi/"><u>Transformez Votre Fichier MEF en Une Image JPEG De Qualité Supérieure Sans Frais - Movavi</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unraveling-the-cost-friendly-yet-confusing-identity-of-microsofts-surface-go-through-our-in-depth-review/"><u>Unraveling the Cost-Friendly Yet Confusing Identity of Microsoft's Surface Go Through Our In-Depth Review</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-techniques-for-capturing-high-quality-movies-on-all-os/"><u>[New] 2024 Approved Techniques for Capturing High-Quality Movies on All OS</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instas-secrets-unveiled-the-art-of-selfie-confirmation-for-2024/"><u>[New] Insta's Secrets Unveiled The Art of Selfie Confirmation for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-layering-youtube-vibes-on-video-canvases/"><u>[New] Layering YouTube Vibes on Video Canvases</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebook-to-mp4-mastery-learn-how-to-convert-video-online-without-costs/"><u>[Updated] Facebook to MP4 Mastery Learn How To Convert Video Online Without Costs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-streamlining-your-screen-share-experience-with-meet/"><u>[Updated] Streamlining Your Screen Share Experience with Meet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/can-a-128gb-drive-handle-huge-video-files/"><u>Can a 128GB Drive Handle Huge Video Files?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-rich-communication-services-revolutionize-our-text-conversations-an-insightful-guide-to-rcs/"><u>How Rich Communication Services Revolutionize Our Text Conversations: An Insightful Guide to RCS</u></a></li>
+<li><a href="https://windows11.techidaily.com/minipc-with-maximum-space-mediocre-movements/"><u>Minipc with Maximum Space, Mediocre Movements</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigational-aids-shortcut-mastery-with-windows-narrator/"><u>Navigational Aids: Shortcut Mastery with Windows Narrator</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-grammarly-steps-to-reactivate-it/"><u>Reviving Grammarly: Steps to Reactivate It</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-turbulence-of-youtube-playback-in-chrome/"><u>Taming the Turbulence of YouTube Playback in Chrome</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-screen-resolution-adjustments-for-the-ultimate-samsung-uhd-viewing-experience/"><u>Top Screen Resolution Adjustments for the Ultimate Samsung UHD Viewing Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-firewall-4-tactics-when-its-offline/"><u>Unlocking Firewall: 4 Tactics When It's Offline</u></a></li>
 </ul></div>
 

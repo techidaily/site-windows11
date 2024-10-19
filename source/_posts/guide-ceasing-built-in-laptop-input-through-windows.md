@@ -1,7 +1,7 @@
 ---
 title: "Guide: Ceasing Built-In Laptop Input Through Windows"
-date: 2024-09-30T17:26:21.230Z
-updated: 2024-10-01T19:12:18.717Z
+date: 2024-10-14T18:45:26.965Z
+updated: 2024-10-18T16:15:09.140Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
  If you don't find your keyboard listed, make sure you have [set Device Manager to show hidden devices.](https://www.makeuseof.com/view-hidden-devices-in-windows/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Disable the Laptop Keyboard Temporarily
@@ -53,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 ![uninstall keyboard device device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/uninstall-keyboard-device-device-manager.jpg)
 2. Next, select **Uninstall Device** from the context menu.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Click **Yes** to confirm the action.
 4. That’s it. You have disabled your laptop’s internal keyboard successfully.
 
@@ -68,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 ## How to Disable Your Laptop Keyboard Permanently
 
 ![disable ps 2 port 18042prt command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/disable-ps-2-port-18042prt-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to disable your laptop keyboard permanently, you can disable your laptop’s built-in keyboard driver PS/2 i8042prt service using the Command Prompt. We'll use the sc command-line utility to configure the service and set its start parameter to disabled.
 
@@ -97,18 +97,19 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 3. Select **Browse my computer for drivers**.  
 ![update driver search automatically for drivers device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-driver-search-automatically-for-drivers-device-manager.jpg)
 4. Next, select **Let me pick from a list of available drivers on my computer**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![update driver keyboard pick from list of available drivers device manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/update-driver-keyboard-pick-from-list-of-available-drivers-device-manager.jpg)
 5. Uncheck the **Show compatible hardware** option.
 6. Select a random manufacturer under the **Manufacturer** column.  
 ![install incompatible keyboard driver windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/install-incompatible-keyboard-driver0windows.jpg)
 7. Click **Next**. Click **Yes** if an **Update Driver Warning** dialog appears.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8. Once installed, close Device Manager and reboot your computer.
 
@@ -123,10 +124,10 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
  Wait for the driver to install. Once done, reboot your computer, and the keyboard will start working again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disable Your Laptop Keyboard Permanently on Windows
@@ -148,17 +149,22 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-accelerate-how-to-swiftly-broadcast-playlists/"><u>[New] 2024 Approved Accelerate How To Swiftly Broadcast Playlists</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-easy-ways-to-record-google-voice-calls/"><u>[Updated] Easy Ways to Record Google Voice Calls</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-master-the-art-of-steadiness-in-imaging/"><u>[Updated] In 2024, Master the Art of Steadiness in Imaging</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-innovative-video-sharing-best-practices-for-live-monitor-display/"><u>2024 Approved Innovative Video Sharing Best Practices for Live Monitor Display</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoid-distracting-notifications-messages-on-windows-11/"><u>Avoid Distracting Notifications, Messages on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-quickly-fix-keyboard-issues-in-windows-snipper/"><u>How to Quickly Fix Keyboard Issues in Window's Snipper</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-motorola-lock-screen-password-by-drfone-android/"><u>How to Reset your Motorola Lock Screen Password</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-batch-file-transformation-executable-edition/"><u>Mastering Batch File Transformation: Executable Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-reference-guide-to-overcoming-winscombvc-issues/"><u>Quick Reference Guide to Overcoming WinScombVc Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-to-unlock-your-computers-windows-license/"><u>Techniques to Unlock Your Computer's Windows License</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/whats-a-reasonable-processor-speed-for-modern-day-use/"><u>What's a Reasonable Processor Speed for Modern-Day Use?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ogv-mp3-mp3/"><u>무료 솔루션: OGV 파일을 MP3로 변환하는 간단한 방법 – 모바이비 - MP3 변환기</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-sims-chronicles-uncut-expert-techniques-to-preserve-the-heart-of-your-gaming-life-in-sims-4/"><u>[Updated] 2024 Approved Sims Chronicles Uncut Expert Techniques to Preserve the Heart of Your Gaming Life in Sims 4</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-mac-4k-monitor-selections-top-10-edition/"><u>2024 Approved Premier Mac 4K Monitor Selections Top 10 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-to-reopen-battlenet-on-windows-desktop/"><u>Essential Steps to Reopen Battle.net on Windows Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-inaccessible-files-in-windows-os/"><u>Fixing Inaccessible Files in Windows OS</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-hands-on-the-latest-corsair-h80i-v2-graphics-card-drivers/"><u>Get Your Hands on the Latest Corsair H80i v2 Graphics Card Drivers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/google-serp-position-change-condition-quality-of-content-by-link-assistant-rank-tracker-serp-analysis-serp-analysis/"><u>Google SERP Position Change Condition - Quality of content</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-mend-interruptexception-crash-on-pcs-running-windows-1011/"><u>How to Mend INTERRUPT_EXCEPTION Crash on PCs Running Windows 10/11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-p40-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P40 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/les-meilleurs-programmes-libres-pour-sauvegarde-et-restauration-sur-windows-versions-11-10-8-et/"><u>Les Meilleurs Programmes Libres Pour Sauvegarde Et Restauration Sur Windows : Versions 11, 10, 8 Et</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-typical-sort-and-group-features-on-files/"><u>Reinstating Typical Sort and Group Features on Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-connectivity-on-pcs-winnet-steps-to-verify/"><u>Seamless Connectivity on PCs: WinNet Steps to Verify</u></a></li>
+<li><a href="https://windows11.techidaily.com/securely-delete-your-files-at-the-click-windows-11s-desktop-trash-tutorial/"><u>Securely Delete Your Files at the Click: Windows 11'S Desktop Trash Tutorial</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-silence-issue-get-notifications-with-sound-anytime/"><u>Solve Your iPhone's Silence Issue: Get Notifications with Sound Anytime</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-editors-guide-best-for-youtube-content/"><u>The Ultimate Editor's Guide Best for YouTube Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-your-computers-booting-process-with-configurations/"><u>Unlock the Full Potential of Your Computer's Booting Process with Configurations</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-vivo-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Vivo Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-aesthetic-edge-maximizing-backdrop-impact/"><u>Windows 11'S Aesthetic Edge: Maximizing Backdrop Impact</u></a></li>
 </ul></div>
 

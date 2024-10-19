@@ -1,7 +1,7 @@
 ---
 title: How to Enable and Utilize the Script Execution Policy in Windows PowerShell
-date: 2024-10-10T19:34:11.938Z
-updated: 2024-10-12T18:59:52.986Z
+date: 2024-10-11T17:05:36.668Z
+updated: 2024-10-18T20:33:11.123Z
 tags:
   - windows10
   - windows11
@@ -58,25 +58,18 @@ To change execution policy using Settings:
 ![enable powershell script execution windows 11 settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-powershell-script-execution-windows-11-settings.jpg)
 6. Once done, open PowerShell, type get**executionpolicy,** and press**Enter** . The execution policy for the current user is now set to**RemoteSigned.**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. If you need to disable the execution policy, toggle the PowerShell switch and set it to**Off** .
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Allow Scripts to Run in PowerShell using PowerShell
 
 ![Powershell set execcution policy remotesigned](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/powershell-set-execcution-policy-remotesigned.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can use a[PowerShell cmdlet](https://www.makeuseof.com/windows-powershell-commands-cmdlets/) to set the execution policy to RemoteSigned. The command-line interface makes it easy to change execution policy quickly without using the Settings app.
 
@@ -92,9 +85,23 @@ To change the execution policy using PowerShell:
 `Set-ExecutionPolicy RemoteSgined -Scope CurrentUser`
 5. Replace**CurrentUser** in the above command with other users (Scope) as per your requirement.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Remove Script Execution Policy Using PowerShell
 
 ![set-execution-policy-undefined](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-execution-polify-undefined.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to disable script execution, set the execution policy to**Undefined** using th**e Set\_ExecutionPolicy** cmdlet. This is a default state and prevents PowerShell from executing any scripts.
 
@@ -106,6 +113,13 @@ To disable script execution using PowerShell:
 3. The above command will set the execution policy default (undefined) for all the users. If you want to disable script execution for a specific scope, use the following command:  
 `Set-ExecutionPolicy undefined -Scope CurrentUser`
 4. The above command will disable script execution for**CurrentUser** .
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Understanding Execution Policies and Scopes
 
@@ -123,13 +137,6 @@ To disable script execution using PowerShell:
 | Undefined        | Sets execution policy to Restricted for Windows clients and RemoteSigned for Windows Server.                   |
 | Unrestricted     | Allow unsigned script execution with a warning for the scripts downloaded from the internet.                   |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Execution Policy Scope
 
  You can set execution policy for a particular scope in PowerShell. The five execution policy scopes are**MachinePolicy, UserPolicy, Process, CurrentUser,** and**LocalMachine** .
@@ -143,13 +150,6 @@ The below table briefly explains all the execution policy scopes:
 | CurrenUser             | Configured for the current user and stored in HKEY\_CURRENT\_MACHINE registry subkey.    |
 | LocalMachine           | Configured for all users and stored in HKEY\_CURRENT\_MACHINE registry subkey.           |
 | Process                | Affects current PowerShell session and automatically deleted when the session is closed. |
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Add or Remove PowerShell Script Execution Policy on Windows
 
@@ -172,20 +172,20 @@ The below table briefly explains all the execution policy scopes:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-capturing-views-connecting-users-social-media-for-360-degree-photos-for-2024/"><u>[New] Capturing Views, Connecting Users Social Media for 360-Degree Photos for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-ways-to-fix-the-windows-family-safety-feature-not-working/"><u>5 Ways to Fix the Windows Family Safety Feature Not Working</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-deep-dive-into-windows-hd-color-and-hdr-editing-excellence-for-2024/"><u>A Deep Dive Into Windows HD Color and HDR Editing Excellence for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/amazon-fire-tv-cube-review-a-blazing-fast-streaming-device/"><u>Amazon Fire TV Cube Review: A Blazing Fast Streaming Device</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ensure-your-hp-officejet-pro-8610-works-flawlessly-with-the-latest-driver-downloads-for-windows-operating-systems/"><u>Ensure Your HP Officejet Pro 8610 Works Flawlessly with the Latest Driver Downloads for Windows Operating Systems!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-oneplus-nord-ce-3-5g-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of OnePlus Nord CE 3 5G using Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-mastering-closer-video-in-google-meet-sessions/"><u>In 2024, Mastering Closer Video in Google Meet Sessions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-golden-rule-for-profit-partnership/"><u>In 2024, YouTube's Golden Rule for Profit Partnership</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-through-windows-sound-settings-9-easy-methods-quickly/"><u>Navigate Through Windows' Sound Settings: 9 Easy Methods, Quickly</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-connectivity-hurdles-spotify-and-windows-11/"><u>Overcoming Connectivity Hurdles: Spotify & Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/revive-slow-windows-apps-ensure-robust-web-linkage/"><u>Revive Slow Windows Apps: Ensure Robust Web Linkage</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-integration-how-to-get-and-run-msibundle-and-appxappxbundles/"><u>Seamless Integration: How to Get & Run MsiBundle & Appx/Appxbundles</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-win11-screensaver-personalization/"><u>Step-by-Step Guide to Win11 Screensaver Personalization</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/ultimate-tutorial-for-viewing-movie-file-contents-from-videots-folders-across-windows-11-macos-ios-and-android-platforms/"><u>Ultimate Tutorial for Viewing Movie File Contents From Video_TS Folders Across Windows 11, macOS, iOS, and Android Platforms</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-the-windows-11-taskbar/"><u>Unlock the Full Potential of the Windows 11 Taskbar</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-freeing-up-youtube-views-no-more-grey-lines/"><u>[New] In 2024, Freeing Up YouTube Views No More Grey Lines</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-computer-tech-evaluations-by-toms-hardware-experts/"><u>Comprehensive Computer Tech Evaluations by Tom's Hardware Experts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/diy-fixes-how-to-enable-non-compatible-iphone-accessories/"><u>DIY Fixes: How to Enable Non-Compatible iPhone Accessories</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-xltx-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .xltx document online</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-solve-microsoft-office-365-glitches-error-30015-26/"><u>How to Solve Microsoft Office 365 Glitches: Error 30015-26</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-itel-p55t-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Itel P55T to Outlook | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-poco-c51-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Poco C51 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/inverse-viewing-in-youtube-original-ideas-for-rewinders/"><u>Inverse Viewing in YouTube Original Ideas for Rewinders</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-resolve-non-installed-windows-store-apps/"><u>Methods to Resolve Non-Installed Windows Store Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726227057768-movavi/"><u>Movavi 影片編碼器 - 完整免費版本可立即下載</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/tidy-up-win11-desktop-by-removing-highlighted-icon/"><u>Tidy up Win11 Desktop by Removing Highlighted Icon</u></a></li>
+<li><a href="https://windows11.techidaily.com/tidying-up-your-pc-a-compact-guide-to-uninstallation-in-windows-11-108-chars/"><u>Tidying Up Your PC: A Compact Guide to Uninstallation in Windows 11 (108 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-7-sketch-tools-on-windows-11/"><u>Top 7 Sketch Tools on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-steps-for-reclaiming-lost-vpn-links-in-winpc/"><u>Unveiling Steps for Reclaiming Lost VPN Links in WinPC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Windows App Glitch X80131500
-date: 2024-09-05T02:09:09.434Z
-updated: 2024-09-06T02:09:09.434Z
+date: 2024-10-16T18:53:04.263Z
+updated: 2024-10-18T18:28:44.249Z
 tags:
   - windows10
   - windows11
@@ -43,18 +43,19 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 5. Press the **Win + R**, which is one of the many [ways to launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/). Then type **ms-windows-store:** into the text box and press **Enter**.
 6. Microsoft Store app will launch. Check if it displays the error code now.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Restart Your System
 
  If terminating the Microsoft Store app didn’t do any good, you must restart your system. Restarting is the oldest trick in the book which clears the memory and restarts all the essential services and programs. Press the Win key and click on the Power icon. Then select the Restart option.
 
  Wait for the system to restart and then connect it to a working internet connection. Then, launch the Microsoft Store.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Change the Device Region
 
  Incorrect device region settings can prevent the Microsoft Store app from loading content. Server maintenance could be another reason why the app is not fetching details from the server. Here’s how to change the region on Windows.
@@ -65,12 +66,6 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 4. Click on the **Country or region** option and pick your region from the drop-down list.  
 ![Change the Device Region](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/change-the-device-region.jpg)
 5. Now close the Settings app and relaunch the Microsoft Store. Check if the error persists.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Sync System Date and Time
 
@@ -81,17 +76,12 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 3. Scroll down and click on the **Sync now** button. It will sync the time and date with the Microsoft servers.  
 ![Sync System Date and Time](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sync-system-date-and-time.jpg)
 4. Exit the settings app and launch the Microsoft Store.
+
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Repair or Reset the Microsoft Store App
@@ -107,18 +97,6 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 5. If the error code pops up, switch to the Settings app. Now, click on the **Reset** button.  
 ![Repair or Reset the Microsoft Store App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repair-or-reset-the-microsoft-store-app.jpg)
 6. Close the settings app and restart your system. Launch the Microsoft Store app and check if the error code pops up.
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Update Windows
 
@@ -144,11 +122,12 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 5. Click on the Microsoft account you use on your Windows PC and click on **Continue**.  
 ![Sign Out and Again Sign in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sign-out-and-again-sign-in.jpg)
 6. Enter the system **PIN** to confirm the login.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Check the BITS and Windows Update Service
@@ -160,20 +139,37 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 3. Go to the **Startup type:** section and click on it to open the drop-down list. Select the **Automatic** option.  
 ![Configure BITS service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/configure-bits-service.jpg)
 4. Click on the **Apply** button.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Now, click on the **Start** button and then click on the **OK** button.
 6. Next, locate the **Windows Update** service and double-click on it to open its properties.
 7. Find the **Startup type:** section and click on it to expand the drop-down list. Click on the **Automatic** option.  
 ![Configure Windows Update service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/configure-windows-update-service.jpg)
 8. Click on the **Apply** button.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Lastly, click on the **Start** button and then click on the **OK** button.
 10. **Close** the Services utility.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 9\. Tweak the Internet Options
 
  Some misconfigured internet settings can cause the Microsoft Store app to not load items and encounter the issue. Repeat the following steps to configure the internet settings:
@@ -184,22 +180,18 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 4. Similarly, uncheck the checkboxes next to **Use TLS 1.1** and **Use SSL 3.0** options as well.  
 ![TWeak internet options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/tweak-internet-options.jpg)
 5. Now, click on the **Apply** button.
+
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. Click on the **OK** button and close the Internet Options window.
 7. **Restart** your PC to apply the changes.
 8. Log in to your PC and launch the Microsoft Store app. Check if the error code appears again or not.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Uninstall and Reinstall the Microsoft Store
 
  You cannot uninstall the Microsoft Store using either the Control Panel or the Settings app. As such, you'll need to use PowerShell, which can uninstall and reinstall the app on your system. Here’s how to do it:
@@ -212,12 +204,6 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
 ![Uninstall and Reinstall Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-and-reinstall-microsoft-store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030370/7443" target="_top" id="2030370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 11\. Run an SFC and DISM Scan
 
  If reinstalling the app doesn’t do the trick, run an SFC scan followed by a DISM scan. It will fix file corruption on Windows and even repair Windows installation. Here’s how to do it:
@@ -228,15 +214,16 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 4. Exit the command prompt and **restart** your system.
 5. Now, open the Microsoft Store and check if it encounters an error.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 12\. Reset Windows
 
  The last resort is to [reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/), which will reinstall your operating system and its included services. If you don’t want to lose your personal files, you can choose the **Keep my files** option while resetting Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## This Microsoft Store Error Won’t Bug You Anymore
 
@@ -244,11 +231,24 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 
  They cannot access the store and see the “**This page could not be loaded. Please try again later.**” message along with the error code listed below. If you face the same issue, don’t worry. We will list out the possible reasons for this Microsoft error code along with potential fixes.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-complete-guide-to-tweeting-visual-content-in-form-of-customized-gifs/"><u>[Updated] In 2024, The Complete Guide to Tweeting Visual Content in Form of Customized GIFS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-macos-11-big-sur-a-complete-hardware-overview-for-2024/"><u>[Updated] MacOS 11 Big Sur A Complete Hardware Overview for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-who-skipped-my-story-unfollowers-scan-for-2024/"><u>[Updated] Who Skipped My Story? Unfollowers Scan for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-strategies-to-delete-print-sources-on-windows-11/"><u>Effective Strategies to Delete Print Sources on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-establish-microsoft-works-on-windows-11/"><u>Efficiently Establish Microsoft Works on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortlessly-connect-and-communicate-with-imessage-on-your-pc/"><u>Effortlessly Connect and Communicate with iMessage on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-installation-error-fix-oculus-for-winxc-and-winxi/"><u>Eliminate Installation Error: Fix Oculus for WinXC and WinXI</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-update-your-lenovo-tb3-dock-with-the-latest-driver-support/"><u>How to Update Your Lenovo TB3 Dock with the Latest Driver Support</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-iphone-6s-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About iPhone 6s Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-fresh-epson-gt-s50-printer-drivers-on-windows-7-8-or-10-download-here/"><u>Install Fresh Epson GT-S50 Printer Drivers on Windows 7, 8 or 10 – Download Here!</u></a></li>
+</ul></div>
+

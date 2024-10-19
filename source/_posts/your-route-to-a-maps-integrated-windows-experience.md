@@ -1,7 +1,7 @@
 ---
 title: Your Route to a Maps-Integrated Windows Experience
-date: 2024-09-09T11:58:20.674Z
-updated: 2024-09-10T11:58:20.674Z
+date: 2024-10-12T00:42:26.443Z
+updated: 2024-10-18T22:20:20.417Z
 tags:
   - windows10
   - windows11
@@ -14,12 +14,6 @@ keywords: WinMaps Integration,Map Navigation Windows,Windows Mapped Journey,Seam
 thumbnail: https://thmb.techidaily.com/7deb0baa73b5dfc75fe84cd47c60ae37428dbd6443868bb9392e788fdb87eec8.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Your Route to a Maps-Integrated Windows Experience
 
  Google Maps works great on Android and iOS devices. However, the company doesn’t offer a desktop application for the Windows operating system yet. While Windows features a built-in Microsoft Maps app, many still prefer Google Maps due to its ease of use and excellent database of geographic data.
@@ -46,23 +40,18 @@ thumbnail: https://thmb.techidaily.com/7deb0baa73b5dfc75fe84cd47c60ae37428dbd644
 
 ![uninstall google maps edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/uninstall-google-maps-edge.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can uninstall Google Maps from the Settings app and the Start menu. However, when installed via Edge, you may not find the app in the classic Control Panel. To uninstall Google Maps:
 
 1. Press the **Win** key and type **Google Maps**.
 2. Right-click on **Google Maps** and select **Uninstall**. Click **Yes** to confirm the action, and the app will be removed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Run Google Maps as a Desktop App Using Google Chrome
 
  If you use Google Chrome as your daily driver, you can use the browser to add Maps as a shortcut. Chrome’s Create shortcut feature works similarly to Edge’s install app and lets you run web apps as a desktop on your Windows computer.
@@ -74,32 +63,29 @@ thumbnail: https://thmb.techidaily.com/7deb0baa73b5dfc75fe84cd47c60ae37428dbd644
 3. Go to **More Tools** and select **Create Shortcut.**  
 ![creating a shortcut for google maps on google chrome](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-chrome-create-shortcut-google-maps.jpg)
 4. In the Create shortcut dialog, select the **Open as window** option. This will open the created shortcut in a new window. You can rename the app if you want or leave it as default.
+
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Click **Create**.
 6. Once installed, the app will open a new window offering a similar set of functionalities as Google Maps’s web version.
 
  You can also pin the Maps app to the taskbar and Start menu. To do this, press the **Win** key to open Windows search and type **maps**. Right-click the **Google Maps** shortcut and select **Pin to Start** or Pin to **Taskbar**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Uninstall a Google Maps Shortcut Added via Chrome
 
 ![maps chrome uninstall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/maps-chrome-uninstall.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can uninstall the Google Maps shortcut installed using Chrome from the classic Control Panel. Here’s how to do it.
 
@@ -111,11 +97,12 @@ thumbnail: https://thmb.techidaily.com/7deb0baa73b5dfc75fe84cd47c60ae37428dbd644
  While web apps work well, it misses out on a few features including the ability to download offline maps. If you prefer to run the app natively on Windows, consider [using an Android emulator](https://www.makeuseof.com/lightweight-emulators-android-games-pc/) or [installing Google Play Store on Windows](https://www.makeuseof.com/windows-11-install-google-play-store/) to install the app directly from the official store.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Navigate With Google Maps on Windows
 
  Installing web apps offers faster access without keeping your browser open all the time. However, it is not perfect. In this instance, the web version doesn’t support offline map downloads. So you’ll need to rely on your phone to navigate when offline.
@@ -124,11 +111,26 @@ thumbnail: https://thmb.techidaily.com/7deb0baa73b5dfc75fe84cd47c60ae37428dbd644
 
  So, how do you use Google Maps on a Windows PC? The web version works great, but you’ll need to keep your browser open for it to work. Alternatively, you can install the web version using the Chrome or Edge browser to use Google Maps as a desktop app. Here we show you how.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-video-mastery-leading-text-manipulations/"><u>[New] In 2024, Video Mastery Leading Text Manipulations</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-gopro-hero5-black-vs-garmin-virb-ultra-30-which-one-is-better/"><u>2024 Approved GoPro Hero5 Black VS Garmin Virb Ultra 30 Which One Is Better?</u></a></li>
+<li><a href="https://windows11.techidaily.com/bridging-windows-prefixes-with-microsoft-services/"><u>Bridging Windows Prefixes with Microsoft Services</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-runtime-broker-its-essential-role-in-operating-systems/"><u>Decoding Runtime Broker: Its Essential Role in Operating Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/diagnosing-voice-commands-malfunction-in-valorant-games/"><u>Diagnosing Voice Commands Malfunction in Valorant Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/direct-routes-to-windows-11s-user-authorization-screen/"><u>Direct Routes to Windows 11'S User Authorization Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fast-solutions-resolving-issues-with-predictive-emojis-on-your-iphoneipad/"><u>Fast Solutions: Resolving Issues with Predictive Emojis on Your iPhone/iPad</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/official-downloads-updated-graphics-drivers-for-amd-radeon-compatible-with-windows-e7/"><u>Official Downloads: Updated Graphics Drivers for AMD Radeon - Compatible with Windows E7</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-problem-of-non-launchable-helldivers-2-on-your-steam-platform/"><u>Solving the Problem of Non-Launchable Helldivers 2 on Your Steam Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/strategie-seo-per-videos-en-hd4k-techniques-de-conversion-pour-les-entreprises-et-le-marketing-online/"><u>Strategie SEO per Vidéos en HD/4K – Techniques De Conversion Pour Les Entreprises Et Le Marketing Online</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-samsung-galaxy-a54-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Samsung Galaxy A54 5G Unresponsive Screen | Dr.fone</u></a></li>
+</ul></div>
+

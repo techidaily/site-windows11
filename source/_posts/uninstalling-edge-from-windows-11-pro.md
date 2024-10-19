@@ -1,7 +1,7 @@
 ---
 title: Uninstalling Edge From Windows 11 Pro
-date: 2024-09-24T17:22:30.003Z
-updated: 2024-10-02T00:15:26.344Z
+date: 2024-10-16T03:14:49.724Z
+updated: 2024-10-19T00:36:08.976Z
 tags:
   - windows10
   - windows11
@@ -56,10 +56,10 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 4. Highlight the text next to**PackageFullName** and press**Ctrl + C** to copy it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Run the following command to uninstall Microsoft Edge.  
@@ -80,19 +80,19 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 ![Uninstall Microsoft Edge Beta From Windows 11 Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Uninstall-Microsoft-Edge-Beta-From-Windows-11-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Aside from the Settings app, you can uninstall the browser from the Start menu or the Control Panel. See our guide to learn different[ways to uninstall built-in apps on Windows 11](https://www.makeuseof.com/ways-to-uninstall-apps-windows-11/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Stop Microsoft Edge From Reinstalling on Windows 11
@@ -109,10 +109,10 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 ![Edit DWORD in Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-dword-in-registry-editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you complete the above steps, Windows will not reinstall Microsoft Edge with future updates.
@@ -138,20 +138,18 @@ cd %Program Files (x86)%\Microsoft\Edge\Application\EdgeVersion\Installer`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-a-look-at-earnings-understanding-your-monthly-income-from-youtubes-adsense/"><u>[Updated] 2024 Approved A Look at Earnings Understanding Your Monthly Income From YouTube's AdSense</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-innovative-strategies-for-capturing-live-lectures-a-mac-centric-approach/"><u>[Updated] 2024 Approved Innovative Strategies for Capturing Live Lectures A Mac-Centric Approach</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-the-art-of-capturing-spoken-words-digitally/"><u>2024 Approved Perfecting the Art of Capturing Spoken Words Digitally</u></a></li>
-<li><a href="https://windows11.techidaily.com/analyzing-how-windows-11-fuels-microsofts-earnings/"><u>Analyzing How Windows 11 Fuels Microsoft's Earnings</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-way-to-copy-trades-of-equal-lot-size-for-all-accounts-by-mt4copier-guide/"><u>Easy Way to Copy Trades of Equal Lot Size for All Accounts</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-digital-experience-process-control-and-thematic-aesthetics-in-w11/"><u>Elevate Your Digital Experience: Process Control & Thematic Aesthetics in W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-optimize-your-browsing-experience-use-defender-aguard-in-win-11-edge/"><u>How to Optimize Your Browsing Experience: Use Defender Aguard in Win 11 Edge</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-tecno-phantom-v-fold-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Tecno Phantom V Fold Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, Reasons why Pokémon GPS does not Work On Apple iPhone 7? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/multiversus-wont-open-expert-tips-for-getting-the-game-up-and-running-again/"><u>MultiVersus Won't Open? Expert Tips for Getting the Game Up and Running Again</u></a></li>
-<li><a href="https://windows11.techidaily.com/reduce-clutter-increase-efficiency-one-antivirus-rule/"><u>Reduce Clutter, Increase Efficiency: One Antivirus Rule!</u></a></li>
-<li><a href="https://windows11.techidaily.com/revolutionizing-ui-adding-cli-functionality-to-taskmgr-in-win11/"><u>Revolutionizing UI: Adding CLI Functionality to TaskMgr in Win11</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-extracting-and-downloading-mp3-from-your-dvd-collection/"><u>Step-by-Step Guide: Extracting and Downloading MP3 From Your DVD Collection</u></a></li>
-<li><a href="https://windows11.techidaily.com/taskbar-timeline-microsofts-ui-evolution/"><u>Taskbar Timeline: Microsoft's UI Evolution</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-sound-accessories-for-switch-players/"><u>Top Sound Accessories For Switch Players</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/irtual-artisans-haven-retreat-for-2024/"><u>[New] Virtual Artisans' Haven Retreat for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-powerdirectors-2024-mastery-edition/"><u>[Updated] Ultimate Guide PowerDirector's 2024 Mastery Edition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-screenstreaming-mastery-capturing-high-quality-content-on-your-mac/"><u>2024 Approved ScreenStreaming Mastery Capturing High-Quality Content on Your Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-empty-directory-problem-microsofts-0x80070091-error-explained/"><u>Fixing 'Empty Directory' Problem - Microsoft's 0X80070091 Error Explained</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-eliminate-0x800700e9-on-xbox-game-pass-and-windows-11/"><u>How to Eliminate 0X800700E9 on Xbox Game Pass & Windows 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-10-virtual-photo-backdrop-modifiers-for-2024/"><u>Ideal 10 Virtual Photo Backdrop Modifiers for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-xiaomi-redmi-13c-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Xiaomi Redmi 13C 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-superior-alert-sound-pick-optimal-websites/"><u>In 2024, Superior Alert Sound Pick Optimal Websites</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-s23-ultra-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy S23 Ultra</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rapid-resolve-cutting-down-prolonged-prep-times-in-fallout-4/"><u>Rapid Resolve: Cutting Down Prolonged Prep Times in Fallout 4</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-power-of-ai-in-personal-connections-enhancing-your-dating-experience-with-chatgpt/"><u>The Power of AI in Personal Connections: Enhancing Your Dating Experience with ChatGPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-system32-location-in-windows-11/"><u>Unveiling System32 Location in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-streamline-your-screens-with-a-three-column-board-setup/"><u>Windows 11: Streamline Your Screens with a Three-Column Board Setup</u></a></li>
 </ul></div>
 

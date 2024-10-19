@@ -1,7 +1,7 @@
 ---
 title: "Speedy Excel Operations Restored: A Guide for Windows Users"
-date: 2024-10-10T16:24:07.399Z
-updated: 2024-10-12T16:38:05.406Z
+date: 2024-10-14T02:22:06.483Z
+updated: 2024-10-18T17:57:50.051Z
 tags:
   - windows10
   - windows11
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 
  Restart Excel on your PC and enable your add-ins one at a time. Try using Excel after enabling each add-in and observe its performance. Once you identify the faulty add-in, consider removing it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Optimize Excel for Compatibility
 
  Another thing you can do to improve Excel’s performance on Windows is to optimize its interface for compatibility instead of the best appearance. This can lead to better overall performance and smoother operation.
@@ -61,32 +54,13 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 ![Optimize Excel for Compatiblity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/optimize-excel-for-compatiblity.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart Excel after this and check if it still runs slowly or lags on your Windows computer.
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Disable Hardware Graphics Acceleration
 
@@ -98,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 2. Select the **Advanced** tab in the Excel Options window.
 3. Under the **Display** section, tick the **Disable hardware graphics acceleration** checkbox.
 4. Click **OK** and restart Excel.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Enable Manual Calculation
 
@@ -114,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
  Another thing you can do is save your Excel file in binary (.xslb) format. To do so, press **F12** on your keyboard to bring up the **Save As** dialog in Excel. Click the drop-down menu next to **Save as type** to select **Excel Binary Workbook (\*.xslb)** and click the **Save** button.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Save As Dialog in Excel
@@ -133,6 +114,13 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 3. Click **Update Options > Update Now**.  
 ![Update Microsoft Excel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/update-microsoft-excel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for Microsoft Office to update Excel along with other Office apps and check if that fixes the problem.
 
 ## 7\. Run the Office Repair Tool
@@ -147,14 +135,14 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 6. Select the **Quick Repair** option and then click **Repair**.  
 ![Repair Microsoft Office](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/repair-microsoft-office.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Allow the repair tool to fix any issues with Excel. If the issue remains even after that, you can perform an **Online Repair** instead. This will allow the tool to perform a more comprehensive repair to resolve any issues.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Try Some Generic Windows Fixes
 
@@ -180,18 +168,16 @@ thumbnail: https://thmb.techidaily.com/1b74b748e6b2e328a07a7b57a377bfde7d1cf6984
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-minisnap-probebericht-uberprufung/"><u>[New] 2024 Approved MiniSnap Probebericht Überprüfung</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-new-powerdirector-a-2024-blueprint/"><u>[New] Navigating the New PowerDirector A 2024 Blueprint</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-bidding-on-shadows-the-2023-virtual-vault-showdown/"><u>[Updated] Bidding on Shadows The 2023 Virtual Vault Showdown</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-shortcut-to-starting-wordpad-on-your-pc/"><u>A Shortcut to Starting WordPad on Your PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/back-to-basics-windows-11-access-re-establishment-guide/"><u>Back to Basics: Windows 11 Access Re-Establishment Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/becoming-an-insta-star-in-a-flash-top-15-insider-tactics-that-work-wonders-for-rapid-fame-growth/"><u>Becoming an Insta Star in a Flash Top 15 Insider Tactics That Work Wonders for Rapid Fame Growth</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-custom-privileges-in-win11-by-default/"><u>Clearing Custom Privileges in Win11 by Default</u></a></li>
-<li><a href="https://windows11.techidaily.com/command-line-to-admin-initiating-windows-11s-task-manager-with-power/"><u>Command Line to Admin: Initiating Windows 11'S Task Manager with Power</u></a></li>
-<li><a href="https://windows11.techidaily.com/compreran-gaming-hurdles-enhance-gamesplay-on-windows/"><u>Compreran Gaming Hurdles: Enhance Gamesplay on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/crafting-your-own-windows-voice-transcription-software-using-ahk-and-whisper/"><u>Crafting Your Own Windows Voice Transcription Software Using AHK and Whisper</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gimbal-guide-industrys-favorites-for-2024/"><u>Gimbal Guide Industry's Favorites for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-vivo-v30-pro-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo V30 Pro Phone without Any Data Loss</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-s23-fe-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy S23 FE Phones</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-expedite-excitement-fast-video-on-android-for-2024/"><u>[New] Expedite Excitement Fast Video on Android for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-transformative-pfps-that-define-your-tiktok-identity/"><u>2024 Approved Transformative PFPs that Define Your TikTok Identity</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-nokia-c22-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Nokia C22 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-family-movies-to-stream-on-amazon-prime-video-during-the-month-of-july-2024/"><u>Essential Family Movies to Stream on Amazon Prime Video During the Month of July, 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-silent-sounds-windows-audio-glitches/"><u>Fixing Silent Sounds: Windows Audio Glitches</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-the-windows-aggregatehostexe-system-process-safe-an-analysis/"><u>Is the Windows AggregateHost.exe System Process Safe? An Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-blue-screen-chaos-a-systematic-approach/"><u>Navigating Blue Screen Chaos: A Systematic Approach</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/mlining-creative-journey-uploading-imovie-videos-to-youtube/"><u>Streamlining Creative Journey Uploading iMovie Videos to YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-elevate-task-prominence-and-reduce-window-chaos-on-win-11/"><u>Tips to Elevate Task Prominence and Reduce Window Chaos on Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-microsofts-error-code-0x8007251d-on-windows/"><u>Troubleshooting Microsoft's Error Code 0X8007251d on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-hid-compatible-pointing-device-drivers/"><u>Update Your HID-Compatible Pointing Device Drivers</u></a></li>
 </ul></div>
 

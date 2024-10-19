@@ -1,7 +1,7 @@
 ---
 title: "Windows Navigation Nuances: Secrets to Effectively Copying Files' Locations (6 Strategies)"
-date: 2024-09-05T02:08:13.019Z
-updated: 2024-09-06T02:08:13.019Z
+date: 2024-10-17T17:39:41.393Z
+updated: 2024-10-19T02:16:23.180Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/1dfe303424f8c396237c03340e93195a76a2eb051
 
 ![A copied path with inverted commas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-copied-path.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Select the Default Context Menu Option for Copying Paths
 
  Alternatively, you can select a **Copy as path** option via Explorer’s context menu. To do so, open up a directory that includes a file or folder path to copy. Then right-click the file or folder and select **Copy as path**.
@@ -42,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/1dfe303424f8c396237c03340e93195a76a2eb051
 ![The Copy as path option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/copy-as-path.jpg)
 
  You can also copy multiple paths. To do so, select multiple files and folders by holding the **Ctrl** key. Then right-click one to select **Copy as path**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Copy Paths With a Hotkey
 
@@ -57,12 +71,6 @@ thumbnail: https://thmb.techidaily.com/1dfe303424f8c396237c03340e93195a76a2eb051
 
 ![The Copy address as text option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/copy-address-as-plain-text-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The **Copy address as text** option copies the folder path in the address bar as plain text. The pasted copied path will not include any inverted commas (quote marks).
 
 ## 5\. How to Copy Target Paths for Shortcuts
@@ -83,12 +91,6 @@ thumbnail: https://thmb.techidaily.com/1dfe303424f8c396237c03340e93195a76a2eb051
 4. Click the **I accept the agreement** option and select **Install**.  
 ![The I accept the agreement radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/i-accept-the-agreement-option.jpg)
 5. Then you’ll be prompted to restart Windows to complete installation. Select the **Yes, restart the computer now** radio button.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Log back into the Windows user account in which you installed the software.
 2. Open a folder in File Explorer.
@@ -96,62 +98,45 @@ thumbnail: https://thmb.techidaily.com/1dfe303424f8c396237c03340e93195a76a2eb051
 4. Move the cursor over the **Path Copy** subfolder.  
 ![The Path Copy submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/path-copy-submenu.jpg)
 5. Select the **Long path** option to copy the full location. Now you’ve copied a long path for pasting anywhere you need.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The great thing about Path Copy Copy is that it provides many more options for copying folders and file paths. However, only a few of them are on the **Copy Path** submenu to default. To add all options, click **Settings** on the **Path Copy** submenu. Then select all the submenu checkboxes in the window and click **Apply** \> **OK**.
 
 ![The Path Copy Copy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/path-copy-copy-window.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now right-click a file or folder to have another look at the Path Copy submenu, which will include many more options. You can select the **Short** option to copy the location with a shortened folder or file name. Or select **Name** to copy just a title for a file or folder. Try out the different copy path options by selecting them and pasting them into Notepad.
 
 ![All Path Copy options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/all-path-copy-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can configure how the paths get copied by changing settings within Path Copy Copy’s **Options** tab. For example, your copied paths will include quote marks around them if you select the **Add quotes around copied paths** checkbox. Select the **Add < and > around copied paths** option to include brackets around copied brackets.
 
 ![The Options tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/options-tab.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Copy Paths on Windows Whichever Way You Like Best
 
  Copying and pasting folder and file paths with the methods above will save you from manually typing them whenever needed. File Explorer’s default options for copying paths will probably be sufficient for most users. However, the Path Copy Copy software gives you more options for copying folder and file locations.
 
  Today, users can navigate through folders within Windows File Explorer without inputting change directory commands. However, it can still be useful to copy file and folder paths so you can paste it into documents, the Command Prompt, or when opening something within an app. Here are some ways you can copy file and folder paths in Windows 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -159,3 +144,24 @@ thumbnail: https://thmb.techidaily.com/1dfe303424f8c396237c03340e93195a76a2eb051
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-comprehensive-solution-for-partially-muted-fb-video-tracks/"><u>[New] 2024 Approved Comprehensive Solution for Partially Muted FB Video Tracks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-premium-list-high-end-ios-tune-creators/"><u>[New] 2024 Approved Premium List High-End iOS Tune Creators</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-m34-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy M34?</u></a></li>
+<li><a href="https://windows11.techidaily.com/harnessing-automatic-deletion-for-effortless-disk-space-maintainance/"><u>Harnessing Automatic Deletion for Effortless Disk Space Maintainance</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-motorola-moto-g04-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Motorola Moto G04 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-realme-c51-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Realme C51? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reactivate-a-unresponsive-windows-start-button/"><u>How to Reactivate a Unresponsive Window's Start Button</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-access-exclusive-stock-images-through-vital-4-youtube-sources/"><u>In 2024, Access Exclusive Stock Images Through Vital 4 YouTube Sources</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-thorough-evaluation-of-frozen-snack-playback-devices/"><u>In 2024, Thorough Evaluation of Frozen Snack Playback Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Infinix Smart 7? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-reinstate-working-utorrent-installer-in-various-windows-versions/"><u>Methods to Reinstate Working uTorrent Installer in Various Windows Versions</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-setbacks-due-to-recent-windows-installation/"><u>Overcoming Setbacks Due to Recent Windows Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-to-file-transfer-problems-on-windows-1011/"><u>Solutions to File Transfer Problems on Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-boot-sequence-customizing-timeout-window-11/"><u>Streamlining Boot Sequence: Customizing Timeout Window 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/switching-search-highlights-onoff-windows-11-guide/"><u>Switching Search Highlights On/Off: Windows 11 Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-fixes-for-the-elusive-missing-shell32dll-error/"><u>The Ultimate Fixes for the Elusive Missing shell32.dll Error</u></a></li>
+</ul></div>
+

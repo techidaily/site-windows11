@@ -1,7 +1,7 @@
 ---
 title: "Reversing the No-Script Decree in Windows: 4 Pathways to Execution Enablement"
-date: 2024-10-12T01:49:47.422Z
-updated: 2024-10-12T18:01:45.117Z
+date: 2024-10-15T23:19:47.430Z
+updated: 2024-10-18T22:23:32.266Z
 tags:
   - windows10
   - windows11
@@ -40,9 +40,29 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 
  And if that doesn’t help, check out [the various ways to open Windows PowerShell](https://www.makeuseof.com/windows-open-command-prompt-powershell/). But you should only focus on the methods that show you how to run the tool with administrative privileges.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Change the Execution Policy in PowerShell
 
  In some instances, changing the execution policy could help. But before we explore the solutions, let’s first take you through what the execution policy is and how it works.
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What Is the Execution Policy, and How Does It Work?
 
@@ -72,13 +92,6 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 
  Now that everything is clear, let’s explore how you can execute the relevant policies to tackle the "PowerShell cannot load" issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Change the Execution Policy to "Unrestricted"
 
  The best way to tackle the issue at hand is to change the execution policy to "unrestricted." But before that, you need to check how each execution policy is configured.
@@ -93,13 +106,6 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 
 ![Displaying the list of execution policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/displaying-the-list-of-execution-policies.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This should show you how the execution policies are configured for different users and systems.
 
  To can change the execution policy to “Unrestricted” for the current active user, type the following command and press **Enter**:
@@ -107,6 +113,13 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 `Set-ExecutionPolicy Unrestricted -Scope CurrentUser`
 
 ![Setting the execution policy on PowerShell](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/setting-the-execution-policy-on-powershell.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To change the execution policy to “Unrestricted” for all users, type the following command and press **Enter**:
 
@@ -128,16 +141,16 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 
  When you finish, close PowerShell and then restart your device.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Change the Execution Policy Via the Local Group Policy Editor
 
 ![A lady using a Windows PC while holding a cup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/A-lady-using-a-Windows-PC-while-holding-a-cup.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Local Group Policy Editor (LGPE) also makes it easy for you to change the execution policy. In fact, this tool can also help you configure various system settings or troubleshoot tons of PC issues.
 
@@ -152,10 +165,10 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 ![Clicking the Turn on Script Execution option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/clicking-the-turn-on-script-execution-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Check the **Enabled** box. From there, click the **Execution Policy** drop-down menu and select **Allow local scripts and remote signed scripts**. This option is similar to the "RemoteSigned" option that we discovered earlier.
@@ -163,19 +176,6 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
  If you want to run all scripts without restrictions, pick the **Allow all scripts** option from the "Execution Policy" drop-down menu.
 
  From there, click **Apply** and then click **OK** to save these changes.
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Change the Execution Policy Using the Registry Editor
 
@@ -227,19 +227,24 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-farm-fun-quest-the-leading-10-farm-themed-gaming-titles/"><u>[New] Farm Fun Quest The Leading 10 Farm-Themed Gaming Titles</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-novice-friendly-approach-to-crafting-nfts-today/"><u>2024 Approved Novice-Friendly Approach to Crafting NFTs Today</u></a></li>
-<li><a href="https://windows11.techidaily.com/dive-into-dark-display-settings-for-calc-app/"><u>Dive Into Dark Display Settings for Calc App</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-taskbar-windows-11-edition/"><u>Elevate Your Taskbar: Windows 11 Edition</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-13c-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi 13C 5G</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mac-external-monitor-woes-heres-how-to-resolve-not-detecting-displays/"><u>Mac External Monitor Woes? Here’s How to Resolve Not Detecting Displays</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-esd-file-conversion-to-iso-on-windows-systems/"><u>Mastering ESD File Conversion to ISO on Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-resource-assignment-in-wsl-android-setup/"><u>Mastering Resource Assignment in WSL-Android Setup</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-12-mini-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-leading-virtual-reality-titles-for-your-smartphone/"><u>The Leading Virtual Reality Titles for Your Smartphone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-screen-time-treasure-summers-top-10-gems/"><u>The Ultimate Screen Time Treasure Summer’s Top 10 Gems</u></a></li>
-<li><a href="https://fox-place.techidaily.com/wiederverwendung-von-loschungen-in-google-keep-eine-schritt-fur-schritt-anleitung/"><u>Wiederverwendung Von Löschungen in Google Keep – Eine Schritt-Für-Schritt Anleitung</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-users-beware-is-yourphoneexe-safe-to-use/"><u>Windows Users Beware: Is YourPhone.exe Safe to Use?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fitness-beatdowns-20-electrifying-tunes-for-your-exercising-playlist/"><u>[Updated] Fitness Beatdowns 20 Electrifying Tunes for Your Exercising Playlist</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-time-honored-top-15-in-the-world-of-stop-motion-for-2024/"><u>[Updated] Time-Honored Top 15 in the World of Stop-Motion for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-youtube-to-mp4-get-free-hd1080p-from-facebook-vids-for-2024/"><u>[Updated] YouTube-to-MP4 Get Free HD/1080P From Facebook Vids for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1725286978937-dvd/"><u>「無料ソフトでも安心してDVDをコピー!? スムーズなコピー手順とエラー対策説明」</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-in-forming-inspiring-collage-photos/"><u>2024 Approved Expertise in Forming Inspiring Collage Photos</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-sync-contacts-from-apple-iphone-14-pro-max-to-ipad-easily-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Sync Contacts from Apple iPhone 14 Pro Max to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/fact-checking-are-discords-indolence-notifications-accurate/"><u>Fact-Checking: Are Discord's Indolence Notifications Accurate?</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-incompatible-fingerprint-error-on-windows-os/"><u>Fixing Incompatible Fingerprint Error on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-your-windows-license-will-expire-soon-error-on-windows-10-and-11/"><u>How to Fix the “Your Windows License Will Expire Soon” Error on Windows 10 and 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-future-awaits-equipping-yourself-for-metaverse-life-top-7/"><u>In 2024, The Future Awaits Equipping Yourself for Metaverse Life (Top 7)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leading-7-ai-content-creation-sites-the-ultimate-guide/"><u>Leading 7 AI Content Creation Sites: The Ultimate Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-lossed-renderer-failures-in-overwatch-2-gameplay/"><u>Overcoming Lossed Renderer Failures in Overwatch 2 Gameplay</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-playback-problem-in-wmp/"><u>Overcoming Playback Problem in WMP</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-resource-drain-tackling-edges-view2-process/"><u>Overcoming Resource Drain: Tackling Edge's View2 Process</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-camera-apps-error-0xa00f425d-on-windows-devices/"><u>Solving Camera App's Error 0xA00F425D on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/speed-ahead-overcoming-low-valorant-download-speeds-in-windows/"><u>Speed Ahead: Overcoming Low Valorant Download Speeds in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-translations-hotkey-tips-for-windows-11-language-switching/"><u>Streamline Translations: Hotkey Tips for Windows 11 Language Switching</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ubuntu-system-configuration-a-step-by-step-guide-to-implementing-auto-gpt/"><u>Ubuntu System Configuration: A Step-by-Step Guide to Implementing Auto-GPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-woes-get-your-arrows-back-to-normal/"><u>Windows Woes? Get Your Arrows Back to Normal</u></a></li>
 </ul></div>
 

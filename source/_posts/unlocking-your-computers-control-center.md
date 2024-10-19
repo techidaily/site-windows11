@@ -1,7 +1,7 @@
 ---
 title: Unlocking Your Computer's Control Center
-date: 2024-09-05T02:09:40.529Z
-updated: 2024-09-06T02:09:40.529Z
+date: 2024-10-16T22:38:37.116Z
+updated: 2024-10-18T17:56:08.720Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 
  Windows is packed with tons of helpful keyboard shortcuts. But did you know that there’s a keyboard shortcut for accessing the Windows settings? To use this shortcut, simply press **Win + I**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Use the Quick Access Menu
 
  The Quick Access menu (also known as the Power User menu) offers one of the easiest ways for accessing the system settings. Let's check out how this tool can be helpful:
@@ -34,6 +41,20 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 2. Select **Settings** from the on-screen options.
 
 ![Opening the Windows System Settings via the Quick Access Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/opening-the-windows-system-settings-via-the-quick-access-menu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use the Run Command Dialog Box
 
@@ -44,12 +65,6 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 
 ![Opening the Windows System Settings via the Run command dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/opening-the-windows-system-settings-via-the-run-command-dialog-box.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Use the Windows Search Bar
 
  The Windows search bar is another incredible tool that can help you locate your built-in apps and [list all the installed programs on your device](https://www.makeuseof.com/tag/list-installed-programs-windows/). To search for the Windows system settings, follow these steps:
@@ -58,12 +73,6 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 2. Type **Settings** in the search box.
 3. Select the **Best match** result.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Use the Windows Start Menu
 
  Ever used the Windows Start menu before? It's another reliable tool that can help you access most of the apps and tools on your Windows device.
@@ -76,11 +85,25 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 ![Opening the Windows System Settings via the Windows Start Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/opening-the-windows-system-settings-via-the-windows-start-menu.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Use the Command Prompt or PowerShell
 
  If you’re a fan of the Command Prompt or PowerShell, then we've got some cool methods you should try.
@@ -97,12 +120,6 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 2. Type **PowerShell** and press **Ctrl + Shift + Enter** to open an elevated PowerShell window.
 3. Type **ms-settings:** and press **Enter** to open the Settings window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Use File Explorer's Address Bar
 
  File Explorer also offers a quick way to open the settings app. So, let's check how this tool can be helpful:
@@ -112,12 +129,6 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 
 ![Opening the Windows System Settings via File Explorer's Address Bar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/opening-the-windows-system-settings-via-file-explorer-s-address-bar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Use the Settings Widget on File Explorer
 
  Did you know that File Explorer contains various widgets that help you access most of the tools on your PC? The good news is that one of those widgets helps you access the system settings.
@@ -130,6 +141,13 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 4. Click the **Settings** option from the list of widgets that appear in the top part of the window.
 
 ![Clicking the Settings widget](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clicking-the-settings-widget.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Use the Action Center
 
@@ -153,17 +171,12 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 ![Opening the Windows System Settings using the Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/opening-the-windows-system-settings-using-the-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## 11\. Use a System Settings Desktop Shortcut
 
  Using a "System Settings" desktop shortcut is another easy way to access the system settings on your device. If you don’t have this desktop shortcut, here’s how you can create it:
@@ -175,15 +188,16 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 
 ![Creating the system settings desktop shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/creating-the-system-settings-desktop-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Type **System Settings Shortcut** in the "Name box" and then press the **Finish** button. You can now easily access the system settings by clicking your desktop shortcut.
 
  And if you want to make your desktop shortcut easily accessible, simply pin it to the taskbar. To do that, right-click on your desktop shortcut and select **Pin to taskbar**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 12\. Open the Settings Indirectly via the Desktop Context Menu
 
@@ -195,12 +209,6 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 
 ![Clicking the Home button to access the system settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clicking-the-home-button-to-access-the-system-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 13\. Open the Settings Indirectly via the Taskbar Context Menu
 
  Before we wrap up, let’s take you through one last quick indirect method to try:
@@ -210,12 +218,6 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 
 ![Clicking the Home button to exit the taskbar settings and access the complete system settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/clicking-the-home-button-to-exit-the-taskbar-settings-and-access-the-complete-system-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Access the Windows System Settings With Ease
 
  Accessing the Windows system settings is quite easy. But if you're struggling to open the system settings, check out any of the methods we’ve covered.
@@ -226,11 +228,31 @@ thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d7505
 
  In this article, we'll take you through the different ways to open the Windows system settings.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2017-data-overload-infographics-and-surprising-yt-stats-for-2024/"><u>[New] 2017 Data Overload Infographics & Surprising YT Stats for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-harnessing-your-youtube-content-for-financial-rewards/"><u>[Updated] In 2024, Harnessing Your YouTube Content for Financial Rewards</u></a></li>
+<li><a href="https://windows11.techidaily.com/accessing-stealthed-elements-in-windows-11-ui/"><u>Accessing Stealthed Elements in Windows 11 UI</u></a></li>
+<li><a href="https://fox-info.techidaily.com/achieving-excellence-with-central-luts-for-films-for-2024/"><u>Achieving Excellence with Central Luts for Films for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/briskly-engage-bings-ai-assistant-in-windows-11-search-field/"><u>Briskly Engage Bing's AI Assistant in Windows 11 Search Field</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-up-high-dpi-display-issues-in-windows/"><u>Clearing Up High DPI Display Issues in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/counteracting-the-issue-of-unsaved-nvidia-settings-in-windows-11/"><u>Counteracting the Issue of Unsaved NVidia Settings in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-quick-access-to-start-from-onedrive/"><u>Customizing Quick Access to Start From OneDrive</u></a></li>
+<li><a href="https://windows11.techidaily.com/dealing-with-non-functional-router-web-interfaces/"><u>Dealing with Non-Functional Router Web Interfaces</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-quick-ways-to-adjust-your-computers-sound-output-in-windows-11/"><u>Discover Quick Ways to Adjust Your Computer's Sound Output in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/dissecting-windows-build-numbers-and-updates/"><u>Dissecting Windows Build Numbers & Updates</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-guide-resolving-farmsim-22s-fps-drops-for-a-smoother-gaming-experience/"><u>Expert Guide: Resolving Farmsim 22'S FPS Drops for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/harmonizing-highlights-how-to-embed-songs-on-instagram-stories-for-2024/"><u>Harmonizing Highlights How to Embed Songs on Instagram Stories for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-xr-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and iPhone XR The Right Way</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-xiaomi-civi-3-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Xiaomi Civi 3?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-realme-12-proplus-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Realme 12 Pro+ 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-extract-and-save-fb-videos-on-pcmac-anywhere/"><u>In 2024, Extract & Save FB Videos on PC/Mac, Anywhere</u></a></li>
+</ul></div>
+

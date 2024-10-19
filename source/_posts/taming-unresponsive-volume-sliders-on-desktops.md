@@ -1,7 +1,7 @@
 ---
 title: Taming Unresponsive Volume Sliders on Desktops
-date: 2024-09-05T02:09:52.667Z
-updated: 2024-09-06T02:09:52.667Z
+date: 2024-10-11T23:52:03.923Z
+updated: 2024-10-19T01:38:11.670Z
 tags:
   - windows10
   - windows11
@@ -38,6 +38,26 @@ thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4
 
 ![The sfc /scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-system-file-checker.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Restart the Windows Explorer Process
 
  Sometimes the volume control freezes because of File Explorer issues. So, restarting the Explorer process might fix the volume control not working for some users. Restart Explorer as follows:
@@ -48,12 +68,6 @@ thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4
 ![The Windows Explorer process in Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-restart-option.jpg)
 4. Click**Restart** in the bottom right corner of the**Processes** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Start or Restart Windows Audio Service
 
  Restarting the Windows Audio service is a potential resolution that users confirm can fix the volume control slider. Some users may need to start that service if it’s not already running. This is how you can start or restart the Windows Audio Service:
@@ -66,19 +80,20 @@ thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4
 5. Select Windows Audio’s**Start** button if the service isn’t running. If Windows Audio is running, restart that service instead by clicking**Stop** and**Start** in the properties window.  
 ![The Automatic option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/automatic-option.jpg)
 6. Press**Apply** and**OK** to set the new Windows Audio service options.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Change the Scale Setting
 
  Changing the scale is a slightly curious potential fix for the volume control slider not working. However, some users have said that setting the display scale to 125 percent fixed volume control not working for them. So, try changing the**Scale** setting like this:
@@ -87,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4
 2. Click**Display** to access the**Scale** option.
 3. Select the**125%** option on the**Scale** drop-down menu. Or change the**Scale** setting to a different**100%** or**150** value if 125% is already selected.  
 ![The Scale option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-scale-option.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Update the Audio Device Driver
 
@@ -107,20 +129,8 @@ thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4
 7. Select High Definition Audio and click**Next** .  
 ![The sound driver selection box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/driver-selection.jpg)
 8. Click**Yes** to install the selected audio driver.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9. Exit Device Manager and restart your desktop/laptop.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Reinstall Your PC’s Audio Device Driver
 
  Reinstall the audio device driver if there isn’t a newer one available. You can reinstall that device driver as follows:
@@ -130,28 +140,25 @@ thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4
 3. Click**High Definition Audio** with the right mouse button and select**Uninstall device** .  
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/uninstall-device-option2.jpg)
 4. Select**Uninstall** to confirm that action. Also, click the**Delete the driver for this device** checkbox if that option is available.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Uninstall button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-button.jpg)
 5. Bring up the Windows Start menu and select to restart the PC from there. Windows will reinstall a sound driver after the restart.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Or you can reinstall device drivers by clicking the**Scan for hardware changes** option in Device Manager without restarting.
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Disable Absolute Volume Control by Editing the Registry
 
  This potential resolution is specifically for fixing the volume control slider not working with Bluetooth speakers. The Absolute Volume feature can cause the volume control to stop working with incompatible Bluetooth devices. Users with Bluetooth speakers have confirmed disabling Absolute Volume by editing a CT registry key resolves that issue.
@@ -169,17 +176,12 @@ thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4
 ![The Reset this PC tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-reset-this-pc-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Adjust the Audio Level With the Volume Control Slider Again on Windows
 
  It’s undoubtedly an annoyance when the Windows volume control slider stops working even though you can still change sound levels within third-party software. Applying the potential solutions covered here will almost certainly fix that volume control slider for most users. With that issue resolved, you can adjust the volume with the control slider in the Windows 11/10 system tray again.
@@ -190,8 +192,6 @@ thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +199,20 @@ thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-essential-guide-to-populating-powerpoint-decks-with-youtube-videos/"><u>[Updated] 2024 Approved The Essential Guide to Populating PowerPoint Decks With YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-beyond-likes-understanding-youtubes-true-view-metrics/"><u>[Updated] In 2024, Beyond Likes Understanding YouTube’s True View Metrics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-cuts-with-m1-the-future-of-video-editing-unveiled/"><u>2024 Approved Seamless Cuts with M1 The Future of Video Editing Unveiled</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-ultimate-guide-to-affordable-vector-art-websites/"><u>2024 Approved Ultimate Guide to Affordable Vector Art Websites</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/mp3-swf-movavi/"><u>線上免費 MP3 到 SWF 轉換器 - 由 Movavi 提供的高效解決方案</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-the-gpsvc-wait-issue-on-pcs/"><u>Bypassing the GPSVC Wait Issue on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/classic-game-storage-integrating-into-the-windows-photos-space/"><u>Classic Game Storage: Integrating Into the Windows Photos Space</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-chrome-display-glitches-on-pc/"><u>Clearing Chrome Display Glitches on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/convenient-telnet-setup-for-modern-windows-systems-wins/"><u>Convenient Telnet Setup for Modern Windows Systems (Wins)</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-non-deletable-keys-a-windows-guide/"><u>Correcting Non-Deletable Keys: A Windows Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-resource-locks-in-windows-11-environments/"><u>Disabling Resource Locks in Windows 11 Environments</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-realme-narzo-60-pro-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Realme Narzo 60 Pro 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 7 Plus | Dr.fone</u></a></li>
+</ul></div>
 

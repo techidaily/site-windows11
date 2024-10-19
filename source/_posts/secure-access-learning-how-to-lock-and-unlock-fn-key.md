@@ -1,7 +1,7 @@
 ---
 title: "Secure Access: Learning How to Lock and Unlock (Fn) Key"
-date: 2024-10-07T00:32:32.818Z
-updated: 2024-10-13T02:55:51.436Z
+date: 2024-10-12T22:46:59.018Z
+updated: 2024-10-18T20:16:48.684Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
  When you want to use the default functions again, you can simply unlock the Fn key again
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Lock and Unlock the Function Key in Windows
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
  To lock the Fn key, simply press the Fn key and the Esc key together. Once the lock icon lights up, the Fn key has been successfully locked. To unlock, you can press both keys together again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Access the BIOS Settings
@@ -75,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 9. Click F10 to save the changes, and then click**Yes** in the User Account Control prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Use the Windows Mobility Center
@@ -92,14 +92,20 @@ Follow these steps to proceed:
 ![Function key row section](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/function-key-row.jpg)
 3. Choose the**Function key** option from the dropdown to lock the key. To unlock, choose the**Multimedia key** option.
 
- This should allow you to use the function keys without pressing the Fn key. In case you no longer want to use the Fn key and think that you will be better off disabling it, you can use the KeyTweak app to perform this action. Check out our guide on[how to disable specific keys on your keyboard in Windows](https://www.makeuseof.com/tag/disable-specific-keys-keyboard-windows-10/) for more information about KeyTweak.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ This should allow you to use the function keys without pressing the Fn key. In case you no longer want to use the Fn key and think that you will be better off disabling it, you can use the KeyTweak app to perform this action. Check out our guide on[how to disable specific keys on your keyboard in Windows](https://www.makeuseof.com/tag/disable-specific-keys-keyboard-windows-10/) for more information about KeyTweak.
 
 ## Manage Your Fn Key Better on Windows
 
@@ -120,19 +126,16 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-ultimate-guide-to-insta-image-perfection/"><u>[Updated] The Ultimate Guide to Insta Image Perfection</u></a></li>
-<li><a href="https://windows11.techidaily.com/6-methods-for-reviving-windows-command-line-interface/"><u>6 Methods for Reviving Windows' Command Line Interface</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/tsvob-movavi/"><u>網路直接無成本改變TS文件成VOB格式 - 使用Movavi轉換器</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoiding-error-0xc00000f-by-implementing-proper-fixes/"><u>Avoiding Error 0xC00000F by Implementing Proper Fixes</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/boost-your-czech-skills-with-easy-digital-methods/"><u>Boost Your Czech Skills with Easy Digital Methods</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bypass-the-limits-deploying-a-free-gpt-companion-chatbot-on-windows-using-freedomgpt/"><u>Bypass the Limits: Deploying a Free GPT Companion Chatbot on Windows Using FreedomGPT</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/crafting-your-signature-tone-a-comprehensive-zoom-recording-workshop-for-2024/"><u>Crafting Your Signature Tone A Comprehensive ZOOM Recording Workshop for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/ending-system-crashes-fix-for-code-0x0000011b-errors/"><u>Ending System Crashes: Fix for Code 0X0000011B Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-change-the-default-pdf-reader-on-windows/"><u>How to Change the Default PDF Reader on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-restore-camera-functionality-on-discord-expert-advice/"><u>How to Restore Camera Functionality on Discord: Expert Advice</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/1715701270181-learn-and-master-io-screen-recording-today/"><u>Learn and Master IO Screen Recording Today!</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-reactivating-adobe-on-windows-os/"><u>Mastering the Art of Reactivating Adobe on Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/precision-in-picture-editing-eliminating-backgrounds-effectively/"><u>Precision in Picture Editing: Eliminating Backgrounds Effectively</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-pinnacle-of-picture-quality-best-players-24-for-2024/"><u>The Pinnacle of Picture Quality Best Players '24 for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-thorough-exploration-of-kinesthetic-controls/"><u>A Thorough Exploration of Kinesthetic Controls</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/automated-text-transcription-powerpoints-new-edge/"><u>Automated Text Transcription PowerPoint's New Edge</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-hp-laserjet-m506-printer-drivers-step-by-step-guide/"><u>Download and Update HP LaserJet M506 Printer Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correct-over-saturated-colors-on-laptops/"><u>How to Correct Over-Saturated Colors on Laptops</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Plus without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-13c-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi 13C by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-quick-and-easy-extracting-hd-videos-from-vimeo-to-mp4-format/"><u>In 2024, Quick & Easy Extracting HD Videos From Vimeo to MP4 Format</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-w11s-auto-hdr-a-step-by-step-guide/"><u>Mastering W11's Auto HDR: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-accessibility-for-non-starting-store-programs/"><u>Restoring Accessibility for Non-Starting Store Programs</u></a></li>
+<li><a href="https://windows11.techidaily.com/sharpen-your-pc-queries-with-everythingapp/"><u>Sharpen Your PC Queries with EverythingApp</u></a></li>
+<li><a href="https://windows11.techidaily.com/triggering-windows-calculator-in-version-11/"><u>Triggering Windows Calculator in Version 11</u></a></li>
 </ul></div>
 

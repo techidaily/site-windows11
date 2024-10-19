@@ -1,7 +1,7 @@
 ---
 title: Fixing Common OneDrive Crash Code in W11, W10
-date: 2024-10-12T02:43:31.070Z
-updated: 2024-10-13T00:19:49.040Z
+date: 2024-10-18T03:46:37.917Z
+updated: 2024-10-19T03:49:56.167Z
 tags:
   - windows10
   - windows11
@@ -47,23 +47,17 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 `%localappdata%\Microsoft\OneDrive\onedrive.exe /reset`  
 ![The reset OneDrive command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reset-onedrive-command.jpg)
 3. Next, execute the following command:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `%localappdata%\Microsoft\OneDrive\onedrive.exe`  
 ![Run OneDrive command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/onedrive-command.jpg)
 4. Start OneDrive to see if the issue persists.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Disable Files On-Demand
 
@@ -77,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 5. Turn off the**File On-Demand** option.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Unlink and Relink Your OneDrive Account
@@ -93,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 ![The Unlink this PC option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/account-tab.jpg)
 4. Press the**Unlink account** button to confirm.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Unlink account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/unlink-account-button2.jpg)
 5. Input the email address you utilize for linking OneDrive in the Microsoft OneDrive window that automatically opens.
 
@@ -100,19 +101,26 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 ![The Sign in button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/sign-in-button.jpg)
 2. Select**Next** to set the same OneDrive folder location.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click**Use this folder** on the dialog box.  
 ![The Choose new folder button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/choose-new-folder-button.jpg)
 4. Then keep selecting**Next** to reach the mobile app step.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Later** to skip the mobile app.
 6. Press the**Open my OneDrive folder** button.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Reinstall the OneDrive App
 
@@ -123,19 +131,6 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-uninstall-option2.jpg)
 
  To reinstall the app, open the[OneDrive MS Store page](https://apps.microsoft.com/store/detail/onedrive/9WZDNCRFJ1P3?hl=en-gb&gl=gb&rtc=1) in a browser. Click**Get in Store** app >**Open Microsoft Store** to bring up an**Install** option for the app. Click**Get** to download and install OneDrive. Then you'll need to open OneDrive and sign in to an account again.
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Open and Copy Files in Your OneDrive Folder
 
@@ -156,17 +151,20 @@ thumbnail: https://thmb.techidaily.com/7dae447899f95c82a6cf6fb6c187f3946b55a92e5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-valheim-vegetation-value-optimal-sapling-guidance/"><u>[New] In 2024, Valheim Vegetation Value Optimal Sapling Guidance</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-step-by-step-guide-posting-shorts-on-youtube-from-pcmobile-devices/"><u>[Updated] 2024 Approved Step-by-Step Guide Posting Shorts on YouTube From PC/Mobile Devices</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-streamline-visuals-integrating-filters-into-videos-pcmobile/"><u>[Updated] Streamline Visuals Integrating Filters Into Videos (PC/Mobile)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-latest-series-captivating-qanda-for-podcast-audience/"><u>2024 Approved Latest Series Captivating Q&A for Podcast Audience</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-v29-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo V29 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/beyond-the-newsfeed-narrative-unveiling-fact-fiction-at-facebook/"><u>Beyond the Newsfeed Narrative: Unveiling Fact-Fiction at Facebook</u></a></li>
-<li><a href="https://windows11.techidaily.com/converting-the-modern-windows-11-search-to-an-icon-style/"><u>Converting the Modern Windows 11 Search to an Icon Style</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-camera-not-detected-error-on-windows-11-pcs/"><u>Correcting “Camera Not Detected” Error on Windows 11 PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-html-display-issues-in-windows-11-email-client/"><u>Correcting HTML Display Issues in Windows 11 Email Client</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-and-correcting-installer-messages-on-pcs/"><u>Decoding and Correcting Installer Messages on PCs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-honor-x7b-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Honor X7b with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722902967843-unlocking-emoji-mysteries-learn-these-mind-blowing-facts-now/"><u>Unlocking Emoji Mysteries: Learn These Mind-Blowing Facts Now!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-reaching-into-shared-snippets-of-life-on-messenger/"><u>[New] In 2024, Reaching Into Shared Snippets of Life on Messenger</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unlocking-whatsapp-wizardry-your-essential-guide/"><u>[New] Unlocking WhatsApp Wizardry Your Essential Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-se-2020-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://windows11.techidaily.com/finding-fix-for-non-functional-vss-in-win/"><u>Finding Fix for Non-Functional VSS in Win</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-media-player-server-crash/"><u>Fixing Media Player Server Crash</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/leverage-latest-proven-wsl-2-methods-on-windows-systems/"><u>Leverage Latest: Proven WSL 2 Methods on Windows Systems</u></a></li>
+<li><a href="https://win-net.techidaily.com/loschen-von-windows-partitionen-in-version-10-oder-11-vier-strategien/"><u>Löschen Von Windows-Partitionen in Version 10 Oder 11: Vier Strategien</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/new-buzz-on-psphone-unveiling-fresh-gossip-and-insights-for-gamers/"><u>New Buzz on PSPhone: Unveiling Fresh Gossip and Insights for Gamers</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-task-failures-restore-windows-schedules/"><u>Overcome Task Failures, Restore Windows Schedules</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tranquil-twilight-tales-in-video-form/"><u>Tranquil Twilight Tales in Video Form</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-access-denial-in-windows-11-a-quick-guide-to-5-solutions/"><u>Troubleshooting Access Denial in Windows 11: A Quick Guide to 5 Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-live-video-broadcasting-secrets-of-the-upcoming-2024-olympics/"><u>Unlock Live Video Broadcasting Secrets of the Upcoming 2024 Olympics</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-a-flapping-discord-overlay-on-pc/"><u>Unraveling the Mystery of a Flapping Discord Overlay on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/wireless-gaming-ps3-pad-to-windows-network/"><u>Wireless Gaming: PS3 Pad to Windows Network</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Fixing Xbox Game Pass Issue 0X00000001 on Windows 11
-date: 2024-09-28T17:18:22.456Z
-updated: 2024-10-02T03:19:46.725Z
+date: 2024-10-15T03:37:39.836Z
+updated: 2024-10-19T02:55:04.459Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 
 ![The Reset button for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-reset-repair-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, it’s better to try repairing an app before clearing its data. You’ll find a**Repai** r option for the Xbox, Microsoft Store, and Game Services apps just above their**Reset** buttons. So, select**Repair** first, and if that option doesn’t make a difference go for a reset.
 
 ## 3\. Reinstall the Microsoft Gaming Service Package
@@ -54,23 +61,22 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 ![The uninstall Gaming Services command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-remove-app-command.jpg)
 5. To reinstall Gaming Services, enter the following PowerShell command and press**Return** :  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `start ms-windows-store://pdp/?productid=9MWPM2CQNLHN`  
 ![The start MS Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-start-ms-store-command.jpg)
 6. If you don’t reinstall Gaming Services with PowerShell, the Xbox app might prompt you to download it when you start it. In this case, you can click the download icon within Xbox app instead.
 7. Click**Get** on the Gaming Services MS Store page the command opens.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Start the Xbox Live Auth Manager Service
@@ -81,20 +87,28 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 2. Enter**Services** to find that app and select its result.  
 ![The Services app window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-services-window.jpg)
 3. Double-click**Xbox Live Auth Manager** to access the properties window for that service.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Set the service’s startup type to**Automatic** by selecting that option on the**Startup type** menu.  
 ![The Automatic startup option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-automatic-startup-type-option.jpg)
 5. Click Xbox Live Auth Manager’s**Start** button.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. To save the settings, select**Apply** .
 7. Close the Xbox Live Auth Manager window by clicking**OK** .
 8. Repeat steps four to eight for the Xbox Live Networking Service and Xbox Live Game Save services.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Flush the Domain Name System (DNS) Cache
 
@@ -118,6 +132,19 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 ![The SFC scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/sfc-command.jpg)
 4. The SFC scan will take maybe 20-30 minutes to finish. Don’t exit Command Prompt until that tool has completed scanning and shown a Windows Resource Protection outcome message.
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Reinstall the Xbox App
 
  If repairing and resetting the Xbox app didn’t do the trick, try reinstalling it instead. Applying this potential resolution will refresh all the Xbox app’s files. You can uninstall and reinstall Xbox as follows:
@@ -128,30 +155,16 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 3. Select**Yes** when asked for confirmation to uninstall Xbox.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Go to the[Xbox app](https://apps.microsoft.com/store/detail/xbox/9MV0B5HZVK9Z) page in your browser.
 5. Click the**Get in Store** and**Open Microsoft Store** options.
 6. Reinstall Xbox by clicking its**Get** button.  
 ![The Get button for the Xbox app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-get-button-for-xbox-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Install and Play Your Xbox Game Pass Titles Again
 
@@ -174,18 +187,20 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-transform-your-work-from-home-experience-with-skype-screen-sharing-techniques/"><u>[New] In 2024, Transform Your Work-From-Home Experience with Skype Screen Sharing Techniques</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-laptop-specific-tips-to-maximize-your-screenrec/"><u>[Updated] 2024 Approved Laptop-Specific Tips to Maximize Your ScreenRec</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-5-secrets-to-successful-and-memorable-titles-for-2024/"><u>[Updated] 5 Secrets to Successful and Memorable Titles for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-from-photo-to-film-the-cinematic-edge-of-iphone-x-for-2024/"><u>[Updated] From Photo to Film The Cinematic Edge of iPhone X for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/changing-home-screen-settings-without-start-menu/"><u>Changing Home Screen Settings Without Start Menu</u></a></li>
-<li><a href="https://windows11.techidaily.com/dive-into-the-depth-of-windows-pre-boots/"><u>Dive Into the Depth of Windows Pre-Boots</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/fine-tuning-fade-effects-in-music-software/"><u>Fine-Tuning Fade Effects in Music Software</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/foremost-websites-accelerating-youtube-traffic-for-2024/"><u>Foremost Websites Accelerating YouTube Traffic for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/impact-breakdown-the-eradication-of-taskbar-chat-in-windows-11/"><u>Impact Breakdown: The Eradication of Taskbar Chat in Windows 11</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-depth-analysis-of-radpowers-high-performance-radcity-5-plus-powerful-yet-heavyweight-e-bike/"><u>In-Depth Analysis of RadPower's High-Performance RadCity #5 Plus - Powerful yet Heavyweight E-Bike</u></a></li>
-<li><a href="https://windows11.techidaily.com/swiftly-solve-drop-problems-in-win11/"><u>Swiftly Solve Drop Problems in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-the-unreachable-error-with-spotify-in-windows-1011/"><u>Tackling the Unreachable Error with Spotify in Windows 10/11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/0-strategies-to-make-money-on-youtube-shorts-easily-for-2024/"><u>[New] 10 Strategies to Make Money on YouTube Shorts Easily for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-stardews-ultimate-customization-guide-the-top-7-mods-listed/"><u>[New] Stardew's Ultimate Customization Guide The Top 7 Mods Listed</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-direct-video-tweeting-on-phones-avoid-retweets/"><u>2024 Approved Direct Video Tweeting on Phones - Avoid Retweets</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/jpg-jpegtiff-movavi/"><u>無成本在線JPG JPEG到TIFF格式切換 - Movavi影片編輯器指南</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-adjusting-low-power-modes-in-windows/"><u>Essential Tips: Adjusting Low-Power Modes in Windows</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-review-of-the-netgear-orbi-range-extender-rbs5-perfect-for-yards/"><u>Expert Review of the Netgear Orbi Range Extender (RBS5#) - Perfect for Yards</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-2023-color-correction-secrets-for-filmmakers-for-2024/"><u>Final Cut Pro 2023 Color Correction Secrets for Filmmakers for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-apple-iphone-15-plus-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 15 Plus Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-meizu-21-pro-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Meizu 21 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-typing-hiccups-top-7-solutions-for-win-11s-key-lag/"><u>Navigate Typing Hiccups: Top 7 Solutions for Win 11'S Key Lag</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-deadlocked-files-on-windows-11-a-guide-1/"><u>Reviving Deadlocked Files on Windows 11: A Guide (1)</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-device-lockout-windows-11-error-code-22-resolution/"><u>Tackling Device Lockout: Windows 11 Error Code 22 Resolution</u></a></li>
+<li><a href="https://windows11.techidaily.com/update-mail-and-calendars-style-them-with-fav-photos/"><u>Update Mail & Calendars: Style Them with Fav Photos</u></a></li>
+<li><a href="https://windows11.techidaily.com/your-route-to-a-maps-integrated-windows-experience/"><u>Your Route to a Maps-Integrated Windows Experience</u></a></li>
 </ul></div>
 

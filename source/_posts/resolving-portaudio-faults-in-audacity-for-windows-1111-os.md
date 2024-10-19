@@ -1,7 +1,7 @@
 ---
 title: Resolving PortAudio Faults in Audacity for Windows 11/11 OS
-date: 2024-09-05T02:10:36.812Z
-updated: 2024-09-06T02:10:36.812Z
+date: 2024-10-17T16:27:16.205Z
+updated: 2024-10-19T00:10:42.906Z
 tags:
   - windows10
   - windows11
@@ -47,19 +47,36 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
 2. Next, double-click**Windows Audio** to bring up further options for that service.  
 ![The Services window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-audio-service.jpg)
 3. If the service is disabled, select an**Automatic** startup option on the drop-down menu.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Automatic service option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/automatic-service.jpg)
 4. Then select the properties window’s**Start** option to run the service.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Apply** and**OK** to save the options and exit the Audio Properties window.
 6. Repeat steps four to eight for the Windows Audio Endpoint Builder service.
 
  If you find the above services to be enabled and running, restarting them could also feasibly fix the issue. To do that, click Stop in their properties windows and select**Yes** to confirm. Then click their**Start** options to restart them.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Manually Enable all Playback and Recording Devices
 
  It could be the case that a disabled audio playback or recording device is causing the PortAudio error to arise. For that reason, it’s recommended to enable all disabled playback and recording devices you can find in the Sound window. You can do that with the following steps:
@@ -71,14 +88,24 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
 5. Right-click any disabled playback device and select**Enable** . Repeat this step for all disabled devices listed.  
 ![The Enable option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/enable-option.jpg)
 6. Then select the**Recording** tab to view more devices.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Recording tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/recording-tab.jpg)
 7. Click disabled recording devices with the mouse’s right button to select their**Enable** options. Enable all disabled devices listed there.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 8. Select the Sound window’s**Apply** option to save settings.
 9. Click**OK** on the Sound window to exit, and then restart your Windows 11/10 desktop or laptop.
 
@@ -92,12 +119,6 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
 ![The Rescan Audio Devices option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rescan-audio-devices-option.jpg)
 4. Wait for the rescan to finish, and then restart**Audacity** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Reinstall Audio Device Drivers
 
  The Internal PortAudio can also occur because of a sound device driver issue. In this case, reinstalling the drivers for all audio devices can fix this issue for some users. Trying reinstalling your PC’s audio device drivers as follows:
@@ -107,20 +128,8 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
 3. Click the arrow beside the**Audio inputs and outputs** category.  
 ![The Audio inputs and outputs category](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/audio-inputs-and-outputs.jpg)
 4. Right-click your speaker’s audio device and select**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Uninstall device option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-device.jpg)
 5. Select**Uninstall** on the small window that opens.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Uninstall button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/uninstall-button.jpg)
 6. Repeat the last two steps for all sound devices in the**Audio inputs and outputs** category.
 7. If you utilize any sound devices with USB ports, double-click the**Universal Serial Bus** category and select to uninstall all host controllers listed there. Users who don’t have sound devices connected via USB can skip this step.
@@ -135,22 +144,18 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
 3. Click**Uninstall** to remove the driver.  
 ![The Programs and Features applet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/programs-and-features.jpg)
 4. Then bring up the[Realtek audio driver](https://www.realtek.com/en/component/zoo/category/pc-audio-codecs-high-definition-audio-codecs-software) page.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click the**Download** button for the latest compatible Realtek driver for your PC.
 6. Open the folder containing the downloaded Realtek driver package.
 7. Double-click the Realtek package to install the latest driver.
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Reinstall Audacity
 
  A corrupted Audacity installation is another potential reason for the Internal PortAudio error occurring. Reinstalling the sound editor will likely resolve Audacity installation issues. You can remove Audacity with one of the methods included in our[ways to uninstall Windows software](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) post.
@@ -161,12 +166,6 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
 
  Some users have said that reinstalling older, not newer, versions of Audacity resolved the Internal PortAudio error on their PCs. Although it’s recommended to install the latest version first, reinstalling an older version is another troubleshooting option worth considering. This[uptodown archives page](https://audacity.en.uptodown.com/windows/versions) includes a good library of older Audacity versions for download.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get the Internal PortAudio Error Sorted on Audacity for Windows
 
  Although there are plenty of audio editor alternatives to Audacity, few others match its sound recording and editing features. However, you probably won’t need to switch to an alternative music editor because of the Internal PortAudio error after applying the potential fixes above. They’re widely cited solutions that have resolved the PortAudio error for many Audacity users.
@@ -177,8 +176,6 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +183,24 @@ thumbnail: https://thmb.techidaily.com/bd73d50e5d9ed4daeccbe66a94668b925bf784c3c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/3dr-alone-unpackaging-a-single-user-review/"><u>'3DR' Alone Unpackaging a Single User Review</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-complete-minecraft-filming-guidebook/"><u>[New] 2024 Approved Complete Minecraft Filming Guidebook</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-invisible-edits-ensuring-confidentiality-in-media/"><u>[New] In 2024, Invisible Edits Ensuring Confidentiality in Media</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-essential-tweaks-for-your-windows-11-search-settings/"><u>5 Essential Tweaks for Your Windows 11 Search Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/activating-rgb-customization-in-win11/"><u>Activating RGB Customization in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/amplify-your-pcs-wi-fi-with-8-effective-fixes-for-windows-11/"><u>Amplify Your PC's Wi-Fi with 8 Effective Fixes for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/beginners-tutorial-on-windows-canary-usage/"><u>Beginner’s Tutorial on Windows Canary Usage</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719351366052-breathe-new-life-into-your-win11-printer-with-these-tips/"><u>Breathe New Life Into Your Win11 Printer with These Tips!</u></a></li>
+<li><a href="https://windows11.techidaily.com/confronting-error-code-0x8007045d-a-guide-for-windows-11-users/"><u>Confronting Error Code 0X8007045d: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-dism-a-practical-guide-to-fixing-win11-os/"><u>Decoding Dism: A Practical Guide to Fixing Win11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/demystifying-blue-screen-errors-through-microsofts-tools-in-w11/"><u>Demystifying Blue Screen Errors Through Microsoft's Tools in W11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/effortless-bengali-learning-in-daily-sessions/"><u>Effortless Bengali Learning in Daily Sessions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exiting-the-gpt-world-now/"><u>Exiting the GPT World – Now!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-list-of-top-rated-safe-platforms-for-free-pc-gaming-downloads/"><u>The Ultimate List of Top-Rated Safe Platforms for FREE PC Gaming Downloads!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-3-free-video-converters-2020-ultimate-guide-for-hd-and-4k-on-windows-10/"><u>Top 3 Free Video Converters 2020: Ultimate Guide for HD & 4K on Windows 10</u></a></li>
+</ul></div>
 

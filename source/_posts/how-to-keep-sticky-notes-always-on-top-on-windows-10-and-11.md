@@ -1,7 +1,7 @@
 ---
 title: How to Keep Sticky Notes Always on Top on Windows 10 & 11
-date: 2024-10-01T01:58:59.000Z
-updated: 2024-10-02T02:24:07.399Z
+date: 2024-10-15T02:14:57.796Z
+updated: 2024-10-18T18:02:02.260Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,19 @@ thumbnail: https://thmb.techidaily.com/08c04182a5370a9894bbb7d5aedb620a94eb3a5d1
 
  Impressed with PowerToys yet? Here are some more[impressive things you can do with Microsoft Toys on Windows](https://www.makeuseof.com/best-things-you-can-do-windows-powertoys/) .
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Use DeskPins to Pin Sticky Notes
 
  DeskPins is a third-party open-source utility to pin app windows on Windows OS. It officially supports Windows 10 and earlier editions; however, we also tested it and found it working on Windows 11.
@@ -60,20 +73,20 @@ To pin Sticky Notes using DeskPins:
 4. Next, open the**system tray** (up arrow icon in the bottom left corner of your desktop) and click on the**DeskPins** icon to activate a Pin.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![desk pins pin windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows.jpg)
 5. Next, click on the**Sticky Note** app window to keep it always on top.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Click the**Pin** icon to unpin the window.
@@ -81,20 +94,13 @@ To pin Sticky Notes using DeskPins:
 ![desk pins pin windows options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/desk-pins-pin-windows-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can further customize the app with Hotkeys, set auto pin rules, and customize pin color and tracking rate. To do this, right-click on the**DeskPins** icon and select**Options** to access the customization features.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Keep Sticky Notes Always on Top in Windows 10 and 11
 
@@ -115,24 +121,22 @@ To pin Sticky Notes using DeskPins:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-best-picks-the-leading-10-online-resources-for-vimeo-video-download-for-2024/"><u>[New] Best Picks The Leading 10 Online Resources for Vimeo Video Download for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pioneering-stop-motion-films-the-ultimate-15-list/"><u>[New] Pioneering Stop-Motion Films - The Ultimate 15 List</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-silver-winners-prime-dvd-software-for-sierra-os/"><u>[Updated] 2024 Approved Silver Winners Prime Dvd Software for Sierra OS</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-ice-skates-and-epochs-a-look-at-beijings-olympic-saga-2022/"><u>[Updated] Ice Skates & Epochs A Look at Beijing's Olympic Saga, 2022</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-ways-to-fix-the-windows-family-safety-feature-not-working/"><u>5 Ways to Fix the Windows Family Safety Feature Not Working</u></a></li>
-<li><a href="https://driver-install.techidaily.com/attach-hp-envy-laptop-driver-to-windows-pc/"><u>Attach HP Envy Laptop Driver to Windows PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-taskbar-windows-11-edition/"><u>Elevate Your Taskbar: Windows 11 Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-repeatedly-spotted-edge-buttons/"><u>Fixing Repeatedly Spotted Edge Buttons</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hubsan-h501s-x4-fpv-quadcopter-review-for-2024/"><u>Hubsan H501S X4 FPV Quadcopter Review for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-video-placement-which-way-wins/"><u>In 2024, FB Video Placement - Which Way Wins?</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723008091429-ls-0013-launch-bug-in-fortnite-solved/"><u>LS-0013 Launch Bug in Fortnite: Solved</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-through-windows-sound-settings-9-easy-methods-quickly/"><u>Navigate Through Windows' Sound Settings: 9 Easy Methods, Quickly</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/navigating-through-tiktoks-visual-communication-tools/"><u>Navigating Through TikTok's Visual Communication Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-connectivity-hurdles-spotify-and-windows-11/"><u>Overcoming Connectivity Hurdles: Spotify & Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/revive-slow-windows-apps-ensure-robust-web-linkage/"><u>Revive Slow Windows Apps: Ensure Robust Web Linkage</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-integration-how-to-get-and-run-msibundle-and-appxappxbundles/"><u>Seamless Integration: How to Get & Run MsiBundle & Appx/Appxbundles</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ts-to-the-top-6-free-and-online-shorts-collectors-for-2024/"><u>Secrets to the Top 6 Free & Online Shorts Collectors for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-the-windows-11-taskbar/"><u>Unlock the Full Potential of the Windows 11 Taskbar</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-users-beware-is-yourphoneexe-safe-to-use/"><u>Windows Users Beware: Is YourPhone.exe Safe to Use?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/fun-for-the-whole-family-revisiting-a-goofy-movie/"><u>'Fun for the Whole Family' Revisiting a 'Goofy Movie'</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-vdr-hd-vision-recorder-report-full-overview/"><u>2024 Approved VDR HD Vision Recorder Report Full Overview</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-silent-xbox-console-windows-techniques/"><u>Fixing Silent Xbox Console: Windows Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-for-overcoming-installer-hurdles-in-windows-environments/"><u>Guidelines for Overcoming Installer Hurdles in Windows Environments</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-regain-control-over-faulty-anydesk-service/"><u>How To Regain Control Over Faulty AnyDesk Service</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-13-proipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 13 Pro/iPad Without Computer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-imagepurityplus-professional-photo-editing-suite/"><u>In 2024, ImagePurityPlus Professional Photo Editing Suite</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-your-windows-workspace-5-folder-tips-revealed/"><u>Master Your Windows Workspace: 5 Folder Tips Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-visual-note-taking-with-obsidian-paint/"><u>Mastering Visual Note-Taking with Obsidian Paint</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-remedies-for-windows-nine-solutions-to-revive-your-non-responsive-keyboard-shortcuts/"><u>Quick Remedies for Windows: Nine Solutions to Revive Your Non-Responsive Keyboard Shortcuts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/redirecting-and-reinstating-windows-1011s-ms-store/"><u>Redirecting and Reinstating Windows 10/11'S MS Store</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/revamp-your-pcs-performance-a-comprehensive-graphics-upgrade-tutorial/"><u>Revamp Your PC's Performance: A Comprehensive Graphics Upgrade Tutorial</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-frame-rate-crashes-for-a-smoother-outriders-experience/"><u>Troubleshooting Frame Rate Crashes for a Smoother Outriders Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-the-full-potential-of-win-for-ps1-gaming-duckstations-insight/"><u>Unleashing the Full Potential of WIN for PS1 Gaming - Duckstation's Insight</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/unlocking-potential-in-projects-with-chatgpt-a-how-to-approach/"><u>Unlocking Potential in Projects with ChatGPT - A How-To Approach</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Poco M6 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
 

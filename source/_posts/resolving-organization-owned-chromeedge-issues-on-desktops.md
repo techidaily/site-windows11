@@ -1,7 +1,7 @@
 ---
 title: Resolving Organization-Owned Chrome/Edge Issues on Desktops
-date: 2024-09-05T02:08:01.639Z
-updated: 2024-09-06T02:08:01.639Z
+date: 2024-10-12T02:15:25.242Z
+updated: 2024-10-18T17:44:13.824Z
 tags:
   - windows10
   - windows11
@@ -57,30 +57,19 @@ thumbnail: https://thmb.techidaily.com/4cf629d041b7e9add58db2334da6e6c6bff213af2
 4. Under the**Policies** key, locate and select the**Chrome** or**Edge** folder. If you see any policies in the right pane that you didn’t create yourself, right-click on the policies and select**Delete** .  
 ![delete chrome policy registry editor 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-chrome-policy-registry-editor-1.jpg)
 5. If there are no Chrome or Edge policies in the**Policies** key, navigate to the following location:  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 `Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\`
 6. Next, if you use**Chrome** , navigate to**\\Google\\Chrome** and delete any policy values in the right pane.  
 ![delete chrome policy registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/delete-chrome-policy-registry-editor.jpg)
 7. For**Edge** , navigate to**\\Microsoft\\MicrosoftEdge** . In the right pane, check for any suspicious policies. If it exists, right-click on the policy and select**Delete** .
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Close Registry Editor and restart your computer to see if the message is removed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Remove All the Group Policies for the Users Using Command Prompt
 
  If you can’t find the policies in Registry Editor, you can remove all the group policies for the User's account using Command Prompt. This will remove all the group policies, including any setup by malware. So, be sure to reconfigure any custom group policies you had before on the computer.
@@ -98,11 +87,12 @@ RD /S /Q "%WinDir%\System32\GroupPolicy"
 6. Close Command Prompt and check if the message is removed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Reset Chrome and Edge
 
 ![Clicking on the Reset Button to Restore Settings to their Original Defaults in Chrome Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/5-clicking-on-the-reset-button-to-restore-settings-to-their-original-defaults-in-chrome-settings.jpg)
@@ -121,6 +111,13 @@ To reset Google Chrome:
 To reset Microsoft Edge:
 
 ![Reset Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/reset-edge-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Click the**three-dots menu** and select**Settings** .
 2. Open the**Reset settings** tab in the left pane, and click on**Restore settings to their default values** .
@@ -141,21 +138,16 @@ To remove adware using MalwareBytes:
 4. Next, it will show the pre-installed apps. You can leave them unchecked and click**Quarantine** . This should remove any and all adware on your computer.
 5. Close the app and relaunch your browser to check for any improvements.
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Perform a Windows Reset
 
 ![factory reset Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/factory-reset-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you cannot find the affected policy or can’t remove the malware, you’ll need to perform a reset to remove the message and the malicious program.
 
@@ -171,17 +163,12 @@ To perform a Windows system reset:
 6. Wait for the reset to complete, and your PC will restart. After the restart, you’ll need to reinstall the browser and other apps to get started.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Remove the "Your Browser is Managed By Your Organization" Message on Windows
 
  This message can occur if your antivirus program controls your web browser with its web protection feature. If you rule out your antivirus to be the issue, check if a potentially unwanted program has hijacked the browser. If yes, you’ll need to manually remove the Windows Registry policies or run an adware cleaner to remove adware and PUPs from your computer.
@@ -192,8 +179,6 @@ To perform a Windows system reset:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +186,26 @@ To perform a Windows system reset:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-your-own-beat-no-cost-fb-version/"><u>[New] Your Own Beat, No Cost - FB Version</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-how-to-get-started-building-time-lapse-expertise-with-gopro-software/"><u>[Updated] How to Get Started Building Time-Lapse Expertise with GoPro Software</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-7-hydro-resistant-camcorders-explored/"><u>[Updated] In 2024, Top 7 Hydro-Resistant Camcorders Explored</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-zoomelitevue-7-enhance-and-resize-like-a-pro/"><u>[Updated] In 2024, ZoomEliteVue 7 Enhance & Resize Like a Pro</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-mastering-script-structuring/"><u>[Updated] Mastering Script Structuring</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-photoscape-ultimate-guide-on-top-rated-free-image-editor/"><u>Expert Analysis: PhotoScape Ultimate Guide on Top-Rated Free Image Editor</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-to-overcome-microphone-failures-in-zoom-meetings-on-desktop-computers/"><u>Expert Tips to Overcome Microphone Failures in Zoom Meetings on Desktop Computers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-htc-u23-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock HTC U23 Pro Pattern Lock Screen</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-off-game-lists-in-win11/"><u>Mastering Off Game Lists in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-guide-for-degraded-windows-based-excel-performance/"><u>Quick-Fix Guide for Degraded Windows-Based Excel Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/selecting-a-window-for-your-needs-the-win11-homepro-showdown/"><u>Selecting a Window for Your Needs: The Win11 Home/Pro Showdown</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-accurate-interpretation-of-task-manager-writings/"><u>Strategies for Accurate Interpretation of Task Manager' Writings</u></a></li>
+<li><a href="https://windows11.techidaily.com/turn-your-windows-11-pc-into-a-portable-wireless-router/"><u>Turn Your Windows 11 PC Into a Portable Wireless Router</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-efficiency-9-gains-from-the-newest-outlook-update/"><u>Unlocking Efficiency: 9 Gains From the Newest Outlook Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-outlook-preview-on-windows-11/"><u>Unlocking the Power of Outlook Preview on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-yourphoneexe-usefulness-on-modern-windows/"><u>Unlocking YourPhone.exe: Usefulness on Modern Windows?</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-upgraded-the-future-of-using-sudo/"><u>Windows Upgraded: The Future of Using Sudo</u></a></li>
+</ul></div>
 

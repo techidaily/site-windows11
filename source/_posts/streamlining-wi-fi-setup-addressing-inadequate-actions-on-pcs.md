@@ -1,7 +1,7 @@
 ---
 title: "Streamlining Wi-Fi Setup: Addressing Inadequate Actions on PCs"
-date: 2024-10-09T16:21:38.867Z
-updated: 2024-10-12T19:09:06.207Z
+date: 2024-10-14T04:01:14.810Z
+updated: 2024-10-19T02:11:04.676Z
 tags:
   - windows10
   - windows11
@@ -71,21 +71,29 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 ![Network connectivity test policy in GPE](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/network-connectivity-test-policy.jpg)
 6. Checkmark the box with **Enabled** and click **Apply** \> **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Next, head over to the following location:  
 ​​​​​​​​​​​​​​Computer Configuration\Administrative Templates\Network
 8. Select **Network Connectivity Status Indicator** \> **Specify passive polling**.  
 ![Specify passive polling policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/specify-passive-polling-policy.jpg)
 9. Choose **Enabled** and click **Apply** \> **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 10. Close the Group Policy Editor and restart your computer.
 
  Hopefully, upon reboot, the issue will no longer appear.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Run the Internet Connection Troubleshooter
 
@@ -100,14 +108,14 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 ![Internet Connection Troubleshooter in the Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/internet-connection-troubleshooter.jpg)
 5. Wait for the troubleshooter to complete its scan and once done, check if a problem is identified. If it is, click on the **Apply this fix** option. You can also apply a solution manually.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. In case the troubleshooter fails to identify the culprit, click on **Close the troubleshooter** option and move to the next method below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable Fast Startup
 
@@ -122,29 +130,28 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 ![Choose what the power button does option of Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/choose-what-the-power-button-does.jpg)
 5. Choose **Change settings that are currently unavailable** and navigate to the Shutdown settings option.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Uncheck the box associated with **Turn on fast startup (recommended)**.  
 ![Disable Fast Startup on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/disable-fast-startup-on-windows.jpg)
 7. Click on the **Save changes** button and exit Control Panel. Check if the issue is now resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Try These Additional Generic Fixes
 
  If the specific fixes we have listed above have not worked for you, there are some additional fixes related to the network errors in Windows that you can try.
 
  These include updating the network drivers, re-enabling your wireless network adapter, installing the latest system updates, and resetting the network configurations on your computer. Our guide on[how to fix common Windows network errors](https://www.makeuseof.com/not-connected-any-networks-error-windows/) discusses all of these in detail, so you can head over there for step-by-step instructions.
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixing Network Connections in Windows Made Easy
 
@@ -164,20 +171,16 @@ HKLM\Software\Policies\Microsoft\Windows\NetworkConnectivityStatusIndicator
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-imagination-drought-hindering-vr-development/"><u>[New] The Imagination Drought Hindering VR Development</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-remedying-pauses-in-online-video-sessions-fb/"><u>[Updated] In 2024, Remedying Pauses in Online Video Sessions (FB)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-discover-novel-webcam-functions-today/"><u>2024 Approved Discover Novel Webcam Functions Today</u></a></li>
-<li><a href="https://windows11.techidaily.com/breaking-the-mold-unleashing-dormant-windows-11-powers/"><u>Breaking the Mold: Unleashing Dormant Windows 11 Powers</u></a></li>
-<li><a href="https://windows11.techidaily.com/creative-walls-for-your-pc-windows-1011-guide/"><u>Creative Walls for Your PC: Windows 10/11 Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/end-the-ebb-and-flow-top-strategies-for-smooth-windows-streaming/"><u>End the Ebb and Flow: Top Strategies for Smooth Windows Streaming</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-tips-how-to-erase-past-safety-checks-on-windows/"><u>Expert Tips: How to Erase Past Safety Checks on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/gpresult-command-guide-for-policy-reporting/"><u>GPResult Command Guide for Policy Reporting</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-improving-accessibility-with-on-screen-text-elements-on-youtube-videos/"><u>In 2024, Improving Accessibility with On-Screen Text Elements on YouTube Videos</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-oppos-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Oppos Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/prime-vhs-illusions-to-enhance-film-projects/"><u>Prime VHS Illusions to Enhance Film Projects</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-pc-performance-hurdles-with-intel-graphics-updates/"><u>Remedying PC Performance Hurdles with Intel Graphics Updates</u></a></li>
-<li><a href="https://windows11.techidaily.com/turn-your-windows-11-pc-into-a-self-contained-internet-station/"><u>Turn Your Windows 11 PC Into a Self-Contained Internet Station</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/video-visibility-victory-strategies-for-hitting-high-view-milestones-on-youtube/"><u>Video Visibility Victory Strategies for Hitting High-View Milestones on YouTube</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2023tiktok9/"><u>これが2023年のTikTokコンテンツ保存・ダウンロードベスト9サイト!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transforming-your-photos-into-timeless-slow-mo-artistry/"><u>[New] Transforming Your Photos Into Timeless Slow-Mo Artistry</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-channels-surging-ideas-and-insights-unleashed-for-2024/"><u>10 YT Channels Surging Ideas and Insights Unleashed for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-troubleshooting-techniques-for-optimized-video-shorts/"><u>2024 Approved Troubleshooting Techniques for Optimized Video Shorts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808145372-fixes-for-your-computer-starting-without-showing-anythe-on-monitor/"><u>Fixes for Your Computer Starting Without Showing Anythe on Monitor.</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-6s-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 6s iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://windows11.techidaily.com/keeping-winrunhist-intact-for-future-use/"><u>Keeping WinRunHist Intact for Future Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windowed-discords-search-tweaks/"><u>Mastering Windowed Discord's Search Tweaks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-your-tech-choices-with-expert-advice-from-toms-hardware-wisdom/"><u>Navigating Your Tech Choices with Expert Advice From Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-estaminig-balanced-sound-from-both-sides-of-win-audio-device/"><u>Re-Estaminig Balanced Sound From Both Sides of Win Audio Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-secret-recognizing-and-resolving-non-installed-hdd-issue-win-11-style/"><u>Unveiling the Secret: Recognizing & Resolving Non-Installed HDD Issue, Win 11 Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/wintools-comparison-how-chkdsk-and-sfc-differ-from-dissect/"><u>WinTools Comparison: How CHKDSK and SFC Differ From Dissect</u></a></li>
 </ul></div>
 

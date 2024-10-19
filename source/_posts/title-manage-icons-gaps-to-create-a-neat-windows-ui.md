@@ -1,7 +1,7 @@
 ---
 title: "Title: Manage Icons Gaps to Create a Neat Windows UI"
-date: 2024-10-11T18:01:51.043Z
-updated: 2024-10-12T22:18:13.063Z
+date: 2024-10-13T17:05:12.930Z
+updated: 2024-10-19T00:53:38.511Z
 tags:
   - windows10
   - windows11
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
  Now you might wonder how you can restore the default desktop icon spacing. The default spacing value for both the strings is**\-1125** , which amounts to 75 pixels. So, return to the WindowMetric registry key and enter**\-1125** for both the**IconString** and**IconVerticalSpacing** string values. Thereafter, restart your PC to restore the default spacing.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Change Desktop Icon Spacing With Winaero Tweaker
 
  Some third-party customization software packages for Windows 11/10 include options for changing desktop icon spacing. Among them is the freeware Winaero Tweaker, which has two slider bars with which you can increase or decrease horizontal and vertical icon spacing. As that software also specifies space values in pixels, some users might prefer to change icon spacing with it. This is how to change the spacing for desktop icons with Winaero Tweaker.
@@ -67,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
 ![The Extract Compressed window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/the-extract-compressed-window3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. To unzip the archive, click**Extract** .
 2. Double-click the installer file for Winaero Tweaker to bring up the software’s setup wizard.
 3. Select the**Next** option a few times, and click the**I accept the radio agreement** button.
@@ -81,19 +81,19 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 ![The Winaero Tweaker setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/setup-winaero-tweaker-window2.jpg)
 5. All the other default installation options selected are fine. Keep clicking**Next** and then Install to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Select the**Run Winaero Tweaker** checkbox after installing, and then click**Finish** .
 2. Double-click the**Advanced Appearance Settings** category in Winaero.
 3. Click the**Icons** option shown directly below.
 4. Drag the**Horizontal spacing** bar’s slider right or left to increase or decrease the space width between icons.  
 ![The Icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/03/icons-option.jpg)
 5. Then drag the slider for the**Vertical spacing** bar left or right to adjust the amount of vertical space for desktop icons.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Press the**Apply changes** button.
 7. Click the**Sign out now** option to restart your PC and apply the icon spacing changes.
@@ -110,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
  Click**OK** when you’ve customized the desktop icon font, and then select the**Apply Changes** and**Sign out** now options.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Change Desktop Icon Spacing With DesktopOK
 
  DesktopOK is another third-party app with which you can adjust the vertical and horizontal spacing between desktop icons. That software also enables you to save desktop icon layouts and packs in other useful tools and features. You can change desktop icon spacing with DesktopOK like this:
@@ -125,26 +132,19 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 ![The Windows-Metrics option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-metrics-option.jpg)
 3. Select**Windows-Metrics** on the**Tools** menu.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click**Yes** on the confirmation dialog prompt.
 5. Drag the**Horizontal Space** bar’s slider to change horizontal desktop icon spacing.  
 ![The spacing bars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/spacing-bars.jpg)
 6. Then drag the**Vertical Space** bar’s slider to adjust vertical icon spacing.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also change desktop icon sizes from the Windows-Metrics window. Click the**Desktop icon size** drop-down menu to choose an alternative size from there. If you select the largest icon sizes, you’ll need to increase the spacing between them to prevent them overlapping.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Much Icon Space Do You Want on Your Desktop?
 
@@ -165,22 +165,22 @@ thumbnail: https://thmb.techidaily.com/9eaae45a5ae000b67c414e7abf4faf363e86f9932
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-fast-forward-fame-insta-popularity-through-content-for-2024/"><u>[New] Fast Forward Fame Insta Popularity Through Content for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-strategies-for-time-loop-visual-tricks/"><u>[New] Strategies for Time-Loop Visual Tricks</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-inhabit-your-island-minimalistic-mc-house-plans-explained/"><u>[Updated] In 2024, Inhabit Your Island Minimalistic MC House Plans Explained</u></a></li>
-<li><a href="https://windows11.techidaily.com/circumventing-driver-checks-in-windows-no-signatures-any-installation/"><u>Circumventing Driver Checks in Windows: No Signatures, Any Installation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-crumpled-to-curated-your-step-by-step-process-of-transforming-faded-print-photographs-into-digital-originals-for-2024/"><u>From Crumpled to Curated Your Step-by-Step Process of Transforming Faded Print Photographs Into Digital Originals for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-12-pro-max-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 12 Pro Max to Computer? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-slicedmedia-studio/"><u>In 2024, SlicedMedia Studio</u></a></li>
-<li><a href="https://windows11.techidaily.com/leveraging-execution-descriptor-labels-in-software/"><u>Leveraging Execution Descriptor Labels in Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/procedures-to-disregard-the-your-license-will-end-alert/"><u>Procedures to Disregard the Your License Will End Alert</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/start-your-free-download-access-the-latest-e-books-and-pdfs-instantly/"><u>Start Your Free Download: Access the Latest E-Books and PDFs Instantly</u></a></li>
-<li><a href="https://windows11.techidaily.com/steady-your-pc-controlling-high-cpu-load-with-windows-resource-tool/"><u>Steady Your PC: Controlling High CPU Load With Window's Resource Tool</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-customizing-your-windows-11-notepad-appearance/"><u>Step-by-Step: Customizing Your Windows 11 Notepad Appearance</u></a></li>
-<li><a href="https://windows11.techidaily.com/stop-discords-auto-activation-at-pc-boot-sequence/"><u>Stop Discord's Auto-Activation at PC Boot Sequence</u></a></li>
-<li><a href="https://windows11.techidaily.com/tailored-screenscape-designing-distinctive-displays-on-each-window-of-win-1011/"><u>Tailored Screenscape: Designing Distinctive Displays on Each Window of Win 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-insiders-guide-to-bluescreenview-execution/"><u>The Insider’s Guide to BlueScreenView Execution</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125260405-the-ultimate-guide-to-educational-robots-for-children-start-coding-today/"><u>The Ultimate Guide to Educational Robots for Children - Start Coding Today</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-chatgpt-boundaries-seven-question-types-excluded-from-processing/"><u>Understanding ChatGPT Boundaries: Seven Question Types Excluded From Processing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ssential-8-tools-linux-based-edits-software/"><u>[New] Essential 8 Tools Linux-Based Edits Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-internet-speech-capture-tools/"><u>[New] Top Internet Speech Capture Tools</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-accelerate-yt-growth-strategies-for-1kplus-subscribers/"><u>[Updated] Accelerate YT Growth Strategies for 1K+ Subscribers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-script-to-screen-professional-youtube-editing-secrets/"><u>[Updated] In 2024, From Script to Screen Professional YouTube Editing Secrets</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/20-high-end-editors-for-dji-drone-footage-for-2024/"><u>20 High-End Editors for DJi Drone Footage for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevating-your-gameplay-on-youtube-with-these-essential-tags/"><u>2024 Approved Elevating Your Gameplay on YouTube with These Essential Tags</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-spotifys-1-hit-list-update/"><u>2024 Approved Spotify's #1 Hit List Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/evolving-taskbar-in-windows-an-annual-look-back/"><u>Evolving Taskbar in Windows: An Annual Look-Back</u></a></li>
+<li><a href="https://windows11.techidaily.com/harnessing-file-operations-techniques-to-archive-and-extract/"><u>Harnessing File Operations: Techniques to Archive and Extract</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-counteract-dxgi-errors-after-device-loss/"><u>How to Counteract DXGI Errors After Device Loss</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-from-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock From Apple iPhone XR?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconfigure-windows-11-task-manager-interface-view/"><u>Reconfigure Windows 11 Task Manager Interface View</u></a></li>
+<li><a href="https://windows11.techidaily.com/smart-shopping-tips-for-finding-windows-11-keys/"><u>Smart Shopping Tips for Finding Windows 11 Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-secrets-to-windows-camera-media-storage/"><u>Unlocking the Secrets to Windows Camera Media Storage</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-undetected-toolbar-for-windows-11-users/"><u>Unlocking the Undetected Toolbar for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-of-windows-process-aggregatehostexe/"><u>Unveiling the Secrets of Windows' Process AggregateHost.exe</u></a></li>
 </ul></div>
 

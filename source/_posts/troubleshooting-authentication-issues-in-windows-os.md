@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Authentication Issues in Windows OS
-date: 2024-09-05T02:10:02.748Z
-updated: 2024-09-06T02:10:02.748Z
+date: 2024-10-17T22:27:01.334Z
+updated: 2024-10-19T01:23:32.876Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 
  This error is usually triggered when Windows attempts to enable Local Security Authority (LSA) protection and fails. In some cases, the error may also appear after you enabled LSA protection and restarted your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your PC
 
  As the error message suggests, you first restart your Windows system. This minor step can fix several system-level errors and is worth a try. Restarting your computer involves shutting down all running programs and starting it up again.
@@ -42,21 +49,9 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 4. Click **Scan options** on the right side of the screen.  
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
 5. Select **Full scan** and click **Scan now**.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now wait for the scan to finish. If malicious programs are detected, Windows Security will remove them from your system automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024351/7443" target="_top" id="2024351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Change the Group Policy Settings
 
  If the above steps don't help, you might need to configure LSA manually. It involves editing the Local Group Policy Editor and setting some specific settings. However, this tool only works with Windows 11 Professional and Enterprise editions.
@@ -71,15 +66,16 @@ Administrative Templates > System > Local Security Authority
 5. Double-click **Configure LSASS to run as a protected process** in the right pane.  
 ![Change the Group Policy Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-the-group-policy-settings.jpg)
 6. Now, in the window that appears, alter the settings from **Not Configured** to **Enabled**.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Under the Options section, click the drop-down menu for **Configure LSASS to run as a protected process** and select **Enabled with UEFI Lock**.  
 ![Set as Enabled with UEFI Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-as-enabled-with-uefi-lock.jpg)
 8. Now click **Apply > OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After making the above changes, restart your computer and check if the error is resolved.
 
@@ -113,21 +109,16 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 6. On the next page, scroll down to the **Reset** section and click **Reset**.  
 ![Reset Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-windows-security.jpg)
 7. If the confirmation window pops up, click **Reset** to continue.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for the reset process to finish and restart your computer. After restarting, check if the error is still present.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024333/7443" target="_top" id="2024333">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024333/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Perform Some Generic Fixes
 
  There are also some generic fixes to resolve the issue. First, [run the System File Checker](https://www.makeuseof.com/system-file-checker-sfc-windows/) command to repair incorrect or damaged system files. You may also want to use the Deployment Image Servicing and Management tool to diagnose issues with local system images. If the problem persists, try [updating Windows to the latest version](https://www.makeuseof.com/update-windows-manually/) to resolve any glitches or bugs.
@@ -135,18 +126,17 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
  Some antivirus and security programs can be too aggressive in protecting your system. They could prevent access to the LSA feature, leading to this problem. To be sure, you can [temporarily disable your security software](https://www.makeuseof.com/temporarily-disable-windows-security-windows-11/) and check if it solves the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fixing the LSA Protection Error on Windows
 
  Local Security Authority protection safeguards unauthorized access to system resources, such as passwords or other sensitive information. However, this feature might not work as expected due to LSA Protection Error. Thanks to the potential solutions discussed in this guide, solving the problem is easy.
 
  It suggests an underlying problem that requires resolution to restore system security. If you have the same problem, these solutions might help.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -154,3 +144,19 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-blueprints-for-making-youtube-intro-videos-that-stick/"><u>[New] In 2024, Blueprints for Making YouTube Intro Videos that Stick</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-voice-modification-tools-enhance-your-auditory-presentation/"><u>2024 Approved Free Voice Modification Tools – Enhance Your Auditory Presentation</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-strategic-sharing-of-tiktok-content-on-twitter/"><u>2024 Approved Strategic Sharing of TikTok Content on Twitter</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719266282483-combatting-common-windows-11-mail-errors-get-your-email-back-now/"><u>Combatting Common Windows 11 Mail Errors - Get Your Email Back Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-crash-reports-for-flawless-hardware-repairs/"><u>Decoding Crash Reports for Flawless Hardware Repairs</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719354556221-eliminate-troubleshooting-roadblocks-for-compatibility-issues/"><u>Eliminate Troubleshooting Roadblocks for Compatibility Issues.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/empowering-education-find-the-best-10-apps-designed-just-for-high-school-students/"><u>Empowering Education: Find the Best 10 Apps Designed Just for High-School Students</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/g-your-music-collection-accessible-worldwide/"><u>Making Your Music Collection Accessible Worldwide</u></a></li>
+<li><a href="https://games-able.techidaily.com/reboot-classics-gaming-pcs-powered-by-atlasos/"><u>Reboot Classics: Gaming PCs Powered by AtlasOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719241276591-team-chat-freezing-heres-a-fix/"><u>Team Chat Freezing? Here’s a Fix!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-is-my-battlefield-talkie-crashing-overcoming-common-compatibility-issues-on-pcs/"><u>Why Is My Battlefield Talkie-Crashing? Overcoming Common Compatibility Issues on PCs</u></a></li>
+</ul></div>
+

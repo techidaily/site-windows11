@@ -1,7 +1,7 @@
 ---
 title: Mastering the Fix for an Invisible Logging Window on WIN10/11
-date: 2024-09-05T02:08:04.675Z
-updated: 2024-09-06T02:08:04.675Z
+date: 2024-10-17T04:02:30.674Z
+updated: 2024-10-18T18:24:37.772Z
 tags:
   - windows10
   - windows11
@@ -35,26 +35,28 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 **Ctrl + Alt + Delete** is a Windows keyboard shortcut initially used to terminate unresponsive applications. However, the combo is now used differently on Windows 11\. By default, it now shows a hidden menu with multiple critical options such as Password Change, Restart, Task Manager and more. You can also easily[add or remove options from the Ctrl + Alt + Delete](https://www.makeuseof.com/windows-ctrl-alt-del-add-remove/) combo on Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Boot Into Safe Mode
 
  In safe mode, the Windows OS starts with only essential services. All the third-party services are disabled, so the admin can determine if a third-party app conflicts with the system functionality.
 
  This may also allow you to access your lock screen and sign in to perform additional troubleshooting. First, refer to our guide to[boot into safe mode in Windows 11](https://www.makeuseof.com/windows-11-boot-safe-mode/) and then apply the troubleshooting steps below.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Install Pending Windows Updates
 
 ![check for windows update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/check-for-windows-update-1-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Check and install all the Windows updates available on your computer. Widespread issues likely get a hotfix on a priority basis. So, check if you have any pending updates and install them to see if that fixes the issue.
 
@@ -72,11 +74,18 @@ To check and update Windows 11:
  While a handy feature, it may prevent you from accessing the sign-in screen without the keyboard combo. Check if you or other users on the computer have enabled the feature. If you find it annoying, you can easily[disable Secure sign-in with Ctrl + Alt + Delete in Windows 11](https://www.makeuseof.com/windows-11-disable-secure-sign-in/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Perform a System Restore
 
  Windows automatically creates new restore points on configured systems before a Windows, unsigned driver or a new program is installed. So if a bad update or driver causes the system to malfunction, you can use a restore point to undo the changes and restore your PC.
@@ -92,8 +101,24 @@ To check and update Windows 11:
 4. Next, click on**Advanced options** .  
 ![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
 5. Click on**System Restore** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![advanced option system restore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-option-system-restore.jpg)
 6. Select the most recent restore point in the**System Restore** wizard and click**Next** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Follow on-screen instructions to complete the system restore process.
 
  Once done, your PC will restart. If successful, you should be able to view your sign-in screen. If not, you can try again with a different restore point.
@@ -106,29 +131,11 @@ To check and update Windows 11:
 2. Next, under**Choose an option** , click on**Troubleshoot** .  
 ![WinRE-Advanced-Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/winre-advanced-options.jpg)
 3. Next, click on**Advanced options.**  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![advanced option startup repair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/advanced-option-startup-repair.jpg)
 4. Click on**Startup Repair.** Now it will start to diagnose your PC to find issues with the start-up.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Next, select a user account and enter the password.
 6. Click**Continue** to begin Startup repair. This process may take some time, so wait till it is complete.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Disable the Lock Screen
 
  If the issue occurs after waking your computer from sleep or hibernation, it is likely a Windows glitch that needs fixing. As a temporary measure, you can disable your lock screen completely to prevent the glitch from occurring.
@@ -147,8 +154,6 @@ To check and update Windows 11:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +161,22 @@ To check and update Windows 11:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-10-best-free-youtube-channel-art-makers/"><u>[Updated] 2024 Approved 10 Best Free YouTube Channel Art Makers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-spotlight-on-top-8-authentic-youtube-growth-tactics/"><u>[Updated] Spotlight on Top 8 Authentic YouTube Growth Tactics</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-mp4-record-and-assess-guide-for-2024/"><u>[Updated] Ultimate MP4 Record & Assess Guide for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-latest-dell-monitor-drivers-with-simple-steps/"><u>Download and Install Latest Dell Monitor Drivers with Simple Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-mute-games-recommended-by-windows-11/"><u>How To Mute Games Recommended by Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-v30-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo V30 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-realme-narzo-n53-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Realme Narzo N53 FRP Bypass</u></a></li>
+<li><a href="https://driver-download.techidaily.com/keep-your-toshiba-device-running-smoothly-find-and-update-windows-drivers-today/"><u>Keep Your Toshiba Device Running Smoothly: Find & Update Windows Drivers Today!</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-use-of-microsoft-family-safety/"><u>Mastering the Use of Microsoft Family Safety</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ture-harmonies-character-music-journey-for-2024/"><u>Miniature Harmonies Character Music Journey for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/real-time-speech-conversion-using-whisper-desktop/"><u>Real-Time Speech Conversion: Using Whisper Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/suppress-windows-extra-audio-functionality/"><u>Suppress Windows Extra Audio Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/surge-speed-settings-preventing-unexpected-download-plunges/"><u>Surge Speed Settings: Preventing Unexpected Download Plunges</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-to-disable-discord-auto-updates-at-bootup/"><u>Techniques to Disable Discord Auto-Updates at Bootup</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-steps-to-open-windows-media-player/"><u>The Essential Steps to Open Windows Media Player</u></a></li>
+</ul></div>
 

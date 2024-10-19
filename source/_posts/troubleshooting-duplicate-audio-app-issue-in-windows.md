@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Duplicate Audio App Issue in Windows
-date: 2024-10-07T22:33:44.417Z
-updated: 2024-10-12T16:53:35.139Z
+date: 2024-10-14T02:25:44.825Z
+updated: 2024-10-18T16:36:04.604Z
 tags:
   - windows10
   - windows11
@@ -52,10 +52,10 @@ To disable Exclusive Mode for the audio device on Windows:
 4. Select the audio device in the**Sound** dialog and click the**Properties** button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Open the**Advanced** tab in the**Properties** dialog.  
@@ -64,13 +64,6 @@ To disable Exclusive Mode for the audio device on Windows:
 7. Click**Apply** and**OK** to save the changes.
 
  Restart your computer and check if the error is resolved and if the audio device is working again.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Change Windows Audio Service Startup Type
 
@@ -86,25 +79,25 @@ To change the Windows Audio service Startup type:
 ![windows audio service properties services snap in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-audio-service-properties-services-snap-in.jpg)
 4. Click the**Startup** type drop-down and select**Automatic** .
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click**Apply** and**OK** to save the changes.  
 ![windows audio service startup type automatic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-audio-service-startup-type-automatic.jpg)
 6. If the service is not running, right-click on**Windows Audio** and select**Start** .
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Close the Services snap-in and restart your PC. After the restart, your audio device should start working again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable and Re-Enable the Sound Output Device
 
@@ -115,13 +108,6 @@ To change the Windows Audio service Startup type:
 ## 5\. Uninstall and Reinstall the Audio Device and Driver
 
 ![Uninstalling an audio device in Windows 11.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/uninstalling-audio-device-windows-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also troubleshoot your audio problems by uninstalling the audio device and the associated drivers. Reinstalling the audio device can help if the sound problem is due to corrupt audio drivers.
 
@@ -135,6 +121,13 @@ To uninstall your audio device on Windows:
 
  You may see a yellow exclamation mark on the uninstalled audio device. To reinstall the driver, click on**File** and select**Scan for hardware changes** . This should reinstall the sound device and driver. If not, restart your computer. As the system restarts, Windows will reinstall the missing audio device driver and restore sound on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Perform a Driver Rollback
 
  If you have an external sound card and have installed an update, try a driver rollback. A new driver update can sometimes create more problems than it intends to fix. You can use the device driver rollback feature in Device Manager to undo the changes and reinstall the older version of the driver.
@@ -142,6 +135,13 @@ To uninstall your audio device on Windows:
  You can[roll back a driver using Windows Device Manager](https://www.makeuseof.com/how-to-roll-back-a-driver-in-windows-10/) . In Device Manager, expand the**Sound, Video, and Game Controllers** section. Next, access your external sound card properties to perform a rollback.
 
  If the Roll Back Driver option is greyed out, it means the option is unavailable for the selected device. In this instance, uninstall the existing audio device driver and download an older version of the driver from your sound card manufacturer's website. Your sound card manufacturer may also have a newer driver version available. If available, install the latest version and check for any improvements.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Install Pending Windows Updates
 
@@ -182,24 +182,16 @@ To uninstall your audio device on Windows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-clipcutting-masterwin8/"><u>[New] In 2024, ClipCutting MasterWin8</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-video-links-made-better-with-desktop-and-mobile-timestamping/"><u>2024 Approved YouTube Video Links Made Better with Desktop & Mobile Timestamping</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-up-old-user-credentials-issue-on-win-11-os/"><u>Clearing Up 'Old User Credentials' Issue on Win 11 OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-breakdown-using-toolbar-in-mspcm-on-windows-11/"><u>Comprehensive Breakdown: Using Toolbar in MSPCM on Windows 11</u></a></li>
-<li><a href="https://win-webster.techidaily.com/download-audio-from-youtube-efficiently-the-ultimate-mp3-macwindows-rocket-player-alternative/"><u>Download Audio From YouTube Efficiently: The Ultimate MP3 Mac/Windows Rocket Player Alternative!</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevating-visuals-perfect-windows-desktop-backdrops/"><u>Elevating Visuals: Perfect Windows Desktop Backdrops</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-cyber-safety-trustable-domains-on-windows-11/"><u>Enhance Cyber Safety: Trustable Domains on Windows 11</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-fix-the-driver-being-installed-is-not-validated-for-this-computer/"><u>How to Fix: The Driver Being Installed Is Not Validated for This Computer</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/innovative-2024-windows-devices-you-cant-miss/"><u>Innovative 2024 Windows Devices You Can't Miss</u></a></li>
-<li><a href="https://video-capture.techidaily.com/mac-ready-detailed-screenflow-review-with-v4-for-2024/"><u>Mac Ready Detailed ScreenFlow Review with V4 for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/masterful-dns-management-in-windows-11/"><u>Masterful DNS Management in Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/offline-galore-top-15-games-to-play-without-internet-iphones-ipads/"><u>Offline Galore: Top 15 Games to Play Without Internet (iPhones, iPads)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/panzoid-leaders-choice-best-newcomer-lists/"><u>Panzoid Leaders' Choice Best Newcomer Lists</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/relive-the-retro-era-with-the-nintendo-game-and-watch-a-deep-dive-into-super-mario-bros/"><u>Relive the Retro Era with the Nintendo Game & Watch: A Deep Dive Into Super Mario Bros</u></a></li>
-<li><a href="https://windows11.techidaily.com/solving-windows-11s-frustrating-5ghz-link-failures/"><u>Solving Windows 11'S Frustrating 5GHz Link Failures</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-overcome-win-11s-store-error-x00000000/"><u>Steps to Overcome Win 11'S Store Error X00000000</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transcode-mkv-video-files-into-mp4-format-free-online-using-movavi/"><u>Transcode MKV Video Files Into MP4 Format Free Online - Using Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshoot-non-functional-windows-security-on-win-11/"><u>Troubleshoot Non-Functional Windows Security on Win 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-shades-and-tints-in-action-practical-application/"><u>[New] 2024 Approved Shades & Tints in Action Practical Application</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-comparison-can-inshot-outshine-competitors/"><u>2024 Approved In-Depth Comparison Can InShot Outshine Competitors?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/come-masterizza-un-dvd-in-windows-11-una-guida-completa-con-4-facili-fasi/"><u>Come Masterizza Un DVD in Windows 11: Una Guida Completa Con 4 Facili Fasi</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-strangers-to-friends-basic-socializing-skills-in-latam-languages/"><u>From Strangers to Friends: Basic Socializing Skills in LatAm Languages</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-reno-11-pro-5g-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Oppo Reno 11 Pro 5G Phone without PIN</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-s23-ultra-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy S23 Ultra Phone Network-Ready</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-outdated-windows-password-a-guide/"><u>Overcoming Outdated Window's Password: A Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-into-yesteryear-classic-pc-gaming-via-dosbox-x/"><u>Step Into Yesteryear: Classic PC Gaming via DOSBox-X</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-resolving-synapse-on-pcs-with-windows-11-and-10/"><u>Troubleshooting: Resolving Synapse on PCs with Windows 11 & 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-network-auditing-for-unguarded-ip-ports/"><u>Windows Network Auditing for Unguarded IP Ports</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-wisdom-commanding-app-and-browser-flow/"><u>Windows Wisdom: Commanding App & Browser Flow</u></a></li>
 </ul></div>
 

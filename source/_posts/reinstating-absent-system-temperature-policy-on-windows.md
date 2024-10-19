@@ -1,7 +1,7 @@
 ---
 title: Reinstating Absent System Temperature Policy on Windows
-date: 2024-10-12T01:37:27.513Z
-updated: 2024-10-12T18:13:25.573Z
+date: 2024-10-12T03:25:41.536Z
+updated: 2024-10-18T16:08:48.786Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,10 @@ Here’s how to do that.
  If you go back to the Power Options menu, you’ll find that it’s gone.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Fix a Missing System Cooling Policy Using the Windows Registry
@@ -59,10 +59,10 @@ Here’s how to do that.
 ![creating a text document on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creating-text-doc-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In the text document, enter the following code:
@@ -74,10 +74,10 @@ In the text document, enter the following code:
 ![message to continue merging a registry file with the windows registry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/message-continue-merge-reg-gile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You should now see the system cooling policy in the Power Options menu.
@@ -89,10 +89,10 @@ In the text document, enter the following code:
  Once you run this file, the system cooling policy will be hidden again in the Power Options menu.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bringing Back the System Cooling Policy on Windows
@@ -114,14 +114,24 @@ In the text document, enter the following code:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-quick-tips-capturing-screen-on-a-dell-notebook-pc/"><u>[New] 2024 Approved Quick Tips Capturing Screen on a Dell Notebook PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/global-mouse-mastery-using-powertoys-innovative-features/"><u>Global Mouse Mastery Using PowerToys' Innovative Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-windows-11-experience-for-mac-using-parallels/"><u>Seamless Windows 11 Experience for Mac, Using Parallels</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-iphone-and-ipad-widget-problems-with-these-speedy-10-fixes/"><u>Solve iPhone and iPad Widget Problems with These Speedy 10 Fixes</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-solution-fixing-qualcomm-atheros-bluetooth-connectivity-on-windows-11/"><u>Step-by-Step Solution: Fixing Qualcomm Atheros Bluetooth Connectivity on Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/steps-to-handle-maxed-out-windows-chatgpt/"><u>Steps to Handle Maxed-Out Windows ChatGPT</u></a></li>
-<li><a href="https://windows11.techidaily.com/stop-wired-keyboard-interaction-for-windows-system/"><u>Stop Wired Keyboard Interaction for Windows System</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshoot-asking-too-many-hands-at-once-errors/"><u>Troubleshoot Asking Too Many Hands at Once Errors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/zoom-quality-issues-identifying-if-connectivity-woes-are-user-based/"><u>Zoom Quality Issues: Identifying If Connectivity Woes Are User-Based</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-secrets-of-facebook-cover-vids-for-aspiring-social-media-stars/"><u>[New] 2024 Approved Secrets of Facebook Cover Vids for Aspiring Social Media Stars</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-livestreaming-sovereigns-clash/"><u>[New] In 2024, LiveStreaming Sovereigns Clash</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-5-star-channel-cutting-long-urls-down-for-youtube-videos/"><u>2024 Approved 5-Star Channel Cutting Long URLs Down for YouTube Videos</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/dts-surround-sound-problem-solved-fixes-for-device-recognition-issues/"><u>DTS Surround Sound Problem Solved: Fixes for Device Recognition Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/guiding-through-windows-media-storage-woes-in-cam/"><u>Guiding Through Windows Media Storage Woes in Cam</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-ultimate-kids-camera-guide-top-11-easy-waterproof-options/"><u>In 2024, The Ultimate Kids' Camera Guide - Top 11 Easy, Waterproof Options</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-the-intel-unison-app-not-working-on-windows-11-heres-how-to-fix-it/"><u>Is the Intel Unison App Not Working on Windows 11? Here's How to Fix It</u></a></li>
+<li><a href="https://extra-information.techidaily.com/key-concepts-of-interactive-storytelling/"><u>Key Concepts of Interactive Storytelling</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-microphone-challenges-fixing-the-steelseries-arctis-7-headset-issue/"><u>Overcoming Microphone Challenges: Fixing the SteelSeries Arctis 7 Headset Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-dilemma-of-disrupted-device-use-by-other-software/"><u>Overcoming the Dilemma of Disrupted Device Use by Other Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/postponing-edges-tab-transition-on-windows-11/"><u>Postponing Edge's Tab Transition on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/proven-strategies-for-combining-diverse-windows-partitions/"><u>Proven Strategies for Combining Diverse Windows Partitions</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-mend-operation-0x0000011b-error-on-windows-11/"><u>Quick Guide to Mend Operation 0X0000011B Error on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-lost-wi-fi-connection-on-windows-11-devices/"><u>Restoring Lost Wi-Fi Connection on Windows 11 Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-making-your-cursor-stand-out-in-windows-11/"><u>The Ultimate Guide to Making Your Cursor Stand Out in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-ais-appeal-to-digital-criminals/"><u>Understanding AI's Appeal to Digital Criminals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-top-5-limitations-of-chatgpt-in-writing-careers/"><u>Unveiling the Top 5 Limitations of ChatGPT in Writing Careers</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-faces-issue-file-thumbnails-not-appearing/"><u>Windows 11 Faces Issue: File Thumbnails Not Appearing</u></a></li>
 </ul></div>
 

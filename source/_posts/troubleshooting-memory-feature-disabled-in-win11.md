@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Memory Feature Disabled in Win11
-date: 2024-09-05T02:08:03.214Z
-updated: 2024-09-06T02:08:03.214Z
+date: 2024-10-16T17:13:18.492Z
+updated: 2024-10-18T20:57:59.575Z
 tags:
   - windows10
   - windows11
@@ -28,11 +28,25 @@ thumbnail: https://thmb.techidaily.com/397bec7e1ac564d870578f8e53b0d9b1f4434dbf6
 
  As you apply each fix listed below, go to the Windows Security app and try enabling memory integrity again. It will help you identify what was causing the problem and fix it quickly without going through unnecessary fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Identify and Fix Driver Issues
 
  In most cases, the primary cause of the problem under discussion is outdated or incompatible drivers, so let's start by checking your drivers. To begin with, uninstall any third-party drivers you installed recently. After that, open the **Windows Security** app, click on the **Device security** tab from the left sidebar, and click on **Core isolation details**.
 
 ![Clicking on the Core Isolation Details Option in the Device Security Tab of Windows Security App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Clicking-on-the-Core-Isolation-Details-Option-in-the-Device-Security-Tab-of-Windows-Security-App.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Here, enable Memory integrity. If you encounter an error saying, **"Resolve any driver incompatibilities and scan again,"** click on the **Review incompatible drivers** link.
 
@@ -48,9 +62,25 @@ thumbnail: https://thmb.techidaily.com/397bec7e1ac564d870578f8e53b0d9b1f4434dbf6
 2. Go to the **View** tab and click **Show hidden devices**.  
 ![Clicking on the Show Hidden Devices Option in the View Tab Dropdown Menu Of Windows Device Manager App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/4-Clicking-on-the-Show-Hidden-Devices-Option-in-the-View-Tab-Dropdown-Menu-Of-Windows-Device-Manager-App.jpg)
 3. Look for the device that has a yellow triangle on it with an exclamation mark inside it or the driver(s) with problems indicated by the Memory integrity.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Right-click on that device and select **Update driver**.  
 ![Clicking on the Update Driver Option by Right-clicking on the Incompatible Driver in Windows Device Manager App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/5-Clicking-on-the-Update-Driver-Option-by-Right-clicking-on-the-Incompatible-Driver-in-Windows-Device-Manager-App.jpg)
 5. If updating the driver does not solve the problem, right-click it and select **Properties**.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Under the **General** tab, read the message in the **Device status** box.  
 ![Checking the Message in the Device Status Box Under the General Tab of Properties Window of Driver in Windows Device Manager App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/6-Checking-the-Message-in-the-Device-Status-Box-Under-the-General-Tab-of-Properties-Window-of-Driver-in-Windows-Device-Manager-App.jpg)
 7. Take note of the error code and visit the [official Microsoft Support documentation](https://support.microsoft.com/en-us/topic/error-codes-in-device-manager-in-windows-524e9e89-4dee-8883-0afa-6bca0456324e) where all Device Manager-related errors are listed.
@@ -73,22 +103,18 @@ thumbnail: https://thmb.techidaily.com/397bec7e1ac564d870578f8e53b0d9b1f4434dbf6
 6. Once they have been located, uncheck the box to disable them.  
 ![Unchecking the Box for the Incompatible Driver in the Drivers Tab of Autoruns App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/8-Unchecking-the-Box-for-the-Incompatible-Driver-in-the-Drivers-Tab-of-Autoruns-App.jpg)
 7. If any driver gives an error when disabling, right-click it and select **Delete**.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 8. Install the latest drivers from the official website or reboot your device to let Windows install them automatically.
 
  If you can't locate drivers identified as incompatible by Memory integrity before, the Autoruns app will facilitate finding and removing them.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Uninstall Relevant Apps
 
  If uninstalling the incompatible drivers does not work, you should uninstall the apps or software you installed from the same manufacturer as the drivers. Follow these steps to do that:
@@ -96,21 +122,17 @@ thumbnail: https://thmb.techidaily.com/397bec7e1ac564d870578f8e53b0d9b1f4434dbf6
 1. Right-click on the Windows **Start** button and select **Apps and Features**.  
 ![Clicking on the Apps and Features by Right-clicking on the Windows Start Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/9-Clicking-on-the-Apps-and-Features-by-Right-clicking-on-the-Windows-Start-Button.jpg)
 2. In the list of installed apps, locate the software from the same manufacturer.
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3. Upon finding them, click on the **three vertical dots** next to them and select **Uninstall**.  
 ![Clicking on the Uninstall Button After Clicking on the Three Vertical Dots Next to Software in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/10-Clicking-on-the-Uninstall-Button-After-Clicking-on-the-Three-Vertical-Dots-Next-to-Software-in-the-Windows-Settings-App.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Uninstalling the relevant apps from the same manufacturer should resolve the issue. If it does not, ensure it isn't a Windows Update issue.
 
 ## 4\. Fix Update-Related Issues
@@ -119,28 +141,10 @@ thumbnail: https://thmb.techidaily.com/397bec7e1ac564d870578f8e53b0d9b1f4434dbf6
 
 ![Check for Updates Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Check-for-Updates-Windows.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If they are paused, click **Resume updates** to let Windows update your system.
 
 ![Resuming Windows Update by Clicking on Resume Updates Button in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Image-4-Resuming-Windows-Update-by-Clicking-on-Resume-Button-in-Windows-Settings-App.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Moreover, if you've encountered a problem after installing an update recently, you should uninstall it. Our guide on [uninstalling updates in Windows 10 and 11](https://www.makeuseof.com/manually-uninstall-windows-10-updates/) explains how to do it. If pending or recently installed updates are not to blame, apply the next fix.
 
 ## 5\. Fix Corrupt System Files
@@ -151,13 +155,14 @@ thumbnail: https://thmb.techidaily.com/397bec7e1ac564d870578f8e53b0d9b1f4434dbf6
 
 ![The System File Checker command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/sfc-scannow-command-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once the scan is complete, refer to our guide on repairing corrupt system files with Windows built-in tools so you can properly analyze the results.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Reset the Windows Security App
 
@@ -180,6 +185,13 @@ thumbnail: https://thmb.techidaily.com/397bec7e1ac564d870578f8e53b0d9b1f4434dbf6
 4. Enter **"1"** under **Value data** if it is not already there.  
 ![Tweaking a Key Related to Memory Integrity in Windows Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tweaking-a-key-realted-to-memory-integrity-in-windows-registry-editor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Misconfiguring keys in the Registry Editor can have unintended consequences. If you are unfamiliar with tweaking the registry, you can skip this step.
 
 ## Turn On the Memory Integrity Feature Again
@@ -188,11 +200,30 @@ thumbnail: https://thmb.techidaily.com/397bec7e1ac564d870578f8e53b0d9b1f4434dbf6
 
  But what causes this feature to be grayed out? In this article, we'll discuss why you cannot turn on this feature and how to identify and fix the underlying problem.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unlocking-full-potential-with-facebook-interaction/"><u>[Updated] 2024 Approved Unlocking Full Potential with Facebook Interaction</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ing-a-signature-look-starting-with-self-reflection-for-2024/"><u>Crafting a Signature Look Starting with Self-Reflection for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-activatedeactivate-your-computers-touch-keyboard-on-windows-10-systems/"><u>Easy Steps: Activate/Deactivate Your Computer’s Touch Keyboard on Windows 10 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-code-0x0000004e-hiccups/"><u>Fixing Windows' Code 0X0000004E Hiccups</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-obscurity-back-to-the-desktop-restoring-deleted-files-on-windows/"><u>From Obscurity Back To the Desktop: Restoring Deleted Files on Windows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-all-you-need-to-know-about-the-youtube-shorts-fund/"><u>In 2024, All You Need to Know About the YouTube Shorts Fund</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-expanding-reach-fb-live-on-broadcast-networks/"><u>In 2024, Expanding Reach FB Live on Broadcast Networks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-complete-ios-manual-for-instagram-savings/"><u>In 2024, The Complete iOS Manual for Instagram Savings</u></a></li>
+<li><a href="https://windows11.techidaily.com/mitigating-high-tiworkerexe-cpu-load-in-os/"><u>Mitigating High TiWorker.exe CPU Load in OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-the-admin-labyrinth-of-windows/"><u>Navigating Through the Admin Labyrinth of Windows</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-how-to-edit-memoji-on-android-and-iphone/"><u>New How to Edit Memoji on Android and iPhone</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-steps-for-restarting-windows-apps/"><u>Quick Steps for Restarting Windows Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/simple-steps-to-activate-classic-photo-viewer-in-modern-windows-1111/"><u>Simple Steps to Activate Classic Photo Viewer in Modern Windows 11/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-premium-windows-laptops-of-year-2024/"><u>Unveiling the Premium Windows Laptops of Year 2024</u></a></li>
+</ul></div>
+

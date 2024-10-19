@@ -1,7 +1,7 @@
 ---
 title: "Quick Tips: How to Overcome Restricted File Viewers in Windows"
-date: 2024-09-05T02:08:03.670Z
-updated: 2024-09-06T02:08:03.670Z
+date: 2024-10-15T22:18:27.987Z
+updated: 2024-10-18T18:38:55.940Z
 tags:
   - windows10
   - windows11
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  After making these changes, try viewing the photos again and checking if the error has been resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Take Ownership of the Folder
 
  If granting full control permissions does not work, take ownership of the folder to get more control. Taking ownership means you can manage, access, and delete files within it. Here's how to do it:
@@ -51,22 +58,18 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 5. In the dialog box, type **Everyone** and click **Check Names**.  
 ![Enter the object name to select user](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/enter-the-object-name-to-select-user.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. If it seems correct, click **OK**.
 2. Check the box next to **Replace owner on subcontainers and objects**.  
 ![Take Ownership of the Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/take-ownership-of-the-folder.jpg)
 3. Now click Apply. A pop-up appears and asks you to confirm the ownership change.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Click **Yes** and wait for the process to finish.
 5. Once done, click **OK** and close the window.
 
@@ -84,60 +87,36 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 5. Under the **Reset** section, click the **Reset** button.  
 ![Reset Microsoft Photos App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/reset-microsoft-photos-app.jpg)
 6. If a pop-up appears, click **Reset** again to confirm your action.
+
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After that, try to open photos on your external hard drive.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Disable UAC Temporarily
 
  You may often find that you don’t have enough permissions to perform specific tasks. In such cases, [disabling UAC](https://www.makeuseof.com/windows-11-disable-user-account-control-prompt/) may do the trick. So, disable it temporarily and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Run the Program Compatibility Troubleshooter
 
  If you're still encountering the error, try [running the Program Compatibility Troubleshooter](http://www.makeuseof.com/run-program-compatibility-troubleshooter-windows/). This tool scans for compatibility issues with installed programs and solves them automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Open Files Without a Problem Again on Windows
 
  If you have the proper permissions, you should not encounter the "you don’t have permission to view this file” message. However, if you run into this issue, read this guide to resolve it quickly. Make sure you grant all permissions and take ownership of the folder.
 
  In this article, we explain how to fix this error, so you can view your photos again.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -145,3 +124,22 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-harmonizing-with-the-best-15-premier-sound-assistants-to-enhance-your-discord-audio/"><u>[Updated] 2024 Approved Harmonizing with the Best 15 Premier Sound Assistants to Enhance Your Discord Audio</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-easy-steps-to-capture-iphone-screens-seamlessly/"><u>[Updated] In 2024, Easy Steps to Capture iPhone Screens Seamlessly</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-launchpad-to-success-establishing-your-own-food-flavor-blogchannel/"><u>[Updated] Launchpad to Success Establishing Your Own Food Flavor Blog/Channel</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-streamsavvy-exploring-alternatives-to-dacast/"><u>2024 Approved StreamSavvy Exploring Alternatives to DaCast</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-8-visual-boosts-for-online-broadcasts/"><u>Advanced 8 Visual Boosts for Online Broadcasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-immediately-stop-windows-iomap64-bsod/"><u>How To Immediately Stop Windows IOMap64 BSOD</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-startup-routine-creating-shortcuts-near-power-button-for-win11/"><u>Optimizing Startup Routine: Creating Shortcuts Near Power Button for Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-winrar-summation-errors-a-sixfold-approach/"><u>Rectifying WinRAR Summation Errors: A Sixfold Approach</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-printer-errors-on-your-pdf-document-now/"><u>Resolve Printer Errors on Your PDF Document Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-tackling-windows-application-issues-with-7-solutions/"><u>Swiftly Tackling Windows Application Issues with 7 Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-connect-now-message-in-windows-bluetooth/"><u>Troubleshooting Connect Now Message in Windows Bluetooth</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-unresponsive-shutdown-in-windows-11-devices/"><u>Troubleshooting Tips for Unresponsive Shutdown in Windows 11 Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-samsung-galaxy-s23plus-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Samsung Galaxy S23+ without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-screen-spacing-simplified-and-smoothed/"><u>Win11: Screen Spacing Simplified and Smoothed</u></a></li>
+</ul></div>
+

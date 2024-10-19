@@ -1,7 +1,7 @@
 ---
 title: Solutions to Windows Admin-Managed Security Issues
-date: 2024-09-05T02:08:04.817Z
-updated: 2024-09-06T02:08:04.817Z
+date: 2024-10-14T00:21:50.393Z
+updated: 2024-10-18T21:12:15.943Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/e43b0bc66a6afa452744238286fc0843b9dfd431d
 
  If you're not sure how to do this, visit[how to install Windows 11 updates](https://www.makeuseof.com/windows-11-install-updates/) for a step-by-step guide.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Reset the Windows Security and Settings Apps
 
  Users who’ve fixed the “setting is managed by your administrator” error have confirmed resetting the Windows Security and Settings apps can work. Resetting those apps will clear their data. You can reset Windows Security via Settings, as outlined in our[how to reset apps on Windows](https://www.makeuseof.com/windows-reset-app/) guide.
@@ -34,30 +41,12 @@ thumbnail: https://thmb.techidaily.com/e43b0bc66a6afa452744238286fc0843b9dfd431d
 
  To reset Settings, you must open the Start menu and right-click the app’s shortcut. Select**App settings** to bring up some troubleshooting options for it. Then select the**Reset** troubleshooting option for the app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Uninstall Third-Party Antivirus Software
 
  Some third-party antivirus utilities can disable Windows Security features they effectively replace. If you’ve installed an overlapping third-party antivirus product, uninstalling it may resolve Windows Security’s administrator error. Uninstall antivirus software with a method within our guide on[how to remove Windows programs](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/) to see if that resolves the issue.
 
 ![The uninstaller tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-uninstaller-tool.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Should this solution work, the issue will likely reoccur if you reinstall the same third-party antivirus virus software. Then you would have to choose between using the third-party antivirus utility or Windows Security.
 
 ## 4\. Edit the Registry
@@ -71,21 +60,23 @@ thumbnail: https://thmb.techidaily.com/e43b0bc66a6afa452744238286fc0843b9dfd431d
 4. Then double-click the**Enabled** DWORD within the**HypervisorEnforcedCodeIntegrity** key.  
 ![The HypervisorEnforced registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-hypervisor-key.jpg)
 5. Clear the**Data value** box, and then input**0** there.
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Select**OK** to set the**Enabled** DWORD’s value.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-dword-window.jpg)
 7. Exit Registry Editor and click the**Power** \>**Restart** Start menu options.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Set Group Policy’s Real-time Protection Settings to "Not Configured"
 
@@ -101,20 +92,23 @@ thumbnail: https://thmb.techidaily.com/e43b0bc66a6afa452744238286fc0843b9dfd431d
 7. Then select the**Not configured radio** button.  
 ![The Not Configured radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/not-configured-option.jpg)
 8. Click**Apply** \>**OK** in the window to set the change.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 9. Repeat the previous three steps for all real-time protection policies set to enabled.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Reinstall Windows Security
 
  You can’t reinstall Windows Security by uninstalling that app via Settings and downloading it from Microsoft Store. However, you can run a more general PowerShell command that reinstalls all apps pre-installed with Windows 11\. Try reinstalling Windows Security with that command as follows:
@@ -135,22 +129,24 @@ thumbnail: https://thmb.techidaily.com/e43b0bc66a6afa452744238286fc0843b9dfd431d
 3. Click**setup.exe** to open the Windows 11 installer.  
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-setup-window.jpg)
 4. Select**Next** to initiate a system check.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Press the**Accept** button for the license terms.
 6. The**Keep personal files and apps** option will probably be set by default at the ready-to-install stage. However, you click**Change what to keep** to make sure the**Keep personal files and apps** option is selected.  
 ![The Keep personal files and apps radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/keep-personal-files-option.jpg)
 7. Then select**Next** to proceed to the last step.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Click**Install** to reinstall Windows 11.
 
 ## Change Windows Security’s Settings Again
@@ -163,8 +159,6 @@ thumbnail: https://thmb.techidaily.com/e43b0bc66a6afa452744238286fc0843b9dfd431d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +166,26 @@ thumbnail: https://thmb.techidaily.com/e43b0bc66a6afa452744238286fc0843b9dfd431d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-analyzing-the-full-range-of-obs-studios-capabilities/"><u>[New] In 2024, Analyzing the Full Range of OBS Studio's Capabilities</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-best-8-free-4k-video-player-software-for-windows-pcandmac/"><u>[Updated] 2024 Approved Best 8 Free 4K Video Player Software for Windows PC&Mac</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-expanding-your-instagram-video-footprint-practical-tips/"><u>[Updated] In 2024, Expanding Your Instagram Video Footprint Practical Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-itel-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/come-comprimere-i-file-mp4-mantenendo-lottimo-livello-di-qualita-una-guida-essenziale-alla-compressione-effettiva-e-allottimizzazione-dei-video/"><u>Come Comprimere I File MP4 Mantenendo L'ottimo Livello Di Qualità: Una Guida Essenziale Alla Compressione Effettiva E All'ottimizzazione Dei Video</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-unsynchronized-file-uploads-in-chrome-win-edition/"><u>Fix Unsynchronized File Uploads in Chrome, Win Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-your-teammers-disconnected-screens/"><u>Fix Your Teammers’ Disconnected Screens</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-balancing-act-watching-multiple-videos-on-one-screen/"><u>In 2024, Balancing Act Watching Multiple Videos on One Screen</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-the-complete-roadmap-to-online-tiktok-streaming-from-desktop/"><u>In 2024, The Complete Roadmap to Online TikTok Streaming From Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-mouse-drivers-for-efficient-windows-use/"><u>Mastering Mouse Drivers for Efficient Windows Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-onedrive-files-on-pc-without-internet/"><u>Mastering OneDrive Files on PC without Internet</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-admin-controlled-feature-malfunctions-on-windows-11/"><u>Overcoming Admin Controlled Feature Malfunctions on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/speedy-windows-discord-cutting-down-latency-issues/"><u>Speedy Windows Discord: Cutting Down Latency Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-installation-error-with-oculus-on-w11w10/"><u>Tackling Installation Error with Oculus on W11/W10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-definitive-breakdown-of-the-502-bad-gateway-problem-and-fixing-it-quickly/"><u>The Definitive Breakdown of the 502 Bad Gateway Problem and Fixing It Quickly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-asus-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Asus Phones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-resolving-a-502-bad-gateway-mistake-on-your-site/"><u>Troubleshooting and Resolving a 502 Bad Gateway Mistake on Your Site</u></a></li>
+<li><a href="https://windows11.techidaily.com/tweaking-taskbar-width-in-win11/"><u>Tweaking Taskbar Width in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-global-communication-navigating-languages-with-shortcuts-on-windows/"><u>Unlock Global Communication: Navigating Languages with Shortcuts on Windows</u></a></li>
+</ul></div>
 

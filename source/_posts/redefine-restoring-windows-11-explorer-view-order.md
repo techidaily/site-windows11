@@ -1,7 +1,7 @@
 ---
 title: "Redefine: Restoring Windows 11 Explorer View Order"
-date: 2024-09-05T02:08:03.366Z
-updated: 2024-09-06T02:08:03.366Z
+date: 2024-10-14T19:18:19.916Z
+updated: 2024-10-18T20:21:00.030Z
 tags:
   - windows10
   - windows11
@@ -55,15 +55,17 @@ start explorer.exe`
 6. Now select**All Files** in the Save as type menu, and add**.bat** to the end of the file’s name.  
 ![Run a Batch File to Reset Folder View Settings to Default](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/run-a-batch-file-to-reset-folder-view-settings-to-default.jpg)
 7. From the left pane, select**Desktop** as the location.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Then click**Save** and close the text editor window.
 9. Finally, double-click the batch file you created, and it will reset your Folder View Settings to the default view.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Reset Folder View Settings to Default via File Explorer
 
  If you only need to reset the View Settings of all folders of the same type, this method is for you. Here's what you have to do:
@@ -72,22 +74,17 @@ start explorer.exe`
 2. Now, select the**View** tab in the top bar and tap on**Reset Folders** .  
 ![Reset Folder View Settings to Default Via File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-folder-view-settings-to-default-via-file-explorer.jpg)
 3. Click**Yes** when prompted to confirm your action.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Finally, hit**OK** and the window will close.
 
  This will reset your Folder View Settings to Windows' default settings.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Reset Folder View Settings to Default Using Registry Editor
 
  The last method to reset Folder View settings involves using the Windows Registry Editor. You should only use this method if you are an experienced user and know how it works, since messing with its keys could cause serious problems. To avoid data loss, you must[create a registry backup](https://www.makeuseof.com/tag/backup-restore-windows-registry/) before continuing.
@@ -101,40 +98,34 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\She
 4. In the left sidebar, right-click on the**BagMRU** folder and select**Delete.**  
 ![Reset Folder View Settings to Default Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-folder-view-settings-to-default-using-registry-editor.jpg)
 5. Click**Yes** when asked to confirm your action.
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. Similarly, delete the**Bags** folder and close the Registry window.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Reset Folder View Settings to Default
 
  Folder View on Windows allows users to customize their view of files and folders. This includes settings such as the file size information, restoring the previous folder when logging in, and automatically entering words when searching.
 
  However, if you have changed the View settings, this guide will help you reset Folder Options to its default.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -143,4 +134,20 @@ HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\She
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-how-to-quietly-dismiss-youtube-video-teasers/"><u>[New] In 2024, How to Quietly Dismiss YouTube Video Teasers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-depth-evaluation-of-clipcreator-editor-updated/"><u>[New] In-Depth Evaluation of ClipCreator Editor - Updated</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-maximize-your-youtube-income-with-effective-mobile-device-strategies/"><u>[Updated] Maximize Your YouTube Income with Effective Mobile Device Strategies</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-guide-to-non-time-restricted-recorders/"><u>[Updated] Ultimate Guide to Non-Time Restricted Recorders</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-expert-advice-on-creating-impactful-hdr-portraits/"><u>2024 Approved Expert Advice on Creating Impactful HDR Portraits</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-angle-adjustment-a-step-by-step-editing-guide/"><u>2024 Approved Youtube Angle Adjustment A Step-by-Step Editing Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-why-the-samsung-galaxy-tab-sn-is-a-top-choice-for-mid-range-tablet-seekers/"><u>Comprehensive Review: Why the Samsung Galaxy Tab Sn Is a Top Choice for Mid-Range Tablet Seekers</u></a></li>
+<li><a href="https://windows11.techidaily.com/guidelines-to-reinvigorate-stuck-desktop-bar/"><u>Guidelines to Reinvigorate Stuck Desktop Bar</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-strategies-top-tips-for-maximizing-wsl-2-performance/"><u>Key Strategies: Top Tips for Maximizing WSL 2 Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/leap-forward-in-workflow-mastering-window-redos-shortcuts/"><u>Leap Forward in Workflow: Mastering Window Redos Shortcuts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp3-to-webm-transformation-easy-fast-and-free-with-movavis-online-tool/"><u>MP3 to WebM Transformation - Easy, Fast & Free with Movavi's Online Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-the-virtualupgrade-virtualbox-70-for-new-windows-11-users/"><u>Navigate the VirtualUpgrade: VirtualBox 7.0 for New Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/sustaining-operational-diagnostics-in-modern-windows/"><u>Sustaining Operational Diagnostics in Modern Windows</u></a></li>
+</ul></div>
 

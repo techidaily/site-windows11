@@ -1,7 +1,7 @@
 ---
 title: Guidelines for Reviving Stalled Windows 11 Menus
-date: 2024-09-05T02:08:03.941Z
-updated: 2024-09-06T02:08:03.941Z
+date: 2024-10-15T03:54:45.046Z
+updated: 2024-10-19T00:18:01.667Z
 tags:
   - windows10
   - windows11
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
  File Explorer handles the right-click context menu on the Windows desktop. Users confirm that refreshing File Explorer can sometimes fix the context menu when it’s not working. Our article about [how to restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) explains how to apply this potential resolution with Task Manager.
 
 ![The Windows Explorer process](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-explorer-process.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Scan Your PC With System File Checker and Deployment Image Servicing Management
 
@@ -50,16 +57,26 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 4. Double-click **Administrative Templates** \> **Windows Components** to expand those navigation options.  
 ![Windows Components in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/group-policy-editor.jpg)
 5. Then click **File Explorer** to view its policy settings.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. Double-click on the **Remove File Explorer’s default context menu** option.
 7. Select the policy’s **Not Configured** radio button.  
 ![The Not Configured radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/not-configured-radio-button.jpg)
 8. Click **Apply** to set the policy change.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Select **OK** to exit the Remove File Explorer’s default context menu window.
 
 ## 5\. Create a NoViewContextMenu Registry DWORD
@@ -75,12 +92,6 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 4. Click **DWORD (32-bit) Value** on the submenu.  
 ![The New > DWORD options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-new-key-options2.jpg)
 5. Type **NoViewContextMenu** in the text box for the DWORD.
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. The **NoViewContextMenu** DWORD will probably be set to 0 by default when you create it. However, double-click the **NoViewContextMenu** just to check its value.  
 ![The Edit DWORD (32-bit) Value window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/edit-dword-window.jpg)
 7. Set the **NoViewContextMenu** value to **0** in the **data** box if it’s not already and click **OK**.
@@ -94,40 +105,18 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 2. Now delete all subkeys within the **ContextMenuHandlers** key except **New**, **Sharing**, **WorkFolders**, and **FileSyncEx**. To do so, right-click a subkey and select **Delete**.  
 ![The Delete registry key option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-delete-option.jpg)
 3. Click **Yes** when prompted to provide confirmation.
+
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Repeat the previous two steps to erase the other subkeys in **ContextMenuHandlers**, but do not delete **WorkFolders**, **FileSyncEx**, **New**, and **Sharing**.  
 ![The ContextMenuHandlers key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/contextmenuhandlers-key.jpg)
 5. Exit Registry Editor and select to restart your Windows PC.
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Update Your Mouse’s Driver
 
  The mouse is the peripheral with which users activate the context menu. Although not an especially likely cause, it’s possible your context menu isn’t working because your mouse’s driver is faulty or outdated. So, try updating the driver for your mouse. We have a guide about [finding and replacing old device drivers](https://www.makeuseof.com/tag/find-replace-outdated-windows-drivers/) that provides details for how you can apply this potential fix.
@@ -136,12 +125,6 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 
  Incidentally, you check if the context menu not working is a mouse issue by utilizing the hotkey for that menu. Try pressing the **Shift** \+ **F10** hotkey when on the desktop to see if that opens the context menu. Or select a desktop shortcut and press that keyboard shortcut. If the context menu works then, there could be an issue with your mouse or its right button.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Perform a Clean Boot
 
  A conflicting third-party program might be crashing your context menu. For example, mouse managers or software packages with right-click shell extensions could be causing context menu issues. For example, Google Drive, WinZip, and 7-Zip are software packages that add right-click shell extensions.
@@ -162,29 +145,33 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 4. Select **Install** to add the software with default installation settings.  
 ![The Install option for CCleaner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-install-button.jpg)
 5. Open CCleaner and click its **Tools** tab.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. Click the **Startup** and **Context Menu** tabs.
 7. Look at the Program column to identify third-party shell extensions listed there.  
 ![The Context Menu tab in CCleaner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-context-menu-tab-in-cccleaner.jpg)
 8. Select third-party shell extensions and click **Disable** to turn them off.
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Get the Desktop Context Menu Fixed With These Resolutions
 
  The troubleshooting methods above are quite thorough and will likely resolve most Windows context menu issues. Lots of users have been able to fix the context menu not working by applying the registry tweak solutions.
@@ -193,11 +180,30 @@ thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98
 
  Although desktop context menu access is seldom essential, it offers handy shortcuts, especially when you've customized it. So, it’s important to fix the desktop context menu when it’s not working. If your Windows desktop context menu isn’t functioning right, try applying the troubleshooting methods below.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-perfect-playtime-toy-cars-and-games/"><u>[New] 2024 Approved Perfect Playtime Toy Cars & Games</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-a-deep-dive-into-ffmpeg-for-authentic-unaltered-audio-extraction/"><u>[New] In 2024, A Deep Dive Into FFmpeg for Authentic, Unaltered Audio Extraction</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-apple-musics-role-in-professional-video-production/"><u>[Updated] 2024 Approved Apple Music's Role in Professional Video Production</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-the-ultimate-encyclopedia-to-youtube-thumbnail-mastery/"><u>2024 Approved The Ultimate Encyclopedia to YouTube Thumbnail Mastery</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/accelerate-your-tunes-top-phone-apps-reviewed-for-2024/"><u>Accelerate Your Tunes Top Phone Apps Reviewed for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/boost-your-sites-performance-using-cutting-edge-behavioral-analytics-tools/"><u>Boost Your Site's Performance Using Cutting-Edge Behavioral Analytics Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/conversao-sem-custo-de-gifs-para-filmes-mpeg-online-via-movavi/"><u>Conversão Sem Custo De GIFs Para Filmes MPEG Online via Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/faster-printouts-with-easy-windows-troubleshooting/"><u>Faster Printouts with Easy WIndows Troubleshooting</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-stalled-windows-outlook-conditional-rules/"><u>Fixing Stalled Windows Outlook Conditional Rules</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/guia-paso-a-paso-para-la-sincronizacion-de-archivos-en-tiempo-real-con-windows-11/"><u>Guía Paso a Paso Para La Sincronización De Archivos en Tiempo Real Con Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-a-device-which-does-not-exist-was-specified-error-in-windows-10-and-11/"><u>How to Fix the “A Device Which Does Not Exist Was Specified” Error in Windows 10 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/learn-to-circumvent-windows-11-lock-without-fuss/"><u>Learn to Circumvent Windows 11 Lock Without Fuss</u></a></li>
+<li><a href="https://windows11.techidaily.com/new-era-of-productivity-microsofts-ai-integration-in-windows-11-taskbar/"><u>New Era of Productivity: Microsoft's AI Integration in Windows 11 Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-a-smooth-setup-for-microsoft-works-in-w11/"><u>Securing a Smooth Setup for Microsoft Works in W11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/swift-snapshots-on-the-social-network/"><u>Swift Snapshots on the Social Network</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-7-windows-cryptography-tools-under-156-chars/"><u>Top 7 Windows Cryptography Tools (Under 156 Chars)</u></a></li>
+</ul></div>
+

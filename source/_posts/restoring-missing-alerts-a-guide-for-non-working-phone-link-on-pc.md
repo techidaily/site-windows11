@@ -1,7 +1,7 @@
 ---
 title: "Restoring Missing Alerts: A Guide for Non-Working Phone Link on PC"
-date: 2024-09-05T02:09:17.678Z
-updated: 2024-09-06T02:09:17.678Z
+date: 2024-10-12T02:15:35.634Z
+updated: 2024-10-18T23:03:34.199Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 6. Check the boxes that read**Show notification banners** and**Show notifications in notification center** .  
 ![Enable Notifications for Phone Link on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-notifications-for-phone-link-on-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check In-App Notification Settings
 
  The Phone Link app allows you to choose which notifications from your phone appear on your PC. You need to review Phone Link’s in-app settings and ensure that notifications for calls, messages, or other apps are not disabled.
@@ -44,9 +51,23 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 4. Under**Notifications** , enable all the toggles.  
 ![Phone Link In-App Notification Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/phone-link-in-app-notification-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If Phone Link is failing to show notifications from a specific app, click**Choose which apps I get notifications from** and enable alerts for that app.
 
 ![Configure Phone Link Notifications](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/configure-phone-link-notifications.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Allow Phone Link App to Run in the Background
 
@@ -64,18 +85,6 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 
  Is the background app permission options missing from the Settings app? Here's[how to restore a missing background apps permission option in Windows](https://www.makeuseof.com/windows-11-restore-background-apps-permissions/) .
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable Battery Saver Mode
 
  Enabling the battery-saver mode on Windows can extend the battery life of your laptop by a few extra hours. However, this feature can also prevent apps like Phone Link from syncing data and displaying notifications. To avoid such issues, it’s best to disable the battery-saver mode on Windows.
@@ -88,14 +97,15 @@ thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a3
 4. Click the**Turn off now** button.  
 ![Turn Off Battery Saver in Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/turn-off-battery-saver-in-windows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It's worth noting that Windows might activate the battery saver mode automatically if the battery level falls below 20 percent. To prevent this, keep your laptop connected to a power source while using the Phone Link app.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Disable Do Not Disturb Mode
 
  If Do Not Disturb is active on your Windows computer, you won’t receive notifications from any apps or programs, including Phone Link. Hence, it's best to turn off Do Not Disturb on Windows.
@@ -117,23 +127,18 @@ To disable the Do Not Disturb mode, use these steps:
 3. In the**My Devices** tab, click the three-dot menu icon next to your phone and select**Remove** .  
 ![Unlink Device From Phone Link App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/unlink-device-from-phone-link-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Restart the Phone Link app and follow the on-screen instructions to pair your device again. After that, check if your notifications work.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030375/7443" target="_top" id="2030375">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030375/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Try Generic Fixes for Windows Apps
 
  There are a few tricks you can try to fix the Phone Link app that also works with any other Windows app.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Repair or Reset the App
 
@@ -141,36 +146,21 @@ To disable the Do Not Disturb mode, use these steps:
 
  Another thing you can do is reset the Phone Link app to its default state. However, this process will remove all the app data, so you will have to set up the Phone Link app again. For more information on this, refer to our guide on[how to reset an app on Windows](https://www.makeuseof.com/windows-reset-app/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Update the App
 
  Using an outdated version of the Phone Link app can lead to compatibility issues at times. Also, if the app version you are using is buggy, notifications may stop working. Hence, it's a good idea to ensure that you're using the latest version of the app. If you need help with the same, check our guide on[how to update apps on Windows](https://www.makeuseof.com/update-apps-windows-11/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixing Phone Link App Notifications Not Working on Windows
 
  Such notification issues with the Phone Link app should not cause you to miss important calls, messages, and other alerts. Go through the above-mentioned tips one by one to get the Phone Link app notifications working on Windows.
 
  Do you use Phone Link only to stay on top of your phone notifications? There are several other apps, such as Intel Unison, Pushbullet, and AirDroid that let you view your phone notifications on Windows.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -179,4 +169,24 @@ To disable the Do Not Disturb mode, use these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-leading-streaming-tools-for-online-video-games-for-2024/"><u>[New] Leading Streaming Tools for Online Video Games for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-cameras-to-capture-slow-motion-videos/"><u>[Updated] Best Cameras to Capture Slow Motion Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-which-live-streaming-software-is-top-notch-wirecast-or-obs-for-2024/"><u>[Updated] Which Live Streaming Software Is Top-Notch Wirecast or OBS for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/double-click-magic-apks-in-windows-11/"><u>Double-Click Magic: APKs in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-arrow-navigation-post-fixes/"><u>Effortless Arrow Navigation Post-Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-the-shrinkage-your-guide-to-a-stable-window/"><u>Eliminate the Shrinkage: Your Guide to a Stable Window</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-effortless-cross-platform-file-exchange/"><u>Enabling Effortless Cross-Platform File Exchange</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-printer-functionality-in-windows-11-today/"><u>Enhance Printer Functionality in Windows 11 Today</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-view-remove-windows-overscan-effects/"><u>Enhance Your View: Remove Windows Overscan Effects</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-workflow-with-a-customized-windows-outlook-schedule/"><u>Enhance Your Workflow with a Customized Windows Outlook Schedule</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensuring-continuous-access-to-your-digital-post-its/"><u>Ensuring Continuous Access to Your Digital Post-Its</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-crackling-sound-from-speakers-on-windows-11-and-7-problem-solved/"><u>Fixing Crackling Sound From Speakers on Windows 11 & 7 - Problem Solved!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pureimages-backdrop-refinement-feature/"><u>In 2024, PureImage's Backdrop Refinement Feature</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-analysis-nero-vs-movavi-the-ultimate-video-editing-showdown/"><u>In-Depth Analysis: Nero Vs. Movavi - The Ultimate Video Editing Showdown</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-your-way-in-graphic-design-careers/"><u>Navigating Your Way in Graphic Design Careers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/visual-tale-telling-for-the-small-screen-vertical-ig-videos-with-fcpx-for-2024/"><u>Visual Tale-Telling for the Small Screen Vertical IG Videos with FCPX for 2024</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/1728463309721-windows-1110/"><u>Windows 11/10用：簡単な手順で失われたファイルを見つける方法</u></a></li>
+</ul></div>
 

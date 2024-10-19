@@ -1,7 +1,7 @@
 ---
 title: Simplifying Sound Management in Windows 11
-date: 2024-09-05T02:08:03.886Z
-updated: 2024-09-06T02:08:03.886Z
+date: 2024-10-13T20:17:13.099Z
+updated: 2024-10-18T22:01:08.353Z
 tags:
   - windows10
   - windows11
@@ -26,54 +26,58 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
 
  Now click**OK** or hit Enter on your keyboard. You will see the Volume Mixer window where you can adjust individual programs' volume.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Use Taskbar Volume Icon
 
  Notification Center is another way to access Volume Mixer in Windows 11\. To do this, right-click the volume icon in the bottom right corner of your taskbar and choose**Open volume mixer** .
 
 ![Open Volume Mixer Using the Taskbar Volume Icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-volume-mixer-using-the-taskbar-volume-icon.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This will open the Volume Mixer window where you can control the volume levels of different applications and adjust their output devices.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030370/7443" target="_top" id="2030370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Use the Control Panel
 
  Along with the above two methods, you can also launch the Volume Mixer directly from the Control Panel. This program lets you control the volume levels independently for each application running on your computer.
 
 ![Open Volume Mixer Using the Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-volume-mixer-using-the-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To access it,[open the Control Panel](https://www.makeuseof.com/windows-11-open-control-panel/) , select**Hardware and Sound** , and then click**Adjust system volume** under the**Sound** section.
 
 ![Volume Mixer in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/volume-mixer-in-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In order to change the volume of a specific application, click on its icon and drag the slider. To mute a specific application, click on the speaker icon next to it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Use the Windows File Explorer
 
  Windows File Explorer has an address bar that allows you to reach almost all files or programs on your computer. To open Volume Mixer, type**sndvol.exe** into the address bar and press Enter. This will open the Volume Mixer instantly, and you can adjust each app's volume from here.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Use the Task Manager
 
  You can also open Volume Mixer using Task Manager. To do so, right-click on Taskbar and select**Task Manager** from the option list. You can also press**Ctrl + Shift + Esc** on your keyboard to open it instantly.
@@ -82,17 +86,18 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
 
  In the Task Manager window, click**Run new task** and type**sndvol.exe** in the Create new task window. Finally, click**OK** to launch Volume Mixer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Use the Command Prompt
 
  If you prefer using the command line over the graphical user interface, then this method is for you. To open Command prompt, click on Start, type “**cmd** ” in its search box, and select the result from the list.
 
 ![Open Volume Mixer Using Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-volume-mixer-using-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the Command Prompt window, type**sndvol.exe** , and hit Enter again. This will open Volume Mixer immediately, allowing you to adjust the volume of each application from there.
 
@@ -110,12 +115,6 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
 
 ![Open Volume Mixer By Creating a Desktop Shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/open-volume-mixer-by-creating-a-desktop-shortcut.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the shortcut window, type**sndvol.exe** in the text box, and click**Next** .
 
 ![Create Shortcut to open Volume Mixer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/create-shortcut-to-open-volume-mixer.jpg)
@@ -126,14 +125,11 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
 
  In this article, you will find eight ways to open Volume Mixer on your PC. It allows you to customize individual application volumes within Windows to meet your specific needs. Give them a shot and see which works best for you.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +138,20 @@ thumbnail: https://thmb.techidaily.com/f0eb15dbd4d3bc9550ae7ac5d466cfd7136ebba59
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-securing-the-best-presentation-of-subtitles-through-srt-uploads-for-2024/"><u>[New] Securing the Best Presentation of Subtitles Through SRT Uploads for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-gionee-f3-pro-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Gionee F3 Pro System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/decoding-unlisted-videos-a-deep-dive-into-youtube-secrecy/"><u>Decoding Unlisted Videos A Deep Dive Into YouTube Secrecy</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-latest-evga-graphics-cards-drivers-on-your-pc/"><u>Download & Update Latest EVGA Graphics Cards Drivers on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-audio-transformation-convert-your-mka-downloads-to-mp3-at-no-cost-movavis-expertise-guaranteed/"><u>Effortless Audio Transformation: Convert Your MKA Downloads to MP3 at No Cost - Movavi's Expertise Guaranteed</u></a></li>
+<li><a href="https://windows11.techidaily.com/keeping-calculator-top-displayed-in-windows/"><u>Keeping Calculator Top-Displayed in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-device-tracking-with-windows-live-tiles/"><u>Mastering Device Tracking with Windows Live Tiles</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-final-cut-pro-x-essentials-adding-and-customizing-titles-for-2024/"><u>New Final Cut Pro X Essentials Adding and Customizing Titles for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/reestablishing-active-slack-signals-in-windows-11/"><u>Reestablishing Active Slack Signals in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-up-microsofts-defender-on-edge-win-11-guide/"><u>Setting Up Microsoft's Defender on Edge: Win 11 Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-your-browsing-with-mouse-gestures-in-microsoft-edge/"><u>Streamline Your Browsing with Mouse Gestures in Microsoft Edge</u></a></li>
+<li><a href="https://windows11.techidaily.com/subtlety-shifts-concealing-win-11s-control/"><u>Subtlety Shifts: Concealing Win 11'S Control</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-refresh-3000-revolutionary-windows-rebooting/"><u>Tech Refresh 3000: Revolutionary Windows Rebooting</u></a></li>
+</ul></div>
 

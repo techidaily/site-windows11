@@ -1,7 +1,7 @@
 ---
 title: Preserving Default Time on Windows PCs
-date: 2024-09-29T17:09:02.306Z
-updated: 2024-10-01T20:19:34.058Z
+date: 2024-10-16T19:57:30.087Z
+updated: 2024-10-19T00:06:40.533Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
  For both methods, you need administrative access to the computer to change it. Once you’ve made the changes, nobody can alter the date and time settings. Let’s look at each method in more detail.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Use the Group Policy Editor
@@ -48,10 +48,10 @@ Computer Configuration > Administrative Templates > System > Locale Services
 5. In the pop-up window, check the **Enabled** radio button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Then click **Apply** \> **OK** to save the changes.
@@ -61,10 +61,10 @@ Computer Configuration > Administrative Templates > System > Locale Services
  If you want to revert to the default settings later, open Group Policy Editor again and change the value of Disallow user override of locale settings back to Not Configured or Disabled. This way, users can change the time and date again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Tweak the Registry Editor
@@ -86,16 +86,16 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Control Panel\International\
 ![Use Registry Editor to Prevent Users From Chaning date and time settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/use-registry-editor-to-prevent-users-from-chaning-date-and-time-settings.jpg)
 8. In the pop-up window, change the Value data to **1** and click **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’ve made the changes, close the Registry Editor window and restart your computer.
 
  To undo this restriction, delete the **PreventUserOverrides** DWORD value from the registry or change the value to **0**. Doing so will enable users to change the time and date again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Stop Windows Time and Date Changes
 
@@ -110,17 +110,18 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Control Panel\International\
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-elevate-your-engagement-with-real-time-tweets/"><u>[Updated] 2024 Approved Elevate Your Engagement with Real-Time Tweets</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-premier-12-screen-recording-solutions-uncapped-recording/"><u>[Updated] 2024 Approved Premier 12 Screen Recording Solutions - Uncapped Recording</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-springs-screen-recorder-unveiled-a-users-perspective/"><u>[Updated] Spring's Screen Recorder Unveiled A User's Perspective</u></a></li>
-<li><a href="https://windows11.techidaily.com/an-intuitive-guide-to-performing-a-windows-rollback-via-system-restore/"><u>An Intuitive Guide to Performing a Windows Rollback via System Restore</u></a></li>
-<li><a href="https://windows11.techidaily.com/decluttering-your-win11-desktop-wallpaper-symbol/"><u>Decluttering Your Win11 Desktop Wallpaper Symbol</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-snipping-tool-keyboard-failures-on-pc/"><u>Fixing Snipping Tool Keyboard Failures on PC</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y77t-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y77t? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-v27-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo V27 to Outlook | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-best-fast-photo-viewer-for-windows-10/"><u>In 2024, Top Best Fast Photo Viewer for Windows 10?</u></a></li>
-<li><a href="https://windows11.techidaily.com/precision-installation-microsoft-works-for-modern-windows/"><u>Precision Installation: Microsoft Works for Modern Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/taming-the-wild-waters-of-xbox-errors-in-win11/"><u>Taming the Wild Waters of Xbox Errors in Win11</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/verizon-takes-the-lead-in-enhancing-5g-connectivity-current-insights-revealed/"><u>Verizon Takes the Lead in Enhancing 5G Connectivity: Current Insights Revealed</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-5-ways-to-record-audio-on-windows-10/"><u>[New] 2024 Approved 5 Ways to Record Audio on Windows 10</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/xploring-youtube-shorts-a-beginners-guide-to-video-crafting-for-2024/"><u>[New] Exploring YouTube Shorts A Beginner's Guide to Video Crafting for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-legacy-linkup-software/"><u>[New] Legacy Linkup Software</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-merging-technology-and-commerce-through-vr-innovation/"><u>[Updated] Merging Technology & Commerce Through VR Innovation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-safeguarding-your-music-three-recording-approaches-for-2024/"><u>[Updated] Safeguarding Your Music Three Recording Approaches for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-videos-to-mpeg-free-of-cost-easy-guide-on-using-our-top-ranked-mp4-to-mpeg-software/"><u>Convert Videos to MPEG FREE of Cost - Easy Guide on Using Our Top-Ranked MP4 to MPEG Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-updated-windows-11-interface-for-2024/"><u>Exploring the Updated Windows 11 Interface for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-inaccessible-folders-in-windows-outlook-a-comprerani-guide/"><u>Fixing Inaccessible Folders in Windows Outlook: A Comprerani Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-use-the-windows-canary-protection-tool/"><u>How to Use the Windows Canary Protection Tool</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-motorola-moto-e13-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Motorola Moto E13 FRP</u></a></li>
+<li><a href="https://windows11.techidaily.com/pinpoint-win-logins-the-differentiator-between-right-and-wrong-entries/"><u>Pinpoint Win Logins: The Differentiator Between Right & Wrong Entries</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-process-for-adding-widgets-on-windows-11/"><u>The Complete Process for Adding Widgets on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-memory-feature-disabled-in-win11/"><u>Troubleshooting Memory Feature Disabled in Win11</u></a></li>
 </ul></div>
 

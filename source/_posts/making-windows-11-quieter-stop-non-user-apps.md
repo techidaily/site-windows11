@@ -1,7 +1,7 @@
 ---
 title: "Making Windows 11 Quieter: Stop Non-User Apps"
-date: 2024-09-05T02:08:02.290Z
-updated: 2024-09-06T02:08:02.290Z
+date: 2024-10-11T22:21:55.262Z
+updated: 2024-10-19T04:00:09.891Z
 tags:
   - windows10
   - windows11
@@ -48,10 +48,25 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 4. Click the drop-down for **Battery levels** and select **Last 7 days.** Windows will load all the apps using the battery power in the last seven days.  
 ![manage background activity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/manage-background-activity.png)
 5. To change the background app permission, click the **three-dots menu** beside the app name, and click on **Manage background productivity**. This option is only available for Microsoft Store apps.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click the **drop-down** (**Power optimized**) under the **Background apps permissions** section and select **Never**. This will disable the app from running in the background.
 7. Repeat the steps for all the apps that can drain your battery or affect system performance.
 
  In addition to disabling background apps, try to create and use [custom Windows power plans to extend your laptop battery life](https://www.makeuseof.com/tag/save-energy-extend-battery-life-custom-windows-power-plans/). With custom power plans, you can tweak your processor and other components to configure low-power modes to achieve an improved battery life.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. How to Disable Background Apps for the Current User
 
@@ -65,6 +80,14 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 2. Type **notepad** and click **OK** to open the text editor app.  
 ![disable background apps windows 11 registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-background-apps-windows-11-registry-editor.jpg)
 3. In the Notepad file, copy and paste the following content:  
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `Windows Registry Editor Version 5.00  
 
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications]  
@@ -86,18 +109,6 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 
 ![reg file content background app disable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/reg-file-content-background-app-disable.png)
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 `Windows Registry Editor Version 5.00  
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\BackgroundAccessApplications]  
 "GlobalUserDisabled"=-  
@@ -117,33 +128,17 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 4. Under the **Windows** key, locate the **AppPrivacy** key**.** If not available, you will need to create a new key.  
 ![registry editor create new key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/registry-editor-create-new-key.png)
 5. Right-click on the **Windows** key and select **New > Key.** Rename the key as **AppPrivacy.**
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. Right-click on the **AppPrivacy** key and select **New > DWORD (32-bit) Value**. Rename the value as **LetAppsRunInBackground.**  
 ![registry editor create new value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/registry-editor-create-new-value.png)
 7. Right-click on the **LetAppsRunInBackground** value and select **Modify**.  
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![registry editor data 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/registry-editor-data-2.png)
 8. Type **2** in the **Value data** field and click **OK** to save the changes.
 9. Close the Registry Editor and restart your PC to apply the changes.
@@ -164,32 +159,21 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 3. In the right pane, locate and double-click on **Let Windows apps run in the background** policy.  
 ![disable background app group policy editor policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/disable-background-app-group-policy-editor-policy.png)
 4. In the new window that appears, select **Enabled**.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Next, under the **Options** section, click the drop-down for **Default for all apps** and select **Force Deny**.  
 ![disable background app group policy editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/disable-background-app-group-policy-editor.png)
 6. Click **OK** and **Apply** to save the changes.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Alternatively, you can set the Let Windows apps run in the background policy to **Disabled** and apply the changes. However, when set to **Disabled** or **Not Configured**, individual employees in your organization can configure the apps to run in the background.
 
  On the contrary, setting this policy to **Force Deny** will prevent the app from running in the background, with no option for the employees to change the policy.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Disabling Background Apps in Windows 11
 
  Windows allows you to configure background app permission for the Microsoft Store apps. You can disable these apps to conserve battery and avoid unnecessary data usage on a metered connection.
@@ -198,11 +182,27 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 
  Fortunately, Windows lets you change the background permission for individual Microsoft Store apps. Here we show you how to disable individual or all background apps in Windows 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-filmmaker-tips-youtube-trailers-using-filmora/"><u>[New] 2024 Approved Filmmaker Tips YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-basics-of-slug-lines-explained-for-2024/"><u>[New] The Basics of Slug Lines Explained for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-enhance-your-asmr-experience-with-top-tier-mics/"><u>[Updated] 2024 Approved Enhance Your ASMR Experience with Top-Tier Mics</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-transform-your-edits-with-smart-use-of-luts-in-premiere-pro/"><u>[Updated] In 2024, Transform Your Edits with Smart Use of LUTs in Premiere Pro</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-maximizing-your-youtube-potential-with-content-partnerships/"><u>[Updated] Maximizing Your YouTube Potential with Content Partnerships</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-tecno-spark-go-2024-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Tecno Spark Go (2024)</u></a></li>
+<li><a href="https://windows11.techidaily.com/manual-antivirus-checks-finding-unseen-threats/"><u>Manual Antivirus Checks: Finding Unseen Threats</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mastering-troubleshooting-fix-your-windows-10-bluetooth-driver-woes-today/"><u>Mastering Troubleshooting: Fix Your Windows 10 Bluetooth Driver Woes Today!</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-nat-transition-a-comprehensible-win1110-approach/"><u>Mastery Over NAT Transition: A Comprehensible Win11/10 Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-windows-speech-recognition-failure-to-initialize/"><u>Stop Windows Speech Recognition Failure to Initialize</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-steams-response-error/"><u>Troubleshooting Steam's Response Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/utilizing-in-built-color-tuning-for-win11-applications/"><u>Utilizing In-Built Color Tuning for Win11 Applications</u></a></li>
+<li><a href="https://windows11.techidaily.com/zero-user-scope-group-policy-execution-in-windows-10-and-11/"><u>Zero-User Scope Group Policy Execution in Windows 10 & 11</u></a></li>
+</ul></div>
+

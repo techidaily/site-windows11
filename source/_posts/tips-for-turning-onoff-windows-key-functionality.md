@@ -1,7 +1,7 @@
 ---
 title: Tips for Turning On/Off Windows Key Functionality
-date: 2024-09-05T02:08:02.113Z
-updated: 2024-09-06T02:08:02.113Z
+date: 2024-10-12T18:10:00.009Z
+updated: 2024-10-18T19:17:13.804Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/a8b16314a41e8185a53e16911a8cd83652896b677
 
  Additionally, check your keyboard customization software (Corsair iCUE, Razer Synapse, Logi Options+, etc.) to see if the Windows key is disabled or gaming mode is on. If the issue persists, check out our extensive [troubleshooting guide to fix a broken Windows key](https://www.makeuseof.com/windows-key-not-working-windows-10/). Go through the guide to find and fix issues preventing your Windows key from working.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Disable the Windows Key Using Microsoft PowerToys
 
  Microsoft PowerToys is a set of system utilities available on Microsoft Windows. It includes some handy utilities such as "Color Picker," "Always On Top" to keep any app on top, and "Awake" to stop your PC from sleeping.
@@ -41,6 +48,14 @@ thumbnail: https://thmb.techidaily.com/a8b16314a41e8185a53e16911a8cd83652896b677
 3. Click **Remap a key** under the **Keys** section.  
 ![powertoys keyboard manager remap key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/powertoys-keyboard-manager-remap-key.jpg)
 4. Click the **Add (+)** icon under **Select**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![powertoys keyboard manager remap keys add](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/powertoys-keyboard-manager-remap-keys-add.jpg)
 5. Next, click the **Select** button and press the **Windows key** on your keyboard. Assuming you want to disable the Win(Left) key, you’ll see Windows (Left) as the selected option. Click **OK**.
 6. Alternatively, click the drop-down menu and select the **Windows** key from the list of keyboard keys.  
@@ -48,6 +63,14 @@ thumbnail: https://thmb.techidaily.com/a8b16314a41e8185a53e16911a8cd83652896b677
 7. Next, click the **To Send** drop-down menu. Scroll to the top and select **Disable**. Alternatively, press **D** on your keyboard to locate the Disable option.  
 ![powertoys keyboard manager remap keys disable win key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/powertoys-keyboard-manager-remap-keys-disable-win-key.jpg)
 8. Click the **OK** button in the top-right corner to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Click **Continue anyway** if a warning prompt appears.
 
  When you press the Windows key again, it will not work or trigger the Start menu. This will also disable all the Windows key combinations, including the shortcuts **Windows + R** to open **Run** and **Windows + I** to open **Settings**. However, the **Windows + L** combination continues to work and locks your computer when pressed. You can view all the disabled and remapped keys in the Keyboard Manager tab.
@@ -60,11 +83,12 @@ thumbnail: https://thmb.techidaily.com/a8b16314a41e8185a53e16911a8cd83652896b677
 3. Click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Disable the Windows Key Using Your Keyboard Software / Fn Key
 
 ![disable windows keyboard key logi options plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/disable-windows-keyboard-key-logi-options-plus.jpg)
@@ -84,12 +108,6 @@ thumbnail: https://thmb.techidaily.com/a8b16314a41e8185a53e16911a8cd83652896b677
 
  This will immediately turn off the Windows key. If you need to enable it again, uncheck the **Windows/Start** key option, and the **Windows** key will start working again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Permanently Disable the Windows Key Using the Registry Editor
 
  Another way to turn off the Windows key is via the Windows Registry. We’ll modify the entries associated with the Keyboard Layout sub-key to stop the Windows key from getting triggered accidentally.
@@ -103,20 +121,16 @@ thumbnail: https://thmb.techidaily.com/a8b16314a41e8185a53e16911a8cd83652896b677
 4. With the Keyboard Layout sub-key selected, locate the **Scancode Map** binary value in the right pane.  
 ![registry editor keyboard layout new binary value scancode map](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/registry-editor-keyboard-layout-new-binary-value-scancode-map.jpg)
 5. If the value doesn’t exist, you’ll need to create one. So, right-click on the Keyboard Layout sub-key on the left and select **New > Binary Value**. Rename the value as **Scancode Map**.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![delete scancode map binary value registry editor windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/delete-scancode-map-binary-value-registry-editor-windows.jpg)
 6. Next, right-click on **Scancode Map** and select **Modify**.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![modify keyboard layout scancode map binary value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-keyboard-layout-scancode-map-binary-value-registry-editor.jpg)
 7. Type the following binary value in the **Value data** field:  
 `00, 00, 00, 00, 00, 00, 00, 00  
@@ -127,12 +141,6 @@ thumbnail: https://thmb.techidaily.com/a8b16314a41e8185a53e16911a8cd83652896b677
 
  To enable the Windows key again, delete the **Scancode Map** binary value using the Registry Editor. This will disable the policy and restore the Windows key function.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Disable the Windows Key Using the Group Policy Editor
 
  You can configure a File Explorer policy using the Group Policy Editor to turn off Windows Key hotkeys on your computer. This way, you can keep the Windows key active but disable its associated hotkeys, including **Windows + R**, **Windows + E**, etc.
@@ -145,16 +153,18 @@ thumbnail: https://thmb.techidaily.com/a8b16314a41e8185a53e16911a8cd83652896b677
 2. Type **gpedit.msc** and click **OK**. Click **Yes** if prompted by **User Account Control**.  
 ![group policy editor turn off windows key hotkeys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/group-policy-editor-turn-off-windows-key-hotkeys.jpg)
 3. In Group Policy Editor, navigate to the following location:  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 `User Configuration > Administrative Templates > Windows Components > File Explorer`
 4. In the right pane, locate and double-click on **Turn off Windows Key hotkeys**.  
 ![enable turn off windows key hotkeys group policy editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/enable-turn-off-windows-key-hotkeys-group-policy-editor.jpg)
 5. Select **Enabled** and click **Apply** to save the changes.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To apply the changes, you’ll need to restart your computer; alternatively, open Command Prompt as administrator, type gpupdate /force, and hit Enter to apply the changes immediately.
 
@@ -170,11 +180,30 @@ thumbnail: https://thmb.techidaily.com/a8b16314a41e8185a53e16911a8cd83652896b677
 
  Here's a step-by-step guide on how to turn the Windows key on and off in Windows 10 and 11\.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-direct-webcam-streaming-with-vlc/"><u>[New] Direct Webcam Streaming with VLC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-novice-nests-in-mc-the-essential-guide-to-housing-for-2024/"><u>[New] Novice Nests in MC The Essential Guide to Housing for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-get-premium-video-openers-here/"><u>[Updated] Get Premium Video Openers Here</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-native-chrome-os-screen-snapper/"><u>2024 Approved Native Chrome OS Screen Snapper</u></a></li>
+<li><a href="https://windows11.techidaily.com/five-fun-flicks-in-windows-cmd-world/"><u>Five Fun Flicks in Windows' CMD World</u></a></li>
+<li><a href="https://windows11.techidaily.com/getting-the-0x0-0x0-error-code-in-windows-11-heres-how-to-fix-it/"><u>Getting the 0X0 0X0 Error Code in Windows 11? Here's How to Fix It</u></a></li>
+<li><a href="https://windows11.techidaily.com/meet-asuss-latest-rivals-to-rog-ally-in-gaming/"><u>Meet ASUS’s Latest Rivals to ROG Ally in Gaming</u></a></li>
+<li><a href="https://article-files.techidaily.com/monitor-magic-top-choices-to-transform-your-xbox-series-x-playtime-for-2024/"><u>Monitor Magic Top Choices to Transform Your Xbox Series X Playtime for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-wwe-2k-correcting-the-dx11-feature-level-100-issue/"><u>Resolving WWE 2K: Correcting the DX11 Feature Level 10.0 Issue</u></a></li>
+<li><a href="https://article-posts.techidaily.com/simplifying-the-complexity-of-digital-enhancements-for-2024/"><u>Simplifying the Complexity of Digital Enhancements for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-successful-v22h2-updater-execution-on-win11/"><u>Strategies for Successful V22H2 Updater Execution on WIN11</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-driving-experience-with-free-upgrades-for-windows-users/"><u>Streamline Driving Experience with Free Upgrades for Windows Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-essential-guide-to-personalizing-business-efforts-with-gpt/"><u>The Essential Guide to Personalizing Business Efforts with GPT</u></a></li>
+<li><a href="https://facebook.techidaily.com/twitter-and-instagram-again-for-trump/"><u>Twitter and Instagram, Again for Trump?</u></a></li>
+<li><a href="https://windows11.techidaily.com/utilizing-rgb-lighting-on-win11-pcs/"><u>Utilizing RGB Lighting on Win11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-establishing-kids-online-boundaries/"><u>Windows 11: Establishing Kids' Online Boundaries</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Unleashing the Potential of Dism on Windows 11 Systems
-date: 2024-09-30T19:14:05.624Z
-updated: 2024-10-01T20:59:46.420Z
+date: 2024-10-12T01:25:55.268Z
+updated: 2024-10-19T03:21:52.850Z
 tags:
   - windows10
   - windows11
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 ![DISM scan health powershell command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dism-clean-health-powershell-command.jpg)
 3. In the Command Prompt window, type the following command and press **Enter**:  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 `DISM /Online /Cleanup-Image /CheckHealth`
 4. In the above command, the **/Online** parameter specifies the scan must be performed on the currently running operating system. The **/Cleanup-Image** parameter specifies the operation is related to Windows image repair.
 5. When executed, the command will show the report as “**The component stored has been corrupted**” or “**No component store corrupted detected.**” depending on whether a component store corruption is found.  
@@ -70,9 +63,23 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 3. This process may take some time to complete. Once done, it will report any issues with the component store.
 4. If an issue is detected, run the DISM RestoreHealth command to repair your Windows image.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Run the DISM RestoreHealth Command to Repair the Windows System Image
 
 ![DISM scan health restore health command prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/dism-scan-health-restore-health-command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The DISM RestoreHealth command uses Windows Update to provide the necessary files to fix file corruption and repair the Windows 11 system image. However, you must be connected to the internet so that the DISM tool can download and restore the files needed to perform a repair.
 
@@ -82,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 2. Next, type the following command and press **Enter**:  
 `DISM.exe /Online /Cleanup-image /RestoreHealth`
 3. The DISM utility will perform a scan and start repairing the Windows system image. This process may take some time to complete. So, wait till the progress bar reaches 100%.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Repair System Image Using an Alternate Repair Source
 
@@ -107,22 +107,15 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 4. In the above command, replace the placeholder **:I** with your installation media drive letter. Also, the **LimitAccess** command is an optional parameter that restricts DISM access to the specified source and prevents it from using **Windows Update** as a repair source.
 5. Once the process is complete, you can close Command Prompt and run the **System File Checker** utility to complete the repair process.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Repair Your Windows Installation Using the System File Checker (SFC) Utility
 
 ![run system file checker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/run-system-file-checker.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you have successfully repaired your Windows 11 system image using the DISM RestoreHealth command, run the System File Checker (SFC) utility. It will scan your Windows installation for system file corruption and fix them automatically.
@@ -139,6 +132,13 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 
  After the process is complete, restart your computer and check for any improvements. If the issue persists, run the **sfc /scannow** command again to see if that helps fix the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Repair and Recover Your Windows System Image Using DISM and SFC
 
  DISM makes it easy to repair a corrupt Windows image. It works both online using Windows Update and offline with a WIM file. The steps to use DISM may look complicated at first glance; however, it only takes two commands and an elevated Command Prompt to repair your Windows 11 image and installation.
@@ -154,21 +154,22 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-framefraction-analysis/"><u>[New] 2024 Approved FrameFraction Analysis</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-professionals-choice-top-10-afx-templates-for-free/"><u>[Updated] 2024 Approved Professionals' Choice Top 10 AFX Templates for FREE</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-switching-between-safe-mode-and-picture-in-picture-on-iosmacos/"><u>[Updated] Switching Between Safe Mode & Picture In Picture on iOS/MacOS</u></a></li>
-<li><a href="https://games-able.techidaily.com/are-mts-meriting-premium-game-credits/"><u>Are MTs Meriting Premium Game Credits?</u></a></li>
-<li><a href="https://win-able.techidaily.com/destiny-2s-ultimate-fix-the-2024-broccoli-crisis-resolution/"><u>Destiny 2'S Ultimate Fix: The 2024 Broccoli Crisis Resolution</u></a></li>
-<li><a href="https://windows11.techidaily.com/digital-transformation-for-windows-old-to-new-drivers/"><u>Digital Transformation for Windows: Old to New Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/duktansvartare-for-objektbeskyddande-system-obs-som-ger-inte-ljudhinder-movavi/"><u>Duktansvärtare För Objektbeskyddande System (OBS) Som Ger Inte Ljudhinder - Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficient-strategies-for-engagingdisengaging-focus-mode-in-terminal/"><u>Efficient Strategies for Engaging/Disengaging Focus Mode in Terminal</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-non-detecting-speakers-or-headphones-in-winos/"><u>Fixing Non-Detecting Speakers or Headphones in WinOS</u></a></li>
-<li><a href="https://windows11.techidaily.com/preventing-locked-status-tips-for-windows-users-153-chars/"><u>Preventing Locked Status: Tips for Windows Users (153 Chars)</u></a></li>
-<li><a href="https://windows11.techidaily.com/remote-server-files-via-nas-sharing/"><u>Remote Server Files via NAS Sharing</u></a></li>
-<li><a href="https://windows11.techidaily.com/simple-steps-to-enable-windows-11s-search-feature-in-task-manager/"><u>Simple Steps to Enable Windows 11'S Search Feature in Task Manager</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-fix-for-common-vpn-issue-error-number-800/"><u>Step-by-Step Fix for Common VPN Issue: Error Number #800</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-alternative-review-to-sharex/"><u>The Ultimate Alternative Review to ShareX</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-of-non-existent-mmc-snaps/"><u>Unraveling the Mystery of Non-Existent MMC Snaps</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/why-isnt-cortana-responding-a-guide-to-restoring-functionality/"><u>Why Isn't Cortana Responding? A Guide to Restoring Functionality</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-apex-pcs-the-summit-of-desktop-technology-for-2024/"><u>[New] Apex PCs - The Summit of Desktop Technology for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-accelerating-windows-document-analysis/"><u>[Updated] Accelerating Windows Document Analysis</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-fish-out-the-frame-underwater-shooting-secrets-with-a-gopro/"><u>[Updated] Fish Out the Frame Underwater Shooting Secrets with a GoPro</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-dynamics-of-home-security-manycam-vs-single-camera-tech/"><u>2024 Approved The Dynamics of Home Security ManyCam Vs. Single-Camera Tech</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/creating-interactive-digital-flipbooks-with-flipbuilder-a-step-by-step-guide/"><u>Creating Interactive Digital Flipbooks with FlipBuilder: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-active-directory-domain-services-printer-error-in-windows-10-and-11/"><u>How to Fix the “Active Directory Domain Services” Printer Error in Windows 10 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-revive-and-restart-stuck-spotify-on-w10w11-pcs/"><u>How to Revive and Restart Stuck Spotify on W10/W11 PCs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mac-techniques-to-shorten-instagram-vids/"><u>Mac Techniques to Shorten Instagram Vids</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-of-images-on-the-lock-screen-on-or-off-windows-style/"><u>Mastery of Images on the Lock Screen: On or Off, Windows Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfecting-pc-performance-set-active-hours-prevent-sudden-updates-on-windows-11/"><u>Perfecting PC Performance: Set Active Hours, Prevent Sudden Updates on Windows 11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/professional-streaming-top-6-webcams-for-zoom-users/"><u>Professional Streaming Top 6 Webcams for Zoom Users</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/sketch-masters-on-ipados-top-8-artistic-apps-for-2024/"><u>Sketch Masters on iPadOS Top 8 Artistic Apps for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-icon-cache-revival-in-win10win11/"><u>Techniques for Icon Cache Revival in Win10/Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-core-skills-for-conquering-classic-diablos-world/"><u>The Core Skills for Conquering Classic Diablo's World</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-affordable-gamers-keyboard-selection/"><u>Top Affordable Gamers' Keyboard Selection</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-1011-old-login-logon-error/"><u>Unlocking Windows 10/11: Old Login Logon Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-methods-for-vanished-folder-recovery-on-windows/"><u>Unveiling Methods for Vanished Folder Recovery on Windows</u></a></li>
 </ul></div>
 

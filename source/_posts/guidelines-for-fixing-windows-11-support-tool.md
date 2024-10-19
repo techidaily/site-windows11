@@ -1,7 +1,7 @@
 ---
 title: Guidelines for Fixing Windows 11 Support Tool
-date: 2024-10-08T01:05:48.030Z
-updated: 2024-10-13T01:05:23.515Z
+date: 2024-10-13T22:42:38.417Z
+updated: 2024-10-18T18:22:06.436Z
 tags:
   - windows10
   - windows11
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 
  Note that these fixes can't help you if your issue is serious. In that case, try the following troubleshooting methods.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Repair or Reset the Get Help App
 
  In some situations, the Get Help app may be corrupt. For example, if your computer is infected by malware, it may force some Windows apps to malfunction. If this is your case, please first [disinfect your Windows computer](https://www.makeuseof.com/best-malware-removal-tools-pc/).
@@ -49,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 
 ![Get Help In Installed Apps](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-in-installed-apps.jpg)
 4. Now, scroll to the bottom and click **Repair**. If the repair fails, you can use the **Reset** option.  
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Get Help Repair Option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/get-help-repair-option.jpg)
 
@@ -71,19 +71,6 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 * Connecting to a different network, as specific network configurations might disrupt certain apps.
 * Contacting your Internet Service Provider (ISP) to inquire about potential network maintenance.
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Disable VPN or Proxy Temporarily
 
  If you're still facing issues with the Get Help app, it seems to be due to your VPN or proxy configuration. You can disable your connected VPN or proxy for a quick test.
@@ -94,18 +81,18 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 ![VPN Settings Search Results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/vpn-settings-search-results.jpg)
 2. Choose the **Disconnect** button to turn off the VPN.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Similarly, you must [temporarily disable your proxy](https://www.makeuseof.com/windows-11-disable-proxy/) to troubleshoot the cause of your Get Help failing to work.
 
  Remember to re-enable your VPN or proxy once you're done to ensure your online activities remain private and secure.
 
  Now you can open the Get Help app and check whether the content loads correctly. Try the following troubleshooting method if the Get Help app still displays a blank screen.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Restart Windows Services
 
@@ -123,17 +110,17 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 5. Similarly, repeat the steps to restart the **Windows Management Instrumentation** service.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Install the Microsoft Edge WebView2 Runtime
@@ -148,6 +135,13 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 2. Click on the button matching your system's architecture under the **Evergreen Standalone Installer** heading. Alternatively, click the **Download** button under the **Evergreen Bootstrapper**.  
 ![Microsoft Edge Developer Site Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/microsoft-edge-developer-site-screenshot.jpg)
 3. Once you download the setup file, run it and follow the instructions.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. After installing the Microsoft Edge WebView2 Runtime, check if the Get Help app functions correctly.
 
@@ -181,17 +175,20 @@ thumbnail: https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-plex-vs-streaming-titanique/"><u>[New] Plex vs Streaming Titanique</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/1715860403365-updated-engaging-recorders-within-huawei-mate-and-p-series-for-video-capture/"><u>[Updated] Engaging Recorders Within Huawei Mate and P-Series for Video Capture.</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-insight-into-the-anker-powercoreplus-26800-charger-bundle-slim-and-efficient/"><u>Comprehensive Insight Into the Anker PowerCore+ 26800 Charger Bundle - Slim & Efficient</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-remove-the-show-more-options-entry-from-the-context-menu-on-windows-11/"><u>How to Remove the Show More Options Entry From the Context Menu on Windows 11</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-discovering-depth-with-zooms-in-meeting-focus-features/"><u>In 2024, Discovering Depth with Zoom's In-Meeting Focus Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-11s-network-failure-0x800704b3/"><u>Navigating Windows 11'S Network Failure 0X800704B3</u></a></li>
-<li><a href="https://windows11.techidaily.com/simplifying-software-removal-context-menu-optimization-for-win-1011/"><u>Simplifying Software Removal: Context Menu Optimization for Win 10/11</u></a></li>
-<li><a href="https://article-helps.techidaily.com/sound-quality-matters-a-critical-look-at-the-top-6-streaming-mics/"><u>Sound Quality Matters A Critical Look at The Top 6 Streaming Mics</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-out-with-yt-shorts-essential-guidelines-to-follow-for-2024/"><u>Stand Out with YT Shorts Essential Guidelines to Follow for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-s17t-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo S17t for Parents | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-variances-between-exe-and-msi-software-packages/"><u>Unveiling the Variances Between EXE & MSI Software Packages</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-unearthing-absent-settings-in-control-panel/"><u>Windows 11: Unearthing Absent Settings in Control Panel</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-gameplay-narratives-6-compelling-ways-to-document-your-virtual-worlds-for-2024/"><u>[New] Gameplay Narratives 6 Compelling Ways to Document Your Virtual Worlds for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-creating-chuckles-with-gifs-a-meme-masterclass/"><u>[Updated] Creating Chuckles with GIFs A Meme Masterclass</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-metaverse-odyssey-a-list-of-sci-fi-films-taking-you-beyond-earth-for-2024/"><u>[Updated] Metaverse Odyssey A List of Sci-Fi Films Taking You Beyond Earth for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-alliance-of-creativity-brands-and-youtubes-fusion/"><u>2024 Approved Alliance of Creativity Brands and YouTube's Fusion</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-repairing-a-broken-microphone-in-hyperx-cloud-audio-setup/"><u>Expert Advice on Repairing a Broken Microphone in HyperX Cloud Audio Setup</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-samsung-galaxy-xcover-7-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Samsung Galaxy XCover 7 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-8-windows-cutting-apps-for-videos/"><u>Master 8 Windows Cutting Apps for Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-connection-4-ways-to-determine-router-speed-on-windows/"><u>Optimize Connection: 4 Ways to Determine Router Speed on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/pathway-to-windows-11-utilizing-windows-7-key-as-a-gateway/"><u>Pathway to Windows 11: Utilizing Windows 7 Key as a Gateway</u></a></li>
+<li><a href="https://windows11.techidaily.com/proving-win-hardware-with-top-6-graphics-testing-apps/"><u>Proving Win Hardware with Top 6 Graphics Testing Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/regain-access-to-sd-card-in-file-explorer-window/"><u>Regain Access to SD Card in File Explorer Window</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-control-panel-error-with-missing-display-adjustments/"><u>Resolving Control Panel Error with Missing Display Adjustments</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-user-experience-customizing-windows-pin-lengths/"><u>Tailoring User Experience: Customizing Windows PIN Lengths</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-the-secrets-resolving-helldivers-iis-launch-failures-on-your-pc-via-steam/"><u>Unlock the Secrets: Resolving Helldivers II's Launch Failures on Your PC via Steam</u></a></li>
+<li><a href="https://facebook.techidaily.com/when-will-your-messages-be-private-with-fb-messenger-e2ee/"><u>When Will Your Messages Be Private with FB Messenger E2EE?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Master Your Words: Real-Time Speech-to-Text with Whisper"
-date: 2024-09-27T01:25:59.781Z
-updated: 2024-10-01T21:14:29.917Z
+date: 2024-10-14T20:32:50.555Z
+updated: 2024-10-19T00:11:52.683Z
 tags:
   - windows10
   - windows11
@@ -31,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/81bdcc97eef551e0f3a9b3144d7c585e9e69ed512
  If you'd prefer the "vanilla" version of Whisper and the versatility of the terminal instead of clunky GUIs, check our article on [how to turn your voice into text with OpenAI's Whisper for Windows](https://www.makeuseof.com/dictate-documents-openai-whisper/).
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Are Whisper and Whisper Desktop the Same?
@@ -46,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/81bdcc97eef551e0f3a9b3144d7c585e9e69ed512
  You're on the other end of the spectrum, and instead of seeking an easier way to use Whisper than the terminal you're seeking ways to implement it in your own solutions? Rejoice, for [OpenAI has opened access to ChatGPT and Whisper APIs](https://www.makeuseof.com/what-chatgpt-and-whisper-apis-means-for-businesses/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Download & Install Whisper Desktop
@@ -60,50 +60,60 @@ thumbnail: https://thmb.techidaily.com/81bdcc97eef551e0f3a9b3144d7c585e9e69ed512
 ![Whisper Desktop Github Releases Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-desktop-github-releases-link.jpg)
 2. Under **Assets**, click **WhisperDesktop.zip** and download it to your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Whisper Desktop Github Download Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-desktop-github-download-link.jpg)
 3. Extract the downloaded archive to a folder and use your file manager to visit it. Inside you will find the Whisper Desktop application. Double-click on it to run it.  
 ![Whisper Desktop App in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-desktop-app-in-file-explorer.jpg)
 4. You also need a Whisper language model in **GCML** binary format. Whisper Desktop will provide you with two links for acquiring one. Skip the second link for generating your own model since it's a more complicated process. Click on **Hugging Face** to open that page in your default browser, from where you can download a ready-to-use file.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Whisper Desktop Language Model Links](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-desktop-language-model-links.jpg)
 5. The version of Whisper Desktop we used while writing this article provided a link to an obsolete repository at Hugging Face. If you meet the same problem, notice a link to a **new location**. Click on it to visit the new repository.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Hugging Face Whisper Models New Location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hugging-face-whisper-models-new-location.jpg)
 6. Click on the link that will take you to the available **models**.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Hugging Face Available Models Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hugging-face-available-models-link.jpg)
 7. From that list, click on either the **ggml-medium.bin** or **ggml-medium.en.bin**, depending on if you want multilingual or English-only support in Whisper.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Hugging Face Whisper Medium Model Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hugging-face-whisper-medium-model-link.jpg)
 8. Finally, you should have reached your destination. Notice the line stating that this file is stored with Git LFS and is too big to display, but you can still download it. Click on **download** to do precisely that.  
 ![Hugging Face Whisper Medium Model Download Link](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/hugging-face-whisper-medium-model-download-link.jpg)
 9. When the file completes downloading, use your favorite file manager (File Explorer will do) to move the downloaded language model file into the same folder as Whisper Desktop.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Whisper Medium Model Placed in Whisper Desktop Folder in File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/whisper-medium-model-placed-in-whisper-desktop-folder-in-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Transcribing With Whisper Desktop
@@ -146,19 +156,6 @@ thumbnail: https://thmb.techidaily.com/81bdcc97eef551e0f3a9b3144d7c585e9e69ed512
 
  We should note that you can also do the opposite of what we saw here: convert any text to speech. This way you can listen to anything as if it were a podcast instead of tiring your eyes squinting at screens. For more info on that, check our article on [some of the best free online tools to download text-to-speech as MP3 audio](https://www.makeuseof.com/tag/download-text-to-speech-as-mp3-audio/).
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Whisper Desktop Voice-Typing Tips
 
  Although Whisper Desktop can be a lifesaver, enabling you to write with your voice much quicker than you could type, it's far from perfect.
@@ -192,19 +189,20 @@ thumbnail: https://thmb.techidaily.com/81bdcc97eef551e0f3a9b3144d7c585e9e69ed512
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-essential-call-customization-applications-ranked/"><u>[New] Essential Call Customization Applications Ranked</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-novice-to-expert-free-lut-techniques-for-color-grading/"><u>[New] From Novice to Expert Free LUT Techniques for Color Grading</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-elite-7-secure-platforms-for-smaller-companies-for-2024/"><u>[Updated] Elite 7 Secure Platforms for Smaller Companies for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-free-to-fiscal-determining-view-counts-for-youtube-earnings/"><u>[Updated] From Free to Fiscal Determining View Counts for YouTube Earnings</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-bluescreenviews-purpose/"><u>Decoding BlueScreenView's Purpose</u></a></li>
-<li><a href="https://windows11.techidaily.com/enabling-forgotten-windows-add-ons-and-utilities-in-7-ways/"><u>Enabling Forgotten Windows Add-Ons and Utilities in 7 Ways</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-poco-c51-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fast-tracked-fine-arts-edits-made-easy-with-windows-10-paint-application/"><u>In 2024, Fast-Tracked Fine Arts Edits Made Easy with Windows 10 Paint Application</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/no-charge-audiophiles-choice-premium-conversion-software-for-mpa-to-mp3-transition/"><u>No-Charge Audiophiles Choice Premium Conversion Software for MPA to MP3 Transition</u></a></li>
-<li><a href="https://windows11.techidaily.com/stop-the-nullzero-error-fixes-for-new-users-on-win11/"><u>Stop the Null/Zero Error: Fixes for New Users on Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-5-writing-enhancers-for-your-windows-desktop/"><u>Top 5 Writing Enhancers for Your Windows Desktop</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-the-potential-of-your-website-via-chatgpts-4-pathways/"><u>Unlock the Potential of Your Website via ChatGPT's 4 Pathways</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-efficiency-folders-and-files-converge-in-win-11/"><u>Unlocking Efficiency: Folders & Files Converge in Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-quick-access-shortcuts-adjacent-to-power-in-win11/"><u>Unveiling Quick Access: Shortcuts Adjacent to Power in Win11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-step-by-step-guide-to-recording-on-your-macbook-for-2024/"><u>[Updated] Step-By-Step Guide to Recording on Your MacBook for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-toontech-complete-insight-2024-edition/"><u>[Updated] ToonTech Complete Insight - 2024 Edition</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-the-perfect-way-to-add-linktree-to-tiktok-bio/"><u>2024 Approved The Perfect Way to Add Linktree to TikTok Bio</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-visionaries-inventing-new-marvel-worlds/"><u>2024 Approved Visionaries Inventing New Marvel Worlds</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compatible-drivers-for-brother-mfc-9130cw-quick-and-free-access/"><u>Compatible Drivers for Brother MFC-9130CW - Quick and Free Access</u></a></li>
+<li><a href="https://windows11.techidaily.com/fine-tuning-the-size-of-windows-taskbar/"><u>Fine-Tuning the Size of Windows Taskbar</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-honor-magic-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-ultimate-highlight-hits-ios-and-android-instagram-covers-apps/"><u>In 2024, Ultimate Highlight Hits IOS & Android Instagram Covers Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-security-activating-tpm-and-secure-boot-for-windows-11-upgrades/"><u>Maximizing Security: Activating TPM & Secure Boot for Windows 11 Upgrades</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavippm-to-jpeg/"><u>Movaviプロアプリを使った無料PPM to JPEGコンバーターオンラインチェンジャー</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-task-management-on-windows-10-and-11/"><u>Optimize Task Management on Windows 10 & 11</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-social-detectives-handbook-to-verify-identities/"><u>The Social Detective's Handbook to Verify Identities</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-dfs-sudden-shutdown-issue-on-pc/"><u>Troubleshooting DF's Sudden Shutdown Issue on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/utilizing-the-newly-overhauled-widget-selection-window/"><u>Utilizing the Newly Overhauled Widget Selection Window</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-calmness-dial-down-the-hidden-processes/"><u>Win11 Calmness: Dial Down the Hidden Processes</u></a></li>
 </ul></div>
 

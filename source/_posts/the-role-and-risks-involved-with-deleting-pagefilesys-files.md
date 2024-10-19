@@ -1,7 +1,7 @@
 ---
 title: The Role & Risks Involved with Deleting Pagefile.sys Files
-date: 2024-09-05T02:08:02.454Z
-updated: 2024-09-06T02:08:02.454Z
+date: 2024-10-13T01:55:58.137Z
+updated: 2024-10-19T01:38:00.224Z
 tags:
   - windows10
   - windows11
@@ -47,25 +47,35 @@ Here's what you need to know.
 4. Select the**View** tab in Folder Options and uncheck**Hide protected operating system files (Recommended)** .  
 ![The unhide protected os files option in folder options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/folder-options-unhide-protected-os-files.jpg)
 5. In the warning that pops up, click**Yes** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. A bit further up, you see**Hidden files and folders** . Inside it, check the**Show hidden files, folders, and drives** radio button.
 7. Click**OK** to close Folder Options and apply the changes.
 8. Scroll down in your local drive, and you’ll be able to see Pagefile.sys.  
 ![the pagefile.sys file in the root folder of the local drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/pagefile-sys-file.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you can see, the Pagefile.sys file is quite large, which makes many people think deleting it is a good idea when they're running out of storage space.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Should You Delete Pagefile.sys?
 
  One scenario where it would be reasonable to delete Pagefile.sys to save disk space is if you have a lot of RAM. That way, it can store all the data it needs to keep apps running without needing to offload them. For the average Windows user, the minimum RAM size for this would be 16GB.
@@ -88,42 +98,34 @@ Here's what you need to know.
 2. Type**sysdm.cpl** in the search box and hit the**Enter** key to open the System Properties window.  
 ![searching for sysdm.cpl in windows search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/windows-search-sysdm-cpl.jpg)
 3. Select the**Advanced** tab, and in the**Performance** section, click the**Settings** button.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![the system properties dialog box in windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/system-properties-advanced.jpg)
 4. In the Performance Options window, select the**Advanced** tab and click**Change** .  
 ![the Perfomance Options window on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/performance-options-advanced.jpg)
 5. In the Virtual Memory window, uncheck the**Automatically manage paging file size for all drives** checkbox at the top.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click on the radio button for**No paging file** , and click the**Set** button on the right.  
 ![the Virtual Memory window on Windows with the No paging radio button ticked](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-no-paging-windows.jpg)
 7. You’ll get a warning from Windows. Click**Yes** to bypass it.
+
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 8. Click on**OK** to close the Virtual Memory window and apply the changes.
 9. Restart your Windows computer for the changes to take effect.
 
  When Windows boots back up, the OS will have no use for Pagefile.sys, and it will delete it from your local drive. It will also delete the Swapfile.sys along with it. If you don't know what that file is and its importance, please read our guide on[what Swapfile.sys is and if you can delete it](https://www.makeuseof.com/windows-swapfile-sys-guide/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Restore Pagefile.sys
 
  If you deleted Pagefile.sys and discovered that you're experiencing problems because of it, you can easily restore it. However, if the problems are so severe that Windows is constantly freezing or can't even boot up properly, you should try entering Safe Mode first. To do that, please check out guides on[ways to boot into Safe Mode on Windows 11](https://www.makeuseof.com/windows-11-boot-safe-mode/) and[what is Safe Mode on Windows 10](https://www.makeuseof.com/windows-11-boot-safe-mode/) .
@@ -134,18 +136,6 @@ Now, to bring back Pagefile.sys, follow the steps below:
 2. In the text box, enter**sysdm.cpl** and then hit the**Enter** key to launch the System Properties window.  
 ![opening the System Properties window using Windows Run](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/open-system-properties-windows-run.jpg)
 3. Select the**Advanced** tab, and in the**Performance** section, click the**Settings** button.
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. In the Performance Options window, select the**Advanced** tab and click**Change** .
 5. In the Virtual Memory window, make sure the**Automatically manage paging file size for all drives** checkbox at the top is checked.
 6. Click on**OK** to close the Virtual Memory window and apply the changes.
@@ -171,11 +161,12 @@ Now, to bring back Pagefile.sys, follow the steps below:
 10. Restart your Windows computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Pagefile.sys, Demystified
 
  Pagefile.sys is an extremely important file when it comes to keeping your Windows computer running smoothly. It helps give your PC's RAM more breathing room when physical memory can no longer hold more data. You can delete it, but only do so when you know your computer's RAM has enough capacity to stand on its own. If not, you’re better off just resizing Pagefile.sys so it doesn’t take up too much space.
@@ -188,8 +179,6 @@ Now, to bring back Pagefile.sys, follow the steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +186,20 @@ Now, to bring back Pagefile.sys, follow the steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-secret-behind-crafting-mesmerizing-slow-motion-media-for-instagram/"><u>[New] 2024 Approved The Secret Behind Crafting Mesmerizing Slow Motion Media for Instagram</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-game-on-steps-for-crafting-an-influential-online-gamers-channel/"><u>[New] In 2024, Game On Steps for Crafting an Influential Online Gamers' Channel</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-best-youtube-to-gif-makers-you-should-use-online-and-desktop/"><u>[Updated] Best YouTube To GIF Makers You Should Use (Online & Desktop)</u></a></li>
+<li><a href="https://windows11.techidaily.com/exiting-others-user-sessions-on-win-11/"><u>Exiting Others' User Sessions on Win 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-realme-c53-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Realme C53 Location | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/priority-accessibility-attach-google-mail-taskbar-ready/"><u>Priority Accessibility: Attach Google Mail Taskbar-Ready</u></a></li>
+<li><a href="https://techtrends.techidaily.com/protect-your-gadgets-the-essential-guide-to-mitigating-airtags-dangerous-battery-safety-glitch/"><u>Protect Your Gadgets: The Essential Guide to Mitigating AirTag's Dangerous Battery Safety Glitch</u></a></li>
+<li><a href="https://windows11.techidaily.com/reflect-on-one-misconception-about-cultural-relativism-mentioned-in-class-then-describe-how-you-would-address-this-misunderstanding-with-someone-from-a-diff21/"><u>Reflect on One Misconception About Cultural Relativism Mentioned in Class, Then Describe How You Would Address This Misunderstanding with Someone From a Different Culture</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-methodology-for-full-uninstallation-of-wsl/"><u>Step-by-Step Methodology for Full Uninstallation of WSL</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-pin-verification-hurdles-for-windows-1011-systems/"><u>Tackling PIN Verification Hurdles for Windows 10/11 Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-educational-materials-into-pdfs-effortlessly-using-vitalsource-technology/"><u>Transform Educational Materials Into PDFs Effortlessly Using Vitalsource Technology</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-peak-performance-why-choose-windows-for-gaming/"><u>Unleashing Peak Performance: Why Choose Windows for Gaming</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Maximize Security: Longer PIN Length for Win11/11 Users"
-date: 2024-10-10T01:33:35.126Z
-updated: 2024-10-13T03:45:34.588Z
+date: 2024-10-13T20:13:26.024Z
+updated: 2024-10-18T19:07:21.552Z
 tags:
   - windows10
   - windows11
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
  If you’ve not set a Windows Hello PIN before, you can do so via Settings. Our guide to [setting a PIN in Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) includes instructions for how to do so. Your PIN must have the minimum number of characters set with the **PINComplexity** registry key.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Extend the PIN Length With Group Policy Editor
@@ -80,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 ![Administrative Templates in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/administrative-templates.jpg)
 5. Then click the arrow by **System** and select **PIN Complexity**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Double-click on the **Minimum PIN Length** policy.  
 ![The PIN Complexity policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-complexity.jpg)
 2. Click the **Enabled** radio button to activate a **Minimum PIN Length** box.
@@ -89,27 +96,20 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 4. Select **Apply** and **OK** to set the new PIN length policy.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. You can also set a max PIN length much the same by clicking the **Maximum PIN Length** policy, selecting **Enabled**, and inputting a new value. Then click on **Apply** and **OK** within the Maximum PIN length window.  
 ![The Maximum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-policy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Extend Your Windows PIN to Make It More Secure
@@ -130,22 +130,22 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-premier-mp4-to-fb-video-transforming-tools-for-2024/"><u>[New] Premier MP4 to FB Video Transforming Tools for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-a-critical-look-at-itop-for-tech-enthusiasts/"><u>[Updated] A Critical Look at ITop for Tech Enthusiasts</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-incorporating-zoom-for-video-conferencing-a-guide-for-gmail-professionals/"><u>2024 Approved Incorporating Zoom for Video Conferencing A Guide for Gmail Professionals</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/aomei-fonebackup-ios/"><u>AOMEI FoneBackup 簡易指南：如何有效地從 iOS 設備中备份数据</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-ride-on-windows-discover-top-5-budget-enhancers/"><u>Elevate Your Ride on Windows: Discover Top 5 Budget Enhancers</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevating-output-amplitude-for-external-windows-11-audio/"><u>Elevating Output Amplitude for External Windows 11 Audio</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/green-thumbs-united-top-10-farm-titles-for-friendly-playtime-for-2024/"><u>Green Thumbs United Top 10 Farm Titles for Friendly Playtime for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-batch-convert-heic-images-to-jpeg-format-in-windows-10-and-11/"><u>How to Batch Convert HEIC Images to JPEG Format in Windows 10 & 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-nvidia-control-panel-not-opening-in-windows-11/"><u>How to Fix the NVIDIA Control Panel Not Opening in Windows 11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-solve-camera-not-detected-when-using-snap-cameras/"><u>How to Solve 'Camera Not Detected' When Using Snap Cameras</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-mastering-adobe-premiere-top-6-tricks-for-professional-video-editing-for-2024/"><u>New Mastering Adobe Premiere Top 6 Tricks for Professional Video Editing for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/no-more-erratic-arrows-fixes-for-the-frustrated/"><u>No More Erratic Arrows: Fixes for the Frustrated</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-system-crash-code-0xc0000001/"><u>Remedying System Crash Code 0xC0000001</u></a></li>
-<li><a href="https://discover-data.techidaily.com/ressourcensparendes-festplattenkonsolidieren-eine-einfache-anleitung-zum-kopieren-von-raid-0-daten/"><u>Ressourcensparendes Festplattenkonsolidieren: Eine Einfache Anleitung Zum Kopieren Von Raid-0 Daten</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-art-of-unmasking-user-ids-a-guide-to-sids-in-windows-11/"><u>The Art of Unmasking User IDs: A Guide to SIDs in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-of-a-smoother-click-lock-in-windows/"><u>Unveiling the Secrets of a Smoother Click Lock in Windows</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-nokia-c22-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Nokia C22? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-locate-hidden-watch-video-preview-for-2024/"><u>[New] Locate Hidden Watch Video Preview for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-increasing-engagement-on-instagram-videos/"><u>[Updated] Increasing Engagement on Instagram Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-steps-to-ensure-obs-captures-sound-effectively-for-2024/"><u>[Updated] Steps to Ensure OBS Captures Sound Effectively for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-seamless-audio-transfer-youtube-videos-)-mp3-macos-2023/"><u>2024 Approved Seamless Audio Transfer YouTube Videos > MP3, MacOS 2023</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-zoom-potential-a-comprehensive-configurations-guide/"><u>2024 Approved Unlocking Zoom Potential A Comprehensive Configurations Guide</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/chuckle-campaign-7-ingenious-ideas-for-funny-youtube-videos-for-2024/"><u>Chuckle Campaign 7 Ingenious Ideas for Funny YouTube Videos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-to-locate-gpo-in-windows-os/"><u>Essential Steps to Locate GPO in Windows OS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/inbuilt-camera-functions-to-capture-screens-on-huaweis-matep-series-phones/"><u>Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrate-your-windows-fileshare-seamlessly/"><u>Integrate Your Windows Fileshare Seamlessly</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-mastering-your-podcast-top-10-free-software-options-to-capture-quality-soundtracks-for-2024/"><u>New Mastering Your Podcast Top 10 Free Software Options to Capture Quality Soundtracks for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimized-browsing-the-least-ram-and-cpu-hungry-on-all-major-operating-systems/"><u>Optimized Browsing: The Least RAM & CPU-Hungry On All Major Operating Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfecting-your-powerpoint-presentations-printouts-on-windows-platforms/"><u>Perfecting Your PowerPoint Presentations' Printouts on Windows Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-intricate-world-of-user-identification-in-win11/"><u>The Intricate World of User Identification in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-top-9-benefits-of-choosing-a-pc-over-a-mac/"><u>The Top 9 Benefits of Choosing a PC Over a Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/unfreeze-shift-button-on-your-pc/"><u>Unfreeze Shift Button on Your PC.</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-list-of-free-video-cutter-and-joiner-software-for-beginners/"><u>Updated 2024 Approved The Ultimate List of Free Video Cutter and Joiner Software for Beginners</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-windows-supercomputers-are-game-changers/"><u>Why Windows Supercomputers Are Game-Changers</u></a></li>
 </ul></div>
 

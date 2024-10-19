@@ -1,7 +1,7 @@
 ---
 title: Fixing Windows Crashes Due to 0X0000011B Errors
-date: 2024-10-11T17:14:10.199Z
-updated: 2024-10-13T00:11:51.810Z
+date: 2024-10-13T17:27:13.540Z
+updated: 2024-10-18T22:42:42.266Z
 tags:
   - windows10
   - windows11
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 9. Once the Print Spooler service is up and running, create a new print job and check for any improvements.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Install All the Pending Windows Updates
@@ -64,6 +64,13 @@ To check and install Windows updates:
 3. Click on**Check for updates** . Windows will look for pending updates and list them here.
 4. Click on**Download & install** to install the updates.
 5. Once installed, restart your PC and check for any improvements.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Install the Printer Manually via the Local Port
 
@@ -83,34 +90,15 @@ To check and install Windows updates:
 2. Click the drop-down for**Type of port** and select**Local Port.**
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click**Next** .  
 ![enter port name printer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/enter-port-name-printer.jpg)
 4. Type your network printer file path and the network printer name in the**Enter a port name** field. You can use the username or the IP address for the computer name and then the printer name you want to share.
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Click**OK** to save the printer.
 
@@ -144,10 +132,10 @@ Next, follow these steps to disable CVE-2021-1678 mitigation:
 6. Right-click on the**RpcAuthnLevelPrivacyEnabled** value and select**Modify** .
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Type**0** in the**Value data** field and click**OK** to save the changes.  
@@ -157,10 +145,10 @@ Next, follow these steps to disable CVE-2021-1678 mitigation:
 9. After the restart, try to use your shared printer and check if the error is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Uninstall Recently Installed Updates
@@ -185,10 +173,10 @@ To uninstall Windows updates:
 6. Click**Uninstall** again to confirm the action. Wait for the update to uninstall and restart your PC to apply the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing the 0x0000011b Printing Error on Windows
@@ -210,22 +198,22 @@ To uninstall Windows updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-filmmaking-mastery-youtube-trailer-design-with-filmora/"><u>[New] 2024 Approved Filmmaking Mastery YouTube Trailer Design with Filmora</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-is-sns-hdr-pro-worth-your-investment-a-critical-look/"><u>[New] Is SNS HDR Pro Worth Your Investment A Critical Look</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-superior-titles-for-live-game-broadcasting/"><u>[New] Superior Titles for Live Game Broadcasting</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-unrestricted-display-save-tool-for-2024/"><u>[Updated] Unrestricted Display Save Tool for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-infinix-smart-8-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Infinix Smart 8 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-the-windows-lsa-disablement-warning/"><u>Bypassing the Windows LSA Disablement Warning</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/convert-and-save-cnbc-footage-as-high-quality-mp4-wmv-or-avi-files-for-easy-viewing/"><u>Convert and Save CNBC Footage as High-Quality MP4, WMV, or AVI Files for Easy Viewing!</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oneplus-open-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your OnePlus Open in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/extend-the-time-windows-11-spends-in-shutdown-with-ongoing-jobs/"><u>Extend the Time Windows 11 Spends in Shutdown with Ongoing Jobs</u></a></li>
-<li><a href="https://windows11.techidaily.com/improve-file-selection-techniques-activating-windows-11-boxes/"><u>Improve File Selection Techniques: Activating Windows 11 Boxes</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-infinix-smart-7-hd-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Infinix Smart 7 HD FRP Bypass</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-the-nuances-of-widget-alerts-in-windows/"><u>Navigating the Nuances of Widget Alerts in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-missed-files-in-steam-and-windows-11/"><u>Overcoming Missed Files in Steam & Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-xc0f1103f-flaw-with-nvidias-windows-software/"><u>Overcoming XC0F1103F Flaw with Nvidia's Windows Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedy-the-already-in-use-local-device-name-mistake-on-pcs/"><u>Remedy the 'Already in Use' Local Device Name Mistake on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719349405273-say-no-to-incompatibility-quick-solutions-for-vistawindows-7-users/"><u>Say No to Incompatibility: Quick Solutions for Vista/Windows 7 Users.</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/the-ultimate-troubleshooting-tips-to-restore-your-stereo-mix-capability-successfully/"><u>The Ultimate Troubleshooting Tips to Restore Your Stereo Mix Capability Successfully</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-navigating-new-realms-todays-vr-tomorrows-trials-for-2024/"><u>[New] Navigating New Realms Today's VR, Tomorrow's Trials for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-understanding-your-absence-on-snapchat/"><u>2024 Approved Understanding Your Absence on Snapchat</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-7-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset iPhone 7 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-your-drivers-on-windows-7-by-drivereasy-guide/"><u>How to use Device Manager to reinstall your drivers on Windows 7</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-ultimate-canon-sequence-crafts/"><u>In 2024, Perfecting Ultimate Canon Sequence Crafts</u></a></li>
+<li><a href="https://windows11.techidaily.com/mute-irrelevant-suggestions-on-windows-11/"><u>Mute Irrelevant Suggestions on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-risks-cheap-windows-activation-key-drawbacks/"><u>Navigating the Risks: Cheap Windows Activation Key Drawbacks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revamp-your-ringtone-a-guide-to-enhancing-iphone-voice-calls/"><u>Revamp Your Ringtone: A Guide to Enhancing iPhone Voice Calls</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723201115544-solving-windows-update-failure-error-80070g-fast-and-effective-methods/"><u>Solving Windows Update Failure Error 80070^G - Fast & Effective Methods!</u></a></li>
+<li><a href="https://windows11.techidaily.com/techniques-for-enhancing-result-visibility-on-windows-1011/"><u>Techniques for Enhancing Result Visibility on Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-file-reinstatement-in-windows-os/"><u>The Art of File Reinstatement in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-blueprint-for-direct-access-in-windows-11/"><u>The Essential Blueprint for Direct Access in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-key-to-no-fuss-vbox-installation-deps-please/"><u>The Key to No-Fuss VBox Installation? Deps, Please</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-correcting-iphone-photo-error-on-pcs-windows-1011/"><u>Tips for Correcting iPhone Photo Error on PCs (Windows 10/11)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/transforming-chat-frustrations-into-effective-google-meet-conversations-for-2024/"><u>Transforming Chat Frustrations Into Effective Google Meet Conversations for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/uncharted-territories-of-data-loss-navigating-with-totans-guidance/"><u>Uncharted Territories of Data Loss - Navigating with Totan's Guidance</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-stick-with-traditional-skip-the-boredom-for-new-outlook/"><u>Why Stick with Traditional? Skip the Boredom for New Outlook</u></a></li>
 </ul></div>
 

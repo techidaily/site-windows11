@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Microsoft Teams: Quick & Lightweight"
-date: 2024-10-11T22:19:57.058Z
-updated: 2024-10-12T22:27:07.014Z
+date: 2024-10-15T22:22:42.992Z
+updated: 2024-10-18T17:45:54.545Z
 tags:
   - windows10
   - windows11
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
  Another significant change is the introduction of the new architecture. Microsoft Teams has now fully transitioned from AngularJS to React for its web development framework needs. Where Fluent UI’s UX controls provide standardized common component support, WebView2 replaces Electron as the rendering engine for the app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Other Features That Boost Collaboration and Productivity in Teams
@@ -53,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
  Apart from these, Microsoft also plans to bring some new features later this year, including third-party and Line-of-Business(LOB) apps support and advanced calling and meeting feature.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Try the Teams Public Preview
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/3b3b313aac4422406d268b9ec86a52f71522ac5df
 ![Microsoft teams update policies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-teams-update-policies.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The new Teams is only available as a public preview build and is available for commercial users now. While the company plans to bring it to Education and platforms like VDI and web later this year, here’s how to set an Update policy and enable Teams public preview for organizations.
@@ -87,16 +87,10 @@ To set the Update policy and enable public preview:
  To enable new Teams, launch the app and toggle the**new Teams** switch to starting using the latest iteration of Teams. You can switch between the classic and new Teams app without restrictions.
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Microsoft Teams is Now More Efficient and Faster
@@ -120,16 +114,20 @@ To set the Update policy and enable public preview:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-access-premium-level-video-templates-for-free/"><u>[New] Access Premium-Level Video Templates for Free</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-avoiding-unwanted-image-ripples/"><u>[New] In 2024, Avoiding Unwanted Image Ripples</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-characters-that-convert-ideal-story-strategies/"><u>[New] In 2024, Characters That Convert Ideal Story Strategies</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-enhancing-visual-storytelling-utilizing-luts-techniques/"><u>[New] In 2024, Enhancing Visual Storytelling Utilizing Luts Techniques</u></a></li>
-<li><a href="https://windows11.techidaily.com/combat-plan-against-windows-error-0xc00ce556/"><u>Combat Plan Against Window's Error 0xC00CE556</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-iphone-13-mini-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From iPhone 13 mini Online</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-microsofts-bluetooth-linked-application/"><u>Navigating Microsoft's Bluetooth-Linked Application</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/navigating-through-interrupted-streams-on-social-media-for-2024/"><u>Navigating Through Interrupted Streams on Social Media for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/proven-file-sync-software-the-most-trusted-windows-picks/"><u>Proven File Sync Software: The Most Trusted Windows Picks</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-tips-for-syncing-two-windows-displays/"><u>Quick Tips for Syncing Two Windows Displays</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/review-of-the-tp-link-archer-a7-powerful-performance-at-an-affordable-price-below-100/"><u>Review of the TP-Link Archer A7: Powerful Performance at an Affordable Price Below $100</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ow-to-transferring-youtube-shorts-from-pcandroid-or-ios-for-2024/"><u>[New] How-To Transferring YouTube Shorts From PC/Android or iOS for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-exploring-ancient-facebook-tales-your-pcmobile-checklist/"><u>[New] In 2024, Exploring Ancient Facebook Tales Your PC/Mobile Checklist</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-leveraging-ergonomics-for-superior-team-dynamics-in-the-workplace/"><u>[New] In 2024, Leveraging Ergonomics for Superior Team Dynamics in the Workplace</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-five-key-strategies-for-effective-script-narration/"><u>2024 Approved Five Key Strategies for Effective Script Narration</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-free-mov-editor-software-top-picks-for-both-windows-and-mac-users/"><u>Best Free MOV Editor Software - Top Picks for Both Windows and Mac Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/fast-track-to-enabling-telnet-in-win11-pcs/"><u>Fast Track to Enabling Telnet in Win11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-salvage-your-failed-zip-extraction-in-windows-11/"><u>How To Salvage Your Failed ZIP Extraction in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/muting-mayhem-reverse-sound-suppression-in-windows/"><u>Muting Mayhem? Reverse Sound Suppression in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-and-understanding-how-to-use-imessage-on-your-computer/"><u>Navigating and Understanding How to Use iMessage on Your Computer</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/peak-palette-manager-suite-for-2024/"><u>Peak Palette Manager Suite for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/protecting-against-fake-mail-fraud-identifying-and-preventing-email-hijacking/"><u>Protecting Against Fake Mail Fraud: Identifying & Preventing Email Hijacking</u></a></li>
+<li><a href="https://windows11.techidaily.com/redesigned-navigation-top-7-updates-to-window-11s-file-explorer/"><u>Redesigned Navigation: Top 7 Updates to Window 11'S File Explorer</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-vision-enhancers-guide-top-9-remedies-for-blurry-displays/"><u>The Vision Enhancers' Guide: Top 9 Remedies for Blurry Displays</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-oppo-reno-11-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Oppo Reno 11 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-airpods-windows-symbiosis/"><u>Unlocking AirPods-Windows Symbiosis</u></a></li>
 </ul></div>
 

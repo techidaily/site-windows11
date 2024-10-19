@@ -1,7 +1,7 @@
 ---
 title: Reviving Disconnected Steam Friends List (Wins11)
-date: 2024-10-09T16:14:32.374Z
-updated: 2024-10-12T23:51:56.651Z
+date: 2024-10-13T01:04:13.285Z
+updated: 2024-10-18T20:55:54.864Z
 tags:
   - windows10
   - windows11
@@ -48,17 +48,10 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 ![Steam friends and chat settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/friends-chat-settings-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Opt Out of Steam’s Beta Participation
@@ -73,18 +66,18 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
 ![Opt out of Steam beta](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/steam-beta-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Edit Steam’s Executable
 
  While this isn’t an official fix, editing the executable file could fix the “Steam friends network unreachable” error. To find Steam’s executable file, search for **Steam** within the Start menu search bar and select **Open file location**. Then, right-click **Steam** and head to **Properties**. Open the **Shortcut** tab and add **\-nofriendsui** into the **Target** field.
 
  Click **Apply** and **OK** to save the new settings and restart Steam.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Delete the Steam Appdata Folder
 
@@ -94,7 +87,21 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
 ![Deleting the IconCache File by Right-clicking on the File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-deleting-the-iconcache-file-by-right-clicking-on-the-file-in-windows-file-explorer.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you can’t find it, you should change File Explorer settings, so you can [view hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/).
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Delete Steam's Web Data
 
@@ -109,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 7. Close the game, restart Steam, and check if the issue is now solved.
 
 ![Delete Steam web cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-steam-cache-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get Back to Playing With Your Friends
 
@@ -133,17 +133,21 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-instructions-for-crafting-and-installing-whatsapp-alerts/"><u>[New] Step-By-Step Instructions for Crafting & Installing WhatsApp Alerts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-10-youtube-storytelling-techniques-that-work-for-2024/"><u>[Updated] 10 YouTube Storytelling Techniques That Work for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-bend-reality-in-adobe-a-comprehensive-guide-to-ph-warping/"><u>[Updated] Bend Reality in Adobe A Comprehensive Guide to PH Warping</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-from-waves-to-words-navigating-the-world-of-audio-editing-in-garageband-for-2024/"><u>[Updated] From Waves to Words Navigating the World of Audio Editing in GarageBand for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/assessment-of-differences-onsite-vs-cloud-based-windows-downloads/"><u>Assessment of Differences: Onsite vs Cloud-Based Windows Downloads</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-photoshop-sway-decrease-pivotal-or-superfluous/"><u>In 2024, Photoshop Sway Decrease Pivotal or Superfluous?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-version-of-reliable-broadband-card-drivers-ready-for-you-to-download/"><u>Latest Version of Reliable Broadband Card Drivers - Ready for You to Download</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-windows-onedrive-error-0x80070194/"><u>Navigating Through Windows' OneDrive Error 0X80070194</u></a></li>
-<li><a href="https://windows11.techidaily.com/triumph-over-microsoft-teams-stumbling-block-80080300-on-w11/"><u>Triumph over Microsoft Teams' Stumbling Block #80080300 on W11</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/troubleshooting-obs-frame-loss/"><u>Troubleshooting OBS Frame Loss</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726028164808-windows-10/"><u>Windows 10で効果的に動画を統合するためのガイド【ビデオ編集手順】</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-preserves-7-ancient-features-for-modern-use/"><u>Windows 11 Preserves 7 Ancient Features for Modern Use</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-2023-best-8-private-video-downloaders/"><u>[New] 2024 Approved 2023 | Best 8 Private Video Downloaders</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-mirrored-moments-the-essence-of-flipping-videos-for-2024/"><u>[New] Mirrored Moments The Essence of Flipping Videos for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-pushing-boundaries-with-iphones-motion-blur-capabilities/"><u>2024 Approved Pushing Boundaries with iPhone’s Motion-Blur Capabilities</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/galaxy-s7-gegen-iphone-7-detaillierte-vergleichsanalyse-der-funktionen-highlights-und-kosten/"><u>Galaxy S7 Gegen iPhone 7: Detaillierte Vergleichsanalyse Der Funktionen, Highlights Und Kosten</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-going-with-your-epson-v700-expert-download-and-setup-guides-for-windows-users/"><u>Get Going with Your Epson V700: Expert Download and Setup Guides for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-sound-devices-not-opened-by-audacity-in-win-os/"><u>How to Fix Sound Devices Not Opened by Audacity in Win OS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/itunesiphone/"><u>ITunesで動かない時のトラブルシューティング：iPhone連携フリーズ回避と対処法</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-non-responsive-laptop-mousepad-problems-across-multiple-windows-versions/"><u>Resolve Non-Responsive Laptop Mousepad Problems Across Multiple Windows Versions</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-overcoming-windows-0x800704b3-problems/"><u>Strategies for Overcoming Windows' 0X800704B3 Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-stopping-microsoft-teams-from-shutting-down-ws11ws10/"><u>Strategies for Stopping Microsoft Teams From Shutting Down WS11/WS10</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-windows-camera-software-hurdles/"><u>Tackling Windows Camera Software Hurdles</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-overcoming-generic-sound-failure-in-windows/"><u>Tips for Overcoming Generic Sound Failure in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/ultimate-strategy-batch-convert-heic-files-to-jpeg-in-windows-11/"><u>Ultimate Strategy: Batch Convert HEIC Files to JPEG in Windows 11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-from-ordinary-to-amazing-the-ultimate-video-enhancement-tool/"><u>Updated In 2024, From Ordinary to Amazing The Ultimate Video Enhancement Tool</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/voiceverse-review-audio-deep-dive-for-2024/"><u>VoiceVerse Review Audio Deep Dive for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-tweaks-for-swifter-epic-games-setup/"><u>Windows Tweaks for Swifter Epic Games Setup</u></a></li>
 </ul></div>
 

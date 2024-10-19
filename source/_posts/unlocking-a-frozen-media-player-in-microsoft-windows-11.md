@@ -1,7 +1,7 @@
 ---
 title: Unlocking a Frozen Media Player in Microsoft Windows 11
-date: 2024-09-05T02:09:48.922Z
-updated: 2024-09-06T02:09:48.922Z
+date: 2024-10-13T03:03:10.975Z
+updated: 2024-10-18T16:28:16.830Z
 tags:
   - windows10
   - windows11
@@ -40,11 +40,12 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 ![Enable Video Library Access for the Media Player App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/enable-video-library-access-for-the-media-player-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Refresh Your Libraries
 
  If the Media Player app fails to detect your files even after enabling video library access, you can try refreshing the libraries. This will allow the app to scan your system for media files again.
@@ -57,11 +58,12 @@ To refresh libraries in the Media Player app, follow these steps:
 ![Refresh Libraries in the Media Player App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/refresh-libraries-in-the-media-player-app.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Switch to the**Library** tab and check if your media files appear now.
 
 ## 4\. Disable Video Enhancements
@@ -76,12 +78,6 @@ To disable video enhancements in Windows, use these steps:
 4. Turn off the switch next to the**Process video automatically to enhance it** option.  
 ![Disable Video Processing on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/disable-video-processing-on-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Run the Relevant Windows Troubleshooters
 
  If you’re facing playback issues in other media players as well, you can consider running Windows' troubleshooters. Specifically, you can run the Playing Audio and Video Playback troubleshooters. This will allow Windows to diagnose your system for any video playback issues and suggest fixes accordingly. Here’s how you can run these troubleshooters on Windows.
@@ -94,19 +90,14 @@ To disable video enhancements in Windows, use these steps:
 ![Windows Troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/windows-troubleshooters.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  After running these troubleshooters, restart the Media Player app and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Repair or Reset the Media Player App
 
  Windows 11 includes a useful app repair tool for fixing common issues with apps. You can use this feature to fix issues with most of your apps, including Media Player. Windows will scan the app’s files and settings during this process and attempt to fix any issues it discovers. For more instructions on this, check our guide on[how to repair apps and programs in Windows](https://www.makeuseof.com/windows-repair-apps-programs/) and follow the steps outlined there.
@@ -114,17 +105,12 @@ To disable video enhancements in Windows, use these steps:
  Alternatively, you can also consider resetting the app. Since this process allows Windows to erase all the app data and reset app configurations, it’s more likely to fix any issues. We have a guide on[how to reset an app on Windows](https://www.makeuseof.com/windows-reset-app/) . Follow the instructions outlined there to reset the Media Player app on your PC.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Re-Register the Relevant DLL Files
 
  Dynamic Link Libraries (DLLs) files on your PC contain functions and data that programs use to perform specific tasks. If some of the DLL files linked with the Media Player app are missing or damaged, the app may fail to open or work. Here’s what you can do to fix them.
@@ -151,14 +137,11 @@ regsvr32 wmp.dll`
 
  If you're tired of dealing with such issues with the new Media Player app or if you're looking for more functionality, there are plenty of free media player apps available for Windows that you can try.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -167,4 +150,20 @@ regsvr32 wmp.dll`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-effective-strategies-to-craft-influential-patient-stories-on-film/"><u>[New] In 2024, Effective Strategies to Craft Influential Patient Stories on Film</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastering-youtube-music-blends/"><u>[New] Mastering YouTube Music Blends</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-rapid-resolutions-overcoming-video-file-missing-in-html5-streams/"><u>1. Rapid Resolutions: Overcoming 'Video File Missing' In HTML5 Streams</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-step-by-step-for-placing-antique-games-into-photos-folder/"><u>A Step-by-Step for Placing Antique Games Into Photos Folder</u></a></li>
+<li><a href="https://windows11.techidaily.com/automating-windows-auditory-restart-post-boot-issue/"><u>Automating Windows Auditory Restart Post-Boot Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/comparing-w10-and-w11-a-detailed-look-at-key-updates/"><u>Comparing W10 & W11: A Detailed Look at Key Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-tutorial-onedrive-plus-microsoft-login-on-pc/"><u>Comprehensive Tutorial: OneDrive + Microsoft Login on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/delving-into-disparities-unveiling-the-distinctive-aspects-of-each-login-type/"><u>Delving Into Disparities: Unveiling The Distinctive Aspects of Each Login Type</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fast-solutions-for-when-fortnite-wont-start-up-correctly-easy-repair-tips/"><u>Fast Solutions for When Fortnite Won't Start Up Correctly | Easy Repair Tips</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-xs-max-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone XS Max Lock Screen</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-enhance-phantom-flying-top-11-add-on-gear/"><u>In 2024, Enhance Phantom Flying Top 11 Add-On Gear</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-oneplus-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on OnePlus Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-best-toy-drones-for-kids/"><u>In 2024, The Ultimate Guide to Best Toy Drones for Kids</u></a></li>
+</ul></div>
 

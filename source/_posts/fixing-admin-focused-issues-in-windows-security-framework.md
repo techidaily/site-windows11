@@ -1,7 +1,7 @@
 ---
 title: Fixing Admin-Focused Issues in Windows Security Framework
-date: 2024-09-29T22:01:23.120Z
-updated: 2024-10-02T00:39:14.117Z
+date: 2024-10-17T02:11:07.110Z
+updated: 2024-10-18T23:40:35.470Z
 tags:
   - windows10
   - windows11
@@ -42,19 +42,6 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
 
  Should this solution work, the issue will likely reoccur if you reinstall the same third-party antivirus virus software. Then you would have to choose between using the third-party antivirus utility or Windows Security.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Edit the Registry
 
  Many users have been able to fix the Windows Security administrator error by applying this confirmed registry solution. This registry tweak involves modifying a DWORD value, but you don’t need to delete any key. To apply this potential resolution, edit the registry like this:
@@ -67,22 +54,22 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
 ![The HypervisorEnforced registry key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-hypervisor-key.jpg)
 5. Clear the**Data value** box, and then input**0** there.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Select**OK** to set the**Enabled** DWORD’s value.  
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-dword-window.jpg)
 7. Exit Registry Editor and click the**Power** \>**Restart** Start menu options.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Set Group Policy’s Real-time Protection Settings to "Not Configured"
@@ -97,16 +84,17 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
 ![The Real-time Protection policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/the-real-time-protection-policy-settings.jpg)
 6. Double-click any policy setting that’s with an enabled state.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Then select the**Not configured radio** button.  
 ![The Not Configured radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/not-configured-option.jpg)
 8. Click**Apply** \>**OK** in the window to set the change.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9. Repeat the previous three steps for all real-time protection policies set to enabled.
 
 ## 6\. Reinstall Windows Security
@@ -121,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
 
 4. Restart your laptop or desktop from the Start menu.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Reinstall Windows 11 With the Media Creation Tool
 
  Reinstalling Windows 11 by downloading an ISO with Media Creation Tool is a drastic potential solution. However, users have confirmed updating Windows 11 in such a way works for fixing this error. Furthermore, you can select to preserve apps and files when reinstalling. This is how to reinstall Windows 11:
@@ -137,19 +118,34 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
 3. Click**setup.exe** to open the Windows 11 installer.  
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/windows-11-setup-window.jpg)
 4. Select**Next** to initiate a system check.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Press the**Accept** button for the license terms.
 6. The**Keep personal files and apps** option will probably be set by default at the ready-to-install stage. However, you click**Change what to keep** to make sure the**Keep personal files and apps** option is selected.  
 ![The Keep personal files and apps radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/keep-personal-files-option.jpg)
 7. Then select**Next** to proceed to the last step.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Click**Install** to reinstall Windows 11.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Change Windows Security’s Settings Again
 
@@ -170,18 +166,22 @@ thumbnail: https://thmb.techidaily.com/e591b5728fa84d66a3323b91b4ed2e3f5b0efaa53
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-hidden-narratives-unlocked-a-complete-snapguide/"><u>[New] 2024 Approved Hidden Narratives Unlocked A Complete Snapguide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-ways-kids-can-use-chatgpt-safely/"><u>5 Ways Kids Can Use ChatGPT Safely</u></a></li>
-<li><a href="https://windows11.techidaily.com/adjusting-onedrives-abode-in-the-windows-11-ecosystem/"><u>Adjusting OneDrive's Abode in the Windows 11 Ecosystem</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/discover-8-trusted-online-content-marketing-tools-for-2024/"><u>Discover 8 Trusted Online Content Marketing Tools for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/flipping-fun-facts-into-memes-with-kinemaster/"><u>Flipping Fun Facts Into Memes with KineMaster</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-v29-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo V29 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-revolutionize-sessions-with-pro-zoom-conversion-hacks/"><u>In 2024, Revolutionize Sessions with Pro-Zoom Conversion Hacks</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-windowed-play-top-6-windows-11-fps-counters/"><u>Mastering Windowed Play: Top 6 Windows 11 FPS Counters</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-over-lav-filters-a-comprehensive-guide-to-effective-use-in-windows/"><u>Mastery Over LAV Filters: A Comprehensive Guide to Effective Use in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/reviving-windows-sluggish-discord-overlay-performance/"><u>Reviving Windows' Sluggish Discord Overlay Performance</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/stop-frustration-your-definitive-guide-to-fixing-the-life-is-strange-true-colors-crash/"><u>Stop Frustration - Your Definitive Guide to Fixing the Life Is Strange: True Colors Crash</u></a></li>
-<li><a href="https://windows11.techidaily.com/tactics-to-troubleshoot-loaded-lol-screens/"><u>Tactics to Troubleshoot Loaded LOL Screens</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-fb-photo-selection/"><u>The Ultimate Guide to FB Photo Selection</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-which-recording-tool-excels-more-bandicam-vs-camtasia/"><u>[New] Which Recording Tool Excels More? - Bandicam Vs. Camtasia</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unveiling-the-secrets-detailed-guide-on-capturing-screens-with-zd-for-2024/"><u>[Updated] Unveiling the Secrets Detailed Guide on Capturing Screens with ZD for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-directing-the-flow-of-digital-storytelling-through-youtube-fusion/"><u>2024 Approved Directing the Flow of Digital Storytelling Through Youtube Fusion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-your-corporate-correspondence-writing-tough-messages-using-chatgpt/"><u>Enhancing Your Corporate Correspondence: Writing Tough Messages Using ChatGPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-notorious-dism-0x800f082f-in-windows-os/"><u>Fixing the Notorious DISM 0X800F082F in Windows OS</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-access-to-pinnacle-android-viewer/"><u>In 2024, Exclusive Access to Pinnacle Android Viewer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-pursuit-of-quality-a-deep-dive-into-sonys-x1000v-for-2024/"><u>In Pursuit of Quality A Deep Dive Into Sony's X1000V for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/insta-cinematography-tips-three-way-borders-for-2024/"><u>Insta Cinematography Tips Three-Way Borders for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/keep-your-pc-powerful-strategies-to-curtail-steams-memory-usage/"><u>Keep Your PC Powerful: Strategies to Curtail Steam's Memory Usage</u></a></li>
+<li><a href="https://windows11.techidaily.com/outshine-your-connection-exiting-the-windows-100mbps-constraint/"><u>Outshine Your Connection: Exiting the Windows 100Mbps Constraint</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconciling-discrepancies-restoring-ms-to-do-sync/"><u>Reconciling Discrepancies: Restoring MS To-Do Sync</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-a-slept-on-windows-start-button-symbol/"><u>Reviving a Slept-On Windows Start Button Symbol</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-the-screeching-corkscrew-of-your-mouse-wheel/"><u>Stop the Screeching Corkscrew of Your Mouse Wheel</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-behind-0x80070570-on-pcs-and-laptops/"><u>Unraveling the Mystery Behind 0X80070570 on PCs and Laptops</u></a></li>
+<li><a href="https://windows11.techidaily.com/wincontrol-hub-overseeing-winapp-and-web-traffic/"><u>WinControl Hub: Overseeing WinApp & Web Traffic</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-knowing-which-services-can-be-stopped/"><u>Windows 11: Knowing Which Services Can Be Stopped</u></a></li>
 </ul></div>
 

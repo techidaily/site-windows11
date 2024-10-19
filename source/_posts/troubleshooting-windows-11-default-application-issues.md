@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows 11 Default Application Issues
-date: 2024-09-28T02:16:02.928Z
-updated: 2024-10-01T16:33:31.848Z
+date: 2024-10-15T21:55:08.144Z
+updated: 2024-10-19T00:27:03.124Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,10 @@ thumbnail: https://thmb.techidaily.com/f1c57303ea622caa2e3702d3e2a77e00493f995e7
  Below, we have listed different ways of changing the default apps in Windows 11:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Choose the Open With Option
@@ -47,20 +47,6 @@ Here is how you can do that:
 3. Now, in the following dialog, choose the app you want to set as the default option. If you cannot find the targeted app in the list, choose**Look for another app on this PC** and then select the app.
 4. Click on**Always use this app to open files** and click**OK** . This should set the selected app as the default preference.  
 ![Set a default app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/set-the-default-app.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Use the Settings App
 
@@ -78,6 +64,13 @@ Follow these steps to proceed:
 
  This should set the app as the default option for the selected file and link types. However, if you[reset Windows 11 to its default state](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) ever, you will lose all these settings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Use File Properties
 
  You can also change the file properties of the targeted file to open it with a new default app.
@@ -87,14 +80,22 @@ To proceed, follow these steps:
 1. Right-click on the targeted file and choose**Properties** from the context menu.  
 ![Access the properties of the file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/image-properties.jpg)
 2. Head over to the General tab and click on the**Change** button associated with**Opens with** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Click on the Change button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/image-properties-general-change.jpg)
 3. Now, choose the desired app and click**OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What to Do If You Cannot Change the Default Apps in Windows 11?
@@ -120,14 +121,14 @@ Here is how you can do that:
 4. Install all the pending updates one by one by clicking on the**Download & install** button and then restart your PC.  
 ![Click on the Download & install button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/settings-windows-update-download-and-install.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once this is done, follow one of the steps above to change the default app.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Reset the Targeted App
 
@@ -145,6 +146,13 @@ Get-AppxPackage Microsoft.Windows.Photos -AllUsers | Reset-AppxPackage
 ![Reset the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/get-appxpackage-packagename.jpg)
 6. Once the command is executed, check if you can change the default app.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Reinstall the App
 
  Lastly, you can try reinstalling the app that you want to set as default. This will eliminate any corruption errors are bugs within the app that are preventing you from setting it as the default option.
@@ -156,13 +164,6 @@ Here is how you can proceed:
 3. In the following window, navigate to**Uninstall a program** .  
 ![Uninstall a program](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/uninstall-a-program.jpg)
 4. Locate the targeted app and right-click on it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Choose**Uninstall** and follow the on-screen instructions to proceed.  
 ![Uninstall the app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/win11-uninstall-program.jpg)
@@ -190,19 +191,21 @@ Here is how you can proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-newcomers-cheat-sheet-unlock-ps-editing-secrets/"><u>[New] 2024 Approved Newcomer's Cheat Sheet Unlock PS Editing Secrets</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-showcasing-brilliance-iconic-anime-intros/"><u>[Updated] Showcasing Brilliance Iconic Anime Intros</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>All You Need To Know About Mega Greninja For Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-your-workflow-with-windows-11s-widget-toolbar/"><u>Boost Your Workflow with Windows 11'S Widget Toolbar</u></a></li>
-<li><a href="https://discover-best.techidaily.com/cookiebot-enabled-enhance-your-sites-analytics-and-user-tracking/"><u>Cookiebot-Enabled: Enhance Your Site's Analytics and User Tracking</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/discover-the-mutant-asus-frankenboards-maximus-xiii-heroes-with-so-dimm-memory-and-striking-kingston-fury-designs-for-collectors/"><u>Discover the Mutant Asus Frankenboards: Maximus XIII Heroes with So-DiMM Memory and Striking Kingston Fury Designs for Collectors</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-and-update-latest-version-of-tp-link-wireless-drivers-windows/"><u>Download & Update: Latest Version of TP Link Wireless Drivers Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/exploring-windows-version-numbers-post-update/"><u>Exploring Windows Version Numbers Post-Update</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-blaze-curve-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Blaze Curve 5G Phone FRP Lock</u></a></li>
-<li><a href="https://windows11.techidaily.com/personalizing-win11-screen-saver-settings/"><u>Personalizing Win11 Screen Saver Settings</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-to-address-game-pass-connection-errors-in-windows/"><u>Techniques to Address Game Pass Connection Errors in Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-gpt-powered-website-building-with-4-secrets/"><u>Unlock GPT-Powered Website Building with 4 Secrets</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-make-memories-shine-video-editing-secrets-for-amateur-filmmakers/"><u>Updated In 2024, Make Memories Shine Video Editing Secrets for Amateur Filmmakers</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-developers-rejoice-unveiling-microsoft-copilot/"><u>Windows Developers Rejoice: Unveiling Microsoft Copilot</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-m1-advantage-high-speed-smooth-video-editing-experience-for-2024/"><u>[New] M1 Advantage High-Speed, Smooth Video Editing Experience for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-navigating-mac-screen-record-with-handy-keystrokes-for-2024/"><u>[Updated] Navigating Mac Screen Record with Handy Keystrokes for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/arets-basta-fotoorganiserare-forsta-9-programvaror-i-2024-det-nya-lista/"><u>Årets Bästa Fotoorganiserare: Första 9 Programvaror I 2024 - Det Nya Lista</u></a></li>
+<li><a href="https://windows11.techidaily.com/exposing-6-incongruent-features-in-windows-11/"><u>Exposing 6 Incongruent Features in Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-xs-max-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone XS Max Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-y100-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo Y100 5G without App | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-6s-plus-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your iPhone 6s Plus</u></a></li>
+<li><a href="https://windows11.techidaily.com/no-expense-spared-try-these-5-top-tier-driver-upgrades/"><u>No Expense Spared? Try These 5 Top-Tier Driver Upgrades</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-audacity-audio-error-in-windows-1111/"><u>Overcoming Audacity Audio Error in Windows 11/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-operative-bin-icon-on-windows-11/"><u>Restoring Operative Bin Icon on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/show-more-pins-strategies-for-start-screen/"><u>Show More Pins: Strategies for Start Screen</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-win-based-software-overcome-too-many-requests/"><u>Streamlining Your Win-Based Software: Overcome Too Many Requests</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-itunes-performance-issues-on-windows-pcs/"><u>Unlocking iTunes Performance Issues on Windows PCs</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/antimalware-service-executable/"><u>フル容量で作動するAntimalware Service Executable: 問題点とそれを解消する方法</u></a></li>
 </ul></div>
 

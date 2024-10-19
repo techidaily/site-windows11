@@ -1,7 +1,7 @@
 ---
 title: How to Fix Error Code 0Xc0000001 on Windows 10 or 11
-date: 2024-10-07T22:39:31.374Z
-updated: 2024-10-13T02:08:26.917Z
+date: 2024-10-16T02:46:11.761Z
+updated: 2024-10-18T22:05:12.575Z
 tags:
   - windows10
   - windows11
@@ -58,6 +58,13 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
 
  Once you’re done with all the commands, reboot your PC and see if you still face the error code 0xc0000001 on your Windows PC.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Unplug All External Devices
 
  As we always say, the most straightforward fixes are often the most neglected. If you have tried your hand at the above methods (and failed), before you move on to more complex solutions, we recommend you try out this simple fix first: unplug all your external devices and then plug them in again.
@@ -65,6 +72,13 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
  External devices can sometimes stir up errors in your Windows. It happens for a variety of reasons: maybe the driver didn’t get installed well the first time, some USB port issues occurred, and so on.
 
  So, unplug the devices, save your keyboard and mouse, and see if you still face the Windows error code 0xc0000001\.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Boot Into Safe Mode
 
@@ -74,31 +88,11 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
 
  If you see that disabling a specific program has fixed the error code 0xc0000001 problem, it’s highly probable the said app was behind it. In this case, uninstall the software while in Safe mode and reboot your PC normally—it will boot up quickly.
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Perform a Windows System Restore
 
  System Restore is yet another handy tool in your Windows computer. In brief, it works by bringing your PC back to a point in time when everything worked fine on your Windows.
 
 [Using System Restore](https://www.makeuseof.com/use-system-restore-windows/) is reasonably straightforward, and we have covered it before. Just follow the steps in the guide and see if this fixes the error code 0xc0000001 on Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Perform a Malware Scan
 
@@ -113,16 +107,10 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
  Indeed, the issues, if they have been left unchecked for too long, can be the cause of Windows 10 or 11 error code 0xc0000001 as well. While it’s no guarantee that [running the CHKDSK scan](https://www.makeuseof.com/sir-mini-how-to-run-chkdsk-in-windows-10/) fill will fix the problem, it’s very well worth a try.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Factory Reset Your Windows
@@ -132,10 +120,10 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
  There are [many ways to factory reset your Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/). So pick whatever method suits you best and then start fresh from ground zero.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fixing the Error Code 0xc0000001 on Windows Computer
@@ -154,24 +142,24 @@ Bootrec /fixmbrBootrec /fixbootBootrec /scanosBootrec /rebuildbcd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-capturecore-an-exhaustive-look-at-new-recording-technology/"><u>[Updated] 2024 Approved 'CaptureCore' An Exhaustive Look at New Recording Technology</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-goovision-9000-ultimate-os-snapshotter/"><u>[Updated] 2024 Approved GooVision 9000 Ultimate OS Snapshotter</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-beware-the-risk-in-fake-followers-on-youtube/"><u>2024 Approved Beware The Risk in Fake Followers on YouTube</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/comprehensive-nzxt-lift/"><u>Comprehensive NZXT Lift</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevate-your-digital-experience-process-control-and-thematic-aesthetics-in-w11/"><u>Elevate Your Digital Experience: Process Control & Thematic Aesthetics in W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/from-backup-bin-to-picture-panel-guiding-games-on-pcs-with-w11/"><u>From Backup Bin to Picture Panel: Guiding Games on PCs with W11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/game-insights-how-the-wasteland-2-remastered-revitalizes-classic-crpg-experience/"><u>Game Insights: How 'The Wasteland 2 Remastered' Revitalizes Classic CRPG Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-optimize-your-browsing-experience-use-defender-aguard-in-win-11-edge/"><u>How to Optimize Your Browsing Experience: Use Defender Aguard in Win 11 Edge</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Itel P55T? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/nba-2k2-stability-fix-resolved-with-ease/"><u>NBA 2K2# Stability Fix - Resolved with Ease!</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-program-use-in-windows-via-right-click-options/"><u>Optimizing Program Use in Windows via Right-Click Options</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/perfecting-your-google-podcast-submission-process-for-2024/"><u>Perfecting Your Google Podcast Submission Process for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/reduce-clutter-increase-efficiency-one-antivirus-rule/"><u>Reduce Clutter, Increase Efficiency: One Antivirus Rule!</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-windows-activation-flaw-error-0x803f700f/"><u>Remedying Windows Activation Flaw: Error 0X803F700F</u></a></li>
-<li><a href="https://windows11.techidaily.com/revolutionizing-ui-adding-cli-functionality-to-taskmgr-in-win11/"><u>Revolutionizing UI: Adding CLI Functionality to TaskMgr in Win11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tactics-for-securing-royalty-free-creative-pieces/"><u>Tactics for Securing Royalty-Free Creative Pieces</u></a></li>
-<li><a href="https://windows11.techidaily.com/taskbar-timeline-microsofts-ui-evolution/"><u>Taskbar Timeline: Microsoft's UI Evolution</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-printer-busy-errors-on-pcs/"><u>Troubleshooting Printer Busy Errors on PCs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-enhancing-engagement-30-outstanding-video-concepts/"><u>[New] 2024 Approved Enhancing Engagement 30 Outstanding Video Concepts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-the-mechanics-of-voice-over-production-in-videos/"><u>[New] 2024 Approved Mastering the Mechanics of Voice Over Production in Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-mac-ready-detailed-screenflow-review-with-v4/"><u>[New] Mac Ready Detailed ScreenFlow Review with V4</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-seamless-slidecasts-combining-webcam-and-ppt/"><u>[Updated] Seamless Slidecasts Combining Webcam and PPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/explore-and-connect-advanced-drives-mapping-on-windows-11/"><u>Explore & Connect: Advanced Drives Mapping on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-troubleshoot-apex-legends-crashing-on-windows-11/"><u>How to Troubleshoot Apex Legends Crashing on Windows 11</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-top-10-dynamic-picture-background-switchers/"><u>In 2024, Explore Top 10 Dynamic Picture-Background Switchers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/live-conversion-of-speech-to-text-using-whisper/"><u>Live Conversion of Speech to Text Using Whisper</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-entry-point-not-found-error-in-fortnite-a-comprehensive-guide/"><u>Resolving 'Entry Point Not Found' Error in Fortnite: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-downloading-and-setting-up-magic-mouse-for-windows-users/"><u>Step-by-Step Guide to Downloading and Setting Up Magic Mouse for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-overcoming-frustrations-with-failed-discord-install-on-windows/"><u>Swiftly Overcoming Frustrations with Failed Discord Install on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-using-dism-on-windows-11/"><u>The Ultimate Guide to Using DISM on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-rescue-your-zip-extraction-mishaps-on-windows-11/"><u>Tips to Rescue Your ZIP Extraction Mishaps on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-and-correcting-utorrent-installation-errors-in-winos/"><u>Troubleshooting and Correcting uTorrent Installation Errors in WinOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/tutorial-adjust-win11-connection-preferences/"><u>Tutorial: Adjust Win11 Connection Preferences</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-hidden-windows-startup-items/"><u>Unveiling Hidden Windows Startup Items</u></a></li>
 </ul></div>
 

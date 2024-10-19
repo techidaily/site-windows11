@@ -1,7 +1,7 @@
 ---
 title: Initiate System Check with These 5 Methods
-date: 2024-09-27T18:21:32.652Z
-updated: 2024-10-01T17:55:53.521Z
+date: 2024-10-15T21:20:11.912Z
+updated: 2024-10-18T23:09:05.210Z
 tags:
   - windows10
   - windows11
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
  This is the easiest way to go about launching the Startup Repair tool on Windows. So we will lay out this method first.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Use the Windows 11 Settings App
 
  Here’s how you can do it on Windows 11:
@@ -34,16 +41,16 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 
 ![windows recovery option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-recovery-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the next boot-up of Windows, your PC will be launched in the **Windows Recovery Environmen**t. From there, click on **Troubleshoot > Advanced Options > Startup Repair**.
 
  And that’s it. As soon as you click on the above option, the Startup Repair tool will be launched right then and there.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Use the Windows 10 Settings App
 
@@ -54,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 3. Under the **Advanced startup** menu, click on **Restart now**.
 
  Your Windows will boot into **Windows Recovery Environment** (Win RE) as soon as you do this. From there, the steps are similar to the ones you followed for Windows 11\.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Run the Startup Repair Tool Through the Desktop
 
@@ -67,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd
 ![advanced options on windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/advanced-options-on-windows.jpg)
 
  The Startup Repair tool will be launched from here.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Run the Startup Repair From BIOS
 
@@ -100,25 +107,18 @@ shutdown /r /o
 
 ![windows cmd](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/windows-cmd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As soon as you hit **Enter**, your PC will be restarted in the **Advanced Startup Options** menu; you can then select the **Startup Repair** option from there.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Use the F11 Shortcut Key During Boot
 
  Sometimes, simply hitting the **F11** key repeatedly during the boot-up can take you to the **Advanced Options** menu on many computers. So, make sure you give this a go as well. From there, you can easily access the **Windows Startup Options** tool.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Opening the Startup Repair Tool on a Windows PC
 
@@ -135,16 +135,18 @@ shutdown /r /o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-first-steps-in-gamified-editing-software-selection/"><u>[Updated] 2024 Approved First Steps in Gamified Editing Software Selection</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-best-practices-for-identifying-premier-free-srt-translation-services/"><u>[Updated] Best Practices for Identifying Premier Free SRT Translation Services</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-navigating-through-fbs-in-stream-ad-landscape-configuration-and-evaluation-techniques/"><u>[Updated] In 2024, Navigating Through FB's In-Stream Ad Landscape Configuration and Evaluation Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-lg-27ud68-4k-freesync-monitor-review/"><u>2024 Approved LG 27UD68 4K FreeSync Monitor Review</u></a></li>
-<li><a href="https://windows11.techidaily.com/automate-your-photo-display-craft-the-ultimate-win11-slideshow/"><u>Automate Your Photo Display - Craft the Ultimate Win11 Slideshow</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/beyond-illusions-demystifying-the-tri-fold-of-digital-experiences-mr-ar-and-vr/"><u>Beyond Illusions Demystifying the Tri-Fold of Digital Experiences (MR, AR, and VR)</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-download-velocity-in-steam-fending-off-drops/"><u>Boosting Download Velocity in Steam: Fending Off Drops</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-undetected-sd-cards-tips-and-tricks-for-quick-solutions/"><u>Fixing Undetected SD Cards - Tips and Tricks for Quick Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/supercharging-download-speeds-tips-and-tricks-for-ms-marketplace/"><u>Supercharging Download Speeds: Tips & Tricks for MS Marketplace</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/transform-your-beats-with-free-dji-luts-for-minis-and-air-devices/"><u>Transform Your Beats with Free DJI LUTs for Minis & Air Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-microsoft-store-error-code-0x80072f30/"><u>Troubleshooting Microsoft Store: Error Code 0X80072F30</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-perfecting-imovie-posts-on-vimeo-for-enhanced-viewership-for-2024/"><u>[New] Perfecting iMovie Posts on Vimeo for Enhanced Viewership for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-oppo-a38-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Oppo A38 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-baldurs-gate-gameplay-hiccups-ultimate-guide-to-smooth-gaming-experience/"><u>Fix Baldur’s Gate Gameplay Hiccups: Ultimate Guide to Smooth Gaming Experience</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-easily-update-or-download-intels-graphics-drivers-for-your-windows-pc-version-10-and-11/"><u>How to Easily Update or Download Intel's Graphics Drivers for Your Windows PC (Version 10 & 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-0x0000004e-error-in-windows-10-and-11/"><u>How to Fix the 0X0000004E Error in Windows 10 and 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-applecareplus-the-right-protection-plan-for-your-iphone-or-ipad/"><u>Is AppleCare+ the Right Protection Plan for Your iPhone or iPad?</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-sleep-hibernate-or-shutdown-best-for-your-windows-computer/"><u>Is Sleep, Hibernate, or Shutdown Best for Your Windows Computer?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/making-your-voice-heard-in-the-podcast-realm/"><u>Making Your Voice Heard in the Podcast Realm</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaiming-control-from-a-wildly-wandering-mouse/"><u>Reclaiming Control From a Wildly Wandering Mouse</u></a></li>
+<li><a href="https://windows11.techidaily.com/shelve-the-start-of-edge-windows-11s-solution/"><u>Shelve the Start of Edge: Windows 11'S Solution</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplified-gpo-analysis-via-gpresult-command/"><u>Simplified GPO Analysis via GPResult Command</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-strategies-for-enhancing-virtual-memory-on-windows-11-systems/"><u>Tailored Strategies for Enhancing Virtual Memory on Windows 11 Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-directory-30plus-zero-cost-online-tools-for-visual-effects-for-2024/"><u>The Ultimate Directory 30+ Zero-Cost Online Tools for Visual Effects for 2024</u></a></li>
 </ul></div>
 

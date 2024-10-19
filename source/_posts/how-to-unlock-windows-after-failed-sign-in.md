@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Windows After Failed Sign-In
-date: 2024-10-06T19:35:55.641Z
-updated: 2024-10-12T17:35:39.329Z
+date: 2024-10-16T02:01:32.772Z
+updated: 2024-10-19T01:39:45.469Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,19 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 
  Fortunately, you can fix this error by resetting the login PIN and a registry tweak to disable the account lockout option. Follow all the steps in the given order, and you should be able to fix the error and log in to your Windows computer.
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Keep Your Device Powered On for Two Hours
 
  If you don't have an alternate sign-in option enabled or have forgotten the password, you'll need to wait for two hours and then try to sign in again with the sign-in PIN. Make sure your PC remains turned on for two hours for it to work.
@@ -57,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 2. Next, click the **Reset password** option.  
 ![reset account password security question windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-account-password-security-question-windows.jpg)
 3. Now, you must answer the three security questions and press **Enter**. If the password is correct, a password reset option will appear.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![reset account password windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/reset-account-password-windows.jpg)
 4. Enter your new password and then re-enter the password to confirm the same.
@@ -89,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/05a2bebe19d9c7fab4bc3ec91fa821946b0580297
 4. Locate and right-click on your user account name.  
 ![local users and groups account properties windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/local-users-and-groups-account-peroperties-windows.jpg)
 5. Next, select **Properties**.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![local users and groups unselect account is disabled account is locked out](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/local-users-and-groups-unselect-account-is-disabled-account-is-locked-out.jpg)
 6. In the **Properties** dialog, open the **General** tab.
@@ -131,10 +130,10 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 4. Next, click the **Save as type** drop-down and select **All files**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click **Save** to create the batch script.
@@ -159,6 +158,13 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 ![account lockout threshold gpedit windows modify](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/account-lockout-threshold-gpedit-windows-modify.jpg)
 5. Type **0** in the **Account will not lock out** field.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![account lockout threshold gpedit windows modify o value](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/account-lockout-threshold-gpedit-windows-modify-o-value.jpg)
 6. Click **Apply** and **OK** to save the changes.
 
@@ -179,20 +185,20 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 5. Select **Modify**.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![modify Maxdenials registry DWORD value registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/modify-maxdenials-registry-dword-value-registry-editor.jpg)
 6. Type **0** in the **Value data** field and click **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7. Close Registry Editor and reboot your computer to apply the changes.
@@ -202,10 +208,10 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
  If all else fails, try third-party recovery tools like the Trinity Rescue Kit. It is a useful little utility that can help you reset your password.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Resolving the "Disabled Sign-In Options Due to Failed Attempts" Error on Windows
@@ -224,24 +230,15 @@ powershell -windowstyle hidden -command "Start-Process cmd -ArgumentList'/s,/c,'
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-top-thumbnail-dimensions-for-online-success/"><u>[New] 2024 Approved Top Thumbnail Dimensions for Online Success</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-timely-broadcasts-for-maximum-impact/"><u>[New] Timely Broadcasts for Maximum Impact</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-itel-p55t-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/8-innovative-uses-of-facebook-in-modern-project-coordination/"><u>8 Innovative Uses of Facebook in Modern Project Coordination</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-the-sluggishness-of-windows-discord-features/"><u>Addressing the Sluggishness of Windows Discord Features</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/advanced-game-monitoring-tools-for-diverse-formats/"><u>Advanced Game Monitoring Tools for Diverse Formats</u></a></li>
-<li><a href="https://windows11.techidaily.com/all-in-one-software-suite-ios-ipados-mac-and-windows-connected/"><u>All-in-One Software Suite: IOS, iPadOS, Mac, and Windows Connected</u></a></li>
-<li><a href="https://windows11.techidaily.com/autopilot-off-stopping-chromes-unwanted-tab-openings/"><u>Autopilot Off: Stopping Chrome's Unwanted Tab Openings</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-control-mastering-local-gpo-access-on-windows-11/"><u>Boosting Control: Mastering Local GPO Access on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/brighten-up-windows-11-screens-with-easy-adjustments/"><u>Brighten Up Windows 11 Screens with Easy Adjustments!</u></a></li>
-<li><a href="https://windows11.techidaily.com/chrome-freezing-woes-on-win11-try-these-swift-solutions/"><u>Chrome Freezing Woes on Win11? Try These Swift Solutions.</u></a></li>
-<li><a href="https://windows11.techidaily.com/command-line-convenience-with-windows-task-scheduler/"><u>Command Line Convenience with Windows Task Scheduler</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-guide-to-unfreezing-window-taskbar/"><u>Comprehensive Guide to Unfreezing Window TaskBar</u></a></li>
-<li><a href="https://windows11.techidaily.com/compute-chronology-determining-window-system-era/"><u>Compute Chronology: Determining Window System Era</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-updated-wireless-1535-driver-now-resolved-issues/"><u>Download the Updated Wireless 1535 Driver - Now Resolved Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhancing-your-game-repositorys-visibility-on-epic-labs/"><u>Enhancing Your Game Repository's Visibility on Epic Labs</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-newest-graphics-card-software-updates-for-windows-users-gtx-1650-super-included/"><u>Install Newest Graphics Card Software Updates for Windows Users (GTX 1650 Super Included)</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/restoring-pcs-scanner-functionality-in-win10/"><u>Restoring PC's Scanner Functionality in Win10</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-insightful-review-the-comprehensive-theta-s-experience/"><u>[New] Insightful Review The Comprehensive Theta S Experience</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/action-herogo-black-vs-star-sj7-camera-for-2024/"><u>Action HeroGo Black Vs Star SJ7 Camera for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/developing-nutritious-meal-schedules-with-chatgpt-a-step-by-step-guide/"><u>Developing Nutritious Meal Schedules with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-strategies-for-overcoming-steam-service-errors-on-windows-11/"><u>Expert Strategies for Overcoming Steam Service Errors on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-biggest-language-models-in-tech-today/"><u>Exploring the Biggest Language Models in Tech Today</u></a></li>
+<li><a href="https://windows11.techidaily.com/harness-windows-11s-in-built-color-control-feature/"><u>Harness Windows 11’S In-Built Color Control Feature</u></a></li>
+<li><a href="https://facebook.techidaily.com/initiating-an-avatar-with-personal-touch-on-fb/"><u>Initiating an Avatar with Personal Touch on FB</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-best-deal-in-fitness-tracking-in-depth-look-at-the-budget-friendly-fitbit-versa-lite/"><u>The Best Deal in Fitness Tracking: In-Depth Look at the Budget-Friendly Fitbit Versa Lite</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-power-of-a-fresh-start-for-your-windows-apps/"><u>The Power of a Fresh Start for Your Windows Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-hidden-issues-causing-adobe-ps-not-launched/"><u>Unveiling Hidden Issues Causing Adobe PS Not Launched</u></a></li>
 </ul></div>
 

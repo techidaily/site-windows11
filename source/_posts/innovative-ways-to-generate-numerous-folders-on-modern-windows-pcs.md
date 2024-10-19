@@ -1,7 +1,7 @@
 ---
 title: Innovative Ways to Generate Numerous Folders on Modern Windows PCs
-date: 2024-09-28T21:31:59.230Z
-updated: 2024-10-02T01:25:39.492Z
+date: 2024-10-13T19:44:36.870Z
+updated: 2024-10-19T04:16:20.764Z
 tags:
   - windows10
   - windows11
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/80d3fa767f44fdaa6b3c03730260a31e590107858
  Finally, close the Powershell window and check if the folders have been created.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Use the Notepad to Create Multiple Folders at Once
@@ -87,13 +87,6 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 ![Save as option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-save-as.jpg)
 5. Give your file a name followed by **.bat**. For instance, we named our file as makeuseof.bat.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Notepad file name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/notepad-file-name.jpg)
 6. Expand the dropdown for Save as type and choose **All files**.
 7. Click **OK** and close the Notepad.
@@ -102,10 +95,10 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
  Now that you have created multiple files and folders, [organizing these files on Windows](https://www.makeuseof.com/tag/automatically-organize-files-windows/) is also worth considering if you do not want to spend a lot of time looking for information in them. Additionally, Windows also allows you to [rename multiple folders at once](https://www.makeuseof.com/cool-folder-tips-windows/), which can be helpful when organizing them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Use a Third-Party Application
@@ -129,13 +122,26 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 4. Once the Folder Frenzy dialog launches, type the names of the folders you want to create and click on the **Create Folder** button. These folders will be created in the Folder Frenzy file.  
 ![Create folder in Folder Frenzy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/folder-frenzy-create-folder.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  From here, you can even take a step further and learn [how to launch multiple programs with one shortcut on Windows](https://www.makeuseof.com/tag/launch-multiple-programs-single-shortcut-using-batch-file/) to increase your productivity at work or school. In case you no longer need the tool after creating bulk folders, you can uninstall it. This won't automatically delete the folders you have created using the tool, unless the uninstallation process explicitly offers to do so and you confirm that action.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create Multiple Folders in a Few Clicks on Windows
@@ -155,21 +161,18 @@ md "MUOJan"\"Windows" "MUOFeb"\"Android"`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-boosting-earnings-in-the-quick-flicks-of-youtube-shorts/"><u>[New] 2024 Approved Boosting Earnings in the Quick Flicks of YouTube Shorts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unlocking-the-potential-of-your-itunes-recordings/"><u>[Updated] 2024 Approved Unlocking the Potential of Your iTunes Recordings</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-best-mic-matches-for-video-editors/"><u>[Updated] Best Mic Matches for Video Editors</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminating-non-response-from-printmanagement-msc-errors/"><u>Eliminating Non-Response From 'Printmanagement' MSC Errors</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-install-windows-on-your-steam-deck/"><u>How to Install Windows on Your Steam Deck</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-video-content-for-youtube-success/"><u>In 2024, Mastering Video Content for YouTube Success</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-removing-unneeded-podcast-advice-from-spotify/"><u>In 2024, Removing Unneeded Podcast Advice From Spotify</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-oneplus-ace-2-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track OnePlus Ace 2 Pro Location | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-user-isolation-for-security-in-win-11/"><u>Mastering User Isolation for Security in Win 11</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ry-in-mapping-out-your-youtube-audience-for-2024/"><u>Mastery in Mapping Out Your YouTube Audience for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/preventing-vmwares-non-boot-windows-11-mistakes/"><u>Preventing VMware's Non-Boot Windows 11 Mistakes</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamline-your-screen-settings-with-these-10-win-11-tricks/"><u>Streamline Your Screen Settings with These 10 Win 11 Tricks</u></a></li>
-<li><a href="https://windows11.techidaily.com/unmasking-wintoys-your-essential-introduction-to-an-underused-powerhouse-tool-in-windows/"><u>Unmasking WinToys: Your Essential Introduction to an Underused Powerhouse Tool in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-access-denial-in-windows-11-with-these-5-steps/"><u>Unraveling Access Denial in Windows 11 with These 5 Steps</u></a></li>
-<li><a href="https://windows11.techidaily.com/utilizing-portable-gpus-no-internal-graphic-needed/"><u>Utilizing Portable GPUs: No Internal Graphic Needed</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-rapid-access-accelerating-vimeo-videos/"><u>[New] Rapid Access Accelerating Vimeo Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-streaming-wars-recap-fb-live-yt-live-and-twitter-spaces/"><u>[Updated] 2024 Approved Streaming Wars Recap FB LIVE, YT Live & Twitter Spaces</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-honor-90-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Honor 90</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/claude-2-simplified-objectives-and-utility/"><u>Claude 2 Simplified: Objectives & Utility</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-to-address-xerox-printing-software-update-issue-facing-error-0x800f020b-on-windows-pcs/"><u>Effective Solutions to Address Xerox Printing Software Update Issue – Facing Error 0X800F020B on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-locate-missing-gateway-ubisofts-launcher/"><u>How To Locate Missing Gateway: Ubisoft's Launcher</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/leap-from-voice-to-phrase-transcribing-with-whisper-for-windows/"><u>Leap From Voice to Phrase: Transcribing with Whisper for Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-the-art-of-controlling-discord-ui/"><u>Mastering the Art of Controlling Discord UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-common-connectivity-hurdles-with-7-obs-fixes/"><u>Overcoming Common Connectivity Hurdles with 7 OBS Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/perfectly-setup-your-external-drives-in-newest-os-win11/"><u>Perfectly Setup Your External Drives in Newest OS, Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/sneak-peek-into-windows-11s-undercover-menus/"><u>Sneak Peek Into Windows 11'S Undercover Menus</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-how-to-for-creating-a-mobile-hotspot-with-win-11/"><u>The Ultimate How-To for Creating a Mobile Hotspot with Win 11</u></a></li>
 </ul></div>
 

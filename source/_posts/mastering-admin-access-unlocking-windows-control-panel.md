@@ -1,7 +1,7 @@
 ---
 title: "Mastering Admin Access: Unlocking Windows Control Panel"
-date: 2024-10-06T02:20:51.036Z
-updated: 2024-10-12T23:16:02.387Z
+date: 2024-10-12T02:01:30.674Z
+updated: 2024-10-19T01:13:36.492Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,16 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
  This will open up the Control Panel with elevated privileges so that you can make changes effectively and safely. And while we're at it, did you know there are many[ways to open the Control Panel on Windows](https://www.makeuseof.com/windows-11-open-control-panel/) ?
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Open the Control Panel as an Administrator With a Desktop Shortcut
@@ -51,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 C:\WINDOWS\system32\control.exe
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. You now need to name your shortcut (Control Panel) and click**Finish** . Once you’ve created the shortcut, it will be placed on your desktop.  
@@ -62,10 +68,10 @@ C:\WINDOWS\system32\control.exe
 4. Next, right-click on the shortcut and select**Properties** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. On the Shortcut tab, click on**Advanced** .
@@ -75,10 +81,10 @@ C:\WINDOWS\system32\control.exe
  Now, whenever you need to access an elevated Control Panel, simply double-click on it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get the Most Out of Elevated Control Panel
@@ -100,20 +106,22 @@ C:\WINDOWS\system32\control.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-aerial-robotics-simplified-how-drones-fly-talk-and-work/"><u>[Updated] 2024 Approved Aerial Robotics Simplified How Drones Fly, Talk & Work</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-full-analysis-of-camstudio-screen-capture-tech/"><u>[Updated] 2024 Approved Full Analysis of CamStudio Screen Capture Tech</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-superior-android-3d-film-watcher/"><u>2024 Approved Superior Android 3D Film Watcher</u></a></li>
-<li><a href="https://windows11.techidaily.com/aoemi-made-simple-unifying-dual-window-desktops/"><u>AOEMi Made Simple: Unifying Dual Window Desktops</u></a></li>
-<li><a href="https://windows11.techidaily.com/best-video-splitters-and-editors-on-windows-systems/"><u>Best Video Splitters & Editors on Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-windows-with-top-2023-ms-store-winners/"><u>Boost Windows with Top 2023 MS Store Winners</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-honor-90-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Honor 90</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-onedrive-failure-in-folder-addition-on-desktop-os/"><u>Bypassing OneDrive Failure in Folder Addition on Desktop OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-unilateral-audio-issue-on-win-os-headphones/"><u>Correcting Unilateral Audio Issue on WIN OS Headphones</u></a></li>
-<li><a href="https://windows11.techidaily.com/crafting-precise-user-level-group-policies-in-windows-devices/"><u>Crafting Precise User-Level Group Policies in Windows Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/digital-dilemma-deciphered-7-strategies-to-reopen-browsers-in-win-os/"><u>Digital Dilemma Deciphered: 7 Strategies to Reopen Browsers in WIN OS</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-apple-iphone-12-mini-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your Apple iPhone 12 mini for Free</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-reno-10-pro-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Oppo Reno 10 Pro 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-journey-through-the-maze-old-vs-innovative-rpgs/"><u>In 2024, Journey Through the Maze Old Vs. Innovative RPGs</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-maximize-your-iphone-x-10-proven-strategies/"><u>In 2024, Maximize Your iPhone X 10 Proven Strategies</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/pectacular-screen-synergy-the-perfect-partner-pairing-for-an-mcn-for-2024/"><u>[New] Spectacular Screen Synergy The Perfect Partner Pairing for an MCN for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-guide-7-high-ranking-audio-transformation-apps-for-2024/"><u>[New] Ultimate Guide 7 High-Ranking Audio Transformation Apps for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-techniques-for-saving-and-recording-ps4-gameplay-for-2024/"><u>[Updated] Essential Techniques for Saving and Recording PS4 Gameplay for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-expert-reviews-on-top-6-hdmi-21-display-models/"><u>[Updated] In 2024, Expert Reviews on Top 6 HDMI 2.1 Display Models</u></a></li>
+<li><a href="https://windows11.techidaily.com/create-an-eye-catching-custom-windows-desktop-with-rainmeter-tips/"><u>Create an Eye-Catching Custom Windows Desktop with Rainmeter Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/discover-improved-voice-modulation-in-the-latest-version-of-microsoft-clipchamp/"><u>Discover Improved Voice Modulation in the Latest Version of Microsoft Clipchamp</u></a></li>
+<li><a href="https://windows11.techidaily.com/ease-system-overload-in-your-linux-vmware-by-regaining-lost-storage-capacity-quickly/"><u>Ease System Overload in Your Linux Vmware by Regaining Lost Storage Capacity Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-strategies-to-address-and-correct-dpc-watchdog-errors-in-windows-10-systems/"><u>Effective Strategies to Address and Correct DPC Watchdog Errors in Windows 10 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-techniques-for-forcing-shut-down-non-responsive-programs-in-windows-11/"><u>Effective Techniques for Forcing Shut Down Non-Responsive Programs in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-file-management-game-top-4-advanced-techniques-for-windows-11-tab-users/"><u>Elevate Your File Management Game: Top 4 Advanced Techniques for Windows 11 Tab Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/elgato-stream-deck-neo-review-initial-thoughts-and-unboxing-experience/"><u>Elgato Stream Deck Neo Review - Initial Thoughts and Unboxing Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/embracing-the-elegance-of-onsite-data-duplication-a-guide-to-local-backups/"><u>Embracing the Elegance of Onsite Data Duplication: A Guide to Local Backups</u></a></li>
+<li><a href="https://win-docs.techidaily.com/envisioning-the-future-of-microsoft-surface-balancing-consumer-dreams-with-realistic-prospects-as-explored-by-zdnet/"><u>Envisioning the Future of Microsoft Surface: Balancing Consumer Dreams with Realistic Prospects, as Explored by ZDNet</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/how-to-share-videos-on-twitter-on-your-phone-without-retweeting-in-2024/"><u>How to Share Videos on Twitter on Your Phone Without Retweeting, In 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-se-2020-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone SE (2020) Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intels-comprehensive-extended-warranty-program-unveiled-coverage-for-13th-and-14th-gen-core-i5-i7-and-i9-chips/"><u>Intel's Comprehensive Extended Warranty Program Unveiled: Coverage for 13Th & 14Th Gen Core I5, I7, & I9 Chips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-motorola-moto-g13-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Motorola Moto G13? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unblocking Windows 11: How to Resolve Elevation Error #740"
-date: 2024-09-05T02:08:01.571Z
-updated: 2024-09-06T02:08:01.571Z
+date: 2024-10-16T21:29:05.343Z
+updated: 2024-10-18T17:55:52.731Z
 tags:
   - windows10
   - windows11
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 
 ![The Run this program as an administrator checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/run-this-program-as-an-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Set Programs to Run in Compatibility Mode
 
  It’s also recommended to set older programs to run in compatibility mode. Doing so might address a compatibility issue causing error 740\. You can set an affected program to run in compatibility mode like this:
@@ -43,17 +50,19 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 ![The User Account Control Settings window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/user-account-control-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Adjust Folder Permission Settings
 
  This potential resolution is recommended for users who can’t access specific folders because of error 740\. In that scenario, this error can be a folder permissions issue that selecting the **Replace all child object permission entries** option could feasibly address.
@@ -67,29 +76,19 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 5. Click **Advanced** to access more security settings.  
 ![The Security tab and Advanced button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-security-tab3.jpg)
 6. Select the **Replace all child object permissions entries with inheritable permission entries from this object** checkbox.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The Replace all child object permission entries checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/replace-all-child-objects-option.jpg)
 7. Click **Apply** on the Advanced Security Settings window.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 8. Select **Yes** when asked to continue.
 9. Exit the folder’s properties window and restart your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Modify the Behavior of the UAC Elevation Prompt
 
  If your Windows PC has the Group Policy Editor, try changing the behavior of UAC’s elevation prompt with that tool. Selecting the **Elevate without prompting** setting for the User Account Control: Behavior policy could fix error 740 for some users.
@@ -102,18 +101,6 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 4. Then go to **Local Policies** and **Security Options** to access User Account Control Policy settings.  
 ![Security Options within Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/security-options.jpg)
 5. Double-click the **User Account Control: Behavior of the elevation prompt for administrators in Admin Approval Mode** policy.
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Select the **Elevate without prompting** option on the drop-down menu.  
 ![The Elevate without prompting option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elevate-without-prompting.jpg)
 7. Click **Apply** to set the **Elevate without prompting policy**.
@@ -132,12 +119,6 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 4. Select **Apply** to turn off Admin Approval Mode.
 5. To close the policy window, select the **OK** option.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Disable Third-Party Antivirus Software Packages
 
  Have you installed a third-party antivirus or security app on your PC? If you have, your third-party security software could be causing error 740 by blocking the EXE file you’re trying to run. This can happen when the antivirus software flags the application file as malicious.
@@ -155,32 +136,26 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 ![The Add account option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/add-account-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To apply this troubleshooting method for the “requested operation requires elevation” error, follow the instructions within this article about [how to fix Windows issues by creating new user accounts](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/). First, you’ll need to set up and sign in to the new admin account to see if the error occurs there. If not, transfer user files into the new account as covered there.
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Get Error 740 Sorted on Windows
 
  The “requested operation requires elevation” error is an inconvenient admin access privilege issue many users have needed to fix. Users have resolved that issue by applying the potential resolutions in this guide. So, try applying those fixes for the “requested operation requires elevation” error in the order specified to find one that works on your Windows 10 or 11 PC.
 
  This is how you can fix error 740 within Windows 10 and 11\.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -188,3 +163,22 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-unlocking-your-hp-laptops-full-screen-capture-capabilities/"><u>[New] 2024 Approved Unlocking Your HP Laptop's Full Screen Capture Capabilities</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-seamless-video-transfer-from-youtube-to-instagram/"><u>[New] Seamless Video Transfer From YouTube to Instagram</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-balance-quality-and-quickness-with-netflix-speed-modification-tips/"><u>[Updated] Balance Quality & Quickness with Netflix Speed Modification Tips</u></a></li>
+<li><a href="https://win-net.techidaily.com/allavsoft-the-top-choice-for-macos-and-windows-users-seeking-an-ilivid-alternative-in-video-downloading/"><u>Allavsoft: The Top Choice for macOS & Windows Users Seeking an ILivid Alternative in Video Downloading</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-s23plus-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy S23+ To Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/iphone-fixes-apple-approves-reuse-of-components-in-certain-repair-jobs/"><u>IPhone Fixes: Apple Approves Reuse of Components in Certain Repair Jobs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005151497-master-the-art-of-fixing-super-person-errors-and-stabilize-your-pc-performance/"><u>Master the Art of Fixing ‘Super Person’ Errors & Stabilize Your PC Performance!</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-10-and-11-lengthening-your-pin/"><u>Mastering Windows 10 & 11: Lengthening Your Pin</u></a></li>
+<li><a href="https://windows11.techidaily.com/pathways-to-perfectly-understand-and-erase-your-windows-logs/"><u>Pathways to Perfectly Understand & Erase Your Windows Logs</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-boot-woes-overcome-support-issues-with-top-fixes/"><u>Secure Boot Woes: Overcome Support Issues with Top Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/snip-tool-engagement-in-windows-11-for-immediate-use/"><u>Snip Tool Engagement in Windows 11 for Immediate Use</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oppo-find-x7-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Oppo Find X7 Device</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unbiased-aeiusny-portable-solar-generator-analysis-ensuring-safety-with-pure-sine-wave-for-critical-health-gear/"><u>Unbiased Aeiusny Portable Solar Generator Analysis: Ensuring Safety with Pure Sine Wave for Critical Health Gear</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-no-thumbnails-on-windows-11-find-your-fix-here/"><u>Why No Thumbnails on Windows 11? Find Your Fix Here</u></a></li>
+</ul></div>
+

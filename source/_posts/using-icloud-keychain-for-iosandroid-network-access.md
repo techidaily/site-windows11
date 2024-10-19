@@ -1,7 +1,7 @@
 ---
 title: Using iCloud Keychain for iOS/Android Network Access
-date: 2024-10-06T01:55:22.000Z
-updated: 2024-10-13T02:34:32.321Z
+date: 2024-10-16T17:22:45.933Z
+updated: 2024-10-18T19:18:53.285Z
 tags:
   - windows10
   - windows11
@@ -43,16 +43,16 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 ![sharing tab open in properties menu of a drive-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sharing-tab-open-in-properties-menu-of-a-drive-1.jpg)
 4. Click on **Advanced Settings** in the new pop-up menu, check the **Share this folder** box, and wait, it's not over yet. Now to prevent unsolicited access to your locally shared drives, click on **Permissions**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. In the new menu that pops up, click on **Add**. Yet another box should pop up. Here, type in the username of your user account. Use a dedicated user account only for network access or use your primary account's username and press **Enter**. You should find your name is present on the list of users with permission to the shared drive.  
 ![Adding a new user in the access group of the shared drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-a-new-user-in-the-access-group-of-the-shared-drive.jpg)
 6. Finally, click on your account name, and in the **Permissions for <account name>** section, check the **Full Control** box and hit **Apply**.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Adding permissions to the user account and confimring changes by pressing on Apply](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/adding-permissions-to-the-user-account-and-confimring-changes-by-pressing-on-apply.jpg)
 
@@ -71,30 +71,24 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
 ![Selecting Network Share on Files app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/selecting-network-share-on-files-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Selecting SMB Protocol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/selecting-smb-protocol.jpg)
 
 ![Manually adding the device and account details](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/manually-adding-the-device-and-account-details.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Access established to the drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/access-established-to-the-drive.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -102,13 +96,6 @@ Close
  Now, you should be able to access files on your Windows PC from your Android device. You can modify the files or download them to your Android device. All done without ever needing any external application!
 
  On some devices, such as Samsung phones, when you click on **Network Storage**, you might be asked to update the Files app to add the network access functionality. Proceed to do so, and then return to the guide.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Access Your Windows Files From an iOS Device
 
@@ -124,6 +111,13 @@ Close
 
 ![Typing in the IP of the Windows PC](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/typing-in-the-ip-of-the-windows-pc.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Typing in user account credentials](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/typing-in-user-account-credentials.jpeg)
 
 ![Access established to the drive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/access-established-to-the-drive.jpeg)
@@ -131,10 +125,10 @@ Close
 ![The shared drive being listed on the Browse Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-shared-drive-being-listed-on-the-browse-menu.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -142,16 +136,10 @@ Close
  Now you should be able to view the files on the shared drive. You can now download, upload or modify the local files on your Windows PC with ease and without having to download any third-party application.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Access Your PC Files on iOS/Android Without Third-Party Apps
@@ -170,24 +158,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-guide-to-alternatives-to-streamlabs-obs/"><u>[New] The Ultimate Guide to Alternatives to StreamLabs OBS</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-transform-ordinary-to-outstanding-creating-captivating-square-videos-on-fb-for-2024/"><u>[New] Transform Ordinary to Outstanding Creating Captivating Square Videos on FB for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-skype-learning-logs-for-2024/"><u>[Updated] Skype Learning Logs for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/curing-stale-boot-option-imagery/"><u>Curing Stale BOOT Option Imagery</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhance-windows-videography-leverage-advanced-distributive-transcoding-by-tdarr/"><u>Enhance Window's Videography: Leverage Advanced Distributive Transcoding by Tdarr</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/enhance-your-smartphone-photos-with-these-free-innovative-tools/"><u>Enhance Your Smartphone Photos with These Free, Innovative Tools</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/explore-the-potential-of-photos-through-radial-distortion-techniques-ps/"><u>Explore the Potential of Photos Through Radial Distortion Techniques PS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-game-not-starting-errors-ensuring-correct-game-setup/"><u>How to Resolve 'Game Not Starting' Errors: Ensuring Correct Game Setup</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-vivo-s17-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-motorola-edge-40-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Motorola Edge 40 Lock Screen Password?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oneplus-ace-2v-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change OnePlus Ace 2V Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://windows11.techidaily.com/least-ram-and-cpu-hungry-browsers-on-triple-operating-systems/"><u>Least RAM and CPU-Hungry Browsers on Triple Operating Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/maintaining-calculator-prominence-in-windows-os/"><u>Maintaining Calculator Prominence in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-multi-monitor-setup-changes/"><u>Mastering Multi-Monitor Setup Changes</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-obs-troubleshooting-techniques-for-win-11-users/"><u>Mastering OBS Troubleshooting Techniques for Win 11 Users</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/mpeg-ai-formati-di-file-m4am4b-migrazione-senza-costi-con-movavi-converter/"><u>MPEG Ai Formati Di File M4A/M4B: Migrazione Senza Costi Con Movavi Converter!</u></a></li>
-<li><a href="https://windows11.techidaily.com/rewind-to-file-explorer-classics-in-w11/"><u>Rewind to File Explorer Classics in W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-policy-settings-with-proven-gpo-update-methods/"><u>Streamlining Policy Settings with Proven GPO Update Methods</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-shortcut-for-character-viewing/"><u>Windows 11 Shortcut for Character Viewing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-10-capture-hardware-recommendations-for-online-videos/"><u>[New] 2024 Approved Essential 10 Capture Hardware Recommendations for Online Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-copycat-chronicles-the-science-of-satire/"><u>[New] In 2024, Copycat Chronicles The Science of Satire</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-ranked-reddit-discussions-top-10-edition/"><u>[New] The Ultimate Ranked Reddit Discussions – Top 10 Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-premier-5-web-titlers-shaping-industry-norms/"><u>[New] Unveiling the Premier 5 Web Titlers Shaping Industry Norms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-tutorial-turning-on-grid-view-in-google-meet-chats/"><u>[Updated] In 2024, Tutorial Turning On Grid View in Google Meet Chats</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/32841468-updated-your-portal-to-successful-online-marketing-our-showcase-of-over-50-free-banners-awaits-you/"><u>[Updated] Your Portal to Successful Online Marketing - Our Showcase of Over 50 Free Banners Awaits You</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-beginners-companion-swift-iphone-screen-recording/"><u>2024 Approved Beginner's Companion Swift Iphone Screen Recording</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-ineffectual-system-defrag-functionality/"><u>Fixing Ineffectual System Defrag Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-logging-into-windows-11-with-password-instead-of-pin/"><u>Master the Art of Logging Into Windows 11 with Password Instead of PIN</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-avi-video-cutter-reviews-top-16-options-for-windows-mac-and-android-devices/"><u>New AVI Video Cutter Reviews Top 16 Options for Windows, MAC, and Android Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-csgo-not-starting-in-windows-11/"><u>Overcoming CS:GO Not Starting in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-taskbar-freeze-on-windows-systems/"><u>Resolving Taskbar Freeze on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/revitalizing-network-safety-5-firewall-tips/"><u>Revitalizing Network Safety: 5 Firewall Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/satiresnapshots-jokeframe-world-for-2024/"><u>SatireSnapshots JokeFrame World for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unshackling-power-the-fourfold-path-to-user-deactivation-in-windows-11/"><u>Unshackling Power: The Fourfold Path to User Deactivation in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/usb-ports-not-working-how-to-diagnose-and-fix-the-issue-in-windows/"><u>USB Ports Not Working? How to Diagnose and Fix the Issue in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-vintage-conversion-the-98-experience/"><u>Windows 11 Vintage Conversion: The ’98 Experience</u></a></li>
 </ul></div>
 

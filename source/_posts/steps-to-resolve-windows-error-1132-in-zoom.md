@@ -1,7 +1,7 @@
 ---
 title: Steps to Resolve Windows' Error 1132 in Zoom
-date: 2024-09-05T02:08:34.441Z
-updated: 2024-09-06T02:08:34.441Z
+date: 2024-10-13T20:32:43.205Z
+updated: 2024-10-18T19:37:00.638Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 
  Those instructions are for 2-in-1 modem routers. If you have a separate modem, you’ll also need to unplug that modem and reconnect it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Update the Zoom App
 
  Error 1132 can arise because of bugs in older Zoom versions. So, make sure you’re using the latest version of Zoom. You can manually select to update Zoom in the following steps:
@@ -45,18 +52,6 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 5. Wait for the Zoom updater to finish.
 6. Sign back into Zoom after the update, and try joining a meeting.
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Change Windows Defender Firewall Settings
 
  Internet connectivity is essential for the Zoom app. Windows Defender Firewall can feasibly cause error 1132 by blocking Zoom from establishing a connection. You could just try turning that firewall off to see if doing so makes a difference. However, you may be able to resolve error 1132 by adjusting a setting for Zoom firewall rules like this:
@@ -67,22 +62,18 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 4. Next, click**Inbound Rules** within the left sidebar.  
 ![Inbound rules in Windows Defender Firewall with Advanced Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/inbound-rules.jpg)
 5. Double-click any Zoom rule you find listed there.
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. Select the**Protocols** **and** **Ports** tab shown below.
 7. Click the**Protocol Type** drop-down menu to select**Any** .  
 ![The Protocols and Ports tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/protocols-and-ports-tab.jpg)
 8. Select**Apply** to set the rule’s new protocol option.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9. Click**OK** to exit the rule’s properties window.
 10. Repeat steps five to nine for all Zoom rules within Windows Defender Firewall with Advanced Security.
 
@@ -90,12 +81,6 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 
 ![The allow app list for Windows Defender Firewall](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-app-through-firewall.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable Third-Party Antivirus/Security Software
 
  Some third-party antivirus tools also have firewalls that can potentially cause Zoom issues like error 1132\. Disable any third-party antivirus shield and firewall if you’ve installed security software on your PC. Options for disabling an antivirus tool’s shield and firewall may be separate. Select options that disable your antivirus software’s shield and firewall (if it has one) by right-clicking its system tray icon and looking through the context menu or settings tabs.
@@ -103,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
  After disabling the third-party security software, try using the Zoom app again to see if that resolves the error. If it does, set up an antivirus exclusion for Zoom and allow that app through the firewall with the settings in your security software. Then you can turn on the antivirus utility’s shield protection and firewall feature again.
 
  Some users have also said resetting their antivirus apps’ firewalls fixed error 1132 for them. So, that’s another option worth considering. Look for and select an option that restores the default firewall settings in your security software.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Reinstall the Zoom App
 
@@ -116,27 +108,16 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 5. Click the**Download** for the Zoom Desktop Client.  
 ![The Download option for Zoom](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/download-option-1.jpg)
 6. Press the keyboard button with the**Windows** logo +**E** key to access Explorer.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Navigate to the directory that includes your downloaded files, and double-click the**ZoomInstallerFull.exe** setup wizard.
 8. Go through Zoom’s setup wizard to reinstall the software.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Set Up a New Windows Account
 
  Many Zoom users who’ve needed to fix error 1132 have said setting up a new Windows account works. So, it seems this error can arise because of some kind of user account issue. Try utilizing Zoom in a new Windows account as follows:
@@ -145,6 +126,20 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
 2. Then set up the new local Windows user account. You can do that by following the instructions in our guide for[creating a new Windows user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) to resolve issues.  
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/add-account-button.jpg)
 3. When you’ve set up a new local Windows user account, log out of your current one.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Sign in to the newly created user profile.
 5. Install the Zoom app in the new account.
 6. Then open and sign in to the Zoom app.
@@ -162,8 +157,6 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +164,19 @@ thumbnail: https://thmb.techidaily.com/61dcd74c9ca257bd7a3583ce0e08424eaf979002c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-soundtracks-for-snickers-ringtones-best-online-sources/"><u>[Updated] Soundtracks for Snickers Ringtones' Best Online Sources</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-elevating-your-videography-through-audio-storytelling/"><u>2024 Approved Elevating Your Videography Through Audio Storytelling</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-world-of-9gag-memes-made-easy/"><u>2024 Approved Navigating the World of 9GAG Memes Made Easy</u></a></li>
+<li><a href="https://windows11.techidaily.com/easily-knock-off-the-onedrive-feature-from-file-explorer/"><u>Easily Knock Off the OneDrive Feature From File Explorer</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-apple-iphone-13-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from Apple iPhone 13 Safe and Legal</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-visibility-of-windows-11-task-view/"><u>Eliminating Visibility of Windows 11 Task View</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-system-without-microsofts-core-software/"><u>Enhance Your System Without Microsoft's Core Software</u></a></li>
+<li><a href="https://windows11.techidaily.com/enriching-linux-experience-via-windows-collaboration/"><u>Enriching Linux Experience via Windows Collaboration</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/prime-websites-boosting-youtube-video-popularity/"><u>Prime Websites Boosting YouTube Video Popularity</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-software-quick-downloads/"><u>Stellar Software: Quick Downloads</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-best-4k-video-editors-for-creators/"><u>Updated 2024 Approved Best 4K Video Editors for Creators</u></a></li>
+<li><a href="https://win11.techidaily.com/win-at-vms-essential-ways-to-amplify-windows-performance/"><u>Win at VMs: Essential Ways to Amplify Windows Performance</u></a></li>
+</ul></div>
 

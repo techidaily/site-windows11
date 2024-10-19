@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Rectifying WoW Crashes: Error 132"
-date: 2024-10-10T20:48:46.472Z
-updated: 2024-10-12T16:14:29.236Z
+date: 2024-10-14T23:42:52.311Z
+updated: 2024-10-19T02:04:18.081Z
 tags:
   - windows10
   - windows11
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 
  The Windows 11 Settings app doesn’t include that option. However, you can access the same option within the Game Bar app. Press the **Windows** key + **G** and select **Settings** \> **Capturing** in the Game Bar. Then deselect the **Record in the background while I’m playing a game** checkbox.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Rename World of Warcraft’s Cache, WTF, and Interface Folders
 
  Renaming World of Warcraft’s **Cache**, **Interface**, and **WTF** folders will reset the game’s UI. This troubleshooting method can fix a variety of WoW issues and could also fix error 132\. This is how you can rename World of Warcraft’s **Cache**, **Interface**, and **WTF** folders:
@@ -54,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 4. Next, open either the **\_retail\_** or **\_classic\_** subfolder. For example, open the **\_classic\_** folder if you play World of Warcraft Classic or **\_retail\_** for the current version.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![A screenshot of the Retail folder in the system files for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/retail-folder.jpg)
@@ -71,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
  Some WoW players have also confirmed deleting that game’s **Cache** folder can fix error 132\. To do that, open the **\_retail\_** or **\_classic\_** subfolder in the World of Warcraft directory as outlined in the steps above. Then right-click the **Cache** and **Interface** subfolders and select **Delete**.
 
  If error 132 still affects your game, even after renaming folders, you may want to try other ways to [fix World of Warcraft not launching in Windows 10/11](https://www.makeuseof.com/windows-11-10-world-of-warcraft-not-launching/). Some potential fixes associated with launching WoW may also fix error 132\.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Enable DirectX Legacy Mode
 
@@ -87,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 6. Press **Done** to set World of Warcraft’s command line argument.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart the Blizzard software after setting this new command line argument for World of Warcraft. Then start WoW to see if this possible resolution makes a difference.
@@ -102,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 ![A screenshot of the option to Add An Exclusion to the Windows Security Exclusions List](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/add-an-exclusion.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To ensure your security software never blocks World of Warcraft, add the game’s .exe (application) file to your antivirus and firewall exception lists. You can [whitelist files for Microsoft Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/#:~:text=Under%20Protection%20areas%2C%20select%20Virus,type%2C%20or%20process%20to%20exclude.) by clicking the **Add an exclusion** button in the Windows Security app. If you’ve installed a third-party antivirus tool, set a WoW exception in that app’s exclusion list instead.
@@ -128,24 +128,22 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-enhancing-call-clarity-silencing-distractions/"><u>[New] In 2024, Enhancing Call Clarity Silencing Distractions</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-vlog-voyage-through-twitters-live-videos-for-2024/"><u>[New] The Vlog Voyage Through Twitter's Live Videos for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-innovating-the-open-a-podcasters-playbook/"><u>[Updated] 2024 Approved Innovating the Open A Podcaster's Playbook</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-secrets-in-watching-the-instagram-story-narrative/"><u>[Updated] Secrets in Watching The Instagram Story Narrative</u></a></li>
-<li><a href="https://windows11.techidaily.com/activation-indicators-for-windows-11-systems/"><u>Activation Indicators for Windows 11 Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-speed-and-ban-lags-in-windows-11-installation/"><u>Boost Speed & Ban Lags in Windows 11 Installation</u></a></li>
-<li><a href="https://common-error.techidaily.com/bypass-the-headache-of-error-0x887a0006-your-definitive-guide-to-a-smooth-update-process/"><u>Bypass the Headache of Error 0X887A0006 - Your Definitive Guide to a Smooth Update Process</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-mistakes-to-dodge-on-windows-11-upgrade/"><u>Essential Mistakes to Dodge on Windows 11 Upgrade</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-tips-for-diagnosing-pc-issues-fixing-windows-1ns-bsod-due-to-machine-check-exceptions/"><u>Expert Tips for Diagnosing PC Issues - Fixing Windows 1N's BSOD Due to Machine Check Exceptions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-professional-advice-resolving-mic-problems-on-airpods-for-windows-users/"><u>Get Professional Advice: Resolving Mic Problems on AirPods for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-windows-signing-you-in-with-a-temporary-profile/"><u>How to Fix Windows Signing You In With a Temporary Profile</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-steams-cloud-synchronization-issues-expert-tips-and-tricks/"><u>How to Resolve Steam's Cloud Synchronization Issues: Expert Tips and Tricks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-oppo-find-x7-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Oppo Find X7 Phone Now with These Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/stop-the-sleepy-slumber-of-hibernation-woes/"><u>Stop the Sleepy Slumber of Hibernation Woes</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-the-interruptexception-on-windows-11/"><u>Tackling the INTERRUPT_EXCEPTION on Windows 11</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-instagram-follower-dilemrancy-guide/"><u>The Instagram Follower Dilemrancy Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-5-command-prompt-gambits-for-a-laugh/"><u>Top 5 Command Prompt Gambits for a Laugh</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-non-operational-windows-defrag-tool/"><u>Troubleshooting Non-Operational Windows Defrag Tool</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-windows-11s-hidden-error-code-0xc1900101/"><u>Unveiling Windows 11'S Hidden Error Code #0xC1900101</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/android-extension-in-w11-workspace-enhancing-productivity/"><u>Android Extension in W11 Workspace: Enhancing Productivity</u></a></li>
+<li><a href="https://windows11.techidaily.com/file-trailblazing-in-windows-11-the-top-6-techniques-to-duplicate-paths/"><u>File Trailblazing in Windows 11: The Top 6 Techniques to Duplicate Paths</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-iphone-15-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From iPhone 15? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Motorola Moto G13? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-navigating-social-media-app-selection-tiktok-or-youtubes-shorts-preference/"><u>In 2024, Navigating Social Media App Selection TikTok or YouTubes' Shorts Preference</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-execution-codewords-for-apps/"><u>Navigating Through Execution Codewords for Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-virtualbox-usb-connectivity-glitches-and-errors/"><u>Navigating Through VirtualBox USB Connectivity Glitches & Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-file-limit-anomaly-in-windows/"><u>Overcoming File Limit Anomaly in Windows</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/restoring-h264-file-integrity/"><u>Restoring H.264 File Integrity</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-windows-troubleshooting-with-8-tips/"><u>Streamlining Windows Troubleshooting with 8 Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailor-filenames-in-bulk-using-windows-powertools/"><u>Tailor Filenames in Bulk Using Windows PowerTools</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-checklist-for-epic-launcher-savings/"><u>The Complete Checklist for Epic Launcher Savings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-dark-side-of-digital-content-profitability-for-2024/"><u>The Dark Side of Digital Content Profitability for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-why-your-android-friends-texts-arent-coming-through/"><u>Troubleshooting iPhone: Why Your Android Friends' Texts Aren't Coming Through</u></a></li>
+<li><a href="https://facebook.techidaily.com/unseen-web-sites-discover-facebooks-banned-countries/"><u>Unseen Web Sites: Discover Facebook’s Banned Countries</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-dormancy-practical-tips-and-tricks/"><u>Windows Dormancy: Practical Tips & Tricks</u></a></li>
 </ul></div>
 

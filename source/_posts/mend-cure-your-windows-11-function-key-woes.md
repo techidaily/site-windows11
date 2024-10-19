@@ -1,7 +1,7 @@
 ---
 title: "Mend: Cure Your Windows 11 Function Key Woes"
-date: 2024-09-05T02:08:39.497Z
-updated: 2024-09-06T02:08:39.497Z
+date: 2024-10-16T16:30:05.686Z
+updated: 2024-10-18T18:04:57.907Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
  Then, try to use one of the Function keys.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check Your Keyboard for Dirt and Grime
 
  If specific Fn keys are still working, it might be a sign to [clean your keyboard](https://www.makeuseof.com/tag/how-to-clean-keyboard/). If it’s been long enough since the last cleaning, there could be enough dust in your keyboard to stop it from functioning as usual. If you are knowledgeable enough, you can clean your laptop by yourself as long as you have the right tools.
@@ -48,12 +55,6 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
 ![Hardware and devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/hardware-devices-1-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Run the Keyboard Troubleshooter
 
  If the Hardware and Devices troubleshooter wasn’t enough to fix your problem and get the Fn keys working again, there is another Windows tool you can use. This time, you can access it through Settings.
@@ -65,12 +66,6 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
 ![Keyboard troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-troubleshooter-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Turn Off Filter Keys
 
  In Windows, the Filter Keys feature is designed to stop repeated keystrokes. However, disabling it might have a positive impact on the Fn keys' functionality.
@@ -78,17 +73,12 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
  Check out the [ways to turn Filter Keys on or off on Windows](https://www.makeuseof.com/turn-filter-keys-on-off-windows/) for instructions on how to disable it.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Update Your Keyboards Drivers
 
  There is a chance the Fn keys stopped working because of an outdated, damaged, or corrupted driver. In this case, updating the keyboard driver should fix the problem.
@@ -102,13 +92,14 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
 ![Device manager menu in Windows 10.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-driver-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to download the keyboard driver from the producer’s website, make sure you get the correct driver for your Windows version and processor type.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Check the Human Interface Device Service
 
@@ -118,20 +109,15 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
 ![Restart the Human Interface Device service in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/services-fn-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then, restart your computer and check if the problem is now fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Bring Back the Convenience of Fn Keys
 
  There you have it—a list of quick and easy solutions to fix your computer Fn keys. However, there's a chance the default Fn keys functionality doesn't work for you. In this case, you should know that you can change what the Fn keys do on your Windows computer.
@@ -140,11 +126,27 @@ thumbnail: https://thmb.techidaily.com/1417e9674a479dcdfdd7fe1ffab0e26b723730f6b
 
  But sometimes these stop working and now you have to open Action Center or Settings every time you need to adjust your computer settings. If this happens to you, our guide will help you fix it.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-quintessential-quiet-gaming-on-the-go/"><u>[New] 2024 Approved Quintessential Quiet Gaming on the Go</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-deciphering-youtubes-subscriber-code/"><u>2024 Approved Deciphering YouTube's Subscriber Code</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-unveiling-the-secrets-of-srt-creation-from-text-formats/"><u>2024 Approved Unveiling the Secrets of SRT Creation From Text Formats</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-steps-to-disable-amdnvidia-graphics-extras/"><u>Easy Steps to Disable AMD/Nvidia Graphics Extras</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-file-handling-in-windows-powertoys/"><u>Efficient File Handling in Windows PowerToys</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-techniques-for-purging-steams-dns-cache/"><u>Efficient Techniques for Purging Steam's DNS Cache</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-ui-customization-adding-shortcut-keys-for-wordpad-to-menu-bar/"><u>Elevating UI Customization: Adding Shortcut Keys for Wordpad to Menu Bar</u></a></li>
+<li><a href="https://windows11.techidaily.com/embracing-evenings-learning-paints-dark-mode-features/"><u>Embracing Evenings: Learning Paint's Dark Mode Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensuring-cortana-records-are-saved-windows-method/"><u>Ensuring Cortana Records Are Saved: Windows Method</u></a></li>
+<li><a href="https://article-files.techidaily.com/exploring-the-unexpected-sideway-effects-in-ig-videos-for-2024/"><u>Exploring the Unexpected Sideway Effects in IG Videos for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-tecno-pova-5-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Tecno Pova 5</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/ultra-clear-gameplay-best-hdmi-21-monitors-for-ps5-gamers-for-2024/"><u>Ultra-Clear Gameplay Best HDMI 2.1 Monitors For PS5 Gamers for 2024</u></a></li>
+</ul></div>
+

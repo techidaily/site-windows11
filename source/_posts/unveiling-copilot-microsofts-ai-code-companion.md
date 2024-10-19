@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Copilot: Microsoft's AI Code Companion"
-date: 2024-09-05T02:10:53.816Z
-updated: 2024-09-06T02:10:53.816Z
+date: 2024-10-15T03:52:04.961Z
+updated: 2024-10-19T02:05:38.233Z
 tags:
   - windows10
   - windows11
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/6eaa3e36b8ce62866baa3f0397f35b108aa431d0b
 * [What Are the Copilot Conversation Styles?](#what-are-the-copilot-conversation-styles)
 * [How to Use Microsoft Copilot](#how-to-use-microsoft-copilot)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Microsoft Copilot is an AI assistant available on Windows 11, Microsoft Office, and Microsoft Edge, offering various functionalities across these.
@@ -43,12 +50,6 @@ thumbnail: https://thmb.techidaily.com/6eaa3e36b8ce62866baa3f0397f35b108aa431d0b
 
  Accessing Microsoft Copilot is different depending on the app. We'll show you how to access Microsoft Copilot in all its forms.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Open Microsoft Copilot on Windows 11
 
  If you're on Windows 11, you can access Copilot with a hotkey. However, before you do, make sure you have your operating system updated to Windows 11 23H2 or later. See [how to check your build and version of Windows 11](https://www.makeuseof.com/check-build-and-version-windows-11/) if you're not sure.
@@ -61,12 +62,6 @@ thumbnail: https://thmb.techidaily.com/6eaa3e36b8ce62866baa3f0397f35b108aa431d0b
 
 ![Enabling the Copilot taskbar icon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-taskbar-enable.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to Open Microsoft Copilot on Edge
 
  If you're not on Windows 11, you can still use Copilot through Microsoft Edge. Open Edge, then look for the sidebar on the right. Click the Copilot icon; it's the one right at the top. If you can't find it, you can also use its **Ctrl + Shift + Period** keyboard shortcut.
@@ -74,22 +69,24 @@ thumbnail: https://thmb.techidaily.com/6eaa3e36b8ce62866baa3f0397f35b108aa431d0b
 ![The Copilot icon in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-edge-icon.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### How to Open Microsoft Copilot on the Web
 
  If you don't have access to Windows 11 or Edge, you can still use Copilot on the web. Just head over to [copilot.microsoft.com](https://copilot.microsoft.com/) and you'll be ready to go.
 
  You'll notice that if you go to Bing and try to open Bing Chat, it will open Copilot instead because [Microsoft rebranded Bing Chat to Copilot](https://www.makeuseof.com/microsoft-rebrand-bing-chat-copilot-compete-chatgpt/). It should work the same way as the prior service.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Open Microsoft Copilot in Microsoft 365 (Office)
 
@@ -107,9 +104,23 @@ thumbnail: https://thmb.techidaily.com/6eaa3e36b8ce62866baa3f0397f35b108aa431d0b
 
  The conversation style doesn't affect the quality of the information that Copilot gives you, so feel free to choose the one that fits you best.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use Microsoft Copilot
 
  Now that you've got Copilot open, it's time to check out what you can do with it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Perform Research With Copilot
 
@@ -120,65 +131,37 @@ thumbnail: https://thmb.techidaily.com/6eaa3e36b8ce62866baa3f0397f35b108aa431d0b
  If you want to read about a specific topic, ask Copilot about it. While it discusses the given topic, it will begin underlining some of its statements and adding a source for that info at the bottom. You can then follow these links and use these same sources in your own research.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Generate Images With DALL-E 3
 
 ![An image of a corgi generated by Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-dalle-example.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to generate images for free, Copilot is a great choice. Copilot supports the powerful DALL-E 3 image generator; just ask it to draw something for you. If you're not pleased with the result, you can guide Copilot through further prompts to get the best possible picture.
 
  Check out [how to use DALL-E 3 on Copilot (formerly Bing)](https://www.makeuseof.com/how-use-dalle-3-free-microsoft-bing/) for more information.
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Ask Copilot to Write Code for You
 
 ![Copilot creating a FizzBuzz test in C#](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/copilot-guide-coding-example.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you're stuck on your next coding project, why not let Copilot give it a shot? You can ask it how it would program something, or you can give it some of your code and ask it why it's not working. It supports all the major coding languages, so give Copilot a try if you're struggling to code something.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Use Copilot's Integration With Microsoft Office
 
 ![Close Up Microsoft Office Icons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/close-up-cell-microsoft-icons.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  [Unsplash](https://unsplash.com/photos/N3TVYJ6Wr1I)
 
  If you're using Copilot on Microsoft Office, there are plenty of actions you can try depending on which app you have open:
@@ -192,11 +175,33 @@ thumbnail: https://thmb.techidaily.com/6eaa3e36b8ce62866baa3f0397f35b108aa431d0b
 
  If you use any of these apps in your work, give Copilot a try and see what it can do for you.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/15-best-gopro-alternatives-for-all-your-needs-for-2024/"><u>15 Best GoPro Alternatives for All Your Needs for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-fast-lane-to-sharing-playlists-online/"><u>2024 Approved The Fast Lane to Sharing Playlists Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-must-know-factors-for-buying-your-ideal-windows-computer/"><u>7 Must-Know Factors for Buying Your Ideal WIndows Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieving-a-crystal-clarity-on-your-windows-taskbar/"><u>Achieving a Crystal Clarity on Your Windows Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/are-the-icons-on-your-windows-desktop-overlapping-here-are-some-solutions/"><u>Are the Icons on Your Windows Desktop Overlapping? Here Are Some Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-disruption-fix-windows-gaming-woe-errors/"><u>Avoid Disruption, Fix Windows' Gaming WoE Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoidance-of-expiring-notification-in-windows-11-devices/"><u>Avoidance of ‘Expiring’ Notification in Windows 11 Devices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-14-pro-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 14 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/complete-approach-to-deleting-the-wsl-subsystem/"><u>Complete Approach to Deleting the WSL Subsystem</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-guide-to-popular-platforms-facebook-twitter-instagram-and-youtube/"><u>Comprehensive Guide to Popular Platforms: Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-for-clarity-windows-terminal-as-main-app/"><u>Customize for Clarity: Windows Terminal As Main App</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/cutting-edge-youtube-end-card-tactics-and-layouts/"><u>Cutting Edge Youtube End Card Tactics & Layouts</u></a></li>
+<li><a href="https://windows11.techidaily.com/decreasing-visual-noise-windows-11-tab-control/"><u>Decreasing Visual Noise: Windows 11 Tab Control</u></a></li>
+<li><a href="https://windows11.techidaily.com/delving-into-individual-user-settings-on-group-policy-level/"><u>Delving Into Individual User Settings on Group Policy Level</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-vivo-t2x-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Vivo T2x 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-5-mkv-player-picks-for-macos-enthusiasts/"><u>In 2024, Top 5 MKV Player Picks for macOS Enthusiasts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723008116505-iphone-and-itunes-connection-issue-on-windows-aturate-a-solution-for-when-your-iphone-doesnt-show-up-in-itunes/"><u>IPhone and iTunes Connection Issue on Windows Aturate a Solution for when Your iPhone Doesn't Show up in iTunes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-mouse-settings-in-windows-11-with-minimal-hassle/"><u>Mastering Mouse Settings in Windows 11 with Minimal Hassle</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/ultimate-collection-top-16-free-video-platforms-for-2024/"><u>Ultimate Collection Top 16 Free Video Platforms for 2024</u></a></li>
+</ul></div>
+
