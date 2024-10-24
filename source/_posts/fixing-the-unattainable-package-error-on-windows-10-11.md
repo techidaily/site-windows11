@@ -1,7 +1,7 @@
 ---
 title: Fixing the Unattainable Package Error on Windows 10, 11
-date: 2024-08-31T22:05:56.683Z
-updated: 2024-09-01T22:05:56.683Z
+date: 2024-10-18T21:32:09.098Z
+updated: 2024-10-24T18:47:27.655Z
 tags:
   - windows10
   - windows11
@@ -36,20 +36,19 @@ thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0b
 5. Select**Apply** to save the file’s new properties.
 6. Click**OK** to close the properties window for the file.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Scan Your System's Files for Corruption
 
  Don’t rule out the possibility of system file corruption causing this installation issue. It’s easy to scan and repair system files with the System File Checker command-line utility. Check out our[how-to-run SFC guide](https://www.makeuseof.com/system-file-checker-sfc-windows/) for full instructions about applying this potential fix.
 
 ![The SFC command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scannow-command2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Run the Windows Installer Service
 
  Windows Installer is a service needed for installing programs with MSI and MSP packages. Starting the Windows Installer service is among the most widely confirmed fixes for the “installation package could not be opened” error. So, check that service is running like this:
@@ -61,7 +60,22 @@ The powerful video editing program for your Windows PC</a>
 4. If Windows Installer isn’t running, click its**Start** button.  
 ![The Start button for the Windows Installer service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/start-button-1.jpg)
 5. Select**Apply** to save the new service settings.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Press the service window’s**OK** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Install the Software in a New Admin Account
 
@@ -69,9 +83,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![The Add account button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/add-account-button-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  However, there’s no need to switch to the new user account you’ve set up. Log in to the new admin account you’ve set up and try downloading and installing the software you need from there. Then that software should also be available within the other user account you couldn’t install it in.
 
 ## 6\. Temporarily Disable Your Antivirus Software Before Installing the Software
@@ -85,8 +96,12 @@ The powerful video editing program for your Windows PC</a>
  If you’ve installed third-party security software, disable its antivirus component from the app’s settings tab or context menu. How you can do that varies a little bit between apps, but most of them have context menus with options for disabling their antivirus shields. Right-click the antivirus tool’s icon in the system tray and select an option for turning off its shield.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7\. Unregister and Reregister the Windows Installer Service
 
  Windows Installer won’t work right if it’s not properly registered. So, reregistering that service could feasibly resolve the “installation package could not be opened” error for some users. This is how you can unregister and reregister Windows Installer:
@@ -97,14 +112,21 @@ The powerful video editing program for your Windows PC</a>
 `msiexec /unregister`  
 ![The unregister command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/unregister-command-2.jpg)
 4. Then reregister Windows Installer by executing the following command:  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 `msiexec /regserver`
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Edit the FileSystem Registry Key
 
  Changing two DWORD values within the FileSystem registry key is another reputed fix for the “installation package could not be opened” error. You can back up the Windows registry or set a System Restore point beforehand if preferred. To apply this potential solution, edit the registry as follows:
@@ -115,11 +137,22 @@ The powerful video editing program for your Windows PC</a>
 3. Double-click the**NtfsDisable8dot3NameCreation** DWORD in the**FileSystem** key.  
 ![The FileSystem key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/registry-editor-window-2.jpg)
 4. Input**0** in the**Value data** box for the**NtfsDisable8dot3NameCreation** DWORD if set to anything else.  
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The Edit DWORD window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/edit-dword-option-2.jpg)
 5. Click**OK** to close the**Value** box.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 6. Double-click**Win31FileSystem** to bring up its**Value data** box.
 7. Set the value to**0** for the**Win31FileSystem** and click**OK** .
 8. Click the**X** (Close) button on the Registry Editor and restart Windows.
@@ -134,8 +167,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +174,20 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/resh-film-views-ranked-alternatives-1-7/"><u>[New] Fresh Film Views Ranked Alternatives #1-7</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-interactive-vs-passive-content-consumption-twitch-vs-youtube/"><u>[New] Interactive vs Passive Content Consumption Twitch Vs YouTube</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-perfect-match-leading-gaming-motherboards-for-every-socket-and-cpu-variant-in-202e4/"><u>Discover the Perfect Match: Leading Gaming Motherboards for Every Socket and CPU Variant in 202E4</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-to-windows-arp-cache-and-its-clearance-136-chars-exceeds-limit-adjusted-to-fit-better-clearing-windows-arp/"><u>Essential Guide to Windows ARP Cache and Its Clearance (136 Chars, Exceeds Limit, Adjusted to Fit Better: Clearing Windows ARP</u></a></li>
+<li><a href="https://windows11.techidaily.com/fine-tune-automatic-lock-settings-on-pcs/"><u>Fine-Tune Automatic Lock Settings on PCs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/is-itop-a-must-have-screencast-tool/"><u>Is ITop a Must-Have Screencast Tool?</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-network-failure-0x800704b3-in-windows-1011/"><u>Overcoming Network Failure 0X800704B3 in Windows 10/11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pinnacle-performances-in-figure-skate-22-for-2024/"><u>Pinnacle Performances in Figure Skate '22 for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premium-desktop-systems-unveiled/"><u>Premium Desktop Systems Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/process-to-undo-system-image-fault-0x80780119/"><u>Process to Undo System Image Fault: 0X80780119</u></a></li>
+<li><a href="https://windows11.techidaily.com/revamp-desktop-by-removing-windows-11s-highlighted-icon/"><u>Revamp Desktop by Removing Windows 11'S Highlighted Icon</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revamped-dialogue-strategies-for-engaging-podcasters-for-2024/"><u>Revamped Dialogue Strategies for Engaging Podcasters for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-prints-back-on-fixing-an-offline-printer/"><u>Win-Prints Back On! Fixing an Offline Printer</u></a></li>
+</ul></div>
 

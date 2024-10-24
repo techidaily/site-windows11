@@ -1,7 +1,7 @@
 ---
 title: Resolving Windows 11 Sign-In Issues Quickly
-date: 2024-08-31T22:06:06.745Z
-updated: 2024-09-01T22:06:06.745Z
+date: 2024-10-17T16:46:05.827Z
+updated: 2024-10-24T21:26:53.158Z
 tags:
   - windows10
   - windows11
@@ -55,18 +55,19 @@ thumbnail: https://thmb.techidaily.com/dbece127b3474bfee03fecc83648c4194241691bd
 
 ![normal startup windows 11 system configuration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/normal-startup-windows-11-system-configuration.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the issue is resolved, you’ll need to set your computer back to start in normal mode. To do this, search and open**System Configuration** in Windows search, click the**General** tab, and select**Normal Startup** . Click**Apply** and**OK** to save the changes and restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ## 2\. Change Microsoft Account Password
 
 ![microsoft account online password security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-account-online-password-security.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you use a Microsoft account to log in, try changing the account password using a different device. Once done, you can use the new password to log in. This method will not work for local user accounts.
 
 To change your Microsoft Account password:
@@ -79,8 +80,12 @@ To change your Microsoft Account password:
 6. Use the new password to log in to your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Fix a Blank Login Screen Issue
 
  A blank login screen on Windows 11 can happen due to several reasons. Common causes often include bad Windows updates, incorrectly configured sign-in options, and issues with fast startup.
@@ -88,8 +93,12 @@ To change your Microsoft Account password:
  Many a time, you can[fix the missing sign-in screen problem](https://www.makeuseof.com/blank-login-screen-windows-fix/) by disabling the Secure Sign-in (Ctrl + Alt + Delete) option. Alternatively, boot into safe mode, install Windows updates, perform a system restore, or run a startup repair to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Reset the Forgotten Admin Password
 
  If you have forgotten your password, you can change the account password without a reset. There are two ways to[reset a forgotten administrator account password on Windows](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/) .
@@ -106,9 +115,6 @@ To change your Microsoft Account password:
 
  Alternatively, consider performing a repair reinstallation. It is similar to performing an upgrade when you receive a major Windows update. The process[reinstalls Windows 11 without deleting your apps and personal files](https://www.makeuseof.com/windows-11-reinstall-without-deleting-apps/) .
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## 6\. Clean Install Windows 11
 
  A[Windows 11 clean install](https://www.makeuseof.com/how-to-clean-install-windows-11/) is always recommended over an upgrade. It helps you get rid of old issues, remove viruses, bloatware, and old configuration, and often results in improved system performance.
@@ -118,20 +124,21 @@ To change your Microsoft Account password:
  That said, a clean install removes both your third-party apps and personal files. So, make sure to create a backup before you get ready to install a fresh copy of Windows on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fixing Your Windows 11 Login Problems
 
  If Windows 11 can’t log in with a password, you can fix the issue by starting your computer in safe mode and then in normal mode. Additionally, if you have forgotten your password, try to reset your Windows administrator password.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -140,4 +147,24 @@ To change your Microsoft Account password:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-leading-gallery-archive-services/"><u>[New] 2024 Approved Leading Gallery Archive Services</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-reviewing-microsofts-hololens-step-into-the-future/"><u>2024 Approved Reviewing Microsoft's HoloLens – Step Into the Future</u></a></li>
+<li><a href="https://windows11.techidaily.com/cracking-cryptex-hold-on-and-hesitate-for-now/"><u>Cracking Cryptex: Hold On and Hesitate for Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-mend-screen-driver-problems-in-windows-11/"><u>How to Mend Screen Driver Problems in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-the-frustrating-error-code-0xc0000185-a-step-by-step-guide/"><u>How to Resolve the Frustrating Error Code 0XC0000185: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Samsung Galaxy S23 Phone Without Password?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-quick-tips-altering-video-pace-in-instagram-stories/"><u>In 2024, Quick Tips Altering Video Pace in Instagram Stories</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-whats-going-wrong-sideways-videos-on-instagram/"><u>In 2024, What's Going Wrong Sideways Videos on Instagram</u></a></li>
+<li><a href="https://windows11.techidaily.com/insider-knowledge-on-folder-tagsging-in-windows-explorer/"><u>Insider Knowledge on Folder Tagsging in Windows Explorer</u></a></li>
+<li><a href="https://network-issues.techidaily.com/laptops-visuals-vanish-no-sync-with-tv/"><u>Laptop's Visuals Vanish: No Sync with TV</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-windows-accessibility-hub-in-5-simple-steps/"><u>Master the Windows Accessibility Hub - In 5 Simple Steps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/megadatasky-affordable-space-for-big-files-for-2024/"><u>MegaDataSky - Affordable Space for Big Files for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-past-windows-update-roadblocks-effortlessly/"><u>Navigate Past Windows Update Roadblocks Effortlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-tracking-down-your-software-install-pathways-in-windows/"><u>Quick Guide: Tracking Down Your Software' Install Pathways in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/regaining-access-to-lost-steam-contact-list-win11/"><u>Regaining Access to Lost Steam Contact List (Win11)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-mapi32dll-file-not-found-step-by-step-guide/"><u>Resolving 'Mapi32.dll' File Not Found - Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-8-windows-11-no-nos-common-pitfalls-to-skip/"><u>Top 8 Windows 11 No-Nos: Common Pitfalls to Skip</u></a></li>
+</ul></div>
 

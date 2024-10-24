@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Snippet Paste: Hotkey Setup Tips for Windows 11 and 11 Users"
-date: 2024-10-13T03:50:07.673Z
-updated: 2024-10-19T02:27:16.754Z
+date: 2024-10-18T21:14:09.608Z
+updated: 2024-10-24T17:35:26.995Z
 tags:
   - windows10
   - windows11
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/698acf9899d7549d0c21beb422c9a4efb393d0c10
  QuickTextPaste needs to be running in the background for its hotkeys to work. You can set the program to run automatically by clicking**Action** \>**Start** **with Windows** . Select the**Always start minimized (ToTray)** option to set the program to appear only in the system tray area when started.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Set up Hotkeys for Pasting Pre-Defined Text With HotkeyP
@@ -91,10 +91,17 @@ thumbnail: https://thmb.techidaily.com/698acf9899d7549d0c21beb422c9a4efb393d0c10
 ![The General tab in HotkeyP's Options window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-general-tab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Creating Other Hotkeys With HotkeyP
@@ -103,28 +110,15 @@ thumbnail: https://thmb.techidaily.com/698acf9899d7549d0c21beb422c9a4efb393d0c10
 
 ![The System hotkey options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/system-hotkey-options.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or you can set up some custom window control hotkeys. Select**Window** on the command menu to view the various window keyboard shortcut options. There you can select**Always on Top** ,**Maximize window** ,**Minimize others** ,**Window snapshot,** **Close window** , and**Opacity** hotkey options, to name a few.
 
  You can set up a program keyboard shortcut by selecting an app’s path within the Hot Key window. Click the**ellipses (…)** button for the**Command** box to select a program for a keyboard shortcut to open. Then you can also select additional**Process priority** and**Run as administrator** settings for the software the hotkey launches.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Create Handy Hotkeys for Pasting Pre-Defined Text in Windows
@@ -146,20 +140,22 @@ thumbnail: https://thmb.techidaily.com/698acf9899d7549d0c21beb422c9a4efb393d0c10
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-find-the-perfect-blend-of-joy-and-sorrow-in-these-meme-feeds-for-2024/"><u>[New] Find the Perfect Blend of Joy and Sorrow in These Meme Feeds for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-itunes-recording-proven-techniques-for-success/"><u>[New] In 2024, ITunes Recording Proven Techniques for Success</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-a-beginners-guide-to-music-in-online-video-footage-fb/"><u>[Updated] A Beginner's Guide to Music in Online Video Footage (FB)</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-notch-game-capture-applications-outshining-fbx-capabilities/"><u>2024 Approved Top-Notch Game Capture Applications Outshining FBX Capabilities</u></a></li>
-<li><a href="https://windows11.techidaily.com/guides-to-mend-failing-defragmentation-software-in-os/"><u>Guides to Mend Failing Defragmentation Software in OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/halt-automatic-wallpapers-on-modern-windows-systems/"><u>Halt Automatic Wallpapers on Modern Windows Systems</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-why-virtual-reality-lack-of-content-2023-update/"><u>In 2024, Why Virtual Reality Lack of Content? -2023 Update</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-exclusive-free-media-from-elite-4-youtube-clips/"><u>Obtain Exclusive Free Media From Elite 4 YouTube Clips</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-access-with-shortcuts-microsoft-store-uwp-apps/"><u>Seamless Access with Shortcuts: Microsoft Store (UWP) Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-resolve-freezing-or-slow-downloads-in-windows/"><u>Steps to Resolve Freezing or Slow Downloads in Windows</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-battle-of-e-book-enthusiasts-amazons-kindle-vs-fire-tablet-showdown/"><u>The Battle of E-Book Enthusiasts: Amazon's Kindle Vs. Fire Tablet Showdown</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-path-to-creativity-start-microsoft-paint-windows-11-edition/"><u>The Path to Creativity: Start Microsoft Paint, Windows 11 Edition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-implementing-windows-11s-automatic-hdr-feature-for-2024/"><u>The Ultimate Guide to Implementing Windows 11'S Automatic HDR Feature for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-approach-to-mathematics-with-the-best-7-ai-tools-available/"><u>Transform Your Approach to Mathematics With the Best 7 AI Tools Available</u></a></li>
-<li><a href="https://windows11.techidaily.com/unfreezing-deadlocks-fixing-windows-semaphore-expired-error/"><u>Unfreezing Deadlocks: Fixing Windows' 'Semaphore Expired' Error</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-from-social-media-to-monetary-success-the-roadmap-for-instagram-sponsorship/"><u>[New] From Social Media to Monetary Success The Roadmap for Instagram Sponsorship</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-sustainable-design-in-action-the-huawei-p10s-environmental-approach/"><u>2024 Approved Sustainable Design in Action The Huawei P10’s Environmental Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-simple-guide-for-correcting-lsassexe-issue/"><u>A Simple Guide for Correcting 'lsass.exe' Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-windows-11-key-inactivity-issues/"><u>Addressing Windows 11 Key Inactivity Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/arcade-mode-for-window-users-key-fixes-ahead/"><u>Arcade Mode for Window Users: Key Fixes Ahead!</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-productivity-with-these-5-essential-windows-folder-practices/"><u>Boost Productivity with These 5 Essential Windows Folder Practices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bringing-gpt-into-ubuntu-terminal-sessions-mastery-of-shellgpt-techniques/"><u>Bringing GPT Into Ubuntu Terminal Sessions: Mastery of ShellGPT Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-parsing-setback-code-0xc00ce556/"><u>Conquering Parsing Setback: Code 0xC00CE556</u></a></li>
+<li><a href="https://article-posts.techidaily.com/curated-curation-of-classic-tonal-treasures-for-2024/"><u>Curated Curation of Classic Tonal Treasures for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/custom-menus-on-windows-1111-with-psoft-tools/"><u>Custom Menus on Windows 11/11 with PSoft Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-graphics-output-for-enhanced-clarity/"><u>Customizing Graphics Output for Enhanced Clarity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-crashing-during-beyond-light-launch-in-destiny-2-for-pc/"><u>How To Fix 'Crashing During Beyond Light Launch in Destiny 2 for PC?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-a-dive-into-the-premium-list-of-top-10-budget-friendly-youtube-designers/"><u>In 2024, A Dive Into the Premium List of Top 10 Budget-Friendly YouTube Designers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/local-vs-global-evaluating-the-benefits-and-drawbacks-of-using-a-local-large-language-model-llm/"><u>Local vs Global: Evaluating the Benefits & Drawbacks of Using a Local Large Language Model (LLM)</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719265109241-master-google-chromes-filesync-on-your-windows-device-now/"><u>Master Google Chrome's Filesync on Your Windows Device Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-stuck-google-chrome-reboot-for-swift-resolution/"><u>Troubleshooting Stuck Google Chrome: Reboot for Swift Resolution</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-realme-12plus-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Realme 12+ 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
 </ul></div>
 

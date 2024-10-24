@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Performance: 8 Must-Do Tasks Following the Acquisition of a New Windows Computer"
-date: 2024-08-31T22:01:15.112Z
-updated: 2024-09-01T22:01:15.112Z
+date: 2024-10-17T17:28:02.567Z
+updated: 2024-10-24T16:47:24.108Z
 tags:
   - windows
 categories:
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 
  Once you've unboxed your laptop and charged it for the first time, there are a few essential setup steps you should take. Some of these steps will ensure your computer operates efficiently, while others help keep your data secure. They'll make sure your laptop is properly set up from the get-go.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Install Pending Updates
 
  Brand-new laptops often sit in inventory for months after leaving the factory before they're sold. During this time, any operating system updates released by Microsoft won’t be installed on your laptop. Therefore, it's crucial to install these pending updates to get the latest features and ensure your system is secure.
@@ -33,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
  If no updates are downloaded, click on "Check for Updates." Windows will then search for available updates and download them. Then, restart your device to install them.
 
 ![Click the blue "Check for Updates" button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/check-for-updates.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Uninstall Pre-Installed Bloatware
 
@@ -45,8 +59,12 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 ![Uninstalling an app in the Windows settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-uninstalling-an-app-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Configure Backup
 
  Whether you’re importing data from your old laptop or using your new one fresh, you should set up a backup to ensure your data is safe in case your computer gets stolen or your storage drive fails. You have [several options for backing up your data](https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-14-pro-max-if-youve-tried-everything-by-drfone-ios/), but we recommend using online backup services like [Backblaze](https://www.backblaze.com/), at a minimum. 
@@ -57,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 
  It never hurts to create a local backup of your important data either, in addition to a cloud solution. 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Create a System Restore Point
 
  A system restore point is a snapshot of your computer's system files, settings, and registry at a specific moment in time. If you encounter an issue that general fixes can't resolve, you can revert your system to a previous state when everything was working fine. Unlike a backup, a restore point doesn’t include personal files, and performing a restore won't affect them.
@@ -68,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 
 ![Creating a system restore point in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-creating-a-system-restore-point-in-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Disable Ads and Recommendations
 
  Microsoft displays advertisements in various areas of the operating system, including the Start menu, Lock Screen, File Explorer, Windows Search, Windows Store, and more.
@@ -78,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
  While Microsoft personalizes these ads and recommendations based on the apps and services you use, aiming to enhance the user experience by suggesting relevant services, they can become quite annoying over time. If you prefer not to be bothered by them, you’ll need to disable them.
 
  Unfortunately, there isn’t a one-click option to turn off all ads; you’ll have to[disable them in each section individually](https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-x-flip-drfone-by-drfone-virtual-android/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Enable Find My Device
 
@@ -87,12 +106,6 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 
 ![Turning on Find My Device in Windows Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-turning-on-find-my-device-in-windows-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Set Up Windows Hello
 
  Next, [set up Windows Hello](https://extra-tips.techidaily.com/updated-capturing-brilliance-essential-angles-in-iphone-photography/) to instantly sign in to your laptop using facial recognition, fingerprint scanning, or a PIN, so you can avoid typing a long password. To do this, open Settings, go to the “Accounts” tab on the left, and navigate to Accounts > Sign-In Options. Click on the sign-in option you want to set up and follow the on-screen instructions.
@@ -100,8 +113,18 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
 ![Different Windows Hello Sign In Options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-different-windows-hello-sign-in-options.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If your PC doesn’t have a fingerprint sensor or doesn’t support facial recognition, you won’t be able to use those options.
 
 ##  Install Essential Apps
@@ -120,8 +143,6 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +150,26 @@ thumbnail: https://thmb.techidaily.com/99216a5fd24020f4e914206166919d3aff0939ed3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-bring-your-world-to-life-delving-into-hp-envy-27s-features/"><u>[Updated] Bring Your World to Life Delving Into HP Envy 27'S Features</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-complete-process-to-document-real-time-chats/"><u>[Updated] In 2024, The Complete Process to Document Real-Time Chats</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-the-conversion-avi-files-become-gifs-using-filmora-software-windowsmac/"><u>[Updated] Master the Conversion AVI Files Become GIFs Using Filmora Software (Windows/Mac)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-top-12-budget-friendly-high-performing-video-players-pcandroid-devices/"><u>[Updated] Top 12 Budget-Friendly, High-Performing Video Players PC/Android Devices</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/automated-file-handling-via-task-scheduler/"><u>Automated File Handling via Task Scheduler</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/best-practices-for-adjusting-720p-video-quality-through-bitrate-tuning/"><u>Best Practices for Adjusting 720P Video Quality Through Bitrate Tuning</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-operation-elevation-woes-on-windows-11-and-11/"><u>Breaking Down Operation Elevation Woes on Windows 11 & 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-winx-dvd-ripper-convert-and-copy-dvds-to-iphones-ipads-and-android-devices-in-mp4avi/"><u>Free WinX DVD Ripper: Convert and Copy DVDs to iPhones, iPads & Android Devices in MP4/AVI</u></a></li>
+<li><a href="https://windows11.techidaily.com/fuse-windows-and-tdarr-for-unrivaled-scalable-video-conversion-efficiency/"><u>Fuse Windows and Tdarr for Unrivaled, Scalable Video Conversion Efficiency</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-narzo-60-pro-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Realme Narzo 60 Pro 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-applications-that-bridge-the-mac-and-windows-divide/"><u>Key Applications that Bridge the Mac and Windows Divide</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-visual-quality-dpi-settings-guide-for-windows-11/"><u>Optimize Visual Quality: DPI Settings Guide for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-directx-update-issues-on-windows/"><u>Overcoming DirectX Update Issues on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinforce-internet-ties-for-your-windows-devices-amid-sluggishness/"><u>Reinforce Internet Ties for Your Windows Devices Amid Sluggishness</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/sich-zu-verantworten-deutsche-ausdrucksweisen-erlernen/"><u>Sich Zu Verantworten – Deutsche Ausdrucksweisen Erlernen</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-overcoming-windows-access-denied-blunders/"><u>Swiftly Overcoming Windows Access Denied Blunders</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-boosting-backyard-connectivity-in-depth-look-at-the-netgeer-orbi-rbs50y/"><u>The Ultimate Guide to Boosting Backyard Connectivity: In-Depth Look at the Netgeer Orbi RBS50Y</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-eliminating-enter-usernamepassword-alerts-in-windows/"><u>Troubleshooting: Eliminating 'Enter Username/Password' Alerts in Windows</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unlock Full Potential of Text with Snipping Tool on Win 11
-date: 2024-09-05T02:08:06.688Z
-updated: 2024-09-06T02:08:06.688Z
+date: 2024-10-17T16:25:46.091Z
+updated: 2024-10-24T20:25:47.866Z
 tags:
   - windows10
   - windows11
@@ -41,23 +41,26 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 3. Switch to the Snipping Tool window which will show the screenshot. Click on the **Text Actions** icon.  
 ![Using Text Actions in Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/using-text-actions-in-snipping-tool.jpg)
 4. The feature will identify all the text in the captured screenshot and highlight it. Click and drag the mouse to select a particular word or sentence from the screenshot.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click on the **Copy all text** to copy everything from the image and save it to the clipboard.  
 ![Text Actions Feature Identifying text from Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/text-actions-feature-identifying-text-from-screenshot.jpg)
 6. Press the **Win** key, type **Notepad**, and press **Enter**.
 7. Paste all the copied text in the Notepad and save it for later.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Redact Text in the Snipping Tool
 
  Apart from the text identification and copy feature, you can also redact text in the Snipping Tool. Redacting a text means excluding some types of texts which contain sensitive information. Currently, you only get two redact options in the tool; email addresses and phone numbers.
@@ -67,46 +70,34 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
 ![Redacting Text in Snipping Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/redacting-text-in-snipping-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you want to apply only one kind of redact option, click on the arrow icon next to the Quick Redact option. Now, unselect any option and then click on the Quick Redact option once again. Lastly, if you want to remove the redact effect from the screenshot, click on the arrow icon and then click on the **Remove all redactions** button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Our Observations on the Snipping Tool
 
  Having a native OCR feature in Windows 11 is great, and it works fine in the Snipping Tool. We tried the feature with multiple languages like Spanish and Hindi, and the tool was able to identify text from a screenshot. However, you would have to open the file or image every time and capture a screenshot of it using the Snipping Tool. Only after that can you use the Text Actions feature.
 
 ![Text Actions For Hindi Language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/text-actions-for-hindi-language.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  So the use case is limited to only capturing screenshots and then copying the text from them. You cannot open images in the Snipping Tool, so you would always have to take screenshots and then use the feature. It would be better if the Text Actions feature also ships with the Photos app. That way, you can copy text from existing photos too.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Copy Text From Screenshots in a Snap
 
  Text Actions in the Snipping Tool will eliminate the need to resort to Google Lens in a web browser. It also works without the internet and can even redact sensitive information. The feature is expected to ship with the Windows 23H2 update for all Windows users.
 
  Once updated, the Snipping Tool features a new “Text Actions” feature which can help you copy text from screenshots. Let’s explore it in detail.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -114,3 +105,25 @@ thumbnail: https://thmb.techidaily.com/4f66184ac0a8648b46c6ad4d0861ce71f7dbc55ba
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-direct-link-between-spotify-and-youtube-the-top-tools-for-music-sharing/"><u>[New] In 2024, Direct Link Between Spotify and YouTube The Top Tools for Music Sharing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mastering-video-capture-a-deep-dive-into-showmores-tech/"><u>[New] In 2024, Mastering Video Capture A Deep Dive Into ShowMore's Tech</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-share-a-world-view-iphone-360-film-techniques/"><u>2024 Approved Share a World View IPhone 360 Film Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-forbidden-errors-in-windows-os/"><u>Clearing Forbidden Errors in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-words-read-aloud-feature-when-it-stops-working-in-windows/"><u>How to Fix Word’s Read Aloud Feature When It Stops Working in Windows</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/how-to-perform-windows-11-onedrive-synchronization-a-step-by-step-guide/"><u>How To Perform Windows 11 OneDrive Synchronization: A Step-By-Step Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-t2-pro-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo T2 Pro 5Gwith/without a PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-ai-powered-content-leveraging-chatgpt-for-professional-copywriting-techniques/"><u>Mastering AI-Powered Content: Leveraging ChatGPT for Professional Copywriting Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/navigating-the-world-of-hardware-with-expert-insights-from-tom-your-go-to-resource-for-gadget-comparisons-and-buying-advice/"><u>Navigating the World of Hardware with Expert Insights From Tom - Your Go-To Resource for Gadget Comparisons and Buying Advice</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-incompatible-file-issue-in-windows-vlc/"><u>Overcoming Incompatible File Issue in Windows VLC</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-update-glitch-windows-error-0x80246007-fix/"><u>Resolving Update Glitch: Windows' Error 0X80246007 Fix</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-eradicating-xc0f1103f-problem-with-geforce/"><u>Steps for Eradicating XC0F1103F Problem with GeForce</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-fixing-driver-not-responding-in-windows-11/"><u>Steps for Fixing 'Driver Not Responding' In Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-productivity-ifttt-and-microsoft-to-do-integration/"><u>Streamlining Productivity: IFTTT & Microsoft To-Do Integration</u></a></li>
+<li><a href="https://windows11.techidaily.com/turbocharge-valorant-windows-download-optimization-guide/"><u>Turbocharge Valorant: Windows Download Optimization Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-tailoring-your-systems-startups-in-windows-11/"><u>Understanding and Tailoring Your System's Startups in Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/zoom-with-precision-using-videoleap-software/"><u>Zoom with Precision Using Videoleap Software</u></a></li>
+</ul></div>
+

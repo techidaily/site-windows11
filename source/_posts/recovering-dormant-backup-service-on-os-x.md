@@ -1,7 +1,7 @@
 ---
 title: Recovering Dormant Backup Service on OS X
-date: 2024-10-16T21:57:45.396Z
-updated: 2024-10-18T16:17:59.028Z
+date: 2024-10-20T21:06:16.322Z
+updated: 2024-10-24T20:21:51.596Z
 tags:
   - windows10
   - windows11
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
  Restart those shadow copy services if they’re already set as required. You can do that by right-clicking on those services and selecting the Restart context menu options for them.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Repair Your System Files With the SFC and DISM Commands
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![The sfc scannow command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/sfc-scannow-error.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Run the Check Disk Utility
@@ -66,20 +66,27 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
 ![The CHKDSK command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chkdsk-scan-command.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Disable Antivirus Shields
 
  Sometimes third-party antivirus software can interfere with and prevent Volume Shadow Copy from functioning correctly. So, try disabling third-party antivirus shields before attempting to back up or restore Windows. The usual way to do that is to right-click on an antivirus app’s system tray icon and select a disable/turn off shield protection option from there.
 
 ![Temporarily disable antivirus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/disable-antivirus.jpg)
 
- Don’t leave your antivirus shield permanently disabled. If possible, select to disable it for a few hours before attempting the backup or system restoration operation again. Or manually re-enable your antivirus if you can’t select a temporary option.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Don’t leave your antivirus shield permanently disabled. If possible, select to disable it for a few hours before attempting the backup or system restoration operation again. Or manually re-enable your antivirus if you can’t select a temporary option.
 
 ## 5\. Disable Any Active Firewalls
 
@@ -92,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ## 6\. Set Windows to Perform a Clean Boot
 
 ![The Startup type](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/startup-tab.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Conflicting background apps or services are another potential cause of Volume Shadow Copy errors. Third-party backup utilities with snapshot managers are the most likely software packages to conflict with the Volume Shadow Copy Service. If you know you’ve installed a third-party backup manager, uninstalling it could be the best way to ensure it doesn’t cause any conflicts.
 
@@ -120,19 +120,24 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-a-complete-guideline-for-mobizen-screen-recorder/"><u>[Updated] A Complete Guideline for Mobizen Screen Recorder</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-must-see-vr-movies-for-film-enthusiasts/"><u>[Updated] Must-See VR Movies for Film Enthusiasts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unzipping-for-srt-methods-and-tips/"><u>[Updated] Unzipping for SRT Methods and Tips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-discover-the-next-big-thing-in-design-the-best-9-sites-featuring-dynamic-3d-text-creation/"><u>2024 Approved Discover the Next Big Thing in Design The Best 9 Sites Featuring Dynamic 3D Text Creation</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-no-fee-guide-converting-skype-to-mp3/"><u>2024 Approved No-Fee Guide Converting Skype to Mp3</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-sounds-of-laughter-top-ringtones-downloaders/"><u>In 2024, Sounds of Laughter Top Ringtones Downloaders</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedying-unpredictable-printer-selections/"><u>Remedying Unpredictable Printer Selections</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-harmony-fixing-sticky-notebooks-in-w11/"><u>Restoring Harmony: Fixing Sticky Notebooks in W11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-applying-luts-in-obs-streaming/"><u>The Ultimate Guide to Applying LUTs in OBS Streaming</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-slow-playback-perfecting-vlc-videos/"><u>Troubleshooting Slow Playback: Perfecting VLC Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-steps-for-shell32dll-error-fixes-in-windows-systems/"><u>Troubleshooting Steps for Shell32.dll Error Fixes in Windows Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-hidden-functionality-essential-fixes-for-missing-windows-features/"><u>Unlock Hidden Functionality: Essential Fixes for Missing Windows Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-microsoft-services-by-linking-windows-product-key/"><u>Unlocking Microsoft Services by Linking Windows Product Key</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveiling-the-power-of-windows-nettools/"><u>Unveiling the Power of Windows NetTools</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-picsart-edge-bringing-facial-movement-into-the-digital-realm/"><u>[New] 2024 Approved Picsart Edge Bringing Facial Movement Into the Digital Realm</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-enhancing-cross-platform-engagement-sharing-tiktok-on-facebook/"><u>[New] In 2024, Enhancing Cross-Platform Engagement Sharing TikTok on Facebook</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-rewind-revolution-novel-strategies-for-youtube-viewers/"><u>[New] In 2024, The Rewind Revolution Novel Strategies for YouTube Viewers</u></a></li>
+<li><a href="https://windows11.techidaily.com/biometric-betrayal-how-secure-is-your-windows-hello-lock/"><u>Biometric Betrayal: How Secure Is Your Windows Hello Lock?</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-email-management-stick-a-new-icon-in-taskbar-border/"><u>Enhance Email Management: Stick a New Icon in Taskbar Border</u></a></li>
+<li><a href="https://fox-links.techidaily.com/enhancing-accuracy-tiktok-age-adjustment/"><u>Enhancing Accuracy TikTok Age Adjustment</u></a></li>
+<li><a href="https://review-topics.techidaily.com/experience-sound-perfection-comprehensive-review-of-the-user-friendly-beats-pill-speaker/"><u>Experience Sound Perfection: Comprehensive Review of the User-Friendly Beats Pill Speaker</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-glitch-windows-steam-play-links/"><u>Fixing the Glitch: Windows Steam Play Links</u></a></li>
+<li><a href="https://windows11.techidaily.com/graphics-driver-restart-procedure-in-windows-11/"><u>Graphics Driver Restart Procedure in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-dampen-explore-tabs-in-windows-11-os/"><u>How to Dampen Explore Tabs in Windows 11 OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-permanently-stop-the-ring-of-elysium-from-freezing-during-play-a-detailed-fix-guide/"><u>How to Permanently Stop the Ring of Elysium From Freezing During Play - A Detailed Fix Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-no-audio-capture-in-obs-on-windows-11-pcs/"><u>Overcoming No Audio Capture in OBS on Windows 11 PCs</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/powershot-sx530-perfect-starter-in-portable-photography/"><u>PowerShot SX530: Perfect Starter in Portable Photography</u></a></li>
+<li><a href="https://windows11.techidaily.com/saving-screen-time-by-hushing-file-explorer-tabs/"><u>Saving Screen Time by Hushing File Explorer Tabs</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-typhoon-of-erratic-windows-mouse-wheel/"><u>Taming the Typhoon of Erratic Windows Mouse Wheel</u></a></li>
+<li><a href="https://windows11.techidaily.com/taskbar-transformation-minimizing-apps-with-ease-and-speed/"><u>Taskbar Transformation: Minimizing Apps with Ease and Speed</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-itel-p55-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Itel P55 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-honor-x50-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zoom-woes-is-it-a-problem-with-your-device-or-connection/"><u>Zoom Woes: Is It a Problem with Your Device or Connection?</u></a></li>
 </ul></div>
 

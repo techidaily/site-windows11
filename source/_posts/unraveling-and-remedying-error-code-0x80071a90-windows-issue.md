@@ -1,7 +1,7 @@
 ---
 title: "Unraveling and Remedying Error Code: 0X80071A90 Windows Issue"
-date: 2024-10-15T21:33:57.225Z
-updated: 2024-10-19T03:10:38.386Z
+date: 2024-10-20T20:58:57.847Z
+updated: 2024-10-24T17:39:03.337Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 
  Regardless of what might be causing the problem in your case, the troubleshooting methods we have listed above should help you fix it in no time. Proceed with the method that fits your situation the best.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Disable Your Antivirus
 
  Antivirus programs are designed to protect your computer from harmful software and viruses but in doing so, they may also prevent some legitimate Windows components and features from installing or updating properly. This typically happens when the antivirus falsely considers the feature to be harmful.
@@ -49,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
 
  Once the security program is disabled, try enabling the targeted Windows feature again and check if the problem is now fixed. If the antivirus program happens to be the culprit, you can consider switching to a better alternative.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Perform the Action in Safe Mode
 
  As we mentioned earlier, certain applications and processes running in the background can also interfere with the installation or enablement of Windows features. To prevent any potential third-party software conflicts, you can try performing the action in Safe Mode.
@@ -56,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/482b0b9f60bdf46ea3aa9192b63978daf29cfbcce
  This mode launches Windows with only the necessary drivers and services, allowing you to finish tasks without interference from third-party software.
 
  Once you[boot into Safe Mode on Windows](https://www.makeuseof.com/windows-11-boot-safe-mode/) , launch the Windows Features utility and try performing the action that was initially triggering the error. If a background process was leading to it, you should be able to enable the targeted feature without any problems now.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rebuild the WMI Repository
 
@@ -86,15 +93,22 @@ Follow these steps to proceed:
  If nothing else works, these general WIndows fixes can help you fix the issue:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Update Windows
 
 ![install windows 11 feature update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-windows-11-feature-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you haven’t installed the latest Windows updates in a while, then you might be facing the problem due to an outdated system. This can be due to a compatibility issue or because your system lacks updates/hotfixes that were released by Microsoft to address specific issues related to Windows features.
 
@@ -104,25 +118,11 @@ Follow these steps to proceed:
 
 ![Run SFC scan in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/sfc-scan-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In order to install or enable Windows features, the system relies on critical files and the Windows component store. If any of these files or the store becomes corrupted, it can impede the system's access to the necessary components for feature installation or enablement, leading to errors like the one at hand.
 
  To fix such corruption errors, you can use a tool like the System File Checker (SFC) to scan and repair system files or the Deployment Image Servicing and Management (DISM) tool to repair the Windows component store. You can run both these utilities via Command Prompt.
 
  Follow the correct steps for running SFC and DISM in Windows in our guide on[how to fix file system errors on Windows](https://www.makeuseof.com/fix-file-system-errors-windows/) .
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Enable Your Windows Features Again
 
@@ -145,24 +145,16 @@ Follow these steps to proceed:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-hobbyist-to-pro-optimal-cameras-for-youtubing/"><u>[New] 2024 Approved From Hobbyist to Pro Optimal Cameras For YouTubing</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-expert-review-dynamic-action-recording-tools/"><u>[New] Expert Review Dynamic Action Recording Tools</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-how-to-stream-your-snapchat-moments-flawlessly/"><u>[New] In 2024, How to Stream Your Snapchat Moments Flawlessly</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-cutting-edge-techniques-to-elevate-your-screen-recordings-in-adobe-captive/"><u>[Updated] In 2024, Cutting-Edge Techniques to Elevate Your Screen Recordings in Adobe Captive</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-the-budget-friendly-beantech-bitwatch-s1-plus-wearable-tech-review/"><u>Comprehensive Analysis of the Budget-Friendly Beantech Bitwatch S1 Plus Wearable Tech Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-tutorial-for-turning-on-your-pcs-bluetooth-feature-in-windows-1110/"><u>Comprehensive Tutorial for Turning On Your PC’s Bluetooth Feature in Windows 11/10</u></a></li>
-<li><a href="https://win-updates.techidaily.com/guida-passo-passo-per-creare-un-disco-di-ripristino-di-emergenza-su-windows-nnovation/"><u>Guida Passo-Passo per Creare Un Disco Di Ripristino Di Emergenza Su Windows Nnovation.</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-enabling-the-developer-tab-in-your-microsoft-office-suite/"><u>Guide: Enabling the Developer Tab in Your Microsoft Office Suite</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-how-to-alter-the-money-sign-for-specific-cells-using-excel/"><u>Guide: How To Alter The Money Sign For Specific Cells Using Excel</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-mastering-the-art-of-text-trimming-in-ms-excel/"><u>Guide: Mastering the Art of Text Trimming in MS Excel</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-screenplay-excellence-genre-based-achievement-showcase/"><u>In 2024, Screenplay Excellence Genre-Based Achievement Showcase</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/learning-excel-from-scratch-top-6-skills-you-need-to-get-started/"><u>Learning Excel From Scratch? Top 6 Skills You Need to Get Started!</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-birthday-math-a-step-by-step-guide-to-finding-age-with-excel/"><u>Mastering Birthday Math: A Step-by-Step Guide to Finding Age with Excel</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-excel-tips-how-to-create-bullet-point-items-in-your-spreadsheets-easily/"><u>Mastering Excel Tips: How To Create Bullet Point Items In Your Spreadsheets Easily</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-excel-a-step-by-step-guide-to-using-exponents/"><u>Mastering Excel: A Step-by-Step Guide to Using Exponents</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-microsoft-excel-a-comprehensive-guide-to-utilizing-round-functions/"><u>Mastering Microsoft Excel: A Comprehensive Guide to Utilizing Round Functions</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-guide-fixed-and-the-specific-features-of-excel-like-cell-dimensions-setting-fixed-columns-and-rows/"><u>Mastering, Guide, Fixed, and the Specific Features of Excel Like Cell Dimensions, Setting Fixed Columns, and Rows.</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/zoom-mastering-virtual-meeting-planning/"><u>Zoom Mastering Virtual Meeting Planning</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/iscovering-the-ins-and-outs-of-youtube-shorts-capital/"><u>[New] Discovering the Ins and Outs of YouTube Shorts Capital</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-advice-on-editing-away-backgrounds/"><u>[New] Expert Advice on Editing Away Backgrounds</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-exploring-m1-capabilities-apples-laptop-dilemma/"><u>[New] Exploring M1 Capabilities Apple's Laptop Dilemma</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-driven-chrome-extensions-ranked-for-maximum-productivity/"><u>AI-Driven Chrome Extensions Ranked for Maximum Productivity</u></a></li>
+<li><a href="https://windows11.techidaily.com/bridge-ios-and-windows-using-apple-calendar-effortlessly/"><u>Bridge iOS and Windows: Using Apple Calendar Effortlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/compreranble-windows-11-sticky-features-across-devices/"><u>Compreranble Windows 11 Sticky Features Across Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/crafting-windows-11-shortcuts-a-step-by-step-guide-to-text-snapping/"><u>Crafting Windows 11 Shortcuts: A Step-by-Step Guide to Text Snapping</u></a></li>
+<li><a href="https://windows11.techidaily.com/curtailing-spontaneous-terminal-trigger-activations/"><u>Curtailing Spontaneous Terminal Trigger Activations</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-os-issues-mastering-the-art-of-finding-and-fixing-error-messages-using-commands/"><u>Decoding OS Issues: Mastering the Art of Finding & Fixing Error Messages Using Commands</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-your-pics-advanced-techniques-for-editing-photo-text/"><u>Elevate Your Pics Advanced Techniques for Editing Photo Text</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-meizu-21-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Meizu 21</u></a></li>
 </ul></div>
 

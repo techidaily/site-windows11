@@ -1,7 +1,7 @@
 ---
 title: "Taming the Digital Canvas: Making Magic with Paint Tool SAI & Win11 for AI Art"
-date: 2024-10-16T00:17:14.655Z
-updated: 2024-10-18T19:48:40.799Z
+date: 2024-10-18T17:07:32.130Z
+updated: 2024-10-24T20:49:42.869Z
 tags:
   - windows10
   - windows11
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 
  The Paint app has already received significant upgrades like the Fit to Window option, support for image layers, and a background removal feature.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use the Paint Cocreator Feature
 
  The Paint Cocreator feature is in the experimental phase and available to Windows Insiders. If you have enrolled your PC in the Canary, Dev, or Beta channel of the [Windows Insider program](https://www.makeuseof.com/windows-11-insider-program-join/), you can try out the Cocreator feature. Release Preview Insider users will have to wait longer.
@@ -40,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 ![Joining Paint cocreator waitlist](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/joining-paint-cocreator-waitlist.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After that, launch the Paint app, and you will see a Cocreator feature icon in the app. Click on it to open the feature in the side pane. Now, click on the **Join waitlist** button. You will receive an email from the company in your official Microsoft account about getting access to the feature.
@@ -59,31 +66,25 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 6. Wait for the feature to generate the images based on the prompt you provided. It can take a while to create the images and fetch them from the server. It will produce three sets of images for each prompt.  
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Generated images in Paint cocreator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/generated-images-in-paint-cocreator.jpg)
 7. Once the images are generated, you can click on them to add to the image or empty canvas.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 8. To save the generated image, click on the **ellipses** icon of the image and select the **Save image** option.  
 ![saving the generated image in Paint](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/saving-the-generated-image-in-paint.jpg)
 9. Name the image and click on the **Save** button to save it in a PNG format.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Similarly, you can try more combinations and styles to generate different images based on the same prompt. Remember that creating an image consumes one credit at a time.
 
@@ -96,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
  In the experimental phase, you only get 50 credits to try out this feature. After that runs out, you can still use the Copilot to [generate images using the Bing Image Creator](https://www.makeuseof.com/how-use-bing-image-creator-free/).
 
 ![Generating image using Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/generating-image-using-copilot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Generate AI Images in Paint
 
@@ -118,20 +112,20 @@ thumbnail: https://thmb.techidaily.com/5bfb2b2f01975a3eebb8a0b131dcc5bf0873594ba
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-real-time-facebook-footage-the-top-5-live-streaming-apps/"><u>[New] Real-Time Facebook Footage The Top 5 Live-Streaming Apps</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-upgrade-your-whatsapp-experience-with-a-bespokel-ringtones-design/"><u>[Updated] 2024 Approved Upgrade Your WhatsApp Experience with a Bespokel Ringtones Design</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/artedit-master/"><u>ArtEdit Master</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/best-tripod-for-novice-photographers-amazonbasics-review/"><u>Best Tripod for Novice Photographers: AmazonBasics Review</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/essential-tactics-for-success-in-instagrams-video-discussions-for-2024/"><u>Essential Tactics for Success in Instagram's Video Discussions for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-meizu-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Meizu Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://windows11.techidaily.com/learn-the-hack-no-more-pins-for-windows-11-projecting/"><u>Learn the Hack: No More PINs for WIndows 11 Projecting</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-outlook-preview-in-windows-11-pro/"><u>Mastering Outlook Preview in Windows 11 Pro</u></a></li>
-<li><a href="https://windows11.techidaily.com/minimizing-system-fatigue-lowering-the-impact-of-user-mode-services-on-cpus/"><u>Minimizing System Fatigue: Lowering the Impact of User-Mode Services on CPUs</u></a></li>
-<li><a href="https://windows11.techidaily.com/pro-tips-using-hotkeys-to-simplify-windows-changes/"><u>Pro Tips: Using Hotkeys to Simplify Windows Changes</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-to-address-failing-windows-alt-codes/"><u>Strategies to Address Failing Windows ALT Codes</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/top-19-affordable-audio-extractors-to-get-youtube-music-on-your-device/"><u>Top 19 Affordable Audio Extractors to Get YouTube Music on Your Device</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-why-windows-11-upgrade-remains-unpopular/"><u>Understanding Why Windows 11 Upgrade Remains Unpopular</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11-mishap-resolution-fix-for-error-code-0x0000011b/"><u>Win11 Mishap Resolution: Fix for Error Code 0X0000011B</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtube-mysteries-solved-decoding-unlisted-content-explained-for-2024/"><u>YouTube Mysteries Solved Decoding 'Unlisted' Content Explained for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-encase-full-browser-window-for-2024/"><u>[New] Encase Full Browser Window for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-gopro-guide-achieving-excellent-underwater-cinematography/"><u>[Updated] GoPro Guide Achieving Excellent Underwater Cinematography</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-learn-the-solution-to-instagram-video-issues-for-2024/"><u>[Updated] Learn the Solution to Instagram Video Issues for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-maximize-engagement-with-these-9-youtube-thumbnail-creators/"><u>2024 Approved Maximize Engagement with These 9 YouTube Thumbnail Creators</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-ultimate-quick-route-from-srt-to-text-txt-files/"><u>2024 Approved The Ultimate, Quick Route From SRT to Text (TXT) Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/breakdown-utilizing-bluescreenview-for-professionals/"><u>Breakdown: Utilizing BlueScreenView for Professionals</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-to-selecting-a-best-fit-video-codec-in-windows/"><u>Essential Guide to Selecting a Best Fit Video Codec in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-windows-signing-you-in-with-a-temporary-profile/"><u>How to Fix Windows Signing You In With a Temporary Profile</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/incorporating-youtubes-video-content-on-your-domain/"><u>Incorporating YouTube's Video Content on Your Domain</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-speed-demos-like-video-duo-for-rapid-growth-for-2024/"><u>Instagram Speed Demos Like-Video Duo for Rapid Growth for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mirth-makers-zombie-shadowbenders/"><u>Mirth Makers Zombie Shadowbenders</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-non-signed-file-blockade-on-w10w11/"><u>Overcoming Non-Signed File Blockade on W10/W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-issues-with-windows-underperforming-monitor-app/"><u>Solving Issues with Windows' Underperforming Monitor App</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-power-indicators-set-up-full-charge-notification-in-win11/"><u>Streamlining Power Indicators: Set Up Full Charge Notification in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11s-0x8007045d-an-effective-resolution-blueprint/"><u>Win11's 0X8007045D: An Effective Resolution Blueprint</u></a></li>
 </ul></div>
 

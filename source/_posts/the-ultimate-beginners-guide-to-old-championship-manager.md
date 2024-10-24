@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Beginner's Guide to Old Championship Manager
-date: 2024-08-31T22:07:15.304Z
-updated: 2024-09-01T22:07:15.304Z
+date: 2024-10-19T20:49:07.634Z
+updated: 2024-10-24T16:35:53.639Z
 tags:
   - windows10
   - windows11
@@ -37,6 +37,14 @@ thumbnail: https://thmb.techidaily.com/56e1f89334f10f1cb05f14f5231043c0f4d7f09cc
 3. You will now see some download location options. Click **Softpedia Mirror (US)**, which is the best option for players in North America.  
 ![Softpedia's download location options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/download-location-options.jpg)
 4. Next, press the **Windows + E** buttons on your keyboard to open File Explorer and navigate to the directory containing the downloaded WinCDEmu file.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Double-click **WinCDEmu-4.1.exe** to bring up that software’s installation window.
 6. Click **Install** in the WinCDEmu Installation window.  
 ![The WinCDEmu installation window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wincdemu-install-window.jpg)
@@ -54,21 +62,17 @@ thumbnail: https://thmb.techidaily.com/56e1f89334f10f1cb05f14f5231043c0f4d7f09cc
 3. Then select a suitable letter for your virtual drive on the drop-down menu.  
 ![The Mount a disc image window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/mount-a-disc-image-window.jpg)
 4. Select **OK** to mount the ISO file.
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![The virtual drive for Championship Manager 01/02](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-virtual-cd-drive.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  You should now see a new virtual CD drive within File Explorer. Click **This PC** in Explorer’s sidebar to view drives there. There you’ll see a CM0102 CD drive with the letter you selected for it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Install Championship Manager 01/02 With Its Setup Wizard
 
@@ -78,21 +82,28 @@ thumbnail: https://thmb.techidaily.com/56e1f89334f10f1cb05f14f5231043c0f4d7f09cc
 2. Then double-click the **Setup.exe** installer for Championship Manager 01/02.  
 ![The Setup.exe file for Championship Manager 01/02](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-setup-exe-file.jpg)
 3. Select **English** and click **OK** on the **Choose Setup Language** drop-down menu.
+
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Click **Yes** to continue within the setup screen.
 5. Select **Browse** to choose an installation directory for the game and click **Next** again.  
 ![The Browse option in the Championship Manager setup screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-browse-option.jpg)
 6. The **Typical** setup option will be selected by default. Click **Next** to continue with that option selected.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![The Typical option in the Championship Manager setup screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/the-typical-option.jpg)
 7. Select **Next** again to install Championship Manager 01/02\.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 8. Click **Yes** when asked about creating a Championship Manager 01/02 desktop shortcut.
 9. Select **Finish** to leave the setup screen.
 
@@ -101,17 +112,12 @@ thumbnail: https://thmb.techidaily.com/56e1f89334f10f1cb05f14f5231043c0f4d7f09cc
 ![The Championship Manager 01/02 title screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/championship-manager-game.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Press the **Start New Game** button to select the countries to include in your game. Input your manager’s name and select a nationality. Then choose a club team to manage in one of the countries.
 
 ## Start Your Soccer Management Career in Championship Manager 01/02
@@ -120,11 +126,28 @@ thumbnail: https://thmb.techidaily.com/56e1f89334f10f1cb05f14f5231043c0f4d7f09cc
 
  Eidos Interactive made Championship Manager 01/02 a freely available download from 2008, and online communities have kept this classic retro game alive and kicking ever since. This is how you can play the Championship Manager 01/02 soccer management game on a Windows 11/10 PC.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-secret-social-scrolls-best-kept-facebook-memes-for-2024/"><u>[New] Secret Social Scrolls Best-Kept Facebook Memes for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-editors-arsenal-advanced-techniques-in-chromatic-tuning/"><u>[Updated] The Editor's Arsenal Advanced Techniques in Chromatic Tuning</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-transform-your-snaps-with-cutting-edge-filter-techniques-for-2024/"><u>[Updated] Transform Your Snaps with Cutting-Edge Filter Techniques for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-performance-and-productivity-in-windows-1011/"><u>Boosting Performance & Productivity in Windows 10/11</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/datensicherung-mit-exterernem-festplatten-professionelle-schutzmassnahmen-fur-ihre-wichtige-information/"><u>Datensicherung Mit Exterernem Festplatten: Professionelle Schutzmaßnahmen Für Ihre Wichtige Information</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-the-cause-of-display-driver-non-startups/"><u>Deciphering the Cause of Display Driver Non-Startups</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-guide-to-securing-edge-ms-defender-application-guard-on-windows-11/"><u>Easy Guide to Securing Edge: MS Defender Application Guard on Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fix-propsydll-not-detected-or-absent-issues-a-comprehensive-solution-guide/"><u>Fix PropsyDll Not Detected or Absent Issues: A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c12-plus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C12 Plus without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-diagnostics-enhancing-windows-11-troubleshooters/"><u>Reviving Diagnostics: Enhancing Windows 11 Troubleshooters</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-pro-6-driver-installation/"><u>Streamlined Pro 6 Driver Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-nvidia-opengl-glitches-in-windows-11/"><u>Troubleshooting NVIDIA OpenGL Glitches in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unveiling-the-latest-tech-a-closer-look-at-tom/"><u>Unveiling the Latest Tech: A Closer Look at Tom'</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-pause-auto-updates-no-more-prompts/"><u>Windows Pause Auto-Updates: No More Prompts!</u></a></li>
+</ul></div>
+

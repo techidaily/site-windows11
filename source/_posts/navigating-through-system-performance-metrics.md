@@ -1,7 +1,7 @@
 ---
 title: Navigating Through System Performance Metrics
-date: 2024-08-31T22:07:57.451Z
-updated: 2024-09-01T22:07:57.451Z
+date: 2024-10-22T17:28:09.406Z
+updated: 2024-10-24T19:32:53.654Z
 tags:
   - windows10
   - windows11
@@ -47,11 +47,15 @@ Related: [How to Access the Task Manager on Windows 11](https://www.makeuseof.co
 
 ![task-manager-processes-tab](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/task-manager-processes-tab.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Read also: [How to Free Up RAM and Reduce RAM Usage on Windows](https://www.makeuseof.com/tag/5-ways-clear-memory-increase-ram-windows-computer/)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Check Windows 11's System Resource Usage With the Resource Monitor
 
  The Resource Monitor is a slightly more detailed monitoring utility than Task Manager in Windows 11\. It first appeared in Windows Vista and has since been a part of every subsequent Windows release. In addition to CPU, network, disk, and memory usage, the resource monitor also shows real-time metrics such as response time, throughput, and active time among others.
@@ -63,10 +67,22 @@ Read also: [How to Free Up RAM and Reduce RAM Usage on Windows](https://www.make
 3. Click the **CPU** tab to view its processor utilization percentage graphs.  
 ![resource-monitor-CPU-page-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/resource-monitor-cpu-page-2.jpg)
 4. Select the **Network** tab to view processes with network (internet) activity.
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Click **Overview** to view memory, CPU, network, and disk usage details within a single tab.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Check Windows 11's System Resource Usage With the Performance Monitor
 
@@ -78,9 +94,14 @@ Read also: [How to Free Up RAM and Reduce RAM Usage on Windows](https://www.make
 2. Select **Performance** on the left side of the window to view the system summary resource usage data.  
 ![performance-monitor-main-screen-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/performance-monitor-main-screen-1.jpg)
 3. Click **Performance Monitor** to view real-time performance data. By default, the graph shows the processor performance counter.  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![performance-monitor-real-time-graph-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/performance-monitor-real-time-graph-1.jpg)
 4. To add other counters to the graph, click the **\+ Add** button.
 5. Then select a counter, such as Memory, on the window shown directly below. The committed bytes line for the Memory counter highlights the average RAM usage over time.  
@@ -99,31 +120,23 @@ Read also: [How to Free Up RAM and Reduce RAM Usage on Windows](https://www.make
 ![Openhardware UI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openhardwaremonitor-ui-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Using the tool is also quite simple, all you have to do is head over to the [OpenHardwareMonitor website](http://openhardwaremonitor.org/downloads/) and download the tool. Once downloaded, simply double-click the executable file to run it and you'll see all the metrics you need.
 
  Alternatives to OpenHardwareMonitor include [HWiNFO](https://www.hwinfo.com/), [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor), and [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), [which can also be used for overclocking](https://www.makeuseof.com/the-complete-guide-to-using-msi-afterburner/). That said, while Windows has since discontinued desktop widgets, you can use [8GadgetPack](https://8gadgetpack.net/) to add system resource monitoring widgets to your desktop. Do keep in mind that the program hasn't been updated in a while though, so there's a chance it might not work as expected.
 
 ![The gadget selection window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/gadget-selection-window.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## Windows 11 will become slower and less responsive to your actions when system resource utilization is high (especially for RAM and CPU). Whenever it feels like you need to speed up Windows, check your PC’s resource utilization with the tools and gadgets above
 
  Once done, you can identify what programs or background processes are hogging the most resources and close them. And once they're close, you’ll notice an improved system performance overall.
 
  Keeping an eye on system resources can be vital, especially when experiencing glitches or slowdowns. If you're on Windows, there are tools baked into the operating system that let you quickly look up just how much of your RAM, CPU, and GPU are being used by a specific process.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -131,3 +144,21 @@ No advertising on the website.
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-superior-plot-strategies-across-diverse-cinematic-fields/"><u>[Updated] In 2024, Superior Plot Strategies Across Diverse Cinematic Fields</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-professional-tricks-efficiently-cropping-photos-online/"><u>2024 Approved Professional Tricks Efficiently Cropping Photos Online</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/te-video-flair-advanced-techniques-in-youtube-studio-editor-for-2024/"><u>Elevate Video Flair Advanced Techniques in YouTube Studio Editor for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-y78t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y200-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y200 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-elite-collection-of-online-video-grabbers-and-savers/"><u>In 2024, Elite Collection of Online Video Grabbers & Savers</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinventing-tech-windows-leap-from-version-11/"><u>Reinventing Tech: Windows' Leap From Version 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-lost-wordle-streaks-on-mobile-devices/"><u>Revive Lost Wordle Streaks on Mobile Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/setting-up-a-unique-win11-screenscape-display/"><u>Setting Up a Unique Win11 Screenscape Display</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/step-by-step-guide-converting-your-favorite-vimeo-videos-into-a-playable-dvd/"><u>Step-by-Step Guide: Converting Your Favorite Vimeo Videos Into a Playable DVD</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-windows-11-in-place-update-mastery/"><u>Step-by-Step Windows 11, In-Place Update Mastery</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-access-permissions-biometrics-on-w11-domains/"><u>Streamlining Access Permissions: Biometrics on W11, Domains</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/switch-it-up-the-best-face-swap-apps-for-iphone-and-android-for-2024/"><u>Switch It Up The Best Face Swap Apps for iPhone and Android for 2024</u></a></li>
+</ul></div>
+

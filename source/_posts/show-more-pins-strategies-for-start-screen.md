@@ -1,7 +1,7 @@
 ---
 title: "Show More Pins: Strategies for Start Screen"
-date: 2024-08-31T22:09:22.503Z
-updated: 2024-09-01T22:09:22.503Z
+date: 2024-10-17T17:11:59.286Z
+updated: 2024-10-24T16:10:00.901Z
 tags:
   - windows10
   - windows11
@@ -32,13 +32,32 @@ thumbnail: https://thmb.techidaily.com/be861d402be1baaf3140ac6faae85bc70a45ab620
 2. Click**Personalization** on the left side menu, and then click**Start** on the right.  
 ![part of the windows 11 personalization settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/part-windows-11-personalization-settings.jpg)
 3. At the top, you’ll see the**Layout** heading, and you should tick the**More pins** radio button.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![the layout section of the windows 11 personalization settings with the more pins option highlighted](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/layout-section-start-settings-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to return the number of pinned items on the Start Menu to the default setting, follow steps**1** and**2** and tick the**Default** radio button instead.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Using the Registry Editor
 
  Before you start using the Registry Editor, we highly recommend that you read our guides on[backing up the Windows Registry](https://www.makeuseof.com/tag/backup-restore-windows-registry/) or[creating a system restore on Windows 11](https://www.makeuseof.com/windows-11-create-restore-point/) . It’s always a good idea to have a way to restore the registry in case something goes wrong.
@@ -51,34 +70,30 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
 3. In the right panel, double-click the**Start\_Layout** value to edit it.  
 ![windows registry with the start layout value selected](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/windows-reg-editor-start-layout-value-selected.jpg)
 4. Change**Value data** to**1** to add more pins to the Start Menu.  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![editing the start value in the windows registry editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/start-layout-value-regedit.jpg)
 5. Restart your Windows 11 PC.
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you ever want to return the default layout for the pinned items on the Start Menu, just change**Value data** of the**Start\_Layout** value back to**0** in the Registry Editor.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Expand Your Taskbar by Displaying More Items
 
  If you find that the Start Menu isn't showing enough pinned items, you can simply reveal more of them using the Settings app or Registry Editor. That way, you will have more of your favorite apps and programs within reach when you click**Start** .
 
  If you decide to use Registry Editor to tweak the registry, however, be sure to create some sort of backup beforehand.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,4 +102,26 @@ HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-advanced-composition-strategies-with-blend-modes/"><u>[New] Advanced Composition Strategies with Blend Modes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unveiling-the-elite-video-cameras-for-2-point-zero-four-two-for-2024/"><u>[New] Unveiling the Elite Video Cameras for 2 Point Zero Four Two for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-exploring-the-essence-of-vimeo-a-leader-in-video-platforms/"><u>2024 Approved Exploring the Essence of Vimeo A Leader in Video Platforms</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/59/"><u>如何在不到5分鐘內修復「系統沒有找到要求的檔案」問題：高效解決方式9招</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/deciding-the-best-skype-audio-capture-of-2023/"><u>Deciding the Best Skype Audio Capture of 2023</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-routes-to-examine-and-clean-up-windows-10s-past-actions/"><u>Easy Routes to Examine & Clean Up Windows 10'S Past Actions</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-for-muting-windows-11-tabs/"><u>Essential Steps for Muting Windows 11 Tabs</u></a></li>
+<li><a href="https://windows11.techidaily.com/fine-tuning-windows-filename-metadata/"><u>Fine-Tuning Windows Filename Metadata</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-netgear-a6100-drivers-installation-guide-and-updates-for-windows-pcs/"><u>Get the Latest Netgear A6100 Drivers: Installation Guide and Updates for Windows PCs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-apple-iphone-se-by-drfone-ios/"><u>How to Bypass iCloud Lock on Apple iPhone SE</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-nokia-c210-phone-by-drfone-android/"><u>How to Reset a Locked Nokia C210 Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/insightful-tips-for-timely-ping-execution-on-windows-pcs/"><u>Insightful Tips for Timely Ping Execution on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/keeping-windows-screensaver-status-intact-from-user-changes/"><u>Keeping Windows Screensaver Status Intact From User Changes</u></a></li>
+<li><a href="https://win-bits.techidaily.com/migrating-your-digital-life-ensuring-complete-transfer-to-your-new-iphone/"><u>Migrating Your Digital Life: Ensuring Complete Transfer to Your New iPhone</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-workflow-key-windows-programs-for-taskmasters/"><u>Optimizing Workflow: Key Windows Programs for Taskmasters</u></a></li>
+<li><a href="https://windows11.techidaily.com/rejuvenating-your-apathetic-windows-start-button-click/"><u>Rejuvenating Your Apathetic Windows Start Button Click</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-reset-of-windows-icon-positions/"><u>Swift Reset of Windows Icon Positions</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-error-x0001-in-nvidias-windows-11-app/"><u>Troubleshooting Error X0001 in Nvidia's Windows 11 App</u></a></li>
+</ul></div>
 

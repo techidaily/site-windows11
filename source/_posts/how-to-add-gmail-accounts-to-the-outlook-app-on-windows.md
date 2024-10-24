@@ -1,7 +1,7 @@
 ---
 title: How to Add Gmail Accounts to the Outlook App on Windows
-date: 2024-10-11T22:33:10.050Z
-updated: 2024-10-18T17:46:04.742Z
+date: 2024-10-22T20:59:39.080Z
+updated: 2024-10-24T21:28:22.932Z
 tags:
   - windows10
   - windows11
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 5. If you can’t find that option, navigate to**Accounts > Email accounts > Settings** instead.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Enter your Gmail account and press**Continue.**  
@@ -58,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 2. When asked for confirmation to sync your Gmail account, press**Continue** once again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. You will then be redirected to your web browser to complete the Gmail sign-in.
@@ -70,17 +70,17 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 5. Finally, press**Done** within the Outlook for Windows preview app to access your Google email, contacts, and calendar.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The New Outlook App Is Getting Better
@@ -102,24 +102,22 @@ thumbnail: https://thmb.techidaily.com/73087a990223851f6a7c5417d3512a4d93ddbbb6c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-digital-mastery-top-10-instagram-enhancers/"><u>[Updated] 2024 Approved Digital Mastery Top 10 Instagram Enhancers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-instagrams-video-length-limit-a-compre-written-for-you/"><u>[Updated] 2024 Approved Instagram’s Video Length Limit - A Compre Written for You</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-picture-perfect-presentation-software-for-impeccable-photo-framing/"><u>[Updated] Picture Perfect Presentation Software for Impeccable Photo Framing</u></a></li>
-<li><a href="https://games-able.techidaily.com/combat-driver-not-starting-frustration-windows-11-guide/"><u>Combat Driver Not Starting Frustration: Windows 11 Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-the-history-your-ultimate-guide-to-current-and-past-mac-operating-systems/"><u>Decoding the History: Your Ultimate Guide to Current and Past Mac Operating Systems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/education-on-demand-a-list-of-9-crucial-tech-tools-every-learner-needs/"><u>Education on Demand: A List of 9 Crucial Tech Tools Every Learner Needs</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-through-the-signature-verification-failure-of-windows-1011/"><u>Guide Through the Signature Verification Failure of Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/hide-your-wireless-signal-windows-techniques/"><u>Hide Your Wireless Signal: Windows Techniques</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-navigating-advanced-color-grading-techniques-using-luts/"><u>In 2024, Navigating Advanced Color Grading Techniques Using LUTs</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-vivo-y200e-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo Y200e 5G – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/preventing-psycho-stress-keeping-your-ps4-controller-tethered-to-windows/"><u>Preventing Psycho-Stress: Keeping Your PS4 Controller Tethered to Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/retrace-to-original-directory-view-in-windows-11/"><u>Retrace to Original Directory View in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/secure-your-system-save-big-keys-fans-black-friday-treat-for-windows-11/"><u>Secure Your System, Save Big - Keys Fan's Black Friday Treat for Windows 11</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/speedy-spread-of-youtube-playlists-techniques-for-2024/"><u>Speedy Spread of Youtube Playlists Techniques for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-cooling-computers-running-hot-w11/"><u>Steps for Cooling Computers Running Hot W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-a-shimmering-window-title-bar-in-win11/"><u>Tips for A Shimmering Window Title Bar in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-a-non-operational-media-player-in-windows-11/"><u>Troubleshooting a Non-Operational Media Player in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-disappearing-windows-screen/"><u>Troubleshooting Disappearing Windows Screen</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/building-sustainable-cities-innovation-in-environmental-design-for-2024/"><u>Building Sustainable Cities Innovation in Environmental Design for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-approaches-reviving-your-windows-11-search-feature/"><u>Effective Approaches: Reviving Your Windows 11 Search Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-use-of-notes-on-modern-windows-systems/"><u>Efficient Use of Notes on Modern Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-local-storage-for-onedrive-windows-guide/"><u>Enabling Local Storage for OneDrive - Windows Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-images-on-windows-11-six-proven-scaling-strategies/"><u>Enhance Images on Windows 11: Six Proven Scaling Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-typing-speed-mastering-windows-powertools/"><u>Enhance Typing Speed: Mastering Windows' PowerTools</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-your-system-navigating-the-smooth-windows-11-upgrade-process/"><u>Enhance Your System: Navigating the Smooth Windows 11 Upgrade Process</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-gameplay-selecting-the-ideal-install-drives/"><u>Enhancing Gameplay: Selecting the Ideal Install Drives</u></a></li>
+<li><a href="https://windows11.techidaily.com/eradicating-directory-not-empty-fault-in-win11-os/"><u>Eradicating Directory Not Empty Fault in Win11 OS</u></a></li>
+<li><a href="https://win-premium.techidaily.com/how-to-disable-page-flipping-animation-and-audio-on-flipbuilder-tips-and-tricks/"><u>How to Disable Page Flipping Animation & Audio on FlipBuilder - Tips & Tricks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-13-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 13 Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-from-recordings-to-live-streams-instagram-via-obs-explained/"><u>In 2024, From Recordings to Live Streams Instagram via OBS Explained</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/revolutionizing-vr-gaming-the-dual-benefits-of-battery-equipped-elite-straps-for-oculus-quest-2-with-secure-case-storage-solution/"><u>Revolutionizing VR Gaming: The Dual Benefits of Battery-Equipped Elite Straps for Oculus Quest 2 with Secure Case Storage Solution</u></a></li>
+<li><a href="https://video-capture.techidaily.com/simple-and-effective-reddit-video-downloads-how-to-get-your-favorites-without-hassle/"><u>Simple and Effective Reddit Video Downloads: How to Get Your Favorites Without Hassle</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1722892806915-the-upcoming-google-pixel-10-anticipated-launch-info-and-pricing-details-revealed/"><u>The Upcoming Google Pixel 10: Anticipated Launch Info & Pricing Details Revealed!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-creme-de-la-creme-of-cable-modems/"><u>Unveiling the Crème De La Crème of Cable Modems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/updated-msi-bluetooth-drivers-now-available-for-windows-11-and-10-users/"><u>Updated MSI Bluetooth Drivers Now Available for Windows 11 and 10 Users</u></a></li>
 </ul></div>
 

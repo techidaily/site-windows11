@@ -1,7 +1,7 @@
 ---
 title: "Understanding Crossed Out Icons: Their Purpose and Meaning"
-date: 2024-08-31T22:09:46.567Z
-updated: 2024-09-01T22:09:46.567Z
+date: 2024-10-23T16:32:39.630Z
+updated: 2024-10-24T20:23:14.166Z
 tags:
   - windows10
   - windows11
@@ -40,6 +40,14 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 2. Click the**Sign in** button.  
 ![Click on the Sign in Button to Log in to Microsoft OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/1-click-on-the-sign-in-button-to-log-in-to-microsoft-onedrive.jpg)
 3. Enter the email address associated with your Microsoft account and click**Sign in** . If you want to sync your data to a OneDrive account created with the same Microsoft account you are using on your device, you won't have to enter a password. If it's different, you may need to enter a password.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Sign In to OneDrive Using Microsoft Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/2-sign-in-to-onedrive-using-microsoft-account.jpg)
 4. Choose a OneDrive folder location or click**Next** to use the default location.  
 ![Click on the Next Button After Choosing OneDrive Folder Location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/3-click-on-the-next-button-after-choosing-onedrive-folder-location.jpg)
@@ -56,24 +64,30 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 3. Select**Settings** from the menu.  
 ![Go to Settings From OneDrive Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/4-go-to-settings-from-onedrive-menu.jpg)
 4. Go to the**Account** tab in the**OneDrive Settings** window.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Then click on**Unlink this PC** .  
 ![Unlink the PC From OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/5-unlink-the-pc-from-onedrive.jpg)
 6. In the confirmation window, click**Unlink account** .
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 7. After unlinking the account, open Windows File Explorer or the folder where you see a red circle with a white cross.
 8. Right-click to bring up the context menu, then click Refresh.  
 ![windows context menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/12/windows-context-menu.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  Hopefully, unlinking the OneDrive account will fix the issue. If it does, sign in to OneDrive again by following the instructions in the first fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Change OneDrive Settings
 
  If you see cross-hatched red circles beside files or folders when using a metered connection or battery-saving mode, you've probably configured OneDrive not to sync files in these scenarios. So, you should change these settings if that's the case. To do that, follow these steps:
@@ -84,8 +98,29 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 3. Select**Settings** from the context menu.  
 ![Open OneDrive Settings From the Context Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/8-open-onedrive-settings-from-the-context-menu.jpg)
 4. Go to the**Sync and backup** tab in the**OneDrive Settings** window.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the**Preferences** settings, turn off toggles next to**Pause syncing when this device is in battery saver mode** and **Pause syncing when this device is on a metered connection** .  
 ![Disable Certain Options in the Preferences Settings of Microsoft OneDrive](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/9-disable-certain-options-in-the-preferences-settings-of-microsoft-onedrive.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you disable these two options, OneDrive syncing won't stop when your device is connected via a metered connection or set to power-saving mode.
 
@@ -101,16 +136,10 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 
  If you have enough free storage space in OneDrive, which means low storage space isn't the issue, you can move on to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## 5\. Restart the Windows Explorer Process
 
  Restarting the Windows Explorer process resolves most visual issues on a Windows PC. Therefore, if you have not already restarted it, you should do so now. If you're unfamiliar with the process, check out our guide on[how to restart File Explorer](https://www.makeuseof.com/ways-to-restart-file-explorer-windows-10/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 6\. Reinstall OneDrive
 
  If the issue persists despite applying the above fixes, you should reinstall OneDrive. To do that, follow these steps:
@@ -120,31 +149,38 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
 3. Navigate to**Installed apps** or**Apps and Features** from the right pane.  
 ![Go to Installed Apps in Apps Tab of Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/11-go-to-installed-apps-in-apps-tab-of-windows-settings-app.jpg)
 4. In the**Search apps** field, type**"OneDrive."**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Then click on**three horizontal dots** next to**Microsoft OneDrive** and click**Uninstall** .  
 ![Uninstall Microsoft OneDrive in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/12-uninstall-microsoft-onedrive-in-windows-settings-app.jpg)
 6. After that, go to the[OneDrive download page](https://www.microsoft.com/en-ww/microsoft-365/onedrive/download) and re-download OneDrive.
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 7. Then, run the setup file and wait for it to finish installing.
 8. Reboot your device once the installation is complete.
 9. After that, sign in again to begin syncing.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Get Rid of Red Circles on Your Windows Folders
 
  Seeing red circles on Windows folders gives the impression that your computer has a severe problem. Hopefully, now you understand why these annoying cross signs appear on your folders. In addition, the fixes discussed in the article will help you resolve this annoying problem.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -153,4 +189,20 @@ thumbnail: https://thmb.techidaily.com/9e5ef4400f63e7f920ad051c5a9167da56f0ec84a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-daily-digest-guidelines-tips-for-successful-vlogs/"><u>[New] In 2024, Daily Digest Guidelines Tips for Successful Vlogs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-detailed-capture-gopro-hero5-vs-sjcam-sj7/"><u>[Updated] Detailed Capture GoPro Hero5 vs SJCAM SJ7</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-drive-success-a-comprehensive-list-of-the-best-fb-schedulers/"><u>[Updated] Drive Success A Comprehensive List of the Best FB Schedulers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-art-of-perusing-past-facebook-pages-to-review-or-not-to-in-2024/"><u>[Updated] The Art of Perusing Past Facebook Pages To Review or Not To, In 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Xiaomi Redmi Note 12 4G?</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-inoperative-drive-not-detected-by-os/"><u>Fixing Inoperative Drive Not Detected by OS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/freedom-in-the-digital-age-leaving-chatgpt-behind/"><u>Freedom in the Digital Age - Leaving ChatGPT Behind</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-for-fixing-nvidia-gui-sharing-glitches/"><u>Guide for Fixing NVIDIA GUI Sharing Glitches</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-bend-the-rules-of-livestreaming-on-youtube-without-a-subscriber-hurdle/"><u>In 2024, Bend the Rules of Livestreaming on YouTube, Without a Subscriber Hurdle</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-steam-setup-obstacles-on-windows-11-devices/"><u>Overcoming Steam Setup Obstacles on Windows 11 Devices</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-find-x7-ultra-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Find X7 Ultra unlock screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-to-open-adobe-ps-in-w11-after-updates/"><u>Step-by-Step to Open Adobe PS in W11 After Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/voice-activated-mastery-in-windows-11s-accessibility-features/"><u>Voice-Activated Mastery in Windows 11'S Accessibility Features</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mending the Error: 'Not Connected' WiFi in Win"
-date: 2024-08-31T22:06:31.572Z
-updated: 2024-09-01T22:06:31.572Z
+date: 2024-10-21T18:09:35.514Z
+updated: 2024-10-24T19:33:21.135Z
 tags:
   - windows10
   - windows11
@@ -51,22 +51,12 @@ thumbnail: https://thmb.techidaily.com/c47546ef14b433a853f147293a1e027910647d2b3
  If you use a third-party antivirus software, disable it through its settings or dashboard. Remember that turning off your antivirus software can expose your computer to security risks. So, re-enable the antivirus protection after you access the resource.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Enable Network Discovery on Your Computer
 
  Network discovery is a Windows setting that follows its name. It makes your computer visible on a network or a local home server. When by chance, the network discovery is disabled from settings, you can neither find other devices nor transfer anything on a network.
@@ -80,8 +70,23 @@ Key features:
 3. Then go to **Advanced network settings > Advanced sharing settings** to access all the network sharing options.  
 ![Network And Internet Settings Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/network-and-internet-settings-preview.jpg)
 4. Now, expand your current network profile. Network profile means whether you're on a **Private** network or on a **Public** one. If you're confused, just click on the **Current profile** text.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click the toggle next to **Network discovery** to enable it. The text with the toggle should change to **On**.  
 ![Advanced Network Sharing Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/advanced-network-sharing-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Clear the DNS Cache on Windows
 
@@ -93,20 +98,18 @@ Key features:
 2. Choose **Terminal (Admin)** from the list. If there's no such option, select **Command Prompt (Admin)**.  
 ![Terminal Admin Option Power Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/terminal-admin-option-power-menu.jpg)
 3. Type the DNS flush command: **ipconfig /flushdns** and press **Enter**. This will execute the command and clear the DNS resolver cache.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![IpConfig Cmd In Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ipconfig-cmd-in-command-prompt.jpg)
 4. Now you can retry sharing files on the network.
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 
  In cases where the problem is due to your network misconfiguration, clearing the DNS cache may not always work. So, move on to the next step to reset the network configuration to default.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Reset the TCP/IP Settings
 
  You don't need to get confused by the term "TCP/IP." To make it easier, TCP/IP means a network protocol that helps you download or upload files online. So now you can understand what will happen if the TCP/IP settings get messed up.
@@ -120,9 +123,6 @@ Key features:
 3. Locate the **TCP/IP NetBIOS Helper** service by scrolling down. Use the right-click button and select the **Restart** option.  
 ![Windows Services App Preview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-services-app-preview.jpg)
 4. Wait for a while till Windows force restarts the service. Once done, disconnect and then reconnect your internet.
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  That's not it! You need to follow some more steps to address this issue.
 
@@ -148,9 +148,12 @@ Key features:
  After completing the steps, your computer will no longer store outdated ARP cache entries.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## No More Network Resource Unavailability on Windows
 
  By now, you should have a better understanding of the network resource unavailable error and how to fix it.
@@ -161,11 +164,33 @@ Key features:
 
  We'll look closer at the possible solutions to overcome the network resource unavailable error on Windows.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-essential-7-android-apps-to-eliminate-intrusive-ads/"><u>[Updated] Essential 7 Android Apps to Eliminate Intrusive Ads</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-prime-video-stardom-top-tweets-and-peak-watchability-rankings-for-2024/"><u>[Updated] Prime Video Stardom Top Tweets and Peak Watchability Rankings for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-xiaomi-redmi-k70-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Xiaomi Redmi K70 to Roku | Dr.fone</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/ampliando-playbacks-os-melhores-7-rippers-de-dvd-para-mac-seguindo-as-tendencias-do-ano-novo/"><u>Ampliando Playbacks: Os Melhores 7 Rippers De DVD Para Mac, Seguindo as Tendências Do Ano Novo</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-infinix-gt-10-pro-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Infinix GT 10 Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connecting-airpods-to-an-hp-laptop-made-simple/"><u>Connecting AirPods to an HP Laptop Made Simple</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-data-consumption-by-windows-programs/"><u>Decoding Data Consumption by Windows Programs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dive-deep-into-color-correction-top-11-resources/"><u>Dive Deep Into Color Correction Top 11 Resources</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ways-to-add-music-to-imovie-from-youtube-for-2024/"><u>Easy Ways to Add Music to iMovie From YouTube for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-program-initiation-with-optimal-win11-settings/"><u>Enhance Program Initiation with Optimal Win11 Settings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/flip-funny-with-zero-cost-createyourmemes-for-2024/"><u>Flip Funny with Zero Cost - CreateYourMemes for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-discord-app-lag-on-windows/"><u>How to Fix Discord App Lag on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximize-mouse-efficiency-altering-double-click-speed-in-windows/"><u>Maximize Mouse Efficiency: Altering Double-Click Speed in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-for-printer-not-available-errors/"><u>Quick Fix for Printer Not Available Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/revitalize-your-services-explorer-effective-solutions-for-7-common-issues/"><u>Revitalize Your Services Explorer: Effective Solutions for 7 Common Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-error-non-compliant-windows-generic-audio-problems/"><u>Stop Error: Non-Compliant Windows Generic Audio Problems</u></a></li>
+<li><a href="https://windows11.techidaily.com/swapping-windows-11s-standard-programs-best-choices/"><u>Swapping Windows 11'S Standard Programs: Best Choices</u></a></li>
+<li><a href="https://windows11.techidaily.com/title-managing-icons-alignment-and-separation-on-win-oss/"><u>Title: Managing Icons' Alignment and Separation on WIN OSs</u></a></li>
+<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-how-to-immediately-terminate-frozen-windows-programs/"><u>Troubleshooting Tips: How to Immediately Terminate Frozen Windows Programs</u></a></li>
+</ul></div>
+

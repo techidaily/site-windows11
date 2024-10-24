@@ -1,7 +1,7 @@
 ---
 title: Resolving “Need Old Password” Warning on Win11/Win11 OS
-date: 2024-10-12T03:40:28.843Z
-updated: 2024-10-19T00:46:10.009Z
+date: 2024-10-17T17:57:00.070Z
+updated: 2024-10-24T17:03:56.380Z
 tags:
   - windows10
   - windows11
@@ -37,23 +37,9 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
  Either way, this local admin account is the “master key” for accessing your device. When you try to link your Microsoft account, Windows requires the password to this local admin account to confirm that you’re the admin. Fortunately, there are some quick fixes for resolving this error.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Try All of Your Commonly Used Passwords
 
 ![A padlock standing on the keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-pc-keyboard.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you encounter this error, you should first try all of the commonly used passwords you’ve used with the device. It’s possible that once upon a time, you changed the password to the default local administrator account. However, this only applies if you’re experiencing this error as a result of a system reset.
 
@@ -64,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 ![Enter Key on Laptop Keyboard in Red](https://thmb.techidaily.com/14e8ddcfb81fc424c37a798e2f4fac450a83bd3f6d231984ceb0349e3e717f14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Some people who have encountered this error claim that you can resolve it by pressing the Enter key with the password field empty. This should work if you've never set up a password for the local admin account, and it works for some people.
@@ -83,19 +69,33 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 ![Accounts Page in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/accounts-page-in-windows-11.jpg)
 3. Then, select **Sign-In Options** \> **Passwords**. You’ll find **Add** if you’re creating a password for the first time. Otherwise, you’ll find **Change**, meaning you’ll need to [reset your local admin account password](https://www.makeuseof.com/tag/3-ways-to-reset-the-forgotten-windows-administrator-password/).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Password Option under Sign-In Options in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/password-option-under-sign-in-options-in-windows-11.jpg)
 4. If you click **Add**, you’ll be directed to a page where you can set up a password.  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Create New Password for Local Admin Account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/create-new-password-for-local-admin-account.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you have created or reset your Windows password, you can proceed to sign into your Microsoft account. Once you’re asked to insert your “current Windows password,” swiftly input your newly minted password.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Don’t Let the “We’ll Need Your Current Windows Password One Last Time” Error Stop You
 
@@ -113,22 +113,24 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-transform-videos-to-tweets-best-converters-revealed/"><u>2024 Approved Transform Videos to Tweets Best Converters Revealed</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/elevate-website-performance-with-advanced-tracking-tools-by-cookiebot/"><u>Elevate Website Performance with Advanced Tracking Tools by Cookiebot</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/guia-paso-a-paso-para-realizar-una-copia-de-seguridad-de-la-foto-de-recuperacion-en-windows-11/"><u>Guía Paso a Paso Para Realizar Una Copia De Seguridad De La Foto De Recuperación en Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-make-your-edge-faster-and-sleeker-win10-w11/"><u>How to Make Your Edge Faster & Sleeker (Win10, W11)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-battle-for-yggdrasil-ragnarok-begins/"><u>In 2024, Battle for Yggdrasil Ragnarok Begins</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-adjusting-netflix-pace-settings/"><u>In 2024, Mastering the Art of Adjusting Netflix Pace Settings</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-real-time-engagement-strategies-for-online-streamers/"><u>In 2024, Real-Time Engagement Strategies for Online Streamers</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-new-drivers-for-u-are-u-readfinger-v45/"><u>Install New Drivers for U-Are-U ReadFinger V4.5</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-disabling-lock-screen-on-modern-windows-11/"><u>Methods: Disabling Lock Screen on Modern Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mirth-and-machines-the-evolution-of-portable-tech-and-secure-surfing/"><u>Mirth and Machines: The Evolution of Portable Tech & Secure Surfing</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-your-windows-environment-for-seamless-vbox-use/"><u>Optimizing Your Windows Environment for Seamless VBox Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-sounds-a-look-at-windows-11-mixer-usage/"><u>Streamlining Sounds: A Look at Windows 11 Mixer Usage</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-setup-failures-a-windows-10-and-11-approach/"><u>Tackling Setup Failures: A Windows 10 & 11 Approach</u></a></li>
-<li><a href="https://windows11.techidaily.com/transform-your-workflow-the-best-6-apps-for-to-do-list-management-on-win-11/"><u>Transform Your Workflow: The Best 6 Apps for To-Do List Management on Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/win-strategies-unlocking-your-gaming-directory/"><u>Win Strategies: Unlocking Your Gaming Directory</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-ready-embrace-google-chrome-now/"><u>Windows 11 Ready? Embrace Google Chrome Now!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-swift-ways-to-reorder-youtube-watchlist-alphabetically/"><u>[Updated] 2024 Approved Swift Ways to Reorder YouTube Watchlist Alphabetically</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-optimal-video-formats-to-skyrocket-your-youtube-popularity/"><u>2024 Approved Optimal Video Formats to Skyrocket Your YouTube Popularity</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-key-adjustments-for-a-mac-look-in-windows-environment/"><u>5 Key Adjustments for a Mac Look in Windows Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-step-by-step-guide-to-modifying-windows-file-attributes/"><u>A Step-by-Step Guide to Modifying Windows File Attributes</u></a></li>
+<li><a href="https://windows11.techidaily.com/bluetooth-recovery-guide-9-steps-to-patch-up-your-pcs-link/"><u>Bluetooth Recovery Guide: 9 Steps to Patch Up Your PC's Link</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-back-disappearing-desktop-elements-on-windows/"><u>Bring Back Disappearing Desktop Elements on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-invalid-captcha-on-steam/"><u>Bypassing Invalid CAPTCHA on Steam</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-guide-to-resolve-error-0x8007007e-in-windows/"><u>Comprehensive Guide to Resolve Error 0X8007007E in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/configuring-dolby-atmos-in-windows-1111-systems/"><u>Configuring Dolby Atmos in Windows 11/11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/contrasting-windows-download-options-cloud-vs-physical-media/"><u>Contrasting Windows Download Options: Cloud Vs. Physical Media</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-windows-11-upgrade-problem-code-0x800f0922/"><u>Correcting Windows 11 Upgrade Problem - Code 0X800f0922</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-word-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature block to Word</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-enter-the-ispoofer-discord-server-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to enter the iSpoofer discord server On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-soundmax-audio-device-drivers-on-your-windows-machine/"><u>How To Install SoundMax Audio Device Drivers On Your Windows Machine</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-15-pro-max-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On Apple iPhone 15 Pro Max Online</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-data-retrieval-tool-restore-lost-data-from-infinix-by-fonelab-android-recover-data/"><u>Infinix Data Retrieval tool – restore lost data from Infinix</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-shooting-the-best-cinematographic-tips-and-ideas-for-2024/"><u>Innovative Shooting The Best Cinematographic Tips & Ideas for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-non-syncing-icloud-pictures-on-iphone-with-these-7-methods/"><u>Troubleshoot Non-Syncing iCloud Pictures on iPhone with These 7 Methods</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-lava-blaze-pro-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Lava Blaze Pro 5G Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

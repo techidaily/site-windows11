@@ -1,7 +1,7 @@
 ---
 title: Preserving Default Time on Windows PCs
-date: 2024-10-16T19:57:30.087Z
-updated: 2024-10-19T00:06:40.533Z
+date: 2024-10-23T19:21:48.545Z
+updated: 2024-10-24T17:14:40.263Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
  For both methods, you need administrative access to the computer to change it. Once you’ve made the changes, nobody can alter the date and time settings. Let’s look at each method in more detail.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Use the Group Policy Editor
@@ -47,13 +47,6 @@ Computer Configuration > Administrative Templates > System > Locale Services
 ![Disallow user override of locale settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disallow-user-override-of-locale-settings.jpg)
 5. In the pop-up window, check the **Enabled** radio button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Then click **Apply** \> **OK** to save the changes.
 
  This will block anyone from changing the date and time settings on your computer. However, if you have administrative access to the computer, you can still alter the settings.
@@ -61,10 +54,16 @@ Computer Configuration > Administrative Templates > System > Locale Services
  If you want to revert to the default settings later, open Group Policy Editor again and change the value of Disallow user override of locale settings back to Not Configured or Disabled. This way, users can change the time and date again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Tweak the Registry Editor
@@ -87,15 +86,22 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Control Panel\International\
 8. In the pop-up window, change the Value data to **1** and click **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you’ve made the changes, close the Registry Editor window and restart your computer.
 
  To undo this restriction, delete the **PreventUserOverrides** DWORD value from the registry or change the value to **0**. Doing so will enable users to change the time and date again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Stop Windows Time and Date Changes
 
@@ -110,18 +116,17 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Control Panel\International\
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-5-ways-to-record-audio-on-windows-10/"><u>[New] 2024 Approved 5 Ways to Record Audio on Windows 10</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/xploring-youtube-shorts-a-beginners-guide-to-video-crafting-for-2024/"><u>[New] Exploring YouTube Shorts A Beginner's Guide to Video Crafting for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-legacy-linkup-software/"><u>[New] Legacy Linkup Software</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-merging-technology-and-commerce-through-vr-innovation/"><u>[Updated] Merging Technology & Commerce Through VR Innovation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-safeguarding-your-music-three-recording-approaches-for-2024/"><u>[Updated] Safeguarding Your Music Three Recording Approaches for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/convert-videos-to-mpeg-free-of-cost-easy-guide-on-using-our-top-ranked-mp4-to-mpeg-software/"><u>Convert Videos to MPEG FREE of Cost - Easy Guide on Using Our Top-Ranked MP4 to MPEG Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exploring-the-updated-windows-11-interface-for-2024/"><u>Exploring the Updated Windows 11 Interface for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-inaccessible-folders-in-windows-outlook-a-comprerani-guide/"><u>Fixing Inaccessible Folders in Windows Outlook: A Comprerani Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-use-the-windows-canary-protection-tool/"><u>How to Use the Windows Canary Protection Tool</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-motorola-moto-e13-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Motorola Moto E13 FRP</u></a></li>
-<li><a href="https://windows11.techidaily.com/pinpoint-win-logins-the-differentiator-between-right-and-wrong-entries/"><u>Pinpoint Win Logins: The Differentiator Between Right & Wrong Entries</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-complete-process-for-adding-widgets-on-windows-11/"><u>The Complete Process for Adding Widgets on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-memory-feature-disabled-in-win11/"><u>Troubleshooting Memory Feature Disabled in Win11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-essential-info-on-valheim-sowing-top-seeds-ranked-for-2024/"><u>[New] Essential Info on Valheim Sowing Top Seeds Ranked for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enjoy-a-stream-of-nine-complete-christmas-capsules-on-youtube/"><u>[Updated] In 2024, Enjoy a Stream of Nine Complete Christmas Capsules on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-love-the-cut-filmoras-top-10-edits-unveiled/"><u>[Updated] Love the Cut Filmora's Top 10 Edits Unveiled</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-turbo-tracker-fastest-image-browser-w10/"><u>[Updated] Turbo Tracker - Fastest Image Browser W10</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quick-recap-how-to-locate-youtube-comments-post-upload/"><u>2024 Approved Quick Recap How to Locate YouTube Comments Post-Upload</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-tips-on-windows-calls-documentation/"><u>Efficient Tips on Windows Calls Documentation</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-steam-access-barrier-for-games-on-modern-os/"><u>Eliminate Steam Access Barrier for Games on Modern OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-unmet-windows-11-specifications-warning/"><u>Eliminate Unmet Windows 11 Specifications Warning</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-your-desktop-with-three-column-widget-setup-in-windows-11/"><u>Enhancing Your Desktop with Three Column Widget Setup in Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-silent-menace-in-evil-genius-2-sound-restoration-guide/"><u>Fixing Silent Menace in Evil Genius 2 - Sound Restoration Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-network-neutrality-predictions-for-security/"><u>Navigating Network Neutrality: Predictions for Security</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/understanding-youtubers-income-average-ad-revenues-per-play-in-2024/"><u>Understanding Youtuber's Income Average Ad Revenues per Play, In 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your File Management Game: Top 4 Advanced Techniques for Windows 11 Tab Users"
-date: 2024-08-31T22:01:39.801Z
-updated: 2024-09-01T22:01:39.801Z
+date: 2024-10-17T21:35:08.422Z
+updated: 2024-10-24T21:05:46.393Z
 tags:
   - windows
 categories:
@@ -30,9 +30,23 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 
 ![File Explorer with the new tab '+' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/new-tab.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you know which folder you want to open in a new tab, you can right-click on said folder and select "Open In New Tab." Alternatively, if you are using a mouse with a scrolling wheel, click the scrolling wheel on the relevant folder and this will open it in a new tab. In this example, the Desktop folder will open in the new tab.
 
 ![File Explorer with the 'Open In New Tab' option open having right-clicked a folder to open in the new tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/new-tab-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It's just as easy to close a tab. Use the shortcut key Ctrl+W to close your active tab, click the small "X" in the corner of a tab to close it, or click your mouse scrolling wheel on the tab you want to close. Whichever method you use, if you have only one tab open in the File Explorer window, this will close the whole window.
 
@@ -42,11 +56,15 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 
 ![The tab closing options viewable in File Explorer by right-clicking on an existing tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/tab-closing-options.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click "Close Other Tabs" to leave just that one tab open, or click "Close Tabs To The Right" to keep that tab and the tabs to the left open, while closing all the other tabs.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Change the Default New Tab Folder
 
  By default, Windows will open the Home folder when you launch File Explorer or open a new tab, which contains things such as your Quick Access, Favorite, and Recent items. If, like me, you rarely use these sections but tend to use OneDrive, changing the default tab can make life much easier.
@@ -56,18 +74,16 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 ![The File Explorer 'Options,' accessed via the three dots on the ribbon in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/file-explorer-options.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Open the "Home" tab in Folder Options window, and click the "Open File Explorer To" drop-down arrow. From there, you can change the default launch folder to "Home" (if this is not already selected), "This PC," or "\[Your Name\] - Personal" (your OneDrive folder). You'll see this in action next time you open a new File Explorer window or tab.
 
 ![File Explorer's Folder Options Window with the 'Open File Explorer To' drop-down options highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/file-explorer-folder-options-window.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Jump Between and Reorder Tabs
 
  Now that you have several tabs open, you can simply click between them to access the different folders. However, you can further speed up the process by using keyboard shortcuts:
@@ -77,16 +93,10 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 
 ![Five File Explorer tabs numbered from one to five.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/numbered-tabs.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To reorder your tabs along the tab bar (for example, I like to organize my tabs in terms of work completion, with new tasks on the left, semi-finished tasks in their various degrees of completion in the middle, and completed tasks on the right), simply click and drag the tab you want to move and drop it in its new place.
 
  If you want to split your tabs back into separate windows (for example, if you're working on two screens and would find it easier to see a specific folder on the second screen), drag and drop the tab away from the File Explorer window.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Move or Copy Files or Folders Between Tabs
 
  One of the benefits of having more than one tab open is that you can quickly move and copy files or folders from one place to another, avoiding the need to locate different folders and use Ctrl+C or Ctrl+X.
@@ -107,8 +117,6 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +124,23 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-premier-guidelines-for-broadcasting-sports-online/"><u>[New] In 2024, Premier Guidelines for Broadcasting Sports Online</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-obs-revived-camera-back-to-life/"><u>[Updated] 2024 Approved OBS Revived Camera Back to Life</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-power-of-4k-in-the-samsung-galaxy-s8-experience/"><u>[Updated] In 2024, The Power of 4K in the Samsung Galaxy S8 Experience</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-lava-blaze-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Lava Blaze Pro 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/activating-a-functional-taskbar-for-windows-11-tablets/"><u>Activating a Functional Taskbar for Windows 11 Tablets</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/enhanced-data-security-in-microsofts-latest-copilot-update-simplified-user-chats-insights-from-zdnet/"><u>Enhanced Data Security in Microsoft's Latest Copilot Update: Simplified User Chats - Insights From ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-smart-7-hd-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Smart 7 HD using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-desktop-visibility-placing-this-pc-icon-front-and-center/"><u>Maximizing Desktop Visibility: Placing 'This PC' Icon Front and Center</u></a></li>
+<li><a href="https://windows11.techidaily.com/missing-dxgidll-in-win11-heres-what-to-do-now/"><u>Missing Dxgi.dll in Win11? Here's What to Do Now</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-convert-videos-to-dvd-format-on-pc-and-mac-a-3-step-guide/"><u>New 2024 Approved Convert Videos to DVD Format on PC and Mac A 3-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-to-activate-rgb-settings-in-windows-11/"><u>Step-by-Step to Activate RGB Settings in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-activities-gain-more-in-less-time-with-flow-launcher/"><u>Streamline Activities: Gain More in Less Time With Flow Launcher</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-tutorial-on-editing-youtube-videos-for-2024/"><u>The Ultimate Tutorial on Editing YouTube Videos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tracing-untapped-functions-within-windows-system-health-tools/"><u>Tracing Untapped Functions Within Windows' System Health Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-windows-control-for-apps-and-browsers/"><u>Unveiling Windows Control for Apps & Browsers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726027017437-wonderfox/"><u>WonderFoxアフィリエイト収入を最大化する方法</u></a></li>
+</ul></div>
 

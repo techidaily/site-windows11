@@ -1,7 +1,7 @@
 ---
 title: Reconfiguring Saving Preferences for PUBG on PC
-date: 2024-09-05T02:08:06.379Z
-updated: 2024-09-06T02:08:06.379Z
+date: 2024-10-20T20:30:20.869Z
+updated: 2024-10-24T20:20:19.811Z
 tags:
   - windows10
   - windows11
@@ -43,20 +43,22 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 
 ![The Verify Files option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/verify-files-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Both Steam and the Epic Games Launcher client software with which players install PUBG include options for verifying games. Those troubleshooting options scan and repair game files. Our[guide to repairing game files](https://www.makeuseof.com/how-to-verify-game-file-integrity-different-launchers/) tells you how to verify PUBG's files in Steam and Epic Games Launcher.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Disable Controlled Folder Access
 
  Controlled folder access blocks ransomware, and other malware, from modifying files in folders. However, that feature can also stop games from saving progress and settings when it restricts their folder access. Make sure that feature isn’t causing issues for PUBG saving settings on your PC by checking and disabling its setting like this:
@@ -66,36 +68,20 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 3. Scroll down and click the**Manage ransomware protection** navigation option.  
 ![The Manage ransomware protection option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/manage-ransomware-protection-option.jpg)
 4. If**Controlled folder access** is enabled, click that setting to turn it off.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![The Controlled folder access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/controlled-folder-access2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The Controlled folder access setting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/controlled-folder-access2.jpg)
+
  Now try changing the game settings in PUBG again with controlled folder access disabled. If that fix works, but you prefer controlled folder access kept on, try adding PUBG to the exclusion list.
 
  You can do that by clicking the**Allowed an app through Controlled folder access** option below the turned-on**Controlled folder access** setting. Click**Add an allowed app** to select the PUBG EXE file for exclusion.
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable Third-Party Antivirus Software
 
  Some third-party antivirus apps might also include a similar controlled folder access feature to the one in Windows Security. So, it’s recommended users with third-party antivirus utilities select to disable them via their system tray context menus.
@@ -103,11 +89,12 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
  Or look through your antivirus software’s settings tabs to see if one includes a comparable controlled folder setting that restricts app access to directories and files and turn it off if it does.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Reinstall PUBG
 
  Reinstalling PUBG is the last resort potential fix for settings not saving if nothing else works. As PUBG is a 30-40 gigabyte game, it’s not ideal to download and reinstall it again. However, this potential resolution could fix PUBG not saving setting if caused by corrupted or missing game files. If you’re an Epic Games user, you’ll need to reinstall PUBG as follows:
@@ -117,12 +104,6 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 3. Select the**Uninstall** menu option.  
 ![The Uninstall option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/uninstall-option3.jpg)
 4. Click**Uninstall** when asked to confirm.
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. After uninstalling, click**PUBG** in the**Library** tab and select**Install** to reinstall.  
 ![The Install option in Epic Games](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/choose-install-location.jpg)
 
@@ -140,8 +121,6 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +128,26 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-step-by-step-installation-of-professional-vrecorder/"><u>[New] In 2024, Step-by-Step Installation of Professional VRecorder</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-iphone-hdr-capturing-dynamic-range-in-your-images/"><u>[New] IPhone HDR Capturing Dynamic Range in Your Images</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-top-30-nicknames-that-leave-a-lasting-impression/"><u>[New] Top 30 Nicknames That Leave a Lasting Impression</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-achieving-flawless-fb-live-via-zoom-streaming/"><u>2024 Approved Achieving Flawless FB Live via Zoom Streaming</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-performance-probe-a-vll-app-overview/"><u>2024 Approved Performance Probe A VLL App Overview</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-audience-expansion-masterclass-skyrocketing-your-youtube-numbers/"><u>In 2024, Audience Expansion Masterclass Skyrocketing Your Youtube Numbers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-autoplay-youtube-on-mobile-no-distractions/"><u>In 2024, AutoPlay YouTube on Mobile, No Distractions!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Lava Bootloader Easily</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/lightning-fast-lore-resurrecting-reddit-articles-lost/"><u>Lightning-Fast Lore Resurrecting Reddit Articles Lost</u></a></li>
+<li><a href="https://windows11.techidaily.com/missing-wingman-copilot-in-the-sky-of-windows-11/"><u>Missing Wingman (Copilot) in the Sky of Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/regaining-internet-access-in-windows/"><u>Regaining Internet Access in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/retrospective-on-classic-ratchet-and-clank-reenvisioned-and-revitalized/"><u>Retrospective on Classic Ratchet & Clank Reenvisioned and Revitalized</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/simplify-productivity-step-by-step-guide-to-using-free-countdowns-for-2024/"><u>Simplify Productivity Step-by-Step Guide to Using Free Countdowns for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-system-support-with-assigned-shortcut-keys-in-w11/"><u>Streamline System Support with Assigned Shortcut Keys in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-keyboard-commands-add-wordpad-shortcuts-to-windows-context-menus/"><u>Streamlining Keyboard Commands: Add Wordpad Shortcuts to Window's Context Menus</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactical-approach-to-beat-wows-fatal-132-hurdle/"><u>Tactical Approach to Beat WOW's Fatal #132 Hurdle</u></a></li>
+<li><a href="https://windows11.techidaily.com/transformative-windows-11-the-finest-replacements-guide/"><u>Transformative Windows 11: The Finest Replacements Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-sound-device-issues/"><u>Troubleshooting Windows Sound Device Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/when-should-you-throw-in-the-tech-towel-top-signs/"><u>When Should You Throw in the Tech Towel? Top Signs</u></a></li>
+</ul></div>
 

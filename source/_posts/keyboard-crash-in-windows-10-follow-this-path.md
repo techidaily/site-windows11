@@ -1,7 +1,7 @@
 ---
 title: Keyboard Crash in Windows 10? Follow This Path
-date: 2024-10-13T00:34:27.365Z
-updated: 2024-10-19T01:19:56.643Z
+date: 2024-10-19T19:13:44.328Z
+updated: 2024-10-24T20:14:38.183Z
 tags:
   - windows10
   - windows11
@@ -29,10 +29,10 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
  Then, try to use one of the Function keys.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Check Your Keyboard for Dirt and Grime
@@ -46,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
 3. Connect your keyboard to a different computer and check if the Fn keys are now working.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Run the Hardware and Devices Troubleshooter
@@ -61,13 +61,6 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
 3. Press **Enter**. This will bring up the Hardware and Devices troubleshooter. On its window, click **Next** to start the troubleshooting process
 
 ![Hardware and devices troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/hardware-devices-1-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Run the Keyboard Troubleshooter
 
@@ -99,14 +92,14 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
 
 ![Device manager menu in Windows 10.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/keyboard-driver-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to download the keyboard driver from the producer’s website, make sure you get the correct driver for your Windows version and processor type.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Check the Human Interface Device Service
 
@@ -115,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
  In the Start menu search bar, search for **services** and select **Run as administrator**. Then, double-click on the **Human Interface Device** service. Set **Startup type** to **Manual** and click **Apply > OK** to save the new system changes.
 
 ![Restart the Human Interface Device service in Windows 10](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/services-fn-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then, restart your computer and check if the problem is now fixed.
 
@@ -135,18 +135,19 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-crafting-curve-concepts-for-text-visualization-for-2024/"><u>[New] Crafting Curve Concepts for Text Visualization for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-boosting-youtube-popularity-two-simple-strategies-for-2024/"><u>[Updated] Boosting YouTube Popularity Two Simple Strategies for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-fb-hd-stream-to-local-storage/"><u>[Updated] FB HD Stream to Local Storage</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-insights-into-the-world-of-hdr-technology-for-windows-11/"><u>Expert Insights Into the World of HDR Technology for Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-dota-2-stability-issues-effective-solutions-inside/"><u>Fixing Dota 2 Stability Issues: Effective Solutions Inside</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-make-sure-your-temp-folder-is-valid-error-in-windows-11/"><u>How to Fix the Make Sure Your Temp Folder Is Valid Error in Windows 11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-prestige-pcs-and-laptops-technologys-elite/"><u>In 2024, Prestige PCs & Laptops - Technology's Elite</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pulse-up-your-routine-20-most-empowering-workout-songs/"><u>In 2024, Pulse Up Your Routine 20 Most Empowering Workout Songs</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-quick-and-budget-mp3-conversion-from-skype-talks/"><u>In 2024, Quick & Budget MP3 Conversion From Skype Talks</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Realme C67 5G? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/navigating-the-maximum-duration-limit-for-instagram-videos-for-2024/"><u>Navigating the Maximum Duration Limit for Instagram Videos for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/proactive-measures-to-increase-virtual-memory-in-windows-11-operations/"><u>Proactive Measures to Increase Virtual Memory in Windows 11 Operations</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-system-calls-failure-on-win1011/"><u>Troubleshooting System Calls Failure on Win10/11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-excellent-video-and-picture-capture-for-iphones-and-androids-here/"><u>[New] 2024 Approved Excellent Video & Picture Capture for iPhones & Androids Here!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-androids-screen-capture-4-easy-techniques-for-2024/"><u>[New] Android's Screen Capture 4 Easy Techniques for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-ubiquitous-display-dynamics-choosing-a-media-company/"><u>[New] In 2024, Ubiquitous Display Dynamics Choosing a Media Company</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-olympic-sprint-spotlight-year-2022/"><u>[Updated] Olympic Sprint Spotlight Year 2022</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-essential-oculus-rift-adventures-for-gamers/"><u>2024 Approved Essential Oculus Rift Adventures for Gamers</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-energy-use-with-windows-pcs/"><u>Efficient Energy Use with Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-drag-fixes-for-your-win11-desktop/"><u>Effortless Drag Fixes for Your Win11 Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/embrace-world-typography-on-windows-font-guide/"><u>Embrace World Typography on Windows - Font Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensuring-full-visibility-for-system-startups/"><u>Ensuring Full Visibility for System Startups</u></a></li>
+<li><a href="https://windows11.techidaily.com/erase-system-misses-message-on-windows-os/"><u>Erase System Misses Message on Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/error-code-x80246007-fixing-windows-update-issues/"><u>Error Code X80246007: Fixing WIndows Update Issues</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/precision-at-a-glance-hps-4k-z32-x-examination-for-2024/"><u>Precision at a Glance HP’s 4K Z32 X Examination for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-x-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone X Making It Possible</u></a></li>
 </ul></div>
 

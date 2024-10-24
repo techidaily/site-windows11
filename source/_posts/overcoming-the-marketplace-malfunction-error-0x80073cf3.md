@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the Marketplace Malfunction: Error 0X80073CF3"
-date: 2024-10-16T17:44:17.698Z
-updated: 2024-10-18T19:05:57.297Z
+date: 2024-10-19T19:16:52.094Z
+updated: 2024-10-24T21:03:05.741Z
 tags:
   - windows10
   - windows11
@@ -42,10 +42,23 @@ thumbnail: https://thmb.techidaily.com/e937e68a5b9ec03875dd350ca4501bcb740dbcf76
 ![The wsreset Run command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/wsreset-command.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Reset the Microsoft Store App
@@ -55,10 +68,17 @@ thumbnail: https://thmb.techidaily.com/e937e68a5b9ec03875dd350ca4501bcb740dbcf76
 ![The Repair and Reset buttons for Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-reset-and-repair-buttons.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Repair the Gaming Services App
@@ -79,27 +99,20 @@ thumbnail: https://thmb.techidaily.com/e937e68a5b9ec03875dd350ca4501bcb740dbcf76
 
 ![The real-time protection setting for Microsoft Defender](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/real-time-protection-setting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Set Windows to Perform a Clean Boot
 
  The description for error 0x80073CF3 hints that a software (or app) conflict can cause this issue to arise. Setting Windows to clean boot could eliminate such a potential software conflict. Applying that potential fix will disable all unnecessary third-party startup items from running automatically.
 
 ![The System Configuration window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/system-configuration-window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can configure a clean boot by selecting to disable third-party startup programs and services with Task Manager and System Configuration. Our guide to [performing a clean boot on Windows](https://www.makeuseof.com/clean-boot-windows-11/) includes full guidelines for how to disable startup items with those tools. Then restart your PC and try downloading the required Microsoft Store apps again to see if error 0x80073CF3 continues.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Free Up Some Drive Storage Space
 
@@ -107,25 +120,11 @@ thumbnail: https://thmb.techidaily.com/e937e68a5b9ec03875dd350ca4501bcb740dbcf76
 
 ![The Apps & features uninstaller tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/apps-features-uninstaller.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Reinstall the Microsoft Store App
 
  Reinstalling the Microsoft Store app is another error 0x80073CF3 fix that’s worked for some users. Those users fixed the issue by removing and reinstalling the Microsoft Store with several PowerShell commands. Our guide about [reinstalling the Microsoft Store](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) includes the PowerShell commands you need to execute for this potential fix.
 
 ![The remove MS Store command](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-remove-app-package-command.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Perform a Windows In-Place Upgrade
 
@@ -134,6 +133,13 @@ thumbnail: https://thmb.techidaily.com/e937e68a5b9ec03875dd350ca4501bcb740dbcf76
  You can apply this potential fix by downloading the latest Windows 11 ISO file or media creation tool for Windows 10\. Our guide on [how to apply an in-place Windows upgrade](https://www.makeuseof.com/in-place-upgrade-windows-11/) includes instructions for upgrading Windows 11\. To perform the same fix for Windows 10, click **Download tool now** on this [Microsoft page](https://www.microsoft.com/en-gb/software-download/windows10) and select **Upgrade this PC now** within the downloaded media creation utility.
 
 ![The Windows 11 Setup window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/the-windows-11-setup-window2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get the Microsoft Store Error 0x80073CF3 Sorted
 
@@ -150,24 +156,22 @@ thumbnail: https://thmb.techidaily.com/e937e68a5b9ec03875dd350ca4501bcb740dbcf76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-streamlined-multitasking-in-safari-with-pip/"><u>[New] 2024 Approved Streamlined Multitasking in Safari with PIP</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unlocking-the-power-of-pages-top-10-social-media-optimization-tactics/"><u>[New] Unlocking the Power of Pages Top 10 Social Media Optimization Tactics</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-a-comprehensive-handbook-for-recording-live-hulu-on-pcmacosandroid/"><u>2024 Approved A Comprehensive Handbook for Recording Live Hulu on PC/MacOS/Android</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-corner-best-funny-content-on-the-planet-web-for-2024/"><u>Comic Corner Best Funny Content on the Planet Web for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-crashes-caused-by-windows-0x0000011b-error/"><u>Fixing Crashes Caused by Windows' 0X0000011B Error</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-stop-everlasting-loading-during-skyrim-gameplay-tips-and-tricks-unveiled/"><u>How to Stop Everlasting Loading During Skyrim Gameplay: Tips & Tricks Unveiled</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-crafting-engaging-youtube-video-layouts/"><u>In 2024, Crafting Engaging YouTube Video Layouts</u></a></li>
-<li><a href="https://windows11.techidaily.com/mend-cure-your-windows-11-function-key-woes/"><u>Mend: Cure Your Windows 11 Function Key Woes</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-obstacles-in-installation-for-windo-users/"><u>Overcoming Obstacles in Installation for Windo Users</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/perfect-your-presentations-leading-free-mac-screen-capture-tools/"><u>Perfect Your Presentations Leading Free Mac Screen Capture Tools</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/secrets-to-profit-from-youtube-shorts-fundamentals-and-earning-prospects/"><u>Secrets to Profit From Youtube Shorts Fundamentals and Earning Prospects</u></a></li>
-<li><a href="https://windows11.techidaily.com/step-by-step-guide-insert-isp-info-on-taskbar/"><u>Step-by-Step Guide: Insert ISP Info on Taskbar</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-threat-within-detecting-and-disabling-wacatacbml-trojan-on-pcs/"><u>The Threat Within: Detecting and Disabling Wacatac.B!ml Trojan on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/thriving-on-windows-11-essential-methods/"><u>Thriving on Windows 11: Essential Methods</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-print-spooler-down-on-windows-pcs/"><u>Troubleshooting Print Spooler Down on Windows PCs</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/ultimate-list-of-the-6-greatest-ios-malware-defenders/"><u>Ultimate List of the 6 Greatest iOS Malware Defenders</u></a></li>
-<li><a href="https://windows11.techidaily.com/uniting-android-tabs-with-windows-11-for-enhanced-workflow/"><u>Uniting Android Tabs with Windows 11 for Enhanced Workflow</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-the-potential-of-ai-in-microsoft-store/"><u>Unlocking the Potential of AI in Microsoft Store</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/visualvoyage-mastering-the-art-of-image-and-video-size-on-instagram/"><u>VisualVoyage Mastering the Art of Image and Video Size on Instagram</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-football-film-study-premier-insights-infographic/"><u>[New] In 2024, Football Film Study Premier Insights Infographic</u></a></li>
+<li><a href="https://games-able.techidaily.com/binge-friendly-apps-the-top-20-fast-games-for-androidiphone/"><u>Binge-Friendly Apps: The Top 20 Fast Games for Android/iPhone</u></a></li>
+<li><a href="https://windows11.techidaily.com/drive-success-top-5-windows-productivity-hacks-you-cant-miss/"><u>Drive Success: Top 5 Windows Productivity Hacks You Can't Miss</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-managing-your-c-drive-usage-on-windows/"><u>Efficiently Managing Your C: Drive Usage on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-windows-method-to-determine-ram-specifications/"><u>Effortless Windows Method to Determine RAM Specifications</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortlessly-create-win-11-boot-drive-using-these-3-methods/"><u>Effortlessly Create Win 11 Boot Drive Using These 3 Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-audio-experience-with-windows-11-settings/"><u>Elevate Your Audio Experience with Windows 11 Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-old-wallpaper-3-efficient-methods/"><u>Eliminate Old Wallpaper: 3 Efficient Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/ensuring-high-visibility-of-taskmanager/"><u>Ensuring High Visibility of TaskManager</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-3d-paint-keyboard-tricks/"><u>Essential 3D Paint Keyboard Tricks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-raspberry-pi-artificial-intelligence-starter-set-brainiac-edition/"><u>In-Depth Analysis of the Raspberry Pi Artificial Intelligence Starter Set - 'Brainiac' Edition</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-line-chat-app-reviews-user-experiences-unveiled/"><u>In-Depth Line Chat App Reviews: User Experiences Unveiled</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/turning-shorts-into-cash-youtube-guide-for-2024/"><u>Turning Shorts Into Cash YouTube Guide for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unleashing-creativity-the-essential-guide-to-desktop-video-posts-on-instagram-for-2024/"><u>Unleashing Creativity The Essential Guide to Desktop Video Posts on Instagram for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-your-culinary-potential-with-chatgpts-cooking-hints-and-tricks/"><u>Unlock Your Culinary Potential with ChatGPT's Cooking Hints & Tricks</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/unveiling-the-most-effective-data-copy-solutions-for-windows-10-users/"><u>Unveiling the Most Effective Data Copy Solutions for Windows 10 Users</u></a></li>
 </ul></div>
 

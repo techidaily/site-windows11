@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows 11 for 5GHz Wi-Fi Issues
-date: 2024-08-31T22:08:56.376Z
-updated: 2024-09-01T22:08:56.376Z
+date: 2024-10-21T19:39:25.865Z
+updated: 2024-10-24T20:48:57.204Z
 tags:
   - windows10
   - windows11
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 
  If you’ve previously connected your phone to the same network, you can check our guide on [how to view saved Wi-Fi passwords on Android](https://www.makeuseof.com/tag/how-to-view-passwords-for-saved-wi-fi-networks-on-android/) to find out the password.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Run the Network & Internet Troubleshooter
 
  It can be really frustrating whenever you run into a network problem on your computer. Fortunately, Windows has a built-in troubleshooter to help you fix it, including when you can’t connect to 5GHz Wi-Fi.
@@ -53,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 
 ![Run the network and internet troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/network-troubleshooter-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 4\. Restart Your Router
 
  Windows 11’s inability to connect to 5GHz Wi-Fi might be due to a router glitch. While we often ignore it, we should restart the router to keep it working smoothly. However, simply unplugging it for a few minutes might not be enough to fix the issue. Instead, [use the correct way to restart your router](https://www.makeuseof.com/reboot-router-correct-way/).
@@ -73,11 +77,19 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 ![Manage known networks in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/forget-network-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Set 5GHz as Your Preferred Band
 
  The 2.4GHz has better coverage, so it makes sense if you don’t want to remove it from your computer. However, you can [have Windows switch from 2.4 to 5 GHz](https://www.makeuseof.com/how-to-switch-from-24ghz-to-5ghz-in-windows-10/) if you want to enjoy higher speeds.
@@ -95,14 +107,20 @@ thumbnail: https://thmb.techidaily.com/57fc80a0532998e9a3fa34c3a10aaf11a38c8a257
 ![Update the Wi-Fi driver in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/update-wifi-driver-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If Windows is showing **The best drivers for your device are already installed** message, head to the manufacturer's website and check if there are any updates available.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 8\. Install a Different Wi-Fi Driver Version
 
  If you’ve updated the Wi-Fi driver and still can’t connect to 5GHz, you can switch to a different Wi-Fi driver version.
@@ -117,8 +135,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Use a different Wi-Fi driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/different-wi-fi-driver-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 9\. Enable IPv6
 
  Internet Protocol version 6 (or IPv6) is the newest version of Internet Protocol (or IP) and newer routers and networks are already using it. If IPv6 is turned off on your Windows computer, it might lead to conflict, which is why you can’t connect to the 5GHz band.
@@ -134,21 +156,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Internet protocol settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ipv6-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. Use a Dual Band USB Wi-Fi Dongle
 
  If you already own a Dual Band Wi-Fi Dongle, you can use it to solve the connectivity issue. However, if you plan on buying one, it might be better to just stick with using the 2.4GHz band as [Wi-Fi dongles don’t have the best performance](https://www.makeuseof.com/tag/reasons-wireless-dongle-performance-sucks/).
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## 11\. Reset the Network Settings
 
  If you can’t find anything wrong on your computer, there’s a chance that improper network settings are stopping you from connecting to the 5GHz band. In this case, you should [reset your network settings to their default values](https://www.makeuseof.com/reset-network-settings-windows-11/). Before doing so, it’s best to save any work in progress as Windows will ask you to restart your device once the reset is complete.
 
 ![Network settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/network-reset-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Connect Windows 11 to 5GHz Wi-Fi Again
 
@@ -158,11 +181,33 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If you’re sure your computer supports 5GHz connections but have no success when trying to connect to 5GHz Wi-Fi, go through the solutions below.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-slomo-capture-a-comprehensive-2024-analysis/"><u>[Updated] Ultimate SloMo Capture A Comprehensive 2024 Analysis</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-apple-images-not-importing-correctly-on-windows/"><u>Addressing Apple Images Not Importing Correctly on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-playfulness-on-the-go-two-methods-to-gauge-fps-in-android-games/"><u>Boost Playfulness on the Go: Two Methods to Gauge FPS in Android Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/curtailing-spontaneous-console-appearance-triggers/"><u>Curtailing Spontaneous Console Appearance Triggers</u></a></li>
+<li><a href="https://windows11.techidaily.com/ease-into-accessibility-windows-fundamentals-for-novices/"><u>Ease Into Accessibility: Windows Fundamentals for Novices</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-mini-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 mini to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-a18-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo A18 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-analysis-of-gradual-audio-lowering-with-lumafusion/"><u>In 2024, In-Depth Analysis of Gradual Audio Lowering with Lumafusion</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/leverage-the-power-of-visual-storytelling-with-your-own-facebook-slideshows/"><u>Leverage the Power of Visual Storytelling with Your Own Facebook Slideshows</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-basics-top-settings-to-optimize-on-new-windows-11/"><u>Mastering the Basics: Top Settings to Optimize on New Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/navigating-through-io-screenshot-functionality/"><u>Navigating Through IO Screenshot Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-11-usage-chronicles/"><u>Navigating Through Windows 11 Usage Chronicles</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-route-engaging-windows-11s-capture-utility/"><u>Quick Route: Engaging Windows 11'S Capture Utility</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-workspace-malfunctions-essential-tips-for-office-on-winos/"><u>Resolving Workspace Malfunctions: Essential Tips for Office on WINOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/steering-onedrive-destination-on-windows-pc/"><u>Steering OneDrive Destination on Windows PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-clearing-darkened-windows-remote-pc/"><u>Techniques for Clearing Darkened Windows Remote PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-11-camera-app-eradicating-error-a00f425d/"><u>Troubleshooting Windows 11 Camera App: Eradicating Error A00F425D</u></a></li>
+<li><a href="https://discover-data.techidaily.com/unlocking-secrets-where-do-iphones-save-ringtone-files-and-how-to-find-them-easily/"><u>Unlocking Secrets: Where Do iPhones Save Ringtone Files and How to Find Them Easily.</u></a></li>
+</ul></div>
+

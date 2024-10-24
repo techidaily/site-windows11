@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Office Activation Barrier
-date: 2024-10-16T00:50:17.304Z
-updated: 2024-10-18T21:37:19.470Z
+date: 2024-10-20T19:06:02.321Z
+updated: 2024-10-24T19:20:36.584Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/f6689b1ce3b098830c1181e612252ff5b928460b4
 
  As you now better understand what causes this error, let's see how to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Fix the "Product Activation Failed" Error in Microsoft Office Apps
 
  To fix the "Product Activation Failed" error, ensure your subscription is active, you're signed in with the right account, and the date is correct. Other possible solutions include updating the Office app where you are encountering the issue and confirming that you have a genuine copy of Windows installed on your computer.
@@ -46,20 +53,27 @@ First, perform the following preliminary checks:
 ![Running the Microsoft Word App As an Administrator From Windows Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/1-running-the-microsoft-word-app-as-an-administrator-from-windows-search.jpg)
 * Ensure Microsoft Word, Microsoft Excel, or any other app you're using is up-to-date. For that, open the app, navigate to the**File** tab, and select**Account** on the left sidebar. Then, click on the**Update Options** dropdown and select**Update Now** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If the above steps don't help, try applying the remaining fixes.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Don't Use a Cracked Version of Microsoft Office Apps
 
  To activate Microsoft Office apps legally, you should always purchase the subscription from Microsoft's website or its trusted partners. If you have used a crack or third-party activator to activate these apps and encountered this issue after a few days, Microsoft is likely to have detected this unauthorized activation and blocked it.
 
  Therefore, if you have chosen an illegitimate path, purchase the Microsoft 365 subscription, and this error will be resolved. If you want to get a better deal, check out our article covering[different ways to get cheap Microsoft Office and Microsoft Word licenses](https://www.makeuseof.com/tag/microsoft-office-cheap/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Don't Use a Pirated Copy of Windows
 
@@ -75,13 +89,6 @@ If the above steps don't help, try applying the remaining fixes.
 
  If the subscription has expired, you will have to renew it to fix the error. However, if you have not received any email and the subscription is still active, you might be logged in to Microsoft apps with a different account.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Ensure You Are Logged Into the Correct Account
 
  You must use the same Microsoft account you used to buy the subscription to access all features of the Office apps. If you share your computer with others, they might have logged in to their accounts that do not have active subscriptions.
@@ -92,18 +99,18 @@ To ensure that's not the case, follow the below steps:
 2. Navigate to the**File** tab and select**Account** on the left sidebar.
 3. Under**User Information** , you can find the account information. If you see a different account there, click on**Sign out** . Then, sign in again using the account that has an active subscription.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Ensure the Date Is Set Correctly
 
  The "Product Activation Failed" error can also be caused by an incorrectly set date on your device. If your subscription is going to expire in a specific month of the year, which is yet to come, but the date you set on your device goes past the day when the subscription will actually expire, you may encounter this error.
 
  Look at your screen's lower-right end and check the set date. If it isn't set correctly, follow our guide on[how to change the date and time on Windows 11](https://www.makeuseof.com/windows-11-change-date-time/) .
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 7\. Reset the Problematic Office Application
 
@@ -121,19 +128,6 @@ C:\Program Files\Microsoft Office\Office16
 3. Locate the**OSPREARM.EXE** file.
 4. Right-click on it and hit**Run as administrator** .  
 ![Running the OSPREARM Executable File as an Administrator in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/4-running-the-osprearm-executable-file-as-an-administrator-in-windows-file-explorer.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It is important to note that the name of the Office folder in the path above may differ depending on which version of Office you are using. Therefore, if you use a different version than Office16, change the last part of the above path accordingly.
 
@@ -156,22 +150,16 @@ C:\Program Files\Microsoft Office\Office16
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-recording-skype-meetings-on-modern-operating-systems/"><u>[New] Recording Skype Meetings on Modern Operating Systems</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-convert-youtubes-audios-to-mp3-safely-step-by-step-guide/"><u>[Updated] 2024 Approved How To Convert YouTube's Audios to MP3 Safely - Step-by-Step Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-breaking-down-the-font-inclusion-process-in-ae/"><u>[Updated] Breaking Down the Font Inclusion Process in AE</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-a-sincere-look-at-high-quality-audio-streaming-recordcast/"><u>[Updated] In 2024, A Sincere Look at High-Quality Audio Streaming RecordCast</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-sky-high-security-the-prime-5-cloud-choices/"><u>2024 Approved Sky High Security The Prime 5 Cloud Choices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unveiling-figmas-bg-elimination-mastery/"><u>2024 Approved Unveiling Figma's BG Elimination Mastery</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/begin-every-question-with-either-have-you-considered-what-if-you-tried-or-could-it-be-beneficial-to/"><u>Begin Every Question with Either Have You Considered, What if You Tried, or Could It Be Beneficial To</u></a></li>
-<li><a href="https://win-blog.techidaily.com/best-swf-player-applications-for-macos-a-comprehensive-guide/"><u>Best Swf Player Applications for macOS: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-les-meilleurs-logiciels-pour-visualiser-et-lire-des-fichiers-vob-sur-pc-windowsmac-guide-complet/"><u>Explore Les Meilleurs Logiciels Pour Visualiser Et Lire Des Fichiers VOB Sur PC (Windows/Mac) : Guide Complet</u></a></li>
-<li><a href="https://windows11.techidaily.com/gain-mastery-over-files-in-windows-11-quick-transition-tricks/"><u>Gain Mastery Over Files in Windows 11: Quick Transition Tricks</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-graphics-drivers-a-windows-10-and-11-fixation/"><u>Navigating Graphics Drivers: A Windows 10 & 11 Fixation</u></a></li>
-<li><a href="https://windows11.techidaily.com/pure-functionality-cleaning-and-organizing-your-w11-workspace/"><u>Pure Functionality: Cleaning and Organizing Your W11 Workspace</u></a></li>
-<li><a href="https://windows11.techidaily.com/re-enabling-print-service-after-error-displayed-on-pc/"><u>Re-Enabling Print Service After Error Displayed on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-workflow-excellent-screen-savers-with-clock-features/"><u>Seamless Workflow: Excellent Screen Savers with Clock Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-error-at-interrupt-during-debugging-windows/"><u>Tackling Error at Interrupt During Debugging Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-roblox-windows-errors/"><u>Troubleshooting Roblox Windows Errors</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-windows-11-access-a-step-by-step-guide/"><u>Unlocking Windows 11 Access: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-making.techidaily.com/comment-activer-et-synchroniser-les-fichiers-en-mode-sans-fil-offline-sur-windows-11/"><u>Comment Activer Et Synchroniser Les Fichiers en Mode Sans-Fil (Offline) Sur Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-data-management-controlling-ntfs-compression/"><u>Efficient Data Management: Controlling NTFS Compression</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficiently-managing-frame-rates-to-reduce-delay/"><u>Efficiently Managing Frame Rates to Reduce Delay</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-user-not-valid-error-on-windows-11-and-11/"><u>Eliminating 'User Not Valid' Error on Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/enlighten-your-way-to-printer-success-on-windows-11/"><u>Enlighten Your Way to Printer Success on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-advice-for-resolving-cc-problems-in-the-latest-os/"><u>Essential Advice for Resolving CC Problems in the Latest OS</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/journey-to-discovering-your-personal-youtube-musical-realm-for-2024/"><u>Journey to Discovering Your Personal Youtube Musical Realm for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-best-4-ways-of-instagram-video-promotion/"><u>New Best 4 Ways of Instagram Video Promotion</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionize-patient-engagement-with-ad-insights-for-2024/"><u>Revolutionize Patient Engagement with Ad Insights for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-essential-shoppers-guide-to-modern-360cams/"><u>The Essential Shopper's Guide to Modern 360Cams</u></a></li>
+<li><a href="https://fox-info.techidaily.com/weave-soundscapes-into-premiere-pro-editing-workflows-for-2024/"><u>Weave Soundscapes Into Premiere Pro Editing Workflows for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Defender's Barrier on Third-Party AV Software
-date: 2024-10-14T21:01:17.011Z
-updated: 2024-10-18T22:10:41.062Z
+date: 2024-10-21T21:44:39.957Z
+updated: 2024-10-24T19:22:16.080Z
 tags:
   - windows10
   - windows11
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 
  This may result in conflicts and compromise the overall protection of your system. If you encounter such an issue, here is what to do.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Disable Tamper Protection
 
  The first step to resolve this issue is to disable Tamper Protection in Microsoft Defender. This feature prevents malicious programs from changing security settings without your consent. To disable it, follow the below steps:
@@ -45,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 ![Disable Tamper Protection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/disable-tamper-protection.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After disabling Tamper Protection, see if your third-party antivirus works.
@@ -70,16 +63,10 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 4. Under **Virus & threat protection settings**, click on **Manage settings**.  
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Manage settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/manage-settings.jpg)
@@ -87,18 +74,32 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 
 ![Add or remove exclusions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-or-remove-exclusions.jpg)
 6. If the UAC prompts you for permission, click **Yes**.
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Click on the **Add an exclusion** button and select **Folder**. In File Explorer, navigate to the folder where your third-party antivirus is installed.  
 ![Add an exclusion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/add-an-exclusion.jpg)
 8. Select the file and click on **Select Folder**. You'll see the folder added under the Exclusions section.
 
- After adding the exclusion, close the settings window and restart your computer. Once the computer restarts, Microsoft Defender should stop blocking third-party antivirus programs.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After adding the exclusion, close the settings window and restart your computer. Once the computer restarts, Microsoft Defender should stop blocking third-party antivirus programs.
 
 ### 4\. Reinstall Your Third-Party Antivirus Software
 
@@ -125,22 +126,19 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-speedster-photo-inspector-for-windows/"><u>[New] Speedster Photo Inspector for Windows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-audio-festivals-online/"><u>[Updated] Prime Audio Festivals Online</u></a></li>
-<li><a href="https://windows11.techidaily.com/discovering-value-with-the-2020-apple-iphone-se-where-smart-meets-affordable/"><u>Discovering Value with the 2020 Apple iPhone SE: Where Smart Meets Affordable</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diy-solutions-getting-your-humankind-game-to-launch-successfully/"><u>DIY Solutions: Getting Your Humankind Game to Launch Successfully</u></a></li>
-<li><a href="https://windows11.techidaily.com/five-keys-to-unlock-frozen-windows-hibernate/"><u>Five Keys to Unlock Frozen Windows Hibernate</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-samsung-galaxy-s21-fe-5g-2023-is-unlocked-by-drfone-android/"><u>How To Check if Your Samsung Galaxy S21 FE 5G (2023) Is Unlocked</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-enable-or-disable-the-smartscreen-filter-in-windows-10-and-11/"><u>How to Enable or Disable the SmartScreen Filter in Windows 10 & 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-swift-transformation-androids-best-vid-upgrades/"><u>In 2024, Swift Transformation Android's Best Vid Upgrades</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-application-setup-on-windows-11/"><u>Mastering the Art of Application Setup on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/rectifying-in-game-communication-hurdles-with-windows-speech-tools/"><u>Rectifying In-Game Communication Hurdles with Windows Speech Tools</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-fileshare-on-windows-11/"><u>Streamlining Fileshare on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackle-vbox-setup-head-on-devices-and-deps-first/"><u>Tackle VBox Setup Head-On: Devices and Deps First</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-essential-imovie-steps-for-squaring-up-instagram-posts/"><u>The Essential iMovie Steps for Squaring Up Instagram Posts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ltimate-list-of-virtual-journeys-by-channel-for-2024/"><u>The Ultimate List of Virtual Journeys, By Channel for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-alert-tones-superior-download-sites-list-for-2024/"><u>Top Alert Tones Superior Download Sites List for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transform-your-dvds-editing-compressing-and-converting-content-for-iosmac-os-x-playback/"><u>Transform Your DVDs: Editing, Compressing, and Converting Content for iOS/Mac OS X Playback</u></a></li>
-<li><a href="https://windows11.techidaily.com/unwrapping-the-mystery-of-windows-store-error-code-0x80072efd/"><u>Unwrapping the Mystery of Windows Store Error Code 0X80072EFD</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-decoding-skype-call-recordings-optimal-free-and-paid-methods-windowsmac/"><u>[New] In 2024, Decoding Skype Call Recordings Optimal Free and Paid Methods (Windows/Mac)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-art-of-colors-selecting-the-creme-de-la-creme-monitors/"><u>[Updated] The Art of Colors Selecting the Crème De La Créme Monitors</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-top-6-apps-for-creating-film-captions-in-various-languages/"><u>[Updated] Top 6 Apps for Creating Film Captions in Various Languages</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-laugh-loom-meme-crafter/"><u>2024 Approved Laugh Loom Meme Crafter</u></a></li>
+<li><a href="https://windows11.techidaily.com/4-ways-microsoft-is-replacing-cortana-in-windows/"><u>4 Ways Microsoft Is Replacing Cortana in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-peek-into-the-soulful-machine-activating-windows-private-character-analysis-platform/"><u>A Peek Into the Soulful Machine: Activating Windows’ Private Character Analysis Platform</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/bridging-the-gap-between-tiktok-and-facebook-sharing-for-2024/"><u>Bridging the Gap Between TikTok & Facebook Sharing for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/cant-insert-new-cells-in-microsoft-excel-for-windows-try-these-fixes/"><u>Can’t Insert New Cells in Microsoft Excel for Windows? Try These Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/curbing-resource-conflicts-on-pcs-running-windows-1011-153-chars/"><u>Curbing Resource Conflicts on PCs Running Windows 10/11 (153 Chars)</u></a></li>
+<li><a href="https://windows11.techidaily.com/discovering-new-horizons-for-galaxy-users-on-pc/"><u>Discovering New Horizons for Galaxy Users on PC</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/mastering-youtubes-no-ad-feature/"><u>Mastering YouTube's No Ad Feature</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-create-dramatic-videos-a-beginners-guide-to-slow-motion-in-windows-live-movie-maker/"><u>New 2024 Approved Create Dramatic Videos A Beginners Guide to Slow Motion in Windows Live Movie Maker</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-for-downloading-logitech-mk70-mouse-software-updates/"><u>Step-by-Step Tutorial for Downloading Logitech MK70 Mouse Software Updates</u></a></li>
 </ul></div>
 

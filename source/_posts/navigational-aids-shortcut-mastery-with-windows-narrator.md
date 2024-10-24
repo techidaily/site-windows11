@@ -1,7 +1,7 @@
 ---
 title: "Navigational Aids: Shortcut Mastery with Windows Narrator"
-date: 2024-08-31T22:07:48.679Z
-updated: 2024-09-01T22:07:48.679Z
+date: 2024-10-23T17:21:05.142Z
+updated: 2024-10-24T21:32:48.491Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
 This way, you can switch between the Legacy and Standard layouts.
 
  While this piece just covers the shortcuts, be sure to check out[the beginner's guide to Narrator](https://www.makeuseof.com/beginners-guide-windows-narrator/) for more general tips.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## All the Narrator Legacy Keyboard Shortcuts
 
@@ -159,20 +166,21 @@ This way, you can switch between the Legacy and Standard layouts.
 | Narrator + Q                                | Move to last item in containing area                                  |
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Get More Out of Windows Narrator
 
  Windows Narrator is an incredible tool for people with low vision or blindness, but its features can be used by anyone. Whether you need to quickly find a file or hear today’s news summary, Narrator can help you get the job done. You will find here a list of keyboard shortcuts to help you get more done with Narrator.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -181,4 +189,24 @@ This way, you can switch between the Legacy and Standard layouts.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-transform-your-movie-grading-skills-using-cg-centrals-luts/"><u>[New] In 2024, Transform Your Movie Grading Skills Using CG Central's Luts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-compact-drone-guide-unraveling-dji-sparks-selfie-prowess/"><u>[New] The Ultimate Compact Drone Guide Unraveling DJI Spark's Selfie Prowess</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/achieve-excellence-in-zoom-videos-using-key-conversion-techniques-for-2024/"><u>Achieve Excellence in Zoom Videos Using Key Conversion Techniques for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-lockout-overcoming-windows-11-device-error-code-22/"><u>Bypassing Lockout: Overcoming Windows 11 Device Error Code 22</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/digital-defenses-failing-an-ai-challenge/"><u>Digital Defenses Failing: An AI Challenge</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722967253960-download-amd-radeon-rx-580-graphics-card-drivers-fast-and-simple-updates/"><u>Download AMD Radeon RX 580 Graphics Card Drivers - Fast and Simple Updates</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-mpow-mic-not-working-error-on-pcs/"><u>Effective Solutions for MPOW Mic Not Working Error on PCs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-to-sonic-treasures-downloading-app-based-audio-content/"><u>In 2024, Navigating to Sonic Treasures Downloading App-Based Audio Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/larger-than-life-boosting-taskbar-icons-in-w11/"><u>Larger-than-Life: Boosting Taskbar Icons in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-settings-for-effortless-administration/"><u>Mastering Windows 11 Settings for Effortless Administration</u></a></li>
+<li><a href="https://windows11.techidaily.com/nexus-controller-detection-woes-heres-how-to-win-them-back/"><u>Nexus Controller Detection Woes? Here's How to Win Them Back</u></a></li>
+<li><a href="https://windows11.techidaily.com/responding-to-click-failures-in-windows-11-environment/"><u>Responding to Click Failures in Windows 11 Environment</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-bluetooth-keyboards-of-2024-reviews-and-picks/"><u>Top Rated Bluetooth Keyboards of 2024 - Reviews & Picks</u></a></li>
+<li><a href="https://windows11.techidaily.com/tricks-to-launch-websites-after-installation/"><u>Tricks to Launch Websites After Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshoot-and-fix-windows-autoshrink-issue/"><u>Troubleshoot & Fix Windows' Autoshrink Issue</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/ultimate-collection-of-no-cost-online-music-libraries-you-can-trust/"><u>Ultimate Collection of No-Cost Online Music Libraries You Can Trust</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-machine-wattage-determining-computational-power-use/"><u>Windows Machine Wattage: Determining Computational Power Use</u></a></li>
+</ul></div>
 

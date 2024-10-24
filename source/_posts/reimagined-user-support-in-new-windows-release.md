@@ -1,7 +1,7 @@
 ---
 title: Reimagined User Support in New Windows Release
-date: 2024-10-17T20:03:09.419Z
-updated: 2024-10-19T00:44:57.629Z
+date: 2024-10-23T18:17:51.406Z
+updated: 2024-10-24T20:40:06.348Z
 tags:
   - windows10
   - windows11
@@ -29,16 +29,16 @@ thumbnail: https://thmb.techidaily.com/f0dbd5a21adf0257efb4cfc535a5b1745bbe68be5
 
  Microsoft has been getting ready to slash Cortana for a couple of years as it already [discontinued Cortana for Android and iOS devices](https://www.makeuseof.com/microsoft-silences-cortana-android-ios/) back in 2021\. The decision also reflects on Windows 11, where Cortana isn’t enabled by default.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is Cortana Gone for Good?
 
 ![Ask Cortana in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/cortana-1-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re a Cortana enthusiast who integrated the virtual assistant into your productivity routine, we have good news.
 
@@ -59,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/f0dbd5a21adf0257efb4cfc535a5b1745bbe68be5
 ![New Bing Chat Interface showing Conversation Style options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-chat-interface.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One of Cortana’s best features is that you can easily search the web. Now, Microsoft takes it to the next level by adding AI to its browser. The new AI-powered Bing can answer complex questions by accessing reliable sources across the web.
@@ -72,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/f0dbd5a21adf0257efb4cfc535a5b1745bbe68be5
 ## 3\. Windows Copilot
 
 ![introducing copilot for Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ezgif-com-webp-to-jpg.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Image Credit: [Microsoft](https://blogs.windows.com/windowsdeveloper/2023/05/23/bringing-the-power-of-ai-to-windows-11-unlocking-a-new-era-of-productivity-for-customers-and-developers-with-windows-copilot-and-dev-home/)
 
@@ -90,6 +83,19 @@ Image Credit: [Microsoft](https://blogs.windows.com/windowsdeveloper/2023/05/23/
 
 ![A Copilot dialog box in Microsoft Word](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/copilot-dialog-in-word.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Image Credit: Microsoft/[M](https://www.shutterstock.com/image-photo/bangkokthailandapril92020-nintendo-switch-consoles-gaming-controller-1699898014)[icrosoft 365 Copilot](https://news.microsoft.com/reinventing-productivity/)
 
  Microsoft 365 Copilot is an AI assistant feature for Microsoft 365 apps and services. Integrating it into your workflow allows you to create a document draft using a prompt, make Excel graphs, or put together PowerPoint slides.
@@ -97,10 +103,10 @@ Image Credit: Microsoft/[M](https://www.shutterstock.com/image-photo/bangkokthai
  If you want to learn more, check out our guide on [what Microsoft 365 can do](https://www.makeuseof.com/what-is-microsoft-365-copilot/) to simplify your work.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What About Third-Party Alternatives to Cortana?
@@ -123,20 +129,24 @@ Image Credit: Microsoft/[M](https://www.shutterstock.com/image-photo/bangkokthai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-delving-deep-into-whatsapps-voice-chat-processes-for-2024/"><u>[New] Delving Deep Into WhatsApp's Voice Chat Processes for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mapping-out-instagram-deactivations/"><u>[New] In 2024, Mapping Out Instagram Deactivations</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-itel-p55-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Itel P55 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/behind-the-scenes-how-apples-m1-max-attachments-work/"><u>Behind-the-Scenes How Apple’s M1 Max Attachments Work</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-nullify-windows-aural-overdrive/"><u>How To Nullify Windows Aural Overdrive</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-getting-started-audacitys-guide-to-microphone-use-on-mac/"><u>In 2024, Getting Started Audacity's Guide to Microphone Use on Mac</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/pioneering-the-future-running-windows-11-on-legacy-pcs-through-to-go-and-rufus/"><u>Pioneering the Future: Running Windows 11 on Legacy PCs Through To Go & Rufus</u></a></li>
-<li><a href="https://windows11.techidaily.com/reclaim-missing-flight-copilot-on-new-os-ws11/"><u>Reclaim Missing Flight Copilot on New OS WS11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/record-lows-for-apple-watch-ultra-save-big-this-season-as-spotted-on-zdnet/"><u>Record Lows for Apple Watch Ultra: Save Big This Season as Spotted on ZDNet!</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-quintessence-of-productivity-win-11s-top-7-widgets/"><u>The Quintessence of Productivity: Win 11’S Top 7 Widgets</u></a></li>
-<li><a href="https://windows11.techidaily.com/tutorial-empowering-end-task-capability-on-windows-11/"><u>Tutorial: Empowering End Task Capability on Windows 11</u></a></li>
-<li><a href="https://fox-where.techidaily.com/ultimate-guide-how-to-easily-upload-your-tracks-to-soundcloud/"><u>Ultimate Guide: How to Easily Upload Your Tracks to SoundCloud</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-file-past-mastering-windows-11s-history-access/"><u>Unlocking File Past: Mastering Windows 11'S History Access</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-sonys-hdrcx405-price-effective-design/"><u>Unveiling Sony's HDRCX405 Price-Effective Design</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-youtube-stardom-made-easy-essential-editing-strategies-explored/"><u>[New] 2024 Approved YouTube Stardom Made Easy Essential Editing Strategies Explored</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-beat-blast-innovative-audio-for-2024/"><u>[New] Beat Blast Innovative Audio for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ow-does-youtube-work-after-a-video-is-uploaded/"><u>[New] How Does YouTube Work After a Video Is Uploaded</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-free-minecraft-branding-tools-download/"><u>[Updated] Free Minecraft Branding Tools Download</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/address-stuck-function-keys-on-windows-11-desktop/"><u>Address: Stuck Function Keys on Windows 11 Desktop</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/discover-the-premier-selection-of-complimentary-film-apps-for-apple-devices-find-your-perfect-watch-now-companion/"><u>Discover the Premier Selection of Complimentary Film Apps for Apple Devices: Find Your Perfect Watch Now Companion</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-a-faulty-windows-11-temporary-storage/"><u>Fixing a Faulty Windows 11 Temporary Storage</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-download-fonts-for-all-languages-on-windows/"><u>How to Download Fonts for All Languages on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-something-went-wrong-office-error-on-windows/"><u>How to Fix the “Something Went Wrong” Office Error on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-most-common-blue-screen-errors-on-windows/"><u>How to Fix the Most Common Blue Screen Errors on Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oppo-a18-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo A18 Fingerprint Lock</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-s17-pro-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo S17 Pro Phone?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-ultimate-blueprint-to-rip-and-burn-cds-with-windows-media-player/"><u>In 2024, The Ultimate Blueprint to Rip & Burn Cds with Windows Media Player</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-work-around-microsoft-verified-app-restrictions/"><u>Methods to Work Around Microsoft-Verified App Restrictions</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-non-existent-device-alerts-on-windows-1011/"><u>Resolving Non-Existent Device Alerts on Windows 10/11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/srt-to-txt-mastery-the-2023-guide-for-rapid-changeover-for-2024/"><u>SRT to TXT Mastery The 2023 Guide for Rapid Changeover for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/sync-software-unlocking-the-fourfold-compatibility-troubleshooter/"><u>Sync Software: Unlocking the Fourfold Compatibility Troubleshooter</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-artisans-approach-to-high-dynamic-range-mastery-on-windows-11/"><u>The Artisan’s Approach to High Dynamic Range Mastery on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/winrars-corrected-compression-overcoming-sum-errors/"><u>WinRAR's Corrected Compression: Overcoming Sum Errors</u></a></li>
 </ul></div>
 

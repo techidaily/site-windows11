@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting LSA Problem in Windows XP/Vista
-date: 2024-10-12T20:40:33.641Z
-updated: 2024-10-19T03:17:38.386Z
+date: 2024-10-23T17:53:52.710Z
+updated: 2024-10-24T19:06:27.831Z
 tags:
   - windows10
   - windows11
@@ -31,9 +31,23 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
 
  This error is usually triggered when Windows attempts to enable Local Security Authority (LSA) protection and fails. In some cases, the error may also appear after you enabled LSA protection and restarted your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Restart Your PC
 
  As the error message suggests, you first restart your Windows system. This minor step can fix several system-level errors and is worth a try. Restarting your computer involves shutting down all running programs and starting it up again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Scan for Malicious Programs
 
@@ -48,14 +62,14 @@ thumbnail: https://thmb.techidaily.com/2df210d64d34d4b3dc09759541c3c9d53d18577f1
 ![Full Scan Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/full-scan-windows-security.jpg)
 5. Select **Full scan** and click **Scan now**.
 
- Now wait for the scan to finish. If malicious programs are detected, Windows Security will remove them from your system automatically.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Now wait for the scan to finish. If malicious programs are detected, Windows Security will remove them from your system automatically.
 
 ## 3\. Change the Group Policy Settings
 
@@ -72,16 +86,16 @@ Administrative Templates > System > Local Security Authority
 ![Change the Group Policy Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/change-the-group-policy-settings.jpg)
 6. Now, in the window that appears, alter the settings from **Not Configured** to **Enabled**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Under the Options section, click the drop-down menu for **Configure LSASS to run as a protected process** and select **Enabled with UEFI Lock**.  
 ![Set as Enabled with UEFI Lock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-as-enabled-with-uefi-lock.jpg)
 8. Now click **Apply > OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After making the above changes, restart your computer and check if the error is resolved.
 
@@ -117,21 +131,7 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 ![Reset Windows Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/reset-windows-security.jpg)
 7. If the confirmation window pops up, click **Reset** to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for the reset process to finish and restart your computer. After restarting, check if the error is still present.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Perform Some Generic Fixes
 
@@ -155,22 +155,22 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-revival.techidaily.com/efficient-strategies-for-clearing-your-gpt-history/"><u>Efficient Strategies for Clearing Your GPT History</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/expert-approved-free-vob-video-editing-solutions/"><u>Expert-Approved Free VOB Video Editing Solutions</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-realme-12-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Realme 12 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-effortlessly-incorrante-windows-apps-with-menus/"><u>How to Effortlessly Incorrante Windows Apps With Menus</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-utilize-the-windows-odbc-tools/"><u>How to Utilize the Windows ODBC Tools?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-breakdown-of-adobe-cloud-plus-alternative-methods/"><u>In 2024, Expert Breakdown of Adobe Cloud, Plus Alternative Methods</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-overcome-the-invisibility-of-short-videos/"><u>In 2024, Overcome The Invisibility of Short Videos</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-look-at-the-linksys-ea9500-router-advanced-tech-for-seamless-connectivity/"><u>In-Depth Look at the Linksys EA9500 Router: Advanced Tech for Seamless Connectivity</u></a></li>
-<li><a href="https://windows11.techidaily.com/optimizing-file-management-integrating-cloud-drives-in-windows/"><u>Optimizing File Management: Integrating Cloud Drives in Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-performance-for-r-type-final-2-on-pc-no-more-crashes/"><u>Optimizing Performance for R-Type Final 2 on PC: No More Crashes</u></a></li>
-<li><a href="https://windows11.techidaily.com/overwhelmed-by-choosing-a-drive-easy-xbox-solutions/"><u>Overwhelmed by Choosing a Drive? Easy Xbox Solutions</u></a></li>
-<li><a href="https://windows11.techidaily.com/smarter-charging-notifications-on-windows-devices/"><u>Smarter Charging Notifications on Windows Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/smooth-play-ahead-mastering-windows-11s-full-screen-gaming-with-sonic/"><u>Smooth Play Ahead! Mastering Windows 11'S Full Screen Gaming with Sonic</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-seasoned-guide-to-windows-pc-ages/"><u>The Seasoned Guide to Windows PC Ages</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unlock-and-save-your-favorite-fb-videos-for-2024/"><u>Unlock and Save Your Favorite FB Videos for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-access-to-steam-libraries-on-windows-11-devices/"><u>Unlocking Access to Steam Libraries on Windows 11 Devices</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-the-podcast-startup-financials/"><u>Unveiling the Podcast Startup Financials</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-conquest-celebrating-the-most-stellar-7-total-wars/"><u>[New] The Ultimate Conquest Celebrating the Most Stellar 7 Total Wars</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-optimal-obs-configuration-for-budget-pcs/"><u>[Updated] In 2024, Optimal OBS Configuration for Budget PCs</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-6-plus-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone 6 Plus</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-proven-methods-to-enhance-your-windows-11-experience-35/"><u>7 Proven Methods to Enhance Your Windows 11 Experience (35)</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-service-failed-message-on-windows-disk-management/"><u>Addressing 'Service Failed' Message on Windows Disk Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-problems-with-software-installations-from-windows-store/"><u>Addressing Problems with Software Installations From Windows Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-windows-error-the-msvcr120dll-is-missing/"><u>Addressing Windows Error: The 'Msvcr120_dll' Is Missing</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-practices-choosing-the-right-win-video-codec/"><u>Best Practices: Choosing the Right Win Video Codec</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-your-cursors-appearance-in-windows-os/"><u>Boosting Your Cursor's Appearance in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypass-chaos-with-these-three-windows-reset-methods/"><u>Bypass Chaos with These Three Windows Reset Methods</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-samsung-galaxy-watch-active2-enhanced-features-and-improved-performance/"><u>Comprehensive Analysis of Samsung Galaxy Watch Active2 - Enhanced Features & Improved Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/ditching-windows-11-standards-top-10-app-list/"><u>Ditching Windows 11 Standards: Top 10 App List</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/elevate-your-brand-across-platforms-with-seamless-integration-of-facebook-linkedin-and-youtube/"><u>Elevate Your Brand Across Platforms with Seamless Integration of Facebook, LinkedIn & YouTube</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-samsung-galaxy-m14-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-8-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone 8 iCloud Lock</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-essentials-to-initiate-in-google-meet-for-2024/"><u>The Essentials to Initiate in Google Meet for 2024</u></a></li>
 </ul></div>
 

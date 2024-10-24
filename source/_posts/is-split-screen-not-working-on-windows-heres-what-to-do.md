@@ -1,7 +1,7 @@
 ---
 title: Is Split Screen Not Working on Windows? Here's What to Do
-date: 2024-10-15T17:46:15.318Z
-updated: 2024-10-18T17:41:17.540Z
+date: 2024-10-17T21:29:01.482Z
+updated: 2024-10-24T19:47:32.222Z
 tags:
   - windows10
   - windows11
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
  Now that you know the potential causes of the split screen not working, let’s look at how to resolve it.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Try Some Generic Fixes
 
  Before we jump into more complicated fixes, it's worth trying out some basic ones that typically fix Windows errors like this.
@@ -61,7 +54,21 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 ![Enable Snap windows in Multitasking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/enable-snap-windows-in-multitasking.jpg)
 4. Now click the down arrow key and ensure all the checkboxes are selected.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After making these changes, close the Settings window and check if it solves the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Check Your Display Settings
 
@@ -72,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 ![Display Resolution in Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/display-resolution-in-settings.jpg)
 
  Now click the **Display resolution** drop-down menu and adjust the resolution to fit your connected display. Once you've done that, try using split screen again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Restart Windows Explorer
 
@@ -97,6 +97,19 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
  After restarting Windows Explorer, try split screen again and see if it works now.
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Uninstall Third-Party Software
 
  If you have any third-party software or applications that manage Windows or screen layouts, uninstall them temporarily. Sometimes these programs interfere with Windows split-screen functionality and cause the issue.
@@ -113,16 +126,10 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
  Once you're done, try to use split screen to check if the issue is resolved.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Use the Built-In Shortcut Keys for Split Screen
@@ -132,13 +139,6 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
  To use split screen, press **Win + Left Arrow** on your keyboard. This makes one window dominate the left side of your screen. The same applies to **Win + Right Arrow**, which makes one window take up the right side of your screen.
 
  Similarly, press **Win + Up Arrow** or **Down Arrow** to snap windows into a quarter-screen size, allowing you to have four windows open simultaneously.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Manage Apps and Tasks Simultaneously to Enhance Your Productivity on Windows
 
@@ -154,20 +154,21 @@ thumbnail: https://thmb.techidaily.com/eb5fe9623ef8001592b893ca9dc19a617df53079d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/oogle-meet-broadcast-simplified-youtube-steps-for-2024/"><u>[New] Google Meet Broadcast Simplified YouTube Steps for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-ultimate-filter-guide-to-superior-zoom-quality/"><u>[New] In 2024, The Ultimate Filter Guide to Superior Zoom Quality</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-leading-hubs-for-virtual-typography-for-2024/"><u>[New] Leading Hubs for Virtual Typography for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-instagram-your-complete-guide-to-making-a-mark-with-reels/"><u>[New] Mastering Instagram Your Complete Guide to Making a Mark With Reels</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-tailoring-your-whatsapp-ringtone-for-ios-and-android-devices/"><u>[Updated] Tailoring Your WhatsApp Ringtone for iOS and Android Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/essential-guide-mastering-zipping-and-unzipping-filesfolders-on-your-mac/"><u>Essential Guide: Mastering Zipping & Unzipping Files/Folders on Your Mac</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/from-standstill-to-success-hard-drive-restoration-by-stellar/"><u>From Standstill to Success: Hard Drive Restoration by Stellar</u></a></li>
-<li><a href="https://windows11.techidaily.com/guiding-you-through-windows-update-mishap-0xca000a009/"><u>Guiding You Through Windows Update Mishap: 0XCA0_00A009</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-you-cast-your-apple-iphone-7-plus-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>In 2024, How Can You Cast Your Apple iPhone 7 Plus to Windows PC With Ease? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/legitimate-procedures-vs-chatbots-for-secure-win-11-access/"><u>Legitimate Procedures Vs. Chatbots for Secure Win 11 Access</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-troubleshooting-of-windows-update-problems/"><u>Navigating Through Troubleshooting of Windows Update Problems</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcome-pc-delays-in-warhammer-boltguns-quest-for-precision/"><u>Overcome PC Delays in Warhammer: Boltgun's Quest for Precision</u></a></li>
-<li><a href="https://windows11.techidaily.com/six-simple-steps-for-briefly-pausing-windows-11s-safety-measures/"><u>Six Simple Steps for Briefly Pausing Windows 11'S Safety Measures</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-overcoming-launchers-security-code-delivery-issues-on-windows/"><u>Troubleshooting: Overcoming Launcher's Security Code Delivery Issues on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/unseen-boundaries-personal-growth-under-microphone-and-camera-censorship/"><u>Unseen Boundaries: Personal Growth Under Microphone & Camera Censorship</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-convenient-syncing-moving-media-between-pc-and-iphone/"><u>[New] Convenient Syncing Moving Media Between PC and iPhone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-twitch-livestream-hacks-to-boost-engagement-and-followers/"><u>[New] In 2024, Twitch Livestream Hacks to Boost Engagement and Followers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-best-buys-in-the-drone-world-ready-for-2024/"><u>[Updated] Best Buys in the Drone World Ready for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-world-of-youtubers-and-gaming-sessions/"><u>2024 Approved Navigating the World of YouTubers and Gaming Sessions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unlocking-lenovos-full-potential-with-screen-recordings/"><u>2024 Approved Unlocking Lenovo's Full Potential with Screen Recordings</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-captioning-faults-in-win-10-systems/"><u>Addressing Captioning Faults in Win 10 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/assessing-usage-windows-hidden-reliability-vs-performance-tools/"><u>Assessing Usage: Windows' Hidden Reliability Vs. Performance Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/assuring-proper-operation-of-windows-monitor-app/"><u>Assuring Proper Operation of Windows Monitor App</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-xbox-game-pass-error-on-latest-windows-pcs/"><u>Bypassing Xbox Game Pass Error on Latest Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/clear-up-windows-icon-layout-confusion/"><u>Clear Up Window's Icon Layout Confusion</u></a></li>
+<li><a href="https://windows11.techidaily.com/command-prompt-mastery-the-fundamental-20-cmd-commands-to-know/"><u>Command Prompt Mastery: The Fundamental 20 CMD Commands to Know</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-photoshop-for-beginners-essential-snapseed-techniques/"><u>In 2024, Photoshop for Beginners Essential Snapseed Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719322271213-microsoft-to-do-not-sync-follow-these-steps-now/"><u>Microsoft To-Do Not Sync? Follow These Steps Now!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-k11-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo K11 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-quickly-and-effortlessly-fixing-your-steam-corrupt-disk/"><u>Troubleshooting Quickly and Effortlessly: Fixing Your Steam Corrupt Disk</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978290438-update-to-the-newest-drivers-for-your-msi-x470-motherboard-today/"><u>Update to the Newest Drivers for Your MSI X470 Motherboard Today!</u></a></li>
 </ul></div>
 

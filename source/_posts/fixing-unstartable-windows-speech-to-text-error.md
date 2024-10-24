@@ -1,7 +1,7 @@
 ---
 title: Fixing Unstartable Windows Speech-to-Text Error
-date: 2024-10-11T21:38:49.839Z
-updated: 2024-10-18T16:34:34.132Z
+date: 2024-10-19T16:01:07.598Z
+updated: 2024-10-24T18:36:18.028Z
 tags:
   - windows10
   - windows11
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
  If your microphone is connected but not visible in the device's settings, see [how to fix Windows not detecting a microphone](https://www.makeuseof.com/windows-not-detecting-microphone/). On the other hand, If your microphone is connected properly, follow our [microphone troubleshooting guide](https://www.makeuseof.com/windows-11-microphone-not-working/) for more help.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Modify the Speech Properties
 
  Another solution is to modify the speech recognition settings from Windows Speech Properties. Here's how to do that on your computer:
@@ -65,12 +72,39 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 ![Speech Recognition Settings Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/speech-recognition-settings-control-panel.jpg)
 3. On the **Speech Properties** screen, choose **Run Speech Recognition at startup** to enable it.  
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Speech Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/speech-properties-window.jpg)
 4. Under **Recognition Profiles**, click the **New** button and then **OK**.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Follow the steps to create a new profile and restart your computer.
 
  Once you're back on the desktop, you should be able to use all the speech recognition features.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Restart Required Windows Services
 
@@ -85,27 +119,7 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 ![Windows 11 Services App Overview](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-11-services-app-overview.jpg)
 5. Finally, restart your computer once and again check for the speech recognition problem.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you're using a Bluetooth microphone, please restart the **Bluetooth Support Service** and **Bluetooth Audio Gateway Service** with the mentioned services.
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Set Up Speech Recognition
 
@@ -115,29 +129,9 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
 ![Windows Speech Recognition Search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/windows-speech-recognition-search.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Follow the setup prompts one after the other, and once done, reconnect your microphone. This should quickly fix your speech recognition-related issues. If you cannot open the setup, access it from **Control Panel > Ease of Access > Speech Recognition > Set up microphone**.
 
  We've also covered other similar topics, such as the [Speech Diagnostic Calibrate error](https://www.makeuseof.com/fix-speech-diagnostic-calibrate-error-windows-11/), that may provide additional help.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## All Set to Use Speech Recognition on Windows Again
 
@@ -157,16 +151,22 @@ thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-a-comprehensive-look-at-youtube-shorts-template-design/"><u>[Updated] A Comprehensive Look at YouTube Shorts Template Design</u></a></li>
-<li><a href="https://win-able.techidaily.com/1-optimal-video-formats-and-integration-techniques-for-enhanced-presentations-in-google-slides/"><u>1. Optimal Video Formats and Integration Techniques for Enhanced Presentations in Google Slides</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-vivo-x-fold-2-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Vivo X Fold 2 Phone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/amour-en-vues-cinematic-language-lessons/"><u>Amour en Vues: Cinematic Language Lessons</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-cmd-commands-every-user-should-master/"><u>Essential CMD Commands Every User Should Master</u></a></li>
-<li><a href="https://windows11.techidaily.com/expert-guide-to-eliminate-error-0x80070570-in-windows-xp-sky/"><u>Expert Guide to Eliminate Error 0X80070570 in Windows XP-Sky</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-picks-the-ultimate-guide-to-free-dvd-playback-apps-compatible-with-win10win11/"><u>Expert Picks: The Ultimate Guide to Free DVD Playback Apps Compatible with Win10/Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-use-dev-drive-for-developers-on-windows-11/"><u>How to Use Dev Drive for Developers on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-for-rectifying-media-error-0xc10100bf/"><u>Methods for Rectifying Media Error 0XC10100BF</u></a></li>
-<li><a href="https://windows11.techidaily.com/seamless-guide-to-recognizing-hard-drive-and-ssd-on-windows-pcs/"><u>Seamless Guide to Recognizing Hard Drive and SSD on Windows PCs</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/secure-your-data-on-windows-11-encrypt-content-with-grise/"><u>Secure Your Data on Windows 11 - Encrypt Content with GRISÉ</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-5-economical-hd-camcorders-for-adventure/"><u>2024 Approved Top 5 Economical HD Camcorders for Adventure</u></a></li>
+<li><a href="https://windows11.techidaily.com/combatting-c0000005-crashes-on-windows-systems/"><u>Combatting C0000005 Crashes on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-productivity-essential-win11-and-command-tips-for-efficiency/"><u>Elevate Productivity: Essential Win11 and Command Tips for Efficiency</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-solutions-for-error-0x80042306-during-system-restore/"><u>Expert Solutions for Error 0X80042306 During System Restore</u></a></li>
+<li><a href="https://windows11.techidaily.com/experts-selection-7-best-windows-photos-apps-reviewed/"><u>Expert's Selection: 7 Best Windows Photos Apps Reviewed</u></a></li>
+<li><a href="https://windows11.techidaily.com/from-vocal-inputs-to-text-output-a-comprehensible-guide-for-windows-users/"><u>From Vocal Inputs to Text Output: A Comprehensible Guide for Windows Users</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/full-spectrum-analysis-the-logitech-4k-pro-webcam-for-2024/"><u>Full Spectrum Analysis The Logitech 4K Pro Webcam for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-k11x-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-restart-and-streamline-windows-update-processes/"><u>How to Restart and Streamline Windows Update Processes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-precise-posting-schedules-a-guide-to-youtube-excellence/"><u>In 2024, Precise Posting Schedules A Guide to YouTube Excellence</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-profit-in-the-space-time-continuum-the-art-of-creating-earning-rich-content/"><u>In 2024, Profit in the Space-Time Continuum The Art of Creating Earning-Rich Content</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-it-really-zoom-lagging-or-is-something-else-affecting-your-call-quality/"><u>Is It Really Zoom Lagging, or Is Something Else Affecting Your Call Quality?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/late-to-arrive-text-notifications-the-ultimate-list-of-9-fixes-for-iphones/"><u>Late-to-Arrive Text Notifications: The Ultimate List of 9 Fixes for iPhones</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-barriers-in-superuser-command-activation/"><u>Overcoming Barriers in Superuser Command Activation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/protect-your-privacy-a-comprehensive-tutorial-on-removing-spyware-from-smartphones/"><u>Protect Your Privacy: A Comprehensive Tutorial on Removing Spyware From Smartphones</u></a></li>
+<li><a href="https://windows11.techidaily.com/sky-high-internet-beyond-100mbps-overcoming-windows-speed-ceiling/"><u>Sky-High Internet Beyond 100Mbps: Overcoming Windows' Speed Ceiling</u></a></li>
+<li><a href="https://discover-best.techidaily.com/utilizing-cookiebot-technology-for-tailored-website-interactions/"><u>Utilizing Cookiebot Technology for Tailored Website Interactions</u></a></li>
 </ul></div>
 

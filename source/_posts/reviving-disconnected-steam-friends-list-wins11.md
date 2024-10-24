@@ -1,7 +1,7 @@
 ---
 title: Reviving Disconnected Steam Friends List (Wins11)
-date: 2024-10-13T01:04:13.285Z
-updated: 2024-10-18T20:55:54.864Z
+date: 2024-10-20T19:06:38.538Z
+updated: 2024-10-24T17:32:02.606Z
 tags:
   - windows10
   - windows11
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 ![Steam friends and chat settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/friends-chat-settings-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Opt Out of Steam’s Beta Participation
@@ -72,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
  Click **Apply** and **OK** to save the new settings and restart Steam.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Delete the Steam Appdata Folder
 
  Similar to any software that you’ve installed, Steam stores temporary files on your computer to speed up loading times and improve the user experience. However, if the stored data gets corrupted, it will negatively impact Steam’s features and functionality.
@@ -88,19 +81,19 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 ![Deleting the IconCache File by Right-clicking on the File in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/4-deleting-the-iconcache-file-by-right-clicking-on-the-file-in-windows-file-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you can’t find it, you should change File Explorer settings, so you can [view hidden files and folders on Windows](https://www.makeuseof.com/windows-11-show-hidden-files-folders/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Delete Steam's Web Data
@@ -116,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 7. Close the game, restart Steam, and check if the issue is now solved.
 
 ![Delete Steam web cache](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/delete-steam-cache-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get Back to Playing With Your Friends
 
@@ -133,21 +133,22 @@ thumbnail: https://thmb.techidaily.com/962100c4bb1cf841eba9a73f110c7891af5a14d4c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-2023-best-8-private-video-downloaders/"><u>[New] 2024 Approved 2023 | Best 8 Private Video Downloaders</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-mirrored-moments-the-essence-of-flipping-videos-for-2024/"><u>[New] Mirrored Moments The Essence of Flipping Videos for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-pushing-boundaries-with-iphones-motion-blur-capabilities/"><u>2024 Approved Pushing Boundaries with iPhone’s Motion-Blur Capabilities</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/galaxy-s7-gegen-iphone-7-detaillierte-vergleichsanalyse-der-funktionen-highlights-und-kosten/"><u>Galaxy S7 Gegen iPhone 7: Detaillierte Vergleichsanalyse Der Funktionen, Highlights Und Kosten</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-going-with-your-epson-v700-expert-download-and-setup-guides-for-windows-users/"><u>Get Going with Your Epson V700: Expert Download and Setup Guides for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-sound-devices-not-opened-by-audacity-in-win-os/"><u>How to Fix Sound Devices Not Opened by Audacity in Win OS</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/itunesiphone/"><u>ITunesで動かない時のトラブルシューティング：iPhone連携フリーズ回避と対処法</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolve-non-responsive-laptop-mousepad-problems-across-multiple-windows-versions/"><u>Resolve Non-Responsive Laptop Mousepad Problems Across Multiple Windows Versions</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-overcoming-windows-0x800704b3-problems/"><u>Strategies for Overcoming Windows' 0X800704B3 Problems</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-stopping-microsoft-teams-from-shutting-down-ws11ws10/"><u>Strategies for Stopping Microsoft Teams From Shutting Down WS11/WS10</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-windows-camera-software-hurdles/"><u>Tackling Windows Camera Software Hurdles</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-for-overcoming-generic-sound-failure-in-windows/"><u>Tips for Overcoming Generic Sound Failure in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/ultimate-strategy-batch-convert-heic-files-to-jpeg-in-windows-11/"><u>Ultimate Strategy: Batch Convert HEIC Files to JPEG in Windows 11</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-from-ordinary-to-amazing-the-ultimate-video-enhancement-tool/"><u>Updated In 2024, From Ordinary to Amazing The Ultimate Video Enhancement Tool</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/voiceverse-review-audio-deep-dive-for-2024/"><u>VoiceVerse Review Audio Deep Dive for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-tweaks-for-swifter-epic-games-setup/"><u>Windows Tweaks for Swifter Epic Games Setup</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-harnessing-online-platforms-beyond-youtube-to-30plus-communities/"><u>[New] In 2024, Harnessing Online Platforms Beyond YouTube to 30+ Communities</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-online-image-enhancement-melodic-twist/"><u>[New] Online Image Enhancement Melodic Twist</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-cutting-edge-approaches-share-youtube-content-on-facebook/"><u>[Updated] 2024 Approved Cutting-Edge Approaches Share YouTube Content on Facebook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-professional-gopro-filming/"><u>[Updated] The Ultimate Guide to Professional GoPro Filming</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-y78-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-revolutionizing-vr-experiences-with-newest-game-engines/"><u>2024 Approved Revolutionizing VR Experiences with Newest Game Engines</u></a></li>
+<li><a href="https://windows11.techidaily.com/achieve-peak-speed-for-your-windows-ssd-using-fresh-methods/"><u>Achieve Peak Speed for Your Windows' SSD Using Fresh Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/banishing-blue-screens-a-windows-fixers-manual/"><u>Banishing Blue Screens: A Windows Fixer’s Manual</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-access-issues-enabling-windows-logins-post-fail/"><u>Clearing Access Issues: Enabling Windows Logins Post-Fail</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/command-attention-in-advertising-using-20-powerful-terms/"><u>Command Attention in Advertising Using 20 Powerful Terms</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-guide-to-using-bluescreenview-tools/"><u>Comprehensive Guide to Using BlueScreenView Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/deletion-redefined-windows-photo-apps-new-edge/"><u>Deletion Redefined: Windows Photo App's New Edge</u></a></li>
+<li><a href="https://windows11.techidaily.com/disabling-auto-triggered-console-crashes-on-windows/"><u>Disabling Auto-Triggered Console Crashes on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/discovering-surface-laptop-studio-2-the-near-perfect-companion/"><u>Discovering Surface Laptop Studio 2 - The Near-Perfect Companion</u></a></li>
+<li><a href="https://windows11.techidaily.com/dispatching-speed-limits-defeat-windows-100mbps-boundary/"><u>Dispatching Speed Limits: Defeat Windows' 100Mbps Boundary</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimize-your-streaming-game-incorporating-chroma-key-effects-with-ease/"><u>Optimize Your Streaming Game Incorporating Chroma Key Effects with Ease</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
 </ul></div>
 

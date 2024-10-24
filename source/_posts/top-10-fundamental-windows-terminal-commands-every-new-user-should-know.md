@@ -1,7 +1,7 @@
 ---
 title: Top 10 Fundamental Windows Terminal Commands Every New User Should Know
-date: 2024-08-31T22:01:01.239Z
-updated: 2024-09-01T22:01:01.239Z
+date: 2024-10-18T17:47:03.579Z
+updated: 2024-10-24T21:09:04.193Z
 tags:
   - windows
 categories:
@@ -28,6 +28,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  All the commands listed in this article can be used in both Command Prompt and PowerShell.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1  cd: Change Directories Easily 
 
 [Navigating the Windows file system](https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/) doesn't have to be a maze. The cd (change directory) command makes it easy to move around your directories.
@@ -37,6 +44,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 cd Documents
 
 ![Windows change directory command in the terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cd-2.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or maybe you want to go up one level; you can type **cd ..** which will bring you back to the previous directory. This can be useful if you need to navigate through different directories quickly.
 
@@ -50,21 +64,22 @@ cd C:\Windows\System32
 
  It's all about making your file system a lot more accessible. For a deeper dive into changing directories on Windows, learn [how to change directories in command prompt on Windows 10](https://extra-information.techidaily.com/quick-and-easy-iphone-burst-techniques/).
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2  dir: List Directory Contents 
 
  Do you want to see what's inside a folder without opening it? The dir (directory) command is your answer. It lists all files and directories right in the terminal. Just type **dir** to get a list of everything in the current directory.
 
 ![Using the dir command in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/dir_command.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you type **dir /a**you can see all files and folders, including hidden ones, displayed in the directory.
 
 ![Using the dir command in Windows to display hidden directories and files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/dir_see_hidden_files.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Use the Tab key to auto-complete file and directory names while typing commands, saving time and reducing errors.
 
@@ -77,17 +92,18 @@ mkdir NewFolder
 ![Using the mkdir command in Windows to create a new directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mkdir_newfolder.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  This command is a great way to keep your system organized.
 
  If you want to create a nested directory structure in one go, you can use the **mkdir a\\b\\c** command. This command will create directory "a," and within "a," it will create directory "b," and within "b," it will create directory "c." It's a convenient way to set up multiple levels of directories with a single command rather than having to create each directory individually.
 
 ![Using mkdir to create nested directories in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mkdir_nested.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4  rmdir: Remove Directories 
 
  Do you have an empty folder you don’t need? The rmdir (remove directory) command will take care of it. But if it’s not empty, you’ll need a different approach. To remove an empty directory, simply type:
@@ -101,18 +117,18 @@ rmdir NewFolder
 ![Using the rmdir command in Windows to remove a directory and its contents.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rmdir_newfolder_andcontents.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Just be careful with that second one, and make sure you really want everything gone.
 
  When using the mkdir or rmdir commands, you won't see any confirmation message if the action is successful. To ensure the directory has been created or removed, you can use the dir command to list the contents of the current directory. If the action is successful, the new directory will appear or disappear from the list accordingly.
 
  If you need more information on a specific command, simply enter help followed by the command. For example, if you need more information on the rmdir command, type the **help rmdir** command.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## 5  del: Delete Files 
 
  Do you need to delete a file? The del command will do it. Use it wisely because once it's gone, it's gone (sort of). [Deleted files on hard drives aren't immediately erased](https://screen-recording.techidaily.com/updated-enhancing-facebook-viewership-with-obs-broadcasts/), while on solid-state drives, the data may be wiped more quickly.
@@ -123,9 +139,6 @@ del file.txt
 
 ![Using the del command in Windows to delete a file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/del_file.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It’s a powerful command, so handle it with care.
 
  The del command doesn't print anything in response to its use, which might surprise you. Once you run the command, the file will be deleted silently. You can verify that the file has been deleted by using the dir command to check the contents of the directory where the file was located.
@@ -144,10 +157,14 @@ copy * .txt C:\Backup
 
 ![Using the copy command to copy multiple files in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/copy_multiple_files.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Press F7 to view and select from your command history. This allows you to easily re-run previous commands without retyping them.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7  move: Move Files to a New Location 
 
@@ -167,10 +184,14 @@ type file.txt
 
 ![Using the type command in Windows to display the contents of a text file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/type_file.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The cls command clears all text from the terminal screen, giving you a clean slate to work from.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9  systeminfo: View System Information 
 
@@ -178,15 +199,6 @@ type file.txt
 
 ![Using the systeminfo command in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/systeminfo.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## 10  tree: Display Directory Structure 
 
  The tree command displays a graphical representation of the directory structure of a drive or path. It's a handy way to see the layout of your files and folders. To see the structure of the Users directory, type this command:
@@ -194,6 +206,13 @@ type file.txt
 tree C:\Users
 
 ![Using the tree command to see the structure of the Users folder in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/tree.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -205,8 +224,6 @@ tree C:\Users
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +231,24 @@ tree C:\Users
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/hannel-transformation-optimal-video-concepts-to-elevate-creativity-for-2024/"><u>[New] Channel Transformation Optimal Video Concepts to Elevate Creativity for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1728482395334-os/"><u>「迅速かつ効率的なネットワークによるパソコン群へのOSイメージ拡張方法」</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-festive-tweaks-to-personalize-your-windows-11/"><u>7 Festive Tweaks to Personalize Your Windows 11</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nokia-g22-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-tips-for-effective-policy-reports-using-gpresult/"><u>Expert Tips for Effective Policy Reports Using GPResult</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-itel-p55plus-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Itel P55+ Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-vr-a-clear-explanation-of-its-function/"><u>In 2024, Unraveling VR A Clear Explanation of Its Function</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-chrome-challenges-fix-common-web-problems-on-windows-pc/"><u>Navigating Chrome Challenges: Fix Common Web Problems on Windows PC</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/notice-of-missing-content-http-error-404/"><u>Notice of Missing Content (HTTP Error #404)</u></a></li>
+<li><a href="https://windows11.techidaily.com/prolific-path-to-success-top-7-boosting-tools-for-window-11/"><u>Prolific Path to Success: Top 7 Boosting Tools for Window 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolve-credential-manager-login-issues/"><u>Resolve Credential Manager Login Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-common-errors-in-office-app-activation-on-pc/"><u>Resolving Common Errors in Office App Activation on PC</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/troubleshooting-tips-for-enjoying-amazon-prime-videos-with-chromecast-resolve-the-disappearing-cast-symbol-issue/"><u>Troubleshooting Tips for Enjoying Amazon Prime Videos with Chromecast – Resolve the Disappearing Cast Symbol Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-virtual-potential-hyper-v-for-windows-11-users/"><u>Unlocking Virtual Potential: Hyper-V for Windows 11 Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/when-windows-acts-up-reboot-or-reset/"><u>When Windows Acts Up, Reboot or Reset?</u></a></li>
+<li><a href="https://win-popular.techidaily.com/1728493785236-windows-4/"><u>Windows サーバと互換性があるバックアップツール4種類の徹底比較:無料・有料オプション</u></a></li>
+</ul></div>
 

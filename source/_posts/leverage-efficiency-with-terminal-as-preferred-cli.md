@@ -1,7 +1,7 @@
 ---
 title: Leverage Efficiency with Terminal as Preferred CLI
-date: 2024-09-05T02:08:07.081Z
-updated: 2024-09-06T02:08:07.081Z
+date: 2024-10-22T16:51:10.853Z
+updated: 2024-10-24T17:59:42.682Z
 tags:
   - windows10
   - windows11
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/c614df743851cde902b9dc7b624e356646f565efb
 
  Now that we know all its advantages, let’s check out how to make Windows Terminal your default terminal app.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set the Windows Terminal as Your Default Terminal App Using Windows Settings
 
  The quickest way to make Windows Terminal your default app to make command-line operations is through the Windows Settings app. Here are the steps to do that:
@@ -44,12 +51,6 @@ thumbnail: https://thmb.techidaily.com/c614df743851cde902b9dc7b624e356646f565efb
 
  And that’s about it. Now, whenever you try to open a command-line program, it will be launched through the Windows Terminal app.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2031472/7443" target="_top" id="2031472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2031472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2031472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Set the Windows Terminal as Your Default Terminal App Using Windows Terminal Settings
 
  Another quick way to configure your default terminal app is through the Windows Terminal settings. Here’s how:
@@ -58,39 +59,30 @@ thumbnail: https://thmb.techidaily.com/c614df743851cde902b9dc7b624e356646f565efb
 2. Click the **drop-down icon** next to the **plus icon** and choose **Settings** from the context menu.  
 ![Settings option in Terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/settings-option-1.jpg)
 3. Choose **Startup** from the left sidebar, click the **drop-down icon** next to the **Default** **terminal** **application**, and choose **Windows** **Terminal** from the menu.  
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Startup option in the Terminal window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/startup-option.jpg)
-4. Click the **Save** button.
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Startup option in the Terminal window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/startup-option.jpg)
+4. Click the **Save** button.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Set Windows Terminal as Your Default Terminal App by Editing the Command Prompt Properties
 
  The Command Prompt properties window lets you configure various Command Prompt features. Within this window, you can personalize the layout, colors, font, and more.
@@ -101,20 +93,15 @@ thumbnail: https://thmb.techidaily.com/c614df743851cde902b9dc7b624e356646f565efb
 2. Right-click on the **Command** **Prompt** title bar and choose **Properties**.  
 ![Properties option in Comman Prompt window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/properties-option-1.jpg)
 3. Switch to the **Terminal tab**.
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Choose **Windows** **Terminal** from the **Default Terminal Application** drop-down menu.  
 ![Default Terminal Application drop-down menu in Command Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/default-terminal-application-drop-down-menu.jpg)
 5. Click **OK** to save the changes.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Start Using the Windows Terminal as Your Default
@@ -123,11 +110,33 @@ thumbnail: https://thmb.techidaily.com/c614df743851cde902b9dc7b624e356646f565efb
 
  If you wish to set Windows Terminal as your default terminal application, you've come to the right place. Below, we'll share some quick methods to make Windows Terminal your default terminal app.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-approach-to-3d-text-in-photoediting/"><u>[New] Innovative Approach to 3D Text in PhotoEditing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-time-lapse-a-step-by-step-ipad-routine-for-2024/"><u>[New] Mastering Time-Lapse A Step-by-Step iPad Routine for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-join-the-party-your-guide-to-active-tiktok-streaming/"><u>[Updated] 2024 Approved Join the Party Your Guide to Active TikTok Streaming</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-leverage-tubebuddy-for-top-tier-youtube-management/"><u>[Updated] 2024 Approved Leverage TubeBuddy for Top-Tier YouTube Management</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-understanding-the-role-of-software-in-high-quality-screencasts-for-2024/"><u>[Updated] Understanding the Role of Software in High-Quality Screencasts for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-error-3-nvidia-opengl-on-windows-oses/"><u>Fixing Error 3: NVIDIA OpenGL on Windows OSes</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-achieve-a-crystal-clear-taskbar-in-windows-11/"><u>How to Achieve a Crystal Clear Taskbar in Windows 11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-bring-more-life-to-your-instagram-feed-with-these-4-gif-tips/"><u>In 2024, Bring More Life to Your Instagram Feed with These 4 GIF Tips</u></a></li>
+<li><a href="https://windows11.techidaily.com/initiate-system-check-with-these-5-methods/"><u>Initiate System Check with These 5 Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mac-compatible-audio-converter-effortless-transformation-from-aax-files-to-high-quality-mp3/"><u>Mac-Compatible Audio Converter: Effortless Transformation From AAX Files to High-Quality MP3</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-pin-related-bluetooth-link-problems-in-win11win10/"><u>Mastering PIN-Related Bluetooth Link Problems in Win11/Win10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/microsofts-ai-revolution-with-copilotplus-makes-traditional-ai-pcs-obsolete-what-to-know-if-you-bought-a-2024-laptop/"><u>Microsoft's AI Revolution with Copilot+ Makes Traditional AI PCs Obsolete - What to Know if You Bought a 2024 Laptop</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-non-responsive-power-controls-in-win11/"><u>Navigating Non-Responsive Power Controls in Win11</u></a></li>
+<li><a href="https://games-able.techidaily.com/reviving-your-dormant-xbox-controller-on-windows/"><u>Reviving Your Dormant Xbox Controller on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-windows-11s-search-bar-efficacy/"><u>Streamline Windows 11'S Search Bar Efficacy</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-nonfunctioning-squad-headset-microphones/"><u>Troubleshooting Steps for Nonfunctioning 'Squad' Headset Microphones</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-techniques-to-fix-win11-system-call-errors/"><u>Troubleshooting Techniques to Fix Win11 System Call Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/unwrapping-the-mystery-of-failed-discord-installation/"><u>Unwrapping the Mystery of Failed Discord Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-makes-dxvk-a-key-player-for-games-on-windows-pcs/"><u>What Makes DXVK a Key Player for Games on Windows PCs?</u></a></li>
+</ul></div>
+

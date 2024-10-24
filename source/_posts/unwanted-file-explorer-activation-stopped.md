@@ -1,7 +1,7 @@
 ---
 title: Unwanted File Explorer Activation Stopped
-date: 2024-08-31T22:07:54.947Z
-updated: 2024-09-01T22:07:54.947Z
+date: 2024-10-23T18:55:48.574Z
+updated: 2024-10-24T18:07:33.821Z
 tags:
   - windows10
   - windows11
@@ -33,15 +33,25 @@ thumbnail: https://thmb.techidaily.com/3f74865abe3cde83f5178213b8f2028e6688a23ca
 
  Once complete the above steps, your taskbar will disappear for a brief moment before reappearing. After that, check if the issue is still there.
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check Your PC's AutoPlay Settings
 
  AutoPlay is a handy feature in Windows that automatically examines your removable storage devices and performs preset actions accordingly. You need to make sure that AutoPlay in Windows is not set up to launch File Explorer whenever you insert a removable drive or memory card.
 
  We have a guide on[how to change the AutoPlay settings on Windows](https://www.makeuseof.com/windows-11-change-autoplay-settings/) , so follow that and set AutoPlay to either**Take no action** or**Ask me everytime** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Clear File Explorer History
 
  Windows File Explorer saves all your searches and recent activities to improve your experience. If this data somehow gets corrupted, it could cause File Explorer to open by itself in Windows. If that’s the case, clearing File Explorer history should help. Here are the steps for the same.
@@ -52,8 +62,12 @@ thumbnail: https://thmb.techidaily.com/3f74865abe3cde83f5178213b8f2028e6688a23ca
 ![File Explorer Options Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Clear-File-Explorer-History.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Run the System Maintenance Troubleshooter
 
  Windows periodically runs the System Maintenance troubleshooter on your computer to look for common maintenance issues. You can also run this tool manually if apps like File Explorer keep opening unexpectedly on your computer.
@@ -68,9 +82,6 @@ To run the System Maintenance troubleshooter on Windows:
 6. Click**Next** .  
 ![System and Security Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/System-and-Security-Window.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Follow the on-screen instructions to run the troubleshooter and allow it to do its thing.
 
 ## 5\. Check for Corrupted System Files
@@ -79,14 +90,18 @@ To run the System Maintenance troubleshooter on Windows:
 
  If you need help running these tools, check our guide on[how to repair corrupt Windows files with Windows' built-in tools](https://www.makeuseof.com/windows-built-in-repair-tools/) for instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## 6\. Scan for Malware
 
  Aside from corrupted system files, malware and viruses on your PC can also disrupt Windows processes and cause File Explorer to open at random. To overrule this possibility, you can run a full system scan on your computer using Microsoft Defender or a third-party antivirus program you trust. You could even[make use of Microsoft Defender's offline scan feature](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) for a deep scrub.
 
  If any threats are found, apply the recommended fixes to remove them. After that, File Explorer should not open on its own.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Install Windows Updates
 
@@ -99,8 +114,12 @@ To run the System Maintenance troubleshooter on Windows:
  If a newer update is not available, you may have to uninstall the recent update or perform a system restore to[fix problems caused by a Windows update](https://www.makeuseof.com/fix-problems-caused-windows-update/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Troubleshoot the Issue With a Clean Boot
 
  Interference from a sketchy third-party app or process on your computer can also cause File Explorer to open at random intervals. One way to check for this possibility is to boot your computer in a clean boot state, where it only runs with essential apps and services. Check our guide on[how to perform a clean boot in Windows](https://www.makeuseof.com/clean-boot-windows-11/) for detailed instructions on this.
@@ -111,22 +130,15 @@ To run the System Maintenance troubleshooter on Windows:
 
  Lastly, if none of the above tips work, the problem may be related to your user account. If that's the case, you have no option but to create and switch to a new user account on Windows. If you need help with the same, check our guide on[how to fix Windows issues by creating a new user account](https://www.makeuseof.com/tag/fix-windows-issues-creating-new-user-account/) and follow the steps outlined there.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## Prevent File Explorer From Opening Automatically on Windows
 
  Having a File Explorer window appear at random can disrupt your workflow and leave you frustrated. In most cases, you should be able to fix the issue by restarting the Windows Explorer process or running the System Maintenance troubleshooter. If not, you may have to boot Windows in a clean boot state to investigate the root cause.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -135,4 +147,20 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cost-effective-techniques-for-youtube-intro-creation/"><u>[Updated] In 2024, Cost-Effective Techniques for YouTube Intro Creation</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-techniques-for-embedding-youtube-in-slides-on-google-slate/"><u>2024 Approved Techniques for Embedding YouTube in Slides on Google Slate</u></a></li>
+<li><a href="https://windows11.techidaily.com/7-ways-to-fix-a-profile-error-occured-in-google-chrome-for-windows/"><u>7 Ways to Fix A Profile Error Occured in Google Chrome for Windows</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/brace-yourself-higher-costs-await-in-the-max-market/"><u>Brace Yourself: Higher Costs Await in the 'Max' Market</u></a></li>
+<li><a href="https://windows11.techidaily.com/brain-benefits-and-heartbeats-the-joint-impact-of-mindfulness/"><u>Brain Benefits and Heartbeats: The Joint Impact of Mindfulness</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-up-exit-point-not-found-errors/"><u>Clearing Up Exit Point Not Found Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-pc-hiccups-comprehensive-troubleshooting-steps-for-a-smooth-experience-with-modern-warfare-ii/"><u>Eliminating PC Hiccups: Comprehensive Troubleshooting Steps for a Smooth Experience with Modern Warfare II</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-g24-power-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on G24 Power?</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-xbox-mic-issues-on-windows-1111-pro/"><u>Resolving Xbox Mic Issues on Windows 11/11 Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-diy-with-innovative-tech-anticipate-gpt-4s-revolutionary-impact/"><u>Transforming DIY with Innovative Tech: Anticipate GPT-4's Revolutionary Impact</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-error-0x80072f8f-0x20000-in-windows/"><u>Troubleshooting Error 0X80072f8f - 0X20000 in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11s-search-tweaks-enhancing-your-experience/"><u>Windows 11'S Search Tweaks: Enhancing Your Experience</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-usbethernet-link-setup-instructions/"><u>Windows USB/Ethernet Link Setup Instructions</u></a></li>
+</ul></div>
 

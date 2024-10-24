@@ -1,7 +1,7 @@
 ---
 title: Navigating Complex Projects Using GitHub Desktop in Win 11
-date: 2024-10-14T03:11:55.123Z
-updated: 2024-10-18T20:47:14.877Z
+date: 2024-10-23T18:41:50.332Z
+updated: 2024-10-24T17:07:49.642Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 
  Now that you’ve successfully installed GitHub Desktop on your Windows PC, the next step is to sign in using your GitHub account.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Sign Into GitHub Desktop on Windows
 
  To start using GitHub Desktop within your projects, you will first have to authenticate and sign in with your GitHub account. If you don’t have a GitHub account,[sign up](https://github.com/join) to get started.
@@ -55,20 +62,15 @@ To add an existing GitHub account to GitHub Desktop:
 2. Within GitHub Desktop, navigate to**File > Options > Accounts** .  
 ![github desktop signin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/github-desktop-signin-1.jpg)
 3. Select the**Sign in** button based on your account type (GitHub.com for regular users and GitHub Enterprise for enterprise/work accounts).
-4. When prompted, complete the sign-in process on your browser. Return to the**Accounts** options page to confirm your login.
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. When prompted, complete the sign-in process on your browser. Return to the**Accounts** options page to confirm your login.
 
 ## How to Use GitHub Desktop Like a Pro
 
@@ -99,23 +101,22 @@ To create a branch in GitHub desktop:
 3. Next, select the**Current branch** dropdown and click on**New branch** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Enter a name for the branch and select**Create branch** to confirm your selection.
 5. To move your current working changes to the new branch, select the**Bring my changes to** button.
 
  Similarly, if you want to switch to a different branch, select the**Current branch** dropdown and select the branch name you want to change to.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Commit Using GitHub Desktop on Windows
 
@@ -136,10 +137,10 @@ To create a branch in GitHub desktop:
  To push code to GitHub to create a new pull request, choose the required project repository and branch in GitHub Desktop. Then select the**Publish branch** button or press the shortcut key**Ctrl + P** .
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use GitHub Desktop to Simplify Your Workflow on Windows
@@ -161,16 +162,18 @@ To create a branch in GitHub desktop:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-capacity-sd-card-for-sony-a7s-series/"><u>2024 Approved High-Capacity SD Card for Sony A7S Series</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-clear-virtual-cache-in-windows-11/"><u>Guide to Clear Virtual Cache in Windows 11</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-samsung-galaxy-f34-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Samsung Galaxy F34 5G</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-pursuit-of-perfection-does-picku-outshine-other-android-tools/"><u>In Pursuit of Perfection Does PickU Outshine Other Android Tools?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-marvels-spider-man-miles-morales-significant-outcomes-from-a-concentrated-narrative/"><u>In-Depth Look at Marvel's Spider-Man: Miles Morales - Significant Outcomes From a Concentrated Narrative</u></a></li>
-<li><a href="https://windows11.techidaily.com/pro-tips-for-capturing-uac-alerts-in-windows/"><u>Pro Tips for Capturing UAC Alerts in Windows</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-nokia-by-fonelab-android-recover-data/"><u>Recover lost data from Nokia</u></a></li>
-<li><a href="https://windows11.techidaily.com/saving-your-clean-sweep-fixing-win11-ccleaner/"><u>Saving Your Clean Sweep: Fixing Win11 CCleaner</u></a></li>
-<li><a href="https://windows11.techidaily.com/slash-or-swell-the-size-of-taskbar-win11/"><u>Slash or Swell the Size of Taskbar Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-steps-for-bypassing-endless-logon-prompts/"><u>Troubleshooting Steps for Bypassing Endless Logon Prompts</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/tunekeeper-trackdown-downloads-and-discussion/"><u>TuneKeeper Trackdown Downloads & Discussion</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-digital-delights-the-finest-15-comedic-channels-on-youtube/"><u>[Updated] Digital Delights The Finest 15 Comedic Channels on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimal-graphics-setup-for-high-res-editing/"><u>[Updated] Optimal Graphics Setup for High Res Editing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-bandicam-vs-camtasia-which-is-better/"><u>2024 Approved Bandicam vs Camtasia, Which Is Better?</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-workstation-toggling-with-advanced-rdp-windows/"><u>Effortless Workstation Toggling with Advanced RDP Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminate-hyper-v-bsod-steps-to-restore-windows/"><u>Eliminate Hyper-V BSOD: Steps to Restore Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/embracing-convenience-using-googles-nearby-share/"><u>Embracing Convenience: Using Google's Nearby Share</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-photos-step-by-step-background-elimination/"><u>Enhancing Photos: Step-by-Step Background Elimination</u></a></li>
+<li><a href="https://windows11.techidaily.com/error-2e-prevention-ensure-windows-update-works/"><u>Error 2E Prevention, Ensure Windows Update Works</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-6-tools-gpu-load-check-in-windows-environment/"><u>Essential 6 Tools: GPU Load Check in Windows Environment</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-honor-90-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Honor 90? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mfc-9330-driver-quick-installation-steps/"><u>MFC-9330 Driver: Quick Installation Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-secrets-behind-effective-bass-management-techniques/"><u>Unveiling the Secrets Behind Effective Bass Management Techniques</u></a></li>
 </ul></div>
 

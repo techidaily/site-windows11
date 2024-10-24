@@ -1,7 +1,7 @@
 ---
 title: Three Tech-Savvy Tactics to Remove Microsoft Store
-date: 2024-10-14T23:22:03.252Z
-updated: 2024-10-18T23:54:23.997Z
+date: 2024-10-19T21:30:58.255Z
+updated: 2024-10-24T16:42:57.513Z
 tags:
   - windows10
   - windows11
@@ -49,23 +49,17 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 6. Type**exit** in the command prompt window and press enter to close it.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Using PowerShell
@@ -73,10 +67,10 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
  Before winget was officially integrated into Windows 10 and 11, there was a method to[remove the Microsoft Store app using PowerShell](https://www.makeuseof.com/remove-reinstall-microsoft-store-windows-11/) . The method still works and all you need to do is list the package name and then use the**Remove-AppxPackage** cmdlet to uninstall the Microsoft Store app from your system. Make sure to run PowerShell with elevated permissions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Using a Batch File
@@ -91,10 +85,10 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 4. Click on the**Save** button. Close the Notepad window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Press**Win + D** to switch to the desktop again. Right-click on the batch file and select the**Run as administrator** option from the context menu.
@@ -120,18 +114,22 @@ winget uninstall Microsoft.WindowsStore_8wekyb3d8bb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-enhancing-your-instagram-presence-with-long-videos/"><u>[New] In 2024, Enhancing Your Instagram Presence with Long Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-whatsapp-audio-chat/"><u>[New] The Ultimate Guide to WhatsApp Audio Chat</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-trimming-footage-for-insta-on-macos/"><u>[Updated] In 2024, Trimming Footage for Insta on macOS</u></a></li>
-<li><a href="https://win-blog.techidaily.com/2024-solutions-resolving-cityskylines-game-crashes-effectively/"><u>2024 Solutions: Resolving CitySkylines Game Crashes Effectively</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-install-updated-broadcom-bluetooth-software-on-windows-versions-11-8-and-7/"><u>How to Install Updated Broadcom Bluetooth Software on Windows Versions 11, 8 and 7</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-resolve-error-x80780119-in-windows-image-id/"><u>How To Resolve Error X80780119 in Windows Image ID</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sportswomens-scorecard-poker-analysis/"><u>In 2024, SPORTSWOMEN'S SCORECARD Poker Analysis</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-for-rectifying-windows-11-search-box-malfunctions/"><u>Methods for Rectifying Windows 11 Search Box Malfunctions</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-tips-for-changing-your-windows-11-login-password/"><u>Quick Tips for Changing Your Windows 11 Login Password</u></a></li>
-<li><a href="https://windows11.techidaily.com/removing-automatic-system-restarts-in-windows-11/"><u>Removing Automatic System Restarts in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/savor-ultimate-digital-windows-world/"><u>Savor Ultimate Digital Windows World</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-windows-roblox-code-403-problem/"><u>Troubleshooting Windows Roblox Code 403 Problem</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ultimate-guide-to-overcoming-h100i-v2-driver-conflicts-in-windows-computers/"><u>Ultimate Guide to Overcoming H100i V2 Driver Conflicts in Windows Computers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-the-best-laptops-for-video-editing-you-should-know/"><u>[New] In 2024, The Best Laptops For Video Editing You Should Know</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-vivo-x90s-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Vivo X90S Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/sh-take-on-frigidity-crafting-inviting-backdrops-for-2024/"><u>A Fresh Take on Frigidity Crafting Inviting Backdrops for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-solutions-exclusive-windows-systems-for-dsswitch-players/"><u>Cutting-Edge Solutions: Exclusive Windows Systems for DS/Switch Players</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dettagli-sui-file-wmv-e-come-sbloccarne-il-contenuto-sul-tuo-computer/"><u>Dettagli Sui File WMV E Come Sbloccarne Il Contenuto Sul Tuo Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-unauthorized-geforce-setting-error-on-modern-windows-versions/"><u>Fixing Unauthorized GeForce Setting Error on Modern Windows Versions</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-winxps-notorious-error-0x80300024/"><u>Fixing WinXP's Notorious Error 0X80300024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-overcome-java-vm-not-found-on-pc/"><u>How to Overcome Java VM Not Found On PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-rectify-winscomrssvdll-errors-in-windows-os/"><u>How to Rectify WinscomrssvDLL Errors in Windows OS</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/mastering-free-and-paid-tools-for-vimeo-video-downloads/"><u>Mastering Free & Paid Tools for Vimeo Video Downloads</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-stubborn-windows-terminals-a-step-by-step-guide/"><u>Overcome Stubborn Windows Terminals: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/premier-windows-tools-through-vivetools-advanced-features/"><u>Premier Windows Tools Through ViVeTool's Advanced Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-decrease-high-cpu-usage-from-dropbox-on-windows-pcs/"><u>Strategies to Decrease High CPU Usage From Dropbox on Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-non-signature-compliant-update-files-on-windows/"><u>Tackling Non-Signature Compliant Update Files on Windows</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/top-15-trending-tiktok-meals-worth-savoring/"><u>Top 15 Trending TikTok Meals Worth Savoring</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-5-essential-filming-accessories-for-online-creators-for-2024/"><u>Top 5 Essential Filming Accessories for Online Creators for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/snd-mp3-movavi/"><u>오픈 소스 SND 파일을 MP3로 자유성 변환 - Movavi</u></a></li>
 </ul></div>
 

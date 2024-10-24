@@ -1,7 +1,7 @@
 ---
 title: Navigating Non-Responsive Power Controls in Win11
-date: 2024-10-18T02:45:44.936Z
-updated: 2024-10-18T20:59:35.604Z
+date: 2024-10-23T19:22:16.648Z
+updated: 2024-10-24T18:33:20.341Z
 tags:
   - windows10
   - windows11
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/0c8f696950ea736c2174f2d7e8a74906124afdbd8
 
  Now that we know what can cause the problem, let's look at what you can do to solve it.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Change the Power Plan
 
  The first thing we recommend you do is switch to a different power plan, especially if you are using a custom power plan. We suggest shifting to the Balanced plan and checking if that fixes the issue. This plan optimizes the performance automatically. This means it will activate the full performance mode when you are actively using the computer and switch to the power-saving mode when you are not.
@@ -48,6 +41,14 @@ Here is how you can proceed:
 3. In the following window, expand the**View by** category at the top and choose**Large icons** .  
 ![Click on Large icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/large-icons-control-panel.jpg)
 4. Now, look for**Power options** and click on it.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Click on Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/win11-power-options.jpg)
 5. You should now be able to see your current power plan. Click on**Create a power plan** in the left pane.  
 ![Create a power plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/create-power-plan-1.jpg)
@@ -55,6 +56,13 @@ Here is how you can proceed:
 ![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
 
 Once done, check if you can now change the power mode successfully.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Run the Power Troubleshooter
 
@@ -71,10 +79,10 @@ Here is how you can run the troubleshooter:
 4. Now, look for the Power troubleshooter and click on the**Run** button for it.  
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
@@ -94,13 +102,6 @@ powercfg –restoredefaultscheme
 ![Restore the default power theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powercfg-restoredefaultschemes.jpg)
 5. Once the command is executed, check if you can change the power mode successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In case the power plan changes again after a short while of executing this method, you will need to make changes as an administrator in the Group Policy Editor.
 
 Here is how you can do that:
@@ -113,15 +114,22 @@ Computer Configuration -> Administrative Templates -> System -> Power Management
 4. Choose**Enabled** and then choose the targeted power plan from the dropdown.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**Apply** \>**OK** to save the changes, and then restart your computer.
 
 Hopefully, this will resolve the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Revert the System to an Older Working State
 
@@ -130,19 +138,6 @@ Hopefully, this will resolve the issue.
  The restore points represent a point in time when the system was in a certain state, and by choosing one, you can return the system to that point in time.
 
  In this case, you can choose a state where the current issue is not present.
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Switch Power Modes Easily
 
@@ -165,24 +160,22 @@ Hopefully, this will resolve the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-movies-that-spark-inner-strength-and-determination/"><u>[New] Movies That Spark Inner Strength & Determination</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-converting-youtube-to-gif-a-comprehensive-online-process/"><u>[Updated] 2024 Approved Converting YouTube to GIF A Comprehensive Online Process</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-essentials-of-structuring-your-podcasts-rss-feed/"><u>[Updated] 2024 Approved The Essentials of Structuring Your Podcast's RSS Feed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-create-english-subtitles-from-any-video-without-cost/"><u>1. Create English Subtitles From Any Video Without Cost</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-sound-choices-essential-downloads-guide/"><u>2024 Approved Best Sound Choices Essential Downloads Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-procedure-of-ending-linkedin-services-and-deletion-process/"><u>2024 Approved Procedure of Ending LinkedIn Services and Deletion Process</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-selecting-prime-apps-for-iphoneandroid-intro-videos/"><u>2024 Approved Selecting Prime Apps for iPhone/Android Intro Videos</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-windows-updater-faulty-error-0xca00a009/"><u>Fixing Windows Updater Faulty Error 0xCA00A009</u></a></li>
-<li><a href="https://windows11.techidaily.com/get-started-with-hyper-v-windows-11-homes-edition-setup-guide/"><u>Get Started with Hyper-V: Windows 11 Homes Edition Setup Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-resolve-the-no-hardware-detected-error-in-windows/"><u>How to Resolve the ‘No Hardware Detected’ Error in Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-20-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 20 Phone without Google Account?</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigate-through-the-maze-of-windows-temporary-folder-issues/"><u>Navigate Through the Maze of Windows Temporary Folder Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/restore-control-over-highlighted-text-in-windows-pdf-files/"><u>Restore Control Over Highlighted Text in Windows PDF Files</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-functionality-to-a-malfunctioning-win11-media-player/"><u>Restoring Functionality to a Malfunctioning Win11 Media Player</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-for-directly-modifying-windows-installer-controls/"><u>Steps for Directly Modifying Windows Installer Controls</u></a></li>
-<li><a href="https://windows11.techidaily.com/transform-your-browser-skills-with-gesture-controls-in-microsoft-edge-windows-11/"><u>Transform Your Browser Skills with Gesture Controls in Microsoft Edge (Windows 11)</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/transformative-media-tools-best-online-video-to-text-systems/"><u>Transformative Media Tools Best Online Video to Text Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/turn-back-time-transforming-windows-11s-search-icon-style/"><u>Turn Back Time: Transforming Windows 11'S Search Icon Style</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/dvd-apple/"><u>スマホまたはタブレットで遊びやすい無料DVD変換ソフトを手に入れる方法 - Appleデバイス対応</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-childhood-chuckles-hilarious-kid-friendly-games/"><u>[New] 2024 Approved Childhood Chuckles Hilarious Kid-Friendly Games</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-capturing-horizon-views-for-successful-drone-livestreams-for-2024/"><u>[New] Capturing Horizon Views for Successful Drone Livestreams for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/44cm44kq44oz44op44kk44oz44of44o844og44kj44oz44kw6yyy55s744ov44kh44kk44or5yih44kk5yplusw44kk5oml6acg44ks44kk44oj44cn/"><u>「オンラインミーティング録画ファイル切り取り手順ガイド」</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-comprehensive-list-of-fixes-for-disappearing-windows-in-windows-11/"><u>A Comprehensive List of Fixes for Disappearing Windows in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-step-by-step-approach-to-crafting-slideshows-and-fixing-flaws-in-win11s-photos-app/"><u>A Step-by-Step Approach to Crafting Slideshows & Fixing Flaws in Win11's Photos App</u></a></li>
+<li><a href="https://windows11.techidaily.com/baffling-boot-concealing-power-buttons-on-windows-11/"><u>Baffling Boot: Concealing Power Buttons on Windows 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-poco-x6-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Poco X6</u></a></li>
+<li><a href="https://windows11.techidaily.com/classify-your-hdd-or-ssd-with-ease/"><u>Classify Your HDD or SSD with Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/combatting-filesystem-crashes-in-win11/"><u>Combatting FileSystem Crashes in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-share-problems-in-geforce-software-windows/"><u>Correcting Share Problems in GeForce Software (Windows)</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-clearance-top-techniques-for-latency-free-video-on-pc/"><u>Cutting-Edge Clearance: Top Techniques for Latency-Free Video on PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-vivo-v29-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Vivo V29 Phones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-fix-team-fortress-2-wont-start-up-issues/"><u>Resolved: How to Fix 'Team Fortress 2 Won't Start Up' Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-power-of-possibilities-exploring-the-advantages-of-apples-enhanced-nfc-support-in-iphones-for-app-innovation/"><u>The Power of Possibilities: Exploring the Advantages of Apple's Enhanced NFC Support in iPhones for App Innovation</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-the-art-of-perfectly-matching-your-devices-with-bose-soundlink/"><u>Ultimate Guide: The Art of Perfectly Matching Your Devices with Bose SoundLink</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719252317464-understanding-and-fixing-the-common-problem-of-wwinplusp-not-working/"><u>Understanding and Fixing the Common Problem of WWin+P Not Working</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-unlinking-saved-wi-fi/"><u>Win 11: Unlinking Saved Wi-Fi</u></a></li>
 </ul></div>
 

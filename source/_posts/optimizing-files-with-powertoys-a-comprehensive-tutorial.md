@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Files with PowerToys: A Comprehensive Tutorial"
-date: 2024-09-05T02:08:08.175Z
-updated: 2024-09-06T02:08:08.175Z
+date: 2024-10-22T19:58:04.890Z
+updated: 2024-10-24T17:03:24.520Z
 tags:
   - windows10
   - windows11
@@ -35,11 +35,12 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
  It can also be used to troubleshoot the apps and files that slow down your PC and find performance bottlenecks. When you use it alongside other[ways to troubleshoot and improve PC performance](https://www.makeuseof.com/tag/windows-10-faster-performance/) , it can help speed up your PC by quite a bit.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Check Files and Processes in File Locksmith
 
  You can either check a single file or scan every file in a folder. If a folder has subdirectories, these will also be examined.
@@ -50,43 +51,51 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
 2. Right-click on the file/folder, and select**Show more options > What's using this file?**  
 ![Opening a file in File Locksmith on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-locksmith-scan.jpg)
 3. File Locksmith will open a window and begin scanning the file. Any processes being used will be displayed in the window.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Stop the processes directly from the File Locksmith window by clicking the End Process button.  
 ![the file list in the File Locksmith utility](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/file-locksmith-filelist.jpg)
 5. You can click the arrow to expand each process listed to see the Process ID, User, and the path to the individual file being used.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. To refresh the list of processes in File Locksmith, click the Reload button at the top-right of the open window.
 
  To see processes being run by a different user, you will need to open File Locksmith as an administrator. If you are already running PowerToys as an administrator, click the**Restart as Administrator** button at the top-right of the File Locksmith window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Using the PowerToys File Locksmith Utility, Made Easy
 
  File Locksmith probably won't be a tool you use every day, but it is still a useful addition to PowerToys. You can learn more about the files used by your PC, and also work out which process is preventing a stubborn file from being closed or deleted. As such, we believe that FIle Locksmith should be a handy tool to have on hand when you need it most.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -95,4 +104,23 @@ thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-embracing-constructive-feedback-ignoring-the-rest/"><u>[New] 2024 Approved Embracing Constructive Feedback, Ignoring the Rest</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-from-digital-sketches-to-dynamic-lives-the-pc-guide-for-tiktok-broadcasting-for-2024/"><u>[New] From Digital Sketches to Dynamic Lives The PC Guide for TikTok Broadcasting for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-guide-to-the-best-free-video-conferencing-software-for-corporate-and-educational-sectors-for-2024/"><u>[New] Guide to the Best Free Video Conferencing Software for Corporate and Educational Sectors for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-detailed-guide-to-optimal-full-screen-displaying/"><u>2024 Approved Detailed Guide to Optimal Full Screen Displaying</u></a></li>
+<li><a href="https://windows11.techidaily.com/bring-forth-the-lost-frames-off-screen-recovery-in-edge-os/"><u>Bring Forth the Lost Frames: Off-Screen Recovery in Edge OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/dism-mastery-in-windows-11-system-image-repair/"><u>Dism Mastery in Windows 11 System Image Repair</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-tips-for-selective-image-editing-in-photo-software-for-2024/"><u>Expert Tips for Selective Image Editing in Photo Software for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-nokia-g310-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-user-profile-service-service-failed-the-sign-in-error-windows-1011/"><u>How to Fix “The User Profile Service Service Failed the Sign-In” Error Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-task-manager-not-working-in-windows/"><u>How to Fix the Task Manager Not Working in Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-6s-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 6s Without a Passcode</u></a></li>
+<li><a href="https://driver-install.techidaily.com/interfacing-xbox-with-windows-os/"><u>Interfacing XBox with Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-freeze-fixes-in-win-photoshop-setup/"><u>Navigating Freeze Fixes in Win-Photoshop Setup</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-net-error-0x800704b3-on-windows-devices/"><u>Navigating Through Net Error 0X800704B3 on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/prioritizing-page-notes-on-pc-windows/"><u>Prioritizing Page Notes on PC Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/what-is-and-isnt-allowed-in-windows-11-s-mode/"><u>What Is and Isn’t Allowed in Windows 11 S Mode</u></a></li>
+</ul></div>
 

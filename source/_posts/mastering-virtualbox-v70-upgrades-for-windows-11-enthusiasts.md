@@ -1,7 +1,7 @@
 ---
 title: Mastering VirtualBox v7.0 Upgrades for Windows 11 Enthusiasts
-date: 2024-10-13T16:47:52.739Z
-updated: 2024-10-18T17:00:56.212Z
+date: 2024-10-23T19:50:09.927Z
+updated: 2024-10-24T18:50:20.770Z
 tags:
   - windows10
   - windows11
@@ -24,31 +24,11 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 
  VirtualBox comes with support for Secure Boot in UEFI mode. It can now emulate TPM chips which are a mandatory requirement for Windows 11\. Along with that, there are some subtle but useful design changes that make it feel like a latest-gen app. Some menu options appear in new places, but it isn’t something to worry about. Plus, you can enjoy the dark mode on VirtualBox now and protect your eyes!
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Upgrade to VirtualBox 7.0 on Windows 11
 
  VirtualBox does remind you that an update is available. But unlike most apps, you need to visit the official site and download all the necessary components and the new installer file to upgrade VirtualBox. Then, you need to install the new version on your system which will replace all the files of the current build present on your system.
 
  But that’s not all! If you connect USB devices to VirtualBox virtual machines, you will have to remove the old extension pack and install the latest one released for the new build. Lastly, you will have to install the new guest additions pack for VirtualBox 7.0\. So, let’s begin.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Download the VirtualBox 7.0 Installer File and the Extension Pack
 
@@ -60,16 +40,23 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 ![Download VirtualBox 7.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/download-virtualbox-7-0.jpg)
 4. Locate the**VirtualBox 7.0.4 platform packages** section. Click on the**Windows Hosts** option to download the installer file on your system.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Scroll down and find the**VirtualBox 7.0.4 Oracle VM VirtualBox Extension Pack** section. Click on the**All supported platforms** option to download the extension pack file for version 7.0.4.
 6. Wait for both downloads to finish and close the browser.
 
 Now, you have all the necessary files to upgrade to VirtualBox 7.0.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Install VirtualBox 7.0
@@ -83,13 +70,6 @@ To install VirtualBox 7.0, repeat the following steps:
 5. VirtualBox 7.0 installer will launch. Pick the installation destination and click on the**Yes** button.  
 ![Install VirtualBox 7.0](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-virtualbox-7-0.jpg)
 6. VirtualBox will warn you about temporarily shutting the network interfaces. It means you will lose internet connectivity for some time.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Click on the**Yes** button. The installer will notify you about the missing dependencies. Click on the**Yes** button to install them as well.
 8. Wait for the installation to complete. Click on the**Finish** button to close the installer window.
@@ -119,6 +99,13 @@ To install the VirtualBox 7.0 extension pack, do as follows:
 
  Now, you can easily connect the USB devices to one or many virtual machines that you created using VirtualBox. Check out our guide on[how to add a USB device to VirtualBox on Windows](https://www.makeuseof.com/windows-virtualbox-add-usb/) for more information.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Install the Guest Additions
 
  VirtualBox Guest Additions offers all the necessary drivers for a virtual machine. Since VirtualBox supports DirectX 11, it is advisable to install Guest Additions as it will offer drivers for all the components.
@@ -136,20 +123,27 @@ To install the VirtualBox 7.0 extension pack, do as follows:
 ![Install the Guest Additions 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/install-the-guest-additions-2.jpg)
 7. Follows the on-screen prompts to install the Guest Additions on your system.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Click on the**Reboot now** option to apply changes to the Windows virtual machine.
 
  It may take a while to install the guest additions. Once done, you can change the resolution of the virtual machine to match the display resolution.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Will the Old Virtual Machines Work With VirtualBox 7.0?
 
  Yes. VirtualBox 7.0 will run the old virtual machines that you created without any issues. But you have to install the extension pack and the guest additions otherwise it could crash or not run at all. We tried running old Windows 10 and 11 virtual machines that we created in version 6.1.32, and they worked fine.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Upgrade to VirtualBox 7.0 With Ease
 
@@ -170,21 +164,22 @@ To install the VirtualBox 7.0 extension pack, do as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-art-of-extracting-youtube-written-captions-a-threefold-approach-for-success/"><u>[New] In 2024, The Art of Extracting YouTube' Written Captions A Threefold Approach for Success</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-twisting-tales-a-guide-to-angled-photography-that-captivates-audiences-on-digital-platforms-for-2024/"><u>[New] Twisting Tales A Guide to Angled Photography that Captivates Audiences on Digital Platforms for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-top-vr-films-that-you-should-never-miss/"><u>[Updated] 2024 Approved Top VR Films That You Should Never Miss</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-engaging-audiences-crafting-youtube-trailers-via-filmora-for-2024/"><u>[Updated] Engaging Audiences Crafting YouTube Trailers via Filmora for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-art-of-documenting-dynamic-ppt-presentations-for-2024/"><u>[Updated] The Art of Documenting Dynamic PPT Presentations for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/conversao-livre-e-online-transformar-dpx-em-tiff-com-o-movavi/"><u>Conversão Livre E Online: Transformar DPX Em TIFF Com O Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/explaining-the-essence-of-windows-reserved-ram/"><u>Explaining the Essence of Windows Reserved RAM</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-unresponsive-menu-functions-on-windows-11/"><u>Fixing Unresponsive Menu Functions on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-addressing-connect-your-device-bluetooth-issue/"><u>Guide to Addressing Connect Your Device Bluetooth Issue</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/ideas-to-keep-your-snapchat-streak-alive/"><u>Ideas to Keep Your Snapchat Streak Alive</u></a></li>
-<li><a href="https://windows11.techidaily.com/is-asuss-steam-deck-competitor-rog-ally-game-changer/"><u>Is ASUS's Steam Deck Competitor ROG Ally Game-Changer?</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-resolving-frozen-windows-based-itunes/"><u>Mastering the Art of Resolving Frozen Windows-Based iTunes</u></a></li>
-<li><a href="https://windows11.techidaily.com/secrets-of-opening-windows-disks-win-1011-edition/"><u>Secrets of Opening Windows Disks: Win 10/11 Edition</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-echo-show-4th-generation-in-depth-review-and-significant-enhancements/"><u>The Echo Show 4Th Generation: In-Depth Review & Significant Enhancements</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-ultimate-fix-guide-for-windows-restore-issues-13-strategies/"><u>The Ultimate Fix Guide for Windows Restore Issues (13 Strategies)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-your-saved-wifi-passwords-on-windows-10-a-step-by-step-guide/"><u>Unlocking Your Saved Wifi Passwords on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unlocking-zoom-potentials-a-complete-guide-to-excellent-audio-recordings-for-2024/"><u>[New] Unlocking Zoom Potentials A Complete Guide to Excellent Audio Recordings for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-tecno-spark-10c-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Tecno Spark 10C</u></a></li>
+<li><a href="https://windows11.techidaily.com/easily-switch-your-windows-11-logon-technique-ditch-pin-embrace-password/"><u>Easily Switch Your Windows 11 Logon Technique: Ditch PIN, Embrace Password</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-strategies-for-cleansing-steam-dns-cache/"><u>Effective Strategies for Cleansing Steam DNS Cache</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-strategies-to-address-directdraw-errors-in-newer-windows-editions/"><u>Efficient Strategies to Address DirectDraw Errors in Newer Windows Editions</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-to-the-top-with-these-key-windows-11-widgets/"><u>Elevate to the Top with These Key Windows 11 Widgets</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-workflow-with-god-mode-add-on/"><u>Elevate Your Workflow with God Mode Add-On</u></a></li>
+<li><a href="https://windows11.techidaily.com/embrace-the-best-of-both-worlds-windows-11-macos-in-parallels/"><u>Embrace the Best of Both Worlds: Windows 11, MacOS in Parallels</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-smooth-remote-play-via-windows-steam/"><u>Enabling Smooth Remote Play via Windows Steam</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-performance-win11-boot-routines/"><u>Enhancing Performance: Win11 Boot Routines</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-timeless-tales-in-tone-on-tone-to-dynamic-digital-narratives-for-2024/"><u>From Timeless Tales in Tone-On-Tone to Dynamic Digital Narratives for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-embedding-weblinks-on-instas-story-feature/"><u>In 2024, Embedding Weblinks on Insta's Story Feature</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/mastering-social-media-marketing-a-step-by-step-guide-for-2024/"><u>Mastering Social Media Marketing A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-converting-quicktime-mov-files-to-prores-format-on-windows/"><u>Step-by-Step Guide: Converting QuickTime .mov Files to ProRes Format on Windows</u></a></li>
+<li><a href="https://win-top.techidaily.com/time-machinewindows/"><u>Time Machineに匹敵するWindowsデスクトップ向けの高度なバックアップソフトウェア</u></a></li>
 </ul></div>
 

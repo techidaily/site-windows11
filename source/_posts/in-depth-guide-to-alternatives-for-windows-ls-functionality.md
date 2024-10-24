@@ -1,7 +1,7 @@
 ---
 title: In-Depth Guide to Alternatives for Windows' LS Functionality
-date: 2024-10-12T00:16:34.553Z
-updated: 2024-10-18T22:27:04.965Z
+date: 2024-10-22T17:02:08.704Z
+updated: 2024-10-24T17:32:46.933Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,19 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 
  By using the “ls” command, users can list the contents of the current working directory, similarly, you can also [switch directories using Command Prompt](http://www.makeuseof.com/how-to-change-directory-in-cmd/). On Windows, the usage of "ls" in Command Prompt is slightly different compared to Linux, but it can accomplish the same task.
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use the “ls” Command in Command Prompt on Windows 10 and 11
 
  Windows is an entirely different ecosystem when compared to Linux. As a result, many Linux CLI commands are not supported by the Windows Command Prompt tool.
@@ -41,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 
 ![Use dir command to list files in Windows CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/dir-command-cmd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To list files and directories using the equivalent of "ls" in Command Prompt on Windows 10 and 11:
 
 1. Click on the **Start** menu icon, search for **Command Prompt**, right-click the Best Match, and select **Run as administrator**.
@@ -55,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 3. Command Prompt will now list all of the files in the current working directory, along with their sizes and last modified date.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use "ls" Command in Windows PowerShell
@@ -70,10 +76,10 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 ![powershell-ls](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/powershell-ls-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Follow these steps to view a file directory using the "**ls**" command on Windows using Windows PowerShell:
@@ -84,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 4. Similarly, you can even use the **dir** or **gci** command to view the contents of a folder.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A Handy Tool for Both Linux and Windows Users
@@ -108,24 +114,19 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-increase-followers-on-instagram-ultimate-guide/"><u>[Updated] 2024 Approved How to Increase Followers on Instagram - Ultimate Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-get-your-video-dimensions-spot-on-for-instagram-sharing/"><u>2024 Approved Get Your Video Dimensions Spot-On for Instagram Sharing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/box-tastic-finds-discover-the-best-sites-for-boxes-at-steals-for-2024/"><u>Box-Tastic Finds! Discover the Best Sites for Boxes at Steals for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/conversa-gratuita-de-archivos-mpeg-4-3gp-a-linea-web-convertidor-movavi/"><u>Conversa Gratuita De Archivos MPEG-4 (3GP) a Línea Web - Convertidor Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/embrace-space-savings-how-to-compress-retro-gaming-discs-with-chdman/"><u>Embrace Space Savings: How to Compress Retro Gaming Discs with ChDMan</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/enhancing-your-drive-an-insightful-overview-of-the-bouncie-connect-gps-tracker/"><u>Enhancing Your Drive: An Insightful Overview of the Bouncie Connect GPS Tracker</u></a></li>
-<li><a href="https://windows11.techidaily.com/guide-to-halt-windows-11-data-harvesting/"><u>Guide to Halt Windows 11 Data Harvesting</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-dominate-youtube-with-these-strategic-freefire-video-hashtags/"><u>In 2024, Dominate YouTube with These Strategic FreeFire Video Hashtags</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ng-your-marketing-journey-on-youtube/"><u>Mapping Your Marketing Journey on YouTube</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-time-transferring-classic-titles-to-photos/"><u>Navigating Through Time: Transferring Classic Titles to Photos</u></a></li>
-<li><a href="https://windows11.techidaily.com/reboot-and-reclaim-resetting-ms-store-in-windows-1011/"><u>Reboot and Reclaim: Resetting MS Store in Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/restoring-administrative-functionality-in-microsoft-tools/"><u>Restoring Administrative Functionality in Microsoft Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/should-algorithms-be-your-new-investment-advisors/"><u>Should Algorithms Be Your New Investment Advisors?</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-dealing-with-non-downloading-errors-on-windows/"><u>Strategies for Dealing with Non-Downloading Errors on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/systematic-troubleshooting-for-flashing-displays-on-windows/"><u>Systematic Troubleshooting for Flashing Displays on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/transition-to-sudo-windows-next-step/"><u>Transition to Sudo: Windows' Next Step</u></a></li>
-<li><a href="https://windows11.techidaily.com/tweak-right-menu-options-for-optimal-software-use/"><u>Tweak Right-Menu Options for Optimal Software Use</u></a></li>
-<li><a href="https://windows11.techidaily.com/whats-included-in-the-enhanced-windows-11-settings-app/"><u>What's Included in the Enhanced Windows 11 Settings App?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-implementing-soft-decline-in-logic-pro-audio-for-2024/"><u>[New] Implementing Soft Decline in Logic Pro Audio for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-10-advanced-pixlr-editing-hacks-for-stunning-photos/"><u>[New] In 2024, 10 Advanced Pixlr Editing Hacks for Stunning Photos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-tackling-live-video-interruptions-on-social-media-fb-for-2024/"><u>[New] Tackling Live Video Interruptions on Social Media (FB) for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-making-simple-text-pop-in-videos-without-costs/"><u>[Updated] In 2024, Making Simple Text Pop in Videos without Costs</u></a></li>
+<li><a href="https://windows11.techidaily.com/dive-into-dark-mode-for-notepad-in-windows-11-os/"><u>Dive Into Dark Mode for Notepad in Windows 11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/improving-startup-order-in-windows-11/"><u>Improving Startup Order in Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-reel-in-the-future-top-5-ps-vr-games-on-the-brink-of-launch/"><u>In 2024, Reel in the Future Top 5 PS VR Games on The Brink of Launch</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-into-visual-storytelling-xp-edition-installation/"><u>In 2024, Step Into Visual Storytelling XP Edition Installation</u></a></li>
+<li><a href="https://windows11.techidaily.com/leveraging-powershell-for-user-account-control/"><u>Leveraging PowerShell for User Account Control</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp3-dvd-iso/"><u>MP3への変換: DVD-ISOファイルから簡単な手順</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-for-genuine-adobe-error-message/"><u>Quick Fix for Genuine Adobe Error Message</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/showdown-between-the-two-giants-apple-tv-4k-versus-roku-ultra/"><u>Showdown Between the Two Giants: Apple TV 4K Versus Roku Ultra</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719348778059-troubleshooting-wwinplusp-glitch-on-pc-solutions-included/"><u>Troubleshooting: WWin+P Glitch on PC, Solutions Included!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-ultimate-action-cam-max-360-vs-hero-11-gopro-showdown-for-2024/"><u>Unveiling the Ultimate Action Cam Max 360 vs Hero 11 GoPro Showdown for 2024</u></a></li>
 </ul></div>
 

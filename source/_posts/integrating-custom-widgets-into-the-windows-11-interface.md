@@ -1,7 +1,7 @@
 ---
 title: Integrating Custom Widgets Into the Windows 11 Interface
-date: 2024-09-05T02:08:07.363Z
-updated: 2024-09-06T02:08:07.363Z
+date: 2024-10-17T17:23:16.890Z
+updated: 2024-10-24T16:32:37.379Z
 tags:
   - windows10
   - windows11
@@ -34,11 +34,31 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 
 ![the widget launcher app in windows 11 search](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/widget-launcher-windows-11-search.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Add Widgets to Your Desktop With Widget Launcher
 
  With Widget Launcher open, you’ll see a list of all the available widgets, such as**Weather** ,**Clock** ,**Calendar** ,**Notes** , and**CPU Meter** , in the middle panel. Click on the widget you want to add to the desktop.
 
 ![launching the digital clock widget in widget launcher in windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/widget-launcher-windows-11-lauching-digital-clock.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the right panel, click on**Launch Widget** , and the widget will now appear on your desktop. If you decide these widgets are enough for your needs, you can[disable Windows 11’s widgets](https://www.makeuseof.com/windows-11-disable-widgets/) .
 
@@ -54,52 +74,39 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
 
 ![entering a URL in the RSS Feed widget of the Widget Launcher on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/url-rss-feed-widget-launcher-windows-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this was the**Weather** widget, you'd need to add a location. And if it was the**Slideshow** widget, it would require a folder to find the images to display.
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Enable "Widgets Always on Top" Mode
 
  If you want to see the widgets every time no matter what window you’re on, click**Settings** in the bottom left corner of the Widget Launcher app. Then, turn on the toggle for**Widgets Always on Top** .
 
 ![the settings of the widget launcher in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/05/widget-launcher-settings-always-top.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  By default, Widget Launcher is set to launch the widgets during startup as well. You can prevent this by setting the toggle for**Launch on Startup** to**Off** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Enjoy Widgets on Your Windows 11 Desktop
 
  If you want to add widgets to your Windows 11 desktop, Widget Launcher allows you to do that easily. That way, you can always see your favorite information right from your desktop. And if you want to see the widgets all the time, you can just set them to always be on top.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -108,4 +115,20 @@ thumbnail: https://thmb.techidaily.com/606acaddc3ba9faf4d73376f1e2c554744034ba5a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-screen-sleeves-on-sony-a6400-block-video-playback/"><u>[New] Screen Sleeves on Sony A6400 Block Video Playback</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-manipulate-your-instagram-storys-playback-velocity/"><u>2024 Approved How to Manipulate Your Instagram Story's Playback Velocity</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-reference-mistake-for-token-in-windows-1011/"><u>Fixing Reference Mistake for Token in Windows 10/11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-linking-youtubes-harmony-to-imovie-clips-effortlessly/"><u>In 2024, Linking Youtube's Harmony to iMovie Clips Effortlessly</u></a></li>
+<li><a href="https://windows11.techidaily.com/innovative-techniques-for-enhancing-comics-experience-on-win11/"><u>Innovative Techniques for Enhancing Comics Experience on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/is-split-screen-not-working-on-windows-heres-what-to-do/"><u>Is Split Screen Not Working on Windows? Here's What to Do</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-techniques-for-windowsapps-file-reveal/"><u>Key Techniques for WindowsApps File Reveal</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-growing-an-instagram-fanbase-strategies-that-work/"><u>Master the Art of Growing an Instagram Fanbase: Strategies That Work!</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-to-protected-windowsapps-directory/"><u>Navigating to Protected WindowsApps Directory</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-boot-up-bottlenes-in-lol-world/"><u>Overcoming Boot-Up Bottlenes in LOL World</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/streamlined-techniques-for-console-gaming-captures/"><u>Streamlined Techniques for Console Gaming Captures</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-advanced-gadgets-with-tomtech-insights/"><u>The Ultimate Guide to Advanced Gadgets with TomTech Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-list-of-gamers-choice-headsets/"><u>The Ultimate List of Gamer's Choice Headsets</u></a></li>
+</ul></div>
 

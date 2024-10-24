@@ -1,7 +1,7 @@
 ---
 title: Overcoming Greyed-Out Remove PIN Feature on Windows 11
-date: 2024-10-17T22:19:58.758Z
-updated: 2024-10-18T16:05:09.174Z
+date: 2024-10-22T19:57:34.771Z
+updated: 2024-10-24T21:20:01.370Z
 tags:
   - windows10
   - windows11
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 5. Next, toggle the switch for the option **For improved security, only allow Windows Hello sign-in for Microsoft account on this device (Recommended)** and set it to**Off** .
 6. With the option disabled, you can now remove PIN for Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Remove the PIN Using the I Forgot My PIN Window
 
  Windows 11 lets you change your PIN using the**I forgot my PIN** option. However, you can use the feature to remove your PIN as well. To do this, you need to use your Microsoft account details to verify the user.
@@ -57,14 +50,43 @@ To remove PIN using forgot my PIN:
 ![windows 11 i forgot my pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-i-forgot-my-pin.jpg)
 4. Click on**I forgot my PIN** next **to Related links.**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**Continue** when the confirmation dialog appears.  
 ![confirmation dialog windows hello PIN remove](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/confirmation-dialog-windows-hellow-pin-remove.jpg)
 6. Next, enter your Microsoft account details to sign in.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![set up a pin cancel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/set-up-a-pin-cancel.jpg)
 7. When the**Set up a PIN** dialog appears, click on**Cancel** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![close your account requires windows hello pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/close-your-account-requires-windows-hello-pin.jpg)
 8. Next, click the**Close** button to exit the**Your account requires a Windows Hello PIN** dialog.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 That's it! You have successfully removed the Windows Hello PIN.
 
@@ -76,13 +98,6 @@ That's it! You have successfully removed the Windows Hello PIN.
 2. Open the**Accounts** tab and click on**Your Info.**  
 ![windows 11 account manage my accounts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-account-manage-my-accounts.jpg)
 3. Scroll down to the**Related setting** s section and click on**Accounts** (Manage my account). This will open the Microsoft account security page online.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Sign in to your Microsoft account.
 5. Next, open the**Security** tab.
@@ -101,13 +116,6 @@ That's it! You have successfully removed the Windows Hello PIN.
 
 ![windows 11 remove pin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/windows-11-remove-pin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the option is restored, follow these steps to remove Windows Hello PIN from the Settings app:
 
 1. Press**Win + I** to open**Settings** .
@@ -116,13 +124,6 @@ That's it! You have successfully removed the Windows Hello PIN.
 4. Scroll down and click on**PIN (Windows Hello).**
 5. Click on**Remove** and then on**Remove** again to confirm the action.
 6. Enter your account password and click OK to remove the PIN.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix the Grayed-Out Remove PIN Option
 
@@ -143,15 +144,18 @@ That's it! You have successfully removed the Windows Hello PIN.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-budding-photographers-guide-to-enhanced-gopro-capabilities/"><u>[New] 2024 Approved Budding Photographers' Guide to Enhanced GoPro Capabilities</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/aximize-your-content-interaction-for-2024/"><u>[New] Maximize Your Content Interaction for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-to-transmit-facebook-live-via-televisions/"><u>2024 Approved How to Transmit Facebook Live via Televisions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/effective-temperature-regulation-with-kooteks-laptop-cooler-an-in-depth-product-review/"><u>Effective Temperature Regulation with Kootek's Laptop Cooler - An In-Depth Product Review</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-pursuit-of-perfection-online-tv-capture-made-simple/"><u>In Pursuit of Perfection - Online TV Capture Made Simple</u></a></li>
-<li><a href="https://windows11.techidaily.com/low-cost-high-risks-9-concerns-with-sub-standard-windows-keys/"><u>Low Cost, High Risks: 9 Concerns with Sub-Standard Windows Keys</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-device-access-barriers-in-audacity-windows/"><u>Overcoming Device Access Barriers in Audacity (Windows)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/solution-the-minimum-number-of-days-typically-required-to-cure-concrete-under-normal-temperature-conditions-is-at-least-7-days/"><u>Solution: The Minimum Number of Days Typically Required to Cure Concrete Under Normal Temperature Conditions Is at Least 7 Days</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategies-for-mending-the-the-service-did-not-respond-windows-issue/"><u>Strategies for Mending the 'The Service Did Not Respond' Windows Issue</u></a></li>
-<li><a href="https://windows11.techidaily.com/unpack-and-deploy-quick-apk-installation-guide-in-windows-11/"><u>Unpack and Deploy: Quick APK Installation Guide in Windows 11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-audio-interface-for-podcasters-a-must-know-tip-for-your-podcasting-setup-for-2024/"><u>[New] The Ultimate Audio Interface for Podcasters A Must-Know Tip for Your Podcasting Setup for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-keep-it-lighthearted-a-straightforward-guide-to-posting-gifs-on-instagram/"><u>[Updated] 2024 Approved Keep It Lighthearted A Straightforward Guide to Posting GIFs on Instagram</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-map-to-wealth-terrarias-quintessential-gold-hunt/"><u>2024 Approved Map to Wealth Terraria's Quintessential Gold Hunt</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-samsung-galaxy-f04-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Samsung Galaxy F04 PC | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/boost-desktop-aesthetics-best-pc-time-saver-apps-listed/"><u>Boost Desktop Aesthetics – Best PC Time Saver Apps Listed</u></a></li>
+<li><a href="https://win-forum.techidaily.com/easy-guide-hvordan-du-dele-skjermbildert-gjennom-discord-pa-pc-og-smartphonetablet/"><u>Easy Guide: Hvordan Du Dele Skjermbildert Gjennom Discord På PC Og Smartphone/Tablet</u></a></li>
+<li><a href="https://windows11.techidaily.com/hidden-behind-pretense-apps-slowdown-your-modern-windows/"><u>Hidden Behind Pretense: Apps Slowdown Your Modern Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-the-future-ui-design-with-new-folder-integration-in-windows-11/"><u>Navigate the Future UI Design with New Folder Integration in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-the-windows-application-net-demand-error/"><u>Resolving the Windows Application .NET Demand Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-file-scooping-6-routes-to-data-secrets/"><u>Swift File Scooping: 6 Routes to Data Secrets</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-perfect-order-for-viewing-the-matrix-franchise-on-your-screen/"><u>The Perfect Order for Viewing The Matrix Franchise on Your Screen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-8-solutions-for-resolving-parsing-errors-in-android-applications/"><u>Top 8 Solutions for Resolving Parsing Errors in Android Applications</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/count-value-how-much-does-1-million-matter-in-2024/"><u>View Count Value How Much Does 1 Million Matter, In 2024</u></a></li>
 </ul></div>
 

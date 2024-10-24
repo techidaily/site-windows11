@@ -1,7 +1,7 @@
 ---
 title: Preserve Your Tailored PowerToys Environment at New Devices
-date: 2024-08-31T22:08:32.001Z
-updated: 2024-09-01T22:08:32.001Z
+date: 2024-10-20T18:13:20.301Z
+updated: 2024-10-24T20:04:03.328Z
 tags:
   - windows10
   - windows11
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/2b3cfba87301486dbbd741d1b746c08f2612d6801
 
  PowerToys is updated regularly, with new features like[File Locksmith](https://www.makeuseof.com/powertoys-file-locksmith-guide/) added from time to time. Your backups are dated, so you can create a new one each time a tool is added and still be able to recognize the backup.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Transfer and Restore the PTB Backup File
 
  You can now transfer the backup file to your second PC and restore the settings to the clean installation of PowerToys.
@@ -44,23 +51,31 @@ thumbnail: https://thmb.techidaily.com/2b3cfba87301486dbbd741d1b746c08f2612d6801
 ![restoring PowerToys settings in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powertoys-restore.jpg)
 3. Open PowerToys and select the**General** tab. At the bottom of the**General options** , click the**Restore** button.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Your previously saved settings have now been applied to the clean installation of PowerToys. If the two versions of PowerToys are different, some settings may not have been transferred.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Transferring PowerToys Settings Made Easy
 
  Setting up PowerToys from scratch on a new computer can be time-consuming. This is particularly true if you use several of the available tools and have made changes to settings. Being able to copy settings from one PC to another makes getting started with PowerToys much quicker.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -69,4 +84,26 @@ thumbnail: https://thmb.techidaily.com/2b3cfba87301486dbbd741d1b746c08f2612d6801
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-audio-ambition-selecting-top-6-free-downloader-apps-from-youtube-vaults/"><u>[New] In 2024, Audio Ambition Selecting Top 6 Free Downloader Apps From YouTube Vaults</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-boosting-video-dimensions-on-youtube-platform/"><u>[Updated] 2024 Approved Boosting Video Dimensions on YouTube Platform</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-ios-leading-video-capture-solutions/"><u>[Updated] IOS Leading Video Capture Solutions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mixed-reality-blending-physical-and-virtual-worlds/"><u>[Updated] Mixed Reality Blending Physical and Virtual Worlds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-10-software-to-create-and-edit-vector-images-that-you-should-know/"><u>[Updated] Top 10 Software to Create and Edit Vector Images That You Should Know</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-detailed-strategies-for-altering-facial-gender-display-in-digital-media/"><u>2024 Approved Detailed Strategies for Altering Facial Gender Display in Digital Media</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-find-your-perfect-livestream-service-match/"><u>2024 Approved How to Find Your Perfect Livestream Service Match</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-non-compliance-overcoming-intel-hd-graphics-errors/"><u>Addressing Non-Compliance: Overcoming Intel HD Graphics Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/comprehensive-guide-to-rectify-windows-security-faults/"><u>Comprehensive Guide to Rectify Windows Security Faults</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-to-using-windows-11s-compatibility-fixer/"><u>Essential Guide to Using Windows 11’S Compatibility Fixer</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-for-diablo-gameplay-enthusiasts/"><u>Essential Tips for Diablo Gameplay Enthusiasts</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-tips-to-fully-erase-wsl-from-windows-11-systems/"><u>Expert Tips to Fully Erase WSL From Windows 11 Systems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-features-and-benefits-of-using-telegram-app/"><u>Exploring the Features and Benefits of Using Telegram App</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-correctly-handle-iomap64sys-failures-in-winos/"><u>How To Correctly Handle IOMap64.sys Failures in WinOS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-meizu-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Meizu Through Google Earth?</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-removing-isdonedll-malfunctions-from-windows-11/"><u>Quick Guide: Removing ISDone.dll Malfunctions From Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/securing-your-virtual-achievements-epic-save-strategies/"><u>Securing Your Virtual Achievements: Epic Save Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-4-microcomputers-pure-windows-environment/"><u>Top 4 Microcomputers: Pure Windows Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-insider-clandestine-context-creation-techniques/"><u>Windows 11 Insider: Clandestine Context Creation Techniques</u></a></li>
+</ul></div>
 

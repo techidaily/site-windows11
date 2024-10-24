@@ -1,7 +1,7 @@
 ---
 title: Steps for qBittorrent Transfer From One Windows to Another
-date: 2024-08-31T22:09:02.722Z
-updated: 2024-09-01T22:09:02.722Z
+date: 2024-10-18T20:19:30.952Z
+updated: 2024-10-24T18:37:53.717Z
 tags:
   - windows10
   - windows11
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
  Still, with a new PC maybe you'd also like to keep your software fresh, and try out new things, like another torrent client. Although qBittorrent's at the top spot in our [best torrent clients for Windows](https://www.makeuseof.com/best-torrent-clients-windows/) article, you'll also find some nice alternative options there.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Move Your Torrents
 
  Since we are dealing with migrating qBittorrent's installation from an old PC into a new one, you will need a way to facilitate this data exchange.
@@ -47,11 +54,16 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 2. Return to your user account's folder on the original PC, and this time navigate into the `AppData > Roaming > qBittorrent` path. Do the same as above, and copy all its contents to the equivalent path on your new PC.  
 ![Windows Explorer AppData Roaming qBittorrent Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-explorer-appdata-roaming-qbittorrent-path.jpg)
 3. For the final data transfer, you must move the folder where your torrents were stored from your old PC to the new one. We can't offer specifics for that because their setup depends on your qBittorrent configuration. In our case, we had two separate folders, one for **incoming** torrents and another for those that had **completed** downloading. Both conveniently placed within a "torrents" folder on an external hard disk drive. Unplugging it from the old PC and reconnecting it to the new one was all needed for "transferring our torrents".  
-![Windows Explorer New Torrent Files Location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-explorer-new-torrent-files-location.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Windows Explorer New Torrent Files Location](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/windows-explorer-new-torrent-files-location.jpg)
+
 ## The Problem With Moving qBittorrent to a Different Drive Letter
 
  Moving your torrent collection to your new PC should be a breeze if you kept it on an external hard disk like us. Still, you might meet a slight problem: the drive might be assigned a different letter on your new PC, preventing qBittorrent's installation from finding your torrents. qBittorrent will seek them on Drive `D`, while your torrent drive was assigned the letter `H`.
@@ -63,15 +75,16 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 ![qBittorrent Loading Torrents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/qbittorrent-loading-torrents.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  And yet, swapping drive letters may be impossible or lead to other issues. For example, you might have started using your new PC and already actively used another drive with the same letter your torrent drive had on your previous PC. In this case, changing your torrent drive's letter to "fix" qBittorrent could break other software.
 
  Thankfully, there's a solution for that, too, as we'll see next. However, it is more complicated than reassigning a letter.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Update and Double-Check Your Folder Paths
 
  If you can't or don't want to change your torrent's drive letter, or you did, but qBittorrent still doesn't detect your torrents, you should make sure it's looking at the right place. For that, with qBittorrent running...
@@ -81,14 +94,15 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 2. Select the **Downloads** page from the list on the left, and scroll down a bit to find **Default Save Path**. Make sure it points to the correct path for your downloaded torrents folder. Here, if, like us, you also used a second folder for incomplete torrents, make sure the option **Use another path for incomplete torrents** is enabled and that the field on its right points to the correct folder for your half-downloaded files, too. Click **OK** to save your changes to qBittorrent's configuration, and exit the **Options** window.  
 ![qBittorrent Options Downloads Default Save Path](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/qbittorrent-options-downloads-default-save-path.jpg)
 3. Fully exit qBittorrent and rerun it. This time it should find and start importing your torrents. However, it may fail to detect their progress and general state correctly. To fix that, highlight all your torrent files in qBittorrent's transfers list, right-click on them, and select **Force Recheck**. If your transfer list adds up to a multi-gigabyte sum, and especially if stored on an old and slow HDD, this process can take a while. When it finishes, your migrated qBittorrent installation should be indistinguishable from the original.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![qBittorrent Right Click Menu Force Recheck](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/qbittorrent-right-click-menu-force-recheck.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  And yet again, that might not be enough. qBittorrent also supports **categories**, each of which can have its own path. So, if you used that feature to have your torrents downloaded to different folders, you must also update each category's path.
 
  Unfortunately, each category might point to a different path. There's no way to fix them all with a single move. You will have to right-click on each category and select **Edit Category**. Then, under **Save Path**, click on the button with the folder icon, and point the requester to the correct path on your PC.
@@ -97,9 +111,6 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
  When you eventually start downloading again, don't seek torrent links at shoddy sites: qBittorrent comes with a built-in search function you can use to find new torrents. Plus, we've covered how you can make it even more useful by [expanding it with more search engines](https://www.makeuseof.com/qBittorrent-add-search-engines/).
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## A Seamless Transition for qBittorrent
 
  It might involve taking an external hard disk drive from your old PC and plugging it into your new one, but migrating your qBittorrent installation between computers is not as simple.
@@ -110,11 +121,33 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
  The answer's likely a positive "yes," but the way to do it isn't as simple as copying a folder from point A to point B. However, as we'll see next, it's not too complicated.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevating-your-youtube-projects-with-enhancements-for-2024/"><u>[Updated] Elevating Your YouTube Projects with Enhancements for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-az-capture-extraordinaire-thorough-app-reviews/"><u>[Updated] In 2024, AZ Capture Extraordinaire Thorough App Reviews</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-inspiration-in-frames-top-20-creative-instagrams/"><u>[Updated] Inspiration in Frames Top 20 Creative Instagrams</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-experts-manual-to-efficient-screencasting-for-2024/"><u>[Updated] The Expert's Manual to Efficient Screencasting for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-viral-tendencies-on-twittersphere-most-viewed/"><u>2024 Approved Viral Tendencies on Twittersphere (Most Viewed)</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-comprehensible-approach-to-fixing-notepad-non-openness-in-windows/"><u>A Comprehensible Approach to Fixing Notepad Non-Openness in Windows</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/constellation-backup-repair/"><u>Constellation Backup Repair</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719261046850-experience-gptclone-at-home-for-free-on-windows/"><u>Experience GPTClone at Home for FREE on Windows</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-step-by-step-audacity-crossfading-process/"><u>In 2024, Step-by-Step Audacity Crossfading Process</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-performance-with-5-wsl-2-enhancements/"><u>Maximizing Performance with 5 WSL 2 Enhancements</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/quick-guide-to-screen-capture-on-laptops-and-chromeos-for-2024/"><u>Quick Guide to Screen Capture on Laptops and ChromeOS for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-read-only-status-in-1011s-file-directories/"><u>Remedying Read-Only Status in 10/11'S File Directories</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/screen-stream-showdown-who-wins-obs-or-shadowgl-for-2024/"><u>Screen Stream Showdown Who Wins, OBS or ShadowGL for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/seeking-entry-into-the-windows-11-insider-circle/"><u>Seeking Entry Into the Windows 11 Insider Circle</u></a></li>
+<li><a href="https://windows11.techidaily.com/starting-windows-terminal-with-quake-effects/"><u>Starting Windows Terminal with Quake Effects</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlined-startup-routines-in-modern-windows/"><u>Streamlined Startup Routines in Modern Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/surface-go-3-with-latest-chip-reviewed-mixed-outcomes-noted/"><u>Surface Go 3 with Latest Chip Reviewed: Mixed Outcomes Noted</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/5-webcams-for-quality-youtube-live-streams-for-2024/"><u>Top 15 Webcams for Quality YouTube Live Streams for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-windows-11s-compatibility-checker-usage-guide/"><u>Understanding Windows 11'S Compatibility Checker: Usage Guide</u></a></li>
+</ul></div>
+

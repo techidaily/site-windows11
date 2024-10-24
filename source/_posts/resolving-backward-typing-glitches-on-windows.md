@@ -1,7 +1,7 @@
 ---
 title: Resolving Backward Typing Glitches on Windows
-date: 2024-10-15T03:14:09.677Z
-updated: 2024-10-18T18:34:18.538Z
+date: 2024-10-21T17:09:53.649Z
+updated: 2024-10-24T16:31:42.156Z
 tags:
   - windows10
   - windows11
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 
  Several users on a [Microsoft Community post](https://answers.microsoft.com/en-us/windows/forum/all/how-to-stop-keyboard-from-typing-in-reverse/a766f453-0ef3-4aaa-8690-76ee9e86729c)reported fixing the problem with this trick. Note that if you accidentally press the **Ctrl + Left Shift** key, Windows will start typing in reverse again.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Check Region Settings
 
  Setting your Windows computer to the wrong region may not seem like a big deal, but it can cause a number of problems, including the one mentioned here. Hence, it's a good idea to double-check the region settings on your Windows PC and make sure they are correct.
@@ -63,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 ![Run Keyboard Troubleshooter on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/run-keyboard-troubleshooter-on-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the issue persists, you can run the Hardware and Devices troubleshooter. As this tool is unavailable in the Settings app, you must use the Run dialog box to access it. Here's how to do that:
@@ -80,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
  Allow the troubleshooter to find and fix any problems, and check if the issue still occurs.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Update or Reinstall Your Keyboard Drivers
@@ -96,15 +89,28 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 
 ![Arrow Keys on Keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/arrow-keys-on-keyboard.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It's possible that the left arrow key on your keyboard is stuck, which is why Windows is typing in reverse. Try using the left arrow key in another program to see if the issue persists. If it does, you may need to clean the key or remove and reinsert it.
 
  Alternatively, you can also try using a different keyboard if one is available.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bring Backward Typing to a Full Stop on Windows
@@ -123,19 +129,21 @@ thumbnail: https://thmb.techidaily.com/1e90b427765970b2a66b4df52c7b1587d47d7c547
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-crafting-your-perfect-youtube-playlists-a-step-by-step-guide/"><u>[New] In 2024, Crafting Your Perfect YouTube Playlists A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/harmonizing-your-calendar-with-zoom-appointments-on-all-screens-for-2024/"><u>Harmonizing Your Calendar With Zoom Appointments on All Screens for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-microsoft-store-app-not-installed-issue/"><u>Navigating Microsoft Store App Not Installed Issue</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/overcome-distorted-voice-in-virtual-meetings-for-2024/"><u>Overcome Distorted Voice in Virtual Meetings for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-text-highlighters-issues-in-windows-pdf-files/"><u>Overcoming Text Highlighters Issues in Windows PDF Files</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/relocation-strategies-how-to-successfully-transfer-your-windows-boot-manager-between-drives/"><u>Relocation Strategies: How to Successfully Transfer Your Windows Boot Manager Between Drives</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/review-of-amplifi-hd-triple-band-whole-home-mesh-wi-fi-eliminating-your-networks-weak-spots/"><u>Review of Amplifi HD Triple Band Whole Home Mesh Wi-Fi: Eliminating Your Network's Weak Spots</u></a></li>
-<li><a href="https://windows11.techidaily.com/smart-sort-how-to-effortlessly-move-folders-in-w11/"><u>Smart Sort: How to Effortlessly Move Folders in W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-reclaim-your-pcs-lossed-graphic-support/"><u>Steps to Reclaim Your PC's Lossed Graphic Support</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-solutions-bypassing-user-account-requirements-in-windows/"><u>Swift Solutions: Bypassing User Account Requirements in Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-non-starting-display-driver-on-windows-11-os/"><u>Tackling Non-Starting Display Driver on Windows 11 OS</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-say-goodbye-to-blemishes-fcpx-skin-smoothing-techniques/"><u>Updated 2024 Approved Say Goodbye to Blemishes FCPX Skin Smoothing Techniques</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/virtual-experiences-galore-the-best-vr-playback-devices-for-pcs-revealed/"><u>Virtual Experiences Galore The Best VR Playback Devices for PCs Revealed</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-nokia-g42-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-enhancing-tiktok-profiles-with-linktree-features/"><u>[New] 2024 Approved Enhancing TikTok Profiles with Linktree Features</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-capture-the-inspired-moment-essential-photos-for-ig/"><u>[Updated] In 2024, Capture the Inspired Moment Essential Photos for IG</u></a></li>
+<li><a href="https://article-posts.techidaily.com/10-best-classic-family-vacation-movie-for-summer/"><u>10 Best Classic Family Vacation Movie for Summer</u></a></li>
+<li><a href="https://windows11.techidaily.com/accelerating-problem-solving-in-windows-10-and-11-via-shortcuts/"><u>Accelerating Problem-Solving in Windows 10 & 11 via Shortcuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/avoid-frozen-savers-4-tips-to-fix-windows-issues/"><u>Avoid Frozen Savers: 4 Tips to Fix Windows Issues</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-a24-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy A24</u></a></li>
+<li><a href="https://windows11.techidaily.com/control-over-edges-ongoing-tasks-in-win11-environment/"><u>Control Over Edge's Ongoing Tasks in Win11 Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/controlling-highlight-features-on-windows-11-pcs/"><u>Controlling Highlight Features on Windows 11 PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-windows-11-notifications-to-exclude-extras/"><u>Customize Windows 11 Notifications to Exclude Extras</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-and-correcting-windows-error-0x8007021/"><u>Decoding and Correcting Windows Error 0X8007021</u></a></li>
+<li><a href="https://windows11.techidaily.com/ditching-the-default-store-on-new-windows-11/"><u>Ditching the Default Store on New Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-zte-nubia-z60-ultra-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your ZTE Nubia Z60 Ultra via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-virtual-care-innovations-in-medicine/"><u>In 2024, Virtual Care Innovations in Medicine</u></a></li>
+<li><a href="https://win-popular.techidaily.com/save-money-secure-your-data-best-no-charge-veeam-replacements-for-easy-backup-and-restore/"><u>Save Money, Secure Your Data: Best No-Charge Veeam Replacements for Easy Backup & Restore</u></a></li>
 </ul></div>
 

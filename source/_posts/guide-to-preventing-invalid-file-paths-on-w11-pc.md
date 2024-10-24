@@ -1,7 +1,7 @@
 ---
 title: Guide to Preventing Invalid File Paths on W11 PC
-date: 2024-10-15T19:30:58.527Z
-updated: 2024-10-18T19:42:47.708Z
+date: 2024-10-20T18:49:56.507Z
+updated: 2024-10-24T19:55:11.110Z
 tags:
   - windows10
   - windows11
@@ -32,10 +32,16 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
  To fix it, check out[how to delete Windows' temporary files](https://www.makeuseof.com/windows-11-delete-temporary-files/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Disable Read-Only Access
@@ -61,22 +67,29 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
  Right-click the EXE file and select**Send to > Compressed (Zipped)** . Windows will create a zipped folder with the same name. Open the folder and launch the installer.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Run the Windows Memory Diagnostic Tool
 
  The inability to install new software on your Windows 11 computer, might be caused by memory-related issues. If you try to install an app and Windows keeps freezing, you should[run the Windows Memory Diagnostic tool](https://www.makeuseof.com/windows-memory-diagnostic-tool-guide/) to fix the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Clean Boot Your System
 
  Sometimes, third-party apps can hinder Windows functionality and affect its ability to install new software. Now, if there are too many apps for you to remember which one is allowed to change your system settings, you should[perform a clean boot on Windows 11](https://www.makeuseof.com/clean-boot-windows-11/) .
 
  This way, your system boots up with a minimal number of drivers and startup apps, so you can figure out if a background app is causing you issues. If everything works as usual, check the list of installed apps and remove the ones that may be causing conflict.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Re-Download the App and Install It
 
@@ -85,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
  If you think your PC is infected, be sure to[perform an offline scan with Microsoft Defender](https://www.makeuseof.com/how-to-remove-malware-using-microsoft-defenders-offline-scan/) to ensure nothing is lurking in your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Reset Your Computer
@@ -96,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
  If nothing worked until now, and you can’t install anything on your computer, you should[reset your computer](https://www.makeuseof.com/windows-11-factory-reset-without-admin-password/) . Fortunately, Windows allows you to use the**Cloud download** option, so you can keep your files while it removes all third-party apps on your computer.
 
 ![Reset Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/reset-windows-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix Windows 11's Temp Files With These Tips
 
@@ -125,18 +131,24 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-brightening-filmmaking-ranking-the-17-best-lights/"><u>[New] 2024 Approved Brightening Filmmaking Ranking the 17 Best Lights</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-transformative-tips-on-crafting-engaging-cover-art/"><u>[Updated] In 2024, Transformative Tips on Crafting Engaging Cover Art</u></a></li>
-<li><a href="https://network-issues.techidaily.com/d3d-startup-error-successfully-overcome/"><u>D3D Startup Error, Successfully Overcome</u></a></li>
-<li><a href="https://win-studio.techidaily.com/dai-una-spinta-ai-tuoi-file-come-recuperare-e-accedere-alle-tue-partizioni-ext4ext3-utilizzando-windows/"><u>Dai Una Spinta Ai Tuoi File: Come Recuperare E Accedere Alle Tue Partizioni Ext4/Ext3 Utilizzando Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-insights-into-utilizing-microsofts-system-restore-feature/"><u>Essential Insights Into Utilizing Microsoft's System Restore Feature</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-vivo-v30-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Vivo V30 Pro For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/mac-video-editing-discover-the-best-options-beyond-vsdc/"><u>Mac Video Editing Discover the Best Options Beyond VSDC</u></a></li>
-<li><a href="https://windows11.techidaily.com/preventing-devices-from-suspending-during-energy-saver/"><u>Preventing Devices From Suspending During Energy Saver</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlined-strategy-for-downloading-adobe-on-microsoft-platform/"><u>Streamlined Strategy for Downloading Adobe on Microsoft Platform</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-gionee-f3-pro-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Gionee F3 Pro Device</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-pc-with-the-latest-amd-radeon-pro-w5700-drivers-windows-11-10-and-7-support/"><u>Update Your PC with the Latest AMD Radeon Pro W5700 Drivers (Windows 11, 10 & 7 Support)</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-expert-guide-extracting-silence-from-video-files-on-windows-10-without-spending-a-penny/"><u>Updated In 2024, Expert Guide Extracting Silence From Video Files on Windows 10 Without Spending a Penny</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-11-unveiled-a-dive-into-widgets/"><u>Windows 11 Unveiled - A Dive Into Widgets</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-art-of-hashtagging-strategies-for-maximum-impact-on-facebook/"><u>[New] 2024 Approved The Art of Hashtagging Strategies for Maximum Impact on Facebook</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rom-screens-to-spreads-the-dos-and-donts-of-live-blogging/"><u>[New] From Screens to Spreads The Do's and Don'ts of Live Blogging</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oneplus-12r-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My OnePlus 12R Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ting-your-valorant-videos-with-impressive-thumbnails-for-2024/"><u>Elevating Your Valorant Videos with Impressive Thumbnails for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-11s-insufficient-uninstall-rights/"><u>Fixing Windows 11'S Insufficient Uninstall Rights</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-to-safety-six-steps-to-entering-safe-mode-in-windows-11/"><u>Get to Safety: Six Steps to Entering Safe Mode in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/harness-window-11-a-productivity-playbook/"><u>Harness Window 11: A Productivity Playbook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-incredible-live-stream-options-a-compilation/"><u>In 2024, Incredible Live Stream Options - A Compilation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-productivity-the-essential-trick-of-running-two-windows-simultaneously-on-macbook-air/"><u>Maximize Productivity: The Essential Trick of Running Two Windows Simultaneously on MacBook Air</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prioritize-onedrive-in-windows-startup-directly-open-file-explorer/"><u>Prioritize OneDrive in Windows Startup: Directly Open File Explorer</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-tricks-to-pinpoint-your-graphic-card-on-windows-11/"><u>Quick Tricks to Pinpoint Your Graphic Card on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/reducing-powerful-usage-in-modern-host-computers/"><u>Reducing Powerful Usage in Modern Host Computers</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinvigorate-windows-search-top-11-remedies-explored/"><u>Reinvigorate Windows Search: Top 11 Remedies Explored</u></a></li>
+<li><a href="https://windows11.techidaily.com/security-enhancement-manual-add-a-self-designed-lock-pattern/"><u>Security Enhancement Manual: Add a Self-Designed Lock Pattern</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-approach-to-bypass-cant-add-your-folder-now-error-in-windows-onedrive-drive/"><u>Swift Approach to Bypass 'Can't Add Your Folder Now' Error in Windows OneDrive Drive</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-list-of-2024s-most-effective-health-monitoring-bracelets/"><u>The Ultimate List of 2024'S Most Effective Health Monitoring Bracelets</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-methods-for-capturing-sound-in-windows-11-for-2024/"><u>Top 5 Methods for Capturing Sound in Windows 11 for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-7-win-11-desk-aids-boosting-workflow/"><u>Top 7 Win 11 Desk Aids Boosting Workflow</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-wait-get-the-full-story-on-football-manager-2022-launch-hiccups-and-how-they-got-fixed/"><u>Why Wait? Get the Full Story on Football Manager 2022 Launch Hiccups and How They Got Fixed!</u></a></li>
 </ul></div>
 

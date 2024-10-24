@@ -1,7 +1,7 @@
 ---
 title: Redefining Privileges for Non-Administrative Windows Users
-date: 2024-10-15T01:27:43.873Z
-updated: 2024-10-18T22:42:22.605Z
+date: 2024-10-22T19:25:59.205Z
+updated: 2024-10-24T17:51:29.418Z
 tags:
   - windows10
   - windows11
@@ -44,19 +44,25 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
 4. Click **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Keep in mind that only administrators can change the behavior of the UAC. If a standard user tried to change it using the Local Group Policy Editor, for example, they'd probably get an **Access denied** error message.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Change the UAC Behavior for Standard Users in the Registry Editor
@@ -69,28 +75,28 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
 ![the System key in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/system-key-registry-editor.jpg)
 2. Press **Enter** on your keyboard to go to the **System** key.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Right-click the **ConsentPromptBehaviorUser** value in the right panel and select **Modify**.  
 ![modifying the ConsentPromptBehaviorUser value in the Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/modifying-consentpromptbehavioruser-in-registry-editor.jpg)
 4. In the **Value data** text box, enter **0** for **Automatically deny elevation requests**, **1** for **Prompt for credentials on the secure desktop**, or **3** for **Prompt for credentials**.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![setting Value data for ConsentPromptbehavior Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/setting-value-data-for-consentpromptbehavior-registry-editor.jpg)
 5. Click **OK**.
 
- Now restart your computer to allow the changes to take effect.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Now restart your computer to allow the changes to take effect.
 
 ## Control UAC's Behavior for Standard Users on Windows
 
@@ -107,20 +113,20 @@ thumbnail: https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-top-action-capturing-software-guide/"><u>[New] In 2024, Top Action-Capturing Software Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pivot-past-moments-an-android-video-reversal-tutorial/"><u>[New] Pivot Past Moments An Android Video Reversal Tutorial</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deal-makers-delight-windows-10-612-lifetime-bf-discount/"><u>Deal-Makers' Delight: Windows 10, $6.12 Lifetime BF Discount</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-the-newest-quadro-graphics-drivers-on-windows-11/"><u>Download and Install the Newest Quadro Graphics Drivers on Windows 11</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experience-championship-caliber-play-in-nba-2k19-the-definitive-virtual-basketball-challenge/"><u>Experience Championship-Caliber Play in NBA 2K19 – The Definitive Virtual Basketball Challenge</u></a></li>
-<li><a href="https://windows11.techidaily.com/linux-desktops-analyzing-wsl-role/"><u>Linux Desktops: Analyzing WSL Role?</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-for-alleviating-power-management-issues-on-windows-devices/"><u>Methods for Alleviating Power Management Issues on Windows Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-to-remove-access-error-in-windows-file-explorer/"><u>Methods to Remove Access Error in Windows File Explorer</u></a></li>
-<li><a href="https://windows11.techidaily.com/muting-windows-update-alerts-and-reminders/"><u>Muting Windows Update Alerts and Reminders</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-updating-problem-error-x8019/"><u>Overcoming Updating Problem: Error X8019</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/pro-moviemakers-manual-for-pc-mac-and-mobile-systems/"><u>Pro Moviemaker's Manual for PC, Mac & Mobile Systems</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-organization-owned-chromeedge-issues-on-desktops/"><u>Resolving Organization-Owned Chrome/Edge Issues on Desktops</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-personalizing-your-whatsapp-ringtone-iphonesandroids-included/"><u>The Ultimate Guide to Personalizing Your WhatsApp Ringtone - iPhones/Androids Included</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/watch-educational-video-lessons-on-spotifys-latest-learning-platform/"><u>Watch Educational Video Lessons on Spotify's Latest Learning Platform!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-discovering-the-best-in-class-9-microphone-recorders-reviewed-for-2024/"><u>[New] Discovering the Best in Class 9 Microphone Recorders Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-maximize-revenue-with-youtube-shorts-strategies/"><u>[Updated] 2024 Approved Maximize Revenue with YouTube Shorts Strategies</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/androids-leading-image-editing-does-pickup-reign-supreme/"><u>Android's Leading Image Editing Does PickUp Reign Supreme?</u></a></li>
+<li><a href="https://windows11.techidaily.com/does-the-print-screen-key-open-the-snipping-tool-in-windows-11-heres-how-to-stop-it/"><u>Does the Print Screen Key Open the Snipping Tool in Windows 11? Here’s How to Stop It</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortlessly-jump-to-handheneld-hits-win-11-and-android-via-google-play-access/"><u>Effortlessly Jump to Handheneld Hits: Win 11 & Android via Google Play Access</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-ads-from-win-11s-start-interface/"><u>Eliminating Ads From Win 11'S Start Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-chromes-grey-screen-hurdle/"><u>Eliminating Chrome's Grey Screen Hurdle</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-samsung-dex-a-step-by-step-pc-control/"><u>Enabling Samsung DeX: A Step-by-Step PC Control</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-productivity-setting-up-windows-to-delete-files-automatically/"><u>Enhance Productivity: Setting Up Windows to Delete Files Automatically</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-vivo-s18-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Vivo S18 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y56-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y56 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-tecno-pova-6-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Tecno Pova 6 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-toshibas-speakers-expert-guides-to-fixing-no-sound-issues/"><u>Reviving Your Toshiba's Speakers: Expert Guides to Fixing No Sound Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-computer-review-expert-insights-on-the-latest-tech/"><u>Tom's Computer Review: Expert Insights on the Latest Tech</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-world-of-warcraft-wow-connection-delays/"><u>Troubleshooting World of Warcraft (WoW) Connection Delays</u></a></li>
 </ul></div>
 

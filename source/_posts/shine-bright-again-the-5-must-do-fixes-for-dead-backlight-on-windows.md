@@ -1,7 +1,7 @@
 ---
 title: "Shine Bright Again: The 5 Must-Do Fixes for Dead Backlight on Windows"
-date: 2024-08-31T22:05:30.817Z
-updated: 2024-09-01T22:05:30.817Z
+date: 2024-10-17T19:15:52.367Z
+updated: 2024-10-24T19:01:55.009Z
 tags:
   - windows10
   - windows11
@@ -44,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 * Plug the keyboard into a different USB port. If its backlit feature is now working, you’ll have to [fix a malfunctioning USB port](https://www.makeuseof.com/tag/dead-usb-port-heres-how-to-diagnose-and-fix-it/).
 * Take a look at the keyboard cable and search for any damage.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Check the Keyboard App
 
  If your laptop has a built-in backlit keyboard, check its app. Most of the time, the app will get installed at the same time as the keyboard drivers, but this may vary, depending on the manufacturer.
@@ -57,12 +54,6 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 
 ![Backlit keyboard app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/keyboard-app-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Update Your Keyboard Drivers
 
  If your keyboard backlight is sensor-activated, and it doesn’t work anymore, there’s a chance an outdated or corrupt driver is causing the problem. To fix it, you should update your keyboard driver. Here is how you can do it:
@@ -73,11 +64,22 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 
 ![Update keyboard driver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/update-keyboard-driver-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this didn't fix the problem, there are [more ways to fix a corrupt driver](http://www.makeuseof.com/how-to-fix-corrupt-drivers-on-windows-10/).
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Run the Keyboard Troubleshooter
 
  If updating the driver didn’t fix your backlit keyboard, Windows comes with a couple of built-in troubleshooting tools that you can use.
@@ -89,8 +91,12 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 ![Running the keyboard troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/keyboard-troubleshooter-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  In Windows 11, go to **Settings > System >Troubleshoot > Other trouble-shooters** to access the Keyboard troubleshooter.
 
  Once Windows finishes the troubleshooting process, try to turn on or adjust the brightness of your backlit keyboard. If it didn’t work, there is another troubleshooter you should run. While Microsoft removed it from the Settings menu, you can still access it using a Command Prompt line.
@@ -109,8 +115,12 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
  If nothing worked until now, you should [perform a clean boot](https://www.makeuseof.com/how-perform-clean-boot-windows-10/)on your computer. This way, your system will start without any third-party app that might influence your backlit keyboard functionality. If your keyboard lights up, open Control Panel and take a look at the apps that you’ve installed lately since one of them is causing your problem.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Backlit Keyboard Problems Resolved
 
  If a backlit keyboard is the missing piece of your dream setup, this guide will help you fix the problem. But if nothing worked, and you’re confident your keyboard comes with a backlit feature, you should look for the warranty certificate.
@@ -119,11 +129,31 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 
  However, different apps, software updates, or hardware issues might stop your backlit keyboard from working. So if you’ve already restarted your computer or connected your keyboard to every USB port, and it’s still not working, it’s time you take a closer look at the problem.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-the-art-of-crafting-compelling-spotify-ads-for-2024/"><u>[New] The Art of Crafting Compelling Spotify Ads for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlocking-creative-potential-with-pexels-visuals/"><u>[New] Unlocking Creative Potential with Pexels Visuals</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-optimal-video-kick-offs-selecting-the-top-16-for-more-viewers/"><u>[Updated] Optimal Video Kick-Offs Selecting the Top 16 for More Viewers</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-service-disruptions-with-steam-windows-11-style/"><u>Addressing Service Disruptions with Steam, Windows 11 Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-page-could-not-be-loaded-error-in-the-microsoft-store-for-windows/"><u>How to Fix the Page Could Not Be Loaded Error in the Microsoft Store for Windows</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-beyond-the-standard-unique-augmented-reality-stickers/"><u>In 2024, Beyond the Standard Unique Augmented Reality Stickers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-70-lite-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor 70 Lite 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-group-policy-editor-navigation-windows-11-style/"><u>Mastering Group Policy Editor Navigation, Windows 11 Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11s-software-compatibility-tool/"><u>Navigating Windows 11’S Software Compatibility Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/proactive-measures-for-sticky-notes-longevity/"><u>Proactive Measures for Sticky Notes' Longevity</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-dual-monitor-setup-problems/"><u>Resolving Dual Monitor Setup Problems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-a15-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy A15 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/savvy-photographers-guide-to-pristine-cloud-space-cost-free-and-paid-choices/"><u>Savvy Photographers' Guide to Pristine Cloud Space Cost-Free & Paid Choices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steps-to-restore-your-downloads-with-qbittorent-when-encountered-stoppage/"><u>Steps to Restore Your Downloads with qBittorent When Encountered Stoppage</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-future-of-personal-computing-transforming-window-11-widgets/"><u>The Future of Personal Computing: Transforming Window 11 Widgets</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-your-creative-potential-with-win11s-photos-app-creating-dynamic-slideshows-and-image-spot-repair/"><u>Unlock Your Creative Potential with Win11's Photos App: Creating Dynamic Slideshows & Image Spot Repair</u></a></li>
+</ul></div>
+

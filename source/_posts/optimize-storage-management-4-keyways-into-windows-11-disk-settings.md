@@ -1,7 +1,7 @@
 ---
 title: "Optimize Storage Management: 4 Keyways Into Windows 11 Disk Settings"
-date: 2024-10-13T21:17:57.380Z
-updated: 2024-10-18T23:38:05.631Z
+date: 2024-10-20T17:31:26.769Z
+updated: 2024-10-24T16:10:31.852Z
 tags:
   - windows10
   - windows11
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 
  Unlike external drives, you cannot just connect a new internal SSD and start using it right away on Windows. You'll need to go through an initial setup process using a utility called Disk Management. Whatever you need this tool for, we'll teach you how to open it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is Windows Disk Management?
 
  Disk Management is a built-in system utility that lets you perform advanced storage-related tasks like creating or formatting a hard disk partition, resizing a partition by extending or shrinking the volume, and initializing the volume.
@@ -40,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 ![Disk Management app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/6-ways-to-open-disk-management-windows-10-0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Search for Disk Management in Windows
@@ -63,19 +70,6 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 
 ![Opening Disk Management from Quick Access menu on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/opening-disk-management-from-quick-access-menu-on-windows-11.png)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When the program opens, you'll be able to see your connected drives and start managing their partitions.
 
 ## 3\. Use the Run Dialog to Open Disk Management
@@ -86,13 +80,20 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 
 ![Run dialog box with diskmgmt command in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/run-dialog-box-with-diskmgmt-command-in-windows-11.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This way to open Disk Management is preferable if you're busy on the keyboard and don't want to reach for your mouse.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Open Disk Management From the Control Panel
@@ -107,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 4. Under **Windows Tools** (or **Administrative Tools** on Windows 10), you'll see multiple options for disk drives. Click **Create and format hard disk partitions** to open Disk Management.
 
 ![Control Panel with Windows Tools highlighted in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/control-panel-with-windows-tools-highlighted-in-windows-11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Don't make the mistake of clicking **Administrative/Windows Tools**; that will open File Explorer instead.
 
@@ -132,22 +126,15 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-cutting-edge-approaches-to-virtual-reality-gaming-documentation/"><u>[New] In 2024, Cutting-Edge Approaches to Virtual Reality Gaming Documentation</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-picks-for-efficient-youtube-video-url-condensers/"><u>[Updated] 2024 Approved Top Picks for Efficient YouTube Video URL Condensers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-pivot-points-revolutionize-your-youtube-angles-with-ease/"><u>[Updated] Pivot Points Revolutionize Your YouTube Angles with Ease</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-anon-mastery-pcandroidios-edition/"><u>2024 Approved Instagram Anon Mastery PC/Android/iOS Edition</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/here-legal-restrictions-to-recording-youtube-videos-in-2024/"><u>Are There Legal Restrictions to Recording YouTube Videos, In 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-realme-gt-neo-5-se-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Realme GT Neo 5 SE? Try These Fixes</u></a></li>
-<li><a href="https://video-capture.techidaily.com/high-fidelity-screen-capture-suite-review-march-2023/"><u>High-Fidelity Screen Capture Suite Review – March 2023</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-keep-onedrive-available-offline-in-windows/"><u>How To Keep OneDrive Available Offline in Windows</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/join-the-giggle-roll-and-tearful-talks-on-instagram-memes-for-2024/"><u>Join the Giggle-Roll and Tearful Talks on Instagram Memes for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-art-of-clearing-blocked-windows-files/"><u>Mastering the Art of Clearing Blocked Windows Files</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-typical-rainmeter-hurdles-in-the-windows-realm/"><u>Overcoming Typical Rainmeter Hurdles in the Windows Realm</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-remedy-for-screens-that-tick-in-windows-11/"><u>Quick Remedy for Screens that Tick in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/secure-your-sanctuary-swift-fixes-for-windows-safety/"><u>Secure Your Sanctuary: Swift Fixes for Windows Safety</u></a></li>
-<li><a href="https://windows11.techidaily.com/swift-linguistic-navigation-on-windows-11-and-11-pro-with-shortcuts/"><u>Swift Linguistic Navigation on Windows 11 & 11 Pro with Shortcuts</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-10-tips-regain-control-with-steam-support/"><u>Top 10 Tips: Regain Control with Steam Support</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-add-audio-to-video-3-creative-ways/"><u>Updated How to Add Audio to Video 3 Creative Ways</u></a></li>
-<li><a href="https://windows11.techidaily.com/winning-over-sluggishness-speedy-printer-solutions-windows-style/"><u>Winning over Sluggishness: Speedy Printer Solutions, Windows-Style</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo FRP</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-guide-to-uncovering-your-systems-identity-quickly/"><u>A Guide to Uncovering Your System's Identity Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-steam-downloads-enhancing-windows-performance/"><u>Boosting Steam Downloads: Enhancing Windows Performance</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/cost-free-backup-solutions-top-veeam-substitutes-for-data-protection/"><u>Cost-Free Backup Solutions: Top Veeam Substitutes for Data Protection</u></a></li>
+<li><a href="https://windows11.techidaily.com/craft-a-festive-atmosphere-with-creative-windows/"><u>Craft a Festive Atmosphere with Creative Windows</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/how-to-fix-airdrop-connectivity-issues-on-mac-monterey-and-iphone-15/"><u>How to Fix AirDrop Connectivity Issues on Mac Monterey & iPhone 15</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-vivo-y27s-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo Y27s Phone Screen?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-12-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 12 Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719359377017-unfreeze-shift-button-on-your-pc/"><u>Unfreeze Shift Button on Your PC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/vlc-video-recording-performance-study/"><u>VLC Video Recording Performance Study</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Windows' CAB Files and Their Setup Process
-date: 2024-10-17T01:09:52.125Z
-updated: 2024-10-18T23:17:29.815Z
+date: 2024-10-18T21:04:39.138Z
+updated: 2024-10-24T21:06:13.143Z
 tags:
   - windows10
   - windows11
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 3. Press **Win** key to open the **Start Menu**, type **Command Prompt** in the search bar, and choose **Run as administrator** from the right pane.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. In the elevated Command Prompt window, type the following command and press Enter. Make sure to replace "**CAB location**" with the copied path.  
@@ -69,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 
  That's it. PowerShell will install the content of the CAB file on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Install Driver Updates From a CAB File
 
  If you have downloaded a driver update, which is a CAB file, you can install it using the following instructions:
@@ -89,28 +82,42 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 5. Right-click the device for which you have downloaded the driver update and choose **Update driver**.  
 ![Update driver option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/update-driver.jpg)
 6. Click **Browse my computer for drivers**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Browse my computer for drivers in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-my-computer-for-drivers.jpg)
 7. Click **Browse** and navigate to the location where you have extracted the CAB file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Select the folder that contains the extracted file and click **OK**.  
 ![OK option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ok-option.jpg)
 9. Click **Next**.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Next option in Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/next-option.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Device Manager will now install the driver update on your computer.
 
@@ -130,15 +137,21 @@ thumbnail: https://thmb.techidaily.com/fa651493e7721486825be5cb6becb6ac17b9f6602
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-how-do-i-use-adobe-premiere-to-upload-youtube-videos-for-2024/"><u>[Updated] How Do I Use Adobe Premiere To Upload YouTube Videos for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-elevate-images-choose-the-top-grid-software-now/"><u>2024 Approved Elevate Images Choose the Top Grid Software Now</u></a></li>
-<li><a href="https://windows11.techidaily.com/from-version-6-to-7-smoothly-upgrading-virtualbox-on-your-win11-device/"><u>From Version 6 to 7: Smoothly Upgrading VirtualBox on Your Win11 Device</u></a></li>
-<li><a href="https://fox-that.techidaily.com/getting-your-iphone-mic-back-to-working-order-a-comprehensive-fix/"><u>Getting Your iPhone Mic Back to Working Order - A Comprehensive Fix</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-install-covenant-on-kodi/"><u>How to Install Covenant on Kodi</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-snapping-windows-uac-alerts/"><u>How-To: Snapping Windows UAC Alerts</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-acknowledgement-roundup-free-and-paid-template-haven/"><u>In 2024, Acknowledgement Roundup Free & Paid Template Haven</u></a></li>
-<li><a href="https://common-error.techidaily.com/revamped-screen-achieved-full-compliance-with-interoperability-standards/"><u>Revamped Screen: Achieved Full Compliance with Interoperability Standards</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-unresponsive-programs-in-windows-os/"><u>Troubleshooting Unresponsive Programs in Windows OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/unveil-sd-card-windows-explorer-fix-guide/"><u>Unveil SD Card: Windows Explorer Fix Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-av1-vs-vp9-a-detailed-comparison/"><u>[New] 2024 Approved AV1 Vs. VP9 A Detailed Comparison</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-exclusive-catalogue-free-to-use-stock-media-sites/"><u>[New] Exclusive Catalogue Free-to-Use Stock Media Sites</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-aerial-imagery-crews-the-10-drones/"><u>2024 Approved Premium Aerial Imagery Crews The #10 Drones</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-srt-breakdown-core-concepts-and-applications/"><u>2024 Approved SRT Breakdown Core Concepts and Applications</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-complete-tutorial-for-professional-gopro-vlogs-for-2024/"><u>A Complete Tutorial for Professional GoPro Vlogs for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-diablos-first-epic-a-novices-primer/"><u>Decoding Diablo's First Epic: A Novice's Primer</u></a></li>
+<li><a href="https://windows11.techidaily.com/1719291887266-eliminating-obstacles-in-capturing-whole-screen-with-windows-snipping-tool/"><u>Eliminating Obstacles in Capturing Whole-Screen with Windows Snipping Tool</u></a></li>
+<li><a href="https://windows11.techidaily.com/establishing-safe-operating-temps-for-windows-devices/"><u>Establishing Safe Operating Temps for Windows Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-cod-black-ops-cold-war-error-80070057-comprehensive-troubleshooting-guide/"><u>Fixing Cod: Black Ops Cold War Error 80070057 - Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967193983-get-the-latest-creative-audigy-mb-audio-drivers-for-windows-10-free-downloads-available/"><u>Get the Latest Creative Audigy MB Audio Drivers for Windows 10 - Free Downloads Available!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-fixing-low-fps-issues-in-the-2021-formula-one-game-on-your-computer/"><u>Resolved: Fixing Low FPS Issues in the 2021 Formula One Game on Your Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-standard-account-access-a-windows-guide/"><u>Securing Standard Account Access: A Windows Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-activate-and-deactivate-window-icons-successfully/"><u>Steps to Activate and Deactivate Window Icons Successfully</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-commands-for-keyboard-in-winos/"><u>Tailored Commands for Keyboard in WinOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-mystery-of-mouse-controls-on-windows-11/"><u>Unlock the Mystery of Mouse Controls on Windows 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-windows-11-faces-a-slow-uptake-from-users/"><u>Why Windows 11 Faces a Slow Uptake From Users</u></a></li>
 </ul></div>
 
