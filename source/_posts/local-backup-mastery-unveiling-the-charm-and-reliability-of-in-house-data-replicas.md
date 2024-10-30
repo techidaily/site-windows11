@@ -1,7 +1,7 @@
 ---
 title: "Local Backup Mastery: Unveiling the Charm and Reliability of In-House Data Replicas"
-date: 2024-08-31T22:01:58.798Z
-updated: 2024-09-01T22:01:58.798Z
+date: 2024-10-26T17:05:06.535Z
+updated: 2024-10-30T16:04:35.000Z
 tags:
   - windows
 categories:
@@ -35,6 +35,13 @@ Lucas Gouveia / Justin Duino / How-To Geek | [FellowNeko](https://www.shuttersto
 
  Then there is the small matter of the eye-watering subscription prices. Google Drive charges more than $100 a year for the 2TB plan. iCloud is even more expensive at $130 a year. You can buy a 2TB SSD for less (more on that later.) If you cancel the plan or stop paying, they’ll just wipe your storage.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Local Backups Can Be More Convenient Than You Think
 
  Now consider the humble local backups. Storage devices are cheaper, have no recurring fees, give you actual unlimited storage, and are so much faster. With a local backup, you have absolute control over your data. You’ll have the peace of mind that no one can snoop around on your data.
@@ -48,8 +55,12 @@ Corbin Davenport/How-to Geek
  It all sounds awesome. But you might be thinking that local backups are too much of a hassle. You have to manually move files back and forth. Pretty soon it just becomes another chore that you have to deal with. Happily, local backups can also be quick and convenient with the right tools—that's the beauty of local backups.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  NAS
 
  There are Network-Attached Storage (NAS) devices that basically act as a private cloud for your home. They have built-in layers of redundancy to keep your data safe. You can access them through your local network or get remote access when you’re out and about.
@@ -57,27 +68,24 @@ Corbin Davenport/How-to Geek
  It’s a one-time cost, and you can share the NAS storage with your whole family. Alternatively, you could build your own NAS box for free using open-source software and an old laptop or PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  DAS
 
  If you only want to back up files from a single computer (say your workstation), try Direct-Attached Storage (DAS). All you need is an external hard drive and software like FreeFileSync, urBackup, or SyncThing. These apps make local backups a breeze.
 
  They’re designed to “mirror” folders. So if you have a folder called “Work” on your desktop. You’d connect an external drive to the computer and run one of these apps to mirror that onto the drive. So if the “Work” folder has 10 items, it’ll copy them all to the drive. When you add another item, it’ll only copy that eleventh file. You can also set the apps to sync and back up automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Effortlessly Create Local Backups
 
  This is how you can use FreeFileSync to effortlessly manage your local backups. To start, [download the FreeFileSync installer](https://freefilesync.org/download.php) from its official website.
 
 ![The official download page for FreeFileSync.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-012544.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
  Double-click the setup to launch the installer, accept the terms and conditions, and press “Next” a couple of times to finish the setup. Launch FreeFileSync from the desktop or the search box.
 
 Close 
@@ -86,9 +94,6 @@ Close
 
 ![Selecting source and backup directories on FreeFileSync.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-012807.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To mirror the folder onto the external drive, click the arrow button next to the green gear icon and select “Mirror," then click “Synchronize.” Confirm by pressing “Start.”
 
 ![Starting the synchronization on FreeFileSync.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-013145.png) 
@@ -98,8 +103,12 @@ Close
 ![Files synced successfully using FreeFileSync.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240626-013417.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Whenever you make changes to the folder being backed up, you can sync again to update the backup.
 
  If a folder has a lot of items, and you want to compare the backup and original versions, you don’t have to do that manually. You just press the “Compare” button, and it’ll show you a list of files that need to be synced.
@@ -136,8 +145,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +152,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-craft-your-channel-studio-or-beta-innovation-comparison/"><u>[New] In 2024, Craft Your Channel Studio or Beta Innovation Comparison</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-share-wisdom-4-proven-methods-to-tie-fb-stories/"><u>[New] Share Wisdom 4 Proven Methods to Tie FB Stories</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-top-apps-for-downloading-youtube-content/"><u>[Updated] In 2024, Top Apps for Downloading YouTube Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-get-videoproc-app-streamlined-video-editing-on-the-go/"><u>1. Get VideoProc App: Streamlined Video Editing on the Go</u></a></li>
+<li><a href="https://win-help.techidaily.com/acronis-true-image-vs-crucial2/"><u>Acronis True Image Vs. Crucial克隆：簡單解決2種錯誤方式</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-to-the-essentials-6-methods-of-boot-safe-mode-in-windows-11/"><u>Get to the Essentials: 6 Methods of Boot Safe Mode in Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-lava-blaze-2-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Lava Blaze 2 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-unwanted-audio-app-utilization-issue-on-windows/"><u>Overcoming Unwanted Audio App Utilization Issue on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalize-windows-appearance-with-popular-photographs/"><u>Personalize Windows' Appearance with Popular Photographs</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/reveal-the-sparkle-exploring-top-tier-gratis-disc-purifier-applications/"><u>Reveal the Sparkle: Exploring Top-Tier Gratis Disc Purifier Applications</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharge-steam-downloads-overcoming-frustrating-lulls/"><u>Supercharge Steam Downloads: Overcoming Frustrating Lulls</u></a></li>
+<li><a href="https://windows11.techidaily.com/unclogging-peak-time-gpt-service-in-windows/"><u>Unclogging Peak-Time GPT Service in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-gpu-driver-issues-in-win1011/"><u>Unraveling GPU Driver Issues in WIN10/11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-chatgpts-creativity-how-does-it-prevent-plagiarism/"><u>Unveiling ChatGPT's Creativity: How Does It Prevent Plagiarism?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unveiling-zooms-hidden-visual-treasures-with-filters/"><u>Unveiling Zoom's Hidden Visual Treasures with Filters</u></a></li>
+</ul></div>
 

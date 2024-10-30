@@ -1,7 +1,7 @@
 ---
 title: "Mastering Pictorial Data Representation: Embedding Pictures Into MS Excel Worksheets"
-date: 2024-08-31T22:04:35.828Z
-updated: 2024-09-01T22:04:35.828Z
+date: 2024-10-25T16:53:27.406Z
+updated: 2024-10-30T17:11:31.269Z
 tags:
   - excel
 categories:
@@ -38,26 +38,24 @@ Related: [How to Insert an Image in a Cell in Google Sheets](https://win-solutio
 
 ![Select where to insert the picture from](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/InsertPictureFrom-ExcelInsertPicture.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
  The picture will pop into your sheet at its original size. From there, you can drag to move it to a new spot or drag an edge or corner to resize it.
 
 ![Resize picture in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Resize-ExcelInsertPicture.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You have additional formatting options for your image as well. Select your picture and head to the Picture Format tab that displays.
 
  With tons of tools, you can do everything from [remove the background](https://win-dash.techidaily.com/efficient-printing-with-toshiba-free-driver-downloads-for-windows-users/) and change the contrast to add a border and make the edges glow.
 
 ![Picture Format tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/PictureFormatTab-ExcelInsertPicture.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Related: [How to Remove the Background From a Picture in Excel](https://win-dash.techidaily.com/efficient-printing-with-toshiba-free-driver-downloads-for-windows-users/) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Insert a Picture in a Cell
 
@@ -67,12 +65,16 @@ Related: [How to Remove the Background From a Picture in Excel](https://win-dash
 
 ![Picture Format tab Size section](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/PictureFormatTabSize-ExcelInsertPicture.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  You can also resize the cell if needed by dragging to [make the row or column bigger](https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-11-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/), depending on the image size and orientation.
 
 ![Resize column to resize cell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/ResizeColumn-ExcelInsertPicture.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can snap the picture to the cell border by holding Alt as you drag the image.
 
@@ -80,20 +82,27 @@ Related: [How to Remove the Background From a Picture in Excel](https://win-dash
 
 ![Select Format Picture](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FormatPicture-ExcelInsertPicture.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
  When the Format Picture sidebar opens, choose the Size & Properties tab and expand Properties. Mark the option for Move and Size with Cells.
 
 ![Mark Move and Size With Cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/MoveSizeWithCells-ExcelInsertPicture.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now if you [insert rows](https://some-tips.techidaily.com/in-2024-stream-side-stacking-pewdiepies-payday-portion/) or columns, [move the cell](https://instagram-clips.techidaily.com/new-in-2024-the-instagram-time-keeper-learning-to-rewind/), or [hide the row or column](https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-6-by-drfone-ios/), the image will move right along with its cell. Just keep in mind that if you resize the cell, the picture will resize with it.
 
 ![Inserted picture moves with cell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/MoveRowExcelInsertPicture.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to insert a picture as your sheet background instead, learn how to [print your Excel sheet with that background](https://article-posts.techidaily.com/new-the-essence-of-burst-in-gopro-filming-techniques/).
 
@@ -103,8 +112,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +119,24 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-invest-in-cinematic-success-top-ten-cameras-for-filmmakers/"><u>[New] In 2024, Invest in Cinematic Success Top Ten Cameras for Filmmakers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-nextgen-tv-including-the-best-local-channels-online-for-2024/"><u>[New] NextGen TV Including the Best Local Channels Online for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-enhancing-youtube-visibility-with-tubebuddy/"><u>[Updated] Enhancing YouTube Visibility with TubeBuddy</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-comprehensive-guide-record-webcam-in-hd-via-vlc/"><u>[Updated] In 2024, Comprehensive Guide Record Webcam in HD via VLC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-unveil-exclusive-video-snippets-all-at-zero-cost/"><u>2024 Approved Unveil Exclusive Video Snippets – All at Zero Cost!</u></a></li>
+<li><a href="https://windows11.techidaily.com/expanding-external-devices-in-explorers-side/"><u>Expanding External Devices in Explorer's Side</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-enable-or-disable-in-hand-typing-windows-10/"><u>How to Enable or Disable In-Hand Typing Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/identify-and-secure-open-tcpip-in-windows/"><u>Identify and Secure Open TCP/IP in Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-the-art-of-stabilizing-your-iphone-apps-10-proven-fixes-for-common-crashes/"><u>Master the Art of Stabilizing Your iPhone Apps: 10 Proven Fixes for Common Crashes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/maximizing-efficiency-discover-the-leading-speech-to-text-apps-for-macos/"><u>Maximizing Efficiency Discover the Leading Speech-to-Text Apps for MacOS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/nvidia-geforce-gtx-980-ti-graphics-card-drivers-free-download/"><u>Nvidia GeForce GTX 980 Ti Graphics Card Drivers - Free Download</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-windows-projection-failure-issue/"><u>Overcoming Windows Projection Failure Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/regaining-power-a-windows-guide-to-net-repair-max-156/"><u>Regaining Power: A Windows Guide to .NET Repair (Max 156)</u></a></li>
+<li><a href="https://windows11.techidaily.com/simplified-guide-for-converting-bat-files-into-exes/"><u>Simplified Guide for Converting .bat Files Into EXEs</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-swiftly-eradicating-windows-steams-e84-error/"><u>Strategies for Swiftly Eradicating Windows Steam's E84 Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-8-personalization-hacks-for-windows-1011-via-bubbleui/"><u>Top 8 Personalization Hacks for Windows 10/11 via BubbleUI</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/transform-ideas-into-reality-get-movie-maker-for-w11-users-for-2024/"><u>Transform Ideas Into Reality Get Movie Maker for W11 Users for 2024</u></a></li>
+</ul></div>
 

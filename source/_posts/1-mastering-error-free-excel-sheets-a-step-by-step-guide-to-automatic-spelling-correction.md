@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering Error-Free Excel Sheets: A Step-by-Step Guide to Automatic Spelling Correction"
-date: 2024-08-31T22:03:47.655Z
-updated: 2024-09-01T22:03:47.655Z
+date: 2024-10-28T16:24:30.282Z
+updated: 2024-10-30T16:32:00.221Z
 tags:
   - excel
 categories:
@@ -20,11 +20,25 @@ thumbnail: https://thmb.techidaily.com/52ee970294742b32cbcdd126a6e2cb23605fc3303
 
  Unfortunately, Excel does not check your spelling as you type (by underlining them in red) like Word does. You are only notified that a word is spelled wrong when you run the spell check.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Spell Check the Current Worksheet
 
  To spell check a worksheet, click the tab at the bottom of the screen for the worksheet on which you want to run the spell check.
 
 ![00a_clicking_worksheet_tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/00a_clicking_worksheet_tab.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you run the spell check, it starts from whichever cell is currently selected, so, if you want to start the spell check at the "beginning" of the worksheet, put the cursor on cell "A1" before starting.
 
@@ -50,6 +64,13 @@ Related: [How to Assign Keyboard Shortcuts to Symbols in Excel 2013](https://voi
 
 ![04_spell_check_complete](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/04_spell_check_complete.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Notice that the word "Refridgerator" on the "Invoice" worksheet was not found in the spell check of this worksheet. That's because it's the result of a [formula](https://extra-tips.techidaily.com/integrate-sound-and-sight-web-studio/) in that cell that grabbed the word from a cell on the "Product Database" worksheet based on the "Item Code" entered on the "Invoice" worksheet. To correct "Refridgerator", we need to run a spell check on the "Product Database" worksheet, which we will do in the next section.
 
  Remember when we said you should select the first cell of a worksheet ("A1") before starting a spell check? If you forgot, and started the spell check from any other cell than "A1", you will be asked at this point whether you want to continue checking the spelling at the beginning of the worksheet before the spell check completes. Click "Yes" to check the remainder of the worksheet that has not been checked yet and then you will see the "Spell check complete" dialog box pictured above.
@@ -57,8 +78,12 @@ Related: [How to Assign Keyboard Shortcuts to Symbols in Excel 2013](https://voi
 ![04a_continue_checking_from_beginning](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/04a_continue_checking_from_beginning.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Spell Check All Worksheets in a Workbook at Once
 
  By default, Excel spell checks your current worksheet. But what if you have a lot of worksheets in your workbook and you want to check them all? No worries. You can easily do that in one go.
@@ -69,16 +94,10 @@ Related: [How to Assign Keyboard Shortcuts to Symbols in Excel 2013](https://voi
 
 ![05_selecting_select_all_sheets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/05_selecting_select_all_sheets.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  Notice in the above image that the currently selected worksheet tab displays in white and the inactive tab displays in gray. When all worksheet tabs are selected, they all display with a white background, as shown below.
 
 ![06_sheets_selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/06_sheets_selected.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now when you start the spell check, it will check all the worksheets in the workbook. In our case, when the spell check gets to the second worksheet, or the "Product Database" worksheet, it finds a spelling error. To correct the error, we select the correct word in the "Suggestions" list box and click "Change". As we mentioned earlier in this article, if we think we misspelled the same word the same way in other cells in our workbook, we can click "Change All" to correct them all at once with the same corrected word.
 
  Remember, you can also type the correct word in the "Not in Dictionary" edit box and click "Change" to correct the error.
@@ -86,27 +105,20 @@ Related: [How to Assign Keyboard Shortcuts to Symbols in Excel 2013](https://voi
 ![07_clicking_change](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/07_clicking_change.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  When the spell check is complete, and the "Spell check complete" dialog box displays, you may notice that the last corrected error doesn't seem to have been corrected in the cell on the worksheet.
 
 ![08_spell_check_complete_both_sheets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/08_spell_check_complete_both_sheets.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Don't worry. When you click "OK" to close the dialog box, the corrected word displays in the cell.
 
 ![09_formula_result_changed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/09_formula_result_changed.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 Related: [How to Limit Spell Checking to the Main Dictionary Only in Word](https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-realme-gt-5-phones-by-drfone-android/) 
 
  You can [use custom dictionaries](https://extra-support.techidaily.com/new-pixel-perfection-in-image-integration/) to add words you use often to the dictionary, that are not already in the default built-in dictionary, as well as delete words you added using the "Add to Dictionary" button on the "Spelling" dialog box. You can even create additional custom dictionaries. The [spell check can also be limited to use of the main dictionary only](https://facebook-videos.techidaily.com/2024-approved-extract-facebook-videos-for-mobile-and-desktop-easy/), even if there are custom dictionaries available.
@@ -117,8 +129,6 @@ Related: [How to Limit Spell Checking to the Main Dictionary Only in Word](https
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +136,20 @@ Related: [How to Limit Spell Checking to the Main Dictionary Only in Word](https
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-visual-storytelling-in-business-marketing/"><u>[New] 2024 Approved Visual Storytelling in Business Marketing</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-bridging-social-channels-the-journey-of-video-content-to-whatsapp/"><u>[New] Bridging Social Channels The Journey of Video Content to WhatsApp</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-unveiling-the-art-of-night-sky-captures-on-iphone/"><u>[New] In 2024, Unveiling the Art of Night Sky Captures on iPhone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-newbie-to-pro-your-complete-guide-to-creator-studio/"><u>[Updated] 2024 Approved From Newbie to Pro Your Complete Guide to Creator Studio</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-stepwise-process-enhancing-document-editing-via-googles-speech-to-text/"><u>2024 Approved Stepwise Process Enhancing Document Editing via Google's Speech-to-Text</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-your-pitches-tips-on-creating-persuasive-proposals-with-the-help-of-chaturbate/"><u>Ace Your Pitches: Tips on Creating Persuasive Proposals with the Help of Chaturbate</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-poco-x5-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Poco X5 Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/locating-open-tcp-ports-in-windows-os/"><u>Locating Open TCP Ports in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-how-to-correct-windows-11s-keyboard-type-trouble-code-0x80049dd3/"><u>Quick Guide: How to Correct Windows 11'S Keyboard Type Trouble (Code: 0X80049DD3)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-win11s-troublesome-update-error-0x800705b4-a-comprehensive-guide/"><u>Resolving Win11's Troublesome Update Error (0X800705B4) - A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-resurrect-your-disconnected-controller/"><u>Steps to Resurrect Your Disconnected Controller</u></a></li>
+<li><a href="https://windows11.techidaily.com/visual-illusion-blending-image-and-archive-data-without-notice-win1011/"><u>Visual Illusion: Blending Image and Archive Data without Notice WIN10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-offline-the-essential-manual/"><u>Win11 Offline: The Essential Manual</u></a></li>
+</ul></div>
 

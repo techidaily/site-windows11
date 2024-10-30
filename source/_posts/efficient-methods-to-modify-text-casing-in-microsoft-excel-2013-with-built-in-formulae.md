@@ -1,7 +1,7 @@
 ---
 title: Efficient Methods to Modify Text Casing in Microsoft Excel 2013 with Built-In Formulae
-date: 2024-08-31T22:03:09.381Z
-updated: 2024-09-01T22:03:09.381Z
+date: 2024-10-26T16:37:16.358Z
+updated: 2024-10-30T17:01:27.347Z
 tags:
   - excel
 categories:
@@ -75,8 +75,6 @@ You may find you need to change multiple cells from one case to another in Excel
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,8 +82,29 @@ You may find you need to change multiple cells from one case to another in Excel
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-unleash-creativity-with-these-8-mirrorless-cams-for-video/"><u>[New] 2024 Approved Unleash Creativity with These 8 Mirrorless Cams For Video</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nnovate-your-channels-closing-scenes-free-end-screens-for-2024/"><u>[New] Innovate Your Channels' Closing Scenes Free End Screens for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-capturing-imagination-best-shot-tips/"><u>[New] The Art of Capturing Imagination Best Shot Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-break-free-from-the-norms-crafting-your-own-streamer-identity/"><u>[Updated] 2024 Approved Break Free From The Norms Crafting Your Own Streamer Identity</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-mastering-the-art-of-uploading-videos-into-personalized-playlists/"><u>[Updated] 2024 Approved Mastering the Art of Uploading Videos Into Personalized Playlists</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-top-full-screen-recorders-uncovered-a-compreayers-picks/"><u>[Updated] 2024 Approved Top Full-Screen Recorders Uncovered A Compreayer's Picks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mac-screen-casting-and-microphone-integration/"><u>2024 Approved Mac Screen Casting and Microphone Integration</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-sleep-issues-on-windows-11-keys-and-mice/"><u>Fixing Sleep Issues on Windows 11: Keys & Mice</u></a></li>
+<li><a href="https://windows11.techidaily.com/fortify-your-files-embrace-weekly-windows-data-saves/"><u>Fortify Your Files: Embrace Weekly Windows Data Saves</u></a></li>
+<li><a href="https://windows11.techidaily.com/gameplay-improvement-less-lag-more-frames-in-roblox/"><u>Gameplay Improvement: Less Lag, More Frames in Roblox</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-nokia-c12-pro-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Nokia C12 Pro PC | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/prodigious-windows-11-tools-the-ultimate-7-productivity-list/"><u>Prodigious Windows 11 Tools: The Ultimate 7 Productivity List</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-for-reestablishing-functionality-after-failed-ccleaner-on-windows-1011/"><u>Strategies for Reestablishing Functionality After Failed CCleaner on Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailoring-the-start-page-for-task-manager-windows-11/"><u>Tailoring the Start Page for Task Manager (Windows 11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-ultimate-gameplay-with-dxvk-in-windows-environment/"><u>Unlocking Ultimate Gameplay with DXVK in Windows Environment</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+

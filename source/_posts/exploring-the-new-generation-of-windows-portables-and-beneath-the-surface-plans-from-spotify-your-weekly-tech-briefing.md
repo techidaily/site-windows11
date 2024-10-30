@@ -1,7 +1,7 @@
 ---
 title: Exploring the New Generation of Windows Portables and Beneath-the-Surface Plans From Spotify – Your Weekly Tech Briefing
-date: 2024-08-31T22:02:40.434Z
-updated: 2024-09-01T22:02:40.434Z
+date: 2024-10-23T16:01:26.031Z
+updated: 2024-10-30T16:51:16.624Z
 tags:
   - windows
 categories:
@@ -20,9 +20,12 @@ There was a whole lot of tech news this week, from the arrival of Copilot+ Windo
  Spotify Basic is $1 cheaper per month for individuals, with one missing feature.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### [Android 15 Beta 3 Has Arrived](https://article-knowledge.techidaily.com/new-2024-approved-unveiling-cropped-lengths-imovies-automatic-trimming-logic/) 
 
  We're getting close to the final release of Android 15, and Google has now released the third beta for eager testers and app developers.
@@ -31,18 +34,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  This year's big Windows 11 update is on the first wave of Copilot+ PCs, but other PCs will have to wait a while longer.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### [Vivaldi’s Email Client Is Now Better Than Ever](https://extra-resources.techidaily.com/epic-narrative-institute-premier-choices/) 
 
  If you don't like the new Outlook, you might want to give Vivaldi’s updated email client a try.
 
 ![Screenshot of Vivaldi Mail](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1920w_mail_preview.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Vivaldi
 
 ### [Lenovo’s New Tablet Is All About All About That Bass](https://fox-glue.techidaily.com/updated-2024-approved-legacy-in-pixels-iphone-x-memories-photography/) 
@@ -50,25 +47,37 @@ Vivaldi
  The Lenovo Tab Plus has eight integrated speakers.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### [Proton Drive Can Now Replace Google Photos on iPhone](https://win-amazing.techidaily.com/1722970879070-get-the-latest-realtek-pci-express-fe-chipset-drivers-on-windows-10-no-cost/) 
 
  Automated photo and video backups with full end-to-end encryption is coming to the Proton Drive app for iPhone and iPad.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### [Google is Selling a LEGO-Like Chrome Dinosaur Set](https://techno-recovery.techidaily.com/yahoo-mail-alert-what-to-do-when-your-inbox-stops-populating-emails/) 
 
  The pixelated dinosaur from Chrome’s offline error page now has its very own LEGO-like brick set. You can get it from Google’s online merch store.
 
 ![Chrome Dino set](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/dino.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 Google / Corbin Davenport
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Microsoft Is Serious About Gaming on ARM Windows Laptops](https://some-knowledge.techidaily.com/updated-humorhatchery-app/) 
 
@@ -88,8 +97,6 @@ Google / Corbin Davenport
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +104,26 @@ Google / Corbin Davenport
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-earnings-on-youtube-a-monthly-perspective/"><u>[New] 2024 Approved Earnings on YouTube A Monthly Perspective?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rowth-hacking-for-youtube-stars-maximizing-fans-for-2024/"><u>[New] Growth Hacking for YouTube Stars Maximizing Fans for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-navigating-chromes-pip-feature-across-devices/"><u>[New] In 2024, Navigating Chrome's PIP Feature Across Devices</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unveiling-the-power-of-social-media-video-marketing-strategies/"><u>[New] In 2024, Unveiling the Power of Social Media Video Marketing Strategies</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-effortless-screen-captures-for-pc-users-free-guide/"><u>[Updated] In 2024, Effortless Screen Captures for PC Users (Free Guide)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/highlight-effects-assessment-essential-or-excessive-in-2024/"><u>Highlight Effects Assessment Essential or Excessive, In 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-a-compre-market-leaders-guide-to-the-most-effective-fb-video-ad-approaches/"><u>In 2024, A Compre Market Leader's Guide to the Most Effective FB Video Ad Approaches</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-launch-your-brands-professional-chapter-with-instagram/"><u>In 2024, Launch Your Brand's Professional Chapter with Instagram</u></a></li>
+<li><a href="https://windows11.techidaily.com/manual-antivirus-checks-finding-unseen-threats/"><u>Manual Antivirus Checks: Finding Unseen Threats</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-desktopmobile-adjust-youtube-video-pace-for-2024/"><u>Mastering Desktop/Mobile Adjust YouTube Video Pace for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-and-enhance-the-ultimate-guide-to-windows-11s-start-screen/"><u>Optimize and Enhance: The Ultimate Guide to Windows 11’S Start Screen</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/optimizing-film-length-for-instagram-on-mac/"><u>Optimizing Film Length for Instagram on Mac</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-a-slowdown-reviving-stalled-torrents/"><u>Overcoming a Slowdown: Reviving Stalled Torrents</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-access-keys-the-artists-best-friend-in-3d-paint/"><u>Quick-Access Keys: The Artist's Best Friend in 3D Paint</u></a></li>
+<li><a href="https://windows11.techidaily.com/resurrecting-dull-legacy-boot-options/"><u>Resurrecting Dull Legacy Boot Options</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-cut-down-on-ram-usage-by-platforms-connecting-devices/"><u>Strategies to Cut Down on RAM Usage by Platforms Connecting Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-blueprint-for-locating-system32-in-win11/"><u>The Blueprint for Locating System32 in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-windows-11-by-mastering-component-inclusion/"><u>Unlock the Full Potential of Windows 11 by Mastering Component Inclusion</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-11-widget-features-quickly/"><u>Unlocking Windows 11 Widget Features Quickly</u></a></li>
+</ul></div>
 

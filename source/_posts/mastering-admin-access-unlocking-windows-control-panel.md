@@ -1,7 +1,7 @@
 ---
 title: "Mastering Admin Access: Unlocking Windows Control Panel"
-date: 2024-10-19T16:13:08.211Z
-updated: 2024-10-24T16:43:36.898Z
+date: 2024-10-25T16:57:16.678Z
+updated: 2024-10-30T16:24:03.862Z
 tags:
   - windows10
   - windows11
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
  This will open up the Control Panel with elevated privileges so that you can make changes effectively and safely. And while we're at it, did you know there are many[ways to open the Control Panel on Windows](https://www.makeuseof.com/windows-11-open-control-panel/) ?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Open the Control Panel as an Administrator With a Desktop Shortcut
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 C:\WINDOWS\system32\control.exe
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. You now need to name your shortcut (Control Panel) and click**Finish** . Once you’ve created the shortcut, it will be placed on your desktop.  
@@ -62,10 +62,10 @@ C:\WINDOWS\system32\control.exe
 4. Next, right-click on the shortcut and select**Properties** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. On the Shortcut tab, click on**Advanced** .
@@ -75,10 +75,10 @@ C:\WINDOWS\system32\control.exe
  Now, whenever you need to access an elevated Control Panel, simply double-click on it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get the Most Out of Elevated Control Panel
@@ -100,21 +100,20 @@ C:\WINDOWS\system32\control.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-essential-screencapture-strategies-for-effective-image-capturing/"><u>[Updated] In 2024, Essential ScreenCapture Strategies for Effective Image Capturing</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-v30-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo V30 | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-deep-dive-into-winning-windows-captures-with-printscreen-or-snip-tool/"><u>A Deep Dive Into Winning Windows Captures with Printscreen or Snip Tool</u></a></li>
-<li><a href="https://windows11.techidaily.com/accessing-windows-11s-screen-capture-shortcut/"><u>Accessing Windows 11'S Screen Capture Shortcut</u></a></li>
-<li><a href="https://windows11.techidaily.com/beat-windows-timer-troubles-reclaim-control/"><u>Beat Windows Timer Troubles, Reclaim Control</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypass-the-troubleshooter-effective-fixes-in-vista-and-7/"><u>Bypass the Troubleshooter: Effective Fixes in Vista & 7</u></a></li>
-<li><a href="https://windows11.techidaily.com/creating-personalized-music-cds-with-mp3s-a-compreenasive-guide-for-windows-users-imgburn/"><u>Creating Personalized Music CDs with Mp3s: A Compreenasive Guide for Windows Users (ImgBurn)</u></a></li>
-<li><a href="https://windows11.techidaily.com/demystifying-windows-aggregatehostexe-its-functionality-and-dangers/"><u>Demystifying Windows' AggregateHost.exe: Its Functionality & Dangers</u></a></li>
-<li><a href="https://windows11.techidaily.com/discover-ways-to-free-disk-space-without-deleting-windows-11-files-max-156-chars/"><u>Discover Ways to Free Disk Space Without Deleting Windows 11 Files (Max 156 Chars)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/fixing-missing-dsound-dll-files-easy-methods-for-error-resolution/"><u>Fixing Missing dSound DLL Files: Easy Methods for Error Resolution</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lg-launches-mass-produced-oled-screen-a-triumph-over-competitors-spotted-in-new-dell-xps-13-models/"><u>LG Launches Mass-Produced OLED Screen: A Triumph Over Competitors, Spotted in New Dell XPS 13 Models</u></a></li>
-<li><a href="https://games-able.techidaily.com/new-horizons-in-gaming-navigating-a-post-adobe-world/"><u>New Horizons in Gaming: Navigating a Post-Adobe World</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-for-instant-repair-of-valorant-graphics-driver-error/"><u>Solution for Instant Repair of 'Valorant Graphics Driver Error'</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-ultimate-lg-screen-chronicles-a-complete-review-of-4k-quality/"><u>The Ultimate LG Screen Chronicles A Complete Review of 4K Quality</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-motorola-g54-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Motorola G54 5G without backup.</u></a></li>
-<li><a href="https://common-error.techidaily.com/why-cant-teredo-meet-qualification-standards/"><u>Why Can't Teredo Meet Qualification Standards?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-establishing-an-enthralling-facecover-for-2024/"><u>[Updated] Establishing an Enthralling FACEcover for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-pioneering-cinematic-experiences-with-vr-tech-for-2024/"><u>[Updated] Pioneering Cinematic Experiences with VR Tech for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-snap-into-hilarity-meme-creation-made-simple/"><u>[Updated] Snap Into Hilarity Meme Creation Made Simple</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-infinix-note-30i-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Infinix Note 30i Phone? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/fuchsia-fiasco-solutions-to-reclaiming-a-standard-desktop-display/"><u>Fuchsia Fiasco? Solutions to Reclaiming a Standard Desktop Display</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-breaking-new-ground-installation-of-windows-11/"><u>In 2024, Breaking New Ground Installation of Windows 11</u></a></li>
+<li><a href="https://app-tips.techidaily.com/intrusion-detection-systems/"><u>Intrusion Detection Systems</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-merge-videos-without-watermarks-7-top-picks/"><u>New In 2024, Merge Videos Without Watermarks 7 Top Picks</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-windows-performance-by-curbing-tiworkerexe-resources/"><u>Optimizing Windows Performance by Curbing TiWorker.exe Resources</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/pinnacle-of-picture-perfection-10-screens/"><u>Pinnacle of Picture Perfection – #10 Screens</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-elusive-registry-application/"><u>Quick Fixes for Elusive 'Registry' Application</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaim-your-typing-efficiency-with-9-proven-fixes-for-broken-windows-shortcut-commands/"><u>Reclaim Your Typing Efficiency with 9 Proven Fixes for Broken Window's Shortcut Commands</u></a></li>
+<li><a href="https://windows11.techidaily.com/reconciling-excel-and-windows-notepad-compatibility/"><u>Reconciling: Excel and Windows Notepad Compatibility</u></a></li>
+<li><a href="https://windows11.techidaily.com/shield-your-keys-keep-start-menu-undetected/"><u>Shield Your Keys: Keep Start Menu Undetected</u></a></li>
+<li><a href="https://windows11.techidaily.com/stop-x-on-mouse-in-excel-quick-fix-guide-for-windows-users/"><u>Stop X on Mouse in Excel: Quick Fix Guide for Windows Users</u></a></li>
 </ul></div>
 

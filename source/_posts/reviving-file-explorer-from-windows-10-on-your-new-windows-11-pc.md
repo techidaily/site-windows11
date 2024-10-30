@@ -1,7 +1,7 @@
 ---
 title: Reviving File Explorer From Windows 10 on Your New Windows 11 PC
-date: 2024-08-31T22:02:06.390Z
-updated: 2024-09-01T22:02:06.390Z
+date: 2024-10-25T17:09:51.871Z
+updated: 2024-10-30T16:34:46.999Z
 tags:
   - windows
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Using StartAllBack](https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y17s-devices-drfone-by-drfone-virtual/)
 
  With Windows 11's minimal File Explorer design, Microsoft sacrificed a lot of useful features found in the old Windows 10 ribbon-style File Explorer. There are some ways you can still use that old File Explorer inside Windows 11.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Access the Old File Explorer from Control Panel
 
@@ -46,8 +53,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Downloading ExplorerPatcher setup file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/downloading-explorerpatcher-setup-file.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Installation is straightforward. Open the setup file and it will be installed automatically. Since there's no GUI installer involved, the only way to know it was installed successfully is by noticing the change in the elements of your Taskbar.
 
 ![Windows 10 Taskbar in Windows 11 using ExplorerPatcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-10-taskbar-in-windows-11-using-explorerpatcher.png) 
@@ -61,8 +72,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Changing to Windows 10 Ribbon using ExplorerPatcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/changing-to-windows-10-ribbon-using-explorerpatcher.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Open File Explorer, and you'll discover it has the Windows 10 Ribbon instead of the Windows 11 command bar.
 
 ![Windows 10 File Explorer in Windows 11 using ExplorerPatcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-10-file-explorer-in-windows-11-using-explorerpatcher.png) 
@@ -71,25 +86,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An instance of ExplorerPatcher update settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/explorerpatcher-updates.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To uninstall the app, open the app and go to "Settings And Uninstall." Then click "Uninstall ExplorerPatcher."
 
 ![Uninstalling ExplorerPatcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/uninstalling-explorerpatcher.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  When you see the uninstalling prompt, press "Yes." If you'd like to learn more about what you can do with ExplorerPatcher, check out [the official wiki](https://github.com/valinet/ExplorerPatcher/wiki/All-features).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Using StartAllBack
 
  Third-party tools that modify the user interface like this often break with updates to Windows. These are cosmetic changes, and they won't damage your PC, but it might mean you have to uninstall the modification until it is patched to handle the latest Windows release. You shouldn't use it on a PC you rely on for daily work.
@@ -98,16 +107,10 @@ No advertising on the website.
 
 ![Downloading StartAllBack from the official website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/downloading-startallback.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  During installation, you'll be asked to install it for either the current user or all users. You also have the option to turn automatic updates on and off. For this guide, I'll only install it for the current user.
 
 ![Installing StartAllBack on Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/installing-startallback-on-windows-11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After that, it will be automatically installed, and you'll immediately notice your Taskbar change. The StartAllBack configuration window will also pop up. Go to "Explorer," then, if it's not chosen by default, choose "Win10 Ribbon UI" under Choose Explorer Style.
 
 ![Changing to Windows 10 Ribbon using StartAllBack](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/changing-to-windows-10-ribbon-using-startallback.png) 
@@ -116,9 +119,23 @@ No advertising on the website.
 
 ![Windows 10 File Explorer in Windows 11 using StartAllBack](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-10-file-explorer-in-windows-11-using-startallback.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You may notice that the default Windows 10 File Explorer in StartAllBack isn't 100% faithful. You can play with the different settings to make it look exactly like Windows 10\. If you'd like to access StartAllBack later, right-click the Taskbar and click on "Properties."
 
 ![Accessing StartAllBack from the Windows Taskbar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/accessing-startallback-from-the-windows-taskbar.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can uninstall StartAllBack from the Control Panel or use the [Winget package manager](https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-iphone-xs-by-drfone-ios/).
 
@@ -132,8 +149,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +156,19 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-comprehensively-understanding-iphones-recording-feature-for-2024/"><u>[New] Comprehensively Understanding iPhone's Recording Feature for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-content-strategy-after-the-facebook-revamp/"><u>[New] Mastering Content Strategy After the Facebook Revamp</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-power-of-precision-crafting-effective-video-titles/"><u>[New] The Power of Precision Crafting Effective Video Titles</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/get-your-data-fast-onedrive-without-web-connection/"><u>Get Your Data Fast: OneDrive, Without Web Connection</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-mend-the-dxgi-error-in-win-11-os/"><u>How to Mend the DXGI Error in Win 11 OS</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-nokia-130-music-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Circle Everything You Need to Know On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211221703--lazy-witchcraft-for-crazy-shtty-days/"><u>Lazy Witchcraft for Crazy, Sh*tty Days | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-windows-elevated-command-window/"><u>Mastery Over Windows: Elevated Command Window</u></a></li>
+<li><a href="https://windows11.techidaily.com/reducing-ram-burden-in-cross-device-service-platforms-on-windows/"><u>Reducing RAM Burden in Cross-Device Service Platforms on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-audacitys-paudio-error-on-w10w11-systems/"><u>Resolving Audacity's PAudio Error on W10/W11 Systems</u></a></li>
+</ul></div>
 

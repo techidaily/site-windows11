@@ -1,7 +1,7 @@
 ---
 title: "Unleash the Potential of Local AI-Driven Imagery Creation: The Ultimate Windows Solution"
-date: 2024-08-31T22:02:20.245Z
-updated: 2024-09-01T22:02:20.245Z
+date: 2024-10-24T16:09:05.829Z
+updated: 2024-10-30T16:50:28.501Z
 tags:
   - windows
 categories:
@@ -17,7 +17,27 @@ thumbnail: https://thmb.techidaily.com/12f126cae006dddf10c1360de286a92e906c5d739
 * [How to Set Up Stable Diffusion Image Generation on Windows](https://youtube-video-recordings.techidaily.com/tackling-social-media-platforms-an-in-depth-look-at-igtv-and-youtube/)
 * [AI Is a Whole New Set of Tools for Fun, Learning, and Productivity!](https://hardware-updates.techidaily.com/enhance-your-gaming-experience-the-apex-spectrum-by-maingear-now-with-dazzling-rgb-and-efficient-liquid-cooling-technology/)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -33,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/12f126cae006dddf10c1360de286a92e906c5d739
 
  Local image generation running on your own Windows computer is free (aside from the electricity cost), and comes with no restrictions. You can experiment with any image prompt you can think of, and use community-made models to create unique content. It's a fun introduction to the emerging AI space, and can also help you develop other programming and IT skills.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ##  How to Set Up Stable Diffusion Image Generation on Windows
 
 [Fooocus](https://github.com/lllyasviel/Fooocus "https://github.com/lllyasviel/Fooocus") is an image generation program built using Stable Diffusion. It's 100% free and open-source, runs offline, and provides an out-of-the box AI image generator that "just works" — once you've got it up and running, you can just start prompting it with your ideas and get (almost) immediate results.
@@ -44,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/12f126cae006dddf10c1360de286a92e906c5d739
 
  It's worth noting that these steps also work on Linux. You can skip the WSL-specific steps below and just install Docker Desktop and use the Linux terminal instead of the Windows Terminal app. If you're a MacOS user, check out [DiffusionBee](https://on-screen-recording.techidaily.com/updated-premier-moba-experiences-on-your-android-device/), which provides similar, streamlined image generation with Stable Diffusion wrapped in its own app.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ###  Step 1: Install Docker Desktop and Windows Terminal
 
 [Docker](https://vp-tips.techidaily.com/new-ultimate-auditory-interface-win-for-2024/) is software that lets you run 'containers', which are isolated environments that can hold all the dependencies and moving parts for a piece of software. They're a bit like a virtual machine, but have less overhead. To install Docker, [download and install Docker Desktop for Windows](https://www.docker.com/products/docker-desktop/ "https://www.docker.com/products/docker-desktop/").
@@ -59,11 +73,15 @@ thumbnail: https://thmb.techidaily.com/12f126cae006dddf10c1360de286a92e906c5d739
 
 ![The location of the 'Download ZIP' button in GitHub](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fooocus-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the .zip file has finished downloading, [extract it into its own folder](https://video-screen-grab.techidaily.com/updated-in-2024-essential-screen-capture-software-top-picks-ranked/), and open the folder containing the unzipped Fooocus files.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ###  Step 3: Launch Fooocus
 
  Next, right-click on an empty spot in the Fooocus directory, and click "Open in Terminal". This will open a [Powershell](https://techtrends.techidaily.com/what-are-the-stages-in-a-game-of-royal-match/) terminal window.
@@ -71,9 +89,12 @@ thumbnail: https://thmb.techidaily.com/12f126cae006dddf10c1360de286a92e906c5d739
 ![How to find the 'Open in Terminal' button in the Windows Explorer context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fooocus-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Make sure Docker Desktop is running, and then type the following docker command:
 
 docker compose up -d
@@ -86,15 +107,6 @@ docker compose up -d
 
 ![Running 'docker compose' in Powershell using the Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fooocus-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  If you haven't run Fooocus with Docker before, it will automatically build the Docker application based on the Fooocus code in the directory. This can take quite a while on some computers, so be patient and grab a coffee (or take a long lunch) while you wait.
 
  When it's done, you'll see that the Fooocus application has been created and started.
@@ -105,10 +117,14 @@ docker compose up -d
 
 ![Docker Desktop showing a running container](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fooocus-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  From Docker Desktop, you can stop and start Fooocus (without having to use the terminal), or delete the container and all its data.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Step 4: Generate Some Images!
 
@@ -122,14 +138,17 @@ docker compose up -d
 
 ![The result of a Fooocus Stable Diffusion image prompt, showing a generated man in a suit, riding a surfboard](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fooocus-7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you want to tweak the behavior or try out different styles, or look at the history of images you've generated, click the "Advanced" checkbox. Fooocus comes with a lot of options, and you can even use community-built models from sites like [CivitAI](https://education.civitai.com/generative-ai-art-with-fooocus-quickstart-guide/ "https://education.civitai.com/generative-ai-art-with-fooocus-quickstart-guide/").
 
  There is some NSFW content on CivitAI.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ##  AI Is a Whole New Set of Tools for Fun, Learning, and Productivity!
 
  Generative AI can make text, images, and videos based on your requests. It's a whole new set of tools that you can use for fun, learning, and productivity. It's also a cool way to get started with programming, for example, by [using Stable Diffusion with Python to generate images](https://some-skills.techidaily.com/tag-with-your-favorite-show-podcast-on-ig-for-2024/).
@@ -140,8 +159,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +166,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-discovering-youtube-studio-where-ideas-become-engaging-content/"><u>[New] Discovering YouTube Studio Where Ideas Become Engaging Content</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-peering-through-hololens-a-peek-at-next-gen-interaction/"><u>[Updated] 2024 Approved Peering Through HoloLens A Peek at Next-Gen Interaction</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-elevate-your-social-feed-with-superior-twit-hd-vids/"><u>[Updated] Elevate Your Social Feed with Superior Twit HD Vids</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/wmvmp45/"><u>【使用方法簡単！】WMVとMP4変換サイトトップ5選芞: コツを学ぶべき最高のサービスリスト</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-humor-image-processor/"><u>Elite Humor Image Processor</u></a></li>
+<li><a href="https://windows11.techidaily.com/immediate-resolution-for-windows-network-proxy-issue/"><u>Immediate Resolution for Windows Network Proxy Issue</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-cutting-edge-tactics-for-sharing-video-content-from-twitter-and-whatsapp/"><u>In 2024, Cutting-Edge Tactics for Sharing Video Content From Twitter and WhatsApp</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-display-glitches-in-windows-os/"><u>Overcoming Display Glitches in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-tips-for-repairing-video-playback-errors/"><u>Quick Tips for Repairing Video Playback Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-resolving-iphone-photos-import-error-in-windows-pcs/"><u>Quick-Fix: Resolving iPhone Photos Import Error in Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionize-your-ad-targeting-strategies-with-innovative-insights-from-cookiebot/"><u>Revolutionize Your Ad Targeting Strategies with Innovative Insights From Cookiebot</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-installation-of-intel-wi-fi-adapters-for-gaming/"><u>Seamless Installation of Intel Wi-Fi Adapters for Gaming</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-instructions-reactivate-your-computers-sound-settings-on-windows/"><u>Step-by-Step Instructions: Reactivate Your Computer's Sound Settings on Windows 지원 없음</u></a></li>
+<li><a href="https://windows11.techidaily.com/swift-ways-to-elude-windows-11-screensaver/"><u>Swift Ways to Elude Windows 11 Screensaver</u></a></li>
+<li><a href="https://windows11.techidaily.com/transition-without-subsys-optimizing-for-upcoming-android-solutions/"><u>Transition Without Subsys: Optimizing for Upcoming Android Solutions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-selection-leading-ceiling-audio-displays-unveiled/"><u>Ultimate Selection: Leading Ceiling Audio Displays Unveiled</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-riddle-of-windows-winerror-woes/"><u>Unraveling the Riddle of Window's WinError Woes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-nubia-z50-ultra-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Nubia Z50 Ultra? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/be-studio-monetization-check-ensure-your-channels-monetization-for-2024/"><u>YouTube Studio Monetization Check Ensure Your Channel's Monetization for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide to Rectify Windows' Error 0X80070522: Client Permissions"
-date: 2024-10-22T20:31:18.479Z
-updated: 2024-10-24T17:09:08.381Z
+date: 2024-10-26T17:05:46.626Z
+updated: 2024-10-30T16:34:16.192Z
 tags:
   - windows10
   - windows11
@@ -28,31 +28,24 @@ thumbnail: https://thmb.techidaily.com/1e8ed7d03244990645b268803c3dbd7e538910f87
 
 ![The Run this program in compatibility mode checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-run-as-administrator-option.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Set an Admin Account on Windows
 
  The error 0x80070522 message highlights that this is a privilege (permissions) issue. Therefore, error 0x80070522 is more likely to occur within standard account types than administrator ones. If your current user account only has standard rights, change it to an administrator one. Our guide on[changing your account type on Windows](https://www.makeuseof.com/ways-to-change-user-account-windows-10/) includes four methods for setting up an admin account in Windows 11/10.
 
 ![The Administrator radio button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-administrator-radio-button.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Turn Off User Account Control (in Three Different Ways)
 
@@ -61,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/1e8ed7d03244990645b268803c3dbd7e538910f87
  It’s not recommended to leave UAC off. Do what you must with the files when User Account Control is disabled. Then turn UAC back on after you’ve saved, moved, or copied the files as needed.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Modify the Drive’s Sharing Permissions
@@ -81,16 +74,24 @@ thumbnail: https://thmb.techidaily.com/1e8ed7d03244990645b268803c3dbd7e538910f87
 ![The Share this folder checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/share-this-folder-checkbox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Click the**Permissions** button.
 2. Select the**Full control** option’s**Allow checkbox for the Everyone** group.  
 ![The Full control checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-full-control-checkbox.jpg)
 3. Click the**Apply** and**OK** on the Permissions and Advanced Sharing windows.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Select**Close** to exit the properties window.
 5. Then click**Power** and select**Restart** within your Start menu.
 
@@ -115,18 +116,19 @@ thumbnail: https://thmb.techidaily.com/1e8ed7d03244990645b268803c3dbd7e538910f87
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-leveraging-the-strengths-of-ez-grabber-software/"><u>[New] In 2024, Leveraging the Strengths of EZ Grabber Software</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-filmora-vs-democreator-a-guide-to-the-best-video-editor/"><u>[Updated] Filmora Vs. Democreator A Guide to the Best Video Editor</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-harnessing-the-power-of-color-difference-keying-methods/"><u>[Updated] In 2024, Harnessing the Power of Color Difference Keying Methods</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-compre-written-in-the-stars-mastering-your-laptops-touchscreen-precision/"><u>A Compre Written in the Stars: Mastering Your Laptop’s Touchscreen Precision</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoid-complications-resetting-terminal-on-win11/"><u>Avoid Complications: Resetting Terminal on Win11</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-the-trouble-fixing-corrupted-recycle-bin-on-win1011/"><u>Avoid the Trouble: Fixing Corrupted Recycle Bin on Win10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/boost-performance-with-windows-11-power-options/"><u>Boost Performance with Windows 11 Power Options</u></a></li>
-<li><a href="https://windows11.techidaily.com/bridging-software-generations-windows-7-key-for-11-boot/"><u>Bridging Software Generations: Windows 7 Key for 11 Boot</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-tecno-camon-20frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Tecno Camon 20FRP Lock</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-new-languages-with-the-aid-of-chatgpt-plus/"><u>Mastering New Languages with the Aid of ChatGPT Plus</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-comparison-of-1byone-hdtv-antennas-enhanced-digital-reception-at-affordable-prices/"><u>The Ultimate Comparison of 1byOne HDTV Antennas: Enhanced Digital Reception at Affordable Prices</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/king-the-potential-of-youtube-tv-services-for-2024/"><u>Unlocking the Potential of YouTube TV Services for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/utorrent-freezes-during-use-discover-7-reliable-solutions/"><u>Utorrent Freezes During Use? Discover 7 Reliable Solutions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-definitive-list-of-iphone-image-markers-apps-for-2024/"><u>[New] The Definitive List of iPhone Image Markers Apps for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726227033106-gifjpg-movavi/"><u>無償線上改變GIF為JPG的方法 - 透過 Movavi 換片程式</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/five-essential-tips-to-get-your-evil-genius-2-up-and-running/"><u>Five Essential Tips to Get Your Evil Genius 2 Up and Running</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-top-5-mac-video-tools-beyond-standard-bandicam/"><u>In 2024, Top 5 Mac Video Tools Beyond Standard Bandicam</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-the-era-of-streaming-how-sourav-joshi-succeeded-on-youtube-by-2024/"><u>In the Era of Streaming, How Sourav Joshi Succeeded on YouTube by 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209875838-9781784566579-never-again/"><u>Never Again | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimize-your-workspace-dragging-tabs-window-explorer-ways/"><u>Optimize Your Workspace: Dragging Tabs, Window Explorer Ways</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pioneering-art-for-crypto-the-finest-7-generators-at-hand/"><u>Pioneering Art for Crypto The Finest 7 Generators at Hand</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-voluntary-opens-in-ms-marketplace/"><u>Preventing Voluntary Opens in MS Marketplace</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-uninstalling-and-reinstalling-on-windows-11/"><u>Quick Guide to Uninstalling and Reinstalling on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-address-steams-unsyncable-files-dilemma-on-pc/"><u>Strategies to Address Steam's Unsyncable Files Dilemma on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/supercharge-your-development-with-enhanced-android-studio-performance/"><u>Supercharge Your Development with Enhanced Android Studio Performance</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-writers-choice-best-sticky-note-software-alternatives/"><u>Windows Writers' Choice: Best Sticky Note Software Alternatives</u></a></li>
 </ul></div>
 

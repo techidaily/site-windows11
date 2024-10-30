@@ -1,7 +1,7 @@
 ---
 title: Supercharge Your Development with Enhanced Android Studio Performance
-date: 2024-10-23T21:19:35.145Z
-updated: 2024-10-24T18:25:46.833Z
+date: 2024-10-24T16:06:24.972Z
+updated: 2024-10-30T17:20:06.274Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,16 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
  The amount of RAM to allocate is a personal decision that depends on your computer's specifications. If you're unsure how much RAM your computer has, check[how to determine hardware specifications](https://www.makeuseof.com/how-to-check-pc-specs/) for help.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Update Android Studio
@@ -78,10 +84,16 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
  Installing Android Studio on an SSD will provide a noticeable boost in performance, making it easier and faster to develop your apps.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Disable Unnecessary Plugins in Android Studio
@@ -95,15 +107,15 @@ Here's how to disable unnecessary plugins in Android Studio:
 ![Plugin Menu In Android Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-plugin-menu.jpg)
 3. Uncheck the boxes next to the plugins you wish to disable and click**Disable** and then**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Installed Plugins List In Android Studio](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-installed-plugins-list.jpg)
 4. Click**File > Restart IDE** for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After you complete these steps, the plugins you disabled will no longer work and will not appear in the menus or be accessible within Android Studio.
 
@@ -124,6 +136,13 @@ Follow the below steps to configure Lint in Android Studio:
 
  You can also configure the scope of the lint checks, such as whether to check only the current file or the entire project. This can help decrease build time and generate your APK file much faster in Android Studio.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Update the GPU driver
 
  In layman's terms, a GPU driver is a software package that helps an operating system utilize a graphics card to render graphics.
@@ -133,6 +152,13 @@ Follow the below steps to configure Lint in Android Studio:
  Now that you know the importance of the GPU, check out[how to update the GPU drivers on Windows](https://www.makeuseof.com/update-graphics-drivers-in-windows-10/) for help.
 
  If you want to go further, check out[ways to boost Windows' performance](https://www.makeuseof.com/tag/windows-10-faster-performance/) for more tricks.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Add Android Studio to the Graphics Performance Preference
 
@@ -146,21 +172,7 @@ Follow the below steps to configure Lint in Android Studio:
 ![Android Studio Files Overview In File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-files-overview.jpg)
 4. Select**Android Studio > Options > High Performance** , and then click**Save** to add it to the Graphics Performance Preference list.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Android Studio Graphics Settings On Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/android-studio-graphics-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Additionally, you can also enable**Hardware-accelerated GPU scheduling** in order to improve the performance of Android Studio.
 
@@ -187,20 +199,24 @@ Follow the below steps to configure Lint in Android Studio:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-a-detailed-walkthrough-for-integrating-instagram-effects-on-archive-media/"><u>[Updated] In 2024, A Detailed Walkthrough for Integrating Instagram Effects on Archive Media</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-hide-and-seek-top-5-for-secret-story-lovers/"><u>2024 Approved Hide & Seek Top 5 For Secret Story Lovers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-15-pro-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 15 Pro to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/boosting-engagement-and-reach-secrets-of-instagram-video-uploads-on-desktop/"><u>Boosting Engagement & Reach Secrets of Instagram Video Uploads on Desktop</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-the-role-of-copilot-key-in-your-windows-11-pc/"><u>Deciphering the Role of Copilot Key in Your Windows 11 PC</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discovering-the-samsung-galaxy-buds-pro-audiophiles-delight/"><u>Discovering the Samsung Galaxy Buds Pro: Audiophile's Delight</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-windows-1011-a-workshop-for-custom-pattern-crafting/"><u>Navigating Windows 10/11: A Workshop for Custom Pattern Crafting</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigational-aid-embracing-apple-maps-in-windows-systems/"><u>Navigational Aid: Embracing Apple Maps in Windows Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/optimale-hochformatauflosung-steigerung-der-videoschnittqualitat-auf-windows-und-mac-bis-hin-zu-4k/"><u>Optimale Hochformatauflösung: Steigerung Der Videoschnittqualität Auf Windows Und Mac Bis Hin Zu 4K</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcome-error-1-secure-your-minecraft-adventures/"><u>Overcome Error 1: Secure Your Minecraft Adventures</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/picking-between-apple-and-google-the-ultimate-phone-comparison-guide/"><u>Picking Between Apple and Google: The Ultimate Phone Comparison Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-your-ctrl-commands-full-potential-on-windows-11/"><u>Unlocking Your Ctrl Command's Full Potential on Windows 11</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-time-lapse-crash-course-final-cut-pro-edition/"><u>Updated The Ultimate Time Lapse Crash Course Final Cut Pro Edition</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-xiaomi-14-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Xiaomi 14 Pro Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-smart-unlock-hacked-is-it-safe-to-use/"><u>Windows Smart Unlock Hacked – Is It Safe to Use?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-tactics-for-making-youtube-videos-go-viral/"><u>[Updated] 2024 Approved Tactics for Making YouTube Videos Go Viral</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-mastering-aspect-ratio-compliance-in-micro-video-tweets/"><u>[Updated] Mastering Aspect Ratio Compliance in Micro-Video Tweets</u></a></li>
+<li><a href="https://video-capture.techidaily.com/enhancing-your-recording-setup-with-rl-tech-insights/"><u>Enhancing Your Recording Setup with RL Tech Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/gain-mastery-over-files-in-windows-11-quick-transition-tricks/"><u>Gain Mastery Over Files in Windows 11: Quick Transition Tricks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mkv-files-on-xperia-1-v-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do you play MKV files on Xperia 1 V?</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/hulu/"><u>Hulu番組のパソコン上でのスクリーンレコーディングテクニック</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-x-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From Apple iPhone X?</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-graphics-drivers-a-windows-10-and-11-fixation/"><u>Navigating Graphics Drivers: A Windows 10 & 11 Fixation</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-sleep-suspend-with-windows-11-devices/"><u>Overcoming Sleep Suspend with Windows 11 Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premiere-pro-refinements-for-iphone-hd-video-clarity-and-contrast/"><u>Premiere Pro Refinements for iPhone HD Video Clarity and Contrast</u></a></li>
+<li><a href="https://windows11.techidaily.com/pure-functionality-cleaning-and-organizing-your-w11-workspace/"><u>Pure Functionality: Cleaning and Organizing Your W11 Workspace</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-enabling-print-service-after-error-displayed-on-pc/"><u>Re-Enabling Print Service After Error Displayed on PC</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-issues-with-steam-game-launch-failures-in-windows-10/"><u>Resolving Issues with Steam Game Launch Failures in Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-portaudio-faults-in-audacity-for-windows-1111-os/"><u>Resolving PortAudio Faults in Audacity for Windows 11/11 OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/seamless-workflow-excellent-screen-savers-with-clock-features/"><u>Seamless Workflow: Excellent Screen Savers with Clock Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-error-at-interrupt-during-debugging-windows/"><u>Tackling Error at Interrupt During Debugging Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-roblox-windows-errors/"><u>Troubleshooting Roblox Windows Errors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/universal-vmix-adapter/"><u>Universal VMix Adapter</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-11-access-a-step-by-step-guide/"><u>Unlocking Windows 11 Access: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

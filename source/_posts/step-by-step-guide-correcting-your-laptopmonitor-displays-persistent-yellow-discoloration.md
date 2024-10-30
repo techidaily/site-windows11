@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Correcting Your Laptop/Monitor Display's Persistent Yellow Discoloration"
-date: 2024-08-31T22:02:07.560Z
-updated: 2024-09-01T22:02:07.560Z
+date: 2024-10-23T16:18:53.378Z
+updated: 2024-10-30T17:05:31.462Z
 tags:
   - windows
 categories:
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/03b50fa097007316bd728c0f1505911c6985b5446
 * [Calibrate the Display Color](https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-lava-blaze-pro-5g-by-drfone-android/)
 * [Reinstall the Graphics Card Driver](https://extra-resources.techidaily.com/in-2024-create-an-individualistic-meme-masterpiece/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Turn off the Night Light feature. To do that, navigate to Settings > System > Display and switch off the toggle next to "Night Light."
@@ -30,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/03b50fa097007316bd728c0f1505911c6985b5446
 
  If your laptop screen has taken on a yellowish tint, the Night Light feature could be enabled. The issue could also stem from a loosely connected display cable, corrupted graphics drivers, or misconfigured monitor settings. Here are some troubleshooting steps you can try to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ##  Disable the Night Light
 
  The [Night Light feature](https://apple-account.techidaily.com/in-2024-how-to-change-your-iphone-14-plus-apple-id-on-macbook-by-drfone-ios/) is designed to reduce the blue tone of your monitor, giving the screen a warmer appearance, but it makes the screen appear yellowish. If you've adjusted your display settings and noticed a yellow tint afterward, this feature has likely been enabled. To check if this is the case, right-click on the Start button and select "Settings."
@@ -42,8 +46,12 @@ thumbnail: https://thmb.techidaily.com/03b50fa097007316bd728c0f1505911c6985b5446
 ![Turning off the night light in Windows settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-turning-off-the-night-light-in-windows-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Ensure the Cable Connection Isn't Loose
 
  The display cable transmits video signals from the video card to the monitor. These signals can be analog or digital, depending on the type of cable and the devices involved. If the cable is not securely plugged in at either end, it can lead to poor connection quality, which might present problems like a yellow tint on the screen.
@@ -52,12 +60,15 @@ thumbnail: https://thmb.techidaily.com/03b50fa097007316bd728c0f1505911c6985b5446
 
 ![HDMI cable plugged into the back of a monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/shutterstock_728531827.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _[Alexander\_Evgenyevich/Shutterstock.com](https://www.shutterstock.com/image-photo/protected-hdmi-cable-connected-monitor-728531827)_
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ##  Reset the Monitor Settings
 
  If you've [manually tweaked the monitor settings](https://win-answers.techidaily.com/effortless-ways-to-stop-your-deathloop-from-freezing-and-crashing-on-your-pc-detailed-steps-inside/) by pressing the monitor buttons, ensure that you haven't misconfigured its display settings. To rule out this possibility, you should reset the monitor settings to their default values. The process for doing this can vary depending on the manufacturer of your monitor.
@@ -88,36 +99,45 @@ Justin Duino / How-To Geek
 
 ![Opening the advanced display settings in the Windows settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-opening-the-advanced-display-settings-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Next, click on "Display Adapter Properties for Display 1 (or 2)," go to the "Color Management" tab, and click on the "Color Management" button.
 
 ![Opening the color management settings in the display settings of Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-opening-the-color-management-settings-in-the-display-settings-of-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  In the next window, select the correct display from the drop-down menu next to Device. Then, click on the "Add" button, choose the "sRGB" profile from the ICC profiles list, and click "OK."
 
 ![Adding a new color profile in the color management settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/4-adding-a-new-color-profile-in-the-color-management-settings-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  After that, select the newly added profile and click on the "Set as Default Profile" button. Close all windows, restart your device, and check if the yellow tint issue has been resolved.
 
 ![Making a newly created color profile default in the color management settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/5-making-a-newly-created-color-profile-default-in-the-color-management-settings-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Calibrate the Display Color
 
  If none of the above-mentioned solutions fix the issue, you may need to calibrate the display color. Calibration fine-tunes your display to known color reference standards, which can help eliminate color irregularities such as the yellow tint. To calibrate the display, type "Color Management" into Windows Search and open the "Color Management" window.
 
 ![Opening the setting to calibrate display settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/6-opening-the-setting-to-calibrate-display-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  Then, navigate to the "Advanced" tab and click on the "Calibrate Display" button. Follow the on-screen instructions in the Display Color Calibration window to calibrate the display.
 
 ##  Reinstall the Graphics Card Driver
@@ -128,9 +148,6 @@ Justin Duino / How-To Geek
 
 ![Updating the graphics drivers in the Windows Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/7-updating-the-graphics-drivers-in-the-windows-device-manager.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  Likewise, follow the steps outlined above to update the monitor drivers.
 
  If updating doesn't resolve the issue, reinstall the driver. Right-click on the driver in Device Manager and select "Uninstall Device." Then, follow the same steps to reinstall it from scratch.
@@ -147,8 +164,6 @@ Justin Duino / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +171,26 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-mastering-itunes-video-capture-techniques/"><u>[Updated] 2024 Approved Mastering iTunes Video Capture Techniques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-achieving-seamless-video-communication-between-xbox-and-zoom/"><u>[Updated] Achieving Seamless Video Communication Between Xbox & Zoom</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-essential-webcam-applications-in-windows-our-choices/"><u>2024 Approved Essential Webcam Applications in Windows Our Choices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-considerations-when-integrating-chatgpt-into-mental-wellness-strategies/"><u>Essential Considerations When Integrating ChatGPT Into Mental Wellness Strategies</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/e-audience-interest-with-effective-strategies-in-video-outros/"><u>Ignite Audience Interest with Effective Strategies in Video Outros</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-a15-5g-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy A15 5G is off? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/innovative-password-solutions-7-best-wins-for-windows-users/"><u>Innovative Password Solutions: 7 Best Wins for Windows Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/leading-the-pack-best-windows-11-for-fps-tracking/"><u>Leading the Pack: Best Windows 11 for FPS Tracking</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-directdraw-repair-techniques-on-the-latest-version-of-windows/"><u>Mastering DirectDraw Repair Techniques on the Latest Version of Windows</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/outro-crafting-for-beginners-top-6-free-resources/"><u>Outro Crafting for Beginners Top 6 Free Resources</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-resetting-and-restoring-search-on-windows-11-settings-ui/"><u>Quick Fixes: Resetting and Restoring Search on Windows 11 Settings UI</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolution-steps-enable-detection-of-unrecognized-wd-my-passport-ultra-external-hard-drive/"><u>Resolution Steps: Enable Detection of Unrecognized 'WD My Passport Ultra' External Hard Drive</u></a></li>
+<li><a href="https://windows11.techidaily.com/silence-automatic-spotify-launch-in-windows/"><u>Silence Automatic Spotify Launch in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactical-plan-to-vanquish-wows-deadly-error-132-in-osxwin/"><u>Tactical Plan to Vanquish WoW's Deadly Error #132 in OSX/Win</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317312-9781781803622-the-animal-communicators-guide-through-life-loss-and-love/"><u>The Animal Communicator's Guide Through Life, Loss and Love | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-complete-guide-to-windows-11-personalization/"><u>The Complete Guide to Windows 11 Personalization</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-artificeus-unveiling-the-perils-of-advanced-intelligence/"><u>Understanding Artificeus: Unveiling the Perils of Advanced Intelligence</u></a></li>
+<li><a href="https://windows11.techidaily.com/update-user-folder-names-with-ease-on-win11/"><u>Update User Folder Names with Ease on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/win10win11-eliminating-audacity-paudio-faults/"><u>Win10/Win11: Eliminating Audacity PAudio Faults</u></a></li>
+</ul></div>
 

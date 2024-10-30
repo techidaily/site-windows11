@@ -1,7 +1,7 @@
 ---
 title: "How to Maximize Security: Longer PIN Length for Win11/11 Users"
-date: 2024-10-23T16:08:24.187Z
-updated: 2024-10-24T17:49:35.546Z
+date: 2024-10-27T17:11:06.227Z
+updated: 2024-10-30T16:45:21.399Z
 tags:
   - windows10
   - windows11
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 
  If you’ve not set a Windows Hello PIN before, you can do so via Settings. Our guide to [setting a PIN in Windows](https://www.makeuseof.com/setup-remove-pin-windows-11/) includes instructions for how to do so. Your PIN must have the minimum number of characters set with the **PINComplexity** registry key.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Extend the PIN Length With Group Policy Editor
 
  Windows Pro and Enterprise editions have a Group Policy Editor tool that includes options for setting minimum and maximum PIN lengths. So, you don’t need to manually edit the registry to set a minimum PIN length if you can access Group Policy Editor. This is how to extend Windows Hello’s PIN length with Group Policy Editor:
@@ -73,22 +80,21 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 ![Administrative Templates in Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/administrative-templates.jpg)
 5. Then click the arrow by **System** and select **PIN Complexity**.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Double-click on the **Minimum PIN Length** policy.  
 ![The PIN Complexity policy settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pin-complexity.jpg)
 2. Click the **Enabled** radio button to activate a **Minimum PIN Length** box.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Then input a higher value in the **Minimum PIN Length** box.  
@@ -96,20 +102,20 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 4. Select **Apply** and **OK** to set the new PIN length policy.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. You can also set a max PIN length much the same by clicking the **Maximum PIN Length** policy, selecting **Enabled**, and inputting a new value. Then click on **Apply** and **OK** within the Maximum PIN length window.  
 ![The Maximum PIN Length policy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/maximum-pin-length-policy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Extend Your Windows PIN to Make It More Secure
@@ -130,20 +136,19 @@ thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/asterclass-top-10-makeup-artists-shaping-online-beauty-trends-for-2024/"><u>[New] Masterclass Top 10 Makeup Artists Shaping Online Beauty Trends for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-secrets-of-the-pros-youtube-live-mastery-techniques/"><u>[Updated] 2024 Approved Secrets of the Pros YouTube Live Mastery Techniques</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-webcam-visuals-uncluttered-remove-obscurants-for-2024/"><u>[Updated] Webcam Visuals Uncluttered Remove Obscurants for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/avoid-distracting-notifications-messages-on-windows-11/"><u>Avoid Distracting Notifications, Messages on Windows 11</u></a></li>
-<li><a href="https://games-able.techidaily.com/bring-back-your-ps4-joystick-immediate-fix-tips-and-tricks/"><u>Bring Back Your PS4 Joystick: Immediate Fix Tips and Tricks</u></a></li>
-<li><a href="https://win-net.techidaily.com/convert-and-save-videos-from-genvideos-in-various-formats-mp4-mov-avi-for-pc-or-mac/"><u>Convert and Save Videos From GenVideos in Various Formats (MP4, MOV, AVI) for PC or Mac</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/create-a-youtube-sensation-master-the-art-of-going-viral-in-8-simple-steps/"><u>Create a YouTube Sensation: Master the Art of Going Viral in 8 Simple Steps</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/innovative-ways-to-initiate-windows-based-software/"><u>Innovative Ways to Initiate Windows-Based Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-manual-methods-for-malware-detection-on-desktops/"><u>Mastering Manual Methods for Malware Detection on Desktops</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/no-more-quiet-cinema-effective-methods-to-address-netflixs-lack-of-audio/"><u>No More Quiet Cinema: Effective Methods to Address Netflix's Lack of Audio</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-reference-guide-to-overcoming-winscombvc-issues/"><u>Quick Reference Guide to Overcoming WinScombVc Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-for-when-counter-strike-global-offensive-wont-open-properly/"><u>Solutions for When Counter Strike Global Offensive Won't Open Properly</u></a></li>
-<li><a href="https://windows11.techidaily.com/speed-up-taskbar-interaction-enabledisable-ai-on-win-11/"><u>Speed Up Taskbar Interaction: Enable/Disable AI on Win 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-sleep-mode-anomalies-why-it-frustrates-users/"><u>Windows' Sleep Mode Anomalies: Why It Frustrates Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-best-mobile-editors-for-professional-gopro-videos/"><u>[New] 2024 Approved The Best Mobile Editors for Professional GoPro Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-mastering-multi-background-streaming-the-green-screen-way/"><u>[New] Mastering Multi-Background Streaming The Green Screen Way</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-sparkle-your-streams-top-5-tech-gems-for-videos/"><u>2024 Approved Sparkle Your Streams Top 5 Tech Gems for Videos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elite-choices-for-portable-power-in-pc-gaming-expertly-compact-systems/"><u>Elite Choices for Portable Power in PC Gaming: Expertly Compact Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-strategies-for-winning-back-defective-windows-apps/"><u>Essential Strategies for Winning Back Defective Windows Apps</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-iphone-xs-max-by-apple-a-comprehensive-review-and-value-assessment/"><u>Exploring the iPhone XS Max by Apple - A Comprehensive Review and Value Assessment</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-clean-up-and-customize-your-windows-11-desktop/"><u>How to Clean Up and Customize Your Windows 11 Desktop</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-elitist-samsung-galaxy-s10-the-ultimate-high-end-device/"><u>In-Depth Analysis of the Elitist Samsung Galaxy S10: The Ultimate High-End Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/resetting-lost-web-interfaces-of-router-on-windows/"><u>Resetting Lost Web Interfaces of Router on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-audio-communication-via-xbox-mic-and-windows-11/"><u>Restoring Audio Communication via Xbox Mic & Windows 11</u></a></li>
+<li><a href="https://network-issues.techidaily.com/stable-windows-11-display-end-of-screen-twinkle/"><u>Stable Windows 11 Display - End of Screen Twinkle</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-permanently-start-windows-terminal-as-admin/"><u>Steps to Permanently Start Windows Terminal as Admin</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-chrome-cookie-and-cache-issues-for-download-problems-windows/"><u>Troubleshooting Chrome’ Cookie & Cache Issues for Download Problems, Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-new-possibilities-in-2n4e-the-best-raspberry-pi-hats-for-expansion-and-innovation/"><u>Unlocking New Possibilities in 2N4e: The Best Raspberry Pi HATs for Expansion and Innovation</u></a></li>
 </ul></div>
 

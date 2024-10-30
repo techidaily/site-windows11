@@ -1,7 +1,7 @@
 ---
 title: Transformative Strategies to Supercharge Windows 11
-date: 2024-10-18T16:38:21.782Z
-updated: 2024-10-24T16:12:01.043Z
+date: 2024-10-25T16:55:49.683Z
+updated: 2024-10-30T16:12:00.083Z
 tags:
   - windows10
   - windows11
@@ -30,15 +30,22 @@ thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70c
 
  You can snap up to four windows on your Windows 11 PC. If you have a large screen and want to arrange more windows, you can get the PowerToys app from Microsoft.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Open Files Directly From Start
 
 ![The Windows 11 Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/the-start-menu-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Files app is there on your taskbar unless you unpin from there. That said, there are other ways to open files that are important to you more quickly. You can use the search functionality in Windows 11 Start Menu to open the files quickly. All you have to do is type the name of your file and then click or tap on it.
@@ -50,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70c
 ## 3\. Comprehensive Stats on Battery Usage
 
 ![Screenshot showing Windows 11 Battery stats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/battery-stats.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It's critical to have a comprehensive understanding of what's draining your laptop battery the most. Thanks to Windows 11's detailed report on battery usage, you get a clear picture of which apps consume more power and which consume less.
 
@@ -72,15 +72,28 @@ thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70c
 
  The option to customize the Quick Settings panel is in the bottom-right corner of the Quick Settings panel.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Run Android Apps in Windows 11
 
 ![Android apps on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/top-windows-11-features-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Microsoft's Windows Phone platform always suffered from a lack of apps, eventually leading to its demise. However, Microsoft does not want to make the same mistake with Windows 11 desktop.
@@ -89,22 +102,16 @@ thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70c
 
  While not every Android app is available on the Amazon Appstore, you can check out a sizeable amount of well-known and famous names. Also, you can [install Google Play Store on your Windows 11 PC](https://www.makeuseof.com/windows-11-install-google-play-store/).
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Chat With Friends Using the Built-In Teams App
 
 ![Microsoft Teams integration in Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/06/top-windows-11-features-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Microsoft Teams is available across all major platforms, but for Windows 11 users, getting access to Teams is a bit easier. Windows 11 taskbar has the Teams icon, clicking on which will open a small chat window for you to connect with people through text or video. You can also pop out chat windows, meaning you can chat with multiple people simultaneously. In other words, you can be a pro at multitasking while chatting on Teams.
 
@@ -113,13 +120,6 @@ thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70c
 ## 7\. Use Widgets to Stay Updated With Topics
 
 ![Full View Widgets Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/full-view-widgets-panel.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Widgets help you stay updated with the latest information from your favorite apps and services without opening them. The Widgets experience in Windows 11 is not perfect, but it has the basics covered. Besides Microsoft's stock apps, you can find widgets from third-party apps, including Facebook, Spotify, and more.
 
@@ -140,24 +140,24 @@ thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-digital-image-perfection-how-to-remove-picture-backdrops-swiftly/"><u>[New] Digital Image Perfection How To Remove Picture Backdrops Swiftly</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-x-professional-audio-toolkit-personal-computing/"><u>[New] X-Professional Audio Toolkit, Personal Computing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-pricepoint-nimbus-economical-mass-storage-haven/"><u>[Updated] PricePoint Nimbus - Economical Mass Storage Haven</u></a></li>
-<li><a href="https://windows11.techidaily.com/adopting-a-context-menu-toolbar-alert-for-routine-update-checks-on-windows-11plus11/"><u>Adopting a Context Menu Toolbar Alert for Routine Update Checks on Windows 11+11</u></a></li>
-<li><a href="https://windows11.techidaily.com/altering-windows-login-lockout-interval-after-errors/"><u>Altering Windows Login Lockout Interval After Errors</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-digital-solutions-for-converting-images-to-film-for-2024/"><u>Best Digital Solutions for Converting Images to Film for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-verification-barrier-when-installing-non-microsoft-apps/"><u>Bypassing Verification Barrier when Installing Non-Microsoft Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-the-past-updating-decrepit-windows-cards/"><u>Clearing the Past: Updating Decrepit Windows Cards</u></a></li>
-<li><a href="https://windows11.techidaily.com/command-center-changing-your-onedrive-storage-territory-on-windows-10/"><u>Command Center: Changing Your OneDrive Storage Territory on Windows 10</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-guide-windows-screensaver-tactics/"><u>Comprehensive Guide: Windows Screensaver Tactics</u></a></li>
-<li><a href="https://windows11.techidaily.com/customize-taskbar-and-menu-on-windows-1011-easily/"><u>Customize Taskbar & Menu on Windows 10/11 Easily</u></a></li>
-<li><a href="https://windows11.techidaily.com/decode-the-code-of-win11-blue-screen-with-essential-fixes/"><u>Decode the Code of Win11 Blue Screen with Essential Fixes</u></a></li>
-<li><a href="https://windows11.techidaily.com/disabling-inadvertent-launches-of-ms-storeapp/"><u>Disabling Inadvertent Launches of MS StoreApp</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-the-latest-version-of-toshibas-bluetooth-drivers-for-optimal-device-syncing/"><u>Download the Latest Version of Toshiba’s Bluetooth Drivers for Optimal Device Syncing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-free-download-of-killer-e2500-gigabit-network-adapter-drivers/"><u>Get the Latest [Free Download] of Killer E2500 Gigabit Network Adapter Drivers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-lightrooms-power-for-spectacular-hdr-results/"><u>In 2024, Harnessing Lightroom's Power for Spectacular HDR Results</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-moto-g23-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Moto G23 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/periscope-basics-understanding-costs-benefits-and-account-creation/"><u>Periscope Basics Understanding Costs, Benefits & Account Creation</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-steps-resolving-headphone-connectivity-issues-in-windows-11/"><u>Solution Steps: Resolving Headphone Connectivity Issues in Windows 11</u></a></li>
+<li><a href="https://win-net.techidaily.com/no-puedes-formatear-tu-disco-practicas-recomendadas-y-soluciones-cruciales-para-recuperarlo/"><u>¿No Puedes Formatear Tu Disco? Prácticas Recomendadas Y Soluciones Cruciales Para Recuperarlo</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mastering-the-basics-a-thorough-guide-to-using-mobizen-recorders/"><u>[New] In 2024, Mastering the Basics A Thorough Guide to Using Mobizen Recorders</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-deep-dive-into-apples-m1-processor-power/"><u>[Updated] A Deep Dive Into Apple's M1 Processor Power</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-effortless-internet-ranking-the-best-7-android-adblockers-now/"><u>[Updated] In 2024, Effortless Internet Ranking the Best 7 Android AdBlockers Now</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-influencing-factors-for-popular-youtube-videos/"><u>[Updated] Influencing Factors for Popular YouTube Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-perfect-every-moment-top-10-free-video-editing-apps-on-a-mac/"><u>[Updated] Perfect Every Moment - Top 10 Free Video Editing Apps on a Mac</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-power-of-grading-insights-from-dr-john-doe/"><u>2024 Approved Unveiling the Power of Grading Insights From Dr. John Doe</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/engage-naturally-the-most-useful-17-daily-spanish-expressions/"><u>Engage Naturally: The Most Useful 17 Daily Spanish Expressions</u></a></li>
+<li><a href="https://windows11.techidaily.com/failed-ms-pc-manager-on-win-explore-solutions-now/"><u>Failed MS PC Manager on Win? Explore Solutions Now</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-fixing-windows-error-code-0x80070570/"><u>Mastering the Art of Fixing Windows Error Code 0X80070570</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-windows-cab-files-and-their-setup-process/"><u>Navigating Through Windows' CAB Files and Their Setup Process</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-6-windows-11-functions-for-better-user-experience/"><u>Optimizing 6 Windows 11 Functions for Better User Experience</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/real-time-monitoring-of-abbyy-announcements-using-timelinepi/"><u>Real-Time Monitoring of ABBYY Announcements Using TimelinePI</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-utorrents-non-downloading-issue-in-windows/"><u>Resolving uTorrent's Non-Downloading Issue in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/speed-sense-essential-windows-tips-for-testing-lan-performance/"><u>Speed Sense: Essential Windows Tips for Testing LAN Performance</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-corporate-controlled-browser-configuration-on-chromeedge/"><u>Streamlining Corporate Controlled Browser Configuration on Chrome/Edge</u></a></li>
+<li><a href="https://windows11.techidaily.com/taming-the-digital-canvas-making-magic-with-paint-tool-sai-and-win11-for-ai-art/"><u>Taming the Digital Canvas: Making Magic with Paint Tool SAI & Win11 for AI Art</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-unsuccessful-files-download-on-windows-11/"><u>Troubleshooting Unsuccessful Files Download on Windows 11</u></a></li>
 </ul></div>
 

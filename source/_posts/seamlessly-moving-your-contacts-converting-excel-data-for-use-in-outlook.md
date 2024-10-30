@@ -1,7 +1,7 @@
 ---
 title: "Seamlessly Moving Your Contacts: Converting Excel Data for Use in Outlook"
-date: 2024-08-31T22:04:40.838Z
-updated: 2024-09-01T22:04:40.838Z
+date: 2024-10-28T16:10:54.714Z
+updated: 2024-10-30T16:40:51.020Z
 tags:
   - excel
 categories:
@@ -24,6 +24,13 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ![Contacts list in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/11/contacts.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To export the document as a CSV, first click "File" to open the menu. Next, select Save As > Browse.
 
 ![Save as as different file type in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/11/file-save-as.png) 
@@ -32,11 +39,15 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ![Save as a CSV file type](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/11/save-as-csv.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Close the Excel workbook. The contacts are ready to be imported into Outlook.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Import Contacts from a CSV File into Outlook
 
  Open Outlook and then click on "File" to open the menu. From there, select Open & Export > Import/Export.
@@ -48,15 +59,16 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 ![Import contacts from other file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/11/import-from-other-file.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Highlight the "Comma Separated Values" option and then click the "Next" button.
 
 ![Select comma separated values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/11/comma-separated-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  Select the "Browse" button to find the CSV file you want to import.
 
  Choose an option for how you would like Outlook to handle duplicate contact details and click the "Next" button.
@@ -65,19 +77,29 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ![Browse for contacts list and replace duplicates](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/11/browse-and-duplicate-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select the destination folder for the imported contacts and then click the "Next" button. The destination folder will probably be the Contacts folder, but it could be a different folder that can store contact details.
 
 ![Select the destination folder for the contacts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/11/destination.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
  Ensure that the action to import your contacts list into Outlook is selected.
 
  Click the "Map Custom Fields" button. This will enable us to correctly match up the column headers from the Excel spreadsheet to the corresponding fields in Outlook.
 
 ![Contacts list in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/11/contacts.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the Map Custom Fields Window, the fields from the CSV file appear in the "From" pane on the left. In the "To" pane on the right, the fields from the Contacts folder in Outlook are shown.
 
@@ -93,23 +115,15 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![Importing contacts data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/11/importing.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  The contacts should now have been successfully imported into Outlook.
 
 ![Contacts imported successfully](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/11/success-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -118,4 +132,18 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-elevating-photography-with-canons-time-lapse-methods/"><u>[Updated] 2024 Approved Elevating Photography with Canon's Time-Lapse Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-error-code-0xc00000f-with-ease-on-pcs/"><u>Handling Error Code 0xC00000F with Ease on PCs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-secure-your-ipad-pro-ipad-air-and-apple-pencil-pro-beforehand-with-amazing-deals/"><u>How to Secure Your iPad Pro, iPad Air & Apple Pencil Pro Beforehand with Amazing Deals</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-evaluating-active-presenter-8s-performance/"><u>In 2024, Evaluating Active Presenter 8'S Performance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-poco-x5-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-collectors-rejoice-get-the-perfect-pair-of-keys-and-essential-windows-11-612lifetime/"><u>Key Collectors Rejoice – Get the Perfect Pair of Keys & Essential Windows 11, $6.12/Lifetime!</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-discords-loading-failures-in-windows/"><u>Resolving Discord's Loading Failures in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-non-functional-activation-in-os-11/"><u>Resolving Non-Functional Activation in OS 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-ar-eyewear-choices-featured-by-zdnet/"><u>Top-Rated AR Eyewear Choices Featured by ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/visualizing-disks-wisely-the-windows-methodology/"><u>Visualizing Disks Wisely: The Windows Methodology</u></a></li>
+</ul></div>
 

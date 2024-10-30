@@ -1,7 +1,7 @@
 ---
 title: Beginning Your Journey with Windows Live Mesh 2011 – The Ultimate Guide for Seamless Data Management
-date: 2024-08-31T22:03:48.851Z
-updated: 2024-09-01T22:03:48.851Z
+date: 2024-10-28T16:18:36.824Z
+updated: 2024-10-30T16:59:42.333Z
 tags:
   - excel
 categories:
@@ -71,6 +71,13 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
 
 ![sshot-2010-10-14-[18-06-48]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-06-48.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Live Mesh runs in the background and monitors the synced folders for any changes. Any time you add a new file or folder to the synced directories, both machines will be updated. You can open it from an icon that lives in the Notification Area on the Taskbar. 
 
 ![sshot-2010-10-14-[18-21-05]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-21-05.png) 
@@ -78,6 +85,13 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
  By default, Network Locations aren't able to be synced with Live Mesh 2011, however, it is compatible with Server 2003, 2008, and Windows Home Server Version 1\. 
 
 ![sshot-2010-10-14-[21-46-06]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-21-46-06.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Sync Folders with Live Mesh & SkyDrive
 
@@ -87,41 +101,33 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
 
 ![sshot-2010-10-14-[18-27-48]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-27-481.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  This time instead of clicking another PC, you want to select SkyDrive synced storage and click OK. 
 
 ![sshot-2010-10-14-[18-28-28]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-28-28.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll see a message that the files are being synced and after the process completes. 
 
 ![sshot-2010-10-14-[18-30-05]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-30-05.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
  To see the folders and files you synced to your synced storage, click on SkyDrive synced storage and sign into your Live account if prompted. 
 
 ![sshot-2010-10-14-[18-44-58]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-44-58.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  Here we can see the Excel documents folder that we synced to our SkyDrive. Click on the folder to view its content. 
 
 ![sshot-2010-10-14-[18-45-32]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-45-32.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you can access the files and download them, or open directly on your machine. Unfortunately, we couldn't find a way to open them in [MS Office Web Apps](https://facebook.techidaily.com/the-structure-and-public-accessibility-of-facebook-local-groups/) from the Synced Storage section of SkyDrive, which is inconvenient, and a bit confusing. You'll also see other machines the files are synced with, the sync status, and the amount of space you have in SkyDrive synced storage. 
 
 ![sshot-2010-10-14-[18-46-37]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-18-46-37.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Sync Folders with Other Computers & SkyDrive
 
  You can actually choose multiple machines and your SkyDrive Synced Storage at once. For instance, if we wanted to sync our Office Docs folder between other computers and SkyDrive Synced Storage, click on Select devices. 
@@ -132,36 +138,48 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
 
 ![sshot-2010-10-14-[19-02-59]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-02-59.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Remotely Connect to Another Computer
 
  Another neat feature with Live Mesh 2011 is the ability to remotely connect to another computer. So for example maybe you want to connect to to your Work computer at Home or vice-versa. 
 
 ![sshot-2010-10-14-[19-31-39]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-31-39.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  If you haven't done so already you'll need to click on Allow remote connections to this computer on each of the machines you want to access remotely. 
 
 ![sshot-2010-10-14-[19-35-54]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-35-54.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  For example here in our list of computers, not all of them are set up for remote access. 
 
 ![sshot-2010-10-14-[19-38-29]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-38-29.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click on Connect to this computer, then wait for the connection to be established. 
 
 ![sshot-2010-10-14-[19-38-46]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-38-46.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Here we connected to our Netbook -- both running Windows 7\. Now you'll be able to access your other machine just like as if you were sitting in front of it. 
 
 ![sshot-2010-10-14-[20-06-37]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-20-06-37.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  From the bar at the top of the Live Mesh remote screen you can control different aspects of the other computer like sending Ctrl+Alt+Del. 
 
@@ -175,43 +193,42 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
 
 ![sshot-2010-10-14-[22-04-09]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-22-04-09.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click on the magnifying glass icon to change the size of the display while you're connected to another machine. 
 
 ![sshot-2010-10-14-[20-12-55]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-20-12-55.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
  Here is an example where we connected to a Vista computer. 
 
 ![sshot-2010-10-14-[22-07-15]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-22-07-15.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you're done with a session just disconnect from the other machine. 
 
 ![sshot-2010-10-14-[19-42-10]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-19-42-10.png) 
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Sync Program Settings Between Computers
 
  Another thing you might want to do is sync Internet Explorer and MS Office settings between machines. In Live Mesh 2011 under Program Settings, click Turn on syncing next to each one you want to sync. Do this for each machine you want program settings synced to. 
 
 ![sshot-2010-10-14-[20-49-38]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-20-49-38.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For one of our computers, IE 9 has the standard MSN bookmarks, and we turned on IE syncing. 
 
 ![sshot-2010-10-14-[22-20-12]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-22-20-12.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And it quickly brought over bookmarks from the other PC. 
 
 ![sshot-2010-10-14-[22-23-30]](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/sshot-2010-10-14-22-23-30.png) 
@@ -228,8 +245,6 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -237,4 +252,22 @@ Recently Microsoft has been indecisive with it's Live Mesh / Sync cloud based se
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-how-quicktime-screen-recording-with-audio/"><u>[New] 2024 Approved [How] QuickTime Screen Recording with Audio</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-top-choices-excellent-youtubers-screen-recording-tools/"><u>[New] 2024 Approved Top Choices Excellent YouTubers' Screen Recording Tools</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-windows-media-creator-alternatives/"><u>[New] 2024 Approved Windows Media Creator Alternatives</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-effective-image-sharing-using-snap-camera-for-microsoft-teams/"><u>[New] In 2024, Effective Image Sharing Using Snap Camera for Microsoft Teams</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-best-action-recorders-with-front-view-panels-for-2024/"><u>[Updated] Best Action Recorders with Front View Panels for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-overwatch-video-capture-quick-simple-and-effective/"><u>[Updated] In 2024, Overwatch Video Capture – Quick, Simple, and Effective</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/lockdown-the-background-on-your-modern-windows-11/"><u>Lockdown the Background on Your Modern Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-get-creative-with-these-top-vignette-apps-for-mobile-phones/"><u>New Get Creative with These Top Vignette Apps for Mobile Phones</u></a></li>
+<li><a href="https://windows11.techidaily.com/restoring-link-loss-in-winvpn-a-step-by-step-solution/"><u>Restoring Link Loss in WinVPN: A Step-By Step Solution</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-to-erase-office-365-error-30015-26-on-pcs/"><u>Solutions to Erase Office 365 Error 30015-26 on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-overcoming-windows-terminal-access-issues/"><u>Troubleshooting: Overcoming Windows Terminal Access Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/tutorial-navigating-to-windows-11-phone-dialer/"><u>Tutorial: Navigating to Windows 11 Phone Dialer</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncover-the-magic-of-reading-comics-on-windows-11/"><u>Uncover the Magic of Reading Comics on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-fixing-windows-roblox-code-403-issue/"><u>Understanding & Fixing Windows Roblox Code 403 Issue</u></a></li>
+</ul></div>
 

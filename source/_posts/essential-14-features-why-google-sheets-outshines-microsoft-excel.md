@@ -1,7 +1,7 @@
 ---
 title: "Essential 14 Features: Why Google Sheets Outshines Microsoft Excel"
-date: 2024-08-31T22:03:11.809Z
-updated: 2024-09-01T22:03:11.809Z
+date: 2024-10-26T16:39:59.539Z
+updated: 2024-10-30T16:35:12.970Z
 tags:
   - excel
 categories:
@@ -23,6 +23,13 @@ thumbnail: https://thmb.techidaily.com/6aa0ea7bbcaddf2e39d658fccf6a692e44a4ec4a5
  Microsoft Excel is a full-featured, commonly used spreadsheet application, but it's not perfect. Its longtime rival Google Sheets offers features that Excel does not, including many helpful functions. Let's take a look!
 
  This list isn't all-inclusive, and Excel could add one or more of these functions at any time. But as of this writing in April 2022, these are the Google Sheets functions that we'd love to see in Microsoft Excel. As a bonus, we'll show you how to use each one in Google Sheets in case you're new to these.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Basic Calculations: ADD, MINUS, MULTIPLY, and DIVIDE
 
@@ -54,9 +61,6 @@ Related: [How to Add Numbers in Microsoft Excel](https://instagram-clips.techida
 
 ![MINUS function in Google Sheets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/MINUS-GoogleSheetsFunctionsNotExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Count Unique Values: COUNTUNIQUE
 
  If you ever need to [count the number of distinct values](https://youtube-help.techidaily.com/in-2024-unleash-potential-with-optimal-hashtags-for-gaming-vids/) in Google Sheets, then COUNTUNIQUE is your function. Count the number of customers who ordered once, products without inventory, or anything else where you want [unique values](https://extra-lessons.techidaily.com/in-2024-authoritative-picks-top-10-apps-to-watch-football-games-anytime-anywhere/) using this function.
@@ -69,16 +73,25 @@ Related: [How to Add Numbers in Microsoft Excel](https://instagram-clips.techida
 
 ![COUNTUNIQUE for text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/COUNTUNIQUENames-GoogleSheetsFunctionsNotExcel.png) 
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To count the unique values in a list of inserted values, you can use this formula replacing the values with your own:
 
 =COUNTUNIQUE(1,2,3,3,3,4)
 
 ![COUNTUNIQUE for values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/COUNTUNIQUEValues-GoogleSheetsFunctionsNotExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 Related: [How to Count Unique Values in Google Sheets](https://extra-lessons.techidaily.com/in-2024-authoritative-picks-top-10-apps-to-watch-football-games-anytime-anywhere/) 
 
 ##  Language Functions: DETECTLANGUAGE and GOOGLETRANSLATE
@@ -100,8 +113,12 @@ Related: [How to Share Documents on Google Docs, Sheets, and Slides](https://app
 ![DETECTLANGUAGE in Google Sheets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/DETECTLANGUAGE-GoogleSheetsFunctionsNotExcel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The syntax for the second function is `GOOGLETRANSLATE(text, from_language, to_language)` where you can use a cell reference or the text for the first argument. For the language arguments, you use a two-letter abbreviation. You can also use "auto" for the `from_language` argument to automatically detect the source dialect.
 
  To translate the text in cell A1 from English to Spanish, use this formula:
@@ -114,9 +131,6 @@ Related: [How to Share Documents on Google Docs, Sheets, and Slides](https://app
 
 ![GOOGLETRANSLATE in Google Sheets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/GOOGLETRANSLATE-GoogleSheetsFunctionsNotExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Greater Than, Less Than, and Equal to: GT, GTE, LT, LTE, EQ
 
  Have you ever wanted an easy way to display if one value is greater than, less than, or equal to another in your sheet? These functions do just that and would be great additions to Excel.
@@ -143,6 +157,13 @@ Related: [How to Share Documents on Google Docs, Sheets, and Slides](https://app
 
 ![GREATER THAN function in Google Sheets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/GREATERTHAN-GoogleSheetsFunctionsNotExcel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Insert and Customize a Picture: IMAGE
 
  Along with numbers and text, you may want to [include an image in your spreadsheet](https://screen-mirroring-recording.techidaily.com/new-in-2024-journey-through-nature-top-12-android-simulators/). While you can easily [insert an image in Google Sheets](https://win-solutions.techidaily.com/whats-holding-up-wolcen-launch-insights-into-the-games-delayed-rollout/), the IMAGE function lets you insert one from the web and then customize its size.
@@ -163,8 +184,12 @@ Related: [How to Insert a Picture in Microsoft Excel](https://screen-mirroring-r
 ![IMAGE function with original size](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/IMAGEOriginal-GoogleSheetsFunctionsNotExcel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To insert that same image but use a custom size, you would use this formula replacing the URL, width, and height with your own details:
 
 =IMAGE("https://www.howtogeek.com/wp-content/uploads/2022/02/DateOptions-GoogleSheetsCustomDateTime.png",4,200,500)
@@ -174,6 +199,13 @@ Related: [How to Insert a Picture in Microsoft Excel](https://screen-mirroring-r
  Another great way to use the IMAGE function is to [create a QR code in Google Sheets](https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/)!
 
 Related: [How to Make a QR Code in Google Sheets](https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Add a Mini Graph: SPARKLINE
 
@@ -187,18 +219,12 @@ Related: [How to Make a QR Code in Google Sheets](https://location-fake.techidai
 
 ![SPARKLINE Line chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/SPARKLINELine-GoogleSheetsFunctionsNotExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To use a bar chart with that same cell range, you'd use this formula:
 
 =SPARKLINE(B2:E2,{"charttype","column"})
 
 ![SPARKLINE Column chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/SPARKLINEColumn-GoogleSheetsFunctionsNotExcel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  For even more functions you'll find in Google Sheets but not Microsoft Excel, look at [how to join text](https://fox-access.techidaily.com/2024-approved-demystifying-copyright-rules-for-your-musical-creations-on-insta/) or how to do the reverse and [split text](https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-s23-fe-screen-to-pc-with-chromecast-drfone-by-drfone-android/).
 
 Related: [How to Concatenate Data from Multiple Cells in Google Sheets](https://fox-access.techidaily.com/2024-approved-demystifying-copyright-rules-for-your-musical-creations-on-insta/)
@@ -209,8 +235,6 @@ Related: [How to Concatenate Data from Multiple Cells in Google Sheets](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +242,24 @@ Related: [How to Concatenate Data from Multiple Cells in Google Sheets](https://
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-apowersoft-screen-recordings-critical-insights-and-alternatives-for-2024/"><u>[New] Apowersoft Screen Recordings - Critical Insights and Alternatives for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-capturecrafter-your-ultimate-guide-to-screen-recording-for-2024/"><u>[New] CaptureCrafter Your Ultimate Guide to Screen Recording for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-smooth-transition-synchronizing-your-iphones-albums-with-icloud-backup/"><u>[New] Smooth Transition Synchronizing Your iPhone's Albums with iCloud Backup</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamlining-your-video-editing-with-device-filters/"><u>[Updated] Streamlining Your Video Editing with Device Filters</u></a></li>
+<li><a href="https://windows11.techidaily.com/graphics-correction-in-windows-11-and-11-systems/"><u>Graphics Correction in Windows 11 & 11 Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-many-videos-fit-in-64128gb-data-insight-for-2024/"><u>How Many Videos Fit In 64/128GB? Data Insight for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-disable-windows-inbuilt-display-hardware/"><u>How To Disable Window's Inbuilt Display Hardware</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capture-android-speech-4-simple-no-root-methods/"><u>In 2024, Capture Android Speech 4 Simple No-Root Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/prevent-chromium-from-creating-spontaneous-tabs-on-pc/"><u>Prevent Chromium From Creating Spontaneous Tabs on PC</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-strategies-to-record-clear-audio-without-a-mic-for-2024/"><u>Proven Strategies to Record Clear Audio Without a Mic for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-calc-spotlighting-in-windows-environment/"><u>Securing Calc Spotlighting in Windows Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategic-approach-to-dispatch-microsoft-store-failure-code-0x0/"><u>Strategic Approach to Dispatch Microsoft Store Failure: Code 0X0</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-syncing-spotify-on-your-windows-11-device/"><u>Swiftly Syncing Spotify on Your Windows 11 Device</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/trasforma-i-tuoi-file-wmv-in-formato-flash-swf-gratuitamente-movavi/"><u>Trasforma I Tuoi File WMV in Formato Flash SWF Gratuitamente - Movavi</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-power-of-taskbar-icon-size-in-w11/"><u>Unlock the Power of Taskbar Icon Size in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/winning-at-preservation-moving-old-games-into-windows-11-folder/"><u>Winning at Preservation: Moving Old Games Into Windows 11 Folder</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-mix-fold-3-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi Mix Fold 3 can’t play AVCHD .mts video</u></a></li>
+</ul></div>
 

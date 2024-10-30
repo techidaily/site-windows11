@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Uninstalling and Reinstalling on Windows 11
-date: 2024-10-18T19:04:36.852Z
-updated: 2024-10-24T16:54:47.806Z
+date: 2024-10-25T16:14:17.375Z
+updated: 2024-10-30T16:48:23.461Z
 tags:
   - windows10
   - windows11
@@ -44,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
  Confirm you want to reset the app by clicking**Reset** again in the pop-up.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Reset an App on Windows 10
@@ -57,10 +57,10 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 ![the apps and features screen in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/apps-features-windows-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Find the app you want to reset from the list of installed apps and click on it. Then, click the**Advanced options** link that appears below the name of the app.
@@ -68,19 +68,19 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 ![the alarm clock advanced options in the windows 10 settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/alarm-clock-windows-10-advanced-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You will find the button to reset the app in the**Reset** section of its advanced settings, and you should click it. Finally, confirm that this is what you want to do by clicking**Reset** in the pop-up as well.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Windows Apps Just Need a Reset Sometimes
@@ -104,22 +104,19 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-acknowledgement-pack-free-and-paid-otus-ready/"><u>[New] Acknowledgement Pack Free & Paid OTUs Ready</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-streamlined-techniques-for-recording-gotomeetings/"><u>[Updated] In 2024, Streamlined Techniques for Recording GoToMeetings</u></a></li>
-<li><a href="https://windows11.techidaily.com/best-digital-journals-navigate-your-pen-for-windows/"><u>Best Digital Journals: Navigate Your Pen for Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/black-ops-cold-war-error-resolution-expert-tips-to-correct-code-887a0005/"><u>Black Ops Cold War Error Resolution: Expert Tips to Correct Code 887A0005</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/decibel-documentation-system-captures-voice/"><u>Decibel Documentation System Captures Voice</u></a></li>
-<li><a href="https://windows11.techidaily.com/defining-windows-corners-straighten-them-out/"><u>Defining Windows' Corners: Straighten Them Out</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/er-your-content-advanced-techniques-in-youtube-editing/"><u>Empower Your Content Advanced Techniques in YouTube Editing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fixed-excel-2023-found-a-problem-with-one-or-more-formula-stellar-by-stellar-guide/"><u>Fixed Excel 2023 Found a Problem with One or more Formula | Stellar</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-windows-update-issue-with-error-0x8024800c/"><u>Fixing Windows Update Issue with Error 0X8024800C</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-a24-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Samsung Galaxy A24 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-double-clicking-not-opening-folders-on-windows-1110/"><u>How to Fix Double-Clicking Not Opening Folders on Windows 11/10</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-xiaomi-redmi-k70e-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Xiaomi Redmi K70E Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-evaluation-of-tech-products-by-toms-hardware-experts/"><u>In-Depth Evaluation of Tech Products by Tom’s Hardware Experts</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-the-use-of-toolbars-an-insight-into-mspcm-windows-11/"><u>Mastering the Use of Toolbars: An Insight Into MSPCM, Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/peeling-back-the-layers-of-runtime-brokers-on-pcs/"><u>Peeling Back the Layers of Runtime Brokers on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-bypassing-the-components-not-found-issue-on-w10w11/"><u>Quick Fix: Bypassing the Components Not Found Issue on W10/W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-the-cause-of-unregistered-packages-in-windows/"><u>Unraveling the Cause of Unregistered Packages in Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-perfect-ringtones-leading-download-pages-for-2024/"><u>[New] Perfect Ringtones Leading Download Pages for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-photo-retouch-erase-backgrounds-effectively/"><u>[Updated] Mastering Photo Retouch Erase Backgrounds Effectively</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-xerox-printer-drivers-installed-on-windows-computers/"><u>Get Your Xerox Printer Drivers Installed on Windows Computers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-huawei-p60-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Huawei P60 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/leading-the-charge-in-comfort-and-tech-the-premier-wireless-mice-of-2024-unveiled/"><u>Leading the Charge in Comfort and Tech: The Premier Wireless Mice of 2024 Unveiled</u></a></li>
+<li><a href="https://article-files.techidaily.com/maximum-memory-accessory-for-sony-a7s-ii-for-2024/"><u>Maximum Memory Accessory for Sony A7S II for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-dormant-workflow-rules-in-microsoft-outlook/"><u>Reviving Dormant Workflow Rules in Microsoft Outlook</u></a></li>
+<li><a href="https://techtrends.techidaily.com/simplified-steps-to-set-up-and-utilize-apple-pay-via-your-apple-wrist-device/"><u>Simplified Steps to Set Up and Utilize Apple Pay via Your Apple Wrist Device</u></a></li>
+<li><a href="https://windows11.techidaily.com/skillful-art-of-masking-the-search-on-11-taskbar/"><u>Skillful Art of Masking the Search on 11 Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/stealthy-start-concealing-win11s-power-button-in-start-menu/"><u>Stealthy Start: Concealing Win11's Power Button in Start Menu</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-securely-storing-credentials-in-windows-files/"><u>Step-by-Step: Securely Storing Credentials in Windows Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-for-rectifying-audacitys-audio-access-issue/"><u>Steps for Rectifying Audacity’s Audio Access Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-approach-to-fixing-installer-error-in-win11/"><u>Streamlining Your Approach to Fixing Installer Error in Win11</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy M54 5G | Dr.fone</u></a></li>
 </ul></div>
 

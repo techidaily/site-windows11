@@ -1,7 +1,7 @@
 ---
 title: Top 4 Cost-Free Applications for Monitoring and Optimizing Your Windows PC's Storage
-date: 2024-08-31T22:02:53.970Z
-updated: 2024-09-01T22:02:53.970Z
+date: 2024-10-27T17:00:37.762Z
+updated: 2024-10-30T16:08:20.542Z
 tags:
   - windows
 categories:
@@ -28,6 +28,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Wiztree User Interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/wiztree.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [WizTree](https://diskanalyzer.com/download) is our current favorite tool for analyzing disk space. The primary advantage it has is speed. It is _extremely_ fast compared to other programs we tested. Scanning a 1 TB [NVMe SSD](https://digital-screen-recording.techidaily.com/new-2024-approved-audio-capture-for-post-review/) took only 5 seconds, and a 2 TB (mostly full) _mechanical_ hard drive only took 6.1 seconds.
 
  The user interface is very user friendly. You select the drive you want to analyze at the top, then hit scan. It'll take anywhere between a few seconds and a few minutes to analyze your drive, depending on the size and speed of your PC and drives, then you'll be able to choose between a tree view (which is the colorful view in the screenshot above) or a file view, which gives you a more detailed view of individual files. If you click on a file in the tree view, it'll provide more information about the file, like the location and size, and you can right-click a block for additional options. The File View lets you locate duplicate files, search for files by name or size, and a handful of other options you might find useful.
@@ -37,15 +44,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  It is available as both an installer and a portable application, which is handy if you want to load it onto a USB drive to carry with you for those troubleshooting house calls.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  WinDirStat is a Great Classic Option
 
 ![WinDirStat represents files and folders as colorful rectangles.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/img_593eec9ed2237.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [WinDirStat](https://windirstat.net/) is a strong contender for the best storage space analysis software. Its interface allows you to see exactly what's using space on your hard drive at a glance. When you launch WinDirStat, you can tell it to scan all local drives, a single drive like your C: drive, or a specific folder on your computer.
 
  After it finishes scanning, you'll see three panes. On top, there's a [directory](https://extra-information.techidaily.com/quick-and-easy-iphone-burst-techniques/) list that shows you the folders using the most space in descending order. On the bottom, there's a "treemap"
@@ -71,29 +79,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  SpaceSniffer might have issues scanning certain folders unless you [run it as administrator](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  TreeSize Free Has a Slick Interface
 
 ![TreeSize has a more minimalist way of displaying files and folders, but sacrifices no functionality.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/img_593ef108d6c45.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you want something simpler than WinDirStat, [TreeSize Free](http://www.jam-software.de/treesize%5Ffree/) is a good alternative. It provides you with the same directory list and treemap interfaces you'll see in WinDirStat, but it doesn't have WinDirStat's file extension list, and its ribbon-style interface is a little more at home on modern versions of Windows than WinDIrStat's toolbar. TreeSize Free also adds a convenient scan option to Explorer, so you can right-click any folder in File Explorer and Windows Explorer and select "TreeSize Free" to scan its contents.
 
  To view a treemap in TreeSize Free, click View > Show Treemap. As in the other applications here, you can right-click files or folders in the application to delete or open them.
@@ -102,9 +104,6 @@ Key features:
 
  This application is also available as a portable application, so you don't have to install it before running it, if you prefer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Windows' Built-In Storage Usage Tool
 
 ![The Storage view on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/storage-stuff-on-windows-11.png) 
@@ -115,9 +114,6 @@ Key features:
 
  While this tool isn't as powerful as the above ones, it can be helpful for quickly understanding disk usage and freeing space in a pinch.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Clear Disk Space
 
  Once you've identified what is using up all your space, it is a simple matter to free up space. All of the third-party apps we listed allow you to easily open Explorer folder or open a file directly to check out what it is. Just right-click, then click "Open" or "Explorer Here" in the case of WinDirStat or WizTree. You can then delete files as you would normally. Make sure to double check what you're deleting though.
@@ -130,8 +126,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +133,21 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-demystifying-youtube-seo-terminology-and-tactics-for-2024/"><u>[New] Demystifying YouTube SEO Terminology and Tactics for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-fiery-friendship-keeping-your-snapstreak-hot-and-steady/"><u>[New] Fiery Friendship Keeping Your Snapstreak Hot and Steady</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-framework-for-selecting-winning-podcast-names/"><u>[New] The Ultimate Framework for Selecting Winning Podcast Names</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-directed-camera-roll-efficient-sync-with-snapchat-features/"><u>2024 Approved Directed Camera Roll Efficient Sync with Snapchat Features</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024s-optimal-video-capture-equipment-list/"><u>2024’S Optimal Video Capture Equipment List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-macbook-upgrades-of-the-year-2024-in-depth-analysis-and-ratings/"><u>Essential MacBook Upgrades of the Year 2024: In-Depth Analysis and Ratings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-effortlessly-blur-images-captured-by-iphones-4-methods/"><u>How to Effortlessly Blur Images Captured by iPhones (4 Methods)</u></a></li>
+<li><a href="https://windows11.techidaily.com/instant-notify-shutdown-in-windows-11/"><u>Instant Notify Shutdown in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/personalizing-your-workspace-on-pc-themes-from-the-microsoft-store/"><u>Personalizing Your Workspace on PC: Themes From the Microsoft Store</u></a></li>
+<li><a href="https://windows11.techidaily.com/propel-workflow-speed-with-windows-smart-launcher/"><u>Propel Workflow Speed with Windows' Smart Launcher</u></a></li>
+<li><a href="https://windows11.techidaily.com/system-snooze-button-unlocking-windows-top-8-resets/"><u>System Snooze Button: Unlocking Windows' Top 8 Resets</u></a></li>
+<li><a href="https://win-hot.techidaily.com/top-10-solutions-how-to-resolve-itunes-launch-issues-in-windows-10-and-11/"><u>Top 10 Solutions: How to Resolve iTunes Launch Issues in Windows 10 and 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-x-flip-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo X Flip Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-potential-extending-your-pin-on-windows-11/"><u>Unlocking the Potential: Extending Your PIN on Windows 11</u></a></li>
+</ul></div>
 

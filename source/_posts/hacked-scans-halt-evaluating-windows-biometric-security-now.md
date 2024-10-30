@@ -1,7 +1,7 @@
 ---
 title: "Hacked Scans Halt: Evaluating Window's Biometric Security Now"
-date: 2024-10-19T16:53:34.827Z
-updated: 2024-10-24T20:20:17.319Z
+date: 2024-10-24T17:13:31.620Z
+updated: 2024-10-30T17:03:22.837Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,19 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 
  As part of research into Windows Hello's strength, two [white-hat hackers](https://www.makeuseof.com/white-hat-hacker/), Jesse D'Aguanno and Timo Teräs, posted a report on their website, [Blackwing HQ](https://blackwinghq.com/blog/posts/a-touch-of-pwn-part-i/). The report details how they breached three popular devices: the Dell Inspiron 15, Lenovo ThinkPad T14, and the Microsoft Surface Pro Type Cover.
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How the Hackers Breached Windows Hello on the Dell Inspiron 15
 
  For the Dell Inspiron 15, the hackers noticed they could boot into Linux on the laptop. Once logged into Linux, they can register their fingerprints in the system and give it the same ID as the Windows user they want to log into.
@@ -42,10 +55,10 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
  To dodge Windows Hello, the hackers uploaded their fingerprints to the Linux database, assigned it the same ID as the user on Windows, and then tried to log into Windows with their fingerprints. During the authentication process, they redirected the packet to the Linux database, which told Windows that the user at the specified ID was ready to log in.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How the Hackers Breached Windows Hello on the Lenovo ThinkPad T14
@@ -59,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
  The hackers believed the Surface Pro would be the hardest device to crack, but they were surprised to find the Surface Pro lacked a lot of security measures for checking valid fingerprints. In fact, they discovered that they only had to dodge past one defense, then tell the Surface Pro that the fingerprint scan was successful, and the device let them in.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Do These Hacks Mean for You?
@@ -70,13 +83,6 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 ![Professional Thinking With Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/professional-thinking-with-laptop.jpg)
 
  These hacks may sound pretty scary if you use fingerprints to log into your laptop. However, it's essential to remember some crucial things before you forgo fingerprint scans entirely.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. The Attacks Were Performed by Skilled Hackers
 
@@ -96,6 +102,19 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 
 ![The face of a man wearing a hoodie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/hacher-hat.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As stated above, the discovered hacks are complicated to perform and may require the hacker to remove the device to hack into it physically. As such, there's an extremely low chance that these attacks will personally target you.
 
  However, if you're still not satisfied, there are some ways to protect yourself from fingerprint scanner hacks:
@@ -103,13 +122,6 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 ### 1\. Do Not Leave Devices Unattended and Unprotected
 
  Because a hacker will need to interact with your device physically, you should ensure it doesn't fall into the wrong hands. For computers, you can [take steps to stop it from being stolen](https://www.makeuseof.com/tag/stop-entire-desktop-pc-home-office-stolen/). If you're using a laptop, never leave it alone in a public space, and use an [anti-theft laptop bag](https://www.makeuseof.com/tag/anti-theft-laptop-bags/) to stop people from tearing your bag open.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Use a Different Login Method
 
@@ -129,21 +141,24 @@ thumbnail: https://thmb.techidaily.com/de25cad762d1b1da1023e95cc7ce6ed0cc716ab65
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-global-lens-local-tales-how-to-transform-your-travel-experiences-into-content/"><u>[Updated] Global Lens, Local Tales How to Transform Your Travel Experiences Into Content</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-best-of-gopro-cameras-side-by-side/"><u>2024 Approved Exploring the Best of GoPro Cameras Side by Side</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-practical-guide-to-running-ping-efficiently-on-pcs/"><u>A Practical Guide to Running Ping Efficiently on PCs</u></a></li>
-<li><a href="https://windows11.techidaily.com/bridging-the-gap-activating-linux-support-in-windows/"><u>Bridging the Gap: Activating Linux Support in Windows</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/exclusive-guide-best-8-cameras-for-dynamic-livestreams/"><u>Exclusive Guide Best 8 Cameras for Dynamic Livestreams</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-nubia-red-magic-9-proplus-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Nubia Red Magic 9 Pro+ Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/maximizing-visual-quality-with-hdr-on-windows-11/"><u>Maximizing Visual Quality with HDR on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-windows-webcam-dark-screen-issue/"><u>Resolving Windows Webcam Dark Screen Issue</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-your-epson-wf-2630-driver-software-downloads-optimized-for-multiple-windows-platforms-win-7-81-and-10/"><u>Secure Your Epson WF-2630 Driver Software Downloads: Optimized for Multiple Windows Platforms (Win 7, 8.1 & 10)</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/sluggish-ipad-performance-discover-top-8-solutions-for-a-faster-ipad-experience/"><u>Sluggish iPad Performance? Discover Top 8 Solutions for a Faster iPad Experience</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-allot-browser-permission-via-firewall-on-pc/"><u>Steps to Allot Browser Permission via Firewall on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-troubled-windows-registry-with-effective-solutions/"><u>Tackling Troubled Windows Registry with Effective Solutions</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-motorola-razr-40-ultra-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Motorola Razr 40 Ultra</u></a></li>
-<li><a href="https://windows11.techidaily.com/tips-to-mute-game-proposals-in-windows-11/"><u>Tips to Mute Game Proposals in Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-3-best-free-video-converters-in-2019-for-mac-and-pc-convert-high-resolution-4k-to-hd/"><u>Top 3 Best Free Video Converters in 2019 for Mac & PC: Convert High-Resolution 4K to HD</u></a></li>
-<li><a href="https://win-latest.techidaily.com/top-btrfs-data-recovery-software-pour-raid-systemes-solutions-de-sauvegarde-facile/"><u>Top BTRFS Data Recovery Software Pour RAID Systemes - Solutions De Sauvegarde Facile</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-decoding-the-art-of-snaps-a-complete-guide-to-filters-for-2024/"><u>[New] Decoding the Art of Snaps A Complete Guide to Filters for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-growth-by-numbers-tapping-into-youtube-analytics-power-for-2024/"><u>[New] Growth by Numbers Tapping Into YouTube Analytics Power for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-tailored-techniques-for-dynamic-gifs/"><u>2024 Approved Tailored Techniques for Dynamic GIFs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-tutorial-how-to-create-screen-videos-with-audio-on-windows-11/"><u>Complete Tutorial: How to Create Screen Videos with Audio on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-newest-nvidia-rtx-2070-super-gpu-drivers-for-windows-operating-systems/"><u>How to Get the Newest NVIDIA RTX 2070 Super GPU Drivers for Windows Operating Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-install-microsoft-works-on-windows-10-or-11/"><u>How to Install Microsoft Works on Windows 10 or 11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-xiaomi-redmi-note-12-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Xiaomi Redmi Note 12 5G FRP</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-oneplus-nord-n30-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your OnePlus Nord N30 5G Phone Network-Ready</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-psycho-stress-keeping-your-ps4-controller-tethered-to-windows/"><u>Preventing Psycho-Stress: Keeping Your PS4 Controller Tethered to Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/prolonging-windows-space-without-deletion-risks/"><u>Prolonging Windows Space, Without Deletion Risks</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-microsoft-store-apps-windows-11s-guide-to-fixes/"><u>Reinstating Microsoft Store Apps: Windows 11'S Guide to Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-invalid-profiles-on-microsoft-oses-win1011-fix/"><u>Resolving Invalid Profiles on Microsoft OSes: Win10/11 Fix</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-load-error-in-windows-store-application/"><u>Reversing 'Load Error' In Windows Store Application</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/step-forward-with-borders-on-instagram-videos/"><u>Step Forward with Borders on Instagram Videos</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-for-turning-onoff-windows-key-functionality/"><u>Tips for Turning On/Off Windows Key Functionality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unpacking-the-new-features-at-apples-worldwide-developer-conference-2nd25/"><u>Unpacking the New Features at Apple's Worldwide Developer Conference 2nD25</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-winget-woes-solutions-for-windows-11-users/"><u>Unraveling Winget Woes: Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/where-to-find-premium-dj-audios-online/"><u>Where to Find Premium DJ Audios Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/wintoys-decoded-an-introduction-to-a-pivotal-windows-app/"><u>WinToys Decoded: An Introduction to a Pivotal Windows App</u></a></li>
 </ul></div>
 

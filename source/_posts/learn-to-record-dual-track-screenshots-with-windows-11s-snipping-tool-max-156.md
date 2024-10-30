@@ -1,7 +1,7 @@
 ---
 title: Learn to Record Dual-Track Screenshots with Windows 11'S Snipping Tool (Max 156)
-date: 2024-08-27T16:11:08.523Z
-updated: 2024-08-28T16:11:08.523Z
+date: 2024-10-25T17:16:10.845Z
+updated: 2024-10-30T16:52:50.514Z
 tags:
   - windows10
   - windows11
@@ -43,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 ![Grant mic access to Snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/grant-mic-access-to-snipping-tool.jpg)
 9. Close the Settings app.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, the Snipping Tool is ready to capture audio. Here’s how to do it:
 
 1. Relaunch the Snipping Tool app.
@@ -58,8 +65,12 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 ![saving recorded video from snipping tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/saving-recorded-video-from-snipping-tool.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Change the Audio Capture Settings in the Snipping Tool
 
  Follow the steps below to tweak the audio capture settings:
@@ -68,33 +79,34 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 2. Navigate to the top right corner and click on the **see more** (ellipsis) icon, then select **Settings**. Scroll down to the **Screen recording** section.  
 ![Open Snipping tool settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-snipping-tool-settings.jpg)
 3. If you want to always enable microphone recording, click the toggle next to **Include microphone input by default when a screen recording starts**.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. To prevent the system audio capture, disable the toggle next to **Include system audio by default when a screen recording starts**.  
 ![Tweak Snipping tool audio settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/tweak-snipping-tool-audio-settings.jpg)
 5. Close the Snipping Tool.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Is the Audio Recording Feature Any Good?
 
  If you [use an external microphone](https://www.makeuseof.com/questions-ask-before-buying-external-microphone/), the quality of the audio capture is decent. Since you can select the audio input device and mute or unmute the audio capture while video recording, you also have the option to add a voiceover while recording a video, which you can use as a video guide.
 
  The Snipping Tool saves the video recording with the audio capture in MP4 format; it doesn’t create a separate file for the audio recording. But you can [use editing apps like Clipchamp](https://www.makeuseof.com/windows-clipchamp-record-screen-camera/) to separate the audio recording from the video and then tweak it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Capture Audio Along With Your Screen
 
  The Snipping Tool is getting more love from Microsoft and the new audio recording feature makes it a decent app for recording video with audio. You don’t need to use third-party apps like OBS Studio anymore. However, it will take some time for the feature to become available to everyone.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -102,3 +114,27 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-explore-beyond-youtube-with-these-top-5-video-tools-for-2024/"><u>[New] Explore Beyond Youtube with These Top 5 Video Tools for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-guide-to-posting-twitter-clips-on-facebook-platform-for-2024/"><u>[Updated] The Guide to Posting Twitter Clips on Facebook Platform for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-audience-engagement-on-demand-top-5-mac-streaming-tools/"><u>2024 Approved Audience Engagement On Demand Top 5 Mac Streaming Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-7-note-taking-tools-ultimate-guide-for-ipad-and-ipad-pro-users/"><u>Best 7 Note-Taking Tools: Ultimate Guide for iPad & iPad Pro Users</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/collaborate-with-winxdvd-a-strategic-partnership/"><u>Collaborate with WinXDVD – A Strategic Partnership</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-will-eliminating-taskbar-chat-from-windows-11-change-your-user-experience/"><u>How Will Eliminating Taskbar Chat From Windows 11 Change Your User Experience?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-infinix-note-30-vip-racing-edition-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Infinix Note 30 VIP Racing Edition For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastery-over-taskbar-icon-separation-in-win-11/"><u>Mastery Over Taskbar Icon Separation in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-windows-11s-application-management-capabilities-with-winget/"><u>Maximizing Windows 11'S Application Management Capabilities with Winget</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-store-sign-in-woes-heres-how-to-fix-it/"><u>Microsoft Store Sign-In Woes? Here's How to Fix It</u></a></li>
+<li><a href="https://windows11.techidaily.com/modernize-windows-shift-to-enhanced-tiled-workspace/"><u>Modernize Windows: Shift to Enhanced Tiled Workspace</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/polishing-screens-incorporating-filters-in-video/"><u>Polishing Screens Incorporating Filters in Video</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-addressing-need-to-quit-in-roblox-on-pc/"><u>Quick Guide: Addressing Need To Quit in Roblox on PC</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellars-expert-tips-and-handy-tools-for-diy-enthusiasts/"><u>Stellar's Expert Tips and Handy Tools for DIY Enthusiasts</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/troubleshoot-deskjet-printer-in-windows-os/"><u>Troubleshoot Deskjet Printer in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblocking-windows-notification-blockade-from-phone-link/"><u>Unblocking Windows Notification Blockade From Phone Link</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-over-frozen-exe-files-on-your-computer/"><u>Win Over Frozen Exe Files on Your Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-startup-guide-navigating-accessibility-features/"><u>Windows Startup Guide: Navigating Accessibility Features</u></a></li>
+</ul></div>
+

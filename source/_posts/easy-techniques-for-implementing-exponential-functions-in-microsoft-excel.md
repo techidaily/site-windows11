@@ -1,7 +1,7 @@
 ---
 title: Easy Techniques for Implementing Exponential Functions in Microsoft Excel
-date: 2024-08-31T22:04:14.968Z
-updated: 2024-09-01T22:04:14.968Z
+date: 2024-10-29T16:37:59.559Z
+updated: 2024-10-30T16:06:31.832Z
 tags:
   - excel
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
  Exponents are simply repeated multiplications. For example, four to the third power (4³) isn’t 4 x 3, it's 4 x 4 x 4, which equals a total of 64\. If that sounds complicated, fear not; Excel can do the heavy lifting for you!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Display Exponents in Excel
 
  Before we learn how to use exponents, we’ll start with a quick example of how to type them in Excel. In this case, we’ll need to employ the Superscript function, so we can display the exponent.
@@ -31,9 +38,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![select text excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/text.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In the same cell, type both the base number and exponent without any spaces between them. In our example, we’re going to find 10³ (10 x 10 x 10). Our base number is 10 and three is the exponent.
 
 ![write exponent](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/exponent.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, highlight your exponent; in our example, it's the three.
 
@@ -48,8 +69,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ![check superscript box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/superscript-ok.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Use Exponents in the Formula Bar
 
  You can also use exponents in the Excel Formula bar. To do so, click the empty cell where you’d like to display the result of a calculation.
@@ -57,30 +88,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ![click empty cell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/empty-cell-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You plug your exponent into the following formula: "=Power(number,power)." We'll use 10⁴ for our example, so we type "=Power(10,4)" (without the quotation marks) in the formula bar.
 
 ![excel formula](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/power-formula.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  To execute the formula, press Enter or click the checkmark to the left of the formula bar.
 
 ![click checkmark to execute](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/checkmark.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Use Exponents in an Individual Cell
 
  If you want to perform the calculation inside a cell, you can skip the formula bar entirely and use a bit of Excel shorthand, instead.
@@ -89,9 +110,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![excel shorthand formula](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/10/shorthand.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Regardless of how you get there, the answer will be the same. If you're short on time, finding the solution to an exponent in Excel is a quick alternative to manual calculations.
 
 <ins class="adsbygoogle"
@@ -100,8 +118,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +125,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-signs-that-youve-been-muted-by-someone/"><u>[New] In 2024, Signs That You've Been Muted by Someone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-virtual-vistas-of-video-select-top-6-apps-for-macos-big-surs-editors/"><u>[New] In 2024, Virtual Vistas of Video Select Top 6 Apps for macOS Big Sur's Editors</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-pushing-the-limits-with-gopro-film-techniques/"><u>[New] Pushing the Limits with GoPro Film Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-analysis-the-role-and-performance-of-western-digital-datalabs-in-drive-health-checks/"><u>Comprehensive Analysis: The Role and Performance of Western Digital DataLabs in Drive Health Checks</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reactivate-a-non-operational-lunar-client-in-os/"><u>How to Reactivate a Non-Operational Lunar Client in OS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-intro-to-graphic-motion-artistry-and-usage/"><u>In 2024, Intro to Graphic Motion Artistry and Usage</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-meizu-21-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Meizu 21 Phones</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-world-of-remote-device-collaboration-googlewindows/"><u>Navigating the World of Remote Device Collaboration: Google/Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-screen-not-responsive-in-windows-11-and-11/"><u>Resolving Screen Not Responsive in Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/solo-system-imaging-techniques-for-win-users/"><u>Solo System Imaging Techniques for Win Users</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209742300-9781722523244-the-miracle-habits/"><u>The Miracle Habits | Free Book</u></a></li>
+</ul></div>
 

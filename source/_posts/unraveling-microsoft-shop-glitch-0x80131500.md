@@ -1,7 +1,7 @@
 ---
 title: Unraveling Microsoft Shop Glitch #0X80131500
-date: 2024-08-27T16:11:31.601Z
-updated: 2024-08-28T16:11:31.601Z
+date: 2024-10-29T16:06:25.712Z
+updated: 2024-10-30T16:39:36.101Z
 tags:
   - windows10
   - windows11
@@ -41,12 +41,23 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 4. Scroll down and click on the **Terminate** button.  
 ![Terminate and Reopen Microsoft Store App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/terminate-and-reopen-microsoft-store-app.jpg)
 5. Press the **Win + R**, which is one of the many [ways to launch the Run command box](https://www.makeuseof.com/windows-open-run-command-dialog-box/). Then type **ms-windows-store:** into the text box and press **Enter**.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Microsoft Store app will launch. Check if it displays the error code now.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Restart Your System
 
  If terminating the Microsoft Store app didn’t do any good, you must restart your system. Restarting is the oldest trick in the book which clears the memory and restarts all the essential services and programs. Press the Win key and click on the Power icon. Then select the Restart option.
@@ -75,8 +86,19 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 4. Exit the settings app and launch the Microsoft Store.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Repair or Reset the Microsoft Store App
 
  Repairing the app can fix missing or corrupt files which prevent the app from working properly. If that fails to do the trick, you can also reset the Microsoft Store app.
@@ -91,9 +113,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ![Repair or Reset the Microsoft Store App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/repair-or-reset-the-microsoft-store-app.jpg)
 6. Close the settings app and restart your system. Launch the Microsoft Store app and check if the error code pops up.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## 6\. Update Windows
 
  An outdated version of Windows can pose problems when you try to run the app. Windows updates fix any existing problems with the app. Here’s how to update Windows on your system:
@@ -107,6 +126,13 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 6. Windows will download and install the updates. You must restart your system to finish applying the new updates.
 7. Relaunch the Microsoft Store and check if you see the error code again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Sign Out and In Again
 
  Repeat the following steps to sign out and back into the Microsoft Store.
@@ -118,13 +144,14 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 5. Click on the Microsoft account you use on your Windows PC and click on **Continue**.  
 ![Sign Out and Again Sign in](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/sign-out-and-again-sign-in.jpg)
 6. Enter the system **PIN** to confirm the login.
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Check the BITS and Windows Update Service
 
  If the Background Intelligent Transfer Service or the Windows Update service is disabled, the Microsoft Store can encounter the error code. So, you must check the status of these services and configure them to run automatically. Here's how:
@@ -134,9 +161,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 3. Go to the **Startup type:** section and click on it to open the drop-down list. Select the **Automatic** option.  
 ![Configure BITS service](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/configure-bits-service.jpg)
 4. Click on the **Apply** button.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Now, click on the **Start** button and then click on the **OK** button.
 6. Next, locate the **Windows Update** service and double-click on it to open its properties.
 7. Find the **Startup type:** section and click on it to expand the drop-down list. Click on the **Automatic** option.  
@@ -155,12 +179,16 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 4. Similarly, uncheck the checkboxes next to **Use TLS 1.1** and **Use SSL 3.0** options as well.  
 ![TWeak internet options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/tweak-internet-options.jpg)
 5. Now, click on the **Apply** button.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click on the **OK** button and close the Internet Options window.
 7. **Restart** your PC to apply the changes.
 8. Log in to your PC and launch the Microsoft Store app. Check if the error code appears again or not.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Uninstall and Reinstall the Microsoft Store
 
@@ -175,8 +203,12 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ![Uninstall and Reinstall Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/uninstall-and-reinstall-microsoft-store.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 11\. Run an SFC and DISM Scan
 
  If reinstalling the app doesn’t do the trick, run an SFC scan followed by a DISM scan. It will fix file corruption on Windows and even repair Windows installation. Here’s how to do it:
@@ -187,23 +219,15 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 4. Exit the command prompt and **restart** your system.
 5. Now, open the Microsoft Store and check if it encounters an error.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## 12\. Reset Windows
 
  The last resort is to [reset Windows](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/), which will reinstall your operating system and its included services. If you don’t want to lose your personal files, you can choose the **Keep my files** option while resetting Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## This Microsoft Store Error Won’t Bug You Anymore
 
  Start with the basic troubleshooting methods. After that, set up your device region correctly and sync the system date and time with the Windows server. If that doesn’t do the trick, reset Microsoft Store and then reinstall the app on your system. Use the Windows Reset option as a last resort and back up your files before doing it.
 
  They cannot access the store and see the “**This page could not be loaded. Please try again later.**” message along with the error code listed below. If you face the same issue, don’t worry. We will list out the possible reasons for this Microsoft error code along with potential fixes.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -211,3 +235,27 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-invisible-viewers-for-fb-chronicles/"><u>[Updated] In 2024, Invisible Viewers for FB Chronicles</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-quick-file-integration-from-pc-to-iphone/"><u>2024 Approved Quick File Integration From PC to iPhone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-for-resolving-netflixs-error-code-ui-800-3/"><u>Expert Advice for Resolving Netflix's Error Code UI-800-3</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-your-unresponsive-xbox-controllers-on-pc/"><u>Fixing Your Unresponsive Xbox Controllers on PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-your-device-top-6-windows-pc-model-names/"><u>Identifying Your Device: Top 6 Windows PC Model Names</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-the-mark-crafting-unique-podcast-graphics/"><u>In 2024, Mastering the Mark Crafting Unique Podcast Graphics</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/hing-into-youtube-success-a-starter-guide-for-profit-for-2024/"><u>Launching Into Youtube Success A Starter Guide for Profit for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-easily-getting-outlook-preview-on-winoss/"><u>Navigate Easily: Getting Outlook Preview on WinOSs</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/navigating-immediate-account-suspension-due-to-copyright-violations/"><u>Navigating Immediate Account Suspension Due to Copyright Violations</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-non-operational-windows-programs-with-7-strategies/"><u>Navigating Non-Operational Windows Programs with 7 Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-text-pasting-in-powertoys-quickly/"><u>Navigating Text Pasting in PowerToys Quickly</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-code-0x0000004e-anomalies/"><u>Navigating Through Code 0X0000004E Anomalies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/professional-advice-on-preserving-the-clarity-of-your-flat-screen-television-display/"><u>Professional Advice on Preserving the Clarity of Your Flat-Screen Television Display</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaim-lost-boot-prompts-uefi-fixes/"><u>Reclaim Lost Boot Prompts: UEFI Fixes</u></a></li>
+<li><a href="https://win-special.techidaily.com/reviving-removed-internet-searches-and-activities-in-google-accounts/"><u>Reviving Removed Internet Searches and Activities in Google Accounts</u></a></li>
+<li><a href="https://windows11.techidaily.com/transformative-ways-to-customize-windows-11-ui/"><u>Transformative Ways to Customize Windows 11 UI</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-potential-understanding-function-fn-key-operations/"><u>Unleash Potential: Understanding Function (Fn) Key Operations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/visual-tutorial-effortless-dvd-extraction-via-handbrake-detailed-instructions-and-images/"><u>Visual Tutorial: Effortless DVD Extraction via HandBrake - Detailed Instructions & Images</u></a></li>
+</ul></div>
+

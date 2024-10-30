@@ -1,7 +1,7 @@
 ---
 title: Learning Excel From Scratch? Top 6 Skills You Need to Get Started!
-date: 2024-08-31T22:04:28.289Z
-updated: 2024-09-01T22:04:28.289Z
+date: 2024-10-26T16:46:50.955Z
+updated: 2024-10-30T16:29:16.301Z
 tags:
   - excel
 categories:
@@ -42,11 +42,15 @@ Related: [All the Best Microsoft Excel Keyboard Shortcuts](https://eaxpv-info.te
 
 ![Paste button in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Paste-ExcelBeginnersBasics.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For more ways to paste like multiplying numbers as you do, look at our how-to on [using Paste Special in Excel](https://extra-support.techidaily.com/2024-approved-step-by-step-perfectly-sharing-your-photography-on-youtube/).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Managing Spreadsheets
 
  You can add many sheets to your Excel workbook. This is handy for handling projects that require separate spreadsheets.
@@ -57,26 +61,32 @@ Related: [How to Change the Color of the Worksheet Tabs in Excel](https://eaxpv-
 
 ![Plus sign to add a sheet in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/InsertSheet-ExcelBeginnersBasics.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Alternatively, go to the Home tab, select the Insert drop-down box in the Cells section of the ribbon, and pick "Insert Sheet." This adds a spreadsheet to the left of the active one.
 
 ![Plus sign to add a sheet in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/InsertSheet-ExcelBeginnersBasics.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  When you add a sheet, it has a default name of Sheet with a number. So, you'll see Sheet1, Sheet2, and so on. To rename a sheet, double-click the current name or right-click and pick "Rename." Then, type the new name and press Enter or Return.
 
 ![Rename in the sheet menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/RenameSheet-ExcelBeginnersBasics.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To rearrange sheets, select one and drag it left or right to the spot where you want it. Then, release.
 
 ![Rearranged sheets in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/RearrangeSheets-ExcelBeginnersBasics.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To [color the tab for a sheet](https://eaxpv-info.techidaily.com/updated-harness-your-view-count-cross-platform-studio-methods-for-2024/), right-click the tab, move to Tab Color, and select a color in the pop-out menu. This is a great way to spot certain sheets at a glance or color-code them for specific tasks.
 
 ![Tab Color in the sheet menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ColorSheet-ExcelBeginnersBasics.png) 
@@ -101,8 +111,12 @@ Related: [How to Add and Remove Columns and Rows in Microsoft Excel](https://art
 ![Insert Sheet Columns and Rows on the Home tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/InsertColumnRow-ExcelBeginnersBasics.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Both of the above actions insert a column to the left of the selected column or a row above the selected row.
 
 ###  Remove a Column or Row
@@ -116,9 +130,6 @@ Related: [How to Add and Remove Columns and Rows in Microsoft Excel](https://art
 
  For more, look at our tutorial for [inserting multiple rows in Excel](https://some-tips.techidaily.com/in-2024-stream-side-stacking-pewdiepies-payday-portion/).
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Formatting Numbers
 
  When you [enter numbers in Excel](https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-redmi-12-5g-without-them-knowing-drfone-by-drfone-virtual-android/), you can format them as ordinary numbers, currencies, decimals, percentages, dates, times, and fractions. 
@@ -129,12 +140,22 @@ Related: [How to Use the Accounting Number Format in Microsoft Excel](https://an
 
 ![Number formats in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FormatNumber-ExcelBeginnersBasics.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Pick the format you want, and you'll see your data update.
 
 ![Currency format in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/FormattedNumber-ExcelBeginnersBasics.png) 
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also choose the style for the number format you use. Click the small arrow on the bottom right of the Number section in the ribbon.
 
@@ -149,8 +170,18 @@ Related: [How to Use the Accounting Number Format in Microsoft Excel](https://an
  After you make your selections, click "OK" to apply them to the value.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Formatting Fonts and Cells
 
  Along with formatting the data within a cell, you can format the cell itself. You may want to use a specific font style, [apply a cell border](https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-14-by-drfone-ios/), or add shading to a cell.
@@ -169,9 +200,6 @@ Related: [How To Add and Change Cell Borders In Excel](https://activate-lock.tec
 
 **Fill and font colors**: Select the Fill Color drop-down box to pick a color for the cell or the Font Color box to pick a color for the font.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Performing Quick Calculations
 
  When you work with numbers in your sheet, it's common to perform calculations. Rather than delve into creating formulas in Excel, which is a bit more advanced, you can quickly add, average, or get the minimum or maximum number in a data set.
@@ -182,34 +210,35 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Cell B7 highlighted on a sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/CellB7-ExcelBeginnersBasics.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  Head to the Home tab and select the Sum drop-down box in the Editing section of the ribbon. You'll see the basic calculations you can perform. For our example, we select "Sum."
 
 ![Calculations in the Sum menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/SumCalculations-ExcelBeginnersBasics.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll then see Excel highlight the cells it believes you want to calculate. It also shows you [the function](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/) and formula it'll use. Simply press Enter or Return to accept the suggestion and get the result.
 
 ![Sum formula and result in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Sum-ExcelBeginnersBasics.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Alternatively, you can start by selecting the cells you want to calculate. Then, choose the calculation from the Sum drop-down box. 
 
 ![Selected cells and the Sum menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/SumSelected-ExcelBeginnersBasics.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll see the result of the calculation below cells in a column or to the right of cells in a row.
 
 ![Sum result in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/SummedSelected-ExcelBeginnersBasics.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As an Excel beginner, these basic tasks should get you off to a great start using the application. Once you master these actions, be sure to check out our additional Excel articles for things like [creating a graph](https://technical-tips.techidaily.com/top-techniques-for-enhancing-photo-quality-on-your-ios-device/), [using a table](https://instagram-videos.techidaily.com/updated-2024-approved-how-to-convert-your-best-videography-into-melodic-mp3s-insta/), and [sorting or filtering data](https://facebook-video-share.techidaily.com/free-audio-treasures-to-amplify-youtube-in-2024/).
 
@@ -219,8 +248,6 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -228,4 +255,24 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-soundwaves-compreeved-websites-for-skype-audio/"><u>[New] 2024 Approved The Soundwaves Compreeved Websites for Skype Audio</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-srgb-standardization-versus-classic-rgb-model-for-2024/"><u>[New] Srgb Standardization Versus Classic Rgb Model for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-user-friendly-instructions-installing-snapchat-on-macos-for-2024/"><u>[New] User-Friendly Instructions Installing Snapchat on macOS for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-achieve-pristine-sound-in-recordings-free-tutorial-paid-tools/"><u>2024 Approved Achieve Pristine Sound in Recordings (Free Tutorial, Paid Tools)</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-for-cc-fixes-on-windows-11/"><u>Essential Steps for CC Fixes on Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Realme GT Neo 5 SE? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-the-art-of-remedying-voice-typing-flaws-in-windows-11/"><u>Master the Art of Remedying Voice Typing Flaws in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-steps-to-overcome-a-freeze-in-windows-based-itunes/"><u>Quick Steps to Overcome a Freeze in Windows-Based iTunes</u></a></li>
+<li><a href="https://windows11.techidaily.com/redefining-window-11-interface-top-6-upgrades-for-the-taskbar/"><u>Redefining Window 11 Interface: Top 6 Upgrades for the Taskbar</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/resolutions-for-a-successful-new-year/"><u>Resolutions for a Successful New Year</u></a></li>
+<li><a href="https://windows11.techidaily.com/revive-dropped-items-in-windows-11/"><u>Revive Dropped Items in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-your-os-without-bitlockers-assistance/"><u>Securing Your OS Without BitLocker's Assistance</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamline-menu-navigation-by-omitting-windows-11-extras/"><u>Streamline Menu Navigation by Omitting Windows 11 Extras</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-shared-device-with-two-users-and-one-ms-error/"><u>Tackling Shared Device with Two Users and One MS Error</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/976827-9781101603826-the-little-book-of-energy-medicine/"><u>The Little Book of Energy Medicine | Free Book</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-unseen-aspects-of-drone-shopping-you-mustnt-ignore/"><u>The Unseen Aspects of Drone Shopping You Mustn’t Ignore</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-canon-pixma-mg3600mx410-driver-on-windows/"><u>Update Your Canon PIXMA MG3600/MX410 Driver on Windows</u></a></li>
+</ul></div>
 

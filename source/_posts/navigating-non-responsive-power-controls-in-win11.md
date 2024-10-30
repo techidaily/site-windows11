@@ -1,7 +1,7 @@
 ---
 title: Navigating Non-Responsive Power Controls in Win11
-date: 2024-10-23T19:22:16.648Z
-updated: 2024-10-24T18:33:20.341Z
+date: 2024-10-29T17:00:21.490Z
+updated: 2024-10-30T16:10:58.548Z
 tags:
   - windows10
   - windows11
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/0c8f696950ea736c2174f2d7e8a74906124afdbd8
 
  Now that we know what can cause the problem, let's look at what you can do to solve it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Change the Power Plan
 
  The first thing we recommend you do is switch to a different power plan, especially if you are using a custom power plan. We suggest shifting to the Balanced plan and checking if that fixes the issue. This plan optimizes the performance automatically. This means it will activate the full performance mode when you are actively using the computer and switch to the power-saving mode when you are not.
@@ -42,27 +49,20 @@ Here is how you can proceed:
 ![Click on Large icons option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/large-icons-control-panel.jpg)
 4. Now, look for**Power options** and click on it.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Click on Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/win11-power-options.jpg)
 5. You should now be able to see your current power plan. Click on**Create a power plan** in the left pane.  
 ![Create a power plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/04/create-power-plan-1.jpg)
 6. Choose the**Balanced power plan** and click**Next** \>**Create** .  
 ![Click on the Create button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/create-power-plan-next-create.jpg)
 
-Once done, check if you can now change the power mode successfully.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Once done, check if you can now change the power mode successfully.
 
 ## 2\. Run the Power Troubleshooter
 
@@ -78,15 +78,15 @@ Here is how you can run the troubleshooter:
 ![Click on Other troubleshooters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/other-troubleshooters-win11.jpg)
 4. Now, look for the Power troubleshooter and click on the**Run** button for it.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Run the Power troubleshooter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/power-troubleshooter-win11.jpg)
 5. Wait for the troubleshooter to complete its process, and then check the results. If the troubleshooter has found any issues, click on**Apply this fix** to proceed with the relevant solutions. Otherwise, click on**Close the troubleshooter** and move to the next method below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Reset the Power Settings
 
@@ -102,6 +102,13 @@ powercfg –restoredefaultscheme
 ![Restore the default power theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/powercfg-restoredefaultschemes.jpg)
 5. Once the command is executed, check if you can change the power mode successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In case the power plan changes again after a short while of executing this method, you will need to make changes as an administrator in the Group Policy Editor.
 
 Here is how you can do that:
@@ -113,22 +120,15 @@ Computer Configuration -> Administrative Templates -> System -> Power Management
 ![Choose the Select an active power plan policy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/select-an-active-power-plan.jpg)
 4. Choose**Enabled** and then choose the targeted power plan from the dropdown.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Click**Apply** \>**OK** to save the changes, and then restart your computer.
 
 Hopefully, this will resolve the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Revert the System to an Older Working State
@@ -160,22 +160,20 @@ Hopefully, this will resolve the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-childhood-chuckles-hilarious-kid-friendly-games/"><u>[New] 2024 Approved Childhood Chuckles Hilarious Kid-Friendly Games</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-capturing-horizon-views-for-successful-drone-livestreams-for-2024/"><u>[New] Capturing Horizon Views for Successful Drone Livestreams for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/44cm44kq44oz44op44kk44oz44of44o844og44kj44oz44kw6yyy55s744ov44kh44kk44or5yih44kk5yplusw44kk5oml6acg44ks44kk44oj44cn/"><u>「オンラインミーティング録画ファイル切り取り手順ガイド」</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-comprehensive-list-of-fixes-for-disappearing-windows-in-windows-11/"><u>A Comprehensive List of Fixes for Disappearing Windows in Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-step-by-step-approach-to-crafting-slideshows-and-fixing-flaws-in-win11s-photos-app/"><u>A Step-by-Step Approach to Crafting Slideshows & Fixing Flaws in Win11's Photos App</u></a></li>
-<li><a href="https://windows11.techidaily.com/baffling-boot-concealing-power-buttons-on-windows-11/"><u>Baffling Boot: Concealing Power Buttons on Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-poco-x6-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Poco X6</u></a></li>
-<li><a href="https://windows11.techidaily.com/classify-your-hdd-or-ssd-with-ease/"><u>Classify Your HDD or SSD with Ease</u></a></li>
-<li><a href="https://windows11.techidaily.com/combatting-filesystem-crashes-in-win11/"><u>Combatting FileSystem Crashes in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-share-problems-in-geforce-software-windows/"><u>Correcting Share Problems in GeForce Software (Windows)</u></a></li>
-<li><a href="https://windows11.techidaily.com/cutting-edge-clearance-top-techniques-for-latency-free-video-on-pc/"><u>Cutting-Edge Clearance: Top Techniques for Latency-Free Video on PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-vivo-v29-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Vivo V29 Phones</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-how-to-fix-team-fortress-2-wont-start-up-issues/"><u>Resolved: How to Fix 'Team Fortress 2 Won't Start Up' Issues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-power-of-possibilities-exploring-the-advantages-of-apples-enhanced-nfc-support-in-iphones-for-app-innovation/"><u>The Power of Possibilities: Exploring the Advantages of Apple's Enhanced NFC Support in iPhones for App Innovation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-the-art-of-perfectly-matching-your-devices-with-bose-soundlink/"><u>Ultimate Guide: The Art of Perfectly Matching Your Devices with Bose SoundLink</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719252317464-understanding-and-fixing-the-common-problem-of-wwinplusp-not-working/"><u>Understanding and Fixing the Common Problem of WWin+P Not Working</u></a></li>
-<li><a href="https://win11.techidaily.com/win-11-unlinking-saved-wi-fi/"><u>Win 11: Unlinking Saved Wi-Fi</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-capturing-slideshows-on-screen-webcam-tips-and-tricks/"><u>[Updated] Capturing Slideshows on Screen Webcam Tips and Tricks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-acoustic-architects-building-with-mac-studios/"><u>2024 Approved Acoustic Architects Building with Mac Studios</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-peaceful-rhythm-the-best-chill-country-music-for-relaxing-dance-parties-on-tiktok/"><u>2024 Approved Peaceful Rhythm The Best Chill Country Music for Relaxing Dance Parties on TikTok</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-stop-recurring-windows-settings-crashes/"><u>How to Stop Recurring Windows Settings Crashes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ios-leading-edge-psp-emulators-top-5-lists/"><u>IOS Leading Edge PSP Emulators, Top 5 Lists</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-context-menu-captivity-in-windows-systems/"><u>Overcome Context Menu Captivity in Windows Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/professional-strategies-to-download-netflix-originals-and-movies-safely-on-your-pc-or-macbook/"><u>Professional Strategies to Download Netflix Originals and Movies Safely on Your PC or MacBook</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlined-microsoft-teams-quick-and-lightweight/"><u>Streamlined Microsoft Teams: Quick & Lightweight</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-sound-glitches-on-windows-11-error-0xc00d36b4/"><u>Tackling Sound Glitches on Windows 11: Error 0XC00D36B4</u></a></li>
+<li><a href="https://windows11.techidaily.com/tactics-for-mending-fatal-discord-javascript-crashes-on-windows-1011/"><u>Tactics for Mending Fatal Discord Javascript Crashes on Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-correcting-error-0x8007251d-in-win-os/"><u>Understanding and Correcting Error 0X8007251d in Win OS</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-effortless-video-import-and-export-tips-and-tricks-for-adobe-premiere-users-for-2024/"><u>Updated Effortless Video Import and Export Tips and Tricks for Adobe Premiere Users for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/which-browser-minimizes-cpu-and-ram-on-triple-system-os/"><u>Which Browser Minimizes CPU and RAM On Triple System OS?</u></a></li>
 </ul></div>
 

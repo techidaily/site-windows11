@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Extracting Data From Microsoft Excel's Status Bar"
-date: 2024-08-31T22:03:28.545Z
-updated: 2024-09-01T22:03:28.545Z
+date: 2024-10-24T16:26:26.547Z
+updated: 2024-10-30T16:22:10.670Z
 tags:
   - excel
 categories:
@@ -32,8 +32,25 @@ Related: [How to Customize and Use the Status Bar in Excel](https://win-blog.tec
 ![Status Bar selected calculations](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/SelectedValues-ExcelStatusBarCopy.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Select the Cells to View the Calculations
 
  Calculations like [average](https://win-able.techidaily.com/fixing-overwatch-startup-issues-how-to-get-rid-of-the-persistent-black-screen/), sum, minimum, maximum, and others only display in the Status Bar when they apply. This means you'll need to select the cells in your sheet to show those calculations.
@@ -45,11 +62,25 @@ Related: [How to Calculate Average in Microsoft Excel](https://win-able.techidai
 ![Status Bar calculations](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Values-ExcelStatusBarCopy.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Copy the Status Bar Values
 
  Once you select the cells and see the calculations at the bottom, simply click the value you want in the Status Bar. This places it on your clipboard. You can then [paste](https://facebook-videos.techidaily.com/new-ultimate-collection-20-chuckle-inducing-detention-cell-photos-for-a-better-day-for-2024/) it directly in your sheet or another application.
@@ -64,9 +95,6 @@ Related: [How to Paste Text Without Formatting Almost Anywhere](https://facebook
 
 ![Paste a Status Bar value](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Paste-ExcelStatusBarCopy.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  Sometimes small updates to applications we use daily like Microsoft Excel are the best kind. This handy feature allows you to [add calculations to your spreadsheets](https://screen-activity-recording.techidaily.com/detailed-guide-to-screen-record-skype-via-obs-for-2024/) easier than ever before.
 
 <ins class="adsbygoogle"
@@ -75,8 +103,6 @@ Related: [How to Paste Text Without Formatting Almost Anywhere](https://facebook
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,4 +110,24 @@ Related: [How to Paste Text Without Formatting Almost Anywhere](https://facebook
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-tune-tracker-latest-audio-tech/"><u>[New] In 2024, Tune Tracker Latest Audio Tech</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-5-mac-alternatives-to-bandicam-for-video-capture-for-2024/"><u>[New] Top 5 Mac Alternatives to Bandicam for Video Capture for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-space-to-nature-yts-guide-for-dynamic-green-screen-filmmaking/"><u>[Updated] 2024 Approved From Space to Nature YT's Guide for Dynamic Green Screen Filmmaking</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-from-playback-to-perfection-expert-steam-video-guidance-for-2024/"><u>[Updated] From Playback to Perfection Expert Steam Video Guidance for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/avi-to-mp4-transformation-no-cost-solutions-for-web-and-macos-users/"><u>Avi to Mp4 Transformation: No Cost Solutions for Web and macOS Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/dual-angles-debate-vertical-vs-horizontal-fb-videos-for-2024/"><u>Dual Angles Debate Vertical vs Horizontal FB Videos for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-no-supported-devices-problem-in-windows-update/"><u>Handling 'No Supported Devices' Problem in Windows Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-repair-unable-to-fetch-error-in-nvidia-geforce-experience/"><u>How To Repair 'Unable To Fetch' Error in NVIDIA GeForce Experience</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-google-pixel-fold-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Google Pixel Fold Phones</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-repairing-windows-email-failures-error-code-0x800713f/"><u>Mastering the Art of Repairing Windows' Email Failures (Error Code 0X800713F)</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-task-scheduler-for-file-batch-execution/"><u>Mastering Windows Task Scheduler for File Batch Execution</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-two-users-shared-ms-login-fails/"><u>Navigating Through Two Users' Shared MS Login Fails</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/quick-guide-bulk-deleting-images-on-your-iphone-8-plus-or-x-top-five-methods/"><u>Quick Guide: Bulk Deleting Images on Your iPhone 8, Plus or X – Top Five Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinvigorate-discolored-volume-settings-in-win/"><u>Reinvigorate Discolored Volume Settings in Win</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncovering-and-correcting-cant-access-mail-errors-in-windows-11-mail-app/"><u>Uncovering and Correcting Can't Access Mail Errors in Windows 11 Mail App</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-transition-phasing-out-old-traits/"><u>Windows Transition: Phasing Out Old Traits</u></a></li>
+</ul></div>
 

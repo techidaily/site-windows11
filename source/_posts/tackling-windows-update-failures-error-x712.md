@@ -1,7 +1,7 @@
 ---
 title: "Tackling Windows Update Failures: Error X712"
-date: 2024-08-27T16:13:21.179Z
-updated: 2024-08-28T16:13:21.179Z
+date: 2024-10-25T16:15:33.078Z
+updated: 2024-10-30T16:51:09.741Z
 tags:
   - windows10
   - windows11
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/9fa9e4346708270d82530e01172580b66a8c63e17
 6. Wait for the Windows Update troubleshooter to identify problems. Click on the**Next** button.
 7. Close the troubleshooter window and reattempt the Windows update installation.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Perform a Complete system shutdown
 
  Windows OS enables the fast startup option by default. Even if you restart your system, or shut it down, it preserves the system state using hibernate. So, you need to perform a complete system shutdown and then power it back on to close and restart all background services.
@@ -45,9 +52,6 @@ Here’s how to perform a complete system shutdown:
 4. Your system will power off. It will take a tad bit longer that a normal shutdown procedure.
 5. Now, restart your Windows PC and try to install the Windows update.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Restart Windows Update services
 
  Windows Update uses a bunch of background services to fetch and download updates. If these services aren’t running automatically, you will encounter an error. These include**Windows Update Service** ,**Windows Installer Service** ,**Cryptographic Services** , and**Background Intelligent Transfer Service** .
@@ -62,9 +66,6 @@ Repeat the following steps to start the necessary services:
 5. Similarly, set all the services as automatic and manually start them.
 6. **Close** the Services window and reattempt the Windows update.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Run the Disk Cleanup Tool
 
  Disk Cleanup can wipe the delivery optimization files, old Windows update files as well as the Temp folder. If files in these locations are corrupted, they can interfere with the normal update process. Here’s how to run disk cleanup on Windows:
@@ -78,8 +79,12 @@ Repeat the following steps to start the necessary services:
 6. Lastly, click on the**Delete files** button.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Rename the SoftwareDistribution Folder
 
  Windows update stores its content in the SoftwareDistribution folder. Since it is located inside the Windows folder in the C drive, you mustn’t delete it. Instead, you can rename the folder to force the update service to recreate the folder again.
@@ -91,20 +96,29 @@ Repeat the following steps:
  net stop wuauserv net stop cryptSvc net stop bits net stop msiserver  
 ![Rename the SoftwareDistribution Folder](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder.jpg)
 3. Once these services stop running, type**cls** in the command prompt windows. Then enter the following commands:  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  ren C:\\Windows\\SoftwareDistribution SoftwareDistribution.old ren C:\\Windows\\System32\\catroot2 Catroot2.old  
 ![Rename the SoftwareDistribution Folder 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-2.jpg)
 4. Both the above commands rename the**SoftwareDistribution** folder and**Catroot2** folder.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Now, you need to restart all the Windows services you stopped in step 3\. Enter the following commands:  
 net start wuauserv net start cryptSvc net start bits net start msiserver  
 ![Rename the SoftwareDistribution Folder 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/rename-the-softwaredistribution-folder-3.jpg)
 6. Lastly,**restart** your system and visit the following folder location:**C:\\Windows** . You will notice that there is a new SoftwareDistribution folder in that location.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 7. Open the Windows update in Settings and try to download and install updates.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Delete the Pending.xml file
 
@@ -125,8 +139,12 @@ Retrace the following steps to delete the pending.xml file:
 ![Manually Download Windows Updates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/manually-download-windows-updates.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Reset Windows
 
  Resetting Windows is the last resort you have if none of the above methods work in your favor. However, before learning[how to perform a Windows system reset](https://www.makeuseof.com/tag/4-ways-factory-reset-windows-computer/) , try out general fixes such as[SFC, CHKDSK, and DISM](https://www.makeuseof.com/difference-between-chkdsk-sfc-and-dism-in-windows-10/) scans on your system. Also,[disable Windows Defender](https://www.makeuseof.com/how-to-turn-off-windows-defender/) and try updating your system before hitting the reset button.
@@ -135,14 +153,11 @@ Retrace the following steps to delete the pending.xml file:
 
  Windows updates can be tricky to install sometimes. Use the inbuilt troubleshooter to identify and fix problems. After that restart, all the crucial Windows update services and run the Disk Cleanup tool. If everything else fails, try doing a manual update or performing a Windows Reset.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -151,4 +166,26 @@ Retrace the following steps to delete the pending.xml file:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-achieving-visual-precision-with-the-right-4k-display-selection/"><u>[New] Achieving Visual Precision with the Right 4K Display Selection</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-from-concept-to-capture-the-journey-with-bandicam-screen-recorder/"><u>[New] From Concept to Capture The Journey with Bandicam Screen Recorder</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-ultimate-zoom-strategy-for-fb-live-success/"><u>[New] The Ultimate Zoom Strategy for FB Live Success</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-photographers-aid-free-mobile-photography-boost/"><u>[Updated] In 2024, Photographer's Aid - Free, Mobile Photography Boost</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-scriptwriting-secrets-penning-podcast-episodes-that-resonate/"><u>2024 Approved Scriptwriting Secrets Penning Podcast Episodes That Resonate</u></a></li>
+<li><a href="https://windows11.techidaily.com/explaining-and-fixing-blue-screen-errors-in-win1011/"><u>Explaining and Fixing Blue Screen Errors in Win10/11</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/guide-to-securing-new-audio-device-drivers-compatible-with-windows-7/"><u>Guide to Securing New Audio Device Drivers Compatible with Windows 7</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-zoom-error-code-1132-in-windows-11-and-11/"><u>How to Fix Zoom Error Code 1132 in Windows 11 & 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-luxury-levels-screen-brightness-on-android/"><u>In 2024, Luxury Levels Screen Brightness on Android</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-steps-for-entering-windows-11s-system32/"><u>Key Steps for Entering Windows 11'S System32</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-service-did-not-respond-error-in-windows/"><u>Overcoming The Service Did Not Respond Error in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/recover-missing-bluetooth-entries-on-windows-system/"><u>Recover Missing Bluetooth Entries on Windows System</u></a></li>
+<li><a href="https://windows11.techidaily.com/reviving-windows-11-sign-ins-with-blank-screen-fixes/"><u>Reviving Windows 11 Sign-Ins with Blank Screen Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/solutions-for-non-functional-utorrent-installer-on-pcs-with-winos/"><u>Solutions for Non-Functional uTorrent Installer on PCs with WinOS</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-curtail-chromes-unintended-tab-creation/"><u>Strategies to Curtail Chrome's Unintended Tab Creation</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/techniques-for-audience-friendly-audio-declines-in-imovie-projects-for-2024/"><u>Techniques for Audience-Friendly Audio Declines in iMovie Projects for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-x9b-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor X9b? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-files-a-deep-dive-into-date-customization/"><u>Windows Files: A Deep Dive Into Date Customization</u></a></li>
+</ul></div>
 

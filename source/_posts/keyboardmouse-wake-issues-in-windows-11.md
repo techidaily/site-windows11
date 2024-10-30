@@ -1,7 +1,7 @@
 ---
 title: Keyboard/Mouse Wake Issues in Windows 11
-date: 2024-10-15T04:04:11.013Z
-updated: 2024-10-19T03:28:55.288Z
+date: 2024-10-23T16:32:11.023Z
+updated: 2024-10-30T16:16:37.799Z
 tags:
   - windows10
   - windows11
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/6d5e434613938dd2124246188e50460e550f0af6d
 
  For safety, you should put your laptop to sleep before putting it in a bag only if it will be there for a short time. For longer durations, shut down or hibernate for safety.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Other Fixes if a Keyboard and Mouse Don't Wake Your PC
 
  The above steps should allow your PC to wake from sleep in most cases. But in case you still have trouble, there are a few other points to check.
@@ -54,10 +47,16 @@ thumbnail: https://thmb.techidaily.com/6d5e434613938dd2124246188e50460e550f0af6d
  Also, it might sound obvious, but make sure that your keyboard and mouse are working properly overall. If they suddenly don't do anything, they of course won't wake your PC from sleep. We've shown[how to fix an unresponsive laptop keyboard](https://www.makeuseof.com/tag/laptop-keyboard-not-working/) .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Stop Your PC From Shutting Off USB Ports
@@ -73,30 +72,31 @@ thumbnail: https://thmb.techidaily.com/6d5e434613938dd2124246188e50460e550f0af6d
 ![Windows 10 USB Suspend Power Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/05/Windows-10-USB-Suspend-Power-Options.png)
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will keep your system from shutting off USB ports to save power, which should help it wake from sleep with a keyboard and mouse more reliably.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### For Bluetooth Mice and Keyboards
 
  If you use a Bluetooth mouse and keyboard, your computer might not receive Bluetooth signals while it's asleep. You can't tweak this in the Device Manager, so your best bets are to update your Bluetooth driver or consider getting a newer Bluetooth adapter with better power management. Run through our list of[steps to fix Bluetooth in Windows](https://www.makeuseof.com/tag/bluetooth-not-working-windows-10/) , as well, to rule out any deeper problems.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Wake Your Computer From Sleep the Easy Way
 
@@ -119,24 +119,24 @@ thumbnail: https://thmb.techidaily.com/6d5e434613938dd2124246188e50460e550f0af6d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-no-money-no-problem-your-guide-to-free-youtube-ads/"><u>[New] No Money, No Problem! Your Guide to Free YouTube Ads</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-preventing-unwanted-filming-in-quicktime/"><u>[New] Preventing Unwanted Filming in QuickTime</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-facebook-live-streaming-techniques-on-mobile-for-2024/"><u>[Updated] Facebook Live Streaming Techniques on Mobile for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/7-leading-budget-4k-mirrorless-cameras-(1k/"><u>7 Leading Budget 4K Mirrorless Cameras (<$1K)</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/discover-keyword-power-30-must-use-hashtags-for-freegame-content-for-2024/"><u>Discover Keyword Power 30 Must-Use Hashtags for FreeGame Content for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dvdfab-dvd1121/"><u>DVDFab DVD圧縮手順：11版で2枚ディスクから1枚ディスクへのコンプレッション方法</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-erroneous-dual-camera-access-error-code-a00f4243/"><u>Fixing Erroneous Dual-Camera Access (Error Code: A00F4243)</u></a></li>
-<li><a href="https://windows11.techidaily.com/handling-isdonedll-malfunction-a-guide-for-w10w11/"><u>Handling ISDone.dll Malfunction: A Guide for W10/W11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-rectify-windows-unsuccessful-auto-detect-of-network-proxy/"><u>How to Rectify Windows' Unsuccessful Auto Detect of Network Proxy</u></a></li>
-<li><a href="https://windows11.techidaily.com/methods-to-resuscitate-flaky-slack-notifications/"><u>Methods to Resuscitate Flaky Slack Notifications</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-steams-content-conflux-on-mac/"><u>Overcoming Steam's Content Conflux on Mac</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-yellow-screen-distortion-on-laptops/"><u>Overcoming Yellow Screen Distortion on Laptops</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/remedy-for-exceeded-chatgpt-limit-error-win/"><u>Remedy for Exceeded ChatGPT Limit Error (Win)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-and-easy-upgrade-of-lenovo-bluetooth-drivers-on-your-pc-windows-710/"><u>Secure and Easy Upgrade of Lenovo Bluetooth Drivers on Your PC (Windows 7/10)</u></a></li>
-<li><a href="https://windows11.techidaily.com/standby-tech-in-windows-os-a-comprehensive-analysis/"><u>Standby Tech in Windows OS: A Comprehensive Analysis</u></a></li>
-<li><a href="https://windows11.techidaily.com/strategic-fixes-to-lower-wlanextexe-consumption/"><u>Strategic Fixes to Lower Wlanext.EXE Consumption</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-8-prompts-for-limiting-social-media-interruptions-via-gpt/"><u>Top 8 Prompts for Limiting Social Media Interruptions via GPT</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-windows-update-failure-code-0x8024800c/"><u>Troubleshooting Windows Update Failure: Code 0X8024800C</u></a></li>
-<li><a href="https://windows11.techidaily.com/windows-startup-a-quick-route-walkthrough/"><u>Windows Startup: A Quick Route Walkthrough</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unleash-picture-potential-with-premium-online-grids/"><u>[New] In 2024, Unleash Picture Potential with Premium Online Grids</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-tinyvid-recorder-examination-and-reviews-for-2024/"><u>[New] TinyVid Recorder Examination & Reviews for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-flavorful-filmmaking-top-7-strategies-for-culinary-videos/"><u>[Updated] 2024 Approved Flavorful Filmmaking Top 7 Strategies for Culinary Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-effortlessly-spread-youtube-videos-on-fb-for-2024/"><u>[Updated] Effortlessly Spread YouTube Videos on FB for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-first-rate-biodegradable-filming-gear-tutorials/"><u>[Updated] First-Rate Biodegradable Filming Gear Tutorials</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-perfecting-your-performance-logging-the-ultimate-guide-for-capturing-roblox-on-a-mac/"><u>[Updated] In 2024, Perfecting Your Performance Logging The Ultimate Guide for Capturing Roblox on a Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-best-chrome-os-tts-tools-top-5-online-speech-converters/"><u>2024 Approved Best Chrome OS TTS Tools Top 5 Online Speech Converters</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-chromes-non-downloading-problems-on-windows/"><u>Addressing Chrome's Non-Downloading Problems on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/enabling-steam-library-folder-editability-in-win-11/"><u>Enabling Steam Library Folder Editability in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-add-a-full-battery-charge-notification-to-windows-11-and-11/"><u>How to Add a Full Battery Charge Notification to Windows 11 & 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/pro-tips-for-mastering-local-user-groups-on-win1110/"><u>Pro Tips for Mastering Local User Groups on Win11/10</u></a></li>
+<li><a href="https://win-special.techidaily.com/restore-your-missing-slides-a-complete-guide-to-uncovering-deleted-ppt-files/"><u>Restore Your Missing Slides: A Complete Guide to Uncovering Deleted PPT Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/significance-and-uses-for-vcplusplus-releases/"><u>Significance and Uses for VC++ Releases</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sns-hdr-pro-analysis-worth-its-weight-in-gold-for-2024/"><u>SNS HDR Pro Analysis Worth Its Weight in Gold for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-art-of-online-recording-for-2024/"><u>The Art of Online Recording for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-tweaking-mouse-speeds-in-win-1011/"><u>The Ultimate Guide to Tweaking Mouse Speeds in Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-fixing-the-application-was-unable-error/"><u>Understanding and Fixing The Application Was Unable Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/window-wonderland-crafting-distinctive-displays-in-win-1011/"><u>Window Wonderland: Crafting Distinctive Displays in Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-vigilance-understanding-and-monitoring-device-uptime/"><u>Windows 11 Vigilance: Understanding and Monitoring Device Uptime</u></a></li>
 </ul></div>
 

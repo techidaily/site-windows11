@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Setting Up Short-Term Shared Worksheets in Microsoft Excel
-date: 2024-08-31T22:04:16.208Z
-updated: 2024-09-01T22:04:16.208Z
+date: 2024-10-26T16:03:52.057Z
+updated: 2024-10-30T16:48:01.736Z
 tags:
   - excel
 categories:
@@ -32,9 +32,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 * Edits that you make at a cell level will be saved no matter which view you're using.
 * Sheet View is only available for the active spreadsheet.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Create a Temporary Sheet View
 
  Now that you know the basics of Sheet Views in Microsoft Excel, it's time to put this feature to work. Open your Excel workbook and select a sheet to create the view.
@@ -42,6 +39,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  Head to the View tab in the ribbon bar. You'll see a Sheet View section on the far left of the row. Click "New."
 
 ![Go to View and click New in Sheet View](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/ViewNewSheetViews-Excel.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You'll immediately notice a difference in the appearance of your sheet:
 
@@ -51,40 +55,42 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Temporary Sheet View in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/TemporarySheetView-Excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you're in this new temporary view, you can work on your sheet without disruptions from others who are doing the same thing. This will allow you to filter and sort as you would if you were working alone.
 
  If another person is actively [working on the sheet with filters and sorting](https://facebook-video-share.techidaily.com/free-audio-treasures-to-amplify-youtube-in-2024/), you'll be asked whether you want to see their work or just your own.
 
 ![Others making changes message](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/OtherChangesSheetView-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Save Your Temporary View
 
  One nice feature of a Sheet View is that you can save it, and you can save more than one per sheet. You can do this by clicking "Keep" in the Sheet View section of the ribbon. This saves the view with a default name such as View1, View2, and so on.
 
 ![Click Keep to save the Sheet View](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/KeepSheetView-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also save the view by clicking inside the Sheet View drop-down box in the ribbon and giving it a name of your own.
 
 ![Rename a Sheet View](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/RenameSheetView-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Switch or Leave a Sheet View
 
  Use the Sheet View drop-down box to change to a different view at any time. To return to the Default view, choose that option from the drop-down list. To simply leave a view, click "Exit."
 
 ![Click Exit to leave a Sheet View](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/ExitSheetView-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Other Views in the Sheet
 
  The views that you use and save aren't private. Anyone you're sharing the sheet with can see and use those views. And they can create views of their own. Each appears in the Sheet View drop-down box.
@@ -92,13 +98,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ![Click the drop-down to switch the Sheet View](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/SwitchSheetView-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  This is both good and bad. It's good because you can each take advantage of views that others have saved. But it's bad because anyone can change a view, whether purposefully or not. Just keep this in mind.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Manage Sheet Views
 
  If you want to rename, duplicate, or delete a Sheet View, click "Options" in the Sheet View section of the ribbon.
@@ -119,8 +133,6 @@ Related: [How to Use Custom Views in Excel to Save Your Workbook Settings](https
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +140,21 @@ Related: [How to Use Custom Views in Excel to Save Your Workbook Settings](https
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-are-thoughtful-analyses-monetarily-rewarded/"><u>[New] 2024 Approved Are Thoughtful Analyses Monetarily Rewarded?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-can-a-128gb-drive-handle-huge-video-files/"><u>2024 Approved Can a 128GB Drive Handle Huge Video Files?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-text-chatting-with-these-tricks-for-your-ipad-user-interface/"><u>Effortless Text Chatting with These Tricks for Your iPad User Interface</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/handling-webpage-visibility-challenges-with-ease/"><u>Handling Webpage Visibility Challenges with Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/harnessing-the-power-of-linux-inside-a-windows-os/"><u>Harnessing the Power of Linux Inside a Windows OS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-learn-and-master-io-screen-recording-today/"><u>In 2024, Learn and Master IO Screen Recording Today</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-optimal-team-chats-secrets-to-success-4-steps/"><u>In 2024, Optimal Team Chats Secrets to Success, #4 Steps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/mastering-photomontages-a-comprehensive-guide/"><u>Mastering PhotoMontages A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-non-terminable-tasks-on-windows-pcs/"><u>Quick Fixes for Non-Terminable Tasks on Windows PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/reactivating-frozen-discord-widgets-on-windows-desktop/"><u>Reactivating Frozen Discord Widgets on Windows Desktop</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-absence-of-files-alerts-in-windows-11/"><u>Remedying Absence of Files Alerts in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/tutorial-activating-and-launching-ms-paint-in-windows-11/"><u>Tutorial: Activating and Launching MS Paint in Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unearth-the-secret-of-laptop-desktop-transformation-a-revolutionary-dock-unveiled/"><u>Unearth the Secret of Laptop-Desktop Transformation: A Revolutionary Dock Unveiled</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/zero-price-audio-excellence-ranking-of-top-10-desktop-tools/"><u>Zero-Price Audio Excellence Ranking of Top 10 Desktop Tools</u></a></li>
+</ul></div>
 

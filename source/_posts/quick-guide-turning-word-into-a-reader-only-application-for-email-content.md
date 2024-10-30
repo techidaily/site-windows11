@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Turning Word Into a Reader-Only Application for Email Content"
-date: 2024-10-17T16:26:32.851Z
-updated: 2024-10-24T17:50:17.831Z
+date: 2024-10-29T16:48:22.456Z
+updated: 2024-10-30T16:53:49.045Z
 tags:
   - windows10
   - windows11
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
  Once you complete the above steps, Word will open email attachments in reading view by default.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. How to Change the Local Group Policy to Open Email Attachments in Reading View in Microsoft Word
@@ -58,17 +58,17 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 ![Configure Word to Open Email Attachments in Reading View Using Group Policy Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Configure-Word-to-Open-Email-Attachments-in-Reading-View-Using-Group-Policy-Editor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. How to Tweak the Windows Registry to Open Email Attachments in Reading View in Microsoft Word
@@ -88,14 +88,14 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 7. Click**OK** .  
 ![Configure Word to Open Email Attachments in Reading View Using Registry Editor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/10/Configure-Word-to-Open-Email-Attachments-in-Reading-View-Using-Registry-Editor.jpg)
 
- Restart your PC for the changes to take effect. Following that, Word will open all your email attachments in reading view.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Restart your PC for the changes to take effect. Following that, Word will open all your email attachments in reading view.
 
 ## Opening Email Attachments in Microsoft Word's Reading View
 
@@ -116,24 +116,17 @@ thumbnail: https://thmb.techidaily.com/2abff2026ed0f77bee3d5444a73ceb2a838092ecb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-efficient-screen-recording-on-xbox-explained/"><u>[New] In 2024, Efficient Screen Recording on Xbox Explained</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-live-streaming-made-easy-expert-reviews-of-top-obs-tools-for-2024/"><u>[New] Live Streaming Made Easy Expert Reviews of Top OBS Tools for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-screen-changers-for-vivid-virtual-imagery/"><u>[New] Top Screen Changers for Vivid Virtual Imagery</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-journey-to-excellent-ps2-gaming-via-these-5-android-apps/"><u>[Updated] 2024 Approved Journey to Excellent PS2 Gaming via These 5 Android Apps</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-tips-and-tricks-adjusting-aspect-ratios-for-effective-fb-sharing/"><u>[Updated] In 2024, Tips & Tricks Adjusting Aspect Ratios for Effective FB Sharing</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-calls-recorded-and-saved-iphone-24-sound-guide/"><u>2024 Approved Calls Recorded & Saved IPhone '24 Sound Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-unlocking-potential-with-instagram-videos-strategic-planning-insights/"><u>2024 Approved Unlocking Potential with Instagram Videos Strategic Planning Insights</u></a></li>
-<li><a href="https://windows11.techidaily.com/3-ways-to-check-if-windows-11-is-activated/"><u>3 Ways to Check If Windows 11 Is Activated</u></a></li>
-<li><a href="https://windows11.techidaily.com/4-ways-to-check-the-hardware-ids-of-your-devices-on-windows/"><u>4 Ways to Check the Hardware IDs of Your Devices on Windows</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-guide-to-overhauling-the-settings-app-in-win11/"><u>A Guide to Overhauling the Settings App in Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/androidios-to-windows-pc-microphone-conversion-guide/"><u>Android/iOS to Windows PC Microphone Conversion Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/bootstrapping-your-windows-version-patch-edition/"><u>Bootstrapping Your Windows Version: Patch Edition</u></a></li>
-<li><a href="https://windows11.techidaily.com/breaking-down-the-workflow-of-windows-11s-recovery-features/"><u>Breaking Down the Workflow of Windows 11'S Recovery Features</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-the-blockade-fixing-obs-studios-server-error-window/"><u>Bypassing the Blockade: Fixing OBS Studio's Server Error Window</u></a></li>
-<li><a href="https://windows11.techidaily.com/cut-costs-not-compromise-top-5-free-media-software/"><u>Cut Costs, Not Compromise: Top 5 Free Media Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/detailed-steps-to-fully-remove-wsl/"><u>Detailed Steps to Fully Remove WSL</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-redmi-k70-by-aiseesoft-video-converter-play-mov-on-android/"><u>Failed to play MOV movies on Redmi K70</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-master-the-art-of-youtube-seo-11-steps-to-improvement/"><u>In 2024, Master the Art of YouTube SEO 11 Steps to Improvement</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-deciphering-finances-how-much-do-youtubers-earn-per-ad/"><u>[New] 2024 Approved Deciphering Finances How Much Do YouTubers Earn Per Ad?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-million-viewer-milestone-and-associated-income-levels/"><u>[New] In 2024, Million-Viewer Milestone and Associated Income Levels</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-insiders-guide-to-powerful-win10-habits/"><u>[Updated] 2024 Approved Insider's Guide to Powerful Win10 Habits</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-mastering-the-art-of-free-yet-striking-image-acquisition/"><u>[Updated] 2024 Approved Mastering the Art of Free, Yet Striking Image Acquisition</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-innovative-approaches-to-harvest-large-amounts-of-tiktok-media/"><u>[Updated] In 2024, Innovative Approaches to Harvest Large Amounts of TikTok Media</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/advancements-from-pci-sig-new-copperlink-cable-solutions-set-to-revolutionize-pcie-5-and-6-connections-keep-an-eye-out-for-the-upcoming-pcie-7-standard/"><u>Advancements From PCI-SIG: New CopperLink Cable Solutions Set to Revolutionize PCIe 5 and #6 Connections; Keep an Eye Out for the Upcoming PCIe 7 Standard</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/evaluating-tunefab-for-video-capture-excellence/"><u>Evaluating Tunefab for Video Capture Excellence</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-overcome-ms-store-setbacks-in-win-11-edition/"><u>How to Overcome MS Store Setbacks in Win 11 Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-basics-of-windows-pe-format/"><u>Navigating the Basics of Windows PE Format</u></a></li>
+<li><a href="https://windows11.techidaily.com/network-assurance-on-pc-ensuring-reliable-win-net-access/"><u>Network Assurance on PC: Ensuring Reliable Win Net Access</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-pcs-pink-screens-a-step-by-step-guide/"><u>Overcoming PC's Pink Screens: A Step-by-Step Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-transforms-mastering-the-art-of-amd-card-driver-updates/"><u>Windows 11 Transforms: Mastering the Art of AMD Card Driver Updates</u></a></li>
 </ul></div>
 

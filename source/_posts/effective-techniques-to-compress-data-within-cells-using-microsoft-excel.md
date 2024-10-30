@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques to Compress Data Within Cells Using Microsoft Excel
-date: 2024-08-31T22:03:52.392Z
-updated: 2024-09-01T22:03:52.392Z
+date: 2024-10-23T17:09:32.553Z
+updated: 2024-10-30T16:28:52.315Z
 tags:
   - excel
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  Let's look at the advantages of using the shrink text feature and how to use it in Microsoft Excel on Windows and Mac.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Benefits of Shrinking Text in Excel
 
  Here are a few reasons to use Excel's shrink text feature.
@@ -30,56 +37,53 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 * You can keep your cells and [columns the size you want](https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-11-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/) without sacrificing appearance by making them larger to fit the text.
 * If you adjust the cell size after you shrink the text, that text will adjust its size to fit the cell.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  How to Shrink Text in Excel on Windows
 
  In Excel on Windows, select one or more cells containing the text you want to shrink. Go to the Home tab and click the arrow in the bottom right corner of the Alignment section of the ribbon.
 
 ![Selected cells and Alignment arrow in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/HomeAlignmentWindows-ExcelShrinkTextFitCell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  Check the box for Shrink to Fit in the Text Control section of the window and click "OK."
 
 ![Shrink to Fit box checked](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/ShrinkToFitWindows-ExcelShrinkTextFitCell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll then see your change with the text sized to fit within the cell.
 
 ![Text fits within the cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/FitWindows-ExcelShrinkTextFitCell.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you change your mind later and want to undo the shrink you applied, simply follow the same steps above and uncheck the Shrink to Fit box.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ##  How to Shrink Text in Excel on Mac
 
  In Excel on Mac, select one or more cells containing the text you want to shrink. Go to the Home tab and click the arrow next to the Wrap Text button in the Alignment section of the ribbon. Choose "Shrink Text to Fit."
 
 ![Shrink to Fit in the Wrap Text drop-down menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/ShrinkToFitMac-ExcelShrinkTextFitCell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  You should then see the text in the selected cell(s) update to fit inside.
 
 ![Text fits within the cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/FitMac-ExcelShrinkTextFitCell.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you want to return the text to its original size, follow the same steps as above and select "Shrink Text to Fit" to remove the checkmark.
 
  For an easy, time-saving way to make text fit perfectly inside a cell, remember this shrink text feature in Excel. You're then free to [add as much text as you want](https://buynow-reviews.techidaily.com/a-comprehensive-review-top-long-reach-routers-dominating-the-market-in-ebytes/) without fear of breaking your spreadsheet's look!
@@ -92,8 +96,6 @@ Related: [How to Set Row Height and Column Width in Excel](https://easy-unlock-a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,4 +103,19 @@ Related: [How to Set Row Height and Column Width in Excel](https://easy-unlock-a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-boost-engagement-changing-numbers-effectively-on-tiktok/"><u>[New] Boost Engagement Changing Numbers Effectively on TikTok</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/creating-a-windows-recovery-media-on-an-external-drive-two-effective-approaches/"><u>Creating a Windows Recovery Media on an External Drive - Two Effective Approaches</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unblock-chrome-from-firewall-settings-on-windows-1011/"><u>How to Unblock Chrome From Firewall Settings on Windows 10/11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-samsung-galaxy-f54-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Samsung Galaxy F54 5G Phone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-integration-select-the-top-6-editing-apps-post-snow-leopard-for-2024/"><u>Innovative Integration Select the Top 6 Editing Apps Post-Snow Leopard for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-call-recording-tutorial-and-legality-insights-for-your-state-expert-advice-from-zdnet/"><u>IPhone Call Recording Tutorial and Legality Insights for [Your State] - Expert Advice From ZDNet</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboard-tricks-for-immediate-translation-on-modern-windows-os/"><u>Keyboard Tricks for Immediate Translation on Modern Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-store-fix-guide-for-error-0x80131500/"><u>Microsoft Store Fix Guide for Error 0X80131500</u></a></li>
+<li><a href="https://windows11.techidaily.com/post-cortana-windows-the-next-4-interfaces/"><u>Post-Cortana Windows: The Next 4 Interfaces</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-setting-up-your-echo-dot-device/"><u>Step-by-Step Guide: Setting Up Your Echo Dot Device</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/step-by-step-solution-to-fix-iphones-media-transfer-protocol-driver-malfunction-on-windowsmac/"><u>Step-by-Step Solution to Fix iPhone's Media Transfer Protocol Driver Malfunction on Windows/Mac</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-integration-of-gpt-4-how-these-top-7-applications-harness-its-power/"><u>Understanding the Integration of GPT-4: How These Top 7 Applications Harness Its Power</u></a></li>
+</ul></div>
 

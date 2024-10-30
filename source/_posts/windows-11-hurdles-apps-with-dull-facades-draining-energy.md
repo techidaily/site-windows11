@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Hurdles: Apps With Dull Facades Draining Energy"
-date: 2024-10-17T16:38:17.189Z
-updated: 2024-10-24T18:00:57.129Z
+date: 2024-10-24T16:07:13.262Z
+updated: 2024-10-30T17:23:08.211Z
 tags:
   - windows10
   - windows11
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
  The article claims that the processes take up a few hundred megabytes of RAM, but the real proof comes from [Out of Office Hours](https://oofhours.com/2022/01/30/the-overhead-of-widgets-and-teams-in-windows-11/), which posted a screenshot showing several WebView2 processes each taking their slice of the RAM pie.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disable the Chat and Widget App and Save Your Ram
@@ -51,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
  And that’s it—the Widget and Chat icons will be removed from the desktop and won’t occupy any RAM unnecessarily.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Find and Disable Other Apps
@@ -62,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
  It's not uncommon to get your PC memory drained by apps or background processes that aren't actually doing anything. To prevent this from happening, you have a [drove of tools for finding and disabling these apps](https://www.makeuseof.com/windows-pc-too-many-background-processes/). Everything from Task Manager, System Configuration, and the Settings App will help you in this. So make sure you check out and disable these apps as well.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## An Unideal Welcome Party for Windows 11 Users
@@ -77,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
  At the same time, it's not a true Windows launch unless things go a bit awry at the start. Hopefully, these little annoyances will end up being teething issues for Windows 11, and not the norm moving forward.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Out of Sight, Out of Mind (and Memory)
@@ -97,24 +97,18 @@ thumbnail: https://thmb.techidaily.com/4344716e214d80fc0302240776bca3183fcb221b8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-how-to-view-facebook-stories-anonymously2/"><u>[New] 2024 Approved How to View Facebook Stories Anonymously2</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-photo-perfection-on-iphones-and-androids-blurring-basics/"><u>[New] Photo Perfection on iPhones & Androids Blurring Basics</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-best-of-the-best-yts-premier-unboxing-sites/"><u>[New] The Best of the Best YT's Premier Unboxing Sites</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-podcast-summary-genius-guidance-and-examples/"><u>[Updated] In 2024, Podcast Summary Genius Guidance & Examples</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-top-5-list-ps3-games-on-windows-platforms-for-2024/"><u>[Updated] Ultimate Top 5 List PS3 Games on Windows Platforms for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-the-crashes-resource-monitor-on-windows-11/"><u>Addressing the Crashes: Resource Monitor on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-tips-to-access-pcs-health-metrics/"><u>Decoding Tips to Access PC's Health Metrics</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/effortless-video-creation-learn-basic-edits-on-vimeo-for-free-for-2024/"><u>Effortless Video Creation Learn Basic Edits on Vimeo for Free for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminate-troubleshooting-roadblocks-for-compatibility-issues/"><u>Eliminate Troubleshooting Roadblocks for Compatibility Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/fasten-up-your-windows-devices-with-top-fixes-for-slow-web-linkage/"><u>Fasten Up Your Windows Devices with Top Fixes for Slow Web Linkage</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-rectify-non-existent-lock-screen-countdown/"><u>How to Rectify Non-Existent Lock Screen Countdown</u></a></li>
-<li><a href="https://review-topics.techidaily.com/lava-blaze-2-pro-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Lava Blaze 2 Pro support - Forgotten screen lock.</u></a></li>
-<li><a href="https://win11.techidaily.com/optimize-your-computers-visual-experience-with-enhanced-vram/"><u>Optimize Your Computer's Visual Experience with Enhanced VRAM</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedial-tactics-for-loading-errors-in-discord-software/"><u>Remedial Tactics for Loading Errors in Discord Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-device-disconnection-problems-for-windows-users-with-virtualbox/"><u>Resolving Device Disconnection Problems for Windows Users with VirtualBox</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-complete-list-of-windows-11s-narrator-keyboard-shortcuts/"><u>The Complete List of Windows 11'S Narrator Keyboard Shortcuts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-tips-restoring-chatgpts-conversation-memory/"><u>Troubleshooting Tips: Restoring ChatGPT's Conversation Memory</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-shortcuts-for-app-size-adjustment-on-windows-11/"><u>Unlocking the Power of Shortcuts for App Size Adjustment on Windows 11</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/user-selected-top-4k-video-editors-for-windows-1111-ranked-by-satisfaction-of-over-a-thousand-users/"><u>User-Selected Top 4K Video Editors for Windows 11/11, Ranked by Satisfaction of Over a Thousand Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-10-best-ways-to-watch-cricket-live-streaming/"><u>[New] 10 Best Ways To Watch Cricket Live Streaming</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-a-comprehensive-guide-to-producing-engaging-subtitles-and-captions-for-fb-for-2024/"><u>[New] A Comprehensive Guide to Producing Engaging Subtitles and Captions for FB for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-innovative-tricks-to-transform-iphone-shots-for-2024/"><u>[New] Innovative Tricks to Transform iPhone Shots for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-uniting-platforms-the-seamless-addition-of-linktree-to-tiktok-for-2024/"><u>[Updated] Uniting Platforms The Seamless Addition of Linktree to TikTok for 2024</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/windows-110x80070001/"><u>三种有效的方法：彻底消除Windows 11错误码0x80070001</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-correcting-errors-found-when-your-pc-initiates-boot-process-post/"><u>Expert Advice on Correcting Errors Found When Your PC Initiates Boot Process (POST)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-microsoft-teams-microphone-malfunction-in-windows-11-and-10/"><u>Fixing the Issue: Microsoft Teams Microphone Malfunction in Windows 11 & 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/quelling-an-irritating-mouse-on-a-windows-10/"><u>Quelling an Irritating Mouse on a Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-guide-to-repairing-a-damaged-disk-in-steam-platform/"><u>Quick Guide to Repairing a Damaged Disk in Steam Platform</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-eliminate-error-a00f425d-in-windows-11s-camera-app/"><u>Steps to Eliminate Error A00F425D in Windows 11'S Camera App</u></a></li>
+<li><a href="https://windows11.techidaily.com/tailored-approach-to-toolbar-mastery-in-microsoft-win11/"><u>Tailored Approach to Toolbar Mastery in Microsoft Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-gpos-a-comprehensive-guide-for-users/"><u>Unraveling GPOs: A Comprehensive Guide for Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/upgrading-desktop-visuals-integrate-custom-weather-icon-into-windows-status-area/"><u>Upgrading Desktop Visuals: Integrate Custom Weather Icon Into Windows Status Area</u></a></li>
 </ul></div>
 

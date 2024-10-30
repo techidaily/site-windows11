@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Photos: Innovative Erase on Windows"
-date: 2024-10-21T21:01:21.420Z
-updated: 2024-10-24T20:40:52.376Z
+date: 2024-10-25T16:16:48.232Z
+updated: 2024-10-30T16:40:45.321Z
 tags:
   - windows10
   - windows11
@@ -30,18 +30,18 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 
  Removing objects from photos is easier than ever on a smartphone, but that's largely limited to Pixels, Samsung flagships, or a Google One subscription. While you might think doing so requires expensive software on desktop, the Photos app on Windows is all you need to remove unwanted elements from an image. It's easily accessible, free, and is pretty great!
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is Windows Photos Generative Erase?
 
  The name is pretty self-explanatory in this case. Generative Erase is a tool built into the Windows Photos app that lets you select and remove objects from an image. The AI-powered feature does so without disrupting the background, using machine learning to gauge what the photo would be like without the object.
 
  You don't need expensive photo editing software or a high-end phone. The Photos app is available on all Windows 10 and 11 machines. You should see the Erase tool after [updating the Windows Photos app](https://www.makeuseof.com/tag/update-windows-software-guide/) to version 2024.11020.21001.0 or higher.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use Generative Erase in Windows Photos
 
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 ![Screenshot highlighting the Edit button in the Windows Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/edit-button-on-the-windows-photos-app-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click the **Edit** button in the top bar and select **Erase**. If you want to get granular with your edit, you can adjust the brush size and zoom in on the picture.
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 ![Erase button in the Edit tool in the Windows Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/erase-button-in-the-edit-tool.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The **Auto Erase** toggle is enabled by default and erases objects as you go. To erase multiple objects, toggle off **Auto Erase**, use the brush to highlight everything you want to remove, and then tap **Erase**.
@@ -74,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
  You have to be precise with the brush tool, but the option to adjust the size makes highlighting objects relatively easy.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Generative Erase on Windows Photos Any Good?
@@ -111,18 +111,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-quick-and-reliable-vimeo-file-retrievers/"><u>[New] 2024 Approved Quick and Reliable Vimeo File Retrievers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-most-popular-and-praised-prime-originals-on-twitter/"><u>[New] 2024 Approved The Most Popular & Praised Prime Originals on Twitter</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-underwater-cinematography-made-simple-top-7-tips/"><u>[Updated] 2024 Approved Underwater Cinematography Made Simple Top 7 Tips</u></a></li>
-<li><a href="https://windows11.techidaily.com/11-fixes-if-windows-11-cant-detect-a-wi-fi-network/"><u>11 Fixes if Windows 11 Can’t Detect a Wi-Fi Network</u></a></li>
-<li><a href="https://windows11.techidaily.com/breaking-down-steam-auth-blocks-in-rust-on-windows-devices/"><u>Breaking Down Steam Auth Blocks in Rust on Windows Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/demystifying-windows-error-code-31-and-network-adapter-issues/"><u>Demystifying Windows Error Code 31 and Network Adapter Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/desk-clean-up-restoring-windows-11-desktop-symbols/"><u>Desk Clean-Up: Restoring Windows 11 Desktop Symbols</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-motorola-edge-40-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Motorola Edge 40 Pro to Another | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-itel-a05s-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Itel A05s FRP</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-building-effective-podcast-rss-feeds/"><u>In 2024, Building Effective Podcast RSS Feeds</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-personalizing-folder-visuals-with-macos-finder-preferences/"><u>Mastering the Art of Personalizing Folder Visuals with macOS Finder Preferences</u></a></li>
-<li><a href="https://review-topics.techidaily.com/reinstall-your-drivers-with-device-manager-on-windows-7-by-drivereasy-guide/"><u>Reinstall your drivers with Device Manager on Windows 7</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/unveil-top-8-websites-with-free-green-screen-video-treasures/"><u>Unveil Top 8 Websites with FREE Green Screen Video Treasures</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-game-genre-matchups-titles-alike-to-gta-v/"><u>[New] 2024 Approved Game Genre Matchups Titles Alike to GTA V</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ext-level-play-the-best-gaming-tech-on-display-for-2024/"><u>[New] Next-Level Play The Best Gaming Tech on Display for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-info-on-keygen-malware-and-effective-windows-defense-techniques/"><u>Essential Info on Keygen Malware & Effective Windows Defense Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/experience-seamless-international-voice-calls-with-these-5-favorite-free-apps/"><u>Experience Seamless International Voice Calls with These 5 Favorite Free Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/identifying-ip-and-mac-via-windows-powershell/"><u>Identifying IP & MAC via Windows PowerShell</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-essential-tactics-for-adding-vimeo-clips-to-powerpoint-slides/"><u>In 2024, Essential Tactics for Adding Vimeo Clips to PowerPoint Slides</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Simulate GPS Movement in AR games On Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-oppo-reno-11-pro-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Oppo Reno 11 Pro 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-toms-technology-world/"><u>Inside Tom's Technology World</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-how-to-make-a-imovie-photo-slideshow-with-music-imovie-tutorial/"><u>New How to Make a iMovie Photo Slideshow with Music? IMovie Tutorial</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pixelperfect-image-transformations/"><u>PixelPerfect Image Transformations</u></a></li>
+<li><a href="https://windows11.techidaily.com/revolutionary-approaches-to-obtaining-windows-10-keys/"><u>Revolutionary Approaches to Obtaining Windows 10 Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-screen-no-pin-mastery-for-projector-mode-win11/"><u>Secure Screen, No-Pin Mastery for Projector Mode Win11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/spotlight-on-apple-watch-series-4-a-leap-forward-in-excellence/"><u>Spotlight on Apple Watch Series 4: A Leap Forward in Excellence</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-experience-fixes-for-common-rainmeter-issues/"><u>Streamlining Your Experience: Fixes for Common Rainmeter Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-7-free-windows-devices-for-seamless-viewing/"><u>Top 7 FREE Windows Devices for Seamless Viewing</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-ftdibussys-impact-on-windows-memory-reliability/"><u>Understanding ftdibus.sys: Impact on Windows Memory Reliability</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-esd-mastery-achieving-conversion-to-iso-format/"><u>Windows ESD Mastery: Achieving Conversion to ISO Format</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-hello-exposed-is-your-biometric-data-safe/"><u>Windows Hello Exposed: Is Your Biometric Data Safe?</u></a></li>
 </ul></div>
 

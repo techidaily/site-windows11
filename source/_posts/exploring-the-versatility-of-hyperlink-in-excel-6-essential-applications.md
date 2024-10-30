@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Versatility of Hyperlink in Excel: 6 Essential Applications"
-date: 2024-08-31T22:04:23.382Z
-updated: 2024-09-01T22:04:23.382Z
+date: 2024-10-24T16:37:31.696Z
+updated: 2024-10-30T16:19:53.149Z
 tags:
   - excel
 categories:
@@ -21,15 +21,25 @@ thumbnail: https://thmb.techidaily.com/109f8e41f016b710f8a0ad598776af950e5e0ec71
 * [Link to a Workbook on the Web](https://article-tips.techidaily.com/2024-approved-the-prime-picks-best-storytelling-channels-fans/)
 * [Link to a Word Document](https://video-screen-grab.techidaily.com/updated-pocket-safari-androids-selection-of-best-simulators/)
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 With the HYPERLINK function, you can enter a file path or URL with the sheet, cell, or defined name you want to link to. For example: "=HYPERLINK("\[HTG\_Desktop.xlsx\]Sheet1!A6")" Insert display text to make your link friendlier.
 
  Excel offers its own [built-in linking feature in the toolbar](https://tech-revival.techidaily.com/enhance-your-at-home-workflow-with-these-6-ingenious-uses-of-chatgpt/). But the HYPERLINK function lets you do more, like a link to a workbook on your company intranet, shared server, another drive, or even a bookmark in a Word document. Let's look at everything you can do with this versatile function.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ##  What Is the HYPERLINK Function?
 
  HYPERLINK in Excel is a function for [creating clickable links](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-s23-drfone-by-drfone-virtual/) to all sorts of places and objects. You could, of course, do some of the same things that HYPERLINK does using the Link tool in Excel. However, a [formula](https://games-able.techidaily.com/is-premium-play-on-demand-worth-it/) gives you finer control of the link, and HYPERLINK is a simple function to learn that can get you comfortable with creating formulas in general. Additionally, HYPERLINK lets you link directly to a specific cell or defined name.
@@ -54,15 +64,19 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
 
 ![HYPERLINK function to link within the current sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkCurrentSheet-ExcelHYPERLINKFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To link to the same file, sheet, and cell, but use a friendly name for the link like "Go to A6", you can use this formula:
 
 =HYPERLINK("[HTG_Desktop.xlsx]Sheet1!A6","Go to A6")
 
 ![HYPERLINK function to link within the current sheet and use display text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkCurrentSheetText-ExcelHYPERLINKFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ##  2\. Link to a Cell Within the Workbook
 
  To link to a cell in the current workbook, but on [a different sheet](https://facebook-video-footage.techidaily.com/updated-2024-approved-dynamic-and-simple-building-a-subscriber-button-for-youtube-using-filmora/), simply replace the current sheet name with the other sheet's name.
@@ -79,6 +93,13 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
 
 ![HYPERLINK and CELL functions](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkOtherSheetCELL-ExcelHYPERLINKFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For this combined function formula, you can also enter display text for the `text` argument. Instead of adding text in quotes, we'll use the value in cell D1 which is the word "Title":
 
 =HYPERLINK(CELL("address",Sheet2!B2),D1)
@@ -86,11 +107,18 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
 ![HYPERLINK and CELL functions with a cell as display text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkOtherSheetCELLText-ExcelHYPERLINKFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  3\. Link to a Defined Name
 
  Maybe you'd like to link to a [named range of cells](https://fox-blue.techidaily.com/2024-approved-mastering-chroma-key-techniques-in-live-broadcasts/) in the current or another Excel workbook. In this case, you'll add brackets around the path directly before the defined name.
@@ -107,21 +135,12 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
 
 ![HYPERLINK function to link a defined name in another sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkOtherDefinedName-ExcelHYPERLINKFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To use something different for the display text, in either example, simply add it to the second argument:
 
 =HYPERLINK("[HTG_Desktop.xlsx]Scores","Go There")
 
 ![HYPERLINK function to link a defined name with display text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkOtherDefinedNameText-ExcelHYPERLINKFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ##  4\. Link to a Workbook on Another Drive
 
 [Linking to an Excel file](https://extra-approaches.techidaily.com/new-reviewing-the-unseen-facebooks-privacy-and-security-guide/) on a different drive on your computer is another option. You can also link directly to a cell or named range if needed.
@@ -132,20 +151,38 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
 
 ![HYPERLINK function to link a sheet on another drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkOtherDrive-ExcelHYPERLINKFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For a particular cell, we'll link to C9 on Sheet1 in the same file and location. Add brackets around the path with the sheet name and cell reference afterwards.
 
 =HYPERLINK("[E:\MyDataEntryForm.xlsx]Sheet1!C9")
 
 ![HYPERLINK function to link a sheet cell on another drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkOtherDriveCell-ExcelHYPERLINKFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For another example, we'll link to the named range Totals in the same file and location. Because you're [using a defined name](https://some-skills.techidaily.com/new-the-impact-of-testimonial-videos-today/), be sure to insert the brackets around the path. Here, we'll include the display text Totals:
 
 =HYPERLINK("[E:\MyDataEntryForm.xlsx]Totals","Totals")
 
 ![HYPERLINK function to link a defined name on another drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkOtherDriveDefinedNameText-ExcelHYPERLINKFunction.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. Link to a Workbook on the Web
 
@@ -162,11 +199,12 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
 ![HYPERLINK function to link a workbook cell on the web](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkWebCell-ExcelHYPERLINKFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
+
 ##  6\. Link to a Word Document
 
  If you want to integrate your documents with your spreadsheets, you can use the HYPERLINK function to link to a Word document. Plus, you can link straight to a [bookmark you've created in Word](https://win-solutions.techidaily.com/stop-interruptions-ultimate-solution-to-world-of-tanks-blitz-stability-problems/).
@@ -199,8 +237,6 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,4 +244,22 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-orchestrating-scene-sounds-with-imovie/"><u>[Updated] Orchestrating Scene Sounds with iMovie</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamless-transitions-the-art-of-editing-with-garagebands-power-tools/"><u>[Updated] Seamless Transitions The Art of Editing with GarageBand's Power Tools</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-5-pioneering-portals-to-streamline-your-text-effects-search/"><u>2024 Approved 5 Pioneering Portals to Streamline Your Text Effects Search</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-master-photo-editing-seamless-integration-of-timestamps/"><u>2024 Approved Master Photo Editing Seamless Integration of Timestamps</u></a></li>
+<li><a href="https://discover-community.techidaily.com/best-places-to-get-free-subtitle-downloads-a-comprehensive-guide/"><u>Best Places to Get Free Subtitle Downloads: A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-to-boost-your-speed-in-3d-paint-keys/"><u>Essential Tips to Boost Your Speed in 3D Paint Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/exclusive-w10w11-climate-software-roundup/"><u>Exclusive W10/W11 Climate Software Roundup</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-a59-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on A59 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-10t-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme 10T 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/maintaining-harmony-keeping-your-gaming-system-steady-on-win/"><u>Maintaining Harmony: Keeping Your Gaming System Steady on Win</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-mobile-airwaves-a-users-guide-to-fm-radio-on-iphones-and-android-phones/"><u>Mastering Mobile Airwaves: A User's Guide to FM Radio on iPhones and Android Phones</u></a></li>
+<li><a href="https://windows11.techidaily.com/prtscn-and-snipping-tool-tie-in-in-windows-11-how-to-break-it/"><u>PrtScn & Snipping Tool Tie-In in Windows 11 - How to Break It</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedy-cease-random-file-explorer-launch/"><u>Remedy: Cease Random File Explorer Launch</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-unplugged-play-linking-windows-to-ps3-gamepad/"><u>The Unplugged Play: Linking Windows to PS3 Gamepad</u></a></li>
+</ul></div>
 

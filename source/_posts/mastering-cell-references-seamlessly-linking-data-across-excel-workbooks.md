@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cell References: Seamlessly Linking Data Across Excel Workbooks"
-date: 2024-08-31T22:04:57.659Z
-updated: 2024-09-01T22:04:57.659Z
+date: 2024-10-26T16:06:22.641Z
+updated: 2024-10-30T17:08:43.100Z
 tags:
   - excel
 categories:
@@ -48,11 +48,15 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 ![Sheet reference in formula](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/sheet-reference-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Press Enter to complete the formula.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ##  How to Reference Another Excel File
 
  You can refer to cells of another workbook using the same method. Just be sure that you have the other Excel file open before you begin typing the formula.
@@ -69,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 ![Formula that references another workbook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/workbook-reference.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  In this example, you can see dollar signs ($) amongst the cell address. This is an absolute cell reference ([Find out more about absolute cell references](https://some-guidance.techidaily.com/the-ultimate-step-by-step-guide-to-kinemasters-green-screen-mastery-for-2024/)).
 
  When referencing cells and ranges on different Excel files, the references are made absolute by default. You can change this to a relative reference if required.
@@ -80,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 ![Full file path of workbook in the formula](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/closed-workbook.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Although creating references to other workbooks is straightforward, they are more susceptible to issues. Users creating or renaming folders and moving files can break these references and cause errors.
 
  Keeping data in one workbook, if possible, is more reliable.
@@ -99,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 ![Sheet cross reference in sum function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/range-in-function.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  How to Use Defined Names for Simple Cross References
 
  In Excel, you can assign a name to a cell or range of cells. This is more meaningful than a cell or range address when you look back at them. If you use a lot of references in your spreadsheet, naming those references can make it much easier to see what you've done.
@@ -126,9 +117,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Defining a name in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/defined-name.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When creating defined names, you cannot use spaces. Therefore, in this example, the words have been joined in the name and separated by a capital letter. You could also separate words with characters like a hyphen (-) or underscore (\_).
 
  Excel also has a Name Manager that makes monitoring these names in the future easy. Click Formulas > Name Manager. In the Name Manager window, you can see a list of all of the defined names in the workbook, where they are, and what values they currently store.
@@ -136,8 +124,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Name Manager to manage the defined names](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/name-manager.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can then use the buttons along the top to edit and delete these defined names.
 
 ##  How to Format Data as a Table
@@ -147,6 +139,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Take the following simple table.
 
 ![Small list of product sales data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/small-list.png) 
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This could be formatted as a table.
 
@@ -162,13 +167,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Assign a name to your Excel table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/table-name.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, if we needed to sum the sales of Chicago, we could refer to the table by its name (from any sheet), followed by a square bracket (\[) to see a list of the table's columns.
 
 ![Using structured references in formulas](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/structured-references.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Select the column by double-clicking it in the list and enter a closing square bracket. The resulting formula would look something like this:
 
 =SUM(Sales[Chicago])
@@ -176,6 +192,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  You can see how tables can make referencing data for aggregation functions such as SUM and AVERAGE easier than standard sheet references.
 
  This table is small for the purposes of demonstration. The larger the table and the more sheets you have in a workbook, the more benefits you'll see.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  How to Use the VLOOKUP Function for Dynamic References
 
@@ -193,9 +216,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![List of employees](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/employees.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The VLOOKUP function looks down the first column of a table and then returns information from a specified column to the right.
 
  The following VLOOKUP function searches for the employee ID entered into cell A2 in the list shown above and returns the date joined from column 4 (fourth column of the table).
@@ -207,6 +227,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Below is an illustration of how this formula searches the list and returns the correct information.
 
 ![The VLOOKUP function and how it works](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/07/found-1282.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The great thing about this VLOOKUP over the previous examples is that the employee will be found even if the list changes in order.
 
@@ -222,8 +249,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -231,4 +256,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-masterpiece-episodes-for-airwaves/"><u>[New] Masterpiece Episodes for Airwaves</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-vloggers-retreat-excellence-unleashed/"><u>[New] The Vloggers' Retreat Excellence Unleashed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-essential-applications-share-videos-on-twitter/"><u>[Updated] 2024 Approved Essential Applications Share Videos on Twitter</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-top-10-essential-tools-for-pro-ig-video-editors/"><u>[Updated] 2024 Approved Top 10 Essential Tools for Pro IG Video Editors</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oneplus-ace-2-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your OnePlus Ace 2 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-hd-webcam-driver-logitech-c270-for-windows-1011/"><u>Download HD Webcam Driver: Logitech C270 for Windows 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/handling-the-file-not-displayed-problem-in-outlook-on-windows/"><u>Handling the File Not Displayed Problem in Outlook on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-set-your-preferred-theme-and-font-in-the-windows-11-notepad/"><u>How to Set Your Preferred Theme and Font in the Windows 11 Notepad</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-audio-configuring-your-samsung-soundbar-with-your-television-unit/"><u>Mastering Audio: Configuring Your Samsung Soundbar with Your Television Unit</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-speech-recognition-in-seconds-whisper-guide/"><u>Mastering Speech Recognition in Seconds - Whisper Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-11-parent-lock-configurations/"><u>Mastering Windows 11 Parent Lock Configurations</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-powershell-activating-script-policies/"><u>Mastering Windows PowerShell: Activating Script Policies</u></a></li>
+<li><a href="https://windows11.techidaily.com/minimizing-background-activity-windows/"><u>Minimizing Background Activity Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-microsoft-windows-update-setbacks-0xca00a009/"><u>Navigating Microsoft Windows Update Setbacks: 0XCA00A009</u></a></li>
+<li><a href="https://windows11.techidaily.com/overhauling-dormant-windows-keys-for-functionality/"><u>Overhauling Dormant Windows Keys for Functionality</u></a></li>
+<li><a href="https://extra-information.techidaily.com/secrets-of-the-trade-perfecting-sticker-removal-in-tiktoks/"><u>Secrets of the Trade Perfecting Sticker Removal in TikToks</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-for-windows-users-converting-your-mp3s-into-professional-audio-cds-using-imgburn/"><u>The Ultimate Guide for Windows Users: Converting Your MP3s Into Professional Audio Cds Using ImgBurn</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-game-crashes-updating-your-video-driver-for-stable-minecraft-performance-on-windows/"><u>Troubleshooting Game Crashes - Updating Your Video Driver for Stable Minecraft Performance on Windows</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unlock-full-media-potential-with-funimate-tools-for-2024/"><u>Unlock Full Media Potential with Funimate Tools for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Master Microsoft Excel: A Comprehensive Guide with 12 Tricks for Correcting Faulty Formulas"
-date: 2024-08-31T22:03:57.266Z
-updated: 2024-09-01T22:03:57.266Z
+date: 2024-10-25T17:11:15.199Z
+updated: 2024-10-30T16:06:17.571Z
 tags:
   - excel
 categories:
@@ -45,14 +45,18 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 
  Most other number formats are good choices depending on what type of result you're looking for. However, you must **avoid "Text,"** as this tells Excel that you're placing text into the cell, so it won't see your input as a formula. This number format will result in what you type being displayed in that cell.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  3\. Avoid Circular References
 
  When you press Enter after typing your formula, Excel might tell you that you have included circular references within your formula.
 
 ![Excel sheet with a 'Circular Reference' warning showing.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/circular-reference.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This means that, within your formula, you have referenced the cell you're typing in. In the case above, the formula typed into cell F1 references the cell itself, which means that Excel cannot properly calculate what you're telling it to do. The best way to [fix circular references](https://win11.techidaily.com/how-to-mend-windows-11s-system-settings-problems/) is to close the warning that appears (click "X" or "OK"), press Ctrl+Z to undo what you just input, and type the formula again in a different cell.
 
@@ -65,13 +69,31 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 ![Excel sheet demonstrating where to find the 'Automatic Calculation' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/automatic-calculation.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you want to ensure Automatic Calculations are turned on for your whole workbook, click "File" (top left corner of your Excel window), and then "Options" (bottom left corner of the menu that opens). In the window that opens, go to the "Formulas" menu and ensure "Automatic" is checked under the "Workbook Calculation" option.
 
 ![Excel's options for automatic calculations, accessed through 'File', 'Options', and 'Formulas'.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/options-for-automatic-calculations.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  These steps will tell Excel that you want it to recalculate if you change the data referred to in your formula.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  5\. Avoid Formatting Within Your Formula
 
@@ -80,13 +102,14 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 ![Excel formula containing dollar symbols incorrectly added as formatting.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/formatting-within-formula.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  In the example above, the person typing the formula wants to add two monetary values together within their formula. This can cause problems as certain symbols have certain functions within formulas. Instead of typing the currency symbols within their formula, they should [use the accounting number format](https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-redmi-12-5g-without-them-knowing-drfone-by-drfone-virtual-android/) in the cell that they are typing, as this will automatically format their result to include the dollar symbols.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  6\. Review Your Formula for Extra Characters
 
  This might sound obvious, but simply reviewing your formula manually can often highlight any issues straightaway. Look out for extra characters that shouldn't be there, spaces within cell references, or numbers that you might have typed accidentally when constructing your formula.
@@ -98,8 +121,12 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
  This will highlight most problems with your formulas.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  7\. Close All Parentheses
 
  If you have a formula with several arguments, you will have used several opening parentheses.
@@ -108,19 +135,20 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 
  In this formula that we have started to type, there are five opening parentheses. As a result, we need to ensure that each argument created by an opening parenthesis is completed, so we would need five closing parentheses to ensure our formula is correctly constructed.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  8\. Check Your Referenced Cells
 
  Does your formula's result appear incorrect? If so, check that you have referenced the correct cells.
 
 ![Excel sheet showing the cells referenced in a formula, and highlighting one incorrect reference.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/target-cells.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you double-click on the cell containing your formula, Excel will color code the references within the formula. By doing this, we can quickly see if any of the cell references are incorrect. To fix this, simply drag the colored cell reference to the correct cell, and the formula will automatically update.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  9\. Use Excel's Function Guide
 
@@ -128,16 +156,10 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 
 ![Excel sheet showing how to find the 'Insert Function' option via the 'Formulas' tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/insert-function.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  In the dialog box that opens, you can either type the name of the function you're looking to use in the "Search For A Function" box, or select from the list below. Once you've found the correct function, click 'OK', and Excel will take you through the steps to ensure your formula is correctly input.
 
 ![Excel sheet with the 'Insert Function' dialog box open and showing the options available.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/insert-function-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ##  10\. Only Use Double Quotes for Text
 
  If you include double quotes within your formula, Excel will see this as text to include in the result.
@@ -148,9 +170,6 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 
  In this example, if cell S9 is equal to 2, the formula will return the word "Yes". If it's not equal to 2, the formula will return "No". This is because we have used double quotes around these two words to [tell Excel to add text to the cell containing the formula](https://buynow-reviews.techidaily.com/a-comprehensive-review-top-long-reach-routers-dominating-the-market-in-ebytes/). So, if your formula doesn't work, make sure you have not used double quotes accidentally. 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  11\. Don't Nest More Than 64 Functions
 
  If you use functions within arguments in Excel, you are nesting your formula.
@@ -171,6 +190,13 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 
 ![Dividing by 0-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/dividing-by-0-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To get around this, you would [use the IFERROR function to hide the error](https://facebook-clips.techidaily.com/how-to-view-facebook-content-on-your-home-theater/) and insert an alternative value or return a blank cell.
 
 ---
@@ -183,8 +209,6 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +216,20 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-streamline-vlogging-titles-top-11-affordable-generators/"><u>[New] Streamline Vlogging Titles - Top 11 Affordable Generators</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-enhancements-in-vegaspro-with-its-2019-release/"><u>[Updated] The Enhancements in VegasPro with Its 2019 Release</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/abbyy-and-blue-prism/"><u>ABBYY & Blue Prism: プロセスインテリジェンスツールで組織の自動化効率を飛躍的に高める</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bygone-beauty-iphone-x-portrait-moments/"><u>Bygone Beauty IPhone X Portrait Moments</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-itel-p55plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-turn-on-quick-startup-your-complete-windows-11-guidebook/"><u>How to Turn On Quick Startup: Your Complete Windows 11 Guidebook</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-itel-s23-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Itel S23 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-apple-iphone-15-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on Apple iPhone 15 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-windows-performance-cutting-down-vanguards-cpu-use/"><u>Optimizing Windows Performance: Cutting Down Vanguard's CPU Use</u></a></li>
+<li><a href="https://windows11.techidaily.com/reactivate-windows-audio-despite-disabled-settings/"><u>Reactivate Windows Audio Despite Disabled Settings</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/streamlining-zoom-sessions-with-invisible-edges-for-2024/"><u>Streamlining Zoom Sessions with Invisible Edges for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-9-secrets-to-control-sound-settings-in-windows-11/"><u>Unlock the 9 Secrets to Control Sound Settings in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-mystery-behind-windows-memory-snapshot/"><u>Unraveling the Mystery Behind Windows' Memory Snapshot</u></a></li>
+</ul></div>
 

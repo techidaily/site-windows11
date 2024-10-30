@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Rectifying WoW Crashes: Error 132"
-date: 2024-10-21T20:37:36.031Z
-updated: 2024-10-24T16:11:19.579Z
+date: 2024-10-26T16:03:56.742Z
+updated: 2024-10-30T16:05:14.494Z
 tags:
   - windows10
   - windows11
@@ -46,24 +46,24 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 ![A screenshot of the Show In Explorer option for World of Warcraft in Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/show-in-file-explorer.jpg)
 4. Next, open either the **\_retail\_** or **\_classic\_** subfolder. For example, open the **\_classic\_** folder if you play World of Warcraft Classic or **\_retail\_** for the current version.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![A screenshot of the Retail folder in the system files for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/retail-folder.jpg)
 5. Then right-click on the **Interface** subfolder, select **Rename**, and input **InterfaceOld** for the new name.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Repeat the previous step for the **Classic** and **WTF** folders. Rename those folders to **ClassicOld** and **WTFOld**.  
 ![A screenshot of the system file options for the Cache folder for World of Warcraft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rename-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then go back to the Battle.net software to launch World of Warcraft. The renamed folders will be recreated, which resets the UI for the World of Warcraft game. The game might initially start more slowly than usual because of that, but hopefully, you’ll be able to play it without further issues.
@@ -81,26 +81,19 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 ![A screenshot of the Main Menu Options for Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/settings-menu-option.jpg)
 3. Select **Game Settings** \> **World of Warcraft**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click on the **Additional command line arguments** box to activate a text box.
 5. Input **\-d3d11legacy** inside the text box.  
 ![A screenshot of the Additional Command Line Arguments option for Battle Net](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/game-settings-tab.jpg)
 6. Press **Done** to set World of Warcraft’s command line argument.
 
- Restart the Blizzard software after setting this new command line argument for World of Warcraft. Then start WoW to see if this possible resolution makes a difference.
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Restart the Blizzard software after setting this new command line argument for World of Warcraft. Then start WoW to see if this possible resolution makes a difference.
 
 ## 4\. Add World of Warcraft to Your Security Software Exclusions List
 
@@ -111,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
  To ensure your security software never blocks World of Warcraft, add the game’s .exe (application) file to your antivirus and firewall exception lists. You can [whitelist files for Microsoft Defender](https://www.makeuseof.com/how-to-whitelist-files-windows-defender/#:~:text=Under%20Protection%20areas%2C%20select%20Virus,type%2C%20or%20process%20to%20exclude.) by clicking the **Add an exclusion** button in the Windows Security app. If you’ve installed a third-party antivirus tool, set a WoW exception in that app’s exclusion list instead.
 
  If adding World of Warcraft to your Windows Defender Exclusion List doesn’t fix error 132, you may want to [run the System File Checker for Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/) instead. This could repair any corrupted files causing the error.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enjoy World of Warcraft Again
 
@@ -128,22 +128,22 @@ thumbnail: https://thmb.techidaily.com/7e475b588f2cf5836119cf29eeb77a68a0d6cc175
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-from-kitchens-to-cameras-7-essentials-for-flavorful-filmmaking/"><u>[New] From Kitchens to Cameras 7 Essentials for Flavorful Filmmaking</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-profitability-playbook-the-ultimate-duo-of-dm-and-yo/"><u>[New] Profitability Playbook The Ultimate Duo of Dm & Yo</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-best-practices-for-b-roll-utilization/"><u>2024 Approved Best Practices for B-Roll Utilization</u></a></li>
-<li><a href="https://windows11.techidaily.com/access-androids-gaming-joy-on-pc-from-phone-to-window-11-via-google-linkup/"><u>Access Android's Gaming Joy on PC: From Phone to Window 11 via Google Linkup</u></a></li>
-<li><a href="https://windows11.techidaily.com/breaking-through-file-download-blockades-on-windows-11/"><u>Breaking Through File Download Blockades on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/clearing-occupied-files-a-guide-for-windows-11-users/"><u>Clearing Occupied Files: A Guide for Windows 11 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-chrome-time-lag-on-windows-devices/"><u>Correcting Chrome Time Lag on Windows Devices</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-the-file-damage-enigma-winning-over-error-0x80070570-on-windows-11/"><u>Deciphering the File Damage Enigma - Winning Over Error 0X80070570 on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/deciphering-windows-ram-allocation-strategies/"><u>Deciphering Windows' RAM Allocation Strategies</u></a></li>
-<li><a href="https://windows11.techidaily.com/differentiating-windows-terminal-from-powershell-a-compreayer-study/"><u>Differentiating Windows Terminal From PowerShell: A Compreayer Study</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-direct-streamline-the-most-efficient-flv-to-youtube-tools-ranked/"><u>In 2024, Direct Streamline The Most Efficient Flv-to-YouTube Tools Ranked</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-quick-setup-obs-and-zoom-coexistence-made-simple/"><u>In 2024, Quick Setup OBS & Zoom Coexistence Made Simple</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719235299454-overcome-the-stumbling-block-fixing-the-missing-wwinplusprint-on-pc/"><u>Overcome The Stumbling Block: Fixing the Missing WWin+Print on PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/reappearance-tactics-for-a-missing-wi-fi-signal-a-comprehensive-guide/"><u>Reappearance Tactics for a Missing Wi-Fi Signal – A Comprehensive Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-wireless-connectivity-errors-for-samsung-galaxy-users/"><u>Troubleshooting Wireless Connectivity Errors for Samsung Galaxy Users</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-audio-alchemy-revealed-a-deep-dive-into-premier-sound-design-software/"><u>Updated In 2024, Audio Alchemy Revealed A Deep Dive Into Premier Sound Design Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-discovering-video-opportunities-with-google-trend-analysis/"><u>[New] 2024 Approved Discovering Video Opportunities with Google Trend Analysis</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-transformative-photographic-text-edits/"><u>[New] In 2024, Transformative Photographic Text Edits</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-masterclass-5-in-best-mac-videography-software-for-2024/"><u>[New] Masterclass 5 in Best Mac Videography Software for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-best-approaches-for-quiet-visuals-capture/"><u>2024 Approved Best Approaches for Quiet Visuals Capture</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-character-adventures-windows-movie-maker-for-animators/"><u>In 2024, Crafting Character Adventures Windows Movie Maker for Animators</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-poco-x5-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Poco X5 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-touchpad-scroll-problems-on-your-device-expert-tips-and-tricks/"><u>Overcoming Touchpad Scroll Problems on Your Device – Expert Tips & Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-system-image-error-code-0x80780119-in-windows/"><u>Resolving System Image Error: Code 0X80780119 in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-windows-taskbar-icon-display-issues/"><u>Resolving Windows Taskbar Icon Display Issues</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/rise-in-popularity-top-10-must-try-instagram-hashtags-for-2024/"><u>Rise in Popularity Top 10 Must-Try Instagram Hashtags for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/routine-checklist-for-a-fresh-start-on-windows-updates/"><u>Routine Checklist for a Fresh Start on Windows Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/skyrocketing-performance-top-6-enhancements-for-vms-in-windows/"><u>Skyrocketing Performance: Top 6 Enhancements for VMs in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-clear-vacant-directories-with-minimal-hassle-in-windows/"><u>Tips to Clear Vacant Directories with Minimal Hassle in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-ranked-windows-11-theme-choices-missed/"><u>Top-Ranked Windows 11 Theme Choices Missed</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-virtualization-turning-on-hyper-v-in-win11/"><u>Unlocking Virtualization: Turning On Hyper-V in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-secret-to-fixing-windows-mails-0x800713f-mishap/"><u>Unveiling the Secret to Fixing Windows Mail's 0X800713F Mishap</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-review-on-the-adequacy-of-iphone-14s-performance-and-features/"><u>ZDNet Review on the Adequacy of iPhone 14'S Performance and Features</u></a></li>
 </ul></div>
 

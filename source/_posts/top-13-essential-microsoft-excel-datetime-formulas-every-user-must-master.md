@@ -1,7 +1,7 @@
 ---
 title: Top 13 Essential Microsoft Excel Date/Time Formulas Every User Must Master
-date: 2024-08-31T22:04:48.504Z
-updated: 2024-09-01T22:04:48.504Z
+date: 2024-10-23T16:02:48.137Z
+updated: 2024-10-30T16:22:42.378Z
 tags:
   - excel
 categories:
@@ -25,6 +25,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  Whether you use Microsoft Excel for [managing monthly bills](https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-narzo-60-pro-5g-phone-that-is-locked-by-drfone-android/) or tracking time for work, you likely use dates or times. With these functions, you can enter or obtain the dates and times you need.
 
  You might already be familiar with some date and time functions in Excel. So let's look at essential functions for common tasks as well as more advanced functions you may not know exist.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  View the Current Date or Time: TODAY and NOW
 
@@ -52,9 +59,6 @@ Related: [How to Insert Today's Date in Microsoft Excel](https://blog-min.techid
 
 ![DATE function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/DATE-ExcelDateTimeFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Get Parts of a Date: DAY, MONTH, YEAR
 
  When using dates in other formulas, you may need to obtain the serial number of a day, month, or year. This is exactly what the DAY, MONTH, and [YEAR functions](https://facebook-record-videos.techidaily.com/updated-in-2024-captivating-content-the-basics-of-removing-background-from-videos/) in Excel do. Where the DATE function combines parts of a date, these functions provide parts of one.
@@ -78,8 +82,12 @@ Related: [How to Use the YEAR Function in Microsoft Excel](https://facebook-reco
 ![DAY function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/DAY-ExcelDateTimeFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  See a Portion of the Day: TIME
 
  The TIME function in Excel provides you with the decimal portion of a day based on hours, minutes, and seconds in your sheet.
@@ -92,9 +100,6 @@ Related: [How to Use the YEAR Function in Microsoft Excel](https://facebook-reco
 
 ![TIME function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/TIME-ExcelDateTimeFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the result displays a time rather than a decimal, format the cell as a number by selecting "Number" in the Number drop-down box on the Home tab.
 
 ##  Get Parts of a Time: HOUR, MINUTE, SECOND
@@ -117,13 +122,6 @@ Related: [How to Use the YEAR Function in Microsoft Excel](https://facebook-reco
 
 ![HOUR function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/HOUR-ExcelDateTimeFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Calculate Days, Months, or Years Between Dates: DATEDIF
 
  You can use the [DAYS function](https://some-approaches.techidaily.com/new-top-10-hidden-gems-for-enhancing-canva-images/) to find the number of days between two dates. But the DATEDIF function goes a step further by allowing you to find the number of days, months, or years.
@@ -144,14 +142,25 @@ Related: [How to Find the Number of Days Between Two Dates in Microsoft Excel](h
 
 ![DATEIF function for months](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/DATEDIFMonths-ExcelDateTimeFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  To find the number of days between the same start and end dates in the same cells you would use this formula:
 
 =DATEDIF(H2,I2,"D")
 
 ![DATEIF function for days](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/DATEDIFDays-ExcelDateTimeFunctions.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Find the Number of Workdays: NETWORKDAYS
 
@@ -172,13 +181,21 @@ Related: [How to Find the Number of Days Between Two Dates in Microsoft Excel](h
 ![NETWORKDAYS function with holidays](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/NETWORKDAYSHolidays-ExcelDateTimeFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Even though we have three holidays listed, they do not all fall on workdays. So, the difference in the above is only one day.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  See the Week Number: WEEKNUM
 
  You don't have to count weeks manually if you use the WEEKNUM function. With it, you can find the week number in a year for any date.
@@ -207,8 +224,6 @@ Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](htt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +231,24 @@ Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](htt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-seamless-facebook-live-experience-combat-interruptions-for-2024/"><u>[New] Seamless Facebook Live Experience Combat Interruptions for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-creative-potential-animated-text-techniques-ig-stories/"><u>[New] Unlocking Creative Potential Animated Text Techniques IG Stories</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ultimate-checklist-for-installing-vrecorder/"><u>[Updated] Ultimate Checklist for Installing VRecorder</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-customizable-ai-for-creative-endeavors/"><u>Demystifying Customizable AI for Creative Endeavors</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-rectify-windows-auditory-restart-troubles-on-wake/"><u>How to Rectify Windows Auditory Restart Troubles on Wake</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-depth-look-10-must-have-terraria-mods-for-2024/"><u>In-Depth Look 10 Must-Have Terraria Mods for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-in-pc-device-activation-during-sleep/"><u>Navigating In-PC Device Activation During Sleep</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-microsoft-works-installation-on-latest-windows/"><u>Navigating Microsoft Works Installation on Latest Windows</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-advanced-audio-configuration-tips-for-devices/"><u>New Advanced Audio Configuration Tips for Devices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ize-your-video-written-by-your-name-for-2024/"><u>Optimize Your Video' Written By [Your Name] for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-limited-admin-rights-in-winsec-errors/"><u>Overcoming Limited Admin Rights in WinSec Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/reducing-unnecessary-batch-jobs/"><u>Reducing Unnecessary Batch Jobs</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedy-for-non-functional-audio-on-win-10/"><u>Remedy for Non-Functional Audio on Win 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-to-downloading-nvidia-drivers-on-windows-1178-systems/"><u>Step-by-Step Guide to Downloading NVIDIA Drivers on Windows 11/7/8 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/terminal-tactics-pinpointing-your-ip-in-windows/"><u>Terminal Tactics: Pinpointing Your IP in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-guide-to-twinning-your-tablet-and-pc-in-w11/"><u>The Essential Guide to Twinning Your Tablet and PC in W11</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-s-hottest-explainer-video-creation-software-reviews-and-comparisons/"><u>Updated In 2024, S Hottest Explainer Video Creation Software Reviews and Comparisons</u></a></li>
+</ul></div>
 

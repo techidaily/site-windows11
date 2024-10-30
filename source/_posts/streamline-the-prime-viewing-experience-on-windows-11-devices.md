@@ -1,7 +1,7 @@
 ---
 title: Streamline the Prime Viewing Experience on Windows 11 Devices
-date: 2024-10-19T18:41:30.774Z
-updated: 2024-10-24T17:40:13.936Z
+date: 2024-10-27T16:28:12.105Z
+updated: 2024-10-30T17:24:01.680Z
 tags:
   - windows10
   - windows11
@@ -53,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
  The problem can also occur due to an issue in the current version of your browser. In this case, you can[update your browser](https://www.makeuseof.com/how-to-update-chrome-firefox-edge-desktop-mobile/) to fix the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Repair and Reset the Prime Video App
@@ -69,15 +69,22 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 4. Click the**Repair** button.  
 ![Repair option in the Settings app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait till Windows repairs the app. You will see a checkmark next to the repair button when it's done.
 
  If repairing the app wasn't helpful, you can use the reset option, which will clear all its data. Doing this will be helpful if corrupt Prime Video files are causing the issue. To reset the Prime Video app, click the**Reset** button.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reinstall the Prime Video App
@@ -87,20 +94,13 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 ![Prime Video for Windows in the Microsoft Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prime-video-for-windows.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After the download is complete, log in with your credentials, and you'll see that you are no longer facing the subtitles not working issue.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixing the Prime Video Subtitles on Windows 11
 
@@ -121,21 +121,18 @@ thumbnail: https://thmb.techidaily.com/5c8db21fb7e97eed2eddd025f3f66d3a9e58c7bc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-high-res-gaming-the-best-screen-capture-options/"><u>[New] 2024 Approved High-Res Gaming The Best Screen Capture Options</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-optimize-youtube-tagstitledescription-for-more-views/"><u>[New] 2024 Approved How to Optimize YouTube Tags/Title/Description for More Views</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-clearer-streams-youtube-video-borderless-adjustment/"><u>[New] Clearer Streams YouTube Video Borderless Adjustment</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-navigating-virtual-escapes-tour-techniques/"><u>[New] In 2024, Navigating Virtual Escapes Tour Techniques</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-fearless-filming-mastering-your-first-10-clips/"><u>[Updated] In 2024, Fearless Filming Mastering Your First 10 Clips</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-compreenasian-approach-to-fixing-winget-on-windows-11/"><u>A Compreenasian Approach to Fixing Winget on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/addressing-one-side-output-in-windows-10-headphones/"><u>Addressing One Side Output in Windows 10 Headphones</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-lava-yuva-3-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Lava Yuva 3</u></a></li>
-<li><a href="https://windows11.techidaily.com/adjusting-windows-settings-for-visible-sticky-notes/"><u>Adjusting Windows Settings for Visible Sticky Notes</u></a></li>
-<li><a href="https://windows11.techidaily.com/advanced-techniques-locating-ip-and-mac-in-windows-ps/"><u>Advanced Techniques: Locating IP & MAC in Windows PS</u></a></li>
-<li><a href="https://windows11.techidaily.com/character-inspector-easy-steps-for-windows-11/"><u>Character Inspector: Easy Steps for Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/chkdsk-sfc-and-dism-windows-tools-unveiled-and-explained/"><u>CHKDSK, SFC & DISM: Windows Tools Unveiled and Explained</u></a></li>
-<li><a href="https://windows11.techidaily.com/christmas-theme-makeovers-for-windows-11/"><u>Christmas Theme Makeovers for Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-nokia-c12-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Nokia C12</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-oneplus-nord-n100-explored-exceptional-features-for-the-price-conscious-consumer/"><u>The OnePlus Nord N100 Explored: Exceptional Features for the Price-Conscious Consumer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208416053-troubleshooting-your-faulty-shift-key-now-repaired/"><u>Troubleshooting Your Faulty Shift Key - Now Repaired!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-ideal-8-visuals-to-elevate-your-mbp-aesthetics/"><u>[New] Ideal 8 Visuals to Elevate Your MBP Aesthetics</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-saving-scenes-a-rundown-of-the-best-facebook-extensions/"><u>[New] Saving Scenes A Rundown of the Best Facebook Extensions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-a-closer-look-at-facebooks-video-transformation/"><u>[Updated] 2024 Approved A Closer Look at Facebook’s Video Transformation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-beyond-reality-comparing-metaverse-and-multiverse/"><u>[Updated] 2024 Approved Beyond Reality Comparing Metaverse & Multiverse</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-leveraging-captivate-for-professional-demos/"><u>[Updated] 2024 Approved Leveraging Captivate for Professional Demos</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortlessly-incorporate-a-line-into-your-word-file-with-these-simple-techniques/"><u>Effortlessly Incorporate a Line Into Your Word File with These Simple Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/file-location-enthusiasts-guide-unlocking-win11s-best-practices-6-techniques/"><u>File Location Enthusiast's Guide: Unlocking Win11's Best Practices (6 Techniques)</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-audio-failures-in-windows-11-and-11-error-code-0xc00d36b4/"><u>Fixing Audio Failures in Windows 11 & 11 Error Code 0xC00D36B4</u></a></li>
+<li><a href="https://windows11.techidaily.com/improve-visual-quality-with-enhanced-scaling-on-windows-11/"><u>Improve Visual Quality with Enhanced Scaling on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/jumpstart-your-pc-activate-classic-windows-photo-viewer-on-win11/"><u>Jumpstart Your PC: Activate Classic Windows Photo Viewer on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-nvidia-display-settings-unavailability-issue/"><u>Mending Nvidia Display Settings Unavailability Issue</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/open-communication/"><u>Open Communication</u></a></li>
+<li><a href="https://windows11.techidaily.com/secure-savings-on-windows-11-pro-upgrade-offers/"><u>Secure Savings on Windows 11 Pro Upgrade Offers</u></a></li>
 </ul></div>
 

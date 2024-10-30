@@ -1,7 +1,7 @@
 ---
 title: Save Time and Effort with Quick Excel Solutions - No More Manual File Organization!
-date: 2024-08-31T22:04:39.684Z
-updated: 2024-09-01T22:04:39.684Z
+date: 2024-10-28T16:01:28.968Z
+updated: 2024-10-30T16:52:36.969Z
 tags:
   - excel
 categories:
@@ -44,20 +44,25 @@ MD Tom_Jones
 ![A list of names in Notepad, pasted from Excel, written using the MD format.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/md-column-in-notepad.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
  Press Ctrl+Shift+S to bring up the Save As dialog box, and select where you want the folders to be generated. In the File Name field, give your file an appropriate name and add **.bat** to the end (for example, **Singers.bat**). Then, click Save.
 
 ![The Save As dialog box in Notepad, with the location, file name, and Save button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/save-as-bat.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 
 
  Locate and double-click the ".bat" file you just saved to prompt it to run. Then, after a few seconds, you see the individual folders appear in the same location.
@@ -65,11 +70,19 @@ MD Tom_Jones
 ![Singers' individual folders in the Windows Explorer Desktop folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/singers-folder.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 
 
  You can now close Excel and delete the ".bat" file.
@@ -84,8 +97,6 @@ MD Tom_Jones
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,4 +104,22 @@ MD Tom_Jones
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-behind-the-scenes-unveiling-the-best-9-camera-additions-for-mobile-films-for-2024/"><u>[New] Behind the Scenes Unveiling the Best 9 Camera Additions for Mobile Films for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-showhide-directories-on-modern-windows-11-pcs/"><u>Guide to Show/Hide Directories on Modern Windows 11 PCs</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-plain-out-windows-edges/"><u>How to Plain Out Windows Edges</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-cost-free-treasure-hunts-finding-gorgeous-tiktok-backdrops/"><u>In 2024, Cost-Free Treasure Hunts Finding Gorgeous TikTok Backdrops</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-maximizing-your-visual-potential-online/"><u>In 2024, Maximizing Your Visual Potential Online</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-spark-dialogue-with-personalized-and-creative-story-inquiries/"><u>In 2024, Spark Dialogue with Personalized and Creative Story Inquiries</u></a></li>
+<li><a href="https://windows11.techidaily.com/iphoneandroid-your-smartphone-as-a-windows-microphone/"><u>IPhone/Android: Your Smartphone as a Windows Microphone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/is-the-4k-video-downloader-secure-and-reliable/"><u>Is the 4K Video Downloader Secure and Reliable?</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-image-spin-6-tactics-for-windows-11/"><u>Mastering Image Spin: 6 Tactics for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-local-gpo-on-windows-with-ease/"><u>Navigating Local GPO on Windows with Ease</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-error-x8019-on-windows-xp/"><u>Preventing Error X8019 on Windows XP</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionize-patient-engagement-with-ad-insights-for-2024/"><u>Revolutionize Patient Engagement with Ad Insights for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/toonbox-complete-insight-for-24-year-for-2024/"><u>ToonBox Complete Insight for '24 Year for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/turbo-charge-your-ppts-video-feed/"><u>Turbo Charge Your PPT's Video Feed</u></a></li>
+</ul></div>
 

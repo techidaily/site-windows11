@@ -1,7 +1,7 @@
 ---
 title: "Stop Spontaneous Scrolls: A Winworlder's Guide"
-date: 2024-08-27T16:13:23.735Z
-updated: 2024-08-28T16:13:23.735Z
+date: 2024-10-27T17:13:57.485Z
+updated: 2024-10-30T16:24:06.075Z
 tags:
   - windows10
   - windows11
@@ -40,8 +40,12 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
  Let's apply the above solutions to fix this strange auto scroll issue.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. First, Perform Some Preliminary Checks
 
  If you start with a few basic checks, you may fix the issue without performing any major fixes:
@@ -65,8 +69,18 @@ If the above basic checks don't help, apply the remaining fixes.
 ![Person Unmounting the Screws to Disassemble the Mouse Casing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/1-Person-Unmounting-the-Screws-to-Disassemble-the-Mouse-Casing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Image Credit: TechClub/[YouTube](https://www.youtube.com/watch?v=%5FWBHLISDp80)
 
  Next, check for potential hardware problems. By checking them first, you can save yourself from the unnecessary labor of applying software fixes.
@@ -79,8 +93,18 @@ If the above basic checks don't help, apply the remaining fixes.
  However, if the problem persists after you disconnect the mouse, or you don't encounter it on another device, it is probably a software problem. Before proceeding to software solutions, ensure your mousepad does not have problems.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Check for Touchpad Issues
 
 ![Man Using Touchpad on Laptop](https://thmb.techidaily.com/ab7b24e72134add05d60a9c9878e14a3ae56dcbc709b29d6e1455394b97ec52a.jpg)
@@ -90,8 +114,12 @@ If the above basic checks don't help, apply the remaining fixes.
  If you are unfamiliar with the process, check out our guides on[disabling the touchpad on Windows 10](https://www.makeuseof.com/ways-to-disable-touchpad-in-windows-10/) (or[Windows 11](https://www.makeuseof.com/windows-11-disable-touchpad/) ).
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 4\. Remove or Uninstall Ghost Devices
 
  Ghost devices are devices that Windows OS detects as connected even after you have disconnected them. Detection of these extra devices by your Windows operating system can also cause auto-scroll, so you'll need to remove them. Follow these steps to do that:
@@ -100,17 +128,11 @@ If the above basic checks don't help, apply the remaining fixes.
 2. Go to the**View** tab and click**Show hidden devices** . If you see a checkmark next to this option, hidden devices are already visible. So, there is no need to click on this option since doing so will disable it again.  
 ![Clicking on the Show Hidden Devices Option in the View Tab of Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/1-clicking-on-the-show-hidden-devices-option-in-the-view-tab-of-device-manager.jpg)
 3. Expand the**Mice and other pointing devices** category.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. If too many mouse devices are installed here, uninstall them all. Then, unplug the mouse and connect it back, and Windows will automatically install the driver.  
 ![Uninstalling Unwanted Devices From the Mice and Other Pointing Devices Category in Windows Device Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/2-uninstalling-unwanted-devices-from-the-mice-and-other-pointing-devices-category-in-windows-device-manager.jpg)
 
  If you use a touchscreen, you should disable the touchscreen driver too. Sometimes, uninstalling this driver also fixes display problems.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### 5\. Change Your Mouse Settings
 
  Have you recently tweaked your mouse settings? If you have made any changes, the settings may have been misconfigured. Therefore, make sure that the mouse scroll settings are set correctly. To do that, follow these steps:
@@ -120,22 +142,18 @@ If the above basic checks don't help, apply the remaining fixes.
 3. In the right pane, click**Mouse** .  
 ![Going to the Mouse Settings in Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/3-going-to-the-mouse-settings-in-windows-settings-app.jpg)
 4. Turn off the toggle next to**Scroll inactive windows when hovering over them** .
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Ensure the**Multiple lines at a time** option is selected in the**Roll the mouse wheel to scroll** dropdown menu.
 6. Make sure the**Lines to scroll at a time** slider isn't set too high.  
 ![Changing the Mouse Settings in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/4-changing-the-mouse-settings-in-the-windows-settings-app.jpg)
 7. After that, click on the**Additional mouse settings** link.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Opening Additional Mouse Settings in the Windows Settings App](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/5-opening-additional-mouse-settings-in-the-windows-settings-app.jpg)
 8. Make sure**Vertical Scrolling** and**Horizontal Scrolling** values aren't set too high in the**Mouse Properties** window.  
 ![Changing the Vertical and Horizontal Scrolling Values in Mouse Properties Window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/6-changing-the-vertical-and-horizontal-scrolling-values-in-mouse-properties-window.jpg)
@@ -144,14 +162,11 @@ If the above basic checks don't help, apply the remaining fixes.
 
  When Windows starts to scroll down its display automatically, it gets challenging to click on a single item accurately. We hope the fixes covered in the article fix the auto-scrolling issue on Windows and keep your display stable. Thus, you'll be able to restore your device to its normal state.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -160,4 +175,24 @@ If the above basic checks don't help, apply the remaining fixes.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-gnome-videos-open-source-multimedia-for-windows-for-2024/"><u>[New] GNOME Videos Open-Source Multimedia for Windows for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-clear-obstacle-youtube-tweets-on-google-chrome/"><u>[Updated] 2024 Approved Clear Obstacle YouTube Tweets on Google Chrome</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-navigating-gradual-audio-reduction-in-digital-studios-for-2024/"><u>[Updated] Navigating Gradual Audio Reduction in Digital Studios for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-tailoring-your-youtube-videos-with-customized-text-and-link-embeddings-for-2024/"><u>[Updated] Tailoring Your YouTube Videos with Customized Text & Link Embeddings for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-unleash-potential-secrets-for-career-growth-in-designing/"><u>2024 Approved Unleash Potential Secrets for Career Growth in Designing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-hardware-insights-from-toms-experts/"><u>Comprehensive Hardware Insights From Tom's Experts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-the-convenience-of-inwins-new-case-designs-featuring-user-friendly-pack-it-modules-and-adaptable-structures/"><u>Discover the Convenience of InWin's New Case Designs Featuring User-Friendly Pack-It Modules and Adaptable Structures</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-turn-off-windows-from-starting-spotify/"><u>Guide to Turn Off Windows From Starting Spotify</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-copy-and-paste-not-working-in-windows-11/"><u>How to Fix Copy and Paste Not Working in Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/peering-into-major-complaints-about-windows-11-launch/"><u>Peering Into Major Complaints About Windows 11 Launch</u></a></li>
+<li><a href="https://windows11.techidaily.com/pioneering-retro-upgrades-atlasos-transformation/"><u>Pioneering Retro Upgrades: AtlasOS Transformation</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-recovery-reviving-a-vanished-windows-update/"><u>Quick Recovery: Reviving a Vanished Windows Update</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-game-launch-hurdles-with-epic-logins/"><u>Reversing Game Launch Hurdles with Epic Logins</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-the-mystery-of-error-0x0000004e-on-windows/"><u>Solving the Mystery of Error 0X0000004E on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackle-non-working-shift-with-simple-tweaks/"><u>Tackle Non-Working Shift with Simple Tweaks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-secret-to-imovies-edge-cropping-for-2024/"><u>The Secret to iMovie’s Edge Cropping for 2024</u></a></li>
+</ul></div>
 

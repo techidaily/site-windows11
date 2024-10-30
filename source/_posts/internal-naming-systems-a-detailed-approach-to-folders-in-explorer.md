@@ -1,7 +1,7 @@
 ---
 title: "Internal Naming Systems: A Detailed Approach to Folders in Explorer"
-date: 2024-08-27T16:09:35.624Z
-updated: 2024-08-28T16:09:35.624Z
+date: 2024-10-24T16:28:11.547Z
+updated: 2024-10-30T16:45:50.505Z
 tags:
   - windows10
   - windows11
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 5. Deselect the selected **Hide protected operating system** checkbox.  
 ![The Hide protected operation system files checkbox](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-hide-protected-operating-system-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Select **Apply** to save the new Explorer settings.
 2. Click the Folder Options window’s **OK** button.
 3. Right-click the folder you want to add a comment to and select **Properties**.
@@ -56,8 +63,12 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 7. Press the **Apply** and **OK** buttons to change the folder’s icon.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Add a New Folder Comment With the Desktop.Ini File
 
  Now you’ll be able to see the desktop.ini file within the folder to which you want to set a custom comment. You can add a custom comment for that folder by editing its desktop.ini file as follows:
@@ -67,21 +78,19 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 3. Select **Notepad** in the submenu.  
 ![The Open with submenu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/open-with-option.jpg)
 4. Enter **InfoTip=Add your comment here** in the line just beneath **\[.ShellClassInfo\]** within Notepad. You can change the **Add your comment here** text to whatever you want the comment for your folder to say.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![The desktop.ini file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/desktop-ini-file.jpg)
 5. Click Notepad’s **File** menu.
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. Select **Save** to set the new folder comment.  
 ![The Save option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/the-save-option.jpg)
 7. Click Exit on Notepad’s **File** menu.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Finally, restart the Windows Explorer process with a method in this guide to restarting File Explorer.
 
  Return to the directory that includes the folder to which you’ve just added a comment. You’ll see the custom comment for the folder in the **Comments** column. You can add comments to many more folders by changing their icons and editing the desktop.ini files in them. Note that you’ll also need to enable the **Comments** column for each directory.
@@ -89,21 +98,19 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 ![The Comments column](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/comments-column.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you ever want to remove or change the comment, reopen the desktop.ini file in the set folder. You can remove the comment by deleting the InfoTip comment text. Or edit the comment’s text there to change it.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Add Useful Comment Info to Your Folders on Windows 11
 
  You can now add extra information about your folders within File Explorer with comment notes. Such comments can be useful for making it clearer what directories include. For example, you can add comments that provide more specific details about what kinds of files folders include. Or add comments about what specific files you can find in them.
 
  File Explorer has a **Comments** column in which users can add comments to files within Explorer by modifying tags for them on the Details tab. However, folders don’t have editable tags like files do. Nevertheless, you can still add comments to folders even though File Explorer doesn’t have a built-in option for doing so.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -111,3 +118,22 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-visionary-viewership-to-virtual-value/"><u>[New] In 2024, Visionary Viewership to Virtual Value</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-fixing-mistaken-face-id-in-facebook-chats/"><u>2024 Approved Fixing Mistaken Face ID in Facebook Chats</u></a></li>
+<li><a href="https://windows11.techidaily.com/easily-overcome-excel-blank-file-glitches-top-advice-for-a-smooth-solution/"><u>Easily Overcome Excel Blank File Glitches: Top Advice for a Smooth Solution</u></a></li>
+<li><a href="https://windows11.techidaily.com/easy-techniques-for-implementing-exponential-functions-in-microsoft-excel/"><u>Easy Techniques for Implementing Exponential Functions in Microsoft Excel</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/easy-video-retrieval-how-to-download-footage-from-photobucket-across-pc-and-mac-platforms/"><u>Easy Video Retrieval: How to Download Footage From Photobucket Across PC and Mac Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-strategies-for-setting-up-short-term-shared-worksheets-in-microsoft-excel/"><u>Effective Strategies for Setting Up Short-Term Shared Worksheets in Microsoft Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/effective-techniques-for-deleting-hyperlinks-within-microsoft-excel-worksheets/"><u>Effective Techniques for Deleting Hyperlinks Within Microsoft Excel Worksheets</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhanced-microsoft-excel-python-interpreter-latest-upgrade-improvements/"><u>Enhanced Microsoft Excel Python Interpreter: Latest Upgrade Improvements</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhancing-clarity-in-ms-excel-visualizations-how-to-title-your-x-and-y-axes-effectively/"><u>Enhancing Clarity in MS Excel Visualizations - How to Title Your X & Y Axes Effectively</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-itel-a70-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Itel A70</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-valuation-of-a-million-viewing-on-youtube/"><u>In 2024, Valuation of a Million-Viewing on YouTube</u></a></li>
+<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/sharpening-your-zoom-images-for-professional-conferencing-for-2024/"><u>Sharpening Your Zoom Images for Professional Conferencing for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-top-10-list-of-ai-powered-chatbots-for-enhanced-interaction/"><u>The Ultimate Top 10 List of AI-Powered Chatbots for Enhanced Interaction</u></a></li>
+</ul></div>
+

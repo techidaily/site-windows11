@@ -1,7 +1,7 @@
 ---
 title: Top 6 Tips for Creating Simple and Legible Excel Sheets
-date: 2024-08-31T22:04:49.694Z
-updated: 2024-09-01T22:04:49.694Z
+date: 2024-10-28T16:10:30.153Z
+updated: 2024-10-30T17:08:58.229Z
 tags:
   - excel
 categories:
@@ -32,6 +32,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An Excel spreadsheet with the Freeze Panes option selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/freeze-panes.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Freeze Top Row and Freeze First Column:** As their names suggest, these two options let you freeze row 1 or column A. Excel chooses these as quick-access freezing options because this is usually where your row and column headers sit. Note, however, that these options do not allow you to perform both actions—if you click one of these two options and then click the other, only the last option you chose will be performed on your sheet.
 
 **Freeze Panes:** If you want to freeze more than just one row or column (if, for example, you have more than one header row), or decide that you want to freeze columns _and_ headers, this option is the one for you.
@@ -41,6 +48,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  In our example below, we want to freeze row 1 and column A, so we will freeze panes from cell B2\. Excel will then draw a thicker line to demonstrate where the freezing has taken effect.
 
 ![An Excel sheet with the first row and column frozen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/first-row-and-column-frozen.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, when you scroll down or across, you'll see that the headers remain viewable.
 
@@ -54,16 +68,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An excel worksheet with a totals row at the bottom of a table of data.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/totals-row.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  First, select the row you want to affect (in our case, row 102). Then, open the "Home" tab on the ribbon, and use the border and color options to format this row.
 
 ![An Excel worksheet with the totals row selected, and the border and color icons highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/totals-row-highlighted.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  We recommend you apply a top border only, and use a light color fill, such as light blue or gray.
 
 ![An Excel worksheet with a totals row at the foot of a table colored and with a top border.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/totals-row-formatted.png) 
@@ -78,9 +99,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An Excel worksheet with the header row highlighted and 'Wrap Text' selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/wrap-text.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You will see that the text in each cell along this row has now adjusted to fit the cell width.
 
  However, as some of the words are longer than the cell width, they are split into two lines. So, the second step is to [adjust the column widths](https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-huawei-p60-drfone-by-drfone-virtual-android/). You can adjust column widths individually, but we want them to be the same, so that there's an aesthetic consistency across our sheet.
@@ -89,24 +107,25 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An Excel worksheet with all cells highlighted and an arrow pointing at the divide between two column headers where it is possible to change the column widths.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/adjust-column-widths.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  Once you've achieved a suitable cell width, click anywhere on your sheet to deselect the cells. You'll notice that doing this makes your spreadsheet far less cramped, which, again, is pleasing on the eye.
 
  We'd also recommend that you center-align your headers vertically and horizontally to add that extra professional quality. Select the header row and click both center alignment icons in the Alignment group on the Home tab.
 
 ![An Excel worksheet with the header row center-aligned.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/centre-align.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In Excel, by default, text aligns to the left and numbers align to the right. You may wish to make these all the same—or even center-align all your data—to increase the readability of your data.
 
  Also note the following tips to achieve consistent formatting:
 
 * Use the same font and font size throughout your workbook, choosing a typeface that is easy to read, such as Arial, Calibri, or Aptos. If you need to emphasize something, either use bold font or color the cell background.
 * Choose a color palette. When choosing cell or font colors, follow the vertical columns in the theme colors to use different shades of the same colors. Not only does this make your spreadsheet more professional, but it also means that if you [use conditional formatting](https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/), you can choose a color that will stand out against your chosen color palette.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Tip 4: Use Notes to Avoid Too Much Text
 
@@ -118,14 +137,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An Excel worksheet with a cell H1's note in view.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/view-cell-note.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  To edit or delete the note, simply right-click the cell again and click "Edit Note" or "Delete Note."
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Tip 5: Let Excel Create Your Charts and Tables
 
  A quick and easy way to improve your Excel sheet's appearance and display your data effectively is to use the in-built chart and table functions.
@@ -134,9 +154,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Data selected in an Excel worksheet, and the chart options highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/insert-chart.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also tell Excel to [format your tables](https://instagram-videos.techidaily.com/updated-2024-approved-how-to-convert-your-best-videography-into-melodic-mp3s-insta/). To do this, highlight all the data in your table, including the header row or column. Then, open the "Home" tab, and click "Format As Table" in the Stypes group, and choose a layout that works with your chosen color palette.
 
 ![The Format As Table option displayed in an Excel worksheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/format-as-table.png) 
@@ -145,6 +162,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Excel's Table Style Options group in the Table Design tab is displayed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/table-style-options.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Tip 6: Share as a PDF to Lock Your Layout
 
  Now that you have a professionally formatted Excel sheet that is easy to read, it's ready to share and print. Excel's formatting can change if you share the workbook with someone who will open it on their mobile or a computer with an older version of Excel, and all your hard work might be undone. To keep your layout intact, [save your worksheet as a PDF](https://win-able.techidaily.com/how-to-solve-game-lag-and-skipping-frames-in-modern-warfare-ii-cod/).
@@ -152,6 +176,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Click File > Save (or Save As) > Browse, and in the window that appears, change the Save As Type option to "PDF."
 
 ![The Save As window with 'PDF' selected as the Save As Type option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/save-as-pdf.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -163,8 +194,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +201,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-photoshops-role-in-crafting-stunning-hdr-visuals/"><u>[New] Photoshop's Role in Crafting Stunning HDR Visuals</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-prime-fareless-streaming-and-recording-software/"><u>[New] Prime Fareless Streaming & Recording Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-navigate-effortlessly-to-your-favorite-facebook-videos-with-these-top-addons/"><u>[Updated] 2024 Approved Navigate Effortlessly to Your Favorite Facebook Videos With These Top Addons</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-apple-writes-a-new-chapter-m1-pro-vs-m1-max-analysis-for-2024/"><u>[Updated] Apple' Writes a New Chapter M1 Pro Vs. M1 Max Analysis for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-integrating-apple-tunes-with-visual-media/"><u>2024 Approved Integrating Apple Tunes with Visual Media</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-digital-disguises-spotting-ai-content-creation/"><u>Deciphering Digital Disguises: Spotting AI Content Creation</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-empty-sections-of-navigation-view/"><u>Fixing Empty Sections of Navigation View</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-xiaomi-redmi-13c-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Xiaomi Redmi 13C Location | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/microsoft-enhances-windows-11-with-ai-taskbar-companion-for-effortless-management/"><u>Microsoft Enhances Windows 11 with AI Taskbar Companion for Effortless Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-0xc00000f-issue-on-your-pc-easily/"><u>Overcoming 0Xc00000f Issue on Your PC Easily</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolve-system-hiccups-with-these-10-windows-tools/"><u>Resolve System Hiccups with These 10 Windows Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-regedit-absent-on-windows-systems/"><u>Resolving Regedit Absent on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-your-computer-with-windows-hello-fingerprint/"><u>Securing Your Computer with Windows Hello Fingerprint</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-combining-multiple-cells-in-excel-efficiently/"><u>Step-by-Step Guide to Combining Multiple Cells in Excel Efficiently</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-resolving-continuous-mouse-connection-issues-on-your-computer/"><u>Step-by-Step Guide: Resolving Continuous Mouse Connection Issues on Your Computer</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-to-eradicate-the-abrupt-termination-error-in-roblox-games/"><u>Tips to Eradicate the Abrupt Termination Error in Roblox Games</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-your-way-out-of-secure-boot-stumbles-with-these-fixes/"><u>Win Your Way Out of Secure Boot Stumbles with These Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/workaround-to-avoid-discord-autostarting-on-pc/"><u>Workaround to Avoid Discord Autostarting on PC</u></a></li>
+</ul></div>
 

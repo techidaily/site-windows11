@@ -1,7 +1,7 @@
 ---
 title: Unlocking Windows 11 With Non-Admin Steps
-date: 2024-08-27T16:11:52.489Z
-updated: 2024-08-28T16:11:52.489Z
+date: 2024-10-26T17:06:16.741Z
+updated: 2024-10-30T16:54:03.642Z
 tags:
   - windows10
   - windows11
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
  If the reset process fails and requests additional system files, use the **Cloud download** option to perform a reset and try again. This often happens if your existing Windows installation is missing critical system files or corrupted.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. How to Factory Reset Windows 11 Using a Windows Installation Media
 
 ![Windows 11 setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/Windows-11-setup.png)
@@ -67,28 +74,52 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 5. Next, click the **Install Now** button.  
 ![install windows 11 clean](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/insatll-windows-11-clean.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. On the **Activate Windows** page, click the **I don’t have a product key** link.
 2. Next, select the **Windows 11 edition** you want to install. If not, select the default option and click **Next**.  
 ![windows 11 setup select edition](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/windows-11-setup-select-edition.png)
 3. Accept the terms and click **Next**.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![custom install windows only](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/custom-install-windows-only-.png)
 4. The setup wizard will detect your existing Windows installation and offer you to **Upgrade**. However, the upgrade option will keep your apps, settings, and admin password. So, select **Custom: Install Windows only (advanced).**
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Select your installation drive and click **Next**. Follow on-screen instructions to complete the installation.
 
  Windows will wipe your installation drive and install a fresh copy of the Windows OS. After the restart, Microsoft will prompt you to log in with your Microsoft account to complete the setup. If you have a Microsoft account, log in using the credentials and complete the setup.
 
  If you prefer to create and use a local user account instead, read our guide on [how to install and set up Windows 11 without an internet connection](https://www.makeuseof.com/windows-11-set-up-without-internet-connection/) and create one that way.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Factory Reset a Windows Computer Without an Admin Password
 
  Although you can factory reset the PC to bypass the admin password, setting up your system from scratch is cumbersome. To avoid this hassle, consider using a password manager. It not only stores difficult and long passwords and syncs them across devices but also protect them from hacker and other prying eyes with encryption.
 
  For situations like this, Windows 11 offers a few alternative ways to factory reset your computer. You can factory reset Windows 11 without the admin password from the lock screen or by using a bootable Windows installation media. Let's explore the two ways you can bypass a Windows admin password and reset your PC.
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -96,3 +127,27 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-debunking-photoshake-is-it-essential-or-excessive-in-2024/"><u>[New] Debunking PhotoShake Is It Essential or Excessive, In 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-find-your-got-ringtone-leading-online-retailers/"><u>[New] Find Your GoT Ringtone - Leading Online Retailers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-preventing-sickness-while-engaging-with-vr/"><u>[Updated] Preventing Sickness While Engaging with VR</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-masterclass-the-different-faces-of-hand-tracker/"><u>2024 Approved Masterclass The Different Faces of Hand Tracker</u></a></li>
+<li><a href="https://win-data.techidaily.com/1728504095183-aomei-backupper/"><u>AOMEI Backupperを使った効果的なディスクの完全消去手順</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/deciphering-facebooks-iconic-blue-emoji-usage-in-messages-for-2024/"><u>Deciphering Facebook's Iconic Blue Emoji Usage in Messages for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-resolving-11-windows-11-errors/"><u>Essential Guide: Resolving 11 Windows 11 Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-installation-failed-for-discord-on-windows-11-and-11/"><u>Fix 'Installation Failed' For Discord on Windows 11 & 11</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-g2-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo G2 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-kickstart-your-telegram-promotion-journey-tips-for-newbies/"><u>In 2024, Kickstart Your Telegram Promotion Journey Tips for Newbies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-lightning-speed-seamless-transformation-from-srt-to-text-format/"><u>In 2024, Lightning Speed Seamless Transformation From SRT to Text Format</u></a></li>
+<li><a href="https://windows11.techidaily.com/maximizing-mouse-cursor-visibility-and-clarity-windows-edition/"><u>Maximizing Mouse Cursor Visibility and Clarity - Windows Edition</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-error-signals-in-windows-a-guide-to-using-command-prompt-for-diagnostics/"><u>Navigating Error Signals in Windows: A Guide to Using Command Prompt for Diagnostics</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-pink-screen-crisis-on-your-system/"><u>Navigating the Pink Screen Crisis on Your System</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-hypervisorbsod-top-5-fixes-for-windows-os/"><u>Overcoming HYPERVISOR_BSOD: Top 5 Fixes for Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-opening-windows-stubborn-folders-on-double-click/"><u>The Ultimate Guide: Opening Windows' Stubborn Folders on Double-Click</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-recuva-the-top-file-restoration-software-on-the-market/"><u>Ultimate Guide to Recuva: The Top File Restoration Software on the Market</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-puzzle-of-windows-subsystem-for-linux-error-4294967295/"><u>Unraveling the Puzzle of Windows Subsystem for Linux Error 4294967295</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-system-deciphering-report-creation-and-analysis/"><u>Windows System Deciphering: Report Creation & Analysis</u></a></li>
+</ul></div>
+

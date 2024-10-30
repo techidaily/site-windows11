@@ -1,7 +1,7 @@
 ---
 title: "Transitioning From Hours to Fractions: A Step-by-Step Guide on Converting Time to Decimal Format in Excel"
-date: 2024-08-31T22:03:35.420Z
-updated: 2024-09-01T22:03:35.420Z
+date: 2024-10-27T17:07:22.373Z
+updated: 2024-10-30T16:58:04.991Z
 tags:
   - excel
 categories:
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/01a9c6a754e21b99c858623b51177464f69009a94
 
  Here are a few ways to convert time to [decimals in Excel](https://instagram-clips.techidaily.com/2024-approved-snickel-and-wail-instagrams-10-most-hilarious-meme-accounts/). You can use whichever method you're most comfortable with or works best for you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use the Time and Decimal Formats
 
  Before you convert the times and decimals in your sheet, make sure that the cells are formatted as such.
@@ -31,6 +38,13 @@ Related: [How to Use the Accounting Number Format in Microsoft Excel](https://an
  For time, you can do this by selecting the cell and choosing "Time" in the Number drop-down box on the Home tab. If you plan to convert hours, minutes, _and_ seconds, it's best to use the Format Cells feature. Select the cell or range, right-click, and pick "Format Cells."
 
 ![Format Cells in the shortcut menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/FormatCells-ExcelConvertTimeDecimal.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Choose the Number tab and pick "Time" on the left. Then, pick the hours:minutes:seconds option on the right as shown below and click "OK."
 
@@ -67,11 +81,12 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 ![Multiplication conversions](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Multiplication-ExcelConvertTimeDecimal.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  Convert Using the CONVERT Function
 
  Another option for getting decimals for [times in Excel](https://android-frp.techidaily.com/how-to-bypass-frp-from-samsung-galaxy-f54-5g-by-drfone-android/) is with the CONVERT function. This versatile function lets you convert times, measurements, weights, and more.
@@ -86,18 +101,6 @@ Related: [How to Add or Subtract Times in Microsoft Excel](https://android-frp.t
 
 ![CONVERT function formula for hours](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/ConvertFunctionHours-ExcelConvertTimeDecimal.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also use "d" instead of "day" for the `from` argument.
 
  To convert that same time to minutes and seconds, you would use these formulas:
@@ -108,11 +111,21 @@ Related: [How to Add or Subtract Times in Microsoft Excel](https://android-frp.t
 
 ![CONVERT function formula for minutes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/ConvertFunctionMinutes-ExcelConvertTimeDecimal.png) 
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also use "min" instead of "mn" for minutes and "s" instead of "sec" for seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Convert Using Time Function Formulas
 
  This last method uses [Excel's time functions](https://extra-lessons.techidaily.com/kickstart-your-telegram-promotion-journey-tips-for-newbies/). Although the formulas are much lengthier than those above, it's still another option you might prefer. Here, you'll use the HOUR, MINUTE, and SECOND functions with a combination of calculations.
@@ -125,9 +138,6 @@ Related: [13 Microsoft Excel Date and Time Functions You Should Know](https://ex
 
 ![Time function formula for hours](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/TimeFunctionHours-ExcelConvertTimeDecimal.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Each function references the cell A2 and the results are added together. The MINUTE portion is divided by 60 for 60 minutes in an hour and the SECOND portion is divided by 3,600 for 3,600 seconds in an hour.
 
  To convert the same time to minutes, you would use this formula:
@@ -135,6 +145,13 @@ Related: [13 Microsoft Excel Date and Time Functions You Should Know](https://ex
 =HOUR(A2)*60+MINUTE(A2)+SECOND(A2)/60
 
 ![Time function formula for minutes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/TimeFunctionMinutes-ExcelConvertTimeDecimal.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Similar to the formula for hours, you add the result of the functions together. The HOUR portion is multiplied by 60 for 60 minutes in an hour and the SECOND portion is divided by 60 for 60 seconds in a minute.
 
@@ -144,9 +161,6 @@ Related: [13 Microsoft Excel Date and Time Functions You Should Know](https://ex
 
 ![Time function formula for seconds](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/TimeFunctionSeconds-ExcelConvertTimeDecimal.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With this formula, the HOUR portion is multiplied by 3,600 for 3,600 seconds in an hour and the MINUTE portion is multiplied by 60 for 60 seconds in a minute.
 
  As you can see, this last method requires more effort, but if you're familiar with using time functions in Excel, it might be your preferred one.
@@ -159,8 +173,6 @@ Related: [13 Microsoft Excel Date and Time Functions You Should Know](https://ex
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +180,18 @@ Related: [13 Microsoft Excel Date and Time Functions You Should Know](https://ex
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-a-new-dawn-for-screen-capturing-apeaksoft-reviewed-for-2024/"><u>[New] A New Dawn for Screen Capturing Apeaksoft Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/lite-10-audio-boosters-for-os-x-ios-android/"><u>[New] Elite 10 Audio Boosters for OS X, iOS, Android</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-how-to-determine-your-macbooks-exact-model-number/"><u>Discover How to Determine Your MacBook's Exact Model Number</u></a></li>
+<li><a href="https://windows11.techidaily.com/examining-why-drive-letters-are-missing-from-windows-systems/"><u>Examining Why Drive Letters Are Missing From Windows Systems</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-apple-iphone-se-2020-by-drfone-ios/"><u>How to Bypass iCloud Lock from Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://windows11.techidaily.com/interactive-insights-microsofts-innovative-ai-hub/"><u>Interactive Insights: Microsoft's Innovative AI Hub</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/os-15-servicos-mais-populares-que-desafiam-o-youtube-no-ano-de-2024/"><u>Os 15 Serviços Mais Populares Que Desafiam O Youtube No Ano De 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/solving-unsupported-device-for-windows-hello-login/"><u>Solving 'Unsupported Device' For Windows Hello Login</u></a></li>
+<li><a href="https://fox-access.techidaily.com/top-audio-tools-for-professional-podcast-creators-for-2024/"><u>Top Audio Tools for Professional Podcast Creators for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/waking-up-off-screen-windows-mastering-6-strategies-in-win11/"><u>Waking Up Off-Screen Windows: Mastering 6 Strategies in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11s-official-app-three-ways-to-erase-it/"><u>Win 11'S Official App: Three Ways to Erase It</u></a></li>
+</ul></div>
 

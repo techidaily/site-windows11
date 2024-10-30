@@ -1,7 +1,7 @@
 ---
 title: "Mastering Unit Conversions: A Step-by-Step Guide Using Microsoft Excel"
-date: 2024-08-31T22:03:59.655Z
-updated: 2024-09-01T22:03:59.655Z
+date: 2024-10-25T16:58:07.978Z
+updated: 2024-10-30T16:02:11.857Z
 tags:
   - excel
 categories:
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/ee671cfb7ee587015883db0a3fbeb82905b8663f1
 
  Let's look at some examples.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Use the CONVERT Function
 
  The syntax for the function is 
@@ -52,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/ee671cfb7ee587015883db0a3fbeb82905b8663f1
         `reference`
     
  argument can be a number or a cell reference.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Distance
 
@@ -68,9 +82,18 @@ thumbnail: https://thmb.techidaily.com/ee671cfb7ee587015883db0a3fbeb82905b8663f1
 ![Formula to convert inches to feet using a number](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/InchesFeet-ExcelConvertFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Here are a few other abbreviations for common distance measurements:
 
 * Yard: yd
@@ -78,6 +101,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * Statute mile: mi
 * Nautical mile: Nmi
 * U.S. survey mile: survey\_mi
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Temperature
 
@@ -89,9 +119,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Formula to convert Fahrenheit to Celsius](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/FahrenheitCelsiusCell-ExcelConvertFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Note, you can also use "F" instead of "fah" and "C" instead of "cel." Plus, you can use a number instead of a cell reference.
 
  You can use this formula to convert 78 from Fahrenheit to Celsius:
@@ -101,8 +128,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Formula to convert Fahrenheit to Celsius using a number](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/FahrenheitCelsius-ExcelConvertFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Other temperature abbreviations include:
 
 * Kelvin: K or kel
@@ -134,9 +171,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * Liter: l, L, or lt
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  Area
 
  Need to perform some area conversions? This formula converts the value in cell A2 from square feet to square inches:
@@ -144,6 +184,19 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 =CONVERT(A2,"ft2","in2")
 
 ![Formula to convert square feet to square inches](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/SquareFeetInches-ExcelConvertFunction.png) 
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  And with this formula, you can convert square meters to square miles:
 
@@ -159,9 +212,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 * International acre: uk\_acre
 * U.S. statute acre: us\_acre
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Speed
 
  How about a speed conversion? Here, you can convert the value in cell A2 from meters per hour to meters per second:
@@ -171,17 +221,18 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![Formula to convert meters per hour to meters per second](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/MetersHoursSeconds-ExcelConvertFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can also convert from meters per hour to miles per hour:
 
 =CONVERT(65,"m/h","mph")
 
 ![Formula to convert meters per hour to miles per hour](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/MetersMiles-ExcelConvertFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ###  Information
 
  For one more example, we'll convert our A2 value from bits to bytes with this formula:
@@ -190,12 +241,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![Formula to convert bits to bytes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/BitByte-ExcelConvertFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Help With Unit Abbreviations
 
  The most difficult part of using the CONVERT function in Excel is knowing the abbreviations for the units. You can take a look at [Microsoft's Support page for the function](https://support.microsoft.com/en-us/office/convert-function-d785bef1-808e-4aac-bdcd-666c810f9af2) if you want to convert a unit that isn't as common as some others. However, [Excel does offer help](https://win11.techidaily.com/renaissance-pc-refresh-with-atlasos/) too.
@@ -212,9 +257,6 @@ Related: [How to Find the Function You Need in Microsoft Excel](https://win11.te
 
 ![Formula to convert ounces to cups](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/OuncesCups-ExcelConvertFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  You can use this drop-down box to choose both the `from_unit` and `to_unit` arguments easily. This is handy for those abbreviations that are less than obvious.
 
  When you have an Excel spreadsheet that uses units of measurement like these, remember the CONVERT function.
@@ -227,8 +269,6 @@ Related: [How to Find the Function You Need in Microsoft Excel](https://win11.te
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,4 +276,20 @@ Related: [How to Find the Function You Need in Microsoft Excel](https://win11.te
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ffortless-transition-from-spotify-to-youtube-find-the-best-apps-for-2024/"><u>[New] Effortless Transition From Spotify to YouTube Find the Best Apps for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-ultimate-camera-picks-for-aspiring-youtubers/"><u>[Updated] Ultimate Camera Picks for Aspiring YouTubers</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-ai-be-funny-unraveling-the-jokester-side-of-artificial-minds-plus-the-chronological-development-of-laptops-and-vpn-innovations/"><u>Can AI Be Funny? Unraveling the Jokester Side of Artificial Minds + The Chronological Development of Laptops and VPN Innovations</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-for-recognizing-and-fixing-disabled-hard-drives-in-windows-11/"><u>Essential Steps for Recognizing and Fixing Disabled Hard Drives in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-for-windows-11-drive-connection/"><u>Essential Tips for Windows 11 Drive Connection</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-immediately-stop-windows-iomap64-bsod/"><u>How To Immediately Stop Windows IOMap64 BSOD</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-accessories-for-optimal-gopro-photography/"><u>In 2024, Ideal Accessories for Optimal GoPro Photography</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-startup-routine-creating-shortcuts-near-power-button-for-win11/"><u>Optimizing Startup Routine: Creating Shortcuts Near Power Button for Win11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-guide-enhancing-video-quality-with-handbrake/"><u>Step-by-Step Guide: Enhancing Video Quality with Handbrake</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-connect-now-message-in-windows-bluetooth/"><u>Troubleshooting Connect Now Message in Windows Bluetooth</u></a></li>
+<li><a href="https://windows11.techidaily.com/virtual-readiness-confirm-your-webcammic-functionality-windows/"><u>Virtual Readiness: Confirm Your Webcam/Mic Functionality (Windows)</u></a></li>
+</ul></div>
 

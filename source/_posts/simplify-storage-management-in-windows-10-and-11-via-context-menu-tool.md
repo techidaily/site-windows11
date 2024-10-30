@@ -1,7 +1,7 @@
 ---
 title: Simplify Storage Management in Windows 10 & 11 via Context Menu Tool
-date: 2024-10-17T16:17:08.577Z
-updated: 2024-10-24T18:20:14.771Z
+date: 2024-10-24T16:01:07.607Z
+updated: 2024-10-30T17:11:05.626Z
 tags:
   - windows10
   - windows11
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 5. Then press**Install** to add the Disk Savvy tool to the Windows context menu.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Select**Next** when installation is complete.
@@ -78,19 +78,33 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 ![The Default Profile window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/default-profile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Disk Savvy window that opens displays similar disk usage info to RidNacs. It includes columns that tell you how many files are in the subfolders, the byte size of each folder and file, and the percentage of their root directory’s total size they amount to. However, Disk Savvy also includes a**Categorize by** submenu that includes various options for viewing categorized file info.
 
 ![The Disk Saavy window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-savvy-window2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  What sets Disk Savvy apart from RidNacs are its bar and pie graph options for viewing disk space usage info. Click the**Charts** button to access those options. Then you can select an option like**Disk Space Per File Type** ,**Disk Space Per Directory** , and**Disk Space Per Extension** to view a pie chart like the one below.
 
 ![A Disk Space Usage Per File Extension graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-space-usage-window.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Disk Savvy also has a feature that displays all the top (biggest) files within an analyzed folder. To utilize that feature, click the**Top Files** button. Then select an option like**View Top Images Sorted By File Size** or**View Top Music Files Sorted By the File Size** to see what the biggest ones are.
 
@@ -101,20 +115,6 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
  You can save and export disk usage reports to various file formats. To do so, click the**Save** option. Select a file extension option on the**Report format** drop-down menu; click the**Report type** drop-down menu to choose an option there, and press the**Save** button. You can view the report by opening it from the default Documents folder save location.
 
 ![Disk space analyzis report options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/disk-report-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get a Visual Overview of Folder and File Disk Usage in Windows
 
@@ -135,21 +135,17 @@ thumbnail: https://thmb.techidaily.com/b820d864536876d7d0a61d1c45147aa7dcf60bfd6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-how-to-master-gameplay-filming-in-sims-4-for-2024/"><u>[New] How to Master Gameplay Filming in Sims 4 for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-optimize-vertical-or-horizontal-vids-on-fb-for-2024/"><u>[New] How To Optimize Vertical or Horizontal Vids On FB for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-inspiring-originality-in-tiktok-pfps-to-boost-profile-traction-for-2024/"><u>[New] Inspiring Originality in TikTok PFPs to Boost Profile Traction for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-how-to-uncover-hidden-facebook-vids-updated-guide/"><u>[Updated] In 2024, How to Uncover Hidden Facebook Vids (Updated Guide)</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premium-360-camera-options-for-social-media-broadcasts/"><u>2024 Approved Premium 360° Camera Options for Social Media Broadcasts</u></a></li>
-<li><a href="https://windows11.techidaily.com/accelerating-edge-browsing-performance-on-win10win11/"><u>Accelerating Edge Browsing Performance on Win10/Win11</u></a></li>
-<li><a href="https://windows11.techidaily.com/bringing-windows-backups-back-to-basics/"><u>Bringing Windows Backups Back to Basics</u></a></li>
-<li><a href="https://windows11.techidaily.com/configuring-account-lockout-reset-in-successive-login-attempts-windows-1011/"><u>Configuring Account Lockout Reset in Successive Login Attempts Windows 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-device-disabled-issue-with-error-code-22-on-windows-11/"><u>Correcting Device Disabled Issue with Error Code 22 on Windows 11</u></a></li>
-<li><a href="https://windows11.techidaily.com/correcting-install-access-denied-windows-setup-issue/"><u>Correcting Install Access Denied Windows Setup Issue</u></a></li>
-<li><a href="https://fox-info.techidaily.com/decrease-ambience-tunes-windowsapple-compatible-for-2024/"><u>Decrease Ambience Tunes Windows/Apple Compatible for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/desktop-dynamics-shift-unveiling-the-latest-os-features/"><u>Desktop Dynamics Shift: Unveiling the Latest OS Features</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevating-video-view-count-top-hashtag-trends-guide/"><u>Elevating Video View Count Top Hashtag Trends Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-runtime-error-424-object-required-error-in-excel-2013-by-stellar-guide/"><u>How to fix runtime error 424 object required error in Excel 2013</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-becoming-part-of-the-global-community-your-guide-to-facebook/"><u>In 2024, Becoming Part of the Global Community Your Guide to Facebook</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719298315535-solving-your-full-screen-capture-predicament-with-snip-and-sketch/"><u>Solving Your Full-Screen Capture Predicament with Snip & Sketch.</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-chuckle-fest-twitters-10-funniest-tweets/"><u>[Updated] In 2024, Chuckle-Fest Twitter's 10 Funniest Tweets</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-in-depth-look-at-engaging-with-youtube-comment-threads/"><u>[Updated] In 2024, In-Depth Look at Engaging with YouTube Comment Threads</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-master-video-editing-on-a-shoestring-budget-top-9-picks/"><u>[Updated] Master Video Editing on a Shoestring Budget - Top 9 Picks</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-c53-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/become-a-hero-in-code-with-openais-flaw-hunting-bonus-program/"><u>Become a Hero in Code with OpenAI's Flaw Hunting Bonus Program</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-geforce-experience-settings-not-available-hurdle-windows-11/"><u>Fixing the 'GeForce Experience Settings Not Available' Hurdle, Windows 11</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-vlog-edit-mastery-harnessing-the-power-of-jump-cuts/"><u>In 2024, Vlog Edit Mastery Harnessing the Power of Jump Cuts</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-to-system32-in-windows-11/"><u>Navigating to System32 in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-driver-crash-issue-in-windows-os/"><u>Resolving Driver Crash Issue in Windows OS</u></a></li>
+<li><a href="https://howto.techidaily.com/samsung-galaxy-m14-4g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M14 4G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/which-offers-smoother-windows-setup-chocolatey-or-wm/"><u>Which Offers Smoother Windows Setup? Chocolatey or WM</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Xiaomi 13 Ultra? | Dr.fone</u></a></li>
 </ul></div>
 

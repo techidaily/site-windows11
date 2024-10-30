@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering Excel: A Step-by-Step Guide on Implementing the 'Less than or Equal To' Operator"
-date: 2024-08-31T22:04:55.150Z
-updated: 2024-09-01T22:04:55.150Z
+date: 2024-10-26T17:00:27.893Z
+updated: 2024-10-30T17:09:23.525Z
 tags:
   - excel
 categories:
@@ -55,8 +55,12 @@ thumbnail: https://thmb.techidaily.com/ece65a7774f151025dd995777d6ba1908931a5fce
 Related: [How to Find and Highlight Row Differences in Microsoft Excel](https://instagram-clips.techidaily.com/updated-a-comprehensible-guide-to-instagrams-latest-updates-for-2024/) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Use Less Than or Equal To for Dates
 
  To find out if an event occurred before or on a specific date, use the less-than-or-equal-to operator along with Excel's `DATEVALUE` function. The `DATEVALUE` function [formats your data in a date format](https://extra-lessons.techidaily.com/kickstart-your-telegram-promotion-journey-tips-for-newbies/), so that the less-than-or-equal-to operator doesn't retrieve the wrong result.
@@ -75,16 +79,17 @@ Related: [How to Find and Highlight Row Differences in Microsoft Excel](https://
 
 ![Compare dates in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/3-less-than-equal-to-date.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  Feel free to use the above formula for any of your dates.
 
 Related: [13 Microsoft Excel Date and Time Functions You Should Know](https://extra-lessons.techidaily.com/kickstart-your-telegram-promotion-journey-tips-for-newbies/) 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Use Less Than or Equal To With the IF Function
 
  It makes more sense to use the less-than-or-equal-to operator along with [an Excel function like IF](https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-huawei-phone-by-drfone-android/) than using it alone. With the `IF` function and based on your operator's result, you can perform various actions in your spreadsheet.
@@ -102,13 +107,17 @@ Related: [13 Microsoft Excel Date and Time Functions You Should Know](https://ex
 
 ![Compare values with IF.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/4-less-than-equal-to-if.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You'll instantly see the result in your selected cell, and you're all set.
 
 Related: [How to Use the IF Function in Microsoft Excel](https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-huawei-phone-by-drfone-android/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ##  Use Less Than or Equal To With SUMIF Function
 
  By using the less-than-or-equal-to operator with [Excel's SUMIF function](https://on-screen-recording.techidaily.com/pinnacle-platforms-transforming-online-interaction/), you can sum only those numbers that match your criteria (i.e., equal to or fall below your specified number).
@@ -126,8 +135,12 @@ Related: [How to Use the IF Function in Microsoft Excel](https://android-unlock.
 ![Compare values with SUMIF.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/5-less-than-equal-to-sumif.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  And that's it.
 
 Related: [How to Use SUMIF in Microsoft Excel](https://on-screen-recording.techidaily.com/pinnacle-platforms-transforming-online-interaction/) 
@@ -147,14 +160,6 @@ Related: [How to Use SUMIF in Microsoft Excel](https://on-screen-recording.techi
 
 ![Compare values with COUNTIF.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/6-less-than-equal-to-countif.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  You're done.
 
  And that's how you use the less-than-or-equal-to operator in your Excel spreadsheets to perform your calculations. Enjoy!
@@ -167,8 +172,6 @@ Related: [11 Little-Known Excel Functions That Are Very Useful](https://win-howt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +179,24 @@ Related: [11 Little-Known Excel Functions That Are Very Useful](https://win-howt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-top-5-efficient-mac-snippers-for-quick-captures/"><u>[New] Top 5 Efficient Mac Snippers for Quick Captures</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-essential-role-of-voice-in-visual-content/"><u>[Updated] In 2024, The Essential Role of Voice in Visual Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-solutions-for-common-glitches-in-apple-tv-remote-on-iphone/"><u>Easy Solutions for Common Glitches in Apple TV Remote on iPhone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-solutions-to-overcome-code-41-obstacles-in-system-devices/"><u>Easy Solutions to Overcome Code 41 Obstacles in System Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-preventing-red-dead-online-pc-crashes-and-ensuring-smooth-gameplay/"><u>Expert Tips for Preventing Red Dead Online PC Crashes & Ensuring Smooth Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-and-mastering-your-gaming-profile-with-steam-stats/"><u>Exploring & Mastering Your Gaming Profile with Steam Stats</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-honor-magic5-ultimate-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Honor Magic5 Ultimate to New Phone | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/insights-into-overcoming-initialization-errors-in-red-dead-redemption-2/"><u>Insights Into Overcoming Initialization Errors in Red Dead Redemption 2</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-multi-os-environments-windows-host-for-linux-virtual-machines/"><u>Mastering Multi-OS Environments: Windows Host for Linux Virtual Machines</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-rainmeter-hiccups-with-easy-fixes/"><u>Mastering Window's Rainmeter Hiccups with Easy Fixes</u></a></li>
+<li><a href="https://windows11.techidaily.com/proactive-pc-management-utilizing-command-prompt-for-timely-detection-and-correction-of-windows-errors/"><u>Proactive PC Management: Utilizing Command Prompt for Timely Detection & Correction of Windows Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/resurrecting-the-clock-actions-to-restore-windows-server-time/"><u>Resurrecting the Clock: Actions to Restore Windows Server Time</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-addressing-issues-with-your-unresponsive-corsair-hs70-mic/"><u>Step-by-Step Guide: Addressing Issues with Your Unresponsive Corsair HS70 Mic</u></a></li>
+<li><a href="https://windows11.techidaily.com/trail-clearing-techniques-deciphering-and-erasing-windows-history/"><u>Trail-Clearing Techniques: Deciphering and Erasing Windows History</u></a></li>
+<li><a href="https://windows11.techidaily.com/trouble-on-windows-discover-assistance-methods/"><u>Trouble on Windows? Discover Assistance Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-premium-weather-apps-for-windows-11/"><u>Unveiling Premium Weather Apps for Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/win-11-addressing-discord-installation-issues/"><u>Win 11: Addressing Discord Installation Issues</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Excel: A Step-by-Step Guide to Searching and Substituting Text & Numbers"
-date: 2024-08-31T22:03:58.445Z
-updated: 2024-09-01T22:03:58.445Z
+date: 2024-10-23T16:38:54.453Z
+updated: 2024-10-30T16:02:13.586Z
 tags:
   - excel
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
 * [Using Wildcard Characters](https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-infinix-hot-30i-by-fonelab-android-recover-pictures/)
 
  The Find and Replace tool is a powerful yet often forgotten feature of Excel. Let's see how it can be used to find and replace text and numbers in a spreadsheet and also some of its advanced features.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Find and Replace Text and Numbers in Excel
 
@@ -44,37 +51,55 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
 
 ![Replace text or numbers in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/replace-with.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click "Replace" to change each occurrence one at a time or click "Replace All" to change all occurrences of that value in the selected range.
 
 Related: [How to Add Text to a Cell With a Formula in Excel](https://buynow-reviews.techidaily.com/a-comprehensive-review-top-long-reach-routers-dominating-the-market-in-ebytes/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Explore the Advanced Options
 
  Find and Replace has advanced features that many users are not aware of. Click the "Options" button to expand the window and see these.
 
 ![Advanced Find and Replace options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/replace-text-options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  One really useful setting is the ability to change from looking within the active worksheet to the workbook.
 
  Click the "Within" list arrow to change this to Workbook.
 
 ![Search the entire workbook for a value](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/workbook.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Other useful options include the "Match Case" and "Match Entire Cell Contents" checkboxes.
 
 ![Match case and entire cell contents options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/match-case.png) 
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  These options can help narrow down your search criteria, ensuring you find and replace the correct occurrences of the values you're looking for.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ##  Change the Formatting of Values
 
  You can also find and replace the formatting of values.
@@ -85,25 +110,33 @@ Related: [How to Add Text to a Cell With a Formula in Excel](https://buynow-revi
 
 ![Opening the Find and Replace window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/find-and-replace.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Select the "Options" button to expand the Find and Replace options.
 
 ![Find and replace options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You do not need to enter text or numbers that you want to find and replace unless required.
 
  Click the "Format" button next to the "Find What" and "Replace With" text boxes to set the formatting.
 
 ![Set formatting to find and replace](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/set-formatting.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Specify the formatting you want to find or replace.
 
 ![Format Cells window to specify the formatting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/format-cells.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A preview of the formatting is shown in the Find and Replace window.
 
@@ -111,9 +144,6 @@ Related: [How to Add Text to a Cell With a Formula in Excel](https://buynow-revi
 
  Continue with any other options you want to set and then click "Replace All" to change all occurrences of the formatting.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Using Wildcard Characters
 
  When using Find and Replace, sometimes you might need to perform partial matches using wildcard characters.
@@ -140,8 +170,6 @@ Related: [How to Add Text to a Cell With a Formula in Excel](https://buynow-revi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +177,21 @@ Related: [How to Add Text to a Cell With a Formula in Excel](https://buynow-revi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-foundations-selecting-the-right-equipment/"><u>[New] YouTube Foundations Selecting the Right Equipment</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-guffaws-galore-compiled-list-of-10-funniest-youtube-short-videos/"><u>[Updated] Guffaws Galore Compiled List of 10 Funniest YouTube Short Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-starting-point-decoding-display-resolution-basics/"><u>[Updated] Starting Point Decoding Display Resolution Basics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/abbyys-verkurzte-textbearbeitung-optimierung-der-dokumentprozesse-im-pharmasektor/"><u>ABBYY's Verkürzte Textbearbeitung: Optimierung Der Dokumentprozesse Im Pharmasektor</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-pc-performance-for-faster-steam-content-loading/"><u>Enhancing PC Performance for Faster Steam Content Loading</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-expand-your-youtube-video-footprint-for-2024/"><u>How to Expand Your YouTube Video Footprint for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-winrar-summation-errors-a-sixfold-approach/"><u>Rectifying WinRAR Summation Errors: A Sixfold Approach</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamlessly-transition-to-x-instructions-for-formerly-twitter-users/"><u>Seamlessly Transition to X: Instructions for Formerly Twitter Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-your-gaming-experience-by-eliminating-e84-issues/"><u>Streamlining Your Gaming Experience by Eliminating E84 Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-tackling-windows-application-issues-with-7-solutions/"><u>Swiftly Tackling Windows Application Issues with 7 Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-essential-guide-to-playing-ps1-on-windows-duckstation/"><u>The Essential Guide to Playing PS1 on Windows - Duckstation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/visionary-vistas-accessible-designs-for-youtube-artists-for-2024/"><u>Visionary Vistas Accessible Designs for YouTube Artists for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/w11-pro-discounts-await-secure-your-best-price/"><u>W11 Pro Discounts Await: Secure Your Best Price</u></a></li>
+</ul></div>
 

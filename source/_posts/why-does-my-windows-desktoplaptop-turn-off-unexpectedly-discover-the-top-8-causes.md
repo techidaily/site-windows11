@@ -1,7 +1,7 @@
 ---
 title: Why Does My Windows Desktop/Laptop Turn Off Unexpectedly? Discover the Top 8 Causes
-date: 2024-08-31T22:02:27.741Z
-updated: 2024-09-01T22:02:27.741Z
+date: 2024-10-23T16:13:05.749Z
+updated: 2024-10-30T16:09:39.476Z
 tags:
   - windows
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Ensure the RAM and Storage Drive Isn't Faulty](https://remote-screen-capture.techidaily.com/in-2024-live-broadcast-faceoff-obs-vs-shadowtoolkit/)
 * [Update Drivers](https://extra-lessons.techidaily.com/inside-the-speech-of-cyberspace-must-know-vr-terms/)
 * [Change Advanced Battery Settings](https://facebook-record-videos.techidaily.com/updated-2024-approved-clearing-up-black-screens-in-youtube-playback/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -47,17 +54,18 @@ Jordan Gloor / How-To Geek
  However, if you face the same problem even when the laptop is powered directly, the battery is not to blame. Try some of the remaining fixes instead. 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Ensure Your Device Isn't Being Overheated
 
  If your computer shuts down only when it's overheated, heat is likely the problem. This happens because computers have a protection mechanism that kicks in to prevent damage to hardware components. To confirm that overheating is the issue, run less intensive tasks that don't cause overheating. If your computer is fine running tasks that don't use many resources, but it crashes running intensive applications (like photo or video editing software, games, and so on), heat could be your problem. You can [see which program is using up system resources](https://video-screen-grab.techidaily.com/in-2024-from-spoken-word-to-memo-iphone-audio-guidance/) in the Task Manager. 
 
  If overheating appears to be the cause, there are simple [steps to keep your laptop's temperature at a safe level](https://instagram-video-files.techidaily.com/in-2024-quick-steps-for-recording-insta-stories/). By doing so, you can prevent the recurrence of the same problem. If you're using a desktop, make sure all of your fans are running, and take some time to [thoroughly clean your PC](https://buynow-info.techidaily.com/unveiling-the-power-of-apples-latest-innovation-a-comprehensive-review-of-the-macbook-air-with-m1-chip-202n/). 
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Disable Fast Startup
 
  Fast Startup is a handy feature that accelerates device boot speed. However, it can also lead to unforeseen issues, such as hindering system updates, preventing your access to BIOS or UEFI settings, and occasionally causing random shutdowns. You should temporarily turn it off to rule out Fast Startup as the primary culprit for random shutdowns.
@@ -75,8 +83,12 @@ Jordan Gloor / How-To Geek
  If your PSU can theoretically supply the power needed, test it to see if it has no hardware problems. You can do this by [performing a jumper test](https://video-capture.techidaily.com/updated-learn-to-optimize-google-meet-host-plus-participant-without-spending-a-dime-for-2024/). If the PSU isn't working as it should, you'll have to replace it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Ensure the RAM and Storage Drive Isn't Faulty
 
  Like an underpowered or broken PSU, faulty RAM can cause random shutdowns. To check if your RAM is working correctly, you have two choices: you can use the built-in Windows Memory Diagnostic tool or try a simpler tool called MemTest86 that helps [find problems with your RAM](https://hardware-help.techidaily.com/step-by-step-installation-amd-gpio-pin-driver-for-hexagon-devices/) more easily.
@@ -86,8 +98,12 @@ Jordan Gloor / How-To Geek
  There isn't a practical way to repair RAM or a storage drive, so if either are faulty, you'll have to replace them. 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Update Drivers
 
  Faulty drivers could also cause random shutdowns. To rule out this possible, type **Device Manager** in Windows Search and open Device Manager. If you see a warning sign or exclamation mark next to a driver, it indicates it's outdated or corrupted. So, you need to update it or reinstall it from scratch.
@@ -97,8 +113,12 @@ Jordan Gloor / How-To Geek
 ![Windows 11 Update Drivers window highlighting 'Browse my computer for drivers' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-update-drivers-window-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Make sure you update drivers for the GPU, battery, disk drives, processor, USB controllers, and other software components, even if there are no warning signs next to them.
 
  You may also be able to [find an error message in Event Viewer](https://remote-screen-capture.techidaily.com/in-2024-unlocking-the-potential-of-screenshotting-your-android-device/) that will narrow down which driver (or device) is the problem. 
@@ -115,9 +135,6 @@ Jordan Gloor / How-To Geek
 
 ![Changing the low battery action in power settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/changing-the-low-battery-action-in-power-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ---
 
  If your computer was experiencing random shutdowns due to one of the causes discussed earlier, you should have addressed the issue by now. If the problem persists despite trying the suggested fixes or unsure about performing the steps mentioned, you can seek assistance from a professional to resolve the issue.
@@ -128,8 +145,6 @@ Jordan Gloor / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +152,26 @@ Jordan Gloor / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-your-daily-dose-of-humor-and-heartbreak-from-instagram-memes/"><u>[Updated] 2024 Approved Your Daily Dose of Humor & Heartbreak From Instagram Memes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-virtual-reality-revolution-which-headset-leads-the-charge/"><u>[Updated] Virtual Reality Revolution Which Headset Leads the Charge?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-how-claude-outshines-chatgpt-in-four-remarkable-ways-for-enhanced-ai-interactions/"><u>Discover How Claude Outshines ChatGPT in Four Remarkable Ways for Enhanced AI Interactions</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-turn-off-hardware-assisted-gpgpus-on-widno/"><u>Essential Guide: Turn Off Hardware-Assisted GPGPUs on WIDNO</u></a></li>
+<li><a href="https://windows11.techidaily.com/harmonizing-operations-combining-windows-11-and-tablet-for-peak-efficiency/"><u>Harmonizing Operations: Combining Windows 11 & Tablet for Peak Efficiency</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-iphone-6s-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked iPhone 6s</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lightning-fast-cures-for-m-audio-track-errors/"><u>Lightning-Fast Cures for M-Audio Track Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/method-to-turn-off-geforce-graphic-overlay-on-pc/"><u>Method to Turn Off GeForce Graphic Overlay on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-to-safest-win-friendly-free-software-deals/"><u>Navigating to Safest Win-Friendly Free Software Deals</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-15-plus-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your iPhone 15 Plus</u></a></li>
+<li><a href="https://windows11.techidaily.com/screen-recording-and-audio-integration-the-ultimate-guide-to-the-snipping-tool-max-156/"><u>Screen Recording & Audio Integration: The Ultimate Guide to the Snipping Tool (Max 156)</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-revive-frozen-windows-terminal-apps/"><u>Strategies to Revive Frozen Windows Terminal Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategizing-onedrives-positioning-within-windows-directory-space/"><u>Strategizing OneDrive's Positioning Within Windows Directory Space</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/time-lapse-like-a-pro-best-apps-for-iphone-ipad-and-android-devices-for-2024/"><u>Time-Lapse Like a Pro Best Apps for iPhone, iPad, and Android Devices for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/tips-resolving-windows-disk-management-crashes/"><u>Tips: Resolving Windows Disk Management Crashes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-success-with-spotify-marketing-tips-for-2024/"><u>Unlocking Success with Spotify Marketing Tips for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-windows-0x80242016-update-issue/"><u>Unraveling Window's 0X80242016 Update Issue</u></a></li>
+</ul></div>
 

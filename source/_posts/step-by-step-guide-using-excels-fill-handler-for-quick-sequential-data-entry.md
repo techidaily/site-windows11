@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Using Excel's Fill Handler for Quick Sequential Data Entry"
-date: 2024-08-31T22:03:30.995Z
-updated: 2024-09-01T22:03:30.995Z
+date: 2024-10-26T16:50:29.930Z
+updated: 2024-10-30T17:03:32.980Z
 tags:
   - excel
 categories:
@@ -25,6 +25,19 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
  The Fill Handle in Excel allows you to automatically fill in a list of data (numbers or text) in a row or column simply by dragging the handle. This can save you a lot of time when entering sequential data in large worksheets and make you more productive.
 
  Instead of manually entering numbers, times, or even days of the week over and over again, you can use the AutoFill features (the fill handle or the Fill command on the ribbon) to fill cells if your data follows a pattern or is based on data in other cells. We’ll show you how to fill various types of series of data using the AutoFill features.
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Fill a Linear Series into Adjacent Cells
 
@@ -56,9 +69,35 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 ![05_selecting_fill_series](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/05_selecting_fill_series.png) 
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The other four 1s are replaced with 2--5 and our linear series is filled.
 
 ![06_series_filled_in](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/06_series_filled_in.png) 
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can, however, do this without having to select Fill Series from the Auto Fill Options menu. Instead of entering just one number, enter the first two numbers in the first two cells. Then, select those two cells and drag the fill handle until you’ve selected all the cells you want to fill.
 
@@ -73,8 +112,12 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 ![07_filling_series_using_right_mouse_button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/07_filling_series_using_right_mouse_button.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Fill a Linear Series into Adjacent Cells Using the Fill Command
 
  If you’re having trouble using the fill handle, or you just prefer using commands on the ribbon, you can use the Fill command on the Home tab to fill a series into adjacent cells. The Fill command is also useful if you're filling a large number of cells, as you'll see in a bit.
@@ -83,9 +126,6 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 ![08_fill_command_on_ribbon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/08_fill_command_on_ribbon.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  Select “Series” from the drop-down menu.
 
 ![09_selecting_series](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/09_selecting_series.png) 
@@ -104,9 +144,6 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 ![12_entering_stop_value_on_series_dialog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/12_entering_stop_value_on_series_dialog.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ##  Fill a Linear Series While Skipping Rows
 
  To make a full worksheet more readable, we sometimes skip rows, putting blank rows in between the rows of data. Even though there are blank rows, you can still use the fill handle to fill a linear series with blank rows.
@@ -127,18 +164,12 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
  You can also skip columns when you are filling across rows.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ##  Fill Formulas into Adjacent Cells
 
  You can also use the fill handle to propagate [formulas](https://fox-helps.techidaily.com/new-2024-approved-safety-features-evaluated-in-syma-x8c/) to adjacent cells. Simply select the cell containing the formula you want to fill into adjacent cells and drag the fill handle down the cells in the column or across the cells in the row that you want to fill. The formula is copied to the other cells. If you used [relative cell references](https://some-guidance.techidaily.com/the-ultimate-step-by-step-guide-to-kinemasters-green-screen-mastery-for-2024/), they will change accordingly to refer to the cells in their respective rows (or columns).
 
 ![17_filling_formulas_down](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/17_filling_formulas_down.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  You can also fill formulas using the Fill command on the ribbon. Simply select the cell containing the formula and the cells you want to fill with that formula. Then, click “Fill” in the Editing section of the Home tab and select Down, Right, Up, or Left, depending on which direction you want to fill the cells.
 
 ![18_filling_formulas_using_fill_command_menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/18_filling_formulas_using_fill_command_menu.png) 
@@ -149,22 +180,12 @@ Related: [How to Manually Calculate Only the Active Worksheet in Excel](https://
 
  You can also use the keyboard shortcuts Ctrl+D and Ctrl+R, as discussed earlier, to copy formulas to adjacent cells.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Fill a Linear Series by Double Clicking on the Fill Handle
 
  You can quickly fill a linear series of data into a column by double clicking the fill handle. When using this method, Excel only fills the cells in the column based on the longest adjacent column of data on your worksheet. An adjacent column in this context is any column that Excel encounters to the right or left of the column being filled, until a blank column is reached. If the columns directly on either side of the selected column are blank, you cannot use the double click method to fill the cells in the column. Also, by default, if some of the cells in the range of cells you’re filling already have data, only the empty cells above the first cell containing data are filled. For example, in the image below, there's a value in cell G7 so when you double click on the fill handle on cell G2, the formula is only copied down through cell G6.
 
 ![18a_double_click_method_with_existing_data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/18a_double_click_method_with_existing_data.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ##  Fill a Growth Series (Geometric Pattern)
 
  Up until now, we’ve been discussing filling linear series, where each number in the series is calculated by adding the step value to the previous number. In a growth series, or geometric pattern, the next number is calculated by multiplying the previous number by the step value.
@@ -179,9 +200,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![19_selecting_growth_trend](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/19_selecting_growth_trend.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Excel knows that the step value is 2 from the two numbers we entered in the first two cells. So, every subsequent number is calculated by multiplying the previous number by 2.
 
 ![20_growth_series_filled](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/20_growth_series_filled.png) 
@@ -194,23 +212,21 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![21_selecting_series_for_growth_series](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/21_selecting_series_for_growth_series.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the Series dialog box, select whether your filling the Series in Rows or Columns. Under Type, select :”Growth”. In the “Step value” box, enter the value you want to multiply each number by to get the next value. In our example, we want to multiply each number by 3\. Click “OK”.
 
 ![22_growth_by_three_series](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/22_growth_by_three_series.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The growth series is filled in the selected cells, each subsequent number being three times the previous number.
 
 ![23_growth_series_using_series_dialog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/23_growth_series_using_series_dialog.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Fill a Series Using Built-in Items
 
  So far, we’ve covered how to fill a series of numbers, both linear and growth. You can also fill series with items such as dates, days of the week, weekdays, months, or years using the fill handle. Excel has several built-in series that it can automatically fill.
@@ -231,18 +247,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![23c_series_of_weekday_dates_filled](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/23c_series_of_weekday_dates_filled.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Fill a Series Using Custom Items
 
  You can also fill a series with your own custom items. Say your company has offices in six different cities and you use those city names often in your Excel worksheets. You can add that list of cities as a custom list that will allow you to use the fill handle to fill the series once you enter the first item. To create a custom list, click the “File” tab.
 
 ![24_clicking_file_tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/24_clicking_file_tab.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  On the backstage screen, click “Options” in the list of items on the left.
 
 ![25_clicking_options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/25_clicking_options.png) 
@@ -257,36 +267,30 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Once you're on the Custom Lists dialog box, there are two ways to fill a series of custom items. You can base the series on a new list of items you create directly on the Custom Lists dialog box, or on an existing list already on a worksheet in your current workbook. We will show you both methods.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Method One: Fill a Custom Series Based on a New List of Items
 
  On the Custom Lists dialog box, make sure NEW LIST is selected in the Custom lists box. Click in the “List entries” box and enter the items in your custom lists, one item to a line. Be sure to enter the items in the order you want them filled into cells. Then, click “Add”.
 
 ![28_entering_list_entries_and_clicking_add](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/28_entering_list_entries_and_clicking_add.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  The custom list is added to the Custom lists box, where you can select it so you can edit it by adding or removing items from the List entries box and clicking “Add” again, or you can delete the list by clicking “Delete”. Click “OK”.
 
 ![29_clicking_ok](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/29_clicking_ok.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  Click “OK” on the Excel Options dialog box.
 
 ![30_closing_excel_options_dialog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/30_closing_excel_options_dialog.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Now, you can type the first item in your custom list, select the cell containing the item and drag the fill handle over the cells you want to fill with the list. Your custom list is automatically filled into the cells.
 
 ![31_custom_series_filled](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/31_custom_series_filled.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Method Two: Fill a Custom Series Based on an Existing List of Items
 
@@ -295,8 +299,12 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![32_clicking_cell_range_button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/32_clicking_cell_range_button.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Select the tab for the worksheet that contains your custom list at the bottom of the Excel window. Then, select the cells containing the items in your list. The name of the worksheet and the cell range are automatically entered into the Custom Lists edit box. Click the cell range button again to return to the full dialog box.
 
 ![33_selecting_cell_range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/33_selecting_cell_range.png) 
@@ -306,8 +314,12 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![34_clicking_import](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/34_clicking_import.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The custom list is added to the Custom lists box and you can select it and edit the list in the List entries box, if you want. Click “OK”. You can fill cells with your custom list using the fill handle, just like you did with the first method above.
 
 ![35_clicking_ok](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/11/35_clicking_ok.png) 
@@ -320,8 +332,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -329,4 +339,20 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-cringe-worthy-tweets-the-collection/"><u>[Updated] In 2024, Cringe-Worthy Tweets The Collection</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-guide-to-keeping-preview-graphics-intact-in-your-word-files/"><u>A Comprehensive Guide to Keeping Preview Graphics Intact in Your Word Files</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/critical-examination-of-bloodborne-the-enigmastic-journey-begins-here/"><u>Critical Examination of Bloodborne - The Enigmastic Journey Begins Here</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-the-freeze-troubleshooting-windows-obs-not-starting/"><u>Fixing the Freeze: Troubleshooting Windows OBS Not Starting</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-schedule-an-expert-consultation-at-the-apple-genius-bar-effectively/"><u>How to Schedule an Expert Consultation at the Apple Genius Bar Effectively</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-and-handling-file-unreadable-problem-on-windows/"><u>Preventing and Handling ‘File Unreadable’ Problem on Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-for-read-from-disk-failed-error/"><u>Quick Fix for Read From Disk Failed Error</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-steps-for-restarting-windows-apps/"><u>Quick Steps for Restarting Windows Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/rectifying-html-errors-in-windows-11-mail-app-email-views/"><u>Rectifying HTML Errors in Windows 11 Mail App Email Views</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-tackle-physical-ram-limitations-on-windows-vmware/"><u>Steps to Tackle Physical RAM Limitations on Windows VMware</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-nubia-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Nubia without backup.</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unveiling-top-6-microphones-perfect-for-online-streaming-success-for-2024/"><u>Unveiling Top 6 Microphones Perfect for Online Streaming Success for 2024</u></a></li>
+</ul></div>
 

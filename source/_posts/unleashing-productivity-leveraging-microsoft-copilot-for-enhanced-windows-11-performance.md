@@ -1,7 +1,7 @@
 ---
 title: "Unleashing Productivity: Leveraging Microsoft Copilot for Enhanced Windows 11 Performance"
-date: 2024-08-31T22:02:21.525Z
-updated: 2024-09-01T22:02:21.525Z
+date: 2024-10-23T16:12:08.057Z
+updated: 2024-10-30T16:19:38.241Z
 tags:
   - windows
 categories:
@@ -36,6 +36,19 @@ thumbnail: https://thmb.techidaily.com/4e270ad6fe5a98a1f50fc689a2e1e3f6ffaf5096f
 
  However, it’s not perfect. I hit a snag when I asked it to “reduce the volume on my PC by 45%,” and somehow, it ended up boosting it by 55% instead. There are still a few bugs that need sorting out. Despite Copilot's hiccups, I am very excited to see what it becomes as it continues to evolve and improve over time.
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Putting Copilot to the Test
 
  After getting an initial impression of how I could integrate Microsoft Copilot into my daily computing tasks, I decided to put Copilot through more deliberate testing.
@@ -46,19 +59,20 @@ thumbnail: https://thmb.techidaily.com/4e270ad6fe5a98a1f50fc689a2e1e3f6ffaf5096f
 
 ![cop-snap-my-windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cop-snap-my-windows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Co-pilot snapping my windows in my project.
 
  In the first test, I explored Copilot's multitasking efficiency and asked it to organize a virtual workspace for a project I've been working on: launching specific apps, arranging my windows in a particular way on the desktop, and setting up reminder notifications. This test is designed to assess how Copilot handles multitasking, which requires several steps. During my testing, Copilot easily executed basic commands. However, it struggled with following complex instructions and often got them wrong.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  Task 2: Creative Assistance in Paint
 
 ![cop-paint-text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cop-paint-text.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Co-pilot failing at generating readable text in Paint.
 
@@ -66,30 +80,42 @@ Co-pilot failing at generating readable text in Paint.
 
 ![cop-paint-with-layers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cop-paint-with-layers.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Co-pilot helping me replace my background with a generated landscape in Paint.
 
  However, it struggled with generating text, like nearly all AI artwork tools.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Task 3: Code Debugging in Notepad
 
 ![cop-correct-my-code](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cop-correct-my-code.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Co-pilot analyzing my Go code.
 
  Given how useful I find Copilot's integration with Notepad, I decided to test how well it can help me with debugging code. I presented Copilot with some intentionally broken Go code and asked it to fix it for me. In no time, it could find the errors, explain them to me, and generate some working code that I could deploy.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Task 4: Usability
 
  In using Copilot, I found (at least in my personal experience) that voice interaction was excellent for executing basic tasks. For example: vocally asking it "Snap my windows" works well. However, for more advanced tasks, like "analyze this code," typing out instructions worked much better as it was easier to explain what I wanted.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  My Favorite Features To Use
 
@@ -99,9 +125,6 @@ Co-pilot analyzing my Go code.
 
  Lastly, I enjoy the Copilot integration with Paint. For years, Paint has been a sub-par photo editing tool on Windows, lacking features that paid tools like Photoshop offer. However, with the new Copilot integration, Paint can do everything from removing backgrounds in images to generating content like ChatGPT can.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  See What Copilot Can Do for You
 
  From my experience with Copilot, it is evident that this new feature isn't a silly toy to play with but a useful tool that re-imagines the way you interact with your Windows 11 PC. If you've never tried out Copilot before, I encourage you to integrate it into your PC workflow so that you can experience the multitude of ways that [it can personalize and enrich your computing experience](https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/).
@@ -112,8 +135,6 @@ Co-pilot analyzing my Go code.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +142,20 @@ Co-pilot analyzing my Go code.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-harness-youtube-movie-maker-for-impactful-videos/"><u>[New] 2024 Approved Harness YouTube Movie Maker for Impactful Videos</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-explore-creative-horizons-with-imaginative-snapchat-boomerang-techniques-for-2024/"><u>[New] Explore Creative Horizons with Imaginative Snapchat Boomerang Techniques for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-packaging-perfection-strategies-for-stunning-first-touches/"><u>[New] Packaging Perfection Strategies for Stunning First Touches</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-a-comprehensive-examination-of-webcamflex-pro/"><u>[Updated] A Comprehensive Examination of WebcamFlex Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-from-script-to-screen-your-windowed-path-to-video-creation-excellence/"><u>2024 Approved From Script to Screen Your Windowed Path to Video Creation Excellence</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/becoming-the-ultimate-streamer-on-youtube-and-twitch-using-obs-for-2024/"><u>Becoming the Ultimate Streamer on YouTube and Twitch Using OBS for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-bypass-printer-settings-on-windows-11/"><u>How to Bypass Printer Settings on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-the-absence-of-rockalldlldll-windows/"><u>Mending the Absence of Rockalldll.dll (Windows)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/passos-essenciais-na-producao-de-videos-de-turismo-tecnicas-vlogging-provasseiras/"><u>Passos Essenciais Na Produção De Videos De Turismo - Técnicas Vlogging Provasseiras</u></a></li>
+<li><a href="https://win-top.techidaily.com/resolved-step-by-step-guide-for-overcoming-niet-werkt-in-windows-1011-startup-repair-process/"><u>Resolved: Step-by-Step Guide for Overcoming 'Niet Werkt' In Windows 10/11 Startup Repair Process</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ltimate-list-of-8-free-video-editing-programs-for-creatives-for-2024/"><u>The Ultimate List of 8 FREE Video Editing Programs for Creatives for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/wins-cmd-customize-to-reflect-your-style/"><u>Win's CMD: Customize to Reflect Your Style</u></a></li>
+<li><a href="https://windows11.techidaily.com/your-guide-to-selecting-a-new-window-home-or-premium-edition/"><u>Your Guide to Selecting a New Window : Home or Premium Edition</u></a></li>
+</ul></div>
 

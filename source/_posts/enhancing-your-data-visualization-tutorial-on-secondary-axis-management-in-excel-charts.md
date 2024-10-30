@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Your Data Visualization: Tutorial on Secondary Axis Management in Excel Charts"
-date: 2024-08-31T22:03:56.052Z
-updated: 2024-09-01T22:03:56.052Z
+date: 2024-10-25T16:53:49.737Z
+updated: 2024-10-30T16:40:25.827Z
 tags:
   - excel
 categories:
@@ -33,14 +33,18 @@ Related: [How to Rename a Data Series in Microsoft Excel](https://android-pokemo
 
 ![Chart data and chart without a secondary axis](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/DataChartNoSecondAxis-ExcelSecondaryAxis.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  First, the values for the employees are well below the smallest amounts for expenses and revenue. Second, we have a mix of currency and number formats. Not only is the data almost impossible to see, but it's meaningless without the number values.
 
 ![Chart without a secondary axis](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/ChartNoSecondAxis-ExcelSecondaryAxis.png) 
 
  As you can see, plotting this data without a secondary axis doesn't provide a successful or useful picture.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  Add a Secondary Axis in Excel
 
@@ -52,16 +56,33 @@ Related: [How to Create a Combo Chart in Excel](https://hardware-tips.techidaily
 
 ![Change Series Chart Type in the shortcut menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/ChangeSeriesChartTypeAddAxis-ExcelSecondaryAxis.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
  You'll see the Change Chart Type window open with Combo selected on the left. On the right, you have your current chart type with the data beneath.
 
 ![Current chart with combo chart settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/CurrentChart-ExcelSecondaryAxis.png) 
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Use the Chart Type drop-down box next to the data series you want to change. Commonly, using a line or line with markers for the second axis works well. However, you can choose another option like area or [scatter with lines](https://common-error.techidaily.com/fixing-not-charging-issue-on-windows-710-your-complete-guide/) for a unique appearance if you like.
 
 ![Current chart with combo chart settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/CurrentChart-ExcelSecondaryAxis.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then, check the box to the right of the same series for "Secondary Axis."
 
@@ -70,8 +91,12 @@ Related: [How to Create a Combo Chart in Excel](https://hardware-tips.techidaily
 ![Current chart with combo chart settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/CurrentChart-ExcelSecondaryAxis.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Combo charts normally work with the column chart type. So, you may have to adjust this if you're [using a bubble chart](https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-itel-p55-drfone-by-drfone-virtual-android/) or other kind of graph.
 
  When you finish, click "OK" to apply the change to the chart in your sheet. You can then add [axis titles](https://extra-tips.techidaily.com/infuse-motion-blur-into-image-sequence/) or set up [data labels](https://tech-recovery.techidaily.com/top-gaming-console-picks-for-the-year-2024/) for even more clarity.
@@ -79,8 +104,12 @@ Related: [How to Create a Combo Chart in Excel](https://hardware-tips.techidaily
 ![Updated chart with a secondary axis in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/SecondAxisChart-ExcelSecondaryAxis.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Related: [6 Tips for Making Microsoft Excel Charts That Stand Out](https://vp-tips.techidaily.com/2024-approved-capture-breathtaking-scenes-on-iphone-with-ease/) 
 
 ##  Remove a Secondary Axis in Excel
@@ -88,8 +117,12 @@ Related: [6 Tips for Making Microsoft Excel Charts That Stand Out](https://vp-ti
  If you decide later that you no longer want a secondary axis in your chart, the way you remove it depends on how you want to display the remaining data.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  Remove the Axis and Data From the Chart
 
  You can remove the axis and corresponding data from your two-axis chart quickly and easily. Select the secondary axis on the chart and press your Delete key.
@@ -99,8 +132,12 @@ Related: [6 Tips for Making Microsoft Excel Charts That Stand Out](https://vp-ti
 ![Before and after deleting a chart's second axis](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/DeleteSecondAxis-ExcelSecondaryAxis.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ###  Convert the Axis to a Different Type
 
  You can keep the data on the chart and change its type just like the example above for converting it to a combo chart.
@@ -109,16 +146,10 @@ Related: [6 Tips for Making Microsoft Excel Charts That Stand Out](https://vp-ti
 
 ![Change Series Chart Type in the shortcut menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/ChangeSeriesChartTypeRemoveAxis-ExcelSecondaryAxis.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Then, choose the type in the drop-down menu. Be sure to uncheck the box for Secondary Axis. Click "OK" to apply the change.
 
 ![Changed chart series secondary axis type](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/ChangedSecondAxis-ExcelSecondaryAxis.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Convert the Secondary Axis to a Primary Axis
 
  One other option is to [turn the secondary axis into a primary axis](https://win11-tips.techidaily.com/efficient-method-to-dismiss-incorrect-virus-notifications-on-windows-chrome/). Depending on the chart type you're using for the secondary axis, this might be the ideal option for you.
@@ -131,9 +162,6 @@ Related: [6 Tips for Making Microsoft Excel Charts That Stand Out](https://vp-ti
 
 ![Primary Axis selected in the Format Chart sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/PrimaryAxis-ExcelSecondaryAxis.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Again, depending on the chart type, you may need to change the style of the axis after you convert it. You can do this by right-clicking, choosing "Change Series Chart Type," and picking the style as described earlier.
 
  By adding a secondary axis in Excel, you can improve your chart's readability to make it a more useful visual. For more, look at how to [choose a chart to fit your data in Excel](https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-xiaomi-13t-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/).
@@ -144,8 +172,6 @@ Related: [6 Tips for Making Microsoft Excel Charts That Stand Out](https://vp-ti
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +179,21 @@ Related: [6 Tips for Making Microsoft Excel Charts That Stand Out](https://vp-ti
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-precision-window-photography-in-winoses-for-2024/"><u>[New] Precision Window Photography in WinOSes for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-explore-best-15-cost-free-photo-editors/"><u>[Updated] 2024 Approved Explore Best 15 Cost-Free Photo Editors</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-tomtom-adventurecam-2023-a-game-changer-in-2024/"><u>[Updated] TomTom AdventureCam 2023 A Game-Changer, In 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ult-over-a-thousand-youtube-audience-members-for-2024/"><u>Catapult Over a Thousand YouTube Audience Members for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/expert-review-of-the-portable-aphaca-bt69-bluetooth-fm-broadcasting-device-for-cars/"><u>Expert Review of the Portable Aphaca BT69 Bluetooth FM Broadcasting Device for Cars</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-ubisoft-connect-issues-encountered-in-224/"><u>How to Overcome Ubisoft Connect Issues Encountered in 2#!!24</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-set-active-hours-and-avoid-sudden-updates-on-windows-11/"><u>How to Set Active Hours and Avoid Sudden Updates on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/make-your-phone-games-mobile-again-transitioning-to-pcwindows-11-via-google-play/"><u>Make Your Phone Games Mobile Again: Transitioning to PC/Windows 11 via Google Play</u></a></li>
+<li><a href="https://windows11.techidaily.com/pinpoint-customization-techniques-for-windows-11-search/"><u>Pinpoint Customization Techniques for Windows 11 Search</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-boot-time-windows-audio-recovery-procedures/"><u>Resolving Boot-Time Windows Audio Recovery Procedures</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-resolving-nvidia-cp-access-denied-on-ws1110/"><u>Troubleshooting: Resolving Nvidia CP Access Denied on WS11/10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/tweak-driver-settings-for-optimal-hp-laserjet-pro-400-printing/"><u>Tweak Driver Settings: For Optimal HP LaserJet Pro 400 Printing</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-disms-role-in-fixing-win11-os-images/"><u>Understanding DISM's Role in Fixing Win11 OS Images</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-blur-unwanted-parts-of-your-videos-with-these-mobile-apps/"><u>Updated Blur Unwanted Parts of Your Videos with These Mobile Apps</u></a></li>
+</ul></div>
 

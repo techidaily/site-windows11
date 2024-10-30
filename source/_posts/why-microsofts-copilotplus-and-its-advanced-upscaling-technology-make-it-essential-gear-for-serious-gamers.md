@@ -1,7 +1,7 @@
 ---
 title: Why Microsoft's CoPilot+ and Its Advanced Upscaling Technology Make It Essential Gear for Serious Gamers
-date: 2024-08-31T22:02:28.767Z
-updated: 2024-09-01T22:02:28.767Z
+date: 2024-10-29T16:22:25.056Z
+updated: 2024-10-30T16:29:49.325Z
 tags:
   - windows
 categories:
@@ -18,6 +18,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [It Just Works (In Supported Games)](https://www.howtogeek.com/microsofts-upscaler-is-the-only-reason-gamers-will-care-about-a-copilot-pc/#it-just-works-in-supported-games)
 * [Auto SR Is Only Available on CoPilot+ PCs](https://extra-hints.techidaily.com/2024-approved-best-three-tactics-for-maximizing-zoom-transcoding/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Auto SR is Microsoft's answer to DLSS, FSR, and XeSS.
@@ -27,8 +34,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Microsoft’s answer DLSS and FSR is here. Automatic Super Resolution is a Windows-integrated upscaling method that, at least according to an early demo, works rather well. Microsoft has already launched Auto SR, so let me explain how it works and how you can use it.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Auto SR Is Here, and It Looks Promising
 
  Microsoft Auto SR is finally here and, while [the initial demo](https://devblogs.microsoft.com/directx/autosr/) doesn’t include any video of the tech in action, I’ve got to say that Auto SR does look pretty darn solid, while also bringing pretty respectable performance gains.
@@ -38,8 +49,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Two Borderlands 3 screenshots showing a native and an upscaled image.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Microsoft/Gearbox
 
  The 1440p Auto SR screenshot features sharper textures, with most of the intricate details preserved after upscaling the original 720p image, along with almost double the frame rate. The image resolve is sharper compared to native 1440p, but you can see some issues if you look closely.
@@ -54,17 +69,17 @@ Microsoft/Gearbox
 
 ![Native vs Auto SR upscaled Borderlands 3 screenshot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/microsoft-auto-sr-03.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Microsoft/Gearbox
 
  That said, even with those caveats, Auto SR looks quite promising. I’d like to see a video of Auto SR in action, but even in the provided screenshots, Microsoft’s OS-integrated AI upscaler gives FSR and XeSS a run for their money. It’s the first CoPilot+ PC feature that could be genuinely useful to gamers.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Auto SR Looks Better Than Driver-Level Upscalers
 
  Automatic Super Resolution is OS-integrated and it provides better results than driver-level upscalers. The reason for this is that [NVIDIA Image Scaling](https://some-approaches.techidaily.com/updated-the-essential-list-7-leading-generators-for-nft-artworks/) and AMD Radeon Super Resolution are just simple image upscalers that don’t utilize machine-learning algorithms.
@@ -77,9 +92,6 @@ Microsoft/Gearbox
 
  While Auto SR can’t match DLSS when it comes to image quality, Microsoft’s AI upscaler is still great news for gamers looking for a quality image upscaler they can use in games that don’t support DLSS, FSR, or XeSS.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ##  It Just Works (In Supported Games)
 
  One of the best things about Auto SR is that it just works. After you enable the option in Windows settings, Auto SR automatically turns on in supported games, in full-screen and windowed borderless modes, and then seamlessly turns off and switches your native resolution back once you exit the game. On the other hand, driver-based upscalers require a manual set-up process for each game, on top of not looking as good as Auto SR.
@@ -90,9 +102,6 @@ Microsoft/Gearbox
 
  Another good thing about Auto SR is that it only adds a single frame of latency to an upscaled game on average. Such a tiny input latency hit is possible because Auto SR runs off a Neural Processing Unit (NPU) instead of using your GPU or CPU, thus not using any resources that might be spent on rendering the game.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ##  Auto SR Is Only Available on CoPilot+ PCs
 
  Requiring an NPU to work is Auto SR’s biggest caveat. The NPU-reliance means that Auto SR is only available on [CoPilot+ PCs](https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-motorola-moto-g24-drfone-by-drfone-virtual-android/). At the moment, this only includes laptops equipped with [Qualcomm’s Snapdragon X](https://extra-skills.techidaily.com/updated-mobile-mastery-upgrade-photos-elevated-at-no-price/) chips. This should change once we get CoPilot+ PCs powered by next-gen laptop CPUs from Intel ([Lunar Lake](https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-y78-5g-fingerprint-lock-by-drfone-android/)) and AMD (Ryzen AI 300 CPUs), both of which include potent NPUs.
@@ -109,8 +118,6 @@ Microsoft/Gearbox
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +125,26 @@ Microsoft/Gearbox
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-essential-steps-for-embedding-social-network-live-videos/"><u>[New] Essential Steps for Embedding Social Network Live Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-screen-capture-with-irecorder-for-2024/"><u>[Updated] Mastering Screen Capture with iRecorder for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-accelerating-your-watch-experience-on-instagram-videos/"><u>2024 Approved Accelerating Your Watch Experience on Instagram Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/avoid-data-theft-expose-fraudulent-chatgpt-sites-now/"><u>Avoid Data Theft: Expose Fraudulent ChatGPT Sites Now!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/cing-video-soundtracks-on-digital-platforms/"><u>Enhancing Video Soundtracks on Digital Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-tactics-to-unite-windows-directories/"><u>Expert Tactics to Unite Windows Directories</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Motorola Moto G13? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-oneplus-nord-ce-3-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your OnePlus Nord CE 3 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-record-ppt-for-screenplay-use/"><u>In 2024, Record PPT for Screenplay Use</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-nokia-c300-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Nokia C300 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-disabled-graphics-on-steam-os/"><u>Quick Fixes for Disabled Graphics on Steam OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-tip-erasing-microsoft-edge-on-windows-11/"><u>Quick Tip: Erasing Microsoft Edge on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-sequence-errors-for-running-tasks-windows-guide/"><u>Resolving Sequence Errors for Running Tasks: Windows Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/revitalize-your-search-on-windows-11-11-key-fixes-included/"><u>Revitalize Your Search on Windows 11: 11 Key Fixes Included</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-xiaomi-redmi-13c-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Xiaomi Redmi 13C Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-hidden-the-forgotten-now-revealed-restoring-your-windows-on-win10win11/"><u>The Hidden, The Forgotten, Now Revealed: Restoring Your Windows on Win10/Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-vlc-lag-on-windows-devices/"><u>Troubleshooting VLC Lag on Windows Devices</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-unraveling-color-management-issues/"><u>Troubleshooting Windows: Unraveling Color Management Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-quick-deletion-windows-customization-for-instant-removal/"><u>Unleashing Quick Deletion: Windows Customization for Instant Removal</u></a></li>
+</ul></div>
 

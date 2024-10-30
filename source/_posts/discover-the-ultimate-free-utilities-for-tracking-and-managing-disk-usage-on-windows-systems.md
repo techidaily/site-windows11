@@ -1,7 +1,7 @@
 ---
 title: Discover the Ultimate Free Utilities for Tracking and Managing Disk Usage on Windows Systems
-date: 2024-08-31T22:02:34.388Z
-updated: 2024-09-01T22:02:34.388Z
+date: 2024-10-23T16:30:57.950Z
+updated: 2024-10-30T16:25:53.644Z
 tags:
   - windows
 categories:
@@ -36,6 +36,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It is available as both an installer and a portable application, which is handy if you want to load it onto a USB drive to carry with you for those troubleshooting house calls.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  WinDirStat is a Great Classic Option
 
 ![WinDirStat represents files and folders as colorful rectangles.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/img_593eec9ed2237.jpg) 
@@ -55,8 +62,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![SpaceSniffer is similar to WinDirStat, but has a less colorful interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/img_593eef597d3a6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Try [SpaceSniffer](https://www.fosshub.com/SpaceSniffer.html) if you're looking for something different. SpaceSniffer doesn't have the directory list included in WinDirStat. It's just a graphical view that displays folders and the files in them by relative size, like the bottom treemap view in WinDirStat's interface.
 
  However, unlike WinDirStat's treemap, you can double-click folders in this interface to drill down graphically. So, if you have a bunch of files taking up space in your "C:\\Users\\Name\\Videos" directory, you could double-click each directory in turn to drill down and eventually right-click a file or folder to access options like Delete and Open.
@@ -67,21 +78,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  SpaceSniffer might have issues scanning certain folders unless you [run it as administrator](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual/).
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  TreeSize Free Has a Slick Interface
 
 ![TreeSize has a more minimalist way of displaying files and folders, but sacrifices no functionality.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/img_593ef108d6c45.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want something simpler than WinDirStat, [TreeSize Free](http://www.jam-software.de/treesize%5Ffree/) is a good alternative. It provides you with the same directory list and treemap interfaces you'll see in WinDirStat, but it doesn't have WinDirStat's file extension list, and its ribbon-style interface is a little more at home on modern versions of Windows than WinDIrStat's toolbar. TreeSize Free also adds a convenient scan option to Explorer, so you can right-click any folder in File Explorer and Windows Explorer and select "TreeSize Free" to scan its contents.
 
  To view a treemap in TreeSize Free, click View > Show Treemap. As in the other applications here, you can right-click files or folders in the application to delete or open them.
@@ -91,15 +91,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This application is also available as a portable application, so you don't have to install it before running it, if you prefer.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  Windows' Built-In Storage Usage Tool
 
 ![The Storage view on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/storage-stuff-on-windows-11.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 [Windows 10 and Windows 11 have a storage usage tool](https://screen-recording.techidaily.com/new-2024-approved-the-way-of-the-warrior-game-lineup-mirroring-ghost-of-tsushima/) that may help you in some cases. It's not a classic disk space analyzer like the above tools, but it does have some similar features.
 
  To access it, head to Settings > System > Storage and click a drive. You'll see a list of things taking up space on that drive, from apps and games to system files, videos, photos, and music. Click a category and Windows will suggest things you can remove---for example, you'll see a list of installed applications which you can sort by the space they take.
@@ -107,8 +108,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  While this tool isn't as powerful as the above ones, it can be helpful for quickly understanding disk usage and freeing space in a pinch.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Clear Disk Space
 
  Once you've identified what is using up all your space, it is a simple matter to free up space. All of the third-party apps we listed allow you to easily open Explorer folder or open a file directly to check out what it is. Just right-click, then click "Open" or "Explorer Here" in the case of WinDirStat or WizTree. You can then delete files as you would normally. Make sure to double check what you're deleting though.
@@ -121,8 +126,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +133,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-essential-5-apps-to-download-social-media-video-clips-for-2024/"><u>[New] Essential 5 Apps to Download Social Media Video Clips for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-top-tools-for-capturing-call-of-duty-warzone-for-2024/"><u>[Updated] Top Tools for Capturing Call of Duty Warzone for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-quick-fixes-for-perfect-ipad-screenshots/"><u>2024 Approved Quick Fixes for Perfect iPad Screenshots</u></a></li>
+<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/avchd-on-galaxy-xcover-7-convert-mts-for-galaxy-xcover-7-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD on Galaxy XCover 7-convert MTS for Galaxy XCover 7</u></a></li>
+<li><a href="https://fox-that.techidaily.com/confronting-common-hiccups-the-six-major-iphone-13-challenges-and-their-fixes/"><u>Confronting Common Hiccups: The Six Major iPhone 13 Challenges and Their Fixes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-of-hardware-by-tom-your-trusted-guide/"><u>Expert Analysis of Hardware by Tom - Your Trusted Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/inside-out-mastering-windows-error-resolution-version-22h2/"><u>Inside Out: Mastering Windows Error Resolution, Version 22H2</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-htc-u23-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your HTC U23 Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-for-reviving-your-windows-11-password/"><u>Methods for Reviving Your Windows 11 Password</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-common-pin-hurdles-in-modern-windows-os-win10win11/"><u>Navigating Common PIN Hurdles in Modern Windows OS (Win10/Win11)</u></a></li>
+<li><a href="https://windows11.techidaily.com/revealing-a-hidden-shortcoming-an-insightful-review-of-samsung-galaxy-tab-a-2020/"><u>Revealing a Hidden Shortcoming: An Insightful Review of Samsung Galaxy Tab A (2020)</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/schlusselstrategien-zur-sicheren-archivierung-von-outlooks-2007-emails-und-kontaktdaten/"><u>Schlüsselstrategien Zur Sicheren Archivierung Von Outlooks 2007 Emails Und Kontaktdaten</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-rectify-failed-utorrent-installations-in-windows/"><u>Strategies to Rectify Failed uTorrent Installations in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-not-found-gpeditmsc-in-windows-errors/"><u>Tackling the Not Found: Gpedit.msc in Windows Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/transforming-old-drives-step-by-step-for-windows-rejuvenation/"><u>Transforming Old Drives: Step-by-Step for Windows Rejuvenation</u></a></li>
+<li><a href="https://windows11.techidaily.com/unrelated-processes-under-microsoft-edge-in-tasks/"><u>Unrelated Processes Under Microsoft Edge in Tasks</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Navigating Spotify Error 4 in Windows 11 Environments
-date: 2024-10-21T21:10:26.843Z
-updated: 2024-10-24T16:25:59.838Z
+date: 2024-10-24T16:57:57.423Z
+updated: 2024-10-30T16:13:46.045Z
 tags:
   - windows10
   - windows11
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
  Clearing the DNS cache will flush out and refresh its data. You can clear the DNS cache by running a flush DNS command in Command Prompt or Run. Check out our guide about[how to flush the DNS](https://www.makeuseof.com/flush-dns-cache-windows-11/) on Windows for further details about how to apply this solution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Select the HTTP Option in Spotify
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 ![The HTTP option in Spotify](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/http-option.jpg)
 5. Then select**Restart App** to apply.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Change DNS Server Settings
 
  Error code 4 often occurs because Spotify can’t recognize your PC’s default DNS server set by your ISP. In such a scenario, the app can’t load required online resources correctly, resulting in error 4\. Many users have addressed that issue by changing their PCs’ DNS server to the universally recognized Google DNS.
@@ -62,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 ![DNS server settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dns-server-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Tweak the Registry
@@ -83,21 +90,14 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 7. If**EnableActiveProbing** is set to**0** , clear the**Value data** box. Then input**1** inside that data box.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The Edit DWORD window for the EnableActiveProbing DWORD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/edit-dword-window.jpg)
 8. Select**OK** to save the new**EnableActiveProbing** value.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Exclude Spotify From Your Antivirus Software
 
@@ -117,14 +117,14 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 
 ![The firewall's allowed apps settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/allowed-app-settings.jpg)
 
- Of course, numerous standalone third-party firewalls can block Spotify much the same. If you have installed a third-party firewall, try disabling it to see if that resolves error 4\. Then add Spotify to its allowed apps and turn the firewall back on if it does.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Of course, numerous standalone third-party firewalls can block Spotify much the same. If you have installed a third-party firewall, try disabling it to see if that resolves error 4\. Then add Spotify to its allowed apps and turn the firewall back on if it does.
 
 ## 7\. Reinstall Spotify
 
@@ -136,13 +136,6 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 ![Spotify's Uninstall option on the Start menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/the-start-menu-s-uninstall-option.jpg)
 4. If you’ve installed the desktop Spotify app, Programs and Features will open from which you can select the software and click**Uninstall** . Users who’ve installed the UWP Spotify app can select**Uninstall** on a confirmation prompt.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Then open the[Spotify Windows](https://www.spotify.com/us/download/windows/) download page.
 6. Click**Download** to get the installer for the desktop Spotify app.  
 ![The Download Spotify option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/download-option.jpg)
@@ -151,6 +144,13 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 8. Double-click the**SpotifySetup.exe** file to bring up the setup wizard and install Spotify.
 
  Another option is to install the Spotify UWP (Universal Windows Platform) app on Microsoft Store. Click the**Get it From Microsoft Store** button on the linked Spotify download page to bring up that app’s MS store page. Then click the**Get in Store app** \>**Open Microsoft Store** options and select**Get** to install the UWP app.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Enjoy Spotify Music Online Again
 
@@ -171,20 +171,22 @@ thumbnail: https://thmb.techidaily.com/4aaf8bbfbdfb57b83b54a7e30f7b8f03d80755a12
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-depth-look-at-worlds-best-live-streaming-sites/"><u>[New] In-Depth Look at World's Best Live Streaming Sites</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-quicklivestream-101-how-to-broadcast-a-podcast-with-zero-hitches/"><u>[Updated] 2024 Approved QuickLivestream 101 How to Broadcast a Podcast with Zero Hitches</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-excellent-choice-for-capturing-professional-quality-on-youtube/"><u>[Updated] Excellent Choice for Capturing Professional Quality on YouTube</u></a></li>
-<li><a href="https://windows11.techidaily.com/biometric-betrayal-windows-hellos-security-under-fire/"><u>Biometric Betrayal: Windows Hello's Security Under Fire?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/exploring-plasma-eo6-a-one-week-journey-through-its-features-and-functionalities/"><u>Exploring Plasma Eo6: A One-Week Journey Through Its Features and Functionalities</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-interruptions-in-geforce-links-with-os-1011/"><u>Fixing Interruptions in GeForce Links with OS 10/11</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-correct-ipadiphone-images-not-displaying-in-windows-11-environment/"><u>How to Correct iPad/iPhone Images Not Displaying in Windows 11 Environment</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-legality-of-recording-on-youtube-platform/"><u>In 2024, Legality of Recording on YouTube Platform?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-enrollment-in-windows-11s-beta-testers-club/"><u>Mastering Enrollment in Windows 11'S Beta Testers Club</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-overcome-endless-startup-in-bios-for-windows-systems/"><u>Steps to Overcome Endless Startup in BIOS for Windows Systems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-honor-magic-5-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Honor Magic 5 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unleash-your-inner-comedy-with-gif-mastery/"><u>Unleash Your Inner Comedy with GIF Mastery</u></a></li>
-<li><a href="https://windows11.techidaily.com/unlock-full-potential-mastering-multiple-screens-in-win11/"><u>Unlock Full Potential: Mastering Multiple Screens in Win11</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-boost-your-youtube-earnings-with-effective-adsense-use/"><u>[Updated] 2024 Approved Boost Your YouTube Earnings with Effective AdSense Use</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-to-soundtrack-the-complete-conversion-manual/"><u>[Updated] 2024 Approved Instagram to Soundtrack The Complete Conversion Manual</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2022s-speed-demon-olympic-crossers-greatest-hits-for-2024/"><u>2022'S Speed Demon Olympic Crossers' Greatest Hits for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-6-best-snapchat-video-editors-on-android-and-iphone/"><u>2024 Approved 6 Best Snapchat Video Editors on Android and iPhone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-masters-list-of-affordable-and-premium-win-art-tools/"><u>2024 Approved Master's List of Affordable & Premium Win Art Tools</u></a></li>
+<li><a href="https://windows11.techidaily.com/fast-track-obtaining-adobe-reader-from-the-microsoft-shop/"><u>Fast Track: Obtaining Adobe Reader From the Microsoft Shop</u></a></li>
+<li><a href="https://windows11.techidaily.com/fine-tune-taskbar-length-on-windows-11/"><u>Fine-Tune Taskbar Length on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-download-universal-windows-10-7-and-8-bluetooth-adapter-drivers/"><u>Free Download: Universal Windows 10, 7 & 8 Bluetooth Adapter Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/guiding-through-application-launch-with-insufficient-qt-support/"><u>Guiding Through Application Launch with Insufficient Qt Support</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-successfully-uninstall-epic-games-hub-in-w11/"><u>How to Successfully Uninstall Epic Games Hub in W11</u></a></li>
+<li><a href="https://windows11.techidaily.com/integrating-android-titles-on-pc-seamless-gameplay-through-windows-and-google/"><u>Integrating Android Titles on PC: Seamless Gameplay Through Windows & Google</u></a></li>
+<li><a href="https://windows11.techidaily.com/making-your-win11-taskbar-slim-a-visual-guide/"><u>Making Your Win11 Taskbar Slim: A Visual Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/propel-system-performance-quickly-enter-disk-editor-settings-on-windows-11/"><u>Propel System Performance: Quickly Enter Disk Editor Settings on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-route-to-enabling-the-dark-mode-in-notepad-on-win-11/"><u>Quick Route to Enabling the Dark Mode in Notepad on Win 11</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-pinnacle-guide-to-uncomplicated-online-live-streams/"><u>The Pinnacle Guide to Uncomplicated Online Live Streams</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformez-votre-audio-flac-en-video-mp4-gratuitement-en-ligne-via-movavi/"><u>Transformez Votre Audio FLAC en Vidéo MP4 Gratuitement en Ligne via Movavi</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/windows-re-partition-verwijderen-of-oproepen-veiligheid-en-herstellen/"><u>Windows RE Partition - Verwijderen of Oproepen: Veiligheid en Herstellen</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Capabilities of Function Keys in Microsoft Excel: A Comprehensive Guide"
-date: 2024-08-31T22:04:22.187Z
-updated: 2024-09-01T22:04:22.187Z
+date: 2024-10-24T16:54:24.724Z
+updated: 2024-10-30T16:08:43.323Z
 tags:
   - excel
 categories:
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/7ec641d0887205acbcfc6836f03618d0eee863811
 * **Alt+F1:** Create an embedded chart from data in the currently selected range.
 * **Alt+Shift+F1:** Create a new worksheet.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  F2
 
 * **F2:** Turn on editing in the cell and places your insertion point at the end of the cell's data. If editing is disabled for a cell, this combo moves your insertion point into the formula bar instead.
@@ -43,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/7ec641d0887205acbcfc6836f03618d0eee863811
 * **Shift+F2:** Allow you to insert or edit comments on selected cells.
 * **Alt+Shift+F2:** Save the current workbook.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  F3
 
 * **F3:** Open the Paste Name window if you have defined names in the workbook.
@@ -53,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/7ec641d0887205acbcfc6836f03618d0eee863811
 * **Shift+F3:** Open function insert dialog box.
 * ****Ctrl+Shift+F3:** Open the Create Names From Selection window, which lets you create new names using selected rows and columns.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ##  F4
 
 * **F4:** Repeat your last action. If you have a cell reference or range selected when you hit F4, Excel cycles through available references.
@@ -64,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/7ec641d0887205acbcfc6836f03618d0eee863811
 * **Ctrl+F4:** Close the current workbook. You'll be asked to save the document if you've made any changes.
 * **Alt+F4:** Quit Microsoft Excel. This closes all open workbooks (giving you the chance to save changes first) and exits the program.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  F5
 
 * **F5:** Open the Go To window where you can jump to a named range or address.
@@ -74,8 +72,12 @@ thumbnail: https://thmb.techidaily.com/7ec641d0887205acbcfc6836f03618d0eee863811
 * **Ctrl+F5:** Restore the window size of the active workbook window.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  F6
 
 * **F6:**  Move between the Ribbon, worksheet, tabs, and status bar. In a worksheet that has been split, this combo moves you to the next pane.
@@ -89,8 +91,18 @@ thumbnail: https://thmb.techidaily.com/7ec641d0887205acbcfc6836f03618d0eee863811
 * **Shift + F7:** Open the thesaurus. If you have a word selected when you press this combo, Excel opens the thesaurus and looks up the selected word.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  F8
 
 * **F8:** Turn the extend selection mode on and off. While in this mode, you can use your arrow keys to extend or reduce the current selection of cells.
@@ -104,9 +116,6 @@ thumbnail: https://thmb.techidaily.com/7ec641d0887205acbcfc6836f03618d0eee863811
 * **Ctrl+Alt+F9:** Calculate all formulas on all worksheets in all open workbooks, regardless of whether they have changed since the last calculation.
 * **Ctrl+Alt+Shift+ F9:** Recheck dependent formulas and then calculate all cells in all open workbooks.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  F10
 
 * **F10:** Turn key tips on or off. Key tips display shortcut letters on menus that you can press to navigate menus and activate commands.
@@ -114,6 +123,13 @@ thumbnail: https://thmb.techidaily.com/7ec641d0887205acbcfc6836f03618d0eee863811
 * **Ctrl+F10:** Maximize or restores the selected workbook window.
 * **Alt+F10:** Maximize the program window.
 * **Alt+Shift+F10:** Display the menu or message for a smart tag. If more than one smart tag is present, this combo switches to the next smart tag and displays its menu or message.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  F11
 
@@ -135,8 +151,6 @@ thumbnail: https://thmb.techidaily.com/7ec641d0887205acbcfc6836f03618d0eee863811
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +158,24 @@ thumbnail: https://thmb.techidaily.com/7ec641d0887205acbcfc6836f03618d0eee863811
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-unleash-the-full-potential-of-your-android-device-with-obs-studio/"><u>[New] 2024 Approved Unleash the Full Potential of Your Android Device with OBS Studio</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-essential-steps-for-adobe-presenter-recordings-for-2024/"><u>[New] Essential Steps for Adobe Presenter Recordings for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-swing-mastery-kit/"><u>[New] Swing Mastery Kit</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-rx-fanfare-update-pack/"><u>[Updated] RX Fanfare Update Pack</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-breaking-barriers-the-best-pc-vr-headsets-of-2023/"><u>2024 Approved Breaking Barriers The Best PC VR Headsets of 2023</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-activation-problem-eliminate-error-0x803f700f/"><u>Fixing Windows Activation Problem: Eliminate Error 0X803F700f</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-x50i-frp-by-drfone-android/"><u>Full Guide to Bypass Honor X50i FRP</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oppo-find-x6-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Oppo Find X6 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-win-1011-domain-services-printer-fixation-techniques/"><u>Mastering Win 10/11 Domain Services Printer Fixation Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-tech-with-toms-hardware-guides/"><u>Navigating the World of Tech with Tom's Hardware Guides</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-operation-failure-code-0x0000011b-in-win11-system/"><u>Overcoming Operation Failure Code 0X0000011B in Win11 System</u></a></li>
+<li><a href="https://windows11.techidaily.com/re-establishing-classic-navigation-in-win-11/"><u>Re-Establishing Classic Navigation in Win 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/rebooting-to-reactivate-dormant-snapshots/"><u>Rebooting to Reactivate Dormant Snapshots</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-your-messages-on-icloud-using-top-performing-methods/"><u>Reviving Your Messages on iCloud Using Top-Performing Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/steps-to-repair-disk-errors-in-windows-os/"><u>Steps to Repair Disk Errors in Windows OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/stepwise-navigation-through-bluescreenview-features/"><u>Stepwise Navigation Through BlueScreenView Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-your-pcs-true-power-with-enhanced-vram-settings-in-windows-10-and-11/"><u>Unleash Your PC's True Power with Enhanced VRAM Settings in Windows 10 & 11</u></a></li>
+</ul></div>
 

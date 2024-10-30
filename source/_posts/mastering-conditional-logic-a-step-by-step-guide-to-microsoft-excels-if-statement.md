@@ -1,7 +1,7 @@
 ---
 title: "Mastering Conditional Logic: A Step-by-Step Guide to Microsoft Excel's IF Statement"
-date: 2024-08-31T22:03:20.153Z
-updated: 2024-09-01T22:03:20.153Z
+date: 2024-10-25T16:26:49.471Z
+updated: 2024-10-30T16:16:05.392Z
 tags:
   - excel
 categories:
@@ -24,8 +24,12 @@ thumbnail: https://thmb.techidaily.com/1c29d979a20696d19bd8c5c3e9d947157133fd882
  Whether you're grading exams or simply trying to make sense of a spreadsheet full of data, Microsoft Excel's `IF` function can help. You can also use an `IF` function inside of another `IF` function to run deeper tests, too. We'll show you how.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  What Can You Do with Excel's IF Function?
 
  Put simply, you can use the `IF` function to retrieve a pre-specified result based on whether the function gets a TRUE or FALSE value.
@@ -45,8 +49,12 @@ thumbnail: https://thmb.techidaily.com/1c29d979a20696d19bd8c5c3e9d947157133fd882
  for someone with a score of 90 or higher.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Write an IF Statement in Excel
 
  To write an `IF` statement in Excel, all you have to do is type the function and specify [what results to retrieve when the condition](https://instagram-clips.techidaily.com/how-to-share-igtv-videos-to-facebook-3-ways-for-2024/) is TRUE and FALSE.
@@ -77,23 +85,21 @@ Related: [How to Use Conditional Formatting to Find Duplicate Data in Excel](htt
 
 ![Result of Excel's IF function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/2-if-function-result-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To copy the function for all your records, from the bottom-right corner of the D2 cell, drag downwards to cover all your records.
 
 ![Result of Excel's IF function for all records.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/3-if-function-result-all-records.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  And that's it.
 
  Modify the `IF` function in whatever way you want and you'll get the desired result.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ##  Use the Nested IF Function in Excel
 
  A nested `IF` is an `IF` function inside of another `IF` function. You use this when you want to run another logical test after the first one.
@@ -123,9 +129,12 @@ Related: [How to Use Conditional Formatting to Find Duplicate Data in Excel](htt
 ![Result of Excel's nested IF function for all records.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/6-nested-if-function-result-all-records.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  And you're set.
 
  Excel's `IF` function is an excellent way to run various logical tests. You can use it to specify multiple conditions and display the results accordingly.
@@ -144,8 +153,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +160,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-beat-bloggers-base-downloads-for-analysis/"><u>[Updated] 2024 Approved Beat Bloggers' Base Downloads for Analysis</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-master-screen-record-on-win-10/"><u>[Updated] In 2024, Master Screen Record on Win 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-best-ai-naming-software-for-podcasters/"><u>2024 Approved Explore the Best AI Naming Software for Podcasters</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726028502207-hdr/"><u>高画質HDR動画を適切に再生し、問題解決法</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-step-by-step-approach-to-macos-sierra-integration/"><u>A Step-by-Step Approach to macOS Sierra Integration</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/defining-tablet-leadership-the-apple-ipad-pro-11-2018-edition-in-focus/"><u>Defining Tablet Leadership: The Apple iPad Pro 11 (2018 Edition) in Focus</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-issue-windows-media-player-volume-not-working/"><u>Fixing the Silent Issue: Windows Media Player Volume Not Working</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978322419-get-your-m-audio-fast-track-driver-for-windows-11-7-8-and-81-today/"><u>Get Your M-Audio Fast Track Driver for Windows 11, 7, 8 and 8.1 Today</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-a1x-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo A1x 5G Safely | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-return-to-original-windows-setup-settings/"><u>How to Return to Original Windows Setup Settings</u></a></li>
+<li><a href="https://windows11.techidaily.com/improving-system-performance-by-curbing-browser-activity/"><u>Improving System Performance by Curbing Browser Activity</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-honor-play-40c-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Honor Play 40C has been deleted.</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-update-breakdown-overcoming-error-0x80246007-on-win11/"><u>Resolving Update Breakdown: Overcoming Error 0X80246007 on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/success-tips-reviving-your-intel-unison-app/"><u>Success Tips: Reviving Your Intel Unison App</u></a></li>
+<li><a href="https://windows11.techidaily.com/turbo-type-tips-quick-key-input-enhancements-for-win-1011/"><u>Turbo-Type Tips: Quick Key Input Enhancements for Win 10/11</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11-5ghz-wi-fi-connection-woes-how-to-solve-them/"><u>Win11 5GHz Wi-Fi Connection Woes: How to Solve Them</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-widgets-configuration-the-triad-approach/"><u>Windows 11 Widgets Configuration: The Triad Approach</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-woos-resolve-opera-download-hitch/"><u>Windows Woos: Resolve Opera Download Hitch</u></a></li>
+<li><a href="https://windows11.techidaily.com/winfix-guide-reviving-dormant-wsreset-service-process/"><u>Winfix Guide: Reviving Dormant WSReset Service Process</u></a></li>
+</ul></div>
 

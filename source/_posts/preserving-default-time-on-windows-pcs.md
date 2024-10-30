@@ -1,7 +1,7 @@
 ---
 title: Preserving Default Time on Windows PCs
-date: 2024-10-23T19:21:48.545Z
-updated: 2024-10-24T17:14:40.263Z
+date: 2024-10-28T16:03:39.838Z
+updated: 2024-10-30T16:32:27.656Z
 tags:
   - windows10
   - windows11
@@ -25,10 +25,10 @@ thumbnail: https://thmb.techidaily.com/e8596feeaa10b5decf0ac423846001bcbe9ce2de9
  For both methods, you need administrative access to the computer to change it. Once you’ve made the changes, nobody can alter the date and time settings. Let’s look at each method in more detail.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Use the Group Policy Editor
@@ -47,24 +47,18 @@ Computer Configuration > Administrative Templates > System > Locale Services
 ![Disallow user override of locale settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/disallow-user-override-of-locale-settings.jpg)
 5. In the pop-up window, check the **Enabled** radio button.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Then click **Apply** \> **OK** to save the changes.
 
  This will block anyone from changing the date and time settings on your computer. However, if you have administrative access to the computer, you can still alter the settings.
 
  If you want to revert to the default settings later, open Group Policy Editor again and change the value of Disallow user override of locale settings back to Not Configured or Disabled. This way, users can change the time and date again.
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Tweak the Registry Editor
 
@@ -86,10 +80,10 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Control Panel\International\
 8. In the pop-up window, change the Value data to **1** and click **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you’ve made the changes, close the Registry Editor window and restart your computer.
@@ -97,10 +91,10 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Control Panel\International\
  To undo this restriction, delete the **PreventUserOverrides** DWORD value from the registry or change the value to **0**. Doing so will enable users to change the time and date again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stop Windows Time and Date Changes
@@ -116,17 +110,16 @@ HKEY_CURRENT_USER\Software\Policies\Microsoft\Control Panel\International\
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-essential-info-on-valheim-sowing-top-seeds-ranked-for-2024/"><u>[New] Essential Info on Valheim Sowing Top Seeds Ranked for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enjoy-a-stream-of-nine-complete-christmas-capsules-on-youtube/"><u>[Updated] In 2024, Enjoy a Stream of Nine Complete Christmas Capsules on YouTube</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-love-the-cut-filmoras-top-10-edits-unveiled/"><u>[Updated] Love the Cut Filmora's Top 10 Edits Unveiled</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-turbo-tracker-fastest-image-browser-w10/"><u>[Updated] Turbo Tracker - Fastest Image Browser W10</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-quick-recap-how-to-locate-youtube-comments-post-upload/"><u>2024 Approved Quick Recap How to Locate YouTube Comments Post-Upload</u></a></li>
-<li><a href="https://windows11.techidaily.com/efficient-tips-on-windows-calls-documentation/"><u>Efficient Tips on Windows Calls Documentation</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminate-steam-access-barrier-for-games-on-modern-os/"><u>Eliminate Steam Access Barrier for Games on Modern OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminate-unmet-windows-11-specifications-warning/"><u>Eliminate Unmet Windows 11 Specifications Warning</u></a></li>
-<li><a href="https://windows11.techidaily.com/enhancing-your-desktop-with-three-column-widget-setup-in-windows-11/"><u>Enhancing Your Desktop with Three Column Widget Setup in Windows 11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-silent-menace-in-evil-genius-2-sound-restoration-guide/"><u>Fixing Silent Menace in Evil Genius 2 - Sound Restoration Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-network-neutrality-predictions-for-security/"><u>Navigating Network Neutrality: Predictions for Security</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/understanding-youtubers-income-average-ad-revenues-per-play-in-2024/"><u>Understanding Youtuber's Income Average Ad Revenues per Play, In 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-detailed-insights-into-camstudio-capture-functionality/"><u>[Updated] 2024 Approved Detailed Insights Into CamStudio Capture Functionality</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-integrating-voices-into-videos-effectively/"><u>[Updated] Integrating Voices Into Videos Effectively</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-tecno-spark-20-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Tecno Spark 20 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-security-a-comprehensive-guide-to-lock-patterns-in-windows-11/"><u>Customizing Security: A Comprehensive Guide to Lock Patterns in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-onedrive-login-hiccup-zero-based-code-error-on-win11/"><u>Fixing OneDrive Login Hiccup: Zero-Based Code Error on Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-looks-like-youre-stranded-xbox-app-error-in-windows-11-and-11/"><u>How to Fix the “Looks Like You’re Stranded” Xbox App Error in Windows 11 & 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-find-n3-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo Find N3 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/leveraging-social-media-5-pathways-to-earn-more/"><u>Leveraging Social Media: 5 Pathways to Earn More</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-windows-performance-with-extended-display-setup/"><u>Master Window's Performance With Extended Display Setup</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-digital-marketing-triumphs-for-2024/"><u>The Ultimate Guide to Digital Marketing Triumphs for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitter-video-viral-2024/"><u>Twitter Video Viral 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Microsoft Excel: A Comprehensive Guide to Utilizing Round Functions"
-date: 2024-08-31T22:04:34.623Z
-updated: 2024-09-01T22:04:34.623Z
+date: 2024-10-24T16:22:51.452Z
+updated: 2024-10-30T16:20:18.113Z
 tags:
   - excel
 categories:
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/3f22ae9e837b10e05053cf12480b5c15e8d166c20
  When you work with decimal numbers, rounding might be part of your equation. Microsoft Excel offers a few functions to help you quickly and easily [round to perfection](https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/).
 
  You can use the [simple ROUND function](https://instagram-clips.techidaily.com/2024-approved-snickel-and-wail-instagrams-10-most-hilarious-meme-accounts/), always round up or down with ROUNDUP and ROUNDDOWN, or round to a specific multiple with MROUND. Let's take a look at how to use each of these ROUND functions in Excel.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The ROUND Function
 
@@ -44,6 +51,19 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Formula for ROUND with decimal places](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/DecimalPlaces-ExcelRoundFunctions.png) 
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To round that same number to the nearest integer, you would use this next formula and receive the result 4:
 
 =ROUND(3.7528,0)
@@ -57,8 +77,12 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 ![Formula for ROUND with a cell reference](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/CellReference-ExcelRoundFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  The ROUNDUP Function
 
  Maybe you have a sheet with numbers that you want to always round up. This is when the ROUNDUP function is useful.
@@ -71,18 +95,12 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Formula for ROUND with decimal places](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/DecimalPlaces-ExcelRoundFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
  To round that same number to the nearest integer, you would use the next formula and receive the result 6.
 
 =ROUNDUP(5.3692,0)
 
 ![Formula for ROUND for an integer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Integer-ExcelRoundFunctions.png) 
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
  To use the cell reference A1 for the value and round up three places to the left of the decimal point, you'd use this formula.
 
 =ROUNDUP(A1,-3)
@@ -101,17 +119,38 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![Formula for ROUND with decimal places](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/DecimalPlaces-ExcelRoundFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To round that same number to the nearest integer, use the following formula to receive the result 7.
 
 =ROUNDDOWN(7.421,0)
 
 ![Formula for ROUND for an integer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Integer-ExcelRoundFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  And to round that value in cell A1 down three places to the left of the decimal point, you'd use this formula:
 
 =ROUNDDOWN(A1,-3)
 
 ![Formula for ROUND with a cell reference](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/CellReference-ExcelRoundFunctions.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##  The MROUND Function
 
@@ -127,28 +166,18 @@ Related: [How to Fix Common Formula Errors in Microsoft Excel](https://extra-les
 
 ![Formula for MROUND with a positive multiple](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/PositiveMultiple-ExcelRoundFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  To round -20 to the nearest multiple of -6 and receive the result -18, you'd use this formula:
 
 =MROUND(-20,-6)
 
 ![Formula for MROUND with a negative multiple](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/NegativeMultiple-ExcelRoundFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To round the value in cell A1 to the nearest multiple of 3, you would use this formula:
 
 =MROUND(A1,3)
 
 ![Formula for ROUND with a cell reference](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/CellReference-ExcelRoundFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  Rounding is one of those [tasks that you don't have to do manually](https://vimeo-videos.techidaily.com/in-2024-high-end-downloads-best-10-apps-for-extracting-vimeo-videos/) in Excel. These functions take the work out of rounding the numbers in your spreadsheet.
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |
@@ -163,8 +192,6 @@ Related: [How to Fix Common Formula Errors in Microsoft Excel](https://extra-les
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +199,24 @@ Related: [How to Fix Common Formula Errors in Microsoft Excel](https://extra-les
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-increasing-brilliance-on-your-android-videos-for-2024/"><u>[New] Increasing Brilliance on Your Android Videos for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/effortless-youtube-video-to-text-conversion-at-no-cost-in-2024/"><u>Effortless YouTube Video to Text Conversion at No Cost, In 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/essential-steps-regaining-lost-facebook-login-credentials/"><u>Essential Steps: Regaining Lost Facebook Login Credentials</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-enhanced-functionality-a-thorough-insight-into-the-4th-gen-amazon-echo/"><u>Exploring Enhanced Functionality - A Thorough Insight Into the 4Th Gen Amazon Echo</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-non-working-windows-performance-indicator/"><u>Fixing Non-Working Window's Performance Indicator</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-open-the-calculator-in-windows-11/"><u>How to Open the Calculator in Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-and-instagram-synergy-posting-content-easily/"><u>In 2024, YouTube and Instagram Synergy Posting Content Easily</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/insiders-tips-for-choosing-best-webinars/"><u>Insider's Tips for Choosing Best Webinars</u></a></li>
+<li><a href="https://windows11.techidaily.com/overhauling-fatal-exception-error-0x8007045d-on-pc/"><u>Overhauling Fatal Exception Error 0X8007045D on PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/remedying-unreadable-messages-in-discord-chat/"><u>Remedying Unreadable Messages in Discord Chat</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/revive-your-canon-printers-print-function-with-these-5-windows-11-tricks/"><u>Revive Your Canon Printer's Print Function with These 5 Windows 11 Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-secret-of-eradicating-linguistic-line-from-win11-taskbar/"><u>The Secret of Eradicating Linguistic Line From Win11 Taskbar</u></a></li>
+<li><a href="https://windows11.techidaily.com/two-email-systems-together-merging-gmail-and-outlook-in-windows/"><u>Two Email Systems Together: Merging Gmail and Outlook in Windows</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-customized-windows-power-schemes/"><u>Unlocking Customized Windows Power Schemes</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-widget-personalization-in-microsofts-latest-os/"><u>Unveiling Widget Personalization in Microsoft's Latest OS</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722973353932-updated-hp-scanjet-printer-drivers-for-windows-1087-free-download-now/"><u>Updated HP Scanjet Printer Drivers for Windows 10/8/7: Free Download Now!</u></a></li>
+</ul></div>
 

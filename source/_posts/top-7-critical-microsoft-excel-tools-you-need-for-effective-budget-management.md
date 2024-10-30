@@ -1,7 +1,7 @@
 ---
 title: Top 7 Critical Microsoft Excel Tools You Need for Effective Budget Management
-date: 2024-08-31T22:03:34.357Z
-updated: 2024-09-01T22:03:34.357Z
+date: 2024-10-23T16:04:07.582Z
+updated: 2024-10-30T16:32:34.165Z
 tags:
   - excel
 categories:
@@ -55,6 +55,13 @@ Related: [How to Add Numbers in Microsoft Excel](https://instagram-clips.techida
 
 ![SUM formula in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/SumManual-ExcelBudgetFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also use the `SUM` function to [subtract values in Excel](https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-12-mini-lock-screen-by-drfone-ios/). You'll likely want to subtract your total expenses from your total income to see how much you have left.
 
  Go to the cell where you want the result and enter the following replacing the cell references with your own:
@@ -79,6 +86,13 @@ Related: [How to Add Numbers in Microsoft Excel](https://instagram-clips.techida
 
 ![SUMIF for Loans](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/SumIfLoan-ExcelBudgetFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can use the `SUMIF` formula to match criteria for text as we did here, but also for numbers.
 
  In this example, we'll add the expenses in cells D10 through D17 but only those that are over $400.
@@ -87,9 +101,6 @@ Related: [How to Add Numbers in Microsoft Excel](https://instagram-clips.techida
 
 ![SUMIF over 400](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/SumIfOver400-ExcelBudgetFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  3\. Find the Highest or Lowest Expense: MIN or MAX
 
  When you're keeping track of bills in your budget, you might want to see the highest values. This allows you to adjust for upcoming months or years. `MAX` shows you the highest value while `MIN` shows you the lowest.
@@ -101,20 +112,28 @@ Related: [How to Add Numbers in Microsoft Excel](https://instagram-clips.techida
 ![MAX in the AutoSum drop-down](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MaxButton-ExcelBudgetFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Confirm or edit the range of cells in the formula and press Enter or Return.
 
 ![Cell range for MAX](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MaxRow-ExcelBudgetFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To enter the formula manually, use the following replacing the cell references with your own:
 
 =MAX(C12:N12)
 
 ![MAX formula in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/MaxManual-ExcelBudgetFunctions.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can use `MIN` the same way to find the lowest value. Select `MIN` from the `SUM` drop-down list or enter the formula manually.
 
@@ -133,8 +152,12 @@ Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fi
 ![Count Numbers in AutoSum button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/CountButton-ExcelBudgetFunctions.png) 
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Confirm or edit the cell range that displays and press Enter or Return.
 
 ![Cell range for COUNT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/CountColumn-ExcelBudgetFunctions.png) 
@@ -146,8 +169,12 @@ Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fi
 ![COUNT formula in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/CountManual-ExcelBudgetFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  5\. See How Many Days to Pay: DAYS
 
  If part of your budget is seeing [how many days you have between](https://some-approaches.techidaily.com/new-top-10-hidden-gems-for-enhancing-canva-images/) when you get paid and when a bill or loan payment is due, the `DAYS` function does exactly that.
@@ -166,12 +193,6 @@ Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fi
 
 ![DAYS formula with dates](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/DaysDates-ExcelBudgetFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ##  6\. See How Many Business Days to Pay: NETWORKDAYS
 
  Similar to the `DAYS` function, `NETWORKDAYS` counts the number of work (or business) days between two dates. This resulting number excludes weekends and recognized holidays.
@@ -185,14 +206,19 @@ Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fi
 ![NETWORKDAYS function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/NetWorkdays-ExcelBudgetFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  7\. View the Current Date: TODAY
 
  As you work on your budget, the current date is important. Without looking at the calendar, you can [display the current date](https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-redmi-note-12-5g-by-stellar-photo-recovery-android-mobile-photo-recover/) in your sheet and see it updated each time you open the workbook.
@@ -203,9 +229,6 @@ Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fi
 
 ![TODAY function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Today-ExcelBudgetFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to create your own budget in Excel rather than use a template, these functions have you off to a great start. You might also take a look at [how to use Money in Excel](https://driver-install.techidaily.com/update-pcs-graphics-capabilities-with-new-drivers/) to track your bank accounts and loan balances. (Unfortunately, Microsoft has [announced it will shut down "Money in Excel"](https://screen-recording.techidaily.com/new-2024-approved-bifrost-betrayal-gods-at-war/) after June 2023\. The company now recommends [Tiller](https://www.tillerhq.com/) instead.)
 
 Related: [How to Use Microsoft's "Money in Excel" to Manage Your Finances](https://driver-install.techidaily.com/update-pcs-graphics-capabilities-with-new-drivers/)
@@ -216,8 +239,6 @@ Related: [How to Use Microsoft's "Money in Excel" to Manage Your Finances](https
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -225,4 +246,26 @@ Related: [How to Use Microsoft's "Money in Excel" to Manage Your Finances](https
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-essential-tips-for-switch-gaming-recordings/"><u>[New] 2024 Approved Essential Tips for Switch Gaming Recordings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-top-rated-mp4-video-save-and-review/"><u>[New] 2024 Approved Top-Rated MP4 Video Save & Review</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-how-to-turn-discord-livestreams-into-lasting-digital-memories-for-2024/"><u>[New] How to Turn Discord Livestreams Into Lasting Digital Memories for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-soundscape-synthesis-studio-mac-basics-for-2024/"><u>[New] Soundscape Synthesis Studio Mac Basics for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-pinnacle-playground-top-10-royale-fighters/"><u>[Updated] 2024 Approved Pinnacle Playground Top 10 Royale Fighters</u></a></li>
+<li><a href="https://fox-that.techidaily.com/brighten-up-top-1ntricies-for-fixing-an-iphone-flashlight-that-wont-light-12-methods/"><u>Brighten Up: Top 1Ntricies for Fixing an iPhone Flashlight That Won’t Light (12 Methods)</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-windows-11-ignore-or-prevent-expiry-errors/"><u>Fixing Windows 11: Ignore or Prevent 'Expiry' Errors?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-reno-10-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo Reno 10 5G Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-realme-gt-neo-5-se-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Realme GT Neo 5 SE without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-fixing-nvidia-cp-errors-in-ws1110/"><u>Mastering the Art of Fixing Nvidia CP Errors in WS11/10</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/optimizing-latency-for-real-time-obs-viewing-for-2024/"><u>Optimizing Latency for Real-Time OBS Viewing for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-to-correctly-handle-windows-updater-issue-error-0x80070003/"><u>Step-by-Step Guide to Correctly Handle Windows' Updater Issue (Error 0X80070003)</u></a></li>
+<li><a href="https://windows11.techidaily.com/sustained-prominence-of-win-calculator-display/"><u>Sustained Prominence of Win Calculator Display</u></a></li>
+<li><a href="https://windows11.techidaily.com/unblock-onedrive-windows-methods-to-reclaim-file-storage/"><u>Unblock OneDrive: Windows Methods to Reclaim File Storage</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-the-power-of-component-services-in-windows-11/"><u>Unlocking the Power of Component Services in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/wake-lock-woes-keyboard-mouse-in-win11/"><u>Wake Lock Woes: Keyboard, Mouse in Win11</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-adjusting-your-personalized-fn-keys/"><u>Windows 11: Adjusting Your Personalized FN Keys</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-paper-management-reboot-steps/"><u>Windows Paper Management Reboot Steps</u></a></li>
+</ul></div>
 

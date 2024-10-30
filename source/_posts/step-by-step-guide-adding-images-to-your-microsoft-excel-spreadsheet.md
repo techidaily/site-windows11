@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Adding Images to Your Microsoft Excel Spreadsheet"
-date: 2024-08-31T22:04:00.849Z
-updated: 2024-09-01T22:04:00.849Z
+date: 2024-10-27T16:30:42.278Z
+updated: 2024-10-30T16:23:59.878Z
 tags:
   - excel
 categories:
@@ -31,8 +31,12 @@ thumbnail: https://thmb.techidaily.com/6be6dd71eae640fe0dafe922a0c9856b8d53d7857
 Related: [How to Insert an Image in a Cell in Google Sheets](https://win-solutions.techidaily.com/whats-holding-up-wolcen-launch-insights-into-the-games-delayed-rollout/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##  How to Add a Picture in a Spreadsheet
 
  Because you can move an image around your spreadsheet where you want it, you don't have to select a cell before inserting it.
@@ -41,9 +45,6 @@ Related: [How to Insert an Image in a Cell in Google Sheets](https://win-solutio
 
 ![Select where to insert the picture from](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/InsertPictureFrom-ExcelInsertPicture.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The picture will pop into your sheet at its original size. From there, you can drag to move it to a new spot or drag an edge or corner to resize it.
 
 ![Resize picture in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Resize-ExcelInsertPicture.png) 
@@ -55,18 +56,14 @@ Related: [How to Insert an Image in a Cell in Google Sheets](https://win-solutio
 ![Picture Format tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/PictureFormatTab-ExcelInsertPicture.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Related: [How to Remove the Background From a Picture in Excel](https://win-dash.techidaily.com/efficient-printing-with-toshiba-free-driver-downloads-for-windows-users/) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Insert a Picture in a Cell
 
  As mentioned, Excel doesn't currently offer a feature to insert a picture directly into a cell. But you can still do it by resizing the image to fit the cell and then setting it to move with the cell.
@@ -79,27 +76,40 @@ Related: [How to Remove the Background From a Picture in Excel](https://win-dash
 
 ![Resize column to resize cell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/ResizeColumn-ExcelInsertPicture.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  You can snap the picture to the cell border by holding Alt as you drag the image.
 
  Once you have the picture and the cell sized as you want them, [right-click](https://desktop-recording.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/) the image and select "Format Picture."
 
 ![Select Format Picture](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FormatPicture-ExcelInsertPicture.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When the Format Picture sidebar opens, choose the Size & Properties tab and expand Properties. Mark the option for Move and Size with Cells.
 
 ![Mark Move and Size With Cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/MoveSizeWithCells-ExcelInsertPicture.png) 
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now if you [insert rows](https://some-tips.techidaily.com/in-2024-stream-side-stacking-pewdiepies-payday-portion/) or columns, [move the cell](https://instagram-clips.techidaily.com/new-in-2024-the-instagram-time-keeper-learning-to-rewind/), or [hide the row or column](https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-6-by-drfone-ios/), the image will move right along with its cell. Just keep in mind that if you resize the cell, the picture will resize with it.
 
 ![Inserted picture moves with cell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/MoveRowExcelInsertPicture.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to insert a picture as your sheet background instead, learn how to [print your Excel sheet with that background](https://article-posts.techidaily.com/new-the-essence-of-burst-in-gopro-filming-techniques/).
 
 <ins class="adsbygoogle"
@@ -108,8 +118,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +125,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-strategic-locations-to-upgrade-youtube-content/"><u>[Updated] 2024 Approved Strategic Locations to Upgrade YouTube Content</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-upgrade-your-view-enabling-youtubes-high-quality-av1-option/"><u>2024 Approved Upgrade Your View Enabling YouTube's High-Quality AV1 Option</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oppo-reno-9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-vivo-s17e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-samsung-galaxy-f54-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Samsung Galaxy F54 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/reversing-webp-formats-in-google-chrome-for-pc-folks/"><u>Reversing WebP Formats in Google Chrome, for PC Folks</u></a></li>
+<li><a href="https://windows11.techidaily.com/syncing-apples-calendars-to-your-windoze-1011-pc/"><u>Syncing Apple’s Calendars to Your Windoze 10/11 PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/trusting-websites-in-windows-11-a-quick-guide/"><u>Trusting Websites in Windows 11: A Quick Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-11-settings-wont-open-solved/"><u>Windows 11 Settings Won't Open ? [Solved]</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-evolution-the-remarkable-journey-of-7-ancient-traits-into-11/"><u>Windows Evolution: The Remarkable Journey of 7 Ancient Traits Into 11</u></a></li>
+</ul></div>
 

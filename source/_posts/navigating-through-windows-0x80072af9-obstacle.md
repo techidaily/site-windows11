@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Windows' 0X80072AF9 Obstacle
-date: 2024-08-27T16:09:21.343Z
-updated: 2024-08-28T16:09:21.343Z
+date: 2024-10-24T16:35:16.853Z
+updated: 2024-10-30T16:58:15.058Z
 tags:
   - windows10
   - windows11
@@ -44,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 
  While it sounds counterintuitive, given this kind of error, a Windows update is often the best way to resolve most issues with your PC. So, if this error does not affect your update service, download and install any pending updates. If your Windows does not update automatically, you can try [updating Windows manually](https://www.makeuseof.com/update-windows-manually/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Run the Windows Update Troubleshooter
 
  The Windows Update Troubleshooter helps users resolve problems with their PCs. This tool removes the need for professional help when issues like the 0x80072AF9 error code pop up.
@@ -59,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 
  Alternatively, open the **Settings** app by pressing **Win + I.** Select **Update and Security > Troubleshoot** and run the troubleshooter.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Check And Update Microsoft Defender
 
  If you encounter this error and the program does not update automatically, [manually updating Windows Defender](https://www.makeuseof.com/microsoft-defender-manually-update/#:~:text=Launch%20Windows%20Security%20through%20the,the%20latest%20updates%20from%20Microsoft.) is worth a shot. You can either do this via the web page or by using PowerShell.
@@ -67,14 +71,8 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 
 ![Screenshot of Windows Security Settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-windows-security-settings-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  After this, search for the latest security intelligence updates for Microsoft Defender on the [official Defender website](https://www.microsoft.com/en-us/wdsi/defenderupdates). This page gives you information that you can compare with what you received previously. If the versions do not match, proceed with the manual updates.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## 5\. Uninstall Any External Antivirus Software
 
  Third-party antivirus software usually includes firewall components and network protection features that may conflict with the Windows update process. These conflicts can disrupt your computer’s communication with the servers, leading to the error code.
@@ -82,13 +80,30 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
  As such, uninstalling the antivirus software eliminates the risk of these conflicts affecting your Windows updates. Usually, you can get rid of it using one of the [different ways to uninstall programs on Windows](https://www.makeuseof.com/windows-11-different-ways-to-uninstall-software/), but some antivirus apps will need a special uninstaller from the developer's website.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Run an SFC Scan
 
  Running the command prompt as an administrator allows you to resolve many system issues, including the 0x80072AF9 error. You can use it to run the System File Checker (SFC), which helps you check for corrupt system files and attempts to repair them.
 
  If you don't know how to do this, check out [how to run the System File Checker on Windows](https://www.makeuseof.com/system-file-checker-sfc-windows/) for a full list of instructions.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Clear Cache and Junk Files
 
@@ -101,8 +116,12 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
  After this, select **Clean up system files** to initiate the cleaning process.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 8\. Refresh Your Computer
 
  Refreshing your computer reinstalls your Windows while preserving your files and some settings. Before initiating the process, back up all important data to a device or cloud storage.
@@ -113,9 +132,6 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 
  The refresh duration depends on your computer’s speed and how much data the computer retains. When the refresh completes, you can reinstall all previous applications, including the latest version of Microsoft Defender.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Fixing the 0x80072AF9 Error Code Made Easy
 
  These solutions offer a range of options, from simple troubleshooting steps to more advanced techniques like refreshing your computer. In any case, selecting the most suitable approach depends on if there are any underlying issues that the simple techniques cannot bypass.
@@ -124,11 +140,30 @@ thumbnail: https://thmb.techidaily.com/5eb42b490725ed54872c9c11b47aee171fe6d7919
 
  In this article, we will delve into the intricacies of the 0x80072AF9 error and explain what causes it to pop up. We’ll also review some of the best solutions to prevent recurrences of this problem.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-clear-and-clean-photos-top-6-online-tools-to-remove-signatures/"><u>[New] Clear & Clean Photos – Top 6 Online Tools to Remove Signatures</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-a-comprehensible-breakdown-of-discord-spoilers/"><u>[New] In 2024, A Comprehensible Breakdown of Discord Spoilers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-deep-dive-into-windows-pc-hdr-capabilities/"><u>[Updated] 2024 Approved Deep Dive Into Windows PC HDR Capabilities</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unleash-creativity-capturing-quality-videos-on-logitech/"><u>[Updated] 2024 Approved Unleash Creativity Capturing Quality Videos on Logitech</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-employing-in-device-recording-for-screen-capture-across-huaweis-mate-and-p-series/"><u>[Updated] In 2024, Employing In-Device Recording for Screen Capture Across Huawei’s Mate and P Series</u></a></li>
+<li><a href="https://windows11.techidaily.com/arm-powered-windows-computers-get-official-chrome-support/"><u>ARM-Powered Windows Computers Get Official Chrome Support</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-budget-friendly-options-for-adobe-photoshop-and-illustrator-on-windows-systems/"><u>Best Budget-Friendly Options for Adobe Photoshop and Illustrator on Windows Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oneplus-nord-ce-3-lite-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your OnePlus Nord CE 3 Lite 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionize-your-marketing-strategy-using-cutting-edge-cookiebot-technology/"><u>Revolutionize Your Marketing Strategy Using Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210920214-9780719826894-spellcraft-for-hedge-witches/"><u>Spellcraft for Hedge Witches | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-guide-using-excels-fill-handler-for-quick-sequential-data-entry/"><u>Step-by-Step Guide: Using Excel's Fill Handler for Quick Sequential Data Entry</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-on-setting-fixed-columns-and-rows-in-microsoft-excel/"><u>Step-by-Step Tutorial on Setting Fixed Columns & Rows in Microsoft Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-tutorial-constructing-self-updating-overview-charts-using-excel/"><u>Step-by-Step Tutorial: Constructing Self-Updating Overview Charts Using Excel</u></a></li>
+<li><a href="https://windows11.techidaily.com/top-7-critical-microsoft-excel-tools-you-need-for-effective-budget-management/"><u>Top 7 Critical Microsoft Excel Tools You Need for Effective Budget Management</u></a></li>
+<li><a href="https://windows11.techidaily.com/transitioning-from-hours-to-fractions-a-step-by-step-guide-on-converting-time-to-decimal-format-in-excel/"><u>Transitioning From Hours to Fractions: A Step-by-Step Guide on Converting Time to Decimal Format in Excel</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-ai-market-with-openais-shap-explainer/"><u>Unraveling AI' Market with OpenAI's SHAP Explainer</u></a></li>
+</ul></div>
+

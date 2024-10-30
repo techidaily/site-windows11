@@ -1,7 +1,7 @@
 ---
 title: In-Depth Guide to Alternatives for Windows' LS Functionality
-date: 2024-10-22T17:02:08.704Z
-updated: 2024-10-24T17:32:46.933Z
+date: 2024-10-28T16:06:54.487Z
+updated: 2024-10-30T17:09:43.848Z
 tags:
   - windows10
   - windows11
@@ -32,16 +32,16 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
  By using the “ls” command, users can list the contents of the current working directory, similarly, you can also [switch directories using Command Prompt](http://www.makeuseof.com/how-to-change-directory-in-cmd/). On Windows, the usage of "ls" in Command Prompt is slightly different compared to Linux, but it can accomplish the same task.
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use the “ls” Command in Command Prompt on Windows 10 and 11
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 
 ![Use dir command to list files in Windows CMD](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/08/dir-command-cmd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To list files and directories using the equivalent of "ls" in Command Prompt on Windows 10 and 11:
 
 1. Click on the **Start** menu icon, search for **Command Prompt**, right-click the Best Match, and select **Run as administrator**.
@@ -61,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 3. Command Prompt will now list all of the files in the current working directory, along with their sizes and last modified date.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use "ls" Command in Windows PowerShell
@@ -76,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 ![powershell-ls](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/06/powershell-ls-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Follow these steps to view a file directory using the "**ls**" command on Windows using Windows PowerShell:
@@ -88,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 2. Navigate to your target directory using the **cd** command.
 3. Type the **ls** command and press enter to view all of the listed files and folders within your target directory.
 4. Similarly, you can even use the **dir** or **gci** command to view the contents of a folder.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A Handy Tool for Both Linux and Windows Users
 
@@ -114,19 +114,24 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-implementing-soft-decline-in-logic-pro-audio-for-2024/"><u>[New] Implementing Soft Decline in Logic Pro Audio for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-10-advanced-pixlr-editing-hacks-for-stunning-photos/"><u>[New] In 2024, 10 Advanced Pixlr Editing Hacks for Stunning Photos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-tackling-live-video-interruptions-on-social-media-fb-for-2024/"><u>[New] Tackling Live Video Interruptions on Social Media (FB) for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-making-simple-text-pop-in-videos-without-costs/"><u>[Updated] In 2024, Making Simple Text Pop in Videos without Costs</u></a></li>
-<li><a href="https://windows11.techidaily.com/dive-into-dark-mode-for-notepad-in-windows-11-os/"><u>Dive Into Dark Mode for Notepad in Windows 11 OS</u></a></li>
-<li><a href="https://windows11.techidaily.com/improving-startup-order-in-windows-11/"><u>Improving Startup Order in Windows 11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-reel-in-the-future-top-5-ps-vr-games-on-the-brink-of-launch/"><u>In 2024, Reel in the Future Top 5 PS VR Games on The Brink of Launch</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-into-visual-storytelling-xp-edition-installation/"><u>In 2024, Step Into Visual Storytelling XP Edition Installation</u></a></li>
-<li><a href="https://windows11.techidaily.com/leveraging-powershell-for-user-account-control/"><u>Leveraging PowerShell for User Account Control</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mp3-dvd-iso/"><u>MP3への変換: DVD-ISOファイルから簡単な手順</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-fix-for-genuine-adobe-error-message/"><u>Quick Fix for Genuine Adobe Error Message</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/showdown-between-the-two-giants-apple-tv-4k-versus-roku-ultra/"><u>Showdown Between the Two Giants: Apple TV 4K Versus Roku Ultra</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719348778059-troubleshooting-wwinplusp-glitch-on-pc-solutions-included/"><u>Troubleshooting: WWin+P Glitch on PC, Solutions Included!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-the-ultimate-action-cam-max-360-vs-hero-11-gopro-showdown-for-2024/"><u>Unveiling the Ultimate Action Cam Max 360 vs Hero 11 GoPro Showdown for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-6-budget-savvy-4k-large-screen-options/"><u>[Updated] Top 6 Budget-Savvy 4K Large Screen Options</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-innovative-monitor-choices-the-10-list-for-mac-users/"><u>2024 Approved Innovative Monitor Choices The #10 List For Mac Users</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-zte-axon-40-lite-frp-by-drfone-android/"><u>5 Quick Methods to Bypass ZTE Axon 40 Lite FRP</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-masterclass-building-and-programming-a-versatile-universal-remote/"><u>DIY Masterclass: Building & Programming a Versatile Universal Remote</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-honor-magic-5-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Honor Magic 5 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-icue-how-to-resolve-no-device-found-error/"><u>Fixing ICUE: How to Resolve 'No Device Found' Error</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-activate-stellar-data-recovery-for-iphone-xs-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Activate Stellar Data Recovery for iPhone XS Max | Stellar</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-jumpstart-your-qbittorrent-in-sluggish-state-windows/"><u>How to Jumpstart Your qBittorrent in Sluggish State (Windows)</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-rescue-your-windows-11-from-hypervisor-bsos-blues/"><u>How to Rescue Your Windows 11 From Hypervisor BSOS Blues</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-nokia-g310-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Nokia G310</u></a></li>
+<li><a href="https://windows11.techidaily.com/masterful-strategies-for-resolving-zerox-typing-flaw-in-windows-11/"><u>Masterful Strategies for Resolving Zerox Typing Flaw in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcome-highlighting-obstacles-in-windows-pdf-files/"><u>Overcome Highlighting Obstacles in Windows' PDF Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-tips-overcoming-windows-winerror-messages/"><u>Quick Tips: Overcoming Windows WinError Messages</u></a></li>
+<li><a href="https://windows11.techidaily.com/restore-bluetooth-connection-fixing-mice-on-windows-xpvista/"><u>Restore Bluetooth Connection: Fixing Mice on Windows XP/Vista</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/securing-speech-accuracy-techniques-for-perfect-translation-for-2024/"><u>Securing Speech Accuracy Techniques for Perfect Translation for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/smoothly-softening-endings-audio-fades-made-simple-with-adobe-premiere-pro-for-2024/"><u>Smoothly Softening Endings Audio Fades Made Simple with Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stay-ahead-with-the-newest-netgear-default-password-compilation-july-2024/"><u>Stay Ahead with the Newest Netgear Default Password Compilation (July 2024)</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-disabled-lsa-security-signal/"><u>Troubleshooting Windows' Disabled LSA Security Signal</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-uninstalling-made-easy-crafting-custom-shortcuts/"><u>Windows Uninstalling Made Easy: Crafting Custom Shortcuts</u></a></li>
 </ul></div>
 
