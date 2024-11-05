@@ -1,7 +1,7 @@
 ---
 title: Tackling Excess Window Tasks in Windows
-date: 2024-08-27T16:07:42.957Z
-updated: 2024-08-28T16:07:42.957Z
+date: 2024-11-03T09:39:33.065Z
+updated: 2024-11-05T08:28:27.796Z
 tags:
   - windows10
   - windows11
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 
  Background processes tend to accumulate over time. They’re a major contributor to the decline in your PC’s speed. Hence, it’s vital that you properly manage background processes and enable them only when they’re needed.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Background Processes You Should Never Kill
 
  Terminating Windows processes can cause programs not to function correctly or even [crash your Windows computer](https://www.makeuseof.com/top-reasons-why-your-computer-keeps-crashing/). These programs are indispensable to the smooth operation of your system, so you should never kill them unless you’re an expert.
@@ -41,8 +48,12 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
  Now that you know which background processes are important for your computer let’s discuss how to remove unwanted apps and clean up background processes.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Manually Kill Processes Using Task Manager
 
  You can free up your system resources by [force-closing any running applications](https://www.makeuseof.com/tag/how-to-kill-unresponsive-programs-without-the-task-manager/) that consume a lot of memory. Before using this method, ensure you’re not actively using the running application. In addition, remember not to end Microsoft processes.
@@ -51,18 +62,19 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 
 ![Manually Kill Processes on Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/OpenTaskManager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  Select the application you want to close and click the **End Task** button at the bottom-right of the menu. You can also right-click on the application and select **End Task** in the context menu that appears.
 
 ![Ending a Process on Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/EndTask.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The best kind of processes to disable using this method is system tray apps and services, such as Discord, Slack, and antivirus programs. These programs always run in the background and never close, even if you quit their main application window. Consequently, they contribute to the numerous background processes you often see in Task Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### 2\. Disable Startup Processes
 
  As the name implies, startup processes begin running as soon as you boot your Windows PC. These programs are often responsible for your computer’s long startup times and run in the background even when unused.
@@ -71,16 +83,8 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 
 ![Disabling Startup Processes on Task Manager](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/StartupProcesses.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  Alternatively, you can use the Disable button on the bottom-right of the menu. All Microsoft processes in this menu are safe to disable because they are non-critical for your PC. Furthermore, you can use [Autoruns to manage your startup programs](https://www.makeuseof.com/tag/manage-windows-startup-programs-autoruns/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Remove Third-Party Processes
 
  Third-party processes are enabled when you install external software on your computer. They don’t have a user interface and run entirely in the background. Much like startup processes, these programs run as you boot your PC.
@@ -92,6 +96,13 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  Within this program, look for the third-party service you want to disable, right-click on it, and select **properties**. This will open the properties menu for that service. Click on the **Startup type** drop-down and select the **Disabled** option. Hit **Apply**, then **OK** to close the window.
 
 ![Task Manager's Services Menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/ServicesMenu.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Free Up System Resources Using System Configuration
 
@@ -111,16 +122,23 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Consequently, the best way to eliminate system monitors is to identify and exclude them when installing their parent software. This is another reason you should be careful and equally aware of the dangers of third-party apps.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Prevent the Recurrence of Too Many Background Processes
 
  Many of the methods discussed earlier are only effective for one session of using your computer. They revert to their original state upon a fresh reboot. Therefore, to permanently prevent background processes from running on your PC, you can try the following methods.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Disable Apps from Running in the Background
 
  Most preinstalled Windows apps from the Microsoft Store run in the background. These apps don’t consume much memory or severely affect performance. Nevertheless, if you want to save as many system resources as possible, you can disable them from running in the background.
@@ -128,6 +146,13 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  Click on the start menu and select the **Settings** app. Open the **Privacy** menu and choose the **Background apps** section. From the resulting menu, you can prevent your PC from running all background apps or disable apps individually.
 
 ![Disabling Background Apps on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/BackgroundApps.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Uninstall Unwanted Apps
 
@@ -138,11 +163,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![Uninstalling Apps on Windows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/Uninstall.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Speed Up Your Windows PC and Axe Background Processes
 
  At the end of the day, disabling background processes is just one of the methods of improving your computer’s operating speed. It may not be enough to cause a significant increase. Hence, you need to explore other methods of boosting performance.
@@ -153,11 +179,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  These processes are a major culprit when investigating why your PC runs slow and has long loading times. Most of these processes don’t need to run all the time, if at all. To that end, we have compiled a list of methods of disabling background processes, so you can give your PC a significant speed boost.
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-experts-choice-top-16-no-cost-viewers/"><u>[Updated] 2024 Approved Expert's Choice Top 16 No-Cost Viewers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-unleash-growth-potential-simple-strategies-for-video-success-for-2024/"><u>[Updated] Unleash Growth Potential Simple Strategies for Video Success for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/boot-up-solutions-navigating-4-pct-routes/"><u>Boot-Up Solutions: Navigating 4 PCT Routes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/expert-tips-for-fixing-pubg-saving-issues-win/"><u>Expert Tips for Fixing PUBG Saving Issues (Win)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Realme 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-past-share-permission-hurdles-in-win-os/"><u>Navigate Past Share Permission Hurdles in Win OS</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-rpc-failure-essential-steps-for-win-users/"><u>Overcoming RPC Failure: Essential Steps for Win Users</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-no-sound-problems-on-your-windows-11-device/"><u>Quick Fixes for No Sound Problems on Your Windows 11 Device</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722956403096-seamless-installation-of-amd-vega-drivers-game-optimization-made-simple/"><u>Seamless Installation of AMD Vega Drivers - Game Optimization Made Simple</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/securely-clearing-out-icloud-photos-a-guide-to-preserve-your-iphone-snapshots/"><u>Securely Clearing Out iCloud Photos: A Guide to Preserve Your iPhone Snapshots</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-list-of-glitch-video-editors-free-paid-and-online-options-for-2024/"><u>Updated The Ultimate List of Glitch Video Editors Free, Paid, and Online Options for 2024</u></a></li>
+</ul></div>
+

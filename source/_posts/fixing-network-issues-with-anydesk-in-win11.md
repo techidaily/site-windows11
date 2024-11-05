@@ -1,7 +1,7 @@
 ---
 title: Fixing Network Issues with AnyDesk in WIn11
-date: 2024-08-27T16:06:05.376Z
-updated: 2024-08-28T16:06:05.376Z
+date: 2024-11-02T05:33:09.304Z
+updated: 2024-11-05T11:01:37.506Z
 tags:
   - windows10
   - windows11
@@ -42,18 +42,12 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
 ![Server Status page of AnyDesk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/server-status-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  Like any other online service, AnyDesk can experience server outages anytime. When the servers are down, you won't be able to use or open the app at all.
 
  You can check the AnyDesk server status by visiting its[AnyDesk status website](https://status.anydesk.com/) . There, check the network status of your continent.
 
  If the servers are down, there's nothing much you can do other than to patiently wait while AnyDesk fixes the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Allow AnyDesk to Communicate through Windows Defender Firewall
 
  At times, Windows Firewall can consider AnyDesk as a malicious app and stop it from opening on your computer. This usually happens when an app is blocked under the Firewall settings.
@@ -67,12 +61,24 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 5. Select the**Allow an app through Windows Firewall** option under**Windows Defender Firewall** section.  
 ![Allow an app through Firewall option in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/allow-an-app-through-firewall.jpg)
 6. Click the**Change settings** button.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. In the**Allowed apps and features** list, search for the**AskDesk** app.
 8. Check the**Private** and**Public** checkboxes for the AnyDesk app.  
 ![AnyDesk in Control Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/anydesk.jpg)
 9. Click**OK** to save the changes.
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That's it. Now restart your computer and check if the problem persists.
@@ -94,8 +100,12 @@ Here are the steps you need to follow:
 7. Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Try Networking Command Prompt Commands
 
  Windows allows you to run[various networking commands in the Command Prompt](https://www.makeuseof.com/tag/commands-manage-wireless-networks-windows/) . You should try running a few of them if the AnyDesk app is still not running on your computer. To do that, open the Search menu, type**CMD** in the search bar, and choose **Run as** **administrator** from the right pane. It'll open an elevated Command Prompt window.
@@ -118,9 +128,6 @@ That's it. Check if you're still facing the problem.
 
  If you're interested in these commands, you can read about them (and more) in our guide on the[CMD commands to manage wireless networks on Windows](https://www.makeuseof.com/tag/commands-manage-wireless-networks-windows/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Perform a Clean Boot
 
  AnyDesk app may not work on your computer if it faces any interference from a background program. The solution, in this case, is to[perform a clean boot on your computer](https://www.makeuseof.com/clean-boot-windows-11/) . It'll only load important drivers and applications and stop the rest. Doing this will ensure whether a background program is causing trouble with the AnyDesk app.
@@ -131,16 +138,17 @@ To perform a clean boot, follow the below steps:
 2. The System Configuration window will appear. Switch to the**Services** tab and then click on the**Hide all Microsoft services** checkbox.  
 ![Hide all Microsoft Services option in Clean Boot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/hide-all-microsoft-services.jpg)
 3. Click the**Disable all** button.
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Then, switch to the**Startup** tab and select the**Open Task** **Manager** option.
 5. The Task Manager will appear with the Startup program section. Find and right-click on all the startup applications and choose**Disable.**
 6. Click the**OK** button in the System Configuration window. Restart your computer and launch the AnyDesk app to check if the problem continues.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 7 . Update the AnyDesk App
 
  If you haven't updated the AnyDesk app in a while, you can face issues while launching it. As it turns out, older app versions can have bugs that impede their working and usability.
@@ -155,20 +163,24 @@ You can update the AnyDesk app by following the below instructions:
 
  AnyDesk will now automatically download any available update on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Enjoy Remote Work With AnyDesk
 
  Nothing worse than facing an interruption in work due to the malfunctioning of an app. Fortunately, if the AnyDesk app is not working on your Windows PC, you now know what's causing the problem and how to fix it.
 
  Meanwhile, you might be interested to know how use AnyDesk to connect remotely to a Windows PC.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -177,4 +189,26 @@ You can update the AnyDesk app by following the below instructions:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-basics-of-weaving-a-narrative-thread/"><u>[Updated] Basics of Weaving a Narrative Thread</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-cheerful-account-creation-handbook/"><u>[Updated] Cheerful Account Creation Handbook</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-demystifying-video-profit-on-youtube/"><u>[Updated] In 2024, Demystifying Video Profit on YouTube</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-top-tips-for-flawless-green-screen-cinematography/"><u>[Updated] Top Tips for Flawless Green-Screen Cinematography</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-from-start-up-to-success-how-to-register-a-professional-account-on-instagram/"><u>2024 Approved From Start-Up to Success How to Register a Professional Account on Instagram</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-honor-70-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/choosing-the-right-nearby-share-software-for-secure-collaboration/"><u>Choosing the Right Nearby Share Software for Secure Collaboration</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-system-launch-by-configuring-services-in-windows-11/"><u>Elevate Your System Launch by Configuring Services in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-develop-windows-custom-text-to-voice-software-using-whisper-and-ahk/"><u>How to Develop Window's Custom Text-To-Voice Software Using Whisper & AHK</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-social-media-stardom-in-a-nutshell-master-these-9-tactics-for-insta-glory/"><u>In 2024, Social Media Stardom in a Nutshell Master These 9 Tactics for Insta Glory</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigate-securely-enabling-controlled-folder-access-in-windows-11/"><u>Navigate Securely: Enabling Controlled Folder Access in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/safeguard-files-with-windows-controlled-access-feature/"><u>Safeguard Files with Window's Controlled Access Feature</u></a></li>
+<li><a href="https://windows11.techidaily.com/securing-reliable-remote-connections-in-windows-environment/"><u>Securing Reliable Remote Connections in Windows Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/steering-clear-of-disconnect-issues-in-nvidia-software/"><u>Steering Clear of Disconnect Issues in Nvidia Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-connection-delays-strategies-for-lowering-back-4-blood-ping-rates/"><u>Troubleshooting Connection Delays: Strategies for Lowering 'Back 4 Blood' Ping Rates</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-power-of-local-gpo-control-on-windows-11/"><u>Unlock the Power of Local GPO Control on Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-windows-10-keys-a-step-by-step-guide/"><u>Unlocking Windows 10 Keys: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-commands-to-easily-eliminate-files-and-folders-using-command-prompt/"><u>Windows 11 Commands to Easily Eliminate Files & Folders Using Command Prompt</u></a></li>
+</ul></div>
 
